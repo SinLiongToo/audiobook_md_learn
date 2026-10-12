@@ -54,73 +54,89 @@ Do it today. Overcome procrastination, improve productivity, and achieve more me
 
 #### Part 1, Overcoming Procrastination. You cannot escape the responsibility of tomorrow by evading it today.
 
-Abraham Lincoln. Do it today, not tomorrow. Every time I put off a decision, hit the snooze button, skipped the gym, or didn’t complete my tasks because I didn’t feel like it, I always had an explanation for my continual procrastination. I told myself I was tired.
+Abraham Lincoln. Do it today, not tomorrow. Every time. I put off a decision, hit the snooze button, skipped the gym, or didn’t complete my tasks because.
 
-Or that it could wait until tomorrow. Who cares if you put off something, right? Well, you should care. Because you’re the one who’s responsible for your life.
+I didn’t feel like it, I always had an explanation for my continual procrastination. I told myself. I was tired. Or that it could wait until tomorrow.
 
-Too often, we look at productivity tips, apps, or tools as the magic answer to our problems. But that also means we allow ourselves to blame external things for our lack of productivity. No, it’s not me, it’s my old laptop. It sucks, and I can’t work this way. The office is too loud.
+Who cares if you put off something, right? Well, you should care. Because you’re the one who’s responsible for your life. Too often, we look at productivity tips, apps, or tools as the magic answer to our problems.
 
-People keep calling and emailing me. I never have time. Battling procrastination is an inner battle. I have many examples of that in my personal life.
+But that also means we allow ourselves to blame external things for our lack of productivity. No, it’s not me, it’s my old laptop. It sucks, and. I can’t work this way.
 
-In 2013, I felt my career was stuck. Two years before that, I started a company with my dad. But after two years, I became restless because I wanted to do more and learn more. So I did some freelancing.
+The office is too loud. People keep calling and emailing me. I never have time. Battling procrastination is an inner battle.
 
-I built websites, did copywriting, content marketing, and some design work. But it didn’t take off. Why? I never did the uncomfortable work.
+I have many examples of that in my personal life. In 2013, I felt my career was stuck. Two years before that, I started a company with my dad. But after two years, I became restless because.
 
-Instead, I found a job to escape those hard tasks. We all escape at times. Building a business or career is hard. It requires you to do difficult, tedious, and unsatisfying tasks.
+I wanted to do more and learn more. So. I did some freelancing. I built websites, did copywriting, content marketing, and some design work.
 
-If you want more clients or work, no one is going to hand it to you. You have to hustle. Do content marketing, one-on-one sales, network, or whatever method you use to grow your business. And if you want to climb the corporate ladder, you have to form alliances, be strategic, outperform your targets, and be great at what you do.
+But it didn’t take off. Why? I never did the uncomfortable work. Instead, I found a job to escape those hard tasks.
 
-That’s what you should do, right? Most of us already know these things. Or, you will find out about it. There’s no such thing as a secret to succeeding at work.
+We all escape at times. Building a business or career is hard. It requires you to do difficult, tedious, and unsatisfying tasks. If you want more clients or work, no one is going to hand it to you.
 
-However, we prefer to escape work. And that’s at the core of procrastination to me. You know what you have to do, but you don’t do it. Instead, you open a news site and start reading useless news items. Or you browse your Instagram feed without liking one picture because you hate your life.
+You have to hustle. Do content marketing, one-on-one sales, network, or whatever method you use to grow your business. And if you want to climb the corporate ladder, you have to form alliances, be strategic, outperform your targets, and be great at what you do. That’s what you should do, right?
 
-Maybe you browse Zara, H&M, Net-A-Porter, Mr. Porter, or whatever online shop you like. That was, and to a degree still is, the story of my life.
+Most of us already know these things. Or, you will find out about it. There’s no such thing as a secret to succeeding at work.
 
-For example, I’m now working on a new book. I know what it’s about and I also have a title. But writing is also very difficult work to me. So I look for relief.
+However, we prefer to escape work. And that’s at the core of procrastination to me. You know what you have to do, but you don’t do it. Instead, you open a news site and start reading useless news items.
 
-I answer emails, read articles, go for coffee, do some online shopping, and work on recurring tasks to run my business. It’s not that I’m disorganized. It’s because I’m battling myself. Steven Pressfield calls this inner enemy resistance in his classic, The War of Art.
+Or you browse your Instagram feed without liking one picture because you hate your life. Maybe you browse Zara, H&M, Net-A-Porter, Mr. Porter, or whatever online shop you like. That was, and to a degree still is, the story of my life.
+
+For example, I’m now working on a new book. I know what it’s about and. I also have a title. But writing is also very difficult work to me.
+
+So. I look for relief. I answer emails, read articles, go for coffee, do some online shopping, and work on recurring tasks to run my business. It’s not that.
+
+I’m disorganized. It’s because. I’m battling myself. Steven Pressfield calls this inner enemy resistance in his classic, The War of Art.
 
 And this is what he says about it, resistance is always lying and always full of shit. Do it today, not tomorrow. I always have to keep reminding myself of that. When you procrastinate, you always want to do it tomorrow.
 
-I’m still like that. I think that’s hardwired into us. The difference between me now and three years ago is small but simple, I rely on a system to live a productive, happy, and purposeful life. Back then I had no idea how to get things done.
+I’m still like that. I think that’s hardwired into us. The difference between me now and three years ago is small but simple, I rely on a system to live a productive, happy, and purposeful life. Back then.
 
-I always gave up quickly, felt stuck, unhappy, and frustrated. But now, I’ve found a way to overcome my challenges. Here’s how I did it, I exercise my mental toughness every day. I used to neglect my brain.
+I had no idea how to get things done. I always gave up quickly, felt stuck, unhappy, and frustrated. But now, I’ve found a way to overcome my challenges. Here’s how.
 
-I was mentally weak, thought too much, and didn’t rely on myself. It wasn’t because I lacked skills. It was because I didn’t trust in my ability to figure things out. So I started reading about stoicism, pragmatism, and mindfulness, anything that helps you to control your thoughts and improve your mental toughness.
+I did it, I exercise my mental toughness every day. I used to neglect my brain. I was mentally weak, thought too much, and didn’t rely on myself. It wasn’t because.
 
-I don’t want to be a slave to my thoughts. I want the opposite.
+I lacked skills. It was because. I didn’t trust in my ability to figure things out. So.
+
+I started reading about stoicism, pragmatism, and mindfulness, anything that helps you to control your thoughts and improve your mental toughness. I don’t want to be a slave to my thoughts. I want the opposite.
 
 
 <a id="sec-000500"></a>
 ### ⏱️ [00:05:00 - 00:10:00]
 
-I exercise my body every day. When I don’t exercise, I’m restless, lack focus, energy, and confidence. By exercising my brain and body every day, I’m always war ready. I learned that overcoming procrastination starts before you fight the war.
+I exercise my body every day. When. I don’t exercise, I’m restless, lack focus, energy, and confidence. By exercising my brain and body every day, I’m always war ready.
 
-Soldiers don’t go to war untrained either, right? Be in great shape, mentally and physically. Always. I have a set of daily habits that help me to be in control of my life.
+I learned that overcoming procrastination starts before you fight the war. Soldiers don’t go to war untrained either, right? Be in great shape, mentally and physically. Always.
 
-I journal, read, set daily priorities, and don’t consume useless information. I also make sure I interact with my friends and family every day. Human contact is important. This keeps me grounded.
+I have a set of daily habits that help me to be in control of my life. I journal, read, set daily priorities, and don’t consume useless information. I also make sure. I interact with my friends and family every day.
 
-I don’t have high expectations of life. And I enjoy my days. I never look beyond that. I always have a list of small, but important, tasks that I have to complete.
+Human contact is important. This keeps me grounded. I don’t have high expectations of life. And.
 
-Let’s take my new book for example. I often want to escape difficult things like actually sitting down and writing. So I tell myself today is not a good day. But every time I think that, I open my list of small tasks and work on one of those things today.
+I enjoy my days. I never look beyond that. I always have a list of small, but important, tasks that. I have to complete.
 
-I study and practice the science of persuasion to get my message across. My mentor taught me, you can be the best writer and teacher in the world, but if no one knows about it, you can’t make an impact. The science of persuasion helps you to write better pitches, cover letters, website copy, emails, etc. Of course, it takes time to develop the foundation of this strategy. And there’s a lot more to it.
+Let’s take my new book for example. I often want to escape difficult things like actually sitting down and writing. So. I tell myself today is not a good day.
 
-But it’s not magic. However, it’s also not easy to live a productive life. And it’s definitely not about technology or hacks. It’s about developing a sustainable system to build your life, career, and business on.
+But every time. I think that, I open my list of small tasks and work on one of those things today. I study and practice the science of persuasion to get my message across. My mentor taught me, you can be the best writer and teacher in the world, but if no one knows about it, you can’t make an impact.
 
-What’s your system for living a productive life? Whatever it is, work on it today. Not tomorrow. What I do when I can’t focus.
+The science of persuasion helps you to write better pitches, cover letters, website copy, emails, etc. Of course, it takes time to develop the foundation of this strategy. And there’s a lot more to it. But it’s not magic.
 
-Do you struggle to finish your tasks? Are you always distracted by notifications, gossiping, or anything that’s random? In that case, you and I are alike. Because focusing on a single thing is one of the hardest things at work.
+However, it’s also not easy to live a productive life. And it’s definitely not about technology or hacks. It’s about developing a sustainable system to build your life, career, and business on. What’s your system for living a productive life?
 
-There’s always something that interrupts you, right? Another person. A call. A meeting.
+Whatever it is, work on it today. Not tomorrow. What. I do when.
 
-A false emergency. Your cat. A stranger’s cat. News about last night’s NBA game.
+I can’t focus. Do you struggle to finish your tasks? Are you always distracted by notifications, gossiping, or anything that’s random? In that case, you and.
 
-Sure, you can blame those things, but that’s weak. You and I both know that those things can’t interrupt you without your permission. That means every time you’re not focused, you’re giving someone or something permission to enter your mind. Scary, isn’t it?
+I are alike. Because focusing on a single thing is one of the hardest things at work. There’s always something that interrupts you, right? Another person.
 
-That’s how I look at interruptions. But I have to admit that I can’t maintain my focus all the time. Sometimes, I give in. It’s not good.
+A call. A meeting. A false emergency. Your cat.
 
-Your life doesn’t benefit from gossiping, looking at Instagram 439 times a day, watching 49 YouTube videos, and reading negative news articles. So, what can you do to improve your focus? Here are two things that I always do when I find myself not being able to focus on what matters. 1. Eliminate.
+A stranger’s cat. News about last night’s NBA game. Sure, you can blame those things, but that’s weak. You and.
+
+I both know that those things can’t interrupt you without your permission. That means every time you’re not focused, you’re giving someone or something permission to enter your mind. Scary, isn’t it? That’s how.
+
+I look at interruptions. But. I have to admit that. I can’t maintain my focus all the time.
+
+Sometimes, I give in. It’s not good. Your life doesn’t benefit from gossiping, looking at Instagram 439 times a day, watching 49 YouTube videos, and reading negative news articles. So, what can you do to improve your focus?
+
+Here are two things that. I always do when. I find myself not being able to focus on what matters. 1. Eliminate.
 
 Eliminate. Eliminate. Every day, we accumulate stuff. I’m not only talking about the stuff you’re buying like clothes, kitchen equipment, house decorations, toys, gadgets, or whatever.
 
@@ -130,81 +146,97 @@ For example, many people have told me to create more YouTube videos. My family, 
 
 Ideas about how you can improve your life, career, business, or relationships. We all do it. And there’s nothing wrong with that. It only becomes a problem if you don’t filter the input you get from people.
 
-So after I heard from people that I should make YouTube videos, I thought to myself, hey, I should make YouTube videos. I’ve been thinking a lot about that for the past six months. And I also invested a lot of time in creating a strategy. What should my videos be about?
+So after. I heard from people that. I should make YouTube videos, I thought to myself, hey, I should make YouTube videos. I’ve been thinking a lot about that for the past six months.
 
-Where should I record them?
+And. I also invested a lot of time in creating a strategy. What should my videos be about? Where should.
+
+I record them?
 
 
 <a id="sec-001000"></a>
 ### ⏱️ [00:10:00 - 00:15:07]
 
-How should I edit them? What music should I use? I’ve been working on it a lot. And I recently published a video as well.
+How should. I edit them? What music should. I use?
 
-The response was positive. There’s only one problem, it consumes too much of my time and attention. As a consequence, I can spend less time on writing, podcasting, and creating new courses. And those are exactly the things that I want to do.
+I’ve been working on it a lot. And. I recently published a video as well. The response was positive.
 
-I started a blog for a reason, I love to write, and I’m good at it. Therefore, the work is easier, compared to creating YouTube videos, which I’m not that good at. Plus, I thoroughly enjoy writing articles, books, and material for my online courses. When the work gets hard, I don’t mind.
+There’s only one problem, it consumes too much of my time and attention. As a consequence, I can spend less time on writing, podcasting, and creating new courses. And those are exactly the things that. I want to do.
 
-But when I was working on YouTube videos, I got frustrated a lot. And again, my focus and work suffered from it. What did I do when I lacked focus? I asked myself this question, what things should I eliminate to make my life so simple that it’s easy to focus?
+I started a blog for a reason, I love to write, and. I’m good at it.
 
-In this case, I stopped focusing on YouTube. Elimination is a key strategy that I use for many aspects of my life. We accumulate so much unnecessary baggage throughout the years that we consistently need to eliminate, ideas, projects, work objects and so forth. If you find yourself struggling to focus, try this strategy.
+Therefore, the work is easier, compared to creating YouTube videos, which. I’m not that good at. Plus, I thoroughly enjoy writing articles, books, and material for my online courses. When the work gets hard, I don’t mind.
 
-Make your life so simple that it’s a breeze to live. And let’s be honest here. Who wants to live a life that’s impossible? Life is already hard enough.
+But when. I was working on YouTube videos, I got frustrated a lot. And again, my focus and work suffered from it. What did.
 
-Don’t make it harder. 2. Think about past success. Thinking about past success and happiness stimulates the production of serotonin, a chemical nerve our cells produce. Serotonin is the key chemical that affects every part of your body.
+I do when. I lacked focus? I asked myself this question, what things should. I eliminate to make my life so simple that it’s easy to focus?
 
-Serotonin plays a huge role in our bodily functions. But it also helps to reduce depression, increase libido, stabilize mood, control sleep, and regulate anxiety. Serotonin also plays a massive role in our general well-being. But here’s why serotonin matters to your focus.
+In this case, I stopped focusing on YouTube. Elimination is a key strategy that. I use for many aspects of my life. We accumulate so much unnecessary baggage throughout the years that we consistently need to eliminate, ideas, projects, work objects and so forth.
 
-Serotonin also regulates delayed gratification. When your serotonin activity goes down, it can lead to a lack of focus on the long term. You are less likely to act on your plans. When you lose focus, there’s a big chance that your serotonin activity is low.
+If you find yourself struggling to focus, try this strategy. Make your life so simple that it’s a breeze to live. And let’s be honest here. Who wants to live a life that’s impossible?
 
-That’s why you are giving into short-term pleasures like going out, drinking, shopping, having sex, watching TV, or anything else that gives you short-term pleasure. To improve your focus, boost your serotonin activity. Research shows that exercise can do that. But something else that’s equally effective and a lot easier is a simple mind exercise.
+Life is already hard enough. Don’t make it harder. 2. Think about past success. Thinking about past success and happiness stimulates the production of serotonin, a chemical nerve our cells produce.
 
-All you need to do is remember positive events that happened in the past. Alex Korb, a neuroscientist at UCLA and the author of The Upward Spiral, explains why remembering positive events helps you to focus on what matters. All you need to do to increase serotonin levels is remember positive events that have happened in your life. This simple act increases serotonin production in the anterior cingulate cortex, which is a region just behind the prefrontal cortex that controls attention.
+Serotonin is the key chemical that affects every part of your body. Serotonin plays a huge role in our bodily functions. But it also helps to reduce depression, increase libido, stabilize mood, control sleep, and regulate anxiety. Serotonin also plays a massive role in our general well-being.
 
-When serotonin goes up, your focus goes up. Ultimately, that’s what you should do. I know that it sounds cheesy, but when something is wrong, you must fix it. When I can’t focus, the first thing I do is to acknowledge that I have a problem that needs a solution.
+But here’s why serotonin matters to your focus. Serotonin also regulates delayed gratification. When your serotonin activity goes down, it can lead to a lack of focus on the long term. You are less likely to act on your plans.
 
-Some people go through life without even acknowledging that they have problems. No, it’s not normal to check your phone every two minutes. No, it’s not normal to gossip all the time. No, it’s not normal to be bored. Focus on your life.
+When you lose focus, there’s a big chance that your serotonin activity is low. That’s why you are giving into short-term pleasures like going out, drinking, shopping, having sex, watching TV, or anything else that gives you short-term pleasure. To improve your focus, boost your serotonin activity. Research shows that exercise can do that.
 
-Think about what matters to you. Then, do those things and don’t get distracted, stay on the path. Good luck. How to beat procrastination, backed by science.
+But something else that’s equally effective and a lot easier is a simple mind exercise. All you need to do is remember positive events that happened in the past. Alex Korb, a neuroscientist at UCLA and the author of The Upward Spiral, explains why remembering positive events helps you to focus on what matters. All you need to do to increase serotonin levels is remember positive events that have happened in your life.
 
-Procrastination has been around since the start of modern civilization. Historical figures like Herodotus, Leonardo da Vinci, Pablo Picasso, Benjamin Franklin, Eleanor Roosevelt, and hundreds of others have talked about how procrastination is the enemy of results. One of my favorite quotes about procrastination is from Abraham Lincoln. You cannot escape the responsibility of tomorrow by evading it today.
+This simple act increases serotonin production in the anterior cingulate cortex, which is a region just behind the prefrontal cortex that controls attention. When serotonin goes up, your focus goes up. Ultimately, that’s what you should do. I know that it sounds cheesy, but when something is wrong, you must fix it.
 
-The funny thing about procrastination is that we all know that it’s harmful. Who actually likes to procrastination? procrastinate. No one enjoys doing that. Me neither.
+When. I can’t focus, the first thing. I do is to acknowledge that. I have a problem that needs a solution.
 
-And yet, procrastination was the
+Some people go through life without even acknowledging that they have problems. No, it’s not normal to check your phone every two minutes. No, it’s not normal to gossip all the time. No, it’s not normal to be bored.
+
+Focus on your life. Think about what matters to you. Then, do those things and don’t get distracted, stay on the path. Good luck.
+
+How to beat procrastination, backed by science. Procrastination has been around since the start of modern civilization. Historical figures like Herodotus, Leonardo da Vinci, Pablo Picasso, Benjamin Franklin, Eleanor Roosevelt, and hundreds of others have talked about how procrastination is the enemy of results. One of my favorite quotes about procrastination is from Abraham Lincoln.
+
+You cannot escape the responsibility of tomorrow by evading it today. The funny thing about procrastination is that we all know that it’s harmful. Who actually likes to procrastination? procrastinate. No one enjoys doing that.
+
+Me neither. And yet, procrastination was the
 
 
 <a id="sec-001507"></a>
 ### ⏱️ [00:15:07 - 00:20:08]
 
-story of my life. When I was in college, every semester, this would happen, in the beginning of each semester, I was the coolest dude on the planet. Relaxing, going out, enjoying myself. Big time.
+story of my life. When. I was in college, every semester, this would happen, in the beginning of each semester, I was the coolest dude on the planet. Relaxing, going out, enjoying myself.
 
-I experienced no stress whatsoever. However, about a week before my exams, I would freak out. Dude, why didn’t you begin earlier? I would tell myself.
+Big time. I experienced no stress whatsoever.
 
-And what would follow is an ugly sight of me, with a bunch of red bull cans, locked up in my room, freaking out while I was studying. And research shows exactly that, when you procrastinate, you might feel better on the short term, but you will suffer in the long term. It doesn’t really matter why you procrastinate. Some love the pressure of deadlines.
+However, about a week before my exams, I would freak out. Dude, why didn’t you begin earlier? I would tell myself. And what would follow is an ugly sight of me, with a bunch of red bull cans, locked up in my room, freaking out while.
+
+I was studying. And research shows exactly that, when you procrastinate, you might feel better on the short term, but you will suffer in the long term. It doesn’t really matter why you procrastinate. Some love the pressure of deadlines.
 
 Some are afraid to fail so they put it off until the very last moment. One thing that all procrastinators have in common is that procrastination has a price. This highly cited study, published in the American Psychological Society Journal, by Diane Tice and Roy Baumeister discusses the cost of procrastination. It is related to depression, irrational beliefs, low self-esteem, anxiety, stress.
 
 Procrastination is not innocent behavior. It’s a sign of poor self-regulation. Researchers even compare procrastination to alcohol and drug abuse. It’s serious.
 
-And I’ve experienced that for many years. The years after I got out of college were also a struggle in terms of starting and finishing work. Procrastination is a habit that just sneaks into your system. It’s not something you can shake easily.
+And. I’ve experienced that for many years. The years after. I got out of college were also a struggle in terms of starting and finishing work.
 
-Every time I had a business idea or wanted to start something, it went like this, every time I had an idea or a goal, I would start, but along the way, things would go wrong. I went from start to total chaos. Distractions, other ideas, other opportunities, failure, negative self-talk, etc., would get in the way. And the results are always the same, you never get anything done.
+Procrastination is a habit that just sneaks into your system. It’s not something you can shake easily. Every time. I had a business idea or wanted to start something, it went like this, every time.
+
+I had an idea or a goal, I would start, but along the way, things would go wrong. I went from start to total chaos. Distractions, other ideas, other opportunities, failure, negative self-talk, etc., would get in the way. And the results are always the same, you never get anything done.
 
 Beating Procrastination To me, the key finding from the study by Diane Tice and Roy Baumeister is this, the present evidence suggests that procrastinators enjoy themselves rather than working at assigned tasks until the rising pressure of imminent deadlines forces them to get to work. In this view, procrastination may derive from a lack of self-regulation and hence a dependency on externally imposed forces to motivate work. Self-regulation, self-control, will power, are all things that we overestimate. We think, yeah sure, I will write a novel in three weeks.
 
 In our minds, we’re all geniuses and mentally strong. But when the work comes, we cop out. If you’re a procrastinator, you can’t help but delay work. And that’s true for the small and big tasks.
 
-Sure, everybody fears to step outside of their comfort zone, that’s why we call them comfort zones. It takes courage to make a bold move. But it sure doesn’t take any courage to complete small tasks like paying bills, printing out something for your boss, doing taxes, etc. The truth is, procrastination has nothing to do with what you’re trying to do, small or big, it can wait until later. It can always wait, right?
+Sure, everybody fears to step outside of their comfort zone, that’s why we call them comfort zones. It takes courage to make a bold move. But it sure doesn’t take any courage to complete small tasks like paying bills, printing out something for your boss, doing taxes, etc.
 
-For me, completing tasks went like this, there comes a moment between the start and end of a task, I call it the slope of procrastination, when you give into one distraction. And that’s exactly the moment you give up being productive. You start working on a task, you’re excited, you’re focused, but then, after some time, you think, let’s read the news for a second. It always starts with just one thing.
+The truth is, procrastination has nothing to do with what you’re trying to do, small or big, it can wait until later. It can always wait, right? For me, completing tasks went like this, there comes a moment between the start and end of a task, I call it the slope of procrastination, when you give into one distraction. And that’s exactly the moment you give up being productive.
 
-Then, you think, I might as well watch one episode of Game of Thrones. Then, a video on YouTube, and then another one. Then, a little bit of Instagram browsing. And so forth.
+You start working on a task, you’re excited, you’re focused, but then, after some time, you think, let’s read the news for a second. It always starts with just one thing. Then, you think, I might as well watch one episode of Game of Thrones. Then, a video on YouTube, and then another one.
 
-It always ends with a bang, this is the last time I’m wasting my time. Yeah, right. Willpower doesn’t work. Systems do.
+Then, a little bit of Instagram browsing. And so forth. It always ends with a bang, this is the last time. I’m wasting my time.
 
-What you really need is a system for doing work. A lot of people shy away from routines, systems and frameworks because they want to have freedom. I’m sorry to disappoint you, freedom is your enemy. The fact is that, if you want to get things done, you need rules.
+Yeah, right. Willpower doesn’t work. Systems do. What you really need is a system for doing work.
 
-What are some things that research proved to be effective? Self-imposed deadlines. Accountability systems, commitment with friends or a coach. Working slash studying in intervals.
+A lot of people shy away from routines, systems and frameworks because they want to have freedom. I’m sorry to disappoint you, freedom is your enemy. The fact is that, if you want to get things done, you need rules. What are some things that research proved to be effective?
+
+Self-imposed deadlines. Accountability systems, commitment with friends or a coach. Working slash studying in intervals.
 
 
 <a id="sec-002008"></a>
@@ -218,27 +250,31 @@ If you don’t know. Make something up. If you know why you’re doing something
 
 So, instead of diving into work, take a step back, think about why you do what you do, and then rely on a system supports that. Not rocket science. Just science. How to stop wasting time and improve your personal effectiveness.
 
-The reason I research productivity is simple. I think that a productive life equals a happy life. Also, if you’re more productive than average people, you’ll advance faster in your career. You learn more.
+The reason. I research productivity is simple. I think that a productive life equals a happy life. Also, if you’re more productive than average people, you’ll advance faster in your career.
 
-You do more. And eventually are rewarded more. And when I talk about productivity, I talk about being effective. Because productivity doesn’t suggest that you get the right things done.
+You learn more. You do more. And eventually are rewarded more. And when.
 
-It just means you get a lot of stuff done. But that’s not what matters. Effectiveness, however, refers to getting the right things done. And if you want to do your job well, earn money, live a meaningful life, or learn skills, that is what matters the most.
+I talk about productivity, I talk about being effective. Because productivity doesn’t suggest that you get the right things done. It just means you get a lot of stuff done. But that’s not what matters.
 
-Otherwise, you just run around in circles. You might appear busy, but you won’t achieve anything meaningful.
+Effectiveness, however, refers to getting the right things done. And if you want to do your job well, earn money, live a meaningful life, or learn skills, that is what matters the most. Otherwise, you just run around in circles. You might appear busy, but you won’t achieve anything meaningful.
 
 In other words, it’s easy to do useless work. Work that doesn’t bring you closer to the outcomes you desire. Results matter the most. Practically, that means this, you might work for 50 hours a week, but if you don’t experience any growth personally, emotionally, financially, you’re not effective.
 
-People often ask me, where do I begin? To answer that question, I want to share one exercise that I teach in my productivity course, Procrastinate Zero. It’s an exercise that I picked up from Peter Drucker’s The Effective Executive. To me, Drucker is the first and best thinker when it comes to effectiveness for knowledge workers.
+People often ask me, where do. I begin? To answer that question, I want to share one exercise that. I teach in my productivity course, Procrastinate Zero.
 
-Many of the books, articles, productivity tools, and productivity apps you see these days are all in a way influenced by Drucker, who essentially invented the term personal effectiveness. What you will find next is a simple exercise from The Effective Executive, which I modified slightly to make it easier, that you can apply to become more effective yourself. I often hear people saying, I don’t know what’s wrong with me. I keep procrastinating.
+It’s an exercise that. I picked up from Peter Drucker’s The Effective Executive. To me, Drucker is the first and best thinker when it comes to effectiveness for knowledge workers. Many of the books, articles, productivity tools, and productivity apps you see these days are all in a way influenced by Drucker, who essentially invented the term personal effectiveness.
+
+What you will find next is a simple exercise from The Effective Executive, which. I modified slightly to make it easier, that you can apply to become more effective yourself. I often hear people saying, I don’t know what’s wrong with me. I keep procrastinating.
 
 My question is, do you know thy time? If you don’t measure your time, it’s tough to stop procrastination or improve your productivity. Because if you want to manage your time better, you have to know where it goes first. Your memory is not sufficient.
 
-If I asked you what you were doing exactly one week ago at this time, would you have an answer? There you go. How do you know your time? Keep an activity log.
+If. I asked you what you were doing exactly one week ago at this time, would you have an answer? There you go. How do you know your time?
 
-Before I even have a real session with clients, I often ask them to keep an activity log for two weeks. An activity log is exactly what you imagine, an hour by hour record of what you’re doing throughout the day. The specific method you use for your activity log doesn’t matter. The only thing that matters is that you want to keep a record for at least two weeks.
+Keep an activity log. Before. I even have a real session with clients, I often ask them to keep an activity log for two weeks. An activity log is exactly what you imagine, an hour by hour record of what you’re doing throughout the day.
 
-Preferably, you want a whole month of recorded activities. I just keep a pen and a notepad on my desk and every hour I write down the time and what I’ve done during the past hour. It’s important to keep the notebook visible, so you don’t forget. Step two, identify the nonproductive work.
+The specific method you use for your activity log doesn’t matter. The only thing that matters is that you want to keep a record for at least two weeks. Preferably, you want a whole month of recorded activities. I just keep a pen and a notepad on my desk and every hour.
+
+I write down the time and what. I’ve done during the past hour. It’s important to keep the notebook visible, so you don’t forget. Step two, identify the nonproductive work.
 
 This step is actually very simple. I just have one question for you, go through all the recurring activities in your log one by one. What would happen if you would stop doing them? If the answer is, all hell breaks loose.
 
@@ -264,37 +300,45 @@ Insert time, browse the news, Facebook, Instagram, and watched YouTube videos. B
 
 Great. I’m happy to see that you started. Now keep going for another two weeks. The habits of unproductive people you don’t want to copy.
 
-The reason I study productivity is that I’m an unproductive person. I truly am. I sleep too much. I talk too much.
+The reason. I study productivity is that. I’m an unproductive person. I truly am.
 
-I read too much. I listen to music all day. I watch movies. I buy gadgets that turn me into a zombie.
+I sleep too much. I talk too much. I read too much. I listen to music all day.
 
-If it weren’t for my productivity system, I’d get nothing done. I wouldn’t even write this article. But if you browse social media, all you see is super productive, healthy, and wealthy people. Is that really the case?
+I watch movies. I buy gadgets that turn me into a zombie. If it weren’t for my productivity system, I’d get nothing done. I wouldn’t even write this article.
 
-I don’t know. I just know this, you can’t be productive 24-7. And a big part of being productive is about getting rid of unproductive habits we all have. What follows is a list of 10 unproductive habits that I learn to do less or eliminate.
+But if you browse social media, all you see is super productive, healthy, and wealthy people. Is that really the case? I don’t know. I just know this, you can’t be productive 24-7.
 
-Do you have a few of these habits? Don’t worry, we’re all unproductive at times. But if you have five or more, it might be time to change. One thing is sure, no one wants to be an unproductive person.
+And a big part of being productive is about getting rid of unproductive habits we all have. What follows is a list of 10 unproductive habits that. I learn to do less or eliminate. Do you have a few of these habits?
 
-Working too much. Some days I can work 12 or 13 hours straight. I only take a break to exercise and eat. And I can keep that up for a few days.
+Don’t worry, we’re all unproductive at times. But if you have five or more, it might be time to change. One thing is sure, no one wants to be an unproductive person. Working too much.
 
-But after a few days, there always comes a crash. Big time. I struggle. I can’t get stuff done.
+Some days. I can work 12 or 13 hours straight. I only take a break to exercise and eat. And.
 
-I don’t even want to get stuff done. It’s not good. So I learn to be more calculated with how much I work. Hemingway tried to stop at the height of his day.
+I can keep that up for a few days. But after a few days, there always comes a crash. Big time. I struggle.
 
-That’s also my new goal. But that’s hard because we always want things fast, fast, quick, quick, now, now. Just know yourself, your work, and your deadlines. Don’t have a deadline.
+I can’t get stuff done. I don’t even want to get stuff done. It’s not good. So.
 
-Take it easy because you need that juice for stressful times. And most importantly, have patience. Worrying too much. What if I go broke?
+I learn to be more calculated with how much. I work. Hemingway tried to stop at the height of his day. That’s also my new goal.
 
-What if I lose my job? What if she doesn’t love me? What if I get cancer? What if this plane crashes?
+But that’s hard because we always want things fast, fast, quick, quick, now, now. Just know yourself, your work, and your deadlines. Don’t have a deadline. Take it easy because you need that juice for stressful times.
 
-What if I lose my sight? What if I? You got your head so far in the sand like an ostrich that you can’t see how self-absorbed that way of thinking is. It’s always about me, me, me.
+And most importantly, have patience. Worrying too much. What if. I go broke?
+
+What if. I lose my job? What if she doesn’t love me? What if.
+
+I get cancer? What if this plane crashes? What if. I lose my sight?
+
+What if. I? You got your head so far in the sand like an ostrich that you can’t see how self-absorbed that way of thinking is. It’s always about me, me, me.
 
 I know all about it. The above examples are all for my personal life. I used to be the king of the what if game. But here’s the thing, you’re not going to die right this second.
 
 Get over yourself. Stop worrying. And do something useful. I know, it’s not that simple, but still, you can learn how to stop worrying.
 
-Being stubborn. We deal with people all the time. Do you ever think, why should I listen to this guy? Or, what does she know?
+Being stubborn. We deal with people all the time. Do you ever think, why should. I listen to this guy?
 
-I don’t know. Maybe more than you do. We just don’t know until we listen to others. But if you always think you’re the best in the world, you never give people a chance.
+Or, what does she know? I don’t know. Maybe more than you do. We just don’t know until we listen to others.
+
+But if you always think you’re the best in the world, you never give people a chance.
 
 
 <a id="sec-003013"></a>
@@ -304,41 +348,51 @@ I think everyone is stubborn. Some are extreme, and some are just a little stubb
 
 But being stubborn in relationships is plain frustrating. That kind of stubbornness is not good. And it just so happens to be that life is based on relationships. And your career too.
 
-So when you refuse to work with others, you’re sabotaging everyone else that’s involved. Just remember that. I try to remind myself often that stubbornness can be bad. But sometimes it’s so bad I don’t even listen to myself.
+So when you refuse to work with others, you’re sabotaging everyone else that’s involved. Just remember that. I try to remind myself often that stubbornness can be bad. But sometimes it’s so bad.
 
-But I keep trying. Checking things. What are you doing? I was just checking Facebook.
+I don’t even listen to myself. But. I keep trying. Checking things.
 
-What are you checking? Email. TMZ. CNN.
+What are you doing? I was just checking Facebook. What are you checking? Email.
 
-NBA. NFL. Instagram. Twitter.
+TMZ. CNN. NBA. NFL.
 
-Snapchat. Checking is not a useful thing. It might be a verb, but it’s not a real action. When I started blogging, I always checked my stats for no reason.
+Instagram. Twitter. Snapchat. Checking is not a useful thing.
 
-Then I thought, what’s the outcome of checking? Nothing. You just consume information. I try to keep my checking at a minimum.
+It might be a verb, but it’s not a real action. When. I started blogging, I always checked my stats for no reason. Then.
 
-That’s why I deleted all news and social media apps on my phone. I don’t even have email on my phone. Otherwise, I check it all the time. I don’t want that.
+I thought, what’s the outcome of checking? Nothing. You just consume information. I try to keep my checking at a minimum.
 
-I only want to check my email when I have time to answer emails. Checking is a habit that you can never fully eliminate. I still follow the NBA because I like it. Pick only one or two, checking, vices you actually like.
+That’s why. I deleted all news and social media apps on my phone. I don’t even have email on my phone. Otherwise, I check it all the time.
 
-Eliminate the rest. You’re not missing anything anyway. Escaping life. Until two years ago, every time I’d get stressed out, I said stuff like, I need a drink.
+I don’t want that. I only want to check my email when. I have time to answer emails. Checking is a habit that you can never fully eliminate.
 
-Or, I have to go on a vacation. And when I had issues at work or in my relationship that became too much to handle, I preferred to pretend they didn’t exist. Sometimes I would take some time to talk about it. But there are always deeper issues at play.
+I still follow the NBA because. I like it. Pick only one or two, checking, vices you actually like. Eliminate the rest.
 
-Back then I didn’t like my job, relationship, and the city I lived in. I basically didn’t like my life. Did I change it? Nope.
+You’re not missing anything anyway. Escaping life. Until two years ago, every time. I’d get stressed out, I said stuff like, I need a drink.
 
-I always try to escape my issues. Escaping problems gives you some stamina to face your shitty life again. But you and I both know that problems never go away until you grab them by the root and extinguish them. I learned that the hard way.
+Or, I have to go on a vacation. And when. I had issues at work or in my relationship that became too much to handle, I preferred to pretend they didn’t exist. Sometimes.
 
-These days I deal with problems before they become big problems. Saying yes. Most people are afraid to say no. Maybe you don’t want to let people down. Maybe you are uncomfortable with the word no. I don’t know. Doesn’t matter, really.
+I would take some time to talk about it. But there are always deeper issues at play. Back then. I didn’t like my job, relationship, and the city.
 
-What matters is this, if you keep saying yes, you’re living someone else’s life. Think about it. Deep down, we all know that it’s true. We’re not even in control of our own time.
+I lived in. I basically didn’t like my life. Did. I change it?
 
-Want to be in full control of your life? Say no to a million things and yes to a few things that matter. Not writing things down. Yeah, yeah, you have the memory of an elephant.
+Nope. I always try to escape my issues. Escaping problems gives you some stamina to face your shitty life again. But you and.
 
-Or you’re so smart that you remember everything, right? Wrong. Not writing down your thoughts, ideas, tasks, etc., is stupid. Why?
+I both know that problems never go away until you grab them by the root and extinguish them. I learned that the hard way. These days. I deal with problems before they become big problems.
 
-Because you’re wasting a lot of brain power when you rely on your memory. When you write everything down, you can use your brain power for other things. Like solving problems. That’s actually useful and advances your career. If you journal, that’s even better.
+Saying yes. Most people are afraid to say no. Maybe you don’t want to let people down. Maybe you are uncomfortable with the word no.
 
-But I’ve found that not everyone likes the idea of journaling. So let’s just call it, writing things down. What did you write down while you’re reading this article? Being hard on yourself.
+I don’t know. Doesn’t matter, really. What matters is this, if you keep saying yes, you’re living someone else’s life. Think about it.
+
+Deep down, we all know that it’s true. We’re not even in control of our own time. Want to be in full control of your life? Say no to a million things and yes to a few things that matter.
+
+Not writing things down. Yeah, yeah, you have the memory of an elephant. Or you’re so smart that you remember everything, right? Wrong.
+
+Not writing down your thoughts, ideas, tasks, etc., is stupid. Why? Because you’re wasting a lot of brain power when you rely on your memory. When you write everything down, you can use your brain power for other things.
+
+Like solving problems. That’s actually useful and advances your career. If you journal, that’s even better. But.
+
+I’ve found that not everyone likes the idea of journaling. So let’s just call it, writing things down. What did you write down while you’re reading this article? Being hard on yourself.
 
 I suck. No, you don’t. Why? You got out of bed this morning, right?
 
@@ -360,31 +414,39 @@ Do it from home or go places. It doesn’t matter. Just learn new things. You’
 
 Hating rules. I saved the best for last. Most people hate rules, right? It starts when we’re kids.
 
-Why do I have to do this? Why do I have to do that? Because it’s better for you. That’s why.
+Why do. I have to do this? Why do. I have to do that?
 
-You weird kid, but when we’re adults, we don’t have to follow the rules, other than actual rules set by the government, but you get what I’m talking about. Rules are dumb. That’s what I always believed. I thought I was a maverick, but I was an idiot.
+Because it’s better for you. That’s why. You weird kid, but when we’re adults, we don’t have to follow the rules, other than actual rules set by the government, but you get what. I’m talking about.
 
-Rules are actually the best thing about life. Without rules, we would be hot dog eating pigs right now. And when it comes to productivity, the first rule is, have rules. If you want to live without rules, go ahead.
+Rules are dumb. That’s what. I always believed. I thought.
 
-But life is not fight club. Rules actually help us to solve problems and get the most out of life. Josh Weltman, an advertising creative director for 25 plus years, and the co-producer of Mad Men, put it well in his book, seducing strangers, solving a problem requires a weird combination of freedom and constraint. Whenever I hear, just have fun with it or think outside the box, I know from experience that things are about to turn into a colossal waste of time.
+I was a maverick, but. I was an idiot. Rules are actually the best thing about life. Without rules, we would be hot dog eating pigs right now.
 
-Good news, you make up the rules. For example, one of my personal rules is this, never complain. Another one is read and exercise every day and close the day every evening by setting your next day’s priorities. When you combine all your productivity rules, you have a system.
+And when it comes to productivity, the first rule is, have rules. If you want to live without rules, go ahead. But life is not fight club. Rules actually help us to solve problems and get the most out of life.
 
-Voila, and the system changes everything. I rely on my system to work smarter, better, happier, and effectively. It took me years to figure out that a system is a good thing and a few more years to create one, but it was worth it. Because now, I get to be a productive person.
+Josh Weltman, an advertising creative director for 25 plus years, and the co-producer of Mad Men, put it well in his book, seducing strangers, solving a problem requires a weird combination of freedom and constraint. Whenever. I hear, just have fun with it or think outside the box, I know from experience that things are about to turn into a colossal waste of time. Good news, you make up the rules.
 
-Not bad for an unproductive person, huh? This 30-minute evening ritual will help you to kick life in the ass. After a busy day, it’s quite challenging to wind down and get ready for a good night’s sleep. Too often, I find myself working until late.
+For example, one of my personal rules is this, never complain. Another one is read and exercise every day and close the day every evening by setting your next day’s priorities. When you combine all your productivity rules, you have a system. Voila, and the system changes everything.
 
-And sometimes I might find myself reading or watching a TV show. And when you’re ready to go to sleep, you can’t. Your mind is buzzing with thoughts you don’t want at that time of day. It’s no secret that a lot of people have difficulties with sleeping.
+I rely on my system to work smarter, better, happier, and effectively. It took me years to figure out that a system is a good thing and a few more years to create one, but it was worth it. Because now, I get to be a productive person. Not bad for an unproductive person, huh?
+
+This 30-minute evening ritual will help you to kick life in the ass. After a busy day, it’s quite challenging to wind down and get ready for a good night’s sleep. Too often, I find myself working until late. And sometimes.
+
+I might find myself reading or watching a TV show. And when you’re ready to go to sleep, you can’t. Your mind is buzzing with thoughts you don’t want at that time of day. It’s no secret that a lot of people have difficulties with sleeping.
 
 According to the National Sleep Foundation, 45% of Americans say that poor or insufficient sleep affected their daily activities at least once in the past seven days. Why is the evening so important? Well, you might have a perfect morning ritual, a fully planned calendar, and the intention to crush your day, but if you lack the energy, you’re not doing anything productive. During the past six months, I’ve experimented a lot with evening and morning rituals.
 
-What I’ve found is that a morning ritual is easy to implement in your life. But they’re also easy to quit. When we wake up tired, we often fall back on our not helpful habits. End result.
+What. I’ve found is that a morning ritual is easy to implement in your life. But they’re also easy to quit. When we wake up tired, we often fall back on our not helpful habits.
 
-You lose, and life wins. You end up not focused, are of control, agitated, and just not happy overall. That’s why I’ve created an evening ritual that helps me to get ready for some well-deserved rest. We all know it, get seven to nine hours of sleep.
+End result. You lose, and life wins. You end up not focused, are of control, agitated, and just not happy overall. That’s why.
 
-But too often life gets in the way and we don’t follow common sense. But with the following evening ritual, I’ve found a good way to bring more consistency in my evenings, and therefore, my life. From minute zero to minute 10, close the day. Every evening I take 10 minutes to journal about my day.
+I’ve created an evening ritual that helps me to get ready for some well-deserved rest. We all know it, get seven to nine hours of sleep. But too often life gets in the way and we don’t follow common sense. But with the following evening ritual, I’ve found a good way to bring more consistency in my evenings, and therefore, my life.
 
-In a few sentences, I write about what I’ve accomplished, what I’ve learned, and anything that’s worth remembering. That simple exercise helps me to, one, remember what I did, sounds stupid, but we forget most things we do. Two, review my progress and see whether I’m doing all the things that I should be doing, like reading, working out, spending time with my family, writing, talking to people I work with.
+From minute zero to minute 10, close the day. Every evening. I take 10 minutes to journal about my day. In a few sentences, I write about what.
+
+I’ve accomplished, what. I’ve learned, and anything that’s worth remembering. That simple exercise helps me to, one, remember what. I did, sounds stupid, but we forget most things we do.
+
+Two, review my progress and see whether. I’m doing all the things that. I should be doing, like reading, working out, spending time with my family, writing, talking to people. I work with.
 
 
 <a id="sec-004016"></a>
@@ -398,35 +460,43 @@ From minute 10 to minute 20, review tomorrow’s calendar. This is essential. Wh
 
 Deadlines, maybe? What do you have to get done? When are you working out? Do you have any pressing items on your agenda?
 
-When are you dealing with them? This simple exercise takes away almost all stress and anxiety I have. Most anxiety comes from unsolved problems. And often, we worry about problems that are not real. But when you say to yourself, I’m going to work on problem X from 10 a.m. until 11 a.m., you can relax.
+When are you dealing with them? This simple exercise takes away almost all stress and anxiety. I have. Most anxiety comes from unsolved problems.
 
-Also, there’s nothing you can do late in the evening. Just go to bed, already. Leave the problem solving for tomorrow when your brain is fresh. From minute 20 to minute 25, prepare your outfit.
+And often, we worry about problems that are not real. But when you say to yourself, I’m going to work on problem X from 10 a.m. until 11 a.m., you can relax. Also, there’s nothing you can do late in the evening. Just go to bed, already.
 
-Oh, you’re so vain. No, I don’t want to unnecessarily stress my brain. Look, your brain is a muscle. And after a certain amount of decisions, your brain runs out of juice.
+Leave the problem solving for tomorrow when your brain is fresh. From minute 20 to minute 25, prepare your outfit. Oh, you’re so vain. No, I don’t want to unnecessarily stress my brain.
 
-And that means the quality of your decisions will decrease. That’s called decision fatigue. But I’m not worried about that in the evening because I’m headed to bed so my brain can recharge. A few extra decisions won’t hurt.
+Look, your brain is a muscle. And after a certain amount of decisions, your brain runs out of juice. And that means the quality of your decisions will decrease. That’s called decision fatigue.
 
-However, those few extra decisions will hurt your productivity if you think about your outfit in the morning. So why not prepare your outfit so you don’t have to use your precious brain power in the morning? From minute 25 till minute 30, visualize. Because I’ve gone through my calendar earlier, I know what my day will look like.
+But. I’m not worried about that in the evening because. I’m headed to bed so my brain can recharge. A few extra decisions won’t hurt.
 
-Next up, visualize the next day in detail. Charles Duhigg talks about this exercise in his new book, Smarter, Faster, Better. Duhigg writes about how the most productive people visualize their days with more specificity than the rest of us. I prefer to do this exercise in the evening because when I wake up in the morning, I still remember what I’ve visualized.
+However, those few extra decisions will hurt your productivity if you think about your outfit in the morning. So why not prepare your outfit so you don’t have to use your precious brain power in the morning? From minute 25 till minute 30, visualize. Because.
 
-The result is, and no more snoozing. You won’t believe how much I would hit the snooze button in the past.
+I’ve gone through my calendar earlier, I know what my day will look like. Next up, visualize the next day in detail. Charles Duhigg talks about this exercise in his new book, Smarter, Faster, Better. Duhigg writes about how the most productive people visualize their days with more specificity than the rest of us.
 
-In fact, I would snooze so often that the alarm on my phone would just give up. The hardcore snoozers know what I’m talking about. Hit snooze so often and you win. The opposite is true.
+I prefer to do this exercise in the evening because when. I wake up in the morning, I still remember what. I’ve visualized. The result is, and no more snoozing.
 
-Snoozing is for losers. But I’m not losing anymore because of this 30-minute evening ritual. As a result, I go to sleep without stress, and I wake up with focus. I exactly know what I have to do to turn the day into a success.
+You won’t believe how much. I would hit the snooze button in the past.
 
-And that’s what I want to achieve with this ritual. 30 minutes of your evening sounds like a pretty good ROI if you want to improve your life. So give it a try tonight and find out for yourself. But don’t be surprised if you wake up tomorrow morning ready to kick life in the ass. Why disconnecting from the internet improves your focus.
+In fact, I would snooze so often that the alarm on my phone would just give up. The hardcore snoozers know what. I’m talking about. Hit snooze so often and you win.
 
-Modern life is pretty good. You’re always connected to the internet, inside your home, and outside of it. With your smartphone, you have the world at your fingertips. Sounds great, right?
+The opposite is true. Snoozing is for losers. But. I’m not losing anymore because of this 30-minute evening ritual.
 
-Not. Most people don’t use technology but are rather used BY technology. Apps, games, videos, articles, commercials, TV shows, are all designed to keep your attention. So without you knowing it, you waste countless of hours every single week.
+As a result, I go to sleep without stress, and. I wake up with focus. I exactly know what. I have to do to turn the day into a success.
 
-Your attention is all over the place, but not at the right place. To be everywhere is to be nowhere. Seneca. Why do you think Netflix automatically starts the next episode in three, two, one seconds?
+And that’s what. I want to achieve with this ritual. 30 minutes of your evening sounds like a pretty good ROI if you want to improve your life. So give it a try tonight and find out for yourself. But don’t be surprised if you wake up tomorrow morning ready to kick life in the ass.
 
-When that happens, you think, screw it, let’s watch another episode. The same goes for YouTube. Why do you think their suggestions are so… good. They keep you locked in.
+Why disconnecting from the internet improves your focus. Modern life is pretty good. You’re always connected to the internet, inside your home, and outside of it. With your smartphone, you have the world at your fingertips.
 
-And this applies to all content. There is always a, next, video, episode, article, game, round, movie, you name it. Funnily enough, most people who read these type of articles know that a lack of focus is bad. And in recent
+Sounds great, right? Not. Most people don’t use technology but are rather used BY technology. Apps, games, videos, articles, commercials, TV shows, are all designed to keep your attention.
+
+So without you knowing it, you waste countless of hours every single week. Your attention is all over the place, but not at the right place. To be everywhere is to be nowhere. Seneca.
+
+Why do you think Netflix automatically starts the next episode in three, two, one seconds? When that happens, you think, screw it, let’s watch another episode. The same goes for YouTube. Why do you think their suggestions are so… good.
+
+They keep you locked in. And this applies to all content. There is always a, next, video, episode, article, game, round, movie, you name it. Funnily enough, most people who read these type of articles know that a lack of focus is bad.
+
+And in recent
 
 
 <a id="sec-004520"></a>
@@ -436,25 +506,29 @@ years, a large number of research papers and books have appeared about the harmf
 
 And it’s not your fault. Most technology taps into your lizard brain and locks you in, it turns you into a consumer. So don’t even think about resisting the internet or technology. I bet you’ve tried it in the past.
 
-I’m never going to browse mindlessly for hours. Yeah, right. What will work? Recently, I wrote about how I beat procrastination by creating a system.
+I’m never going to browse mindlessly for hours. Yeah, right. What will work? Recently, I wrote about how.
 
-Well, one of the most critical parts of that system is this, disconnect from the internet. And there’s only one reason to do that, too much of anything is a bad thing. Even good things. Too much exercise.
+I beat procrastination by creating a system. Well, one of the most critical parts of that system is this, disconnect from the internet. And there’s only one reason to do that, too much of anything is a bad thing. Even good things.
 
-You will get overtrained. Too much love. You will smother people. Too much work.
+Too much exercise. You will get overtrained. Too much love. You will smother people.
 
-You will burn out. Too much food. You will get fat. Too much water.
+Too much work. You will burn out. Too much food. You will get fat.
 
-You will die. So why do you consume so much internet? I asked myself that question two years ago. I had no answer.
+Too much water. You will die. So why do you consume so much internet? I asked myself that question two years ago.
 
-So I thought, I do everything else in moderation, why not the internet? Soon I found out that there’s no moderation with internet usage. It’s like an all you can eat buffet. You’re already full, but you still keep eating.
+I had no answer. So. I thought, I do everything else in moderation, why not the internet? Soon.
 
-And after you’ve stuffed yourself, the regret will eat you up alive. And that’s the same with internet usage. It’s so tempting and satisfying, and available everywhere. So you go all out with it.
+I found out that there’s no moderation with internet usage. It’s like an all you can eat buffet. You’re already full, but you still keep eating. And after you’ve stuffed yourself, the regret will eat you up alive.
 
-YouTube, WhatsApp, Facebook, Snapchat, etc. I’m all about eliminating distracting stuff. However, I also don’t want to live my life as a recluse. So I had to find a middle ground that worked. I found that a simple tweak in my attitude towards the internet did the trick.
+And that’s the same with internet usage. It’s so tempting and satisfying, and available everywhere. So you go all out with it. YouTube, WhatsApp, Facebook, Snapchat, etc.
 
-I went from always connected to always disconnected. In practice, it works like this, on my phone, wifi and mobile data are standard off. I only turn it on when I need it. On my laptop, I use an app called self control during the times I work, try focus me for windows.
+I’m all about eliminating distracting stuff. However, I also don’t want to live my life as a recluse. So. I had to find a middle ground that worked.
 
-The app blocks distracting sites. The advantage is that my apps like Evernote, day one, office 365 remain connected so I can save my work in the cloud. Always connected isn’t a good thing for your focus and productivity. It’s the same as going to the gym.
+I found that a simple tweak in my attitude towards the internet did the trick. I went from always connected to always disconnected. In practice, it works like this, on my phone, wifi and mobile data are standard off. I only turn it on when.
+
+I need it. On my laptop, I use an app called self control during the times. I work, try focus me for windows. The app blocks distracting sites.
+
+The advantage is that my apps like Evernote, day one, office 365 remain connected so. I can save my work in the cloud. Always connected isn’t a good thing for your focus and productivity. It’s the same as going to the gym.
 
 Or having dinner. Or having a romantic evening with your partner. You don’t do those things for 24 hours a day. You do them for 30 minutes, an hour, or a few hours.
 
@@ -462,49 +536,61 @@ Too much of those things is simply not effective. Being disconnected from the in
 
 That brings a sense of calmness to your life. I also get more out of my days, I achieve more things than ever, feel less distracted, and have more time to spend on the things that make me happy. At the end of the day, the internet is just a tool.
 
-However, some of us think it’s everything. But I’m pretty confident that, in years from now, I will not look back and regret that I didn’t spend enough time on the internet. Can you imagine? You’re on your deathbed, and you’re saying this to your family, I’m glad I watched so many fail compilations on YouTube.
+However, some of us think it’s everything. But. I’m pretty confident that, in years from now, I will not look back and regret that. I didn’t spend enough time on the internet.
 
-Nope. You’ll probably look back and reflect on the time you spent with your family or friends. Or the memories you made when you were traveling. Or how much you enjoyed your work.
+Can you imagine? You’re on your deathbed, and you’re saying this to your family, I’m glad. I watched so many fail compilations on YouTube. Nope.
 
-So cut the crap with the internet. It’s not giving you anything but frustration. And after reading this article, disconnect. You will get some withdrawal symptoms like grabbing your phone 100 times.
+You’ll probably look back and reflect on the time you spent with your family or friends. Or the memories you made when you were traveling. Or how much you enjoyed your work. So cut the crap with the internet.
 
-Or hitting the F key on your keyboard, for Facebook, all the time. But I’ll promise you this, disconnecting will help you do more. And that’s what life is about. The single biggest reason most people procrastinate in life.
+It’s not giving you anything but frustration. And after reading this article, disconnect. You will get some withdrawal symptoms like grabbing your phone 100 times. Or hitting the F key on your keyboard, for Facebook, all the time.
 
-For most of my life, I’ve been a habitual procrastinator. When I had my first summer job at age 16, I did everything not to work. I had an inside sales job at a telecom company,
+But. I’ll promise you this, disconnecting will help you do more. And that’s what life is about. The single biggest reason most people procrastinate in life.
+
+For most of my life, I’ve been a habitual procrastinator. When. I had my first summer job at age 16, I did everything not to work. I had an inside sales job at a telecom company,
 
 
 <a id="sec-005022"></a>
 ### ⏱️ [00:50:22 - 00:55:24]
 
-and I had to sell mobile contracts to clients. The company had software that would automatically call the next client when you finished a call. So you would be on the phone constantly, but I found a way around that process. After every call, you had to log your activity on the system.
+and. I had to sell mobile contracts to clients. The company had software that would automatically call the next client when you finished a call. So you would be on the phone constantly, but.
 
-Things like, client is interested, but has to discuss it with her grandson. Yes, I sold to a lot of elderly people, not proud of it. As a professional procrastinator, I took a lot of time to craft a lengthy summary of the call. When my manager asked me about my loan number of calls per day, I told him, if one of my teammates calls the client, they know she had to talk to her grandson.
+I found a way around that process. After every call, you had to log your activity on the system. Things like, client is interested, but has to discuss it with her grandson. Yes, I sold to a lot of elderly people, not proud of it.
 
-That’s valuable information, right? I did everything to put off the next call. I also procrastinated during my years at university, pursuing a master’s degree in marketing. I always waited until the last moment to finish an assignment or study for an exam.
+As a professional procrastinator, I took a lot of time to craft a lengthy summary of the call. When my manager asked me about my loan number of calls per day, I told him, if one of my teammates calls the client, they know she had to talk to her grandson. That’s valuable information, right? I did everything to put off the next call.
 
-I even procrastinated when I worked as a freelance marketing consultant after I graduated. I’m doing research. This time, I told myself. I didn’t understand why I always put off things to the last moment.
+I also procrastinated during my years at university, pursuing a master’s degree in marketing. I always waited until the last moment to finish an assignment or study for an exam. I even procrastinated when. I worked as a freelance marketing consultant after.
 
-I thought it was a part of my character. And many of my friends were similar, they would say, who wants to work? Let’s have some beer. This is what I believed, work is something you don’t like to do, you just do it because you need money and status.
+I graduated. I’m doing research. This time, I told myself. I didn’t understand why.
 
-Sadly, many of us believe that is the truth. Fortunately, my procrastination behavior changed this year. It wasn’t some kind of magical productivity hack or software that turned me into a productivity machine. I’m more productive and focused than ever.
+I always put off things to the last moment. I thought it was a part of my character. And many of my friends were similar, they would say, who wants to work? Let’s have some beer.
 
-And I’m more satisfied with my work than in the past. Do you want to know the secret? I’m finally doing something that I love. That’s it.
+This is what. I believed, work is something you don’t like to do, you just do it because you need money and status. Sadly, many of us believe that is the truth. Fortunately, my procrastination behavior changed this year.
 
-Work is not bad at all, I love to write, that’s why I do it seven days a week. I didn’t like my previous jobs, businesses that I started, and I sure didn’t like to study for classes I had zero interest in. Previously, I thought that you procrastinate because you have poor time management skills. That’s why I’ve tried every productivity hack, system or software, but they are all useless when you compare it to doing meaningful work.
+It wasn’t some kind of magical productivity hack or software that turned me into a productivity machine. I’m more productive and focused than ever. And. I’m more satisfied with my work than in the past.
 
-Do you want to get stuff done? Do stuff that matters? Productivity hacks get a lot of attention. And very often, people present with time management tips as a solution.
+Do you want to know the secret? I’m finally doing something that. I love. That’s it.
 
-In a way, time management reminds me of speed reading. Many of us want to speed read to finish more books in less time. But why? I enjoy reading, I don’t want to spend less, but more time on reading.
+Work is not bad at all, I love to write, that’s why. I do it seven days a week. I didn’t like my previous jobs, businesses that. I started, and.
 
-It seems like we want to skip the actual work and only focus on the outcome. It’s like Ryan Holiday, author of The Obstacle is the way, says in his article about speed reading, if you find yourself wanting to speed up the reading process on a particular book, you may want to ask yourself, is this book any good? Life is too short to read books you don’t enjoy reading. I think you can apply Ryan’s quote to your life and career as well, life is too short to do work you don’t enjoy.
+I sure didn’t like to study for classes. I had zero interest in. Previously, I thought that you procrastinate because you have poor time management skills. That’s why.
 
-No matter how many productivity hacks you try, you won’t produce more if you’re not passionate about what you do. If you find yourself regularly procrastinating, you may want to ask yourself, am I passionate about my work? If the answer is no, you know what you have to do, find something that you are so passionate about that you don’t want to procrastinate for one second. We all know that time is finite, so why not behave accordingly?
+I’ve tried every productivity hack, system or software, but they are all useless when you compare it to doing meaningful work. Do you want to get stuff done? Do stuff that matters? Productivity hacks get a lot of attention.
 
-If you know that you have limited time on this planet, why waste it? We all sorely complain of the shortness of time, and yet have much more than we know what to do with. Our lives are either spent in doing nothing at all, or in doing nothing to the purpose, or in doing nothing that we ought to do. We are always complaining that our days are few, and acting as though there would be no end of them.
+And very often, people present with time management tips as a solution. In a way, time management reminds me of speed reading. Many of us want to speed read to finish more books in less time. But why?
 
-Lucius and Nia Seneca I’m a believer of, do what you’re passionate about, but I’m also a believer of, do what you’re good at. The sweet spot is right in the middle, a job that you love, and are also good at. Ramit Sethi, author of I Will Teach You To Be Rich, says that work and passion go both ways. He says that when we get really good at our job, we often become passionate about it.
+I enjoy reading, I don’t want to spend less, but more time on reading. It seems like we want to skip the actual work and only focus on the outcome. It’s like Ryan Holiday, author of The Obstacle is the way, says in his article about speed reading, if you find yourself wanting to speed up the reading process on a particular book, you may want to ask yourself, is this book any good? Life is too short to read books you don’t enjoy reading.
 
-I’m not saying that productivity tips are useless. In fact, I’ve written about productivity tips that improve my output. What I am saying is that the best solution for procrastination is doing meaningful work.
+I think you can apply Ryan’s quote to your life and career as well, life is too short to do work you don’t enjoy. No matter how many productivity hacks you try, you won’t produce more if you’re not passionate about what you do. If you find yourself regularly procrastinating, you may want to ask yourself, am. I passionate about my work?
+
+If the answer is no, you know what you have to do, find something that you are so passionate about that you don’t want to procrastinate for one second. We all know that time is finite, so why not behave accordingly? If you know that you have limited time on this planet, why waste it? We all sorely complain of the shortness of time, and yet have much more than we know what to do with.
+
+Our lives are either spent in doing nothing at all, or in doing nothing to the purpose, or in doing nothing that we ought to do. We are always complaining that our days are few, and acting as though there would be no end of them. Lucius and Nia Seneca. I’m a believer of, do what you’re passionate about, but.
+
+I’m also a believer of, do what you’re good at. The sweet spot is right in the middle, a job that you love, and are also good at. Ramit Sethi, author of. I Will Teach.
+
+You To Be Rich, says that work and passion go both ways. He says that when we get really good at our job, we often become passionate about it. I’m not saying that productivity tips are useless.
+
+In fact, I’ve written about productivity tips that improve my output. What. I am saying is that the best solution for procrastination is doing meaningful work.
 
 
 <a id="sec-005524"></a>
@@ -512,135 +598,155 @@ I’m not saying that productivity tips are useless. In fact, I’ve written abo
 
 And procrastination can be a sign that you’re doing something that’s not meaningful. Don’t let procrastination become a habit. After all, the worst procrastination is putting off your dreams and goals. If you’re waiting for the right time, Benjamin Franklin says, you may delay, but time will not.
 
-If you don’t listen to me, listen to him. This ancient habit will maximize your focus. Ever since I was little, I worried about many things. My favorite topics were money, health, and my future.
+If you don’t listen to me, listen to him. This ancient habit will maximize your focus. Ever since. I was little, I worried about many things.
 
-What’s your favorite topic to worry about? And don’t tell me you never worry or fear nothing. Because if you have zero fear, that means you’re a robot. Everyone spends time thinking about things that will never happen.
+My favorite topics were money, health, and my future. What’s your favorite topic to worry about? And don’t tell me you never worry or fear nothing. Because if you have zero fear, that means you’re a robot.
 
-Because that’s what fear is. Michel de Montaigne, the 16th century philosopher, said it best. My life has been full of terrible misfortunes, most of which never happened. We all know that fear is meant to save us from trouble.
+Everyone spends time thinking about things that will never happen. Because that’s what fear is. Michel de Montaigne, the 16th century philosopher, said it best. My life has been full of terrible misfortunes, most of which never happened.
 
-But in the modern world, that’s simply not true anymore. These days, fear is only something that occupies your mind. Our thoughts are so cluttered with fear, worry, and stress, that we can’t focus on our goals. In my personal experience, living a full life has nothing to do with the resources or opportunities you have.
+We all know that fear is meant to save us from trouble. But in the modern world, that’s simply not true anymore. These days, fear is only something that occupies your mind. Our thoughts are so cluttered with fear, worry, and stress, that we can’t focus on our goals.
 
-It’s about knowing what you want, and also knowing how you can get it. That’s why you need to be focused every day. Without work, no goal will ever be achieved. That’s why I want to share one ancient habit that stood the test of time.
+In my personal experience, living a full life has nothing to do with the resources or opportunities you have. It’s about knowing what you want, and also knowing how you can get it. That’s why you need to be focused every day. Without work, no goal will ever be achieved.
 
-This habit has proved itself over and over again. The power of having a mantra. I’m not a spiritual person. I believe in coincidence and luck.
+That’s why. I want to share one ancient habit that stood the test of time. This habit has proved itself over and over again. The power of having a mantra.
 
-I also don’t believe in some kind of spiritual energy that we can’t see. I’m a pretty skeptical person. But I’m also a pragmatist. I believe in what works.
+I’m not a spiritual person. I believe in coincidence and luck. I also don’t believe in some kind of spiritual energy that we can’t see. I’m a pretty skeptical person.
 
-That’s why I never challenge religion or spirituality, because it works for millions of people. In fact, I study religion, cultures, and different beliefs that people have. And one thing that I’ve learned from religion is how useful a mantra is. Most of us have heard about it, but few of us have won or, let alone, actively practice it.
+But. I’m also a pragmatist. I believe in what works. That’s why.
 
-What is a mantra, anyway? A good definition I found online is this. A mantra is a sacred utterance, a numinous sound, a syllable, word or phonemes, or group of words in Sanskrit believed by practitioners to have psychological and spiritual powers. Mantras exist, in some shape or form, for centuries.
+I never challenge religion or spirituality, because it works for millions of people. In fact, I study religion, cultures, and different beliefs that people have. And one thing that. I’ve learned from religion is how useful a mantra is.
 
-You can find them in Hinduism, Buddhism, Taoism, and Christianity. I’ve learned that people from all over the world use a mantra to overcome fear and improve their focus. It doesn’t matter who came up with it first. What matters is that it works.
+Most of us have heard about it, but few of us have won or, let alone, actively practice it. What is a mantra, anyway? A good definition. I found online is this.
 
-My favorite example of someone who applies it is Floyd Mayweather. Yes. The boxer. Mayweather might be a controversial figure that people either love or hate.
+A mantra is a sacred utterance, a numinous sound, a syllable, word or phonemes, or group of words in Sanskrit believed by practitioners to have psychological and spiritual powers. Mantras exist, in some shape or form, for centuries. You can find them in Hinduism, Buddhism, Taoism, and Christianity. I’ve learned that people from all over the world use a mantra to overcome fear and improve their focus.
 
-But he’s also considered as the best boxer of all time. Not one of the best. The best. He has a record of 50 to 0.
+It doesn’t matter who came up with it first. What matters is that it works. My favorite example of someone who applies it is Floyd Mayweather. Yes.
 
-And he never even came close to losing. His recipe for success. A lot of talent, that’s for sure. But, the man also has a crazy work ethic.
+The boxer. Mayweather might be a controversial figure that people either love or hate. But he’s also considered as the best boxer of all time. Not one of the best.
 
-And he’s been training ever since he was a baby. I’ve been following him for years. I don’t care about his cars or money. I watch his training videos to see whether I can learn something that I can apply to my own life.
+The best. He has a record of 50 to 0. And he never even came close to losing. His recipe for success.
+
+A lot of talent, that’s for sure. But, the man also has a crazy work ethic. And he’s been training ever since he was a baby. I’ve been following him for years.
+
+I don’t care about his cars or money. I watch his training videos to see whether. I can learn something that. I can apply to my own life.
 
 A person with those kinds of results must do things right. You can’t deny that. A few years ago, I noticed something that seemed like a promotion technique at first. Mayweather often repeated the same phrase.
 
 Hard work. Dedication. It sounds like a lame company slogan. He says that while he works on a heavy bag, speedball, pads, and even while he’s running.
 
-Constantly, he repeats the same words. Sometimes in a different order. And it wasn’t until I learned about Mayweather’s mantra. that I started using my own. I always thought it was something that yoga hipsters used to become zen.
+Constantly, he repeats the same words. Sometimes in a different order. And it wasn’t until. I learned about Mayweather’s mantra. that.
 
-Do you see me sitting on the floor with crossed legs and saying, HMMM, HMMM, HMMM. Let’s go. That’s my mantra. I’ve trained myself to say it every morning when I wake up.
+I started using my own. I always thought it was something that yoga hipsters used to become zen. Do you see me sitting on the floor with crossed legs and saying, HMMM, HMMM, HMMM. Let’s go.
 
-It really energizes me. I wake
+That’s my mantra. I’ve trained myself to say it every morning when. I wake up. It really energizes me.
+
+I wake
 
 
 <a id="sec-010024"></a>
 ### ⏱️ [01:00:24 - 01:05:27]
 
-up and immediately say, Let’s go. I’ve experimented with different mantras. In particular, ones that you repeat more often. But I’ve found that it’s not my thing.
+up and immediately say, Let’s go. I’ve experimented with different mantras. In particular, ones that you repeat more often. But.
 
-I’m a pretty direct and no BS person. I prefer something short and powerful. Not only do I say it when I wake up, I also say it before I start working. Or when I want to start my workout.
+I’ve found that it’s not my thing. I’m a pretty direct and no BS person. I prefer something short and powerful. Not only do.
 
-Let’s go. Give it a try. It works really well for me because it changes my state of mind to action. Especially when I feel afraid or powerless in life, I try to force a change in state.
+I say it when. I wake up, I also say it before. I start working. Or when.
 
-You know that platitude, the only way out is through. I believe that’s true. And if you want to get through things, you need action. After you start using your mantra, you get into a worry-free zone.
+I want to start my workout. Let’s go. Give it a try. It works really well for me because it changes my state of mind to action.
 
-This is one of the most effective things I’ve found in all of personal growth. I highly recommend a mantra for everyone. All you need to do is pick a slogan that helps you to get focused, and that changes your state. Give it a try now.
+Especially when. I feel afraid or powerless in life, I try to force a change in state. You know that platitude, the only way out is through. I believe that’s true.
 
-But I don’t believe it. Pessimists say, just saying three words won’t help you with real problems. To those people I say, what will help? Drowning in your own misery. Being paralyzed.
+And if you want to get through things, you need action. After you start using your mantra, you get into a worry-free zone. This is one of the most effective things. I’ve found in all of personal growth.
 
-Never taking action. Complaining. Feeling bitter about life. Never.
+I highly recommend a mantra for everyone. All you need to do is pick a slogan that helps you to get focused, and that changes your state. Give it a try now. But.
 
-We all know that life’s too short to spend worrying about things that will never happen. And if something bad does happen to you, do something about it. How to focus better, manage your attention, not your time. How many minutes of undisturbed work do you get done on an average day? 10, 20, maybe 50 minutes.
+I don’t believe it. Pessimists say, just saying three words won’t help you with real problems. To those people. I say, what will help?
 
-If you think that sounds low, just examine your life. Most of us can’t go undisturbed for more than 10 minutes. We’re also connected that it becomes impossible to find time to focus on yourself and your work. Some of us get hundreds of notifications and messages per day.
+Drowning in your own misery. Being paralyzed. Never taking action. Complaining.
 
-You find yourself answering a WhatsApp message here, an email there, talk to a friend, and then talk to a colleague on Slack. Most people’s days consist of answering to notifications in a way you’re held captive by others. So no wonder that many of us ask, how do I focus better? When new subscribers join my newsletter, I always ask them about their challenges.
+Feeling bitter about life. Never. We all know that life’s too short to spend worrying about things that will never happen. And if something bad does happen to you, do something about it.
 
-And the majority who answers mentioned something that’s related to focus. In fact, when I did a survey on my newsletter last year, 28% said that their biggest challenge is related to focus and time management. Here are just two examples of what readers mentioned to me. My number one challenge in life and career is trying to stay focused on my tasks.
+How to focus better, manage your attention, not your time. How many minutes of undisturbed work do you get done on an average day? 10, 20, maybe 50 minutes. If you think that sounds low, just examine your life. Most of us can’t go undisturbed for more than 10 minutes.
 
-My mind always starts drifting to trivial things when I’m at work. My biggest challenge is, how can we define what to really focus on? These questions have been on my mind in the past too. And you know what I found.
+We’re also connected that it becomes impossible to find time to focus on yourself and your work. Some of us get hundreds of notifications and messages per day. You find yourself answering a WhatsApp message here, an email there, talk to a friend, and then talk to a colleague on Slack. Most people’s days consist of answering to notifications in a way you’re held captive by others.
 
-Distractions are not some 21st century first world problems. Distractions have always been a part of life. It has nothing to do with your smartphone or YouTube, online shopping, Instagram, or any other thing you want to blame for your lack of focus. It’s human nature. We love to be busy.
+So no wonder that many of us ask, how do. I focus better? When new subscribers join my newsletter, I always ask them about their challenges. And the majority who answers mentioned something that’s related to focus.
 
-Socrates, one of the founders of Western philosophy, warned us 2,400 years ago. Beware the barrenness of a busy life. Busyness is not a good thing. Because busyness and distractions go hand in hand.
+In fact, when. I did a survey on my newsletter last year, 28% said that their biggest challenge is related to focus and time management. Here are just two examples of what readers mentioned to me. My number one challenge in life and career is trying to stay focused on my tasks.
 
-Want no distractions. Move to the woods but that’s not how life works. Plus, modern day life is too good. Seneca, one of the most famous Stoic philosophers, said this in letters from a Stoic.
+My mind always starts drifting to trivial things when. I’m at work. My biggest challenge is, how can we define what to really focus on? These questions have been on my mind in the past too.
 
-There is never a time when new distraction will not show up. There are always distractions. So you better train yourself to manage your attention. Not your time.
+And you know what. I found. Distractions are not some 21st century first world problems. Distractions have always been a part of life.
 
-Because that’s the biggest mistake people make. We falsely believe that we can manage time. But time can’t be managed. The only thing you control is your attention.
+It has nothing to do with your smartphone or YouTube, online shopping, Instagram, or any other thing you want to blame for your lack of focus. It’s human nature. We love to be busy. Socrates, one of the founders of Western philosophy, warned us 2,400 years ago.
 
-And remember, focus determines the quality of your life. No focus means no control of your attention. And no control means frustration. We all know what frustration leads to.
+Beware the barrenness of a busy life. Busyness is not a good thing. Because busyness and distractions go hand in hand. Want no distractions.
 
-Start managing your attention. Not your time.
+Move to the woods but that’s not how life works. Plus, modern day life is too good. Seneca, one of the most famous Stoic philosophers, said this in letters from a Stoic. There is never a time when new distraction will not show up.
 
-#### Part 2, improving productivity. It’s like a lot of things, said the Smith. Do the least part of it wrong and ye just as well to do it all wrong.
+There are always distractions. So you better train yourself to manage your attention. Not your time. Because that’s the biggest mistake people make.
 
-Cormac McCarthy.
+We falsely believe that we can manage time. But time can’t be managed. The only thing you control is your attention. And remember, focus determines the quality of your life.
+
+No focus means no control of your attention. And no control means frustration. We all know what frustration leads to. Start managing your attention.
+
+Not your time.
+
+#### Part 2, improving productivity. It’s like a lot of things, said the Smith. Do the least part of it wrong and ye just as well to do it all wrong. Cormac McCarthy.
 
 
 <a id="sec-010527"></a>
 ### ⏱️ [01:05:27 - 01:10:31]
 
-Smartphones harm your productivity more than you think. Believe me, that thing you’re using to read this article is not your friend. And even if you’re reading this on your laptop of PC, there’s one thing I want to ask you, how important is your device to you? I was shocked when I read a weird statistic a while back.
+Smartphones harm your productivity more than you think. Believe me, that thing you’re using to read this article is not your friend. And even if you’re reading this on your laptop of PC, there’s one thing. I want to ask you, how important is your device to you?
 
-An experiment, which was conducted by the universities of Würzburg and Nottingham Trent, revealed that 37.4% of the participants rated their phone as more or equally important in relation to their close friends. Weirdos. Seriously, what’s wrong with people? 29.4% of those weirdos even said their smartphone was equally important, or more important, to them than their parents. Or is there something wrong with me?
+I was shocked when. I read a weird statistic a while back. An experiment, which was conducted by the universities of Würzburg and Nottingham Trent, revealed that 37.4% of the participants rated their phone as more or equally important in relation to their close friends. Weirdos.
 
-Am I just an old-school person who likes to read books all day and only has a few close friends and family members that he actually values? Look, I’m not joking around. Smartphones are dangerous. Not because they may cause stress, anxiety, and even depression, but because they change your behavior.
+Seriously, what’s wrong with people? 29.4% of those weirdos even said their smartphone was equally important, or more important, to them than their parents. Or is there something wrong with me? Am. I just an old-school person who likes to read books all day and only has a few close friends and family members that he actually values?
 
-It seems like we can’t focus on one thing for more than five seconds. Why? Well, we can’t because our smartphone is constantly going off. Not because people are calling you, it seems like people are afraid of calling these days, but that’s another topic, but because you’re constantly getting notifications about things that don’t matter.
+Look, I’m not joking around. Smartphones are dangerous. Not because they may cause stress, anxiety, and even depression, but because they change your behavior. It seems like we can’t focus on one thing for more than five seconds.
 
-Change your smartphone behavior. The same study I mentioned above also found something else. Researchers asked participants to perform a concentration test under four different circumstances, with their smartphone in their pocket, at their desk, locked in a drawer and removed from the room completely. The results are significant, test results were lowest when the smartphone was on the desk, but with every additional layer of distance between participants and their smartphones, test performance increased.
+Why? Well, we can’t because our smartphone is constantly going off. Not because people are calling you, it seems like people are afraid of calling these days, but that’s another topic, but because you’re constantly getting notifications about things that don’t matter. Change your smartphone behavior.
 
-Overall, test results were 26% higher when phones were removed from the room. Sure, it’s just a study. And you don’t have to believe everything you read. But this is something I can personally attest.
+The same study. I mentioned above also found something else. Researchers asked participants to perform a concentration test under four different circumstances, with their smartphone in their pocket, at their desk, locked in a drawer and removed from the room completely. The results are significant, test results were lowest when the smartphone was on the desk, but with every additional layer of distance between participants and their smartphones, test performance increased.
 
-For the past two years, I’ve significantly changed my smartphone behavior. Namely, I have turned off all my notifications except messages and calls. I’ve removed myself from all whatsapp groups except for one with my closest friends. I’ve removed all news apps, if something important happens, you’ll hear it from the people around you.
+Overall, test results were 26% higher when phones were removed from the room. Sure, it’s just a study. And you don’t have to believe everything you read. But this is something.
 
-I only consume music, paid journalism, articles from specific authors I follow, podcasts, YouTube videos, mostly to learn, but also for entertainment because I’m not a robot, books, and audiobooks on it. For the rest, I use my phone to call, text, and to take notes, photos, and videos also, I’ve stopped immediately responding to notifications. That doesn’t mean I don’t value other people who try to reach me. It means that I refuse to be a slave to my phone.
+I can personally attest. For the past two years, I’ve significantly changed my smartphone behavior. Namely, I have turned off all my notifications except messages and calls. I’ve removed myself from all whatsapp groups except for one with my closest friends.
 
-I control my phone. For most of us, it’s the other way around. In the past, Facebook, Instagram, Apple, Google, etc., all controlled my mind. Obviously, they still do because the only way to escape those idiots is to cut yourself off and run to the woods.
+I’ve removed all news apps, if something important happens, you’ll hear it from the people around you. I only consume music, paid journalism, articles from specific authors. I follow, podcasts, YouTube videos, mostly to learn, but also for entertainment because. I’m not a robot, books, and audiobooks on it.
 
-That’s not realistic. I like my phone. But I don’t need it. The results have been great since I started using my smartphone in the above way.
+For the rest, I use my phone to call, text, and to take notes, photos, and videos also, I’ve stopped immediately responding to notifications. That doesn’t mean. I don’t value other people who try to reach me. It means that.
 
-During the past two years, I got more things done than ever. And, I still have time to work out daily, hang out with my friends, have dinner with my family, and spend time with my lady friend. You and I both have the same 24 hours at our disposal. The difference maker is how you spend those 1,440 minutes each day.
+I refuse to be a slave to my phone. I control my phone. For most of us, it’s the other way around. In the past, Facebook, Instagram, Apple, Google, etc., all controlled my mind.
 
-To be honest, I think I still have much to improve about my effectiveness. No one reaches peak productivity. Nor is it important to be the most productive person in the world. How you want to spend your time is your business.
+Obviously, they still do because the only way to escape those idiots is to cut yourself off and run to the woods. That’s not realistic. I like my phone. But.
 
-But please don’t tell me you don’t want to be 26% more productive by just changing one unimportant thing in your life, your smartphone behavior. And if you wonder why not more people telling you to get rid of that thing, realize that they are trying to get to your wallet. Also, social media people who claim that they run their business with their smartphone are doing the exact same thing. They need you to consume their content, on you guessed it, your smartphone.
+I don’t need it. The results have been great since. I started using my smartphone in the above way. During the past two years, I got more things done than ever.
 
-Apple will also never tell us, don’t mind buying the new iPhone because it’s going to destroy your productivity. Of course not, they try to tell you the opposite. And without a doubt, smartphones
+And, I still have time to work out daily, hang out with my friends, have dinner with my family, and spend time with my lady friend. You and. I both have the same 24 hours at our disposal. The difference maker is how you spend those 1,440 minutes each day.
+
+To be honest, I think. I still have much to improve about my effectiveness. No one reaches peak productivity. Nor is it important to be the most productive person in the world.
+
+How you want to spend your time is your business. But please don’t tell me you don’t want to be 26% more productive by just changing one unimportant thing in your life, your smartphone behavior. And if you wonder why not more people telling you to get rid of that thing, realize that they are trying to get to your wallet. Also, social media people who claim that they run their business with their smartphone are doing the exact same thing.
+
+They need you to consume their content, on you guessed it, your smartphone. Apple will also never tell us, don’t mind buying the new iPhone because it’s going to destroy your productivity. Of course, not, they try to tell you the opposite. And without a doubt, smartphones
 
 
 <a id="sec-011031"></a>
 ### ⏱️ [01:10:31 - 01:15:36]
 
-also improve productivity. You probably found my articles on your phone. There’s awesome. And I also read a lot of articles and books on my phone.
+also improve productivity. You probably found my articles on your phone. There’s awesome. And.
 
-But you and I use the device to learn something, which is always a good thing. People who make phones and apps are smarter than us. Their only goal is to get you hooked. I think it’s good to realize that.
+I also read a lot of articles and books on my phone. But you and. I use the device to learn something, which is always a good thing. People who make phones and apps are smarter than us.
 
-That’s why I often try to remind myself not to depend on smartphones too much because my attention matters more than productivity. It’s time to reclaim your attention. And thereby, reclaim your life. It’s worth it.
+Their only goal is to get you hooked. I think it’s good to realize that. That’s why. I often try to remind myself not to depend on smartphones too much because my attention matters more than productivity.
 
-How perfectionism is destroying your productivity. Do you always worry that you didn’t do a good job? Do you always question your work and your actions? Are you afraid of admitting your mistakes?
+It’s time to reclaim your attention. And thereby, reclaim your life. It’s worth it. How perfectionism is destroying your productivity.
 
-Does rejection make you feel like shit? If so, you’re in great danger. I’m not a perfectionist myself. At least, that’s what I try to tell myself.
+Do you always worry that you didn’t do a good job? Do you always question your work and your actions? Are you afraid of admitting your mistakes? Does rejection make you feel like shit?
+
+If so, you’re in great danger. I’m not a perfectionist myself. At least, that’s what. I try to tell myself.
 
 I bet that you try to tell yourself that as well. In fact, the people who don’t admit it are the worst. But here’s the thing, if you’re a perfectionist, you’re just a procrastinator with a mask. It’s no different from someone who’s lazy and does nothing at all.
 
@@ -654,11 +760,11 @@ Jack Kirby. Is the price of perfectionism really worth it? I found that perfecti
 
 And that causes indecision. There are two types of perfectionists. One, the one that never starts. You want to achieve something, but you immediately start doubting yourself.
 
-You think, I don’t think I can do it. So you never start. Two, the one that starts but has two high standards. You set a goal.
+You think, I don’t think. I can do it. So you never start. Two, the one that starts but has two high standards.
 
-You work hard, maybe too hard. But you’ve set your goals so high, that you’re always failing yourself. Both scenarios can cause the following, anxiety, worry, depression, and type A behavior. These are things that we rather avoid.
+You set a goal. You work hard, maybe too hard. But you’ve set your goals so high, that you’re always failing yourself. Both scenarios can cause the following, anxiety, worry, depression, and type A behavior.
 
-Joachim Stobern, Yuta German, who studied worry, procrastination, and perfectionism, write, the combination of concern over mistakes and procrastination may be a crucial factor in the maintenance of worry. On the one hand, it may prolong existing threats because no steps are taken to cope.
+These are things that we rather avoid. Joachim Stobern, Yuta German, who studied worry, procrastination, and perfectionism, write, the combination of concern over mistakes and procrastination may be a crucial factor in the maintenance of worry. On the one hand, it may prolong existing threats because no steps are taken to cope.
 
 On the other hand, it may increase existing threats or even produce additional threats because initially solvable problems will pile up, thus creating an overload of problems that may finally be insoluble. And that feeling of being helpless is the biggest pitfall for us. Because what do we do when we feel helpless? Exactly, we give up.
 
@@ -670,7 +776,9 @@ But as we all know, achieving goals is not the only thing in life. It’s more a
 
 But what’s the solution? I found an interesting study by… Gordon L. Flett and his colleagues, they talk about the role of learned resourcefulness to perfectionism.
 
-They suggest that learned resourcefulness can play a mediator role. So I started looking into learned resourcefulness. And this is what I found from an article by Michael Rosenbaum, learned resourcefulness refers to the behavioral repertoire necessary for both regressive self-control and reformative self-control. This repertoire includes self-regulating one’s emotional and cognitive responses during stressful situations, using problem-solving skills, and delaying immediate gratification
+They suggest that learned resourcefulness can play a mediator role. So. I started looking into learned resourcefulness. And this is what.
+
+I found from an article by Michael Rosenbaum, learned resourcefulness refers to the behavioral repertoire necessary for both regressive self-control and reformative self-control. This repertoire includes self-regulating one’s emotional and cognitive responses during stressful situations, using problem-solving skills, and delaying immediate gratification
 
 
 <a id="sec-011536"></a>
@@ -682,27 +790,33 @@ Good enough is your motto. And you have no ambition at all. An attitude like tha
 
 Do the least part of it wrong in ye just as well to do it all wrong. Slacking is an attitude of, I don’t care. But if you want to make things happen in your life, you have to care. And what you want is to find a middle ground where your perfectionistic tendencies drive you, but you have the calm of a slacker, and you combine that with learned resourcefulness.
 
-So that’s why I found a balance between perfectionism and slacking. It looks like this, do great work like a perfectionist, but don’t give too much attention to your goals like a slacker. And finally, combine it with this, resourcefulness, goals can work well, but they can also be counterproductive. That’s why you want to rely on systems. And when shit hits the fan, use your problem solving skills to figure things out.
+So that’s why. I found a balance between perfectionism and slacking. It looks like this, do great work like a perfectionist, but don’t give too much attention to your goals like a slacker. And finally, combine it with this, resourcefulness, goals can work well, but they can also be counterproductive.
 
-To me, that’s the sweet spot, instead of beating yourself up when you make a mistake or if you fail yourself, you just adjust or solve the problem. Avoid the perfectionist’s favorite sentence, OMG, this is the worst thing ever. Also avoid the slacker’s favorite sentence, I don’t care. But instead, you say, I’ve got this.
+That’s why you want to rely on systems. And when shit hits the fan, use your problem solving skills to figure things out. To me, that’s the sweet spot, instead of beating yourself up when you make a mistake or if you fail yourself, you just adjust or solve the problem. Avoid the perfectionist’s favorite sentence, OMG, this is the worst thing ever.
 
-So what’s your current challenge? Actually, I don’t even have to ask, you’ve got this. How to read 100 books a year? Does your reading list keep growing?
+Also avoid the slacker’s favorite sentence, I don’t care. But instead, you say, I’ve got this. So what’s your current challenge? Actually, I don’t even have to ask, you’ve got this.
 
-Did you buy books that you’ve never read? It might be time to cross more books from your list this year than ever. If you’re reading less than you want, you’re not the only one. One year ago I looked at my Goodreads page and noticed that I had read only five books in 2014.
+How to read 100 books a year? Does your reading list keep growing? Did you buy books that you’ve never read? It might be time to cross more books from your list this year than ever.
 
-That realization frustrated me. I love books, but since I graduated college in 2011, I’ve been reading fewer books every single year. My work and life got in the way of reading as much as I wanted. Why read 100 books in a year?
+If you’re reading less than you want, you’re not the only one. One year ago. I looked at my Goodreads page and noticed that. I had read only five books in 2014.
 
-You read because you want to learn from other people’s experience. Otto von Bismarck put it best, fools learn from experience. I prefer to learn from the experience of others. If you want to get anywhere in this world, you need to educate yourself, and to educate yourself you need to read, a lot.
+That realization frustrated me. I love books, but since. I graduated college in 2011, I’ve been reading fewer books every single year. My work and life got in the way of reading as much as.
 
-Here’s how to do it. 1. Buy in bulk. It costs money to buy books, and it costs you time to read them, I’m assuming you have both if you’re reading this. One can make time.
+I wanted. Why read 100 books in a year? You read because you want to learn from other people’s experience. Otto von Bismarck put it best, fools learn from experience.
 
-And if you don’t have money, find a way to make or save money. As Dutch Renaissance man Erasmus once said, when I have a little money, I buy books, and if I have any left, I buy food and clothes. Be assured, the money and time you spend on books are worth it. I can’t think of a better investment.
+I prefer to learn from the experience of others. If you want to get anywhere in this world, you need to educate yourself, and to educate yourself you need to read, a lot. Here’s how to do it. 1. Buy in bulk.
+
+It costs money to buy books, and it costs you time to read them, I’m assuming you have both if you’re reading this. One can make time. And if you don’t have money, find a way to make or save money. As Dutch Renaissance man Erasmus once said, when.
+
+I have a little money, I buy books, and if. I have any left, I buy food and clothes. Be assured, the money and time you spend on books are worth it. I can’t think of a better investment.
 
 Books are only a waste of money if you don’t read them. If you want to read more, you have to buy more books. Some people don’t get it. They spend $200 on new shoes, but they find it ridiculous to buy 20 books from Amazon.
 
-The idea is simple, if you have more books in your house, you’ll have more choices, and this will help you read more. Here’s why, most of the books you read are not planned in advance. You don’t sit down in January and say, the first week of June I’ll read this book. You finish a book, look you at your inventory, and decide what to read next.
+The idea is simple, if you have more books in your house, you’ll have more choices, and this will help you read more. Here’s why, most of the books you read are not planned in advance. You don’t sit down in January and say, the first week of June. I’ll read this book.
 
-Don’t overthink which book you should read next, you’ll end up reading reviews for hours, which is a waste of time. For example, most people who want to start with Stoicism ask me, which one should I read first, Seneca, Marcus Aurelius or Epictetus? Buy them all. Read them all.
+You finish a book, look you at your inventory, and decide what to read next. Don’t overthink which book you should read next, you’ll end up reading reviews for hours, which is a waste of time.
+
+For example, most people who want to start with Stoicism ask me, which one should. I read first, Seneca, Marcus Aurelius or Epictetus? Buy them all. Read them all.
 
 Having an inventory of books keeps up the momentum. You also never have an excuse not to read. 2. A. Always, B.
 
@@ -726,67 +840,75 @@ I don’t know exactly, but it must be negative. 3. Read relevant books only. Ha
 
 But not all books are for everyone. A book might be a best-seller, but maybe you can’t stand the writing. Or maybe it’s not the right time to read a book. In any case, if you can’t flip through the pages, put the book away and pick up something you are so excited about that you tear up the pages.
 
-Read books that are close to what’s going on in your life. There’s a book for everything you can think of. People are writing books for 2,000 years, and there have been plenty of people in your shoes, struggling teen, aspiring artist, broke entrepreneur, new parent, etc. Don’t waste your time reading about subjects you have zero interest in. Instead, pick out the books that are related to your profession or hobby.
+Read books that are close to what’s going on in your life. There’s a book for everything you can think of. People are writing books for 2,000 years, and there have been plenty of people in your shoes, struggling teen, aspiring artist, broke entrepreneur, new parent, etc. Don’t waste your time reading about subjects you have zero interest in.
 
-Read books about people that you admire. Don’t read a book just because it’s a best-seller or a classic if it has no meaning to you. 4. Read multiple books simultaneously. There are no rules to reading so you can do whatever you want.
+Instead, pick out the books that are related to your profession or hobby. Read books about people that you admire. Don’t read a book just because it’s a best-seller or a classic if it has no meaning to you. 4. Read multiple books simultaneously.
 
-At times, I’m reading five books at once. I might read 50 pages of one book in the morning and then read another book in the afternoon. That’s how I prefer it. Others like to read a book cover to cover and only then read something new.
+There are no rules to reading so you can do whatever you want. At times, I’m reading five books at once. I might read 50 pages of one book in the morning and then read another book in the afternoon. That’s how.
 
-If you’re reading something that’s complicated, you might want to read something that’s easier for the evenings. I like to read biographies before I go to sleep because they are like stories. Fiction also works well in the evening. I don’t want to read a book about investing in bed with a highlighter and a pen.
+I prefer it. Others like to read a book cover to cover and only then read something new. If you’re reading something that’s complicated, you might want to read something that’s easier for the evenings. I like to read biographies before.
 
-If I do that, I will be awake until 3 am because my mind is buzzing with the new things I’m learning. 5. Retain the knowledge. Knowledge is only good if you use it. To retain knowledge, you need a system that helps you do that.
+I go to sleep because they are like stories. Fiction also works well in the evening. I don’t want to read a book about investing in bed with a highlighter and a pen. If.
 
-This is how I do it, when you read a book, use a pen to make notes in the margins and highlight important text. If you’re reading digitally, be aware of over highlighting. Just because it’s so easy you shouldn’t highlight everything you find slightly interesting. Keep the highlighting for, aha, things only.
+I do that, I will be awake until 3 am because my mind is buzzing with the new things. I’m learning. 5. Retain the knowledge. Knowledge is only good if you use it.
 
-If you read something you want to definitely remember, fold the top or bottom corner of the page. For digital readers, take a picture and store it in a note-taking app you prefer. When you finish the book, go back to the pages with the folds and skim your notes. Write down, use your note-taking software or physical notebook, in your own words what the book is about and what advice the author is giving.
+To retain knowledge, you need a system that helps you do that. This is how. I do it, when you read a book, use a pen to make notes in the margins and highlight important text. If you’re reading digitally, be aware of over highlighting.
 
-Copy the quotes that stand out the most to you. The point is not to copy the book but to help you process the information so you can use it later. Read as much as you possibly can, but never forget to apply what you’ve learned because that is what counts the most. You put in many hours to read books, make sure you get something out of it.
+Just because it’s so easy you shouldn’t highlight everything you find slightly interesting. Keep the highlighting for, aha, things only. If you read something you want to definitely remember, fold the top or bottom corner of the page. For digital readers, take a picture and store it in a note-taking app you prefer.
 
-Take a vacation, it boosts your productivity and reduces stress. You recharge your phone when it runs out of juice. You refill your gas tank when you’re running on empty. But sometimes, you forget to do the same for your most precious possession, your body, and the brain that’s inside of it.
+When you finish the book, go back to the pages with the folds and skim your notes. Write down, use your note-taking software or physical notebook, in your own words what the book is about and what advice the author is giving. Copy the quotes that stand out the most to you. The point is not to copy the book but to help you process the information so you can use it later.
 
-Whether you love what you do, are in between jobs, or have a job you hate, you’re working. Living is also a job. A pretty tough one, actually. Just the act of getting up in the morning can be a daunting task.
+Read as much as you possibly can, but never forget to apply what you’ve learned because that is what counts the most. You put in many hours to read books, make sure you get something out of it. Take a vacation, it boosts your productivity and reduces stress. You recharge your phone when it runs out of juice.
+
+You refill your gas tank when you’re running on empty. But sometimes, you forget to do the same for your most precious possession, your body, and the brain that’s inside of it. Whether you love what you do, are in between jobs, or have a job you hate, you’re working. Living is also a job.
+
+A pretty tough one, actually. Just the act of getting up in the morning can be a daunting task.
 
 
 <a id="sec-012539"></a>
 ### ⏱️ [01:25:39 - 01:30:45]
 
-And I’m not even talking about all the responsibilities we have. So, why do you make your life even more challenging by not taking a vacation to recharge? I’m not talking about your weekends that are packed with activities, or holidays where you work more than relax. No, that type of free time doesn’t serve a purpose.
+And. I’m not even talking about all the responsibilities we have. So, why do you make your life even more challenging by not taking a vacation to recharge? I’m not talking about your weekends that are packed with activities, or holidays where you work more than relax.
 
-I’m talking about resting with a very specific reason, to recharge your battery so you can keep working hard. To me, life is about working hard. Voltaire said it best. The further I advance in age, the more I find work necessary.
+No, that type of free time doesn’t serve a purpose. I’m talking about resting with a very specific reason, to recharge your battery so you can keep working hard. To me, life is about working hard. Voltaire said it best.
 
-It becomes in the long run the greatest of pleasures, and takes the place of the illusions of life. Rest reduces stress. Improves creativity and productivity. Scientific research shows that a vacation decreases perceived job stress and burnout.
+The further. I advance in age, the more. I find work necessary. It becomes in the long run the greatest of pleasures, and takes the place of the illusions of life.
+
+Rest reduces stress. Improves creativity and productivity. Scientific research shows that a vacation decreases perceived job stress and burnout.
 
 Now, that’s a pretty solid benefit of taking a few days off. But there’s more. As you may know, I’m always interested in productivity. In the case of resting or a vacation, my question is.
 
-Will I get more things done when I get back? The answer is yes, but there’s one major thing to keep in mind. But let’s back up a bit. What does it mean to get more done?
+Will. I get more things done when. I get back? The answer is yes, but there’s one major thing to keep in mind.
 
-Getting things done has nothing to do with time, if you work more hours, you don’t necessarily get more done. In fact, research shows that working more hours general means less productivity. Why? Well, we often waste time if we have more of it.
+But let’s back up a bit. What does it mean to get more done? Getting things done has nothing to do with time, if you work more hours, you don’t necessarily get more done.
 
-It’s simple, if I say to you, you have a year to write an article. What would you do? Procrastinate, right? But what if I tell you that you only have two hours?
+In fact, research shows that working more hours general means less productivity. Why? Well, we often waste time if we have more of it. It’s simple, if.
 
-You immediately think, how can I write this article ASAP? So in a way, having more days off, and fewer days to work, forces you to be more effective with your time. Research shows that a vacation in itself won’t make you more productive, but when you have more days off, you have a strong desire to get more things done in less time. And that’s a win-win situation for everybody, you, your business, or your job.
+I say to you, you have a year to write an article. What would you do? Procrastinate, right? But what if.
 
-You take off a few days, recharge, spend time with your family or friends, and when you come back, you’re more productive. Sounds great. But wait, there’s a caveat. When your vacation is stressful, the positive benefits go away.
+I tell you that you only have two hours? You immediately think, how can. I write this article ASAP? So in a way, having more days off, and fewer days to work, forces you to be more effective with your time.
 
-Have you ever watched National Lampoon’s vacation with Chevy Chase? That’s how my family holidays were. Not good. So keep the stress at a minimum on your holiday.
+Research shows that a vacation in itself won’t make you more productive, but when you have more days off, you have a strong desire to get more things done in less time. And that’s a win-win situation for everybody, you, your business, or your job. You take off a few days, recharge, spend time with your family or friends, and when you come back, you’re more productive. Sounds great.
 
-Otherwise, you’ve wasted a perfect opportunity to relax and boost your overall productivity. Here are a few tips that might help. 1. If you’re a planner, plan. One of my friends loves to plan everything.
+But wait, there’s a caveat. When your vacation is stressful, the positive benefits go away. Have you ever watched National Lampoon’s vacation with Chevy Chase? That’s how my family holidays were.
 
-He loves itineraries and minute-by-minute plans of the day when he is on vacation. I’m the opposite.
+Not good. So keep the stress at a minimum on your holiday. Otherwise, you’ve wasted a perfect opportunity to relax and boost your overall productivity. Here are a few tips that might help. 1.
 
-When we went on a trip a few years back, he said, “I’m going copy your style and just go with the flow.” I said, perfect. On the first morning, I slept until 10 am. It turned out he woke up early, got nervous because he didn’t have a schedule, and spent the whole morning creating one. Don’t try to be someone you’re not.
+If you’re a planner, plan. One of my friends loves to plan everything. He loves itineraries and minute-by-minute plans of the day when he is on vacation. I’m the opposite.
 
-If you like to plan your holiday, just do it. But try to stay flexible, you’re on holiday. 2. Make a daily movie. It’s creative, and it’s a great memory for later.
+When we went on a trip a few years back, he said, “I’m going copy your style and just go with the flow.”. I said, perfect. On the first morning, I slept until 10 am. It turned out he woke up early, got nervous because he didn’t have a schedule, and spent the whole morning creating one.
 
-Plus, focusing on the act of filming will force your attention on something specific. In that way, you will be more in the moment, and you’ll worry less about stuff back home. Just don’t film all day. Otherwise, you won’t be present at all.
+Don’t try to be someone you’re not. If you like to plan your holiday, just do it. But try to stay flexible, you’re on holiday. 2. Make a daily movie.
 
-All you need is a smartphone. Just film stuff with your phone and edit it right on your phone. If you’re more into video, bring a proper camera and a laptop. 3. Read a lot.
+It’s creative, and it’s a great memory for later. Plus, focusing on the act of filming will force your attention on something specific. In that way, you will be more in the moment, and you’ll worry less about stuff back home. Just don’t film all day.
 
-Bill Gates is f- famous for his voracious reading habit. He is also known for his think week where does nothing else but read and think. Recently, he published an article with five books that he’s reading this summer. Take a look if you’re looking for some inspiration.
+Otherwise, you won’t be present at all. All you need is a smartphone. Just film stuff with your phone and edit it right on your phone. If you’re more into video, bring a proper camera and a laptop. 3.
 
-I like to read for hours on my holidays. Reading slows down time, makes you think, and is good for your brain. 4. Get bored. One of my favorite strategies for finding new ideas is to get bored out of my mind.
+Read a lot. Bill Gates is f- famous for his voracious reading habit. He is also known for his think week where does nothing else but read and think. Recently, he published an article with five books that he’s reading this summer.
 
-It sounds easier than it is because of distractions. In the past, I would do everything not to get bored, watch TV, go out, browse Facebook, etc. But did you know that you can use boredom
+Take a look if you’re looking for some inspiration. I like to read for hours on my holidays. Reading slows down time, makes you think, and is good for your brain. 4. Get bored.
+
+One of my favorite strategies for finding new ideas is to get bored out of my mind. It sounds easier than it is because of distractions. In the past, I would do everything not to get bored, watch TV, go out, browse Facebook, etc. But did you know that you can use boredom
 
 
 <a id="sec-013045"></a>
@@ -794,37 +916,41 @@ It sounds easier than it is because of distractions. In the past, I would do eve
 
 to your advantage? Instead of giving into distractions, just give into the boredom and see it lead your mind to.
 
-In fact, one of my favorite artists of all time, Andy Warhol, embraced boredom. You can tell by the boring films he made or the references he made in the philosophy of Andy Warhol about getting bored. Whenever I hit a creative wall, I just do nothing. Literally, nothing.
+In fact, one of my favorite artists of all time, Andy Warhol, embraced boredom. You can tell by the boring films he made or the references he made in the philosophy of Andy Warhol about getting bored. Whenever. I hit a creative wall, I just do nothing.
 
-Try it sometime. It’s a great strategy, maybe you come up with the next best thing in your industry. It’s never a good time to take a break. I just need to finish this project.
+Literally, nothing. Try it sometime. It’s a great strategy, maybe you come up with the next best thing in your industry. It’s never a good time to take a break.
 
-My boss will never accept it. People will think I’m lazy. I don’t have time. Money never sleeps.
+I just need to finish this project. My boss will never accept it. People will think. I’m lazy.
 
-Yeah, yeah, I’ve been there too. But what would you rather, continue to work without resting and burnout? Or take some rest before you’re tired? Yup, life is long, so play the long game.
+I don’t have time. Money never sleeps. Yeah, yeah, I’ve been there too. But what would you rather, continue to work without resting and burnout?
 
-On that note, I might not be tired yet, but it’s time for me to take a break. So I will see you again when I come back on August 1st with a new article. Until then take it easy, because I definitely will. P.
+Or take some rest before you’re tired? Yup, life is long, so play the long game. On that note, I might not be tired yet, but it’s time for me to take a break. So.
 
-S. For years I couldn’t afford to go on a holiday. If you’re in the same position, have a staycation. The above tips still apply.
+I will see you again when. I come back on August 1st with a new article. Until then take it easy, because. I definitely will.
 
-Eliminate mindless browsing. We all have days we feel unproductive or that we did not do anything. When you feel you are not productive, the chances are that it is because interruptions and multitasking drain your energy. When you juggle multiple things simultaneously, like, sending an email, text a friend and checking your Facebook while you are in a meeting, you engage in context switching.
+P. S. For years. I couldn’t afford to go on a holiday.
 
-In a research done by Gloria Mark of the University of California, Irvine, it showed that it takes an average of 25 minutes to return to the original task after an interruption. Since we are interrupted more than once, this adds up quickly, and before you know it, you feel like you have done nothing that day. Clifford Nass, a sociologist from Stanford University, has researched the impact of multitasking and found that people who engage in multitasking are suckers for irrelevancy. We engage in multitasking because we are distracted by notifications, which are addictive.
+If you’re in the same position, have a staycation. The above tips still apply. Eliminate mindless browsing. We all have days we feel unproductive or that we did not do anything.
 
-We cannot control ourselves, we must look at the notification to see who or what wants our attention. Every time a notification pops up on our screen, we get a rush that releases dopamine. Dopamine is one of the body’s happy chemicals, it controls the pleasure systems of the brain and makes you feel joy. This joyous feeling is addictive and makes us seek out behaviors that stimulate dopamine.
+When you feel you are not productive, the chances are that it is because interruptions and multitasking drain your energy. When you juggle multiple things simultaneously, like, sending an email, text a friend and checking your Facebook while you are in a meeting, you engage in context switching. In a research done by Gloria Mark of the University of California, Irvine, it showed that it takes an average of 25 minutes to return to the original task after an interruption.
 
-You can think about food, sex, drugs and the notifications you receive on your screen. While dopamine may cause a rush, it also exhausts us. That is why you still feel tired at the end of the day while you have not been productive. This is a harmful process, and we need to stop this pattern.
+Since we are interrupted more than once, this adds up quickly, and before you know it, you feel like you have done nothing that day. Clifford Nass, a sociologist from Stanford University, has researched the impact of multitasking and found that people who engage in multitasking are suckers for irrelevancy. We engage in multitasking because we are distracted by notifications, which are addictive. We cannot control ourselves, we must look at the notification to see who or what wants our attention.
 
-The fix, eliminate browsing. Being productive can be as simple as taking control over your day. What harms your productivity the most is browsing. It absolutely kills it.
+Every time a notification pops up on our screen, we get a rush that releases dopamine. Dopamine is one of the body’s happy chemicals, it controls the pleasure systems of the brain and makes you feel joy. This joyous feeling is addictive and makes us seek out behaviors that stimulate dopamine. You can think about food, sex, drugs and the notifications you receive on your screen.
 
-We’ve all experienced a distortion in time when we are browsing. What? I just did nothing for two hours. Yes, we even do this at work.
+While dopamine may cause a rush, it also exhausts us. That is why you still feel tired at the end of the day while you have not been productive. This is a harmful process, and we need to stop this pattern. The fix, eliminate browsing.
 
-Take control of your attention and time. The point is, do something that’s worth your time. Be conscious about your time. And spend so it improves the quality of your life.
+Being productive can be as simple as taking control over your day. What harms your productivity the most is browsing. It absolutely kills it. We’ve all experienced a distortion in time when we are browsing.
 
-Twenty things that will make you more productive than ever. The last three years have been huge for me. I’ve got more things done than ever, moved countries, bought an apartment in a small office building, spent loads of time with my family and friends, kept a healthy lifestyle, and exercised at least four times a week. Many variables determine your overall productivity.
+What? I just did nothing for two hours. Yes, we even do this at work. Take control of your attention and time.
 
-Tools, apps or hacks don’t work if you lack the right mindset because productivity is a way of living. It’s about achieving maximum output, getting shit done, and not wasting time. I think that output and happiness go hand in hand. To me, doing nothing equals misery.
+The point is, do something that’s worth your time. Be conscious about your time. And spend so it improves the quality of your life. Twenty things that will make you more productive than ever.
 
-I want to share twenty things I’ve done in the past three years that have made me more productive than ever, in no particular order. 1. Always cut to the chase. With everything in life, there’s a bunch of crap, and there’s stuff that matters. Chit chat, small talk, delaying, waiting around, not speaking up, is all useless.
+The last three years have been huge for me. I’ve got more things done than ever, moved countries, bought an apartment in a small office building, spent loads of time with my family and friends, kept a healthy lifestyle, and exercised at least four times a week. Many variables determine your overall productivity. Tools, apps or hacks don’t work if you lack the right mindset because productivity is a way of living.
+
+It’s about achieving maximum output, getting shit done, and not wasting time. I think that output and happiness go hand in hand. To me, doing nothing equals misery. I want to share twenty things.
+
+I’ve done in the past three years that have made me more productive than ever, in no particular order. 1. Always cut to the chase. With everything in life, there’s a bunch of crap, and there’s stuff that matters. Chit chat, small talk, delaying, waiting around, not speaking up, is all useless.
 
 If you want
 
@@ -836,37 +962,43 @@ to get shit done, you have to jump straight into the action. 2. Record all your 
 
 But your RAM capacity is limited. When it’s full, older information that you have stored will be deleted to make room for new information. You want to write down your thoughts to unload your RAM, which gives you more brainpower. Even if you never take a look at that note again, it’s still worth it. 3.
 
-Say no. When it comes to work, I say no to everything that doesn’t support my goals and values. We live in an abundant world, there are always enough opportunities. In my personal life, I say no to everything that doesn’t thrill me. When I think math about something, I always say a no. That eliminates wasting time on shit that I’m not excited about. 4.
+Say no. When it comes to work, I say no to everything that doesn’t support my goals and values. We live in an abundant world, there are always enough opportunities. In my personal life, I say no to everything that doesn’t thrill me.
+
+When. I think math about something, I always say a no. That eliminates wasting time on shit that. I’m not excited about. 4.
 
 Take a 5-minute break every 30 to 45 minutes. You can stretch your back, walk around, drink some water. But more importantly, you take your nose out of your work. When you come back to your desk, you might have new ideas.
 
-Or, you might think, what am I doing? And stop it before you waste all your time. 5. Eliminate everything that distracts you. Willpower is overrated.
+Or, you might think, what am. I doing? And stop it before you waste all your time. 5. Eliminate everything that distracts you.
 
-If something distracts you, eliminate it. One of my friends has a news addiction. I suggested to get rid of his TV, delete his news apps, and block the news sites on his laptop. Two weeks later he told me that he’s finally starting a business.
+Willpower is overrated. If something distracts you, eliminate it. One of my friends has a news addiction. I suggested to get rid of his TV, delete his news apps, and block the news sites on his laptop.
 
-Don’t think you’re immune to your distractions. Remove them. 6. Keep away clutter. A cluttered life means a cluttered brain.
+Two weeks later he told me that he’s finally starting a business. Don’t think you’re immune to your distractions. Remove them. 6. Keep away clutter.
 
-And with a cluttered brain, you can’t get stuff done. I prefer a simple work and living environment. A desk, a laptop, and a notebook. Keep it simple.
+A cluttered life means a cluttered brain. And with a cluttered brain, you can’t get stuff done. I prefer a simple work and living environment. A desk, a laptop, and a notebook.
 
-You don’t need any fluff. 7. Focus on one thing some days. If you have recurring tasks, try to do as much of the same thing on one day. I write two to three blog posts on one day, the other days of the week I use for my other projects and businesses.
+Keep it simple. You don’t need any fluff. 7. Focus on one thing some days. If you have recurring tasks, try to do as much of the same thing on one day.
 
-On my writing days, I turn off my phone and just write. Nothing else gets in the way. 8. Stop consuming so much information. You don’t need to read 5,000 articles on productivity.
+I write two to three blog posts on one day, the other days of the week. I use for my other projects and businesses. On my writing days, I turn off my phone and just write. Nothing else gets in the way. 8.
 
-If you find useful information, try it. Don’t search for more. More is not always better. You can only process so much of it.
+Stop consuming so much information. You don’t need to read 5,000 articles on productivity. If you find useful information, try it. Don’t search for more.
 
-Stop consuming, start creating. 9. Create routines. Decisions fatigue your brain. And routines eliminate decisions.
+More is not always better. You can only process so much of it. Stop consuming, start creating. 9. Create routines.
 
-Which ultimately means more brain power. Routines are not OCD, they are efficient. Use them. 10. Don’t multitask.
+Decisions fatigue your brain. And routines eliminate decisions. Which ultimately means more brain power. Routines are not OCD, they are efficient.
 
-When you juggle multiple things simultaneously, like, sending an email, texting a friend and checking your Facebook while you are in a meeting, you engage in context switching. In a research done by Gloria Mark of the University of California, Irvine, it showed that it takes an average of 25 minutes to return to the original task after an interruption. That’s a waste of useful time. 11. Check email twice a day.
+Use them. 10. Don’t multitask. When you juggle multiple things simultaneously, like, sending an email, texting a friend and checking your Facebook while you are in a meeting, you engage in context switching. In a research done by Gloria Mark of the University of California, Irvine, it showed that it takes an average of 25 minutes to return to the original task after an interruption.
 
-Every time you check your email, you get a rush of dopamine. I get it, checking email feels nice, and most of us are addicted. While dopamine may cause a rush, it also exhausts you. That is why you still feel tired at the end of the day while you have not been productive.
+That’s a waste of useful time. 11. Check email twice a day. Every time you check your email, you get a rush of dopamine. I get it, checking email feels nice, and most of us are addicted.
 
-To minimize that, turn off notifications, and check your email only twice a day on set times. 12. No smartphone during the first hour of your day. A smartphone’s primary function is to interrupt you. But don’t let other people or apps interrupt you during the first hour of your day.
+While dopamine may cause a rush, it also exhausts you. That is why you still feel tired at the end of the day while you have not been productive. To minimize that, turn off notifications, and check your email only twice a day on set times. 12. No smartphone during the first hour of your day.
 
-Take that first hour to think about the day ahead of you, read a book, enjoy your breakfast, coffee or tea. 13. Plan the next day. Every night before I go to bed, I take five minutes to set my priorities, usually three to four, for the next day. That makes me more focused when I wake up.
+A smartphone’s primary function is to interrupt you. But don’t let other people or apps interrupt you during the first hour of your day. Take that first hour to think about the day ahead of you, read a book, enjoy your breakfast, coffee or tea. 13. Plan the next day.
 
-I find that I waste time if I don’t do this practice. It’s cool to go with the flow. The only problem is, I don’t want to be a dog that mindlessly chases cars. 14. Keep thinking to a minimum.
+Every night before. I go to bed, I take five minutes to set my priorities, usually three to four, for the next day. That makes me more focused when. I wake up.
+
+I find that. I waste time if. I don’t do this practice. It’s cool to go with the flow.
+
+The only problem is, I don’t want to be a dog that mindlessly chases cars. 14. Keep thinking to a minimum.
 
 
 <a id="sec-014046"></a>
@@ -888,15 +1020,17 @@ You might screw, maybe someone gets angry with you, shit happens. Don’t get do
 
 Do the work. Yes, talking about work is easier than doing it. Everyone can do it. But you’re not everyone, right?
 
-You’re a productivity beast. So act like one. Without these 20 things, I wouldn’t be productive at all. You may have noticed that I don’t get into details, like which tools and apps I use.
+You’re a productivity beast. So act like one. Without these 20 things, I wouldn’t be productive at all. You may have noticed that.
 
-I don’t think that stuff matters. It’s about creating a productivity mindset and environment that lets you thrive. I only care about getting things done in a fun and not stressful way. That makes doing work way more fun and rewarding.
+I don’t get into details, like which tools and apps. I use. I don’t think that stuff matters. It’s about creating a productivity mindset and environment that lets you thrive.
 
-Here’s why time off work actually improves your work and life. What do you do when you feel tired or overwhelmed? Do you power through? Or do you take some time off?
+I only care about getting things done in a fun and not stressful way. That makes doing work way more fun and rewarding. Here’s why time off work actually improves your work and life. What do you do when you feel tired or overwhelmed?
 
-In the past, I thought that you should always power through, no matter what. Now, I still think that way when it comes to life in general. You can’t quit taking care of yourself and your family. A sense of responsibility is one of the most powerful motivators in life.
+Do you power through? Or do you take some time off? In the past, I thought that you should always power through, no matter what.
 
-But I’m not talking about a lack of motivation here. I’m talking about taking time off work. But there’s still a massive taboo on taking time off. Some people think it’s for losers.
+Now, I still think that way when it comes to life in general. You can’t quit taking care of yourself and your family. A sense of responsibility is one of the most powerful motivators in life. But.
+
+I’m not talking about a lack of motivation here. I’m talking about taking time off work. But there’s still a massive taboo on taking time off. Some people think it’s for losers.
 
 Others think it’s about escaping your work. After all, if you love your work and life, why do you even need a break? Good point, smartass. Here’s why time off actually improves your work and life.
 
@@ -908,7 +1042,9 @@ In most instances, your results suffer, and you become less productive. In some 
 
 But how often do we really prevent things? Instead, we put our head down and, deal with it later. Bad strategy. Instead, it’s much better to prevent burnout or a decrease in your overall work performance.
 
-Dale Carnegie, a self-help pioneer and author of How to Stop Worrying and Start Living, said it best, so, to prevent fatigue and worry, the first rule is, rest often. Rest before you get tired. So take time off work strategically throughout the year. That’s what I just did too, and I experienced five benefits as a consequence.
+Dale Carnegie, a self-help pioneer and author of. How to Stop Worrying and Start Living, said it best, so, to prevent fatigue and worry, the first rule is, rest often. Rest before you get tired. So take time off work strategically throughout the year.
+
+That’s what. I just did too, and. I experienced five benefits as a consequence.
 
 
 <a id="sec-014547"></a>
@@ -924,37 +1060,41 @@ When you take time off work, you have more inner conversations. But when you exe
 
 But who cares? Would you rather go through your career with tunnel vision? I need at least 10 days off to reflect seriously. For the first five days, I’m still somewhere between execution and thinking mode.
 
-It’s hard to switch to thinking and doing nothing if you’re used to doing work. But I always learn new things about myself after a more extended break. I tend to read a lot. Over the past two weeks, I’ve read five books.
+It’s hard to switch to thinking and doing nothing if you’re used to doing work. But. I always learn new things about myself after a more extended break. I tend to read a lot.
 
-But I didn’t write at all. Also, I journaled very little. Just some reading, watching movies, documentaries, hanging out with friends, talking, daydreaming. That kind of stuff.
+Over the past two weeks, I’ve read five books. But. I didn’t write at all. Also, I journaled very little.
 
-Neither does it cost much. But the return is enormous.
+Just some reading, watching movies, documentaries, hanging out with friends, talking, daydreaming. That kind of stuff. Neither does it cost much. But the return is enormous.
 
-Now, I feel better, have more energy, and I’m excited to get back to work. That’s also the next lesson I learned. 2. You get to process your ideas. Your brain does a lot of things you’re not aware of.
+Now, I feel better, have more energy, and. I’m excited to get back to work. That’s also the next lesson. I learned. 2.
 
-One thing that happens unconsciously is the processing of ideas by our brain. We’ve all had ideas that never materialized, right? How many people have you met who claim to have had the idea for Facebook, Instagram, or any other type of new thing? I once met a guy who claimed to have come up with the idea of making e-bikes.
+You get to process your ideas. Your brain does a lot of things you’re not aware of. One thing that happens unconsciously is the processing of ideas by our brain. We’ve all had ideas that never materialized, right?
 
-Did he do something with it? No. He now buys garbage on Alibaba and sells it to businesses, door to door. We all have ideas. Not only business ideas. I want to redecorate the house.
+How many people have you met who claim to have had the idea for Facebook, Instagram, or any other type of new thing? I once met a guy who claimed to have come up with the idea of making e-bikes. Did he do something with it? No.
+
+He now buys garbage on Alibaba and sells it to businesses, door to door. We all have ideas. Not only business ideas. I want to redecorate the house.
 
 I want to drive from NYC to LA. I want to write a book. All those ideas are great. But what are you going to do with them?
 
-I’m not even talking about execution. All ideas require processing. Are the ideas any good? Do I really want to do those things?
+I’m not even talking about execution. All ideas require processing. Are the ideas any good? Do.
 
-Again, that’s a thinking process. When you go from idea to execution, without processing, you often waste your time in hindsight. Of course, you can never entirely prevent that. But by taking the time to process your ideas, you can prevent your future self a lot of pain, worry, and even money. 3.
+I really want to do those things? Again, that’s a thinking process. When you go from idea to execution, without processing, you often waste your time in hindsight. Of course, you can never entirely prevent that.
 
-You can consume more art. What is art? Anything that makes you think. A good song, movie, painting, book, poem, article, picture, sculpture, you name it.
+But by taking the time to process your ideas, you can prevent your future self a lot of pain, worry, and even money. 3. You can consume more art. What is art? Anything that makes you think.
 
-Anything can be art. There’s no authority that declares what art is and what is not. I get a lot of my inspiration from art. I can’t imagine what life would be without it.
+A good song, movie, painting, book, poem, article, picture, sculpture, you name it. Anything can be art. There’s no authority that declares what art is and what is not. I get a lot of my inspiration from art.
 
-Well, there is art on that too. Just read Fahrenheit 451 or watch the movie Equilibrium. The best thing about art is that it improves your mood. And when you’re in a good mood, you’re happier.
+I can’t imagine what life would be without it. Well, there is art on that too. Just read Fahrenheit 451 or watch the movie Equilibrium. The best thing about art is that it improves your mood.
 
-Just don’t consume useless junk. Start with the classics. Listen to Bob Dylan, Marvin Gaye, Whitney Houston. Watch movies by Alfred Hitchcock, Francis Ford Coppola.
+And when you’re in a good mood, you’re happier. Just don’t consume useless junk. Start with the classics. Listen to Bob Dylan, Marvin Gaye, Whitney Houston.
 
-Read Ernest Hemingway, Harper Lee, Ralph Ellison. Go to the British Museum. Study Andy Warhol. Like millions of other people, you’ll be inspired by their work.
+Watch movies by Alfred Hitchcock, Francis Ford Coppola. Read Ernest Hemingway, Harper Lee, Ralph Ellison. Go to the British Museum. Study Andy Warhol.
 
-And that will enrich your life. 4. You can focus on other important things that are not work-related. Can you tell me more about yourself? What do you think of when I ask you that question?
+Like millions of other people, you’ll be inspired by their work. And that will enrich your life. 4. You can focus on other important things that are not work-related. Can you tell me more about yourself?
 
-Most of us start by saying something like, I’m an accountant at Company X. Modern day life almost forces you to identify yourself with work. But you are not your job. You are your family, friends, hobbies, passion, and then finally, you also have a job.
+What do you think of when. I ask you that question? Most of us start by saying something like, I’m an accountant at Company X. Modern day life almost forces you to identify yourself with work.
+
+But you are not your job. You are your family, friends, hobbies, passion, and then finally, you also have a job.
 
 
 <a id="sec-015050"></a>
@@ -972,35 +1112,43 @@ Resting gets boring. Quick. There’s a reason humans work. We’re built to mak
 
 I believe that the purpose of life is to be useful. Making yourself useful ultimately leads to a meaningful life that satisfies all your human needs. That’s why too much rest will make us restless. My mother always told me that too much of a good thing becomes a bad thing.
 
-She told me that when I wanted to hang out with my friends all the time and when I had my first girlfriend. It’s true. Too much rest, like work, is not good. Our bodies and minds are made to use.
+She told me that when. I wanted to hang out with my friends all the time and when. I had my first girlfriend. It’s true.
 
-Hence, the final lesson I learned from doing nothing is this, after rest comes work. And what comes after work? If you answered, more work, you didn’t get the point. You probably need some rest.
+Too much rest, like work, is not good. Our bodies and minds are made to use. Hence, the final lesson. I learned from doing nothing is this, after rest comes work.
 
-In blocking, improve your focus and get more meaningful work done. Do you have a list of priorities or goals that you want to achieve this year? And do you struggle with allocating time to them? I’m no different.
+And what comes after work? If you answered, more work, you didn’t get the point. You probably need some rest. In blocking, improve your focus and get more meaningful work done.
 
-Life can be messy. Most of us juggle a lot of different things at the same time. Even though the simple solution is to stop juggling, it’s not always realistic. Or even needed.
+Do you have a list of priorities or goals that you want to achieve this year? And do you struggle with allocating time to them? I’m no different. Life can be messy.
 
-What if you could do more things without losing your time? It’s possible. But you must work in an organized way. Enter, time blocking a simple productivity exercise that many people use.
+Most of us juggle a lot of different things at the same time. Even though the simple solution is to stop juggling, it’s not always realistic. Or even needed. What if you could do more things without losing your time?
 
-It’s not fancy or revolutionary. The only thing you need is a calendar, which is something everyone with a smartphone and computer has. Time blocking is simply using your calendar to block time for your most important priorities. During that time, you only work on that one thing.
+It’s possible. But you must work in an organized way. Enter, time blocking a simple productivity exercise that many people use. It’s not fancy or revolutionary.
 
-And you let your calendar lead the way. That way, you don’t have to think, what should I do next? But time blocking is more than just a productivity tool. It’s about self-awareness.
+The only thing you need is a calendar, which is something everyone with a smartphone and computer has. Time blocking is simply using your calendar to block time for your most important priorities. During that time, you only work on that one thing. And you let your calendar lead the way.
+
+That way, you don’t have to think, what should. I do next? But time blocking is more than just a productivity tool. It’s about self-awareness.
 
 The road to high productivity starts with awareness. For instance, one of my priorities this year is to write a book on pragmatic thinking.
 
-However, there’s a problem, I haven’t been writing. How did I come to this conclusion? I simply looked at my list of priorities for 2017, and I then I looked at my calendar. I hadn’t scheduled any time for writing in a while.
+However, there’s a problem, I haven’t been writing. How did. I come to this conclusion? I simply looked at my list of priorities for 2017, and.
+
+I then. I looked at my calendar. I hadn’t scheduled any time for writing in a while.
 
 Now, you might think, do you really have to look at your calendar to realize that? Yes, I do. I’m not some kind of supercomputer that remembers everything. I’m a regular human being.
 
-I think of something to do, start working on it, life gets in the way, and then I forget about it. It happens to all of us. We need self-awareness and tools that keep us in check. And that’s why I like time blocking.
+I think of something to do, start working on it, life gets in the way, and then. I forget about it. It happens to all of us. We need self-awareness and tools that keep us in check.
 
-Some people love time blocking. Some people hate it. Computer science professor and author of Deep Work, Cal Newport, also uses time blocking. He says.
+And that’s why. I like time blocking. Some people love time blocking. Some people hate it.
 
-I take time blocking seriously, dedicating 10 to 20 minutes every evening to building my schedule for the next day. During this planning process I consult my task lists and calendars, as well as my weekly and quarterly planning notes. My goal is to make sure progress is being made on the right things at the right pace for the relevant deadlines. The last sentence is exactly why I schedule everything I want to do.
+Computer science professor and author of Deep Work, Cal Newport, also uses time blocking. He says. I take time blocking seriously, dedicating 10 to 20 minutes every evening to building my schedule for the next day. During this planning process.
 
-Working is not the same thing as making progress. And time blocking helps me to improve my focus so I can get meaningful things done. Things that have an actual impact on my life. I know there are a lot of successful people who work with empty calendars.
+I consult my task lists and calendars, as well as my weekly and quarterly planning notes. My goal is to make sure progress is being made on the right things at the right pace for the relevant deadlines. The last sentence is exactly why. I schedule everything.
 
-I’ve read the articles. They simply work 2, 3 or 4 hours per day. And to be honest, that sounds very attractive to me too.
+I want to do. Working is not the same thing as making progress. And time blocking helps me to improve my focus so. I can get meaningful things done.
+
+Things that have an actual impact on my life. I know there are a lot of successful people who work with empty calendars. I’ve read the articles. They simply work 2, 3 or 4 hours per day.
+
+And to be honest, that sounds very attractive to me too.
 
 
 <a id="sec-015550"></a>
@@ -1008,57 +1156,69 @@ I’ve read the articles. They simply work 2, 3 or 4 hours per day. And to be ho
 
 However, one must look at his, her own life situation. What are you trying to achieve? And more importantly, what resources do you have? Often, people who don’t have a lot of money, do have a lot of time.
 
-So why not use it wisely? Either way, I think that planning serves a purpose. I plan my days and weeks in advance because I want to make sure I’m working on the right things. Too often, I get lost in completing daily tasks.
+So why not use it wisely? Either way, I think that planning serves a purpose. I plan my days and weeks in advance because. I want to make sure.
 
-Think about it this way. I’m pretty organized already. And I only work on one big thing per area of my life. But there are many different areas of my life, my family business, my blog, podcast, online courses, relationship, friends, investments, etc. It might sound like I’m doing many different things.
+I’m working on the right things. Too often, I get lost in completing daily tasks. Think about it this way. I’m pretty organized already.
 
-But it depends on how you look at it. Everything I do leads to one thing, living a meaningful and independent life. But let’s not get philosophical here. If you’re lacking focus, not making progress, and want to work in a more organized way, give time blocking a try.
+And. I only work on one big thing per area of my life. But there are many different areas of my life, my family business, my blog, podcast, online courses, relationship, friends, investments, etc. It might sound like.
 
-Here are some things I’ve learned that may help, take 10 minutes every evening and plan your next day. Rearrange blocks if you must create time for other important things. Use recurring blocks for recurring tasks. For instance, I’ve scheduled 2 hours to write my new book every Tuesday and Thursday.
+I’m doing many different things. But it depends on how you look at it. Everything. I do leads to one thing, living a meaningful and independent life.
 
-Don’t overschedule. Realistically, you can’t be productive 10 hours straight. Give yourself some time between tasks. And always schedule more time than you think you need.
+But let’s not get philosophical here. If you’re lacking focus, not making progress, and want to work in a more organized way, give time blocking a try. Here are some things. I’ve learned that may help, take 10 minutes every evening and plan your next day.
 
-Wow, that sounds like too much planning to me. No problem. Plan less. There’s always a counter-movement for everything.
+Rearrange blocks if you must create time for other important things. Use recurring blocks for recurring tasks. For instance, I’ve scheduled 2 hours to write my new book every Tuesday and Thursday. Don’t overschedule.
 
-People who do the exact opposite and advocate an anti-productivity lifestyle. You know, folks who claim they have empty calendars don’t care about anything in life. People who pretend they are always, enjoying, themselves. They like to go with the flow and daydream.
+Realistically, you can’t be productive 10 hours straight. Give yourself some time between tasks. And always schedule more time than you think you need. Wow, that sounds like too much planning to me.
 
-You know what that reminds me of? Those kids in school who always said, ah dude, I didn’t have time to study for this class, but always ended up getting straight A’s. People just want to make you believe they don’t work hard. It’s a facade.
+No problem. Plan less. There’s always a counter-movement for everything. People who do the exact opposite and advocate an anti-productivity lifestyle.
 
-And when they do well in life, it seems like it came easy. As far as I know, achieving meaningful things is hard. I don’t think there’s anything cool about pretending it’s easy. Nor do I believe that it’s cool to work yourself to death.
+You know, folks who claim they have empty calendars don’t care about anything in life. People who pretend they are always, enjoying, themselves. They like to go with the flow and daydream. You know what that reminds me of?
 
-I often think of this question, are you an amateur or a pro? It’s Steven Pressfield’s famous analogy, from his book The War of Art, for getting work done. The amateur only works when inspiration strikes. The pro sits down every day and puts in steady work.
+Those kids in school who always said, ah dude, I didn’t have time to study for this class, but always ended up getting straight A’s. People just want to make you believe they don’t work hard. It’s a facade. And when they do well in life, it seems like it came easy.
 
-The key is steady. Not irregular or extreme. I stopped working out daily. Here’s what happened.
+As far as. I know, achieving meaningful things is hard. I don’t think there’s anything cool about pretending it’s easy. Nor do.
 
-For the past three years, I’ve been setting a yearly focus for my life. In 2014, I wanted to work abroad and travel as much as I could. In 2015, I wanted to read more than 100 books in a year. And in 2016, I wanted to work out every day of the year.
+I believe that it’s cool to work yourself to death. I often think of this question, are you an amateur or a pro? It’s Steven Pressfield’s famous analogy, from his book The War of Art, for getting work done. The amateur only works when inspiration strikes.
 
-I’ve done those things. I love setting a yearly focus because it gives you a clear idea of what you want to do with your time. You’ll be surprised what you can do in a year if you put your mind to it. This year, my focus is to write more books, even though it’s not going great, I’m still working on that.
+The pro sits down every day and puts in steady work. The key is steady. Not irregular or extreme. I stopped working out daily.
 
-But at the same time, I also don’t want to stop reading and working out. However, that’s sometimes more complicated than it sounds. In January of this year, I got the flu. And when I came back to our family business, I underestimated. how much work I had to catch up with.
+Here’s what happened. For the past three years, I’ve been setting a yearly focus for my life. In 2014, I wanted to work abroad and travel as much as. I could.
 
-I also wanted to keep creating new content for my blog and online courses. I thought to myself, I can’t do everything, so I’m going to cut back on daily exercise. Big mistake. Here’s what happened.
+In 2015, I wanted to read more than 100 books in a year. And in 2016, I wanted to work out every day of the year. I’ve done those things. I love setting a yearly focus because it gives you a clear idea of what you want to do with your time.
 
-Instead of daily exercise, I went to the gym 2-3 times a week. And I ran once a week. This was by the end of January. For the first few weeks, nothing was wrong, and I felt good.
+You’ll be surprised what you can do in a year if you put your mind to it. This year, my focus is to write more books, even though it’s not going great, I’m still working on that. But at the same time, I also don’t want to stop reading and working out.
+
+However, that’s sometimes more complicated than it sounds. In January of this year, I got the flu. And when. I came back to our family business, I underestimated. how much work.
+
+I had to catch up with. I also wanted to keep creating new content for my blog and online courses. I thought to myself, I can’t do everything, so. I’m going to cut back on daily exercise.
+
+Big mistake. Here’s what happened. Instead of daily exercise, I went to the gym 2-3 times a week. And.
+
+I ran once a week. This was by the end of January. For the first few weeks, nothing was wrong, and. I felt good.
 
 I was also productive. But by the end of February, that changed. I started feeling tired by the end of the day. Something that never happens to me.
 
-I also started writing less. I had a big buffer of articles, so I did post two articles a week.
+I also started writing less. I had a big buffer of articles, so. I did post two articles a week.
 
 
 <a id="sec-020051"></a>
 ### ⏱️ [02:00:51 - 02:05:52]
 
-By March, I was at a productivity low. Fortunately, I always stick to my productivity system. I managed to get the minimum amount of work that’s necessary done. But I stopped creating.
+By March, I was at a productivity low. Fortunately, I always stick to my productivity system. I managed to get the minimum amount of work that’s necessary done. But.
 
-I started watching Netflix in the evening. I even watched an episode of a TV show called 12 Monkeys. It was complete shit. I much more prefer to read a book before bedtime.
+I stopped creating. I started watching Netflix in the evening. I even watched an episode of a TV show called 12 Monkeys. It was complete shit.
 
-So I got frustrated that I wasted my time. And when I’m frustrated, I start journaling and reflecting more. I looked at my habits. And I noticed I felt tired and got less work done.
+I much more prefer to read a book before bedtime. So. I got frustrated that. I wasted my time.
 
-Why? The answer was, exercise. Actually, a lack of it. By April, I shifted my focus again, get back in shape.
+And when. I’m frustrated, I start journaling and reflecting more. I looked at my habits. And.
 
-So that’s what I’m doing now. And if you want to get in shape too, it’s important to understand what you’re aiming for. For instance, I’m 6 inch 3 and 181 pounds. But that doesn’t mean anything.
+I noticed. I felt tired and got less work done. Why? The answer was, exercise.
 
-Most common measures like the BMI are pretty useless because they don’t say anything about your strength. To be honest, I don’t care about measures or even my exact fat percentage. Instead, I look at my fitness and how it impacts my daily life. When I’m in good shape, I can.
+Actually, a lack of it. By April, I shifted my focus again, get back in shape. So that’s what. I’m doing now.
+
+And if you want to get in shape too, it’s important to understand what you’re aiming for. For instance, I’m 6 inch 3 and 181 pounds. But that doesn’t mean anything. Most common measures like the BMI are pretty useless because they don’t say anything about your strength.
+
+To be honest, I don’t care about measures or even my exact fat percentage. Instead, I look at my fitness and how it impacts my daily life. When. I’m in good shape, I can.
 
 Run 10K without stopping for rest. Head lift, squat and bench press my body weight at least 8 times. And do at least 12 pull-ups. What’s that based on?
 
@@ -1074,19 +1234,23 @@ The quality of life decreases when you stop working out. And stop looking for si
 
 But that’s the whole point. The easiest solution for a good life is right at your disposal, your body. Are you neglecting it or strengthening it? If you want to be more productive, research shows you need a break.
 
-Do you spend the majority of your day at your desk? And do find it difficult to concentrate throughout the day. There’s a simple solution to improve your productivity and focus. How can I get more stuff done without being distracted?
+Do you spend the majority of your day at your desk? And do find it difficult to concentrate throughout the day. There’s a simple solution to improve your productivity and focus. How can.
 
-That’s a question I often get. It’s human nature, we always want to improve output. For machines, it’s straightforward, you improve speed. Machines get faster and better every day.
+I get more stuff done without being distracted? That’s a question. I often get. It’s human nature, we always want to improve output.
 
-But what about your personal productivity? I’ve read dozens of books on productivity. I’ve read countless articles on time management. And I’ve tested different methods to boost my productivity.
+For machines, it’s straightforward, you improve speed. Machines get faster and better every day. But what about your personal productivity? I’ve read dozens of books on productivity.
 
-The idea is simple, I want to get more done in the same amount of time. I’m not looking for shortcuts or hacks, so I have to do less work. I don’t mind working. What I don’t like is the feeling of wasting time on stuff that is meaningless.
+I’ve read countless articles on time management. And. I’ve tested different methods to boost my productivity. The idea is simple, I want to get more done in the same amount of time.
 
-Sometimes I start by watching one YouTube video, and boom, two hours have gone by. And then I get frustrated with YouTube. But that doesn’t make sense. It’s like getting angry with alcohol after you’ve spent a night boozing.
+I’m not looking for shortcuts or hacks, so. I have to do less work. I don’t mind working. What.
 
-It’s not the alcohol, it’s you. You just couldn’t have one drink, or watch just one video. Couldn’t you? I’ve found a way to eliminate that frustration with the distractions of work, not boozing, which makes it lot more fun to work and less stressful.
+I don’t like is the feeling of wasting time on stuff that is meaningless. Sometimes. I start by watching one YouTube video, and boom, two hours have gone by. And then.
 
-The solution is simple, take a 5-minute break after every 30 minutes of work. It’s also called the Pomodoro technique.
+I get frustrated with YouTube. But that doesn’t make sense. It’s like getting angry with alcohol after you’ve spent a night boozing. It’s not the alcohol, it’s you.
+
+You just couldn’t have one drink, or watch just one video. Couldn’t you? I’ve found a way to eliminate that frustration with the distractions of work, not boozing, which makes it lot more fun to work and less stressful. The solution is simple, take a 5-minute break after every 30 minutes of work.
+
+It’s also called the Pomodoro technique.
 
 
 <a id="sec-020552"></a>
@@ -1120,9 +1284,11 @@ What does success look like? What do you want from life? What career do you want
 
 And you know what? There’s nothing wrong with that. And yet, we think it’s the worst thing in the world if you don’t know what you want to do in life. We say, omg.
 
-I don’t know what I want. And then we have a full-on panic attack. Be honest, it happens to all of us. Especially when you see that your old college friend just got married.
+I don’t know what. I want. And then we have a full-on panic attack. Be honest, it happens to all of us.
 
-Or that your coworker, who started at the same time as you, just got promoted. It’s at those moments of weakness when we shine a spotlight on our own uncertainty about life. One of the biggest thinking errors that I’ve made was that I thought I needed to know what I exactly wanted to do with my life.
+Especially when you see that your old college friend just got married. Or that your coworker, who started at the same time as you, just got promoted. It’s at those moments of weakness when we shine a spotlight on our own uncertainty about life. One of the biggest thinking errors that.
+
+I’ve made was that. I thought. I needed to know what. I exactly wanted to do with my life.
 
 The truth is that no one knows what they truly want. Accept the uncertainty. You could get killed by a cow tomorrow, really happened. You could lose half of your money on the stock market.
 
@@ -1132,25 +1298,33 @@ Will the stock market crash? Will your business continue to prosper? No one know
 
 Eleanor Roosevelt said it best, if life were predictable it would cease to be life, and be without flavor. Some people ask me, why do you read so many books? There’s no way you can apply everything you learn. They are right.
 
-I cannot. Why do I still read about all kinds of different topics? There might come a time in my life where I will need one particular piece of knowledge.
+I cannot. Why do. I still read about all kinds of different topics? There might come a time in my life where.
+
+I will need one particular piece of knowledge.
 
 
 <a id="sec-021055"></a>
 ### ⏱️ [02:10:55 - 02:15:55]
 
-And that one time I need it might just change the whole outcome of my life. I’ll give you an example. In 2015, after my friends and mentors told me I should share my ideas about productivity, life, and business with others, I seriously started thinking about doing it. But there are many ways you can share your knowledge with others.
+And that one time. I need it might just change the whole outcome of my life. I’ll give you an example. In 2015, after my friends and mentors told me.
 
-You can give training to groups and host seminars. You can coach people individually. You can create videos for YouTube. You can give talks at conferences.
+I should share my ideas about productivity, life, and business with others, I seriously started thinking about doing it. But there are many ways you can share your knowledge with others. You can give training to groups and host seminars. You can coach people individually.
 
-The possibilities are endless. But because I’ve always had an interest in writing and had read so much about it in the past, I realized that I should start with written ideas. That was the easiest way for me to get started. I had also learned all about creating websites in the past.
+You can create videos for YouTube. You can give talks at conferences. The possibilities are endless. But because.
 
-So it was very easy for me to get started with all of this. In fact, I created a website in a day. And I started writing every day for a month. The result?
+I’ve always had an interest in writing and had read so much about it in the past, I realized that. I should start with written ideas. That was the easiest way for me to get started. I had also learned all about creating websites in the past.
 
-A book and a bunch of articles. Know your direction. Not your destination. When I read about writing and building websites years ago, I didn’t know I would use that knowledge to build my own blog.
+So it was very easy for me to get started with all of this. In fact, I created a website in a day. And. I started writing every day for a month.
 
-To be honest, I didn’t know what I wanted. I only knew what direction I wanted to go in. I knew I wanted to make a contribution and do work that I enjoyed. So it’s not important to know exactly what you want to do with your life.
+The result? A book and a bunch of articles. Know your direction. Not your destination.
 
-People change. Economies change. So, it’s not even realistic to boldly claim, I know what I want. The only thing every person needs is a sense of direction.
+When. I read about writing and building websites years ago, I didn’t know. I would use that knowledge to build my own blog. To be honest, I didn’t know what.
+
+I wanted. I only knew what direction. I wanted to go in. I knew.
+
+I wanted to make a contribution and do work that. I enjoyed. So it’s not important to know exactly what you want to do with your life. People change.
+
+Economies change. So, it’s not even realistic to boldly claim, I know what. I want. The only thing every person needs is a sense of direction.
 
 A vision of where you’d like to go. Look, you don’t need to know your exact destination. You often read about people who say they always knew what they wanted. But that’s just a small portion of the population.
 
@@ -1158,23 +1332,25 @@ I’ve personally never met someone like that. Most of us don’t have that conv
 
 That’s what J Abraham also recommends in getting everything you can out of all you’ve got, which is one of my favorite business books of all time. Your first priority is to identify what you want and then make sure you take the path that’s going to give you that. There’s nothing sadder than to see someone get to be 75 or 80 years old and look back regrettably because they pursued the wrong target. You see that he doesn’t say you should know exactly what you want.
 
-That would not be realistic. Instead, we need to know where we’re roughly going. I know, it remains intangible. But that’s the only helpful answer that I’ve found in life.
+That would not be realistic. Instead, we need to know where we’re roughly going. I know, it remains intangible. But that’s the only helpful answer that.
 
-Work on universal skills. While you’re figuring everything out, don’t waste your time watching hours of TV, drinking booze, or eating junk food. Spend your time usefully. Learn skills you can always rely on.
+I’ve found in life. Work on universal skills. While you’re figuring everything out, don’t waste your time watching hours of TV, drinking booze, or eating junk food. Spend your time usefully.
 
-Need some inspiration? Here are a few skills that I’m constantly working on. 1. Self-discipline, get better at ignoring the negative voice in your head. Get out of your bed.
+Learn skills you can always rely on. Need some inspiration? Here are a few skills that. I’m constantly working on. 1.
 
-Go to the gym. Don’t listen to, I don’t want to. 2. Personal effectiveness, learn how to maximize the results you can get during the 16-18 hours you’re awake. Get more done, effectively. 3.
+Self-discipline, get better at ignoring the negative voice in your head. Get out of your bed. Go to the gym. Don’t listen to, I don’t want to. 2.
 
-Communication, we think we’re all master communicators. But the truth is that we suck. Communication is both art and science. And our ability to work with others depends on it. 4.
+Personal effectiveness, learn how to maximize the results you can get during the 16-18 hours you’re awake. Get more done, effectively. 3. Communication, we think we’re all master communicators. But the truth is that we suck.
 
-Negotiation, you negotiate all the time. With your spouse, kids, parents. teachers, friends, coworkers, managers, etc. Learn to get the best deal for all parties. 5. Persuasion, learn how to get what you want in an ethical way. 6. Physical strength and stamina, getting stronger is a skill.
+Communication is both art and science. And our ability to work with others depends on it. 4. Negotiation, you negotiate all the time. With your spouse, kids, parents. teachers, friends, coworkers, managers, etc.
 
-Pull your own weight. It’s something every human should be able to do. 7. Flexibility, sitting all day long behind your computer or in your car turns you into a stiff being. Learn how to stretch your hips, lower back, hamstrings, and calves, the most common weak points of desk workers.
+Learn to get the best deal for all parties. 5. Persuasion, learn how to get what you want in an ethical way. 6. Physical strength and stamina, getting stronger is a skill. Pull your own weight.
 
-That’s enough to keep you busy for a lifetime if you want to do it well. Pick a skill that excites you. Get better at it. Then, pick another.
+It’s something every human should be able to do. 7. Flexibility, sitting all day long behind your computer or in your car turns you into a stiff being. Learn how to stretch your hips, lower back, hamstrings, and calves, the most common weak points of desk workers. That’s enough to keep you busy for a lifetime if you want to do it well.
 
-And keep on repeating that process. Soon enough, you’ll know what you want.
+Pick a skill that excites you. Get better at it. Then, pick another. And keep on repeating that process.
+
+Soon enough, you’ll know what you want.
 
 
 <a id="sec-021555"></a>
@@ -1182,11 +1358,11 @@ And keep on repeating that process. Soon enough, you’ll know what you want.
 
 And if you don’t, it’s not the end of the world. There’s still plenty to learn. Leave the office on time and don’t take your work home. These two lessons are true for every person who wants a long, happy, and satisfying career.
 
-But it’s very hard to put that advice into practice. It took me the first six years of my career to figure that out. And I still have to remind myself that life is bigger than work. And everywhere that I’ve worked in the past, there was a, perception is reality, culture.
+But it’s very hard to put that advice into practice. It took me the first six years of my career to figure that out. And. I still have to remind myself that life is bigger than work.
 
-That means looks are more important than reality. In other words, the person who’s in the office the longest appears to be the hardest worker.
+And everywhere that. I’ve worked in the past, there was a, perception is reality, culture. That means looks are more important than reality.
 
-Now, that may be true. But that’s not what matters. We all know that the only thing that counts is results.
+In other words, the person who’s in the office the longest appears to be the hardest worker. Now, that may be true. But that’s not what matters. We all know that the only thing that counts is results.
 
 However, we collectively insist on looking at vanity factors like participation in meetings, hours spent at the office, and how fast people respond to emails. It’s pathetic. At our family business, we encourage everyone to leave when they are done for the day. We’ve learned that focusing on priorities is a much better metric than only looking at the hours someone works.
 
@@ -1196,71 +1372,77 @@ You’re there to contribute. To your own company, or the company you work for. 
 
 Now, I’m sure people love to be in your presence for 10 hours a day, but that doesn’t mean you have to stick around so long that you become unproductive. Because that’s one of the main reasons we’ve stopped working standard 9 or 10 hour days. It’s useless. There’s a large body of research that proves working long hours is counterproductive.
 
-Working too much and the stress that goes along with it can lead to depression, sleep problems, impaired memory, and even heart disease. You get the idea. That’s why my first rule of work is this, leave on time. The other day I was talking to my mentor about how great it is to love your job.
+Working too much and the stress that goes along with it can lead to depression, sleep problems, impaired memory, and even heart disease. You get the idea. That’s why my first rule of work is this, leave on time. The other day.
 
-He said, “I’ve never had a job in my life that I didn’t love.” It’s one of the most gratifying things in life. But like my mother always says, too much of a good thing becomes bad. I believe that’s the same with work.
+I was talking to my mentor about how great it is to love your job. He said, “I’ve never had a job in my life that. I didn’t love.”. It’s one of the most gratifying things in life.
+
+But like my mother always says, too much of a good thing becomes bad. I believe that’s the same with work.
 
 Now, I’m not talking about intensity. Don’t get me wrong, I work my ass off. Always have done. But just don’t go on for too long.
 
-The art of working hard is knowing when to quit. But like my mentor told me, that’s very hard, my biggest problem was that I work too much. I left the house at 7am and came back at 11pm. That’s too much.
+The art of working hard is knowing when to quit. But like my mentor told me, that’s very hard, my biggest problem was that. I work too much. I left the house at 7am and came back at 11pm.
 
-You must protect yourself against too much work. And it’s straightforward. Just leave the office on time. Whether you love your job or not, it doesn’t matter.
+That’s too much. You must protect yourself against too much work. And it’s straightforward. Just leave the office on time.
 
-When it’s time to go home, go. No one needs you to be at the office 24-7. Only your ego does. Honestly, the office will be here tomorrow.
+Whether you love your job or not, it doesn’t matter. When it’s time to go home, go. No one needs you to be at the office 24-7. Only your ego does.
 
-Your co-workers will still be alive. Your company will not go bust. Work is about achieving results. If you can’t do that in 6-8 hours a day, you’re not effective.
+Honestly, the office will be here tomorrow. Your co-workers will still be alive. Your company will not go bust. Work is about achieving results.
 
-So instead of working overtime, read a book on personal effectiveness or get productivity training. Leave your work at work. But don’t just go home and bring your work with you. That defeats the whole purpose.
+If you can’t do that in 6-8 hours a day, you’re not effective. So instead of working overtime, read a book on personal effectiveness or get productivity training. Leave your work at work. But don’t just go home and bring your work with you.
 
-No one thinks it’s cool when you’re closing deals on the phone at dinner. You’re also not doing yourself a service by continually thinking about work when you’re at home. Relax a bit. Play some call of duty.
+That defeats the whole purpose. No one thinks it’s cool when you’re closing deals on the phone at dinner. You’re also not doing yourself a service by continually thinking about work when you’re at home. Relax a bit.
 
-Take dinner for your spouse. Take the kids for a walk. Whatever. Look, living a happy life is very simple.
+Play some call of duty. Take dinner for your spouse. Take the kids for a walk. Whatever.
 
-It’s all within our control. We can decide what makes us happy. I have printed this Marcus Aurelius quote on my journal to remind me of that, very little is needed to make a happy life, it is all within yourself, in your way of thinking. We all know that money, success, fame, or recognition, by themselves, don’t make us happy.
+Look, living a happy life is very simple. It’s all within our control. We can decide what makes us happy. I have printed this Marcus Aurelius quote on my journal to remind me of that, very little is needed to make a happy life, it is all within yourself, in your way of thinking.
 
-And yet, we work too much to obtain those things that don’t even make us happy in the first place. So why do we keep working too much that it hurts us? It could be our ego. Maybe we just can’t help ourselves.
+We all know that money, success, fame, or recognition, by themselves, don’t make us happy. And yet, we work too much to obtain those things that don’t even make us happy in the first place. So why do we keep working too much that it hurts us? It could be our ego.
+
+Maybe we just can’t help ourselves.
 
 
 <a id="sec-022056"></a>
 ### ⏱️ [02:20:56 - 02:26:00]
 
-It’s different for every person. Personally, I don’t care about the reason. All I know is that too much work has a negative impact on the quality of your life and work. What matters is that we protect ourselves from our own stupidity.
+It’s different for every person. Personally, I don’t care about the reason. All. I know is that too much work has a negative impact on the quality of your life and work.
 
-We’re just like kids. We need rules to live happily and safely. That’s why the first rule of work is that we leave the office on time. The second rule is that we don’t take our work home.
+What matters is that we protect ourselves from our own stupidity. We’re just like kids. We need rules to live happily and safely. That’s why the first rule of work is that we leave the office on time.
 
-And the third rule. Let’s not worry about that for now. We’ll get to that another time. It’s time for me to go home.
+The second rule is that we don’t take our work home. And the third rule. Let’s not worry about that for now. We’ll get to that another time.
 
-Consistency is key, improve by 0.1% every day. Do you ever worry about things you don’t control? If you do, join the club. It happens to all of us.
+It’s time for me to go home. Consistency is key, improve by 0.1% every day. Do you ever worry about things you don’t control? If you do, join the club.
 
-But worrying is a waste of time and energy. Imagine the following situation, you make a mistake at work that upsets a client. Maybe you send someone a wrong email. Maybe you forget to solve a problem.
+It happens to all of us. But worrying is a waste of time and energy. Imagine the following situation, you make a mistake at work that upsets a client. Maybe you send someone a wrong email.
 
-It doesn’t matter what it is. Imagine that something goes seriously wrong at work. What do you do when you find out? Do you stress out?
+Maybe you forget to solve a problem. It doesn’t matter what it is. Imagine that something goes seriously wrong at work. What do you do when you find out?
 
-Feel uncomfortable. Blame yourself. Blame others. Think it’s the end of your career.
+Do you stress out? Feel uncomfortable. Blame yourself. Blame others.
 
-When things go wrong, we become our own worst enemy because we focus on things we don’t control. It’s one thing to read about these things. It’s another thing to actually put it in practice. Because when shit hits the fan it’s natural to panic.
+Think it’s the end of your career. When things go wrong, we become our own worst enemy because we focus on things we don’t control. It’s one thing to read about these things. It’s another thing to actually put it in practice.
 
-Instead of thinking, take a step back and focus on what lies within your control. What do you control? Essentially, we only control our own actions and mindset. We determine our, desire, attitude, judgments, determination that’s about it.
+Because when shit hits the fan it’s natural to panic. Instead of thinking, take a step back and focus on what lies within your control. What do you control? Essentially, we only control our own actions and mindset.
 
-Something else, we have no control over. So it makes no sense to worry about things that are not on that list. That’s a stoic philosophy exercise. Something that exists for centuries.
+We determine our, desire, attitude, judgments, determination that’s about it. Something else, we have no control over. So it makes no sense to worry about things that are not on that list. That’s a stoic philosophy exercise.
 
-And the best thing is that you can immediately apply this to your life. Next time you catch yourself worrying about a situation, focus on the things you control. What counts is that we do the right thing because that is all we can do. We don’t control outcomes.
+Something that exists for centuries. And the best thing is that you can immediately apply this to your life. Next time you catch yourself worrying about a situation, focus on the things you control. What counts is that we do the right thing because that is all we can do.
 
-Do you see? 1. Made a mistake. Correct it. 2. Something goes wrong.
+We don’t control outcomes. Do you see? 1. Made a mistake. Correct it. 2.
 
-Find a solution. Also, never be surprised when bad things happen. But rather expect them to happen. In that way, you will never be caught off guard.
+Something goes wrong. Find a solution. Also, never be surprised when bad things happen. But rather expect them to happen.
 
-Similarly, when you’re struck with bad luck, don’t complain and say stuff like, why me? Instead, accept it and then focus your energy on finding a solution. Always keep a positive mindset. Why this exercise improves productivity.
+In that way, you will never be caught off guard. Similarly, when you’re struck with bad luck, don’t complain and say stuff like, why me? Instead, accept it and then focus your energy on finding a solution. Always keep a positive mindset.
 
-I’m often asked, what does philosophy have to do with productivity? Well, if you want to be productive, the most important thing is consistency. Productivity is not about Eureka moments, your big break, pulling off all-nighters or drinking Red Bull all day. If you want to achieve things in your life, it’s about aiming for daily progress.
+Why this exercise improves productivity. I’m often asked, what does philosophy have to do with productivity? Well, if you want to be productive, the most important thing is consistency. Productivity is not about Eureka moments, your big break, pulling off all-nighters or drinking Red Bull all day.
 
-You want to exercise, read, work, learn, study, every single day. Inconsistency is the enemy of results. And that’s why I practice Stoic and Pragmatism philosophy to improve my mental toughness. It’s also a big part of my personal productivity system, procrastinate zero.
+If you want to achieve things in your life, it’s about aiming for daily progress. You want to exercise, read, work, learn, study, every single day. Inconsistency is the enemy of results. And that’s why.
 
-I don’t want ups and downs because that hurts productivity. Instead, I want to progress 0.1% every day of the year. And that’s a very realistic goal. Try it and maybe it will change your life too.
+I practice Stoic and Pragmatism philosophy to improve my mental toughness. It’s also a big part of my personal productivity system, procrastinate zero. I don’t want ups and downs because that hurts productivity. Instead, I want to progress 0.1% every day of the year.
 
-Who says you have to get out of your comfort zone? I love my comfort zone. To me, that’s where the real magic happens. In my comfort zone, I have my family, friends, work, music, books, movies, bike, gym, park, you name it.
+And that’s a very realistic goal. Try it and maybe it will change your life too. Who says you have to get out of your comfort zone? I love my comfort zone.
 
-Everything I love. And from that place of safety, I’m more open to trying new things and take risks. I’ve never believed the idea of that stupid little drawing. You know what I’m talking about, right?
+To me, that’s where the real magic happens. In my comfort zone, I have my family, friends, work, music, books, movies, bike, gym, park, you name it. Everything. I love.
+
+And from that place of safety, I’m more open to trying new things and take risks. I’ve never believed the idea of that stupid little drawing. You know what. I’m talking about, right?
 
 Your comfort zone. A little circle. Where the magic happens. A big circle that stands for the promise of success.
 
@@ -1270,23 +1452,27 @@ As if magic only happens when you step outside your comfort zone, that’s ridic
 <a id="sec-022600"></a>
 ### ⏱️ [02:26:00 - 02:31:00]
 
-It’s this pathetic little circle displayed against the bigger, magical circle. Sure, I’m all about pushing yourself, trying new things, moving forward, growing, etc. But in contrast to many popular self-help people, I don’t believe the comfort zone is a bad thing. Call me a pessimist. Call me stoic.
+It’s this pathetic little circle displayed against the bigger, magical circle. Sure, I’m all about pushing yourself, trying new things, moving forward, growing, etc. But in contrast to many popular self-help people, I don’t believe the comfort zone is a bad thing. Call me a pessimist.
 
-But more than anything, I’m merely a practical person. And practically speaking, you don’t even want to make a huge leap outside your comfort zone.
+Call me stoic. But more than anything, I’m merely a practical person. And practically speaking, you don’t even want to make a huge leap outside your comfort zone.
 
-In fact, I believe in the slow road to magic. Where’s the magic people talk about? I found that I do my best work when I don’t worry about money, finding new friends, getting familiar with a new environment, and anything else that is related to always moving around. But don’t get me wrong.
+In fact, I believe in the slow road to magic. Where’s the magic people talk about? I found that. I do my best work when.
 
-I’m not saying I prefer to stay put. Stagnation is a death sentence for me. I believe that there are different phases of life. Sometimes, you take it easy, work on your skills, your character, you invest in yourself.
+I don’t worry about money, finding new friends, getting familiar with a new environment, and anything else that is related to always moving around. But don’t get me wrong. I’m not saying. I prefer to stay put.
 
-And sometimes, you just go out there and take a chance. Life’s too short to be a wimp. But those two things are interconnected. If you don’t work on yourself, and if you lack self-confidence, you will never take a risk.
+Stagnation is a death sentence for me. I believe that there are different phases of life. Sometimes, you take it easy, work on your skills, your character, you invest in yourself. And sometimes, you just go out there and take a chance.
 
-For years I wanted to do what I’m doing now. But instead of jumping out of my comfort zone, which was scary, I slowly took on new and bigger challenges.
+Life’s too short to be a wimp. But those two things are interconnected. If you don’t work on yourself, and if you lack self-confidence, you will never take a risk. For years.
+
+I wanted to do what. I’m doing now. But instead of jumping out of my comfort zone, which was scary, I slowly took on new and bigger challenges.
 
 First, I got two degrees in business. Then, I started a business together with my father. That was in 2010. And after two years of working on that business for six or seven days a week, I started doing freelance marketing work.
 
-Again, after a few years of freelancing and starting, and failing, other businesses on my own, I took a job at a research advisory firm because I wanted to know how it is to work for a major corporation. And after doing that for a year and a half, I finally decided to write and talk about productivity, career, and entrepreneurship on the internet. By then, I’d been doing the things I write about for more than ten years. And yet, I don’t have all the answers, I just share the stuff I’ve learned.
+Again, after a few years of freelancing and starting, and failing, other businesses on my own, I took a job at a research advisory firm because. I wanted to know how it is to work for a major corporation. And after doing that for a year and a half, I finally decided to write and talk about productivity, career, and entrepreneurship on the internet. By then, I’d been doing the things.
 
-So it would be ridiculous if I would join people who scream, if you want to be successful, all you have to do is step outside your comfort zone. Now. Well, have you ever stepped outside your comfort zone? Even just a little bit counts.
+I write about for more than ten years. And yet, I don’t have all the answers, I just share the stuff. I’ve learned. So it would be ridiculous if.
+
+I would join people who scream, if you want to be successful, all you have to do is step outside your comfort zone. Now. Well, have you ever stepped outside your comfort zone? Even just a little bit counts.
 
 And what did you find? A leprechaun with a bag of money? Not going to happen. That comfort zone shit is just a story.
 
@@ -1300,13 +1486,15 @@ Instead, start from the very bottom. Build a strong foundation. Get comfortable 
 
 If you want to live stress-free, you need enough money in your savings account, so you can live and eat for six months in case things go south, see it as a fail-safe system. Again, that’s my practical mind speaking for me. Make some calculations and figure out what that number is for you. And don’t even think about taking a risk before you have that money on your savings account.
 
-Also, build a skill set that’s worth something. One of the reasons I don’t care about money is because I trust my ability to find work. Even when I go broke tomorrow, I’ll find a way to get work the next day. I’ve invested years in hundreds of thousands of dollars in my education.
+Also, build a skill set that’s worth something. One of the reasons. I don’t care about money is because. I trust my ability to find work.
 
-The question is, what’s your skill? How can you add value to the world? What problems can you solve? Other things that complete your foundation. 1.
+Even when. I go broke tomorrow, I’ll find a way to get work the next day. I’ve invested years in hundreds of thousands of dollars in my education. The question is, what’s your skill?
 
-Family. If you don’t have a family, create one. 2. Friends. You can’t be friends with everyone.
+How can you add value to the world? What problems can you solve? Other things that complete your foundation. 1. Family.
 
-Stick to a few people who also stick to you. 3. Self. Consciously improve your body and mind.
+If you don’t have a family, create one. 2. Friends. You can’t be friends with everyone. Stick to a few people who also stick to you. 3.
+
+Self. Consciously improve your body and mind.
 
 
 <a id="sec-023100"></a>
@@ -1324,33 +1512,35 @@ You don’t need a bigger dose of hashtag Monday motivation. You know why. That 
 
 It’s not useful. It’s the same as drinking Red Bull. It fades quickly. Belief, on the other hand, is a tool that’s extremely useful.
 
-And it’s underutilized by many. The problem is that most of us lack belief. And when I talk about belief, I talk about it from a practical point of view. I’m not talking about hope or faith.
+And it’s underutilized by many. The problem is that most of us lack belief. And when. I talk about belief, I talk about it from a practical point of view.
 
-I don’t believe that you can, hope for the best, sit back and wait until good things happen to you. Hope is not a strategy for life. I prefer to look at facts and make conclusions like a pragmatist. Like it or not, but everything that’s floating in that head of yours is there because you believe it.
+I’m not talking about hope or faith. I don’t believe that you can, hope for the best, sit back and wait until good things happen to you. Hope is not a strategy for life. I prefer to look at facts and make conclusions like a pragmatist.
 
-Life sucks. I’m not good at my job. I can never find my dream job. No one loves me.
+Like it or not, but everything that’s floating in that head of yours is there because you believe it. Life sucks. I’m not good at my job. I can never find my dream job.
 
-I will never become successful. See. It’s all there because you believe those things. William James, one of the primary figures associated with pragmatism, put it best, belief will help create the fact.
+No one loves me. I will never become successful. See. It’s all there because you believe those things.
 
-Belief is a practical instrument that you can use to shape reality. Have you ever considered that you decide what you believe? Not your friends, colleagues, family, or even the media. You observe things, and then decide what you believe.
+William James, one of the primary figures associated with pragmatism, put it best, belief will help create the fact. Belief is a practical instrument that you can use to shape reality. Have you ever considered that you decide what you believe? Not your friends, colleagues, family, or even the media.
 
-That’s why belief creates facts. No, life is not an R. Kelly song. You can’t fly, no matter how hard you believe it.
+You observe things, and then decide what you believe. That’s why belief creates facts. No, life is not an R. Kelly song.
 
-A pragmatist always keeps it real. You will never become a respectable leader without putting in the work. Your life will never change unless you take action. But that’s not the point.
+You can’t fly, no matter how hard you believe it. A pragmatist always keeps it real. You will never become a respectable leader without putting in the work. Your life will never change unless you take action.
 
-You know this. There’s no outcome without action. It comes down to one thing, do you believe that you can or can’t live the life you want? It’s as simple as that.
+But that’s not the point. You know this. There’s no outcome without action. It comes down to one thing, do you believe that you can or can’t live the life you want?
 
-But it’s something that you truly have to believe. It’s one thing to say that you believe something. It’s a whole different thing to actually believe. Let me highlight that by sharing a personal story.
+It’s as simple as that. But it’s something that you truly have to believe. It’s one thing to say that you believe something. It’s a whole different thing to actually believe.
 
-For most of my life, I lived in fear. It all started at school. People told me, if you don’t get good grades, you will not be accepted to a good university, and without a good degree, you will never get a job, and you will become a bum who dies alone. After hearing that, my 17-year-old brain went into a full-fledged panic mode.
+Let me highlight that by sharing a personal story. For most of my life, I lived in fear. It all started at school. People told me, if you don’t get good grades, you will not be accepted to a good university, and without a good degree, you will never get a job, and you will become a bum who dies alone.
 
-I started believing that stupid story. Who wants to become a bum and die alone? That’s a metaphor for not believing in yourself. Because somehow, that’s always the alternative.
+After hearing that, my 17-year-old brain went into a full-fledged panic mode. I started believing that stupid story. Who wants to become a bum and die alone? That’s a metaphor for not believing in yourself.
 
-If you do something that’s uncommon, or maybe a little risky, the common argument is that you become homeless. I meet a lot of people who say they’ve made important life decisions based on fear. Do you hate your job, but are you afraid to look for something else because you might lose your house? Do you want to leave your spouse, but are you afraid you’ll die alone?
+Because somehow, that’s always the alternative. If you do something that’s uncommon, or maybe a little risky, the common argument is that you become homeless. I meet a lot of people who say they’ve made important life decisions based on fear. Do you hate your job, but are you afraid to look for something else because you might lose your house?
 
-Do you study yourself to death because you’re afraid of what your parents will say when you quit? Do you never expose your work to the world because you’re afraid people will throw rocks at you because you suck? Will that really happen? Or is that just your mind acting up?
+Do you want to leave your spouse, but are you afraid you’ll die alone? Do you study yourself to death because you’re afraid of what your parents will say when you quit? Do you never expose your work to the world because you’re afraid people will throw rocks at you because you suck? Will that really happen?
 
-Probably the latter. I always wanted to become a writer. Back in school, I wrote poems for my girlfriend. It was kind of pathetic, but hey, she enjoyed my weird poems. And all jokes aside, I loved to read and enjoyed putting my thoughts on paper.
+Or is that just your mind acting up? Probably the latter. I always wanted to become a writer. Back in school, I wrote poems for my girlfriend.
+
+It was kind of pathetic, but hey, she enjoyed my weird poems. And all jokes aside, I loved to read and enjoyed putting my thoughts on paper.
 
 
 <a id="sec-023605"></a>
@@ -1358,31 +1548,39 @@ Probably the latter. I always wanted to become a writer. Back in school, I wrote
 
 But no, every adult in my life was trying to scare me to death. You can’t make a living as a writer. They were probably right. It’s not easy to make a living by writing.
 
-So what? Everything that’s worth it is hard. I didn’t realize that back then. So I gave up my goal.
+So what? Everything that’s worth it is hard. I didn’t realize that back then. So.
 
-I decided to pick the safe road and pursue a degree in business. I don’t regret that decision because I’ve learned many useful things. But the whole experience turned me into a fearful creature. Because after that whole scarefest in school, I eventually stopped believing in myself.
+I gave up my goal. I decided to pick the safe road and pursue a degree in business. I don’t regret that decision because. I’ve learned many useful things.
 
-I stopped writing and reading. And that’s a pure waste of time that I could’ve used for practicing my skills. You can achieve anything, as long as you believe in it. That’s something you once believed in but stopped believing because of fear.
+But the whole experience turned me into a fearful creature. Because after that whole scarefest in school, I eventually stopped believing in myself. I stopped writing and reading. And that’s a pure waste of time that.
 
-I think we’ve all been there. If you’re not careful, you’ll always stay there. For me, it wasn’t until two or three years ago that I figured out belief is an instrument that can help you to achieve your goals. Somehow I started reading about pragmatism, which is a way of thinking.
+I could’ve used for practicing my skills. You can achieve anything, as long as you believe in it. That’s something you once believed in but stopped believing because of fear. I think we’ve all been there.
 
-And it completely changed my own way of thinking. I realized that not believing in yourself is useless. So I decided to believe that I could live the life I wanted. Granted, I’m not fully paying the bills by writing yet.
+If you’re not careful, you’ll always stay there. For me, it wasn’t until two or three years ago that. I figured out belief is an instrument that can help you to achieve your goals. Somehow.
 
-I run a business and do consulting. But I do make some money with my blog. And that’s pretty good to know for the 17-year-old version of me. Believing in yourself is very simple.
+I started reading about pragmatism, which is a way of thinking. And it completely changed my own way of thinking. I realized that not believing in yourself is useless. So.
 
-You can do it too. Just understand that belief is an instrument. That idea is not new or anything. It’s been around for hundreds of years.
+I decided to believe that. I could live the life. I wanted. Granted, I’m not fully paying the bills by writing yet.
 
-People just have different names for it. I don’t care how you call it. But guess what happened since I’ve been using belief as an instrument? Most things I believed are facts now.
+I run a business and do consulting. But. I do make some money with my blog. And that’s pretty good to know for the 17-year-old version of me.
 
-And the other stuff I believe will one day become a fact. How am I so certain? Because my mind can conceive it. And if your mind can conceive it, you can achieve it.
+Believing in yourself is very simple. You can do it too. Just understand that belief is an instrument. That idea is not new or anything.
 
-That’s not a motivational quote. That’s a fact. Do you believe it? Don’t compete.
+It’s been around for hundreds of years. People just have different names for it. I don’t care how you call it. But guess what happened since.
 
-Create. If you think that you have to compete for better jobs or more market share, you’re as wrong as I was. The idea of competition is engraved in our minds. We believe that we have to compete for the same jobs with others.
+I’ve been using belief as an instrument? Most things. I believed are facts now. And the other stuff.
 
-If someone has a job, that means you can’t have the same job. And if a company has a certain market share, that means you have to compete with that company to win a piece of their share. At least, that’s what conventional advice says. It’s also what I learned in business school.
+I believe will one day become a fact. How am. I so certain? Because my mind can conceive it.
 
-My entire education was based on competing with other businesses. And almost every business book that I’ve read also assumes that business is competition. They couldn’t be more wrong. When you assume that you have to compete with other businesses or people for money, jobs or attention, you’re engaged in limited thinking.
+And if your mind can conceive it, you can achieve it. That’s not a motivational quote. That’s a fact. Do you believe it?
+
+Don’t compete. Create. If you think that you have to compete for better jobs or more market share, you’re as wrong as. I was.
+
+The idea of competition is engraved in our minds. We believe that we have to compete for the same jobs with others. If someone has a job, that means you can’t have the same job. And if a company has a certain market share, that means you have to compete with that company to win a piece of their share.
+
+At least, that’s what conventional advice says. It’s also what. I learned in business school. My entire education was based on competing with other businesses.
+
+And almost every business book that. I’ve read also assumes that business is competition. They couldn’t be more wrong. When you assume that you have to compete with other businesses or people for money, jobs or attention, you’re engaged in limited thinking.
 
 Instead, we must adopt an abundance mindset. Wallace D. Wattles, one of the first famed personal development authors, said it best, you get rid of the thought of competition. You are to create, not to compete for what is already created.
 
@@ -1402,27 +1600,29 @@ Humans always find a way to survive and prosper. That’s simply what we do. You
 
 So, never allow yourself to think that you won’t make it. What is that good for? If you can’t find the right career, create one. You know, life is not easy.
 
-And it’s also not easy to find a career that truly satisfies you, both mentally and financially. I know that millions of people face that challenge. But I also know that many of these people limit themselves by thinking that they can’t create a career. Similar to how I think entrepreneurs and companies should create market share, I also believe that individual people should create a career.
+And it’s also not easy to find a career that truly satisfies you, both mentally and financially. I know that millions of people face that challenge. But. I also know that many of these people limit themselves by thinking that they can’t create a career.
 
-I recently met a chief happiness officer at a non-tech company, which is pretty unusual. I did some research, and it appears that Ronald McDonald was the first who had the CHO title in 2003. After that, tech companies started adopting the title. It’s very simple.
+Similar to how. I think entrepreneurs and companies should create market share, I also believe that individual people should create a career. I recently met a chief happiness officer at a non-tech company, which is pretty unusual. I did some research, and it appears that Ronald McDonald was the first who had the CHO title in 2003.
 
-A CHO is responsible for the wellness and happiness of employees. I also read that Tony C., CEO of Zappos, is a big advocate of employee happiness. But here’s the thing, traditional companies think it’s bullshit. Initially, the company I mentioned before shared that thought.
+After that, tech companies started adopting the title. It’s very simple. A CHO is responsible for the wellness and happiness of employees. I also read that Tony C., CEO of Zappos, is a big advocate of employee happiness.
 
-And naturally, they didn’t have a CHO position. She told me she had to create the position. In the past, leaders believed that the only reason people will work for you is because of the salary. The more money you offer, the better the people you attract.
+But here’s the thing, traditional companies think it’s bullshit. Initially, the company. I mentioned before shared that thought. And naturally, they didn’t have a CHO position.
 
-That might be true for some. But more money is not always better. Many people care more about having fun at work, feeling appreciated, and being happy. And that’s what the CHO does successfully.
+She told me she had to create the position. In the past, leaders believed that the only reason people will work for you is because of the salary. The more money you offer, the better the people you attract. That might be true for some.
 
-Here’s the thing, it doesn’t matter what others think. If you believe in something and if you can create value, go for it. There are always people who say things like, no one needs this your work is garbage you’re wasting your time don’t listen to the naysayers. Let them drown in their own limiting beliefs.
+But more money is not always better. Many people care more about having fun at work, feeling appreciated, and being happy. And that’s what the CHO does successfully. Here’s the thing, it doesn’t matter what others think.
 
-Instead, do this, create. Create. Create. There’s enough opportunity for everyone in the world.
+If you believe in something and if you can create value, go for it. There are always people who say things like, no one needs this your work is garbage you’re wasting your time don’t listen to the naysayers. Let them drown in their own limiting beliefs. Instead, do this, create.
 
-The problem is that most people don’t use the opportunities. If you want to have a specific career, go out there and create it. The same is true for your business. And don’t focus on limited resources, naysayers, or any other reason you should not do it.
+Create. Create. There’s enough opportunity for everyone in the world. The problem is that most people don’t use the opportunities.
 
-Adopt an abundance mindset. Before you know it, you’ll have so much opportunity that you don’t know what to do with it. In the Netherlands, we call that a, luxury problem. Believe me, it’s the only problem that you want to have.
+If you want to have a specific career, go out there and create it. The same is true for your business. And don’t focus on limited resources, naysayers, or any other reason you should not do it. Adopt an abundance mindset.
 
-All strength comes from repetition. The biggest mistake you can make is to ignore the basics of your profession. This is true no matter what you do, where you live, or who you are. When you ignore the foundation of what makes you a good person, athlete, friend, entrepreneur, student, etc., you will never be consistent.
+Before you know it, you’ll have so much opportunity that you don’t know what to do with it. In the Netherlands, we call that a, luxury problem. Believe me, it’s the only problem that you want to have. All strength comes from repetition.
 
-That’s the biggest lessons I’ve learned from studying athletes. People who play professional sports are under constant pressure to perform. Like Daniel Cormier, the current UFC light heavyweight champion, and former Olympic wrestler. The 38-year-old champion has an impressive career until now.
+The biggest mistake you can make is to ignore the basics of your profession. This is true no matter what you do, where you live, or who you are. When you ignore the foundation of what makes you a good person, athlete, friend, entrepreneur, student, etc., you will never be consistent. That’s the biggest lessons.
+
+I’ve learned from studying athletes. People who play professional sports are under constant pressure to perform. Like Daniel Cormier, the current UFC light heavyweight champion, and former Olympic wrestler. The 38-year-old champion has an impressive career until now.
 
 He won multiple gold medals as a wrestler. And in MMA, he has won 20 of his 22 fights in total. He’s considered as one of the best. On top of that, he’s also a combat sports analyst and co-host of UFC Tonight on Fox Sports.
 
@@ -1440,41 +1640,49 @@ Steven Pressfield, the author of The War of Art, said it best, long term, we mus
 <a id="sec-024615"></a>
 ### ⏱️ [02:46:15 - 02:51:18]
 
-But my challenge was always, how do you do that? I know how to get physically stronger. But I never knew how I could get mentally stronger. And whenever people told me, it’s all about life experience, I always thought there was a better way.
+But my challenge was always, how do you do that? I know how to get physically stronger. But. I never knew how.
 
-Let’s be honest, who wants to wait until they are 70 to get mentally strong? Some things can be done faster, especially if you keep repeating the basics. Because that’s when we screw up most of the time. We think we know everything.
+I could get mentally stronger. And whenever people told me, it’s all about life experience, I always thought there was a better way. Let’s be honest, who wants to wait until they are 70 to get mentally strong? Some things can be done faster, especially if you keep repeating the basics.
 
-Stay a beginner. How often do you think to yourself, I already know that. If you’re like most of us, quite often. One thing we have to remind ourselves is that the people who think they know everything are the biggest losers in life.
+Because that’s when we screw up most of the time. We think we know everything. Stay a beginner. How often do you think to yourself, I already know that.
 
-I meet people all the time who think they know everything. And I don’t even mention people on the internet. A lot of commenters always want to show how smart they are and that this is so obvious. Well, that’s not how the greatest people in the world approach things.
+If you’re like most of us, quite often. One thing we have to remind ourselves is that the people who think they know everything are the biggest losers in life. I meet people all the time who think they know everything. And.
 
-Muhammad Ali once said that, it’s the repetition of affirmations that leads to belief. And once that belief becomes a deep conviction, things begin to happen. When you repeat the basics, you don’t only become great, you will stay great. It’s a challenge that all high performers face.
+I don’t even mention people on the internet. A lot of commenters always want to show how smart they are and that this is so obvious. Well, that’s not how the greatest people in the world approach things. Muhammad Ali once said that, it’s the repetition of affirmations that leads to belief.
 
-I repeat the basics of many things in my life, fitness, philosophy, kindness, business, writing. For example, I reread my favorite books on stoicism every month to exercise my mind. I regularly grab the elements of style by Strunk and White to repeat the basics of simple and effective writing. If I don’t repeat these things, I simply forget about my philosophy for life or how to write good articles.
+And once that belief becomes a deep conviction, things begin to happen. When you repeat the basics, you don’t only become great, you will stay great. It’s a challenge that all high performers face. I repeat the basics of many things in my life, fitness, philosophy, kindness, business, writing.
 
-That’s how our brain works. Without repetition, we forget things easily. I always look at myself as a beginner. That’s one of the first and most important lessons I learned from my mentor.
+For example, I reread my favorite books on stoicism every month to exercise my mind. I regularly grab the elements of style by Strunk and White to repeat the basics of simple and effective writing. If. I don’t repeat these things, I simply forget about my philosophy for life or how to write good articles.
 
-He’s now in his 70s and still considers himself as a student of life. I have the same approach to business. I always go back to the question of, what is the purpose of a business? I can tell you that if you answer, to make money, you need to repeat the basics.
+That’s how our brain works. Without repetition, we forget things easily. I always look at myself as a beginner. That’s one of the first and most important lessons.
 
-It’s very simple, figure out what the basics are in your field. And repeat them. Keep it simple. There’s no bigger waste of time than repeating bad, wrong, or negative things.
+I learned from my mentor. He’s now in his 70s and still considers himself as a student of life. I have the same approach to business. I always go back to the question of, what is the purpose of a business?
 
-That’s the only thing you should be mindful of. Don’t take advice from people who haven’t successfully done something themselves. Be great. Stay great.
+I can tell you that if you answer, to make money, you need to repeat the basics. It’s very simple, figure out what the basics are in your field. And repeat them. Keep it simple.
 
-Look, you can be very smart, driven, humble, etc., but if you don’t stay that way, what’s it all worth? How often do you see people become successful only to squander their success? How many one-hit wonders have you seen? Exactly.
+There’s no bigger waste of time than repeating bad, wrong, or negative things. That’s the only thing you should be mindful of. Don’t take advice from people who haven’t successfully done something themselves. Be great.
 
-Only the great ones are here to stay. And if you want to stay here too, you must never underestimate the power of repetition. Never think you’ve made it or that you’re smart enough. Because that mindset is what keeps you great.
+Stay great. Look, you can be very smart, driven, humble, etc., but if you don’t stay that way, what’s it all worth? How often do you see people become successful only to squander their success? How many one-hit wonders have you seen?
 
-How I measure my life. You can easily measure a business by looking at the numbers. Turnover, profit, costs, employee churn, etc. But how do you measure your life? There are no universal metrics to assess your life.
+Exactly. Only the great ones are here to stay. And if you want to stay here too, you must never underestimate the power of repetition. Never think you’ve made it or that you’re smart enough.
 
-So it’s up to every person to create their own way to measure where they are in life. Some do that by looking at how much they earn compared to their peers. Some look at how far they climb the corporate ladder. Others measure themselves by how they look.
+Because that mindset is what keeps you great. How. I measure my life. You can easily measure a business by looking at the numbers.
 
-I have studied how the most successful thinkers of our time measure their lives. The answer is surprising. You rarely hear that successful people measure their life by the size of their bank account or any other conventional measure. Instead, people who are considered successful in the eye of society often look at these three factors. 1.
+Turnover, profit, costs, employee churn, etc. But how do you measure your life? There are no universal metrics to assess your life. So it’s up to every person to create their own way to measure where they are in life.
 
-Energy 2. Work 3. Relationships I’ve experimented with improving all the three above things. What I’ve found is that they are all closely related.
+Some do that by looking at how much they earn compared to their peers. Some look at how far they climb the corporate ladder. Others measure themselves by how they look. I have studied how the most successful thinkers of our time measure their lives.
 
-When I have high energy, I’m in a good mood, and when I’m in a good mood, I do better work. And when I do better work, I feel satisfied with my life so I can give more to the people in my life. And that improves my relationships. And what’s the secret to a good life?
+The answer is surprising. You rarely hear that successful people measure their life by the size of their bank account or any other conventional measure. Instead, people who are considered successful in the eye of society often look at these three factors. 1. Energy 2.
 
-Good relationships. Clayton M. Christensen, a Harvard Business School professor and author of How Will You Measure Your Life? writes, The single most important factor in our long-term happiness is the relationships we have with our family and close friends.
+Work 3. Relationships. I’ve experimented with improving all the three above things. What.
+
+I’ve found is that they are all closely related. When. I have high energy, I’m in a good mood, and when. I’m in a good mood, I do better work.
+
+And when. I do better work, I feel satisfied with my life so. I can give more to the people in my life. And that improves my relationships.
+
+And what’s the secret to a good life? Good relationships. Clayton M. Christensen, a Harvard Business School professor and author of.
+
+How Will. You Measure. Your Life? writes, The single most important factor in our long-term happiness is the relationships we have with our family and close friends.
 
 
 <a id="sec-025118"></a>
@@ -1488,33 +1696,41 @@ Real friendship and love are stronger than that. You support the people you love
 
 All you have to do is look at how you feel physically. I recently wrote about that specifically. What matters is that you find ways to increase your energy. You can start by asking yourself one question.
 
-What small thing can I do today that has a significant impact on my energy? Here’s something that is true for everyone. 1. Exercise every day. I lift weights four times a week, do two interval runs, and make sure I walk at least 30 minutes at a fast pace on the days I don’t work out. 2.
+What small thing can. I do today that has a significant impact on my energy? Here’s something that is true for everyone. 1. Exercise every day.
 
-Eat well, I don’t follow a specific diet. I eat meat, bread, pasta, and a bunch of other things that are supposed to be bad for you. But I feel great. I just don’t eat processed stuff, and I eat very little sugar, I like chocolate.
+I lift weights four times a week, do two interval runs, and make sure. I walk at least 30 minutes at a fast pace on the days. I don’t work out. 2. Eat well, I don’t follow a specific diet.
 
-I also don’t consume more calories than I burn. That’s one part of the equation. When I do those two things every day, I feel great. And my energy is also high.
+I eat meat, bread, pasta, and a bunch of other things that are supposed to be bad for you. But. I feel great. I just don’t eat processed stuff, and.
 
-As soon as I stop working out or start eating unhealthy, I feel down. That’s how I know this works. You can easily improve your energy by exercising more and eating well. 2. Measuring work when it comes to work, I don’t look at income, status, or other generic measures.
+I eat very little sugar, I like chocolate. I also don’t consume more calories than. I burn. That’s one part of the equation.
 
-Instead, I look at how much I can still learn. In other words, have you reached your full learning potential? Why do I look at learning and not income? Because it matters more.
+When. I do those two things every day, I feel great. And my energy is also high. As soon as.
 
-Kristensen puts it well in How Will You Measure Your Life? In order to really find happiness, you need to continue looking for opportunities that you believe are meaningful, in which you will be able to learn new things, to succeed, and be given more and more responsibility to shoulder. Career and life success is directly related to how much you learn. And more importantly, how much you keep learning.
+I stop working out or start eating unhealthy, I feel down. That’s how. I know this works. You can easily improve your energy by exercising more and eating well. 2.
 
-Education never ends. Also, income is directly related to your learning development. The more you learn, the more you earn. It’s true.
+Measuring work when it comes to work, I don’t look at income, status, or other generic measures. Instead, I look at how much. I can still learn.
 
-Of course, there are limits to this statement. And knowledge must always be put into practice. We’ve all heard about the smart people who’ve wasted their potential. To be successful, you must always act on what you know.
+In other words, have you reached your full learning potential? Why do. I look at learning and not income? Because it matters more.
 
-Without action, knowledge is useless. But generally speaking, the more knowledge you have, from experience or studying, the more you can contribute to your company, colleagues, clients, etc. And contribution translates to income. 3. Measuring relationships What you’ll find is that the more you contribute to other people’s lives, the better your relationships will be as a result. And that final ingredient completes the circle of life.
+Kristensen puts it well in. How Will. You Measure. Your Life?
 
-When you measure your relationships, only stick to yourself. Avoid the biggest mistake most of us make, we look at what others do for us. Otherwise, you risk that you start keeping score. How people treat you is their karma, how you react is yours.
+In order to really find happiness, you need to continue looking for opportunities that you believe are meaningful, in which you will be able to learn new things, to succeed, and be given more and more responsibility to shoulder. Career and life success is directly related to how much you learn. And more importantly, how much you keep learning. Education never ends.
 
-As the late Wayne Dyer said. Instead of looking at how others treat you, measure how much time and energy you put into your relationships. That’s the only thing you can control. My experience is that when you make time for the people that matter to you, the relationships improve.
+Also, income is directly related to your learning development. The more you learn, the more you earn. It’s true. Of course, there are limits to this statement.
 
-And if they do not, the relationship was probably not meant to be. We simply have to move on. The real lesson here is that we always must focus on what we can control. Our energy, our effort at work, and what we put into our relationships, these are all things we control.
+And knowledge must always be put into practice. We’ve all heard about the smart people who’ve wasted their potential. To be successful, you must always act on what you know. Without action, knowledge is useless.
 
-It’s one of the main lessons philosophers from all over the world and from all ages tell us. Look at your life. Make a quick assessment of how you feel. All you have to do now is to improve it.
+But generally speaking, the more knowledge you have, from experience or studying, the more you can contribute to your company, colleagues, clients, etc. And contribution translates to income. 3. Measuring relationships. What you’ll find is that the more you contribute to other people’s lives, the better your relationships will be as a result.
 
-Why you should live like you’re immortal.
+And that final ingredient completes the circle of life. When you measure your relationships, only stick to yourself. Avoid the biggest mistake most of us make, we look at what others do for us. Otherwise, you risk that you start keeping score.
+
+How people treat you is their karma, how you react is yours. As the late Wayne Dyer said. Instead of looking at how others treat you, measure how much time and energy you put into your relationships. That’s the only thing you can control.
+
+My experience is that when you make time for the people that matter to you, the relationships improve. And if they do not, the relationship was probably not meant to be. We simply have to move on. The real lesson here is that we always must focus on what we can control.
+
+Our energy, our effort at work, and what we put into our relationships, these are all things we control. It’s one of the main lessons philosophers from all over the world and from all ages tell us. Look at your life. Make a quick assessment of how you feel.
+
+All you have to do now is to improve it. Why you should live like you’re immortal.
 
 
 <a id="sec-025621"></a>
@@ -1524,43 +1740,55 @@ It seems like all my peers have this idea that being young is an excuse for not 
 
 Taking on responsibilities in life is scary. It’s way cooler to have toast with avocado. But you know what’s also cool? Building a meaningful career that you’re proud of.
 
-Contributing to other people’s lives. Creating a product or service that is useful. Investing your money for your retirement. Yeah, but I’m still young.
+Contributing to other people’s lives. Creating a product or service that is useful. Investing your money for your retirement. Yeah, but.
 
-There’s always tomorrow. Come on. Stop hiding. What are you waiting for?
+I’m still young. There’s always tomorrow. Come on. Stop hiding.
 
-To everyone out there that doesn’t feel fulfilled, I have one idea that I want to share. Start living like you’re immortal. Yes, I know it sounds weird. So give me two minutes to explain.
+What are you waiting for? To everyone out there that doesn’t feel fulfilled, I have one idea that. I want to share. Start living like you’re immortal.
 
-Conventional wisdom says that life is not forever, right? Life is short. YOLO. Live now.
+Yes, I know it sounds weird. So give me two minutes to explain. Conventional wisdom says that life is not forever, right? Life is short.
 
-And I agree with that as well. But when you live your life according to that philosophy, it doesn’t make sense to do anything that takes a long time to pay off. If you think that life is short, why on earth would you do hard things? It doesn’t make sense.
+YOLO. Live now. And. I agree with that as well.
 
-From that perspective, it’s better to spend your money, go out every week, drink as much as you can, and live large. Ask yourself, what does all that lead to? It doesn’t take a scientist to answer that question. The answer is, nothing.
+But when you live your life according to that philosophy, it doesn’t make sense to do anything that takes a long time to pay off. If you think that life is short, why on earth would you do hard things? It doesn’t make sense. From that perspective, it’s better to spend your money, go out every week, drink as much as you can, and live large.
 
-Now, there’s also another perspective on living, that you’re here forever. Think about it. How different would you live if I told you that you’re never going to die? When I look at myself, I used to live as if I were mortal.
+Ask yourself, what does all that lead to? It doesn’t take a scientist to answer that question. The answer is, nothing.
 
-I’d spend my money on clothes, gadgets, holidays. But I also seemed to be in a hurry. I wanted to achieve a lot of things in my life. And preferably, very fast.
+Now, there’s also another perspective on living, that you’re here forever. Think about it. How different would you live if. I told you that you’re never going to die?
+
+When. I look at myself, I used to live as if. I were mortal. I’d spend my money on clothes, gadgets, holidays.
+
+But. I also seemed to be in a hurry. I wanted to achieve a lot of things in my life. And preferably, very fast.
 
 I also pursued many things at the same time. Just like a dog. Chasing every shiny thing out there. Or even chasing my own random ideas.
 
-But lately, I’ve adopted a different mindset. It’s an idea of, what if I were immortal? I know, it sounds like I’m working on a hyperbolic chamber that promises eternal life. But trust me, I’m not that delusional.
+But lately, I’ve adopted a different mindset. It’s an idea of, what if. I were immortal? I know, it sounds like.
 
-I’m talking figuratively. The first time I got this idea was when I read one of Marcus Aurelius' meditations, think of yourself as dead. You have lived your life. Now take what’s left and live properly.
+I’m working on a hyperbolic chamber that promises eternal life. But trust me, I’m not that delusional. I’m talking figuratively. The first time.
 
-I’m particularly referring to the last part, living properly. What does that mean? I think everyone has a different perspective. To me, living properly means that I’m satisfied with my life.
+I got this idea was when. I read one of Marcus Aurelius' meditations, think of yourself as dead. You have lived your life. Now take what’s left and live properly.
 
-That I can look myself in the mirror and genuinely say, I like my life. Was I truly satisfied when I lived my life in the now? No, not really. I didn’t have a real career, or a house, or anything that I was proud of.
+I’m particularly referring to the last part, living properly. What does that mean? I think everyone has a different perspective. To me, living properly means that.
 
-And why was that? I was too focused on the now. I wanted things to happen fast. Before you know it, you’ll be dead.
+I’m satisfied with my life. That. I can look myself in the mirror and genuinely say, I like my life. Was.
 
-Now, that mindset is fine to get started. Nothing works better than kicking someone in the butt by telling them they’re going to die. But once you’re working on building a life, it’s not helpful to think like that. Being present is a great thing, but like many things in life, don’t overdo it.
+I truly satisfied when. I lived my life in the now? No, not really. I didn’t have a real career, or a house, or anything that.
 
-That’s why I like to live like I’m immortal. Because when you live forever, you have all the time in the world to build something. You can make mistakes and learn from them. There’s no pressure to make things happen fast.
+I was proud of. And why was that? I was too focused on the now. I wanted things to happen fast.
 
-You treat people with respect because other people will also be around forever. This small tweak in my mindset has helped me to take a different view on life. I’m not afraid to look 10 or 20 years ahead. That helps me to make better decisions today.
+Before you know it, you’ll be dead. Now, that mindset is fine to get started. Nothing works better than kicking someone in the butt by telling them they’re going to die. But once you’re working on building a life, it’s not helpful to think like that.
 
-For example, I’d rather save my money or invest it instead of spending it because I know that, future Darius will benefit from that. But how about the present, Darius? Well, I talked about being satisfied, right? Odd enough, I’m more satisfied when I save my money.
+Being present is a great thing, but like many things in life, don’t overdo it. That’s why. I like to live like. I’m immortal.
 
-Or when I eat healthy food or work out every day. When I think about this idea, I find it fascinating how well it works. We all know we’re going to die, I recently even wrote an article about it. That’s a good and bad thing.
+Because when you live forever, you have all the time in the world to build something. You can make mistakes and learn from them. There’s no pressure to make things happen fast. You treat people with respect because other people will also be around forever.
+
+This small tweak in my mindset has helped me to take a different view on life. I’m not afraid to look 10 or 20 years ahead. That helps me to make better decisions today.
+
+For example, I’d rather save my money or invest it instead of spending it because. I know that, future Darius will benefit from that. But how about the present, Darius? Well, I talked about being satisfied, right?
+
+Odd enough, I’m more satisfied when. I save my money. Or when. I eat healthy food or work out every day.
+
+When. I think about this idea, I find it fascinating how well it works. We all know we’re going to die, I recently even wrote an article about it. That’s a good and bad thing.
 
 
 <a id="sec-030122"></a>
@@ -1576,35 +1804,39 @@ Live better. All those things are good. Life is about moving forward and making 
 
 However, there’s one important thing about all this working, hustling, striving, and achieving more, you can’t do everything at the same time. That’s common sense, right? You only have so much time and energy. So if you take on too many things, you end up spread too thin.
 
-Instead, it’s much more effective to focus your effort on one thing. Success adds up. Real success happens when we focus on one thing at a time. The first time I discovered that idea was in high school.
+Instead, it’s much more effective to focus your effort on one thing. Success adds up. Real success happens when we focus on one thing at a time. The first time.
 
-When I was preparing for my final exams, I decided to study only one subject at a time. And I only moved on to the next when I fully grasped the material. I noticed that I could learn something way faster if I immersed myself in it for a few days. Most of my peers studied multiple subjects a day.
+I discovered that idea was in high school. When. I was preparing for my final exams, I decided to study only one subject at a time. And.
 
-I never liked that approach because it’s too scattered. If I’m working on a project at work, I don’t pick up another big project. If I’m working on a new course for my blog, I don’t start writing a book at the same time. That strategy helps me to get things done quicker and better.
+I only moved on to the next when. I fully grasped the material. I noticed that. I could learn something way faster if.
 
-Hence, I achieve much more when I give my attention to one thing. Gary Keller and Jay Papazan, authors of The One Thing, which is a great book about this same concept, said it best, where I’d had huge success, I had narrowed my concentration to one thing, and where my success varied, my focus had too. Are you working on a lot of things? Is your attention not on one thing?
+I immersed myself in it for a few days. Most of my peers studied multiple subjects a day. I never liked that approach because it’s too scattered. If.
 
-There’s a big chance that you will not achieve the best possible results. Or worse, you might fail if you try to achieve many things at the same time. The reason is simple, most of us believe that success happens all at once. Real life is different.
+I’m working on a project at work, I don’t pick up another big project. If. I’m working on a new course for my blog, I don’t start writing a book at the same time. That strategy helps me to get things done quicker and better.
 
-Keller and Papazan put it well, success is sequential, not simultaneous. Things add up. You learn one skill. Then another.
+Hence, I achieve much more when. I give my attention to one thing. Gary Keller and Jay Papazan, authors of The One Thing, which is a great book about this same concept, said it best, where. I’d had huge success, I had narrowed my concentration to one thing, and where my success varied, my focus had too.
 
-You finish one project. Then another. Over time, your accomplishments add up to form an impressive feat. This is especially true for money.
+Are you working on a lot of things? Is your attention not on one thing? There’s a big chance that you will not achieve the best possible results. Or worse, you might fail if you try to achieve many things at the same time.
 
-Most people earn their money over time. Few people make a big financial splash. Forget about the Conor McGregor’s and Evan Spiegel’s of this world. These are people who hit the career jackpot.
+The reason is simple, most of us believe that success happens all at once. Real life is different. Keller and Papazan put it well, success is sequential, not simultaneous. Things add up.
 
-But you don’t need special talent or skills to succeed in life. If you take the long road, achieve one goal after the other, and build up your wealth step by step, you are more likely to live a good life. It’s simple. And it always works.
+You learn one skill. Then another. You finish one project. Then another.
 
-People who say it doesn’t just haven’t had the patience to apply it to their own life. One of my mentors owns a few dozen properties, worth millions. He acquired his wealth over time. He’s in his 60s now.
+Over time, your accomplishments add up to form an impressive feat. This is especially true for money. Most people earn their money over time. Few people make a big financial splash.
 
-You see, things take time. And when you combine patience with compounding, you achieve the biggest results. And these are not extraordinary things. I’m not promising you a gold medal at the 2020 Olympics or that you’ll become the next Zuckerberg.
+Forget about the Conor McGregor’s and Evan Spiegel’s of this world. These are people who hit the career jackpot. But you don’t need special talent or skills to succeed in life. If you take the long road, achieve one goal after the other, and build up your wealth step by step, you are more likely to live a good life.
 
-Everyone can save money, improve their skills, and create wealth. The impact of long-term compounding. It’s incredibly corny example, but take Warren Buffett. This is how he built his wealth over time.
+It’s simple. And it always works. People who say it doesn’t just haven’t had the patience to apply it to their own life. One of my mentors owns a few dozen properties, worth millions.
 
-Source,.ofiz. Calm don’t look at the numbers, or random x-axis. Look at the relative growth. Between age 32 and age 44, Buffett improved his net worth by 1,257%.
+He acquired his wealth over time. He’s in his 60s now. You see, things take time. And when you combine patience with compounding, you achieve the biggest results.
 
-That’s pretty exceptional growth over 12 years, right? Especially if you take into account that he lost a lot of money in his 40s. But that’s not the point here. Look at this.
+And these are not extraordinary things. I’m not promising you a gold medal at the 2020 Olympics or that you’ll become the next Zuckerberg. Everyone can save money, improve their skills, and create wealth. The impact of long-term compounding.
 
-From age 44 to 56, Warren Buffett’s wealth increased by a ridiculous 7,268% over a similar time period. And of course, this is his net worth and there’s always luck involved with these type of numbers.
+It’s incredibly corny example, but take Warren Buffett. This is how he built his wealth over time. Source,.ofiz. Calm don’t look at the numbers, or random x-axis.
+
+Look at the relative growth. Between age 32 and age 44, Buffett improved his net worth by 1,257%. That’s pretty exceptional growth over 12 years, right? Especially if you take into account that he lost a lot of money in his 40s.
+
+But that’s not the point here. Look at this. From age 44 to 56, Warren Buffett’s wealth increased by a ridiculous 7,268% over a similar time period. And of course, this is his net worth and there’s always luck involved with these type of numbers.
 
 
 <a id="sec-030627"></a>
@@ -1614,15 +1846,15 @@ Plus, his net worth is based on stock prices, which means a big portion of it co
 
 This helps you to put things in perspective. Anyway, there’s a lot of Warren Buffett porn on the internet. And a lot of people pretend you can become rich by investing in the stock market. All you need to do is to buy their course that contains all the secrets to wealth.
 
-Yeah right. It doesn’t work that way. Personally, I hate stocks, and I think normal folks should stay away from Wall Street. I prefer real estate.
+Yeah right. It doesn’t work that way. Personally, I hate stocks, and. I think normal folks should stay away from Wall Street.
 
-However, Buffett is the perfect example of sequential success. You can achieve big things with small actions that build up over time. This is not only true for money. The same concept applies to skills, health, and relationships.
+I prefer real estate. However, Buffett is the perfect example of sequential success. You can achieve big things with small actions that build up over time. This is not only true for money.
 
-You don’t build a strong body in a day, month, or even a year. It takes years of consistent effort. Shortcuts don’t exist, no matter how smart you work.
+The same concept applies to skills, health, and relationships. You don’t build a strong body in a day, month, or even a year. It takes years of consistent effort. Shortcuts don’t exist, no matter how smart you work.
 
-For example, cyclists under the age of 28 rarely win big races like the Tour de France because it takes them years to build the strength, stamina, and mindset you need to win. If you want to see the impact of compounding in your own life, it requires you to focus on one thing at a time, for every aspect of your life, and always look at the bigger picture. It comes down to this, you’ll get there if you put in the work. Who cares if it’s tomorrow or 20 years?
+For example, cyclists under the age of 28 rarely win big races like the Tour de France because it takes them years to build the strength, stamina, and mindset you need to win. If you want to see the impact of compounding in your own life, it requires you to focus on one thing at a time, for every aspect of your life, and always look at the bigger picture. It comes down to this, you’ll get there if you put in the work.
 
-It will happen. That’s all that matters. The end. Preview.
+Who cares if it’s tomorrow or 20 years? It will happen. That’s all that matters. The end.
 
-Save to media.
+Preview. Save to media.
 

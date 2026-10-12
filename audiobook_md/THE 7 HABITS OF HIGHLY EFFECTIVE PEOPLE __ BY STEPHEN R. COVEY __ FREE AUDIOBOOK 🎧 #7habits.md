@@ -137,41 +137,57 @@
 
 THE SEVEN HABITS OF HIGHLY EFFECTIVE PEOPLE, by Stephen R. Covey.
 
-#### PART 1 PARADIMES AND PRINCIPLES INSIDE OUT. There is no real excellence in all this world which can be separated from right living. David Starr Jordan In more than 25 years of working with people in business, university, and marriage and family settings, I have come in contact with many individuals who have achieved an incredible degree of outward success, but have found themselves struggling with an inner hunger, a deep need for personal congruency and effectiveness and for healthy, growing relationships with other people.
+#### PART 1 PARADIMES AND PRINCIPLES INSIDE OUT. There is no real excellence in all this world which can be separated from right living. David Starr Jordan.
 
-I suspect some of the problems they have shared with me may be familiar to you. I’ve set and met my career goals and I’m having tremendous professional success. But it’s cost me my personal and family life. I don’t know my wife and children anymore.
+In more than 25 years of working with people in business, university, and marriage and family settings, I have come in contact with many individuals who have achieved an incredible degree of outward success, but have found themselves struggling with an inner hunger, a deep need for personal congruency and effectiveness and for healthy, growing relationships with other people. I suspect some of the problems they have shared with me may be familiar to you. I’ve set and met my career goals and.
 
-I’m not even sure I know myself and what’s really important to me. I’ve had to ask myself, is it worth it? I’ve started a new diet, for the fifth time this year. I know I’m overweight, and I really want to change.
+I’m having tremendous professional success. But it’s cost me my personal and family life. I don’t know my wife and children anymore. I’m not even sure.
 
-I read all the new information, I set goals, I get myself all psyched up with a positive mental attitude and tell myself I can do it. But I don’t. After a few weeks, I fizzle. I just can’t seem to keep a promise I make to myself.
+I know myself and what’s really important to me. I’ve had to ask myself, is it worth it? I’ve started a new diet, for the fifth time this year. I know.
 
-I’ve taken course after course on effective management training. I expect a lot out of my employees and I work hard to be friendly toward them and to treat them right. But I don’t feel any loyalty from them. I think if I were homesick for a day, they’d spend most of their time gabbing at the water fountain.
+I’m overweight, and. I really want to change. I read all the new information, I set goals, I get myself all psyched up with a positive mental attitude and tell myself. I can do it.
 
-Why can’t I train them to be independent and responsible, or find employees who can be? My teenage son is rebellious and on drugs. No matter what I try, he won’t listen to me. What can I do?
+But. I don’t. After a few weeks, I fizzle. I just can’t seem to keep a promise.
 
-There’s so much to do. And there’s never enough time. I feel pressured and hassled all day, every day, seven days a week. I’ve attended time management seminars and I’ve tried half a dozen different planning systems. They’ve helped some, but I still don’t feel I’m living the happy, productive, peaceful life I want to live.
+I make to myself. I’ve taken course after course on effective management training. I expect a lot out of my employees and. I work hard to be friendly toward them and to treat them right.
+
+But. I don’t feel any loyalty from them. I think if. I were homesick for a day, they’d spend most of their time gabbing at the water fountain.
+
+Why can’t. I train them to be independent and responsible, or find employees who can be? My teenage son is rebellious and on drugs. No matter what.
+
+I try, he won’t listen to me. What can. I do? There’s so much to do.
+
+And there’s never enough time. I feel pressured and hassled all day, every day, seven days a week. I’ve attended time management seminars and. I’ve tried half a dozen different planning systems.
+
+They’ve helped some, but. I still don’t feel. I’m living the happy, productive, peaceful life. I want to live.
 
 I want to teach my children the value of work. But to get them to do anything, I have to supervise every move, and put up with complaining every step of the way. It’s so much easier to do it myself. Why can’t children do their work cheerfully and without being reminded?
 
-I’m busy, really busy. But sometimes I wonder if what I’m doing will make any difference in the long run. I’d really like to think there was meaning in my life, that somehow things were different because I was here. I see my friends or relatives achieve some degree of success or receive some recognition, and I smile and congratulate them enthusiastically.
+I’m busy, really busy. But sometimes. I wonder if what. I’m doing will make any difference in the long run.
 
-But inside, I’m eating my heart out. Why do I feel this way? I have a forceful personality. I know, in almost any interaction, I can control the outcome.
+I’d really like to think there was meaning in my life, that somehow things were different because. I was here. I see my friends or relatives achieve some degree of success or receive some recognition, and. I smile and congratulate them enthusiastically.
 
-Most of the time, I can even do it by influencing others to come up with the solution I want. I think through each situation and I really feel the ideas I come up with are usually the best for everyone. But I feel uneasy. I always wonder what other people really think of me and my ideas.
+But inside, I’m eating my heart out. Why do. I feel this way? I have a forceful personality.
 
-My marriage has gone flat. We don’t fight or anything, we just don’t love each other anymore. We’ve gone to counseling, we’ve tried a number of things, but we just can’t seem to rekindle the feeling we used to have. These are deep problems, painful problems, problems that quick fix approaches can’t solve.
+I know, in almost any interaction, I can control the outcome. Most of the time, I can even do it by influencing others to come up with the solution. I want. I think through each situation and.
 
-Two years ago, my wife Sandra and I were struggling with this kind of concern. One of our sons was having a very difficult time in school. He was doing poorly academically, he didn’t even know how to follow the instructions on the tests, let alone do well on them. Socially he was immature, often embarrassing those closest to him.
+I really feel the ideas. I come up with are usually the best for everyone. But. I feel uneasy.
 
-Athletically, he was small, skinny, and uncoordinated, swinging his baseball bat, for example, almost before the ball was even pitched. Others would laugh at him. Sandra and I were consumed with a desire to help him. We felt that if success were important in any area of life, it was supremely important in our role as parents.
+I always wonder what other people really think of me and my ideas. My marriage has gone flat. We don’t fight or anything, we just don’t love each other anymore. We’ve gone to counseling, we’ve tried a number of things, but we just can’t seem to rekindle the feeling we used to have.
 
-So we worked on our attitudes and behavior toward him and we tried to work on his. We attempted to psych him up using positive mental attitude techniques. Come on, son. You can do it.
+These are deep problems, painful problems, problems that quick fix approaches can’t solve. Two years ago, my wife Sandra and. I were struggling with this kind of concern. One of our sons was having a very difficult time in school.
 
-We know you can. Put your hands a little higher on the bat and keep your eye on the ball. Don’t swing till it gets close to you. And if he did a little better, we would go to great lengths to reinforce him.
+He was doing poorly academically, he didn’t even know how to follow the instructions on the tests, let alone do well on them. Socially he was immature, often embarrassing those closest to him. Athletically, he was small, skinny, and uncoordinated, swinging his baseball bat, for example, almost before the ball was even pitched. Others would laugh at him.
 
-That’s good, son, keep it up. When others laughed, we reprimanded them. Leave him alone. Get off his back.
+Sandra and. I were consumed with a desire to help him. We felt that if success were important in any area of life, it was supremely important in our role as parents. So we worked on our attitudes and behavior toward him and we tried to work on his.
 
-He’s just learning. And our son would cry and insist that he’d never be any good and that he didn’t like
+We attempted to psych him up using positive mental attitude techniques. Come on, son. You can do it. We know you can.
+
+Put your hands a little higher on the bat and keep your eye on the ball. Don’t swing till it gets close to you. And if he did a little better, we would go to great lengths to reinforce him. That’s good, son, keep it up.
+
+When others laughed, we reprimanded them. Leave him alone. Get off his back. He’s just learning.
+
+And our son would cry and insist that he’d never be any good and that he didn’t like
 
 
 <a id="sec-000502"></a>
@@ -179,19 +195,23 @@ He’s just learning. And our son would cry and insist that he’d never be any 
 
 baseball anyway. Nothing we did seemed to help, and we were really worried. We could see the effect this was having on his self-esteem. We tried to be encouraging and helpful and positive, but after repeated failure, we finally drew back and tried to look at the situation on a different level.
 
-At this time in my professional role I was involved in leadership development work with various clients throughout the country. In that capacity I was preparing bimonthly programs on the subject of communication and perception for IBM’s executive development program participants. As I researched and prepared these presentations, I became particularly interested in how perceptions are formed, how they govern the way we see, and how the way we see governs how we behave. This led me to a study of expectancy theory and self-fulfilling prophecies or the Pygmalion effect, and to a realization of how deeply embedded our perceptions are.
+At this time in my professional role. I was involved in leadership development work with various clients throughout the country. In that capacity. I was preparing bimonthly programs on the subject of communication and perception for IBM’s executive development program participants.
 
-It taught me that we must look at the lens through which we see the world, as well as at the world we see, and that the lens itself shapes how we interpret the world. As Sandra and I talked about the concepts I was teaching at IBM and about our own situation, we began to realize that what we were doing to help our son was not in harmony with the way we really saw him. When we honestly examined our deepest feelings, we realized that our perception was that he was basically inadequate, somehow behind.
+As. I researched and prepared these presentations, I became particularly interested in how perceptions are formed, how they govern the way we see, and how the way we see governs how we behave. This led me to a study of expectancy theory and self-fulfilling prophecies or the Pygmalion effect, and to a realization of how deeply embedded our perceptions are. It taught me that we must look at the lens through which we see the world, as well as at the world we see, and that the lens itself shapes how we interpret the world.
+
+As Sandra and. I talked about the concepts. I was teaching at IBM and about our own situation, we began to realize that what we were doing to help our son was not in harmony with the way we really saw him. When we honestly examined our deepest feelings, we realized that our perception was that he was basically inadequate, somehow behind.
 
 No matter how much we worked on our attitude and behavior, our efforts were ineffective because, despite our actions and our words, what we really communicated to him was, you aren’t capable. You have to be protected. We began to realize that if we wanted to change the situation, we first had to change ourselves. And to change ourselves effectively, we first had to change our perceptions.
 
-The Personality and Character Ethics At the same time, in addition to my research on perception, I was also deeply immersed in an in-depth study of the success literature published in the United States since 1776. I was reading or scanning literally hundreds of books, articles, and essays in fields such as self-improvement, popular psychology, and self-help. At my fingertips was the sum and substance of what a free and democratic people considered to be the keys to successful living. As my study took me back through 200 years of writing about success, I noticed a startling pattern emerging in the content of the literature.
+The Personality and Character Ethics. At the same time, in addition to my research on perception, I was also deeply immersed in an in-depth study of the success literature published in the United States since 1776. I was reading or scanning literally hundreds of books, articles, and essays in fields such as self-improvement, popular psychology, and self-help. At my fingertips was the sum and substance of what a free and democratic people considered to be the keys to successful living.
 
-Because of our own pain, and because of similar pain I had seen in the lives and relationships of many people I had worked with through the years, I began to feel more and more that much of the success literature of the past 50 years was superficial. It was filled with social image consciousness, techniques and quick fixes, with social band-aids and aspirin that addressed acute problems and sometimes even appeared to solve them temporarily, but left the underlying chronic problems untouched to fester and resurface time and again.
+As my study took me back through 200 years of writing about success, I noticed a startling pattern emerging in the content of the literature. Because of our own pain, and because of similar pain. I had seen in the lives and relationships of many people. I had worked with through the years, I began to feel more and more that much of the success literature of the past 50 years was superficial.
 
-In stark contrast, almost all the literature in the first 150 years or so focused on what could be called the Character Ethic as the foundation of success, things like integrity, humility, fidelity, temperance, courage, justice, patience, industry, simplicity, modesty, and the golden rule. Benjamin Franklin’s autobiography is representative of that literature. It is, basically, the story of one man’s effort to integrate certain principles and habits deep within his nature. The Character Ethic taught that there are basic principles of effective living, and that people can only experience true success and enduring happiness as they learn and integrate these principles into their basic character.
+It was filled with social image consciousness, techniques and quick fixes, with social band-aids and aspirin that addressed acute problems and sometimes even appeared to solve them temporarily, but left the underlying chronic problems untouched to fester and resurface time and again. In stark contrast, almost all the literature in the first 150 years or so focused on what could be called the Character Ethic as the foundation of success, things like integrity, humility, fidelity, temperance, courage, justice, patience, industry, simplicity, modesty, and the golden rule.
 
-But shortly after World War I the basic view of success shifted from the Character Ethic to what we might call the Personality Ethic. Success became more a function of personality, of public image, of attitudes and behaviors, skills and techniques, that lubricate the processes of human interaction. This Personality Ethic essentially took two paths, one was human and public relations techniques, and the other was positive mental attitude, PMA. Some of this philosophy was expressed in inspiring and sometimes valid maxims such as your attitude determines your altitude, smiling wins more friends than frowning, and whatever the mind of man can conceive and believe it can achieve.
+Benjamin Franklin’s autobiography is representative of that literature. It is, basically, the story of one man’s effort to integrate certain principles and habits deep within his nature. The Character Ethic taught that there are basic principles of effective living, and that people can only experience true success and enduring happiness as they learn and integrate these principles into their basic character. But shortly after World War.
+
+I the basic view of success shifted from the Character Ethic to what we might call the Personality Ethic. Success became more a function of personality, of public image, of attitudes and behaviors, skills and techniques, that lubricate the processes of human interaction. This Personality Ethic essentially took two paths, one was human and public relations techniques, and the other was positive mental attitude, PMA. Some of this philosophy was expressed in inspiring and sometimes valid maxims such as your attitude determines your altitude, smiling wins more friends than frowning, and whatever the mind of man can conceive and believe it can achieve.
 
 Other parts of the personality approach were clearly manipulative, even deceptive, encouraging people to use techniques to get other people to like them, or to fake interest in the hobbies of others to get out of them what they wanted, or to use the power look, or to intimidate their way through life. Some of this literature acknowledged character as an ingredient of success, but tended to compartmentalize it rather than recognize it as foundational and catalytic. Reference to the Character Ethic became mostly lip service, the basic thrust was quick fix influence techniques, power strategies, communication skills, and positive attitudes.
 
@@ -199,55 +219,61 @@ Other parts of the personality approach were clearly manipulative, even deceptiv
 <a id="sec-001006"></a>
 ### ⏱️ [00:10:06 - 00:15:06]
 
-This Personality Ethic, I began to realize, was the subconscious source of the solution Sandra and I were attempting to use with our son. As I thought more deeply about the difference between the personality and character ethics, I realized that Sandra and I had been getting social mileage out of our children’s good behavior, and, in our eyes, this son simply didn’t measure up. Our image of ourselves, and our role as good, caring parents was even deeper than our image of our son and perhaps influenced it.
+This Personality Ethic, I began to realize, was the subconscious source of the solution Sandra and. I were attempting to use with our son. As. I thought more deeply about the difference between the personality and character ethics, I realized that Sandra and.
 
-There was a lot more wrapped up in the way we were seeing and handling the problem than our concern for our son’s welfare. As Sandra and I talked, we became painfully aware of the powerful influence of our own character and motives and of our perception of him. We knew that social comparison motives were out of harmony with our deeper values and could lead to conditional love and eventually to our son’s lessened sense of self-worth. So we determined to focus our efforts on us, not on our techniques, but on our deepest motives and our perception of him.
+I had been getting social mileage out of our children’s good behavior, and, in our eyes, this son simply didn’t measure up. Our image of ourselves, and our role as good, caring parents was even deeper than our image of our son and perhaps influenced it. There was a lot more wrapped up in the way we were seeing and handling the problem than our concern for our son’s welfare. As Sandra and.
 
-Instead of trying to change him, we tried to stand apart, to separate us from him, and to sense his identity, individuality, separateness, and worth. Through deep thought and the exercise of faith and prayer, we began to see our son in terms of his own uniqueness. We saw within him layers and layers of potential that would be realized at his own pace and speed. We decided to relax and get out of his way and let his own personality emerge.
+I talked, we became painfully aware of the powerful influence of our own character and motives and of our perception of him. We knew that social comparison motives were out of harmony with our deeper values and could lead to conditional love and eventually to our son’s lessened sense of self-worth. So we determined to focus our efforts on us, not on our techniques, but on our deepest motives and our perception of him. Instead of trying to change him, we tried to stand apart, to separate us from him, and to sense his identity, individuality, separateness, and worth.
 
-We saw our natural role as being to affirm, enjoy, and value him. We also conscientiously worked on our motives and cultivated internal sources of security so that our own feelings of worth were not dependent on our children’s acceptable behavior. As we loosened up our old perception of our son and developed value-based motives, new feelings began to emerge. We found ourselves enjoying him instead of comparing or judging him.
+Through deep thought and the exercise of faith and prayer, we began to see our son in terms of his own uniqueness. We saw within him layers and layers of potential that would be realized at his own pace and speed. We decided to relax and get out of his way and let his own personality emerge. We saw our natural role as being to affirm, enjoy, and value him.
 
-We stopped trying to clone him in our own image or measure him against social expectations. We stopped trying to kindly, positively manipulate him into an acceptable social mold. Because we saw him. As fundamentally adequate and able to cope with life, we stopped protecting him against the ridicule of others.
+We also conscientiously worked on our motives and cultivated internal sources of security so that our own feelings of worth were not dependent on our children’s acceptable behavior. As we loosened up our old perception of our son and developed value-based motives, new feelings began to emerge. We found ourselves enjoying him instead of comparing or judging him. We stopped trying to clone him in our own image or measure him against social expectations.
 
-He had been nurtured on this protection, so he went through some withdrawal pains, which he expressed and which we accepted, but did not necessarily respond to. We don’t need to protect you, was the unspoken message. You’re fundamentally okay. As the weeks and months passed, he began to feel a quiet confidence and affirmed himself.
+We stopped trying to kindly, positively manipulate him into an acceptable social mold. Because we saw him. As fundamentally adequate and able to cope with life, we stopped protecting him against the ridicule of others. He had been nurtured on this protection, so he went through some withdrawal pains, which he expressed and which we accepted, but did not necessarily respond to.
 
-He began to blossom, at his own pace and speed. He became outstanding as measured by standard social criteria, academically, socially and athletically, at a rapid clip, far beyond the so-called natural developmental process. As the years passed, he was elected to several student body leadership positions, developed into an all-state athlete and started bringing home straight A report cards. He developed an engaging and guileless personality that has enabled him to relate in non-threatening ways to all kinds of people.
+We don’t need to protect you, was the unspoken message. You’re fundamentally okay. As the weeks and months passed, he began to feel a quiet confidence and affirmed himself. He began to blossom, at his own pace and speed.
 
-Sandra and I believe that our son’s socially impressive accomplishments were more a serendipitous expression of the feelings he had about himself than merely a response to social reward. This was an amazing experience for Sandra and me, and a very instructional one in dealing with our other children and in other roles as well. It brought to our awareness on a very personal level the vital difference between the personality ethic and the character ethic of success. The psalmist expressed our conviction well, search your own heart with all diligence for out of it flow the issues of life.
+He became outstanding as measured by standard social criteria, academically, socially and athletically, at a rapid clip, far beyond the so-called natural developmental process. As the years passed, he was elected to several student body leadership positions, developed into an all-state athlete and started bringing home straight A report cards. He developed an engaging and guileless personality that has enabled him to relate in non-threatening ways to all kinds of people. Sandra and.
 
-History and secondary greatness My experience with my son, my study of perception and my reading of the success literature coalesced to create one of those aha! experiences in life when suddenly things click into place. I was suddenly able to see the powerful impact of the personality ethic and to clearly understand those subtle, often consciously unidentified discrepancies between what I knew to be true, some things I had been taught many years ago as a child and things that were deep in my own inner sense of value, and the quick fix philosophies that surrounded me every day.
+I believe that our son’s socially impressive accomplishments were more a serendipitous expression of the feelings he had about himself than merely a response to social reward. This was an amazing experience for Sandra and me, and a very instructional one in dealing with our other children and in other roles as well. It brought to our awareness on a very personal level the vital difference between the personality ethic and the character ethic of success. The psalmist expressed our conviction well, search your own heart with all diligence for out of it flow the issues of life.
 
-I understood at a deeper level why, as I had worked through the years with people from all walks of life, I had found that the things I was teaching and knew to be effective were often at variance with these popular voices. I am not suggesting that elements of the personality ethic, personality growth, communication skill training, and education in the field of influence strategies and positive thinking, are not beneficial, in fact sometimes essential for success. I believe they are. But these are secondary, not primary traits.
+History and secondary greatness. My experience with my son, my study of perception and my reading of the success literature coalesced to create one of those aha! experiences in life when suddenly things click into place. I was suddenly able to see the powerful impact of the personality ethic and to clearly understand those subtle, often consciously unidentified discrepancies between what. I knew to be true, some things.
 
-Perhaps, in utilizing our human capacity to build on the foundation of generations before us, we have inadvertently become so focused on our own building that we have forgotten the foundation of our own. that holds it up, or in reaping for so long where we have not sewn, perhaps we have forgotten the need to sew.
+I had been taught many years ago as a child and things that were deep in my own inner sense of value, and the quick fix philosophies that surrounded me every day. I understood at a deeper level why, as. I had worked through the years with people from all walks of life, I had found that the things. I was teaching and knew to be effective were often at variance with these popular voices.
+
+I am not suggesting that elements of the personality ethic, personality growth, communication skill training, and education in the field of influence strategies and positive thinking, are not beneficial, in fact sometimes essential for success. I believe they are. But these are secondary, not primary traits. Perhaps, in utilizing our human capacity to build on the foundation of generations before us, we have inadvertently become so focused on our own building that we have forgotten the foundation of our own. that holds it up, or in reaping for so long where we have not sewn, perhaps we have forgotten the need to sew.
 
 
 <a id="sec-001506"></a>
 ### ⏱️ [00:15:06 - 00:20:07]
 
-If I try to use human influence strategies and tactics of how to get other people to do what I want, to work better, to be more motivated, to like me and each other, while my character is fundamentally flawed, marked by duplicity and insincerity, then, in the long run, I cannot be successful. My duplicity will breed distrust, and everything I do, even using so-called good human relations techniques, will be perceived as manipulative. It simply makes no difference how good the rhetoric is or even how good the intentions are, if there is little or no trust, there is no foundation for permanent success.
+If. I try to use human influence strategies and tactics of how to get other people to do what. I want, to work better, to be more motivated, to like me and each other, while my character is fundamentally flawed, marked by duplicity and insincerity, then, in the long run, I cannot be successful. My duplicity will breed distrust, and everything.
 
-Only basic goodness gives life to technique. To focus on technique is like cramming your way through school. You sometimes get by, perhaps even get good grades, but if you don’t pay the price day in and day out, you never achieve true mastery of the subjects you study or develop an educated mind. Did you ever consider how ridiculous it would be to try to cram on a farm, to forget to plant in the spring, play all summer and then cram in the fall to bring in?
+I do, even using so-called good human relations techniques, will be perceived as manipulative. It simply makes no difference how good the rhetoric is or even how good the intentions are, if there is little or no trust, there is no foundation for permanent success. Only basic goodness gives life to technique. To focus on technique is like cramming your way through school.
 
-The harvest? The farm is a natural system. The price must be paid and the process followed. You always reap what you sow, there is no shortcut.
+You sometimes get by, perhaps even get good grades, but if you don’t pay the price day in and day out, you never achieve true mastery of the subjects you study or develop an educated mind. Did you ever consider how ridiculous it would be to try to cram on a farm, to forget to plant in the spring, play all summer and then cram in the fall to bring in? The harvest? The farm is a natural system.
 
-This principle is also true, ultimately, in human behavior, in human relationships. They, too, are natural systems based on the law of the harvest. In the short run, in an artificial social system such as school, you may be able to get by if you learn how to manipulate the man-made rules, to play the game. In most one-shot or short-lived human interactions, you can use the personality ethic to get by and to make favorable impressions through charm and skill and pretending to be interested in other people’s hobbies.
+The price must be paid and the process followed. You always reap what you sow, there is no shortcut. This principle is also true, ultimately, in human behavior, in human relationships. They, too, are natural systems based on the law of the harvest.
 
-You can pick up quick, easy techniques that may work in short-term situations. But secondary traits alone have no permanent worth in long-term relationships. Eventually, if there isn’t deep integrity and fundamental character strength, the challenges of life will cause true motives to surface and human relationship failure will replace short-term success. Many people with secondary greatness, that is, social recognition for their talents, lack primary greatness or goodness in their character.
+In the short run, in an artificial social system such as school, you may be able to get by if you learn how to manipulate the man-made rules, to play the game. In most one-shot or short-lived human interactions, you can use the personality ethic to get by and to make favorable impressions through charm and skill and pretending to be interested in other people’s hobbies. You can pick up quick, easy techniques that may work in short-term situations. But secondary traits alone have no permanent worth in long-term relationships.
 
-Sooner or later, you’ll see this in every long-term relationship they have, whether it is with a business associate, a spouse, a friend, or a teenage child going through an identity crisis. It is character that communicates most eloquently. As Emerson once put it, what you are shot so loudly in my ears I cannot hear what you say. There are, of course, situations where people have character strength but they lack communication skills, and that undoubtedly affects the quality of relationships as well.
+Eventually, if there isn’t deep integrity and fundamental character strength, the challenges of life will cause true motives to surface and human relationship failure will replace short-term success. Many people with secondary greatness, that is, social recognition for their talents, lack primary greatness or goodness in their character. Sooner or later, you’ll see this in every long-term relationship they have, whether it is with a business associate, a spouse, a friend, or a teenage child going through an identity crisis.
+
+It is character that communicates most eloquently. As Emerson once put it, what you are shot so loudly in my ears. I cannot hear what you say. There are, of course, situations where people have character strength but they lack communication skills, and that undoubtedly affects the quality of relationships as well.
 
 But the effects are still secondary. In the last analysis, what we are communicates far more eloquently than anything we say or do. We all know it. There are people we trust absolutely because we know their character.
 
 Whether they’re eloquent or not, whether they have the human relations techniques or not, we trust them, and we work successfully with them. In the words of William George Jordan, into the hands of every individual is given a marvelous power for good or evil, the silent, unconscious, unseen influence of his life. This is simply the constant radiation of what man really is, not what he pretends to be. The Power of a Paradigm The seven habits of highly effective people embody many of the fundamental principles of human effectiveness.
 
-These habits are basic, they are primary. They represent the internalization of correct principles upon which enduring happiness and success are based. But before we can really understand these seven habits, we need to understand our own paradigms and how to make a paradigm shift. Both the character ethic and the personality ethic are examples of social paradigms. The word paradigm comes from the Greek.
+These habits are basic, they are primary. They represent the internalization of correct principles upon which enduring happiness and success are based. But before we can really understand these seven habits, we need to understand our own paradigms and how to make a paradigm shift. Both the character ethic and the personality ethic are examples of social paradigms.
 
-It was originally a scientific term, and is more commonly used today to mean a model, theory, perception, assumption, or frame of reference. In the more general sense, it’s the way we see the world, not in terms of our visual sense of sight, but in terms of perceiving, understanding, interpreting. For our purposes, a simple way to understand paradigms is to see them as maps. We all know that the map is not the territory.
+The word paradigm comes from the Greek. It was originally a scientific term, and is more commonly used today to mean a model, theory, perception, assumption, or frame of reference. In the more general sense, it’s the way we see the world, not in terms of our visual sense of sight, but in terms of perceiving, understanding, interpreting. For our purposes, a simple way to understand paradigms is to see them as maps.
 
-A map is simply an explanation of certain aspects of the territory. That’s exactly what a paradigm is. It is a theory, an explanation, or model of something else. Suppose you wanted to arrive at a specific location in central Chicago.
+We all know that the map is not the territory. A map is simply an explanation of certain aspects of the territory. That’s exactly what a paradigm is. It is a theory, an explanation, or model of something else.
 
-A street map of the city would be a great help to you in reaching your destination. But suppose you were given the wrong map. Through a printing error, the map labeled Chicago was actually a map of Detroit. Can you imagine the frustration, the ineffectiveness of trying to reach your destination?
+Suppose you wanted to arrive at a specific location in central Chicago. A street map of the city would be a great help to you in reaching your destination. But suppose you were given the wrong map. Through a printing error, the map labeled Chicago was actually a map of Detroit.
+
+Can you imagine the frustration, the ineffectiveness of trying to reach your destination?
 
 
 <a id="sec-002007"></a>
@@ -265,17 +291,21 @@ Before going any further, I invite you to have an intellectual and emotional exp
 
 How old would you say she is? What does she look like? What is she wearing? In what kind of roles do you see her?
 
-You probably would describe the woman in the second picture to be about 25 years old, very lovely, rather fashionable with a petite nose and a demure presence. If you were a single man you might like to take her out. If you were in retailing, you might hire her as a fashion model. But what if I were to tell you that you’re wrong?
+You probably would describe the woman in the second picture to be about 25 years old, very lovely, rather fashionable with a petite nose and a demure presence. If you were a single man you might like to take her out. If you were in retailing, you might hire her as a fashion model. But what if.
 
-What if I said this picture is of a woman in her 60s or 70s who looks sad, has a huge nose, and is certainly no model? Is someone you probably would help across the street? Who’s right? Look at the picture again.
+I were to tell you that you’re wrong? What if. I said this picture is of a woman in her 60s or 70s who looks sad, has a huge nose, and is certainly no model? Is someone you probably would help across the street?
 
-Can you see the old woman? If you can’t, keep trying. Can you see her big hook nose? Her shawl?
+Who’s right? Look at the picture again. Can you see the old woman? If you can’t, keep trying.
 
-If you and I were talking face to face, we could discuss the picture. You could describe what you see to me, and I could talk to you about what I see. We could continue to communicate until you clearly showed me what you see in the picture and I clearly showed you what I see. Because we can’t do that, and study the picture there and then look at this picture again.
+Can you see her big hook nose? Her shawl? If you and. I were talking face to face, we could discuss the picture.
 
-Can you see the old woman now? It’s important that you see her before you continue reading. I first encountered this exercise many years ago at the Harvard Business School. The instructor was using it to demonstrate clearly and eloquently that two people can see the same thing, disagree, and yet both be right.
+You could describe what you see to me, and. I could talk to you about what. I see. We could continue to communicate until you clearly showed me what you see in the picture and.
 
-It’s not logical, it’s psychological. He brought into the room a stack of large cards, half of which had the image of the young woman you saw and the other half of which had the image of the old woman. He passed them out to the class, the picture of the young woman to one side of the room and the picture of the old woman to the other. He asked us to look at the cards, concentrate on them for about 10 seconds and then pass them back in.
+I clearly showed you what. I see. Because we can’t do that, and study the picture there and then look at this picture again. Can you see the old woman now?
+
+It’s important that you see her before you continue reading. I first encountered this exercise many years ago at the Harvard Business School. The instructor was using it to demonstrate clearly and eloquently that two people can see the same thing, disagree, and yet both be right. It’s not logical, it’s psychological.
+
+He brought into the room a stack of large cards, half of which had the image of the young woman you saw and the other half of which had the image of the old woman. He passed them out to the class, the picture of the young woman to one side of the room and the picture of the old woman to the other. He asked us to look at the cards, concentrate on them for about 10 seconds and then pass them back in.
 
 He then projected upon the screen the picture you saw combining both images and asked the class to describe what they saw. Almost every person in that class who had first seen the young woman’s image on a card saw the young woman in the picture. And almost every person who had first seen the old woman’s image on a card saw an old woman in the picture. The professor then asked one student to explain what he saw to a student on the opposite side of the room.
 
@@ -303,17 +333,19 @@ This brings into focus one of the basic flaws of the personality ethic. To try t
 
 Where we stand depends on where we sit. Each of us tends to think we see things as they are, that we are objective. But this is not the case. We see the world, not as it is, but as we are, or, as we are conditioned to see it.
 
-When we open our mouths to describe what we see, we in effect describe ourselves, our perceptions, our paradigms. When other people disagree with us, we immediately think something is wrong with them. But, as the demonstration shows, sincere, clear-headed people see things differently, each looking through the unique lens of experience. This does not mean that there are no facts. In the demonstration, two individuals who initially have been influenced by different conditioning pictures look at the third picture together.
+When we open our mouths to describe what we see, we in effect describe ourselves, our perceptions, our paradigms. When other people disagree with us, we immediately think something is wrong with them. But, as the demonstration shows, sincere, clear-headed people see things differently, each looking through the unique lens of experience. This does not mean that there are no facts.
 
-They are now both looking at the same identical facts, black lines and white spaces, and they would both acknowledge these as facts. But each person’s interpretation of these facts represents prior experiences, and the facts have no meaning whatsoever apart from the interpretation. The more aware we are of our basic paradigms, maps, or assumptions, and the extent to which we have been influenced by our experience, the more we can take responsibility for those paradigms, examine them, test them against reality, listen to others and be open to their perceptions, thereby getting a larger picture and a far more objective view.
+In the demonstration, two individuals who initially have been influenced by different conditioning pictures look at the third picture together. They are now both looking at the same identical facts, black lines and white spaces, and they would both acknowledge these as facts. But each person’s interpretation of these facts represents prior experiences, and the facts have no meaning whatsoever apart from the interpretation. The more aware we are of our basic paradigms, maps, or assumptions, and the extent to which we have been influenced by our experience, the more we can take responsibility for those paradigms, examine them, test them against reality, listen to others and be open to their perceptions, thereby getting a larger picture and a far more objective view.
 
-The Power of a Paradigm Shift Perhaps the most important insight to be gained from the perception demonstration is in the area of paradigm shifting, what we might call the aha. Experience when someone finally sees the composite picture in another way. The more bound a person is by the initial perception, the more powerful the aha. Experiences.
+The Power of a Paradigm Shift. Perhaps, the most important insight to be gained from the perception demonstration is in the area of paradigm shifting, what we might call the aha. Experience when someone finally sees the composite picture in another way. The more bound a person is by the initial perception, the more powerful the aha.
 
-It’s as though a light were suddenly turned on inside. The term paradigm shift was introduced by Thomas Kuhn in his highly influential landmark book, The Structure of Scientific Revolutions. Kuhn shows how almost every significant breakthrough in the field of scientific endeavor is first a break with tradition, with old ways of thinking, with old paradigms. For Ptolemy, the great Egyptian astronomer, the earth was the center of the universe. But Copernicus created a paradigm shift, and a great deal of resistance and persecution as well.
+Experiences. It’s as though a light were suddenly turned on inside. The term paradigm shift was introduced by Thomas Kuhn in his highly influential landmark book, The Structure of Scientific Revolutions. Kuhn shows how almost every significant breakthrough in the field of scientific endeavor is first a break with tradition, with old ways of thinking, with old paradigms.
 
-By placing the sun at the center. Suddenly, everything took on a different interpretation. The Newtonian model of physics was a clockwork paradigm and is still the basis of modern engineering. But it was partial, incomplete.
+For Ptolemy, the great Egyptian astronomer, the earth was the center of the universe. But Copernicus created a paradigm shift, and a great deal of resistance and persecution as well. By placing the sun at the center.
 
-The scientific world was revolutionized by the Einsteinian paradigm, the relativity paradigm, which had much higher predictive and explanatory value. Until the germ theory was developed, a high percentage of women and children died during childbirth, and no one could understand why.
+Suddenly, everything took on a different interpretation. The Newtonian model of physics was a clockwork paradigm and is still the basis of modern engineering. But it was partial, incomplete. The scientific world was revolutionized by the Einsteinian paradigm, the relativity paradigm, which had much higher predictive and explanatory value.
+
+Until the germ theory was developed, a high percentage of women and children died during childbirth, and no one could understand why.
 
 
 <a id="sec-003011"></a>
@@ -323,57 +355,65 @@ In military skirmishes, more men were dying from small wounds and diseases than 
 
 Then a different paradigm was developed, government of the people, by the people, and for the people. And a constitutional democracy was born, unleashing tremendous human energy and ingenuity, and creating a standard of living, of freedom and liberty, of influence and hope unequaled in the history of the world. Not all paradigm shifts are in positive directions. As we have observed, the shift from the character ethic to the personality ethic has drawn us away from the very roots that nourish true success and happiness.
 
-But whether they shift us in positive or negative directions, whether they are instantaneous or developmental, paradigm shifts move us from one way of seeing the world to another. And those shifts create powerful change. Our paradigms, correct or incorrect, are the sources of our attitudes and behaviors, and ultimately our relationships with others. I remember a mini-paradigm shift I experienced one Sunday morning on a subway in New York.
+But whether they shift us in positive or negative directions, whether they are instantaneous or developmental, paradigm shifts move us from one way of seeing the world to another. And those shifts create powerful change. Our paradigms, correct or incorrect, are the sources of our attitudes and behaviors, and ultimately our relationships with others. I remember a mini-paradigm shift.
 
-People were sitting quietly, some reading newspapers, some lost in thought, some resting with their eyes closed. It was a calm, peaceful scene. Then suddenly, a man and his children entered the subway car. The children were so loud and rambunctious that instantly the whole climate changed.
+I experienced one Sunday morning on a subway in New York. People were sitting quietly, some reading newspapers, some lost in thought, some resting with their eyes closed. It was a calm, peaceful scene. Then suddenly, a man and his children entered the subway car.
 
-The man sat down next to me and closed his eyes, apparently oblivious to the situation. The children were yelling back and forth, throwing things, even grabbing people’s papers. It was very disturbing. And yet, the man sitting next to me did nothing.
+The children were so loud and rambunctious that instantly the whole climate changed. The man sat down next to me and closed his eyes, apparently oblivious to the situation. The children were yelling back and forth, throwing things, even grabbing people’s papers. It was very disturbing.
 
-It was difficult not to feel irritated. I could not believe that he could be so insensitive as to let his children run wild like that and do nothing about it, taking no responsibility at all. It was easy to see that everyone else on the subway felt irritated, too.
+And yet, the man sitting next to me did nothing. It was difficult not to feel irritated. I could not believe that he could be so insensitive as to let his children run wild like that and do nothing about it, taking no responsibility at all. It was easy to see that everyone else on the subway felt irritated, too.
 
-So finally, with what I felt was unusual patience and restraint, I turned to him and said, “Sir, your children are really disturbing a lot of people.” I wonder if you couldn’t control them a little more? The man lifted his gaze as if to come to a consciousness of the situation for the first time and said softly, Oh, you’re right. I guess I should do something about it. We just came from the hospital where their mother died about an hour ago.
+So finally, with what. I felt was unusual patience and restraint, I turned to him and said, “Sir, your children are really disturbing a lot of people.”. I wonder if you couldn’t control them a little more? The man lifted his gaze as if to come to a consciousness of the situation for the first time and said softly, Oh, you’re right.
 
-I don’t know what to think, and I guess they don’t know how to handle it either. Can you imagine what I felt at that moment? My paradigm shifted.
+I guess. I should do something about it. We just came from the hospital where their mother died about an hour ago. I don’t know what to think, and.
 
-Suddenly I saw things differently, and because I saw differently, I thought differently, I felt differently, I behaved differently. My irritation vanished. I didn’t have to worry about controlling my attitude or my behavior, my heart was filled with the man’s pain. Feelings of sympathy and compassion flowed freely.
+I guess they don’t know how to handle it either. Can you imagine what. I felt at that moment? My paradigm shifted.
 
-Your wife just died? Oh, I’m so sorry. Can you tell me about it? What can I do to help?
+Suddenly. I saw things differently, and because. I saw differently, I thought differently, I felt differently, I behaved differently. My irritation vanished.
 
-Everything changed in an instant. Many people experience a similar fundamental shift in thinking when they face a life-threatening crisis and suddenly see their priorities in a different light. Or when they suddenly step into a new role, such as that of husband or wife, parent or grandparent, manager or leader. We could spend weeks, months, even years laboring with the personality ethic trying to change our attitudes and behaviors and not even begin to approach the phenomenon of change that occurs spontaneously when we see things differently.
+I didn’t have to worry about controlling my attitude or my behavior, my heart was filled with the man’s pain. Feelings of sympathy and compassion flowed freely. Your wife just died? Oh, I’m so sorry.
+
+Can you tell me about it? What can. I do to help? Everything changed in an instant.
+
+Many people experience a similar fundamental shift in thinking when they face a life-threatening crisis and suddenly see their priorities in a different light. Or when they suddenly step into a new role, such as that of husband or wife, parent or grandparent, manager or leader. We could spend weeks, months, even years laboring with the personality ethic trying to change our attitudes and behaviors and not even begin to approach the phenomenon of change that occurs spontaneously when we see things differently.
 
 It becomes obvious that if we want to make relatively minor changes in our lives, we can perhaps appropriately focus on our attitudes and behaviors. But if we want to make significant, quantum change, we need to work on our basic paradigms. In the words of Thoreau, for every thousand hacking at the leaves of evil, there is one striking at the root. We can only achieve quantum improvements in our lives as we quit hacking at the leaves of attitude and behavior and get to work on the root, the paradigms from which our attitudes and behaviors flow.
 
-Seeing and Being. Of course, not all paradigm shifts are instantaneous. Unlike my instant insight on the subway, the paradigm shifting experience Sandra and I had with our son was a slow, difficult, and deliberate process. The approach we had first taken with him was the outgrowth of years of conditioning and experience in the personality ethic.
+Seeing and Being. Of course, not all paradigm shifts are instantaneous. Unlike my instant insight on the subway, the paradigm shifting experience Sandra and. I had with our son was a slow, difficult, and deliberate process.
 
-It was the result of deeper paradigms we held about our own success as parents as well as the measure of success of our children. And it was not until we changed those basic paradigms, until we saw things differently, that we were able to create quantum change in ourselves and in the situation.
+The approach we had first taken with him was the outgrowth of years of conditioning and experience in the personality ethic. It was the result of deeper paradigms we held about our own success as parents as well as the measure of success of our children. And it was not until we changed those basic paradigms, until we saw things differently, that we were able to create quantum change in ourselves and in the situation.
 
 
 <a id="sec-003512"></a>
 ### ⏱️ [00:35:12 - 00:40:13]
 
-In order to see our son differently, Sandra and I had to be differently. Our new paradigm was created as we invested in the growth and development of our own character. Paradigms are inseparable from character. Being is seeing in the human dimension.
+In order to see our son differently, Sandra and. I had to be differently. Our new paradigm was created as we invested in the growth and development of our own character. Paradigms are inseparable from character.
 
-And what we see is highly interrelated to what we are. We can’t go very far to change our seeing without simultaneously changing our being, and vice versa. Even in my apparently instantaneous paradigm shifting experience that morning on the subway, my change of vision was a result of, and limited by, my basic character. I’m sure there are people who, even suddenly understanding the true situation, would have felt no more than a twinge of regret or vague guilt as they continued to sit in embarrassed silence beside the grieving, confused man.
+Being is seeing in the human dimension. And what we see is highly interrelated to what we are. We can’t go very far to change our seeing without simultaneously changing our being, and vice versa. Even in my apparently instantaneous paradigm shifting experience that morning on the subway, my change of vision was a result of, and limited by, my basic character.
 
-On the other hand, I am equally certain there are people who would have been far more sensitive in the first place, who may have recognized that a deeper problem existed and reached out to understand and help before I did. Paradigms are powerful because they create the lens through which we see the world. The power of a paradigm shift is the essential power of quantum change, whether that shift is an instantaneous or a slow and deliberate process. The Principle Centered Paradigm The character ethic is based on the fundamental idea that there are principles that govern human effectiveness, natural laws and the human dimension that are just as real, just as unchanging and unarguably there as laws such as gravity are in the physical dimension.
+I’m sure there are people who, even suddenly understanding the true situation, would have felt no more than a twinge of regret or vague guilt as they continued to sit in embarrassed silence beside the grieving, confused man. On the other hand, I am equally certain there are people who would have been far more sensitive in the first place, who may have recognized that a deeper problem existed and reached out to understand and help before. I did. Paradigms are powerful because they create the lens through which we see the world.
 
-An idea of the reality, and the impact, of these principles can be captured in another paradigm shifting experience as told by Frank Koch in Proceedings, the magazine of the Naval Institute. Two battleships assigned to the training squadron had been at sea on maneuvers in heavy weather for several days. I was serving on the lead battleship and was on watch on the bridge as night fell. The visibility was poor with patchy fog, so the captain remained on the bridge keeping an eye on all activities.
+The power of a paradigm shift is the essential power of quantum change, whether that shift is an instantaneous or a slow and deliberate process. The Principle Centered Paradigm The character ethic is based on the fundamental idea that there are principles that govern human effectiveness, natural laws and the human dimension that are just as real, just as unchanging and unarguably there as laws such as gravity are in the physical dimension. An idea of the reality, and the impact, of these principles can be captured in another paradigm shifting experience as told by Frank Koch in Proceedings, the magazine of the Naval Institute.
 
-Shortly after dark, the lookout on the wing of the bridge reported, light, bearing on the starboard bow. Is it steady or moving astern? The captain called out. Lookout replied, steady, captain, which meant we were on a dangerous collision course with that ship.
+Two battleships assigned to the training squadron had been at sea on maneuvers in heavy weather for several days. I was serving on the lead battleship and was on watch on the bridge as night fell. The visibility was poor with patchy fog, so the captain remained on the bridge keeping an eye on all activities. Shortly after dark, the lookout on the wing of the bridge reported, light, bearing on the starboard bow.
 
-The captain then called to the signalman, signal that ship, we are on a collision course, advise you change course 20 degrees. Back came a signal, advisable for you to change course 20 degrees. The captain said, send, I’m a captain, change course 20 degrees. I’m a seaman second class, came the reply.
+Is it steady or moving astern? The captain called out. Lookout replied, steady, captain, which meant we were on a dangerous collision course with that ship. The captain then called to the signalman, signal that ship, we are on a collision course, advise you change course 20 degrees.
 
-You had better. Change course 20 degrees. By that time, the captain was furious. He spat out, send, I’m a battleship.
+Back came a signal, advisable for you to change course 20 degrees. The captain said, send, I’m a captain, change course 20 degrees. I’m a seaman second class, came the reply. You had better.
 
-Change course 20 degrees. Back came the flashing light, I’m a lighthouse. We changed course. The paradigm shift experienced by the captain, and by us as we read this account, puts the situation in a totally different light.
+Change course 20 degrees. By that time, the captain was furious. He spat out, send, I’m a battleship. Change course 20 degrees.
 
-We can see a reality that is superseded by his limited perception, a reality that is as critical for us to understand in our daily lives as it was for the captain in the fog. Individuals are like lighthouses. They are natural laws that cannot be broken. As Cecil B.
+Back came the flashing light, I’m a lighthouse. We changed course. The paradigm shift experienced by the captain, and by us as we read this account, puts the situation in a totally different light. We can see a reality that is superseded by his limited perception, a reality that is as critical for us to understand in our daily lives as it was for the captain in the fog.
 
-DeMille observed of the principles contained in his monumental movie, The Ten Commandments, it is impossible for us to break the law. We can only break ourselves against the law. While individuals may look at their own lives and interactions in terms of paradigms or maps emerging out of their experience and conditioning, these maps are not the territory. They are a subjective reality, only an attempt to describe the territory.
+Individuals are like lighthouses. They are natural laws that cannot be broken. As Cecil B. DeMille observed of the principles contained in his monumental movie, The Ten Commandments, it is impossible for us to break the law.
 
-The objective reality, or the territory itself, is composed of lighthouse principles that govern human growth and happiness, natural laws that are woven into the fabric of every civilized society throughout history and comprise the roots of every family and institution that has endured and prospered. The degree to which our mental maps accurately describe the territory does not alter its existence. The reality of such principles or natural laws becomes obvious to anyone who thinks deeply and examines the cycles of social history. These principles surface time and time again, and the degree to which people in a society recognize and live in harmony with them moves them toward either survival and stability or disintegration and destruction.
+We can only break ourselves against the law. While individuals may look at their own lives and interactions in terms of paradigms or maps emerging out of their experience and conditioning, these maps are not the territory. They are a subjective reality, only an attempt to describe the territory. The objective reality, or the territory itself, is composed of lighthouse principles that govern human growth and happiness, natural laws that are woven into the fabric of every civilized society throughout history and comprise the roots of every family and institution that has endured and prospered.
 
-The principles I am referring to are not esoteric, mysterious, or religious ideas. There is not one principle taught in this book that is unique to any specific faith or a religion, including my own. These principles are a part of most every major enduring religion, as well as enduring social philosophies and ethical systems. They are self-evident and can easily be validated by any individual. It’s almost as if these principles or natural laws are part of the human condition, part of the human consciousness, part of the human conscience.
+The degree to which our mental maps accurately describe the territory does not alter its existence. The reality of such principles or natural laws becomes obvious to anyone who thinks deeply and examines the cycles of social history. These principles surface time and time again, and the degree to which people in a society recognize and live in harmony with them moves them toward either survival and stability or disintegration and destruction. The principles.
+
+I am referring to are not esoteric, mysterious, or religious ideas. There is not one principle taught in this book that is unique to any specific faith or a religion, including my own. These principles are a part of most every major enduring religion, as well as enduring social philosophies and ethical systems. They are self-evident and can easily be validated by any individual.
+
+It’s almost as if these principles or natural laws are part of the human condition, part of the human consciousness, part of the human conscience.
 
 
 <a id="sec-004013"></a>
@@ -413,59 +453,69 @@ And even if we understand it, to accept it and to live in harmony with it are ev
 
 Would positive thinking alone enable you to compete effectively against a professional? What if you were to lead your friends to believe you could play the piano at concert hall level while your actual present skill was that of a beginner? The answers are obvious. It is simply impossible to violate, ignore, or shortcut this development process.
 
-It is contrary to nature, and attempting to seek such a shortcut only results in disappointment and frustration. On a 10-point scale, if I am at level 2 in any field, and desire to move to level 5, I must first take the step toward level 3. A thousand-mile journey begins with the first step and can only be taken one step at a time. If you don’t let a teacher know at what level you are, by asking a question, or revealing your ignorance, you will not learn or grow.
+It is contrary to nature, and attempting to seek such a shortcut only results in disappointment and frustration. On a 10-point scale, if. I am at level 2 in any field, and desire to move to level 5, I must first take the step toward level 3. A thousand-mile journey begins with the first step and can only be taken one step at a time.
 
-You cannot pretend for a long, for you will eventually be found out. Admission of ignorance is often the first step in our education. Thoreau taught, how can we remember our ignorance, which our growth requires, when we are using our knowledge all the time. I recall one occasion when two young women, daughters of a friend of mine, came to me tearfully, complaining about their father’s harshness and lack of understanding.
+If you don’t let a teacher know at what level you are, by asking a question, or revealing your ignorance, you will not learn or grow. You cannot pretend for a long, for you will eventually be found out. Admission of ignorance is often the first step in our education. Thoreau taught, how can we remember our ignorance, which our growth requires, when we are using our knowledge all the time.
 
-They were afraid to open up with their parents for fear of the consequences. And yet they desperately needed their parents' love, understanding, and guidance. I talked with the father and found that he was intellectually aware of what was happening. But while he admitted he had a temper problem, he refused to take responsibility for it and to honestly accept the fact that his emotional development level was low.
+I recall one occasion when two young women, daughters of a friend of mine, came to me tearfully, complaining about their father’s harshness and lack of understanding. They were afraid to open up with their parents for fear of the consequences. And yet they desperately needed their parents' love, understanding, and guidance. I talked with the father and found that he was intellectually aware of what was happening.
 
-It was more than his pride could swallow to take the first step toward change. To relate effectively with a wife, a husband, children, friends, or working associates, we must learn to listen. And this requires emotional strength. Listening involves patience, openness, and the desire to understand, highly developed qualities of character.
+But while he admitted he had a temper problem, he refused to take responsibility for it and to honestly accept the fact that his emotional development level was low. It was more than his pride could swallow to take the first step toward change. To relate effectively with a wife, a husband, children, friends, or working associates, we must learn to listen. And this requires emotional strength.
 
-It’s so much easier to operate from a low emotional level and to give high level advice. Our level of development is fairly obvious with tennis or piano playing, where it is impossible to pretend. But it is not so obvious in the areas of character and emotional development. We can pose and put on for a stranger or an associate.
+Listening involves patience, openness, and the desire to understand, highly developed qualities of character. It’s so much easier to operate from a low emotional level and to give high level advice. Our level of development is fairly obvious with tennis or piano playing, where it is impossible to pretend. But it is not so obvious in the areas of character and emotional development.
 
-We can pretend. And for a while we can get by with it, at least in public. We might even deceive ourselves. Yet I believe that most of us know the truth of what we really are inside, and I think many of those we live with and work with do as well.
+We can pose and put on for a stranger or an associate. We can pretend. And for a while we can get by with it, at least in public. We might even deceive ourselves.
 
-I have seen the consequences of attempting to shortcut this natural process of growth often in the business world, where executives attempt to buy a new culture of improved productivity, quality, morale, and customer service with strong speeches, smile training, and external interventions, or through mergers, acquisitions, and friendly or unfriendly takeovers. But they ignore the low trust climate produced by such manipulations. When these methods don’t work, they look for other personality ethic techniques that will, all the time ignoring and violating the natural principles and processes on which a high trust culture is based.
+Yet. I believe that most of us know the truth of what we really are inside, and. I think many of those we live with and work with do as well. I have seen the consequences of attempting to shortcut this natural process of growth often in the business world, where executives attempt to buy a new culture of improved productivity, quality, morale, and customer service with strong speeches, smile training, and external interventions, or through mergers, acquisitions, and friendly or unfriendly takeovers.
 
-I remember violating this principle myself as a father many years ago. One day I returned home to my little girl’s third year birthday party to find her in the corner of the front room, defiantly clutching all of her presents, unwilling to let the other children play with them. The first thing I noticed was several parents in the room witnessing this selfish display. I was embarrassed, and doubly so because at the time I was teaching university classes in human relations.
+But they ignore the low trust climate produced by such manipulations. When these methods don’t work, they look for other personality ethic techniques that will, all the time ignoring and violating the natural principles and processes on which a high trust culture is based. I remember violating this principle myself as a father many years ago.
 
-And I knew, or at least felt, the expectation of these parents. The atmosphere in the room was really charged, the children were crowding around my little daughter with their hands out, asking to play with the presents they had just given, and my daughter was adamantly refusing. I said to myself, certainly I should teach my daughter to share.
+One day. I returned home to my little girl’s third year birthday party to find her in the corner of the front room, defiantly clutching all of her presents, unwilling to let the other children play with them. The first thing. I noticed was several parents in the room witnessing this selfish display.
+
+I was embarrassed, and doubly so because at the time. I was teaching university classes in human relations. And. I knew, or at least felt, the expectation of these parents.
+
+The atmosphere in the room was really charged, the children were crowding around my little daughter with their hands out, asking to play with the presents they had just given, and my daughter was adamantly refusing. I said to myself, certainly. I should teach my daughter to share.
 
 
 <a id="sec-005016"></a>
 ### ⏱️ [00:50:16 - 00:55:20]
 
-The value of sharing is one of the most basic things we believe in. So I first tried a simple request. Honey, would you please share with your friends the toys they’ve given you? No, she replied flatly.
+The value of sharing is one of the most basic things we believe in. So. I first tried a simple request. Honey, would you please share with your friends the toys they’ve given you?
 
-My second method was to use a little reasoning. Honey, if you learn to share your toys with them when they are at your home, then when you go to their homes they will share their toys with you. Again, the immediate reply was no. I was becoming a little more embarrassed, for it was evident I was having no influence. The third method was bribery.
+No, she replied flatly. My second method was to use a little reasoning. Honey, if you learn to share your toys with them when they are at your home, then when you go to their homes they will share their toys with you. Again, the immediate reply was no.
 
-Very softly I said, honey, if you share, I’ve got a special surprise for you. I’ll give you a piece of gum. I don’t want gum. She exploded.
+I was becoming a little more embarrassed, for it was evident. I was having no influence. The third method was bribery. Very softly.
 
-Now I was becoming exasperated. For my fourth attempt, I resorted to fear and threat. Unless you share, you’ll be in real trouble. I don’t care.
+I said, honey, if you share, I’ve got a special surprise for you. I’ll give you a piece of gum. I don’t want gum. She exploded.
 
-She cried. These are my things. I don’t have to share.
+Now. I was becoming exasperated. For my fourth attempt, I resorted to fear and threat. Unless you share, you’ll be in real trouble.
+
+I don’t care. She cried. These are my things. I don’t have to share.
 
 Finally, I resorted to force. I merely took some of the toys and gave them to… The other kids. Here, kids, play with these.
 
-Perhaps my daughter needed the experience of possessing the things before she could give them. In fact, unless I possess something, can I ever really give it? She needed me as her father to have a higher level of emotional maturity to give her that experience. But at that moment, I valued the opinion those parents had of me more than the growth and development of my child and our relationship together.
+Perhaps, my daughter needed the experience of possessing the things before she could give them. In fact, unless. I possess something, can. I ever really give it?
 
-I simply made an initial judgment that I was right, she should share, and she was wrong in not doing so. Perhaps I superimposed a higher level expectation on her simply because on my own scale I was at a lower level. I was unable or unwilling to give patience or understanding, so I expected her to give things. In an attempt to compensate for my deficiency, I borrowed strength from my position and authority and forced her to do what I wanted her to do.
+She needed me as her father to have a higher level of emotional maturity to give her that experience. But at that moment, I valued the opinion those parents had of me more than the growth and development of my child and our relationship together. I simply made an initial judgment that. I was right, she should share, and she was wrong in not doing so.
 
-But borrowing strength builds weakness. It builds weakness in the borrower because it reinforces dependence on external factors to get things done. It builds weakness in the person forced to acquiesce, stunting the development of independent reasoning, growth, and internal discipline. And finally, it builds weakness in the relationship.
+Perhaps. I superimposed a higher level expectation on her simply because on my own scale. I was at a lower level. I was unable or unwilling to give patience or understanding, so.
 
-Fear replaces cooperation, and both people involved become more arbitrary and defensive. And what happens when the source of borrowed strength, be it superior size or physical strength, position, authority, credentials, status symbols, appearance, or past achievements, changes or is no longer there? Had I been more mature, I could have relied on my own intrinsic strength, my understanding of sharing and of growth in my capacity to love and nurture and allowed my daughter to make a free choice as to whether she wanted to share or not to share.
+I expected her to give things. In an attempt to compensate for my deficiency, I borrowed strength from my position and authority and forced her to do what. I wanted her to do. But borrowing strength builds weakness.
 
-Perhaps after attempting to reason with her, I could have turned the attention of the children to an interesting game, taking all that emotional pressure off my child. I’ve learned that once children gain a sense of real possession, they share very naturally, freely, and spontaneously. My experience has been that there are times to teach and times not to teach. When relationships are strained in the air charged with emotion, an attempt to teach is often perceived as a form of judgment and rejection.
+It builds weakness in the borrower because it reinforces dependence on external factors to get things done. It builds weakness in the person forced to acquiesce, stunting the development of independent reasoning, growth, and internal discipline. And finally, it builds weakness in the relationship. Fear replaces cooperation, and both people involved become more arbitrary and defensive.
 
-But to take the child alone, quietly, when the relationship is good and to discuss the teaching or the values seems to have much greater impact. It may have been that the emotional maturity to do that was beyond my level of patience and internal control at the time. Perhaps a sense of possessing needs to come before a sense of genuine sharing. Many people who give mechanically or refuse to give and share in their marriages and families may never have experienced what it means to possess themselves, their own sense of identity and self-worth.
+And what happens when the source of borrowed strength, be it superior size or physical strength, position, authority, credentials, status symbols, appearance, or past achievements, changes or is no longer there? Had. I been more mature, I could have relied on my own intrinsic strength, my understanding of sharing and of growth in my capacity to love and nurture and allowed my daughter to make a free choice as to whether she wanted to share or not to share. Perhaps, after attempting to reason with her, I could have turned the attention of the children to an interesting game, taking all that emotional pressure off my child.
 
-Really helping our children grow may involve being patient enough to allow them the sense of possession as well as being wise enough to teach them the value of giving and providing the example ourselves. The way we see the problem is the problem. People are intrigued when they see good things happening in the lives of individuals, families, and organizations that are based on solid principles. They admire such personal strength and maturity, such family unity and teamwork, such adaptive synergistic organizational culture.
+I’ve learned that once children gain a sense of real possession, they share very naturally, freely, and spontaneously. My experience has been that there are times to teach and times not to teach. When relationships are strained in the air charged with emotion, an attempt to teach is often perceived as a form of judgment and rejection. But to take the child alone, quietly, when the relationship is good and to discuss the teaching or the values seems to have much greater impact.
 
-And their immediate request is very revealing of their basic paradigm. How do you do it? Teach me the techniques. What they’re really saying is, give me some quick fix advice or solution that will relieve the pain in my own situation.
+It may have been that the emotional maturity to do that was beyond my level of patience and internal control at the time. Perhaps, a sense of possessing needs to come before a sense of genuine sharing. Many people who give mechanically or refuse to give and share in their marriages and families may never have experienced what it means to possess themselves, their own sense of identity and self-worth. Really helping our children grow may involve being patient enough to allow them the sense of possession as well as being wise enough to teach them the value of giving and providing the example ourselves.
 
-They will find people who will meet their wants and teach these things, and for a short time, skills and techniques may appear to work. They may eliminate. Some of the cosmetic or acute problems through social aspirin and band-aids. But the underlying chronic condition remains, and eventually new acute.
+The way we see the problem is the problem. People are intrigued when they see good things happening in the lives of individuals, families, and organizations that are based on solid principles. They admire such personal strength and maturity, such family unity and teamwork, such adaptive synergistic organizational culture. And their immediate request is very revealing of their basic paradigm.
 
-Symptoms will appear. The more people are into quick fix and focus on the acute problems and pain, the more
+How do you do it? Teach me the techniques. What they’re really saying is, give me some quick fix advice or solution that will relieve the pain in my own situation. They will find people who will meet their wants and teach these things, and for a short time, skills and techniques may appear to work.
+
+They may eliminate. Some of the cosmetic or acute problems through social aspirin and band-aids. But the underlying chronic condition remains, and eventually new acute. Symptoms will appear.
+
+The more people are into quick fix and focus on the acute problems and pain, the more
 
 
 <a id="sec-005520"></a>
@@ -473,29 +523,39 @@ Symptoms will appear. The more people are into quick fix and focus on the acute 
 
 that very approach contributes to the underlying chronic condition. The way we see the problem is the problem. Look again at some of the concerns that introduce this chapter, and at the impact of personality ethic thinking. I’ve taken course after course on effective management training.
 
-I expect a lot out of my employees and I work hard to be friendly toward them and to treat them right. But I don’t feel any loyalty from them. I think if I were homesick for a day, they’d spend most of their time gabbing at the water fountain. Why can’t I train them to be independent and responsible, or find employees who can be?
+I expect a lot out of my employees and. I work hard to be friendly toward them and to treat them right. But. I don’t feel any loyalty from them.
 
-The personality ethic tells me I could take some kind of dramatic action, shake things up, make heads roll, that would make my employees shape up and appreciate what they have. Or that I could find some motivational training program that would get them committed. Or even that I could hire new people that would do a better job. But is it possible that under that apparently disloyal behavior, these employees question whether I really act in their best interest?
+I think if. I were homesick for a day, they’d spend most of their time gabbing at the water fountain. Why can’t. I train them to be independent and responsible, or find employees who can be?
 
-Do they feel like I’m treating them as mechanical objects? Is there some truth to that? Deep inside, is that really the way I see them? Is there a chance the way I look at the people who work for me is part of the problem?
+The personality ethic tells me. I could take some kind of dramatic action, shake things up, make heads roll, that would make my employees shape up and appreciate what they have. Or that. I could find some motivational training program that would get them committed.
 
-There’s so much to do. And there’s never enough time. I feel pressured and hassled all day, every day, 7 days a week. I’ve attended time management seminars and I’ve tried half a dozen different planning systems. They’ve helped some, but I still don’t feel I’m living the happy, productive, peaceful life I want to live.
+Or even that. I could hire new people that would do a better job. But is it possible that under that apparently disloyal behavior, these employees question whether. I really act in their best interest?
 
-The personality ethic tells me there must be something out there, some new planner or seminar that will help me handle all these pressures in a more efficient way. But is there a chance that efficiency is not the answer? Is getting more things done in less time going to make a difference, or will it just increase the pace at which I react to the people and circumstances that seem to control my life? Could there be something I need to see in a deeper, more fundamental way, some paradigm within myself that affects the way I see my time, my life, and my own nature?
+Do they feel like. I’m treating them as mechanical objects? Is there some truth to that? Deep inside, is that really the way.
 
-My marriage has gone flat. We don’t fight or anything, we just don’t love each other anymore. We’ve gone to counseling, we’ve tried a number of things, but we just can’t seem to rekindle the feeling we use to have. The personality ethic tells me there must be some new book or some seminar where people get all their feelings out that would help my wife understand me better.
+I see them? Is there a chance the way. I look at the people who work for me is part of the problem? There’s so much to do.
 
-Or maybe that it’s useless, and only a new relationship will provide the love I need. But is it possible that my spouse isn’t the real problem? Could I be empowering my spouse’s weaknesses and making my life a function of the way I’m married? Do I have some basic paradigm about my spouse, about marriage, about what love really is, that is feeding the problem?
+And there’s never enough time. I feel pressured and hassled all day, every day, 7 days a week. I’ve attended time management seminars and. I’ve tried half a dozen different planning systems.
 
-Can you see how fundamentally the paradigms of the personality ethic affect the very way we see our problems as well as the way we attempt to solve them? Whether people see it or not, many are becoming disillusioned with the empty promises of the personality ethic. As I travel around the country and work with organizations, I find that long-term thinking executives are simply turned off by psych-up psychology and motivational speakers who have nothing more to share than entertaining stories mangled with platitudes.
+They’ve helped some, but. I still don’t feel. I’m living the happy, productive, peaceful life. I want to live.
 
-They want substance, they want process. They want more than aspirin and band-aids. They want to solve the chronic underlying problems and focus on the principles that bring long-term results. A New Level of Thinking Albert Einstein observed, the significant problems we face cannot be solved at the same level of thinking we were at when we created them.
+The personality ethic tells me there must be something out there, some new planner or seminar that will help me handle all these pressures in a more efficient way. But is there a chance that efficiency is not the answer? Is getting more things done in less time going to make a difference, or will it just increase the pace at which. I react to the people and circumstances that seem to control my life?
 
-As we look around us and within us and recognize the problems created as we live and interact within the personality ethic, we begin to realize that these are deep, fundamental problems that cannot be solved on the superficial level on which they were created. We need a new level, a deeper level of thinking, a paradigm based on the principles that accurately describe the territory of effective human being and interacting, to solve these deep concerns. This new level of thinking is what 7 Habits of Highly Effective People is about.
+Could there be something. I need to see in a deeper, more fundamental way, some paradigm within myself that affects the way. I see my time, my life, and my own nature? My marriage has gone flat.
 
-It’s a principle-centered, character-based, inside-out approach to personal and interpersonal effectiveness. Inside-out means to start first with self, even more fundamentally, to start with the most inside part of self, with your paradigms, your character, and your motives. It says if you want to have a happy marriage, be the kind of person who generates them. positive energy and sidesteps negative energy rather than empowering it. If you want to have a more pleasant, cooperative teenager, be a more understanding, empathic, consistent, loving parent.
+We don’t fight or anything, we just don’t love each other anymore. We’ve gone to counseling, we’ve tried a number of things, but we just can’t seem to rekindle the feeling we use to have. The personality ethic tells me there must be some new book or some seminar where people get all their feelings out that would help my wife understand me better. Or maybe that it’s useless, and only a new relationship will provide the love.
 
-If you want to have more freedom, more latitude in your job, be a more responsible, a more helpful, a more contributing employee. If you want to be trusted, be trustworthy.
+I need. But is it possible that my spouse isn’t the real problem? Could. I be empowering my spouse’s weaknesses and making my life a function of the way.
+
+I’m married? Do. I have some basic paradigm about my spouse, about marriage, about what love really is, that is feeding the problem? Can you see how fundamentally the paradigms of the personality ethic affect the very way we see our problems as well as the way we attempt to solve them?
+
+Whether people see it or not, many are becoming disillusioned with the empty promises of the personality ethic. As. I travel around the country and work with organizations, I find that long-term thinking executives are simply turned off by psych-up psychology and motivational speakers who have nothing more to share than entertaining stories mangled with platitudes. They want substance, they want process.
+
+They want more than aspirin and band-aids. They want to solve the chronic underlying problems and focus on the principles that bring long-term results. A New Level of Thinking Albert Einstein observed, the significant problems we face cannot be solved at the same level of thinking we were at when we created them. As we look around us and within us and recognize the problems created as we live and interact within the personality ethic, we begin to realize that these are deep, fundamental problems that cannot be solved on the superficial level on which they were created.
+
+We need a new level, a deeper level of thinking, a paradigm based on the principles that accurately describe the territory of effective human being and interacting, to solve these deep concerns. This new level of thinking is what 7 Habits of Highly Effective People is about. It’s a principle-centered, character-based, inside-out approach to personal and interpersonal effectiveness. Inside-out means to start first with self, even more fundamentally, to start with the most inside part of self, with your paradigms, your character, and your motives.
+
+It says if you want to have a happy marriage, be the kind of person who generates them. positive energy and sidesteps negative energy rather than empowering it. If you want to have a more pleasant, cooperative teenager, be a more understanding, empathic, consistent, loving parent. If you want to have more freedom, more latitude in your job, be a more responsible, a more helpful, a more contributing employee. If you want to be trusted, be trustworthy.
 
 
 <a id="sec-010023"></a>
@@ -505,9 +565,9 @@ If you want the secondary greatness of recognized talent, focus first on primary
 
 It’s an upward spiral of growth that leads to progressively higher forms of responsible independence and effective interdependence. I have had the opportunity to work with many people, wonderful people, talented people, people who deeply want to achieve happiness and success. People who are searching, people who are hurting. I’ve worked with business executives, college students, church and civic groups, families and marriage partners.
 
-And in all of my experience, I have never seen lasting solutions to problems, lasting happiness and success, that came from the outside in. What I have seen result from the outside in paradigm is unhappy people who feel victimized and immobilized, who focus on the weaknesses of other people and the circumstances they feel are responsible for their own stagnant situation. I’ve seen unhappy marriages where each spouse wants the other to change, where each is confessing the other’s sins, where each is trying to shape up the other.
+And in all of my experience, I have never seen lasting solutions to problems, lasting happiness and success, that came from the outside in. What. I have seen result from the outside in paradigm is unhappy people who feel victimized and immobilized, who focus on the weaknesses of other people and the circumstances they feel are responsible for their own stagnant situation. I’ve seen unhappy marriages where each spouse wants the other to change, where each is confessing the other’s sins, where each is trying to shape up the other.
 
-I’ve seen labor management disputes where people spend tremendous amounts of time and energy trying to create legislation that would force people to act as though the foundation of trust were really there. Members of our family have lived in three of the hottest spots on earth, South Africa, Israel, and Ireland, and I believe the source of the continuing problems in each of these places has been the dominant social paradigm of outside in. Each involved group is convinced the problem is out there and if they, meaning others, would shape up or suddenly ship out of existence, the problem would be solved.
+I’ve seen labor management disputes where people spend tremendous amounts of time and energy trying to create legislation that would force people to act as though the foundation of trust were really there. Members of our family have lived in three of the hottest spots on earth, South Africa, Israel, and Ireland, and. I believe the source of the continuing problems in each of these places has been the dominant social paradigm of outside in. Each involved group is convinced the problem is out there and if they, meaning others, would shape up or suddenly ship out of existence, the problem would be solved.
 
 Inside out is a dramatic paradigm shift for most people, largely because of the powerful impact of conditioning and the current social paradigm of the personality ethic. But from my own experience, both personal and in working with thousands of other people, and from careful examination of successful individuals and societies throughout history, I am persuaded that many of the principles embodied in the seven habits are already deep within us, in our conscience and our common sense. To recognize and develop them and to use them in meeting our deepest concerns, we need to think differently, to shift our paradigms to a new, deeper, inside out level.
 
@@ -519,11 +579,13 @@ Aristotle. Our character, basically, is a composite of our habits. So a thought,
 
 Because they are consistent, often unconscious patterns, they constantly, daily, express our character and produce our effectiveness, or ineffectiveness. As Horace Mann, the great educator, once said, habits are like a cable. We weave a strand of it every day and soon it cannot be broken. I personally do not agree with the last part of his expression.
 
-I know they can be broken. Habits can be learned and unlearned. But I also know it isn’t a quick fix. It involves a process and a tremendous commitment.
+I know they can be broken. Habits can be learned and unlearned. But. I also know it isn’t a quick fix.
 
-Those of us who watched the lunar voyage of Apollo 11 were transfixed as we saw the first men walk on the moon and return to Earth. Superlatives such as fantastic and incredible were inadequate to describe those eventful days. But to get there, those. Habits literally had to break out of the tremendous gravity pull of the Earth.
+It involves a process and a tremendous commitment. Those of us who watched the lunar voyage of Apollo 11 were transfixed as we saw the first men walk on the moon and return to Earth. Superlatives such as fantastic and incredible were inadequate to describe those eventful days. But to get there, those.
 
-More energy was spent in the first few minutes of liftoff, in the first few miles of travel, than was used over the next several days to travel half a million miles. Habits, too, have tremendous gravity pull, more than most people realize or would admit. Breaking deeply embedded habitual tendencies such as procrastination, impatience, criticalness, or selfishness that violate basic principles of human effectiveness involves more than a little willpower and a few minor changes in our lives. Liftoff takes a tremendous effort, but once we break out of the gravity pull, our freedom takes on a whole new dimension.
+Habits literally had to break out of the tremendous gravity pull of the Earth. More energy was spent in the first few minutes of liftoff, in the first few miles of travel, than was used over the next several days to travel half a million miles. Habits, too, have tremendous gravity pull, more than most people realize or would admit. Breaking deeply embedded habitual tendencies such as procrastination, impatience, criticalness, or selfishness that violate basic principles of human effectiveness involves more than a little willpower and a few minor changes in our lives.
+
+Liftoff takes a tremendous effort, but once we break out of the gravity pull, our freedom takes on a whole new dimension.
 
 
 <a id="sec-010524"></a>
@@ -531,29 +593,35 @@ More energy was spent in the first few minutes of liftoff, in the first few mile
 
 Like any natural force, gravity pull can work with us or against us. The gravity pull of some of our habits may currently be keeping us from going where we want to go. But it is also gravity pull that keeps our world together, that keeps the planets in their orbits and our universe in order. It is a powerful force, and if we use it effectively, we can use the gravity pull of habit to create the cohesiveness and order necessary to establish effectiveness in our lives.
 
-Habits defined For our purposes, we will define a habit as the intersection of knowledge, skill, and desire. Knowledge is the theoretical paradigm, the what to do and the why. Skill is the how to do. And desire is the motivation, the want to do.
+Habits defined. For our purposes, we will define a habit as the intersection of knowledge, skill, and desire. Knowledge is the theoretical paradigm, the what to do and the why. Skill is the how to do.
 
-In order to make something a habit in our lives, we have to have all three. I may be ineffective in my interactions with my work associates, my spouse, or my children because I constantly tell them what I think, but I never really listen to them. Unless I search out correct principles of human interaction, I may not even know I need to listen. Even if I do know that in order to interact effectively with others I really need to listen to them, I may not have the skill.
+And desire is the motivation, the want to do. In order to make something a habit in our lives, we have to have all three. I may be ineffective in my interactions with my work associates, my spouse, or my children because. I constantly tell them what.
 
-I may not know how to really listen deeply to another human being. But knowing I need to listen and knowing how to listen is not enough. Unless I want to listen, unless I have the desire, it won’t be a habit in my life. Creating a habit requires work in all three dimensions.
+I think, but. I never really listen to them. Unless. I search out correct principles of human interaction, I may not even know.
 
-The being slash seeing change is an upward process, being changing seeing, which in turn changes being, and so forth, as we move in an upward spiral of growth. By working on knowledge, skill, and desire, we can break through to new levels of personal and interpersonal effectiveness as we break with old paradigms that may have been a source of pseudo security for years. It’s sometimes a painful process. It’s a change that has to be motivated by a higher purpose, by the willingness to subordinate what you think you want now for what you want later.
+I need to listen. Even if. I do know that in order to interact effectively with others. I really need to listen to them, I may not have the skill.
 
-But this process produces happiness, the object and design of our existence. Happiness can be defined, in part at least, as the fruit of the desire and ability to sacrifice what we want now for what we want eventually. Effective Habits Internalized Principles and Patterns of Behavior The Maturity Continuum The seven habits are not a set of separate or piecemeal psychopformulas. In harmony with the natural laws of growth, they provide an incremental, sequential, highly integrated approach to the development of personal and interpersonal effectiveness.
+I may not know how to really listen deeply to another human being. But knowing. I need to listen and knowing how to listen is not enough. Unless.
 
-They move us progressively on a maturity continuum from dependence to independence to interdependence. We each begin life as an infant, totally dependent on others. We are directed, nurtured, and sustained by others. Without this nurturing, we would only live for a few hours or a few days at the most.
+I want to listen, unless. I have the desire, it won’t be a habit in my life. Creating a habit requires work in all three dimensions. The being slash seeing change is an upward process, being changing seeing, which in turn changes being, and so forth, as we move in an upward spiral of growth.
 
-Then gradually, over the ensuing months and years, we become more and more independent, physically, mentally, emotionally, and financially, until eventually we can essentially take care of ourselves, becoming interdirected and self-reliant. As we continue to grow and mature, we become increasingly aware that all of nature is interdependent, that there is an ecological system that governs nature, including society. We further discover that the higher reaches of our nature have to do with our relationships with others, that human life also is interdependent. Our growth from infancy to adulthood is in accordance with natural law.
+By working on knowledge, skill, and desire, we can break through to new levels of personal and interpersonal effectiveness as we break with old paradigms that may have been a source of pseudo security for years. It’s sometimes a painful process. It’s a change that has to be motivated by a higher purpose, by the willingness to subordinate what you think you want now for what you want later. But this process produces happiness, the object and design of our existence.
 
-And there are many dimensions to growth. Reaching our full physical maturity, for example, does not necessarily assure us of simultaneous emotional or mental maturity.
+Happiness can be defined, in part at least, as the fruit of the desire and ability to sacrifice what we want now for what we want eventually. Effective Habits Internalized Principles and Patterns of Behavior The Maturity Continuum The seven habits are not a set of separate or piecemeal psychopformulas. In harmony with the natural laws of growth, they provide an incremental, sequential, highly integrated approach to the development of personal and interpersonal effectiveness. They move us progressively on a maturity continuum from dependence to independence to interdependence.
 
-On the other hand, a person’s physical dependence does not mean that he or she is mentally or emotionally immature. On the maturity continuum, dependence is the paradigm of you. You take care of me, you come through for me, you didn’t come through, I blame you for the results. Independence is the paradigm of I, I can do it, I am responsible, I am self-reliant, I can choose.
+We each begin life as an infant, totally dependent on others. We are directed, nurtured, and sustained by others. Without this nurturing, we would only live for a few hours or a few days at the most. Then gradually, over the ensuing months and years, we become more and more independent, physically, mentally, emotionally, and financially, until eventually we can essentially take care of ourselves, becoming interdirected and self-reliant.
 
-Interdependence is the paradigm of we, we can do it, we can cooperate, we can combine our talents and abilities and create something greater together. Dependent people need others to get what they want. Independent people can get what they want through their own effort. Interdependent people combine their own efforts with the efforts of others to achieve their greatest success.
+As we continue to grow and mature, we become increasingly aware that all of nature is interdependent, that there is an ecological system that governs nature, including society. We further discover that the higher reaches of our nature have to do with our relationships with others, that human life also is interdependent. Our growth from infancy to adulthood is in accordance with natural law. And there are many dimensions to growth.
 
-If I were physically dependent, paralyzed or disabled or limited in some physical way, I would need you to help me. If I were emotionally dependent, my sense of worth and security would come from your opinion of me. If you didn’t like me, it could be devastating. If I were intellectually dependent, I would count on you to do my thinking for me, to think through the issues and problems of my life.
+Reaching our full physical maturity, for example, does not necessarily assure us of simultaneous emotional or mental maturity. On the other hand, a person’s physical dependence does not mean that he or she is mentally or emotionally immature. On the maturity continuum, dependence is the paradigm of you. You take care of me, you come through for me, you didn’t come through, I blame you for the results.
 
-If I were independent, physically, I could pretty well make it on my own. Mentally, I could think my own thoughts, I could move from one level of abstraction to
+Independence is the paradigm of. I, I can do it, I am responsible, I am self-reliant, I can choose. Interdependence is the paradigm of we, we can do it, we can cooperate, we can combine our talents and abilities and create something greater together. Dependent people need others to get what they want.
+
+Independent people can get what they want through their own effort. Interdependent people combine their own efforts with the efforts of others to achieve their greatest success. If. I were physically dependent, paralyzed or disabled or limited in some physical way, I would need you to help me.
+
+If. I were emotionally dependent, my sense of worth and security would come from your opinion of me. If you didn’t like me, it could be devastating. If.
+
+I were intellectually dependent, I would count on you to do my thinking for me, to think through the issues and problems of my life. If. I were independent, physically, I could pretty well make it on my own. Mentally, I could think my own thoughts, I could move from one level of abstraction to
 
 
 <a id="sec-011028"></a>
@@ -573,19 +641,23 @@ It frees us from our dependence on circumstances and other people and is a worth
 
 They’re not coming from the paradigm of interdependence necessary to succeed. In marriage, family, or organizational reality. Life is, by nature, highly interdependent. To try to achieve maximum effectiveness through independence is like trying to play tennis with a golf club the tool is not suited to the reality.
 
-Interdependence is a far more mature, more advanced concept. If I am physically interdependent, I am self-reliant and capable, but I also realize that you and I working together can accomplish far more than, even at my best, I could accomplish alone. If I am emotionally interdependent, I derive a great sense of worth within myself, but I also recognize the need for love, for giving, and for receiving love from others. If I am intellectually interdependent, I realize that I need the best thinking of other people to join with my own.
+Interdependence is a far more mature, more advanced concept. If. I am physically interdependent, I am self-reliant and capable, but. I also realize that you and.
 
-As an interdependent person, I have the opportunity to share myself deeply, meaningfully, with others, and I have access to the vast resources and potential of other human beings. Interdependence is a choice only independent people can make. Dependent people cannot choose to become interdependent. They don’t have the character to do it, they don’t own enough of themselves.
+I working together can accomplish far more than, even at my best, I could accomplish alone. If. I am emotionally interdependent, I derive a great sense of worth within myself, but. I also recognize the need for love, for giving, and for receiving love from others.
+
+If. I am intellectually interdependent, I realize that. I need the best thinking of other people to join with my own. As an interdependent person, I have the opportunity to share myself deeply, meaningfully, with others, and.
+
+I have access to the vast resources and potential of other human beings. Interdependence is a choice only independent people can make. Dependent people cannot choose to become interdependent. They don’t have the character to do it, they don’t own enough of themselves.
 
 That’s why habits 1, 2, and 3 in the following chapters deal with self-mastery. They move a person from dependence to independence. They are the private victories, the essence of character growth. Private victories precede public victories.
 
 You can’t invert that process any more than you can harvest a crop before you plant it. It’s inside out. As you become truly independent, you have the foundation for effective interdependence. You have the character base from which you can effectively work on the more personality oriented public victories of teamwork, cooperation, and communication in habits 4, 5, and 6.
 
-That does not mean you have to be perfect in habits 1, 2, and 3 before working on habits 4, 5, and 6. Understanding the sequence will help you manage your growth more effectively, but I’m not suggesting that you put yourself in isolation for several years until you fully develop habits 1, 2, and 3. That’s part of it. With an interdependent world, you have to relate to that world every day.
+That does not mean you have to be perfect in habits 1, 2, and 3 before working on habits 4, 5, and 6. Understanding the sequence will help you manage your growth more effectively, but. I’m not suggesting that you put yourself in isolation for several years until you fully develop habits 1, 2, and 3. That’s part of it.
 
-But the acute problems of that world can easily obscure the chronic character causes. Understanding how what you are impacts every interdependent interaction will help you to focus your efforts sequentially, in harmony with the natural laws of growth. Habit 7 is the habit of renewal, a regular, balanced renewal of the four basic dimensions of life. It circles and embodies all the other habits.
+With an interdependent world, you have to relate to that world every day. But the acute problems of that world can easily obscure the chronic character causes. Understanding how what you are impacts every interdependent interaction will help you to focus your efforts sequentially, in harmony with the natural laws of growth. Habit 7 is the habit of renewal, a regular, balanced renewal of the four basic dimensions of life.
 
-It is the habit of continuous improvement that creates the upward spiral of growth that
+It circles and embodies all the other habits. It is the habit of continuous improvement that creates the upward spiral of growth that
 
 
 <a id="sec-011532"></a>
@@ -595,29 +667,31 @@ lifts you to new levels of understanding and living each of the habits as you co
 
 Each concept or habit will be highlighted as it is introduced. Effectiveness defined The seven habits are habits of effectiveness. Because they are based on principles, they bring the maximum long-term beneficial results possible. They become the basis of a person’s character, creating an empowering center of correct maps from which an individual can effectively solve problems, maximize opportunities, and continually learn and integrate other principles in an upward spiral of growth.
 
-They are also habits of effectiveness because they are based on a paradigm of effectiveness that is in harmony with the natural law, a principle I call the p-slash-pc balance, which many people break themselves against. This principle can be easily understood by remembering Aesop’s fable of the goose and the golden egg. This fable is the story of a poor farmer who one day discovers in the nest of his pet goose a glittering golden egg. But first, he thinks it must be some kind of trick.
+They are also habits of effectiveness because they are based on a paradigm of effectiveness that is in harmony with the natural law, a principle. I call the p-slash-pc balance, which many people break themselves against. This principle can be easily understood by remembering Aesop’s fable of the goose and the golden egg. This fable is the story of a poor farmer who one day discovers in the nest of his pet goose a glittering golden egg.
 
-But as he starts to throw the egg aside, he has second thoughts and takes it in to be appraised instead. The egg is pure gold. The farmer can’t believe his good fortune. He becomes even more incredulous the following day when the experience is repeated.
+But first, he thinks it must be some kind of trick. But as he starts to throw the egg aside, he has second thoughts and takes it in to be appraised instead. The egg is pure gold. The farmer can’t believe his good fortune.
 
-Day after day, he awakens to rush to the nest and find another golden egg. He becomes fabulously wealthy, it all seems too good to be true. The seven habits paradigm. But with his increasing wealth comes greed and impatience.
+He becomes even more incredulous the following day when the experience is repeated. Day after day, he awakens to rush to the nest and find another golden egg. He becomes fabulously wealthy, it all seems too good to be true. The seven habits paradigm.
 
-Unable to wait day after day for the golden eggs, the farmer decides he will kill the goose and get them all at once. But when he opens the goose, he finds it empty. There are no golden eggs, and now there is no way to get any more. The farmer has destroyed the goose that produced them.
+But with his increasing wealth comes greed and impatience. Unable to wait day after day for the golden eggs, the farmer decides he will kill the goose and get them all at once. But when he opens the goose, he finds it empty. There are no golden eggs, and now there is no way to get any more.
 
-I suggest that within this fable is a natural law, a principle, the basic definition of effectiveness. As people see effectiveness from the golden egg paradigm, the more you produce, the more you do, the more effective you are. But as the story shows, true effectiveness is a function of two things, what is produced, the golden eggs, and the producing asset or capacity to produce, the goose. If you adopt a pattern of life that focuses on golden eggs and neglects the goose, you will soon be without the asset that produces golden eggs.
+The farmer has destroyed the goose that produced them. I suggest that within this fable is a natural law, a principle, the basic definition of effectiveness. As people see effectiveness from the golden egg paradigm, the more you produce, the more you do, the more effective you are. But as the story shows, true effectiveness is a function of two things, what is produced, the golden eggs, and the producing asset or capacity to produce, the goose.
 
-On the other hand, if you only take care of the goose with no aim toward the golden eggs, you soon won’t have the wherewithal to feed yourself or the goose. Effectiveness lies in the balance, what I call the P slash PC balance. P stands for production of desired results, the golden eggs. P C stands for production capability, the ability or asset that produces the golden eggs.
+If you adopt a pattern of life that focuses on golden eggs and neglects the goose, you will soon be without the asset that produces golden eggs. On the other hand, if you only take care of the goose with no aim toward the golden eggs, you soon won’t have the wherewithal to feed yourself or the goose. Effectiveness lies in the balance, what. I call the P slash PC balance.
 
-Three kinds of assets. Basically, there are three kinds of assets, physical, financial, and human. Let’s look at each one in turn. A few years ago, I purchased a physical asset, a power lawnmower.
+P stands for production of desired results, the golden eggs. P C stands for production capability, the ability or asset that produces the golden eggs. Three kinds of assets. Basically, there are three kinds of assets, physical, financial, and human.
 
-I used it over and over again without doing anything to maintain it. The mower worked well for two seasons, but then it began to break down. When I tried to revive it with service and sharpening, I discovered the engine had lost over half its original power capacity. It was essentially worthless.
+Let’s look at each one in turn. A few years ago, I purchased a physical asset, a power lawnmower. I used it over and over again without doing anything to maintain it. The mower worked well for two seasons, but then it began to break down.
 
-Had I invested in PC, in preserving and maintaining the asset, I would still be enjoying its P, the mowed lawn. As it was, I had to spend far more time and money replacing the mower than I ever would have spent, had I maintained it. It simply wasn’t effective. In our quest for short-term returns, or results, we often ruin a prized physical asset, a car, a computer, a washer or a dryer, even our body or our environment.
+When. I tried to revive it with service and sharpening, I discovered the engine had lost over half its original power capacity. It was essentially worthless. Had.
 
-Keeping P and PC in balance makes a tremendous difference in the effective use of physical assets. It also powerfully impacts the effective use of financial assets. How often do people confuse principle with interest? Have you ever invaded principle to increase your standard of living, to get more golden eggs?
+I invested in PC, in preserving and maintaining the asset, I would still be enjoying its P, the mowed lawn. As it was, I had to spend far more time and money replacing the mower than. I ever would have spent, had. I maintained it.
 
-The decreasing principle has decreasing power to produce interest or income. Even the dwindling capital becomes smaller and smaller until it no longer supplies even basic needs. Our most important financial asset is our own capacity to earn. If we don’t continually invest in improving our own PC, we severely limit our options.
+It simply wasn’t effective. In our quest for short-term returns, or results, we often ruin a prized physical asset, a car, a computer, a washer or a dryer, even our body or our environment. Keeping P and PC in balance makes a tremendous difference in the effective use of physical assets. It also powerfully impacts the effective use of financial assets.
 
-We’re locked into our present situation, running scared of our corporation or our boss’s opinion of us, economically dependent and defensive. Again, it simply isn’t effective.
+How often do people confuse principle with interest? Have you ever invaded principle to increase your standard of living, to get more golden eggs? The decreasing principle has decreasing power to produce interest or income. Even the dwindling capital becomes smaller and smaller until it no longer supplies even basic needs.
+
+Our most important financial asset is our own capacity to earn. If we don’t continually invest in improving our own PC, we severely limit our options. We’re locked into our present situation, running scared of our corporation or our boss’s opinion of us, economically dependent and defensive. Again, it simply isn’t effective.
 
 
 <a id="sec-012034"></a>
@@ -637,25 +711,27 @@ And what about your relationship? When he reaches those critical teenage years, 
 
 And suppose you want her to clean it, that’s PC, production capability. Your daughter is the goose, the asset, that produces the golden egg. If you have P and PC in balance, she cleans the room cheerfully, without being reminded, because she is committed and has the discipline to stay with the commitment. She is a valuable asset, a goose that can produce golden eggs.
 
-But if your paradigm is focused on production, on getting the room clean, you might find yourself nagging her to do it. You might even escalate your efforts to threatening or yelling, and in your desire to get the golden egg, you undermine the health and welfare of the goose. Let me share with you an interesting PC experience I had with one of my daughters. We were planning a private date, which is something I enjoy regularly with each of my children.
+But if your paradigm is focused on production, on getting the room clean, you might find yourself nagging her to do it. You might even escalate your efforts to threatening or yelling, and in your desire to get the golden egg, you undermine the health and welfare of the goose. Let me share with you an interesting PC experience. I had with one of my daughters.
 
-We find that the anticipation of the date is as satisfying as the realization. So I approached my daughter and said, honey, tonight’s your night. What do? You want to do?
+We were planning a private date, which is something. I enjoy regularly with each of my children. We find that the anticipation of the date is as satisfying as the realization. So.
 
-Oh, dad, that’s okay, she replied. No, really, I said. What would you like to do? Well, she finally said, what I want to do, you don’t really want to do.
+I approached my daughter and said, honey, tonight’s your night. What do? You want to do? Oh, dad, that’s okay, she replied.
 
-Really, honey, I said earnestly, I want to do it. No matter what, it’s your choice. I want to go see Star Wars, she replied. But I know you don’t like Star Wars.
+No, really, I said. What would you like to do? Well, she finally said, what. I want to do, you don’t really want to do.
 
-You slept through it before. You don’t like these fantasy movies. That’s okay, dad. No, honey, if that’s what you’d like to do, I’d like to do it.
+Really, honey, I said earnestly, I want to do it. No matter what, it’s your choice. I want to go see Star Wars, she replied. But.
 
-Dad, don’t worry about it. We don’t always have to have this date. She paused and then added, but you know why you don’t like Star Wars? It’s because you don’t understand the philosophy and training of a Jedi Knight.
+I know you don’t like Star Wars. You slept through it before. You don’t like these fantasy movies. That’s okay, dad.
 
-What? You know the things you teach, dad? Those are the same things that go into the training of a Jedi Knight. Really?
+No, honey, if that’s what you’d like to do, I’d like to do it. Dad, don’t worry about it. We don’t always have to have this date. She paused and then added, but you know why you don’t like Star Wars?
 
-Let’s go to Star Wars. And we did. She sat next to me and gave me the paradigm. I became her student, her learner.
+It’s because you don’t understand the philosophy and training of a Jedi Knight. What? You know the things you teach, dad? Those are the same things that go into the training of a Jedi Knight.
 
-It was totally fascinating. I could begin to see out of a new paradigm the whole way a Jedi Knight’s basic philosophy and training is manifested in different circumstances. That experience was not a plan P experience, it was the serendipitous fruit of a PC investment. It was bonding and very satisfying.
+Really? Let’s go to Star Wars. And we did. She sat next to me and gave me the paradigm.
 
-But we enjoyed golden eggs, too, as the goose, the quality of the relationship, was significantly fed. Organizational PC
+I became her student, her learner. It was totally fascinating. I could begin to see out of a new paradigm the whole way a Jedi Knight’s basic philosophy and training is manifested in different circumstances. That experience was not a plan P experience, it was the serendipitous fruit of a PC investment.
+
+It was bonding and very satisfying. But we enjoyed golden eggs, too, as the goose, the quality of the relationship, was significantly fed. Organizational PC
 
 
 <a id="sec-012535"></a>
@@ -663,7 +739,7 @@ But we enjoyed golden eggs, too, as the goose, the quality of the relationship, 
 
 One of the immensely valuable aspects of any correct principle is that it is valid and applicable in a wide variety of circumstances. Throughout this book, I would like to share with you some of the ways in which these principles apply to organizations, including families, as well as to individuals. When people fail to respect the P-slash-PC balance in their use of physical assets in organizations, they decrease organizational effectiveness and often leave others with dying geese.
 
-For example, a person in charge of a physical asset, such as a machine, may be eager to make a good impression on his superiors. Perhaps the company is in a rapid growth stage and promotions are coming fast. So he produces at optimum levels. No downtime, no maintenance.
+For example, a person in charge of a physical asset, such as a machine, may be eager to make a good impression on his superiors. Perhaps, the company is in a rapid growth stage and promotions are coming fast. So he produces at optimum levels. No downtime, no maintenance.
 
 He runs the machine day and night. The production is phenomenal, costs are down, and profits skyrocket. Within a short time, he’s promoted. But suppose you’re his successor on the job.
 
@@ -691,9 +767,9 @@ There’s too much turnover, absenteeism, moonlighting. People just don’t care
 
 Effectiveness lies in the balance. Excessive focus on P results in ruined health, worn out machines, depleted bank accounts, and broken relationships. Too much focus on PC is like a person who runs 3 or 4 hours a day, bragging about the extra 10 years of life it creates, unaware he’s spending them running. Or a person endlessly going to the store. to school, never producing, living on other people’s golden eggs, the eternal student syndrome.
 
-To maintain the P-slash-PC balance, the balance between the golden egg, production, and the health and welfare of the goose, production capability, is often a difficult judgment call. But I suggest it is the very essence of effectiveness. It balances short-term with long-term. It balances going for the great and paying the price to get an education.
+To maintain the P-slash-PC balance, the balance between the golden egg, production, and the health and welfare of the goose, production capability, is often a difficult judgment call. But. I suggest it is the very essence of effectiveness. It balances short-term with long-term.
 
-It balances the desire to have a room clean in the building of a relationship in which the child is internally committed to do it,
+It balances going for the great and paying the price to get an education. It balances the desire to have a room clean in the building of a relationship in which the child is internally committed to do it,
 
 
 <a id="sec-013036"></a>
@@ -709,19 +785,19 @@ First, I would recommend that you not see this material as a book, in the sense 
 
 As you progress to deeper levels of understanding and implementation, you can go back time and again to the principles contained in each habit and work to expand your knowledge, skill, and desire. Second, I would suggest that you shift your paradigm of your own involvement in this material from the role of learner to that of teacher. Take an inside out approach and read with the purpose in mind of sharing or discussing what you learn with someone else within 48 hours after you learn it.
 
-If you had known, for example, that you would be teaching the material on the p-slash-pc balance principle to someone else within 48 hours, would it have made a difference in your reading experience? Try it now as you read the finals section in this chapter. Read as though you are going to teach it to your spouse, your child, a business associate, or a friend today or tomorrow, while it is still fresh, and notice the difference in your mental and emotional process. I guarantee that if you approach the material in each of the following chapters in this way, you will not only better remember what you read, but your perspective will be expanded, your understanding deepen, and your motivation to apply the material increased.
+If you had known, for example, that you would be teaching the material on the p-slash-pc balance principle to someone else within 48 hours, would it have made a difference in your reading experience? Try it now as you read the finals section in this chapter. Read as though you are going to teach it to your spouse, your child, a business associate, or a friend today or tomorrow, while it is still fresh, and notice the difference in your mental and emotional process.
 
-In addition, as you openly, honestly share what you’re learning with others, you may be surprised to find that negative labels or perceptions others may have of you tend to disappear. Those you teach will see you as a changing, growing person, and will be more inclined to be helpful and supportive as you work, perhaps together, to integrate the seven habits into your lives. What you can expect. In the last analysis, as Marilyn Ferguson observed, no one can persuade another to change.
+I guarantee that if you approach the material in each of the following chapters in this way, you will not only better remember what you read, but your perspective will be expanded, your understanding deepen, and your motivation to apply the material increased. In addition, as you openly, honestly share what you’re learning with others, you may be surprised to find that negative labels or perceptions others may have of you tend to disappear. Those you teach will see you as a changing, growing person, and will be more inclined to be helpful and supportive as you work, perhaps together, to integrate the seven habits into your lives.
 
-Each of us guards a gate of change that can only be opened from the inside. We cannot open the gate of another, either by argument or by emotional appeal. If you decide to open your gate of change to really understand and live the principles embodied in the seven habits, I feel comfortable in assuring you several positive things will happen.
+What you can expect. In the last analysis, as Marilyn Ferguson observed, no one can persuade another to change. Each of us guards a gate of change that can only be opened from the inside. We cannot open the gate of another, either by argument or by emotional appeal.
 
-First, your growth will be evolutionary, but the net effect will be revolutionary. Would you not agree that the P slash PC balance principle alone, if fully lived, would transform most individuals and organizations? The net effect of opening the gate of change to the first three habits, the habits of private victory, will be significantly increased self-confidence. You will come to know yourself in a deeper, more meaningful way, your nature, your deepest values and your unique contribution capacity.
+If you decide to open your gate of change to really understand and live the principles embodied in the seven habits, I feel comfortable in assuring you several positive things will happen. First, your growth will be evolutionary, but the net effect will be revolutionary. Would you not agree that the P slash PC balance principle alone, if fully lived, would transform most individuals and organizations? The net effect of opening the gate of change to the first three habits, the habits of private victory, will be significantly increased self-confidence.
 
-As you live your values, your sense of identity, integrity, control, and inner directedness will infuse you with both exhilaration and peace. You will define yourself from within, rather than by people’s opinions or by comparisons to others. Wrong and right will have little to do with being found out. Ironically, you’ll find that as you care less about what others think of you, you will care more about what others think of themselves and their world.
+You will come to know yourself in a deeper, more meaningful way, your nature, your deepest values and your unique contribution capacity. As you live your values, your sense of identity, integrity, control, and inner directedness will infuse you with both exhilaration and peace. You will define yourself from within, rather than by people’s opinions or by comparisons to others. Wrong and right will have little to do with being found out.
 
-Including their relationship with you. You’ll no longer build your emotional life on other people’s weaknesses. In addition, you’ll find it easier and more desirable to change because there is something, some core deep within, that is essentially changeless. As you open yourself to the next three habits, the habits of public victory, you will discover and unleash both the desire and the resources to heal and rebuild important relationships that have deteriorated, or even broken.
+Ironically, you’ll find that as you care less about what others think of you, you will care more about what others think of themselves and their world. Including their relationship with you. You’ll no longer build your emotional life on other people’s weaknesses. In addition, you’ll find it easier and more desirable to change because there is something, some core deep within, that is essentially changeless.
 
-Good relationships will improve, become deeper, more solid, more creative, and more adventuresome. The seventh habit, if deeply
+As you open yourself to the next three habits, the habits of public victory, you will discover and unleash both the desire and the resources to heal and rebuild important relationships that have deteriorated, or even broken. Good relationships will improve, become deeper, more solid, more creative, and more adventuresome. The seventh habit, if deeply
 
 
 <a id="sec-013538"></a>
@@ -731,25 +807,25 @@ internalized, will renew the first six and will make you truly independent and c
 
 With genuine caring, I encourage you to open the gate of change and growth as you study these habits. Be patient with yourself. Self-growth is tender, it’s holy ground. There’s no greater investment.
 
-It’s obviously not a quick fix. But I assure you, you will feel benefits and see immediate payoffs that will be encouraging. In the words of Thomas Paine, that which we obtained too easily, we esteem too lightly. It is tyrannous only which gives everything its value.
+It’s obviously not a quick fix. But. I assure you, you will feel benefits and see immediate payoffs that will be encouraging. In the words of Thomas Paine, that which we obtained too easily, we esteem too lightly.
 
-Heaven knows how to put a proper price on its goods.
+It is tyrannous only which gives everything its value. Heaven knows how to put a proper price on its goods.
 
-#### Part 2. Private victory. Habit 1. Be proactive.
+#### Part 2. Private victory. Habit 1.
 
-Principles of personal vision. I know of no more encouraging fact than the unquestionable ability of man to elevate his life by conscious endeavor. Henry David Thoreau. As you read this book, try to stand apart from yourself.
+Be proactive. Principles of personal vision. I know of no more encouraging fact than the unquestionable ability of man to elevate his life by conscious endeavor. Henry David Thoreau.
 
-Try to project your consciousness upward into a corner of the room and see yourself, in your mind’s eye, reading. Can you look at yourself almost as though you were someone else? Now try something else. Think about the mood you are now in.
+As you read this book, try to stand apart from yourself. Try to project your consciousness upward into a corner of the room and see yourself, in your mind’s eye, reading. Can you look at yourself almost as though you were someone else? Now try something else.
 
-Can you identify it? What are you feeling? How would you describe your present mental state? Now think for a minute about how your mind is working.
+Think about the mood you are now in. Can you identify it? What are you feeling? How would you describe your present mental state?
 
-Is it quick and alert? Do you sense that you are torn between doing this mental exercise and evaluating the point to be made out of it? Your ability to do what you just did is uniquely human. Animals do not possess this ability.
+Now think for a minute about how your mind is working. Is it quick and alert? Do you sense that you are torn between doing this mental exercise and evaluating the point to be made out of it? Your ability to do what you just did is uniquely human.
 
-We call it self-awareness or the ability to think about your very thought process. This is the reason why man has dominion over all things in the world and why he can make significant advances from generation to generation. This is why we can evaluate and learn from others' experiences as well as our own. This is also why we can make and break our habits.
+Animals do not possess this ability. We call it self-awareness or the ability to think about your very thought process. This is the reason why man has dominion over all things in the world and why he can make significant advances from generation to generation. This is why we can evaluate and learn from others' experiences as well as our own.
 
-We are not our feelings. We are not our moods. We are not even our thoughts. The very fact that we can think about these things separates us from the men from the animal world.
+This is also why we can make and break our habits. We are not our feelings. We are not our moods. We are not even our thoughts.
 
-Self-awareness enables us to stand apart and examine even the way we see ourselves, our self-paradigm, the most fundamental paradigm of effectiveness. It affects not only our attitudes and behaviors, but also how we see other people. It becomes our map of the basic nature of mankind.
+The very fact that we can think about these things separates us from the men from the animal world. Self-awareness enables us to stand apart and examine even the way we see ourselves, our self-paradigm, the most fundamental paradigm of effectiveness. It affects not only our attitudes and behaviors, but also how we see other people. It becomes our map of the basic nature of mankind.
 
 In fact, until we take how we see ourselves, and how we see others, into account, we will be unable to understand how others see and feel about themselves and their world. Unaware, we will project our intentions on their behavior and call ourselves objective. This significantly limits our personal potential and our ability to relate to others as well. But because of the unique human capacity of self-awareness, we can examine our paradigms to determine whether they are reality or principle based or if they are a function of conditioning and conditions.
 
@@ -773,11 +849,11 @@ up. You feel terribly guilty if you make a mistake because you remember deep ins
 
 Someone or something in your environment is responsible for your situation. Each of these maps is based on the stimulus slash response theory we most often think of in connection with Pavlov’s experiments with dogs. The basic idea is that we are conditioned to respond in a particular way to a particular stimulus. How accurately and functionally do these deterministic maps describe the territory?
 
-How clearly do these mirrors reflect the true nature of man? Do they become self-fulfilling prophecies? Are they based on principles we can validate within ourselves? Between Stimulus and Response In answer to those questions, let me share with you the catalytic story of Viktor Frankl.
+How clearly do these mirrors reflect the true nature of man? Do they become self-fulfilling prophecies? Are they based on principles we can validate within ourselves? Between Stimulus and Response.
 
-Frankl was a determinist raised in the tradition of Freudian psychology, which postulates that whatever happens to you as a child shapes your character and personality and basically governs your whole life. The limits and parameters of your life are set, and, basically, you can’t do much about it. Frankl was also a psychiatrist and a Jew. He was imprisoned in the death camps of Nazi Germany, where he experienced things that were so repugnant to our sense of decency that we shudder to even repeat them.
+In answer to those questions, let me share with you the catalytic story of Viktor Frankl. Frankl was a determinist raised in the tradition of Freudian psychology, which postulates that whatever happens to you as a child shapes your character and personality and basically governs your whole life. The limits and parameters of your life are set, and, basically, you can’t do much about it. Frankl was also a psychiatrist and a Jew.
 
-His parents, his brother, and his wife died in the camps or were sent to the gas ovens. Except for his sister, his entire family perished. Frankl himself suffered torture and innumerable indignities, never knowing from one moment to the next if his path would lead to the ovens or if he would be among the saved who would remove the bodies or shovel out the ashes of those so faded.
+He was imprisoned in the death camps of Nazi Germany, where he experienced things that were so repugnant to our sense of decency that we shudder to even repeat them. His parents, his brother, and his wife died in the camps or were sent to the gas ovens. Except for his sister, his entire family perished. Frankl himself suffered torture and innumerable indignities, never knowing from one moment to the next if his path would lead to the ovens or if he would be among the saved who would remove the bodies or shovel out the ashes of those so faded.
 
 One day, naked and alone in a small room, he began to become aware of what he later called the last of the human freedoms the freedom his Nazi captors could not take away. They could control his entire environment, they could do what they wanted to his body, but Viktor Frankl himself was a self-aware being who could look as an observer at his very involvement. His basic identity was intact. He could decide within himself how all of this was going to affect him.
 
@@ -799,55 +875,67 @@ But if we live like animals, out of our own instincts and conditioning and condi
 
 because it seems measurable and predictable, the history of mankind and our own self-awareness tell us that this map doesn’t describe the territory at all. Our unique human endowments lift us above the animal world. The extent to which we exercise and develop these endowments empowers us to fulfill our uniquely human potential. Between stimulus and responses our greatest power the freedom to choose.
 
-Proactivity defined In discovering the basic principle of the nature of man, Frankl described an accurate self-map from which he began to develop the first and most basic habit of a highly effective person in any environment, the habit of proactivity. While the word proactivity is now fairly common in management literature, it is a word you won’t find in most dictionaries. It means more than merely taking initiative. It means that as human beings, we are responsible for our own lives.
+Proactivity defined. In discovering the basic principle of the nature of man, Frankl described an accurate self-map from which he began to develop the first and most basic habit of a highly effective person in any environment, the habit of proactivity. While the word proactivity is now fairly common in management literature, it is a word you won’t find in most dictionaries. It means more than merely taking initiative.
 
-Our behavior is a function of our decisions, not our conditions. We can subordinate feelings to values. We have the initiative and the responsibility to make things happen. Proactive model Look at the word responsibility, responsibility the ability to choose your response.
+It means that as human beings, we are responsible for our own lives. Our behavior is a function of our decisions, not our conditions. We can subordinate feelings to values. We have the initiative and the responsibility to make things happen.
 
-Highly proactive people recognize that responsibility. They do not blame circumstances, conditions, or conditioning for their behavior. Their behavior is a product of their own conscious choice, based on values, rather than a product of their conditions, based on feeling. Because we are, by nature, proactive, if our lives are a function of conditioning and conditions, it is because we have, by conscious decision or by default, chosen to empower those things to control us.
+Proactive model Look at the word responsibility, responsibility the ability to choose your response. Highly proactive people recognize that responsibility. They do not blame circumstances, conditions, or conditioning for their behavior. Their behavior is a product of their own conscious choice, based on values, rather than a product of their conditions, based on feeling.
 
-In making such a choice, we become reactive. Reactive people are often affected by their physical environment. If the weather is good, they feel good. If it isn’t, it affects their attitude and their performance.
+Because we are, by nature, proactive, if our lives are a function of conditioning and conditions, it is because we have, by conscious decision or by default, chosen to empower those things to control us. In making such a choice, we become reactive. Reactive people are often affected by their physical environment. If the weather is good, they feel good.
 
-Proactive people can carry their own weather with them. Whether it rains or shines makes no difference to them. They are value driven, and if their value is to produce good quality work, it isn’t a function of whether the weather is conducive to it or not. Reactive people are also affected by their social environment, by the social weather.
+If it isn’t, it affects their attitude and their performance. Proactive people can carry their own weather with them. Whether it rains or shines makes no difference to them. They are value driven, and if their value is to produce good quality work, it isn’t a function of whether the weather is conducive to it or not.
 
-When people treat them well, they feel well, when people don’t, they become defensive or protective. Reactive people build their emotional lives around the behavior of others, empowering the weaknesses of other people to control them. The ability to subordinate an impulse to a value is the essence of the proactive person. Reactive people are driven by feelings, by circumstances, by conditions, by their environment.
+Reactive people are also affected by their social environment, by the social weather. When people treat them well, they feel well, when people don’t, they become defensive or protective. Reactive people build their emotional lives around the behavior of others, empowering the weaknesses of other people to control them. The ability to subordinate an impulse to a value is the essence of the proactive person.
 
-Proactive people are driven by values, carefully thought about, selected and internalized values. Proactive people are still influenced by external stimuli, whether physical, social, or psychological. But their response to the stimuli, conscious or unconscious, is a value-based choice or a response. As Eleanor Roosevelt observed, no one can hurt you without your consent.
+Reactive people are driven by feelings, by circumstances, by conditions, by their environment. Proactive people are driven by values, carefully thought about, selected and internalized values. Proactive people are still influenced by external stimuli, whether physical, social, or psychological. But their response to the stimuli, conscious or unconscious, is a value-based choice or a response.
 
-In the words of Gandhi, they cannot take away our self-respect if we do not give it to them. It is our willing permission, our consent to what happens to us, that hurts us far more than what happens to us in the first place. I admit this is very hard to accept emotionally, especially if we have had years and years of explaining our misery in the name of circumstance or someone else’s behavior. But until a person can say deeply and honestly, I am what I am today because of the choices I made yesterday, that person cannot say, I choose otherwise.
+As Eleanor Roosevelt observed, no one can hurt you without your consent. In the words of Gandhi, they cannot take away our self-respect if we do not give it to them. It is our willing permission, our consent to what happens to us, that hurts us far more than what happens to us in the first place. I admit this is very hard to accept emotionally, especially if we have had years and years of explaining our misery in the name of circumstance or someone else’s behavior.
 
-Once in Sacramento when I was speaking on the subject of proactivity, a woman in the audience stood up in the middle of my presentation and started talking excitedly. It was a large audience, and as a number of people turned to look at her, she suddenly became aware of what she was doing, grew embarrassed and sat back down. But she seemed to find it difficult to restrain herself and started talking to the people around her. She seemed so happy.
+But until a person can say deeply and honestly, I am what. I am today because of the choices. I made yesterday, that person cannot say, I choose otherwise. Once in Sacramento when.
 
-I could hardly wait for a break to find out what had happened. When it finally came, I immediately went to her and asked if she would be willing to share her. Experience You just can’t imagine what’s happened to me. She exclaimed.
+I was speaking on the subject of proactivity, a woman in the audience stood up in the middle of my presentation and started talking excitedly. It was a large audience, and as a number of people turned to look at her, she suddenly became aware of what she was doing, grew embarrassed and sat back down. But she seemed to find it difficult to restrain herself and started talking to the people around her. She seemed so happy.
 
-I’m a full-time nurse to the most miserable, ungrateful man you can possibly imagine. Nothing I do is good enough for him. He never expresses appreciation, he hardly even acknowledges me. He constantly harps at me and finds fault with everything I do.
+I could hardly wait for a break to find out what had happened. When it finally came, I immediately went to her and asked if she would be willing to share her. Experience. You just can’t imagine what’s happened to me.
 
-This man has made my life miserable and I often take my frustration out on my family. The other nurses feel the same way. We almost pray for his demise. And for you to have the gall to stand up there and suggest that nothing can hurt me, that no one can hurt me without my consent, and that I have chosen my own emotional life of being miserable, well, there was just no way I could buy into that.
+She exclaimed. I’m a full-time nurse to the most miserable, ungrateful man you can possibly imagine. Nothing. I do is good enough for him.
+
+He never expresses appreciation, he hardly even acknowledges me. He constantly harps at me and finds fault with everything. I do. This man has made my life miserable and.
+
+I often take my frustration out on my family. The other nurses feel the same way. We almost pray for his demise. And for you to have the gall to stand up there and suggest that nothing can hurt me, that no one can hurt me without my consent, and that.
+
+I have chosen my own emotional life of being miserable, well, there was just no way. I could buy into that.
 
 
 <a id="sec-015046"></a>
 ### ⏱️ [01:50:46 - 01:55:49]
 
-But I kept thinking about it. I really went inside myself and began to ask, do I have the power to choose my response? When I finally realized that I do have that power, when I swallowed that bitter pill and realized that I had chosen to be miserable, I also realized that I could choose not to be miserable. At that moment I stood up.
+But. I kept thinking about it. I really went inside myself and began to ask, do. I have the power to choose my response?
 
-I felt as though I was being let out of San Quentin. I wanted to yell to the whole world, I am free. I am let out of prison. No longer am I going to be controlled by the treatment of some person.
+When. I finally realized that. I do have that power, when. I swallowed that bitter pill and realized that.
 
-It’s not what happens to us, but our response to what happens to us that hurts us. Of course, things can hurt us physically or economically and can cause sorrow. But our character, our basic identity, does not have to be hurt at all.
+I had chosen to be miserable, I also realized that. I could choose not to be miserable. At that moment. I stood up.
 
-In fact, our most difficult experiences become the crucibles that forge our character and develop the internal powers, the freedom to handle difficult circumstances in the future and to inspire others to do so as well. Frankl is one of many who have been able to develop the personal freedom in difficult circumstances to lift and inspire others. The autobiographical accounts of Vietnam prisoners of war provide additional persuasive testimony of the transforming power of such personal freedom and the effect of the responsible use of that freedom on the prison culture and on the prisoners, both then and now.
+I felt as though. I was being let out of San Quentin. I wanted to yell to the whole world, I am free. I am let out of prison.
 
-We have all known individuals in very difficult circumstances, perhaps with a terminal illness or a severe physical handicap who maintain magnificent emotional strength. How inspired we are by their integrity. Nothing has a greater, longer-lasting impression upon another person than the awareness that someone has transcended suffering, has transcended circumstance, and is. Embodying and expressing a value that inspires and ennobles and lifts life One of the most inspiring times Sandra and I have ever had took place over a four-year period with a dear friend of ours named Carol, who had a wasting cancer disease.
+No longer am. I going to be controlled by the treatment of some person. It’s not what happens to us, but our response to what happens to us that hurts us. Of course, things can hurt us physically or economically and can cause sorrow.
 
-She had been one of Sandra’s bridesmaids, and they had been best friends for over 25 years. When Carol was in the very last stages of the disease, Sandra spent time at her bedside helping her write her personal history. She returned from those protracted and difficult sessions almost transfixed by admiration for her friend’s courage and her desire to write special messages to be given to her children at different stages in their lives. Carol would take as little pain-killing medication as possible, so that she had full access to her mental and emotional faculties.
+But our character, our basic identity, does not have to be hurt at all. In fact, our most difficult experiences become the crucibles that forge our character and develop the internal powers, the freedom to handle difficult circumstances in the future and to inspire others to do so as well. Frankl is one of many who have been able to develop the personal freedom in difficult circumstances to lift and inspire others. The autobiographical accounts of Vietnam prisoners of war provide additional persuasive testimony of the transforming power of such personal freedom and the effect of the responsible use of that freedom on the prison culture and on the prisoners, both then and now.
 
-Then she would whisper into a tape recorder or to Sandra directly as she took notes. Carol was so proactive, so brave, and so concerned about others that she became an enormous source of inspiration to many people around her. I’ll never forget the experience of looking deeply into Carol’s eyes the day before she passed away and sensing out of that deep hollowed agony a person of tremendous intrinsic worth. I could see in her eyes a life of character, contribution, and service as well as love and concern and appreciation.
+We have all known individuals in very difficult circumstances, perhaps with a terminal illness or a severe physical handicap who maintain magnificent emotional strength. How inspired we are by their integrity. Nothing has a greater, longer-lasting impression upon another person than the awareness that someone has transcended suffering, has transcended circumstance, and is. Embodying and expressing a value that inspires and ennobles and lifts life One of the most inspiring times Sandra and.
 
-Many times over the years, I have asked groups of people how many I’ve ever experienced being in the presence of a dying individual who had a magnificent attitude and communicated love and compassion and served in unmatchable ways to the very end. Usually, about one-fourth of the audience respond in the affirmative. I then ask how many of them will never forget these individuals, how many were transformed, at least temporarily, by the inspiration of such courage, and were deeply moved and motivated to more noble acts of service and compassion.
+I have ever had took place over a four-year period with a dear friend of ours named Carol, who had a wasting cancer disease. She had been one of Sandra’s bridesmaids, and they had been best friends for over 25 years. When Carol was in the very last stages of the disease, Sandra spent time at her bedside helping her write her personal history. She returned from those protracted and difficult sessions almost transfixed by admiration for her friend’s courage and her desire to write special messages to be given to her children at different stages in their lives.
 
-The same people respond again, almost inevitably. Victor Frankel suggests that there are three central values in life, the experiential, or that which happens to us, the creative, or that which we bring into existence, and the attitudinal, or our response in difficult circumstances such as terminal illness. My own experience with people confirms the point Frankel makes, that the highest of the three values is attitudinal, in the paradigm or reframing sense.
+Carol would take as little pain-killing medication as possible, so that she had full access to her mental and emotional faculties. Then she would whisper into a tape recorder or to Sandra directly as she took notes. Carol was so proactive, so brave, and so concerned about others that she became an enormous source of inspiration to many people around her. I’ll never forget the experience of looking deeply into Carol’s eyes the day before she passed away and sensing out of that deep hollowed agony a person of tremendous intrinsic worth.
 
-In other words, what matters most is how we respond to what we experience in life. Difficult circumstances often create paradigm shifts, whole new frames of reference by which people see the world and themselves and others in it, and what life is asking of them. Their larger perspective reflects the attitudinal values that lift and inspire us all. Taking the Initiative Our basic nature is to act, and not be acted upon.
+I could see in her eyes a life of character, contribution, and service as well as love and concern and appreciation. Many times over the years, I have asked groups of people how many. I’ve ever experienced being in the presence of a dying individual who had a magnificent attitude and communicated love and compassion and served in unmatchable ways to the very end. Usually, about one-fourth of the audience respond in the affirmative.
 
-As well as enabling us to choose our response to particular circumstances, this empowers us to create circumstances. Taking initiative does not mean being pushy, obnoxious, or aggressive. It does mean recognizing our responsibility to make things happen. Over the years, I have frequently counseled people who wanted better jobs to show more initiative, to take interest in aptitude tests, to study the industry, even the specific problems the organizations they are interested in are facing, and then to develop an effective presentation showing how their abilities
+I then ask how many of them will never forget these individuals, how many were transformed, at least temporarily, by the inspiration of such courage, and were deeply moved and motivated to more noble acts of service and compassion. The same people respond again, almost inevitably. Victor Frankel suggests that there are three central values in life, the experiential, or that which happens to us, the creative, or that which we bring into existence, and the attitudinal, or our response in difficult circumstances such as terminal illness.
+
+My own experience with people confirms the point Frankel makes, that the highest of the three values is attitudinal, in the paradigm or reframing sense. In other words, what matters most is how we respond to what we experience in life. Difficult circumstances often create paradigm shifts, whole new frames of reference by which people see the world and themselves and others in it, and what life is asking of them. Their larger perspective reflects the attitudinal values that lift and inspire us all.
+
+Taking the Initiative. Our basic nature is to act, and not be acted upon. As well as enabling us to choose our response to particular circumstances, this empowers us to create circumstances. Taking initiative does not mean being pushy, obnoxious, or aggressive.
+
+It does mean recognizing our responsibility to make things happen. Over the years, I have frequently counseled people who wanted better jobs to show more initiative, to take interest in aptitude tests, to study the industry, even the specific problems the organizations they are interested in are facing, and then to develop an effective presentation showing how their abilities
 
 
 <a id="sec-015549"></a>
@@ -855,9 +943,9 @@ As well as enabling us to choose our response to particular circumstances, this 
 
 can help solve the organization’s problem. It’s called solution selling, and is a key paradigm in business success. The response is usually agreement, most people can see how powerfully such an approach would affect their opportunities for employment or advancement. But many of them fail to take the necessary steps, the initiative, to make it happen.
 
-I don’t know where to go to take the interest in aptitude tests. How do I study industry and organizational problems? No one wants to help me. I don’t have any idea how to make an effective presentation.
+I don’t know where to go to take the interest in aptitude tests. How do. I study industry and organizational problems? No one wants to help me.
 
-Many people wait for something to happen or someone to take care of them. But people who end up with the good jobs are the proactive ones who are solutions to problems, not problems themselves, who seize the initiative to do whatever is necessary, consistent with correct principles, to get the job done. Whenever someone in our family, even one of the younger children, takes an irresponsible position and waits for someone else to make things happen or provide a solution, we tell them, use your R&I, resourcefulness and initiative.
+I don’t have any idea how to make an effective presentation. Many people wait for something to happen or someone to take care of them. But people who end up with the good jobs are the proactive ones who are solutions to problems, not problems themselves, who seize the initiative to do whatever is necessary, consistent with correct principles, to get the job done. Whenever someone in our family, even one of the younger children, takes an irresponsible position and waits for someone else to make things happen or provide a solution, we tell them, use your R&I, resourcefulness and initiative.
 
 In fact, often before we can say it, they answer their own complaints, I know, use my R&I. Holding people to the responsible course is not demeaning, it is affirming. Proactivity is part of human nature, and, although the proactive muscles may be dormant, they are there. By respecting the proactive nature of other people, we provide them with at least one clear, undistorted reflection from the social mirror.
 
@@ -865,17 +953,19 @@ Of course, the maturity level of the individual has to be taken into account. We
 
 I’m not talking about a 25-50% difference in effectiveness, I’m talking about a 5,000 plus percent difference, particularly if they are smart, aware, and sensitive to others. It takes initiative to create the P-slash-PC balance of effectiveness in your life. It takes initiative to develop the seven habits. As you study the other six habits, you will see that each depends on the development of your proactive muscles.
 
-Each puts the responsibility on you to act. If you wait to be acted upon, you will be acted upon. And growth and opportunity consequences attend either road. At one time I worked with a group of people in the home improvement industry, representatives from 20 different organizations who met quarterly to share their numbers and problems in an uninhibited way.
+Each puts the responsibility on you to act. If you wait to be acted upon, you will be acted upon. And growth and opportunity consequences attend either road. At one time.
 
-This was during a time of heavy recession, and the negative impact on this particular industry was even heavier than on the economy in general. These people were fairly discouraged as we began. The first day, our discussion question was what’s happening to us? What’s the stimulus?
+I worked with a group of people in the home improvement industry, representatives from 20 different organizations who met quarterly to share their numbers and problems in an uninhibited way. This was during a time of heavy recession, and the negative impact on this particular industry was even heavier than on the economy in general. These people were fairly discouraged as we began. The first day, our discussion question was what’s happening to us?
 
-Many things were happening. The environmental pressures were powerful. There was widespread unemployment, and many of these people were laying off friends just to maintain the viability of their enterprises. By the end of the day, everyone was even more discouraged.
+What’s the stimulus? Many things were happening. The environmental pressures were powerful. There was widespread unemployment, and many of these people were laying off friends just to maintain the viability of their enterprises.
 
-The second day, we addressed the question, what’s going to happen in the future? We studied environmental trends with the underlying reactive assumption that those things would create their future. By the end of the second day, we were even more depressed. Things were going to get worse before they got better, and everyone knew it.
+By the end of the day, everyone was even more discouraged. The second day, we addressed the question, what’s going to happen in the future? We studied environmental trends with the underlying reactive assumption that those things would create their future. By the end of the second day, we were even more depressed.
 
-So on the third day, we decided to focus on the proactive question, what is our response? What are we going to do? How can we exercise initiative in this situation? In the morning we talked about managing and reducing costs.
+Things were going to get worse before they got better, and everyone knew it. So on the third day, we decided to focus on the proactive question, what is our response? What are we going to do? How can we exercise initiative in this situation?
 
-In the afternoon we discussed increasing market share. We brainstormed both areas, then concentrated on several very practical, very doable things. A new spirit of excitement, hope, and proactive awareness concluded the meetings. At the very end of the third day, we summarize the results of the conference in a three-part answer to the question, how’s business?
+In the morning we talked about managing and reducing costs. In the afternoon we discussed increasing market share. We brainstormed both areas, then concentrated on several very practical, very doable things. A new spirit of excitement, hope, and proactive awareness concluded the meetings.
+
+At the very end of the third day, we summarize the results of the conference in a three-part answer to the question, how’s business?
 
 #### Part 1, what’s happening to us is not good, and the trends suggest that it will get worse before it gets better.
 
@@ -895,53 +985,57 @@ We faced the reality of the current circumstance and of future projections. But 
 
 They can combine the creativity and resourcefulness of proactive individuals to create a proactive culture within the organization. The organization does not have to be at the mercy of the environment, it can take the initiative to accomplish the shared values and purposes of the individuals involved. Listening to our language. Because our attitudes and behaviors flow out of our paradigms, if we use our self-awareness to examine them, we can often see in them the nature of our underlying maps.
 
-Our language, for example, is a very real indicator of the degree to which we see ourselves as proactive people. The language of reactive people absolves them of responsibility. That’s me. That’s just the way I am.
+Our language, for example, is a very real indicator of the degree to which we see ourselves as proactive people. The language of reactive people absolves them of responsibility. That’s me. That’s just the way.
 
-I am determined. There’s nothing I can do about it. He makes me so mad. I’m not responsible.
+I am. I am determined. There’s nothing. I can do about it.
 
-My emotional life is governed by something outside my control. I can’t do that. I just don’t have the time. Something outside me, limited time, is controlling me.
+He makes me so mad. I’m not responsible. My emotional life is governed by something outside my control. I can’t do that.
 
-If only my wife were more patient. Someone else’s behavior is limiting my effectiveness. I have to do it. Circumstances or other people are forcing me to do what I do.
+I just don’t have the time. Something outside me, limited time, is controlling me. If only my wife were more patient. Someone else’s behavior is limiting my effectiveness.
 
-I’m not free to choose my own actions. Reactive language. Proactive language. There’s nothing I can do.
+I have to do it. Circumstances or other people are forcing me to do what. I do. I’m not free to choose my own actions.
 
-Let’s look at our alternatives. That’s just the way I am. I can choose a different approach. He makes me so mad.
+Reactive language. Proactive language. There’s nothing. I can do.
 
-I control my own feelings. They won’t allow that. I can create an effective presentation. I have to do that.
+Let’s look at our alternatives. That’s just the way. I am. I can choose a different approach.
 
-I will choose an appropriate response. I can’t. I choose. I must.
+He makes me so mad. I control my own feelings. They won’t allow that. I can create an effective presentation.
 
-I prefer. If only. I will. That language comes from a basic paradigm of determinism.
+I have to do that. I will choose an appropriate response. I can’t. I choose.
 
-And the whole spirit of it is the transfer of responsibility. I am not responsible, not able to choose my response. One time a student asked me, will you excuse me from class? I have to go on a tennis trip.
+I must. I prefer. If only. I will.
 
-You have to go, or you choose to go? I asked. I really have to, he exclaimed. What will happen if you don’t?
+That language comes from a basic paradigm of determinism. And the whole spirit of it is the transfer of responsibility. I am not responsible, not able to choose my response. One time a student asked me, will you excuse me from class?
 
-Why, they’ll kick me off the team. How would you like that consequence? I wouldn’t.
+I have to go on a tennis trip. You have to go, or you choose to go? I asked. I really have to, he exclaimed.
+
+What will happen if you don’t? Why, they’ll kick me off the team. How would you like that consequence? I wouldn’t.
 
 In other words, you choose to go because you want the consequence of staying on the team. What will happen if you miss my class? I don’t know. It’s hard.
 
 What do you think would be the natural consequence of not coming to class? You wouldn’t kick me out, would you? That would be a social consequence. That would be artificial.
 
-If you don’t participate on the tennis team, you don’t play. That’s natural. But if you don’t come to class, what would be the natural consequence? I guess I’ll miss the learning.
+If you don’t participate on the tennis team, you don’t play. That’s natural. But if you don’t come to class, what would be the natural consequence? I guess.
 
-That’s right. So you have to weigh that consequence against the other consequence and make a choice. I know if it were me, I’d choose to go on the tennis trip. But never say you have to do anything.
+I’ll miss the learning. That’s right. So you have to weigh that consequence against the other consequence and make a choice. I know if it were me, I’d choose to go on the tennis trip.
 
-I choose to go on the tennis trip, he meekly replied. And miss my class? I replied in mock disbelief. A serious problem with reactive language is that it becomes a self-fulfilling prophecy.
+But never say you have to do anything. I choose to go on the tennis trip, he meekly replied. And miss my class? I replied in mock disbelief.
 
-People become reinforced in the paradigm that they are determined, and they produce evidence to support the belief. They feeling increasingly victimized and out of control, not in charge of their life or their destiny. They blame outside forces, other people, circumstances, even the stars, for their own situation.
+A serious problem with reactive language is that it becomes a self-fulfilling prophecy. People become reinforced in the paradigm that they are determined, and they produce evidence to support the belief. They feeling increasingly victimized and out of control, not in charge of their life or their destiny. They blame outside forces, other people, circumstances, even the stars, for their own situation.
 
-At one seminar where I was speaking on the concept of proactivity, a man came up and said, “Steven, I like what you’re saying.” But every situation is so different. Look at my marriage. I’m really worried. My wife and I just don’t have the same feelings for each other we used to have.
+At one seminar where. I was speaking on the concept of proactivity, a man came up and said, “Steven, I like what you’re saying.”. But every situation is so different. Look at my marriage.
 
-I guess I just don’t love her anymore and she doesn’t love me. What can I do? The feeling isn’t there anymore? I asked.
+I’m really worried. My wife and. I just don’t have the same feelings for each other we used to have. I guess.
 
-That’s right, he reaffirmed. And we have three children we’re really concerned about. What do you suggest? Love her, I replied.
+I just don’t love her anymore and she doesn’t love me. What can. I do? The feeling isn’t there anymore?
 
-I told you, the feeling just isn’t there anymore. Love her. You don’t understand. The feeling of love just isn’t there.
+I asked. That’s right, he reaffirmed. And we have three children we’re really concerned about. What do you suggest?
 
-Then love her. If the feeling isn’t there, that’s a good reason to love her. But how do you love when you don’t love? My friend, love is a verb.
+Love her, I replied. I told you, the feeling just isn’t there anymore. Love her. You don’t understand.
 
-Love, the feeling, is a fruit of love, the verb.
+The feeling of love just isn’t there. Then love her. If the feeling isn’t there, that’s a good reason to love her. But how do you love when you don’t love?
+
+My friend, love is a verb. Love, the feeling, is a fruit of love, the verb.
 
 
 <a id="sec-020552"></a>
@@ -967,15 +1061,15 @@ Negative energy reduces the circle of influence. Proactive people focus their ef
 
 Reactive people, on the other hand, focus their efforts in the circle of concern. They focus on the weakness of other people, the problems in the environment, and circumstances over which they have no control. Their focus results in blaming and accusing attitudes, reactive language, and increased feelings of victimization. The negative energy generated by that focus, combined with neglect in areas they could do something about, causes their circle of influence to shrink.
 
-As long as we are working in our circle of concern, we empower the things within it to control us. We aren’t taking the proactive initiative necessary to affect positive change. Earlier, I shared with you the story of my son who was having serious problems in school. Sandra and I were deeply concerned about his apparent weaknesses and about the way other people were treating him.
+As long as we are working in our circle of concern, we empower the things within it to control us. We aren’t taking the proactive initiative necessary to affect positive change. Earlier, I shared with you the story of my son who was having serious problems in school. Sandra and.
 
-But those things were in our circle of concern. As long as we focused our efforts on those things, we accomplished nothing, except to increase our own feelings of inadequacy and helplessness and to reinforce our son’s dependence. It was only when we went to work in our circle of influence, when we focused on our own paradigms, that we began to create a positive energy that changed ourselves and eventually influenced our son as well. By working on ourselves instead of worrying about conditions, we were able to influence the conditions.
+I were deeply concerned about his apparent weaknesses and about the way other people were treating him. But those things were in our circle of concern. As long as we focused our efforts on those things, we accomplished nothing, except to increase our own feelings of inadequacy and helplessness and to reinforce our son’s dependence. It was only when we went to work in our circle of influence, when we focused on our own paradigms, that we began to create a positive energy that changed ourselves and eventually influenced our son as well.
 
-As of position, wealth, role, or relationships, there are some circumstances in which a person’s circle of influence is larger than his or her circle of concern. This situation reflects a self-inflicted emotional myopia, another reactive selfish lifestyle focused in the circle of concern. Though they may have to prioritize the use of their influence, proactive people have a circle of concern that is at least as big as their circle of influence, accepting the responsibility to use their influence effectively. Direct, indirect, and no control.
+By working on ourselves instead of worrying about conditions, we were able to influence the conditions. As of position, wealth, role, or relationships, there are some circumstances in which a person’s circle of influence is larger than his or her circle of concern. This situation reflects a self-inflicted emotional myopia, another reactive selfish lifestyle focused in the circle of concern. Though they may have to prioritize the use of their influence, proactive people have a circle of concern that is at least as big as their circle of influence, accepting the responsibility to use their influence effectively.
 
-The problems we face fall in one of three areas, direct control, problems involving our own behavior, indirect control, problems involving other people’s behavior, or no control, problems we can do nothing about, such as our past or situational realities. The proactive approach puts the first step in the solution of all three kinds of problems within our present circle of influence. Direct control problems are solved by working on our habits. They are obviously within our circle of influence.
+Direct, indirect, and no control. The problems we face fall in one of three areas, direct control, problems involving our own behavior, indirect control, problems involving other people’s behavior, or no control, problems we can do nothing about, such as our past or situational realities. The proactive approach puts the first step in the solution of all three kinds of problems within our present circle of influence. Direct control problems are solved by working on our habits.
 
-These are the private victories of habits 1, 2, and 3.
+They are obviously within our circle of influence. These are the private victories of habits 1, 2, and 3.
 
 
 <a id="sec-021054"></a>
@@ -983,67 +1077,79 @@ These are the private victories of habits 1, 2, and 3.
 
 Indirect control problems are solved by changing our methods of influence. These are the public victories of habits 4, 5, and 6. I have personally identified over 30 separate methods of human influence, as separate as empathy is from confrontation, as separate as example is from persuasion. Most people have only three or four of these methods in their repertoire, starting usually with reasoning, and, if that doesn’t work, moving to flight or fight.
 
-How liberating it is to accept the idea that I can learn new methods of human influence instead of constantly trying to use old and effective methods to shape up someone else. No control problems involve taking the responsibility to change the line on the bottom on our face, to smile, to genuinely and peacefully accept these problems and learn to live with them, even though we don’t like them. In this way, we do not empower these problems to control us. We share in the spirit embodied in the alcoholic’s anonymous prayer, Lord, give me the courage to change the things which can and ought to be changed, the serenity to accept the things which cannot be changed, and the wisdom to know the difference.
+How liberating it is to accept the idea that. I can learn new methods of human influence instead of constantly trying to use old and effective methods to shape up someone else. No control problems involve taking the responsibility to change the line on the bottom on our face, to smile, to genuinely and peacefully accept these problems and learn to live with them, even though we don’t like them. In this way, we do not empower these problems to control us.
 
-Whether a problem is direct, indirect, or no control, we have in our hands the first step to the solution. Changing our habits, changing our methods of influence and changing the way we see our no control problems are all within our circle of influence. Expanding the Circle of Influence It is inspiring to realize that in choosing our response to circumstance, we powerfully affect our circumstance. When we change one part of the chemical formula, we change the nature of the results.
+We share in the spirit embodied in the alcoholic’s anonymous prayer, Lord, give me the courage to change the things which can and ought to be changed, the serenity to accept the things which cannot be changed, and the wisdom to know the difference. Whether a problem is direct, indirect, or no control, we have in our hands the first step to the solution. Changing our habits, changing our methods of influence and changing the way we see our no control problems are all within our circle of influence.
 
-I worked with one organization for several years that was headed by a very dynamic person. He could read trends. He was creative, talented, capable, and brilliant, and everyone knew it. But he had a very dictatorial style of management.
+Expanding the Circle of Influence. It is inspiring to realize that in choosing our response to circumstance, we powerfully affect our circumstance. When we change one part of the chemical formula, we change the nature of the results. I worked with one organization for several years that was headed by a very dynamic person.
 
-He tended to treat people like golfers, as if they didn’t have any judgment. His manner of speaking to those who worked in the organization was, go for this, go for that. Now do this, now do that. I’ll make the decisions.
+He could read trends. He was creative, talented, capable, and brilliant, and everyone knew it. But he had a very dictatorial style of management. He tended to treat people like golfers, as if they didn’t have any judgment.
 
-The net effect was that he alienated almost the entire executive team surrounding him. They would gather in the quarters and complain to each other about him. Their discussion was all very sophisticated, very articulate, as if they were trying to help the situation. But they did it endlessly, absolving themselves of responsibility in the name of the president’s weaknesses.
+His manner of speaking to those who worked in the organization was, go for this, go for that. Now do this, now do that. I’ll make the decisions. The net effect was that he alienated almost the entire executive team surrounding him.
 
-You can’t imagine what’s happened this time, someone would say. The other day he went into my department. I had everything all laid out. But he came in and gave totally different signals.
+They would gather in the quarters and complain to each other about him. Their discussion was all very sophisticated, very articulate, as if they were trying to help the situation. But they did it endlessly, absolving themselves of responsibility in the name of the president’s weaknesses. You can’t imagine what’s happened this time, someone would say.
 
-Everything I’d done for months was shot, just like that. I don’t know how I’m supposed to keep working for him. How long will it be until he retires? He’s only 59, someone else would respond.
+The other day he went into my department. I had everything all laid out. But he came in and gave totally different signals. Everything.
 
-Do you think you can survive for six more years? I don’t know. He’s the kind of person they probably won’t retire anyway. But one of the executives was proactive.
+I’d done for months was shot, just like that. I don’t know how. I’m supposed to keep working for him. How long will it be until he retires?
 
-He was driven by values, not feelings. He took the initiative, he anticipated, he empathized, he read the situation. He was not blind to the president’s weaknesses, but instead of criticizing them, he would compensate for them. Where the president was weak in his style, he’d try to buffer his own people and make such weaknesses irrelevant.
+He’s only 59, someone else would respond. Do you think you can survive for six more years? I don’t know. He’s the kind of person they probably won’t retire anyway.
 
-And he’d work with the president’s strengths, his vision, talent, creativity. This man focused on his circle of influence. He was treated like a gopher, also. But he would do more than what was expected.
+But one of the executives was proactive. He was driven by values, not feelings. He took the initiative, he anticipated, he empathized, he read the situation. He was not blind to the president’s weaknesses, but instead of criticizing them, he would compensate for them.
 
-He anticipated the president’s need. He read with empathy the president’s underlying concern, so when he presented information, he also gave his analysis and his recommendations based on that analysis.
+Where the president was weak in his style, he’d try to buffer his own people and make such weaknesses irrelevant. And he’d work with the president’s strengths, his vision, talent, creativity. This man focused on his circle of influence. He was treated like a gopher, also.
 
-As I sat one day with the president in an advisory capacity, he said, “Stephen, I just can’t believe what this man has done.” He’s not only given me the information I require. requested, but he’s provided additional information that’s exactly what we needed. He even gave me his analysis of it in terms of my deepest concerns, and a list of his recommendations. The recommendations are consistent with the analysis, and the analysis is consistent with the data. He’s remarkable.
+But he would do more than what was expected. He anticipated the president’s need. He read with empathy the president’s underlying concern, so when he presented information, he also gave his analysis and his recommendations based on that analysis. As.
 
-What a relief not to have to worry about this part of the business. At the next meeting, it was go for this and go for that to all the executives.
+I sat one day with the president in an advisory capacity, he said, “Stephen, I just can’t believe what this man has done.”. He’s not only given me the information. I require. requested, but he’s provided additional information that’s exactly what we needed. He even gave me his analysis of it in terms of my deepest concerns, and a list of his recommendations.
 
-#### Part 1. To this man, it was what’s your opinion? His circle of influence had grown.
+The recommendations are consistent with the analysis, and the analysis is consistent with the data. He’s remarkable. What a relief not to have to worry about this part of the business. At the next meeting, it was go for this and go for that to all the executives.
 
-This caused quite a stir in the organization. The reactive minds in the executive corridors began shooting their vindictive ammunition at this proactive man. It’s the nature of reactive people to absolve themselves of responsibility. It’s so much safer to say, I am not responsible.
+#### Part 1.
 
-If I say I am responsible, I might have to say, I am irresponsible.
+To this man, it was what’s your opinion? His circle of influence had grown. This caused quite a stir in the organization. The reactive minds in the executive corridors began shooting their vindictive ammunition at this proactive man.
+
+It’s the nature of reactive people to absolve themselves of responsibility. It’s so much safer to say, I am not responsible. If. I say.
+
+I am responsible, I might have to say, I am irresponsible.
 
 
 <a id="sec-021557"></a>
 ### ⏱️ [02:15:57 - 02:20:57]
 
-It would be very hard for me to say that I have the power to choose my response and that the response I have chosen has resulted in my involvement in a negative, collusive environment, especially if for years I have absolved myself of responsibility for results in the name of someone else’s weaknesses. So these executives focused on finding more information, more ammunition, more evidence as to why they weren’t responsible. But this man was proactive toward them, too. Little by little, his circle of influence toward them grew also.
+It would be very hard for me to say that. I have the power to choose my response and that the response. I have chosen has resulted in my involvement in a negative, collusive environment, especially if for years. I have absolved myself of responsibility for results in the name of someone else’s weaknesses.
 
-It continued to expand to the extent that eventually no one made any significant moves in the organization without that man’s involvement and approval, including the president. But the president did not feel threatened because this man’s strength complemented his strength and compensated for his weaknesses. So he had the strength of two people, a complementary team. This man’s success was not dependent on his circumstances.
+So these executives focused on finding more information, more ammunition, more evidence as to why they weren’t responsible. But this man was proactive toward them, too. Little by little, his circle of influence toward them grew also. It continued to expand to the extent that eventually no one made any significant moves in the organization without that man’s involvement and approval, including the president.
 
-Many others were in the same situation. It was his chosen response to those circumstances, his focus on his circle of influence, that made the difference. There are some people who interpret proactive to mean pushy, aggressive, or insensitive, but that isn’t the case at all. Proactive people aren’t pushy.
+But the president did not feel threatened because this man’s strength complemented his strength and compensated for his weaknesses. So he had the strength of two people, a complementary team. This man’s success was not dependent on his circumstances. Many others were in the same situation.
 
-They’re smart, they’re value-driven, they read reality, and they know what’s needed. Look at Gandhi. While his accusers were in the legislative chambers criticizing him because he wouldn’t join in their circle of concern rhetoric condemning the British Empire for their subjugation of the Indian people, Gandhi was out in the rice paddies, quietly, slowly, imperceptibly expanding his circle of influence with the field laborers. A ground swell of support, of trust, of confidence followed him through the countryside.
+It was his chosen response to those circumstances, his focus on his circle of influence, that made the difference. There are some people who interpret proactive to mean pushy, aggressive, or insensitive, but that isn’t the case at all. Proactive people aren’t pushy. They’re smart, they’re value-driven, they read reality, and they know what’s needed.
 
-Though he held no office or political position, through compassion, courage, fasting, and moral persuasion he eventually brought England to its knees, breaking political domination of 300 million people with the power of his greatly expanded circle of influence. The Haves and the Bees One way to determine which circle our concern is in is to distinguish between the halves and the bees. The circle of concern is filled with the halves. I’ll be happy when I have my house paid off.
+Look at Gandhi. While his accusers were in the legislative chambers criticizing him because he wouldn’t join in their circle of concern rhetoric condemning the British Empire for their subjugation of the Indian people, Gandhi was out in the rice paddies, quietly, slowly, imperceptibly expanding his circle of influence with the field laborers. A ground swell of support, of trust, of confidence followed him through the countryside. Though he held no office or political position, through compassion, courage, fasting, and moral persuasion he eventually brought England to its knees, breaking political domination of 300 million people with the power of his greatly expanded circle of influence.
 
-If only I had a boss who wasn’t such a dictator. If only I had a more patient husband. If I had more obedient kids. If I had my degree.
+The Haves and the Bees One way to determine which circle our concern is in is to distinguish between the halves and the bees. The circle of concern is filled with the halves. I’ll be happy when. I have my house paid off.
 
-If I could just have more time to myself. The circle of influence is filled with the bees, I can be more patient, be wise, be loving. It’s the character focus. Any time we think the problem is out there, that thought is the problem.
+If only. I had a boss who wasn’t such a dictator. If only. I had a more patient husband.
 
-We empower what’s out there to control us. The change paradigm is outside in, what’s out there has to change before we can change. The proactive approach is to change from the inside out, to be different, and by being different, to effect positive change in what’s out there, I can be more resourceful, I can be more diligent, I can be more creative, I can be more cooperative. One of my favorite stories is one in the Old Testament, part of the fundamental fabric of the Judeo-Christian tradition.
+If. I had more obedient kids. If. I had my degree.
 
-It’s the story of Joseph, who was sold into slavery in Egypt by his brothers at the age of 17. Can you imagine how easy it would have been for him to languish in self-pity as a servant of Potiphar, to focus on the weaknesses of his brothers and his captors and on all he didn’t have? But Joseph was proactive. He worked on B.
+If. I could just have more time to myself. The circle of influence is filled with the bees, I can be more patient, be wise, be loving. It’s the character focus.
 
-And within a short period of time, he was running Potiphar’s household. He was in charge of all that Potiphar had because the trust was so high. Then the day came when Joseph was caught in a difficult situation and refused to compromise his integrity. As a result, he was unjustly imprisoned for 13 years.
+Any time we think the problem is out there, that thought is the problem. We empower what’s out there to control us. The change paradigm is outside in, what’s out there has to change before we can change. The proactive approach is to change from the inside out, to be different, and by being different, to effect positive change in what’s out there, I can be more resourceful, I can be more diligent, I can be more creative, I can be more cooperative.
 
-But again he was proactive. He worked on the inner circle, on being instead of having, and soon he was running the prison and eventually the entire nation of Egypt, second only to the Pharaoh. I know this idea is a dramatic paradigm shift for many people. It is so much easier to blame other people, conditioning, or conditions for our own stagnant situation.
+One of my favorite stories is one in the Old Testament, part of the fundamental fabric of the Judeo-Christian tradition. It’s the story of Joseph, who was sold into slavery in Egypt by his brothers at the age of 17. Can you imagine how easy it would have been for him to languish in self-pity as a servant of Potiphar, to focus on the weaknesses of his brothers and his captors and on all he didn’t have? But Joseph was proactive.
 
-But we are responsible, responsible to control our lives and to powerfully influence our circumstances by working on B, on what we are. If I have a problem in my marriage, what do I really gain by continually confessing my wife’s sins? By saying I’m not responsible, I make myself a powerless victim, I immobilize myself in a negative situation. I also diminish my ability to influence her, my nagging, accusing, critical attitude only makes her feel validated in her own weakness.
+He worked on B. And within a short period of time, he was running Potiphar’s household. He was in charge of all that Potiphar had because the trust was so high. Then the day came when Joseph was caught in a difficult situation and refused to compromise his integrity.
 
-My criticism is worse than the conduct I want to correct. My ability to positively impact the situation withers and dies. If I really want to improve my situation, I can work on the one thing over which I have
+As a result, he was unjustly imprisoned for 13 years. But again he was proactive. He worked on the inner circle, on being instead of having, and soon he was running the prison and eventually the entire nation of Egypt, second only to the Pharaoh. I know this idea is a dramatic paradigm shift for many people.
+
+It is so much easier to blame other people, conditioning, or conditions for our own stagnant situation. But we are responsible, responsible to control our lives and to powerfully influence our circumstances by working on B, on what we are. If. I have a problem in my marriage, what do.
+
+I really gain by continually confessing my wife’s sins? By saying. I’m not responsible, I make myself a powerless victim, I immobilize myself in a negative situation. I also diminish my ability to influence her, my nagging, accusing, critical attitude only makes her feel validated in her own weakness.
+
+My criticism is worse than the conduct. I want to correct. My ability to positively impact the situation withers and dies. If.
+
+I really want to improve my situation, I can work on the one thing over which. I have
 
 
 <a id="sec-022057"></a>
@@ -1051,29 +1157,29 @@ My criticism is worse than the conduct I want to correct. My ability to positive
 
 control, myself. I can stop trying to shape up my wife and work on my own weaknesses. I can focus on being a great marriage partner, a source of unconditional love and support. Hopefully, my wife will feel the power of proactive example and respond in kind.
 
-But whether she does or doesn’t, the most positive way I can influence my situation is to work on myself, on my being. There are so many ways to work in the circle of influence, to be a better listener, to be a more loving marriage partner, to be a better student, to be a more cooperative and dedicated employee. Sometimes the most proactive thing we can do is to be happy, just to genuinely smile. Happiness, like unhappiness, is a proactive choice.
+But whether she does or doesn’t, the most positive way. I can influence my situation is to work on myself, on my being. There are so many ways to work in the circle of influence, to be a better listener, to be a more loving marriage partner, to be a better student, to be a more cooperative and dedicated employee. Sometimes the most proactive thing we can do is to be happy, just to genuinely smile.
 
-There are things, like the weather, that our circle of influence will never include. But as proactive people, we can carry our own physical or social weather with us. We can be happy and accept those things that at present we can’t control, while we focus our efforts on the things that we can. The other end of the stick.
+Happiness, like unhappiness, is a proactive choice. There are things, like the weather, that our circle of influence will never include. But as proactive people, we can carry our own physical or social weather with us. We can be happy and accept those things that at present we can’t control, while we focus our efforts on the things that we can.
 
-Before we totally shift our life focus to our circle of influence, we need to consider two things in our circle of concern that merit deeper thought consequences and mistakes. While we are free to choose our actions, we are not free to choose the consequences of those actions. Consequences are governed by natural awe. They are out in the circle of concern.
+The other end of the stick. Before we totally shift our life focus to our circle of influence, we need to consider two things in our circle of concern that merit deeper thought consequences and mistakes. While we are free to choose our actions, we are not free to choose the consequences of those actions. Consequences are governed by natural awe.
 
-We can decide to step in front of a fast moving train, but we cannot decide what will happen when the train hits us. We can decide to be dishonest in our business dealings. While the social consequences of the decision may vary depending on whether or not we are found out, the natural consequences to our basic character are a fixed result. Our behavior is governed by principles.
+They are out in the circle of concern. We can decide to step in front of a fast moving train, but we cannot decide what will happen when the train hits us. We can decide to be dishonest in our business dealings. While the social consequences of the decision may vary depending on whether or not we are found out, the natural consequences to our basic character are a fixed result.
 
-Living in harmony with them brings positive consequences, violating them brings negative consequences. We are free to choose our response in any situation, but in doing so, we choose the intended consequence. When we pick up one end of the stick, we pick up the other. Undoubtedly, there have been times in each of our lives when we have picked up what we later felt was the wrong stick.
+Our behavior is governed by principles. Living in harmony with them brings positive consequences, violating them brings negative consequences. We are free to choose our response in any situation, but in doing so, we choose the intended consequence. When we pick up one end of the stick, we pick up the other.
 
-Our choices have brought consequences we would rather have lived without. If we had the choice to make over again, we would make it differently. We call these choices mistakes, and they are the second thing that merits our deeper thought. For those filled with regret, perhaps the most needful exercise of proactivity is to realize that past mistakes are also out there in the circle of concern.
+Undoubtedly, there have been times in each of our lives when we have picked up what we later felt was the wrong stick. Our choices have brought consequences we would rather have lived without. If we had the choice to make over again, we would make it differently. We call these choices mistakes, and they are the second thing that merits our deeper thought.
 
-We can’t recall them, we can undo them, we can’t control the consequences that came as a result. As a college quarterback, one of my sons learned to snap his wristband between plays as a kind of metal check off whenever he or anyone made a setting back mistake, so the last mistake wouldn’t affect the resolve and execution of the next play. The proactive approach to a mistake is to acknowledge it instantly, correct and learn from it. This literally turns a failure into a success.
+For those filled with regret, perhaps the most needful exercise of proactivity is to realize that past mistakes are also out there in the circle of concern. We can’t recall them, we can undo them, we can’t control the consequences that came as a result. As a college quarterback, one of my sons learned to snap his wristband between plays as a kind of metal check off whenever he or anyone made a setting back mistake, so the last mistake wouldn’t affect the resolve and execution of the next play.
 
-Success, said IBM founder DJ Watson, is on the far side of failure. But not to acknowledge a mistake, not to correct it and learn from it, is a mistake of a different order. It usually puts a person on a self-deceiving, self-justifying path, often involving rationalization, rationalize, to self and to others. This second mistake, this cover-up, empowers the first, giving it disproportionate importance, and causes far deeper injury to self.
+The proactive approach to a mistake is to acknowledge it instantly, correct and learn from it. This literally turns a failure into a success. Success, said IBM founder DJ Watson, is on the far side of failure. But not to acknowledge a mistake, not to correct it and learn from it, is a mistake of a different order.
 
-It is not what others do or even our own mistakes that hurt us the most, it is our response to those things. Chasing after the poisonous snake that bites us will only drive the poison through our entire system. It is far better to take measures immediately to get the poison out. Our response to any mistake affects the quality of the next moment.
+It usually puts a person on a self-deceiving, self-justifying path, often involving rationalization, rationalize, to self and to others. This second mistake, this cover-up, empowers the first, giving it disproportionate importance, and causes far deeper injury to self. It is not what others do or even our own mistakes that hurt us the most, it is our response to those things. Chasing after the poisonous snake that bites us will only drive the poison through our entire system.
 
-It is important to immediately admit and correct our mistakes so that they have no power over that next moment and we are empowered again. Making and Keeping Commitments At the very heart of our circle of influence is our ability to make and keep commitments and promises. The commitments we make to ourselves and to others, and our integrity to those commitments, is the essence and clearest manifestation of our proactivity. It is also the essence of our growth.
+It is far better to take measures immediately to get the poison out. Our response to any mistake affects the quality of the next moment. It is important to immediately admit and correct our mistakes so that they have no power over that next moment and we are empowered again. Making and Keeping Commitments.
 
-Through our human endowments of self-awareness and conscience, we become conscious of areas of weakness, areas for improvement, areas of talent that could be developed, areas that need to be changed or eliminated from our lives. Then, as we recognize and use our imagination and independent will to act on that awareness, making promises, setting goals, and being true to them, we build the strength of character, the being, that makes possible every other positive thing in our lives. It is here that we find two ways to put ourselves in control of our lives immediately.
+At the very heart of our circle of influence is our ability to make and keep commitments and promises. The commitments we make to ourselves and to others, and our integrity to those commitments, is the essence and clearest manifestation of our proactivity. It is also the essence of our growth. Through our human endowments of self-awareness and conscience, we become conscious of areas of weakness, areas for improvement, areas of talent that could be developed, areas that need to be changed or eliminated from our lives.
 
-We can make a promise, and keep it. Or we can set a goal, and work to achieve it.
+Then, as we recognize and use our imagination and independent will to act on that awareness, making promises, setting goals, and being true to them, we build the strength of character, the being, that makes possible every other positive thing in our lives. It is here that we find two ways to put ourselves in control of our lives immediately. We can make a promise, and keep it. Or we can set a goal, and work to achieve it.
 
 
 <a id="sec-022559"></a>
@@ -1081,37 +1187,37 @@ We can make a promise, and keep it. Or we can set a goal, and work to achieve it
 
 As we make and keep commitments, even small commitments, we begin to establish an inner integrity that gives us the awareness of self-control and the courage and strength to accept more of the responsibility for our own lives. By making and keeping promises to ourselves and others, little by little, our honor becomes greater than our moods. The power to make and keep commitments to ourselves is the essence of developing the basic habits of effectiveness. Knowledge, skill, and desire are all within our control.
 
-We can work on any one to improve the balance of the three. As the area of intersection becomes larger, we more deeply internalize the principles upon which the habits are based and create the strength of character to move us in a balanced way toward increasing effectiveness in our lives. Proactivity, the 30-day test We don’t have to go through the death camp experience of Frankl to recognize and develop our own proactivity. It is in the ordinary events of every day that we develop the proactive capacity to handle the extraordinary pressures of life.
+We can work on any one to improve the balance of the three. As the area of intersection becomes larger, we more deeply internalize the principles upon which the habits are based and create the strength of character to move us in a balanced way toward increasing effectiveness in our lives. Proactivity, the 30-day test. We don’t have to go through the death camp experience of Frankl to recognize and develop our own proactivity.
 
-It’s how we make and keep commitments, how we handle a traffic jam, how we respond to an irate customer or a disobedient child. It’s how we view our problems and where we focus our energies. It’s the language we use. I would challenge you to test the principle of proactivity for 30 days.
+It is in the ordinary events of every day that we develop the proactive capacity to handle the extraordinary pressures of life. It’s how we make and keep commitments, how we handle a traffic jam, how we respond to an irate customer or a disobedient child. It’s how we view our problems and where we focus our energies. It’s the language we use.
 
-Simply try it and see what happens. For 30 days work only in your circle of influence. Make small commitments and keep them. Be a light, not a judge.
+I would challenge you to test the principle of proactivity for 30 days. Simply try it and see what happens. For 30 days work only in your circle of influence. Make small commitments and keep them.
 
-Be a model, not a critic. Be part of the solution, not part of the problem. Try it in your marriage, in your family, in your job. Don’t argue for other people’s weaknesses.
+Be a light, not a judge. Be a model, not a critic. Be part of the solution, not part of the problem. Try it in your marriage, in your family, in your job.
 
-Don’t argue for your own. When you make a mistake, admit it, correct it, and learn from it, immediately. Don’t get into a blaming, accusing mode. Work on things you have control over.
+Don’t argue for other people’s weaknesses. Don’t argue for your own. When you make a mistake, admit it, correct it, and learn from it, immediately. Don’t get into a blaming, accusing mode.
 
-Work on you. On B. Look at the weaknesses of others with compassion, not accusation. It’s not what they’re not doing or should be doing that’s the issue.
+Work on things you have control over. Work on you. On B. Look at the weaknesses of others with compassion, not accusation.
 
-The issue is your own chosen response to the situation and what you should be doing. If you start to think the problem is out there, stop yourself. That thought is the problem. People who exercise their embryonic freedom day after day will, little by little, expand that freedom.
+It’s not what they’re not doing or should be doing that’s the issue. The issue is your own chosen response to the situation and what you should be doing. If you start to think the problem is out there, stop yourself. That thought is the problem.
 
-People who do not will find that it withers until they are literally being lived. They are acting out the scripts written by parents, associates, and society. We are responsible for our own effectiveness, for our own happiness, and ultimately, I would say, for most of our circumstances. Samuel Johnson observed, the fountain of content must spring up in the mind, and he who hath so little knowledge of human nature as to seek happiness by changing anything but his own disposition, will waste his life in fruitless efforts and multiply the grief he proposes to remove.
+People who exercise their embryonic freedom day after day will, little by little, expand that freedom. People who do not will find that it withers until they are literally being lived. They are acting out the scripts written by parents, associates, and society. We are responsible for our own effectiveness, for our own happiness, and ultimately, I would say, for most of our circumstances.
 
-Knowing that we are responsible, responsible is fundamental to effectiveness and to every other habit of effectiveness we will discuss. Application Suggestions 1. For a full day, listen to your language and to the language of the people around you. How often do you use and hear reactive phrases such as if only, I can’t, or I have to? 2.
+Samuel Johnson observed, the fountain of content must spring up in the mind, and he who hath so little knowledge of human nature as to seek happiness by changing anything but his own disposition, will waste his life in fruitless efforts and multiply the grief he proposes to remove. Knowing that we are responsible, responsible is fundamental to effectiveness and to every other habit of effectiveness we will discuss. Application Suggestions 1. For a full day, listen to your language and to the language of the people around you.
 
-Identify an experience you might encounter in the near future where, based on past experience, you would probably behave reactively. Review the situation in the context of your circle of influence. How could you respond proactively? Take several moments and create the experience vividly in your mind, picturing yourself responding in a proactive manner.
+How often do you use and hear reactive phrases such as if only, I can’t, or. I have to? 2. Identify an experience you might encounter in the near future where, based on past experience, you would probably behave reactively. Review the situation in the context of your circle of influence.
 
-Remind yourself of the gap between stimulus and response. Make a commitment to yourself to exercise your freedom to choose. 3. Select a problem from your work or personal life that is frustrating to you. Determine whether it is a direct, indirect, or no control problem.
+How could you respond proactively? Take several moments and create the experience vividly in your mind, picturing yourself responding in a proactive manner. Remind yourself of the gap between stimulus and response. Make a commitment to yourself to exercise your freedom to choose. 3.
 
-Apply the first step. you can take in your circle of influence to solve it and then take that step. 4. Try the 30-day test of proactivity. Be aware of a change in your circle of influence. Habit 2.
+Select a problem from your work or personal life that is frustrating to you. Determine whether it is a direct, indirect, or no control problem. Apply the first step. you can take in your circle of influence to solve it and then take that step. 4. Try the 30-day test of proactivity.
 
-Begin with the end in mind. Principles of personal leadership. What lies behind us and what lies before us are tiny matters. Compare to what lies within us.
+Be aware of a change in your circle of influence. Habit 2. Begin with the end in mind. Principles of personal leadership.
 
-Oliver Wendell Holmes. Please find a place to read these next few pages where you can be alone and uninterrupted. Clear your mind of everything except what you will read and what I will invite you to do. Don’t worry about your schedule, your business, your family, or your friends.
+What lies behind us and what lies before us are tiny matters. Compare to what lies within us. Oliver Wendell Holmes. Please find a place to read these next few pages where you can be alone and uninterrupted.
 
-Just focus with me and to really open your mind. In your mind’s eye, see yourself going to the funeral of a loved one. Picture yourself driving to the funeral parlor or chapel, parking the car, and getting out. As you walk inside the building, you notice the flowers, the soft organ music.
+Clear your mind of everything except what you will read and what. I will invite you to do. Don’t worry about your schedule, your business, your family, or your friends. Just focus with me and to really open your mind.
 
-You see the faces of friends and family you
+In your mind’s eye, see yourself going to the funeral of a loved one. Picture yourself driving to the funeral parlor or chapel, parking the car, and getting out. As you walk inside the building, you notice the flowers, the soft organ music. You see the faces of friends and family you
 
 
 <a id="sec-023103"></a>
@@ -1129,25 +1235,29 @@ What character would you like them to have seen in you? What contributions, what
 
 Before you read further, take a few minutes to jot down your impressions. It will greatly increase your personal understanding of habit too. What IT means to begin with the end in mind. If you participated seriously in this visualization experience, you touched for a moment some of your deep, fundamental values.
 
-You established brief contact with that inner guidance system at the heart of your circle of influence. Consider the words of Joseph Addison. When I look upon the tombs of the great, every emotion of envy dies in me. When I read the epitaphs of the beautiful, every inordinate desire goes out.
+You established brief contact with that inner guidance system at the heart of your circle of influence. Consider the words of Joseph Addison. When. I look upon the tombs of the great, every emotion of envy dies in me.
 
-When I meet with the grief of parents upon a tombstone, my heart melts with compassion. When I see the tomb of the parents themselves, I consider the vanity of grieving or those whom we must quickly follow. When I see kings lying by those who depose them, when I consider rival wits placed side by side, or the holy men that divided the world with their contests and disputes, I reflect with sorrow and astonishment on the little competitions, factions, and debates of mankind.
+When. I read the epitaphs of the beautiful, every inordinate desire goes out. When. I meet with the grief of parents upon a tombstone, my heart melts with compassion.
 
-When I read the several dates of the tombs, of some that died yesterday, and some six hundred years ago, I consider that great day when we shall all of us be contemporaries, and make our appearance together. Although habit too applies to many different circumstances and levels of life, the most fundamental application of begin with the end in mind is to begin today with the image, picture, or paradigm of the end of your life as your frame of reference or the criterion by which everything else is examined.
+When. I see the tomb of the parents themselves, I consider the vanity of grieving or those whom we must quickly follow. When. I see kings lying by those who depose them, when.
 
-Each part of your life, today’s behavior, tomorrow’s behavior, next week’s behavior, next month’s behavior, can be examined in the context of the whole, of what really matters most to you. By keeping that end clearly in mind, you can make certain that whatever you do on any particular day does not violate the criteria you have defined as supremely important, and that each day of your life contributes in a meaningful way to the vision you have of your life as a whole. To begin with the end in mind means to start with a clear understanding of your destination.
+I consider rival wits placed side by side, or the holy men that divided the world with their contests and disputes, I reflect with sorrow and astonishment on the little competitions, factions, and debates of mankind. When. I read the several dates of the tombs, of some that died yesterday, and some six hundred years ago, I consider that great day when we shall all of us be contemporaries, and make our appearance together. Although habit too applies to many different circumstances and levels of life, the most fundamental application of begin with the end in mind is to begin today with the image, picture, or paradigm of the end of your life as your frame of reference or the criterion by which everything else is examined.
 
-It means to know where you’re going so that you better understand where you are now and so that the steps you take are always in the right direction. It’s incredibly easy to get caught up in an activity trap, in the busyness of life, to work harder and harder at climbing the ladder of success only to discover it’s leaning against the wrong wall. It is possible to be busy, very busy, without being very effective. People often find themselves achieving victories that are empty, successes that have come at the expense of things they suddenly realize were far more valuable to them.
+Each part of your life, today’s behavior, tomorrow’s behavior, next week’s behavior, next month’s behavior, can be examined in the context of the whole, of what really matters most to you. By keeping that end clearly in mind, you can make certain that whatever you do on any particular day does not violate the criteria you have defined as supremely important, and that each day of your life contributes in a meaningful way to the vision you have of your life as a whole.
 
-People from every walk of life, doctors, academicians, actors, politicians, business professionals, athletes, and plumbers, often struggle to achieve a higher income, more recognition or a certain degree of professional competence, only to find that their drive to achieve their goal blinded them to the things that really mattered most and now are gone. How different our lives are when we really know what is deeply important to us, and, keeping that picture in mind, we manage ourselves each day to be and to do what really matters most.
+To begin with the end in mind means to start with a clear understanding of your destination. It means to know where you’re going so that you better understand where you are now and so that the steps you take are always in the right direction. It’s incredibly easy to get caught up in an activity trap, in the busyness of life, to work harder and harder at climbing the ladder of success only to discover it’s leaning against the wrong wall.
 
-If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster. We may be very busy, we may be very efficient, but we will also be truly effective only when we begin with the end in mind. If you carefully consider what you wanted to be said of you in the funeral experience, you will find your definition of success. It may be
+It is possible to be busy, very busy, without being very effective. People often find themselves achieving victories that are empty, successes that have come at the expense of things they suddenly realize were far more valuable to them. People from every walk of life, doctors, academicians, actors, politicians, business professionals, athletes, and plumbers, often struggle to achieve a higher income, more recognition or a certain degree of professional competence, only to find that their drive to achieve their goal blinded them to the things that really mattered most and now are gone.
+
+How different our lives are when we really know what is deeply important to us, and, keeping that picture in mind, we manage ourselves each day to be and to do what really matters most. If the ladder is not leaning against the right wall, every step we take just gets us to the wrong place faster. We may be very busy, we may be very efficient, but we will also be truly effective only when we begin with the end in mind.
+
+If you carefully consider what you wanted to be said of you in the funeral experience, you will find your definition of success. It may be
 
 
 <a id="sec-023605"></a>
 ### ⏱️ [02:36:05 - 02:41:07]
 
-very different from the definition you thought you had in mind. Perhaps fame, achievement, money, or some of the other things we strive for are not even part of the right wall. When you begin with the end in mind, you gain a different perspective. One man asked another on the death of a mutual friend, how much did he leave?
+very different from the definition you thought you had in mind. Perhaps, fame, achievement, money, or some of the other things we strive for are not even part of the right wall. When you begin with the end in mind, you gain a different perspective. One man asked another on the death of a mutual friend, how much did he leave?
 
 His friend responded, he left it all. All things are created twice. Begin with the end in mind is based on the principle that all things are created twice. There’s a mental or first creation, and a physical or second creation to all things.
 
@@ -1159,45 +1269,53 @@ All of this is done before the earth is touched. If not, then in the second crea
 
 Then you put it into bricks and mortar. Each day you go to the construction shed and pull out the blueprint to get marching orders for the day. You begin with the end in mind. For another example, look at a business.
 
-If you want to have a successful enterprise, you clearly define what you’re trying to accomplish. You carefully think through the product or service you want to provide in terms of your market target, then you organize all the elements, financial, research and development, operations, marketing, personnel, physical facilities, and so on, to meet that objective. The extent to which you begin with the end in mind often determines whether or not you are able to create a successful enterprise. Most business failures begin in the first creation, with problems such as under-capitalization, misunderstanding of the market, or lack of a business plan.
+If you want to have a successful enterprise, you clearly define what you’re trying to accomplish. You carefully think through the product or service you want to provide in terms of your market target, then you organize all the elements, financial, research and development, operations, marketing, personnel, physical facilities, and so on, to meet that objective. The extent to which you begin with the end in mind often determines whether or not you are able to create a successful enterprise.
 
-The same is true with parenting. If you want to raise responsible, self-disciplined children, you have to keep that end clearly in mind as you interact with your children on a daily basis. You can’t behave toward them in ways that undermine their self-discipline or self-esteem. To varying degrees, people use this principle in many different areas of life.
+Most business failures begin in the first creation, with problems such as under-capitalization, misunderstanding of the market, or lack of a business plan. The same is true with parenting. If you want to raise responsible, self-disciplined children, you have to keep that end clearly in mind as you interact with your children on a daily basis. You can’t behave toward them in ways that undermine their self-discipline or self-esteem.
 
-Before you go on a trip, you determine your destination and plan out the best. Before you plant a garden, you plan it out in your mind, possibly on paper. You create speeches on paper before you give them, you envision the landscaping in your yard before you landscape it, you design the clothes you make before you thread the needle. To the extent to which we understand the principle of two creations and accept the responsibility for both, we act within and enlarge the borders of our circle of influence.
+To varying degrees, people use this principle in many different areas of life. Before you go on a trip, you determine your destination and plan out the best. Before you plant a garden, you plan it out in your mind, possibly on paper. You create speeches on paper before you give them, you envision the landscaping in your yard before you landscape it, you design the clothes you make before you thread the needle.
 
-To the extent to which we do not operate in harmony with this principle and take charge of the first creation, we diminish it. By DFSINOR DEFAULT. It’s a principle that all things are created twice, but not all first creations are by conscious design. In our personal lives, if we do not develop our own self-awareness and become responsible for first creations, we empower other people and circumstances outside our circle of influence to shape much of our lives by default.
+To the extent to which we understand the principle of two creations and accept the responsibility for both, we act within and enlarge the borders of our circle of influence. To the extent to which we do not operate in harmony with this principle and take charge of the first creation, we diminish it. By DFSINOR DEFAULT. It’s a principle that all things are created twice, but not all first creations are by conscious design.
 
-We reactively live the scripts handed to us by family, associates, other people’s agendas, the pressures of circumstance, scripts from our earlier years, from our training, our conditioning. These scripts come from people, not principles. And they rise out of our deep vulnerabilities, our deep dependency on others and our needs for acceptance and love, for belonging, for a sense of importance and worth, for a feeling that we matter. Whether we are aware of it or not, whether we are in control of it or not, there is a first creation to every part of our lives.
+In our personal lives, if we do not develop our own self-awareness and become responsible for first creations, we empower other people and circumstances outside our circle of influence to shape much of our lives by default. We reactively live the scripts handed to us by family, associates, other people’s agendas, the pressures of circumstance, scripts from our earlier years, from our training, our conditioning. These scripts come from people, not principles. And they rise out of our deep vulnerabilities, our deep dependency on others and our needs for acceptance and love, for belonging, for a sense of importance and worth, for a feeling that we matter.
 
-We are either the second creation of our own proactive design, or we are the second creation of other people’s agendas, of circumstances, or of past habits. The unique human capacities of self-awareness, imagination, and conscience enable us to examine first creations and make it possible for us to take charge of our own first creation, to write our own script. Put another way, habit 1 says, you are the creator. Habit 2 is the first creation.
+Whether we are aware of it or not, whether we are in control of it or not, there is a first creation to every part of our lives. We are either the second creation of our own proactive design, or we are the second creation of other people’s agendas, of circumstances, or of past habits. The unique human capacities of self-awareness, imagination, and conscience enable us to examine first creations and make it possible for us to take charge of our own first creation, to write our own script.
 
-Leadership and management, the two creations. Habit 2 is based on principles of personal leadership, which means that leadership is the first creation. Leadership is not management. Management is the second creation, which we’ll discuss in the chapter on habit 3.
+Put another way, habit 1 says, you are the creator. Habit 2 is the first creation. Leadership and management, the two creations. Habit 2 is based on principles of personal leadership, which means that leadership is the first creation.
+
+Leadership is not management. Management is the second creation, which we’ll discuss in the chapter on habit 3.
 
 
 <a id="sec-024107"></a>
 ### ⏱️ [02:41:07 - 02:46:10]
 
-But leadership has to come first. Management is a bottom line focus, how can I best accomplish certain things? Leadership deals with the top line, what are the things I want to accomplish? In the words of both Peter Drucker and Warren Bennis, management is doing things right, leadership is doing the right things.
+But leadership has to come first. Management is a bottom line focus, how can. I best accomplish certain things? Leadership deals with the top line, what are the things.
 
-Management is efficiency in climbing the ladder of success, leadership determines whether the ladder is leaning against the right wall. You can quickly grasp the important difference between the two if you envision a group of producers cutting their way through the jungle with machetes. They’re the producers, the problem solvers. They’re cutting through the undergrowth, clearing it out.
+I want to accomplish? In the words of both Peter Drucker and Warren Bennis, management is doing things right, leadership is doing the right things. Management is efficiency in climbing the ladder of success, leadership determines whether the ladder is leaning against the right wall. You can quickly grasp the important difference between the two if you envision a group of producers cutting their way through the jungle with machetes.
 
-The managers are behind them, sharpening their machetes, writing policy and procedure manuals, holding muscle development programs, bringing in improved technologies and setting up working schedules and compensation programs for machete wielders. The leader is the one who climbs the tallest tree, surveys the entire situation, and yells, wrong jungle. But how do the busy, efficient producers and managers often respond? Shut up.
+They’re the producers, the problem solvers. They’re cutting through the undergrowth, clearing it out. The managers are behind them, sharpening their machetes, writing policy and procedure manuals, holding muscle development programs, bringing in improved technologies and setting up working schedules and compensation programs for machete wielders. The leader is the one who climbs the tallest tree, surveys the entire situation, and yells, wrong jungle.
 
-We’re making progress. As individuals, groups, and businesses, we’re often so busy cutting through the undergrowth we don’t even realize we’re in the wrong jungle. And the rapidly changing environment in which we live makes effective leadership more critical than it has ever been, in every aspect of independent and interdependent life. We are more in need of a vision or destination and a compass, a set of principles or directions, and less in need of a roadmap.
+But how do the busy, efficient producers and managers often respond? Shut up. We’re making progress. As individuals, groups, and businesses, we’re often so busy cutting through the undergrowth we don’t even realize we’re in the wrong jungle.
 
-We often don’t know what the terrain ahead will be like or what we will need to go through it. Much will depend on our judgment at the time. But an inner compass will always give us direction. Effectiveness, often even survival, does not depend solely on how much effort we expend, but on whether or not the effort we expend is in the right jungle.
+And the rapidly changing environment in which we live makes effective leadership more critical than it has ever been, in every aspect of independent and interdependent life. We are more in need of a vision or destination and a compass, a set of principles or directions, and less in need of a roadmap. We often don’t know what the terrain ahead will be like or what we will need to go through it. Much will depend on our judgment at the time.
 
-And the metamorphosis taking place in most every industry and profession demands leadership first and management second. In business, the market is changing so rapidly that many products and services that successfully met consumer tastes and needs a few years ago are obsolete today. Proactive powerful leadership must constantly monitor environmental change, particularly customer buying habits and motives, and provide the force necessary to organize resources in the right direction. Such changes as deregulation of the airline industry, skyrocketing costs of health care, and the greater quality and quantity of imported cars impact the environment in significant ways.
+But an inner compass will always give us direction. Effectiveness, often even survival, does not depend solely on how much effort we expend, but on whether or not the effort we expend is in the right jungle. And the metamorphosis taking place in most every industry and profession demands leadership first and management second. In business, the market is changing so rapidly that many products and services that successfully met consumer tastes and needs a few years ago are obsolete today.
 
-If industries do not monitor the environment, including their own work teams, and exercise the creative leadership to keep headed in the right direction, no amount of management expertise can keep them from failing. Efficient management without effective leadership is, as one individual has phrased it, like straightening deck chairs on the Titanic. No management success can compensate for failure in leadership. But leadership is hard because we’re often caught in a management paradigm.
+Proactive powerful leadership must constantly monitor environmental change, particularly customer buying habits and motives, and provide the force necessary to organize resources in the right direction. Such changes as deregulation of the airline industry, skyrocketing costs of health care, and the greater quality and quantity of imported cars impact the environment in significant ways. If industries do not monitor the environment, including their own work teams, and exercise the creative leadership to keep headed in the right direction, no amount of management expertise can keep them from failing.
 
-At the final session of a year-long executive development program in Seattle, the president of an oil company came up to me and said, “Stephen, when you pointed out the difference between leadership and management in the second month, I looked at my role as the president of this company and realized that I had never been into leadership.” I was deep into management, buried by pressing challenges and the details of day-to-day logistics. So I decided to withdraw from management. I could get other people to do that.
+Efficient management without effective leadership is, as one individual has phrased it, like straightening deck chairs on the Titanic. No management success can compensate for failure in leadership. But leadership is hard because we’re often caught in a management paradigm.
 
-I wanted to really lead my organization. It was hard. I went through withdrawal pains because I stopped dealing with a lot of the pressing, urgent matters that were right in front of me and which gave me a sense of immediate accomplishment. I didn’t receive much satisfaction as I started wrestling with the direction issues, the culture building issues, the deep analysis of problems, the seizing of new opportunities.
+At the final session of a year-long executive development program in Seattle, the president of an oil company came up to me and said, “Stephen, when you pointed out the difference between leadership and management in the second month, I looked at my role as the president of this company and realized that. I had never been into leadership.”. I was deep into management, buried by pressing challenges and the details of day-to-day logistics. So.
 
-Others also went through withdrawal pains from their working style comfort zones. They missed the easy accessibility I had given them before. They still wanted me to be available to them, to respond, to help solve their problems on a day to day basis. But I persisted.
+I decided to withdraw from management. I could get other people to do that. I wanted to really lead my organization. It was hard.
 
-I was absolutely convinced that I needed to provide leadership. And I did. Today our whole business is different. We’re more in line with our environment.
+I went through withdrawal pains because. I stopped dealing with a lot of the pressing, urgent matters that were right in front of me and which gave me a sense of immediate accomplishment. I didn’t receive much satisfaction as. I started wrestling with the direction issues, the culture building issues, the deep analysis of problems, the seizing of new opportunities.
+
+Others also went through withdrawal pains from their working style comfort zones. They missed the easy accessibility. I had given them before. They still wanted me to be available to them, to respond, to help solve their problems on a day to day basis.
+
+But. I persisted. I was absolutely convinced that. I needed to provide leadership.
+
+And. I did. Today our whole business is different. We’re more in line with our environment.
 
 We have doubled our revenues and quadrupled our profits. I’m into leadership. I’m convinced that too often parents are also trapped in the management paradigm, thinking of control, efficiency, and rules instead of direction, purpose, and family feeling. And leadership is even more lacking in our personal lives.
 
@@ -1209,25 +1327,29 @@ We’re into managing with efficiency, setting and achieving goals before we hav
 
 The two additional unique human endowments that enable us to expand our proactivity and to exercise personal leadership in our lives are imagination and conscience. Through imagination, we can visualize the uncreated worlds of potential that lie within us. Through conscience, we can come in contact with, universal laws or principles with our own singular talents and avenues of contribution, and with the personal guidelines within which we can most effectively develop them. Combined with self-awareness, these two endowments empower us to write our own script.
 
-Because we already live with many scripts that have been handed to us, the process of writing our own script is actually more a process of rescripting, or paradigm shifting, of changing some of the basic paradigms that we already have. As we recognize the ineffective scripts, the incorrect or incomplete paradigms within us, we can proactively begin to rescript ourselves. I think one of the most inspiring accounts of the rescripting process comes from the autobiography of Anwar Sadat, past president of Egypt. Sadat had been reared, nurtured, and deeply scripted in a hatred for Israel.
+Because we already live with many scripts that have been handed to us, the process of writing our own script is actually more a process of rescripting, or paradigm shifting, of changing some of the basic paradigms that we already have. As we recognize the ineffective scripts, the incorrect or incomplete paradigms within us, we can proactively begin to rescript ourselves. I think one of the most inspiring accounts of the rescripting process comes from the autobiography of Anwar Sadat, past president of Egypt.
 
-He would make the statement on national television, I will never shake the hand of an Israeli as long as they occupy one inch of Arab soil. Never, never, never. And huge crowds all around the country would chant, never, never, never. He marshaled the energy and unified the will of the whole country in that script.
+Sadat had been reared, nurtured, and deeply scripted in a hatred for Israel. He would make the statement on national television, I will never shake the hand of an Israeli as long as they occupy one inch of Arab soil. Never, never, never. And huge crowds all around the country would chant, never, never, never.
 
-The script was very independent and nationalistic, and it aroused deep emotions in the people. But it was also very foolish, and Sadat knew it, it ignored the perilous, highly interdependent reality of the situation. So he rescripted himself. It was a process he had learned when he was a young man imprisoned in cell 54, a solitary cell in Cairo Central Prison, as a result of his involvement in a conspiracy plot against King Farouk.
+He marshaled the energy and unified the will of the whole country in that script. The script was very independent and nationalistic, and it aroused deep emotions in the people. But it was also very foolish, and Sadat knew it, it ignored the perilous, highly interdependent reality of the situation. So he rescripted himself.
 
-He learned to withdraw from his own mind and look at it to see if the scripts were appropriate and wise. He learned how to vacate his own mind and, through a deep personal process of meditation, to work with his own scriptures, his own form of prayer. And rescript himself. He records that he was almost loathe to leave his prison cell because it was there that he realized that real success is success with self.
+It was a process he had learned when he was a young man imprisoned in cell 54, a solitary cell in Cairo Central Prison, as a result of his involvement in a conspiracy plot against King Farouk. He learned to withdraw from his own mind and look at it to see if the scripts were appropriate and wise. He learned how to vacate his own mind and, through a deep personal process of meditation, to work with his own scriptures, his own form of prayer.
 
-It’s not in having things, but in having mastery, having victory over self. For a period of time during Nasser’s administration Sadat was relegated to a position of relative insignificance. Everyone felt that his spirit was broken, but it wasn’t. They were projecting their own home movies onto him.
+And rescript himself. He records that he was almost loathe to leave his prison cell because it was there that he realized that real success is success with self. It’s not in having things, but in having mastery, having victory over self. For a period of time during Nasser’s administration Sadat was relegated to a position of relative insignificance.
 
-They didn’t understand him. He was biding his time. And when that time came, when he became president of Egypt and confronted the political realities, he rescripted himself toward Israel. He visited the Knesset in Jerusalem and opened up one of the most precedent-breaking peace movements in the history of the world, a bold initiative that eventually brought about the Camp David Accord.
+Everyone felt that his spirit was broken, but it wasn’t. They were projecting their own home movies onto him. They didn’t understand him. He was biding his time.
 
-Sadat was able to use his self-awareness, his imagination and his conscience to exercise personal leadership, to change an essential paradigm, to change the way he saw the situation. He worked in the center of his circle of influence. And from that rescripting, the change in paradigm, flow changes in behavior and attitude that affected millions of lives in the wider circle of concern. In developing our own self-awareness many of us discover ineffective scripts, deeply embedded habits that are totally unworthy of us, totally incongruent with the things we really value in life.
+And when that time came, when he became president of Egypt and confronted the political realities, he rescripted himself toward Israel. He visited the Knesset in Jerusalem and opened up one of the most precedent-breaking peace movements in the history of the world, a bold initiative that eventually brought about the Camp David Accord. Sadat was able to use his self-awareness, his imagination and his conscience to exercise personal leadership, to change an essential paradigm, to change the way he saw the situation.
 
-Habit 2 says we don’t have to live with those scripts. We are responsible to use our imagination and creativity to write new ones that are more effective, more congruent with our deepest values and with the correct principles that give our values meaning. Suppose, for example, that I am highly overreactive to my children. Suppose that whenever they begin to do something I feel is inappropriate, I sense an immediate tensing in the pit of my stomach.
+He worked in the center of his circle of influence. And from that rescripting, the change in paradigm, flow changes in behavior and attitude that affected millions of lives in the wider circle of concern. In developing our own self-awareness many of us discover ineffective scripts, deeply embedded habits that are totally unworthy of us, totally incongruent with the things we really value in life. Habit 2 says we don’t have to live with those scripts.
 
-I feel defensive walls go up, I prepare for battle. My focus is not on the long-term growth and understanding but on the short-term behavior. I’m trying to win the battle, not the war. I pull out my ammunition, my superior size, my position of authority, and I yell or intimidate or a threaten or punish.
+We are responsible to use our imagination and creativity to write new ones that are more effective, more congruent with our deepest values and with the correct principles that give our values meaning. Suppose, for example, that. I am highly overreactive to my children. Suppose that whenever they begin to do something.
 
-And I win. I stand there, victorious, in the middle of the debris of a shattered relationship while my children are outwardly submissive and inwardly rebellious, suppressing feelings that will come out later in uglier ways. Now if I were sitting at that funeral we visualized earlier, and one of my children was about to speak, I would want his life to represent the victory of teaching, training, and disciplining with love over a period of years rather than the battle scars of quick-fix skirmishes.
+I feel is inappropriate, I sense an immediate tensing in the pit of my stomach. I feel defensive walls go up, I prepare for battle. My focus is not on the long-term growth and understanding but on the short-term behavior. I’m trying to win the battle, not the war.
+
+I pull out my ammunition, my superior size, my position of authority, and. I yell or intimidate or a threaten or punish. And. I win.
+
+I stand there, victorious, in the middle of the debris of a shattered relationship while my children are outwardly submissive and inwardly rebellious, suppressing feelings that will come out later in uglier ways. Now if. I were sitting at that funeral we visualized earlier, and one of my children was about to speak, I would want his life to represent the victory of teaching, training, and disciplining with love over a period of years rather than the battle scars of quick-fix skirmishes.
 
 I would want his heart and mind to be filled with the pleasant memories of deep, meaningful times together.
 
@@ -1235,67 +1357,77 @@ I would want his heart and mind to be filled with the pleasant memories of deep,
 <a id="sec-025110"></a>
 ### ⏱️ [02:51:10 - 02:56:14]
 
-I would want him to remember me as a loving father who shared the fun and the pain of growing up. I would want him to remember the times he came to me with his problems and concerns. I would want to have listened and loved and helped. I would want him to know I wasn’t perfect, but that I had tried with everything I had.
+I would want him to remember me as a loving father who shared the fun and the pain of growing up. I would want him to remember the times he came to me with his problems and concerns. I would want to have listened and loved and helped. I would want him to know.
 
-And that, perhaps more than anybody in the world, I loved him. The reason I would want those things is because, deep down, I value my children. I love them, I want to help them. I value my role as their father.
+I wasn’t perfect, but that. I had tried with everything. I had. And that, perhaps more than anybody in the world, I loved him.
 
-But I don’t always see those values. I get caught up in the thick of thin things. What matters most gets buried under layers of pressing problems, immediate concerns, and outward behaviors. I become reactive.
+The reason. I would want those things is because, deep down, I value my children. I love them, I want to help them. I value my role as their father.
 
-And the way I interact with my children every day often bears little resemblance to the way I deeply feel about them. Because I am self-aware, because I have imagination and conscience, I can examine my deepest values. I can realize that the script I’m living is not in harmony with those values, that my life is not the product of my own proactive design, but the result of the first creation I have deferred to circumstances and other people. And I can change.
+But. I don’t always see those values. I get caught up in the thick of thin things. What matters most gets buried under layers of pressing problems, immediate concerns, and outward behaviors.
+
+I become reactive. And the way. I interact with my children every day often bears little resemblance to the way. I deeply feel about them.
+
+Because. I am self-aware, because. I have imagination and conscience, I can examine my deepest values. I can realize that the script.
+
+I’m living is not in harmony with those values, that my life is not the product of my own proactive design, but the result of the first creation. I have deferred to circumstances and other people. And. I can change.
 
 I can live out of my imagination instead of my memory. I can tie myself to my limitless potential instead of my limiting past. I can become my own first creator. To begin with the end in mind means to approach my role as a parent, as well as my other roles in life, with my values and directions clear.
 
 It means to be responsible for my own first creation, to re-script myself so that the paradigms from which my behavior and attitude flow are congruent with my deepest values and in harmony with correct principles. It also means to begin each day with those values firmly in mind. Then as the vicissitudes, as the challenges come, I can make my decisions based on those values. I can act with integrity.
 
-I don’t have to react to the emotion, the circumstance. I can be truly proactive, value-driven, because my values are clear. A personal mission statement The most effective way I know to begin with the end in mind is to develop a personal mission statement or philosophy or creed. It focuses on what you want to be, character, and to do, contributions and achievements, and on the values or principles upon which being and doing are based.
+I don’t have to react to the emotion, the circumstance. I can be truly proactive, value-driven, because my values are clear. A personal mission statement The most effective way. I know to begin with the end in mind is to develop a personal mission statement or philosophy or creed.
 
-Because each individual is unique, a personal mission statement will reflect that uniqueness, both in content and form. My friend, Rolf Kerr, has expressed his personal creed in this way. Succeed at home first. Seek and merit divine help.
+It focuses on what you want to be, character, and to do, contributions and achievements, and on the values or principles upon which being and doing are based. Because each individual is unique, a personal mission statement will reflect that uniqueness, both in content and form. My friend, Rolf Kerr, has expressed his personal creed in this way. Succeed at home first.
 
-Never compromise with honesty. Remember the people involved. Hear both sides before judging. Obtain counsel of others.
+Seek and merit divine help. Never compromise with honesty. Remember the people involved. Hear both sides before judging.
 
-Defend those who are absent. Be sincere yet decisive. Develop one new proficiency a year. Plan tomorrow’s work today.
+Obtain counsel of others. Defend those who are absent. Be sincere yet decisive. Develop one new proficiency a year.
 
-All while you wait. Maintain a positive attitude. Keep a sense of humor. Be orderly in person and in work.
+Plan tomorrow’s work today. All while you wait. Maintain a positive attitude. Keep a sense of humor.
 
-Do not fear mistakes, fear only the absence of creative, constructive, and corrective responses to those mistakes. Facilitate the success of subordinates. Listen twice as much as you speak. Concentrate all abilities and efforts on the task at hand, not worrying about the next job or promotion.
+Be orderly in person and in work. Do not fear mistakes, fear only the absence of creative, constructive, and corrective responses to those mistakes. Facilitate the success of subordinates. Listen twice as much as you speak.
 
-A woman seeking to balance family and work values has expressed her sense of personal mission differently. I will seek to balance career and family as best I can since both are. Important to me. My home will be a place where I and my family, friends, and guests find joy, comfort, peace, and happiness.
+Concentrate all abilities and efforts on the task at hand, not worrying about the next job or promotion. A woman seeking to balance family and work values has expressed her sense of personal mission differently. I will seek to balance career and family as best. I can since both are.
 
-Still I will seek to create a clean and orderly environment, yet livable and comfortable. I will exercise wisdom in what we choose to eat, read, see, and do at home. I especially want to teach my children to love, to learn, and to laugh, and to work and develop their unique talents. I value the rights, freedoms, and responsibilities of our democratic society.
+Important to me. My home will be a place where. I and my family, friends, and guests find joy, comfort, peace, and happiness. Still.
+
+I will seek to create a clean and orderly environment, yet livable and comfortable. I will exercise wisdom in what we choose to eat, read, see, and do at home. I especially want to teach my children to love, to learn, and to laugh, and to work and develop their unique talents. I value the rights, freedoms, and responsibilities of our democratic society.
 
 I will be a concerned and informed citizen, involved in the political process to ensure my voice is heard and my vote is counted. I will be a self-starting individual who exercises initiative in accomplishing my life’s goals. I will act on situations and opportunities, rather than to be acted upon. I will always try to keep myself free from addictive and destructive habits.
 
 I will develop habits that free me from old labels and limits and expand my capabilities and choices. My money will be my servant, not my master. I will seek financial independence over time. My wants will be subject to my needs and my means.
 
-Except for long-term home and car loans, I will seek to keep myself free from consumer debt. I will spend less than I earn and regularly save or invest part of my income.
+Except for long-term home and car loans, I will seek to keep myself free from consumer debt. I will spend less than. I earn and regularly save or invest part of my income.
 
 
 <a id="sec-025614"></a>
 ### ⏱️ [02:56:14 - 03:01:16]
 
-Moreover, I will use what money and talents I have to make life more enjoyable for others through service and charitable giving. You could call a personal mission statement a personal constitution. Like the United States Constitution, it’s fundamentally changeless. In over 200 years, there have been only 26 amendments, 10 of which were in the original Bill of Rights.
+Moreover, I will use what money and talents. I have to make life more enjoyable for others through service and charitable giving. You could call a personal mission statement a personal constitution. Like the United States Constitution, it’s fundamentally changeless.
 
-The United States Constitution is the standard by which every law in the country is evaluated. It is the document the president agrees to defend and support when he takes the oath of allegiance. It is the criterion by which people are admitted into citizenship. It is the foundation and the center that enables people to ride through such major traumas as the Civil War, Vietnam, or Watergate.
+In over 200 years, there have been only 26 amendments, 10 of which were in the original Bill of Rights. The United States Constitution is the standard by which every law in the country is evaluated. It is the document the president agrees to defend and support when he takes the oath of allegiance. It is the criterion by which people are admitted into citizenship.
 
-It is the written standard, the key criterion by which everything else is evaluated and directed. The Constitution has endured and serves its vital function today because it is based on correct principles, on the self-evident truths contained in the Declaration of Independence. These principles empower the Constitution with a timeless strength, even in the midst of social ambiguity and change. Our.
+It is the foundation and the center that enables people to ride through such major traumas as the Civil War, Vietnam, or Watergate. It is the written standard, the key criterion by which everything else is evaluated and directed. The Constitution has endured and serves its vital function today because it is based on correct principles, on the self-evident truths contained in the Declaration of Independence. These principles empower the Constitution with a timeless strength, even in the midst of social ambiguity and change.
 
-Peculiar security, said Thomas Jefferson, is in the possession of a written constitution. A personal mission statement based on correct principles becomes the same kind of standard for an individual. It becomes a personal constitution, the basis for making major, life-directing decisions, the basis for making daily decisions in the midst of the circumstances and emotions that affect our lives. It empowers individuals with the same timeless strength in the midst of change.
+Our. Peculiar security, said Thomas Jefferson, is in the possession of a written constitution. A personal mission statement based on correct principles becomes the same kind of standard for an individual. It becomes a personal constitution, the basis for making major, life-directing decisions, the basis for making daily decisions in the midst of the circumstances and emotions that affect our lives.
 
-People can’t live with change if there’s not a changeless core inside them. The key to the ability to change is a changeless sense of who you are, what you are about and what you value. With a mission statement, we can flow with changes. We don’t need prejudgments or prejudices.
+It empowers individuals with the same timeless strength in the midst of change. People can’t live with change if there’s not a changeless core inside them. The key to the ability to change is a changeless sense of who you are, what you are about and what you value. With a mission statement, we can flow with changes.
 
-We don’t need to figure out everything else in life, to stereotype and categorize everything and everybody in order to accommodate reality. Our personal environment is also changing at an ever increasing pace. Such rapid change burns out a large number of people who feel they can hardly handle it, can hardly cope with life. They become reactive and essentially give up, hoping that the things that happen to them will be good.
+We don’t need prejudgments or prejudices. We don’t need to figure out everything else in life, to stereotype and categorize everything and everybody in order to accommodate reality. Our personal environment is also changing at an ever increasing pace. Such rapid change burns out a large number of people who feel they can hardly handle it, can hardly cope with life.
 
-But it doesn’t have to be that way. In the Nazi death camps where Viktor Frankl learned the principle of proactivity, he also learned the importance of purpose, of meaning in life. The essence of logotherapy, the philosophy he later developed and taught, is that many so called mental and emotional illnesses are really symptoms of an underlying sense of meaninglessness or emptiness. Logotherapy eliminates that emptiness by helping the individual to detect his unique meaning, his mission in life.
+They become reactive and essentially give up, hoping that the things that happen to them will be good. But it doesn’t have to be that way. In the Nazi death camps where Viktor Frankl learned the principle of proactivity, he also learned the importance of purpose, of meaning in life. The essence of logotherapy, the philosophy he later developed and taught, is that many so called mental and emotional illnesses are really symptoms of an underlying sense of meaninglessness or emptiness.
 
-Once you have that sense of mission, you have the essence of your own proactivity. You have the vision and the values which direct your life. You have the basic direction from which you set your long and short term goals. You have the power of a written constitution based on correct principles, against which every decision concerning the most effective use of your time, your talents, and your energies can be effectively measured.
+Logotherapy eliminates that emptiness by helping the individual to detect his unique meaning, his mission in life. Once you have that sense of mission, you have the essence of your own proactivity. You have the vision and the values which direct your life. You have the basic direction from which you set your long and short term goals.
 
-At the center. In order to write a personal mission statement, we must begin at the very center of our circle of influence, that center comprised of our most basic paradigms, the lens through which we see the world. It is here that we deal with our vision and our values. It is here that we use our endowment of self-awareness to examine our maps and, if we value correct principles, to make certain that our maps accurately describe the territory, that our paradigms are based on principles and reality.
+You have the power of a written constitution based on correct principles, against which every decision concerning the most effective use of your time, your talents, and your energies can be effectively measured. At the center. In order to write a personal mission statement, we must begin at the very center of our circle of influence, that center comprised of our most basic paradigms, the lens through which we see the world. It is here that we deal with our vision and our values.
 
-It is here that we use our endowment of self-awareness. endowment of conscience as a compass to help us detect our own unique talents and areas of contribution. It is here that we use our endowment of imagination to mentally create the end we desire, giving direction and purpose to our beginnings and providing the substance of a written personal constitution. It is also here that our focused efforts achieve the greatest results. As we work within the very center of our circle of influence, we expand it.
+It is here that we use our endowment of self-awareness to examine our maps and, if we value correct principles, to make certain that our maps accurately describe the territory, that our paradigms are based on principles and reality. It is here that we use our endowment of self-awareness. endowment of conscience as a compass to help us detect our own unique talents and areas of contribution. It is here that we use our endowment of imagination to mentally create the end we desire, giving direction and purpose to our beginnings and providing the substance of a written personal constitution.
 
-This is highest-leveraged PC work, significantly impacting the effectiveness of every aspect of our lives. Whatever is at the center of our life will be the source of our security, guidance, wisdom, and power. Security represents your sense of worth, your identity, your emotional anchorage, your self-esteem, your basic personal strength or lack of it. Guidance means your source of direction in life.
+It is also here that our focused efforts achieve the greatest results. As we work within the very center of our circle of influence, we expand it. This is highest-leveraged PC work, significantly impacting the effectiveness of every aspect of our lives. Whatever is at the center of our life will be the source of our security, guidance, wisdom, and power.
 
-Encompassed by your map, your internal frame of reference that interprets for you what is happening out there, are standards or principles or implicit criteria that govern moment by moment decision making and doing. Wisdom is your perspective on life, your sense of balance, your understanding of how the various parts and principles apply and relate to each other. It embraces judgment, discernment, comprehension.
+Security represents your sense of worth, your identity, your emotional anchorage, your self-esteem, your basic personal strength or lack of it. Guidance means your source of direction in life. Encompassed by your map, your internal frame of reference that interprets for you what is happening out there, are standards or principles or implicit criteria that govern moment by moment decision making and doing. Wisdom is your perspective on life, your sense of balance, your understanding of how the various parts and principles apply and relate to each other.
+
+It embraces judgment, discernment, comprehension.
 
 
 <a id="sec-030116"></a>
@@ -1313,15 +1445,17 @@ Your wisdom falls somewhere between a totally inaccurate map where everything is
 
 Alternative Centers Each of us has a center, though we usually don’t recognize it as such. Neither do we recognize the all-encompassing effects of that center on every aspect of our lives. Let’s briefly examine several centers or core paradigms people typically have for a better understanding of how they affect these four fundamental dimensions and, ultimately, the sum of life that flows from them. Spouse Centeredness Marriage can be the most intimate, the most satisfying, the most enduring, growth-producing of human relationships.
 
-It might seem natural and proper to be centered on one’s husband or wife. Great experience and observation tell a different story. Over the years, I have been involved in working with many troubled marriages, and I have observed a certain thread weaving itself through almost every spouse-centered relationship I have encountered. That thread is strong emotional dependence.
+It might seem natural and proper to be centered on one’s husband or wife. Great experience and observation tell a different story. Over the years, I have been involved in working with many troubled marriages, and. I have observed a certain thread weaving itself through almost every spouse-centered relationship.
 
-If our sense of emotional worth comes primarily from our marriage, then we become highly dependent upon that relationship. We become vulnerable to the moods and feelings, the behavior and treatment of our spouse, or to any external event that may impinge on the relationship, a new child, in-laws, economic setbacks, social successes, and so forth. When responsibilities increase and stresses come in the marriage, we tend to revert to the scripts we were given as we were growing up. But so does our spouse.
+I have encountered. That thread is strong emotional dependence. If our sense of emotional worth comes primarily from our marriage, then we become highly dependent upon that relationship. We become vulnerable to the moods and feelings, the behavior and treatment of our spouse, or to any external event that may impinge on the relationship, a new child, in-laws, economic setbacks, social successes, and so forth.
 
-And those scripts are usually different. Different ways of handling financial, child discipline, or in-law issues come to the surface. When these deep-seated tendencies combine with the emotional dependency in the marriage, the spouse-centered relationship reveals all its vulnerability. When we are dependent on the person with whom we are in conflict, both need and conflict are compounded.
+When responsibilities increase and stresses come in the marriage, we tend to revert to the scripts we were given as we were growing up. But so does our spouse. And those scripts are usually different. Different ways of handling financial, child discipline, or in-law issues come to the surface.
 
-Love-hate-over reactions, fight-or-flight tendencies, withdrawal, aggressiveness, bitterness, resentment, and cold competition are some of the usual results. When these occur, we tend to fall even further back on background tendencies and habits in an effort to justify and defend our own behavior and we attack our spouses. Inevitably, anytime we are too vulnerable we feel the need to protect ourselves from further wounds. So we resort to sarcasm, cutting humor, criticism, anything that will keep from exposing the tenderness within.
+When these deep-seated tendencies combine with the emotional dependency in the marriage, the spouse-centered relationship reveals all its vulnerability. When we are dependent on the person with whom we are in conflict, both need and conflict are compounded. Love-hate-over reactions, fight-or-flight tendencies, withdrawal, aggressiveness, bitterness, resentment, and cold competition are some of the usual results. When these occur, we tend to fall even further back on background tendencies and habits in an effort to justify and defend our own behavior and we attack our spouses.
 
-Each partner tends to wait on the initiative of the other for love, only to be disappointed but also confirmed as to the rightness of the accusations made. There is only phantom security in such a relationship when all appears to be going well. Guidance is based on the emotion of the moment.
+Inevitably, anytime we are too vulnerable we feel the need to protect ourselves from further wounds. So we resort to sarcasm, cutting humor, criticism, anything that will keep from exposing the tenderness within. Each partner tends to wait on the initiative of the other for love, only to be disappointed but also confirmed as to the rightness of the accusations made. There is only phantom security in such a relationship when all appears to be going well.
+
+Guidance is based on the emotion of the moment.
 
 
 <a id="sec-030616"></a>
@@ -1339,35 +1473,37 @@ Money-centeredness. Another logical and extremely common center to people’s li
 
 Other needs are not even activated until that basic need is satisfied, at least minimally. Most of us face economic worries. Many forces in the wider culture can and do act upon our economic situation, causing or threatening such disruption that we often experience concern and worry that may not always rise to the conscious surface. Sometimes there are apparently noble reasons given for making money, such as the desire to take care of one’s family.
 
-And these things are important. But to focus on money-making as a center will bring about its own undoing. Consider again the four life support factors, security, guidance, wisdom, and power. Suppose I derive much of my security from my employment or from my income or net worth.
+And these things are important. But to focus on money-making as a center will bring about its own undoing. Consider again the four life support factors, security, guidance, wisdom, and power. Suppose.
 
-Since many factors affect these economic foundations, I become anxious and uneasy, protective and defensive, about anything that may affect them. When my sense of personal worth comes from my net worth, I am vulnerable to anything that will affect that net worth. But work and money, per se, provide no wisdom, no guidance, and only a limited degree of power and security. All it takes to show the limitations of the money center is a crisis in my life or in the life of a loved one.
+I derive much of my security from my employment or from my income or net worth. Since many factors affect these economic foundations, I become anxious and uneasy, protective and defensive, about anything that may affect them. When my sense of personal worth comes from my net worth, I am vulnerable to anything that will affect that net worth. But work and money, per se, provide no wisdom, no guidance, and only a limited degree of power and security.
 
-Money centered people often put aside family or other priorities, assuming everyone will understand that economic demands come first. I know one father who was leaving with his children for a promised trip to the circus when a phone call came for him to come to work instead. He declined. When his wife suggested that perhaps he should have gone to work, he responded, the work will come again, but childhood won’t.
+All it takes to show the limitations of the money center is a crisis in my life or in the life of a loved one. Money centered people often put aside family or other priorities, assuming everyone will understand that economic demands come first. I know one father who was leaving with his children for a promised trip to the circus when a phone call came for him to come to work instead. He declined.
 
-For the rest of their lives his children remembered this little act of priority setting, not only as an object lesson in their minds but as an expression of love in their hearts. Work centeredness. Work centered people may become workaholics, driving themselves to produce at the sacrifice of health, relationships, and other important areas of their lives. Their fundamental identity comes from their work, I’m a doctor, I’m a writer, I’m an actor.
+When his wife suggested that perhaps he should have gone to work, he responded, the work will come again, but childhood won’t. For the rest of their lives his children remembered this little act of priority setting, not only as an object lesson in their minds but as an expression of love in their hearts. Work centeredness. Work centered people may become workaholics, driving themselves to produce at the sacrifice of health, relationships, and other important areas of their lives.
 
-Because their identity and sense of self worth are wrapped up in their work, their security is vulnerable to anything that happens to prevent them from continuing in it. Their guidance is a function of the demands of the work. Their wisdom and power come in the limited areas of their work, rendering them ineffective in other areas of life. Possession centeredness.
+Their fundamental identity comes from their work, I’m a doctor, I’m a writer, I’m an actor. Because their identity and sense of self worth are wrapped up in their work, their security is vulnerable to anything that happens to prevent them from continuing in it. Their guidance is a function of the demands of the work. Their wisdom and power come in the limited areas of their work, rendering them ineffective in other areas of life.
 
-A driving force of many people as possessions, not only tangible, material possessions such as fashionable clothes, homes, cars, boats, and jewelry, but also the intangible possessions of fame, glory, or social prominence. Most of us are aware, through our own experience, how singularly flawed such a center is, simply because it can vanish rapidly and it is influenced by so many forces. If my sense of security lies in my reputation or in the things I have, my life will be in a constant state of threat and jeopardy that these possessions may be lost or stolen or devalued.
+Possession centeredness. A driving force of many people as possessions, not only tangible, material possessions such as fashionable clothes, homes, cars, boats, and jewelry, but also the intangible possessions of fame, glory, or social prominence. Most of us are aware, through our own experience, how singularly flawed such a center is, simply because it can vanish rapidly and it is influenced by so many forces. If my sense of security lies in my reputation or in the things.
 
-If I’m in the presence of someone of greater net worth or fame or status, I feel inferior.
+I have, my life will be in a constant state of threat and jeopardy that these possessions may be lost or stolen or devalued. If. I’m in the presence of someone of greater net worth or fame or status, I feel inferior.
 
 
 <a id="sec-031117"></a>
 ### ⏱️ [03:11:17 - 03:16:20]
 
-If I’m in the presence of someone of lesser net worth or fame or status, I feel superior. My sense of self worth constantly fluctuates. I don’t have any sense of constancy or anchorage or persistent selfhood. I am constantly trying to protect and ensure my assets, properties, securities, position, or reputation.
+If. I’m in the presence of someone of lesser net worth or fame or status, I feel superior. My sense of self worth constantly fluctuates. I don’t have any sense of constancy or anchorage or persistent selfhood.
 
-We have all heard stories of people committing suicide after losing their fortunes in a significant stock decline or their fame in a political reversal. Pleasure-centeredness. Another common center, closely allied with possessions, is that of fun and pleasure. We live in a world where instant gratification is available and encouraged.
+I am constantly trying to protect and ensure my assets, properties, securities, position, or reputation. We have all heard stories of people committing suicide after losing their fortunes in a significant stock decline or their fame in a political reversal. Pleasure-centeredness. Another common center, closely allied with possessions, is that of fun and pleasure.
 
-Television and movies are major influences in increasing people’s expectations. They graphically portray what other people have and can do in living the life of ease and fun. But while the glitter of pleasure-centered lifestyles is graphically portrayed, the natural result of such lifestyles, the impact on the inner person, on productivity, on relationships, is seldom accurately seen. Innocent pleasures in moderation can provide relaxation for the body and mind and can foster family and other relationships.
+We live in a world where instant gratification is available and encouraged. Television and movies are major influences in increasing people’s expectations. They graphically portray what other people have and can do in living the life of ease and fun. But while the glitter of pleasure-centered lifestyles is graphically portrayed, the natural result of such lifestyles, the impact on the inner person, on productivity, on relationships, is seldom accurately seen.
 
-But pleasure, per se, offers no deep, lasting satisfaction or sense of fulfillment. The pleasure-centered person, too soon bored with each succeeding level of fun, constantly cries for more and more. So the next new pleasure has to be bigger and better, more exciting, with a bigger high. A person in this state becomes almost entirely narcissistic, interpreting all of life in terms of the pleasure it provides to the self here and now.
+Innocent pleasures in moderation can provide relaxation for the body and mind and can foster family and other relationships. But pleasure, per se, offers no deep, lasting satisfaction or sense of fulfillment. The pleasure-centered person, too soon bored with each succeeding level of fun, constantly cries for more and more. So the next new pleasure has to be bigger and better, more exciting, with a bigger high.
 
-Too many vacations that last too long, too many movies, too much TV, too much video game playing, too much undisciplined leisure time in which a person continually takes the course of least resistance gradually wastes a life. It ensures that a person’s capacities stay dormant, that talents remain undeveloped, that the mind and spirit become lethargic and that the heart is unfulfilled. Where is the security, the guidance, the wisdom, and the power? At the low end of the continuum, in the pleasure of a fleeting moment.
+A person in this state becomes almost entirely narcissistic, interpreting all of life in terms of the pleasure it provides to the self here and now. Too many vacations that last too long, too many movies, too much TV, too much video game playing, too much undisciplined leisure time in which a person continually takes the course of least resistance gradually wastes a life. It ensures that a person’s capacities stay dormant, that talents remain undeveloped, that the mind and spirit become lethargic and that the heart is unfulfilled.
 
-Malcolm Mugridge writes a twentieth-century testimony. When I look back on my life nowadays, which I sometimes do, what strikes me most forcibly about it is that what seemed at the time most significant and seductive, seems now most futile and absurd. For instance, success in all of its various guises, being known and being praised, ostensible pleasures, like acquiring money or seducing women, or traveling, going to and fro in the world and up and down in it like Satan, explaining and experiencing whatever vanity fare has to offer.
+Where is the security, the guidance, the wisdom, and the power? At the low end of the continuum, in the pleasure of a fleeting moment. Malcolm Mugridge writes a twentieth-century testimony. When.
+
+I look back on my life nowadays, which. I sometimes do, what strikes me most forcibly about it is that what seemed at the time most significant and seductive, seems now most futile and absurd. For instance, success in all of its various guises, being known and being praised, ostensible pleasures, like acquiring money or seducing women, or traveling, going to and fro in the world and up and down in it like Satan, explaining and experiencing whatever vanity fare has to offer.
 
 In retrospect, all these exercises in self-gratification seem pure fantasy, what Pascal called, licking the earth. Friend-slash-enemy-centeredness. Young people are particularly, though certainly not exclusively, susceptible to becoming friend-centered. Acceptance and belonging to a peer group can become almost supremely important.
 
@@ -1385,33 +1521,33 @@ But as long as he is here, then my staying is too disruptive to everything in li
 <a id="sec-031620"></a>
 ### ⏱️ [03:16:20 - 03:21:21]
 
-I asked him. He was shocked by the question. He denied it. But I pointed out to him that he was allowing one individual and his weaknesses to distort his entire map of life.
+I asked him. He was shocked by the question. He denied it. But.
 
-To undermine his faith and the quality of his relationships with his loved ones. He finally admitted that this individual had had such an impact on him, but he… Denied that he himself had made all these choices. He attributed the responsibility for the unhappy situation to the administrator.
+I pointed out to him that he was allowing one individual and his weaknesses to distort his entire map of life. To undermine his faith and the quality of his relationships with his loved ones. He finally admitted that this individual had had such an impact on him, but he… Denied that he himself had made all these choices.
 
-He, himself, he declared, was not responsible. As we talked, little by little, he came to realize that he was indeed responsible, but that because he did not handle this responsibility well, he was being irresponsible. Many divorced people fall into a similar pattern. They are still consumed with anger and bitterness and self-justification regarding an ex-spouse.
+He attributed the responsibility for the unhappy situation to the administrator. He, himself, he declared, was not responsible. As we talked, little by little, he came to realize that he was indeed responsible, but that because he did not handle this responsibility well, he was being irresponsible. Many divorced people fall into a similar pattern.
 
-In a negative sense, psychologically they are still married, they each need the weaknesses of the former partner to justify their accusations. Many older children go through life either secretly or openly hating their parents. They blame them for past abuses, neglect, or favoritism and they center their adult life on that hatred, living out the reactive, justifying script that accompanies it. The individual who is friend or enemy centered has no intrinsic security.
+They are still consumed with anger and bitterness and self-justification regarding an ex-spouse. In a negative sense, psychologically they are still married, they each need the weaknesses of the former partner to justify their accusations. Many older children go through life either secretly or openly hating their parents. They blame them for past abuses, neglect, or favoritism and they center their adult life on that hatred, living out the reactive, justifying script that accompanies it.
 
-Feelings of self-worth are volatile, a function of the emotional state or behavior of other people. This comes from the person’s perception of how others will respond, and wisdom is limited by the social lens or by an enemy centered paranoia. The individual has no power. Other people are pulling the strings.
+The individual who is friend or enemy centered has no intrinsic security. Feelings of self-worth are volatile, a function of the emotional state or behavior of other people. This comes from the person’s perception of how others will respond, and wisdom is limited by the social lens or by an enemy centered paranoia. The individual has no power.
 
-Church centeredness. I believe that almost anyone who is seriously involved in any church will recognize that church going is not synonymous with personal spirituality. There are some people who get so busy in church worship and projects that they become insensitive to the pressing human needs that surround them, contradicting the very precepts they profess to believe deeply. There are others who attend church less frequently or not at all but whose attitudes and behavior reflect a more genuine centering in the principles of the basic Judeo-Christian ethic.
+Other people are pulling the strings. Church centeredness. I believe that almost anyone who is seriously involved in any church will recognize that church going is not synonymous with personal spirituality. There are some people who get so busy in church worship and projects that they become insensitive to the pressing human needs that surround them, contradicting the very precepts they profess to believe deeply.
 
-Having participated throughout my life in organized church and community service groups, I have found that attending church does not necessarily mean living the principles taught in those meetings. You can be active in a church but inactive in its gospel. In the church-centered life, immature appearance can become a person’s dominant consideration, leading to hypocrisy that undermines personal security and intrinsic worth. Guidance comes from a social conscience, and the church-centered person tends to label others artificially in terms of active, inactive, liberal, orthodox, or conservative.
+There are others who attend church less frequently or not at all but whose attitudes and behavior reflect a more genuine centering in the principles of the basic Judeo-Christian ethic. Having participated throughout my life in organized church and community service groups, I have found that attending church does not necessarily mean living the principles taught in those meetings. You can be active in a church but inactive in its gospel. In the church-centered life, immature appearance can become a person’s dominant consideration, leading to hypocrisy that undermines personal security and intrinsic worth.
 
-As the church is a formal organization made up of policies, programs, practices, and people, it cannot by itself give a person any deep, permanent security or sense of intrinsic worth. Living the principles taught by the church can do this, but the organization alone cannot. Nor can the church give a person a constant sense of guidance. Church-centered people often tend to live in compartments, acting and thinking and feeling in certain ways on the Sabbath and in totally different ways on weekdays.
+Guidance comes from a social conscience, and the church-centered person tends to label others artificially in terms of active, inactive, liberal, orthodox, or conservative. As the church is a formal organization made up of policies, programs, practices, and people, it cannot by itself give a person any deep, permanent security or sense of intrinsic worth. Living the principles taught by the church can do this, but the organization alone cannot. Nor can the church give a person a constant sense of guidance.
 
-Such lack of wholeness or unity or integrity is a further threat to security, creating the need for increased labeling and self-justifying. Seeing the church as an end rather than as a means to an end undermines a person’s wisdom and sense of balance. Although the church claims to teach people about the source of power, it does not claim to be that power itself. It claims to be one vehicle through which divine power can be channeled into man’s nature.
+Church-centered people often tend to live in compartments, acting and thinking and feeling in certain ways on the Sabbath and in totally different ways on weekdays. Such lack of wholeness or unity or integrity is a further threat to security, creating the need for increased labeling and self-justifying. Seeing the church as an end rather than as a means to an end undermines a person’s wisdom and sense of balance. Although the church claims to teach people about the source of power, it does not claim to be that power itself.
 
-Self-centeredness. Perhaps the most common center today is the self. The most obvious form is selfishness, which violates the values of most people. But if we look closely at many of the popular approaches to growth and self-fulfillment, we often find self-centering at their core.
+It claims to be one vehicle through which divine power can be channeled into man’s nature. Self-centeredness. Perhaps, the most common center today is the self. The most obvious form is selfishness, which violates the values of most people.
 
-There is little security, guidance, wisdom, or power in the limited center of self. Like the Dead Sea in Israel, it accepts but never gives. It becomes stagnant.
+But if we look closely at many of the popular approaches to growth and self-fulfillment, we often find self-centering at their core. There is little security, guidance, wisdom, or power in the limited center of self. Like the Dead Sea in Israel, it accepts but never gives. It becomes stagnant.
 
 On the other hand, paying attention to the development of self in the greater perspective of improving one’s ability to serve, to produce, to contribute in meaningful ways, gives context for dramatic increase in the four life support factors. These are some of the more common centers from which people approach life. It is often much easier to recognize the center in someone else’s life than to see it in your own. You probably know someone who puts making money ahead of everything else.
 
-You probably know someone whose energy is devoted to justifying his or her position in an ongoing negative relationship. If you look, you can sometimes see beyond behavior into the center that creates it. Identifying Your Center. But where do you stand?
+You probably know someone whose energy is devoted to justifying his or her position in an ongoing negative relationship. If you look, you can sometimes see beyond behavior into the center that creates it. Identifying. Your Center.
 
-What is at the center of your own life? Sometimes that isn’t easy to see.
+But where do you stand? What is at the center of your own life? Sometimes that isn’t easy to see.
 
 
 <a id="sec-032121"></a>
@@ -1421,53 +1557,55 @@ Perhaps the best way to identify your own center is to look closely at your life
 
 Depending on external or internal conditions, one particular center may be activated until the underlying needs are satisfied. Then, another center becomes the compelling force. As a person fluctuates from one center to another, the resulting relativism is like rollercoasting through life. One moment you’re high, the next moment you’re low, making efforts to compensate for one weakness by borrowing strength from another weakness.
 
-There is no consistent sense of direction, no persistent wisdom, no steady power supply or sense of personal, intrinsic worth and identity. The ideal, of course, is to create one clear center from which you consistently derive a high degree of security, guidance, wisdom, and power, empowering your proactivity and giving congruency and harmony to every part of your life. A principle center By centering our lives on correct principles, we create a solid foundation for development of the four life support factors. Our security comes from knowing that, unlike other centers based on people or things which are subject to frequent and immediate change, correct principles do not change.
+There is no consistent sense of direction, no persistent wisdom, no steady power supply or sense of personal, intrinsic worth and identity. The ideal, of course, is to create one clear center from which you consistently derive a high degree of security, guidance, wisdom, and power, empowering your proactivity and giving congruency and harmony to every part of your life. A principle center. By centering our lives on correct principles, we create a solid foundation for development of the four life support factors.
 
-We can depend on them. Principles don’t react to anything. They don’t get mad and treat us differently. They won’t divorce us or run away with our best friend.
+Our security comes from knowing that, unlike other centers based on people or things which are subject to frequent and immediate change, correct principles do not change. We can depend on them. Principles don’t react to anything. They don’t get mad and treat us differently.
 
-They aren’t out to get us. They can’t pave our way with shortcuts and quick fixes. They don’t depend on the behavior of others, the environment, or the current fad for their validity. Principles don’t die.
+They won’t divorce us or run away with our best friend. They aren’t out to get us. They can’t pave our way with shortcuts and quick fixes. They don’t depend on the behavior of others, the environment, or the current fad for their validity.
 
-They aren’t here one day and gone the next. They can’t be destroyed by fire, earthquake or theft. Principles are deep, fundamental truths, classic truths, generic common denominators. They are tightly interwoven threads running with exactness, consistency, beauty, and strength through the fabric of life.
+Principles don’t die. They aren’t here one day and gone the next. They can’t be destroyed by fire, earthquake or theft. Principles are deep, fundamental truths, classic truths, generic common denominators.
 
-Even in the midst of people or circumstances that seem to ignore the principles, we can be secure in the knowledge that principles are bigger than people or circumstances, and that thousands of years of history have seen them triumph, time and time again. Even more important, we can be secure in the knowledge that we can validate them in our own lives, by our own experience. Admittedly, we’re not omniscient. Our knowledge and understanding of correct principles is limited by our own lack of awareness of our true nature and the world around us and by the flood of trendy philosophies and theories that are not in harmony with correct principles.
+They are tightly interwoven threads running with exactness, consistency, beauty, and strength through the fabric of life. Even in the midst of people or circumstances that seem to ignore the principles, we can be secure in the knowledge that principles are bigger than people or circumstances, and that thousands of years of history have seen them triumph, time and time again. Even more important, we can be secure in the knowledge that we can validate them in our own lives, by our own experience.
 
-These ideas will have their season of acceptance, but, like many before them, they won’t endure because they’re built on false foundations. We are limited, but we can push back the borders of our limitations. An understanding of the principle of her own growth enables us to search out correct principles with the confidence that the more we learn, the more clearly we can focus the lens through which we see the world. The principles don’t change, our understanding of them does.
+Admittedly, we’re not omniscient. Our knowledge and understanding of correct principles is limited by our own lack of awareness of our true nature and the world around us and by the flood of trendy philosophies and theories that are not in harmony with correct principles. These ideas will have their season of acceptance, but, like many before them, they won’t endure because they’re built on false foundations. We are limited, but we can push back the borders of our limitations.
 
-The wisdom and guidance that accompany principle-centered living come from correct maps, from the way things really are, have been, and will be. Correct maps enable us to clearly see where we want to go and how to get there. We can make our decisions using the correct data that will make their implementation possible and meaningful. The personal power that comes from principle-centered living is the power of a self-aware, knowledgeable, proactive individual, unrestricted by the attitudes, behaviors, and actions of others or by many of the circumstances and environmental influences that limit other people.
+An understanding of the principle of her own growth enables us to search out correct principles with the confidence that the more we learn, the more clearly we can focus the lens through which we see the world. The principles don’t change, our understanding of them does. The wisdom and guidance that accompany principle-centered living come from correct maps, from the way things really are, have been, and will be. Correct maps enable us to clearly see where we want to go and how to get there.
 
-The only real limitation of power is the natural consequences of the principles themselves. We are free to choose our actions, based on our knowledge of correct principles, but we are not free to choose the consequences of those actions. Remember, if you pick up one end of the stick, you pick up the other. Principles always have natural consequences attached to them.
+We can make our decisions using the correct data that will make their implementation possible and meaningful. The personal power that comes from principle-centered living is the power of a self-aware, knowledgeable, proactive individual, unrestricted by the attitudes, behaviors, and actions of others or by many of the circumstances and environmental influences that limit other people. The only real limitation of power is the natural consequences of the principles themselves. We are free to choose our actions, based on our knowledge of correct principles, but we are not free to choose the consequences of those actions.
 
-There are positive consequences when we live in harmony with the principles. There are negative consequences when we ignore them. But because these principles apply to everyone, whether or not they are aware, this limitation is universal. And the more we know of correct principles, the greater is our personal freedom to act.
+Remember, if you pick up one end of the stick, you pick up the other. Principles always have natural consequences attached to them. There are positive consequences when we live in harmony with the principles. There are negative consequences when we ignore them.
 
-Wisely By centering our lives on timeless, unchanging principles, we create a fundamental paradigm of effective living. It is the center that puts all other centers in perspective. Remember that your paradigm is the source from which your attitudes and behaviors flow. A paradigm is like a pair of glasses, it affects the way you see everything in your life.
+But because these principles apply to everyone, whether or not they are aware, this limitation is universal. And the more we know of correct principles, the greater is our personal freedom to act. Wisely. By centering our lives on timeless, unchanging principles, we create a fundamental paradigm of effective living.
+
+It is the center that puts all other centers in perspective. Remember that your paradigm is the source from which your attitudes and behaviors flow. A paradigm is like a pair of glasses, it affects the way you see everything in your life.
 
 
 <a id="sec-032624"></a>
 ### ⏱️ [03:26:24 - 03:31:26]
 
-If you look at things through the paradigm of correct principles, what you see in life is dramatically different from what you see through any other centered paradigm. I have included in the appendix section of this book a detailed chart which shows how each center we’ve discussed might possibly affect the way you see everything else. But for a quick understanding of the difference your center makes, let’s look at just one example of a specific problem as seen through the different paradigms. As you read, try to put on each pair of glasses.
+If you look at things through the paradigm of correct principles, what you see in life is dramatically different from what you see through any other centered paradigm. I have included in the appendix section of this book a detailed chart which shows how each center we’ve discussed might possibly affect the way you see everything else. But for a quick understanding of the difference your center makes, let’s look at just one example of a specific problem as seen through the different paradigms.
 
-Try to feel the response that flows from the different centers. Suppose tonight you have invited your wife to go to a concert. You have the tickets, she’s excited about going. It’s 4 o’clock in the afternoon.
+As you read, try to put on each pair of glasses. Try to feel the response that flows from the different centers. Suppose tonight you have invited your wife to go to a concert. You have the tickets, she’s excited about going.
 
-All of a sudden, your boss calls you into his office and says he needs your help through the evening to get ready for an important meeting at 9am tomorrow. If you’re looking through spouse-centered or family-centered glasses, your main concern will be your wife. You may tell the boss you can’t stay and you take her to the concert in an effort to please her. You may feel you have to stay too.
+It’s 4 o’clock in the afternoon. All of a sudden, your boss calls you into his office and says he needs your help through the evening to get ready for an important meeting at 9am tomorrow. If you’re looking through spouse-centered or family-centered glasses, your main concern will be your wife. You may tell the boss you can’t stay and you take her to the concert in an effort to please her.
 
-Protect your job, but you’ll do so grudgingly, anxious about her response, trying to just defy your decision and protect yourself from her disappointment or anger. If you’re looking through a money-centered lens, your main thought will be of the overtime you will get or the influence working late will have on a potential raise. You may call your wife and simply tell her you have to stay, assuming she’ll understand that economic demands come first. If you’re a work-centered, you may be thinking of the opportunity.
+You may feel you have to stay too. Protect your job, but you’ll do so grudgingly, anxious about her response, trying to just defy your decision and protect yourself from her disappointment or anger. If you’re looking through a money-centered lens, your main thought will be of the overtime you will get or the influence working late will have on a potential raise. You may call your wife and simply tell her you have to stay, assuming she’ll understand that economic demands come first.
 
-You can learn more about the job. You can make some points with the boss and further your career. You may give yourself a pat on the back for putting in hours well beyond what is required, evidence of what a hard worker you are. Your wife should be proud of you.
+If you’re a work-centered, you may be thinking of the opportunity. You can learn more about the job. You can make some points with the boss and further your career. You may give yourself a pat on the back for putting in hours well beyond what is required, evidence of what a hard worker you are.
 
-If you’re possession-centered, you might be thinking of the things the overtime income could buy. Or you might consider what an asset to your reputation at the office it would be if you stayed. Everyone would hear tomorrow how noble, how sacrificing and dedicated you are. If you’re pleasured-centered, you’ll probably can work and go to the concert, even if you’re wife would be happy for you to work late.
+Your wife should be proud of you. If you’re possession-centered, you might be thinking of the things the overtime income could buy. Or you might consider what an asset to your reputation at the office it would be if you stayed. Everyone would hear tomorrow how noble, how sacrificing and dedicated you are.
 
-You deserve a night out. If you’re friend-centered, your decision would be influenced by whether or not you had invited friends to attend the concert with you. Or whether your friends at work were going to stay late, too. If you’re enemy-centered, you may stay late because you know it will give you a big edge over that person in the office who thinks he’s the company’s greatest asset.
+If you’re pleasured-centered, you’ll probably can work and go to the concert, even if you’re wife would be happy for you to work late. You deserve a night out. If you’re friend-centered, your decision would be influenced by whether or not you had invited friends to attend the concert with you. Or whether your friends at work were going to stay late, too.
 
-While he’s off having fun, you’ll be working and slaving, doing his work and yours, sacrificing your personal pleasure for the good of the company he can so blithely ignore. If you’re church-centered, you might be influenced by plans other church members have to attend the concert. By whether or not any church members work at your office, or by the nature of the concert, Handel’s Messiah might rate higher priority than a rock concert. Your decision might also be affected by what you think a good church member would do and by whether you view the extra work as service or seeking after material wealth.
+If you’re enemy-centered, you may stay late because you know it will give you a big edge over that person in the office who thinks he’s the company’s greatest asset. While he’s off having fun, you’ll be working and slaving, doing his work and yours, sacrificing your personal pleasure for the good of the company he can so blithely ignore. If you’re church-centered, you might be influenced by plans other church members have to attend the concert. By whether or not any church members work at your office, or by the nature of the concert, Handel’s Messiah might rate higher priority than a rock concert.
 
-If you’re self-centered, you’ll be focused on what will do you the most good. Would it be better for you to go out for the evening? Or would it be better for you to make a few points with the boss? How the different options affect you will be your main concern.
+Your decision might also be affected by what you think a good church member would do and by whether you view the extra work as service or seeking after material wealth. If you’re self-centered, you’ll be focused on what will do you the most good. Would it be better for you to go out for the evening? Or would it be better for you to make a few points with the boss?
 
-As we consider various ways of looking at a single event, is it any wonder that? We have young lady slash old lady perception problems in our interactions with each other? Can you see how fundamentally our centers affect us? Write down to our motivations, our daily decisions, our actions, or, in too many cases, our reactions, our interpretations of events.
+How the different options affect you will be your main concern. As we consider various ways of looking at a single event, is it any wonder that? We have young lady slash old lady perception problems in our interactions with each other? Can you see how fundamentally our centers affect us?
 
-That’s why understanding your own center is so important. And if that center does not empower you as a proactive person, it becomes fundamental to your effectiveness to make the necessary paradigm shifts to create a center that will. As a principle centered person, you try to stand apart from the emotion of the situation and from other factors that would act on you, and evaluate the options. Looking at the balanced whole, the work needs, the family needs, other needs that may be involved in the possible implications of the various alternative decisions, you’ll try to come up with the best solution, taking all factors into consideration.
+Write down to our motivations, our daily decisions, our actions, or, in too many cases, our reactions, our interpretations of events. That’s why understanding your own center is so important. And if that center does not empower you as a proactive person, it becomes fundamental to your effectiveness to make the necessary paradigm shifts to create a center that will. As a principle centered person, you try to stand apart from the emotion of the situation and from other factors that would act on you, and evaluate the options.
 
-Whether you go to the concert or stay in work is really a small part of an effective decision. You might make the same choice with a number of other centers. But there are several important differences when you are coming from a principle centered paradigm.
+Looking at the balanced whole, the work needs, the family needs, other needs that may be involved in the possible implications of the various alternative decisions, you’ll try to come up with the best solution, taking all factors into consideration. Whether you go to the concert or stay in work is really a small part of an effective decision. You might make the same choice with a number of other centers. But there are several important differences when you are coming from a principle centered paradigm.
 
 First, you are not being acted upon by other people or circumstances. You are proactively choosing what you determine to be the best alternative. You make your decision consciously and knowledgeably.
 
@@ -1477,91 +1615,107 @@ Second, you know your decision is most effective because it is based on principl
 <a id="sec-033126"></a>
 ### ⏱️ [03:31:26 - 03:36:30]
 
-Staying at work to get the edge on someone at the office is an entirely different evening in your life from staying because you value your boss’s effectiveness and you genuinely want to contribute to the company’s welfare. The experiences you have as you carry out your decisions take on quality and meaning in the context of your life as a whole. Fourth, you can communicate to your wife and your boss within the strong networks you’ve created in your interdependent relationships. Because you are independent, you can be effectively interdependent.
+Staying at work to get the edge on someone at the office is an entirely different evening in your life from staying because you value your boss’s effectiveness and you genuinely want to contribute to the company’s welfare. The experiences you have as you carry out your decisions take on quality and meaning in the context of your life as a whole. Fourth, you can communicate to your wife and your boss within the strong networks you’ve created in your interdependent relationships.
 
-You might decide to delegate what is delegable and come in early the next morning to do the rest. And finally, you’ll feel comfortable about your decision. Whatever you choose to do, you can focus on it and enjoy it. As a principle centered person, you see things differently.
+Because you are independent, you can be effectively interdependent. You might decide to delegate what is delegable and come in early the next morning to do the rest. And finally, you’ll feel comfortable about your decision. Whatever you choose to do, you can focus on it and enjoy it.
 
-And because you see things differently, you think differently, you act differently. Because you have a high degree of security, guidance, wisdom, and power that flows from a solid, unchanging core, you have the foundation of a highly proactive and highly effective life. Writing and using a personal mission statement As we go deeply within ourselves, as we understand and realign our basic paradigms to bring them in harmony with correct principles, we create both an effective, empowering center and a clear lens through which we can see the world.
+As a principle centered person, you see things differently. And because you see things differently, you think differently, you act differently. Because you have a high degree of security, guidance, wisdom, and power that flows from a solid, unchanging core, you have the foundation of a highly proactive and highly effective life. Writing and using a personal mission statement.
 
-We can then focus that lens on how we, as unique individuals, relate to that world. Frankl says we detect rather than invent our missions in life. I like that choice of words. I think each of us has an internal monitor or sense, a conscience, that gives us an awareness of our own uniqueness and the singular contributions that we can make.
+As we go deeply within ourselves, as we understand and realign our basic paradigms to bring them in harmony with correct principles, we create both an effective, empowering center and a clear lens through which we can see the world. We can then focus that lens on how we, as unique individuals, relate to that world. Frankl says we detect rather than invent our missions in life. I like that choice of words.
 
-In Frankl’s words, everyone has his own specific vocation or mission in life. Therein he cannot be replaced, nor can his life be repeated. Thus, everyone’s task is as unique as is his specific opportunity to implement it. In seeking to give verbal expression to that uniqueness, we are again reminded of the fundamental importance of proactivity and of working within our circle of influence.
+I think each of us has an internal monitor or sense, a conscience, that gives us an awareness of our own uniqueness and the singular contributions that we can make. In Frankl’s words, everyone has his own specific vocation or mission in life. Therein he cannot be replaced, nor can his life be repeated. Thus, everyone’s task is as unique as is his specific opportunity to implement it.
 
-To seek some abstract meaning to our lives out in our circle of concern is to abdicate our proactive responsibility, to place our own first creation in the hands of circumstance and other people. Our meaning comes from within. Again, in the words of Frankl, ultimately, man should not ask what the meaning of his life is, but rather must recognize that it is he who is asked. In a word, each man is questioned by life, and he can only answer to life by answering for his own life, to life he can only respond by being responsible.
+In seeking to give verbal expression to that uniqueness, we are again reminded of the fundamental importance of proactivity and of working within our circle of influence. To seek some abstract meaning to our lives out in our circle of concern is to abdicate our proactive responsibility, to place our own first creation in the hands of circumstance and other people. Our meaning comes from within. Again, in the words of Frankl, ultimately, man should not ask what the meaning of his life is, but rather must recognize that it is he who is asked.
 
-Personal responsibility, or proactivity, is fundamental to the first creation. Returning to the computer metaphor, habit one says you are the programmer. Habit two, then, says, write the program. Will you accept the idea that you are responsible, that you are the programmer?
+In a word, each man is questioned by life, and he can only answer to life by answering for his own life, to life he can only respond by being responsible. Personal responsibility, or proactivity, is fundamental to the first creation. Returning to the computer metaphor, habit one says you are the programmer. Habit two, then, says, write the program.
 
-You won’t really invest in writing the program. As proactive people, we can begin to give expression to what we want to be and to do in our lives. We can write a personal mission statement, a personal constitution. A mission statement is not something you write overnight.
+Will you accept the idea that you are responsible, that you are the programmer? You won’t really invest in writing the program. As proactive people, we can begin to give expression to what we want to be and to do in our lives. We can write a personal mission statement, a personal constitution.
 
-It takes deep introspection, careful analysis, thoughtful expression, and often many rewrites to produce it in final form. It may take you several weeks or even months before you feel really comfortable with it, before you feel it is a complete and concise expression of your innermost values and directions. Even then, you will want to review it regularly and make minor changes as the years bring additional insights or changing circumstances. But fundamentally, your mission statement becomes your constitution, the solid expression of your vision and values.
+A mission statement is not something you write overnight. It takes deep introspection, careful analysis, thoughtful expression, and often many rewrites to produce it in final form. It may take you several weeks or even months before you feel really comfortable with it, before you feel it is a complete and concise expression of your innermost values and directions. Even then, you will want to review it regularly and make minor changes as the years bring additional insights or changing circumstances.
 
-It becomes the criterion by which you measure everything else in your life. I recently finished reviewing my own mission statement, which I do fairly regularly. Sitting on the edge of a beach, alone, at the end of a bicycle ride, I took out my organizer and hammered it out. It took several hours, but I felt a sense of clarity, a sense of organization and commitment, a sense of exhilaration and freedom.
+But fundamentally, your mission statement becomes your constitution, the solid expression of your vision and values. It becomes the criterion by which you measure everything else in your life. I recently finished reviewing my own mission statement, which. I do fairly regularly.
 
-I find the process is as important as the product. Using or reviewing a mission statement changes you because it forces you to think through your priorities deeply, carefully, and to align your behavior with your beliefs. As you do, other people begin to sense that you’re not being driven by everything that happens to you. You have a sense of mission about what you’re trying to do and you are excited about it.
+Sitting on the edge of a beach, alone, at the end of a bicycle ride, I took out my organizer and hammered it out. It took several hours, but. I felt a sense of clarity, a sense of organization and commitment, a sense of exhilaration and freedom. I find the process is as important as the product.
 
-Using Your Whole Brain Our self-awareness empowers us to examine our own thoughts. This is particularly helpful in creating a personal mission statement because the two unique human endowments that enable us to practice habit 2, imagination and conscience, are primarily functions of the right side of the brain. Understanding how to tap into that right brain capacity greatly increases our first creation ability. A great deal of research has been conducted for decades on what has come to be called
+Using or reviewing a mission statement changes you because it forces you to think through your priorities deeply, carefully, and to align your behavior with your beliefs. As you do, other people begin to sense that you’re not being driven by everything that happens to you. You have a sense of mission about what you’re trying to do and you are excited about it. Using.
+
+Your Whole Brain. Our self-awareness empowers us to examine our own thoughts. This is particularly helpful in creating a personal mission statement because the two unique human endowments that enable us to practice habit 2, imagination and conscience, are primarily functions of the right side of the brain. Understanding how to tap into that right brain capacity greatly increases our first creation ability.
+
+A great deal of research has been conducted for decades on what has come to be called
 
 
 <a id="sec-033630"></a>
 ### ⏱️ [03:36:30 - 03:41:31]
 
-brain dominance theory. The findings basically indicate that each hemisphere of the brain, left and right, tends to specialize in and preside over different functions, process different kinds of information, and deal with different kinds of problems. Essentially, the left hemisphere is the more logical slash verbal one and the right hemisphere the more intuitive, creative one. The left deals with words, the right with pictures, the left with parts and specifics, the right with holes and the relationship between the parts. The left deals with analysis, which means to break apart, the right with synthesis, which means to put together.
+brain dominance theory. The findings basically indicate that each hemisphere of the brain, left and right, tends to specialize in and preside over different functions, process different kinds of information, and deal with different kinds of problems. Essentially, the left hemisphere is the more logical slash verbal one and the right hemisphere the more intuitive, creative one. The left deals with words, the right with pictures, the left with parts and specifics, the right with holes and the relationship between the parts.
 
-The left deals with sequential thinking, the right with simultaneous and holistic thinking. The left is time bound, the right is time free. Although people use both sides of the brain, one side or the other generally tends to be dominant in each individual. Of course, the ideal would be to cultivate and develop the ability to have good crossover between both sides of the brain so that a person could first sense what the situation called for and then use the appropriate tool to deal with it.
+The left deals with analysis, which means to break apart, the right with synthesis, which means to put together. The left deals with sequential thinking, the right with simultaneous and holistic thinking. The left is time bound, the right is time free. Although people use both sides of the brain, one side or the other generally tends to be dominant in each individual.
 
-But people tend to stay in the comfort zone of their dominant hemisphere and process every situation according to either a right or left brain preference. In the words of Abraham Maslow, he that is good with a hammer tends to think everything is a nail. This is another factor that affects the young lady slash old lady perception difference. Right brain and left brain people tend to look at things in different ways.
+Of course, the ideal would be to cultivate and develop the ability to have good crossover between both sides of the brain so that a person could first sense what the situation called for and then use the appropriate tool to deal with it. But people tend to stay in the comfort zone of their dominant hemisphere and process every situation according to either a right or left brain preference. In the words of Abraham Maslow, he that is good with a hammer tends to think everything is a nail.
 
-We live in a primarily left brain dominant world, where words and measurement and logic are enthroned, and the more creative, intuitive, sensing, artistic aspect of our nature is often subordinated. Many of us find it more difficult to tap into our right brain capacity. Admittedly this description is oversimplified and new studies will undoubtedly throw more light on brain functioning. But the point here is that we are capable of performing many different kinds of thought processes and we barely tap our potential.
+This is another factor that affects the young lady slash old lady perception difference. Right brain and left brain people tend to look at things in different ways. We live in a primarily left brain dominant world, where words and measurement and logic are enthroned, and the more creative, intuitive, sensing, artistic aspect of our nature is often subordinated. Many of us find it more difficult to tap into our right brain capacity.
 
-As we become aware of its different capacities, we can consciously use our minds to meet specific needs in more effective ways. Two ways to tap the right brain. If we use the brain dominance theory as a model, it becomes evident that the quality of our first creation is significantly impacted by our ability to use our creative right brain. The more we are able to draw upon our right brain capacity, the more fully we will be able to visualize, to synthesize, to transcend time and present circumstances, to project a holistic picture of what we want to do and to be in life.
+Admittedly this description is oversimplified and new studies will undoubtedly throw more light on brain functioning. But the point here is that we are capable of performing many different kinds of thought processes and we barely tap our potential. As we become aware of its different capacities, we can consciously use our minds to meet specific needs in more effective ways. Two ways to tap the right brain.
 
-Expand Perspective Sometimes we are knocked out of our left brain environment and thought patterns and into the right brain by an unplanned experience. The death of a loved one, a severe illness, a financial setback, or extreme adversity can cause us to stand back, look at our lives, and ask ourselves some hard questions, what’s really important? Why am I doing what I’m doing? But if you’re proactive, you don’t have to wait for circumstances or other people to create perspective expanding experiences.
+If we use the brain dominance theory as a model, it becomes evident that the quality of our first creation is significantly impacted by our ability to use our creative right brain. The more we are able to draw upon our right brain capacity, the more fully we will be able to visualize, to synthesize, to transcend time and present circumstances, to project a holistic picture of what we want to do and to be in life. Expand Perspective Sometimes we are knocked out of our left brain environment and thought patterns and into the right brain by an unplanned experience.
 
-You can consciously create your own. There are a number of ways to do this. Through the powers of your imagination, you can visualize your own funeral, as we did at the beginning of this chapter. Create your own eulogy.
+The death of a loved one, a severe illness, a financial setback, or extreme adversity can cause us to stand back, look at our lives, and ask ourselves some hard questions, what’s really important? Why am. I doing what. I’m doing?
 
-Actually write it out. Be specific. You can visualize your 25th and then your 50th wedding anniversary. Have your spouse visualize this with you.
+But if you’re proactive, you don’t have to wait for circumstances or other people to create perspective expanding experiences. You can consciously create your own. There are a number of ways to do this. Through the powers of your imagination, you can visualize your own funeral, as we did at the beginning of this chapter.
 
-Try to capture the essence of the family relationship you want to have created through your day-by-day investment over a period of that many years. You can visualize your retirement from your present occupation. What contributions, what achievements will you want to have made in your field? What plans will you have after retirement?
+Create your own eulogy. Actually write it out. Be specific. You can visualize your 25th and then your 50th wedding anniversary.
 
-Will you enter a second career? Expand your mind. Visualize in rich detail. Involve as many emotions and feelings as possible.
+Have your spouse visualize this with you. Try to capture the essence of the family relationship you want to have created through your day-by-day investment over a period of that many years. You can visualize your retirement from your present occupation. What contributions, what achievements will you want to have made in your field?
 
-Involve as many of the senses as you can. I have done similar visualization exercises with some of my university classes. Assume you only have this one semester to live, I tell my students, and that during this semester you are to stay in school as a good student. Visualize how you would spend your semester.
+What plans will you have after retirement? Will you enter a second career? Expand your mind. Visualize in rich detail.
 
-Things are suddenly placed in a different perspective. Values quickly surface that before weren’t even recognized. I have also asked students to live with that expanded perspective for a week and keep a diary of their experiences. The results are very revealing.
+Involve as many emotions and feelings as possible. Involve as many of the senses as you can. I have done similar visualization exercises with some of my university classes. Assume you only have this one semester to live, I tell my students, and that during this semester you are to stay in school as a good student.
 
-They start writing to parents to tell them how much they love and appreciate them. They reconcile with a brother, a sister, a friend where the relationship has deteriorated. The dominant, central theme of their activities, the underlying principle, is love. The futility of bad mouthing, bad thinking, put downs, and accusation becomes very evident when they think in terms of having only a short time to live.
+Visualize how you would spend your semester. Things are suddenly placed in a different perspective. Values quickly surface that before weren’t even recognized. I have also asked students to live with that expanded perspective for a week and keep a diary of their experiences.
+
+The results are very revealing. They start writing to parents to tell them how much they love and appreciate them. They reconcile with a brother, a sister, a friend where the relationship has deteriorated. The dominant, central theme of their activities, the underlying principle, is love.
+
+The futility of bad mouthing, bad thinking, put downs, and accusation becomes very evident when they think in terms of having only a short time to live.
 
 
 <a id="sec-034131"></a>
 ### ⏱️ [03:41:31 - 03:46:34]
 
-Principles and values become more evident to everybody. There are a number of techniques using your imagination that can put you in touch with your values. But the net effect of every one I have ever used is the same. When people seriously undertake to identify what really matters most to them in their lives, what they really want to be and to do, they become very reverent.
+Principles and values become more evident to everybody. There are a number of techniques using your imagination that can put you in touch with your values. But the net effect of every one. I have ever used is the same.
 
-They start to think in larger terms than today and tomorrow. Visualization and affirmation. Personal leadership is not a singular experience. It doesn’t begin and end with the writing of a personal mission statement.
+When people seriously undertake to identify what really matters most to them in their lives, what they really want to be and to do, they become very reverent. They start to think in larger terms than today and tomorrow. Visualization and affirmation. Personal leadership is not a singular experience.
 
-It is, rather, the ongoing process of keeping your vision and values before you and aligning your life to be congruent with those most important things. And in that effort, your powerful right brain capacity can be a great help to you on a daily basis as you work to integrate your personal mission statement into your life. It’s another application of begin with the end in mind. Let’s go back to an example we mentioned before.
+It doesn’t begin and end with the writing of a personal mission statement. It is, rather, the ongoing process of keeping your vision and values before you and aligning your life to be congruent with those most important things. And in that effort, your powerful right brain capacity can be a great help to you on a daily basis as you work to integrate your personal mission statement into your life. It’s another application of begin with the end in mind.
 
-Suppose I am a parent who really deeply loves my children. Suppose I identify that as one of my fundamental values in my personal mission statement. But suppose, on a daily basis, I have trouble overreacting. I can use my right brain power of visualization to write an affirmation that will help me become more congruent with my deeper values in my daily life.
+Let’s go back to an example we mentioned before. Suppose. I am a parent who really deeply loves my children. Suppose.
 
-A good affirmation has five basic ingredients, it’s personal, it’s positive, it’s present tense, it’s visual, and it’s emotional. So I might write something like this, it is deeply satisfying, emotional, that high, personal, respond, present tense, with wisdom, love, firmness, and self-control, positive, when my children misbehave. Then I can visualize it. I can spend a few minutes each day and totally relax my mind and body.
+I identify that as one of my fundamental values in my personal mission statement. But suppose, on a daily basis, I have trouble overreacting. I can use my right brain power of visualization to write an affirmation that will help me become more congruent with my deeper values in my daily life. A good affirmation has five basic ingredients, it’s personal, it’s positive, it’s present tense, it’s visual, and it’s emotional.
 
-I can think about situations in which my children might misbehave. I can visualize them in rich detail. I can feel the texture of the chair I might be sitting on, the floor under my feet, the sweater I’m wearing. I can see the dress my daughter has on, the expression on her face.
+So. I might write something like this, it is deeply satisfying, emotional, that high, personal, respond, present tense, with wisdom, love, firmness, and self-control, positive, when my children misbehave. Then. I can visualize it.
 
-The more clearly and vividly I can imagine the detail, the more deeply I will experience it, the less I will see it as a spectator. Then I can see her do something very specific which normally makes my heart pound and my temper start to flare. But instead of seeing my normal response, I can see myself handle the situation with all the love, the power, the self-control I have captured in my affirmation. I can write the program, write the script, in harmony with my values, with my personal mission statement.
+I can spend a few minutes each day and totally relax my mind and body. I can think about situations in which my children might misbehave. I can visualize them in rich detail. I can feel the texture of the chair.
 
-And if I do this, day after day my behavior will change. Instead of living out of the scripts given to me by my own parents or by society or by genetics or my environment, I will be living out of the script I have written from my own self. Selected Valley is System I have helped and encouraged my son, Sean, to use this affirmation process extensively throughout his football career. We started when he played quarterback in high school, and eventually, I taught him how to do it on his own.
+I might be sitting on, the floor under my feet, the sweater. I’m wearing. I can see the dress my daughter has on, the expression on her face. The more clearly and vividly.
 
-We would try to get him in a very relaxed state of mind through deep breathing and a progressive muscle relaxation technique so that he became very quiet inside. Then I would help him visualize himself right in the heat of the toughest situations imaginable. He would imagine a big blitzk… coming at him fast. He had to read the blitz and respond.
+I can imagine the detail, the more deeply. I will experience it, the less. I will see it as a spectator. Then.
+
+I can see her do something very specific which normally makes my heart pound and my temper start to flare. But instead of seeing my normal response, I can see myself handle the situation with all the love, the power, the self-control. I have captured in my affirmation. I can write the program, write the script, in harmony with my values, with my personal mission statement.
+
+And if. I do this, day after day my behavior will change. Instead of living out of the scripts given to me by my own parents or by society or by genetics or my environment, I will be living out of the script. I have written from my own self.
+
+Selected Valley is System. I have helped and encouraged my son, Sean, to use this affirmation process extensively throughout his football career. We started when he played quarterback in high school, and eventually, I taught him how to do it on his own. We would try to get him in a very relaxed state of mind through deep breathing and a progressive muscle relaxation technique so that he became very quiet inside.
+
+Then. I would help him visualize himself right in the heat of the toughest situations imaginable. He would imagine a big blitzk… coming at him fast. He had to read the blitz and respond.
 
 He would imagine giving audibles at the line after reading defenses. He would imagine quick reads with his first receiver, his second receiver, his third receiver. He would imagine options that he normally wouldn’t do. At one point in his football career, he told me he was constantly getting uptight.
 
-As we talked, I realized that he was visualizing uptightness. So we worked on visualizing relaxation in the middle of the big pressure circumstance. We discovered that the nature of the visualization is very important. If you visualize the wrong thing, you’ll produce the wrong thing. Dr. Charles Garfield has done extensive research on peak performers, both in athletics and in business.
+As we talked, I realized that he was visualizing uptightness. So we worked on visualizing relaxation in the middle of the big pressure circumstance. We discovered that the nature of the visualization is very important. If you visualize the wrong thing, you’ll produce the wrong thing.
 
-He became fascinated with peak performance in his work with the NASA program, watching the astronauts rehearse everything on Earth, again and again in a simulated environment before they went to space. Although he had a doctorate in mathematics, he decided to go back and get another PhD in the field of psychology and study the characteristics of peak performers. One of the main things his research showed was that almost all of the world-class athletes and other peak performers are visualizers. They see it.
+Dr. Charles Garfield has done extensive research on peak performers, both in athletics and in business. He became fascinated with peak performance in his work with the NASA program, watching the astronauts rehearse everything on Earth, again and again in a simulated environment before they went to space. Although he had a doctorate in mathematics, he decided to go back and get another PhD in the field of psychology and study the characteristics of peak performers.
 
-They feel it. They experience it before they actually do it. They begin with the end in mind. You can do it in every area of your life.
+One of the main things his research showed was that almost all of the world-class athletes and other peak performers are visualizers. They see it. They feel it. They experience it before they actually do it.
 
-Before a performance, a sales presentation, a difficult confrontation, or the daily challenge of meeting a goal, see it clearly, vividly,
+They begin with the end in mind. You can do it in every area of your life. Before a performance, a sales presentation, a difficult confrontation, or the daily challenge of meeting a goal, see it clearly, vividly,
 
 
 <a id="sec-034634"></a>
@@ -1575,7 +1729,7 @@ My review of the success literature brought me in contact with hundreds of books
 
 They are extremely powerful in re-scripting and re-programming, into writing deeply committed to purposes and principles into one’s heart and mind. I believe that central to all enduring religions in society are the same principles and practices clothed in different language, meditation, prayer, covenants, or dinences, scripture study, empathy, compassion, and many different forms of the use of both conscience and imagination. And if these techniques become part of the personality ethic and are severed from a base of character and principles, they can be misused and abused in serving other centers, primarily the center of self.
 
-Affirmation and visualization are forms of programming, and we must be certain that we do not submit ourselves to any programming that is not in harmony with our basic center or that comes from sources centered on money-making, self-interest, or anything other than correct principles. The imagination can be used to achieve the fleeting success that comes when a person is focused on material gain or on what’s in it for me. But I believe the higher use of imagination is in harmony with the use of conscience to transcend self and create a life of contribution based on unique purpose and on the principles that govern interdependent reality.
+Affirmation and visualization are forms of programming, and we must be certain that we do not submit ourselves to any programming that is not in harmony with our basic center or that comes from sources centered on money-making, self-interest, or anything other than correct principles. The imagination can be used to achieve the fleeting success that comes when a person is focused on material gain or on what’s in it for me. But. I believe the higher use of imagination is in harmony with the use of conscience to transcend self and create a life of contribution based on unique purpose and on the principles that govern interdependent reality.
 
 Identifying Roles and Goals Of course, the logical slash verbal left brain becomes important also as you attempt to capture your right brain images, feelings, and pictures in the words of a written mission statement. Just as breathing exercises help integrate body and mind, writing is a kind of psychoneural muscular activity which helps bridge and integrate the conscious and subconscious minds. Writing distills, crystallizes, and clarifies thought and helps break the whole into parts. We each have a number of different roles in our lives, different areas or capacities in which we have responsibility.
 
@@ -1589,7 +1743,7 @@ What are you about in those roles? What’s important to you? Think of community
 
 My mission is to live with integrity and to make a difference in the lives of others. To fulfill this mission. I have charity, I seek out and love the one, each one, regardless of his situation. I sacrifice, I devote my time, talents, and resources to my mission.
 
-I inspire, I teach by example that we are all children of a loving Heavenly Father and that every Goliath can be overcome. I am impactful, what I do makes a difference in the lives of others. These roles take priority in achieving my mission.
+I inspire, I teach by example that we are all children of a loving Heavenly Father and that every Goliath can be overcome. I am impactful, what. I do makes a difference in the lives of others. These roles take priority in achieving my mission.
 
 
 <a id="sec-035134"></a>
@@ -1611,15 +1765,15 @@ It gives meaning and purpose to all you do. And it can finally translate itself 
 
 Just identifying the various areas of your life and the two or three important results you feel you should accomplish in each area to move ahead gives you an overall perspective of your life and a sense of direction. As we move into Habit 3, we’ll go into greater depth in the area of short-term goals. The important application at this point is to identify roles and long-term goals as they relate to your personal mission statement. These roles and goals will provide the foundation for effective goal setting and achieving when we get to the Habit 3 day-to-day management of life and time.
 
-Family mission statements Because Habit 2 is based on principle, it has broad application. In addition to individuals, families, service groups, and organizations of all kinds become significantly more effective as they begin with the end in mind. Many families are managed on the basis of crises, moods, quick fixes, and instant gratification, not on sound principles. Symptoms surface whenever stress and pressure mount, people become cynical, critical, or silent or they start yelling and overreacting.
+Family mission statements. Because Habit 2 is based on principle, it has broad application. In addition to individuals, families, service groups, and organizations of all kinds become significantly more effective as they begin with the end in mind. Many families are managed on the basis of crises, moods, quick fixes, and instant gratification, not on sound principles.
 
-Children who observe these kinds of behavior grow up thinking the only way to solve problems is flight or fight. The core of any family is what is changeless, what is always going to be their shared vision and values. By writing a family mission statement, you give expression to its true foundation. This mission statement becomes its constitution, the standard, the criterion for evaluation and decision making.
+Symptoms surface whenever stress and pressure mount, people become cynical, critical, or silent or they start yelling and overreacting. Children who observe these kinds of behavior grow up thinking the only way to solve problems is flight or fight. The core of any family is what is changeless, what is always going to be their shared vision and values. By writing a family mission statement, you give expression to its true foundation.
 
-It gives continuity and unity to the family as well as direction. When individual values are harmonized with those of the family, members work together for common purposes that are deeply felt. Again, the process is as important as the product. The very process of writing and refining a mission statement becomes a key way to improve the family.
+This mission statement becomes its constitution, the standard, the criterion for evaluation and decision making. It gives continuity and unity to the family as well as direction. When individual values are harmonized with those of the family, members work together for common purposes that are deeply felt. Again, the process is as important as the product.
 
-Working together to create a mission statement builds the PC capacity to live it. By getting input from every family member, drafting a statement, getting feedback, revising it, and using wording from different family members, you get the family talking, communicating, and things that really matter deeply. The best mission statements are the result of family members coming together in a spirit of mutual respect, expressing their different views, and working together to create something greater than any one individual could do alone. Periodic review to expand perspective, shift emphasis or direction, amend or give new meaning to time-worn phrases can keep the family united in common values and purposes.
+The very process of writing and refining a mission statement becomes a key way to improve the family. Working together to create a mission statement builds the PC capacity to live it. By getting input from every family member, drafting a statement, getting feedback, revising it, and using wording from different family members, you get the family talking, communicating, and things that really matter deeply. The best mission statements are the result of family members coming together in a spirit of mutual respect, expressing their different views, and working together to create something greater than any one individual could do alone.
 
-The mission statement becomes the framework for thinking, for governing the family. When
+Periodic review to expand perspective, shift emphasis or direction, amend or give new meaning to time-worn phrases can keep the family united in common values and purposes. The mission statement becomes the framework for thinking, for governing the family. When
 
 
 <a id="sec-035634"></a>
@@ -1631,25 +1785,29 @@ When we plan our family goals and activities, we say, in light of these principl
 
 Organizational Mission Statements Mission statements are also vital to successful organizations. One of the most important thrusts of my work with organizations is to assist them in developing effective mission statements. And to be effective, that statement has to come from within the bowels of the organization. Everyone should participate in a meaningful way, not just the top strategy planners, but everyone.
 
-Once again, the involvement process is as important as the written product and is the key to its use. I am always intrigued whenever I go to IBM and watch the training process there. Time and time again, I see the leadership of the organization come into a group and say that IBM stands for three things, the dignity of the individual, excellence, and service. These things represent the belief system of IBM.
+Once again, the involvement process is as important as the written product and is the key to its use. I am always intrigued whenever. I go to IBM and watch the training process there. Time and time again, I see the leadership of the organization come into a group and say that IBM stands for three things, the dignity of the individual, excellence, and service.
 
-Everything else will change, but these three things will not change. Almost like osmosis, this belief system has spread throughout the entire organization, providing a tremendous base of shared values and personal security for everyone who works there. Once I was training a group of people for IBM in New York. It was a small group, about 20 people, and one of them became ill.
+These things represent the belief system of IBM. Everything else will change, but these three things will not change. Almost like osmosis, this belief system has spread throughout the entire organization, providing a tremendous base of shared values and personal security for everyone who works there. Once.
 
-He called his wife in California, who expressed concern because his illness required special treatment. The IBM people responsible for the training session arranged to have him taken to an excellent hospital with medical specialists in the disease. But they could sense that his wife was uncertain and really wanted him home where their personal physician could handle the problem. So they decided to get him home.
+I was training a group of people for IBM in New York. It was a small group, about 20 people, and one of them became ill. He called his wife in California, who expressed concern because his illness required special treatment. The IBM people responsible for the training session arranged to have him taken to an excellent hospital with medical specialists in the disease.
 
-Concerned about the time involved in driving him to the airport and waiting for a commercial plane, they brought in a helicopter, flew him to the airport, and hired a special plane just to take this man to California. I don’t know what costs that involved, my guess would be many thousands of dollars. But IBM believes in the dignity of the individual. That’s what the company stands for.
+But they could sense that his wife was uncertain and really wanted him home where their personal physician could handle the problem. So they decided to get him home. Concerned about the time involved in driving him to the airport and waiting for a commercial plane, they brought in a helicopter, flew him to the airport, and hired a special plane just to take this man to California. I don’t know what costs that involved, my guess would be many thousands of dollars.
 
-To those present, that experience represented its belief system and was no surprise. I was impressed. At another time, I was scheduled to train 175 shopping center managers at a particular hotel. I was amazed at the level of service there.
+But IBM believes in the dignity of the individual. That’s what the company stands for. To those present, that experience represented its belief system and was no surprise. I was impressed.
 
-It wasn’t a cosmetic thing. It was evident at all levels, spontaneously, without supervision. I arrived quite late, checked in, and asked if room service were available. The man at the desk said, no, Mr. Covey, but if you’re interested, I could go back and get a sandwich or a sayad or whatever you’d like that we have in the kitchen.
+At another time, I was scheduled to train 175 shopping center managers at a particular hotel. I was amazed at the level of service there. It wasn’t a cosmetic thing. It was evident at all levels, spontaneously, without supervision.
 
-His attitude was one of total concern about my comfort and welfare. Would you like to see your convention room? He continued. Do you have everything you need?
+I arrived quite late, checked in, and asked if room service were available. The man at the desk said, no, Mr. Covey, but if you’re interested, I could go back and get a sandwich or a sayad or whatever you’d like that we have in the kitchen. His attitude was one of total concern about my comfort and welfare.
 
-What can I do for you? I’m here to serve you. There was no supervisor there checking up. This man was sincere.
+Would you like to see your convention room? He continued. Do you have everything you need? What can.
 
-The next day I was in the middle of a presentation when I discovered that I didn’t have all the colored markers I needed. So I went out into the hall during the brief break and found a bellboy running to another convention. I’ve got a problem, I said. I’m here training a group of managers and I only have a short break.
+I do for you? I’m here to serve you. There was no supervisor there checking up. This man was sincere.
 
-I need some more colored pens. He whipped around and almost came to attention.
+The next day. I was in the middle of a presentation when. I discovered that. I didn’t have all the colored markers.
+
+I needed. So. I went out into the hall during the brief break and found a bellboy running to another convention. I’ve got a problem, I said.
+
+I’m here training a group of managers and. I only have a short break. I need some more colored pens. He whipped around and almost came to attention.
 
 He glanced at my name tag and said, “Mr.” Covey, I will solve your problem. He didn’t say, I don’t know where to go or well, go and check at the front desk. He just took care of it. And he made me feel like it was his privilege to do so.
 
@@ -1663,37 +1821,41 @@ How service oriented. I next observed one of the employees high up on a ladder c
 
 After he climbed down that ladder, went outside, helped the woman into the lobby and saw that she was properly taken care of. Then he went back and finished cleaning the windows. I wanted to find out how this organization had created a culture where people bought so deeply into the value of customer service. I interviewed housekeepers, waitresses, bell boys in that hotel and found that this attitude had impregnated the minds, hearts, and attitudes of every employee there.
 
-I went through the back door into the kitchen, where I saw the central value, uncompromising personalized service. I finally went to the manager and said, my business is helping organizations develop a powerful team character, a team culture. I am amazed at what you have here. Do you want to know the real key?
+I went through the back door into the kitchen, where. I saw the central value, uncompromising personalized service. I finally went to the manager and said, my business is helping organizations develop a powerful team character, a team culture. I am amazed at what you have here.
 
-He inquired. He pulled out the mission statement for the hotel chain. After reading it, I acknowledged, that’s an impressive statement. But I know many companies that have impressive mission statements.
+Do you want to know the real key? He inquired. He pulled out the mission statement for the hotel chain. After reading it, I acknowledged, that’s an impressive statement.
 
-Do you want to see the one for this hotel? He asked. Do you mean you develop one just for this hotel? Yes.
+But. I know many companies that have impressive mission statements. Do you want to see the one for this hotel? He asked.
 
-Different from the one for the hotel chain? Yes. It’s in harmony with that statement, but this one pertains to our situation, our environment, our time. He handed me another paper.
+Do you mean you develop one just for this hotel? Yes. Different from the one for the hotel chain? Yes.
 
-Who developed this mission statement? I asked. Everybody. He replied.
+It’s in harmony with that statement, but this one pertains to our situation, our environment, our time. He handed me another paper. Who developed this mission statement? I asked.
 
-Everybody? Really? Everybody? Yes.
+Everybody. He replied. Everybody? Really?
 
-Housekeepers? Yes. Waitresses? Yes.
+Everybody? Yes. Housekeepers? Yes.
 
-Desk clerks? Yes. Do you want to see the mission statement written by the people who greeted you last night? He pulled out a mission statement that they, themselves, had written that was interwoven with all the other mission statements.
+Waitresses? Yes. Desk clerks? Yes.
 
-Everyone, at every level, was involved. The mission statement for that hotel was the hub of a great wheel. It spawned the thoughtful, more specialized mission statements of particular groups of employees. It was used as the criterion for every decision that was made.
+Do you want to see the mission statement written by the people who greeted you last night? He pulled out a mission statement that they, themselves, had written that was interwoven with all the other mission statements. Everyone, at every level, was involved. The mission statement for that hotel was the hub of a great wheel.
 
-It clarified what those people stood for, how they related to the customer, how they related to each other. It affected the style of the managers and the leaders. It affected the compensation system. It affected the kind of people they recruited and how they trained and developed them.
+It spawned the thoughtful, more specialized mission statements of particular groups of employees. It was used as the criterion for every decision that was made. It clarified what those people stood for, how they related to the customer, how they related to each other. It affected the style of the managers and the leaders.
 
-Every aspect of that organization, essentially, was a function of that hub, that mission statement. I later visited another hotel in the same chain, and the first thing I did when I checked in was to ask to see their mission statement, which they promptly gave me. At this hotel, I came to understand the motto on compromising personalized service a little more. For a three-day period, I watched every conceivable situation where service was called for.
+It affected the compensation system. It affected the kind of people they recruited and how they trained and developed them. Every aspect of that organization, essentially, was a function of that hub, that mission statement. I later visited another hotel in the same chain, and the first thing.
 
-I always found that service was delivered in a very impressive, excellent way. But it was always also very personalized. For instance, in the swimming area I asked the attendant where the drinking fountain was. He walked me to it.
+I did when. I checked in was to ask to see their mission statement, which they promptly gave me. At this hotel, I came to understand the motto on compromising personalized service a little more. For a three-day period, I watched every conceivable situation where service was called for.
 
-But the thing that impressed me the very most was to see an employee, on his own, admit a mistake to his boss. We ordered room service, and were told when it would be delivered to the room. On the way to a room, the room service persons spilled the hot chocolate, and it took a few extra minutes to go back and change the linen on the tray and replace the drink. So the room service was about 15 minutes late, which was really not that important to us.
+I always found that service was delivered in a very impressive, excellent way. But it was always also very personalized. For instance, in the swimming area. I asked the attendant where the drinking fountain was.
 
-Nevertheless, the next morning the room service manager phoned us to apologize and invited us to have either the buffet breakfast or a room service breakfast, compliments of the hotel, to in some way compensate for the inconvenience. What does it say about the culture of an organization when an employee admits his own mistake, unknown to anyone else, to the manager so that customer or guest is better taken care of? As I told the manager of the first hotel I visited, I know a lot of companies with impressive mission statements.
+He walked me to it. But the thing that impressed me the very most was to see an employee, on his own, admit a mistake to his boss. We ordered room service, and were told when it would be delivered to the room. On the way to a room, the room service persons spilled the hot chocolate, and it took a few extra minutes to go back and change the linen on the tray and replace the drink.
 
-But there is a real difference, all the difference in the world, in the effectiveness of a mission statement created by everyone involved in the organization and one written by a few top executives behind a mahogany wall. One of the fundamental problems in organizations, including families, is that people are not committed to the determinations of other people for their lives. They simply don’t buy into them. Many times as I work with organizations, I find people whose goals are totally different from the goals of the enterprise.
+So the room service was about 15 minutes late, which was really not that important to us. Nevertheless, the next morning the room service manager phoned us to apologize and invited us to have either the buffet breakfast or a room service breakfast, compliments of the hotel, to in some way compensate for the inconvenience. What does it say about the culture of an organization when an employee admits his own mistake, unknown to anyone else, to the manager so that customer or guest is better taken care of?
 
-I commonly find reward systems completely out of alignment with stated value systems. When I begin work with companies that have already developed some kind of mission statement,
+As. I told the manager of the first hotel. I visited, I know a lot of companies with impressive mission statements. But there is a real difference, all the difference in the world, in the effectiveness of a mission statement created by everyone involved in the organization and one written by a few top executives behind a mahogany wall.
+
+One of the fundamental problems in organizations, including families, is that people are not committed to the determinations of other people for their lives. They simply don’t buy into them. Many times as. I work with organizations, I find people whose goals are totally different from the goals of the enterprise.
+
+I commonly find reward systems completely out of alignment with stated value systems. When. I begin work with companies that have already developed some kind of mission statement,
 
 
 <a id="sec-040636"></a>
@@ -1723,11 +1885,11 @@ Will you take just a moment and write down a short answer to the following two q
 
 We’ll come back to these answers later. But first, let’s put habit 3 in perspective. Habit 3 is the personal fruit, the practical fulfillment of habits 1 and 2. Habit 1 says, you’re the creator.
 
-You are in charge. It’s based on the four unique human endowments of imagination, conscience, independent will, and, particularly, self-awareness. It empowers you to say, that’s an unhealthy program I’ve been given from my childhood, from my social mirror. I don’t like that ineffective script.
+You are in charge. It’s based on the four unique human endowments of imagination, conscience, independent will, and, particularly, self-awareness. It empowers you to say, that’s an unhealthy program. I’ve been given from my childhood, from my social mirror.
 
-I can change. Habit 2 is the first or mental creation. It’s based on imagination, the ability to envision, to see the potential, to create with our minds what we cannot at present see with our eyes, and conscience, the ability to detect our own uniqueness and the personal, moral, and ethical guidelines within which we can most happily fulfill it. It’s the deep contact with our basic paradigms and values and the vision of what we can become.
+I don’t like that ineffective script. I can change. Habit 2 is the first or mental creation. It’s based on imagination, the ability to envision, to see the potential, to create with our minds what we cannot at present see with our eyes, and conscience, the ability to detect our own uniqueness and the personal, moral, and ethical guidelines within which we can most happily fulfill it.
 
-Habit 3, then, is the second creation, the physical creation. It’s the fulfillment, the actualization, the natural emergence of habits 1 and 2. It’s the exercise of independent will toward becoming principle centered.
+It’s the deep contact with our basic paradigms and values and the vision of what we can become. Habit 3, then, is the second creation, the physical creation. It’s the fulfillment, the actualization, the natural emergence of habits 1 and 2. It’s the exercise of independent will toward becoming principle centered.
 
 
 <a id="sec-041137"></a>
@@ -1795,17 +1957,19 @@ If we don’t practice habit 2, if we don’t have a clear idea of what is impor
 <a id="sec-042139"></a>
 ### ⏱️ [04:21:39 - 04:26:42]
 
-We usually call the activities in quadrani crises or problems. We all have some quadrani activities in our lives. But quadrani consumes many people. They are crisis managers, problem minded people, deadline driven producers. As long as you focus on quadrani, it keeps getting bigger and bigger until it dominates you.
+We usually call the activities in quadrani crises or problems. We all have some quadrani activities in our lives. But quadrani consumes many people. They are crisis managers, problem minded people, deadline driven producers.
 
-It’s like the pounding surf. A huge problem comes and knocks you down and you’re wiped out. You struggle back up only to face another one that knocks you down and slams you to the ground. Some people are literally beaten up by problems all day every day.
+As long as you focus on quadrani, it keeps getting bigger and bigger until it dominates you. It’s like the pounding surf. A huge problem comes and knocks you down and you’re wiped out. You struggle back up only to face another one that knocks you down and slams you to the ground.
 
-The only relief they have is in escaping to the not important, not urgent activities of quadrant 4. So when you look at their total matrix, 90% of their time is in quadrani and most of the remaining 10% is in quadrant 4, with only negligible attention paid to quadrants 2 and 3. That’s how people who manage their lives by crisis live. There are other people who spend a great deal of time in urgent, but not important quadrant 3, thinking they’re in quadrant I they spend most of their time reacting to things that are urgent, assuming they are also important.
+Some people are literally beaten up by problems all day every day. The only relief they have is in escaping to the not important, not urgent activities of quadrant 4. So when you look at their total matrix, 90% of their time is in quadrani and most of the remaining 10% is in quadrant 4, with only negligible attention paid to quadrants 2 and 3. That’s how people who manage their lives by crisis live.
 
-But the reality is that the urgency of these matters is often based on the priorities and expectations of others. People who spend time almost exclusively in quadrants 3 and 4 basically lead irresponsible lives. Effective people stay out of quadrants 3 and 4 because, urgent or not, they aren’t important. They also shrink quadrani down to size by spending more time in quadrant 2.
+There are other people who spend a great deal of time in urgent, but not important quadrant 3, thinking they’re in quadrant. I they spend most of their time reacting to things that are urgent, assuming they are also important. But the reality is that the urgency of these matters is often based on the priorities and expectations of others. People who spend time almost exclusively in quadrants 3 and 4 basically lead irresponsible lives.
 
-Quadrant 2 is the heart of effective personal management. It deals with things that are not urgent, but are important. It deals with things like building relationships, writing a personal mission statement, long range planning, exercising, preventive maintenance, preparation, all those things we know we need to do, but somehow seldom get around to doing, because they aren’t urgent. To paraphrase Peter Drucker, effective people are not problem minded, they’re opportunity minded.
+Effective people stay out of quadrants 3 and 4 because, urgent or not, they aren’t important. They also shrink quadrani down to size by spending more time in quadrant 2. Quadrant 2 is the heart of effective personal management. It deals with things that are not urgent, but are important.
 
-They feed opportunities and starve problems. They think preventively. They have genuine quadrant I crises and emergencies that require their immediate attention, but the number is comparatively small. They keep P and PC in balance by focusing on the important, but not urgent, high leverage capacity building activities of quadrant 2. With the time management matrix in mind, take a moment now and consider how you answered the questions at the beginning of this chapter.
+It deals with things like building relationships, writing a personal mission statement, long range planning, exercising, preventive maintenance, preparation, all those things we know we need to do, but somehow seldom get around to doing, because they aren’t urgent. To paraphrase Peter Drucker, effective people are not problem minded, they’re opportunity minded. They feed opportunities and starve problems. They think preventively.
+
+They have genuine quadrant. I crises and emergencies that require their immediate attention, but the number is comparatively small. They keep P and PC in balance by focusing on the important, but not urgent, high leverage capacity building activities of quadrant 2. With the time management matrix in mind, take a moment now and consider how you answered the questions at the beginning of this chapter.
 
 What quadrant do they fit in? Are they important? Are they urgent? My guess is that they probably fit into quadrant 2.
 
@@ -1815,13 +1979,13 @@ Our effectiveness takes quantum leaps when we do them. I asked a similar questio
 
 We did an analysis of the time they were spending on that activity. It was less than 5%. They had good reasons, problems, one right after another. They had reports to make out, meetings to go to, correspondence to answer, phone calls to make, constant interruptions.
 
-Quadrant I had consumed them. They were spending very little time with the store managers, and the time they did spend was filled with negative energy. The only reason they visited the store managers at all was to enforce the contract, to collect the money or discuss advertising or other practices that were out of harmony with center guidelines, or some similar thing. The store owners were struggling for survival, let alone prosperity.
+Quadrant. I had consumed them. They were spending very little time with the store managers, and the time they did spend was filled with negative energy. The only reason they visited the store managers at all was to enforce the contract, to collect the money or discuss advertising or other practices that were out of harmony with center guidelines, or some similar thing.
 
-They had employment problems, cost problems, inventory problems, and a host of other problems. Most of them had no training and management at all. Some were fairly good merchandisers, but they needed help. The tenants didn’t even want to see the shopping center owners, they were just one more problem to contend with. So the owners decided to be proactive.
+The store owners were struggling for survival, let alone prosperity. They had employment problems, cost problems, inventory problems, and a host of other problems. Most of them had no training and management at all. Some were fairly good merchandisers, but they needed help.
 
-They determined their purpose, their values, their priorities. In harmony with those priorities, they decided to spend about one third of their time in helping relationships with the tenants. In working with that organization for about a year and a half, I saw them climb to around 20%, which represented more than a fourfold increase. In addition, they changed their role.
+The tenants didn’t even want to see the shopping center owners, they were just one more problem to contend with. So the owners decided to be proactive. They determined their purpose, their values, their priorities. In harmony with those priorities, they decided to spend about one third of their time in helping relationships with the tenants.
 
-They became listeners, trainers, consultants to the tenants.
+In working with that organization for about a year and a half, I saw them climb to around 20%, which represented more than a fourfold increase. In addition, they changed their role. They became listeners, trainers, consultants to the tenants.
 
 
 <a id="sec-042642"></a>
@@ -1831,27 +1995,33 @@ Their interchanges were filled with positive energy. The effect was dramatic, pr
 
 They were problem solvers, helpers. Whether you are a student at the university, a worker in an assembly line, a homemaker, fashion designer, or president of a company, I believe that if you were to ask what lies in quadrant 2 and cultivate the proactivity to go after it, you would find the same results. Your effectiveness would increase dramatically. Your crises and problems would shrink to manageable proportions because you would be thinking ahead, working on the routes, doing the preventive things that keep situations from developing into crises in the first place.
 
-In time management jargon, this is called the Pareto Principle, 80% of the results flow out of 20% of the activities. What IT takes to say no. The only place to get time for quadrant 2 in the beginning is from quadrants. 3 and 4. You can ignore the urgent and important activities of quadrant I, although it will shrink in sizes you spend more time with prevention and preparation in quadrant II. But the initial time for quadrant II has to come out of 3 and 4.
+In time management jargon, this is called the Pareto Principle, 80% of the results flow out of 20% of the activities. What IT takes to say no. The only place to get time for quadrant 2 in the beginning is from quadrants. 3 and 4. You can ignore the urgent and important activities of quadrant.
 
-You have to be proactive to work on quadrant II because quadrants I and III work on you. To say yes to important quadrant II priorities, you have to learn to say no to other activities, sometimes apparently urgent things. Some time ago, my wife was invited to serve as chairman of a committee in a community endeavor. She had a number of truly important things she was trying to work on, and she really didn’t want to do it.
+I, although it will shrink in sizes you spend more time with prevention and preparation in quadrant II. But the initial time for quadrant II has to come out of 3 and 4. You have to be proactive to work on quadrant II because quadrants. I and III work on you.
 
-But she felt pressured into it and finally agreed. Then she called one of her dear friends to ask if she would serve on her committee.
+To say yes to important quadrant II priorities, you have to learn to say no to other activities, sometimes apparently urgent things. Some time ago, my wife was invited to serve as chairman of a committee in a community endeavor. She had a number of truly important things she was trying to work on, and she really didn’t want to do it. But she felt pressured into it and finally agreed.
 
-Her friend listened for a long time and then said, “Sandra, that sounds like a wonderful project, a really worthy undertaking.” I appreciate so much you’re inviting me to be a part of it. I feel honored by it. For a number of reasons, I won’t be participating myself, but I want you to know how much I appreciate your invitation. Sandra was ready for anything but a pleasant no. She turned to me and sighed, I wish I’d said that.
+Then she called one of her dear friends to ask if she would serve on her committee. Her friend listened for a long time and then said, “Sandra, that sounds like a wonderful project, a really worthy undertaking.”. I appreciate so much you’re inviting me to be a part of it. I feel honored by it.
 
-I don’t mean to imply that you shouldn’t be involved in significant service projects. Those things are important. But you have to decide what your highest priorities are and have the courage, pleasantly, smilingly, not apologetically, to say no to other things. And the way you do that is by having a bigger yes burning inside.
+For a number of reasons, I won’t be participating myself, but. I want you to know how much. I appreciate your invitation. Sandra was ready for anything but a pleasant no.
 
-The enemy of the best is often the good. Keep in mind that you are always saying no to something. If it isn’t to the apparent, urgent things in your life, it is probably to the more fundamental, highly important things. Even when the urgent is good, the good can keep you from your best, keep you from your unique contribution, if you let it.
+She turned to me and sighed, I wish. I’d said that. I don’t mean to imply that you shouldn’t be involved in significant service projects. Those things are important.
 
-When I was director of university relations at a large university, I hired a very talented, proactive, creative writer. One day, after he had been on the job for a few months, I went into his office and asked him to work on some urgent matters that were pressing on me.
+But you have to decide what your highest priorities are and have the courage, pleasantly, smilingly, not apologetically, to say no to other things. And the way you do that is by having a bigger yes burning inside. The enemy of the best is often the good. Keep in mind that you are always saying no to something.
 
-He said, “Steven, I’ll do whatever you want me to do.” Just let me share with you my situation. Then he took me over to his wallboard, where he had listed over two dozen projects he was working on, together with performance criteria and deadline dates that had been clearly negotiated before. He was highly disciplined, which is why I went to see him in the first place. If you want to get something done, give it to a busy man.
+If it isn’t to the apparent, urgent things in your life, it is probably to the more fundamental, highly important things. Even when the urgent is good, the good can keep you from your best, keep you from your unique contribution, if you let it. When. I was director of university relations at a large university, I hired a very talented, proactive, creative writer.
 
-Then he said, “Steven, to do the jobs that you want done right would take several days.” Which of these projects would you like me to delay or cancel to satisfy your request? Well, I didn’t want to take the responsibility for that. I didn’t want to put a cog in the wheel of one of the most productive people on the staff just because I happened to be managing by crisis at the time. The jobs I wanted done were urgent, but not important.
+One day, after he had been on the job for a few months, I went into his office and asked him to work on some urgent matters that were pressing on me. He said, “Steven, I’ll do whatever you want me to do.” Just let me share with you my situation. Then he took me over to his wallboard, where he had listed over two dozen projects he was working on, together with performance criteria and deadline dates that had been clearly negotiated before.
 
-So I went and found another crisis manager and gave the job to him. We say yes or no to things daily, usually many times a day. A center of correct principles and a focus on our personal mission empowers us with wisdom to make those judgments effectively. As I work with different groups, I tell them that the essence of effective time and life management is to organize and execute around balanced priorities.
+He was highly disciplined, which is why. I went to see him in the first place. If you want to get something done, give it to a busy man.
 
-Then I ask this question, if you were to fault yourself in one of three areas, which would it be, one, the inability to prioritize, two, the inability or desire to organize around those priorities, or three, the lack of discipline to execute around them, to stay with your
+Then he said, “Steven, to do the jobs that you want done right would take several days.”. Which of these projects would you like me to delay or cancel to satisfy your request? Well, I didn’t want to take the responsibility for that. I didn’t want to put a cog in the wheel of one of the most productive people on the staff just because.
+
+I happened to be managing by crisis at the time. The jobs. I wanted done were urgent, but not important. So.
+
+I went and found another crisis manager and gave the job to him. We say yes or no to things daily, usually many times a day. A center of correct principles and a focus on our personal mission empowers us with wisdom to make those judgments effectively. As.
+
+I work with different groups, I tell them that the essence of effective time and life management is to organize and execute around balanced priorities. Then. I ask this question, if you were to fault yourself in one of three areas, which would it be, one, the inability to prioritize, two, the inability or desire to organize around those priorities, or three, the lack of discipline to execute around them, to stay with your
 
 
 <a id="sec-043144"></a>
@@ -1867,21 +2037,23 @@ Even if you’re centered on yourself, you’ll end up in one and three reacting
 
 The way you spend your time as a result of the way you see your time and the way you really see your priorities. If your priorities grow out of a principal center in a personal mission, if they are deeply planted in your heart and in your mind, you will see quadrant two as a natural, exciting place to invest your time. It’s almost impossible to say no to the popularity of quadrant three or to the pleasure of escape to quadrant four if you don’t have a bigger yes burning inside.
 
-Only when you have the self-awareness to examine your program, and the imagination and conscience to create a new, unique, principal centered program to which you can say yes only then will you have sufficient independent willpower to say no, with a genuine smile, to the unimportant. Moving into quadrant two. If quadrant two activities are clearly the heart of effective personal management the first things we need to put first, then how do we organize and execute around those things? The first generation of time management does not even recognize the concept of priority.
+Only when you have the self-awareness to examine your program, and the imagination and conscience to create a new, unique, principal centered program to which you can say yes only then will you have sufficient independent willpower to say no, with a genuine smile, to the unimportant. Moving into quadrant two. If quadrant two activities are clearly the heart of effective personal management the first things we need to put first, then how do we organize and execute around those things?
 
-It gives us notes and to do lists that we can cross off, and we feel a temporary sense of accomplishment every time we check something off, but no priority is attached to items on the list. In addition, there is no correlation between what’s on the list and our ultimate values and purposes in life. We simply respond to whatever penetrates our awareness and apparently needs to be done. Many people manage from this first generation paradigm.
+The first generation of time management does not even recognize the concept of priority. It gives us notes and to do lists that we can cross off, and we feel a temporary sense of accomplishment every time we check something off, but no priority is attached to items on the list. In addition, there is no correlation between what’s on the list and our ultimate values and purposes in life. We simply respond to whatever penetrates our awareness and apparently needs to be done.
 
-It’s the course of least resistance. There’s no pain or strain, it’s fun to go with the flow. Externally imposed disciplines and schedules give people the feeling that they aren’t responsible for results. But first generation managers, by definition, are not effective people.
+Many people manage from this first generation paradigm. It’s the course of least resistance. There’s no pain or strain, it’s fun to go with the flow. Externally imposed disciplines and schedules give people the feeling that they aren’t responsible for results.
 
-They produce very little, and their lifestyle does nothing to build their production capability. Buffeted by outside forces, they are often seen as undependable and irresponsible, and they have very little sense of control and self esteem. Third generation managers assume a little more control. They plan and schedule in advance and generally are seen as more responsible because they show up when they’re supposed to.
+But first generation managers, by definition, are not effective people. They produce very little, and their lifestyle does nothing to build their production capability. Buffeted by outside forces, they are often seen as undependable and irresponsible, and they have very little sense of control and self esteem. Third, generation managers assume a little more control.
 
-But again, the activities they schedule have no priority or recognized correlation to deeper values and goals. They have few significant achievements and tend to be schedule oriented. Third generation managers take a significant step forward. They clarify their values and set goals.
+They plan and schedule in advance and generally are seen as more responsible because they show up when they’re supposed to. But again, the activities they schedule have no priority or recognized correlation to deeper values and goals. They have few significant achievements and tend to be schedule oriented. Third, generation managers take a significant step forward.
 
-They plan each day and prioritize their activities. As I have said, this is where most of the time management field is today. But this third generation has some critical limitations.
+They clarify their values and set goals. They plan each day and prioritize their activities. As. I have said, this is where most of the time management field is today.
 
-First, it limits vision. Daily planning often misses important things that can only be seen from a larger perspective. The very language daily planning focuses on the urgent, the now. While third generation prioritization provides order to activity, it doesn’t question the essential importance of the activity in the first place, it doesn’t place the activity in the context of principles, personal mission, roles, and goals.
+But this third generation has some critical limitations. First, it limits vision. Daily planning often misses important things that can only be seen from a larger perspective. The very language daily planning focuses on the urgent, the now.
 
-The third generation value driven daily planning approach basically prioritizes the quadrant one and three problems and crises of the day. In addition, the third generation makes no provision for managing roles in a balanced way. It lacks realism, creating the tendency to overschedule the day, resulting in frustration and the desire to occasionally throw away the plan and escape to quadrant four. And its sufficiency, time management focus tends to strain relationships rather than
+While third generation prioritization provides order to activity, it doesn’t question the essential importance of the activity in the first place, it doesn’t place the activity in the context of principles, personal mission, roles, and goals. The third generation value driven daily planning approach basically prioritizes the quadrant one and three problems and crises of the day. In addition, the third generation makes no provision for managing roles in a balanced way. It lacks realism, creating the tendency to overschedule the day, resulting in frustration and the desire to occasionally throw away the plan and escape to quadrant four.
+
+And its sufficiency, time management focus tends to strain relationships rather than
 
 
 <a id="sec-043645"></a>
@@ -1889,27 +2061,29 @@ The third generation value driven daily planning approach basically prioritizes 
 
 build them. While each of the three generations has recognized the value of some kind of management tool, none has produced a tool that empowers a person to live a principle centered, quadrant 2 lifestyle. The first generation notepads and to-do lists give us no more than a place to capture those things that penetrate our awareness so we won’t forget them. The second generation appointment books and calendars merely provide a place to record our future commitments so that we can be where we have agreed to be at the appropriate time.
 
-Even the third generation, with its vast array of planners and materials, focuses primarily on helping people prioritize and plan their quadrants one and three activities. Though many trainers and consultants recognize the value of quadrant 2 activities, the actual planning tools of the third generation do not facilitate organizing and executing around them. As each generation builds on those that have preceded it, the strengths and some of the tools of each of the first three generations provide elemental material for the fourth. But there is an added need for a new dimension, for the paradigm and the implementation that will empower us to move into quadrant 2, to become principle centered and to manage ourselves to do what is truly most important.
+Even the third generation, with its vast array of planners and materials, focuses primarily on helping people prioritize and plan their quadrants one and three activities. Though many trainers and consultants recognize the value of quadrant 2 activities, the actual planning tools of the third generation do not facilitate organizing and executing around them. As each generation builds on those that have preceded it, the strengths and some of the tools of each of the first three generations provide elemental material for the fourth.
 
-The Quadrant 2 Tool The objective of quadrant 2 management is to manage our lives effectively, from a center of sound principles, from a knowledge of our personal mission, with a focus on the important as well as the urgent, and within the framework of maintaining a balance between increasing our production and increasing our production capability. This is, admittedly, an ambitious objective for people caught in the thick of thin things in quadrants 3 and 4. But striving to achieve it will have a phenomenal impact on personal effectiveness.
+But there is an added need for a new dimension, for the paradigm and the implementation that will empower us to move into quadrant 2, to become principle centered and to manage ourselves to do what is truly most important. The Quadrant 2 Tool The objective of quadrant 2 management is to manage our lives effectively, from a center of sound principles, from a knowledge of our personal mission, with a focus on the important as well as the urgent, and within the framework of maintaining a balance between increasing our production and increasing our production capability.
 
-A quadrant 2 organizer will need to meet six important criteria. Coherence Coherence suggests that there is harmony, unity, and integrity between your vision and mission, your roles and goals, your priorities and plans, and your desires and discipline. In your planner, there should be a place for your personal mission statements so that you can constantly refer to it. There also needs to be a place for your roles and for both short and long term goals.
+This is, admittedly, an ambitious objective for people caught in the thick of thin things in quadrants 3 and 4. But striving to achieve it will have a phenomenal impact on personal effectiveness. A quadrant 2 organizer will need to meet six important criteria. Coherence Coherence suggests that there is harmony, unity, and integrity between your vision and mission, your roles and goals, your priorities and plans, and your desires and discipline.
 
-Balance. Your tool should help you to keep balance in your life, to identify your various roles and keep them right in front of you, so that you don’t neglect important areas such as your health, your family, professional preparation, or personal development. Many people seem to think that success in one area can compensate for failure in other areas of life. But can it really?
+In your planner, there should be a place for your personal mission statements so that you can constantly refer to it. There also needs to be a place for your roles and for both short and long term goals. Balance. Your tool should help you to keep balance in your life, to identify your various roles and keep them right in front of you, so that you don’t neglect important areas such as your health, your family, professional preparation, or personal development.
 
-Perhaps it can for a limited time in some areas. But can success in your profession compensate for a broken marriage, ruined health, or weakness in personal character? True effectiveness requires balance, and your tool needs to help you create and maintain it. Quadrant 2 Focus.
+Many people seem to think that success in one area can compensate for failure in other areas of life. But can it really? Perhaps, it can for a limited time in some areas. But can success in your profession compensate for a broken marriage, ruined health, or weakness in personal character?
 
-You need a tool that encourages you, motivates you, actually helps you spend the time you need in quadrant 2, so that you’re dealing with prevention rather than prioritizing crises. In my opinion, the best way to do this is to organize your life on a weekly basis. You can still adapt and prioritize. On a daily basis, but the fundamental thrust is organizing the week.
+True effectiveness requires balance, and your tool needs to help you create and maintain it. Quadrant 2 Focus. You need a tool that encourages you, motivates you, actually helps you spend the time you need in quadrant 2, so that you’re dealing with prevention rather than prioritizing crises. In my opinion, the best way to do this is to organize your life on a weekly basis.
 
-Organizing on a weekly basis provides much greater balance and context than daily planning. There seems to be implicit cultural recognition of the week as a single, complete unit of time. Business, education, and many other facets of society operate within the framework of the week, designating certain days for focused investment and others for relaxation or inspiration. The basic Judeo-Christian ethic honors the Sabbath, the one day out of every seven set aside for uplifting purposes.
+You can still adapt and prioritize. On a daily basis, but the fundamental thrust is organizing the week. Organizing on a weekly basis provides much greater balance and context than daily planning. There seems to be implicit cultural recognition of the week as a single, complete unit of time.
 
-Most people think in terms of weeks. But most third-generation planning tools focus on daily planning. While they may help you prioritize your activities, they basically only help you organize crises and busy work. The key is not to prioritize what’s on your schedule, but to schedule your priorities.
+Business, education, and many other facets of society operate within the framework of the week, designating certain days for focused investment and others for relaxation or inspiration. The basic Judeo-Christian ethic honors the Sabbath, the one day out of every seven set aside for uplifting purposes. Most people think in terms of weeks. But most third-generation planning tools focus on daily planning.
 
-And this can best be done in the context of the week. A people dimension. You also need a tool that deals with people, not just schedules. While you can think in terms of efficiency in dealing with time, a principle-centered person thinks in terms of effectiveness in dealing with people.
+While they may help you prioritize your activities, they basically only help you organize crises and busy work. The key is not to prioritize what’s on your schedule, but to schedule your priorities. And this can best be done in the context of the week. A people dimension.
 
-There are times when principle-centered quadrant 2 living requires the subordination of schedules to people. Your tool needs to reflect that value, to facilitate implementation rather than create guilt when a schedule is not followed. Flexibility. Your planning tool should be your servant, never your master.
+You also need a tool that deals with people, not just schedules. While you can think in terms of efficiency in dealing with time, a principle-centered person thinks in terms of effectiveness in dealing with people. There are times when principle-centered quadrant 2 living requires the subordination of schedules to people. Your tool needs to reflect that value, to facilitate implementation rather than create guilt when a schedule is not followed.
 
-Since it has to work for you, it should be tailored to your style, your needs, your particular ways. Portability. Your tool should also be portable, so that you can carry it with you most of the time. You may want to review your personal mission statement while riding the bus.
+Flexibility. Your planning tool should be your servant, never your master. Since it has to work for you, it should be tailored to your style, your needs, your particular ways. Portability.
+
+Your tool should also be portable, so that you can carry it with you most of the time. You may want to review your personal mission statement while riding the bus.
 
 
 <a id="sec-044146"></a>
@@ -1937,11 +2111,11 @@ Ideally, these weekly goals would be tied to the longer term goals you have iden
 
 For example, if your goal is to produce the first draft of your personal mission statement, you may want to set aside a 2 hour block of time on Sunday to work on it. Sunday. some other day of the week that is special to you, your faith, or your circumstances, is often the ideal time to plan your more personally uplifting activities, including weekly organizing. It’s a good time to draw back, to seek inspiration, to look at your life in the context of principles and values.
 
-If you set a goal to become physically fit through exercise, you may want to set aside an hour three or four days during the week, or possibly every day during the week, to accomplish that goal. There are some goals that you may only be able to accomplish during business hours, or some that you can only do on Saturday when your children are home. Can you begin to see some of the advantages of organizing the week instead of the day? Having identified roles and set goals, you can translate each goal to a specific day of the week, either as a priority item or, even better, as a specific appointment.
+If you set a goal to become physically fit through exercise, you may want to set aside an hour three or four days during the week, or possibly every day during the week, to accomplish that goal. There are some goals that you may only be able to accomplish during business hours, or some that you can only do on Saturday when your children are home. Can you begin to see some of the advantages of organizing the week instead of the day?
 
-You can also check your annual or monthly calendar for any appointments you may have previously made and evaluate their importance in the context of your goals, transferring those you decide to keep to your schedule and making plans to reschedule or cancel others. As you study the following weekly schedule, observe how each of the 19 most important, often quadrant two, goals has been scheduled or translated into a specific action plan. In addition, notice the box labeled sharpen the saw that provides a place to plan vital renewing quadrant two activities in each of the four human dimensions that will be explained in habit 7.
+Having identified roles and set goals, you can translate each goal to a specific day of the week, either as a priority item or, even better, as a specific appointment. You can also check your annual or monthly calendar for any appointments you may have previously made and evaluate their importance in the context of your goals, transferring those you decide to keep to your schedule and making plans to reschedule or cancel others. As you study the following weekly schedule, observe how each of the 19 most important, often quadrant two, goals has been scheduled or translated into a specific action plan.
 
-Even with time set aside to accomplish 19 important goals during the week, look at the amount of remaining unscheduled space on the schedule. As well as empowering you to put first things first, quadrant two weekly organizing gives you the freedom and the flexibility to handle unanticipated events, to shift appointments if you need to, to savor relationships and
+In addition, notice the box labeled sharpen the saw that provides a place to plan vital renewing quadrant two activities in each of the four human dimensions that will be explained in habit 7. Even with time set aside to accomplish 19 important goals during the week, look at the amount of remaining unscheduled space on the schedule. As well as empowering you to put first things first, quadrant two weekly organizing gives you the freedom and the flexibility to handle unanticipated events, to shift appointments if you need to, to savor relationships and
 
 
 <a id="sec-044650"></a>
@@ -1967,7 +2141,9 @@ So, congruent with his efficiency model, he had scheduled a 10 to 15 minute tele
 
 The situation was a very frustrating experience for them. Both. Again, you simply can’t think efficiency with people. You think effectiveness with people and efficiency with things.
 
-I’ve tried to be efficient with a disagreeing or disagreeable person and it simply doesn’t work. I’ve tried to give 10 minutes of quality time to a child or an employee to solve a problem, only to discover such efficiency creates new problems and seldom resolves the deepest concern. I see many parents, particularly mothers with small children, often frustrated in their desire to accomplish a lot because all they seem to do is meet the needs of little children all day. Remember, frustration is a function of our expectations,
+I’ve tried to be efficient with a disagreeing or disagreeable person and it simply doesn’t work. I’ve tried to give 10 minutes of quality time to a child or an employee to solve a problem, only to discover such efficiency creates new problems and seldom resolves the deepest concern. I see many parents, particularly mothers with small children, often frustrated in their desire to accomplish a lot because all they seem to do is meet the needs of little children all day.
+
+Remember, frustration is a function of our expectations,
 
 
 <a id="sec-045155"></a>
@@ -1991,13 +2167,15 @@ Delfication, increasing P and PC. We accomplish all that we do through delegatio
 
 Many people refuse to delegate to other people because they feel it takes too much time and effort and they could do the job better themselves. But effectively delegating to others is perhaps the single most powerful high leverage activity there is. Transferring responsibility to other skilled and trained people enables you to give your energies to other high leverage activities. Delegation means growth, both for individuals and for organizations.
 
-The late J. C. Penney was quoted as saying that the wisest decision he ever made was to let go after realizing that he couldn’t do it all by himself any longer. That decision, made long ago, enabled the development and growth of hundreds of stores and thousands of people. Because delegation involves other people, it is a public victory and could well be included in habit 4. But because we are focusing here on principles of personal management, and the ability to delegate to others is the main difference between the role of manager and independent producer, I am approaching delegation from the standpoint of your personal managerial skills.
+The late J. C. Penney was quoted as saying that the wisest decision he ever made was to let go after realizing that he couldn’t do it all by himself any longer. That decision, made long ago, enabled the development and growth of hundreds of stores and thousands of people.
 
-A producer does whatever is necessary to accomplish desired results, to get the golden eggs. A parent who washes the dishes, an architect who draws up blueprints, or a secretary who types correspondence as a producer. But when a person sets up and works with and through people and systems to produce golden eggs, that person becomes a manager in the interdependent sense. A parent who delegates washing the dishes to a child as a manager.
+Because delegation involves other people, it is a public victory and could well be included in habit 4. But because we are focusing here on principles of personal management, and the ability to delegate to others is the main difference between the role of manager and independent producer, I am approaching delegation from the standpoint of your personal managerial skills. A producer does whatever is necessary to accomplish desired results, to get the golden eggs. A parent who washes the dishes, an architect who draws up blueprints, or a secretary who types correspondence as a producer.
 
-An architect who heads a team of other architects is a manager. A secretary who supervises other secretaries and office personnel is an office manager. A producer can invest 1 hour of effort and produce 1 unit of results, assuming no loss of efficiency. A manager, on the other hand, can invest 1 hour of effort and produce 10 or 50 or 100 units through effective delegation.
+But when a person sets up and works with and through people and systems to produce golden eggs, that person becomes a manager in the interdependent sense. A parent who delegates washing the dishes to a child as a manager. An architect who heads a team of other architects is a manager. A secretary who supervises other secretaries and office personnel is an office manager.
 
-Management is essentially moving the fulcrum over, and the key to effective management is delegation. Go for delegation. There are basically two kinds of delegation, go for delegation and
+A producer can invest 1 hour of effort and produce 1 unit of results, assuming no loss of efficiency. A manager, on the other hand, can invest 1 hour of effort and produce 10 or 50 or 100 units through effective delegation. Management is essentially moving the fulcrum over, and the key to effective management is delegation. Go for delegation.
+
+There are basically two kinds of delegation, go for delegation and
 
 
 <a id="sec-045659"></a>
@@ -2007,13 +2185,17 @@ stewardship delegation. Go for delegation means go for this, go for that, do thi
 
 They are the producers. They roll up their sleeves and get the job done. If they are given a position of supervision or management, they still think like producers. They don’t know how to set up a full delegation so that another person is committed to achieve results.
 
-Because they are focused on methods, they become responsible for the results. I was involved in a go for delegation once when our family went water skiing. My son, who is an excellent skier, was in the water being pulled and I was driving the boat. I handed the camera to Sandra and asked her to take some pictures.
+Because they are focused on methods, they become responsible for the results. I was involved in a go for delegation once when our family went water skiing. My son, who is an excellent skier, was in the water being pulled and. I was driving the boat.
 
-At first, I told her to be selective in her picture taking because we didn’t have much film left. Then I realized she was unfamiliar with the camera, so I became a little more specific. I told her to be sure to wait until the sun was ahead of the boat and until our son was jumping the wake or making a turn and touching his elbow. But the more I thought about our limited footage and her inexperience with the camera, the more concerned I became.
+I handed the camera to Sandra and asked her to take some pictures. At first, I told her to be selective in her picture taking because we didn’t have much film left. Then. I realized she was unfamiliar with the camera, so.
 
-I finally said, look, Sandra, just push the button when I tell you. Okay? And I spent the next few minutes yelling, take it. Take it.
+I became a little more specific. I told her to be sure to wait until the sun was ahead of the boat and until our son was jumping the wake or making a turn and touching his elbow. But the more. I thought about our limited footage and her inexperience with the camera, the more concerned.
 
-Don’t take it. Don’t take it. I was afraid that if I didn’t direct her every move every second, it wouldn’t be done right. That was true go for delegation, one-on-one supervision of methods.
+I became. I finally said, look, Sandra, just push the button when. I tell you. Okay?
+
+And. I spent the next few minutes yelling, take it. Take it. Don’t take it.
+
+Don’t take it. I was afraid that if. I didn’t direct her every move every second, it wouldn’t be done right. That was true go for delegation, one-on-one supervision of methods.
 
 Many people consistently delegate that way. But how much does it really accomplish? And how many people is it possible to supervise or manage when you have to be involved in every move they make? There’s a much better way, a more effective way to delegate to other people.
 
@@ -2025,17 +2207,19 @@ Spend time. Be patient. Visualize the desired result. Have the person see it, de
 
 Guidelines. Identify the parameters within which the individual should operate. These should be as few as possible. possible to avoid methods delegation, but should include any formidable restrictions. You wouldn’t want a person to think he had considerable latitude as long as he accomplished the objectives, only to violate some long-standing traditional practice or value.
 
-That kills initiative and sends people back to the gopher’s creed, just tell me what you want me to do, and I’ll do it. If you know the failure paths of the job, identify them. Be honest and open, tell a person where the quicksand is and where the wild animals are. You don’t want to have to reinvent the wheel every day.
+That kills initiative and sends people back to the gopher’s creed, just tell me what you want me to do, and. I’ll do it. If you know the failure paths of the job, identify them. Be honest and open, tell a person where the quicksand is and where the wild animals are.
 
-Let people learn from your mistakes or the mistakes of others. Point out the potential failure paths, what not to do, but don’t tell them what to do. Keep the responsibility for results with them, to do whatever is necessary within the guidelines. Resources.
+You don’t want to have to reinvent the wheel every day. Let people learn from your mistakes or the mistakes of others. Point out the potential failure paths, what not to do, but don’t tell them what to do. Keep the responsibility for results with them, to do whatever is necessary within the guidelines.
 
-Identify the human, financial, technical, or organizational resources the person can draw on to accomplish the desired results. Accountability. Set up the standards of performance that will be used in evaluating the results in the specific times when reporting and evaluation will take place. Consequences.
+Resources. Identify the human, financial, technical, or organizational resources the person can draw on to accomplish the desired results. Accountability. Set up the standards of performance that will be used in evaluating the results in the specific times when reporting and evaluation will take place.
 
-Specify what will happen, both good and bad, as a result of the evaluation. This could include such things as financial rewards, psychic rewards, different job assignments, and natural consequences tied into the overall mission of an organization. Some years ago, I had an interesting experience in delegation with one of my sons. We were having a family meeting, and we had our mission statement up on the wall to make sure our plans were in harmony with our values.
+Consequences. Specify what will happen, both good and bad, as a result of the evaluation. This could include such things as financial rewards, psychic rewards, different job assignments, and natural consequences tied into the overall mission of an organization. Some years ago, I had an interesting experience in delegation with one of my sons.
 
-Everybody was there. I set up a big blackboard and we wrote down our goals, the key things we wanted to do, and the jobs that flowed out of those goals. Then I asked for volunteers to do the job. Who wants to pay the mortgage?
+We were having a family meeting, and we had our mission statement up on the wall to make sure our plans were in harmony with our values. Everybody was there. I set up a big blackboard and we wrote down our goals, the key things we wanted to do, and the jobs that flowed out of those goals. Then.
 
-I asked. I noticed I was the only one with my hand up. Who wants to pay for the insurance?
+I asked for volunteers to do the job. Who wants to pay the mortgage? I asked. I noticed.
+
+I was the only one with my hand up. Who wants to pay for the insurance?
 
 
 <a id="sec-050200"></a>
@@ -2045,11 +2229,13 @@ The food? The cars? I seemed to have a real monopoly on the opportunities. Who w
 
 There was more interest here, but my wife was the only one with the right qualifications for the job. As we went down the list, job by job, it was soon evident that mom and dad had more than 60 hour work weeks. With that paradigm in mind, some of the other jobs took on a more proper perspective. My 7 year old son, Steven, volunteered to take care of the yard.
 
-Before I actually gave him the job, I began a thorough training process. I wanted him to have a clear picture in his mind of what a well cared for yard was like, so I took him next door to our neighbors. Look, son, I said. See how our neighbor’s yard is green and clean?
+Before. I actually gave him the job, I began a thorough training process. I wanted him to have a clear picture in his mind of what a well cared for yard was like, so. I took him next door to our neighbors.
 
-That’s what we’re after, green and clean. Now come look at our yard. See the mixed colors? That’s not it, that’s not green.
+Look, son, I said. See how our neighbor’s yard is green and clean? That’s what we’re after, green and clean. Now come look at our yard.
 
-Green and clean is what we want. Now how you get it green is up to you. You’re free to do it any way you want, except paint it. But I’ll tell you how I’d do it if it were up to me.
+See the mixed colors? That’s not it, that’s not green. Green and clean is what we want. Now how you get it green is up to you.
+
+You’re free to do it any way you want, except paint it. But. I’ll tell you how. I’d do it if it were up to me.
 
 How would you do it, dad? I’d turn on the sprinklers. But you may want to use buckets or a hose. It makes no difference to me.
 
@@ -2073,15 +2259,17 @@ It sometimes causes a bad feeling, doesn’t it? So you boss yourself.
 
 Now, guess who your helper is? Who? I am, I said. You boss me.
 
-I do? That’s right. But my time to help is limited. Sometimes I’m away.
+I do? That’s right. But my time to help is limited. Sometimes.
 
-But when I’m here, you tell me how I can help. I’ll do anything you want me to do. Okay. Now guess who judges you?
+I’m away. But when. I’m here, you tell me how. I can help.
 
-Who? You judge yourself. I do? That’s right.
+I’ll do anything you want me to do. Okay. Now guess who judges you? Who?
 
-Twice a week the two of us will walk around the yard, and you can show me how it’s coming. How are you going to judge? Green and clean. Right.
+You judge yourself. I do? That’s right. Twice a week the two of us will walk around the yard, and you can show me how it’s coming.
 
-I trained him with those two words for two weeks before I felt he was ready to take the job. Finally, the big day came. Is it a deal, son? It’s a deal.
+How are you going to judge? Green and clean. Right. I trained him with those two words for two weeks before.
+
+I felt he was ready to take the job. Finally, the big day came. Is it a deal, son? It’s a deal.
 
 What’s the job? Green and clean. What’s green? He looked at our yard, which was beginning to look better.
 
@@ -2089,61 +2277,69 @@ Then he pointed next door. That’s the color of his yard. What’s clean? No me
 
 Who’s the boss? I am. Who’s your helper? You are, when you have time.
 
-Who’s the judge? I am. We’ll walk around two times a week, and I can show you how it’s coming. And what will we look for?
+Who’s the judge? I am. We’ll walk around two times a week, and. I can show you how it’s coming.
 
-Green and clean. At that time, I didn’t mention an allowance. But I wouldn’t hesitate to attach an allowance to such a stewardship. Two weeks and two words.
+And what will we look for? Green and clean. At that time, I didn’t mention an allowance. But.
 
-I thought he was ready. It was Saturday. And he did nothing. Sunday, nothing.
+I wouldn’t hesitate to attach an allowance to such a stewardship. Two weeks and two words. I thought he was ready. It was Saturday.
 
-Monday, nothing. As I pulled out of the driveway on my way to work on Tuesday, I looked at the yellow, cluttered yard and the hot July sun on its way up. Surely he’ll do it today, I thought. I could rationalize Saturday because that was the day we made the agreement.
+And he did nothing. Sunday, nothing. Monday, nothing. As.
 
-I could rationalize Sunday. Sunday was for other things. But I couldn’t rationalize Monday. And now it was Tuesday.
+I pulled out of the driveway on my way to work on Tuesday, I looked at the yellow, cluttered yard and the hot July sun on its way up. Surely he’ll do it today, I thought. I could rationalize Saturday because that was the day we made the agreement. I could rationalize Sunday.
 
-Certainly he’d do it today. It was summertime. What else did he have to do? All day I could hardly wait to return home to see what happened.
+Sunday was for other things. But. I couldn’t rationalize Monday. And now it was Tuesday.
 
-As I rounded the corner, I was met with the same picture I left that morning. And there was my son at the park across the street playing.
+Certainly he’d do it today. It was summertime. What else did he have to do? All day.
+
+I could hardly wait to return home to see what happened. As. I rounded the corner, I was met with the same picture. I left that morning.
+
+And there was my son at the park across the street playing.
 
 
 <a id="sec-050701"></a>
 ### ⏱️ [05:07:01 - 05:12:03]
 
-This was not acceptable. I was upset and disillusioned by his performance after two weeks of training and all those commitments. We had a lot of effort, pride and money invested in the yard and I could see it going down the drain. Besides, my neighbor’s yard was manicured and beautiful and the situation was beginning to get embarrassing.
+This was not acceptable. I was upset and disillusioned by his performance after two weeks of training and all those commitments. We had a lot of effort, pride and money invested in the yard and. I could see it going down the drain.
 
-I was ready to go back to go for delegation. Son, you get over here and pick up this garbage right now or else. I knew I could get the golden egg that way. But what about the goose?
+Besides, my neighbor’s yard was manicured and beautiful and the situation was beginning to get embarrassing. I was ready to go back to go for delegation. Son, you get over here and pick up this garbage right now or else. I knew.
 
-What would happen to his internal commitment? So I faked a smile and yelled across the street. Hi, son. How’s it going?
+I could get the golden egg that way. But what about the goose? What would happen to his internal commitment? So.
 
-Fine. He returned. How’s the yard coming? I knew the minute I said it, I had broken our agreement.
+I faked a smile and yelled across the street. Hi, son. How’s it going? Fine.
+
+He returned. How’s the yard coming? I knew the minute. I said it, I had broken our agreement.
 
 That’s not the way we had set up an accounting. That’s not what we had agreed. So he felt justified in breaking it too. Fine, dad.
 
-I bit my tongue and waited until after dinner. Then I said, son, let’s do as we agreed. Let’s walk around the yard together and you can show me how it’s going in your stewardship. As we started out the door, his chin began to quiver.
+I bit my tongue and waited until after dinner. Then. I said, son, let’s do as we agreed. Let’s walk around the yard together and you can show me how it’s going in your stewardship.
 
-Tears welled up in his eyes and by the time we got out to the middle of the yard, he was whimpering. It’s so hard, dad. What’s so hard? I thought to myself, you haven’t done a single thing.
+As we started out the door, his chin began to quiver. Tears welled up in his eyes and by the time we got out to the middle of the yard, he was whimpering. It’s so hard, dad. What’s so hard?
 
-But I knew what was hard, self-management, self-supervision. So I said, is there anything I can do to help? Would you, dad? He sniffed.
+I thought to myself, you haven’t done a single thing. But. I knew what was hard, self-management, self-supervision. So.
+
+I said, is there anything. I can do to help? Would you, dad? He sniffed.
 
 What was our agreement? You said you’d help me if you had time. I have time. So he ran into the house and came back with two sacks.
 
 He handed me one. Will you pick that stuff up? He pointed to the garbage from Saturday night’s barbecue. It makes me sick.
 
-So I did. I did exactly what he asked me to do. And that was when he signed the agreement in his heart. It became his yard, his stewardship.
+So. I did. I did exactly what he asked me to do. And that was when he signed the agreement in his heart.
 
-He only asked for help two or three more times that entire summer. He took care of that yard. He kept it greener and cleaner than it had ever been under my stewardship. He even reprimanded his brothers and sisters if they left so much as a gum wrapper on the lawn.
+It became his yard, his stewardship. He only asked for help two or three more times that entire summer. He took care of that yard. He kept it greener and cleaner than it had ever been under my stewardship.
 
-Trust is the highest form of human motivation. It brings out the very best in people. But it takes time and patience, and it doesn’t preclude the necessity to train and develop people so that their competency can rise to the level of that trust. I am convinced that if stewardship delegation is done correctly, both parties will benefit and ultimately much more work will get done in much less time.
+He even reprimanded his brothers and sisters if they left so much as a gum wrapper on the lawn. Trust is the highest form of human motivation. It brings out the very best in people. But it takes time and patience, and it doesn’t preclude the necessity to train and develop people so that their competency can rise to the level of that trust.
 
-I believe that a family that is well-organized, whose time has been spent effectively delegating on a one-on-one basis, can organize the work so that everyone can do everything in about an hour a day. But that takes the internal capacity to want to manage, not just to produce. The focus is on effectiveness, not efficiency. Certainly you can pick up that room better than a child, but the key is that you want to empower the child to do it.
+I am convinced that if stewardship delegation is done correctly, both parties will benefit and ultimately much more work will get done in much less time. I believe that a family that is well-organized, whose time has been spent effectively delegating on a one-on-one basis, can organize the work so that everyone can do everything in about an hour a day. But that takes the internal capacity to want to manage, not just to produce. The focus is on effectiveness, not efficiency.
 
-It takes time. You have to get involved in the training and development. It takes time, but how valuable that time is downstream. It saves you so much in the long run.
+Certainly you can pick up that room better than a child, but the key is that you want to empower the child to do it. It takes time. You have to get involved in the training and development. It takes time, but how valuable that time is downstream.
 
-This approach involves an entirely new paradigm of delegation. In effect, it changes the nature of the relationship. The steward becomes his own boss, governed by a conscience that contains the commitment to agreed upon desired results. But it also releases his creative energies toward doing whatever is necessary in harmony with correct principles to achieve those desired results.
+It saves you so much in the long run. This approach involves an entirely new paradigm of delegation. In effect, it changes the nature of the relationship. The steward becomes his own boss, governed by a conscience that contains the commitment to agreed upon desired results.
 
-The principles involved in stewardship delegation are correct and applicable to any kind of person or situation. With immature people, you specify fewer desired results and more guidelines, identify more resources, conduct more frequent accountability interviews, and apply more immediate consequences. With more mature people, you have more challenging desired results, fewer guidelines, less frequent accountability, and less measurable but more discernible criteria. Effective delegation is perhaps the best indicator of effective management simply because it is so basic to both personal and organizational growth.
+But it also releases his creative energies toward doing whatever is necessary in harmony with correct principles to achieve those desired results. The principles involved in stewardship delegation are correct and applicable to any kind of person or situation. With immature people, you specify fewer desired results and more guidelines, identify more resources, conduct more frequent accountability interviews, and apply more immediate consequences. With more mature people, you have more challenging desired results, fewer guidelines, less frequent accountability, and less measurable but more discernible criteria.
 
-The quadrant two paradigm. The key to effective management of self or of others through delegation is not in any technique or tool or extrinsic factor. It is intrinsic in the quadrant two paradigm that empowers you to see through the lens of importance rather than urgency. I have included in the appendix an exercise called a quadrant two day at the office which will enable you to see in a business setting how powerfully this paradigm can impact your effectiveness.
+Effective delegation is perhaps the best indicator of effective management simply because it is so basic to both personal and organizational growth. The quadrant two paradigm. The key to effective management of self or of others through delegation is not in any technique or tool or extrinsic factor. It is intrinsic in the quadrant two paradigm that empowers you to see through the lens of importance rather than urgency.
 
-As you work to develop a quadrant two paradigm, you will increase your ability to organize and execute every week of your life around your deepest priorities to walk your talk.
+I have included in the appendix an exercise called a quadrant two day at the office which will enable you to see in a business setting how powerfully this paradigm can impact your effectiveness. As you work to develop a quadrant two paradigm, you will increase your ability to organize and execute every week of your life around your deepest priorities to walk your talk.
 
 
 <a id="sec-051203"></a>
@@ -2169,21 +2365,27 @@ Remember that effective interdependence can only be built on a foundation of tru
 
 There aren’t any other roads, there aren’t any shortcuts. There’s no way to parachute into this terrain. The landscape ahead is covered with the fragments of broken relationships of people who have tried. They’ve tried to jump into effective relationships without the maturity, the strength of character, to maintain them.
 
-But you just can’t do it, you simply have to travel the road. You can’t be successful with other people if you haven’t paid the price of success with yourself. A few years ago when I was giving a seminar on the Oregon coast, a man came up to me and said, you know, Steven, I really don’t enjoy coming to these seminars. He had my attention.
+But you just can’t do it, you simply have to travel the road. You can’t be successful with other people if you haven’t paid the price of success with yourself. A few years ago when. I was giving a seminar on the Oregon coast, a man came up to me and said, you know, Steven, I really don’t enjoy coming to these seminars.
 
-Look at everyone else here, he continued. Look at this beautiful coastline and the sea out there and all that’s happening. And all I can do is sit and worry about the grilling I’m going to get from my wife tonight on the phone. She gives me the third degree every time I’m away.
+He had my attention. Look at everyone else here, he continued. Look at this beautiful coastline and the sea out there and all that’s happening. And all.
 
-Where did I eat breakfast? Who else was there? Was I in meetings all morning? When did we stop for lunch?
+I can do is sit and worry about the grilling. I’m going to get from my wife tonight on the phone. She gives me the third degree every time. I’m away.
 
-What did I do during lunch? How did I spend the afternoon? What did I do for entertainment in the evening? Who was with me?
+Where did. I eat breakfast? Who else was there? Was.
 
-What did we talk about? And what she really wants to know, but never quite asks, is who she can call to verify everything I tell her. She just nags me and questions everything I do whenever I’m away. It’s taken the bloom out of this whole experience.
+I in meetings all morning? When did we stop for lunch? What did. I do during lunch?
+
+How did. I spend the afternoon? What did. I do for entertainment in the evening?
+
+Who was with me? What did we talk about? And what she really wants to know, but never quite asks, is who she can call to verify everything. I tell her.
+
+She just nags me and questions everything. I do whenever. I’m away. It’s taken the bloom out of this whole experience.
 
 I really don’t enjoy it at all. He did look pretty miserable. We talked for a while, and then he made a very interesting comment. I guess she knows all the questions to ask, he said a little sheepishly.
 
-It was at a seminar like this that I met her, when I was married to someone else. I considered the implications of his comment and then said, you’re kind of into quick fix, aren’t you? What do you mean? He replied.
+It was at a seminar like this that. I met her, when. I was married to someone else. I considered the implications of his comment and then said, you’re kind of into quick fix, aren’t you?
 
-Well, you’d like to take a screwdriver and just open up your wife’s head and rewire that attitude of hers really fast, wouldn’t you? Sure, I’d like her to change,
+What do you mean? He replied. Well, you’d like to take a screwdriver and just open up your wife’s head and rewire that attitude of hers really fast, wouldn’t you? Sure, I’d like her to change,
 
 
 <a id="sec-051707"></a>
@@ -2209,39 +2411,43 @@ That’s when we try to treat the symptoms with quick fixes and techniques, the 
 
 Now, as we think of effective interaction with others, let’s go back to our earlier definition of effectiveness. We’ve said it’s the p-slash-pc balance, the fundamental concept in the story of the goose and the golden egg. In an interdependent situation, the golden eggs are the effectiveness, the wonderful synergy, the results created by open communication and positive interaction with others. And to get those eggs on a regular basis, we need to take care of the goose.
 
-We need to create and care for the relationships that make those results realities. So before we descend from our point of reconnaissance and get into habits 4, 5, and 6, I would like to introduce what I believe to be a very powerful metaphor in describing relationships and in defining the p-slash-pc balance in an interdependent reality, the emotional bank account. We all know what a financial bank account is. We make deposits into it and build up a reserve from which we can make withdrawals when we need to.
+We need to create and care for the relationships that make those results realities. So before we descend from our point of reconnaissance and get into habits 4, 5, and 6, I would like to introduce what. I believe to be a very powerful metaphor in describing relationships and in defining the p-slash-pc balance in an interdependent reality, the emotional bank account. We all know what a financial bank account is.
 
-An emotional bank account is a metaphor that describes the amount of trust that’s been built up in a relationship. It’s the feeling of safeness you have with another human being. If I make deposits into an emotional bank account with you through courtesy, kindness, honesty, and keeping my commitments to you,
+We make deposits into it and build up a reserve from which we can make withdrawals when we need to. An emotional bank account is a metaphor that describes the amount of trust that’s been built up in a relationship. It’s the feeling of safeness you have with another human being. If.
+
+I make deposits into an emotional bank account with you through courtesy, kindness, honesty, and keeping my commitments to you,
 
 
 <a id="sec-052209"></a>
 ### ⏱️ [05:22:09 - 05:27:15]
 
-I build up a reserve. Your trust toward me becomes higher, and I can call upon that trust many times if I need to. I can even make mistakes in that trust level, that emotional reserve, will compensate for it. My communication may not be clear, but you’ll get my meaning anyway.
+I build up a reserve. Your trust toward me becomes higher, and. I can call upon that trust many times if. I need to.
 
-You won’t make me an offender for a word. When the trust account is high, communication is easy, instant, and effective. But if I have a habit of showing discourtesy, disrespect, cutting you off, overreacting, ignoring you, becoming arbitrary, betraying your trust, threatening you, or playing little tin god in your life, eventually my emotional bank account is overdrawn. The trust level gets very low.
+I can even make mistakes in that trust level, that emotional reserve, will compensate for it. My communication may not be clear, but you’ll get my meaning anyway. You won’t make me an offender for a word. When the trust account is high, communication is easy, instant, and effective.
 
-Then what flexibility do I have? None. I’m walking on mine fields. I have to be very careful of everything I say.
+But if. I have a habit of showing discourtesy, disrespect, cutting you off, overreacting, ignoring you, becoming arbitrary, betraying your trust, threatening you, or playing little tin god in your life, eventually my emotional bank account is overdrawn. The trust level gets very low. Then what flexibility do.
 
-I measure every word. It’s tension city, memo haven. It’s protecting my backside, politicking. And many organizations are filled with it.
+I have? None. I’m walking on mine fields. I have to be very careful of everything.
 
-Many families are filled with it. Many marriages are filled with it. If a large reserve of trust is not sustained by continuing deposits, a marriage will deteriorate. Instead of rich, spontaneous understanding and communication, the situation becomes one of accommodation, where two people simply attempt to live independent lifestyles in a fairly respectful and tolerant way.
+I say. I measure every word. It’s tension city, memo haven. It’s protecting my backside, politicking.
 
-The relationship may further deteriorate to one of hostility and defensiveness. The fight or flight response creates verbal battles, slam doors, refusal to talk, emotional withdrawal and self-pity. It may end up in a cold war at home, sustained only by children, sex, social pressure, or image protection. Or it may end up in open warfare in the courts, where bitter ego decimating legal battles can be carried on for years as people endlessly confess the sins of a former spouse.
+And many organizations are filled with it. Many families are filled with it. Many marriages are filled with it. If a large reserve of trust is not sustained by continuing deposits, a marriage will deteriorate.
 
-And this is in the most intimate, the most potentially rich, joyful, satisfying and productive relationship possible between two people on this earth. The p-slash-pc lighthouse is there. We can either break ourselves against it or we can use it as a guiding light. Our most constant relationships, like marriage, require our most constant deposits.
+Instead of rich, spontaneous understanding and communication, the situation becomes one of accommodation, where two people simply attempt to live independent lifestyles in a fairly respectful and tolerant way. The relationship may further deteriorate to one of hostility and defensiveness. The fight or flight response creates verbal battles, slam doors, refusal to talk, emotional withdrawal and self-pity. It may end up in a cold war at home, sustained only by children, sex, social pressure, or image protection.
 
-With continuing expectations, old deposits evaporate. If you suddenly run into an old high school friend you haven’t seen for years, you can pick up right where you left off because the earlier deposits are still there. But your accounts with the people you interact with on a regular basis require more constant investment. There are sometimes automatic withdrawals in your daily interactions or in their perception of you that you don’t even know about.
+Or it may end up in open warfare in the courts, where bitter ego decimating legal battles can be carried on for years as people endlessly confess the sins of a former spouse. And this is in the most intimate, the most potentially rich, joyful, satisfying and productive relationship possible between two people on this earth. The p-slash-pc lighthouse is there. We can either break ourselves against it or we can use it as a guiding light.
 
-This is especially true with teenagers in the home. Suppose you have a teenage son and your normal conversation is something like, clean your room. Button your shirt. Turn down the radio.
+Our most constant relationships, like marriage, require our most constant deposits. With continuing expectations, old deposits evaporate. If you suddenly run into an old high school friend you haven’t seen for years, you can pick up right where you left off because the earlier deposits are still there. But your accounts with the people you interact with on a regular basis require more constant investment.
 
-Go get a haircut. And don’t forget to take out the garbage. Over a period of time, the withdrawals far exceed the deposits.
+There are sometimes automatic withdrawals in your daily interactions or in their perception of you that you don’t even know about. This is especially true with teenagers in the home. Suppose you have a teenage son and your normal conversation is something like, clean your room. Button your shirt.
+
+Turn down the radio. Go get a haircut. And don’t forget to take out the garbage. Over a period of time, the withdrawals far exceed the deposits.
 
 Now, suppose this son is in the process of making some important decisions that will affect the rest of his life. But the trust level is so low and the communication process so closed, mechanical, and unsatisfying that he simply will not be open to your counsel. You may have the wisdom and the knowledge to help him, but because your account is so overdrawn, he will end up making his decisions from a short-range emotional perspective, which may well result in many negative long-range consequences.
 
 You need a positive balance to communicate on these tender issues. What do you do? What would happen if you started making deposits into the relationship? Maybe the opportunity comes up to do him a little kindness, to bring home a magazine on skateboarding, if that’s his interest, or just to walk up to him when he’s working on a project and offer to help.
 
-Perhaps you could invite him to go to a movie with you or take him out for some ice cream. Probably the most important deposit you could make would be just to listen, without judging or preaching or reading your own autobiography into what he says. Just listen and seek to understand. Let him feel your concern for him, your acceptance of him as a person.
+Perhaps, you could invite him to go to a movie with you or take him out for some ice cream. Probably the most important deposit you could make would be just to listen, without judging or preaching or reading your own autobiography into what he says. Just listen and seek to understand. Let him feel your concern for him, your acceptance of him as a person.
 
 He may not respond at first. He may even be suspicious. What’s that up to now? What technique is mom trying on me this time?
 
@@ -2261,25 +2467,29 @@ Let me suggest six major deposits that build the emotional bank account. Underst
 
 What might be a deposit for you? Going for a walk to talk things over, going out for ice cream together, working on a common project might not be perceived by someone else as a deposit at all. It might even be perceived as a withdrawal, if it doesn’t touch the person’s deep interests or needs. One person’s mission is another person’s minutiae.
 
-To make a deposit, what is important to another person must be as important to you as the other person is to you. You may be working on a high priority project when your six-year-old child interrupts with something that seems trivial to you, but it may be very important from his point of view. It takes habit two to recognize and recommit yourself to the value of that person and habit three to subordinate your schedule to that human priority. By accepting the value he places on what he has to say, you show an understanding of him that makes a great deposit.
+To make a deposit, what is important to another person must be as important to you as the other person is to you. You may be working on a high priority project when your six-year-old child interrupts with something that seems trivial to you, but it may be very important from his point of view. It takes habit two to recognize and recommit yourself to the value of that person and habit three to subordinate your schedule to that human priority.
 
-I have a friend whose son developed an avid interest in baseball. My friend wasn’t interested in baseball at all. But one summer, he took his son to see every major league team play one game. The trip took over six weeks and cost a great deal of money, but it became a powerful bonding experience in their relationship.
+By accepting the value he places on what he has to say, you show an understanding of him that makes a great deposit. I have a friend whose son developed an avid interest in baseball. My friend wasn’t interested in baseball at all. But one summer, he took his son to see every major league team play one game.
 
-My friend was asked on his return, do you like baseball that much? No, he replied, but I like my son that much. I have another friend, a college professor, who had a terrible relationship with his teenage son. This man’s entire life was essentially academic, and he felt his son was totally wasting his life by working with his hands instead of working to develop his mind.
+The trip took over six weeks and cost a great deal of money, but it became a powerful bonding experience in their relationship. My friend was asked on his return, do you like baseball that much? No, he replied, but. I like my son that much.
 
-As a result, he was almost constantly on the boy’s back, and, in moments of regret, he would try to make deposits that just didn’t work. The boy perceived the gestures as new forms of rejection, comparison, and judgment. And they precipitated huge withdrawals. The relationship was turning sour, and it was breaking the father’s heart.
+I have another friend, a college professor, who had a terrible relationship with his teenage son. This man’s entire life was essentially academic, and he felt his son was totally wasting his life by working with his hands instead of working to develop his mind. As a result, he was almost constantly on the boy’s back, and, in moments of regret, he would try to make deposits that just didn’t work. The boy perceived the gestures as new forms of rejection, comparison, and judgment.
 
-One day I shared with him this principle of making what is important to the other person as important to you as the other person is to you. He took it deeply to heart. He engaged his son in a project to build a miniature wall of China around their home. It was a cons- assuming project, and they worked side by side on it for over a year and a half.
+And they precipitated huge withdrawals. The relationship was turning sour, and it was breaking the father’s heart.
 
-Through that bonding experience, the son moved through that phase in his life and into an increased desire to develop his mind. But the real benefit was what happened to the relationship. Instead of a sore spot, it became a source of joy and strength to both father and son. Our tendency is to project out of our own autobiographies what we think other people want or need.
+One day. I shared with him this principle of making what is important to the other person as important to you as the other person is to you. He took it deeply to heart. He engaged his son in a project to build a miniature wall of China around their home.
 
-We project our intentions on the behavior of others. We interpret what constitutes a deposit based on our own needs and desires, either now or when we were at a similar age or stage in life. If they don’t interpret our effort as a deposit, our tendency is to take it as a rejection of our well-intentioned effort and to give up. The golden rule says to do unto others as you would have others do unto you.
+It was a cons- assuming project, and they worked side by side on it for over a year and a half. Through that bonding experience, the son moved through that phase in his life and into an increased desire to develop his mind. But the real benefit was what happened to the relationship. Instead of a sore spot, it became a source of joy and strength to both father and son.
 
-While on the surface that could mean to do for them what you would like to have done for you, I think the more essential meaning is to understand them deeply as individuals, the way you would want to be understood, and then to treat them in terms of that understanding. As one successful parent said about raising children, treat them all the same by treating them differently. Attending to the little things The little kindnesses and courtesies are so important. Small discourtecies, little unkindnesses, little forms of disrespect make large withdrawals.
+Our tendency is to project out of our own autobiographies what we think other people want or need. We project our intentions on the behavior of others. We interpret what constitutes a deposit based on our own needs and desires, either now or when we were at a similar age or stage in life. If they don’t interpret our effort as a deposit, our tendency is to take it as a rejection of our well-intentioned effort and to give up.
 
-In relationships, the little things are the big things. I remember an evening I spent with two of my sons some years ago. It was an organized father and son outing, complete with gymnastics, wrestling matches, hot dogs, orangeade, and a movie, The Works. In the middle of the movie, Sean, who was then four years old, fell asleep in his seat.
+The golden rule says to do unto others as you would have others do unto you. While on the surface that could mean to do for them what you would like to have done for you, I think the more essential meaning is to understand them deeply as individuals, the way you would want to be understood, and then to treat them in terms of that understanding. As one successful parent said about raising children, treat them all the same by treating them differently.
 
-His older brother, Stephen, who was six, stayed awake, and we watched the rest of the movie together. When it was over, I picked Sean up in my arms, carried him out to the car and laid him in the back seat. It was very cold at night, so I took off my coat and gently arranged it over and around him. When we arrived home, I quickly carried Sean in and tucked him into bed.
+Attending to the little things The little kindnesses and courtesies are so important. Small discourtecies, little unkindnesses, little forms of disrespect make large withdrawals. In relationships, the little things are the big things. I remember an evening.
+
+I spent with two of my sons some years ago. It was an organized father and son outing, complete with gymnastics, wrestling matches, hot dogs, orangeade, and a movie, The Works. In the middle of the movie, Sean, who was then four years old, fell asleep in his seat. His older brother, Stephen, who was six, stayed awake, and we watched the rest of the movie together.
+
+When it was over, I picked Sean up in my arms, carried him out to the car and laid him in the back seat. It was very cold at night, so. I took off my coat and gently arranged it over and around him. When we arrived home, I quickly carried Sean in and tucked him into bed.
 
 After Stephen put on his jammies and brushed his teeth, I lay down next to him to talk about the night out together. How’d you like it, Stephen?
 
@@ -2297,29 +2507,35 @@ I sensed something was wrong. He had been so quiet on the way home and getting r
 
 Suddenly Stephen turned over on his side, facing the wall. I wondered why and lifted myself up just enough to see his eyes welling up with tears. What’s wrong, honey? What is it?
 
-He turned back, and I could sense he was feeling some embarrassment for the tears in his quivering lips and chin. Daddy, if I were cold, would you put your coat around me, too? Of all the events of that special night out together, the most important was a little act of kindness, a momentary, unconscious showing of love to his little brother. What a powerful, personal lesson that experience was to me then and is even now.
+He turned back, and. I could sense he was feeling some embarrassment for the tears in his quivering lips and chin. Daddy, if. I were cold, would you put your coat around me, too?
 
-People are very tender, very sensitive inside. I don’t believe age or experience makes much difference. Inside, even within the most toughened and calloused exteriors, are the tender feelings and emotions of the heart. Keeping commitments Keeping a commitment or a promise is a major deposit, breaking one is a major withdrawal.
+Of all the events of that special night out together, the most important was a little act of kindness, a momentary, unconscious showing of love to his little brother. What a powerful, personal lesson that experience was to me then and is even now. People are very tender, very sensitive inside. I don’t believe age or experience makes much difference.
 
-In fact, there’s probably not a more massive withdrawal than to make a promise that’s important to someone and then not to come through. The next time a promise is made, they won’t believe it. People tend to build their hopes around promises, particularly promises about their basic livelihood. I’ve tried to adopt a philosophy as a parent never to make a promise I don’t keep.
+Inside, even within the most toughened and calloused exteriors, are the tender feelings and emotions of the heart. Keeping commitments Keeping a commitment or a promise is a major deposit, breaking one is a major withdrawal.
 
-I therefore try to make them very carefully, very sparingly, and to be aware of as many variables and contingencies as possible so that something doesn’t suddenly come up to keep me from fulfilling it. Occasionally, despite all my effort, the unexpected does come up, creating a situation where it would be unwise or impossible to keep a promise I’ve made. But I value that promise. I either keep it anyway, or explain the situation thoroughly to the person involved in asked to be released from the promise.
+In fact, there’s probably not a more massive withdrawal than to make a promise that’s important to someone and then not to come through. The next time a promise is made, they won’t believe it. People tend to build their hopes around promises, particularly promises about their basic livelihood. I’ve tried to adopt a philosophy as a parent never to make a promise.
 
-I believe that if you cultivate the habit of always keeping the promises you make, you build bridges of trust that span the gaps of understanding between you and your child. Then, when your child wants to do something you don’t want him to do, and out of your maturity you can see consequences that the child cannot see, you can say, son, if you do this, I promise you that this will be the result. If that child has cultivated trust in your word, in your promises, he will act on your counsel.
+I don’t keep. I therefore try to make them very carefully, very sparingly, and to be aware of as many variables and contingencies as possible so that something doesn’t suddenly come up to keep me from fulfilling it. Occasionally, despite all my effort, the unexpected does come up, creating a situation where it would be unwise or impossible to keep a promise. I’ve made.
 
-Clarifying Expectations Imagine the difficulty you might encounter if you and your boss had different assumptions regarding whose role it was to create your job description. When am I going to get my job description? You might ask. I’ve been waiting for you to bring one to me so that we could discuss it, your boss might reply.
+But. I value that promise. I either keep it anyway, or explain the situation thoroughly to the person involved in asked to be released from the promise. I believe that if you cultivate the habit of always keeping the promises you make, you build bridges of trust that span the gaps of understanding between you and your child.
+
+Then, when your child wants to do something you don’t want him to do, and out of your maturity you can see consequences that the child cannot see, you can say, son, if you do this, I promise you that this will be the result. If that child has cultivated trust in your word, in your promises, he will act on your counsel. Clarifying Expectations Imagine the difficulty you might encounter if you and your boss had different assumptions regarding whose role it was to create your job description.
+
+When am. I going to get my job description? You might ask. I’ve been waiting for you to bring one to me so that we could discuss it, your boss might reply.
 
 I thought defining my job was your role. That’s not my role at all. Don’t you remember? Right from the first, I said that how you do in the job largely depends on you.
 
-I thought you meant that the quality of my job depended on me. But I don’t even know what my job really is. Unclear expectations in the area of goals also undermine communication and trust. I did exactly what you asked me to do and here is the report.
+I thought you meant that the quality of my job depended on me. But. I don’t even know what my job really is. Unclear expectations in the area of goals also undermine communication and trust.
 
-I don’t want a report. The goal was to solve the problem, not to analyze it and report on it. I thought the goal was to get a handle on the problem so we could delegate it to someone else. How many times have we had these kinds of conversations?
+I did exactly what you asked me to do and here is the report. I don’t want a report. The goal was to solve the problem, not to analyze it and report on it. I thought the goal was to get a handle on the problem so we could delegate it to someone else.
 
-You said, no, you’re wrong. I said, you did not. You never said I was supposed to, oh, yes I did. I clearly said, you never even mentioned.
+How many times have we had these kinds of conversations? You said, no, you’re wrong. I said, you did not. You never said.
 
-But that was our agreement. The cause of almost all relationship difficulties is rooted in conflicting or ambiguous expectations around roles and goals. Whether we are dealing with the question of who does what at work, how you communicate with your daughter when you tell her to clean her room, or who feeds the fish and takes out the garbage, we can be certain that unclear expectations will lead to misunderstanding, disappointment, and withdrawals of trust. Many expectations are implicit.
+I was supposed to, oh, yes. I did. I clearly said, you never even mentioned. But that was our agreement.
 
-They haven’t been explicitly stated or announced, but people nevertheless bring them to a particular situation. In marriage, for example, a man and a woman have implicit expectations of each other in their marriage roles. Although these expectations have not been discussed, or sometimes even recognized by the person who has them, fulfilling them makes great deposits in the relationship and violating
+The cause of almost all relationship difficulties is rooted in conflicting or ambiguous expectations around roles and goals. Whether we are dealing with the question of who does what at work, how you communicate with your daughter when you tell her to clean her room, or who feeds the fish and takes out the garbage, we can be certain that unclear expectations will lead to misunderstanding, disappointment, and withdrawals of trust. Many expectations are implicit. They haven’t been explicitly stated or announced, but people nevertheless bring them to a particular situation.
+
+In marriage, for example, a man and a woman have implicit expectations of each other in their marriage roles. Although these expectations have not been discussed, or sometimes even recognized by the person who has them, fulfilling them makes great deposits in the relationship and violating
 
 
 <a id="sec-053722"></a>
@@ -2335,21 +2551,25 @@ People can seek to understand, remember the little things, keep their promises, 
 
 This requires an integrated character, a oneness, primarily with self but also with life. One of the most important ways to manifest integrity is to be loyal to those who are not present. In doing so, we build the trust of those who are present. When you defend those who are absent, you retain the trust of those present.
 
-Suppose you and I were talking alone, and we were criticizing our supervisor in a way that we would not dare to do if you were present. Now what will happen when you and I have a falling out? You know I’m going to be discussing your weaknesses with someone else. That’s what you and I did behind our supervisor’s back.
+Suppose you and. I were talking alone, and we were criticizing our supervisor in a way that we would not dare to do if you were present. Now what will happen when you and. I have a falling out?
+
+You know. I’m going to be discussing your weaknesses with someone else. That’s what you and. I did behind our supervisor’s back.
 
 You know my nature. I’ll sweet talk you to your face and bad mouth to you behind your back. You’ve seen me do it. That’s the essence of duplicity.
 
-Does that build a reserve of trust in my account with you? On the other hand, suppose you were to start criticizing our supervisor and I basically told you I agree with the content of some of the criticism and suggest that the two of us go directly to him and make an effective presentation on how things might be improved. And what would you know I would do if someone were to criticize you to me behind your back? For another example, suppose in my effort to build a relationship with you, I told you something someone else had shared with me in confidence.
+Does that build a reserve of trust in my account with you? On the other hand, suppose you were to start criticizing our supervisor and. I basically told you. I agree with the content of some of the criticism and suggest that the two of us go directly to him and make an effective presentation on how things might be improved.
 
-I really shouldn’t tell you this, I might say, but since you’re my friend, would my betraying another person build my trust account with you? Or would you wonder if the things you had told me in confidence were being shared with others? Such duplicity might appear to be making a deposit with the person you’re with, but it is actually a withdrawal because you communicate your own lack of integrity. You may get the golden egg of temporary pleasure from putting someone down or sharing privileged information, but you’re strangling the goose, weakening the relationship that provides enduring pleasure in association.
+And what would you know. I would do if someone were to criticize you to me behind your back? For another example, suppose in my effort to build a relationship with you, I told you something someone else had shared with me in confidence. I really shouldn’t tell you this, I might say, but since you’re my friend, would my betraying another person build my trust account with you?
 
-Integrity in an interdependent reality is simply this, you treat everyone by the same set of principles. As you do, people will come to trust you. They may not at first appreciate the honest confrontational experiences such integrity might generate. Confrontation takes considerable courage, and many people would prefer to take the course of least resistance, belittling and criticizing, betraying confidences, or participating in gossip about others behind their backs.
+Or would you wonder if the things you had told me in confidence were being shared with others? Such duplicity might appear to be making a deposit with the person you’re with, but it is actually a withdrawal because you communicate your own lack of integrity. You may get the golden egg of temporary pleasure from putting someone down or sharing privileged information, but you’re strangling the goose, weakening the relationship that provides enduring pleasure in association. Integrity in an interdependent reality is simply this, you treat everyone by the same set of principles.
 
-But in the long run, people will trust and respect you if you are honest and open and kind with them. You care enough to confront. And to be trusted, it is said, is greater than to be loved. In the long run, I am convinced, to be trusted will be also to be loved.
+As you do, people will come to trust you. They may not at first appreciate the honest confrontational experiences such integrity might generate. Confrontation takes considerable courage, and many people would prefer to take the course of least resistance, belittling and criticizing, betraying confidences, or participating in gossip about others behind their backs. But in the long run, people will trust and respect you if you are honest and open and kind with them.
 
-When my son Joshua was quite young, he would frequently ask me a soul-searching question. Whenever I overreacted to someone else or was the least bit impatient or unkind, he was so vulnerable and so honest and our relationship was so good that he would simply look me in the eye and say, Dad, do you love me? If he thought I was breaking a basic principle of life toward someone else, he wondered if I wouldn’t break it with him. As a teacher, as well as a parent, I have found that the key to the 99 is the one.
+You care enough to confront. And to be trusted, it is said, is greater than to be loved. In the long run, I am convinced, to be trusted will be also to be loved. When my son Joshua was quite young, he would frequently ask me a soul-searching question.
 
-Particularly the one that is testing the patience and the good humor of the many. It is the love and the discipline of the one student, the one child, that communicates
+Whenever. I overreacted to someone else or was the least bit impatient or unkind, he was so vulnerable and so honest and our relationship was so good that he would simply look me in the eye and say, Dad, do you love me? If he thought. I was breaking a basic principle of life toward someone else, he wondered if.
+
+I wouldn’t break it with him. As a teacher, as well as a parent, I have found that the key to the 99 is the one. Particularly the one that is testing the patience and the good humor of the many. It is the love and the discipline of the one student, the one child, that communicates
 
 
 <a id="sec-054226"></a>
@@ -2361,29 +2581,33 @@ A lie is any communication with intent to deceive, according to one definition o
 
 What deposits come in the sincere words? I was wrong. That was unkind of me. I showed you no respect.
 
-I gave you no dignity, and I’m deeply sorry. I embarrassed you in front of your friends and I had no call to do that. Even though I wanted to make a point, I never should have done it. I apologize.
+I gave you no dignity, and. I’m deeply sorry. I embarrassed you in front of your friends and. I had no call to do that.
 
-It takes a great deal of character strength to apologize quickly out of one’s heart rather than out of pity. A person must possess himself and have a deep sense of security and fundamental principles and values in order to genuinely apologize. People with little internal security can’t do it. It makes them too vulnerable.
+Even though. I wanted to make a point, I never should have done it. I apologize. It takes a great deal of character strength to apologize quickly out of one’s heart rather than out of pity.
 
-They feel it makes them appear soft and weak, and they fear that others will take advantage of their weakness. Their security is based on the opinions of other people, and they worry about what others might think. In addition, they usually feel justified in what they did. They rationalize their own wrong in the name of the other person’s wrong, and if they apologize at all, it’s superficial.
+A person must possess himself and have a deep sense of security and fundamental principles and values in order to genuinely apologize. People with little internal security can’t do it. It makes them too vulnerable. They feel it makes them appear soft and weak, and they fear that others will take advantage of their weakness.
 
-If you’re going to bow, bow low, says eastern wisdom. Pay the uttermost farthing, says the Christian ethic. To be a deposit, an apology must be sincere. And it must be perceived as sincere.
+Their security is based on the opinions of other people, and they worry about what others might think. In addition, they usually feel justified in what they did. They rationalize their own wrong in the name of the other person’s wrong, and if they apologize at all, it’s superficial. If you’re going to bow, bow low, says eastern wisdom.
 
-Leo Roskin taught, it is the weak who are cruel. Gentleness can only be expected from the strong. I was in my office at home one afternoon writing, of all things, on the subject of patience. I could hear the boys running up and down the hall making loud banging noises, and I could feel my own patience beginning to wane.
+Pay the uttermost farthing, says the Christian ethic. To be a deposit, an apology must be sincere. And it must be perceived as sincere. Leo Roskin taught, it is the weak who are cruel.
+
+Gentleness can only be expected from the strong. I was in my office at home one afternoon writing, of all things, on the subject of patience. I could hear the boys running up and down the hall making loud banging noises, and. I could feel my own patience beginning to wane.
 
 Suddenly, my son David started pounding on the bathroom door, yelling at the top of his lungs, let me in. Let me in. I rushed out of the office and spoke to him with great intensity. David, do you have any idea how disturbing that is to me?
 
-Do you know how hard it is to try to concentrate and write creatively? Now, you go into your room and stay in there until you can behave yourself. So when he went, dejected, and shut the door. As I turned around, I became aware of another problem.
+Do you know how hard it is to try to concentrate and write creatively? Now, you go into your room and stay in there until you can behave yourself. So when he went, dejected, and shut the door. As.
 
-The boys had been playing tackle football in the four-foot wide hallway, and one of them had been elbowed in the mouth. He was lying there in the hall, bleeding from the mouth. David, I discovered, had gone to the bathroom to get a wet towel for him. But his sister, Maria, who was taking a shower, wouldn’t open the door.
+I turned around, I became aware of another problem. The boys had been playing tackle football in the four-foot wide hallway, and one of them had been elbowed in the mouth. He was lying there in the hall, bleeding from the mouth. David, I discovered, had gone to the bathroom to get a wet towel for him.
 
-When I realized that I had completely misinterpreted the situation and had overreacted, I immediately went in to apologize to David. As I opened the door, the first thing he said to me was, I won’t forgive you. Well, why not, honey? I replied.
+But his sister, Maria, who was taking a shower, wouldn’t open the door. When. I realized that. I had completely misinterpreted the situation and had overreacted, I immediately went in to apologize to David.
+
+As. I opened the door, the first thing he said to me was, I won’t forgive you. Well, why not, honey? I replied.
 
 Honestly, I didn’t realize you were trying. To help your brother. Why won’t you forgive me? Because you did the same thing last week, he replied.
 
 In other words, he was saying, dad, you’re overdrawn, and you’re not going to talk your way out of a problem you behaved yourself into. Sincere apologies make deposits, repeated apologies interpreted as insincere make withdrawals. And the quality of the relationship reflects it. It is one thing to make a mistake, and quite another thing not to admit it.
 
-People will forgive mistakes, because mistakes are usually of the mind, mistakes of judgment. But people will not easily forgive the mistakes of the heart, the ill intention, the bad motives, the prideful justifying cover-up of the first mistake. The Laws of Love and the Laws of Life When we make deposits of unconditional love, when we live the primary laws of love, we encourage others to live the primary laws of life.
+People will forgive mistakes, because mistakes are usually of the mind, mistakes of judgment. But people will not easily forgive the mistakes of the heart, the ill intention, the bad motives, the prideful justifying cover-up of the first mistake. The Laws of Love and the Laws of Life. When we make deposits of unconditional love, when we live the primary laws of love, we encourage others to live the primary laws of life.
 
 In other words, when we truly love others without condition, without strings, we help them feel secure and safe and validated and affirmed in their essential worth, identity, and integrity. Their natural growth process is encouraged. We make it easier for them to live the laws of life, cooperation, contribution, self-discipline, integrity, and to discover and live true to the highest and best within them. We give them the freedom to act on their own inner imperatives rather than react to our conditions and limitations.
 
@@ -2393,15 +2617,15 @@ This does not mean we become permissive or soft. That itself is a massive withdr
 <a id="sec-054729"></a>
 ### ⏱️ [05:47:29 - 05:52:30]
 
-But we love, regardless. When we violate the primary laws of love, when we attach strings and conditions to that gift, we actually encourage others to violate the primary laws of life. We put them in a reactive, defensive position where they feel they have to prove I matter as a person, independent of you. In reality, they aren’t independent.
+But we love, regardless. When we violate the primary laws of love, when we attach strings and conditions to that gift, we actually encourage others to violate the primary laws of life. We put them in a reactive, defensive position where they feel they have to prove. I matter as a person, independent of you.
 
-They are counterdependent, which is another form of dependency and is at the lowest end of the maturity continuum. They become reactive, almost enemy-centered, more concerned about defending their rights and producing evidence of their individuality than they are about proactively listening to and honoring their own inner imperatives. Rebellion is a nod of the heart, nod of the mind. The key is to make deposits constant deposits of unconditional love.
+In reality, they aren’t independent. They are counterdependent, which is another form of dependency and is at the lowest end of the maturity continuum. They become reactive, almost enemy-centered, more concerned about defending their rights and producing evidence of their individuality than they are about proactively listening to and honoring their own inner imperatives. Rebellion is a nod of the heart, nod of the mind.
 
-I once had a friend who was dean of a very prestigious school. He planned and saved for years to provide his son the opportunity to attend that institution, but when the time came, the boy refused to go. This deeply concerned his father. Graduating from that particular school would have been a great asset to the boy.
+The key is to make deposits constant deposits of unconditional love. I once had a friend who was dean of a very prestigious school. He planned and saved for years to provide his son the opportunity to attend that institution, but when the time came, the boy refused to go. This deeply concerned his father.
 
-Besides, it was a family tradition. Three generations of attendants preceded the boy. The father pleaded and urged and talked. He also tried to listen to the boy to understand him, all the while hoping that the son would change his mind.
+Graduating from that particular school would have been a great asset to the boy. Besides, it was a family tradition. Three generations of attendants preceded the boy. The father pleaded and urged and talked.
 
-The subtle message being communicated was one of conditional love. The son felt that in a sense the father’s desire for him to attend the school outweighed the value he placed on him as a person and as a son, which was terribly threatening.
+He also tried to listen to the boy to understand him, all the while hoping that the son would change his mind. The subtle message being communicated was one of conditional love. The son felt that in a sense the father’s desire for him to attend the school outweighed the value he placed on him as a person and as a son, which was terribly threatening.
 
 Consequently, he fought for and with his own identity and integrity, and he increased in his resolve and his efforts to rationalize his decision not to go. After some intense soul searching, the father decided to make a sacrifice, to renounce conditional love. He knew that his son might choose differently than he had wished, nevertheless, he and his wife resolved to love their son unconditionally, regardless of his choice. It was an extremely difficult thing to do because the value of his educational experience was so close to their hearts and because it was something they had planned and worked for since his birth.
 
@@ -2411,33 +2635,37 @@ The boy didn’t give much of a response at the time, but his parents had such a
 
 A short time later, an interesting thing happened. Now that the boy no longer felt he had to defend his position, he searched within himself more deeply and found that he really did want to have this educational experience. He applied for admission, and then he told his father, who again showed unconditional love by fully accepting his son’s decision. My friend was happy, but not excessively so, because he had truly learned to love without condition.
 
-Dag Hammarhult, past Secretary General of the United Nations, once made a profound, far reaching statement, it is more noble to give yourself completely to one individual than to labor diligently for the salvation of the masses. I take that to mean that I could devote 8, 10, or 12 hours a day, 5, 6, or 7 days a week to the thousands of people and projects out there and still not have a deep, meaningful relationship with my own spouse, with my own teenage son, with my closest working associate.
+Dag Hammarhult, past Secretary General of the United Nations, once made a profound, far reaching statement, it is more noble to give yourself completely to one individual than to labor diligently for the salvation of the masses. I take that to mean that. I could devote 8, 10, or 12 hours a day, 5, 6, or 7 days a week to the thousands of people and projects out there and still not have a deep, meaningful relationship with my own spouse, with my own teenage son, with my closest working associate.
 
 And it would take more nobility of character, more humility, courage, and strength, to rebuild that one relationship than it would to continue putting in all those hours for all those people and causes. In 25 years of consulting with organizations, I have been impressed over and over again by the power of that statement. Many of the problems in organizations stem from relationship difficulties at the very top, between two partners in a professional firm, between the owner and the president of a company, between the president and an executive vice president.
 
-It truly takes more nobility of character to confront and resolve those issues than it does to continue to diligently work for the many projects and people out there. When I first came across Hammarhult’s statement, I was working in an organization where there were unclear expectations between the individual who was my right hand man and myself. I simply did not have the courage to confront our differences regarding role and goal expectations and values, particularly in our methods of administration.
+It truly takes more nobility of character to confront and resolve those issues than it does to continue to diligently work for the many projects and people out there. When. I first came across Hammarhult’s statement, I was working in an organization where there were unclear expectations between the individual who was my right hand man and myself. I simply did not have the courage to confront our differences regarding role and goal expectations and values, particularly in our methods of administration.
 
 
 <a id="sec-055230"></a>
 ### ⏱️ [05:52:30 - 05:57:31]
 
-So I worked for a number of months in a compromise mode to avoid what might turn out to be an ugly confrontation. All the while, bad feelings were developing inside both of us. After reading that it is more noble to give yourself completely to one individual than to labor diligently for the salvation of the masses, I was deeply affected by the idea of rebuilding that relationship. I had to steal myself for what lay ahead, because I knew it would be hard to really get the issues out and to achieve a deep, common understanding and commitment.
+So. I worked for a number of months in a compromise mode to avoid what might turn out to be an ugly confrontation. All the while, bad feelings were developing inside both of us. After reading that it is more noble to give yourself completely to one individual than to labor diligently for the salvation of the masses, I was deeply affected by the idea of rebuilding that relationship.
 
-I remember actually shaking in anticipation of the visit. He seemed like such a hard man, so set in his own ways and so right in his own eyes, yet I needed his strengths and abilities. I was afraid a confrontation might jeopardize the relationship and result in my losing those strengths. I went through a metal dress rehearsal of the anticipated visit, and I finally became settled within myself around the principles rather than the practices of what I was going to do and say.
+I had to steal myself for what lay ahead, because. I knew it would be hard to really get the issues out and to achieve a deep, common understanding and commitment. I remember actually shaking in anticipation of the visit. He seemed like such a hard man, so set in his own ways and so right in his own eyes, yet.
 
-At last I felt peace of mind and the courage to have the communication. When we met together, to my total surprise, I discovered that this man had been going through the very same process and had been longing for such a conversation. He was anything but hard and defensive. Nevertheless, our administrative styles were considerably different, and the entire organization was responding to these differences.
+I needed his strengths and abilities. I was afraid a confrontation might jeopardize the relationship and result in my losing those strengths. I went through a metal dress rehearsal of the anticipated visit, and. I finally became settled within myself around the principles rather than the practices of what.
 
-We both acknowledged the problems that our disunity had created. Over several visits, we were able to confront the deeper issues, to get them all out on the table, and to resolve them, one by one, with the spirit of high mutual respect. We were able to develop a powerful complementary theme and a deep personal affection which added tremendously to our ability to work effectively together. Creating the unity necessary to run an effective business or a family or a marriage requires great personal strength and courage.
+I was going to do and say. At last. I felt peace of mind and the courage to have the communication. When we met together, to my total surprise, I discovered that this man had been going through the very same process and had been longing for such a conversation.
 
-No amount of technical administrative skill and laboring for the masses can make up for lack of nobility of personal character in developing relationships. It is at a very essential, one-on-one level, that we live the primary laws of love and life. Problems are PC opportunities. This experience also taught me another powerful paradigm of interdependence.
+He was anything but hard and defensive. Nevertheless, our administrative styles were considerably different, and the entire organization was responding to these differences. We both acknowledged the problems that our disunity had created. Over several visits, we were able to confront the deeper issues, to get them all out on the table, and to resolve them, one by one, with the spirit of high mutual respect.
 
-It deals with the way in which we see problems. I had lived for months trying to avoid the problem, seeing it as a source of irritation, a stumbling block, and wishing it would somehow go away. But, as it turned out, the very problem created the opportunity to build a deep relationship that empowered us to work together as a strong complementary team. I suggest that in an interdependent situation, every P-problem is a PC opportunity, a chance to build the emotional bank accounts that significantly affect interdependent production.
+We were able to develop a powerful complementary theme and a deep personal affection which added tremendously to our ability to work effectively together. Creating the unity necessary to run an effective business or a family or a marriage requires great personal strength and courage. No amount of technical administrative skill and laboring for the masses can make up for lack of nobility of personal character in developing relationships. It is at a very essential, one-on-one level, that we live the primary laws of love and life.
 
-When parents see their children’s problems as opportunities to build the relationship instead of as negative, burdensome irritations, it totally changes the nature of parent-child interaction. Parents become more willing, even excited, about deeply understanding and helping their children. When a child comes to them with a problem, instead of thinking, oh, no. Not another problem. Their paradigm is, here is a great opportunity for me to really help my child and to invest in our relationship.
+Problems are PC opportunities. This experience also taught me another powerful paradigm of interdependence. It deals with the way in which we see problems. I had lived for months trying to avoid the problem, seeing it as a source of irritation, a stumbling block, and wishing it would somehow go away.
 
-Many interactions change from transactional to transformational, and strong bonds of love and trust are created as children sense the value parents give to their problems and to them as individuals. This paradigm is powerful in business as well. One department store chain that operates from this paradigm has created a great loyalty among its customers. Any time a customer comes into the store with a problem, no matter how small, the clerks immediately see it as an opportunity to build the relationship with the customer.
+But, as it turned out, the very problem created the opportunity to build a deep relationship that empowered us to work together as a strong complementary team. I suggest that in an interdependent situation, every P-problem is a PC opportunity, a chance to build the emotional bank accounts that significantly affect interdependent production. When parents see their children’s problems as opportunities to build the relationship instead of as negative, burdensome irritations, it totally changes the nature of parent-child interaction. Parents become more willing, even excited, about deeply understanding and helping their children.
 
-They respond with a cheerful, positive desire to solve the problem in a way that will make the customer happy. They treat the customer with such grace and respect, giving such second-mile service, that many of the customers don’t even think of going anywhere else. By recognizing that the P slash PC balance is necessary to effectiveness in an interdependent reality, we can value our problems as opportunities to increase PC. The Habits of Interdependence With the paradigm of the emotional bank account in mind, we’re ready to move into the habits of public victory, of success in working with other people.
+When a child comes to them with a problem, instead of thinking, oh, no. Not another problem. Their paradigm is, here is a great opportunity for me to really help my child and to invest in our relationship. Many interactions change from transactional to transformational, and strong bonds of love and trust are created as children sense the value parents give to their problems and to them as individuals.
+
+This paradigm is powerful in business as well. One department store chain that operates from this paradigm has created a great loyalty among its customers. Any time a customer comes into the store with a problem, no matter how small, the clerks immediately see it as an opportunity to build the relationship with the customer. They respond with a cheerful, positive desire to solve the problem in a way that will make the customer happy.
+
+They treat the customer with such grace and respect, giving such second-mile service, that many of the customers don’t even think of going anywhere else. By recognizing that the P slash PC balance is necessary to effectiveness in an interdependent reality, we can value our problems as opportunities to increase PC. The Habits of Interdependence. With the paradigm of the emotional bank account in mind, we’re ready to move into the habits of public victory, of success in working with other people.
 
 As we do, we can see how these habits work together to create effective interdependence. We can also see how powerfully scripted we are in other patterns of thought and behavior. In addition, we can see on an even deeper level that effective interdependence can only be achieved by truly independent people. It is impossible to achieve public victory with popular win slash win negotiation techniques or reflective listening techniques or creative problem-solving techniques that focus on personality and truncate the vital character base.
 
@@ -2447,29 +2675,31 @@ Let’s now focus on each of the public victory habits in depth.
 <a id="sec-055731"></a>
 ### ⏱️ [05:57:31 - 06:02:33]
 
-Some of the details of this story have been changed to protect the privacy of those involved. Habit 4 Think Win Slash Win Principles of Interpersonal Leadership We have committed the golden rule to memory, let us now commit it to life. Edwin Markham One time I was asked to work with a company whose president was very concerned about the lack of cooperation among his people. Our basic problem, Stephen, is that they’re selfish, he said.
+Some of the details of this story have been changed to protect the privacy of those involved. Habit 4 Think Win Slash Win Principles of Interpersonal Leadership. We have committed the golden rule to memory, let us now commit it to life. Edwin Markham One time.
 
-They just won’t cooperate. I know if they would cooperate, we could produce so much more. Can you help us develop a human relations program that will solve the problem? Is your problem the people or the paradigm?
+I was asked to work with a company whose president was very concerned about the lack of cooperation among his people. Our basic problem, Stephen, is that they’re selfish, he said. They just won’t cooperate. I know if they would cooperate, we could produce so much more.
 
-I asked. Look for yourself, he replied. So I did. And I found that there was a real selfishness, an unwillingness to cooperate, a resistance to authority, defensive communication.
+Can you help us develop a human relations program that will solve the problem? Is your problem the people or the paradigm? I asked. Look for yourself, he replied.
 
-I could see that overdrawn emotional bank accounts had created a culture of low trust. But I pressed the question. Let’s look at it deeper, I suggested. Why don’t your people cooperate?
+So. I did. And. I found that there was a real selfishness, an unwillingness to cooperate, a resistance to authority, defensive communication.
 
-What is the reward for not cooperating? There’s no reward for not cooperating, he assured me. The rewards are much greater if they do cooperate. Are they?
+I could see that overdrawn emotional bank accounts had created a culture of low trust. But. I pressed the question. Let’s look at it deeper, I suggested.
 
-I asked. Behind a curtain on one wall of this man’s office was a chart. On the chart were a number of racehorses all lined up on a track. The paper imposed on the face of each horse was the face of one of his managers.
+Why don’t your people cooperate? What is the reward for not cooperating? There’s no reward for not cooperating, he assured me. The rewards are much greater if they do cooperate.
 
-At the end of the track was a beautiful travel poster of Bermuda, an idyllic picture of blue skies and fleecy clouds and a romantic couple walking hand in hand down a white sandy beach. Once a week, this man would bring all his people into this office and talk cooperation. Let’s all work together. We’ll all make more money if we do.
+Are they? I asked. Behind a curtain on one wall of this man’s office was a chart. On the chart were a number of racehorses all lined up on a track.
 
-Then he would pull the curtain and show them the chart. Now which of you is going to win the trip to Bermuda? It was like telling one flower to grow and watering another, like saying firings will continue until morale improves. He wanted cooperation.
+The paper imposed on the face of each horse was the face of one of his managers. At the end of the track was a beautiful travel poster of Bermuda, an idyllic picture of blue skies and fleecy clouds and a romantic couple walking hand in hand down a white sandy beach. Once a week, this man would bring all his people into this office and talk cooperation. Let’s all work together.
 
-He wanted his people to work together, to share ideas, to all benefit from the effort. But he was setting them up in competition with each other. One manager’s success meant failure for the other managers. As with many, many problems between people in business, family, and other relationships, the problem in this company was the result of the company’s success. of a flawed paradigm.
+We’ll all make more money if we do. Then he would pull the curtain and show them the chart. Now which of you is going to win the trip to Bermuda? It was like telling one flower to grow and watering another, like saying firings will continue until morale improves.
 
-The president was trying to get the fruits of cooperation from a paradigm of competition. And when it didn’t work, he wanted a technique, a program, a quick fix antidote to make his people cooperate. But you can’t change the fruit without changing the root. Working on the attitudes and behaviors would have been hacking at the leaves.
+He wanted cooperation. He wanted his people to work together, to share ideas, to all benefit from the effort. But he was setting them up in competition with each other. One manager’s success meant failure for the other managers.
 
-So we focused instead on producing personal and organizational excellence in an entirely different way by developing information and reward systems which reinforce the value of cooperation. Whether you are the president of a company or the janitor, the moment you step from independence into interdependence in any capacity, you step into a leadership role. You are in a position of influencing other people. And the habit of effective interpersonal leadership is think win slash win.
+As with many, many problems between people in business, family, and other relationships, the problem in this company was the result of the company’s success. of a flawed paradigm. The president was trying to get the fruits of cooperation from a paradigm of competition. And when it didn’t work, he wanted a technique, a program, a quick fix antidote to make his people cooperate. But you can’t change the fruit without changing the root.
 
-Six paradigms of human interaction. Win slash win is not a technique, it’s a total philosophy of human interaction.
+Working on the attitudes and behaviors would have been hacking at the leaves. So we focused instead on producing personal and organizational excellence in an entirely different way by developing information and reward systems which reinforce the value of cooperation. Whether you are the president of a company or the janitor, the moment you step from independence into interdependence in any capacity, you step into a leadership role. You are in a position of influencing other people.
+
+And the habit of effective interpersonal leadership is think win slash win. Six paradigms of human interaction. Win slash win is not a technique, it’s a total philosophy of human interaction.
 
 In fact, it is one of six paradigms of interaction. The alternative paradigms are win slash lose, lose slash win, lose slash lose, win, and win slash win or no deal. Win slash win. Lose slash lose.
 
@@ -2481,47 +2711,49 @@ Win slash win sees life as a cooperative, not a competitive arena. Most people t
 
 Win slash win is based on the paradigm that there is plenty for everybody, that one person’s success is not achieved at the expense or exclusion of the success of others. Win slash win is a belief in the third alternative. It’s not your way or my way, it’s a better way, a higher way. Win slash lose.
 
-One alternative to win slash win is win slash lose, the paradigm of the race to Bermuda. It says if I win, you’ll lose. In leadership style, win slash lose is the authoritarian approach, I get my way, you
+One alternative to win slash win is win slash lose, the paradigm of the race to Bermuda. It says if. I win, you’ll lose. In leadership style, win slash lose is the authoritarian approach, I get my way, you
 
 
 <a id="sec-060233"></a>
 ### ⏱️ [06:02:33 - 06:07:36]
 
-don’t get yours. Win slash lose people are prone to use position, power, credentials, possessions, or personality to get their way. Most people have been deeply scripted in the win slash lose mentality since birth. First and most important of the powerful forces at work is the family.
+don’t get yours. Win slash lose people are prone to use position, power, credentials, possessions, or personality to get their way. Most people have been deeply scripted in the win slash lose mentality since birth.
 
-When one child is compared with another one patience, understanding or love is given or withdrawn on the basis of such comparisons people are into win slash lose thinking. Whenever love is given on a conditional basis, when someone has to earn love, what’s being communicated to them is that they are not intrinsically valuable or luggable. Value does not lie inside them, it lies outside. It’s in comparison with somebody else or against some expectation.
+First, and most important of the powerful forces at work is the family. When one child is compared with another one patience, understanding or love is given or withdrawn on the basis of such comparisons people are into win slash lose thinking. Whenever love is given on a conditional basis, when someone has to earn love, what’s being communicated to them is that they are not intrinsically valuable or luggable. Value does not lie inside them, it lies outside.
 
-And what happens to a young mind and heart, highly vulnerable, highly dependent upon the support and emotional affirmation of the parents, in the face of conditional love. The child is molded, shaped, and programmed in the win slash lose mentality. If I’m better than my brother, my parents will love me more. My parents don’t love me as much as they love my sister.
+It’s in comparison with somebody else or against some expectation. And what happens to a young mind and heart, highly vulnerable, highly dependent upon the support and emotional affirmation of the parents, in the face of conditional love. The child is molded, shaped, and programmed in the win slash lose mentality. If.
 
-I must not be as valuable. Another powerful scripting agency is the peer group. A child first wants acceptance from his parents and then from his peers, whether they be siblings or friends. And we all know how cruel peers sometimes can be.
+I’m better than my brother, my parents will love me more. My parents don’t love me as much as they love my sister. I must not be as valuable. Another powerful scripting agency is the peer group.
 
-They often accept or reject totally on the basis of conformity to their expectations and norms, providing additional scripting toward win slash lose. The academic world reinforces win slash lose scripting. The normal distribution curve basically says that you got an A because someone else got a C. It interprets an individual’s value by comparing him or her to everyone else.
+A child first wants acceptance from his parents and then from his peers, whether they be siblings or friends. And we all know how cruel peers sometimes can be. They often accept or reject totally on the basis of conformity to their expectations and norms, providing additional scripting toward win slash lose. The academic world reinforces win slash lose scripting.
 
-No recognition is given to intrinsic value, everyone is extrinsically defined. Oh, how nice to see you here at our PTA meeting. You ought to be really proud of your daughter, Caroline. She’s in the upper 10%.
+The normal distribution curve basically says that you got an A because someone else got a C. It interprets an individual’s value by comparing him or her to everyone else. No recognition is given to intrinsic value, everyone is extrinsically defined. Oh, how nice to see you here at our PTA meeting.
 
-That makes me feel good. But your son, Johnny, is in trouble. He’s in the lower quartile. Really?
+You ought to be really proud of your daughter, Caroline. She’s in the upper 10%. That makes me feel good. But your son, Johnny, is in trouble.
 
-Oh, that’s terrible. What can we do about it? What this kind of comparative information doesn’t tell you is that perhaps Johnny is going on all eight cylinders while Caroline is coasting on 404-8. But people are not graded against their potential or against the full use of their present capacity.
+He’s in the lower quartile. Really? Oh, that’s terrible. What can we do about it?
 
-They are graded in relation to other people. And grades are carriers of social value, they open doors of opportunity or they close them. Competition, not cooperation, lies at the core of the educational process. Cooperation, in fact, is usually associated with cheating.
+What this kind of comparative information doesn’t tell you is that perhaps Johnny is going on all eight cylinders while Caroline is coasting on 404-8. But people are not graded against their potential or against the full use of their present capacity. They are graded in relation to other people. And grades are carriers of social value, they open doors of opportunity or they close them.
 
-Another powerful programming agent is athletics, particularly for young men in their high school or college years. Often they develop the basic paradigm that life is a big game, a zero-sum game where some win and some lose. Winning is beating in the athletic arena. Another agent is law.
+Competition, not cooperation, lies at the core of the educational process. Cooperation, in fact, is usually associated with cheating. Another powerful programming agent is athletics, particularly for young men in their high school or college years. Often they develop the basic paradigm that life is a big game, a zero-sum game where some win and some lose.
 
-We live in a litigious society. The first thing many people think about when they get into trouble is suing someone, taking them to court, winning at someone else’s expense. But defensive minds are neither creative nor cooperative. Maybe we need law or else society will deteriorate.
+Winning is beating in the athletic arena. Another agent is law. We live in a litigious society. The first thing many people think about when they get into trouble is suing someone, taking them to court, winning at someone else’s expense.
 
-It provides survival, but it doesn’t create synergy. At best it results in compromise. Law is based on an adversarial concept. The recent trend of encouraging lawyers and law schools to focus on peaceable negotiation, the techniques of win-slash-win, and the use of private courts, may not provide the ultimate solution, but it does reflect a growing awareness of the problem.
+But defensive minds are neither creative nor cooperative. Maybe we need law or else society will deteriorate. It provides survival, but it doesn’t create synergy. At best it results in compromise.
 
-Certainly there is a place for win slash lose thinking in truly competitive and low trust situations. But most of life is not a competition. We don’t have to live each day competing with our spouse, our children, our coworkers, our neighbors, and our friends. Who’s winning in your marriage?
+Law is based on an adversarial concept. The recent trend of encouraging lawyers and law schools to focus on peaceable negotiation, the techniques of win-slash-win, and the use of private courts, may not provide the ultimate solution, but it does reflect a growing awareness of the problem. Certainly there is a place for win slash lose thinking in truly competitive and low trust situations. But most of life is not a competition.
 
-Is a ridiculous question. If both people aren’t winning, both are losing. Most of life is an interdependent, not an independent, reality. Most results you want depend on cooperation between you and others.
+We don’t have to live each day competing with our spouse, our children, our coworkers, our neighbors, and our friends. Who’s winning in your marriage? Is a ridiculous question. If both people aren’t winning, both are losing.
 
-And the win slash lose mentality is dysfunctional to that cooperation. Lose slash win. Some people are programmed the other way lose slash win. I lose, you win.
+Most of life is an interdependent, not an independent, reality. Most results you want depend on cooperation between you and others. And the win slash lose mentality is dysfunctional to that cooperation. Lose slash win.
 
-Go ahead. Have your way with me. Step on me again. Everyone does.
+Some people are programmed the other way lose slash win. I lose, you win. Go ahead. Have your way with me.
 
-I’m a loser. I’ve always been a loser. I’m a peacemaker. I’ll do anything to keep peace.
+Step on me again. Everyone does. I’m a loser. I’ve always been a loser.
 
-Lose slash win is worse than win slash lose because it has no standards no demands, no expectations, no vision. People who think lose slash win are usually quick to please or appease. They seek strength from popularity or acceptance. They have little courage to express their own feelings and convictions and are easily
+I’m a peacemaker. I’ll do anything to keep peace. Lose slash win is worse than win slash lose because it has no standards no demands, no expectations, no vision. People who think lose slash win are usually quick to please or appease.
+
+They seek strength from popularity or acceptance. They have little courage to express their own feelings and convictions and are easily
 
 
 <a id="sec-060736"></a>
@@ -2547,9 +2779,11 @@ What matters is that they get what they want. When there is no sense of contest 
 
 Of these five philosophies discussed so far win slash win, win slash lose, lose slash win, lose slash lose, and win which is the most effective? The answer is, it depends. If you win a football game, that means the other team loses. If you work in a regional office that is miles away from another regional office, and you don’t have any functional relationship between the offices, you may want to compete in a win slash lose situation to stimulate business.
 
-However, you would not want to set up a win slash lose situation like the race to Bermuda contest within a company or in a situation where you need cooperation among people or groups of people to achieve maximum success. If you value a relationship and the issue isn’t really that important, you may want to go for lose slash win in some circumstances to genuinely affirm the other person. What I want isn’t as important to me as my relationship with you. Let’s do it your way this time.
+However, you would not want to set up a win slash lose situation like the race to Bermuda contest within a company or in a situation where you need cooperation among people or groups of people to achieve maximum success. If you value a relationship and the issue isn’t really that important, you may want to go for lose slash win in some circumstances to genuinely affirm the other person. What. I want isn’t as important to me as my relationship with you.
 
-You might also go for lose slash win if you feel the expense of time and effort to achieve a win of any kind would violate other higher values. Maybe it just isn’t worth it. There are circumstances in which you would want to win, and you wouldn’t be highly concerned with the relationship of that win to others. If your child’s life were in danger, for example, you might be peripherally concerned
+Let’s do it your way this time. You might also go for lose slash win if you feel the expense of time and effort to achieve a win of any kind would violate other higher values. Maybe it just isn’t worth it. There are circumstances in which you would want to win, and you wouldn’t be highly concerned with the relationship of that win to others.
+
+If your child’s life were in danger, for example, you might be peripherally concerned
 
 
 <a id="sec-061238"></a>
@@ -2557,13 +2791,17 @@ You might also go for lose slash win if you feel the expense of time and effort 
 
 about other people and circumstances. But saving that life would be supremely important. The best choice, then, depends on reality, the challenge is to read that reality accurately and not to translate win slash lose or other scripting into every situation. Most situations, in fact, are part of an interdependent reality, and then win slash win is really the only viable alternative of the five.
 
-Win slash lose is not viable because, although I appear to win in a confrontation with you, your feelings, your attitudes toward me and our relationship have been affected. If I am a supplier to your company, for example, and I win on my terms in a particular negotiation, I may get what I want now. But will you come to me again? My short-term win will really be a long-term lose if I don’t get your repeat business.
+Win slash lose is not viable because, although. I appear to win in a confrontation with you, your feelings, your attitudes toward me and our relationship have been affected. If. I am a supplier to your company, for example, and.
 
-So an interdependent win slash lose is really lose slash lose in the long run. If we come up with a lose slash win, you may appear to get what you want for the moment. But how will that affect my attitude about working with you, about fulfilling the contract? I may not feel as anxious to please you.
+I win on my terms in a particular negotiation, I may get what. I want now. But will you come to me again? My short-term win will really be a long-term lose if.
 
-I may carry battle scars with me into any future negotiations. My attitude about you and your company may be spread as I associate with others in the industry. So we’re into lose slash lose again. Lose slash lose obviously isn’t viable in any context.
+I don’t get your repeat business. So an interdependent win slash lose is really lose slash lose in the long run. If we come up with a lose slash win, you may appear to get what you want for the moment. But how will that affect my attitude about working with you, about fulfilling the contract?
 
-And if I focus on my own win and don’t even consider your point of view, there’s no basis for any kind of productive relationship. In the long run, if it isn’t a win for both of us, we both lose. That’s why win slash win is the only real alternative in interdependent realities.
+I may not feel as anxious to please you. I may carry battle scars with me into any future negotiations. My attitude about you and your company may be spread as. I associate with others in the industry.
+
+So we’re into lose slash lose again. Lose slash lose obviously isn’t viable in any context. And if. I focus on my own win and don’t even consider your point of view, there’s no basis for any kind of productive relationship.
+
+In the long run, if it isn’t a win for both of us, we both lose. That’s why win slash win is the only real alternative in interdependent realities.
 
 I worked with a client once, the president of a large chain of retail stores, who said, “Steven, this win slash win idea sounds good, but it is so idealistic.” The tough, realistic business world isn’t like that. There’s win slash lose everywhere, and if you’re not out there playing the game, you just can’t make it. Alright, I said, try going for win slash lose with your customers. Is that realistic?
 
@@ -2591,21 +2829,25 @@ It is so much better to realize this upfront instead of downstream when expectat
 <a id="sec-061741"></a>
 ### ⏱️ [06:17:41 - 06:22:43]
 
-With no deal as an option, you can honestly say, I only want to go for win-slash-win. I want to win, and I want you to win. I wouldn’t want to get my way and have you not feel good about it, because downstream it would eventually surface and create a withdrawal.
+With no deal as an option, you can honestly say, I only want to go for win-slash-win. I want to win, and. I want you to win. I wouldn’t want to get my way and have you not feel good about it, because downstream it would eventually surface and create a withdrawal.
 
-On the other hand, I don’t think you would feel good if you got your way and I gave in. So let’s work for a win-slash-win. Let’s really hammer it out. And if we can’t find it, then let’s agree that.
+On the other hand, I don’t think you would feel good if you got your way and. I gave in. So let’s work for a win-slash-win. Let’s really hammer it out.
 
-We won’t make a deal at all. It would be better not to deal than to live with a decision that wasn’t right for us both. And maybe another time we might be able to get together. Some time after learning the concept of win-slash-win or no deal, the president of a small computer software company shared with me the following experience.
+And if we can’t find it, then let’s agree that. We won’t make a deal at all. It would be better not to deal than to live with a decision that wasn’t right for us both. And maybe another time we might be able to get together.
 
-We had developed new software which we sold on a five-year contract to a particular bank. The bank president was excited about it, but his people weren’t really behind the decision. About a month later, that bank changed presidents.
+Some time after learning the concept of win-slash-win or no deal, the president of a small computer software company shared with me the following experience. We had developed new software which we sold on a five-year contract to a particular bank. The bank president was excited about it, but his people weren’t really behind the decision. About a month later, that bank changed presidents.
 
-The new president came to me and said, “I am uncomfortable with these software conversions.” I have a mess on my hands. My people are all saying that they can’t go through this and I really feel I just can’t push it at this point in time. My own company was in deep financial trouble. I knew I had every legal right to enforce the contract.
+The new president came to me and said, “I am uncomfortable with these software conversions.”. I have a mess on my hands. My people are all saying that they can’t go through this and. I really feel.
 
-But I had become convinced of the value of the principle of win-slash-win. So I told him we have a contract. Your bank has secured our products and our services to convert you to this program. But we understand that you’re not happy about it.
+I just can’t push it at this point in time. My own company was in deep financial trouble. I knew. I had every legal right to enforce the contract.
 
-So what we’d like to do is give you back the contract, give you back your deposit, and if you are ever looking for a software solution in the future, come back and see us. I literally walked away from an $84,000 contract. It was close to financial suicide. But I felt that, in the long run, if the principle were true, it would come back and pay dividends.
+But. I had become convinced of the value of the principle of win-slash-win. So. I told him we have a contract.
 
-Three months later, the new president called me. I’m now going to make changes in my data processing, he said, and I want to do business with you. He signed a contract for $240,000. Anything less than win-slash-win in an interdependent reality is a poor second best that will have impact in the long-term relationship.
+Your bank has secured our products and our services to convert you to this program. But we understand that you’re not happy about it. So what we’d like to do is give you back the contract, give you back your deposit, and if you are ever looking for a software solution in the future, come back and see us. I literally walked away from an $84,000 contract.
+
+It was close to financial suicide. But. I felt that, in the long run, if the principle were true, it would come back and pay dividends. Three months later, the new president called me.
+
+I’m now going to make changes in my data processing, he said, and. I want to do business with you. He signed a contract for $240,000. Anything less than win-slash-win in an interdependent reality is a poor second best that will have impact in the long-term relationship.
 
 The cost of that impact needs to be carefully considered. If you can’t reach a true win-slash-win, you’re very often better off to go for no deal. Win-slash-win or no deal provides tremendous emotional freedom in the family relationship. If family members can’t agree on a video that everyone will enjoy, they can simply decide to do something else no deal rather than having some enjoy the evening at the expense of others.
 
@@ -2617,7 +2859,7 @@ As a result, everyone felt free to express his or her feelings and ideas as they
 
 In an effort to preserve the relationship, people sometimes go on for years making one compromise after another, thinking win-slash-lose or a lose-slash-win even while talking win-slash-win. This creates serious problems for the people and for the business, particularly if the competition operates on win-slash-win and synergy. Without no deal, many such businesses simply deteriorate and either fail or have to be turned over to professional managers. This shows that it is often better in setting up a family business or a business between friends to acknowledge the possibility of no deal downstream and to establish some kind of buy-slash-sell agreement so that the business can prosper without permanently damaging the relationship.
 
-Of course there are some relationships where no deal is not viable. I wouldn’t abandon my child or my spouse and go for no deal, it would be better, if
+Of course, there are some relationships where no deal is not viable. I wouldn’t abandon my child or my spouse and go for no deal, it would be better, if
 
 
 <a id="sec-062243"></a>
@@ -2631,31 +2873,39 @@ Effective interpersonal leadership requires the vision, the proactive initiative
 
 When that involves process, we cannot achieve win-slash-win ends with win-slash-lose or lose-slash-win means. The following diagram shows how these five dimensions relate to each other. Now let’s consider each of the five dimensions in turn. Character Character is the foundation of win-slash-win, and everything else builds on that foundation.
 
-There are three character traits essential to the win-slash-win paradigm. Integrity We have already defined integrity as the value we place on ourselves. Habits 1, 2, and 3 help us develop and maintain integrity. As we clearly identify our values and proactively organize and execute around those values on a daily basis, we develop self-awareness and independent will by making and keeping meaningful promises and commitments.
+There are three character traits essential to the win-slash-win paradigm. Integrity. We have already defined integrity as the value we place on ourselves. Habits 1, 2, and 3 help us develop and maintain integrity.
 
-There’s no way to go for a win in our own lives if we don’t ever know, in a deep sense, what constitutes a win-what is, in fact, harmonious with our innermost values. And if we can’t make and keep commitments to ourselves as well as to others, our commitments become meaningless. We know it, others know it. They sense duplicity and become guarded.
+As we clearly identify our values and proactively organize and execute around those values on a daily basis, we develop self-awareness and independent will by making and keeping meaningful promises and commitments. There’s no way to go for a win in our own lives if we don’t ever know, in a deep sense, what constitutes a win-what is, in fact, harmonious with our innermost values. And if we can’t make and keep commitments to ourselves as well as to others, our commitments become meaningless.
 
-There’s no foundation of trust and win-slash-win becomes an ineffective superficial technique. Integrity is the cornerstone in the foundation. Maturity Maturity is the balance between courage and consideration. I first learned this definition of maturity in the fall of 1955 from a marvelous professor, Rynn Saxanian, who instructed my control class at the Harvard Business School.
+We know it, others know it. They sense duplicity and become guarded. There’s no foundation of trust and win-slash-win becomes an ineffective superficial technique. Integrity is the cornerstone in the foundation.
 
-He taught the finest, simplest, most practical, yet profound, definition of emotional maturity I’ve ever come across the ability to express one’s own feelings and convictions balanced with consideration for the thoughts and feelings of others. As a part of his doctoral research, Rynn Saxanian had developed this criterion over years of historical and direct field research. He later wrote up his original research format and its completeness with supportive reasoning and application suggestions in a Harvard Business Review article, January to February 1958. Even though it is complementary and also developmental, Rynn’s use of the word maturity is different from its use in the Seven Habits Maturity Continuum, which focuses on a growth and development process from dependency through independency to interdependency.
+Maturity Maturity is the balance between courage and consideration. I first learned this definition of maturity in the fall of 1955 from a marvelous professor, Rynn Saxanian, who instructed my control class at the Harvard Business School. He taught the finest, simplest, most practical, yet profound, definition of emotional maturity. I’ve ever come across the ability to express one’s own feelings and convictions balanced with consideration for the thoughts and feelings of others.
 
-If you examine many of the psychological tests used for hiring, promoting, and training purposes, you will find that they are designed to evaluate this kind of maturity. Whether it’s called the ego strength slash empathy balance, the self confidence slash respect for others balance, the concern for people slash concern for tasks balance, I’m okay. You’re okay in transactional analysis language, or 9.1, 1.9, 5.5, 9.9, in management grid language the quality sought for is the balance of what I call courage and consideration.
+As a part of his doctoral research, Rynn Saxanian had developed this criterion over years of historical and direct field research. He later wrote up his original research format and its completeness with supportive reasoning and application suggestions in a Harvard Business Review article, January to February 1958. Even though it is complementary and also developmental, Rynn’s use of the word maturity is different from its use in the Seven Habits Maturity Continuum, which focuses on a growth and development process from dependency through independency to interdependency.
 
-Respect for this quality is deeply ingrained in the theory of human interaction, management, and leadership. It is a deep embodiment of the P slash PC balance. While courage may focus on getting the golden egg, consideration deals with the long term welfare off other stakeholders. The basic task of leadership is to increase the standard of living and the quality of life for all stakeholders.
+If you examine many of the psychological tests used for hiring, promoting, and training purposes, you will find that they are designed to evaluate this kind of maturity. Whether it’s called the ego strength slash empathy balance, the self confidence slash respect for others balance, the concern for people slash concern for tasks balance, I’m okay. You’re okay in transactional analysis language, or 9.1, 1.9, 5.5, 9.9, in management grid language the quality sought for is the balance of what.
 
-Many people think in dichotomies, in either slash or terms. They think if you’re nice, you’re not tough. But win slash win is nice, and tough. It’s twice as tough as win slash lose, to go for win slash win, you not only have to be nice, you have to be courageous.
+I call courage and consideration. Respect for this quality is deeply ingrained in the theory of human interaction, management, and leadership. It is a deep embodiment of the P slash PC balance. While courage may focus on getting the golden egg, consideration deals with the long term welfare off other stakeholders.
+
+The basic task of leadership is to increase the standard of living and the quality of life for all stakeholders. Many people think in dichotomies, in either slash or terms. They think if you’re nice, you’re not tough. But win slash win is nice, and tough.
+
+It’s twice as tough as win slash lose, to go for win slash win, you not only have to be nice, you have to be courageous.
 
 
 <a id="sec-062745"></a>
 ### ⏱️ [06:27:45 - 06:32:48]
 
-You not only have to be empathic, you have to be confident. You not only have to be considerate and sensitive, you have to be brave. To do that, to achieve that balance between courage and consideration, is the essence of real maturity and is fundamental to win slash win. If I’m high on courage and low on consideration, how will I think?
+You not only have to be empathic, you have to be confident. You not only have to be considerate and sensitive, you have to be brave. To do that, to achieve that balance between courage and consideration, is the essence of real maturity and is fundamental to win slash win. If.
 
-Win slash lose. I’ll be strong and ego bound. I’ll have the courage of my convictions, but I won’t be very considerate of yours. To compensate for my lack of internal maturity and emotional strength, I might borrow strength from my position and power, or from my credentials, my seniority, my affiliations.
+I’m high on courage and low on consideration, how will. I think? Win slash lose. I’ll be strong and ego bound.
 
-If I’m high on consideration and low on courage, I’ll think lose slash win. I’ll be so considerate of your convictions and desires that I won’t have the courage to express and actualize my own. High courage and consideration are both essential to win slash win. It is the balance that is the mark of real maturity.
+I’ll have the courage of my convictions, but. I won’t be very considerate of yours. To compensate for my lack of internal maturity and emotional strength, I might borrow strength from my position and power, or from my credentials, my seniority, my affiliations. If.
 
-If I have it, I can listen, I can empathically understand, but I can also courageously confront. Abundance Mentality. The third character trait essential to winning word is the abundance mentality, the paradigm that there is plenty out there for everybody. Most people are deeply scripted in what I call the scarcity mentality.
+I’m high on consideration and low on courage, I’ll think lose slash win. I’ll be so considerate of your convictions and desires that. I won’t have the courage to express and actualize my own. High courage and consideration are both essential to win slash win.
+
+It is the balance that is the mark of real maturity. If. I have it, I can listen, I can empathically understand, but. I can also courageously confront.
+
+Abundance Mentality. The third character trait essential to winning word is the abundance mentality, the paradigm that there is plenty out there for everybody. Most people are deeply scripted in what. I call the scarcity mentality.
 
 They see life as having only so much, as though there were only one pie out there. And if someone were to get a big piece of the pie, it would mean less for everybody else. The scarcity mentality is the zero sum paradigm of life. People with a scarcity mentality have a very difficult time sharing recognition and credit, power or profit even with those who help in the production.
 
@@ -2671,19 +2921,21 @@ It opens possibilities, options, alternatives, and creativity. The abundance men
 
 It means success in effective interaction that brings mutually beneficial results to everyone involved. Public victory means working together, communicating together, making things happen together that even the same people couldn’t make happen by working independently. And public victory is an outgrowth of the abundance mentality paradigm. A character rich in integrity, maturity, and the abundance mentality has a genuineness that goes far beyond technique, or lack of it, in human interaction.
 
-One thing I have found particularly helpful to win-slash-lose people in developing a win-slash-win character is to associate with some model or mentor who really thinks win-slash-win. When people are deeply scripted in win-slash-lose or other philosophies and regularly associate with others who are likewise scripted, they don’t have much opportunity to see and experience the win-slash-win philosophy in action. So I recommend reading literature, such as the inspiring biography of Anwar Sadat, in search of identity, and seeing movies like Chariots of Fire or plays like Lame Azarab that expose you to models of win-slash-win.
+One thing. I have found particularly helpful to win-slash-lose people in developing a win-slash-win character is to associate with some model or mentor who really thinks win-slash-win. When people are deeply scripted in win-slash-lose or other philosophies and regularly associate with others who are likewise scripted, they don’t have much opportunity to see and experience the win-slash-win philosophy in action. So.
 
-But remember, if we search deeply enough within ourselves beyond the scripting, beyond
+I recommend reading literature, such as the inspiring biography of Anwar Sadat, in search of identity, and seeing movies like Chariots of Fire or plays like Lame Azarab that expose you to models of win-slash-win. But remember, if we search deeply enough within ourselves beyond the scripting, beyond
 
 
 <a id="sec-063248"></a>
 ### ⏱️ [06:32:48 - 06:37:48]
 
-the learned attitudes and behaviors the real validation of win-slash-win, as well as every other correct principle, is in our own lives. Relationships From the foundation of character, we build and maintain win-slash-win relationships. The trust, the emotional bank account, is the essence of win-slash-win. Without trust, the best we can do is compromise, without trust, we lack the credibility for open, mutual learning and communication and real creativity.
+the learned attitudes and behaviors the real validation of win-slash-win, as well as every other correct principle, is in our own lives. Relationships. From the foundation of character, we build and maintain win-slash-win relationships. The trust, the emotional bank account, is the essence of win-slash-win.
 
-But if our emotional bank account is high, credibility is no longer an issue. Enough deposits have been made so that you know and I know that we deeply respect each other. We’re focused on the issues, not on personalities or positions. Because we trust each other, we’re open.
+Without trust, the best we can do is compromise, without trust, we lack the credibility for open, mutual learning and communication and real creativity. But if our emotional bank account is high, credibility is no longer an issue. Enough deposits have been made so that you know and. I know that we deeply respect each other.
 
-We put our cards on the table. Even though we see things differently, I know that you’re willing to listen with respect while I describe the young woman to you, and you know that I’ll treat your description of the old woman with the same respect. We’re both committed to try to understand each other’s point of view deeply and to work together for the third alternative, the synergistic solution, that will be a better answer for both of us. A relationship where bank accounts are high and both parties are deeply committed to win-slash-win is the ideal springboard for tremendous synergy, habit 6.
+We’re focused on the issues, not on personalities or positions. Because we trust each other, we’re open. We put our cards on the table. Even though we see things differently, I know that you’re willing to listen with respect while.
+
+I describe the young woman to you, and you know that. I’ll treat your description of the old woman with the same respect. We’re both committed to try to understand each other’s point of view deeply and to work together for the third alternative, the synergistic solution, that will be a better answer for both of us. A relationship where bank accounts are high and both parties are deeply committed to win-slash-win is the ideal springboard for tremendous synergy, habit 6.
 
 That relationship neither makes the issues any less real or important, nor eliminates the differences in perspective. But it does eliminate the negative energy normally focused on differences in personality and position and creates a positive, cooperative energy focused on thoroughly understanding the issues and resolving them in a mutually beneficial way. But what if that kind of relationship isn’t there? What if you have to work out an agreement with someone who hasn’t even heard of win-slash-win and is deeply scripted in win-slash-lose or some other philosophy?
 
@@ -2697,43 +2949,47 @@ You keep hammering it out until the other person begins to realize that you genu
 
 It goes beyond transactional leadership into transformational leadership, transforming the individuals involved as well as the relationship. Because win-slash-win as a principle people can validate in their own lives, you will be able to bring most people to a realization that they will win more of what they want by going for what you both want. But there will be a few who are so deeply embedded in the win-slash-lose mentality that they just won’t think win-slash-win. So remember that no deal is always an option.
 
-Or you may occasionally choose to go for the low form of win-slash-win compromise. It’s important to realize that not all decisions need to be win-slash-win, even when the emotional bank account is high. Again, the key is the relationship. If you and I worked together, for example, and you were to come to me and say, Stephen, I know you won’t like this decision.
+Or you may occasionally choose to go for the low form of win-slash-win compromise. It’s important to realize that not all decisions need to be win-slash-win, even when the emotional bank account is high. Again, the key is the relationship. If you and.
 
-I don’t have time to explain it to you, let alone get you involved. There’s a good possibility you’ll think it’s wrong. But will you support it? If you had a positive emotional bank account with me, of course I’d support it.
+I worked together, for example, and you were to come to me and say, Stephen, I know you won’t like this decision. I don’t have time to explain it to you, let alone get you involved. There’s a good possibility you’ll think it’s wrong. But will you support it?
 
-I’d hope you were right and I was wrong. I’d work to make your decision work. But if the emotional bank account weren’t there, and if I were reactive, I wouldn’t really support it. I might say I would to your face, but behind your back I wouldn’t be very enthusiastic.
+If you had a positive emotional bank account with me, of course. I’d support it. I’d hope you were right and. I was wrong.
 
-I wouldn’t make the investment necessary to make it succeed. It didn’t work, I’d say. So what do you want me to do now? If I were overreactive, I might even torpedo your decision and do what I could to make sure others did too.
+I’d work to make your decision work. But if the emotional bank account weren’t there, and if. I were reactive, I wouldn’t really support it. I might say.
 
-Or I might become maliciously obedient and do exactly and only what you tell me to do, accepting no responsibility for results. During the five years I lived in Great Britain, I saw that country brought twice to its knees
+I would to your face, but behind your back. I wouldn’t be very enthusiastic. I wouldn’t make the investment necessary to make it succeed. It didn’t work, I’d say.
+
+So what do you want me to do now? If. I were overreactive, I might even torpedo your decision and do what. I could to make sure others did too.
+
+Or. I might become maliciously obedient and do exactly and only what you tell me to do, accepting no responsibility for results. During the five years. I lived in Great Britain, I saw that country brought twice to its knees
 
 
 <a id="sec-063748"></a>
 ### ⏱️ [06:37:48 - 06:42:50]
 
-because the train conductors were maliciously obedient and following all the rules and procedures written on paper. An agreement means very little in letter without the character and relationship base to sustain it in spirit. So we need to approach win slash win from a genuine desire to invest in the relationships that make it possible. Agreements From relationships flow the agreements that give definition and direction to win slash win.
+because the train conductors were maliciously obedient and following all the rules and procedures written on paper. An agreement means very little in letter without the character and relationship base to sustain it in spirit. So we need to approach win slash win from a genuine desire to invest in the relationships that make it possible. Agreements.
 
-They are sometimes called performance agreements or partnership agreements, shifting the paradigm of productive interaction from vertical to horizontal, from hovering supervision to self-supervision, from positioning to being partners in success. Win slash win agreements cover a wide scope of interdependent interaction. We discussed one important application when we talked about delegation in the green and clean story in Habit 3. The same five elements we listed there provide the structure for win slash win agreements between employers and employees, between independent people working together on projects, between groups of people cooperatively focused on a common objective, between companies' arid suppliers between any people who need to interact to accomplish.
+From relationships flow the agreements that give definition and direction to win slash win. They are sometimes called performance agreements or partnership agreements, shifting the paradigm of productive interaction from vertical to horizontal, from hovering supervision to self-supervision, from positioning to being partners in success. Win slash win agreements cover a wide scope of interdependent interaction. We discussed one important application when we talked about delegation in the green and clean story in Habit 3.
 
-They create an effective way to clarify and manage expectations between people involved in any interdependent endeavor. In the win slash win agreement, the following five elements are made very explicit. It results, not methods, identify what is to be done and when. Guidelines specify the parameters, principles, policies, etc., within which results are to be accomplished.
+The same five elements we listed there provide the structure for win slash win agreements between employers and employees, between independent people working together on projects, between groups of people cooperatively focused on a common objective, between companies' arid suppliers between any people who need to interact to accomplish. They create an effective way to clarify and manage expectations between people involved in any interdependent endeavor. In the win slash win agreement, the following five elements are made very explicit.
 
-Resources identify the human, financial, technical, or organizational support available to help accomplish the results. Accountability sets up the standards of performance and the time of evaluation. Resources specify good and bad, natural and logical what is and will happen as a result of the evaluation. These five elements give win slash win agreements a life of their own.
+It results, not methods, identify what is to be done and when. Guidelines specify the parameters, principles, policies, etc., within which results are to be accomplished. Resources identify the human, financial, technical, or organizational support available to help accomplish the results. Accountability sets up the standards of performance and the time of evaluation.
 
-A clear mutual understanding and agreement upfront in these areas creates a standard against which people can measure their own success. Traditional authoritarian supervision is a win slash lose paradigm. It’s also the result of an overdrawn emotional bank account. If you don’t have trust or a common vision of desired results, you tend to hover over, check up on, and direct.
+Resources specify good and bad, natural and logical what is and will happen as a result of the evaluation. These five elements give win slash win agreements a life of their own. A clear mutual understanding and agreement upfront in these areas creates a standard against which people can measure their own success. Traditional authoritarian supervision is a win slash lose paradigm.
 
-Trust isn’t there, so you feel as though you have to control people. But if the trust account is high, what is your method? Get out of there way. As long as you have an upfront win slash win agreement and they know exactly what is expected, your role is to be a source of help and to receive their accountability reports.
+It’s also the result of an overdrawn emotional bank account. If you don’t have trust or a common vision of desired results, you tend to hover over, check up on, and direct. Trust isn’t there, so you feel as though you have to control people. But if the trust account is high, what is your method?
 
-It is much more ennobling to the human spirit to let people judge themselves than to judge them. And in a high trust culture, it’s much more accurate, in many cases people know in their hearts how things are going much better than the records show. Discernment is often far more accurate than either observation or measurement. Win slash win management training.
+Get out of there way. As long as you have an upfront win slash win agreement and they know exactly what is expected, your role is to be a source of help and to receive their accountability reports. It is much more ennobling to the human spirit to let people judge themselves than to judge them. And in a high trust culture, it’s much more accurate, in many cases people know in their hearts how things are going much better than the records show.
 
-Several years ago, I was indirectly involved in a consulting project with a very large banking institution that had scores of branches. They wanted us to evaluate and improve their management training program, which was supported by an annual budget of $750,000. The program involved selecting college graduates and putting them through 12 two-week assignments in various departments over a six-month period of time so that they could get a general sense of the industry. They spent two weeks in commerce Ialowans, two weeks in industrial loans, two weeks in marketing, two weeks in operations, and so forth.
+Discernment is often far more accurate than either observation or measurement. Win slash win management training. Several years ago, I was indirectly involved in a consulting project with a very large banking institution that had scores of branches. They wanted us to evaluate and improve their management training program, which was supported by an annual budget of $750,000.
 
-At the end of the six-month period, they were assigned as assistant managers in the various branch banks. Our assignment was to evaluate the six-month formal training period. As we began, we discovered that the most difficult part of the assignment was to get a clear picture of the desired results. We asked the top executives the key hard question, what should these people be able to do when they finish the program?
+The program involved selecting college graduates and putting them through 12 two-week assignments in various departments over a six-month period of time so that they could get a general sense of the industry. They spent two weeks in commerce Ialowans, two weeks in industrial loans, two weeks in marketing, two weeks in operations, and so forth. At the end of the six-month period, they were assigned as assistant managers in the various branch banks. Our assignment was to evaluate the six-month formal training period.
 
-And the answers we got were vague and often contradictory. The training program dealt with methods, not results, so we suggested that they set up a pilot training program based on a different paradigm called learner controlled instruction. This was a win-slash-win agreement that involved identifying specific objectives and criteria that would demonstrate their accomplishment and identifying the guidelines, resources, accountability, and consequences that would result when the objectives were met. The consequences in this case were promotion to assistant manager, where they would receive the on-the-job part of their training, and a significant increase in salary.
+As we began, we discovered that the most difficult part of the assignment was to get a clear picture of the desired results. We asked the top executives the key hard question, what should these people be able to do when they finish the program? And the answers we got were vague and often contradictory. The training program dealt with methods, not results, so we suggested that they set up a pilot training program based on a different paradigm called learner controlled instruction.
 
-We had to really press to get the objectives hammered out. What is it you want them to understand about accounting? What about marketing? What about real estate loans?
+This was a win-slash-win agreement that involved identifying specific objectives and criteria that would demonstrate their accomplishment and identifying the guidelines, resources, accountability, and consequences that would result when the objectives were met. The consequences in this case were promotion to assistant manager, where they would receive the on-the-job part of their training, and a significant increase in salary. We had to really press to get the objectives hammered out. What is it you want them to understand about accounting?
 
-And we went down the list. They finally came up with over 100 objectives, which we simplified, reduced, and consolidated
+What about marketing? What about real estate loans? And we went down the list. They finally came up with over 100 objectives, which we simplified, reduced, and consolidated
 
 
 <a id="sec-064250"></a>
@@ -2753,17 +3009,19 @@ Let’s develop some more objectives and attach criteria to them. But let’s st
 
 We had prepared the trainees to expect resistance. We took the additional objectives and criteria back to them and said, just as we expected, management wants you to accomplish some additional objectives with even tougher criteria than before. They have assured us this time that if you meet these criteria, they will make you assistant managers. They went to work in unbelievable ways.
 
-They went to the executives in departments such as accounting and basically said, sir, I am a member of this new pilot program called Learner Controlled Instruction, and it is my understanding that you participated in developing the objectives and the criteria. I have six criteria to meet in this particular department. I was able to pass three of them off with skills I gained in college, I was able to get another one out of a book, I learned the fifth one from Tom, the fellow you trained last week.
+They went to the executives in departments such as accounting and basically said, sir, I am a member of this new pilot program called Learner Controlled Instruction, and it is my understanding that you participated in developing the objectives and the criteria. I have six criteria to meet in this particular department. I was able to pass three of them off with skills. I gained in college, I was able to get another one out of a book, I learned the fifth one from Tom, the fellow you trained last week.
 
-I only have one criterion left to meet, and I wonder if you or someone else in the department might be able to spend a few hours with me to show me how. So they spent half a day in a department instead of two weeks. These trainees cooperated with each other, brainstormed with each other, and they accomplished the additional objectives in a week and a half. The six-month program was reduced to five weeks, and the results were significantly increased.
+I only have one criterion left to meet, and. I wonder if you or someone else in the department might be able to spend a few hours with me to show me how. So they spent half a day in a department instead of two weeks. These trainees cooperated with each other, brainstormed with each other, and they accomplished the additional objectives in a week and a half.
 
-This kind of thinking can similarly affect every area of organizational life if people have the courage to explore their paradigms and to concentrate on win slash win. I am always amazed at the results that happen, both to individuals and to organizations, when responsible, proactive, self-directing individuals are turned loose on a task. Win slash win performance agreements Creating win slash win performance agreements requires vital paradigm shifts. The focus is on results, not methods.
+The six-month program was reduced to five weeks, and the results were significantly increased. This kind of thinking can similarly affect every area of organizational life if people have the courage to explore their paradigms and to concentrate on win slash win. I am always amazed at the results that happen, both to individuals and to organizations, when responsible, proactive, self-directing individuals are turned loose on a task. Win slash win performance agreements Creating win slash win performance agreements requires vital paradigm shifts.
 
-Most of us tend to supervise methods. We use the Gopher delegation discussed in Habit 3, the methods management I used with Sandra when I asked her to take pictures of our son as he was water skiing. But win slash win agreements focus on results, releasing tremendous individual human potential and creating greater synergy, building P in the process instead of focusing exclusively on P. With win slash win accountability, people evaluate themselves.
+The focus is on results, not methods. Most of us tend to supervise methods. We use the Gopher delegation discussed in Habit 3, the methods management. I used with Sandra when.
 
-The traditional evaluation games people play are awkward and emotionally exhausting. In win slash win, people evaluate themselves, using the criteria that they themselves help to create up front. And if you set it up correctly, people can do that. With a win slash win delegation agreement, even a seven-year-old boy can tell for himself how well he’s keeping the yard green and clean.
+I asked her to take pictures of our son as he was water skiing. But win slash win agreements focus on results, releasing tremendous individual human potential and creating greater synergy, building P in the process instead of focusing exclusively on P. With win slash win accountability, people evaluate themselves. The traditional evaluation games people play are awkward and emotionally exhausting.
 
-My best experiences in teaching university classes have come when I have created a win
+In win slash win, people evaluate themselves, using the criteria that they themselves help to create up front. And if you set it up correctly, people can do that. With a win slash win delegation agreement, even a seven-year-old boy can tell for himself how well he’s keeping the yard green and clean. My best experiences in teaching university classes have come when.
+
+I have created a win
 
 
 <a id="sec-064752"></a>
@@ -2783,17 +3041,21 @@ Unless people are in a survival mode, psychic compensation is often more motivat
 
 So you don’t play games. Everything is clear from the beginning. In addition to these logical, personal consequences, it is also important to clearly identify what the natural organizational consequences are.
 
-For example, what will happen if I’m late to work, if I refuse to cooperate with others, if I don’t develop good win slash win performance agreements with my subordinates, if I don’t hold them accountable for desired results, or if I don’t promote their professional growth and career development. When my daughter turned 16, we set up a win slash win agreement regarding use of the family car. We agreed that she would obey the laws of the land and that she would keep the car clean and properly maintained.
+For example, what will happen if. I’m late to work, if. I refuse to cooperate with others, if. I don’t develop good win slash win performance agreements with my subordinates, if.
 
-We agreed that she would use the car only for responsible purposes and would serve as a cab driver for her mother and me within reason. And we also agreed that she would do all her other jobs cheerfully without being reminded. These were our wins. We also agreed that I would provide some resources the car, gas, and insurance.
+I don’t hold them accountable for desired results, or if. I don’t promote their professional growth and career development. When my daughter turned 16, we set up a win slash win agreement regarding use of the family car. We agreed that she would obey the laws of the land and that she would keep the car clean and properly maintained.
 
-And we agreed that she would meet weekly with me, usually on Sunday afternoon, to evaluate how she was doing based on our agreement. The consequences were clear. As long as she kept her part of the agreement, she could use the car. If she didn’t keep it, she would lose the privilege until she decided to.
+We agreed that she would use the car only for responsible purposes and would serve as a cab driver for her mother and me within reason. And we also agreed that she would do all her other jobs cheerfully without being reminded. These were our wins. We also agreed that.
 
-This win slash win agreement set up clear expectations from the beginning on both our parts. It was a win for her she got to use the car and it was certainly a win for Sandra and me. Now she could handle her own transportation needs and even some of ours. We didn’t have to worry about maintaining the car or keeping it clean.
+I would provide some resources the car, gas, and insurance. And we agreed that she would meet weekly with me, usually on Sunday afternoon, to evaluate how she was doing based on our agreement. The consequences were clear. As long as she kept her part of the agreement, she could use the car.
 
-And we had a built in accountability, which meant I didn’t have to hover over her or manage her methods. Her integrity, her conscience, her power of discernment and our high emotional bank account managed her infinitely better. We didn’t have to get emotionally strung out, trying to supervise her every move and coming up with punishments or rewards on the spot if she didn’t do things the way we thought she should. We had a win slash win agreement, and it liberated us all.
+If she didn’t keep it, she would lose the privilege until she decided to. This win slash win agreement set up clear expectations from the beginning on both our parts. It was a win for her she got to use the car and it was certainly a win for Sandra and me. Now she could handle her own transportation needs and even some of ours.
 
-Win slash win agreements are tremendously liberating. But as the product of isolated techniques, they won’t hold up. Even if you set them up in the beginning, there is no way to maintain them without personal integrity and a relationship of trust. A true win slash win agreement is the product of the paradigm, the character, and the relationships out of which it grows.
+We didn’t have to worry about maintaining the car or keeping it clean. And we had a built in accountability, which meant. I didn’t have to hover over her or manage her methods. Her integrity, her conscience, her power of discernment and our high emotional bank account managed her infinitely better.
+
+We didn’t have to get emotionally strung out, trying to supervise her every move and coming up with punishments or rewards on the spot if she didn’t do things the way we thought she should. We had a win slash win agreement, and it liberated us all. Win slash win agreements are tremendously liberating. But as the product of isolated techniques, they won’t hold up.
+
+Even if you set them up in the beginning, there is no way to maintain them without personal integrity and a relationship of trust. A true win slash win agreement is the product of the paradigm, the character, and the relationships out of which it grows.
 
 
 <a id="sec-065252"></a>
@@ -2801,27 +3063,29 @@ Win slash win agreements are tremendously liberating. But as the product of isol
 
 In that context, it defines and directs the interdependent interaction for which it was created. Systems Win slash win can only survive in an organization when the systems support it. If you talk win slash win but reward win slash lose, you’ve got a losing program on your hands. You basically get what you reward.
 
-If you want to achieve the goals and reflect the values in your mission statement, then you need to align the reward system with these goals and values. If it isn’t aligned systemically, you won’t be walking your talk. You’ll be in the situation of the manager I mentioned earlier who talked cooperation, but practiced competition by creating a race to Bermuda contest. I worked for several years with a very large real estate organization in the middle west.
+If you want to achieve the goals and reflect the values in your mission statement, then you need to align the reward system with these goals and values. If it isn’t aligned systemically, you won’t be walking your talk. You’ll be in the situation of the manager. I mentioned earlier who talked cooperation, but practiced competition by creating a race to Bermuda contest.
 
-My first experience with this organization was at a large sales rally where over 800 sales associates gathered for the annual reward program. It was a psych up cheerleading session, complete with high school bands and a great deal of frenzied screaming. Out of the 800 people there, around 40 received awards for top performance, such as most sales, greatest volume, highest earned commissions, and most listings. There was a lot of hoopla excitement, cheering, applause around the presentation of these awards.
+I worked for several years with a very large real estate organization in the middle west. My first experience with this organization was at a large sales rally where over 800 sales associates gathered for the annual reward program. It was a psych up cheerleading session, complete with high school bands and a great deal of frenzied screaming. Out of the 800 people there, around 40 received awards for top performance, such as most sales, greatest volume, highest earned commissions, and most listings.
 
-There was no doubt that those 40 people had won, but there was also the underlying awareness that 760 people had lost. We immediately began educational and organizational development work to align the systems and structures of the organization toward the win slash win paradigm. We involved people at a grass roots level to develop the kinds of systems that would motivate them. We also encouraged them to cooperate and synergize with each other so that as many as possible could achieve the desired results of their individually tailored performance agreements.
+There was a lot of hoopla excitement, cheering, applause around the presentation of these awards. There was no doubt that those 40 people had won, but there was also the underlying awareness that 760 people had lost. We immediately began educational and organizational development work to align the systems and structures of the organization toward the win slash win paradigm. We involved people at a grass roots level to develop the kinds of systems that would motivate them.
 
-At the next rally one year later, there were over 1000 sales associates present, and about 800 of them received rewards. There were a few individual winners based on comparisons, but the program primarily focused on people achieving self-selected performance objectives and on groups achieving team objectives. There was no need to bring in the high school bands to artificially contrive the fanfare, the cheerleading, and the psych up. There was tremendous natural interest and excitement because people could share in each others happiness, and teams of sales associates could experience rewards together, including the vacation trip for the entire office.
+We also encouraged them to cooperate and synergize with each other so that as many as possible could achieve the desired results of their individually tailored performance agreements. At the next rally one year later, there were over 1000 sales associates present, and about 800 of them received rewards. There were a few individual winners based on comparisons, but the program primarily focused on people achieving self-selected performance objectives and on groups achieving team objectives. There was no need to bring in the high school bands to artificially contrive the fanfare, the cheerleading, and the psych up.
 
-The remarkable thing was that almost all of the 800 who received the awards that year had produced as much per person in terms of volume and profit as the previous years 40. The spirit of win slash win had significantly increased the number of golden eggs and had fed the goose as well, releasing enormous human energy and talent. The resulting synergy was astounding to almost everyone involved. Competition has its place in the marketplace or against.
+There was tremendous natural interest and excitement because people could share in each others happiness, and teams of sales associates could experience rewards together, including the vacation trip for the entire office. The remarkable thing was that almost all of the 800 who received the awards that year had produced as much per person in terms of volume and profit as the previous years 40. The spirit of win slash win had significantly increased the number of golden eggs and had fed the goose as well, releasing enormous human energy and talent.
 
-Last year’s performance perhaps even against another office or individual where there is no particular interdependence, no need to cooperate. But cooperation in the workplace is as important to free enterprise as competition in the marketplace. The spirit of win slash win cannot survive in an environment of competition and contests. For win slash win to work, the systems have to support it.
+The resulting synergy was astounding to almost everyone involved. Competition has its place in the marketplace or against. Last year’s performance perhaps even against another office or individual where there is no particular interdependence, no need to cooperate. But cooperation in the workplace is as important to free enterprise as competition in the marketplace.
 
-The training system, the planning system, the communication system, the budgeting system, the information system, the compensation system all have to be based on the principle of win slash win. I did some consulting for another company that wanted training for their people in human relations. The underlying assumption was that the problem was the people. The president said, go into any store you want and see how they treat you.
+The spirit of win slash win cannot survive in an environment of competition and contests. For win slash win to work, the systems have to support it. The training system, the planning system, the communication system, the budgeting system, the information system, the compensation system all have to be based on the principle of win slash win. I did some consulting for another company that wanted training for their people in human relations.
 
-They’re just order takers. They don’t understand how to get close to the customers. They don’t know the product, and they don’t have the knowledge and the skill in the sales process necessary to create a marriage between the product and the need. So I went to the various stores.
+The underlying assumption was that the problem was the people. The president said, go into any store you want and see how they treat you. They’re just order takers. They don’t understand how to get close to the customers.
 
-And he was right. But that still didn’t answer the question in my mind, what caused the attitude? Look, we’re on top of the problem, the president said. We have department heads out there setting a great example.
+They don’t know the product, and they don’t have the knowledge and the skill in the sales process necessary to create a marriage between the product and the need. So. I went to the various stores. And he was right.
 
-We’ve told them their job is two thirds selling and one third management, and they’re out selling everybody. We just want you to provide some training for the salespeople. Those words raised a red flag. Let’s get some more data, I said.
+But that still didn’t answer the question in my mind, what caused the attitude? Look, we’re on top of the problem, the president said. We have department heads out there setting a great example. We’ve told them their job is two thirds selling and one third management, and they’re out selling everybody.
 
-He didn’t like that. He knew what the problem was, and he wanted to get on with training. But I persisted, and within two days we uncovered the real problem. Because of the job definition and the compensation system, the managers were creaming.
+We just want you to provide some training for the salespeople. Those words raised a red flag. Let’s get some more data, I said. He didn’t like that.
+
+He knew what the problem was, and he wanted to get on with training. But. I persisted, and within two days we uncovered the real problem. Because of the job definition and the compensation system, the managers were creaming.
 
 They’d stand behind the cash register and cream all the business during the slow times. Half the time in retail is slow and the other half is frantic. So the managers would give all the dirty jobs inventory control, stock work, and cleaning to the salespeople.
 
@@ -2833,27 +3097,27 @@ And they would stand behind the registers and cream. That’s why the department
 
 We overlapped the needs and goals of the managers with the needs and goals of the salespeople. And the need for human relations training suddenly disappeared. The key was developing a true win slash win reward system. In another instance, I worked with a manager in a company that required formal performance evaluations.
 
-He was frustrated over the evaluation rating he had given a particular manager. He deserved a three, he said, but I had to give him a one, which meant superior, promotable. What did you give him a one for? I asked.
+He was frustrated over the evaluation rating he had given a particular manager. He deserved a three, he said, but. I had to give him a one, which meant superior, promotable. What did you give him a one for?
 
-He gets the numbers, was his reply. So why do you think he deserves a three? It’s the way he gets them. He neglects people, he runs over them.
+I asked. He gets the numbers, was his reply. So why do you think he deserves a three? It’s the way he gets them.
 
-He’s a troublemaker. It sounds like he’s totally focused on P on production. And that’s what he’s being rewarded for. But what would happen if you talked with him about the problem, if you helped him understand the importance of PC?
+He neglects people, he runs over them. He’s a troublemaker. It sounds like he’s totally focused on P on production. And that’s what he’s being rewarded for.
 
-He said he had done so, with no effect. Then what if you set up a win slash win contract with him where you both agreed that two thirds of his compensation would come from P from the numbers and the other one third would come from PC how other people perceive him? What kind of leader, people builder, team builder he is. Now that would get his attention, he replied.
+But what would happen if you talked with him about the problem, if you helped him understand the importance of PC? He said he had done so, with no effect. Then what if you set up a win slash win contract with him where you both agreed that two thirds of his compensation would come from P from the numbers and the other one third would come from PC how other people perceive him? What kind of leader, people builder, team builder he is.
 
-So often the problem is in the system, not in the people. If you put good people in bad systems, you get bad results. You have to water the flowers you want to grow. As people really learn to think win slash win, they can set up the systems to create and reinforce it.
+Now that would get his attention, he replied. So often the problem is in the system, not in the people. If you put good people in bad systems, you get bad results. You have to water the flowers you want to grow.
 
-They can transform unnecessarily competitive situations to cooperative ones and can powerfully impact their effectiveness by building both P and PC. In business, executives can align their systems to create and reinforce it. it teams of highly productive people working together to compete against external standards of performance. In education, teachers can set up grading systems based on an individual’s performance in the context of agreed-upon criteria and can encourage students to cooperate in productive ways to help each other learn and achieve. In families, parents can shift the focus from competition with each other to cooperation.
+As people really learn to think win slash win, they can set up the systems to create and reinforce it. They can transform unnecessarily competitive situations to cooperative ones and can powerfully impact their effectiveness by building both P and PC. In business, executives can align their systems to create and reinforce it. it teams of highly productive people working together to compete against external standards of performance. In education, teachers can set up grading systems based on an individual’s performance in the context of agreed-upon criteria and can encourage students to cooperate in productive ways to help each other learn and achieve.
 
-In activities such as bowling, for example, they can keep a family score and try to beat a previous one. They can set up home responsibilities with win-slash-win agreements that eliminate constant nagging and enable parents to do the things only they can do. A friend once shared with me a cartoon he’d seen of two children talking to each other. If mommy doesn’t get us up soon, one was saying, we’re going to be late for school.
+In families, parents can shift the focus from competition with each other to cooperation. In activities such as bowling, for example, they can keep a family score and try to beat a previous one. They can set up home responsibilities with win-slash-win agreements that eliminate constant nagging and enable parents to do the things only they can do. A friend once shared with me a cartoon he’d seen of two children talking to each other.
 
-These words brought forcibly to his attention the nature of the problems created when families are not organized on a responsible win-slash-win basis. Win-slash-win puts the responsibility on the individual for accomplishing specified results within clear guidelines and available resources. It makes a person accountable to perform and evaluate the results and provides consequences as a natural result of performance. And win-slash-win systems create the environment which supports and reinforces the win-slash-win performance agreements.
+If mommy doesn’t get us up soon, one was saying, we’re going to be late for school. These words brought forcibly to his attention the nature of the problems created when families are not organized on a responsible win-slash-win basis. Win-slash-win puts the responsibility on the individual for accomplishing specified results within clear guidelines and available resources. It makes a person accountable to perform and evaluate the results and provides consequences as a natural result of performance.
 
-Processes There’s no way to achieve win-slash-win ends with win-slash-lose or lose-slash-win means. You can’t say, you’re going to think win-slash-win, whether you like it or not. So the question becomes how to arrive at a win-slash-win solution. Roger Fisher and William Murray, two Harvard Law professors, have done some outstanding work in what they call the principled approach versus the positional approach to bargaining in their tremendously useful and dot insightful book, Getting to Yes.
+And win-slash-win systems create the environment which supports and reinforces the win-slash-win performance agreements. Processes. There’s no way to achieve win-slash-win ends with win-slash-lose or lose-slash-win means. You can’t say, you’re going to think win-slash-win, whether you like it or not.
 
-Although the words win-slash-win are not used, the spirit and underlying philosophy of the book are in harmony with the win-slash-win approach. They suggest that the essence of principled negotiation is to separate the person from the problem, to focus on interests and not on positions, to invent options for mutual gain, and to insist on objective criteria some external standard or principle that both parties can buy into. In my own work with various people and organizations seeking win-slash-win solutions, I suggest that they become involved in the following four-step process.
+So the question becomes how to arrive at a win-slash-win solution. Roger Fisher and William Murray, two Harvard Law professors, have done some outstanding work in what they call the principled approach versus the positional approach to bargaining in their tremendously useful and dot insightful book, Getting to Yes. Although the words win-slash-win are not used, the spirit and underlying philosophy of the book are in harmony with the win-slash-win approach. They suggest that the essence of principled negotiation is to separate the person from the problem, to focus on interests and not on positions, to invent options for mutual gain, and to insist on objective criteria some external standard or principle that both parties can buy into.
 
-First, see the problem from the other point of view. Really seek to understand and to give expression to the needs and concerns of the other party as well as or better than they can themselves.
+In my own work with various people and organizations seeking win-slash-win solutions, I suggest that they become involved in the following four-step process. First, see the problem from the other point of view. Really seek to understand and to give expression to the needs and concerns of the other party as well as or better than they can themselves.
 
 Second, identify the key issues and concerns, not positions, involved. Third, determine what results would constitute a fully acceptable solution. And fourth, identify possible new options to achieve those results.
 
@@ -2865,163 +3129,177 @@ Minutes five and six deal directly with two of the elements of this process, and
 
 It’s a total paradigm of human interaction. It comes from a character of integrity, maturity, and the abundance mentality. It grows out of high trust relationships. It is embodied in agreements that effectively clarify and manage expectations as well as accomplishment.
 
-It thrives in supportive systems. And it is achieved through the process we are now prepared to more fully examine in habits five and six. Application Suggestions 1. Think about an upcoming interaction wherein you will be attempting to reach an agreement or negotiate a solution. Commit to maintain a balance between courage and consideration. 2.
+It thrives in supportive systems. And it is achieved through the process we are now prepared to more fully examine in habits five and six. Application Suggestions 1. Think about an upcoming interaction wherein you will be attempting to reach an agreement or negotiate a solution.
 
-Make a list of obstacles that keep you from applying the win-slash-win paradigm more frequently. Determine what could be done within your circle of influence to eliminate some of those obstacles. 3. Select a specific relationship where you would like to develop a win-slash-win agreement. Try to put yourself in the other person’s place, and write down explicitly how you think that person sees the solution.
+Commit to maintain a balance between courage and consideration. 2. Make a list of obstacles that keep you from applying the win-slash-win paradigm more frequently. Determine what could be done within your circle of influence to eliminate some of those obstacles. 3. Select a specific relationship where you would like to develop a win-slash-win agreement.
 
-Then list, from your own perspective, what results would constitute a win for you. Approach the other person and ask if he or she would be willing to communicate until you reach a point of agreement and mutually beneficial solution. 4. Identify three key relationships in your life. Give some indication of what you feel the balance is in each of the emotional bank accounts.
+Try to put yourself in the other person’s place, and write down explicitly how you think that person sees the solution. Then list, from your own perspective, what results would constitute a win for you. Approach the other person and ask if he or she would be willing to communicate until you reach a point of agreement and mutually beneficial solution. 4. Identify three key relationships in your life.
 
-Write down some specific ways you could make deposits in each account. 5. Deeply consider your own scripting. Is it win-slash-lose? How does that scripting affect your interactions with other people?
+Give some indication of what you feel the balance is in each of the emotional bank accounts. Write down some specific ways you could make deposits in each account. 5. Deeply consider your own scripting. Is it win-slash-lose?
 
-Can you identify the main source of that script? Determine whether or not those scripts serve well in your current reality. 6. Try to identify a model of win-slash-win thinking who, even in hard situations, really seeks mutual benefit. Determine now to more closely watch and learn from this person’s example.
+How does that scripting affect your interactions with other people? Can you identify the main source of that script? Determine whether or not those scripts serve well in your current reality. 6. Try to identify a model of win-slash-win thinking who, even in hard situations, really seeks mutual benefit.
 
-Habit 5, seek first to understand, then to be understood. Principles of Empathic Communication. The heart has its reasons which reason knows not of. Pascal.
+Determine now to more closely watch and learn from this person’s example. Habit 5, seek first to understand, then to be understood. Principles of Empathic Communication. The heart has its reasons which reason knows not of.
 
-Suppose you’ve been having trouble with your eyes and you decide to go to an optometrist for help. After briefly listening to your complaint, he takes off his glasses and hands them to you. Put these on, he says. I’ve worn this pair of glasses for 10 years now and they’ve really helped me.
+Pascal. Suppose you’ve been having trouble with your eyes and you decide to go to an optometrist for help. After briefly listening to your complaint, he takes off his glasses and hands them to you. Put these on, he says.
 
-I have an extra pair at home, you can wear these. So you put them on, but it only makes the problem worse. This is terrible. You exclaim.
+I’ve worn this pair of glasses for 10 years now and they’ve really helped me. I have an extra pair at home, you can wear these. So you put them on, but it only makes the problem worse. This is terrible.
 
-I can’t see a thing. Well, what’s wrong? He asks. They work great for me.
+You exclaim. I can’t see a thing. Well, what’s wrong? He asks.
 
-Try harder. I am trying, you insist. Everything is a blur. Well, what’s the matter with you?
+They work great for me. Try harder. I am trying, you insist. Everything is a blur.
 
-Think positively. Okay. I positively can’t see a thing. Boy, are you ungrateful.
+Well, what’s the matter with you? Think positively. Okay. I positively can’t see a thing.
 
-He chides. And after all I’ve done to help you. What are the chances you’d go back to that optometrist the next time you needed help? Not very good, I would imagine.
+Boy, are you ungrateful. He chides. And after all. I’ve done to help you.
 
-You don’t have much confidence in someone who doesn’t diagnose before he or she prescribes. But how often do we diagnose before we prescribe in communication? Come on, honey, tell me how you feel. I know it’s hard, but I’ll try to understand.
+What are the chances you’d go back to that optometrist the next time you needed help? Not very good, I would imagine. You don’t have much confidence in someone who doesn’t diagnose before he or she prescribes. But how often do we diagnose before we prescribe in communication?
 
-Oh, I don’t know, mom. You’d think it was stupid. Of course I wouldn’t. You can tell me.
+Come on, honey, tell me how you feel. I know it’s hard, but. I’ll try to understand. Oh, I don’t know, mom.
 
-Honey, no one cares for you as much as I do. I’m only interested in your welfare. What’s making you so unhappy? Oh, I don’t know.
+You’d think it was stupid. Of course. I wouldn’t. You can tell me.
 
-Corn on, honey. What is it? Well, to tell you the truth, I just don’t like school anymore. What?
+Honey, no one cares for you as much as. I do. I’m only interested in your welfare. What’s making you so unhappy?
 
-You respond incredulously. What do you mean you don’t like school? And after all the sacrifices we’ve made for your education. Education is the foundation of your future.
+Oh, I don’t know. Corn on, honey. What is it? Well, to tell you the truth, I just don’t like school anymore.
 
-If you’d apply yourself like your older sister does, you’d do better and then you’d like school. Time and time again, we’ve told you to settle down. You’ve got the ability, but you just don’t apply yourself. Try harder.
+What? You respond incredulously. What do you mean you don’t like school? And after all the sacrifices we’ve made for your education.
 
-Get a positive attitude about it. Pause. Now go ahead. Tell me how you feel.
+Education is the foundation of your future. If you’d apply yourself like your older sister does, you’d do better and then you’d like school. Time and time again, we’ve told you to settle down. You’ve got the ability, but you just don’t apply yourself.
 
-We have such a tendency to rush in, to fix things up with good advice. But we often fail to take the time to diagnose, to really, deeply understand the problem first.
+Try harder. Get a positive attitude about it. Pause. Now go ahead.
+
+Tell me how you feel. We have such a tendency to rush in, to fix things up with good advice. But we often fail to take the time to diagnose, to really, deeply understand the problem first.
 
 
 <a id="sec-070758"></a>
 ### ⏱️ [07:07:58 - 07:12:59]
 
-If I were to summarize in one sentence the single most important principle I have learned in the field of interpersonal relations, it would be this, seek first to understand, then to be understood. This principle is the key to effective interpersonal communication. Right now, you’re reading a book I’ve written. Reading and writing are both forms of communication.
+If. I were to summarize in one sentence the single most important principle. I have learned in the field of interpersonal relations, it would be this, seek first to understand, then to be understood. This principle is the key to effective interpersonal communication.
 
-So are speaking and listening. In fact, those are the four basic types of communication. And think of all the hours you spend doing at least one of those four things. The ability to do them well is absolutely critical to your effectiveness.
+Right now, you’re reading a book. I’ve written. Reading and writing are both forms of communication. So are speaking and listening.
 
-Communication is the most important skill in life. We spend most of our waking hours communicating. But consider this, you’ve spent years learning how to read and write, years learning how to speak. But what about listening?
+In fact, those are the four basic types of communication. And think of all the hours you spend doing at least one of those four things. The ability to do them well is absolutely critical to your effectiveness. Communication is the most important skill in life.
 
-What training or education have you had that enables you to listen so that you really, deeply understand another human being from that individual’s own frame of reference? Comparatively few people have had any training in listening at all. And, for the most part, their training has been in the personality ethic of technique, truncated from the character base and the relationship base absolutely vital to authentic understanding of another person. If you want to interact effectively with me, to influence me your spouse, your child, your neighbor, your boss, your co-worker, your friend you first need to understand me.
+We spend most of our waking hours communicating. But consider this, you’ve spent years learning how to read and write, years learning how to speak. But what about listening? What training or education have you had that enables you to listen so that you really, deeply understand another human being from that individual’s own frame of reference?
 
-And you can’t do that with technique alone. If I censor using some technique, I sense duplicity, manipulation. I wonder why you’re doing it, what your motives are. But I don’t feel safe enough to open myself up to you.
+Comparatively few people have had any training in listening at all. And, for the most part, their training has been in the personality ethic of technique, truncated from the character base and the relationship base absolutely vital to authentic understanding of another person. If you want to interact effectively with me, to influence me your spouse, your child, your neighbor, your boss, your co-worker, your friend you first need to understand me. And you can’t do that with technique alone.
 
-The real key to your influence with me is your example, your actual conduct. Your example flows naturally out of your character, or the kind of person you truly are not what others say you are or what you may want me to think you are. It is evident in how I actually experience you. Your character is constantly radiating, communicating.
+If. I censor using some technique, I sense duplicity, manipulation. I wonder why you’re doing it, what your motives are. But.
 
-From it, in the long run, I come to instinctively trust or distrust you and your efforts with me. If your life runs hot and cold, if you’re both caustic and kind, and, above all, if your private performance doesn’t square with your public performance, it’s very hard for me to open up with you. Then, as much as I may want and even need to receive your love and influence, I don’t feel safe enough to expose my opinions and experiences and my tender feelings.
+I don’t feel safe enough to open myself up to you. The real key to your influence with me is your example, your actual conduct. Your example flows naturally out of your character, or the kind of person you truly are not what others say you are or what you may want me to think you are. It is evident in how.
 
-Who knows what will happen? But unless I open up with you, unless you understand me and my unique situation and feelings, you won’t know how to advise or counsel me. What you say is good and fine, but it doesn’t quite pertain to me. You may say you care about and appreciate me.
+I actually experience you. Your character is constantly radiating, communicating. From it, in the long run, I come to instinctively trust or distrust you and your efforts with me. If your life runs hot and cold, if you’re both caustic and kind, and, above all, if your private performance doesn’t square with your public performance, it’s very hard for me to open up with you.
 
-I desperately want to believe that. But how can you appreciate me when you don’t even understand me? All I have are your words, and I can’t trust words. I’m too angry and defensive perhaps too guilty and afraid to be influenced, even though inside I know I need what you could tell me.
+Then, as much as. I may want and even need to receive your love and influence, I don’t feel safe enough to expose my opinions and experiences and my tender feelings. Who knows what will happen? But unless.
 
-Unless you’re influenced by my uniqueness, I’m not going to be influenced by your advice. So if you want to be really effective in the habit of interpersonal communication, you cannot do it with technique alone. You have to build the skills of empathic listening on a base of character that inspires. Openness and trust.
+I open up with you, unless you understand me and my unique situation and feelings, you won’t know how to advise or counsel me. What you say is good and fine, but it doesn’t quite pertain to me. You may say you care about and appreciate me. I desperately want to believe that.
 
-And you have to build the emotional bank accounts that create a commerce between hearts. Empathic listening. Seek first to understand involves a very deep shift in paradigm. We typically seek first to be understood.
+But how can you appreciate me when you don’t even understand me? All. I have are your words, and. I can’t trust words.
 
-Most people do not listen with the intent to understand, they listen with the intent to reply. They’re either speaking or preparing to speak. They’re filtering everything through their own paradigms, reading their autobiography into other people’s lives. Oh, I know exactly how you feel.
+I’m too angry and defensive perhaps too guilty and afraid to be influenced, even though inside. I know. I need what you could tell me. Unless you’re influenced by my uniqueness, I’m not going to be influenced by your advice.
 
-I went through the very same thing. Let me tell you about my experience. They’re constantly projecting their own home movies onto other people’s behavior. They prescribe their own glasses for everyone with whom they interact.
+So if you want to be really effective in the habit of interpersonal communication, you cannot do it with technique alone. You have to build the skills of empathic listening on a base of character that inspires. Openness and trust. And you have to build the emotional bank accounts that create a commerce between hearts.
 
-If they have a problem with someone, a son, a daughter, a spouse, an employee their attitude is, that person just doesn’t understand. A father once told me, I can’t understand my kid. He just won’t listen to me at all.
+Empathic listening. Seek first to understand involves a very deep shift in paradigm. We typically seek first to be understood. Most people do not listen with the intent to understand, they listen with the intent to reply.
 
-Let me restate what you just said, “I replied.” You don’t understand your son because he won’t listen to you? That’s right. He replied. Let me try again.
+They’re either speaking or preparing to speak. They’re filtering everything through their own paradigms, reading their autobiography into other people’s lives. Oh, I know exactly how you feel. I went through the very same thing.
 
-I said. You don’t understand your son because he won’t listen to you? That’s what I said, he impatiently replied. I thought that to understand another person, you needed to listen to him, I suggested.
+Let me tell you about my experience. They’re constantly projecting their own home movies onto other people’s behavior. They prescribe their own glasses for everyone with whom they interact. If they have a problem with someone, a son, a daughter, a spouse, an employee their attitude is, that person just doesn’t understand.
 
-Oh. He said. There was a long pause. Oh.
+A father once told me, I can’t understand my kid. He just won’t listen to me at all.
 
-He said again. As the light began to dawn. Oh, yeah. But I do understand him.
+Let me restate what you just said, “I replied.”. You don’t understand your son because he won’t listen to you? That’s right. He replied.
 
-I know what he’s going through.
+Let me try again. I said. You don’t understand your son because he won’t listen to you? That’s what.
+
+I said, he impatiently replied. I thought that to understand another person, you needed to listen to him, I suggested. Oh. He said.
+
+There was a long pause. Oh. He said again. As the light began to dawn.
+
+Oh, yeah. But. I do understand him. I know what he’s going through.
 
 
 <a id="sec-071259"></a>
 ### ⏱️ [07:12:59 - 07:17:59]
 
-I went through the same thing myself. I guess what I don’t understand is why he won’t listen to me. This man didn’t have the vaguest idea of what was really going on inside his boy’s head. He looked into his own head and thought he saw the world, including his boy.
+I went through the same thing myself. I guess what. I don’t understand is why he won’t listen to me. This man didn’t have the vaguest idea of what was really going on inside his boy’s head.
 
-That’s the case with so many of us. We’re filled with our own rightness, our own autobiography. We want to be understood. Our conversations become collective monologues, and we never really understand what’s going on inside another human being.
+He looked into his own head and thought he saw the world, including his boy. That’s the case with so many of us. We’re filled with our own rightness, our own autobiography. We want to be understood.
 
-When another person speaks, we’re usually listening at one of four levels. We may be ignoring another person, not really listening at all. We may practice pretending. Yeah.
+Our conversations become collective monologues, and we never really understand what’s going on inside another human being. When another person speaks, we’re usually listening at one of four levels. We may be ignoring another person, not really listening at all. We may practice pretending.
 
-Aha. Right. We may practice selective listening, hearing only certain parts of the conversation. We often do this when we’re listening to the constant chatter of a preschool child.
+Yeah. Aha. Right. We may practice selective listening, hearing only certain parts of the conversation.
 
-Or we may even practice attentive listening, paying attention and focusing energy on the words that are being said. Very few of us ever practice the fifth level, the highest form of listening, empathic listening. When I say empathic listening, I am not referring to the techniques of active listening or reflective listening, which basically involve mimicking what another person says. That kind of listening is skill based, truncated from character and relationships, and often insults those listened to in such a way.
+We often do this when we’re listening to the constant chatter of a preschool child. Or we may even practice attentive listening, paying attention and focusing energy on the words that are being said. Very few of us ever practice the fifth level, the highest form of listening, empathic listening. When.
 
-It is also essentially autobiographical. If you practice those techniques, you may not project your autobiography in the actual interaction, but your motive in listening is autobiographical. You listen with reflective skills, but you listen with intent to reply, to control, to manipulate. When I say empathic listening, I mean listening with intent to understand.
+I say empathic listening, I am not referring to the techniques of active listening or reflective listening, which basically involve mimicking what another person says. That kind of listening is skill based, truncated from character and relationships, and often insults those listened to in such a way. It is also essentially autobiographical. If you practice those techniques, you may not project your autobiography in the actual interaction, but your motive in listening is autobiographical.
 
-I mean seeking first to understand, to really understand. It’s an entirely different paradigm. Empathic, from empathy, listening gets inside another person’s frame of reference. You look out through it, you see the world the way they see the world, you understand their paradigm, you understand how they feel.
+You listen with reflective skills, but you listen with intent to reply, to control, to manipulate. When. I say empathic listening, I mean listening with intent to understand. I mean seeking first to understand, to really understand.
 
-Empathy is not sympathy. Sympathy is a form of agreement, a form of judgment. And it is sometimes the more appropriate emotion and response. But people often feed on sympathy.
+It’s an entirely different paradigm. Empathic, from empathy, listening gets inside another person’s frame of reference. You look out through it, you see the world the way they see the world, you understand their paradigm, you understand how they feel. Empathy is not sympathy.
 
-It makes them dependent. The essence of empathic listening is not that you agree with someone, it’s that you fully, understand that person, emotionally as well as intellectually. Empathic listening involves much more than registering, reflecting, or even understanding the words that are said. Communications experts estimate, in fact, that only 10% of our communication is represented by the words we say.
+Sympathy is a form of agreement, a form of judgment. And it is sometimes the more appropriate emotion and response. But people often feed on sympathy. It makes them dependent.
 
-Another 30% is represented by our sounds, and 60% by our body language. In empathic listening, you listen with your ears, but you also, and more importantly, listen. With your eyes and with your heart. You listen for feeling, for meaning.
+The essence of empathic listening is not that you agree with someone, it’s that you fully, understand that person, emotionally as well as intellectually. Empathic listening involves much more than registering, reflecting, or even understanding the words that are said. Communications experts estimate, in fact, that only 10% of our communication is represented by the words we say. Another 30% is represented by our sounds, and 60% by our body language.
 
-You listen for behavior. You use your right brain as well as your left. You sense, you intuit, you feel. Empathic listening is so powerful because it gives you accurate data to work with.
+In empathic listening, you listen with your ears, but you also, and more importantly, listen. With your eyes and with your heart. You listen for feeling, for meaning. You listen for behavior.
 
-Instead of projecting your own autobiography and assuming thoughts, feelings, motives and interpretation, you’re dealing with the reality inside another person’s head and heart. You’re listening to understand. You’re focused on receiving the deep communication of another human soul. In addition, empathic listening is the key to making deposits in emotional bank accounts, because nothing you do is a deposit unless the other person perceives it as such.
+You use your right brain as well as your left. You sense, you intuit, you feel. Empathic listening is so powerful because it gives you accurate data to work with. Instead of projecting your own autobiography and assuming thoughts, feelings, motives and interpretation, you’re dealing with the reality inside another person’s head and heart.
 
-You can work your fingers to the bone to make a deposit, only to have it turn into a withdrawal when a person regards your efforts as manipulative, self-serving, intimidating, or condescending because you don’t understand what really matters to him. Empathic listening is, in and of itself, a tremendous deposit in the emotional bank account. It’s deeply therapeutic and healing because it gives a person psychological air. If all the air were suddenly sucked out of the room you’re in right now, what would happen to your interest in this book?
+You’re listening to understand. You’re focused on receiving the deep communication of another human soul. In addition, empathic listening is the key to making deposits in emotional bank accounts, because nothing you do is a deposit unless the other person perceives it as such. You can work your fingers to the bone to make a deposit, only to have it turn into a withdrawal when a person regards your efforts as manipulative, self-serving, intimidating, or condescending because you don’t understand what really matters to him.
 
-You wouldn’t care about the book, you wouldn’t care about anything except getting air. Survival would be your only motivation. But now that you have air, it doesn’t motivate you. This is one of the greatest insights in the field of human motivation, satisfied needs do not motivate.
+Empathic listening is, in and of itself, a tremendous deposit in the emotional bank account. It’s deeply therapeutic and healing because it gives a person psychological air. If all the air were suddenly sucked out of the room you’re in right now, what would happen to your interest in this book? You wouldn’t care about the book, you wouldn’t care about anything except getting air.
 
-It’s only the unsatisfied need that motivates. Next to physical survival, the greatest need of a human being is psychological survival to be understood, to be affirmed, to be validated, to be appreciated. When you listen with empathy to another person, you give that person psychological air. And after that vital need is met, you can then focus on influencing or problem solving.
+Survival would be your only motivation. But now that you have air, it doesn’t motivate you. This is one of the greatest insights in the field of human motivation, satisfied needs do not motivate. It’s only the unsatisfied need that motivates.
 
-This need for psychological air impacts communication in every area of life.
+Next to physical survival, the greatest need of a human being is psychological survival to be understood, to be affirmed, to be validated, to be appreciated. When you listen with empathy to another person, you give that person psychological air. And after that vital need is met, you can then focus on influencing or problem solving. This need for psychological air impacts communication in every area of life.
 
 
 <a id="sec-071759"></a>
 ### ⏱️ [07:17:59 - 07:23:02]
 
-I taught this concept at a seminar in Chicago one time, and I instructed the participants to practice empathic listening during the evening. The next morning, a man came up to me almost bursting with news. Let me tell you what happened last night, he said. I was trying to close a big commercial real estate deal while I was here in Chicago.
+I taught this concept at a seminar in Chicago one time, and. I instructed the participants to practice empathic listening during the evening. The next morning, a man came up to me almost bursting with news. Let me tell you what happened last night, he said.
 
-I met with the principals, their attorneys, and another real estate agent who had just been brought in with an alternative proposal. It looked as if I were going to lose the deal. I had been working on this deal for over six months and, in a very real sense, all my eggs were in this one basket. All of them.
+I was trying to close a big commercial real estate deal while. I was here in Chicago. I met with the principals, their attorneys, and another real estate agent who had just been brought in with an alternative proposal. It looked as if.
 
-I panicked. I did everything I could I pulled out all the stops. I used every sales technique I could. The final stop was to say, could we delay this decision just a little longer?
+I were going to lose the deal. I had been working on this deal for over six months and, in a very real sense, all my eggs were in this one basket. All of them. I panicked.
 
-But the momentum was so strong and they were so disgusted by having this thing go on so long, it was obvious they were going to close. So I said to myself, well, why not try it? Why not practice what I learned today and seek first to understand, then to be understood? I’ve got nothing to lose.
+I did everything. I could. I pulled out all the stops. I used every sales technique.
 
-I just said to the man, let me see if I really understand what your position is and what your concerns about my recommendations really are. When you feel I understand them, then we’ll see whether my proposal has any relevance or not. I really tried to put myself in issues. I tried to verbalize his needs and concerns, and he began to open up.
+I could. The final stop was to say, could we delay this decision just a little longer? But the momentum was so strong and they were so disgusted by having this thing go on so long, it was obvious they were going to close. So.
 
-The more I sensed and expressed the things he was worried about, the results he anticipated, the more he opened up. Finally, in the middle of our conversation, he stood up, walked over to the phone, and dialed his wife. Putting his hand over the mouthpiece, he said, you’ve got the deal. I was totally dumbfounded, he told me.
+I said to myself, well, why not try it? Why not practice what. I learned today and seek first to understand, then to be understood? I’ve got nothing to lose.
 
-I still am this morning. He had made a huge deposit in the emotional bank account by giving the man psychological air. When it comes right down to it, other things being relatively equal, the human dynamic is more important than the technical dimensions of the deal. Seeking first to understand, diagnosing before you prescribe, is hard.
+I just said to the man, let me see if. I really understand what your position is and what your concerns about my recommendations really are. When you feel. I understand them, then we’ll see whether my proposal has any relevance or not.
 
-It’s so much easier in the short run to hand someone a pair of glasses that have fit you so well these many years. But in the long run, it severely depletes both P and PC. You can achieve maximum interdependent production from an inaccurate understanding of where other people are coming from. And you can have interpersonal PC.
+I really tried to put myself in issues. I tried to verbalize his needs and concerns, and he began to open up. The more. I sensed and expressed the things he was worried about, the results he anticipated, the more he opened up.
 
-High emotional bank accounts if the people you relate with don’t really feel understood. Empathic listening is also risky. It takes a great deal of security to go into a deep listening experience because you open yourself up to be influenced. You become vulnerable, it’s a paradox, in a sense, because in order to have influence, you have to be influenced.
+Finally, in the middle of our conversation, he stood up, walked over to the phone, and dialed his wife. Putting his hand over the mouthpiece, he said, you’ve got the deal. I was totally dumbfounded, he told me. I still am this morning.
 
-That means you have to really understand. That’s why habits 1, 2, and 3 are so foundational. They give you the changeless inner core, the principal center, from which you can handle the more outward vulnerability with peace and strength. Diagnose before you prescribe Although it’s risky and hard, seek first to understand, or diagnose before you prescribe, is a correct principal manifest in many areas of life.
+He had made a huge deposit in the emotional bank account by giving the man psychological air. When it comes right down to it, other things being relatively equal, the human dynamic is more important than the technical dimensions of the deal. Seeking first to understand, diagnosing before you prescribe, is hard. It’s so much easier in the short run to hand someone a pair of glasses that have fit you so well these many years.
+
+But in the long run, it severely depletes both P and PC. You can achieve maximum interdependent production from an inaccurate understanding of where other people are coming from. And you can have interpersonal PC. High emotional bank accounts if the people you relate with don’t really feel understood.
+
+Empathic listening is also risky. It takes a great deal of security to go into a deep listening experience because you open yourself up to be influenced. You become vulnerable, it’s a paradox, in a sense, because in order to have influence, you have to be influenced. That means you have to really understand.
+
+That’s why habits 1, 2, and 3 are so foundational. They give you the changeless inner core, the principal center, from which you can handle the more outward vulnerability with peace and strength. Diagnose before you prescribe. Although it’s risky and hard, seek first to understand, or diagnose before you prescribe, is a correct principal manifest in many areas of life.
 
 It’s the mark of all true professionals. It’s critical for the optometrist, it’s critical for the physician. You wouldn’t have any confidence in a doctor’s prescription unless you had confidence in the diagnosis. When our daughter Jenny was only 2 months old, she was sick one Saturday, the day of a football game in our community that dominated the consciousness of almost everyone.
 
-It was an important game some 60,000 people were there. Sandra and I would like to have gone, but we didn’t want to leave little Jenny. Her vomiting and diarrhea had us concerned. The doctor was at that game.
+It was an important game some 60,000 people were there. Sandra and. I would like to have gone, but we didn’t want to leave little Jenny. Her vomiting and diarrhea had us concerned.
 
-He wasn’t our personal physician, but he was the one on call. When Jenny’s situation got worse, we decided we needed some medical advice. Sandra dialed the stadium and had, himpaged. It was right at a critical time in the game, and she could sense an officious tone in his voice.
+The doctor was at that game. He wasn’t our personal physician, but he was the one on call. When Jenny’s situation got worse, we decided we needed some medical advice. Sandra dialed the stadium and had, himpaged.
 
-Yes? He said briskly. What is it? This is Mrs. Covey, doctor, and we’re concerned about our daughter, Jenny.
+It was right at a critical time in the game, and she could sense an officious tone in his voice. Yes? He said briskly. What is it?
 
-What’s the situation? He asked. Sandra described the symptoms, and he said, okay. I’ll call in a prescription.
+This is Mrs. Covey, doctor, and we’re concerned about our daughter, Jenny. What’s the situation? He asked.
 
-Which is youth pharmacy. When she hung up, Sandra felt that in her rush she hadn’t really given him full data, but that what she had told him was adequate. Do you think he realizes that Jenny is just a newborn? I asked her.
+Sandra described the symptoms, and he said, okay. I’ll call in a prescription. Which is youth pharmacy. When she hung up, Sandra felt that in her rush she hadn’t really given him full data, but that what she had told him was adequate.
 
-I’m sure he does, Sandra replied. But he’s not our doctor. He’s never even treated her. Well, I’m pretty sure he knows.
+Do you think he realizes that Jenny is just a newborn? I asked her. I’m sure he does, Sandra replied. But he’s not our doctor.
 
-Are you willing to give her the medicine unless you’re absolutely sure he knows?
+He’s never even treated her. Well, I’m pretty sure he knows. Are you willing to give her the medicine unless you’re absolutely sure he knows?
 
 
 <a id="sec-072302"></a>
@@ -3029,11 +3307,13 @@ Are you willing to give her the medicine unless you’re absolutely sure he know
 
 Sandra was silent. What are we going to do? She finally said. Call him back, I said.
 
-You call him back, Sandra replied. So I did. He was paged out of the game once again. Doctor, I said, when you called in that prescription, did you realize that Jenny is just two months old? No. He exclaimed.
+You call him back, Sandra replied. So. I did. He was paged out of the game once again.
 
-I didn’t realize that. It’s good you called me back. I’ll change the prescription immediately. If you don’t have confidence in the diagnosis, you won’t have confidence in the prescription.
+Doctor, I said, when you called in that prescription, did you realize that Jenny is just two months old? No. He exclaimed. I didn’t realize that.
 
-This principle is also true in sales. An effective salesperson first seeks to understand the needs, the concerns, the situation of the customer. The amateur salesman sells products, the professional sells solutions to needs and problems. That’s a totally different approach. The professional learns how to diagnose, how to understand.
+It’s good you called me back. I’ll change the prescription immediately. If you don’t have confidence in the diagnosis, you won’t have confidence in the prescription. This principle is also true in sales.
+
+An effective salesperson first seeks to understand the needs, the concerns, the situation of the customer. The amateur salesman sells products, the professional sells solutions to needs and problems. That’s a totally different approach. The professional learns how to diagnose, how to understand.
 
 He also learns how to relate people’s needs to his products and services. And, he has to have the integrity to say, my product or service will not meet that need if it will not. Diagnosing before you prescribe is also fundamental to law. The professional lawyer first gathers the facts to understand the situation, to understand the laws and precedents, before preparing a case.
 
@@ -3047,7 +3327,9 @@ Seek first to understand is a correct principle evident in all areas of life. It
 
 We evaluate we either agree or disagree, we probe we ask questions from our own frame of reference, we advise we give counsel based on our own experience, or we interpret we try to figure people out, to explain their motives, their behavior, based on our own motives and behavior. These responses come naturally to us. We are deeply scripted in them, we live around models of them all the time. But how do they affect our ability to really understand?
 
-If I’m trying to communicate with my son, can he feel free to open himself up to me when I evaluate everything he says before he really explains it? Am I giving him psychological air? And how does he feel when I probe? Probing is playing 20 questions.
+If. I’m trying to communicate with my son, can he feel free to open himself up to me when. I evaluate everything he says before he really explains it? Am.
+
+I giving him psychological air? And how does he feel when. I probe? Probing is playing 20 questions.
 
 It’s autobiographical, it controls, and it invades. It’s also logical, and the language of logic is different from the language of sentiment and emotion. You can play 20 questions all day and not find out what’s important to someone. Constant probing is one of the main reasons parents do not get close to their children.
 
@@ -3055,33 +3337,35 @@ How’s it going, son? Fine. Well, what’s been happening lately? Nothing.
 
 So what’s exciting in school? Not much. And what are your plans for the weekend? I don’t know.
 
-You can’t get him off the phone talking with his friends, but all he gives you is one and two word answers. Your house is a motel where he eats and sleeps, but he never shares, never opens up. And when you think about it, honestly, why should he? If every time he does open up his soft underbelly, you elephant stomp it with autobiographical advice and I told you so’s.
+You can’t get him off the phone talking with his friends, but all he gives you is one and two word answers. Your house is a motel where he eats and sleeps, but he never shares, never opens up. And when you think about it, honestly, why should he? If every time he does open up his soft underbelly, you elephant stomp it with autobiographical advice and.
 
-We are so deeply scripted in these responses that we don’t even realize when we use them. I have taught this concept to thousands of people in seminars across the country, and it never fails to shock them deeply as we role play empathic listening situations and they finally begin to listen to their own typical responses. But as they begin to see how they normally respond and learn how to listen with empathy, they can see the dramatic results in communication. To many, seek first to understand becomes the most exciting, the most immediately applicable, of all the seven habits.
+I told you so’s. We are so deeply scripted in these responses that we don’t even realize when we use them. I have taught this concept to thousands of people in seminars across the country, and it never fails to shock them deeply as we role play empathic listening situations and they finally begin to listen to their own typical responses. But as they begin to see how they normally respond and learn how to listen with empathy, they can see the dramatic results in communication.
 
-Let’s take a look at what well might be a typical communication between a father and his teenage son. Look at the father’s words in terms of the four different responses we have just described. Boy, dad, I’ve had it. School is for the birds.
+To many, seek first to understand becomes the most exciting, the most immediately applicable, of all the seven habits. Let’s take a look at what well might be a typical communication between a father and his teenage son. Look at the father’s words in terms of the four different responses we have just described. Boy, dad, I’ve had it.
 
-What’s the matter, son? Probing. It’s totally impractical.
+School is for the birds. What’s the matter, son? Probing. It’s totally impractical.
 
 
 <a id="sec-072804"></a>
 ### ⏱️ [07:28:04 - 07:33:05]
 
-I don’t get a thing out of it. Well, you just can’t see the benefits yet, son. I felt the same way when I was your age. I remember thinking what a waste some of the classes were.
+I don’t get a thing out of it. Well, you just can’t see the benefits yet, son. I felt the same way when. I was your age.
 
-But those classes turned out to be the most helpful to me later on. Just hang in there. Give it some time, advising. I’ve given it 10 years of my life.
+I remember thinking what a waste some of the classes were. But those classes turned out to be the most helpful to me later on. Just hang in there. Give it some time, advising.
 
-Can you tell me what good x plus y is going to be to me as an auto mechanic? An auto mechanic? You’ve got to be kidding, evaluating. No, I’m not.
+I’ve given it 10 years of my life. Can you tell me what good x plus y is going to be to me as an auto mechanic? An auto mechanic? You’ve got to be kidding, evaluating.
 
-Look at Joe. He’s quit school. He’s working on cars. And he’s making lots of money.
+No, I’m not. Look at Joe. He’s quit school. He’s working on cars.
 
-Now that’s practical. It may look that way now. But several years down the road, Joe’s going to wish he’d stayed in school. You don’t want to be an auto mechanic.
+And he’s making lots of money. Now that’s practical. It may look that way now. But several years down the road, Joe’s going to wish he’d stayed in school.
 
-You need an education to prepare you for something better than that, advising. I don’t know. Joe’s got a pretty good setup. Look, son, have you really tried?
+You don’t want to be an auto mechanic. You need an education to prepare you for something better than that, advising. I don’t know. Joe’s got a pretty good setup.
 
-Probing, evaluating. I’ve been in high school two years now. Whatever I’ve tried. It’s just a waste.
+Look, son, have you really tried? Probing, evaluating. I’ve been in high school two years now. Whatever.
 
-That’s a highly respected school, son. Give them a little credit, advising, evaluating. Well, the other guys feel the same way I do. Do you realize how many sacrifices your mother and I have made to get you where you are?
+I’ve tried. It’s just a waste. That’s a highly respected school, son. Give them a little credit, advising, evaluating.
+
+Well, the other guys feel the same way. I do. Do you realize how many sacrifices your mother and. I have made to get you where you are?
 
 You can’t quit when you’ve come this far, evaluating. I know you’ve sacrificed, dad. But it’s just not worth it. Look, maybe if you spent more time doing your homework and less time in front of TV, advising, evaluating.
 
@@ -3093,35 +3377,43 @@ Boy, dad, I’ve had it. School is for the birds. I want to talk with you, to ge
 
 You’re interested. Good. It’s totally impractical. I don’t get a thing out of it.
 
-I’ve got a problem with school, and I feel just terrible. Well, you just can’t see the benefits yet, son. I felt the same way when I was your age. Oh, no. Here comes chapter 3 of dad’s autobiography.
+I’ve got a problem with school, and. I feel just terrible. Well, you just can’t see the benefits yet, son. I felt the same way when.
 
-This isn’t what I want to talk about. I don’t really care how many miles he had to trudge through the snow to school without any boots. I want to get to the problem, I remember thinking what a waste some of the classes were. That those classes turned out to be the most helpful to me later on.
+I was your age. Oh, no. Here comes chapter 3 of dad’s autobiography. This isn’t what.
 
-Just hang in there. Give it some time. Time won’t solve my problem. I wish I could tell you.
+I want to talk about. I don’t really care how many miles he had to trudge through the snow to school without any boots. I want to get to the problem, I remember thinking what a waste some of the classes were. That those classes turned out to be the most helpful to me later on.
 
-I wish I could just spit it out. I’ve given it 10 years of my life. Can you tell me what good x plus y is going to do me as an auto mechanic? An auto mechanic?
+Just hang in there. Give it some time. Time won’t solve my problem. I wish.
 
-You’ve got to be kidding. He wouldn’t like me if I were an auto mechanic. He wouldn’t like me if I didn’t finish school. I have to justify what I said.
+I could tell you. I wish. I could just spit it out. I’ve given it 10 years of my life.
 
-No, I’m not. Look at Joe. He’s quit school. He’s working on cars.
+Can you tell me what good x plus y is going to do me as an auto mechanic? An auto mechanic? You’ve got to be kidding. He wouldn’t like me if.
 
-And he’s making lots of money. Now that’s practical. It may look that way now. But several years down the road, Joe’s going to wish he’d stayed in school.
+I were an auto mechanic. He wouldn’t like me if. I didn’t finish school. I have to justify what.
 
-Oh, boy. Here comes lecture number 16 on the value of an education. You don’t want to be an auto mechanic. How do you know that, dad?
+I said. No, I’m not. Look at Joe. He’s quit school.
 
-Do you really have any idea what I want? You need an education to prepare you for something better than that. I don’t know. Joe’s got a pretty good setup.
+He’s working on cars. And he’s making lots of money. Now that’s practical. It may look that way now.
 
-He’s not a failure. He didn’t finish school and he’s not a failure. Look, son, have you really tried? We’re beating around the bush, dad.
+But several years down the road, Joe’s going to wish he’d stayed in school. Oh, boy. Here comes lecture number 16 on the value of an education. You don’t want to be an auto mechanic.
 
-If you just listen, I really need to talk to you about something important. I’ve been in high school two years now. Sure I’ve tried. It’s just a waste.
+How do you know that, dad? Do you really have any idea what. I want? You need an education to prepare you for something better than that.
 
-That’s a highly respected school, son. Give them a little credit. Oh, great. Now we’re talking credibility.
+I don’t know. Joe’s got a pretty good setup. He’s not a failure. He didn’t finish school and he’s not a failure.
 
-I wish I could talk about what I want to talk about. Well, the other guys feel the same way I do. I have some credibility, too. I’m not a moron.
+Look, son, have you really tried? We’re beating around the bush, dad. If you just listen, I really need to talk to you about something important. I’ve been in high school two years now.
 
-Do you realize how many sacrifices your mother and I have made to get you where you are? Uh-oh, here comes the guilt trip. Maybe I am a moron. The school’s great, mom and dad are great, and I’m a moron.
+Sure. I’ve tried. It’s just a waste. That’s a highly respected school, son.
 
-You can’t quit when you’ve come this far. I know you’ve sacrificed, dad. But it’s just not worth it.
+Give them a little credit. Oh, great. Now we’re talking credibility. I wish.
+
+I could talk about what. I want to talk about. Well, the other guys feel the same way. I do.
+
+I have some credibility, too. I’m not a moron. Do you realize how many sacrifices your mother and. I have made to get you where you are?
+
+Uh-oh, here comes the guilt trip. Maybe. I am a moron. The school’s great, mom and dad are great, and.
+
+I’m a moron. You can’t quit when you’ve come this far. I know you’ve sacrificed, dad. But it’s just not worth it.
 
 
 <a id="sec-073305"></a>
@@ -3157,21 +3449,23 @@ As he grows in his confidence of your sincere desire to really listen and unders
 
 Boy, dad, I’ve had it. School is for the birds. I want to talk with you, to get your attention. You’re really frustrated about school.
 
-That’s right. That’s how I feel. I sure am. It’s totally impractical.
+That’s right. That’s how. I feel. I sure am.
 
-I’m not getting a thing out of it. You feel like school’s not doing you any good. Let me think is that what I mean? Well, yeah.
+It’s totally impractical. I’m not getting a thing out of it. You feel like school’s not doing you any good. Let me think is that what.
 
-I’m just not learning anything that’s going to help me. I mean, look at Joe. He’s dropped out of school and he’s working on cars. He’s making money.
+I mean? Well, yeah. I’m just not learning anything that’s going to help me. I mean, look at Joe.
 
-Now that’s practical. You feel that Joe really has the right idea. Well. Well, I guess he does in a way.
+He’s dropped out of school and he’s working on cars. He’s making money. Now that’s practical. You feel that Joe really has the right idea.
 
-He’s really making money now. But in a few years, I bet he’ll probably be ticked off at himself. You think Joe’s going to feel he made the wrong decision? He’s got to.
+Well. Well, I guess he does in a way. He’s really making money now. But in a few years, I bet he’ll probably be ticked off at himself.
 
-Just look at what he’s giving up. I mean, if you don’t have an education, you just can’t make it in this world. Education is really important. Oh, yeah.
+You think Joe’s going to feel he made the wrong decision? He’s got to. Just look at what he’s giving up. I mean, if you don’t have an education, you just can’t make it in this world.
 
-I mean, if you don’t have a diploma, if you can’t get jobs or go to college, what are you going to do? You’ve just got to get an education. It’s important to your future. It is.
+Education is really important. Oh, yeah. I mean, if you don’t have a diploma, if you can’t get jobs or go to college, what are you going to do? You’ve just got to get an education.
 
-And, you know what? I’m really worried. Listen, you won’t tell mom, will you? You don’t want your mother to find out.
+It’s important to your future. It is. And, you know what? I’m really worried.
+
+Listen, you won’t tell mom, will you? You don’t want your mother to find out.
 
 
 <a id="sec-073806"></a>
@@ -3179,23 +3473,27 @@ And, you know what? I’m really worried. Listen, you won’t tell mom, will you
 
 Well, not really. Oh, I guess you can tell her. She’ll probably find out anyway. Look, I took this test today, this reading test.
 
-And, dad, they said I’m reading on a fourth grade level. Fourth grade. And I’m a junior in high school. What a difference real understanding can make.
+And, dad, they said. I’m reading on a fourth grade level. Fourth grade. And.
 
-All the well-meaning advice in the world won’t amount to a hill of beans if we’re not even addressing the real problem. And we’ll never get to the problem if we’re so caught up in our own autobiography, our own paradigms, that we don’t take off our glasses long enough to see the world from another point of view. I’m going to flunk, dad. I guess I figure if I’m going to flunk, I might as well quit.
+I’m a junior in high school. What a difference real understanding can make. All the well-meaning advice in the world won’t amount to a hill of beans if we’re not even addressing the real problem. And we’ll never get to the problem if we’re so caught up in our own autobiography, our own paradigms, that we don’t take off our glasses long enough to see the world from another point of view.
 
-But I don’t want to quit. You feel torn. You’re in the middle of a dilemma. What do you think I should do, dad?
+I’m going to flunk, dad. I guess. I figure if. I’m going to flunk, I might as well quit.
 
-By seeking first to understand, this father has just turned a transactional opportunity into a transformational opportunity. Instead of interacting on a surface, get the job done level of communication, he has created a situation in which he can now have transforming impact, not only on his son but also on the relationship. By setting aside his own autobiography and really seeking to understand, he has made a tremendous deposit in the emotional burial account and has empowered his son to open, layer upon layer, and to get to the real issue.
+But. I don’t want to quit. You feel torn. You’re in the middle of a dilemma.
 
-Now father and son are on the same side of the table looking at the problem, instead of on opposite sides looking across at each other. The son isopinning his father’s autobiography and asking for advice. Even as the father begins to counsel, however, he needs to be sensitive to his son’s communication. As long as the response is logical, the father can effectively ask questions and give counsel.
+What do you think. I should do, dad? By seeking first to understand, this father has just turned a transactional opportunity into a transformational opportunity. Instead of interacting on a surface, get the job done level of communication, he has created a situation in which he can now have transforming impact, not only on his son but also on the relationship.
 
-But the moment the response becomes emotional, he needs to go back to empathic listening. Well, I can see some things you might want to consider. Like what, dad? Like getting some special help with your reading.
+By setting aside his own autobiography and really seeking to understand, he has made a tremendous deposit in the emotional burial account and has empowered his son to open, layer upon layer, and to get to the real issue. Now father and son are on the same side of the table looking at the problem, instead of on opposite sides looking across at each other. The son isopinning his father’s autobiography and asking for advice. Even as the father begins to counsel, however, he needs to be sensitive to his son’s communication.
 
-Maybe they have some kind of tutoring program over at the tech school. I’ve already checked into that. It takes two nights and all day Saturday. That would take so much time.
+As long as the response is logical, the father can effectively ask questions and give counsel. But the moment the response becomes emotional, he needs to go back to empathic listening. Well, I can see some things you might want to consider. Like what, dad?
 
-Sensing emotion in that reply, the father moves back to empathy. That’s too much of a price to pay. Besides, dad, I told the sixth graders I’d be their coach. You don’t want to let them down.
+Like getting some special help with your reading. Maybe they have some kind of tutoring program over at the tech school. I’ve already checked into that. It takes two nights and all day Saturday.
 
-But I’ll tell you this, dad. If I really thought that tutoring course would help, I’d be down there every night. I’d get someone else to coach those kids. You really want the help, but you doubt if the course will make a difference.
+That would take so much time. Sensing emotion in that reply, the father moves back to empathy. That’s too much of a price to pay. Besides, dad, I told the sixth graders.
+
+I’d be their coach. You don’t want to let them down. But. I’ll tell you this, dad.
+
+If. I really thought that tutoring course would help, I’d be down there every night. I’d get someone else to coach those kids. You really want the help, but you doubt if the course will make a difference.
 
 Do you think it would, dad? The son is once more open and logical. He’s opening his father’s autobiography again. Now the father has another opportunity to influence and transform.
 
@@ -3209,11 +3507,13 @@ In fact, sometimes words may just get in your way. That’s one very important r
 
 I have gone through the skills of empathic listening because skill is an important part of any habit. We need to have the skills. But let me reiterate that the skills will not be effective unless they come from a sincere desire to understand. People resent any attempt to manipulate them.
 
-In fact, if you’re dealing with people you’re close to, it’s helpful to tell them what you’re doing. I read this book about listening and empathy and I thought about my relationship with you. I realized I haven’t listened to you like I should. But I want to.
+In fact, if you’re dealing with people you’re close to, it’s helpful to tell them what you’re doing. I read this book about listening and empathy and. I thought about my relationship with you. I realized.
 
-It’s hard for me. I may blow it at times, but I’m going to work at it. I really care about you and I want to understand. I hope you’ll help me.
+I haven’t listened to you like. I should. But. I want to.
 
-Affirming your motive is a huge deposit. But if you’re not sincere, I wouldn’t even try it.
+It’s hard for me. I may blow it at times, but. I’m going to work at it. I really care about you and.
+
+I want to understand. I hope you’ll help me. Affirming your motive is a huge deposit. But if you’re not sincere, I wouldn’t even try it.
 
 
 <a id="sec-074308"></a>
@@ -3223,9 +3523,9 @@ It may create an openness and a vulnerability that will later turn to your harm 
 
 The most efficient thing you can do if you’re a doctor and want to prescribe a wise treatment is to make an accurate diagnosis. You can’t say, I’m in too much of a hurry. I don’t have time to make a diagnosis. Just take this treatment.
 
-I remind by writing one time in a room on the north shore of Oahu, Hawaii. There was a soft breeze blowing, and so I had opened two windows one at the front and one at the side to keep the room cool. I had a number of papers laid out, chapter by chapter, on a large table.
+I remind by writing one time in a room on the north shore of Oahu, Hawaii. There was a soft breeze blowing, and so. I had opened two windows one at the front and one at the side to keep the room cool. I had a number of papers laid out, chapter by chapter, on a large table.
 
-Suddenly, the breeze started picking up and blowing my papers about. I remember the frantic sense of loss I felt because things were no longer in order, including unnumbered pages, and I began rushing around the room trying desperately to put them back.
+Suddenly, the breeze started picking up and blowing my papers about. I remember the frantic sense of loss. I felt because things were no longer in order, including unnumbered pages, and. I began rushing around the room trying desperately to put them back.
 
 Finally, I realized it would be better to take 10 seconds and close one of the windows. Empathic listening takes time, but it doesn’t take anywhere near as much time. As it takes to back up and correct misunderstandings when you’re already miles down the road, to do, to live with unexpressed and unsolved problems, to deal with the results of not giving people psychological air. A discerning empathic listener can read what’s happening down deep fast, and can show such acceptance, such understanding, that other people feel safe to open up layer after layer until they get to that soft inner core where the problem really lies. to be understood.
 
@@ -3239,15 +3539,15 @@ Now, with all our differences, we’re trying to work together in a marriage, in
 
 It’s the first step in the process of win slash win. Even if, and especially when, the other person is not coming from that paradigm, seek first to understand. This principle worked powerfully for one executive who shared with me the following experience. I was working with a small company that was in the process of negotiating a contract with a large national banking institution.
 
-This institution flew in their lawyers from San Francisco, their negotiator from Ohio, and presidents of two of their large banks to create an eight-person negotiating team. The company I worked with had decided to go for win slash win or no deal. They wanted to significantly increase the level of service and the cost, but they had been almost overwhelmed with the demands of this large financial institution. The president of our company sat across the negotiating table and told them, we would like for you to write the contract the way you want it so that we can make sure we understand your needs and your concerns.
+This institution flew in their lawyers from San Francisco, their negotiator from Ohio, and presidents of two of their large banks to create an eight-person negotiating team. The company. I worked with had decided to go for win slash win or no deal. They wanted to significantly increase the level of service and the cost, but they had been almost overwhelmed with the demands of this large financial institution.
 
-We will respond to those needs and concerns. Then we can talk about pricing. The members of the negotiating team were overwhelmed. They were astounded that they were going to have the opportunity to write the contract.
+The president of our company sat across the negotiating table and told them, we would like for you to write the contract the way you want it so that we can make sure we understand your needs and your concerns. We will respond to those needs and concerns. Then we can talk about pricing. The members of the negotiating team were overwhelmed.
 
-They took three days to come up with the deal. When they presented it, the president said, now let’s make sure we understand what you want. And he went down the contract, rephrasing the content, reflecting the feeling, until he was sure and they were sure he understood what was important to them. Yes.
+They were astounded that they were going to have the opportunity to write the contract. They took three days to come up with the deal. When they presented it, the president said, now let’s make sure we understand what you want. And he went down the contract, rephrasing the content, reflecting the feeling, until he was sure and they were sure he understood what was important to them.
 
-That’s right. No, that’s not exactly what we meant here. Yes. You’ve got it now.
+Yes. That’s right. No, that’s not exactly what we meant here. Yes.
 
-When he thoroughly understood
+You’ve got it now. When he thoroughly understood
 
 
 <a id="sec-074813"></a>
@@ -3277,7 +3577,7 @@ I told you, he didn’t do anything. He wouldn’t listen. Then make an effectiv
 
 You’ve got to get into his frame of mind. You’ve got to make your point simply and visually and describe the alternative he is in favor of better than he could himself. That will take some homework. Are you willing to do that?
 
-Why do I have to go through all that? He asked.
+Why do. I have to go through all that? He asked.
 
 In other words, you want him to change his whole leadership style and you’re not willing to change your method of presentation? I guess so, he replied. Well, then, I said, just smile about it and learn to live with it. I can’t live with it, he said.
 
@@ -3285,13 +3585,13 @@ It compromises my integrity. Okay, then get to work on an effective presentation
 
 The investment seemed too great. Another acquaintance, a university professor was willing to pay the price.
 
-He approached me one day and said, “Steven, I can’t get to first base in getting the funding I need for my research because my research is really not in the mainstream of this department’s interests.” After discussing his situation at some length, I suggested that he develop an effective presentation using ethos, pathos, and logos. I know your sincere and the research you wanted to do would bring great benefits. Describe the alternative they are in favor of better than they can themselves. Show that you understand them in depth.
+He approached me one day and said, “Steven, I can’t get to first base in getting the funding. I need for my research because my research is really not in the mainstream of this department’s interests.”. After discussing his situation at some length, I suggested that he develop an effective presentation using ethos, pathos, and logos. I know your sincere and the research you wanted to do would bring great benefits.
 
-Then carefully explain the logic behind your request. Well, I’ll try, he said. Do you want to practice with me? I asked.
+Describe the alternative they are in favor of better than they can themselves. Show that you understand them in depth. Then carefully explain the logic behind your request. Well, I’ll try, he said.
 
-He was willing, and so we dress rehearsed his approach. When he went in to make his presentation, he started by saying, now let me see if I first understand what your objectives are and what your concerns are about this presentation and my recommendation. He took the time to do it slowly, gradually. In the middle of his presentation, demonstrating his depth of understanding and respect for their point of view, a senior professor turned to another professor, nodded, turned back to him, and said, you’ve got your money.
+Do you want to practice with me? I asked. He was willing, and so we dress rehearsed his approach. When he went in to make his presentation, he started by saying, now let me see if.
 
-When you can present your own ideas clearly, specifically, visually, and most important, contextually in the context of a deep understanding of their
+I first understand what your objectives are and what your concerns are about this presentation and my recommendation. He took the time to do it slowly, gradually. In the middle of his presentation, demonstrating his depth of understanding and respect for their point of view, a senior professor turned to another professor, nodded, turned back to him, and said, you’ve got your money. When you can present your own ideas clearly, specifically, visually, and most important, contextually in the context of a deep understanding of their
 
 
 <a id="sec-075317"></a>
@@ -3319,15 +3619,17 @@ You don’t have to wait until your son or daughter has a problem with school or
 
 Build the emotional bank account. Give them error. Go out with your spouse on a regular basis. Have dinner or do something together you both enjoy.
 
-Listen to each other, seek to understand. Seal eye through each other’s eyes. My daily time with Sandra is something I wouldn’t rate for anything. As well as seeking to understand each other, we often take time to actually practice empathic listening skills to help us in communicating with our children.
+Listen to each other, seek to understand. Seal eye through each other’s eyes. My daily time with Sandra is something. I wouldn’t rate for anything.
 
-We often share our different perceptions of the situation, and we role play more effective approaches to difficult interpersonal family problems. I may act as if I am a son or daughter requesting a special privilege even though I haven’t fulfilled a basic family responsibility, and Sandra plays herself. We interact back and forth and try to visualize the situation in a very real way so that we can train ourselves to be consistent in modeling and teaching correct principles to our children. Some of our most helpful role plays come from redoing a past difficult or stressful scene in which one of us blew it.
+As well as seeking to understand each other, we often take time to actually practice empathic listening skills to help us in communicating with our children. We often share our different perceptions of the situation, and we role play more effective approaches to difficult interpersonal family problems. I may act as if. I am a son or daughter requesting a special privilege even though.
 
-The time you invest to deeply understand the people you love brings tremendous dividends in open communication. Many of the problems that plague families and marriages simply don’t have time to fester and develop. The communication becomes so open that potential problems can be nipped in the bud. And there are great reserves of trust in the emotional bank account to handle the problems that do arise.
+I haven’t fulfilled a basic family responsibility, and Sandra plays herself. We interact back and forth and try to visualize the situation in a very real way so that we can train ourselves to be consistent in modeling and teaching correct principles to our children. Some of our most helpful role plays come from redoing a past difficult or stressful scene in which one of us blew it. The time you invest to deeply understand the people you love brings tremendous dividends in open communication.
 
-In business, you can set up one-on-one time with your employees. Listen to them, understand them. Set up human resource accounting or stakeholder information systems in your business to get honest, accurate feedback at every level, from customers, suppliers, and employees. Make the human element as important as the financial or the technical element.
+Many of the problems that plague families and marriages simply don’t have time to fester and develop. The communication becomes so open that potential problems can be nipped in the bud. And there are great reserves of trust in the emotional bank account to handle the problems that do arise. In business, you can set up one-on-one time with your employees.
 
-You save tremendous amounts of time, energy, and money when you tap into the human resources of a business at every level. When you listen, you learn. And you also give the people
+Listen to them, understand them. Set up human resource accounting or stakeholder information systems in your business to get honest, accurate feedback at every level, from customers, suppliers, and employees. Make the human element as important as the financial or the technical element. You save tremendous amounts of time, energy, and money when you tap into the human resources of a business at every level.
+
+When you listen, you learn. And you also give the people
 
 
 <a id="sec-075818"></a>
@@ -3343,25 +3645,27 @@ How valid were your assumptions? Did you really understand that individual’s p
 
 How did you do? How did it make that person feel? 3. The next time you have an opportunity to watch people communicate, cover your ears for a few minutes and just watch. What emotions are being communicated that may not come across in words alone? 4.
 
-Next time you catch yourself inappropriately using one of the autobiographical responses probing, evaluating, advising, or interpreting try to turn the situation into a deposit by acknowledgement and apology. I’m sorry. I just realized I’m not really trying to understand. Could we start again? 5.
+Next time you catch yourself inappropriately using one of the autobiographical responses probing, evaluating, advising, or interpreting try to turn the situation into a deposit by acknowledgement and apology. I’m sorry. I just realized. I’m not really trying to understand.
 
-Base your next presentation on empathy. Describe the other point of view as well as or better than its proponents, then seek to have your point understood from their frame of reference. Habit 6, Synergize. Principles of Creative Cooperation I take as my God the hope of a saint, in crucial things, unity in important things, diversity in all things, generosity.
+Could we start again? 5. Base your next presentation on empathy. Describe the other point of view as well as or better than its proponents, then seek to have your point understood from their frame of reference. Habit 6, Synergize.
 
-Inaugural Address of President George Bush When Sir Winston Churchill was called to head up the war effort for Great Britain, he remarked that all his life had prepared him for this hour. In a similar sense, the exercise of all of the other habits prepares us for the habit of synergy. When properly understood, synergy is the highest activity in all life—the true test and manifestation of all of the other habits put together. The highest forms of synergy focus the four unique human endowments—the motive of win slash win, and the skills of empathic communication on the toughest challenges we face in life.
+Principles of Creative Cooperation. I take as my God the hope of a saint, in crucial things, unity in important things, diversity in all things, generosity. Inaugural Address of President George Bush. When Sir Winston Churchill was called to head up the war effort for Great Britain, he remarked that all his life had prepared him for this hour.
 
-What results is almost miraculous. We create new alternatives—something that wasn’t there before. Synergy is the essence of principle-centered leadership. It is the essence of principle-centered parenting.
+In a similar sense, the exercise of all of the other habits prepares us for the habit of synergy. When properly understood, synergy is the highest activity in all life—the true test and manifestation of all of the other habits put together. The highest forms of synergy focus the four unique human endowments—the motive of win slash win, and the skills of empathic communication on the toughest challenges we face in life. What results is almost miraculous.
 
-It catalyzes, unifies, and unleashes the greatest powers within people. All the habits we have covered prepare us to create the miracle of synergy. What is synergy? Simply defined, it means that the whole is greater than the sum of its parts.
+We create new alternatives—something that wasn’t there before. Synergy is the essence of principle-centered leadership. It is the essence of principle-centered parenting. It catalyzes, unifies, and unleashes the greatest powers within people.
 
-It means that the relationship which the parts have to each other is a part in and of itself. It is not only a part, but the most catalytic, the most empowering, the most unifying, and the most exciting part. The creative process is also the most terrifying part because you don’t know exactly what’s going to happen or where it is going to lead. You don’t know what new dangers and challenges you’ll find.
+All the habits we have covered prepare us to create the miracle of synergy. What is synergy? Simply defined, it means that the whole is greater than the sum of its parts. It means that the relationship which the parts have to each other is a part in and of itself.
 
-It takes an enormous amount of internal security to begin with the spirit of adventure, the spirit of discovery, the spirit of creativity. Without doubt, you have to leave the comfort zone of base camp and confront an entirely new and unknown wilderness. You become a trailblazer, a pathfinder. You open new possibilities, new territories, new continents, so that others can follow.
+It is not only a part, but the most catalytic, the most empowering, the most unifying, and the most exciting part. The creative process is also the most terrifying part because you don’t know exactly what’s going to happen or where it is going to lead. You don’t know what new dangers and challenges you’ll find. It takes an enormous amount of internal security to begin with the spirit of adventure, the spirit of discovery, the spirit of creativity.
 
-Synergy is everywhere in nature. If you plant two plants close together, the roots can mingle and improve the quality of the soil so that both plants will grow better than if they were separated. If you put two pieces of wood together, they will hold much more than the total of the weight held by each separately. The whole is greater than the sum of its parts.
+Without doubt, you have to leave the comfort zone of base camp and confront an entirely new and unknown wilderness. You become a trailblazer, a pathfinder. You open new possibilities, new territories, new continents, so that others can follow. Synergy is everywhere in nature.
 
-One plus one equals three or more. The challenge is to apply the principles of creative cooperation, which we learn from nature, in our social interactions. Family life provides many opportunities to observe synergy and to practice it. The very way that a man and a woman bring a child into the world is synergistic.
+If you plant two plants close together, the roots can mingle and improve the quality of the soil so that both plants will grow better than if they were separated. If you put two pieces of wood together, they will hold much more than the total of the weight held by each separately. The whole is greater than the sum of its parts. One plus one equals three or more.
 
-The essence of synergy is to value differences to respect them, to build on strengths, to compensate for weaknesses. We obviously value the physical differences between men and women, husbands and
+The challenge is to apply the principles of creative cooperation, which we learn from nature, in our social interactions. Family life provides many opportunities to observe synergy and to practice it. The very way that a man and a woman bring a child into the world is synergistic. The essence of synergy is to value differences to respect them, to build on strengths, to compensate for weaknesses.
+
+We obviously value the physical differences between men and women, husbands and
 
 
 <a id="sec-080322"></a>
@@ -3379,15 +3683,15 @@ They may have memories of some unusual creative experiences perhaps in athletics
 
 These things can be produced regularly, consistently, almost daily in people’s lives. But it requires enormous personal security and openness and a spirit of adventure. Most all creative endeavors are somewhat unpredictable. They often seem ambiguous, hit or miss, trial and error.
 
-And unless people have a high tolerance for ambiguity and get their security from integrity to principles and inner values they find it unnerving and unpleasant to be involved in highly creative enterprises. Their need for structure, certainty, and predictability is too high. Synergy in the classroom As a teacher, I have come to believe that many truly great classes teeter on the very edge of chaos. Synergy tests whether teachers and students are really open to the principle of the whole being greater than the sum of its parts.
+And unless people have a high tolerance for ambiguity and get their security from integrity to principles and inner values they find it unnerving and unpleasant to be involved in highly creative enterprises. Their need for structure, certainty, and predictability is too high. Synergy in the classroom. As a teacher, I have come to believe that many truly great classes teeter on the very edge of chaos.
 
-There are times when neither the teacher nor the student knows for sure what’s going to happen. In the beginning, there’s a safe environment that enables people to be really open and to learn and to listen to each other’s ideas. Then comes brainstorming, where the spirit of evaluation is subordinated to the spirit of creativity, imagining, and intellectual networking. Then an absolutely unusual phenomenon begins to take place.
+Synergy tests whether teachers and students are really open to the principle of the whole being greater than the sum of its parts. There are times when neither the teacher nor the student knows for sure what’s going to happen. In the beginning, there’s a safe environment that enables people to be really open and to learn and to listen to each other’s ideas. Then comes brainstorming, where the spirit of evaluation is subordinated to the spirit of creativity, imagining, and intellectual networking.
 
-The entire class is transformed with the excitement of a new thrust, a new idea, a new direction that’s hard to define, yet it’s almost palpable to the people involved. Synergy is almost as if a group collectively agrees to subordinate old scripts and to write a new one. I’ll never forget a university class I taught in leadership philosophy and style. We were about three weeks into a semester when, in the middle of a presentation, one person started to relate some very powerful personal experiences which were both emotional and insightful.
+Then an absolutely unusual phenomenon begins to take place. The entire class is transformed with the excitement of a new thrust, a new idea, a new direction that’s hard to define, yet it’s almost palpable to the people involved. Synergy is almost as if a group collectively agrees to subordinate old scripts and to write a new one. I’ll never forget a university class.
 
-A spirit of humility and reverence fell upon the class reverence toward this individual and appreciation for his courage. This spirit became fertile soil for a synergistic and creative endeavor. Others began to pick up on it, sharing some of their experiences and insights and even some of their self-doubts. The spirit of trust and safety prompted many to become extremely open.
+I taught in leadership philosophy and style. We were about three weeks into a semester when, in the middle of a presentation, one person started to relate some very powerful personal experiences which were both emotional and insightful. A spirit of humility and reverence fell upon the class reverence toward this individual and appreciation for his courage. This spirit became fertile soil for a synergistic and creative endeavor.
 
-Rather than present what they prepared, they fed on each other’s insights and ideas and started to create a whole new scenario as to what that class could mean. I was deeply involved in the process.
+Others began to pick up on it, sharing some of their experiences and insights and even some of their self-doubts. The spirit of trust and safety prompted many to become extremely open. Rather than present what they prepared, they fed on each other’s insights and ideas and started to create a whole new scenario as to what that class could mean. I was deeply involved in the process.
 
 In fact, I was almost mesmerized by it because it seemed
 
@@ -3395,23 +3699,25 @@ In fact, I was almost mesmerized by it because it seemed
 <a id="sec-080823"></a>
 ### ⏱️ [08:08:23 - 08:13:26]
 
-so magical and creative. And I found myself gradually loosening up my commitment to the structure of the class and sensing entirely new possibilities. It wasn’t just a flight of fancy, there was a sense of maturity and stability and substance which transcended by far the old structure and plan. We abandoned the old syllabus, the purchased textbooks and all the presentation plans, and we set up new purposes and projects and assignments.
+so magical and creative. And. I found myself gradually loosening up my commitment to the structure of the class and sensing entirely new possibilities. It wasn’t just a flight of fancy, there was a sense of maturity and stability and substance which transcended by far the old structure and plan.
 
-We became so excited about what was happening that in about three more weeks, we all sensed an overwhelming desire to share what was happening with others. We decided to write a book containing our learnings and insights on the subject of our study principles of leadership. Assignments were changed, new projects undertaken, new teams formed. People worked much harder than they ever would have in the original class structure, and for an entirely different set of reasons.
+We abandoned the old syllabus, the purchased textbooks and all the presentation plans, and we set up new purposes and projects and assignments. We became so excited about what was happening that in about three more weeks, we all sensed an overwhelming desire to share what was happening with others. We decided to write a book containing our learnings and insights on the subject of our study principles of leadership. Assignments were changed, new projects undertaken, new teams formed.
 
-Out of this experience emerged an extremely unique, cohesive, and synergistic culture that did not end with the semester. For years, alumni meetings were held among members of that class. Even today, many years later, when we see each other, we talk about it and often attempt to describe what happened and why. One of the interesting things to me was how little time had transpired before there was sufficient trust to create such synergy.
+People worked much harder than they ever would have in the original class structure, and for an entirely different set of reasons. Out of this experience emerged an extremely unique, cohesive, and synergistic culture that did not end with the semester. For years, alumni meetings were held among members of that class. Even today, many years later, when we see each other, we talk about it and often attempt to describe what happened and why.
 
-I think it was largely because the people were relatively mature. They were in the final semester of their senior year, and I think they wanted more than just another good classroom experience. They were hungry for something new and exciting, something that they could create that was truly meaningful. It was an idea whose time had come for them.
+One of the interesting things to me was how little time had transpired before there was sufficient trust to create such synergy. I think it was largely because the people were relatively mature. They were in the final semester of their senior year, and. I think they wanted more than just another good classroom experience.
 
-In addition, the chemistry was right. I felt that experiencing synergy was more powerful than talking about it, that producing something new was more meaningful than simply reading something old. I’ve also experienced, as I believe most people have, times that were almost synergistic, times that hung on the edge of chaos and for some reason descended for it. Sadly, people who are burned by such experiences often begin their next new experience with that failure in mind.
+They were hungry for something new and exciting, something that they could create that was truly meaningful. It was an idea whose time had come for them. In addition, the chemistry was right. I felt that experiencing synergy was more powerful than talking about it, that producing something new was more meaningful than simply reading something old.
 
-They defend themselves against it and cut themselves off from synergy. It’s like administrators who set up new rules and regulations based on the abuses of a few people inside an organization, thus limiting the freedom and creative possibilities for many or business partners who imagine the worst scenarios possible and write them up in legal language, killer rig the whole spirit of creativity, enterprise, and synergistic possibility. As I think back on many consulting and executive education experiences, I can say that the highlights were almost always synergistic.
+I’ve also experienced, as. I believe most people have, times that were almost synergistic, times that hung on the edge of chaos and for some reason descended for it. Sadly, people who are burned by such experiences often begin their next new experience with that failure in mind. They defend themselves against it and cut themselves off from synergy.
 
-There was usually an early moment that required considerable courage, perhaps in becoming extremely authentic, in confronting some inside truth about the individual or the organization or the family which really needed to be said, but took a combination of considerable courage and genuine love to say it. Then others became more authentic, open, and honest, and the synergistic communication process began. It usually became more and more creative, and ended up in insights and plans that no one had anticipated initially. As Earl Rogers taught, that which is most personal is most general.
+It’s like administrators who set up new rules and regulations based on the abuses of a few people inside an organization, thus limiting the freedom and creative possibilities for many or business partners who imagine the worst scenarios possible and write them up in legal language, killer rig the whole spirit of creativity, enterprise, and synergistic possibility. As. I think back on many consulting and executive education experiences, I can say that the highlights were almost always synergistic. There was usually an early moment that required considerable courage, perhaps in becoming extremely authentic, in confronting some inside truth about the individual or the organization or the family which really needed to be said, but took a combination of considerable courage and genuine love to say it.
 
-The more authentic you become, the more genuine in your expression, particularly regarding personal experiences and even self-doubts, the more people can relate to your expression and the safer it makes them feel to express themselves. That expression in turn feeds back on the other person’s spirit, and genuine creative empathy takes place, producing new insights and learnings and a sense of excitement and adventure that keeps the process going. People then begin to interact with each other almost in half eye entrances, sometimes incoherent, but they get each other’s meanings very rapidly.
+Then others became more authentic, open, and honest, and the synergistic communication process began. It usually became more and more creative, and ended up in insights and plans that no one had anticipated initially. As Earl Rogers taught, that which is most personal is most general. The more authentic you become, the more genuine in your expression, particularly regarding personal experiences and even self-doubts, the more people can relate to your expression and the safer it makes them feel to express themselves.
 
-Then whole new worlds of insights, new perspectives, new paradigms that ensure options, new alternatives are opened up and thought about. Though occasionally these new ease are left up in the air, they usually come to some kind of closure that is practical and useful. Synergy in business I enjoyed one particularly meaningful synergistic experience as I worked with my associates to create the corporate mission statement for our business. Almost all members of the company went high up into the mountains where, surrounded by the magnificence of nature, we began with the first draft of what some of us considered to be an excellent mission statement.
+That expression in turn feeds back on the other person’s spirit, and genuine creative empathy takes place, producing new insights and learnings and a sense of excitement and adventure that keeps the process going. People then begin to interact with each other almost in half eye entrances, sometimes incoherent, but they get each other’s meanings very rapidly. Then whole new worlds of insights, new perspectives, new paradigms that ensure options, new alternatives are opened up and thought about. Though occasionally these new ease are left up in the air, they usually come to some kind of closure that is practical and useful.
+
+Synergy in business. I enjoyed one particularly meaningful synergistic experience as. I worked with my associates to create the corporate mission statement for our business. Almost all members of the company went high up into the mountains where, surrounded by the magnificence of nature, we began with the first draft of what some of us considered to be an excellent mission statement.
 
 At first the communication was respectful, careful and predictable. But as we began to talk about the various alternatives, possibilities, and opportunities ahead, people became very open and authentic and simply started to think out loud. The mission statement agenda gave way to a collective free association, a spontaneous piggybacking of ideas. People were genuinely empathic as well, as courageous, and we moved from mutual respect and understanding to creative,
 
@@ -3421,25 +3727,29 @@ At first the communication was respectful, careful and predictable. But as we be
 
 synergistic communication. Everyone could sense it. It was exciting. As it matured, we returned to the task of putting the evolved collective vision into words, each of which contained specific and committed to meaning for each participant.
 
-The resulting corporate mission statement reads, Our mission is to empower people and organizations to significantly increase their performance capability in order to achieve worthwhile purposes through understanding and living principle centered leadership. The synergistic process that led to the creation of our mission statement engraved it in all the hearts and minds of everyone there, and it has served us well as a frame of reference of what we are about, as well as what we are not about. Another high-level synergy experience took place when I accepted an invitation to serve as the resource and discussion catalyst at the annual planning meeting of a large insurance company.
+The resulting corporate mission statement reads, Our mission is to empower people and organizations to significantly increase their performance capability in order to achieve worthwhile purposes through understanding and living principle centered leadership. The synergistic process that led to the creation of our mission statement engraved it in all the hearts and minds of everyone there, and it has served us well as a frame of reference of what we are about, as well as what we are not about.
 
-Several months ahead, I met with the committee responsible to prepare for and stage the two-day meeting which was to involve all the top executives. They informed me that the traditional pattern was to identify four or five major issues through questionnaires and interviews, and to have alternative proposals presented by the executives. Past meetings had been generally respectful exchanges, occasionally deteriorating into defensive win-slash-lose ego battles. They were usually predictable, uncreative, and boring.
+Another high-level synergy experience took place when. I accepted an invitation to serve as the resource and discussion catalyst at the annual planning meeting of a large insurance company. Several months ahead, I met with the committee responsible to prepare for and stage the two-day meeting which was to involve all the top executives. They informed me that the traditional pattern was to identify four or five major issues through questionnaires and interviews, and to have alternative proposals presented by the executives.
 
-As I talked with the committee members about the power of synergy, they could sense its potential. With considerable trepidation, they agreed to change the pattern. They requested various executives to prepare anonymous white papers on each of the high priority issues, and then asked all the executives to immerse themselves in these papers ahead of time in order to understand the issues and the differing points of view. They were to come to the meeting prepared to listen rather than to present, prepared to create and synergize rather than to defend and protect.
+Past meetings had been generally respectful exchanges, occasionally deteriorating into defensive win-slash-lose ego battles. They were usually predictable, uncreative, and boring. As. I talked with the committee members about the power of synergy, they could sense its potential.
 
-We spent the first half day in the meeting teaching the principles and practicing the skills of habits 4, 5, and 6. The rest of the time was spent in creative synergy. The release of creative energy was incredible. Excitement replaced boredom.
+With considerable trepidation, they agreed to change the pattern. They requested various executives to prepare anonymous white papers on each of the high priority issues, and then asked all the executives to immerse themselves in these papers ahead of time in order to understand the issues and the differing points of view. They were to come to the meeting prepared to listen rather than to present, prepared to create and synergize rather than to defend and protect. We spent the first half day in the meeting teaching the principles and practicing the skills of habits 4, 5, and 6.
 
-People became very open to each other’s influence and generated new insights and options. By the end of the meeting an entirely new understanding of the nature of the central company challenge evolved. The white paper proposals became obsolete. Differences were valued and transcended.
+The rest of the time was spent in creative synergy. The release of creative energy was incredible. Excitement replaced boredom. People became very open to each other’s influence and generated new insights and options.
 
-A new common vision began to form. Once people have experienced real synergy, they are never quite the same again. They know the possibility of having other such mind expanding adventures in the future. Often attempts are made to recreate a particular synergistic experience, but this seldom can be done.
+By the end of the meeting an entirely new understanding of the nature of the central company challenge evolved. The white paper proposals became obsolete. Differences were valued and transcended. A new common vision began to form.
+
+Once people have experienced real synergy, they are never quite the same again. They know the possibility of having other such mind expanding adventures in the future. Often attempts are made to recreate a particular synergistic experience, but this seldom can be done.
 
 However, the essential purpose behind creative work can be recaptured. Like the Far Eastern philosophy, we seek not to imitate the masters, rather we seek what they sought, we seek not to imitate past creative synergistic experiences, rather we seek new ones around new and different and sometimes higher purposes. Synergy and Communication Synergy is exciting. Creativity is exciting.
 
 It’s phenomenal what openness and communication can produce. The possibilities of truly significant gain, of significant improvement are so real that it’s worth the risk such openness entails. After World War II, the United States commissioned David Lilienthal to head the New Atomic Energy Commission. Lilienthal brought together a group of people who were highly influential celebrities in their own right disciples, as it were, of their own frames of reference.
 
-This very diverse group of individuals had an extremely heavy agenda, and they were impatient to get at it. In addition, the press was pushing them. But Lilienthal took several weeks to create a high emotional bank account. He had these people get to know each other their interests, their hopes, their goals, their concerns, their backgrounds, their frames of reference, their paradigms. He facilitated the kind of human interaction that creates a great bonding between people, and he was heavily criticized for taking the time to do it because it wasn’t efficient.
+This very diverse group of individuals had an extremely heavy agenda, and they were impatient to get at it. In addition, the press was pushing them. But Lilienthal took several weeks to create a high emotional bank account. He had these people get to know each other their interests, their hopes, their goals, their concerns, their backgrounds, their frames of reference, their paradigms.
 
-But the net result was that this group became closely knit together, very open with each other, very creative, and synergistic. The respect among the members of the commission was so high that if there was disagreement, instead of opposition and defense, there was a genuine effort to understand. The attitude was if a person of your intelligence and competence and commitment disagrees with me, then there must be something to your disagreement that I don’t understand, and I need to understand it. You have a perspective, a frame of reference I need to look at.
+He facilitated the kind of human interaction that creates a great bonding between people, and he was heavily criticized for taking the time to do it because it wasn’t efficient. But the net result was that this group became closely knit together, very open with each other, very creative, and synergistic. The respect among the members of the commission was so high that if there was disagreement, instead of opposition and defense, there was a genuine effort to understand. The attitude was if a person of your intelligence and competence and commitment disagrees with me, then there must be something to your disagreement that.
+
+I don’t understand, and. I need to understand it. You have a perspective, a frame of reference. I need to look at.
 
 Nonprotective interaction developed, and an unusual culture was born. The following diagram illustrates how closely trust is related to different levels of communication. The lowest level of communication coming out of low trust situations would be characterized
 
@@ -3463,21 +3773,23 @@ This is important to him, he’s been planning it all year. He’s made reservat
 
 Their differences could be the cause of a major negative experience. The plans are set. The boys are excited. We should go on the fishing trip, he says.
 
-But we don’t know how much longer my mother will be around, and I want to be by her, she replies. This is our only opportunity to have enough time to do that. All year long we’ve looked forward to this one week vacation. The boys would be miserable sitting around grandmother’s house for a week.
+But we don’t know how much longer my mother will be around, and. I want to be by her, she replies. This is our only opportunity to have enough time to do that. All year long we’ve looked forward to this one week vacation.
 
-They’d drive everybody crazy. Besides, your mother’s not that sick. And she has your sister less than a mile away to take care of her. She’s my mother, too.
+The boys would be miserable sitting around grandmother’s house for a week. They’d drive everybody crazy. Besides, your mother’s not that sick. And she has your sister less than a mile away to take care of her.
 
-I want to be with her. You could phone her every night. And we’re planning to spend time with her at the Christmas family reunion. Remember?
+She’s my mother, too. I want to be with her. You could phone her every night. And we’re planning to spend time with her at the Christmas family reunion.
 
-That’s not for five more months. We don’t even know if she’ll still be here by then. Besides, she needs me, and she wants me. She’s being well taken care of.
+Remember? That’s not for five more months. We don’t even know if she’ll still be here by then. Besides, she needs me, and she wants me.
 
-Besides, the boys and I need you, too. My mother is more important than fishing. Your husband and sons are more important than your mother. As they disagree, back and forth, they finally may come up with some kind of compromise.
+She’s being well taken care of. Besides, the boys and. I need you, too. My mother is more important than fishing.
 
-They may decide to split up he takes the boys fishing at the lake while she visits her mother. And they both feel guilty and unhappy. The boys sense it, and it affects their enjoyment of the vacation. The husband may give in to his wife, but he does it grudgingly.
+Your husband and sons are more important than your mother. As they disagree, back and forth, they finally may come up with some kind of compromise. They may decide to split up he takes the boys fishing at the lake while she visits her mother. And they both feel guilty and unhappy.
 
-And consciously or unconsciously, he produces evidence to fulfill his prophecy of how miserable the week will be for everyone. The wife may give in to her husband, but she’s withdrawn and overreactive to any new developments in her mother’s health situation. If her mother were to become seriously ill and die, the husband could never forgive himself, and she couldn’t forgive him either. Whatever compromise they finally agree on, it could be rehearsed over the years as evidence of insensitivity, neglect, or a bad priority decision on either part.
+The boys sense it, and it affects their enjoyment of the vacation. The husband may give in to his wife, but he does it grudgingly. And consciously or unconsciously, he produces evidence to fulfill his prophecy of how miserable the week will be for everyone. The wife may give in to her husband, but she’s withdrawn and overreactive to any new developments in her mother’s health situation.
 
-It could be a source of contention for years and could even polarize the family. Many marriages that once were beautiful and soft and spontaneous and loving have deteriorated to the level of a hostility through a series of incidents just like this. The husband and wife see the situation differently. And that difference can polarize them, separate them, create wedges in the relationship.
+If her mother were to become seriously ill and die, the husband could never forgive himself, and she couldn’t forgive him either. Whatever compromise they finally agree on, it could be rehearsed over the years as evidence of insensitivity, neglect, or a bad priority decision on either part. It could be a source of contention for years and could even polarize the family. Many marriages that once were beautiful and soft and spontaneous and loving have deteriorated to the level of a hostility through a series of incidents just like this.
+
+The husband and wife see the situation differently. And that difference can polarize them, separate them, create wedges in the relationship.
 
 
 <a id="sec-082329"></a>
@@ -3503,13 +3815,13 @@ Negative Synergy Seeking the third alternative is a major paradigm shift from th
 
 It’s like trying to drive down the road with one foot on the gas and the other foot on the brake. And instead of getting a foot off the brake, most people give it more gas. They try to apply more pressure, more eloquence, more logical information to strengthen their position. The problem is that highly dependent people are trying to succeed in an interdependent reality.
 
-They’re either dependent on borrowing strength from position power and they go for win slash lose or they’re dependent on being popular with others and they go for lose slash win. They may talk win slash win technique, but they don’t really want to listen, they want to manipulate. And synergy can thrive in that environment. Insecure people think that all reality should be amenable to their paradigms. They have a high need to clone others, to mold them over into their own thinking.
+They’re either dependent on borrowing strength from position power and they go for win slash lose or they’re dependent on being popular with others and they go for lose slash win. They may talk win slash win technique, but they don’t really want to listen, they want to manipulate. And synergy can thrive in that environment. Insecure people think that all reality should be amenable to their paradigms.
 
-They don’t realize that the very strength of the relationship is in having another point of view. Sameness is not oneness, uniformity is not unity. Unity, or oneness is complementariness, not sameness. Sameness is uncreative, and boring.
+They have a high need to clone others, to mold them over into their own thinking. They don’t realize that the very strength of the relationship is in having another point of view. Sameness is not oneness, uniformity is not unity. Unity, or oneness is complementariness, not sameness.
 
-The essence of synergy is to value the differences. I’ve come to believe that the key to interpersonal synergy is interpersonal synergy, that is synergy within ourselves. The heart of interpersonal synergy is embodied in the principles in the first three habits, which give the internal security sufficient to handle the risks of being open and vulnerable. By internalizing those principles, we develop the abundance mentality of win slash win and the authenticity of habit five.
+Sameness is uncreative, and boring. The essence of synergy is to value the differences. I’ve come to believe that the key to interpersonal synergy is interpersonal synergy, that is synergy within ourselves. The heart of interpersonal synergy is embodied in the principles in the first three habits, which give the internal security sufficient to handle the risks of being open and vulnerable.
 
-One of the very practical results of being principle centered is that it makes us whole
+By internalizing those principles, we develop the abundance mentality of win slash win and the authenticity of habit five. One of the very practical results of being principle centered is that it makes us whole
 
 
 <a id="sec-082832"></a>
@@ -3521,21 +3833,27 @@ It’s not that the right brain wasn’t there, it just lay dormant. The muscles
 
 In other words, there is psychic synergy taking place in our own head. And this tool is best suited to the reality of what life is, because life is not just logical it is also emotional.
 
-One day I was presenting a seminar which I titled, manage from the left, leave from the right to a company in Orlando, Florida. During the break, the president of company came up to me and said, “Steven, this is intriguing.” But I have been thinking about this material more in terms of its application to my marriage than to my business. My wife and I have a real communication problem. I wonder if you would have lunch with the two of us and just kind of watch how we talk to each other?
+One day. I was presenting a seminar which. I titled, manage from the left, leave from the right to a company in Orlando, Florida.
 
-Let’s do it, I replied. As we sat down together, we exchanged of few pleasantries.
+During the break, the president of company came up to me and said, “Steven, this is intriguing.”. But I have been thinking about this material more in terms of its application to my marriage than to my business. My wife and. I have a real communication problem.
 
-Then this man turned to his wife and said, “Now.” Honey, I’ve. Invited Stephen to have lunch with us to see if he could help us in our communication with each other. I know you feel I should be a more sensitive, considerate husband. Could you give me something specific you think I ought to do?
+I wonder if you would have lunch with the two of us and just kind of watch how we talk to each other? Let’s do it, I replied. As we sat down together, we exchanged of few pleasantries.
 
-His dominant left brain wanted facts, figures, specifics, parts. Well, as I’ve told you before, it’s nothing specific. It’s more of a general sense I have about priorities. Her dominant right brain was dealing with sensing and with the gestalt, the whole, the relationship between the parts.
+Then this man turned to his wife and said, “Now.” Honey, I’ve. Invited Stephen to have lunch with us to see if he could help us in our communication with each other. I know you feel. I should be a more sensitive, considerate husband.
 
-What do you mean, a general feeling about priorities? What is it you want me to do? Give me something specific I can get a handle on. Well, it’s just a feeling.
+Could you give me something specific you think. I ought to do? His dominant left brain wanted facts, figures, specifics, parts. Well, as.
 
-Her right brain was dealing in images, intuitive feelings. I just don’t think our marriage is as important to you as you tell me it is. Well, what can I do to make it more important? Give me something concrete and specific to go on.
+I’ve told you before, it’s nothing specific. It’s more of a general sense. I have about priorities. Her dominant right brain was dealing with sensing and with the gestalt, the whole, the relationship between the parts.
 
-It’s hard to put into words. At that point, he just rolled his eyes and looked at me as if to say, Stephen, could you endure this kind of dumbness in your marriage? It’s just a feeling, she said, a very strong feeling. Honey, he said to her, that’s your problem.
+What do you mean, a general feeling about priorities? What is it you want me to do? Give me something specific. I can get a handle on.
 
-And that’s the problem with your mother. In fact, it’s the problem with every woman I know. Then he began to interrogate her as though it were some kind of legal deposition. Do you live where you want to live?
+Well, it’s just a feeling. Her right brain was dealing in images, intuitive feelings. I just don’t think our marriage is as important to you as you tell me it is. Well, what can.
+
+I do to make it more important? Give me something concrete and specific to go on. It’s hard to put into words. At that point, he just rolled his eyes and looked at me as if to say, Stephen, could you endure this kind of dumbness in your marriage?
+
+It’s just a feeling, she said, a very strong feeling. Honey, he said to her, that’s your problem. And that’s the problem with your mother.
+
+In fact, it’s the problem with every woman. I know. Then he began to interrogate her as though it were some kind of legal deposition. Do you live where you want to live?
 
 That’s not it, she sighed. That’s not it at all. I know, he replied with a forced patience. But since you won’t tell me exactly what it is, I figure the best way to find out what it is is to find out what it is not.
 
@@ -3545,19 +3863,23 @@ Do you live where you want to live? Yes. Okay. That’s settled.
 
 Do you have the things you want to have? Yes. Alright. Do you do the things you want to do?
 
-This went on for a little while, and I could see I wasn’t helping at all. So I intervened and said, is this kind of how it goes in your relationship? Every day, Stephen, he replied. It’s the story of our marriage, she sighed.
+This went on for a little while, and. I could see. I wasn’t helping at all. So.
 
-I looked at the two of them and the thought crossed my mind that they were two half-brained people living together. Do you have any children? I asked. Yes, too.
+I intervened and said, is this kind of how it goes in your relationship? Every day, Stephen, he replied. It’s the story of our marriage, she sighed. I looked at the two of them and the thought crossed my mind that they were two half-brained people living together.
 
-Really? I asked incredulously. How did you do it? What do you mean how did we do it?
+Do you have any children? I asked. Yes, too. Really?
 
-You were synergistic. I said. One plus one usually equals two. But you made one plus one equal four.
+I asked incredulously. How did you do it? What do you mean how did we do it? You were synergistic.
 
-Now that’s synergy. The whole is greater than the sum of the parts. So how did you do it? You know how we did it, he replied.
+I said. One plus one usually equals two. But you made one plus one equal four. Now that’s synergy.
 
-You must have valued the differences. I exclaimed. Valuing the differences. Valuing the differences is the essence of synergy, the mental, the emotional, the psychological differences between people.
+The whole is greater than the sum of the parts. So how did you do it? You know how we did it, he replied. You must have valued the differences.
 
-And the key to valuing those differences is to realize that all people see the world, not as it is, but as they are. If I think I see the world as it is, why would I want to value the differences? Why would I even want to bother with someone who’s off track? My paradigm is that I am objective, I see the world as it is.
+I exclaimed. Valuing the differences. Valuing the differences is the essence of synergy, the mental, the emotional, the psychological differences between people. And the key to valuing those differences is to realize that all people see the world, not as it is, but as they are.
+
+If. I think. I see the world as it is, why would. I want to value the differences?
+
+Why would. I even want to bother with someone who’s off track? My paradigm is that. I am objective, I see the world as it is.
 
 Everyone else is buried
 
@@ -3565,21 +3887,25 @@ Everyone else is buried
 <a id="sec-083333"></a>
 ### ⏱️ [08:33:33 - 08:38:36]
 
-by the minutiae, but I see the larger picture. That’s why they call me a supervisor I have supervision. If that’s my paradigm, then I will never be effectively interdependent, or even effectively independent, for that matter. I will be limited by the paradigms of my own conditioning.
+by the minutiae, but. I see the larger picture. That’s why they call me a supervisor. I have supervision.
 
-The person who is truly effective has the humility and reverence to recognize his own perceptual limitations and to appreciate the rich resources available through interaction with the hearts and minds of other human beings. That person values the differences because those differences add to his knowledge, to his understanding of reality. When we’re left to our own experiences, we constantly suffer from a shortage of data. Is it logical that two people can disagree and that both can be right?
+If that’s my paradigm, then. I will never be effectively interdependent, or even effectively independent, for that matter. I will be limited by the paradigms of my own conditioning. The person who is truly effective has the humility and reverence to recognize his own perceptual limitations and to appreciate the rich resources available through interaction with the hearts and minds of other human beings.
 
-It’s not logical, it’s psychological. And it’s very real. You see the young lady, I see the old woman. We’re both looking at the same picture, and both of us are right.
+That person values the differences because those differences add to his knowledge, to his understanding of reality. When we’re left to our own experiences, we constantly suffer from a shortage of data. Is it logical that two people can disagree and that both can be right? It’s not logical, it’s psychological.
 
-We see the same black lines, the same white spaces. But we interpret them differently because we’ve been conditioned to interpret them differently. And unless we value the differences in our perceptions, unless we value each other and give credence to the possibility that we’re both right, that life is not always a dichotomous either slash or, that there are almost always third alternatives, we will never be able to transcend the limits of that conditioning. All I may see is the old woman.
+And it’s very real. You see the young lady, I see the old woman. We’re both looking at the same picture, and both of us are right. We see the same black lines, the same white spaces.
 
-But I realize that you see something else. And I value you. I value your perception. I want to understand.
+But we interpret them differently because we’ve been conditioned to interpret them differently. And unless we value the differences in our perceptions, unless we value each other and give credence to the possibility that we’re both right, that life is not always a dichotomous either slash or, that there are almost always third alternatives, we will never be able to transcend the limits of that conditioning. All. I may see is the old woman.
 
-So when I become aware of the difference in our perceptions, I say, good. You see it differently. Help me see what you see. If two people have the same opinion, one is unnecessary.
+But. I realize that you see something else. And. I value you.
 
-It’s not going to do me any good at all to communicate with someone else who sees only the old woman also. I don’t want to talk, to communicate, with someone who agrees with me, I want to communicate with you because you see it differently. I value that difference. By doing that, I not only increase my own awareness, I also affirm you.
+I value your perception. I want to understand. So when. I become aware of the difference in our perceptions, I say, good.
 
-I give you psychological air. I take my foot off the brake and release the negative energy you may have invested in defending a particular position. I create an environment for synergy. The importance of valuing the difference is captured in an often quoted fable called The Animal School, written by educator Dr. R.
+You see it differently. Help me see what you see. If two people have the same opinion, one is unnecessary. It’s not going to do me any good at all to communicate with someone else who sees only the old woman also.
+
+I don’t want to talk, to communicate, with someone who agrees with me, I want to communicate with you because you see it differently. I value that difference. By doing that, I not only increase my own awareness, I also affirm you. I give you psychological air.
+
+I take my foot off the brake and release the negative energy you may have invested in defending a particular position. I create an environment for synergy. The importance of valuing the difference is captured in an often quoted fable called The Animal School, written by educator Dr. R.
 
 H. Reeves. Once upon a time, the animals decided they must do something heroic to meet the problems of a new world, so they organized a school. They adopted an activity curriculum consisting of running, climbing, swimming and flying.
 
@@ -3589,9 +3915,9 @@ But average was acceptable in school, so nobody worried about that except the du
 
 The eagle was a problem child and had to be disciplined severely. In climbing class he beat all the others to the top of the tree, but insisted on using his own way of getting there. At the end of the year, an abnormal eel that could swim exceedingly well and also could run, climb and fly a little had the highest average and was valedictorian. The prairie dog stayed out of school and fought the tax levy because the administration would not add digging and burrowing to the curriculum.
 
-The apprentice their children to the badger and later joined the ground hogs and gophers to start a successful private school. Force field analysis In an interdependent situation, synergy is particularly powerful in dealing with negative forces that work against growth and change. Sociologist Kurt Lewin developed a force field analysis model in which he described any current level of performance or being as a state of equilibrium between the driving forces that encourage upward movement and the restraining forces that discourage it. Driving forces generally are positive, reasonable, logical, conscious, and economic.
+The apprentice their children to the badger and later joined the ground hogs and gophers to start a successful private school. Force field analysis. In an interdependent situation, synergy is particularly powerful in dealing with negative forces that work against growth and change. Sociologist Kurt Lewin developed a force field analysis model in which he described any current level of performance or being as a state of equilibrium between the driving forces that encourage upward movement and the restraining forces that discourage it.
 
-In juxtaposition, restraining forces are often negative, emotional, illogical, unconscious, and social-slash psychological. Both sets of forces are very real and must be taken into account in dealing with change. In a family, for example, you have a certain climate in the home a certain level of positive or negative interaction, of feeling safe or unsafe in expressing feelings or talking about
+Driving forces generally are positive, reasonable, logical, conscious, and economic. In juxtaposition, restraining forces are often negative, emotional, illogical, unconscious, and social-slash psychological. Both sets of forces are very real and must be taken into account in dealing with change. In a family, for example, you have a certain climate in the home a certain level of positive or negative interaction, of feeling safe or unsafe in expressing feelings or talking about
 
 
 <a id="sec-083836"></a>
@@ -3609,47 +3935,49 @@ And the excitement contained within that movement creates a new culture. The peo
 
 But the trust level was so low for the parties felt they had no other alternative than to take the issues to court. Would you be interested in going for a win slash win solution that both parties feel really good about? I would ask. The response was usually affirmative, but most people didn’t really think it was possible.
 
-If I can get the other party to agree, would you be willing to start the process of really communicating with each other? Again, the answer was usually yes. The results in almost every case have been astounding. Problems that had been legally and psychologically wrangled about for months have been settled in a matter of a few hours or days.
+If. I can get the other party to agree, would you be willing to start the process of really communicating with each other? Again, the answer was usually yes. The results in almost every case have been astounding.
 
-Most of the solutions weren’t the courthouse compromise solutions, either, they were synergistic, better than the solutions proposed independently by either party. And, in most cases, the relationships continued even though it had appeared in the beginning that the trust level was so low and the rupture in the relationships so large as to be almost irreparable. At one of our development programs, an executive reported a situation where a manufacturer was being sued by a long-time industrial customer for lack of performance. Both parties felt totally justified in the rightness of their position and perceived each other as unethical and completely untrustworthy.
+Problems that had been legally and psychologically wrangled about for months have been settled in a matter of a few hours or days. Most of the solutions weren’t the courthouse compromise solutions, either, they were synergistic, better than the solutions proposed independently by either party. And, in most cases, the relationships continued even though it had appeared in the beginning that the trust level was so low and the rupture in the relationships so large as to be almost irreparable.
 
-As they began to practice Habit 5, two things became clear. First, early communication problems resulted in a misunderstanding which was later exacerbated by accusations and counter-accusations.
+At one of our development programs, an executive reported a situation where a manufacturer was being sued by a long-time industrial customer for lack of performance. Both parties felt totally justified in the rightness of their position and perceived each other as unethical and completely untrustworthy. As they began to practice Habit 5, two things became clear.
 
-Second, both were initially acting in good faith and didn’t like the cost and hassle of a legal fight, but saw no other way out. Once these two things became clear, the spirit of Habits 4, 5, and 6 took over, the problem was rapidly resolved, and the relationship continues to prosper. In another circumstance, I received an early morning phone call from a land developer desperately searching for help. The bank wanted to foreclose because he was not complying with the principal and interest payment schedule, and he was suing the bank to avoid the foreclosure.
+First, early communication problems resulted in a misunderstanding which was later exacerbated by accusations and counter-accusations. Second, both were initially acting in good faith and didn’t like the cost and hassle of a legal fight, but saw no other way out. Once these two things became clear, the spirit of Habits 4, 5, and 6 took over, the problem was rapidly resolved, and the relationship continues to prosper. In another circumstance, I received an early morning phone call from a land developer desperately searching for help.
 
-He needed additional funding to finish and market the land so that he could repay the bank, but the bank refused to provide additional funds until scheduled payments were met. It was a chicken and egg problem with under-capitalization. In the meantime, the project was languishing. The streets were beginning to look like weed fields, and the owners of the few homes that had been built were up in arms as they saw their property values drop.
+The bank wanted to foreclose because he was not complying with the principal and interest payment schedule, and he was suing the bank to avoid the foreclosure. He needed additional funding to finish and market the land so that he could repay the bank, but the bank refused to provide additional funds until scheduled payments were met. It was a chicken and egg problem with under-capitalization. In the meantime, the project was languishing.
 
-The city was also upset over the prime land project falling behind schedule and becoming an ice hour. Tens of thousands of dollars in legal costs had already been spent by the bank and the developer and the case wasn’t scheduled to come to court for several months. In desperation, this developer reluctantly agreed to try the principles of Habits 4, 5, and 6. He arranged a meeting with even
+The streets were beginning to look like weed fields, and the owners of the few homes that had been built were up in arms as they saw their property values drop. The city was also upset over the prime land project falling behind schedule and becoming an ice hour. Tens of thousands of dollars in legal costs had already been spent by the bank and the developer and the case wasn’t scheduled to come to court for several months. In desperation, this developer reluctantly agreed to try the principles of Habits 4, 5, and 6.
+
+He arranged a meeting with even
 
 
 <a id="sec-084341"></a>
 ### ⏱️ [08:43:41 - 08:48:42]
 
-more reluctant bank officials. The meeting started at 8 am in one of the bank conference rooms. The tension and mistrust were palpable. The attorney for the bank had committed the bank officials to say nothing. They were only to listen and he alone would speak.
+more reluctant bank officials. The meeting started at 8 am in one of the bank conference rooms. The tension and mistrust were palpable. The attorney for the bank had committed the bank officials to say nothing.
 
-He wanted nothing to happen that would compromise the bank’s position in court. For the first hour and a half, I taught Habits 4, 5, and 6. At 9.30 I went to the blackboard and wrote down the bank’s concerns based on our prior understanding. Initially the bank officials said nothing, but the more we communicated win slash win intentions and sought first to understand, the more they opened up to explain and clarify.
+They were only to listen and he alone would speak. He wanted nothing to happen that would compromise the bank’s position in court. For the first hour and a half, I taught Habits 4, 5, and 6. At 9.30 I went to the blackboard and wrote down the bank’s concerns based on our prior understanding.
 
-As they began to feel understood, the whole atmosphere changed and a sense of momentum, of excitement over the prospect of peacefully settling the problem was clearly evident. Over the attorney’s objections the bank officials opened up even more, even about personal concerns. When we walk out of here the first thing the bank president will say is, did we get our money? What are we going to say?
+Initially the bank officials said nothing, but the more we communicated win slash win intentions and sought first to understand, the more they opened up to explain and clarify. As they began to feel understood, the whole atmosphere changed and a sense of momentum, of excitement over the prospect of peacefully settling the problem was clearly evident. Over the attorney’s objections the bank officials opened up even more, even about personal concerns. When we walk out of here the first thing the bank president will say is, did we get our money?
 
-By 11 o’clock, the bank officers were still convinced of their rightness, but they felt understood and were no longer defensive and officious. At that point, they were sufficiently open to listen to the developers' concerns. concerns, which we wrote down on the other side of the blackboard. This resulted in deeper mutual understanding and a collective awareness of how poorly communication had resulted in misunderstanding and unrealistic expectations, and how continuous communication in a win-slash-win spirit could have prevented the subsequent major problems from developing.
+What are we going to say? By 11 o’clock, the bank officers were still convinced of their rightness, but they felt understood and were no longer defensive and officious. At that point, they were sufficiently open to listen to the developers' concerns. concerns, which we wrote down on the other side of the blackboard. This resulted in deeper mutual understanding and a collective awareness of how poorly communication had resulted in misunderstanding and unrealistic expectations, and how continuous communication in a win-slash-win spirit could have prevented the subsequent major problems from developing.
 
 The shared sense of both chronic and acute pain combined with a sense of genuine progress kept everyone communicating. By noon, when the meeting was scheduled to end, the people were positive, creative, and synergistic and wanted to keep talking. The very first recommendation made by the developer was seen as a beginning win-slash-win approach by all. It was synergized on and improved, and at 12.45 p.m. the developer and the two bank officers left with a plan to present together to the Homeowners Association and the city.
 
-Despite subsequent complicating developments, the legal fight was aborted and the building project continued to a successful conclusion. I am not suggesting that people should not use legal processes. Some situations absolutely require it. But I see it as a court of last, not first, resort.
+Despite subsequent complicating developments, the legal fight was aborted and the building project continued to a successful conclusion. I am not suggesting that people should not use legal processes. Some situations absolutely require it. But.
 
-If it is used too early, even in a preventive sense, sometimes fear in the legal paradigm creates subsequent thought and action processes that are not synergistic. All nature is synergistic. Ecology is a word which basically describes the synergism in nature—everything is related to everything else. It’s in the relationship that creative powers are maximized, just as the real power in these seven habits is in their relationship to each other, not just in the individual habits themselves.
+I see it as a court of last, not first, resort. If it is used too early, even in a preventive sense, sometimes fear in the legal paradigm creates subsequent thought and action processes that are not synergistic. All nature is synergistic. Ecology is a word which basically describes the synergism in nature—everything is related to everything else.
 
-The relationship of the parts is also the power in. Having a synergistic culture inside a family or an organization. The more genuine the involvement, the more sincere and sustained the participation in analyzing and solving problems, the greater the release of everyone’s creativity, and of their commitment to what they create. This, I’m convinced, is the essence of the power in the Japanese approach to business, which has changed the world marketplace.
+It’s in the relationship that creative powers are maximized, just as the real power in these seven habits is in their relationship to each other, not just in the individual habits themselves. The relationship of the parts is also the power in. Having a synergistic culture inside a family or an organization. The more genuine the involvement, the more sincere and sustained the participation in analyzing and solving problems, the greater the release of everyone’s creativity, and of their commitment to what they create.
 
-Synergy works, it’s a correct principle. It is the crowning achievement of all the previous habits. It is effectiveness in an interdependent reality it is teamwork, team building, the development of unity and creativity with other human beings. Although you cannot control the paradigms of others in an interdependent interaction or the synergistic process itself, a great deal of synergy is within your circle of influence.
+This, I’m convinced, is the essence of the power in the Japanese approach to business, which has changed the world marketplace. Synergy works, it’s a correct principle. It is the crowning achievement of all the previous habits. It is effectiveness in an interdependent reality it is teamwork, team building, the development of unity and creativity with other human beings.
 
-Your own internal synergy is completely within the circle. You can respect both sides of your own nature the analytical side and the creative side. You can value the difference between them and use that difference to catalyze creativity. You can be synergistic within yourself even in the midst of a very adversarial environment.
+Although you cannot control the paradigms of others in an interdependent interaction or the synergistic process itself, a great deal of synergy is within your circle of influence. Your own internal synergy is completely within the circle. You can respect both sides of your own nature the analytical side and the creative side. You can value the difference between them and use that difference to catalyze creativity.
 
-You don’t have to take insults personally. You can sidestep negative energy, you can look for the good in others and utilize that good, as different as it may be, to improve your point of view and to enlarge your perspective. You can exercise the courage in interdependent situations to be open, to express your ideas, your feelings, and your experiences in a way that will encourage other people to be open also. You can value the difference in other people.
+You can be synergistic within yourself even in the midst of a very adversarial environment. You don’t have to take insults personally. You can sidestep negative energy, you can look for the good in others and utilize that good, as different as it may be, to improve your point of view and to enlarge your perspective. You can exercise the courage in interdependent situations to be open, to express your ideas, your feelings, and your experiences in a way that will encourage other people to be open also.
 
-When someone disagrees with you, you can say, good. You see it differently. You don’t have to agree with them, you can simply affirm them. And you can seek to understand.
+You can value the difference in other people. When someone disagrees with you, you can say, good. You see it differently. You don’t have to agree with them, you can simply affirm them.
 
-When you see only two alternatives yours and the wrong one you can look for a synergistic third alternative.
+And you can seek to understand. When you see only two alternatives yours and the wrong one you can look for a synergistic third alternative.
 
 
 <a id="sec-084842"></a>
@@ -3657,33 +3985,35 @@ When you see only two alternatives yours and the wrong one you can look for a sy
 
 There’s almost always a third alternative, and if you work with a win slash win philosophy and really seek to understand, you usually can find a solution that will be better for everyone concerned. Application Suggestions 1. Think about a person who typically sees things differently than you do. Consider ways in which those differences might be used as stepping stones to third alternative solutions.
 
-Perhaps you could seek out his or her views on a current project or problem, valuing the different views you are likely to hear. 2. Make a list of people who irritate you. Do they represent different views that could lead to synergy if you had greater intrinsic security and valued the difference? 3. Identify a situation in which you desire greater teamwork and synergy.
+Perhaps, you could seek out his or her views on a current project or problem, valuing the different views you are likely to hear. 2. Make a list of people who irritate you. Do they represent different views that could lead to synergy if you had greater intrinsic security and valued the difference? 3. Identify a situation in which you desire greater teamwork and synergy.
 
 What conditions would need to exist to support synergy? What can you do to create those conditions? 4. The next time you have a disagreement or confrontation with someone, attempt to understand the concerns underlying that person’s position. Address those concerns in a creative and mutually beneficial way.
 
 #### Part 4.
 
-Renewal Habit 7, sharpen the saw. Principles of balanced self-renewal. Sometimes when I consider what tremendous consequences come from little things, I am tempted to think, there are no little things. 4. Screw Spartan Suppose you were to come upon someone in the woods working feverishly to saw down a tree.
+Renewal Habit 7, sharpen the saw. Principles of balanced self-renewal. Sometimes when. I consider what tremendous consequences come from little things, I am tempted to think, there are no little things. 4.
 
-What are you doing? You ask. Can’t you see? Comes the impatient reply.
+Screw Spartan Suppose you were to come upon someone in the woods working feverishly to saw down a tree. What are you doing? You ask. Can’t you see?
 
-I’m sawing down this tree. You look exhausted. You exclaim. How long have you been at it?
+Comes the impatient reply. I’m sawing down this tree. You look exhausted. You exclaim.
 
-Dot over 5 hours, he returns, and I’m beat. This is hard work. Well, why don’t you take a break for a few minutes and sharpen that saw. You inquire.
+How long have you been at it? Dot over 5 hours, he returns, and. I’m beat. This is hard work.
 
-I’m sure it would go a lot faster. I don’t have time to sharpen the saw, the man says emphatically. I’m too busy sawing. Habit 7 is taking time to sharpen the saw.
+Well, why don’t you take a break for a few minutes and sharpen that saw. You inquire. I’m sure it would go a lot faster. I don’t have time to sharpen the saw, the man says emphatically.
 
-It surrounds the other habits on the 7 habits paradigm because it is the habit that makes all the others possible. 4. Dimensions of Renewal Habit 7 is personal PC. It’s preserving and enhancing the greatest asset you have you. It’s renewing the four dimensions of your nature physical, spiritual, mental, and social slash emotional.
+I’m too busy sawing. Habit 7 is taking time to sharpen the saw. It surrounds the other habits on the 7 habits paradigm because it is the habit that makes all the others possible. 4. Dimensions of Renewal Habit 7 is personal PC.
 
-Although different words are used, most philosophies of life deal either explicitly or implicitly with these four dimensions. Philosopher Herb Shepherd describes the healthy balanced life around four values, perspective, spiritual, autonomy, mental, connectedness, social, and tone, physical. George Sheehan, the running guru, describes four roles, being a good animal, physical, a good craftsman, mental, a good friend, social, and a saint, spiritual. Sound motivation and organization theory embrace these four dimensions or motivations the economic, physical, how people are treated.
+It’s preserving and enhancing the greatest asset you have you. It’s renewing the four dimensions of your nature physical, spiritual, mental, and social slash emotional. Although different words are used, most philosophies of life deal either explicitly or implicitly with these four dimensions. Philosopher Herb Shepherd describes the healthy balanced life around four values, perspective, spiritual, autonomy, mental, connectedness, social, and tone, physical.
 
-Social, how people are developed and used, mental, and the service, the job, the contribution the organization gives, spiritual. Sharpen the saw basically means expressing all four motivations. It means exercising all four dimensions of our nature, regularly and consistently in wise and balanced ways. To do this, we must be proactive.
+George Sheehan, the running guru, describes four roles, being a good animal, physical, a good craftsman, mental, a good friend, social, and a saint, spiritual. Sound motivation and organization theory embrace these four dimensions or motivations the economic, physical, how people are treated. Social, how people are developed and used, mental, and the service, the job, the contribution the organization gives, spiritual. Sharpen the saw basically means expressing all four motivations.
 
-Taking time to sharpen the saw is a definite quadrant two activity, and quadrant two must be acted on. Quadrant I, because of its urgency, acts on us, it presses upon us constantly. Social PC must be pressed upon until it becomes second nature, until it becomes a kind of healthy addiction. Because it’s at the center of our circle of influence, no one else can do it for us.
+It means exercising all four dimensions of our nature, regularly and consistently in wise and balanced ways. To do this, we must be proactive. Taking time to sharpen the saw is a definite quadrant two activity, and quadrant two must be acted on. Quadrant.
 
-We must do it for ourselves. This is the single most powerful investment we can ever make in life investment in ourselves, in the only instrument we have with which to deal with life and to contribute. We are the instruments of our own performance, and to be effective, we need to recognize the importance of taking time regularly to sharpen the saw in all four ways. The physical dimension.
+I, because of its urgency, acts on us, it presses upon us constantly. Social PC must be pressed upon until it becomes second nature, until it becomes a kind of healthy addiction. Because it’s at the center of our circle of influence, no one else can do it for us. We must do it for ourselves.
 
-The physical dimension involves caring effectively for our physical body eating the right kinds of foods, getting sufficient rest and relaxation, and exercising on a regular basis. Exercise is one of those quadrant two, high leverage activities that most of us don’t do consistently because it isn’t urgent. And because we don’t do it, sooner or later we find ourselves in quadrant I, dealing with the health problems and crises that come as a natural result of our neglect. Most of us think we don’t have enough time to exercise.
+This is the single most powerful investment we can ever make in life investment in ourselves, in the only instrument we have with which to deal with life and to contribute. We are the instruments of our own performance, and to be effective, we need to recognize the importance of taking time regularly to sharpen the saw in all four ways. The physical dimension. The physical dimension involves caring effectively for our physical body eating the right kinds of foods, getting sufficient rest and relaxation, and exercising on a regular basis.
+
+Exercise is one of those quadrant two, high leverage activities that most of us don’t do consistently because it isn’t urgent. And because we don’t do it, sooner or later we find ourselves in quadrant. I, dealing with the health problems and crises that come as a natural result of our neglect. Most of us think we don’t have enough time to exercise.
 
 What a distorted paradigm. We don’t have time not to. We’re talking about 3 to 6 hours a week or a minimum of 30 minutes a day, every other day.
 
@@ -3703,23 +4033,27 @@ Before, it helps loosen and warm the muscles to prepare for more vigorous exerci
 
 If you’re involved in physical labor or athletic activities, increased strength will improve your skill. If you have a basically sedentary job and success in your lifestyle does not require a lot of strength, a little toning through calisthenics in addition to your aerobic and stretching exercises might be sufficient. I was in a gym one time with a friend of mine who has a PhD in exercise physiology. He was focusing on building strength.
 
-He asked me to spot him while he did some bench presses and told me at a certain point he’d ask me to take the weight. But don’t take it until I tell you, he said firmly. So I watched and waited and prepared to take the weight. The weight went up and down, up and down.
+He asked me to spot him while he did some bench presses and told me at a certain point he’d ask me to take the weight. But don’t take it until. I tell you, he said firmly. So.
 
-And I could see it begin to get harder. But he kept going. He would start to push it up and I’d think, there’s no way he’s going to make it. But he’d make it.
+I watched and waited and prepared to take the weight. The weight went up and down, up and down. And. I could see it begin to get harder.
+
+But he kept going. He would start to push it up and. I’d think, there’s no way he’s going to make it. But he’d make it.
 
 Then he’d slowly bring it back down and start back up again. Up and down, up and down.
 
-Finally, as I looked at his face, straining with the effort, his blood vessels practically jumping out of his skin, I thought, this is going to fall and collapse his chest. Maybe I should take the weight. Maybe he’s lost control and he doesn’t even know what he’s doing. But he’d get it safely down.
+Finally, as. I looked at his face, straining with the effort, his blood vessels practically jumping out of his skin, I thought, this is going to fall and collapse his chest. Maybe. I should take the weight.
 
-Then he’d start back up again. I couldn’t believe it. When he finally told me to take the weight, I said, why did you wait so long? Almost all the benefit of the exercise comes at the very end, Stephen, he replied.
+Maybe he’s lost control and he doesn’t even know what he’s doing. But he’d get it safely down. Then he’d start back up again. I couldn’t believe it.
 
-I’m trying to build strength. And that doesn’t happen until the muscle fiber ruptures and the nerve fiber registers the pain. Then nature overcompensates and within 48 hours, the fiber is made stronger. I could see his point.
+When he finally told me to take the weight, I said, why did you wait so long? Almost all the benefit of the exercise comes at the very end, Stephen, he replied. I’m trying to build strength. And that doesn’t happen until the muscle fiber ruptures and the nerve fiber registers the pain.
 
-It’s the same principle that works with emotional muscles as well, such as patience. When you exercise your patience beyond your past limits, the emotional fiber is broken, nature overcompensates, and next time the fiber is stronger. Now my friend wanted to build muscular strength. And he knew how to do it.
+Then nature overcompensates and within 48 hours, the fiber is made stronger. I could see his point. It’s the same principle that works with emotional muscles as well, such as patience. When you exercise your patience beyond your past limits, the emotional fiber is broken, nature overcompensates, and next time the fiber is stronger.
 
-But not all of us need to develop that kind of strength to be effective. No pain, no gain has validity in some circumstances, but it is not the essence of an effective exercise program. The essence of renewing the physical dimension is to sharpen the saw, to exercise our bodies on a regular basis in a way that will preserve and enhance our capacity to work and adapt and enjoy. And we need to be wise in developing an exercise program.
+Now my friend wanted to build muscular strength. And he knew how to do it. But not all of us need to develop that kind of strength to be effective. No pain, no gain has validity in some circumstances, but it is not the essence of an effective exercise program.
 
-There’s a tendency, especially if you haven’t been exercising at all, to overdo. And that can create unnecessary pain, injury, and even permanent damage. It’s best to start slowly. Any exercise program should be in harmony with the latest research findings, with your
+The essence of renewing the physical dimension is to sharpen the saw, to exercise our bodies on a regular basis in a way that will preserve and enhance our capacity to work and adapt and enjoy. And we need to be wise in developing an exercise program. There’s a tendency, especially if you haven’t been exercising at all, to overdo. And that can create unnecessary pain, injury, and even permanent damage.
+
+It’s best to start slowly. Any exercise program should be in harmony with the latest research findings, with your
 
 
 <a id="sec-085843"></a>
@@ -3739,29 +4073,29 @@ As you act based on the value of physical well-being instead of reacting to all 
 
 The spiritual dimension is your core, your center, your commitment to your value system. It’s a very private area of life and a supremely important one. It draws upon the sources that inspire and uplift you and tie you to the timeless truths of all humanity. And people do it very, very differently.
 
-I find renewal in daily prayerful meditation on the scriptures because they represent my value system. As I read and meditate, I feel renewed, strengthened, centered and recommitted to serve. Immersion in great literature or great music can provide a similar renewal of the spirit for some. There are others who find it in the way they communicate with nature.
+I find renewal in daily prayerful meditation on the scriptures because they represent my value system. As. I read and meditate, I feel renewed, strengthened, centered and recommitted to serve. Immersion in great literature or great music can provide a similar renewal of the spirit for some.
 
-Nature bequeaths its own blessing on those who immerse themselves in it. When you’re able to leave the noise and the discord of the city and give yourself up to the harmony and rhythm of nature, you come back renewed. For a time, you’re undisturbable, almost unflappable, until gradually the noise and the discord from outside start to invade that sense of inner peace. Arthur Gordon shares a wonderful, intimate story of his own spiritual renewal in a little story called The Turn of the Tide.
+There are others who find it in the way they communicate with nature. Nature bequeaths its own blessing on those who immerse themselves in it. When you’re able to leave the noise and the discord of the city and give yourself up to the harmony and rhythm of nature, you come back renewed. For a time, you’re undisturbable, almost unflappable, until gradually the noise and the discord from outside start to invade that sense of inner peace.
 
-It tells of a time in his life when he began to feel that everything was stale and flat. His enthusiasm waned, his writing efforts were fruitless. And the situation was growing worse day by day.
+Arthur Gordon shares a wonderful, intimate story of his own spiritual renewal in a little story called The Turn of the Tide. It tells of a time in his life when he began to feel that everything was stale and flat. His enthusiasm waned, his writing efforts were fruitless. And the situation was growing worse day by day.
 
 Finally, he determined to get help from a medical doctor. Observing nothing physically wrong, the doctor asked him if he would be able to follow his instructions for one day. When Gordon replied that he could. The doctor told him to spend the following day in the place where he was happiest as a child.
 
 He could take food, but he was not to talk to anyone or to read or write or listen to the radio. He then wrote out four prescriptions and told him to open one at 9, 12, 3, and 6 o’clock. Are you serious? Gordon asked him.
 
-You won’t think I’m joking when you get my bill. Was the reply. So the next morning, Gordon went to the beach. As he opened the first prescription, he read listen carefully.
+You won’t think. I’m joking when you get my bill. Was the reply. So the next morning, Gordon went to the beach.
 
-He thought the doctor was insane. How could he listen for three hours? But he had agreed to follow the doctor’s orders, so he listened. He heard the usual sounds of the sea and the birds.
+As he opened the first prescription, he read listen carefully. He thought the doctor was insane. How could he listen for three hours? But he had agreed to follow the doctor’s orders, so he listened.
 
-After a while, he could hear the other sounds that weren’t so apparent at first. As he listened, he began to think of lessons the sea had taught him as a child patience, respect, and awareness of the interdependence of things. He began to listen to the sounds and the silence and to feel a growing peace. At noon, he opened the second slip of paper and read try reaching back.
+He heard the usual sounds of the sea and the birds. After a while, he could hear the other sounds that weren’t so apparent at first. As he listened, he began to think of lessons the sea had taught him as a child patience, respect, and awareness of the interdependence of things. He began to listen to the sounds and the silence and to feel a growing peace.
 
-Reaching back to what? He wondered. Perhaps to childhood, perhaps to memories of happy times. He thought about his past, about the many little moments of joy.
+At noon, he opened the second slip of paper and read try reaching back. Reaching back to what? He wondered. Perhaps, to childhood, perhaps to memories of happy times.
 
-He tried to remember them with exactness. And in remembering, he found a growing warmth inside. At three o’clock, he opened the third piece of paper. Until now, the prescriptions had been easy to take.
+He thought about his past, about the many little moments of joy. He tried to remember them with exactness. And in remembering, he found a growing warmth inside. At three o’clock, he opened the third piece of paper.
 
-But this one was different, it said examine your motives. At first he was defensive. He thought about what he wanted success, recognition, security and he justified them all. But then the thought occurred to him that those motives weren’t good enough, and that perhaps therein was the answer to his stagnant situation.
+Until now, the prescriptions had been easy to take. But this one was different, it said examine your motives. At first he was defensive. He thought about what he wanted success, recognition, security and he justified them all.
 
-He considered his motives deeply. He thought about past happiness. And at last, the answer came to him.
+But then the thought occurred to him that those motives weren’t good enough, and that perhaps therein was the answer to his stagnant situation. He considered his motives deeply. He thought about past happiness. And at last, the answer came to him.
 
 
 <a id="sec-090345"></a>
@@ -3775,23 +4109,25 @@ He didn’t look back, he knew the tide would come in. Spiritual renewal takes a
 
 To him, prayer was not a mechanical duty but rather a source of power in releasing and multiplying his energies. Someone once inquired of a far eastern Zen master, who had a great serenity and peace about him no matter what pressures he faced, how do you maintain that serenity and peace?
 
-He replied, “I never leave my place of meditation.” He meditated early in the morning and for the rest of the day, he carried the peace of those moments with him in his mind and heart. The idea is that when we take time to draw on the leadership center of our lives, what life is ultimately all about, it spreads like an umbrella over everything else. It renews us, it refreshes us, particularly if we recommit to it. This is why I believe a personal mission statement is so important.
+He replied, “I never leave my place of meditation.”. He meditated early in the morning and for the rest of the day, he carried the peace of those moments with him in his mind and heart. The idea is that when we take time to draw on the leadership center of our lives, what life is ultimately all about, it spreads like an umbrella over everything else. It renews us, it refreshes us, particularly if we recommit to it.
 
-If we have a deep understanding of our center and our purpose, we can review and recommit to it frequently. In our daily spiritual renewal, we can visualize and live out the events of the day in harmony with those values. Religious leader David O. McKay taught, the greatest battles of life are fought out daily in the silent chambers of the soul.
+This is why. I believe a personal mission statement is so important. If we have a deep understanding of our center and our purpose, we can review and recommit to it frequently. In our daily spiritual renewal, we can visualize and live out the events of the day in harmony with those values.
 
-If you win the battles there, if you settle the issues that inwardly conflict, you feel a sense of peace, a sense of knowing what you’re about. And you’ll find that the public victories where you tend to think cooperatively, to promote the welfare and good of other people, and to be genuinely happy for other people’s successes will follow naturally. The mental dimension Most of our mental development and study discipline comes through formal education. But as soon as we leave the external discipline of school, many of us let our minds atrophy.
+Religious leader David O. McKay taught, the greatest battles of life are fought out daily in the silent chambers of the soul. If you win the battles there, if you settle the issues that inwardly conflict, you feel a sense of peace, a sense of knowing what you’re about. And you’ll find that the public victories where you tend to think cooperatively, to promote the welfare and good of other people, and to be genuinely happy for other people’s successes will follow naturally.
 
-We don’t do any more serious reading, we don’t explore new subjects in any real depth outside our action fields, we don’t think analytically, we don’t write at least not critically or in a way that tests our ability to express ourselves in distilled, clear, and concise language. Instead, we spend our time watching TV. Continuing surveys indicate that television is on in most homes some 35 to 45 hours a week. That’s as much time as many people put into their jobs, more than most put into school.
+The mental dimension Most of our mental development and study discipline comes through formal education. But as soon as we leave the external discipline of school, many of us let our minds atrophy. We don’t do any more serious reading, we don’t explore new subjects in any real depth outside our action fields, we don’t think analytically, we don’t write at least not critically or in a way that tests our ability to express ourselves in distilled, clear, and concise language.
 
-It’s the most powerful socializing influence there is. And when we watch, we’re subject to all the values that are being taught through it. It can powerfully influence us in very subtle and imperceptible ways. Wisdom in watching television requires the effective self-management of Habit 3, which enables you to discriminate and to select the informing, inspiring, and entertaining programs which best serve and express your purpose and values.
+Instead, we spend our time watching TV. Continuing surveys indicate that television is on in most homes some 35 to 45 hours a week. That’s as much time as many people put into their jobs, more than most put into school. It’s the most powerful socializing influence there is.
 
-In our family, we limit television watching to around 7 hours a week, an average of about an hour a day. We had a family council at which we talked about it and looked at some of the data regarding what’s happening in homes because of television. We found that by discussing it as a family when no one was defensive or argumentative, people started to realize the dependent sickness of becoming addicted to soap operas or to a steady diet of a particular program.
+And when we watch, we’re subject to all the values that are being taught through it. It can powerfully influence us in very subtle and imperceptible ways. Wisdom in watching television requires the effective self-management of Habit 3, which enables you to discriminate and to select the informing, inspiring, and entertaining programs which best serve and express your purpose and values. In our family, we limit television watching to around 7 hours a week, an average of about an hour a day.
 
-I’m grateful for television and for the many high-quality educational and entertainment programs. They can enrich our lives and contribute meaningfully to our purposes and goals. But there are many programs that simply waste our time and minds and many that influence us in negative ways if we let them. Like the body, television is a good servant but a poor master. We need to practice Habit 3 and manage ourselves effectively to maximize the use, of any resource in accomplishing our missions.
+We had a family council at which we talked about it and looked at some of the data regarding what’s happening in homes because of television. We found that by discussing it as a family when no one was defensive or argumentative, people started to realize the dependent sickness of becoming addicted to soap operas or to a steady diet of a particular program. I’m grateful for television and for the many high-quality educational and entertainment programs. They can enrich our lives and contribute meaningfully to our purposes and goals.
 
-Education Continuing education, continually honing and expanding the mind is vital mental renewal. Sometimes that involves the external discipline of the classroom or systematized study programs, more often it does not. Both people can figure out many, many ways to educate themselves. It is extremely valuable to train the mind to stand apart and examine its own program.
+But there are many programs that simply waste our time and minds and many that influence us in negative ways if we let them. Like the body, television is a good servant but a poor master. We need to practice Habit 3 and manage ourselves effectively to maximize the use, of any resource in accomplishing our missions. Education Continuing education, continually honing and expanding the mind is vital mental renewal.
 
-That, to me, is the definition of a liberal education the ability to examine the programs of life against larger questions and purposes and other paradigms. Training, without such education, narrows and closes the mind so that the assumptions
+Sometimes that involves the external discipline of the classroom or systematized study programs, more often it does not. Both people can figure out many, many ways to educate themselves. It is extremely valuable to train the mind to stand apart and examine its own program. That, to me, is the definition of a liberal education the ability to examine the programs of life against larger questions and purposes and other paradigms.
+
+Training, without such education, narrows and closes the mind so that the assumptions
 
 
 <a id="sec-090849"></a>
@@ -3805,19 +4141,23 @@ If we use our own autobiography to make early judgments before we really underst
 
 Understanding and planning represent other forms of mental renewal associated with habits two and three. It’s beginning with the end in mind and being able mentally to organize to accomplish the tent. It’s exercising the visualizing, imagining power of your mind to see the end from the beginning and to see the entire journey, at least in principles, if not in steps. It is said that wars are one in the general’s tent.
 
-Sharpening the saw in the first three dimensions the physical, the spiritual, and the mental is a practice I call the daily private victory. And I commend to you the simple practice of spending one hour a day every day doing out an hour a day for the rest of your life. There’s no other way you could spend an hour that would begin to compare with the daily private victory in terms of value and results. It will affect every decision, every relationship.
+Sharpening the saw in the first three dimensions the physical, the spiritual, and the mental is a practice. I call the daily private victory. And. I commend to you the simple practice of spending one hour a day every day doing out an hour a day for the rest of your life.
 
-It will greatly improve the quality, the effectiveness, of every other hour of the day, including the depth and restfulness of your sleep. It will build the long-term physical, spiritual, and mental strength to enable you to handle difficult challenges in life. In the words of Phillips Brooks, Some day, in the years to come, you will be wrestling with the great temptation, out trembling under the great sorrow of your life. But the real struggle is here, now, now it is being decided whether, in the day of your supreme sorrow or temptation, you shall miserably fail or gloriously conquer.
+There’s no other way you could spend an hour that would begin to compare with the daily private victory in terms of value and results. It will affect every decision, every relationship. It will greatly improve the quality, the effectiveness, of every other hour of the day, including the depth and restfulness of your sleep. It will build the long-term physical, spiritual, and mental strength to enable you to handle difficult challenges in life.
 
-Nature cannot be made except by a steady, long-continued process. The social-slash-emotional dimension. While the physical, spiritual, and mental dimensions are closely related to habits one, two, and three centered on the principles of personal vision, leadership, and management the social-slash-emotional dimension focuses on habits four, five, and six centered on the principles of interpersonal leadership, empathic communication, and creative cooperation. The social and the emotional dimensions of our lives are tied together because our emotional life is primarily, but not exclusively, developed out of and manifested in our relationships with others.
+In the words of Phillips Brooks, Some day, in the years to come, you will be wrestling with the great temptation, out trembling under the great sorrow of your life. But the real struggle is here, now, now it is being decided whether, in the day of your supreme sorrow or temptation, you shall miserably fail or gloriously conquer. Nature cannot be made except by a steady, long-continued process. The social-slash-emotional dimension.
 
-Renewing our social-slash-emotional dimension does not take time in the same sense that renewing the other dimensions does. We can do it in our normal everyday interactions with other people. But it definitely requires exercise. We may have to push ourselves because many of us have not achieved the level of private victory and the skills of public victory necessary for habits four, five, and six to come naturally to us in all our interactions.
+While the physical, spiritual, and mental dimensions are closely related to habits one, two, and three centered on the principles of personal vision, leadership, and management the social-slash-emotional dimension focuses on habits four, five, and six centered on the principles of interpersonal leadership, empathic communication, and creative cooperation. The social and the emotional dimensions of our lives are tied together because our emotional life is primarily, but not exclusively, developed out of and manifested in our relationships with others. Renewing our social-slash-emotional dimension does not take time in the same sense that renewing the other dimensions does.
 
-Suppose that you are a key person in my life. You might be my boss, my subordinate, my coworker, my friend, my neighbor, my spouse, my child, a member of my extended family anyone with whom I want or need to interact. Suppose we need to communicate together, to work together, to discuss a jugular issue, to accomplish a purpose or solve a problem. But we see things differently, we’re looking through different glasses.
+We can do it in our normal everyday interactions with other people. But it definitely requires exercise. We may have to push ourselves because many of us have not achieved the level of private victory and the skills of public victory necessary for habits four, five, and six to come naturally to us in all our interactions. Suppose that you are a key person in my life.
 
-You see the young lady, and I see the old woman. So I practice habit four. I come to you and I say, I can see that we’re approaching this situation differently. Why don’t we agree to communicate until we can find a solution we both feel good about?
+You might be my boss, my subordinate, my coworker, my friend, my neighbor, my spouse, my child, a member of my extended family anyone with whom. I want or need to interact. Suppose we need to communicate together, to work together, to discuss a jugular issue, to accomplish a purpose or solve a problem. But we see things differently, we’re looking through different glasses.
 
-Would you be willing to do that? Most people would be willing to say yes to that. Then I move to habit five. Let me listen to you first.
+You see the young lady, and. I see the old woman. So. I practice habit four.
+
+I come to you and. I say, I can see that we’re approaching this situation differently. Why don’t we agree to communicate until we can find a solution we both feel good about? Would you be willing to do that?
+
+Most people would be willing to say yes to that. Then. I move to habit five. Let me listen to you first.
 
 Instead of listening with intent to reply, I listen empathically in order to deeply, thoroughly understand your paradigm.
 
@@ -3825,31 +4165,37 @@ Instead of listening with intent to reply, I listen empathically in order to dee
 <a id="sec-091351"></a>
 ### ⏱️ [09:13:51 - 09:18:55]
 
-When I can explain your point of view as well as you can, then I focus on communicating my point of view to you so that you can understand it as well. Based on the commitment to search for a solution that we both feel good about and a deep understanding of each other’s points of view, we move to habit six. We work together to produce third alternative solutions to our differences that we both recognize are better than the ones either you or I proposed initially.
+When. I can explain your point of view as well as you can, then. I focus on communicating my point of view to you so that you can understand it as well. Based on the commitment to search for a solution that we both feel good about and a deep understanding of each other’s points of view, we move to habit six.
 
-Success in habits four, five, and six is not primarily a matter of intellect, it’s primarily a matter of emotion. It’s highly related to our sense of personal security. If our personal security comes from sources within ourselves, then we have the strength to practice the habits of public victory. If we are emotionally insecure, even though we may be intellectually very advanced, practicing habits four, five, and six with people who think differently on jugular issues of life can be terribly threatening.
+We work together to produce third alternative solutions to our differences that we both recognize are better than the ones either you or. I proposed initially. Success in habits four, five, and six is not primarily a matter of intellect, it’s primarily a matter of emotion. It’s highly related to our sense of personal security.
 
-Where does intrinsic security come from? It doesn’t come from what other people think of us or how they treat us. It doesn’t come from the scripts they’ve handed us. It doesn’t come from our circumstances. responses or our position.
+If our personal security comes from sources within ourselves, then we have the strength to practice the habits of public victory. If we are emotionally insecure, even though we may be intellectually very advanced, practicing habits four, five, and six with people who think differently on jugular issues of life can be terribly threatening. Where does intrinsic security come from? It doesn’t come from what other people think of us or how they treat us.
 
-It comes from within. It comes from accurate paradigms and correct principles deep in our own mind and heart. It comes from inside out congruence, from living a life of integrity in which our daily habits reflect our deepest values. I believe that a life of integrity is the most fundamental source of personal worth.
+It doesn’t come from the scripts they’ve handed us. It doesn’t come from our circumstances. responses or our position. It comes from within. It comes from accurate paradigms and correct principles deep in our own mind and heart.
 
-I do not agree with the popular success literature that says that self-esteem is primarily a matter of mindset, of attitude that you can psych yourself into peace of mind. Peace of mind comes when your life is in harmony with true principles and values and in no other way. There is also the intrinsic security that comes as a result of effective interdependent living. There is security in knowing that win slash win solutions do exist, that life is not always either slash or, that there are almost always mutually beneficial third alternatives.
+It comes from inside out congruence, from living a life of integrity in which our daily habits reflect our deepest values. I believe that a life of integrity is the most fundamental source of personal worth. I do not agree with the popular success literature that says that self-esteem is primarily a matter of mindset, of attitude that you can psych yourself into peace of mind. Peace of mind comes when your life is in harmony with true principles and values and in no other way.
 
-There is security in knowing that you can step out of your own frame of reference without giving it up, that you can really, deeply understand another human being. There is security that comes when you authentically, creatively and cooperatively interact with other people and really experience these interdependent habits. There is intrinsic security that comes from service, from helping other people in a meaningful way. One important source is your work, when you see yourself in a contributive and creative mode, really making a difference.
+There is also the intrinsic security that comes as a result of effective interdependent living. There is security in knowing that win slash win solutions do exist, that life is not always either slash or, that there are almost always mutually beneficial third alternatives. There is security in knowing that you can step out of your own frame of reference without giving it up, that you can really, deeply understand another human being. There is security that comes when you authentically, creatively and cooperatively interact with other people and really experience these interdependent habits.
 
-Another source is anonymous service no one knows it and no one necessarily ever will. And that’s not the concern, the concern is blessing the lives of other people. Influence, not recognition, becomes the motive. Viktor Frankl focused on the need for meaning and purpose in our lives, something that transcends our own lives and taps the best energies within us.
+There is intrinsic security that comes from service, from helping other people in a meaningful way. One important source is your work, when you see yourself in a contributive and creative mode, really making a difference. Another source is anonymous service no one knows it and no one necessarily ever will. And that’s not the concern, the concern is blessing the lives of other people.
 
-The late Dr. Hans Selye, in his. Monumental research on stress, basically says that a long, healthy, and happy life is the result of making contributions, of having meaningful projects that are personally exciting and contribute to and bless the lives of others. His ethic was earned thy neighbor’s love. In the words of George Bernard Shaw.
+Influence, not recognition, becomes the motive. Viktor Frankl focused on the need for meaning and purpose in our lives, something that transcends our own lives and taps the best energies within us. The late Dr. Hans Selye, in his.
 
-This is the true joy in life that being used for a purpose recognized by yourself as a mighty one. That being a force of nature, instead of a feverish, selfish little clot of ailments and grievances complaining that the world will not devote itself to making you happy. I am of the opinion that my life belongs to the whole community and as long as I live it is my privilege to do for it whatever I can. I want to be thoroughly used up when I die.
+Monumental research on stress, basically says that a long, healthy, and happy life is the result of making contributions, of having meaningful projects that are personally exciting and contribute to and bless the lives of others. His ethic was earned thy neighbor’s love. In the words of George Bernard Shaw. This is the true joy in life that being used for a purpose recognized by yourself as a mighty one.
 
-For the harder I work the more I life. I rejoice in life for its own sake. Life is no brief candle to me. It’s a sort of splendid torch which I’ve got to hold up for the moment and I want to make it bomb as brightly as possible before handing it on to future generations.
+That being a force of nature, instead of a feverish, selfish little clot of ailments and grievances complaining that the world will not devote itself to making you happy. I am of the opinion that my life belongs to the whole community and as long as. I live it is my privilege to do for it whatever. I can.
 
-N. Eldon Tanner has said, service is the rent we pay for the privilege of living on this earth. And there are so many ways to serve. Whether or not we belong to a church or service organization or have a job that provides meaningful service opportunities, not a day goes by that we can’t at least serve one other human being by making deposits of unconditional love.
+I want to be thoroughly used up when. I die. For the harder. I work the more.
 
-Scripting Others. These people are a function of the social mirror, scripted by the opinions, the perceptions, the paradigms of the people around them. As interdependent people, you and I come from a paradigm which includes the realization that we are a part of that social mirror. We can choose to reflect back to others a clear, undistorted vision of themselves.
+I life. I rejoice in life for its own sake. Life is no brief candle to me. It’s a sort of splendid torch which.
 
-We can affirm their proactive nature and treat them as responsible people. We can help script them as principle-centered, value-based, independent, worthwhile individuals. And, with the abundance mentality, we realize that giving a positive reflection to others in no way diminishes us. It increases us because it increases the opportunities for effective interaction with other proactive
+I’ve got to hold up for the moment and. I want to make it bomb as brightly as possible before handing it on to future generations. N. Eldon Tanner has said, service is the rent we pay for the privilege of living on this earth.
+
+And there are so many ways to serve. Whether or not we belong to a church or service organization or have a job that provides meaningful service opportunities, not a day goes by that we can’t at least serve one other human being by making deposits of unconditional love. Scripting Others. These people are a function of the social mirror, scripted by the opinions, the perceptions, the paradigms of the people around them.
+
+As interdependent people, you and. I come from a paradigm which includes the realization that we are a part of that social mirror. We can choose to reflect back to others a clear, undistorted vision of themselves. We can affirm their proactive nature and treat them as responsible people.
+
+We can help script them as principle-centered, value-based, independent, worthwhile individuals. And, with the abundance mentality, we realize that giving a positive reflection to others in no way diminishes us. It increases us because it increases the opportunities for effective interaction with other proactive
 
 
 <a id="sec-091855"></a>
@@ -3859,7 +4205,7 @@ people. At some time in your life, you probably had someone believe in you when 
 
 What if you were a positive scripter, unafirm or, of other people? When they’re being directed by the social mirror to take the lower path, you inspire them toward a higher path because you believe in them. You listen to them and empathize with them. You don’t absolve them of responsibility, you encourage them to be proactive.
 
-Perhaps you are familiar with the musical, Man of Law Mancha. It’s a beautiful story about a medieval knight who meets a woman of the street, a prostitute. She’s being validated in her lifestyle by all of the people in her life. But this poet knight sees something else in her, something beautiful and lovely.
+Perhaps, you are familiar with the musical, Man of Law Mancha. It’s a beautiful story about a medieval knight who meets a woman of the street, a prostitute. She’s being validated in her lifestyle by all of the people in her life. But this poet knight sees something else in her, something beautiful and lovely.
 
 He also sees her virtue, and he affirms it, over and over again. He gives her a new name, also a new name associated with a new paradigm. At first, she utterly denies it, her old scripts are overpowering. She writes him off as a wild-eyed fantasizer.
 
@@ -3879,9 +4225,11 @@ And how much does that reflection influence their lives? We have so much we can 
 
 We can help them become independent, fulfilled people capable of deeply satisfying, enriching, and productive relationships with others. Guta taught, treat a man as he is and he will remain as he is. Treat a man as he can and should be and he will become as he can and should be. Balance and Renewal The self-renewal process must include balanced renewal in all four dimensions of our nature, the physical, the spiritual, the mental, and the social slash emotional.
 
-Although renewal in each dimension is important, it only becomes optimally effective as we deal with all four dimensions in a wise and balanced way. To neglect any one area negatively impacts the rest. I have found this to be true in organizations as well as in individual lives. In an organization, the physical dimension is expressed in economic terms. The mental or psychological dimension deals with the recognition, development, and use of talent.
+Although renewal in each dimension is important, it only becomes optimally effective as we deal with all four dimensions in a wise and balanced way. To neglect any one area negatively impacts the rest. I have found this to be true in organizations as well as in individual lives. In an organization, the physical dimension is expressed in economic terms.
 
-The social slash emotional dimension has to do with human relations, with how people are treated. And the spiritual dimension deals with finding meaning through purpose or contribution and through organizational integrity. When an organization neglects any one or more of these areas, it negatively impacts the entire organization. The creative energies that could result in tremendous, positive synergy are instead used to fight against the organization and become restraining forces to growth and productivity.
+The mental or psychological dimension deals with the recognition, development, and use of talent. The social slash emotional dimension has to do with human relations, with how people are treated. And the spiritual dimension deals with finding meaning through purpose or contribution and through organizational integrity. When an organization neglects any one or more of these areas, it negatively impacts the entire organization.
+
+The creative energies that could result in tremendous, positive synergy are instead used to fight against the organization and become restraining forces to growth and productivity.
 
 
 <a id="sec-092359"></a>
@@ -3889,9 +4237,9 @@ The social slash emotional dimension has to do with human relations, with how pe
 
 I have found organizations whose only thrust is economic to make money. They usually don’t publicize that purpose. They sometimes even publicize something else. But in their hearts, their only desire is to make money.
 
-Whenever I find this, I also find a great deal of negative synergy in the culture, generating such things as inner-departmental rivalries, defensive and protective communication, politicking, and masterminding. We can’t effectively thrive without making money, but that’s not sufficient reason for organizational existence. We can’t live without eating, but we don’t live to eat. At the other end of the spectrum, I’ve seen organizations that focused almost exclusively on the social slash emotional dimension.
+Whenever. I find this, I also find a great deal of negative synergy in the culture, generating such things as inner-departmental rivalries, defensive and protective communication, politicking, and masterminding. We can’t effectively thrive without making money, but that’s not sufficient reason for organizational existence. We can’t live without eating, but we don’t live to eat.
 
-They are, in a sense, some kind of social experiment and they have no economic criteria to their value system. They have no measure or gauge of their effectiveness, and as a result, they lose all kinds of efficiencies and eventually their viability in the marketplace. I have found many organizations that develop as many as three of the dimensions they may have good service criteria, good economic criteria, and good human relations criteria, but they are not really committed to identifying, developing, utilizing, and recognizing the talent of people.
+At the other end of the spectrum, I’ve seen organizations that focused almost exclusively on the social slash emotional dimension. They are, in a sense, some kind of social experiment and they have no economic criteria to their value system. They have no measure or gauge of their effectiveness, and as a result, they lose all kinds of efficiencies and eventually their viability in the marketplace. I have found many organizations that develop as many as three of the dimensions they may have good service criteria, good economic criteria, and good human relations criteria, but they are not really committed to identifying, developing, utilizing, and recognizing the talent of people.
 
 And if these psychological forces are missing, the style will be a benevolent autocracy and the resulting culture will reflect different forms of collective resistance, adversarialism, excessive turnover, and other deep, chronic, cultural problems. Individual as well as individual effectiveness requires development and renewal of all four dimensions in a wise and balanced way. Any dimension that is neglected will create negative force field resistance that pushes against effectiveness and growth. Organizations and individuals that give recognition to each of these four dimensions in their mission statement provide a powerful framework for balanced renewal.
 
@@ -3919,43 +4267,49 @@ It gives you the personal strength to focus on your circle of influence in inter
 
 To make meaningful and consistent progress along that spiral, we need to consider one other aspect of renewal as it applies to the unique human endowment that directs this upward movement or conscience. In the words of Madame de Stahl, the voice of conscience is so delicate that it is easy to stifle it, but it is also so clear that it is impossible to mistake it. Conscience is the endowment that senses our congruence or disparity with correct principles and lifts us toward them when it’s in shape.
 
-Just as the education of nerve and sinew is vital to the excellent athlete and education of the mind is vital to the scholar, education of the conscience is vital to the truly proactive, highly effective person. Learning and educating the conscience, however, requires even greater concentration, more balanced discipline, more consistently honest living. It requires regular feasting on inspiring literature, thinking noble thoughts and, above all, living in harmony with its still small voice. Just as junk food and lack of exercise can ruin an athlete’s condition, those things that are obscene, crude, or pornographic can breed an inner darkness that numbs our higher sensibilities and substitutes the social conscience of will I be found out?
+Just as the education of nerve and sinew is vital to the excellent athlete and education of the mind is vital to the scholar, education of the conscience is vital to the truly proactive, highly effective person. Learning and educating the conscience, however, requires even greater concentration, more balanced discipline, more consistently honest living. It requires regular feasting on inspiring literature, thinking noble thoughts and, above all, living in harmony with its still small voice. Just as junk food and lack of exercise can ruin an athlete’s condition, those things that are obscene, crude, or pornographic can breed an inner darkness that numbs our higher sensibilities and substitutes the social conscience of will.
 
-For the natural or divine conscience of what is right and wrong? In the words of Dag Hammarholt, You cannot play with the animal in you without becoming holy animal, play with falsehood without forfeiting your right to truth, play with cruelty without losing your sensitivity of mind. He who wants to keep his garden tidy doesn’t reservoir plot for weeds. Once we are self-aware, we must choose purposes and principles to live by, otherwise the vacuum will be filled, and we will lose our self-awareness and become like gruevelling animals who live primarily for survival and propagation.
+I be found out? For the natural or divine conscience of what is right and wrong? In the words of Dag Hammarholt, You cannot play with the animal in you without becoming holy animal, play with falsehood without forfeiting your right to truth, play with cruelty without losing your sensitivity of mind. He who wants to keep his garden tidy doesn’t reservoir plot for weeds.
 
-People who exist on that level aren’t living, they are being lived. They are reacting, unaware of the unique dot endowments that lie dormant and undeveloped within. And there is no shortcut in developing them. The law of the harvest governs, we will always reap what we sow no more, no less.
+Once we are self-aware, we must choose purposes and principles to live by, otherwise the vacuum will be filled, and we will lose our self-awareness and become like gruevelling animals who live primarily for survival and propagation. People who exist on that level aren’t living, they are being lived. They are reacting, unaware of the unique dot endowments that lie dormant and undeveloped within. And there is no shortcut in developing them.
 
-The law of justice is immutable, and the closer we align ourselves with correct principles, the better our judgment will be about how the world operates and the more accurate our paradigms or maps of the territory will be. I believe that as we grow and develop on this upward spiral, we must show diligence in the process of renewal by educating and obeying our conscience. An increasingly educated conscience will propel us along the path of personal freedom, security, wisdom, and power. Moving along the upward spiral requires us to learn, commit, and do on increasingly higher planes.
+The law of the harvest governs, we will always reap what we sow no more, no less. The law of justice is immutable, and the closer we align ourselves with correct principles, the better our judgment will be about how the world operates and the more accurate our paradigms or maps of the territory will be. I believe that as we grow and develop on this upward spiral, we must show diligence in the process of renewal by educating and obeying our conscience.
 
-We deceive ourselves if we think that any one of these is sufficient. To keep progressing, we must learn, commit, and do learn, commit, and do and learn, commit, and do again. Application Suggestions 1. Make a list of activities that would help you keep in good physical shape, that would fit your lifestyle and that you could enjoy over time. 2.
+An increasingly educated conscience will propel us along the path of personal freedom, security, wisdom, and power. Moving along the upward spiral requires us to learn, commit, and do on increasingly higher planes. We deceive ourselves if we think that any one of these is sufficient. To keep progressing, we must learn, commit, and do learn, commit, and do and learn, commit, and do again.
 
-Select one of the activities and list it as a goal in your personal role area for the coming week. At the end of the week evaluate your performance. If you didn’t make your goal, was it because you subordinated it to a genuinely higher value? Or did you fail to act with integrity to your values? 3.
+Application Suggestions 1. Make a list of activities that would help you keep in good physical shape, that would fit your lifestyle and that you could enjoy over time. 2. Select one of the activities and list it as a goal in your personal role area for the coming week. At the end of the week evaluate your performance.
 
-Make a similar list of renewing activities in your spiritual and mental dimensions. In your social-emotional area, list relationships you would like to improve or specific circumstances in which public victory would bring greater effectiveness. Select one item in each area to list as a goal for the week. Implement and evaluate. 4.
+If you didn’t make your goal, was it because you subordinated it to a genuinely higher value? Or did you fail to act with integrity to your values? 3. Make a similar list of renewing activities in your spiritual and mental dimensions. In your social-emotional area, list relationships you would like to improve or specific circumstances in which public victory would bring greater effectiveness.
 
-Commit to write down specific sharpen the saw activities in all four dimensions every
+Select one item in each area to list as a goal for the week. Implement and evaluate. 4. Commit to write down specific sharpen the saw activities in all four dimensions every
 
 
 <a id="sec-093402"></a>
 ### ⏱️ [09:34:02 - 09:39:06]
 
-week, to do them, and to evaluate your performance and results. Inside Out Again The Lord works from the inside out. The world works from the outside in. The world would take people out of the slums. Christ takes the slums out of people, and then they take themselves out of the slums. The world would mold men by changing their environment.
+week, to do them, and to evaluate your performance and results. Inside Out Again The Lord works from the inside out. The world works from the outside in. The world would take people out of the slums.
 
-Christ changes men, who then change their environment. The world would shape human behavior, but Christ can change human nature. Ezra Taft Benson I would like to share with you a personal story which I feel contains the essence of this book. In doing so, it is my hope that you will relate to the underlying principles it contains.
+Christ takes the slums out of people, and then they take themselves out of the slums. The world would mold men by changing their environment. Christ changes men, who then change their environment. The world would shape human behavior, but Christ can change human nature.
 
-Some years ago, our family took a sabbatical leave from the university where I taught so that I could write. We lived for a full year in Laie on the north shore of Oahu, Hawaii. Shortly after getting settled, we developed a living and working routine which was not only very productive but extremely pleasant. After an early morning run on the beach, we would send two of our children, barefoot and in shorts, to school.
+Ezra Taft Benson. I would like to share with you a personal story which. I feel contains the essence of this book. In doing so, it is my hope that you will relate to the underlying principles it contains.
 
-I went to an isolated building next to the cane fields where I had an office to do my writing. It was very quiet, very beautiful, very serene no phone, no meetings, no pressing engagements. My office was on the outside edge of a college, and one day as I was wandering between stacks of books in the back of the college library, I came across a book that drew my interest. As I opened it, my eyes fell upon a single paragraph that powerfully influenced the rest of my life.
+Some years ago, our family took a sabbatical leave from the university where. I taught so that. I could write. We lived for a full year in Laie on the north shore of Oahu, Hawaii.
 
-I read the paragraph over and over again. It basically contained the simple idea that there is a gap or a space between stimulus and response, and that the key to both our growth and happiness is how we use that space. I can hardly describe the effect that idea had on my mind. Though I had been nurtured in the philosophy of self-determinism, the way the idea was phrased a gap between stimulus and response hit me with fresh, almost unbelievable force.
+Shortly after getting settled, we developed a living and working routine which was not only very productive but extremely pleasant. After an early morning run on the beach, we would send two of our children, barefoot and in shorts, to school. I went to an isolated building next to the cane fields where. I had an office to do my writing.
 
-It was almost like knowing it for the first time, like an inward revolution, an idea whose time had come. I reflected on it again and again, and it began to have a powerful effect on my paradigm of life. It was as if I had become an observer of my own participation. I began to stand in that gap and to look outside at the stimuli.
+It was very quiet, very beautiful, very serene no phone, no meetings, no pressing engagements. My office was on the outside edge of a college, and one day as. I was wandering between stacks of books in the back of the college library, I came across a book that drew my interest. As.
 
-I reveled in the inward sense of freedom to choose my response even to become the stimulus, or at least to influence it even to reverse it. Shortly thereafter, and partly as a result of this revolutionary idea, Sandra and I began a practice of deep communication. I would pick her up a little before noon on an old red Honda 90 trail cycle, and we would take our two pre-schooled children with us one between us and the other on my left knee as we rode out in the cane fields by my office.
+I opened it, my eyes fell upon a single paragraph that powerfully influenced the rest of my life. I read the paragraph over and over again. It basically contained the simple idea that there is a gap or a space between stimulus and response, and that the key to both our growth and happiness is how we use that space. I can hardly describe the effect that idea had on my mind.
 
-We rode slowly along for about an hour, just talking. The children looked forward to the right and hardly ever made any noise, we seldom saw another vehicle, and the cycle was so quiet we could easily hear each other. We usually ended up on an isolated beach where we parked the Honda and walked about 200 yards to a secluded spot where we ate a picnic lunch. The sandy beach and a freshwater river coming off the island totally absorbed the interest of the children, so Sandra and I were able to continue our talks uninterrupted.
+Though. I had been nurtured in the philosophy of self-determinism, the way the idea was phrased a gap between stimulus and response hit me with fresh, almost unbelievable force. It was almost like knowing it for the first time, like an inward revolution, an idea whose time had come. I reflected on it again and again, and it began to have a powerful effect on my paradigm of life.
 
-Perhaps it doesn’t take too much imagination to envision a level of understanding and trust we were able to reach by spending at least two hours a day, every day, for a full year in deep communication. At the very first of the year, we talked about all kinds of interesting topics people, ideas, events, the children, my writing, our family at home, future plans, and so forth. But little by little, our communication deepened and we began to talk more and more about our internal worlds about our upbringing, our scripting, our feelings and self-doubts.
+It was as if. I had become an observer of my own participation. I began to stand in that gap and to look outside at the stimuli. I reveled in the inward sense of freedom to choose my response even to become the stimulus, or at least to influence it even to reverse it.
+
+Shortly thereafter, and partly as a result of this revolutionary idea, Sandra and. I began a practice of deep communication. I would pick her up a little before noon on an old red Honda 90 trail cycle, and we would take our two pre-schooled children with us one between us and the other on my left knee as we rode out in the cane fields by my office. We rode slowly along for about an hour, just talking.
+
+The children looked forward to the right and hardly ever made any noise, we seldom saw another vehicle, and the cycle was so quiet we could easily hear each other. We usually ended up on an isolated beach where we parked the Honda and walked about 200 yards to a secluded spot where we ate a picnic lunch. The sandy beach and a freshwater river coming off the island totally absorbed the interest of the children, so Sandra and. I were able to continue our talks uninterrupted.
+
+Perhaps, it doesn’t take too much imagination to envision a level of understanding and trust we were able to reach by spending at least two hours a day, every day, for a full year in deep communication. At the very first of the year, we talked about all kinds of interesting topics people, ideas, events, the children, my writing, our family at home, future plans, and so forth. But little by little, our communication deepened and we began to talk more and more about our internal worlds about our upbringing, our scripting, our feelings and self-doubts.
 
 As we were deeply immersed in these communications, we also observed them and observed ourselves in them. We began to use that space between stimulus and response in some new and interesting ways which caused us to think about how we were programmed and how those programs shaped how we saw the world. We began an exciting adventure into our interior worlds and found it to be more exciting, more fascinating, more absorbing, more compelling, more filled with discovery and insight than anything we’d ever known in the outside world.
 
@@ -3967,29 +4321,37 @@ We were so initially supportive and helpful, so encouraging and empathic to each
 <a id="sec-093906"></a>
 ### ⏱️ [09:39:06 - 09:44:06]
 
-that we nurtured and facilitated these internal discoveries in each other. We gradually evolved two unspoken ground rules. The first was no. Probing. As soon as we unfolded the inner layers of vulnerability, we were not to question each other, only to empathize.
+that we nurtured and facilitated these internal discoveries in each other. We gradually evolved two unspoken ground rules. The first was no. Probing.
 
-Probing was simply too invasive. It was also too controlling and too logical. We were covering new, difficult terrain that was scary and uncertain, and it stirred up fears and doubts. We wanted to cover more and more of it, but we grew to respect the need to let each other open up in our own time.
+As soon as we unfolded the inner layers of vulnerability, we were not to question each other, only to empathize. Probing was simply too invasive. It was also too controlling and too logical. We were covering new, difficult terrain that was scary and uncertain, and it stirred up fears and doubts.
 
-The second ground rule was that when it hurt too much, when it was painful, we would simply quit for the day. Then we would either begin the next day where we left off or.wait until the person who was sharing felt ready to continue. We carried around the loose ends, knowing that we wanted to deal with them. But because we had the time and the environment conducive to it, and because we were so excited to observe our own involvement and to grow within our marriage, we simply knew that sooner or later we would deal with all those loose ends and bring them to some kind of closure.
+We wanted to cover more and more of it, but we grew to respect the need to let each other open up in our own time. The second ground rule was that when it hurt too much, when it was painful, we would simply quit for the day. Then we would either begin the next day where we left off or.wait until the person who was sharing felt ready to continue. We carried around the loose ends, knowing that we wanted to deal with them.
 
-The most difficult, and eventually the most fruitful part of this kind of communication came when my vulnerability and Sandra’s vulnerability touched. Then, because of our subjective involvement, we found that the space between stimulus and response was no longer there. A few bad feelings surfaced. But our deep desire and our implicit agreement was to prepare ourselves to start where we left off and deal with those feelings until we resolved them.
+But because we had the time and the environment conducive to it, and because we were so excited to observe our own involvement and to grow within our marriage, we simply knew that sooner or later we would deal with all those loose ends and bring them to some kind of closure. The most difficult, and eventually the most fruitful part of this kind of communication came when my vulnerability and Sandra’s vulnerability touched. Then, because of our subjective involvement, we found that the space between stimulus and response was no longer there.
 
-One of those difficult times had to do with a basic tendency in my personality. My father was a very private individual very controlled and very careful. My mother was and is very public, very open, very spontaneous. I find both sets of tendencies in me, and when I feel insecure, I tend to become private, like my father.
+A few bad feelings surfaced. But our deep desire and our implicit agreement was to prepare ourselves to start where we left off and deal with those feelings until we resolved them. One of those difficult times had to do with a basic tendency in my personality. My father was a very private individual very controlled and very careful.
 
-I live inside myself and safely observe. Sandra is more like my mother social, authentic, and spontaneous. We had gone through many experiences over the years in which I felt her openness was inappropriate, and she felt my constraint was dysfunctional, both socially and to me as an individual because I would become insensitive to the feelings of others. All of this and much more came out during those deep visits.
+My mother was and is very public, very open, very spontaneous. I find both sets of tendencies in me, and when. I feel insecure, I tend to become private, like my father. I live inside myself and safely observe.
 
-I came to value Sandra’s insight and wisdom and the way she helped me to be a more open, caring, sensitive, social person. Another of those difficult times had to do with what I perceived to be a hang-up Sandra had which had bothered me for years. She seemed to have an obsession about frigidar appliances which I was at an absolute loss to understand. She would not even consider buying another brand of appliance.
+Sandra is more like my mother social, authentic, and spontaneous. We had gone through many experiences over the years in which. I felt her openness was inappropriate, and she felt my constraint was dysfunctional, both socially and to me as an individual because. I would become insensitive to the feelings of others.
 
-Even when we were just starting out and on a very tight budget, she insisted that we drive the 50 miles to the big city where frigidar appliances were sold, simply because no dealer in our small university town carried them at that time. This was a matter of considerable agitation to me. Fortunately, the situation came up only when we purchased an appliance. But when it did come up, it was like a stimulus that triggered off a hot-button response.
+All of this and much more came out during those deep visits. I came to value Sandra’s insight and wisdom and the way she helped me to be a more open, caring, sensitive, social person. Another of those difficult times had to do with what. I perceived to be a hang-up Sandra had which had bothered me for years.
 
-This single issue seemed to be symbolic of all irrational thinking, and it generated a whole range of negative feelings within me. I usually resorted to my dysfunctional private behavior. I suppose I figured that the only way I could deal with it was not to deal with it, otherwise, I felt I would lose control and say things I shouldn’t say. There were times when I did slip and say something negative, and I had to go back and apologize.
+She seemed to have an obsession about frigidar appliances which. I was at an absolute loss to understand. She would not even consider buying another brand of appliance. Even when we were just starting out and on a very tight budget, she insisted that we drive the 50 miles to the big city where frigidar appliances were sold, simply because no dealer in our small university town carried them at that time.
 
-What bothered me the most was not that she liked frigidar, but that she persisted in making what I considered utterly illogical and indefensible statements to defend frigidar which had no basis in fact whatsoever. If she had only agreed that her response was irrational and purely emotional, I think I could have handled it. But her justification was upsetting. It was some time in early spring when the frigidar issue came up.
+This was a matter of considerable agitation to me. Fortunately, the situation came up only when we purchased an appliance. But when it did come up, it was like a stimulus that triggered off a hot-button response. This single issue seemed to be symbolic of all irrational thinking, and it generated a whole range of negative feelings within me.
 
-All our prior communication had prepared us. The ground rules had been deeply established not to probe and to leave it alone if it got to be too painful for either or both. I will never forget the day we talked it through. We didn’t end up on the beach that day, we just continued to ride through the cane fields, perhaps because we didn’t want to look each other in the eye.
+I usually resorted to my dysfunctional private behavior. I suppose. I figured that the only way. I could deal with it was not to deal with it, otherwise, I felt.
 
-There had been so much psychic history and so many bad feelings associated with the issue, and it had been submerged for so long. It had never been so critical as to rupture the relationship, but when you’re trying to cultivate a beautiful unified relationship, any divisive issue is important. Sandra and I were amazed at what we learned through the interaction. It was truly synergistic.
+I would lose control and say things. I shouldn’t say. There were times when. I did slip and say something negative, and.
+
+I had to go back and apologize. What bothered me the most was not that she liked frigidar, but that she persisted in making what. I considered utterly illogical and indefensible statements to defend frigidar which had no basis in fact whatsoever. If she had only agreed that her response was irrational and purely emotional, I think.
+
+I could have handled it. But her justification was upsetting. It was some time in early spring when the frigidar issue came up. All our prior communication had prepared us.
+
+The ground rules had been deeply established not to probe and to leave it alone if it got to be too painful for either or both. I will never forget the day we talked it through. We didn’t end up on the beach that day, we just continued to ride through the cane fields, perhaps because we didn’t want to look each other in the eye. There had been so much psychic history and so many bad feelings associated with the issue, and it had been submerged for so long.
+
+It had never been so critical as to rupture the relationship, but when you’re trying to cultivate a beautiful unified relationship, any divisive issue is important. Sandra and. I were amazed at what we learned through the interaction. It was truly synergistic.
 
 It was as if Sandra were learning, almost for the first time herself, the reason for her so-called hangup. She started to talk about her father, about how he had worked as a high school history
 
@@ -4005,13 +4367,13 @@ Sandra gained tremendous insight into herself and into the emotional root of her
 
 We discovered that even seemingly trivial things often have roots in deep emotional experiences. To deal only with the superficial trivia without seeing the deeper, more tender issues is to trample on the sacred ground of another’s heart. There were many rich fruits of those months. Our communication became so powerful that we could almost instantly connect with each other’s thoughts.
 
-When we left Hawaii, we resolved to continue the practice. During the many years since, we have continued to go regularly on our Honda Trail cycle, or in the car if the weather’s bad, just to talk. We feel the key to staying in love is to talk, particularly about feelings. We try to communicate with each other several times every day, even when I’m traveling.
+When we left Hawaii, we resolved to continue the practice. During the many years since, we have continued to go regularly on our Honda Trail cycle, or in the car if the weather’s bad, just to talk. We feel the key to staying in love is to talk, particularly about feelings. We try to communicate with each other several times every day, even when.
 
-It’s like touching into home base, which accesses all the happiness, security, and values it represents. Thomas Wolfe was wrong. You can go home again if your home is a treasured relationship, a precious companionship, intergenerational living. As Sandra and I discovered that wonderful year, the ability to use wisely the gap between stimulus and response, to exercise the four unique endowments of our human nature, empowered us from the inside out.
+I’m traveling. It’s like touching into home base, which accesses all the happiness, security, and values it represents. Thomas Wolfe was wrong. You can go home again if your home is a treasured relationship, a precious companionship, intergenerational living.
 
-We had tried the outside in approach. We loved each other, and we had attempted to work through our differences by controlling our attitudes and our behaviors, by practicing useful techniques of human interaction. But our band-aids and aspirin only lasted so long. Until we worked and communicated on the level of our essential paradigms, the chronic underlying problems were still there.
+As Sandra and. I discovered that wonderful year, the ability to use wisely the gap between stimulus and response, to exercise the four unique endowments of our human nature, empowered us from the inside out. We had tried the outside in approach. We loved each other, and we had attempted to work through our differences by controlling our attitudes and our behaviors, by practicing useful techniques of human interaction.
 
-When we began to work from the inside out, we were able build a relationship of trust and openness and to resolve dysfunctional differences in a deep and lasting way that never could he come by working from the outside in. The delicious fruits a rich win slash win relationship, a deep understanding of each other, and a marvelous synergy grew out of the roots we nurtured as we examined our programs, re-scripted ourselves, and managed our lives so that we could create time for the important quadrant to activity of communicating deeply with each other.
+But our band-aids and aspirin only lasted so long. Until we worked and communicated on the level of our essential paradigms, the chronic underlying problems were still there. When we began to work from the inside out, we were able build a relationship of trust and openness and to resolve dysfunctional differences in a deep and lasting way that never could he come by working from the outside in. The delicious fruits a rich win slash win relationship, a deep understanding of each other, and a marvelous synergy grew out of the roots we nurtured as we examined our programs, re-scripted ourselves, and managed our lives so that we could create time for the important quadrant to activity of communicating deeply with each other.
 
 And there were other fruits. We were able to see on a much deeper level that, just as powerfully as our own lives had been affected by our parents, the lives of our children were being influenced and shaped by us, often in ways we didn’t even begin to realize. Understanding the power of scripting in our own lives, we felt a renewed desire to do everything we could to make certain that what we passed on to future generations, by both precept and example, was based on correct principles.
 
@@ -4027,13 +4389,15 @@ stand for. It’s great for children to be able to identify themselves with the 
 
 Parents who show a great interest in their grandchildren are among the most precious people on this earth. What a marvelous positive social mirror they can be. My mother is like that. Even now, in her late eighties, she takes a deep personal interest in every one of her descendants.
 
-She writes us love letters. I was reading one the other day on a plane with tears streaming down my cheeks. I could call her up tonight and I know she’d say, Stephen, I want you to know how much I love you and how wonderful I think you are. She’s constantly reaffirming.
+She writes us love letters. I was reading one the other day on a plane with tears streaming down my cheeks. I could call her up tonight and. I know she’d say, Stephen, I want you to know how much.
 
-A strong intergenerational family is potentially one of the most fruitful, rewarding, and satisfying interdependent relationships. And many people feel the importance of that relationship. Look at the fascination we all had with roots some years ago. Each of us has roots in the ability to trace those roots, to identify our ancestors.
+I love you and how wonderful. I think you are. She’s constantly reaffirming. A strong intergenerational family is potentially one of the most fruitful, rewarding, and satisfying interdependent relationships.
 
-The highest and most powerful motivation in doing that is not for ourselves only, but for our posterity, for the posterity of all mankind. As someone once observed, there are only two lasting bequests we can give our children. One is roots, the other wings. Becoming a transition person.
+And many people feel the importance of that relationship. Look at the fascination we all had with roots some years ago. Each of us has roots in the ability to trace those roots, to identify our ancestors. The highest and most powerful motivation in doing that is not for ourselves only, but for our posterity, for the posterity of all mankind.
 
-Among other things, I believe that giving wings to our children and to others means empowering them with a freedom to rise above negative scripting that had been passed down to us. I believe it means becoming what my friend and associate, Dr. Terry Warner, calls a transition person. Instead of transferring those scripts to the next generation, we can change them. And we can do it in a way that will build relationships in the process.
+As someone once observed, there are only two lasting bequests we can give our children. One is roots, the other wings. Becoming a transition person. Among other things, I believe that giving wings to our children and to others means empowering them with a freedom to rise above negative scripting that had been passed down to us.
+
+I believe it means becoming what my friend and associate, Dr. Terry Warner, calls a transition person. Instead of transferring those scripts to the next generation, we can change them. And we can do it in a way that will build relationships in the process.
 
 If your parents abused you as a child, that does not mean that you have to abuse your own children. Yet there’s plenty of evidence to indicate that you will tend to live out that script. But because you’re proactive, you can rewrite the script. You can choose not only not to abuse your children, but to affirm them, to script them in positive ways.
 
@@ -4043,11 +4407,13 @@ You’re a transition person a link between the past and the future. And your ow
 
 Efforts at negotiation had been met with objections on every scale even to formalities and procedural points, to an insignificant comma or period in the text of proposed agreements. While others attempted to resolve the tense situation by hacking at the leaves, Sadat drew upon his earlier centering experience in a lonely prison cell and went to work on the route. And in doing so, he changed the course of history for millions of people. He records in his autobiography.
 
-It was then that I drew, almost unconsciously, on the inner strength I had developed in cell 54 of Cairo Central Prison A strength, call it a talent or capacity, for change. I found that faced a highly complex situation, and that I couldn’t hope to change it until I had armed myself with the necessary psychological and intellectual capacity. My contemplation of life and human nature in that secluded place had taught me that he who cannot change the very fabric of his thought will never be able to change reality, and will never, therefore, make any progress.
+It was then that. I drew, almost unconsciously, on the inner strength. I had developed in cell 54 of Cairo Central Prison A strength, call it a talent or capacity, for change. I found that faced a highly complex situation, and that.
 
-Change real change comes from the inside out. It doesn’t come from hacking at the leaves of attitude and behavior with quick-fix personality-ethic techniques. It comes from striking at the route the fabric of our thought, the fundamental, essential paradigms, which give definition to our character and create the lens through which we see the world. In the words of Amiel, Moral truth can be conceived in thought.
+I couldn’t hope to change it until. I had armed myself with the necessary psychological and intellectual capacity. My contemplation of life and human nature in that secluded place had taught me that he who cannot change the very fabric of his thought will never be able to change reality, and will never, therefore, make any progress. Change real change comes from the inside out.
 
-One can have feelings about it. One can will to live it. But moral truth may have been penetrated and possessed in all these ways, and escape us still. Deeper even than consciousness there is our being itself our very substance,
+It doesn’t come from hacking at the leaves of attitude and behavior with quick-fix personality-ethic techniques. It comes from striking at the route the fabric of our thought, the fundamental, essential paradigms, which give definition to our character and create the lens through which we see the world. In the words of Amiel, Moral truth can be conceived in thought. One can have feelings about it.
+
+One can will to live it. But moral truth may have been penetrated and possessed in all these ways, and escape us still. Deeper even than consciousness there is our being itself our very substance,
 
 
 <a id="sec-095407"></a>
@@ -4057,23 +4423,27 @@ our nature. Only those truths which have entered into this last region, which ha
 
 To become divine is then the aim of life. Then only can truth be said to be ours beyond the possibility or flaws. It is no longer outside us, nor in a sense even in us, but we are it, and it is we. Achieving unity oneness with ourselves, with our loved ones, with our friends and working associates, is the highest and best and most delicious fruit of the seven habits.
 
-Most of us have tasted this fruit of true unity from time to time in the past, as we have also tasted the bitter, lonely fruit of disunity and we know how precious and fragile unity is. Obviously building the big character of total integrity and living the life of love in service that creates such unity isn’t easy. It isn’t quick fix. But it’s possible.
+Most of us have tasted this fruit of true unity from time to time in the past, as we have also tasted the bitter, lonely fruit of disunity and we know how precious and fragile unity is. Obviously, building the big character of total integrity and living the life of love in service that creates such unity isn’t easy. It isn’t quick fix. But it’s possible.
 
 It begins with the desire to center our lives on correct principles, to break out of the paradigms created by other centers in the comfort zones of unworthy habits. As we make mistakes, we feel awkward. But if we start with the daily private victory and work from the inside out, the results will surely come. As we plant the seed and patiently weed and nourish it, we begin to feel the excitement of real growth and eventually taste the incomparably delicious fruits of a congruent, effective life.
 
-Again, I quote Emerson, that which we persist in doing becomes easier not that the nature of the task has changed, but our ability to do has increased. By centering our lives on correct principles and creating a balanced focus between doing and increasing our ability to do, we become empowered in the task of creating effective, useful, and peaceful lives, for ourselves, and for our posterity. A personal note. As I conclude this book, I would like to share my own personal conviction concerning what I believe to be the source of correct principles.
+Again, I quote Emerson, that which we persist in doing becomes easier not that the nature of the task has changed, but our ability to do has increased. By centering our lives on correct principles and creating a balanced focus between doing and increasing our ability to do, we become empowered in the task of creating effective, useful, and peaceful lives, for ourselves, and for our posterity. A personal note. As.
 
-I believe that correct principles are natural laws, and that God, the creator and father of us all, is the source of them, and also the source of our conscience. I believe that to the degree people live by this inspired conscience, they will grow to fulfill their natures, to the degree that they do not, they will not rise above the animal plane. I believe that there are parts to human nature that cannot be reached by either legislation or education, but require the power of God to deal with.
+I conclude this book, I would like to share my own personal conviction concerning what. I believe to be the source of correct principles. I believe that correct principles are natural laws, and that God, the creator and father of us all, is the source of them, and also the source of our conscience. I believe that to the degree people live by this inspired conscience, they will grow to fulfill their natures, to the degree that they do not, they will not rise above the animal plane.
 
-I believe that as human beings, we cannot perfect ourselves. To the degree to which we align ourselves with correct principles, divine endowments will be released within our nature and enabling us to fulfill the measure of our creation. In the words of Tayyar Deshardin, we are not human beings having a spiritual experience. We are spiritual beings having a human experience.
+I believe that there are parts to human nature that cannot be reached by either legislation or education, but require the power of God to deal with. I believe that as human beings, we cannot perfect ourselves. To the degree to which we align ourselves with correct principles, divine endowments will be released within our nature and enabling us to fulfill the measure of our creation. In the words of Tayyar Deshardin, we are not human beings having a spiritual experience.
 
-I personally struggle with much of what I have shared in this book. But the struggle is worthwhile and fulfilling. It gives meaning to my life and enables me to love, to serve, and to try again. Again, T.
+We are spiritual beings having a human experience. I personally struggle with much of what. I have shared in this book. But the struggle is worthwhile and fulfilling.
 
-S. Eliot expresses so beautifully my own personal discovery and conviction, we must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time. Afterward, questions I am often asked.
+It gives meaning to my life and enables me to love, to serve, and to try again. Again, T. S. Eliot expresses so beautifully my own personal discovery and conviction, we must not cease from exploration.
 
-Frankly, I’ve always been embarrassed by personal questions like some in this afterward. But I am asked them so often and with such interest that I’ve gone ahead and included them here. Many of these questions and answers were also included in living the seven habits. The seven habits was published in 1989.
+And the end of all our exploring will be to arrive where we began and to know the place for the first time. Afterward, questions. I am often asked. Frankly, I’ve always been embarrassed by personal questions like some in this afterward.
 
-Given your experiences in the many years that have followed, what would you change, add, or subtract? I’m not responding lightly, but frankly I wouldn’t change anything. I might go deeper and apply wider but I have had the opportunity to do that in some of the books released since then.
+But. I am asked them so often and with such interest that. I’ve gone ahead and included them here. Many of these questions and answers were also included in living the seven habits.
+
+The seven habits was published in 1989. Given your experiences in the many years that have followed, what would you change, add, or subtract? I’m not responding lightly, but frankly. I wouldn’t change anything.
+
+I might go deeper and apply wider but. I have had the opportunity to do that in some of the books released since then.
 
 For example, over 250,000 individuals were profiled showing habit 3, put first things first, as the habit most neglected. So, the first things first book, published 1996, went deeper into habits 2 and 3 but also added more substance and illustrations for all the other habits. The seven habits of highly effective families applied the seven habits framework of thinking into building strong, happy, highly effective families. Also, my son, Sean, applied the framework to the unique needs, interests and challenges of teens in a very visually attractive, entertaining, and edifying way in the seven habits of highly effective teens.
 
@@ -4085,27 +4455,31 @@ We have also had tens of thousands of people tell us of the significant impact o
 
 the details of their fascinating stories of courage and inspiration in living the seven habits showing the transforming power of the principles in all kinds of personal, family, and organizational settings regardless of their circumstances, organizational position, or prior life experiences. What have you learned about the seven habits since the book’s release? I have learned or had reinforced many things. I’ll briefly mention 10 learnings. 1.
 
-The importance of understanding the difference between principles and values. Principles are natural laws that are external to us and that ultimately control the consequences of our actions. Values are internal and subjective and represent that which we feel strongest about in guiding our behavior. Hopefully we will come to value in the future. value principles, so that we get the results we want now in a way that enables us to get even greater results in the future, which is how I define effectiveness.
+The importance of understanding the difference between principles and values. Principles are natural laws that are external to us and that ultimately control the consequences of our actions. Values are internal and subjective and represent that which we feel strongest about in guiding our behavior. Hopefully we will come to value in the future. value principles, so that we get the results we want now in a way that enables us to get even greater results in the future, which is how.
 
-Everyone has values, even criminal gangs have values. Values govern people’s behavior but principles govern. The consequences of those behaviors. Principles are independent of us.
+I define effectiveness. Everyone has values, even criminal gangs have values. Values govern people’s behavior but principles govern. The consequences of those behaviors.
 
-They operate regardless of our awareness of them, acceptance of them, liking of them, belief in them, or obeying of them. I have come to believe that humility is the mother of all virtues. Humility says we are not in control, principles are in control, therefore we submit ourselves to principles. Pride says that we are in control, and since our values govern our behavior, we can simply do life our way.
+Principles are independent of us. They operate regardless of our awareness of them, acceptance of them, liking of them, belief in them, or obeying of them. I have come to believe that humility is the mother of all virtues. Humility says we are not in control, principles are in control, therefore we submit ourselves to principles.
 
-We may do so but the consequences of our behavior flow. From principles not our values. Therefore we should value principles. 2. From experiences all over the world with this material I have come to see the universal nature of the.
+Pride says that we are in control, and since our values govern our behavior, we can simply do life our way. We may do so but the consequences of our behavior flow. From principles not our values.
 
-Principles undergirding this material. Illustrations and practices may vary and are culturally specific, but the principles are the same. I have found the principles contained in the seven habits in all six major world religions and have actually drawn upon quotations from sacred writings of those religions when teaching in those years. I have done this in the Middle East, India, Asia, Australia and the.
+Therefore, we should value principles. 2. From experiences all over the world with this material. I have come to see the universal nature of the. Principles undergirding this material.
 
-South Pacific, South America, Europe, North America, Africa, and among Native Americans and other indigenous peoples. All of us, men and women alike, face similar problems, have similar needs, and internally resonate with the underlying principles. There is an internal sense of the principle of justice or win slash win. There is an internal moral sense of the principle of responsibility, of the principle of purpose, of integrity, of respect, of cooperation, of communication, of renewal.
+Illustrations and practices may vary and are culturally specific, but the principles are the same. I have found the principles contained in the seven habits in all six major world religions and have actually drawn upon quotations from sacred writings of those religions when teaching in those years. I have done this in the Middle East, India, Asia, Australia and the. South Pacific, South America, Europe, North America, Africa, and among Native Americans and other indigenous peoples.
 
-These are universal. But practices are not. They are situationally specific. Every culture interprets universal principles in unique ways. 3.
+All of us, men and women alike, face similar problems, have similar needs, and internally resonate with the underlying principles. There is an internal sense of the principle of justice or win slash win. There is an internal moral sense of the principle of responsibility, of the principle of purpose, of integrity, of respect, of cooperation, of communication, of renewal. These are universal.
 
-I have come to see the organizational implications of the seven habits, although, in the strict technical sense, an organization does not have habits. Its culture has norms or mores or social codes, which represent habits. An organization also has established systems, processes, and procedures. These represent habits.
+But practices are not. They are situationally specific. Every culture interprets universal principles in unique ways. 3. I have come to see the organizational implications of the seven habits, although, in the strict technical sense, an organization does not have habits.
+
+Its culture has norms or mores or social codes, which represent habits. An organization also has established systems, processes, and procedures. These represent habits.
 
 In fact, in the last analysis, all behavior is personal. It is individual even though it often is part of collective behavior in the form of decisions made by management regarding structure and systems, processes and practices. We have worked with thousands of organizations in most every industry and profession and have found that the same basic principles contained in the seven habits apply and define effectiveness. 4. You can teach all seven habits by starting with any one habit.
 
 And you can also teach one habit in a way that leads to the teaching of the other six. It’s like a hologram where the whole is contained in a part and the part is contained in a whole. 5. Even though the seven habits represents an inside-out approach, it works most successfully when you start with the outside challenge and then take the inside-out approach.
 
-In other words, if you are having a relationship challenge, say a breakdown of communication and trust, this will define the nature of the needed inside-out approach and winning the kind of private victory that enables the public victory meeting that challenge. This is the reason I often teach habits 4, 5, and 6 before I teach habits 1, 2, and 3. 6. Interdependence is ten times more difficult than independence. It demands so much more mental and emotional independence to think win slash win when another person is in to win slash lose, to seek to understand first when everything inside you cries out for understanding, and to search for a better third alternative when compromise is so much easier.
+In other words, if you are having a relationship challenge, say a breakdown of communication and trust, this will define the nature of the needed inside-out approach and winning the kind of private victory that enables the public victory meeting that challenge. This is the reason. I often teach habits 4, 5, and 6 before. I teach habits 1, 2, and 3. 6.
+
+Interdependence is ten times more difficult than independence. It demands so much more mental and emotional independence to think win slash win when another person is in to win slash lose, to seek to understand first when everything inside you cries out for understanding, and to search for a better third alternative when compromise is so much easier.
 
 In other words, to work successfully with others in creative cooperative ways requires an enormous amount of independence, internal security, and self-mastery. Otherwise, what we call interdependency is really counterdependency
 
@@ -4127,25 +4501,27 @@ In a sense, the first three habits represent integrity and the next three loyalt
 
 Ultimately, trust and respect will generally produce love. 10. Living the seven habits is a constant struggle for everyone. Everyone falters from time to time on each of the seven and sometimes all seven simultaneously. They really are simple to understand but difficult to consistently practice.
 
-They are common sense but what is common sense is not always common practice. Which habit do you personally have the greatest difficulty with? Habit 5. When I am really tired and already convinced I’m right, I really don’t want to listen.
+They are common sense but what is common sense is not always common practice. Which habit do you personally have the greatest difficulty with? Habit 5. When.
 
-I may even pretend to listen. Basically I am guilty of the same thing I talk about, listening with the intent to reply, not to understand.
+I am really tired and already convinced. I’m right, I really don’t want to listen. I may even pretend to listen. Basically.
+
+I am guilty of the same thing. I talk about, listening with the intent to reply, not to understand.
 
 In fact, in some sense, I struggle almost daily with all seven habits. I have conquered none of them. I see them more as life principles that we never really master and that the closer we come to their mastery, the more aware we become of how far we really have yet to go. It’s like the more you know the more you know you don’t know.
 
-This is why I often gave my university students 50% of the grade for the quality of their questions and the other 50% for the quality of their answer to their questions. Their true level of knowledge is better revealed that way. Similarly, the seven habits represents an upward cycle. Habit 1 at a high level is vastly different from habit 1 at a lower level.
+This is why. I often gave my university students 50% of the grade for the quality of their questions and the other 50% for the quality of their answer to their questions. Their true level of knowledge is better revealed that way. Similarly, the seven habits represents an upward cycle.
 
-To be proactive at the beginning level may only be awareness of the space between stimulus and response. At the next level it may involve a choice such as, not to get back at or to get even. At the next level, to give feedback. At the next level, to ask forgiveness.
+Habit 1 at a high level is vastly different from habit 1 at a lower level. To be proactive at the beginning level may only be awareness of the space between stimulus and response. At the next level it may involve a choice such as, not to get back at or to get even. At the next level, to give feedback.
 
-At the next level, to forgive. At the next, to forgive parents. At the next level, to forgive dead parents. And the next level, to simply not take offense.
+At the next level, to ask forgiveness. At the next level, to forgive. At the next, to forgive parents. At the next level, to forgive dead parents.
 
-You’re the vice chairman of Franklin Covey Company. Does Franklin Covey live the seven habits? We try to. Continually trying to live what we teach is one of our most fundamental values.
+And the next level, to simply not take offense. You’re the vice chairman of Franklin Covey Company. Does Franklin Covey live the seven habits? We try to.
 
-But we don’t do it perfectly. Like any other business, we’re challenged by changing market realities and by integrating the two cultures of the former Covey Leadership Center and Franklin Quest. The merger took place in the summer of 1997. It takes time, patience, and persistence in applying the principles and the true test of our success will be in the long run.
+Continually trying to live what we teach is one of our most fundamental values. But we don’t do it perfectly. Like any other business, we’re challenged by changing market realities and by integrating the two cultures of the former Covey Leadership Center and Franklin Quest. The merger took place in the summer of 1997.
 
-No snapshot will give an accurate picture. Any airplane is off track much of the time but just keeps coming back to the flight plan. Eventually, it arrives at its destination. This is true with all of us as individuals, families, or organizations.
+It takes time, patience, and persistence in applying the principles and the true test of our success will be in the long run. No snapshot will give an accurate picture. Any airplane is off track much of the time but just keeps coming back to the flight plan. Eventually, it arrives at its destination.
 
-The key is to have an end in mind and a shared commitment to constant
+This is true with all of us as individuals, families, or organizations. The key is to have an end in mind and a shared commitment to constant
 
 
 <a id="sec-100917"></a>
@@ -4157,47 +4533,57 @@ Nothing is sacred about seven, it just so happens that the three private victory
 
 In other words, if punctuality is a desirable trait you want to make a habit, that would be one of the values of habit two. So no matter what else you came up with you would put it under habit two, your value is system. Habit one is the idea that you can have a value system, that you can choose your own value system. Habit two is what those choices or values are and habit three is to live by them.
 
-So they are very basic, generic, and interconnected. It so happens that at the writing of this afterward for this new edition of the seven habits, I have just completed a new book entitled the eighth habit, from effectiveness to greatness. To some, calling it the eighth habit may appear to be a departure from my standard answer. But you see, as I say in the opening chapter of this new book, the world has profoundly changed since the seven habits of highly effective people was published in 1989.
+So they are very basic, generic, and interconnected. It so happens that at the writing of this afterward for this new edition of the seven habits, I have just completed a new book entitled the eighth habit, from effectiveness to greatness. To some, calling it the eighth habit may appear to be a departure from my standard answer. But you see, as.
 
-The challenges and complexity we face in our personal lives and relationships, in our families, in our professional lives, and in our organizations are of a different order of magnitude. In fact, many Mark 1989 the year we witnessed the fall of the Berlin Wallace the beginning of the information age, the birth of a new reality, a sea change of incredible significance, truly a new era. Being highly effective as individuals and organizations is no longer optional in today’s world it’s the price of entry to the playing field.
+I say in the opening chapter of this new book, the world has profoundly changed since the seven habits of highly effective people was published in 1989. The challenges and complexity we face in our personal lives and relationships, in our families, in our professional lives, and in our organizations are of a different order of magnitude.
 
-But surviving, thriving, innovating, excelling and leading in this new reality will require us to build on and reach beyond effectiveness. The call in need of a new era is for fulfillment. It’s for passionate optimization, for significant contribution and greatness. These are on a different plane or dimension.
+In fact, many Mark 1989 the year we witnessed the fall of the Berlin Wallace the beginning of the information age, the birth of a new reality, a sea change of incredible significance, truly a new era. Being highly effective as individuals and organizations is no longer optional in today’s world it’s the price of entry to the playing field. But surviving, thriving, innovating, excelling and leading in this new reality will require us to build on and reach beyond effectiveness.
 
-They are different in kind just as significance is different in kind, not in degree, from success. Dapping into the higher reaches of human genius and motivation what we could call voice requires a new mindset, a new skill set, a new tool set, a new habit. The eighth habit, then, is not about adding one more habit to the 7th one that somehow got forgotten. It’s about seeing and harnessing the power of a third dimension to the seven habits that meets the central challenge of the new knowledge worker age.
+The call in need of a new era is for fulfillment. It’s for passionate optimization, for significant contribution and greatness. These are on a different plane or dimension. They are different in kind just as significance is different in kind, not in degree, from success.
 
-How does notoriety affect you? It affects me in different ways. From an ego standpoint, it’s flattering. From a teaching standpoint it is humbling, but I must strongly acknowledge that I am not the author of any of these principles and deserve absolutely no recognition.
+Dapping into the higher reaches of human genius and motivation what we could call voice requires a new mindset, a new skill set, a new tool set, a new habit. The eighth habit, then, is not about adding one more habit to the 7th one that somehow got forgotten. It’s about seeing and harnessing the power of a third dimension to the seven habits that meets the central challenge of the new knowledge worker age. How does notoriety affect you?
 
-I am not saying this because of a desire to be modest and humble. I am saying this because I believe it that I, myself, believe it. I see myself like most of you as a seeker of truth, of understanding. I am not a guru, I disdain being called a guru.
+It affects me in different ways. From an ego standpoint, it’s flattering. From a teaching standpoint it is humbling, but. I must strongly acknowledge that.
 
-I want no disciples. I am only trying to promote a discipleship toward principles that are already in people’s hearts, that people will live true to their conscience. If you had it to do over again, what is the one thing you would do differently as a business person? I would do more strategic, proactive recruiting and selecting.
+I am not the author of any of these principles and deserve absolutely no recognition. I am not saying this because of a desire to be modest and humble. I am saying this because. I believe it that.
 
-When you are buried by the urgent and have a thousand balls in the air, it is so easy to put people that appear to have solutions into key positions. The tendency is to not look deeply into their backgrounds and patterns, to do due diligence, nor is it to carefully develop the criteria that needs to be met in the particular roles or assignments. I am convinced that when recruiting and selecting is done strategically, that is, thinking long-term and proactively, not based upon the pressures of the moment, it pays enormous long-term dividends.
+I, myself, believe it. I see myself like most of you as a seeker of truth, of understanding. I am not a guru, I disdain being called a guru. I want no disciples.
 
-Someone once said, that which we desire most earnestly we believe most easily. You really have to look deeply into both character and competence because eventually, downstream, flaws in either area will manifest themselves in both areas. I am convinced that although training and development is important, recruiting and selection are much more important. If you had it to do over again, what is the one thing you would do differently as a parent?
+I am only trying to promote a discipleship toward principles that are already in people’s hearts, that people will live true to their conscience. If you had it to do over again, what is the one thing you would do differently as a business person? I would do more strategic, proactive recruiting and selecting. When you are buried by the urgent and have a thousand balls in the air, it is so easy to put people that appear to have solutions into key positions.
 
-As a parent, I wish I had spent more time in carefully developing soft, informal win-slash-win agreements with each of my children in the different phases of their lives. Because of business and travels I often indulged my children and went for lose-slash-win too much instead of
+The tendency is to not look deeply into their backgrounds and patterns, to do due diligence, nor is it to carefully develop the criteria that needs to be met in the particular roles or assignments. I am convinced that when recruiting and selecting is done strategically, that is, thinking long-term and proactively, not based upon the pressures of the moment, it pays enormous long-term dividends. Someone once said, that which we desire most earnestly we believe most easily. You really have to look deeply into both character and competence because eventually, downstream, flaws in either area will manifest themselves in both areas.
+
+I am convinced that although training and development is important, recruiting and selection are much more important. If you had it to do over again, what is the one thing you would do differently as a parent? As a parent, I wish. I had spent more time in carefully developing soft, informal win-slash-win agreements with each of my children in the different phases of their lives.
+
+Because of business and travels. I often indulged my children and went for lose-slash-win too much instead of
 
 
 <a id="sec-101418"></a>
 ### ⏱️ [10:14:18 - 10:18:16]
 
-paying the price and relationship building sufficient to really develop thorough, sound win-slash-win agreements more consistently. How is technology going to change business in the future? I believe in Stan Davis’s statement that when the infrastructure changes, everything rumbles, and I think the technical infrastructure is central to everything. It will accelerate all good and bad trends.
+paying the price and relationship building sufficient to really develop thorough, sound win-slash-win agreements more consistently. How is technology going to change business in the future? I believe in Stan Davis’s statement that when the infrastructure changes, everything rumbles, and. I think the technical infrastructure is central to everything.
 
-I’m also convinced that it is for these very reasons that the human element becomes even more important. High tech without high touch does not work, and, the more influential technology becomes, the more important is the human factor which controls that technology becomes, particularly in developing a cultural commitment. to the criteria in the use of that technology? Are you surprised or astounded at the universal popularity of the seven habits, with other countries slash cultures slash ages slash gender? Yes and no. Yes, in that I had no idea it would become a worldwide phenomenon and that a few of the words would become part of Americana.
+It will accelerate all good and bad trends. I’m also convinced that it is for these very reasons that the human element becomes even more important. High tech without high touch does not work, and, the more influential technology becomes, the more important is the human factor which controls that technology becomes, particularly in developing a cultural commitment. to the criteria in the use of that technology? Are you surprised or astounded at the universal popularity of the seven habits, with other countries slash cultures slash ages slash gender?
 
-No, in the sense that the material had been tested for over 25 years and I knew that it would work primarily because it is based upon principles I did not invent and therefore take no credit for. How would you begin to teach the seven habits to very young children? I think I would live by Albert Schweitzer’s three basic rules for raising children.
+Yes and no. Yes, in that. I had no idea it would become a worldwide phenomenon and that a few of the words would become part of Americana. No, in the sense that the material had been tested for over 25 years and.
 
-First, example, second, example, third, example. But I wouldn’t go quite that far. I would say, first, example, second, build a caring and affirming relationship, and third, teach some of the simple ideas underlying the habits in the language of children help them gain a basic understanding and vocabulary of the seven habits and show them how to process their own experiences through the principles, let them identify what particular principles and habits are being illustrated in their lives. My boss, spouse, child, friend, etc., really needs the seven habits.
+I knew that it would work primarily because it is based upon principles. I did not invent and therefore take no credit for. How would you begin to teach the seven habits to very young children? I think.
 
-How would you recommend I get them to read it? People don’t care how much you know until they know how much you care. Build a relationship of trust and openness based upon a character example of trustworthiness and then share how the seven habits have helped you. Simply let them see the seven habits in action through your life.
+I would live by Albert Schweitzer’s three basic rules for raising children. First, example, second, example, third, example. But. I wouldn’t go quite that far.
 
-Then, at the appropriate time, you might invite them to participate in a training program or share your book as a gift or teach some of the basic ideas when the occasion calls for it. What is your background and how did you come to write the seven habits? It was implicitly understood that I would follow in my father’s footsteps and go into the family business.
+I would say, first, example, second, build a caring and affirming relationship, and third, teach some of the simple ideas underlying the habits in the language of children help them gain a basic understanding and vocabulary of the seven habits and show them how to process their own experiences through the principles, let them identify what particular principles and habits are being illustrated in their lives. My boss, spouse, child, friend, etc., really needs the seven habits. How would you recommend.
 
-However, I found that I enjoyed teaching and training leaders even more than business. I became deeply interested and involved in the human side of organizations when I was at Harvard Business School. Later I taught business subjects at Brigham Young University and did consulting, advising, and training on the side for several years. During that time, I became interested in creating integrated leadership and management development programs around a sequential and ballin of principles.
+I get them to read it? People don’t care how much you know until they know how much you care. Build a relationship of trust and openness based upon a character example of trustworthiness and then share how the seven habits have helped you. Simply let them see the seven habits in action through your life.
 
-These eventually evolved into the seven habits and then while applying it to organizations it evolved into the concept of principal-centered leadership. I decided to leave the university and go full-time into training executives from all different kinds of organizations. After a year of following a very carefully developed curriculum came the development of a business that has enabled us to take the material to people throughout the world. What is your response to the people who claim to have the true formula for success?
+Then, at the appropriate time, you might invite them to participate in a training program or share your book as a gift or teach some of the basic ideas when the occasion calls for it. What is your background and how did you come to write the seven habits? It was implicitly understood that. I would follow in my father’s footsteps and go into the family business.
 
-I would say two things. First, if what they are saying is based on principles or natural laws, I want to learn from them and I commend them.
+However, I found that. I enjoyed teaching and training leaders even more than business. I became deeply interested and involved in the human side of organizations when. I was at Harvard Business School.
+
+Later. I taught business subjects at Brigham Young University and did consulting, advising, and training on the side for several years. During that time, I became interested in creating integrated leadership and management development programs around a sequential and ballin of principles. These eventually evolved into the seven habits and then while applying it to organizations it evolved into the concept of principal-centered leadership.
+
+I decided to leave the university and go full-time into training executives from all different kinds of organizations. After a year of following a very carefully developed curriculum came the development of a business that has enabled us to take the material to people throughout the world. What is your response to the people who claim to have the true formula for success? I would say two things.
+
+First, if what they are saying is based on principles or natural laws, I want to learn from them and. I commend them.
 
 Second, I would say we are probably using different words to describe the same basic principles or natural laws.
 

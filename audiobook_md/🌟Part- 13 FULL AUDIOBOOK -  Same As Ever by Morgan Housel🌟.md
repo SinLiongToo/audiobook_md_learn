@@ -43,99 +43,115 @@ History is filled with surprises no one could have seen coming, but it’s also 
 
 You’d see people persuaded by risk, jealousy, and tribal affiliations in ways that are familiar to you. You’d see overconfidence and shortsightedness that remind you of people’s behavior today. You’d find people seeking the secret to a happy life and trying to find certainty when none exists in ways that are entirely relatable. When transported to an unfamiliar world, you’d spend a few minutes watching people behave and say, ah, I’ve seen this before, same as ever.
 
-Change captures our attention because it’s surprising and exciting, but the behaviors that never change are history’s most powerful lessons because they preview what to expect in the future, your future, everyone’s future. No matter who you are, where you’re from, how old you are, or how much money you make, there are timeless lessons from human behavior that are some of the most important things you can ever learn. It’s a simple idea, but it’s so easy to overlook. Once you grasp it, you’ll be able to make better sense of your own life, understand why the world is the way it is, and become more at ease with what the future has in store.
+Change captures our attention because it’s surprising and exciting, but the behaviors that never change are history’s most powerful lessons because they preview what to expect in the future, your future, everyone’s future. No matter who you are, where you’re from, how old you are, or how much money you make, there are timeless lessons from human behavior that are some of the most important things you can ever learn. It’s a simple idea, but it’s so easy to overlook.
 
-Amazon founder Jeff Bezos once said that he’s often asked, what’s going to change in the next 10 years? I almost never get the question, what’s not going to change in the next 10 years, he said, and I submit to you that that second question is actually the more important of the two. Things that never change are important because you can put so much confidence into knowing how they’ll shape the future. Bezos said it’s impossible to imagine a future where Amazon customers don’t want low prices and fast shipping, so he can put enormous investment into those things.
+Once you grasp it, you’ll be able to make better sense of your own life, understand why the world is the way it is, and become more at ease with what the future has in store. Amazon founder Jeff Bezos once said that he’s often asked, what’s going to change in the next 10 years? I almost never get the question, what’s not going to change in the next 10 years, he said, and. I submit to you that that second question is actually the more important of the two.
 
-The same philosophy works in almost all areas of life. I have no clue what the stock market will do next year or any year, but I’m very confident about people’s penchant for greed and fear, which never changes. So that’s what I spend my time thinking about. I have no idea who will win the next presidential election, but I’m confident about the ways people’s attachment to tribal identities influences their thinking, which is the same today as it was a thousand years ago and will be a thousand years from now.
+Things that never change are important because you can put so much confidence into knowing how they’ll shape the future. Bezos said it’s impossible to imagine a future where Amazon customers don’t want low prices and fast shipping, so he can put enormous investment into those things. The same philosophy works in almost all areas of life. I have no clue what the stock market will do next year or any year, but.
 
-I cannot tell you what businesses will dominate the next decade, but I can tell you how business leaders let success go to their heads, becoming lazy and entitled and eventually losing their edge. That story hasn’t changed in hundreds of years and never will. Philosophers have spent centuries discussing the idea that there are an infinite number of ways your life could play out, and you just happen to be living in this specific version. It’s a wild thing to contemplate, and it leads to the question, what would be true in every imaginable version of your life?
+I’m very confident about people’s penchant for greed and fear, which never changes. So that’s what. I spend my time thinking about. I have no idea who will win the next presidential election, but.
 
-Not just this one. Those universal truths are obviously the most important things to focus on, because they don’t rely on chance, luck, or accident. Entrepreneur and investor Navel Ravikant put it this way. In one thousand parallel universes, you want to be wealthy in nine hundred and ninety-nine of them.
+I’m confident about the ways people’s attachment to tribal identities influences their thinking, which is the same today as it was a thousand years ago and will be a thousand years from now. I cannot tell you what businesses will dominate the next decade, but. I can tell you how business leaders let success go to their heads, becoming lazy and entitled and eventually losing their edge. That story hasn’t changed in hundreds of years and never will.
 
-You don’t want to be wealthy in the fifty of them where you got lucky, so we want to factor luck out of it. I want to live in a way that if my life played out one thousand times, Navel is successful nine hundred and ninety-nine times. That’s what this book is about. In a thousand parallel universes, what would be true in every single one?
+Philosophers have spent centuries discussing the idea that there are an infinite number of ways your life could play out, and you just happen to be living in this specific version. It’s a wild thing to contemplate, and it leads to the question, what would be true in every imaginable version of your life? Not just this one. Those universal truths are obviously the most important things to focus on, because they don’t rely on chance, luck, or accident.
 
-Each of the following twenty-three chapters can be read independently, so there is no harm in skipping and choosing as you wish. What they have in common is that I’m confident each of these topics will be as relevant hundreds
+Entrepreneur and investor Navel Ravikant put it this way. In one thousand parallel universes, you want to be wealthy in nine hundred and ninety-nine of them. You don’t want to be wealthy in the fifty of them where you got lucky, so we want to factor luck out of it. I want to live in a way that if my life played out one thousand times, Navel is successful nine hundred and ninety-nine times.
+
+That’s what this book is about. In a thousand parallel universes, what would be true in every single one? Each of the following twenty-three chapters can be read independently, so there is no harm in skipping and choosing as you wish. What they have in common is that.
+
+I’m confident each of these topics will be as relevant hundreds
 
 
 <a id="sec-000500"></a>
 ### ⏱️ [00:05:00 - 00:10:00]
 
-of years from now as they were hundreds of years ago. None of the chapters are long, and you’re welcome for that. Many are derived from my blog at the Collaborative Fund, where I write about the intersection of money, history, and psychology. The first looks at how fragile the world is, with a personal story about the scariest day of my life, hanging by a thread.
+of years from now as they were hundreds of years ago. None of the chapters are long, and you’re welcome for that. Many are derived from my blog at the Collaborative Fund, where. I write about the intersection of money, history, and psychology.
 
-If you know where we’ve been, you realize we have no idea where we’re going. A big lesson from history is realizing how much of the world hangs by a thread. Some of the biggest and most consequential changes in history happened because of a random, unforeseeable, thoughtless encounter or decision that led to magic or mayhem. Author Tim Urban once wrote, If you went back in time before your birth, you’d be terrified to do anything, because you’d know that even the smallest nudges to the present can have major impacts on the future.
+The first looks at how fragile the world is, with a personal story about the scariest day of my life, hanging by a thread. If you know where we’ve been, you realize we have no idea where we’re going. A big lesson from history is realizing how much of the world hangs by a thread. Some of the biggest and most consequential changes in history happened because of a random, unforeseeable, thoughtless encounter or decision that led to magic or mayhem.
 
-How hauntingly true. Let me tell you a personal story about how I became interested in this topic. I grew up ski racing in Lake Tahoe. I was on the Squaw Valley ski team, and it was the center of my life for a decade.
+Author Tim Urban once wrote, If you went back in time before your birth, you’d be terrified to do anything, because you’d know that even the smallest nudges to the present can have major impacts on the future. How hauntingly true. Let me tell you a personal story about how. I became interested in this topic.
 
-Our ski team consisted of a dozen racers. By the early 2000s, we were teenagers, and most of us had spent the majority of our lives together. We skied six days a week, ten months a year, traveling the globe to wherever we could find snow. I wasn’t close to most of them.
+I grew up ski racing in Lake Tahoe. I was on the Squaw Valley ski team, and it was the center of my life for a decade. Our ski team consisted of a dozen racers. By the early 2000s, we were teenagers, and most of us had spent the majority of our lives together.
 
-We spent too much time together and fought like cats. But four of us had become inseparable friends. This is the story of two of those friends, Brendan Allen and Brian Richmond. On February 15, 2001, our team had just returned from a race in Colorado.
+We skied six days a week, ten months a year, traveling the globe to wherever we could find snow. I wasn’t close to most of them. We spent too much time together and fought like cats. But four of us had become inseparable friends.
 
-Our flight home was delayed because Lake Tahoe had been hit with a blizzard extreme even by its own standards. You can’t ski race when there’s a blanket of new snow. Racing requires hard-packed ice. So training was canceled, and Brendan, Brian, and I prepared for a week of what we called free skiing, unstructured goofing off, skiing around, and having a good time.
+This is the story of two of those friends, Brendan Allen and Brian Richmond. On February 15, 2001, our team had just returned from a race in Colorado. Our flight home was delayed because Lake Tahoe had been hit with a blizzard extreme even by its own standards. You can’t ski race when there’s a blanket of new snow.
 
-Earlier that month, Tahoe received several feet of light, fluffy snow, that comes from bitter cold air. The storm that hit in mid-February was different. It was warm, barely at the freezing point, and powerful, leaving three feet of heavy wet snow. We didn’t think about it at the time, but the combination of heavy snow on top of fluffy snow creates textbook avalanche conditions.
+Racing requires hard-packed ice. So training was canceled, and Brendan, Brian, and. I prepared for a week of what we called free skiing, unstructured goofing off, skiing around, and having a good time. Earlier that month, Tahoe received several feet of light, fluffy snow, that comes from bitter cold air.
 
-A light base of snow with a heavy layer on top is incredibly fragile and prone to sliding. Ski resorts are pretty good at protecting customers from avalanches by closing off the most dangerous slopes and using explosives to intentionally set off avalanches late at night before customers arrive in the morning. But if you’re skiing out of bounds, ducking under the do-not-cross ropes to ski the forbidden, untouched terrain, that system won’t help you. On the morning of February 21, 2001, Brendan, Brian, and I met in the Squaw Valley ski team locker room, like we had hundreds of times before.
+The storm that hit in mid-February was different. It was warm, barely at the freezing point, and powerful, leaving three feet of heavy wet snow. We didn’t think about it at the time, but the combination of heavy snow on top of fluffy snow creates textbook avalanche conditions. A light base of snow with a heavy layer on top is incredibly fragile and prone to sliding.
+
+Ski resorts are pretty good at protecting customers from avalanches by closing off the most dangerous slopes and using explosives to intentionally set off avalanches late at night before customers arrive in the morning. But if you’re skiing out of bounds, ducking under the do-not-cross ropes to ski the forbidden, untouched terrain, that system won’t help you. On the morning of February 21, 2001, Brendan, Brian, and. I met in the Squaw Valley ski team locker room, like we had hundreds of times before.
 
 Brian’s last words when he left his house that morning were, don’t worry, Mom, I won’t ski out of bounds. But as soon as we clicked into our skis, that’s what we did. The backside of Squaw Valley, now called Palisades Tahoe, behind the KT-22 chairlift, is a stretch of mountain about a mile long that separates Squaw from Alpine Meadows ski resort. It’s amazing skiing, steep and wide open, with rolling terrain.
 
-Before February 21, I had skied it maybe a dozen times. It wasn’t one of our frequent spots because it takes so much time. It spits you out on a backcountry road from where we would hitchhike back to our locker room. Brendan, Brian, and I decided to ski it that morning.
+Before February 21, I had skied it maybe a dozen times. It wasn’t one of our frequent spots because it takes so much time. It spits you out on a backcountry road from where we would hitchhike back to our locker room. Brendan, Brian, and.
 
-In seconds of ducking under the out of bounds ropes, I remember getting caught in an avalanche. I had never experienced one before, but it was unforgettable. I didn’t hear or see the slide. I just suddenly realized my skis weren’t on the ground anymore.
+I decided to ski it that morning. In seconds of ducking under the out of bounds ropes, I remember getting caught in an avalanche. I had never experienced one before, but it was unforgettable. I didn’t hear or see the slide.
 
-I was literally floating in a cloud of snow. You have no control in these situations because rather than you pushing the snow to gain traction with your skis, the snow is pushing you. The best you can do is keep your balance to remain upright. The avalanche was small and ended quickly.
+I just suddenly realized my skis weren’t on the ground anymore. I was literally floating in a cloud of snow. You have no control in these situations because rather than you pushing the snow to gain traction with your skis, the snow is pushing you. The best you can do is keep your balance to remain upright.
 
-Did you see that avalanche? I remember saying when we got to the road, ha ha, that was awesome, Brendan said. We didn’t say another word about it as we hitchhiked back to our locker room. When we got back to Squaw, Brendan and Brian said they wanted to ski the backside again.
+The avalanche was small and ended quickly. Did you see that avalanche? I remember saying when we got to the road, ha ha, that was awesome, Brendan said. We didn’t say another word about it as we hitchhiked back to our locker room.
 
-I don’t know why, but I didn’t want to go. But I had an idea. Brendan and Brian could ski the backside again and I would drive around and pick them up so they wouldn’t have to hitchhike back. We agreed on the plan and went our separate ways.
+When we got back to Squaw, Brendan and Brian said they wanted to ski the backside again. I don’t know why, but. I didn’t want to go. But.
 
-Thirty minutes later I drove to the backcountry road where I was scheduled to pick up Brendan and Brian.
+I had an idea. Brendan and Brian could ski the backside again and. I would drive around and pick them up so they wouldn’t have to hitchhike back. We agreed on the plan and went our separate ways.
+
+Thirty minutes later. I drove to the backcountry road where. I was scheduled to pick up Brendan and Brian.
 
 
 <a id="sec-001000"></a>
 ### ⏱️ [00:10:00 - 00:15:06]
 
-They weren’t there. I waited another thirty minutes before giving up. It took about a minute to ski down, so I knew they weren’t coming. I figured they had beat me to the bottom and already hitchhiked back.
+They weren’t there. I waited another thirty minutes before giving up. It took about a minute to ski down, so. I knew they weren’t coming.
 
-I drove back to our locker room, expecting to find them. They weren’t there either. I asked around, no one had seen them. Later that day, around 4 p.m., Brian’s mom called me at home.
+I figured they had beat me to the bottom and already hitchhiked back. I drove back to our locker room, expecting to find them. They weren’t there either. I asked around, no one had seen them.
 
-I remember every word. Hi, Morgan. Brian didn’t show up for work today. Do you know where he is?
+Later that day, around 4 p.m., Brian’s mom called me at home. I remember every word. Hi, Morgan. Brian didn’t show up for work today.
 
-She asked. I told her the truth. We skied the backside of KT-22 this morning. He and Brendan did it again.
+Do you know where he is? She asked. I told her the truth. We skied the backside of KT-22 this morning.
 
-I was going to pick them up on the road, but they weren’t there and I haven’t seen them since. Oh my god, she said. Click. Brian’s mom was an expert skier herself.
+He and Brendan did it again. I was going to pick them up on the road, but they weren’t there and. I haven’t seen them since. Oh my god, she said.
 
-I think in that moment she pieced together what may have happened. I did too. The hours ticked by and everyone started to worry. Someone eventually called the police and filed a missing person report.
+Click. Brian’s mom was an expert skier herself. I think in that moment she pieced together what may have happened. I did too.
 
-The police didn’t take it very seriously, suggesting Brendan and Brian likely snuck off to a party. I knew that was wrong. Their shoes are right there, I said, pointing to Brendan’s and Brian’s sneakers on the locker room floor. That means their ski boots are on their feet and it’s now 9pm.
+The hours ticked by and everyone started to worry. Someone eventually called the police and filed a missing person report. The police didn’t take it very seriously, suggesting Brendan and Brian likely snuck off to a party. I knew that was wrong.
 
-Think about that, it’s 9pm and they have their ski boots on their feet. It was the first moment everyone looked around and realized how bad this was. Around 10, I was told to go to the Squaw Valley Fire Department where I met the local search and rescue team. I explained everything that Brendan, Brian and I did that day.
+Their shoes are right there, I said, pointing to Brendan’s and Brian’s sneakers on the locker room floor. That means their ski boots are on their feet and it’s now 9pm. Think about that, it’s 9pm and they have their ski boots on their feet. It was the first moment everyone looked around and realized how bad this was.
 
-The search team pulled out these giant photo maps that must have been taken from a helicopter. I showed them exactly where we entered the out of bounds area. I told them about the small avalanche that morning. As soon as I mentioned it, I could see the dots connecting in the rescuers' heads.
+Around 10, I was told to go to the Squaw Valley Fire Department where. I met the local search and rescue team. I explained everything that Brendan, Brian and. I did that day.
 
-I remember that when I finished talking, two of the rescuers looked at each other and sighed. In the middle of the night, with giant floodlights and a team of search dogs, the rescuers went looking for Brendan and Brian. I later learned that as soon as they entered the out of bounds area where I told them we skied, they discovered the fresh scars of a recent avalanche debris field. It was massive.
+The search team pulled out these giant photo maps that must have been taken from a helicopter. I showed them exactly where we entered the out of bounds area. I told them about the small avalanche that morning. As soon as.
 
-Like half the mountain had been torn away, one said. I drove back to the locker room around midnight. The Squaw Valley parking lot can hold several thousand cars. By this time, it was almost empty.
+I mentioned it, I could see the dots connecting in the rescuers' heads. I remember that when. I finished talking, two of the rescuers looked at each other and sighed. In the middle of the night, with giant floodlights and a team of search dogs, the rescuers went looking for Brendan and Brian.
 
-Everyone had gone home, except two cars parked next to each other. Brendan’s Jeep and Brian’s Chevy pickup. I tried to sleep on a bench in the locker room, but couldn’t shut my eyes. I remember thinking Brendan and Brian would come bounding through the door, and we could laugh about the time I had to call the cops to find them.
+I later learned that as soon as they entered the out of bounds area where. I told them we skied, they discovered the fresh scars of a recent avalanche debris field. It was massive. Like half the mountain had been torn away, one said.
+
+I drove back to the locker room around midnight. The Squaw Valley parking lot can hold several thousand cars. By this time, it was almost empty. Everyone had gone home, except two cars parked next to each other.
+
+Brendan’s Jeep and Brian’s Chevy pickup. I tried to sleep on a bench in the locker room, but couldn’t shut my eyes. I remember thinking Brendan and Brian would come bounding through the door, and we could laugh about the time. I had to call the cops to find them.
 
 By 9 a.m., the locker room was packed with other ski racers, parents, friends, and family, all eager to help. It became a staging area for the search. I laid back down on the bench and finally fell asleep. A few minutes later, I awoke to the sound of a scream, yelling, and commotion.
 
-I knew what had happened. No one needed to say it. I walked to the second floor of the locker room, where I saw Brian’s mom on a couch. The scream was hers.
+I knew what had happened. No one needed to say it. I walked to the second floor of the locker room, where. I saw Brian’s mom on a couch.
 
-I’m so sorry, I told her, bawling. It’s hard to describe a moment like that. I didn’t know what else to say then. I don’t know what else to say now.
+The scream was hers. I’m so sorry, I told her, bawling. It’s hard to describe a moment like that. I didn’t know what else to say then.
 
-Search dogs had homed in on a spot in the avalanche field, where rescuers with probe poles found Brendan and Brian buried under six feet of snow. They were born one day apart and died 10 feet from each other. Later that day, I drove to see my dad at work. I wanted to be around my family.
+I don’t know what else to say now. Search dogs had homed in on a spot in the avalanche field, where rescuers with probe poles found Brendan and Brian buried under six feet of snow. They were born one day apart and died 10 feet from each other. Later that day, I drove to see my dad at work.
 
-He met me in the parking lot and said, “I’ve never been so happy to see you.” It’s the only time in my life I’ve seen him cry. It didn’t occur to me until that moment how close I was to going with Brendan and Brian on that fateful run. Then I began wondering, why did I ski the backside with them once that morning, then decline a second run, a decision that almost certainly saved my life? I’ve thought about it a million times.
+I wanted to be around my family. He met me in the parking lot and said, “I’ve never been so happy to see you.”. It’s the only time in my life. I’ve seen him cry.
 
-I have no idea. I have no idea. There is no explanation. I didn’t think it through.
+It didn’t occur to me until that moment how close. I was to going with Brendan and Brian on that fateful run. Then. I began wondering, why did.
 
-I didn’t calculate the danger. I didn’t consult an expert. I didn’t weigh the pros and cons. It was a complete fluke, a random and thoughtless bit of dumb luck that became the most important decision of my life.
+I ski the backside with them once that morning, then decline a second run, a decision that almost certainly saved my life? I’ve thought about it a million times. I have no idea. I have no idea.
 
-More and more important than every intentional decision I ever made or ever will make. That’s my personal story. And maybe you have a similar one about your own life. But if you look, I think you’ll see that a lot of history is the same.
+There is no explanation. I didn’t think it through. I didn’t calculate the danger. I didn’t consult an expert.
 
-Let me give you three freakish examples about how much of today’s world relies on a few tiny things you’d never think about. The Battle of Long Island was a disaster for George Washington’s army. His 10,000 troops were crushed by the British and its 400-ship fleet.
+I didn’t weigh the pros and cons. It was a complete fluke, a random and thoughtless bit of dumb luck that became the most important decision of my life. More and more important than every intentional decision. I ever made or ever will make.
+
+That’s my personal story. And maybe you have a similar one about your own life. But if you look, I think you’ll see that a lot of history is the same. Let me give you three freakish examples about how much of today’s world relies on a few tiny things you’d never think about.
+
+The Battle of Long Island was a disaster for George Washington’s army. His 10,000 troops were crushed by the British and its 400-ship fleet.
 
 
 <a id="sec-001506"></a>
@@ -147,25 +163,27 @@ And sailing up the river became impossible. Historian David McCullough once told
 
 Just because of the wind, history was changed, asked Rose. Absolutely, said McCullough. Compelled to save money, Captain William Turner shut down the fourth boiler room on his giant steamship for its passage from New York to Liverpool. The decision would slow the ship’s voyage by one day, an annoyance, but worth the savings as the passenger-ship industry struggled economically.
 
-Little did he or anyone else know how fateful the decision would be. The delay meant Turner’s ship, the Lusitania, would now sail directly into the path of a German submarine. The Lusitania was hit with a torpedo, killing nearly 1,200 passengers and becoming the most important trigger to rally U. S. public support for entering World War I. Had the fourth boiler room been operating, Turner would have reached Liverpool a day before the German submarine had even entered the Celtic Sea, where it crossed paths with the Lusitania.
+Little did he or anyone else know how fateful the decision would be. The delay meant Turner’s ship, the Lusitania, would now sail directly into the path of a German submarine. The Lusitania was hit with a torpedo, killing nearly 1,200 passengers and becoming the most important trigger to rally U. S. public support for entering World War.
 
-The ship likely would have avoided attack. A country may have avoided a war that became the seed event for the rest of the 20th century. Giuseppe Zangara was tiny, barely five feet tall. He stood on a chair outside a Miami political rally in 1933 because that was the only way he could aim his gun across the crowd.
+I. Had the fourth boiler room been operating, Turner would have reached Liverpool a day before the German submarine had even entered the Celtic Sea, where it crossed paths with the Lusitania. The ship likely would have avoided attack. A country may have avoided a war that became the seed event for the rest of the 20th century.
 
-Zangara fired five shots. One of them hit Chicago mayor Anton Cermak, who was shaking hands with Zangara’s intended target. Cermak died. The target, Franklin Delano Roosevelt, was sworn in as president two weeks later.
+Giuseppe Zangara was tiny, barely five feet tall. He stood on a chair outside a Miami political rally in 1933 because that was the only way he could aim his gun across the crowd. Zangara fired five shots. One of them hit Chicago mayor Anton Cermak, who was shaking hands with Zangara’s intended target.
 
-Within months of his inauguration, Roosevelt transformed the U. S. economy through the New Deal. John Nance Garner, who would have become president had Zangara hit his target, opposed most of the New Deal’s deficit spending. He almost certainly wouldn’t have enacted many of the same policies, some of which still shaped today’s economy. You can play this game all day.
+Cermak died. The target, Franklin Delano Roosevelt, was sworn in as president two weeks later. Within months of his inauguration, Roosevelt transformed the U. S. economy through the New Deal.
 
-Every big story could have turned out differently if a few little puffs of nothingness went the other direction. So much of the world hangs by a thread. An irony of studying history is that we often know exactly how a story ends, but we have no idea where it began. Here’s an example.
+John Nance Garner, who would have become president had Zangara hit his target, opposed most of the New Deal’s deficit spending. He almost certainly wouldn’t have enacted many of the same policies, some of which still shaped today’s economy. You can play this game all day. Every big story could have turned out differently if a few little puffs of nothingness went the other direction.
 
-What caused the 2008 financial crisis? Well, you have to understand the mortgage market. What shaped the mortgage market? Well, you have to understand the 30-year decline in interest rates that preceded it.
+So much of the world hangs by a thread. An irony of studying history is that we often know exactly how a story ends, but we have no idea where it began. Here’s an example. What caused the 2008 financial crisis?
 
-What caused falling interest rates? Well, you have to understand the inflation of the 1970s. What caused that inflation? Well, you have to understand the monetary system of the 1970s and the hangover effects from the Vietnam War.
+Well, you have to understand the mortgage market. What shaped the mortgage market? Well, you have to understand the 30-year decline in interest rates that preceded it. What caused falling interest rates?
 
-What caused the Vietnam War? Well, you have to understand the West’s fear of communism after World War II and so on forever. Every current event, big or small, has parents, grandparents, great-grandparents, siblings, and cousins. Ignoring that family tree can muddy your understanding of events, giving a false impression of why things happened, how long they might last, and under what circumstances they might occur again.
+Well, you have to understand the inflation of the 1970s. What caused that inflation? Well, you have to understand the monetary system of the 1970s and the hangover effects from the Vietnam War. What caused the Vietnam War?
 
-Viewing events in isolation, without an appreciation of their long roots, helps explain everything from why forecasting is hard to why politics is nasty. People like to say, to know where we’re going, you have to know where we’ve been. But more realistic is admitting that if you know where we’ve been, you realize we have no idea where we’re going. I try to keep two things in mind in a world that’s this vulnerable to chance and accident.
+Well, you have to understand the West’s fear of communism after World War II and so on forever. Every current event, big or small, has parents, grandparents, great-grandparents, siblings, and cousins. Ignoring that family tree can muddy your understanding of events, giving a false impression of why things happened, how long they might last, and under what circumstances they might occur again. Viewing events in isolation, without an appreciation of their long roots, helps explain everything from why forecasting is hard to why politics is nasty.
 
-One is highlighting this book’s premise, to base predictions on how people behave rather than on specific events. Predicting what the world will look like 50 years from now is impossible, but predicting that people will still respond to greed, fear, opportunity, exploitation, risk, uncertainty, political affiliations, and social persuasion in the same way is a bet I’d take. Forecasting events is hard because it’s easy to skip the question, and then what? Saying, higher gas prices will cause people to drive less seems logical.
+People like to say, to know where we’re going, you have to know where we’ve been. But more realistic is admitting that if you know where we’ve been, you realize we have no idea where we’re going. I try to keep two things in mind in a world that’s this vulnerable to chance and accident. One is highlighting this book’s premise, to base predictions on how people behave rather than on specific events.
+
+Predicting what the world will look like 50 years from now is impossible, but predicting that people will still respond to greed, fear, opportunity, exploitation, risk, uncertainty, political affiliations, and social persuasion in the same way is a bet. I’d take. Forecasting events is hard because it’s easy to skip the question, and then what? Saying, higher gas prices will cause people to drive less seems logical.
 
 But then what? Well, people have to drive, so maybe they’ll look for more fuel-efficient vehicles. They’ll complain to politicians who will offer tax breaks to buy those vehicles. OPEC is asked to drill more, energy, entrepreneurs innovate.
 
@@ -215,33 +233,33 @@ Knowing the crash after the Roaring Twenties was obvious and inevitable.
 
 But for those who lived through it, people for whom the 1930s was a yet-to-be-discovered future, it was anything but. Two things can explain something that looks inevitable, but wasn’t predicted by those who experienced it at the time. Either everyone in the past was blinded by delusion, or everyone in the present is fooled by hindsight. We are crazy to think it’s all the former, and none of the latter.
 
-The Economist, a magazine I admire, publishes a forecast of the year ahead each January. Its January 2020 issue does not mention a single word about COVID-19. Its January 2022 issue does not mention a single word about Russia invading Ukraine. That’s not a criticism.
+The Economist, a magazine. I admire, publishes a forecast of the year ahead each January. Its January 2020 issue does not mention a single word about COVID-19. Its January 2022 issue does not mention a single word about Russia invading Ukraine.
 
-Both events were impossible to know when the issues were planned in the months before publication. But that’s the point. The biggest news, the biggest risks, the most consequential events, are always what you don’t see coming. Put another way, there is rarely more or less economic uncertainty, just changes in how ignorant people are to potential risks.
+That’s not a criticism. Both events were impossible to know when the issues were planned in the months before publication. But that’s the point. The biggest news, the biggest risks, the most consequential events, are always what you don’t see coming.
 
-Asking what the biggest risks are is like asking what you expect to be surprised about. If you knew what the biggest risk was, you would do something about it, and doing something about it would make it less risky. Your imagination can’t fathom is the dangerous stuff, and it’s why risk can never be mastered. I can promise you that will be the case going forward.
+Put another way, there is rarely more or less economic uncertainty, just changes in how ignorant people are to potential risks. Asking what the biggest risks are is like asking what you expect to be surprised about. If you knew what the biggest risk was, you would do something about it, and doing something about it would make it less risky. Your imagination can’t fathom is the dangerous stuff, and it’s why risk can never be mastered.
 
-The biggest risk and the most important news story of the next ten years will be something nobody is talking about today. No matter what year you’re reading this book, that truth will remain. I can say that confidently because it’s always been true. The fact that you can’t see it coming is exactly what makes it risky.
+I can promise you that will be the case going forward. The biggest risk and the most important news story of the next ten years will be something nobody is talking about today. No matter what year you’re reading this book, that truth will remain. I can say that confidently because it’s always been true.
 
-Even for something as giant as the Great Depression, many people were blind to what was happening even when it was well underway. The Depression, as we know today, began in 1929, but when the well-informed members of the National Economic League were polled in 1930 as to what they considered the biggest problem of the United States, they listed in order. One, administration of justice, two, prohibition, three, disrespect for law, four, crime five, law enforcement, six, world peace. And in 18th place, unemployment, a year later in 1931, a full two years into what we now consider the Great Depression, unemployment had moved to just fourth place behind prohibition, justice, and law enforcement.
+The fact that you can’t see it coming is exactly what makes it risky. Even for something as giant as the Great Depression, many people were blind to what was happening even when it was well underway. The Depression, as we know today, began in 1929, but when the well-informed members of the National Economic League were polled in 1930 as to what they considered the biggest problem of the United States, they listed in order. One, administration of justice, two, prohibition, three, disrespect for law, four, crime five, law enforcement, six, world peace.
 
-That’s what made the Great Depression so awful. No one was prepared for it because no one saw it coming. So people couldn’t deal with it financially, paying their debts, and mentally, the shock and grief of sudden loss. A big part of this idea is coming to terms with how limited our view of what’s happening in the world can be.
+And in 18th place, unemployment, a year later in 1931, a full two years into what we now consider the Great Depression, unemployment had moved to just fourth place behind prohibition, justice, and law enforcement. That’s what made the Great Depression so awful. No one was prepared for it because no one saw it coming. So people couldn’t deal with it financially, paying their debts, and mentally, the shock and grief of sudden loss.
 
-Franklin Delano Roosevelt looked around the room and chuckled when his presidential library opened in 1941. A reporter asked why he was so cheerful. I’m thinking of all the historians who will come here thinking they’ll find the answers to their questions, he said. There is so much we don’t know, and not just about the future, but the past.
+A big part of this idea is coming to terms with how limited our view of what’s happening in the world can be. Franklin Delano Roosevelt looked around the room and chuckled when his presidential library opened in 1941. A reporter asked why he was so cheerful. I’m thinking of all the historians who will come here thinking they’ll find the answers to their questions, he said.
 
-History knows three things. One, what’s been photographed. Two, what someone wrote down or recorded. And three, the words spoken by people whom historians and journalists wanted to interview and who agreed to be interviewed.
+There is so much we don’t know, and not just about the future, but the past. History knows three things. One, what’s been photographed. Two, what someone wrote down or recorded.
 
-What percentage of everything important that’s ever happened falls into one of those three categories? No one knows. But it’s tiny. And all three suffer from misinterpretation, incompleteness, embellishment, lying, and selective memory.
+And three, the words spoken by people whom historians and journalists wanted to interview and who agreed to be interviewed. What percentage of everything important that’s ever happened falls into one of those three categories? No one knows. But it’s tiny.
 
-In your view of what’s happening and has happened in the world is so limited, it’s easy to underestimate what you don’t know, what else could be happening right now, and what could go wrong that you’re not even envisioning. Think of a content child, blissfully playing with toys and smiling as the sun hits their face. In their mind, everything is great. Their world begins and ends with their immediate surroundings.
+And all three suffer from misinterpretation, incompleteness, embellishment, lying, and selective memory. In your view of what’s happening and has happened in the world is so limited, it’s easy to underestimate what you don’t know, what else could be happening right now, and what could go wrong that you’re not even envisioning. Think of a content child, blissfully playing with toys and smiling as the sun hits their face. In their mind, everything is great.
 
-Mom is here. Dad is there. Toys are nearby. Toy.
+Their world begins and ends with their immediate surroundings. Mom is here. Dad is there. Toys are nearby.
 
-Food is in my stomach. As far as they’re concerned, life is perfect. They have all the information they need. What they’re unaware of is so much greater.
+Toy. Food is in my stomach. As far as they’re concerned, life is perfect. They have all the information they need.
 
-In the mind of a three-year-old, the concept of geopolitics is completely unimaginable. The idea of rising interest rates hurting the economy, or the reason someone needs a paycheck, or what a career even is, or the risk of cancer is utterly out of sight, out of mind. Psychologist Daniel Kahneman says, the idea that what you don’t see might refute everything you believe just doesn’t occur to us. The wild thing is adults are just as blind to what’s going on in the world.
+What they’re unaware of is so much greater. In the mind of a three-year-old, the concept of geopolitics is completely unimaginable. The idea of rising interest rates hurting the economy, or the reason someone needs a paycheck, or what a career even is, or the risk of cancer is utterly out of sight, out of mind. Psychologist Daniel Kahneman says, the idea that what you don’t see might refute everything you believe just doesn’t occur to us.
 
-There’s a haunting video of a local New York City newscast from the morning of September 11, 2001, minutes before the terrorist attacks took place. It begins.
+The wild thing is adults are just as blind to what’s going on in the world. There’s a haunting video of a local New York City newscast from the morning of September 11, 2001, minutes before the terrorist attacks took place. It begins.
 
 
 <a id="sec-003009"></a>
@@ -289,29 +307,31 @@ Investor Charlie Munger once noted that the world isn’t driven by greed. It’
 
 Life magazine’s January 1953 cover story begins. The country has just lived through what was economically the greatest year in its history, it went on. It had done this with 10 straight years of full employment through new management attitudes, which include an increasing realization that the well-paid worker who does his job under healthy and agreeable conditions is a valuable worker. Wealth came so fast to so many that it was jarring.
 
-In the 1930s, I worried about how I could eat. Life quotes one taxi driver. Now I’m worrying about where to park. If these quotes don’t surprise you, it’s because the 1950s are so often remembered as the golden age of middle-class prosperity.
+In the 1930s, I worried about how. I could eat. Life quotes one taxi driver. Now.
 
-Ask Americans when the country was at its greatest, and the 1950s is usually near the top. Compared to today, different worlds. No comparison. The overwhelming feeling is, it was better then.
+I’m worrying about where to park. If these quotes don’t surprise you, it’s because the 1950s are so often remembered as the golden age of middle-class prosperity. Ask Americans when the country was at its greatest, and the 1950s is usually near the top. Compared to today, different worlds.
 
-There is a common nostalgic vision of a typical American life in the 1950s. George Friedman, a geopolitical forecaster, once summarized, in the 1950s and 1960s, the median income allowed you to live with a single earner, normally the husband with the wife typically working as a homemaker and roughly three children. It permitted the purchase of modest tracked housing, one late model car, and an older one. It allowed a driving vacation somewhere and with care, some savings as well.
+No comparison. The overwhelming feeling is, it was better then. There is a common nostalgic vision of a typical American life in the 1950s. George Friedman, a geopolitical forecaster, once summarized, in the 1950s and 1960s, the median income allowed you to live with a single earner, normally the husband with the wife typically working as a homemaker and roughly three children.
 
-This version of the 1950s lifestyle is true in the sense that the median American family indeed had three kids and a dog named Spot and a bread-winning husband who worked at the factory, on and on. But the idea that the typical family was better off then than now, that they were more prosperous and more secure by nearly any metric, is easy to debunk. Median family income adjusted for inflation was $29,000 in 1955. In 1965, it was $42,000.
+It permitted the purchase of modest tracked housing, one late model car, and an older one. It allowed a driving vacation somewhere and with care, some savings as well. This version of the 1950s lifestyle is true in the sense that the median American family indeed had three kids and a dog named Spot and a bread-winning husband who worked at the factory, on and on. But the idea that the typical family was better off then than now, that they were more prosperous and more secure by nearly any metric, is easy to debunk.
 
-In 2021, it was $70,784. Life described the 1950s as prosperous in a way that would have seemed unbelievable to someone living in the 1920s. The same is true today. A 1950s family would have found it unfathomable that their grandchildren would earn more than twice as much as they did.
+Median family income adjusted for inflation was $29,000 in 1955. In 1965, it was $42,000. In 2021, it was $70,784. Life described the 1950s as prosperous in a way that would have seemed unbelievable to someone living in the 1920s.
 
-And higher income wasn’t due to working more hours or entirely due to women joining the workforce in greater numbers. Median hourly wages adjusted for inflation are nearly 50% higher today than in 1955. Some of today’s economic worries would have puzzled a 1950s family. The homeownership rate was 12 percentage points lower in 1950 than it is today.
+The same is true today. A 1950s family would have found it unfathomable that their grandchildren would earn more than twice as much as they did. And higher income wasn’t due to working more hours or entirely due to women joining the workforce in greater numbers. Median hourly wages adjusted for inflation are nearly 50% higher today than in 1955.
 
-An average home was a third smaller than today’s, despite having more occupants. Food consumed 29% of an average household’s budget in 1950 versus 13% today. Workplace deaths were three times higher than today. That’s the economic era we long for?
+Some of today’s economic worries would have puzzled a 1950s family. The homeownership rate was 12 percentage points lower in 1950 than it is today. An average home was a third smaller than today’s, despite having more occupants. Food consumed 29% of an average household’s budget in 1950 versus 13% today.
 
-Yes. And it’s important to understand why. Ben Ferrantz had a hard childhood. His immigrant father didn’t speak English, was unemployable, and settled in an area of New York controlled by the Italian mob, where violence was a part of everyday life.
+Workplace deaths were three times higher than today. That’s the economic era we long for? Yes. And it’s important to understand why.
 
-But Ferrantz said none of it seemed to bother his parents. They were thrilled. He recalled, it was a tough life, but they didn’t know it, because where they’d come from, it was tougher. So it was an improvement no matter what.
+Ben Ferrantz had a hard childhood. His immigrant father didn’t speak English, was unemployable, and settled in an area of New York controlled by the Italian mob, where violence was a part of everyday life. But Ferrantz said none of it seemed to bother his parents. They were thrilled.
 
-The Ferrantz has fled Romania to escape Jewish persecution during the Holocaust. The family came to America on the open deck of a ship in the middle of winter, nearly freezing to death. Ferrantz later became a lawyer and prosecuted Nazi war criminals during the Nuremberg trials, and he was one of the happiest people I came across. It’s staggering how expectations can alter how you interpret current circumstances.
+He recalled, it was a tough life, but they didn’t know it, because where they’d come from, it was tougher. So it was an improvement no matter what. The Ferrantz has fled Romania to escape Jewish persecution during the Holocaust. The family came to America on the open deck of a ship in the middle of winter, nearly freezing to death.
 
-I have a friend who grew up in abject poverty in Africa. He now works in tech in California. He says to this day he is still blown away when he eats a hot meal. It’s astounding to him how abundant food is in America, and that’s astounding for me to ponder.
+Ferrantz later became a lawyer and prosecuted Nazi war criminals during the Nuremberg trials, and he was one of the happiest people. I came across. It’s staggering how expectations can alter how you interpret current circumstances. I have a friend who grew up in abject poverty in Africa.
 
-He finds immense pleasure in something I don’t think twice about. In 2007, the New York Times interviewed Gary Kremen, who founded Match.com. At the time,
+He now works in tech in California. He says to this day he is still blown away when he eats a hot meal. It’s astounding to him how abundant food is in America, and that’s astounding for me to ponder. He finds immense pleasure in something.
+
+I don’t think twice about. In 2007, the New York Times interviewed Gary Kremen, who founded Match.com. At the time,
 
 
 <a id="sec-004014"></a>
@@ -321,27 +341,29 @@ Kremen was 43 years old and worth $10 million. That put him in the top half of 1
 
 The Times wrote, he logs 60 to 80-hour work weeks because he does not think he has nearly enough money to ease up. There is no such thing as objective wealth. Everything is relative, and mostly relative to those around you. It’s the path of least resistance to determining what life owes you and what you should expect.
 
-Everyone does it. Subconsciously or not, everyone looks around and says, what do other people like me have? What do they do? Because that’s what I should have and do as well.
+Everyone does it. Subconsciously or not, everyone looks around and says, what do other people like me have? What do they do? Because that’s what.
 
-And this, I think, is a window into understanding why we yearn for the 1950s, despite today being better by almost any measure. Money buys happiness in the same way drugs bring pleasure. Incredible if done right, dangerous if used to mask a weakness, and disastrous when no amount is enough. What was so unique about the 1950s was the ability for people to find financial balance in a way that before and since has felt elusive.
+I should have and do as well. And this, I think, is a window into understanding why we yearn for the 1950s, despite today being better by almost any measure. Money buys happiness in the same way drugs bring pleasure. Incredible if done right, dangerous if used to mask a weakness, and disastrous when no amount is enough.
 
-World War II left its mark on America economically and socially. Between 1942 and 1945, virtually all wages were set by the National War Labor Board, which favored flatter pay, a smaller gap between low-income and high-income workers than would otherwise exist. Part of that philosophy stuck around even after wage controls were lifted. The variance of income between classes that existed before the war shrank dramatically.
+What was so unique about the 1950s was the ability for people to find financial balance in a way that before and since has felt elusive. World War II left its mark on America economically and socially. Between 1942 and 1945, virtually all wages were set by the National War Labor Board, which favored flatter pay, a smaller gap between low-income and high-income workers than would otherwise exist. Part of that philosophy stuck around even after wage controls were lifted.
 
-A few years after the war, historian Frederick Lewis Allen noted that the biggest economic gains in percentage terms had gone to the lowest earning members of society, considerably closing the gap between rich and poor. If you look at the 1950s and ask, what was different that made it feel so great, this is at least part of your answer. The gap between you and most of the people around you wasn’t that large. It created an era when it was easy to keep your expectations in check because few people in your social circle lived dramatically better than you did.
+The variance of income between classes that existed before the war shrank dramatically. A few years after the war, historian Frederick Lewis Allen noted that the biggest economic gains in percentage terms had gone to the lowest earning members of society, considerably closing the gap between rich and poor. If you look at the 1950s and ask, what was different that made it feel so great, this is at least part of your answer. The gap between you and most of the people around you wasn’t that large.
 
-Many but not all Americans could look around and find that not only were they living comfortable lives, they were living lives that were just about as comfortable as those around them whom they compared themselves to. It’s the one thing that distinguishes the 1950s from other eras. So the comparatively lower wages than those of today felt great because everyone else earned a lower wage too. The smaller homes felt nice because everyone else lived in smaller homes too.
+It created an era when it was easy to keep your expectations in check because few people in your social circle lived dramatically better than you did. Many but not all Americans could look around and find that not only were they living comfortable lives, they were living lives that were just about as comfortable as those around them whom they compared themselves to. It’s the one thing that distinguishes the 1950s from other eras. So the comparatively lower wages than those of today felt great because everyone else earned a lower wage too.
 
-The lack of health care was acceptable because your neighbors were in the same circumstances. Hand-me-downs were acceptable clothes because everyone else wore them. Camping was an adequate vacation because that’s what everyone else did. It was the one modern era when there wasn’t much social pressure to increase your expectations beyond your income.
+The smaller homes felt nice because everyone else lived in smaller homes too. The lack of health care was acceptable because your neighbors were in the same circumstances. Hand-me-downs were acceptable clothes because everyone else wore them. Camping was an adequate vacation because that’s what everyone else did.
 
-Economic growth accrued straight to happiness. People weren’t just better off, they felt better off. And it was short-lived of course. By the early 1980s, the post-war togetherness that dominated the 1950s and 60s gave way to more stratified growth where many people plotted along while a few grew exponentially wealthier.
+It was the one modern era when there wasn’t much social pressure to increase your expectations beyond your income. Economic growth accrued straight to happiness. People weren’t just better off, they felt better off. And it was short-lived of course.
 
-The glorious lifestyles of the few inflated the aspirations of the many. Rockefeller never yearned for Advil because he didn’t know it existed. But social media today adds a new element in which everyone in the world can see the lifestyles, often inflated, faked, and airbrushed of other people. You compare yourself to your peers through a curated highlight reel of their lives where positives are embellished and negatives are hidden from view.
+By the early 1980s, the post-war togetherness that dominated the 1950s and 60s gave way to more stratified growth where many people plotted along while a few grew exponentially wealthier. The glorious lifestyles of the few inflated the aspirations of the many. Rockefeller never yearned for Advil because he didn’t know it existed. But social media today adds a new element in which everyone in the world can see the lifestyles, often inflated, faked, and airbrushed of other people.
 
-Psychologist Jonathan Hite says people don’t really communicate on social media so much as they perform for one another. You see the cars other people drive, the homes they live in, the expensive schools they go to, the ability to say I want that, why don’t I have that, why does he get it but I don’t is so much greater now than it was just a few generations ago. Today’s economy is good at generating three things, wealth, the ability to show off wealth, and great envy for other people’s wealth.
+You compare yourself to your peers through a curated highlight reel of their lives where positives are embellished and negatives are hidden from view. Psychologist Jonathan Hite says people don’t really communicate on social media so much as they perform for one another. You see the cars other people drive, the homes they live in, the expensive schools they go to, the ability to say. I want that, why don’t.
 
-It’s become so much easier in recent decades to look around and say I may have more than I used to, but relative to that person over there, I don’t feel like I’m doing that great. Part of that envy is useful because saying, I want what they have, is such a powerful motivator of progress. Yet the point stands. We might have higher incomes, more wealth, and bigger homes, but it’s all so quickly smothered by inflated expectations.
+I have that, why does he get it but. I don’t is so much greater now than it was just a few generations ago. Today’s economy is good at generating three things, wealth, the ability to show off wealth, and great envy for other people’s wealth. It’s become so much easier in recent decades to look around and say.
 
-This isn’t to say the 1950s were better, or fairer,
+I may have more than. I used to, but relative to that person over there, I don’t feel like. I’m doing that great. Part of that envy is useful because saying, I want what they have, is such a powerful motivator of progress.
+
+Yet the point stands. We might have higher incomes, more wealth, and bigger homes, but it’s all so quickly smothered by inflated expectations. This isn’t to say the 1950s were better, or fairer,
 
 
 <a id="sec-004517"></a>
@@ -357,23 +379,25 @@ But being famous merely meets expectations. Tennis player Naomi Osaka said that 
 
 The Washington Post wrote, We should be less than candidate this grave moment if we did not recognize the great disparity between Mr. Truman’s experience and the responsibilities that have been thrust upon him. David McCullough wrote, To many it was not just that the greatest of men had fallen, but that the least of men, or at any rate, the least likely of men, had assumed his place. Today, Truman is consistently ranked among historians top 10 presidents of all time, often ahead of Roosevelt.
 
-Part of the reason I’ve come to believe is that expectations for Truman’s abilities were so low that any leadership qualities he exhibited blew people’s minds. A little success was a win. A big success felt like a miracle. Actual circumstances don’t make much difference in all these cases.
+Part of the reason. I’ve come to believe is that expectations for Truman’s abilities were so low that any leadership qualities he exhibited blew people’s minds. A little success was a win. A big success felt like a miracle.
 
-What generates the emotion is the big gap between expectations and reality. When you think of it like that, you realize how powerful expectations are. They can make a celebrity feel miserable and a destitute family feel amazing. It’s astounding.
+Actual circumstances don’t make much difference in all these cases. What generates the emotion is the big gap between expectations and reality. When you think of it like that, you realize how powerful expectations are. They can make a celebrity feel miserable and a destitute family feel amazing.
 
-Everyone, everywhere, doing almost any task, is just in pursuit of some space between expectations and reality. But that’s so easy to overlook. Peter Kaufman, CEO of Glenaire and one of the smartest people you will ever come across, once wrote, We tend to take every precaution to safeguard our material possessions because we know what they cost. But at the same time, we neglect things which are much more precious because they don’t come with price tags attached.
+It’s astounding. Everyone, everywhere, doing almost any task, is just in pursuit of some space between expectations and reality. But that’s so easy to overlook. Peter Kaufman, CEO of Glenaire and one of the smartest people you will ever come across, once wrote, We tend to take every precaution to safeguard our material possessions because we know what they cost.
 
-The real value of things like our eyesight or relationships or freedom can be hidden to us because money is not changing hands. Same with expectations. They’re easy to ignore because their value isn’t on a price tag. But your happiness completely relies on expectations.
+But at the same time, we neglect things which are much more precious because they don’t come with price tags attached. The real value of things like our eyesight or relationships or freedom can be hidden to us because money is not changing hands. Same with expectations. They’re easy to ignore because their value isn’t on a price tag.
 
-Your boss’s impression of your career relies on them. Consumer confidence relies on them. What moves the stock market relies on them. So why do we pay so little attention to them?
+But your happiness completely relies on expectations. Your boss’s impression of your career relies on them. Consumer confidence relies on them. What moves the stock market relies on them.
 
-We spend so much effort trying to improve our income, skills, and ability to forecast the future, all good stuff worthy of our attention. But on the other side, there’s an almost complete ignorance of expectations, especially managing them with as much effort as we put into changing our circumstances. Imagine a life where almost everything gets better, but you never appreciate it because your expectations rise as fast as your circumstances. It’s terrifying and almost as bad as a world where nothing gets better.
+So why do we pay so little attention to them? We spend so much effort trying to improve our income, skills, and ability to forecast the future, all good stuff worthy of our attention. But on the other side, there’s an almost complete ignorance of expectations, especially managing them with as much effort as we put into changing our circumstances. Imagine a life where almost everything gets better, but you never appreciate it because your expectations rise as fast as your circumstances.
 
-When asked, you seem extremely happy and content. What’s your secret to living a happy life? 98-year-old Charlie Munger replied, the first rule of a happy life is low expectations. If you have unrealistic expectations, you’re going to be miserable your whole life. You want to have reasonable expectations and take life’s results, good and bad, as they happen with a certain amount of stoicism.
+It’s terrifying and almost as bad as a world where nothing gets better. When asked, you seem extremely happy and content. What’s your secret to living a happy life? 98-year-old Charlie Munger replied, the first rule of a happy life is low expectations. If you have unrealistic expectations, you’re going to be miserable your whole life.
 
-My friend Brent has a related theory about marriage. It only works when both people want to help their spouse while expecting nothing in return. If you both do that, you’re both pleasantly surprised. These pieces of advice are easier said than done.
+You want to have reasonable expectations and take life’s results, good and bad, as they happen with a certain amount of stoicism. My friend Brent has a related theory about marriage. It only works when both people want to help their spouse while expecting nothing in return. If you both do that, you’re both pleasantly surprised.
 
-I think it’s often hard to distinguish high expectations from motivation and low expectations feels like giving up and minimizing your potential. The only way around that might be recognizing two things. One is the constant reminder that wealth and happiness is a two-part equation, what you have and what you expect slash need. When you realize that each part is equally important, you see that the overwhelming attention we pay to getting more and the negligible attention we put on managing expectations
+These pieces of advice are easier said than done. I think it’s often hard to distinguish high expectations from motivation and low expectations feels like giving up and minimizing your potential. The only way around that might be recognizing two things. One is the constant reminder that wealth and happiness is a two-part equation, what you have and what you expect slash need.
+
+When you realize that each part is equally important, you see that the overwhelming attention we pay to getting more and the negligible attention we put on managing expectations
 
 
 <a id="sec-005020"></a>
@@ -383,29 +407,31 @@ makes little sense, especially because the expectations side can be so much more
 
 You think you want progress, both for yourself and for the world, but most of the time that’s not actually what you want. You want to feel a gap between what you expected and what actually happened, and the expectation side of that equation is not only important, but it’s often more in your control than managing your circumstances. Now let’s discuss one of the most complex topics in the world, people’s minds. Wild minds, people who think about the world in unique ways you like, also think about the world in unique ways you won’t like.
 
-Eliud Kipchoji, the world’s best marathon runner, was being held in a staging room during the 2021 Olympic Games in Tokyo. He and two other runners, Bashir Abdi from Belgium and Abdi Nagai of the Netherlands, were waiting to receive their Olympic medals after the marathon race, which Kipchoji won for the second time. Logistics of the awards ceremony meant the runners would have to wait for several hours in a cramped, dull room with nothing to do but sit. Abdi and Nagai later explained that they did what anyone else would do.
+Eliud Kipchoji, the world’s best marathon runner, was being held in a staging room during the 2021 Olympic Games in Tokyo. He and two other runners, Bashir Abdi from Belgium and Abdi Nagai of the Netherlands, were waiting to receive their Olympic medals after the marathon race, which Kipchoji won for the second time. Logistics of the awards ceremony meant the runners would have to wait for several hours in a cramped, dull room with nothing to do but sit.
 
-They pulled out their cell phones, found a Wi-Fi network, and aimlessly scrolled social media. Kipchoji didn’t. Abdi and Nagai said he just sat there, staring at the wall, in perfect silence and contentment. For hours.
+Abdi and Nagai later explained that they did what anyone else would do. They pulled out their cell phones, found a Wi-Fi network, and aimlessly scrolled social media. Kipchoji didn’t. Abdi and Nagai said he just sat there, staring at the wall, in perfect silence and contentment.
 
-He is not human. Abdi joked. He is not human. He doesn’t think, act, or behave like an ordinary person.
+For hours. He is not human. Abdi joked. He is not human.
 
-Some variation of that phrase can be used for most of your role models. You like them because they do things other people would never consider or can’t even comprehend. Some of those traits are awesome, and you should look up to them, maybe even try to emulate. Others aren’t.
+He doesn’t think, act, or behave like an ordinary person. Some variation of that phrase can be used for most of your role models. You like them because they do things other people would never consider or can’t even comprehend. Some of those traits are awesome, and you should look up to them, maybe even try to emulate.
 
-Many aren’t. Something that’s built into the human condition is that people who think about the world in unique ways you like almost certainly also think about the world in unique ways you won’t like. It’s so easy to overlook, and it causes us to have poor judgment about who we should look up to and what we should expect from very successful people. The key thing is that unique minds have to be accepted as a full package because the things they do well and that we admire cannot be separated from the things we wouldn’t want for ourselves or we look down upon.
+Others aren’t. Many aren’t. Something that’s built into the human condition is that people who think about the world in unique ways you like almost certainly also think about the world in unique ways you won’t like. It’s so easy to overlook, and it causes us to have poor judgment about who we should look up to and what we should expect from very successful people.
 
-Let me tell you a quick story about a fighter pilot whom everyone needed but no one could stand. John Boyd was probably the greatest fighter pilot to ever live. He revolutionized his field more than anyone before or since. A manual he wrote, aerial attack study, incorporated as much math into the science of fighting maneuvers as engineers used in building the planes.
+The key thing is that unique minds have to be accepted as a full package because the things they do well and that we admire cannot be separated from the things we wouldn’t want for ourselves or we look down upon. Let me tell you a quick story about a fighter pilot whom everyone needed but no one could stand. John Boyd was probably the greatest fighter pilot to ever live. He revolutionized his field more than anyone before or since.
 
-His insights were simple but powerful. In one Boyd realized there was a tactical advantage not in how fast or high a plane could fly, but how quickly it could change course and begin climbing. A discovery that altered not only how pilots thought but how planes were built. He was as close to a flying savant as they come.
+A manual he wrote, aerial attack study, incorporated as much math into the science of fighting maneuvers as engineers used in building the planes. His insights were simple but powerful. In one Boyd realized there was a tactical advantage not in how fast or high a plane could fly, but how quickly it could change course and begin climbing. A discovery that altered not only how pilots thought but how planes were built.
 
-Boyd’s manual, written in his 20s, became the official tactics guide of fighter pilots. It’s still used today. Boyd is known as one of the most influential thinkers in military history, yet the New York Times once described him as a virtual non-person even in the Air Force. That’s because as smart as Boyd was, he was a maniac.
+He was as close to a flying savant as they come. Boyd’s manual, written in his 20s, became the official tactics guide of fighter pilots. It’s still used today. Boyd is known as one of the most influential thinkers in military history, yet the New York Times once described him as a virtual non-person even in the Air Force.
 
-He was rude, erratic, disobedient, impatient. He screamed at his superiors to the astonishment of peers and was once nearly court-martialed for setting ablaze hangers that didn’t have proper heating. In meetings he would chew calluses off his hands and spit the dead skin across the table. The Air Force loved and needed Boyd’s insights, but they couldn’t stand Boyd the man.
+That’s because as smart as Boyd was, he was a maniac. He was rude, erratic, disobedient, impatient. He screamed at his superiors to the astonishment of peers and was once nearly court-martialed for setting ablaze hangers that didn’t have proper heating. In meetings he would chew calluses off his hands and spit the dead skin across the table.
 
-Boyd’s defining trait was that he thought about flying planes through a totally different lens than other pilots. Like he was using a different part of his brain and playing a different game than everyone else. That same personality made him naturally indifferent to established customs. So his superiors would, in the same performance report, rave of his contributions but then attempt to block his promotions. One review said, this brilliant young officer is an original thinker, but went on, he is an intense and impatient man who does not respond well to close supervision.
+The Air Force loved and needed Boyd’s insights, but they couldn’t stand Boyd the man. Boyd’s defining trait was that he thought about flying planes through a totally different lens than other pilots. Like he was using a different part of his brain and playing a different game than everyone else. That same personality made him naturally indifferent to established customs.
 
-He is extremely intolerant of those who attempt to impede his program. While Boyd was writing the definitive book on fighter maneuvers, two colonels denied his promotion. Boyd was eventually promoted. He was too talented not to be, but throughout his career no one knew what to do with him.
+So his superiors would, in the same performance report, rave of his contributions but then attempt to block his promotions. One review said, this brilliant young officer is an original thinker, but went on, he is an intense and impatient man who does not respond well to close supervision. He is extremely intolerant of those who attempt to impede his program. While Boyd was writing the definitive book on fighter maneuvers, two colonels denied his promotion.
 
-He pissed off a lot of people. He was unique in every way. Good,
+Boyd was eventually promoted. He was too talented not to be, but throughout his career no one knew what to do with him. He pissed off a lot of people. He was unique in every way.
+
+Good,
 
 
 <a id="sec-005525"></a>
@@ -417,23 +443,27 @@ But Keynes was astonished to find that much of the work was devoted to alchemy, 
 
 I think it’s impossible to know. But the idea that crazy geniuses sometimes just look straight up crazy is nearly unavoidable. There’s a scene in the movie Patton in which the actor portraying the legendary World War II general George Patton meets his Russian counterpart after the war. Speaking through an interpreter, the Russian general proposes a toast.
 
-My compliments to the general, Patton says, but please inform him that I do not care to drink with him or any other Russian son of a bitch. The interpreter is stunned and says he can’t relay that message. Patton insists. The Russian general responds through the interpreter that he thinks Patton is also a son of a bitch.
+My compliments to the general, Patton says, but please inform him that. I do not care to drink with him or any other Russian son of a bitch. The interpreter is stunned and says he can’t relay that message. Patton insists.
 
-Patton laughs hysterically, raises his glass, and says, now that’s something I can drink to, from one son of a bitch to another. That may perfectly sum up how extremely successful people operate. Of course, they have abnormal characteristics. That’s why they’re successful.
+The Russian general responds through the interpreter that he thinks Patton is also a son of a bitch. Patton laughs hysterically, raises his glass, and says, now that’s something. I can drink to, from one son of a bitch to another. That may perfectly sum up how extremely successful people operate.
 
-And there is no world in which we should assume that all those abnormal characteristics are positive, polite, endearing, or appealing. Something I’ve long thought true, and which shows up constantly when you look for it, is that people who are abnormally good at one thing tend to be abnormally bad at something else. It’s as if the brain has capacity for only so much knowledge and emotion, and an abnormal skill robs bandwidth from other parts of someone’s personality. Take Elon Musk.
+Of course, they have abnormal characteristics. That’s why they’re successful. And there is no world in which we should assume that all those abnormal characteristics are positive, polite, endearing, or appealing. Something.
 
-What kind of 32-year-old thinks they can take on GM, Ford, and NASA at the same time? An utter maniac. The kind of person who thinks normal constraints don’t apply to them. Not in an egotistical way, but in a genuine, believe-it-in-your-bones way.
+I’ve long thought true, and which shows up constantly when you look for it, is that people who are abnormally good at one thing tend to be abnormally bad at something else. It’s as if the brain has capacity for only so much knowledge and emotion, and an abnormal skill robs bandwidth from other parts of someone’s personality. Take Elon Musk. What kind of 32-year-old thinks they can take on GM, Ford, and NASA at the same time?
 
-Which is also the kind of person who doesn’t worry about, say, Twitter etiquette. A mindset that can dump a personal fortune into colonizing Mars is not the kind of mindset that worries about the downsides of hyperbole. And the kind of person who proposes making Mars habitable by constantly dropping nuclear bombs in its atmosphere is not the kind of person worried about overstepping the boundaries of reality. The kind of person who says there’s a 99.999% chance humanity is a computer simulation is not the kind of person worried about making untenable promises to shareholders.
+An utter maniac. The kind of person who thinks normal constraints don’t apply to them. Not in an egotistical way, but in a genuine, believe-it-in-your-bones way. Which is also the kind of person who doesn’t worry about, say, Twitter etiquette.
 
-The kind of person who promises to solve the water problems in Flint, Michigan. Within days of trying to save a Thai children’s soccer team stuck in a cave, within days of rebuilding the Tesla Model 3 assembly line in a tent, is not the kind of person who views his lawyers signing off as a critical step. People love the visionary genius side of Musk, but want it to come without the side that operates in his distorted-a-date, uh, I don’t care about your customs version of reality, but I don’t think those two things can be separated.
+A mindset that can dump a personal fortune into colonizing Mars is not the kind of mindset that worries about the downsides of hyperbole. And the kind of person who proposes making Mars habitable by constantly dropping nuclear bombs in its atmosphere is not the kind of person worried about overstepping the boundaries of reality. The kind of person who says there’s a 99.999% chance humanity is a computer simulation is not the kind of person worried about making untenable promises to shareholders.
 
-They’re the risk-reward trade-offs of the same personality trait. Same for John Boyd, same for Steve Jobs, who was both a genius and could be a monster of a boss. Same for Walt Disney, whose ambitions pushed every company he touched to the razor’s edge of bankruptcy. Former U. S. National Security Advisor McGeorge Bundy once told President John F.
+The kind of person who promises to solve the water problems in Flint, Michigan. Within days of trying to save a Thai children’s soccer team stuck in a cave, within days of rebuilding the Tesla Model 3 assembly line in a tent, is not the kind of person who views his lawyers signing off as a critical step. People love the visionary genius side of Musk, but want it to come without the side that operates in his distorted-a-date, uh, I don’t care about your customs version of reality, but.
 
-Kennedy that trying to go to the moon was a crazy goal. Kennedy responded, you don’t run for president in your 40s unless you have a certain moxie. Part of this idea is realizing that people who are capable of achieving incredible things often take risks that can backfire just as powerfully. What kind of person makes their way to the top of a successful company or a big country?
+I don’t think those two things can be separated. They’re the risk-reward trade-offs of the same personality trait. Same for John Boyd, same for Steve Jobs, who was both a genius and could be a monster of a boss. Same for Walt Disney, whose ambitions pushed every company he touched to the razor’s edge of bankruptcy.
 
-Someone who is determined, optimistic, doesn’t take no for an answer, and is relentlessly confident in their own abilities. What kind of person is likely to go overboard, bite off more than they can chew, and discount risks that are blindingly obvious to others? Someone who is determined, optimistic, doesn’t take no for an answer, and is relentlessly confident in their own abilities. Reversion to the mean is one of the most common stories in history.
+Former U. S. National Security Advisor McGeorge Bundy once told President John F. Kennedy that trying to go to the moon was a crazy goal.
+
+Kennedy responded, you don’t run for president in your 40s unless you have a certain moxie. Part of this idea is realizing that people who are capable of achieving incredible things often take risks that can backfire just as powerfully. What kind of person makes their way to the top of a successful company or a big country? Someone who is determined, optimistic, doesn’t take no for an answer, and is relentlessly confident in their own abilities.
+
+What kind of person is likely to go overboard, bite off more than they can chew, and discount risks that are blindingly obvious to others? Someone who is determined, optimistic, doesn’t take no for an answer, and is relentlessly confident in their own abilities. Reversion to the mean is one of the most common stories in history.
 
 
 <a id="sec-010027"></a>
@@ -441,27 +471,29 @@ Someone who is determined, optimistic, doesn’t take no for an answer, and is r
 
 It’s the main character in economies, markets, countries, companies, careers, everything. Part of the reason it happens is because the same personality traits that push people to the top also increase the odds of pushing them over the edge. This is true for countries, particularly empires. A country determined to expand by acquiring more land is unlikely to be run by a person capable of saying, okay, that’s enough.
 
-Let’s be thankful for what we have and stop invading other countries. They’ll keep pushing until they meet their match. Novelist Stefan Zweig said, history reveals no instances of a conqueror being surfeited by conquests, meaning no conqueror gets what they wish and then retires. Perhaps the most important part of this topic is gaining better insight into who we should look up to, particularly who we want to be and who we want to emulate.
+Let’s be thankful for what we have and stop invading other countries. They’ll keep pushing until they meet their match. Novelist Stefan Zweig said, history reveals no instances of a conqueror being surfeited by conquests, meaning no conqueror gets what they wish and then retires. Perhaps, the most important part of this topic is gaining better insight into who we should look up to, particularly who we want to be and who we want to emulate.
 
-Naval Ravikant once wrote, one day I realized with all these people I was jealous of, I couldn’t just choose little aspects of their life. I couldn’t say I want his body, I want her money, I want his personality. You have to be that person. Do you want to actually be that person?
+Naval Ravikant once wrote, one day. I realized with all these people. I was jealous of, I couldn’t just choose little aspects of their life. I couldn’t say.
 
-With all of their reactions, their desires, their family, their happiness level, their outlook on life, their self-image, if you’re not willing to do a wholesale 24-7, 100% swap with who that person is, then there is no point in being jealous. Either you want someone else’s life or you don’t. Either is equally powerful. Just know which is which when finding role models.
+I want his body, I want her money, I want his personality. You have to be that person. Do you want to actually be that person? With all of their reactions, their desires, their family, their happiness level, their outlook on life, their self-image, if you’re not willing to do a wholesale 24-7, 100% swap with who that person is, then there is no point in being jealous.
 
-You got to challenge all assumptions. If you don’t, what is doctrine on day one becomes dogma forever after, John Boyd once said. That’s the kind of philosophy you’ll always be remembered for, for better or worse. Next up, let’s talk a little about how bad people are at math.
+Either you want someone else’s life or you don’t. Either is equally powerful. Just know which is which when finding role models. You got to challenge all assumptions.
 
-Good numbers. People don’t want accuracy. They want certainty. The fundamental cause of the trouble is that in the modern world, the stupid are cocksure while the intelligent are full of doubt.
+If you don’t, what is doctrine on day one becomes dogma forever after, John Boyd once said. That’s the kind of philosophy you’ll always be remembered for, for better or worse. Next up, let’s talk a little about how bad people are at math. Good numbers.
 
-Bertrand Russell J. Airy Seinfeld was once driving around in his car with Jimmy Fallon. It was an old car, built in the 1950s. Do you worry that the car doesn’t have an airbag?
+People don’t want accuracy. They want certainty. The fundamental cause of the trouble is that in the modern world, the stupid are cocksure while the intelligent are full of doubt. Bertrand Russell J.
 
-Fallon asked. No, and be honest, Seinfeld said. In your whole life, how often have you needed an airbag? It was a joke, but what a perfect example of how hard it is for people to think about probability and uncertainty.
+Airy Seinfeld was once driving around in his car with Jimmy Fallon. It was an old car, built in the 1950s. Do you worry that the car doesn’t have an airbag? Fallon asked.
 
-To help his students think about this, Stanford Professor Ronald Howard asked them to write a percentage representing the likelihood that they had responded correctly next to each answer on the tests he gave. If you said you were 100 percent confident that your answer was correct and it turned out to be wrong, you failed the entire test. If you said you were 0 percent confident and your answer happened to be correct, you got no credit. Everything in between gave you a confidence-adjusted score.
+No, and be honest, Seinfeld said. In your whole life, how often have you needed an airbag? It was a joke, but what a perfect example of how hard it is for people to think about probability and uncertainty. To help his students think about this, Stanford Professor Ronald Howard asked them to write a percentage representing the likelihood that they had responded correctly next to each answer on the tests he gave.
 
-I’ve never heard of a better way to teach people that life is about managing probabilities. And what an amazing way to scare the daylights out of students, forcing them to realize the consequences of assuming that certainty exists in a world filled with unknowns. A common trait of human behavior is the burning desire for certainty despite living in an uncertain and probabilistic world. Dealing with the math behind risk and uncertainty in general is difficult.
+If you said you were 100 percent confident that your answer was correct and it turned out to be wrong, you failed the entire test. If you said you were 0 percent confident and your answer happened to be correct, you got no credit. Everything in between gave you a confidence-adjusted score. I’ve never heard of a better way to teach people that life is about managing probabilities.
 
-Something people have struggled with forever and always will. That something can be likely and not happen, or unlikely and still happen, is one of the world’s most important tricks. There’s a scene in the movie Zero Dark Thirty in which the CIA director questions a group of analysts who claim to have located Osama bin Laden. I’m about to go look the president in the eye, he says.
+And what an amazing way to scare the daylights out of students, forcing them to realize the consequences of assuming that certainty exists in a world filled with unknowns. A common trait of human behavior is the burning desire for certainty despite living in an uncertain and probabilistic world. Dealing with the math behind risk and uncertainty in general is difficult. Something people have struggled with forever and always will.
 
-And what I’d like to know, no bullshit, very simply, is he there or is he not there? The team’s leader says there’s a 60 percent to 80 percent chance bin Laden is in the compound. Is that a yes or a no, the director asks. Most people get that certainty is rare, and the best you can do is make decisions in which the odds are in your favor.
+That something can be likely and not happen, or unlikely and still happen, is one of the world’s most important tricks. There’s a scene in the movie Zero Dark Thirty in which the CIA director questions a group of analysts who claim to have located Osama bin Laden. I’m about to go look the president in the eye, he says. And what.
+
+I’d like to know, no bullshit, very simply, is he there or is he not there? The team’s leader says there’s a 60 percent to 80 percent chance bin Laden is in the compound. Is that a yes or a no, the director asks. Most people get that certainty is rare, and the best you can do is make decisions in which the odds are in your favor.
 
 They understand you can be smart and end up wrong or dumb and end up right, because that’s how luck and risk work. But few people actually use probability in the real world, especially when judging others' success. Most of what people care about is, were you right or wrong? Was that a yes or a no?
 
@@ -495,9 +527,9 @@ During the time that we are awake and actively engaged in living our lives rough
 
 Think about 100-year events, 100-year floods, hurricanes, earthquakes, financial crises, frauds, pandemics, political meltdowns, economic recessions, and so on endlessly. Lots of terrible things can be called 100-year events. A 100-year event doesn’t mean it happens every 100 years. It means there’s about a 1% chance of it occurring in any given year.
 
-That seems low, but when there are hundreds of different independent 100-year events, what are the odds that one of them will occur in a given year? Pretty good. If next year there’s a 1% chance of a new disastrous pandemic, a 1% chance of a crippling depression, a 1% chance of a catastrophic flood, a 1% chance of political collapse, and on and on, then the odds that something bad will happen next year, or any year, are not bad. It’s always been like that.
+That seems low, but when there are hundreds of different independent 100-year events, what are the odds that one of them will occur in a given year? Pretty good. If next year there’s a 1% chance of a new disastrous pandemic, a 1% chance of a crippling depression, a 1% chance of a catastrophic flood, a 1% chance of political collapse, and on and on, then the odds that something bad will happen next year, or any year, are not bad.
 
-Even periods that we remember as stretches of good times were pockmarked with chaos.
+It’s always been like that. Even periods that we remember as stretches of good times were pockmarked with chaos.
 
 
 <a id="sec-011030"></a>
@@ -603,31 +635,31 @@ And all Burns did, not to minimize it because it’s such a feat, is take 130-ye
 <a id="sec-012540"></a>
 ### ⏱️ [01:25:40 - 01:30:43]
 
-part of his storytelling process. The music that accompanies images in his documentaries, I went into old hymnals and old song books and I had someone plunk them out on the piano. And whenever something hit me, I’d go that one. And then we’d go into a studio with a session musician and probably do 30 different recordings. Burns says that when writing a documentary script, he will literally extend a sentence so that it lines up with a certain beat in the background music.
+part of his storytelling process. The music that accompanies images in his documentaries, I went into old hymnals and old song books and. I had someone plunk them out on the piano. And whenever something hit me, I’d go that one.
 
-He will cut a sentence to do the same. Music is God, he says. It’s not just the icing on the cake, it’s the fudge baked right in there. Now imagine you’re a world-class historian who has spent decades uncovering new and groundbreaking information about an important topic.
+And then we’d go into a studio with a session musician and probably do 30 different recordings. Burns says that when writing a documentary script, he will literally extend a sentence so that it lines up with a certain beat in the background music. He will cut a sentence to do the same. Music is God, he says.
 
-How much time do you spend thinking about whether a specific sentence of what you’ve discovered will match the beat of a song? Probably none. Ken Burns does. And that is why he’s a household name.
+It’s not just the icing on the cake, it’s the fudge baked right in there. Now imagine you’re a world-class historian who has spent decades uncovering new and groundbreaking information about an important topic. How much time do you spend thinking about whether a specific sentence of what you’ve discovered will match the beat of a song? Probably none.
 
-Author Bill Bryson is the same. His books fly off the shelves, which can drive the little known academics who uncovered the things he writes about crazy. One of his books, The Body, a Guide for Occupants, is basically an anatomy textbook. It has no new information, no discoveries, but it’s so well written he tells a good story that it became an instant New York Times bestseller and The Washington Post’s Book of the Year.
+Ken Burns does. And that is why he’s a household name. Author Bill Bryson is the same. His books fly off the shelves, which can drive the little known academics who uncovered the things he writes about crazy.
 
-There are so many examples of this. Charles Darwin was not the first to discover evolution. He just wrote the first and most compelling book about it. Professor John Burr Williams had more profound insight on the topic of valuing stocks than Benjamin Graham.
+One of his books, The Body, a Guide for Occupants, is basically an anatomy textbook. It has no new information, no discoveries, but it’s so well written he tells a good story that it became an instant New York Times bestseller and The Washington Post’s Book of the Year. There are so many examples of this. Charles Darwin was not the first to discover evolution.
 
-But Graham knew how to write a good paragraph. So he became the legend and sold millions of books. Andrew Carnegie said he was as proud of his charm and ability to befriend people as he was of his business acumen. Elon Musk is as skilled at getting investors to believe a vision as he is at engineering.
+He just wrote the first and most compelling book about it. Professor John Burr Williams had more profound insight on the topic of valuing stocks than Benjamin Graham. But Graham knew how to write a good paragraph. So he became the legend and sold millions of books.
 
-Everyone knows the story of the sinking of the Titanic, which claimed 1,500 lives. But almost no one ever mentions a word about the 1948 sinking of the Chinese ferryboat SS Kiangia, which claimed nearly 4,000 lives. Or the 1987 sinking of the ferryboat MV Dona Paz, which killed 4,345 people. Or the capsizing of the MV Le Jula, which claimed 1,863 lives off the coast of Gambia in 2002.
+Andrew Carnegie said he was as proud of his charm and ability to befriend people as he was of his business acumen. Elon Musk is as skilled at getting investors to believe a vision as he is at engineering. Everyone knows the story of the sinking of the Titanic, which claimed 1,500 lives. But almost no one ever mentions a word about the 1948 sinking of the Chinese ferryboat SS Kiangia, which claimed nearly 4,000 lives.
 
-Perhaps the Titanic sticks out because of its story potential. The famous and wealthy passengers, the first-hand accounts from survivors, and of course, the eventual blockbuster movie. The influence of a good story drives you crazy. If you assume the world is swayed by facts and objectivity, if you assume the best idea or the largest numbers or the correct answer wins, there’s a devoted group of Harari critics obsessed with showing how unoriginal his work is.
+Or the 1987 sinking of the ferryboat MV Dona Paz, which killed 4,345 people. Or the capsizing of the MV Le Jula, which claimed 1,863 lives off the coast of Gambia in 2002. Perhaps, the Titanic sticks out because of its story potential. The famous and wealthy passengers, the first-hand accounts from survivors, and of course, the eventual blockbuster movie.
 
-Musk is viewed with the same mix of confusion and contempt. In a perfect world, the importance of information wouldn’t rely on its author’s eloquence. But we live in a world where people are bored, impatient, emotional, and need complicated things distilled into easy-to-grasp scenes. If you look, I think you’ll find that wherever information is exchanged, wherever there are products, companies, careers, politics, knowledge, education, and culture, the best story wins.
+The influence of a good story drives you crazy. If you assume the world is swayed by facts and objectivity, if you assume the best idea or the largest numbers or the correct answer wins, there’s a devoted group of Harari critics obsessed with showing how unoriginal his work is. Musk is viewed with the same mix of confusion and contempt. In a perfect world, the importance of information wouldn’t rely on its author’s eloquence.
 
-Stephen Hawking once noted of his best-selling physics books, someone told me that each equation I included in the book would have the sales. Readers don’t want a lecture, they want a memorable story. Winston Churchill was, by most accounts, a mediocre politician. But he was a master storyteller and orator, a savant at getting people’s attention through motivation and provoking emotion, which is what made all the difference during his time in office.
+But we live in a world where people are bored, impatient, emotional, and need complicated things distilled into easy-to-grasp scenes. If you look, I think you’ll find that wherever information is exchanged, wherever there are products, companies, careers, politics, knowledge, education, and culture, the best story wins. Stephen Hawking once noted of his best-selling physics books, someone told me that each equation. I included in the book would have the sales.
 
-Or take the stock market, the valuation of every company is simply a number from today, multiplied by a story about tomorrow. Some companies are incredibly good at telling stories, and during some eras, investors become captivated by the wildest ideas of what the future might bring. If you’re trying to figure out where something is going next, you have to understand more than its technical possibilities. You have to… to understand the stories everyone tells themselves about those possibilities, because it’s such a big part of the forecasting equation.
+Readers don’t want a lecture, they want a memorable story. Winston Churchill was, by most accounts, a mediocre politician. But he was a master storyteller and orator, a savant at getting people’s attention through motivation and provoking emotion, which is what made all the difference during his time in office. Or take the stock market, the valuation of every company is simply a number from today, multiplied by a story about tomorrow.
 
-Perhaps no one has mastered the art of storytelling better than comedians. They are the best thought leaders because they understand how the world works, but they want to make you laugh rather than make themselves feel smart. They take insights from psychology, sociology, politics, and every other dry field and squeeze out amazing stories. That’s why they can sell out arenas, while an academic researcher who discovers a great insight about social behavior can go unnoticed.
+Some companies are incredibly good at telling stories, and during some eras, investors become captivated by the wildest ideas of what the future might bring. If you’re trying to figure out where something is going next, you have to understand more than its technical possibilities. You have to… to understand the stories everyone tells themselves about those possibilities, because it’s such a big part of the forecasting equation. Perhaps, no one has mastered the art of storytelling better than comedians.
 
-Mark Twain said, humor is a way to show you’re smart without bragging.
+They are the best thought leaders because they understand how the world works, but they want to make you laugh rather than make themselves feel smart. They take insights from psychology, sociology, politics, and every other dry field and squeeze out amazing stories. That’s why they can sell out arenas, while an academic researcher who discovers a great insight about social behavior can go unnoticed. Mark Twain said, humor is a way to show you’re smart without bragging.
 
 
 <a id="sec-013043"></a>
@@ -651,9 +683,9 @@ He found the universal emotions that influence everyone regardless of who they w
 
 How many great ideas have already been discovered, but could grow 100 times or more if someone explained them better? How many products have found only a fraction of their potential market because the companies that made them are so bad at describing them to customers? So, so many. Visa founder Dee Hawk once said, new ways of looking at things create much greater innovation than new ways of doing them.
 
-You’ll get discouraged if you think every new book has to be about an original idea or that every new company has to sell a brand new invention. There is so much more opportunity if you see the world like you all know a Harari, that it’s not what you say or what you do, but how you say it and how you present it. Some of the most important questions to ask yourself are who has the right answer, but I ignore because they’re inarticulate.
+You’ll get discouraged if you think every new book has to be about an original idea or that every new company has to sell a brand new invention. There is so much more opportunity if you see the world like you all know a Harari, that it’s not what you say or what you do, but how you say it and how you present it. Some of the most important questions to ask yourself are who has the right answer, but.
 
-And what do I believe is true, but is actually just good marketing. They are uncomfortable questions and difficult to answer. But if you’re honest with yourself, you’ll see how many people and how many beliefs fall into these buckets. And then you’ll see the truth that the best story wins.
+I ignore because they’re inarticulate. And what do. I believe is true, but is actually just good marketing. They are uncomfortable questions and difficult to answer.
 
-Next, I’ll share another timeless truth. It has to do with war, fitness, stock markets, and other crazy things that cannot be measured.
+But if you’re honest with yourself, you’ll see how many people and how many beliefs fall into these buckets. And then you’ll see the truth that the best story wins. Next, I’ll share another timeless truth. It has to do with war, fitness, stock markets, and other crazy things that cannot be measured.
 

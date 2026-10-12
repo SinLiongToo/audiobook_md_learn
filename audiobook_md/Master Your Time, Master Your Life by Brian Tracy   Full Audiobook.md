@@ -61,9 +61,19 @@
 <a id="sec-000000"></a>
 ### ⏱️ [00:00:00 - 00:05:03]
 
-Gildan media presents your coach in a box affordable life-changing audio programs Hello, I’m Brian Tracy and welcome to master your time Master your life the breakthrough system to get more results faster in every area of your life introduction different kinds of time Benjamin Franklin wrote do you value life and waste not time for that is the stuff out of which life is made This is a great time to be alive There have never been more opportunities to do more things and to achieve more of your goals and all of human history than there are today You can live longer and better today than any other generation before you modern advances in medicine and healthcare are Enabling more people to live to age 80 or 90 or even 100 than ever imagined possible But with all these great opportunities for success prosperity long life and happiness You are probably feeling like most people too much to do and too little time Because of the explosive growth of information technology and competition The rate of change has accelerated almost beyond your capacity to keep up with it Today we need a new way to think about time especially the different times of our life We find that each activity and responsibility in your life requires you to take a different approach to time if you want to get the best results from everything you do you Need one kind of time for setting goals and deciding what you really want in life and another type of time for setting priorities Focusing on high-value tasks and getting things done You need one type of time for interacting communicating negotiating and administrating Another type of time at home with your family and your most important relationships The different types of time are often like oil and water.
+Gildan media presents your coach in a box affordable life-changing audio programs Hello, I’m Brian Tracy and welcome to master your time Master your life the breakthrough system to get more results faster in every area of your life introduction different kinds of time Benjamin Franklin wrote do you value life and waste not time for that is the stuff out of which life is made. This is a great time to be alive. There have never been more opportunities to do more things and to achieve more of your goals and all of human history than there are today.
 
-They don’t mix very well together Any attempt to use the wrong type of time in the wrong area for it will lead to frustration failure and ineffectiveness the quality of your life The quality of your life is largely determined by the quality of your time management But time management is really personal management life management It is management of yourself if you don’t control your time properly It’s difficult for you to control anything else Fortunately the richest most successful person in the world has the same 24 hours per day that you have The difference between successful people and unsuccessful people is that successful people sometimes with less potential and fewer opportunities Often accomplish vastly more than others because they use their time in a better and more effective way Your highest-paid most important skill is your ability to think both before you act and while you are acting It is your ability to choose what is more important and what is less important Psychologists tell us that your level of self-esteem How much you like and respect yourself is the key measure of how happy you are in any area of your life The key to high self-esteem is a feeling of self-efficacy This is the confidence that you can master your life achieve your goals Perform your tasks and get the results that are expected of you and that you expect from yourself Your most valuable financial asset is your earning ability This is your ability to get results that people will pay you for This again is largely determined by how you use your time when you are working and before and after your work Thomas Edison once wrote thinking is the hardest work there is which is why most people would rather die than think The way you think about time and the various possible ways that you can use your time Largely determine your effectiveness and the quality of every part of your life stop and think Most people live in a reactive responsive mode when something happens around them.
+You can live longer and better today than any other generation before you modern advances in medicine and healthcare are Enabling more people to live to age 80 or 90 or even 100 than ever imagined possible. But with all these great opportunities for success prosperity long life and happiness. You are probably feeling like most people too much to do and too little time. Because of the explosive growth of information technology and competition The rate of change has accelerated almost beyond your capacity to keep up with it Today we need a new way to think about time especially the different times of our life.
+
+We find that each activity and responsibility in your life requires you to take a different approach to time if you want to get the best results from everything you do you Need one kind of time for setting goals and deciding what you really want in life and another type of time for setting priorities Focusing on high-value tasks and getting things done. You need one type of time for interacting communicating negotiating and administrating Another type of time at home with your family and your most important relationships The different types of time are often like oil and water.
+
+They don’t mix very well together Any attempt to use the wrong type of time in the wrong area for it will lead to frustration failure and ineffectiveness the quality of your life The quality of your life is largely determined by the quality of your time management. But time management is really personal management life management. It is management of yourself if you don’t control your time properly. It’s difficult for you to control anything else.
+
+Fortunately, the richest most successful person in the world has the same 24 hours per day that you have The difference between successful people and unsuccessful people is that successful people sometimes with less potential and fewer opportunities Often accomplish vastly more than others because they use their time in a better and more effective way. Your highest-paid most important skill is your ability to think both before you act and while you are acting. It is your ability to choose what is more important and what is less important Psychologists tell us that your level of self-esteem.
+
+How much you like and respect yourself is the key measure of how happy you are in any area of your life The key to high self-esteem is a feeling of self-efficacy. This is the confidence that you can master your life achieve your goals Perform your tasks and get the results that are expected of you and that you expect from yourself. Your most valuable financial asset is your earning ability. This is your ability to get results that people will pay you for.
+
+This again is largely determined by how you use your time when you are working and before and after your work Thomas Edison once wrote thinking is the hardest work there is which is why most people would rather die than think The way you think about time and the various possible ways that you can use your time Largely determine your effectiveness and the quality of every part of your life stop and think Most people live in a reactive responsive mode when something happens around them.
 
 They react and respond immediately Automatically unthinkingly Becoming slaves to the moment or to the latest ring on their smartphone or computers The key to taking full control over your time and your life is for you to stop and think
 
@@ -71,59 +81,81 @@ They react and respond immediately Automatically unthinkingly Becoming slaves to
 <a id="sec-000503"></a>
 ### ⏱️ [00:05:03 - 00:10:03]
 
-Before you react and respond it is for you to identify the kind of time and behavior that is required for you at each moment And then for you to respond appropriately to that situation British historian Arnold Toynbee won the Nobel Prize for his masterful 12 volume work a study of history This series of books traces the rise and fall of 23 great civilizations or empires over 2,500 years Toynbee found that there was a predictable cycle that an empire would go through from its early beginnings through to its collapse Toynbee proposed the idea of the challenge and response theory of history He showed that each great civilization started small Sometimes as a single tribe or village and by repeatedly responding effectively to external challenges Usually from warring tribes and other human enemies the group continued to grow and expand until it dominated large land masses The Mongol Empire for example the largest land empire in history started with three people Temujin his mother Bortai and his young brother after another Mongol tribe had wiped out their village From that humble beginning Temujin who later became known as Genghis Khan a perfect warrior Spread the Mongol Empire from the Sea of Japan across China India much of Russia and the Middle East all the way to the Mediterranean and the Danube your choices and decisions are everything It’s the same with you and your life as long as you respond effectively to the continuous challenges of daily life and work You continue to grow smarter and more capable and move toward fulfillment of your full potential More than anything your success in both the short and the long term is largely determined by the way you respond to the inevitable and unavoidable difficulties and challenges of daily life This is called your response ability Your ability to respond effectively to the non-stop and conflicting demands on your time In this book you’ll learn a series of the best time usage and time management principles ever discovered The same time management techniques and strategies practiced by the most successful and happy people in our society By practicing these methods and techniques You will take full control over your time and your life and achieve more in the next year or two Than most people accomplished in several years or even in a lifetime When you become more thoughtful about your current situation and Learn the most effective way to deal with different events at different times with different approaches You will think with greater clarity and will respond with greater confidence than ever before chapter one strategic planning and goal-setting time Napoleon Hill once wrote there is one quality that one must possess to win and that is definitely Purpose the knowledge of what one wants and a burning desire to achieve it One of the most important types of time is the time that you spend thinking deciding and planning How to achieve the things you really want in life?
+Before you react and respond it is for you to identify the kind of time and behavior that is required for you at each moment. And then for you to respond appropriately to that situation British historian Arnold Toynbee won the Nobel Prize for his masterful 12 volume work a study of history. This series of books traces the rise and fall of 23 great civilizations or empires over 2,500 years Toynbee found that there was a predictable cycle that an empire would go through from its early beginnings through to its collapse Toynbee proposed the idea of the challenge and response theory of history.
 
-The biggest single waste of time is setting off without clear specific goals many people waste their most productive years responding and reacting to whatever is going on around them and Working to achieve the goals of other people Instead of taking the time to become absolutely clear about what it is that they really want for themselves There is a saying before you do anything you have to do something else first Before you set off on the great adventure of life. You have to decide where you want to end up The good news is that there have never been more opportunities to achieve your goals than there are today But only you can decide what you want What is the difference between the rich and the poor?
+He showed that each great civilization started small Sometimes as a single tribe or village and by repeatedly responding effectively to external challenges Usually from warring tribes and other human enemies the group continued to grow and expand until it dominated large land masses The Mongol Empire for example the largest land empire in history started with three people Temujin his mother Bortai and his young brother after another Mongol tribe had wiped out their village. From that humble beginning Temujin who later became known as Genghis Khan a perfect warrior Spread the Mongol Empire from the Sea of Japan across China India much of Russia and the Middle East all the way to the Mediterranean and the Danube your choices and decisions are everything.
 
-One explanation is that about 85% of wealthy people have one big goal that they work on all the time Only 3% of poor people have one big goal and they work on it occasionally if at all the 1% versus the 99% Today there’s great controversy over the difference between the one percenters and the rest of us The claim is that the one percenters own or control more wealth than everyone else put together However, that statistic is inaccurate The real difference is actually between the top 3% and the other 97%
+It’s the same with you and your life as long as you respond effectively to the continuous challenges of daily life and work. You continue to grow smarter and more capable and move toward fulfillment of your full potential More than anything your success in both the short and the long term is largely determined by the way you respond to the inevitable and unavoidable difficulties and challenges of daily life. This is called your response ability. Your ability to respond effectively to the non-stop and conflicting demands on your time.
+
+In this book you’ll learn a series of the best time usage and time management principles ever discovered The same time management techniques and strategies practiced by the most successful and happy people in our society. By practicing these methods and techniques. You will take full control over your time and your life and achieve more in the next year or two Than most people accomplished in several years or even in a lifetime. When you become more thoughtful about your current situation and Learn the most effective way to deal with different events at different times with different approaches.
+
+You will think with greater clarity and will respond with greater confidence than ever before chapter one strategic planning and goal-setting time Napoleon Hill once wrote there is one quality that one must possess to win and that is definitely Purpose the knowledge of what one wants and a burning desire to achieve it One of the most important types of time is the time that you spend thinking deciding and planning. How to achieve the things you really want in life?
+
+The biggest single waste of time is setting off without clear specific goals many people waste their most productive years responding and reacting to whatever is going on around them and Working to achieve the goals of other people. Instead of taking the time to become absolutely clear about what it is that they really want for themselves. There is a saying before you do anything you have to do something else first. Before you set off on the great adventure of life.
+
+You have to decide where you want to end up The good news is that there have never been more opportunities to achieve your goals than there are today. But only you can decide what you want. What is the difference between the rich and the poor? One explanation is that about 85% of wealthy people have one big goal that they work on all the time Only 3% of poor people have one big goal and they work on it occasionally if at all the 1% versus the 99% Today there’s great controversy over the difference between the one percenters and the rest of us The claim is that the one percenters own or control more wealth than everyone else put together.
+
+However, that statistic is inaccurate The real difference is actually between the top 3% and the other 97%
 
 
 <a id="sec-001003"></a>
 ### ⏱️ [00:10:03 - 00:15:09]
 
-Because most people start off with little or nothing the real question ought to be How did the 3% who started with nothing become so successful in the course of one or two generations? The answer is simple the top 3% have clear written goals and plans that they work on every day They know exactly who they are what they want and where they are going They have a blueprint a roadmap that guides them faster and with ever greater accuracy toward achieving the health happiness, wealth and prosperity that most people strive for all their lives as A result of having clear written goals.
+Because most people start off with little or nothing the real question ought to be. How did the 3% who started with nothing become so successful in the course of one or two generations? The answer is simple the top 3% have clear written goals and plans that they work on every day. They know exactly who they are what they want and where they are going.
 
-They waste far less time than the average person People with written goals and plans earn and accumulate on average Ten times as much as other people with the same levels of intelligence and education clarity is everything There is a story of a hunter who goes to the edge of the woods closes his eyes and shoots his rifle into the forest He then turns to his friend and says I sure hope something good runs into that This is how too many people live their lives They throw themselves at life like a dog chasing a passing car sell them catching anything Most people go through their lives without goals doing the best they can and just hoping something good will happen to them But hope is not a strategy It is a recipe for failure.
+They have a blueprint a roadmap that guides them faster and with ever greater accuracy toward achieving the health happiness, wealth and prosperity that most people strive for all their lives as A result of having clear written goals. They waste far less time than the average person People with written goals and plans earn and accumulate on average Ten times as much as other people with the same levels of intelligence and education clarity is everything. There is a story of a hunter who goes to the edge of the woods closes his eyes and shoots his rifle into the forest.
 
-If not disaster For you to maximize your time to enjoy the greatest quantity and quality of riches and rewards You need to take time regularly to think about your goals Especially when you’re experiencing turbulence and rapid change You need to become intensely goal oriented setting goals Making plans and organizing your life around the things you really want to do and have are the greatest time management tools of all Goal setting and personal strategic planning require that you step back and take some time off away from interruptions and distractions You then answer several key questions to ensure that what you are doing on the outside It’s consistent with the person you are on the inside and in harmony with what you really want to achieve Look into yourself The first question you ask is who am I?
+He then turns to his friend and says. I sure hope something good runs into that. This is how too many people live their lives. They throw themselves at life like a dog chasing a passing car sell them catching anything Most people go through their lives without goals doing the best they can and just hoping something good will happen to them.
 
-Your answer to this question reveals your self-image the person you think you are Because your outer behaviors are always consistent with the way you see or describe yourself on the inside This answer tells you a lot about yourself The sign over the Temple of Apollo at Delphi in ancient Greece said man Know thyself. This is the starting point of wisdom Socrates said the unexamined life is not worth living unless you carve out time regularly to Examine your life and make sure that you are clear about your goals and that they have not changed You will become reactive responsive acting impulsively and often doing what other people want you to do Begin this goals analysis by realizing that you are unique and potentially extraordinary There has never been nor ever will be anyone exactly like yourself Be yourself Everyone else is already taken.
+But hope is not a strategy. It is a recipe for failure. If not disaster. For you to maximize your time to enjoy the greatest quantity and quality of riches and rewards.
 
-You are a special and complex combination of knowledge experience education talents abilities interests emotions desires and fears In addition from infancy onward you have had a complex series of experiences that have shaped you into the person you are today You have special strengths and abilities and have been born with the capacity To be absolutely excellent at something and maybe several things Your great responsibility to yourself and to others is to find that special mission that you have been put on this earth to accomplish You must clarify your vision your life’s purpose your heart’s desire do what you really love One of your great jobs in life is to find something you really love to do and then to put your whole heart Into becoming absolutely excellent at doing that one thing Throughout your adult life and career you need to ask and answer a series of questions Your answers will change over time and with experience you must be clear about your answers each time you address these questions and Must be willing to change your responses as you get more information Begin by assuming that you have no limitations Imagine that you could wave a magic wand and make your life ideal in every way.
+You need to take time regularly to think about your goals Especially when you’re experiencing turbulence and rapid change. You need to become intensely goal oriented setting goals Making plans and organizing your life around the things you really want to do and have are the greatest time management tools of all Goal setting and personal strategic planning require that you step back and take some time off away from interruptions and distractions. You then answer several key questions to ensure that what you are doing on the outside.
 
-Ask yourself, one, what do I really want to do with my life?
+It’s consistent with the person you are on the inside and in harmony with what you really want to achieve Look into yourself The first question you ask is who am. I? Your answer to this question reveals your self-image the person you think you are. Because your outer behaviors are always consistent with the way you see or describe yourself on the inside.
+
+This answer tells you a lot about yourself The sign over the Temple of Apollo at Delphi in ancient Greece said man Know thyself. This is the starting point of wisdom Socrates said the unexamined life is not worth living unless you carve out time regularly to Examine your life and make sure that you are clear about your goals and that they have not changed. You will become reactive responsive acting impulsively and often doing what other people want you to do Begin this goals analysis by realizing that you are unique and potentially extraordinary.
+
+There has never been nor ever will be anyone exactly like yourself Be yourself Everyone else is already taken. You are a special and complex combination of knowledge experience education talents abilities interests emotions desires and fears. In addition from infancy onward you have had a complex series of experiences that have shaped you into the person you are today. You have special strengths and abilities and have been born with the capacity To be absolutely excellent at something and maybe several things.
+
+Your great responsibility to yourself and to others is to find that special mission that you have been put on this earth to accomplish. You must clarify your vision your life’s purpose your heart’s desire do what you really love One of your great jobs in life is to find something you really love to do and then to put your whole heart Into becoming absolutely excellent at doing that one thing Throughout your adult life and career you need to ask and answer a series of questions.
+
+Your answers will change over time and with experience you must be clear about your answers each time you address these questions and Must be willing to change your responses as you get more information Begin by assuming that you have no limitations Imagine that you could wave a magic wand and make your life ideal in every way. Ask yourself, one, what do. I really want to do with my life?
 
 
 <a id="sec-001509"></a>
 ### ⏱️ [00:15:09 - 00:20:10]
 
-Question two, what do I really, really want to do with my life? And question three is, what do I really, really, really want to do with my life? The third time you ask this question with really, really, really is the key. It forces you to dig deep into yourself, moving past the superficial answers regarding money and success, and often gives you the answer you have been seeking.
+Question two, what do. I really, really want to do with my life? And question three is, what do. I really, really, really want to do with my life?
 
-This is how you begin to unlock your full potential. Personal strategic planning. Successful companies invest a lot of time and money developing strategic plans for their business. These are the carefully thought-out goals and plans they use to achieve greater success and profitability in competitive markets.
+The third time you ask this question with really, really, really is the key. It forces you to dig deep into yourself, moving past the superficial answers regarding money and success, and often gives you the answer you have been seeking. This is how you begin to unlock your full potential. Personal strategic planning.
 
-You need a strategic plan as well, a personal strategic plan, to ensure that you accomplish the very most in the shortest period of time, making the fewest possible mistakes along the way. Personal strategic planning focuses on four basic questions, which you should ask regularly. Personal strategic planning focuses on four basic questions, which you should ask yourself regularly. Question one, where am I now in my life?
+Successful companies invest a lot of time and money developing strategic plans for their business. These are the carefully thought-out goals and plans they use to achieve greater success and profitability in competitive markets. You need a strategic plan as well, a personal strategic plan, to ensure that you accomplish the very most in the shortest period of time, making the fewest possible mistakes along the way. Personal strategic planning focuses on four basic questions, which you should ask regularly.
 
-What have you accomplished so far? How much are you worth financially? What kind of family life do you have? What is your level of health and fitness?
+Personal strategic planning focuses on four basic questions, which you should ask yourself regularly. Question one, where am. I now in my life? What have you accomplished so far?
 
-Question two, how did I get to where I am today? What were the choices and decisions you made in the past to create your present life? What has been most responsible for your success to date? What has been the reason for your setbacks?
+How much are you worth financially? What kind of family life do you have? What is your level of health and fitness? Question two, how did.
 
-Question three, where do I want to go in the future? Idealize and imagine a perfect future. Project forward five years and imagine that your life was excellent in every way. What would it look like?
+I get to where. I am today? What were the choices and decisions you made in the past to create your present life? What has been most responsible for your success to date?
 
-How would it be different from your life today? Question number four, how can I get from where I am to where I want to be? What are all the different things that you could do starting today to create your perfect future? Clarity is your best friend.
+What has been the reason for your setbacks? Question three, where do. I want to go in the future? Idealize and imagine a perfect future.
 
-Personal strategic planning requires first that you set clear written goals and second that you carefully examine the various strategies you can implement to achieve those goals. Most people want to earn a lot of money doing something they enjoy and ultimately achieve financial independence, but only a small percentage of people will achieve this common goal. Why is this? First generation wealth.
+Project forward five years and imagine that your life was excellent in every way. What would it look like? How would it be different from your life today? Question number four, how can.
 
-There are more than 10 million millionaires in the United States alone and more than 80% of them are self-made. In the world there are almost 2000 billionaires, about 66% of whom are self-made as well. These are all individuals who started with nothing and achieved their financial success in one working lifetime, if not sooner. Why not you?
+I get from where. I am to where. I want to be? What are all the different things that you could do starting today to create your perfect future?
 
-There are many different ways for you to achieve your goals of high income financial independence or even wealth. One high road to financial success is entrepreneurship. The ability to start and build your own successful business. Today it’s easier to start a business and get started offering a product or service than ever before.
+Clarity is your best friend. Personal strategic planning requires first that you set clear written goals and second that you carefully examine the various strategies you can implement to achieve those goals. Most people want to earn a lot of money doing something they enjoy and ultimately achieve financial independence, but only a small percentage of people will achieve this common goal. Why is this?
 
-It takes less than 24 hours for you to register your business, set up a website and start operating. Many people become financially independent by specializing and becoming absolutely excellent in their fields, working for another company and being paid very well. To go to work for someone else and work their way up, earning more and more over the years. Fully 10% of millionaires are professionals such as doctors, lawyers, architects, accountants and engineers.
+First, generation wealth. There are more than 10 million millionaires in the United States alone and more than 80% of them are self-made. In the world there are almost 2000 billionaires, about 66% of whom are self-made as well. These are all individuals who started with nothing and achieved their financial success in one working lifetime, if not sooner.
 
-They worked very hard for a long time, did excellent work, got great reputations and were eventually paid very well. You can choose the path of entrepreneurship and business building or you can choose to work for another company, especially a company with great potential that is just getting started. You can specialize and become excellent at what you do. You can be a big success in many different ways.
+Why not you? There are many different ways for you to achieve your goals of high income financial independence or even wealth. One high road to financial success is entrepreneurship. The ability to start and build your own successful business.
 
-Listen to yourself. You could choose among different paths depending on your personality, skills, temperament and what you really enjoy. The good news is that there is no single best way. Millions of people do very well financially working for someone else or by specializing or both.
+Today it’s easier to start a business and get started offering a product or service than ever before. It takes less than 24 hours for you to register your business, set up a website and start operating. Many people become financially independent by specializing and becoming absolutely excellent in their fields, working for another company and being paid very well. To go to work for someone else and work their way up, earning more and more over the years.
 
-Others become successful in business or as entrepreneurs by mastering a wide variety
+Fully 10% of millionaires are professionals such as doctors, lawyers, architects, accountants and engineers. They worked very hard for a long time, did excellent work, got great reputations and were eventually paid very well. You can choose the path of entrepreneurship and business building or you can choose to work for another company, especially a company with great potential that is just getting started. You can specialize and become excellent at what you do.
+
+You can be a big success in many different ways. Listen to yourself. You could choose among different paths depending on your personality, skills, temperament and what you really enjoy. The good news is that there is no single best way.
+
+Millions of people do very well financially working for someone else or by specializing or both. Others become successful in business or as entrepreneurs by mastering a wide variety
 
 
 <a id="sec-002010"></a>
@@ -135,23 +167,29 @@ The greater clarity you have about who you are and what you want, the easier it 
 
 Forget about the mistakes of the past and focus on the future. There’s a Turkish proverb that says, no matter how long you have gone down the wrong road, turn back. The Intelligence Factor Josh Billings, the western humorist, once said, it ain’t what a man knows what hurts him. It’s what he knows that ain’t true.
 
-When I was growing up, my teachers and parents told me over and over that if I didn’t get good grades, if I didn’t graduate from high school, if I didn’t go to college, I wouldn’t be successful in life. And I believed them. When I failed out of high school, I resigned myself to a life of laboring jobs. For the next few years, I washed dishes, dug wells, worked in sawmills and factories and sometimes slept in my car.
+When. I was growing up, my teachers and parents told me over and over that if. I didn’t get good grades, if. I didn’t graduate from high school, if.
 
-Finally, in frustration at seeing all the successful people around me, many now younger than I, I began to challenge my beliefs about success and failure. I began to ask, why is it that some people are more successful than others? What I found out surprised me. I found that there was only a small relationship between success and high education, intelligence, good grades, coming from a wealthy family or even natural ability.
+I didn’t go to college, I wouldn’t be successful in life. And. I believed them. When.
 
-Intelligence has been identified as an important quality of successful people in every field. But extensive research has found that many successful people did not have exceptional IQs, nor did they get good grades at school. They may have been above average in intelligence, but they were not geniuses, a way of acting. The experts have concluded that intelligence is more a way of acting than it is a matter of good grades or a high IQ.
+I failed out of high school, I resigned myself to a life of laboring jobs. For the next few years, I washed dishes, dug wells, worked in sawmills and factories and sometimes slept in my car.
 
-So what then is an intelligent way of acting? The answer is simple. You are acting intelligently when you aren’t doing something that moves you toward one of the goals that you have set for yourself. You are acting unintelligently whenever you do anything that is not moving you toward something you want.
+Finally, in frustration at seeing all the successful people around me, many now younger than. I, I began to challenge my beliefs about success and failure. I began to ask, why is it that some people are more successful than others? What.
 
-In my seminars, I teach a simple technique that I promise will double the income of everyone in the room. I call this the A-B method. Here’s how it works. You divide all your tasks and activities into two categories, A tasks and B tasks.
+I found out surprised me. I found that there was only a small relationship between success and high education, intelligence, good grades, coming from a wealthy family or even natural ability. Intelligence has been identified as an important quality of successful people in every field. But extensive research has found that many successful people did not have exceptional IQs, nor did they get good grades at school.
 
-A tasks are those activities that move you closer to the goals that you say you really want to accomplish. These are goals such as to be more successful in your field, to earn more money, to spend more time with your family and friends, and to enjoy excellent health. B activities are those that do not move you toward your goals, or even worse, they move you away from them. So here’s a life-changing rule.
+They may have been above average in intelligence, but they were not geniuses, a way of acting. The experts have concluded that intelligence is more a way of acting than it is a matter of good grades or a high IQ. So what then is an intelligent way of acting? The answer is simple.
 
-Do only A tasks. Discipline yourself to do only those tasks that enrich and enhance your life and work, and that give you a feeling of forward motion toward achieving the things you want and becoming the kind of person you want to be. This simple strategy will enable you to double and triple your productivity, performance and results in the months and years ahead. Best of all, when you are working on your most important goals, you will experience a winning feeling, a feeling of forward progress, of being happier and more fulfilled.
+You are acting intelligently when you aren’t doing something that moves you toward one of the goals that you have set for yourself. You are acting unintelligently whenever you do anything that is not moving you toward something you want. In my seminars, I teach a simple technique that. I promise will double the income of everyone in the room.
+
+I call this the A-B method. Here’s how it works. You divide all your tasks and activities into two categories, A tasks and B tasks. A tasks are those activities that move you closer to the goals that you say you really want to accomplish.
+
+These are goals such as to be more successful in your field, to earn more money, to spend more time with your family and friends, and to enjoy excellent health. B activities are those that do not move you toward your goals, or even worse, they move you away from them. So here’s a life-changing rule. Do only A tasks.
+
+Discipline yourself to do only those tasks that enrich and enhance your life and work, and that give you a feeling of forward motion toward achieving the things you want and becoming the kind of person you want to be. This simple strategy will enable you to double and triple your productivity, performance and results in the months and years ahead. Best of all, when you are working on your most important goals, you will experience a winning feeling, a feeling of forward progress, of being happier and more fulfilled.
 
 Your self-esteem will go up. You’ll enjoy higher levels of self-respect and personal pride. Even more, when you are working on and completing your most important tasks and goals, you earn the respect and esteem and admiration of everyone around you. You quickly become one of the most valuable people in your organization.
 
-The Goal Setting and Achieving Formula There is a simple yet powerful seven-step goal achieving formula or recipe that you can learn and practice for the rest of your life. I’ve taught this formula to more than one million people all over the United States and Canada and in 72 other countries.
+The Goal Setting and Achieving Formula. There is a simple yet powerful seven-step goal achieving formula or recipe that you can learn and practice for the rest of your life. I’ve taught this formula to more than one million people all over the United States and Canada and in 72 other countries.
 
 
 <a id="sec-002513"></a>
@@ -161,29 +199,33 @@ Over the years, countless people have come up to me or emailed saying almost the
 
 Most people never do this. Be specific. Your goals should be so clear that you could explain them to a six-year-old child, and the six-year-old child could turn around and explain them to another six-year-old child. In addition, the child should be able to tell you how close you are to your goals because they are so clear and simple.
 
-One of the biggest mistakes people make is to think that they already have goals. When all they really have are hopes and dreams. As an exercise, when I ask my audiences if they have goals, surprisingly, they all raise their hands and say yes. Then I ask them to give me some examples of their goals. They shout out things like, I want to be happy, or I want to be rich, or I want to travel, or I want to have a nice family life, but these are not goals, these are wishes and hopes common to all of mankind.
+One of the biggest mistakes people make is to think that they already have goals. When all they really have are hopes and dreams. As an exercise, when. I ask my audiences if they have goals, surprisingly, they all raise their hands and say yes.
 
-They are fantasies and dreams that everyone has. They’re not clear, specific goals that you can focus on achieving every day. They cannot be measured. Nobody can tell you how close you are to achieving them.
+Then. I ask them to give me some examples of their goals. They shout out things like, I want to be happy, or. I want to be rich, or.
 
-Put it in writing. Step two, write it down. Only three percent of adults have written goals, and it seems that everyone else works for them. They earn, on average, ten times as much as people without written goals.
+I want to travel, or. I want to have a nice family life, but these are not goals, these are wishes and hopes common to all of mankind. They are fantasies and dreams that everyone has. They’re not clear, specific goals that you can focus on achieving every day.
 
-Once you’ve written down your goal, make it measurable. Attach a number to it so that someone else can tell you how close you are to achieving it. There’s a rule that says, if you want to be successful, put a measure on every goal and activity. But if you want to be rich, put a financial measure on every goal and activity.
+They cannot be measured. Nobody can tell you how close you are to achieving them. Put it in writing. Step two, write it down.
 
-A recent management study that looked at the work of 150 scholars who studied thousands of companies in more than 20 countries found that there were three factors that accounted for more than 80 percent of business success. Clear goals and objectives, clear measures, and clear deadlines. Remember, you can’t hit a target that you can’t see. When you have clear goals and you can measure your progress, you will move ahead further and faster than if you don’t.
+Only three percent of adults have written goals, and it seems that everyone else works for them. They earn, on average, ten times as much as people without written goals. Once you’ve written down your goal, make it measurable. Attach a number to it so that someone else can tell you how close you are to achieving it.
 
-When do you want it? Step three, set a deadline. Set exactly when you want to achieve a particular goal. If it’s a longer term goal, break it down into years, months, weeks, and even days.
+There’s a rule that says, if you want to be successful, put a measure on every goal and activity. But if you want to be rich, put a financial measure on every goal and activity. A recent management study that looked at the work of 150 scholars who studied thousands of companies in more than 20 countries found that there were three factors that accounted for more than 80 percent of business success. Clear goals and objectives, clear measures, and clear deadlines.
 
-Some of the most successful people I know will break a ten-year goal into five-year goals, one-year goals, one-month goals, all the way down to daily activities. They then discipline themselves to complete one or more of those activities every day. What if you don’t achieve your goal by the initial deadline that you set? Simple, set a new deadline, and then another, and another, and another.
+Remember, you can’t hit a target that you can’t see. When you have clear goals and you can measure your progress, you will move ahead further and faster than if you don’t. When do you want it? Step three, set a deadline.
 
-If necessary, when you set your first deadline, it will be based on the information you have at that time. But external factors can change. There could be a decline in the economy overall, or something like a collapse of oil prices that changes everything in your business or industry. When something happens to throw you off of your timetable, you set a new deadline.
+Set exactly when you want to achieve a particular goal. If it’s a longer term goal, break it down into years, months, weeks, and even days. Some of the most successful people. I know will break a ten-year goal into five-year goals, one-year goals, one-month goals, all the way down to daily activities.
 
-There are no unreasonable goals, only unreasonable deadlines. Think on paper. Step four, make a list of everything that you can think of that you could possibly do to achieve the goal. As you think of new things you can do, or learn, or people whom you could talk to, write them on your list.
+They then discipline themselves to complete one or more of those activities every day. What if you don’t achieve your goal by the initial deadline that you set? Simple, set a new deadline, and then another, and another, and another. If necessary, when you set your first deadline, it will be based on the information you have at that time.
 
-Keep writing until you can’t think of anything else. Step five, organize your list by sequence. Create a checklist, ordering your task starting with what you have to do first to achieve your goal, then to what you have to do second, and all the way down to the final step you will need to achieve that goal. You can also organize your list by priority.
+But external factors can change. There could be a decline in the economy overall, or something like a collapse of oil prices that changes everything in your business or industry. When something happens to throw you off of your timetable, you set a new deadline. There are no unreasonable goals, only unreasonable deadlines.
 
-What is the most important item on your list? What is the second most important item? Practice the 80-20 rule, which says that 80% of your success will be determined by 20% of the things that you do. Often, the most valuable and important thing you do in life, which can account for 80% of your success, is deciding on a goal and making a plan to achieve it in the first place.
+Think on paper. Step four, make a list of everything that you can think of that you could possibly do to achieve the goal. As you think of new things you can do, or learn, or people whom you could talk to, write them on your list. Keep writing until you can’t think of anything else.
 
-A list of everything that you can think of that you can do to achieve the goal. activities organized by sequence and priority becomes a plan. When you have a written goal and a plan, you move ahead of 97% of adults working today. You will begin to achieve much more success faster than ever before.
+Step five, organize your list by sequence. Create a checklist, ordering your task starting with what you have to do first to achieve your goal, then to what you have to do second, and all the way down to the final step you will need to achieve that goal. You can also organize your list by priority. What is the most important item on your list?
+
+What is the second most important item? Practice the 80-20 rule, which says that 80% of your success will be determined by 20% of the things that you do. Often, the most valuable and important thing you do in life, which can account for 80% of your success, is deciding on a goal and making a plan to achieve it in the first place. A list of everything that you can think of that you can do to achieve the goal. activities organized by sequence and priority becomes a plan.
+
+When you have a written goal and a plan, you move ahead of 97% of adults working today. You will begin to achieve much more success faster than ever before.
 
 
 <a id="sec-003016"></a>
@@ -205,17 +247,21 @@ This principle, based on Sir Isaac Newton’s Law of Inertia, says that it takes
 
 Goal Setting Exercise. Now take a clean sheet of paper. Write the word goals and today’s date at the top of the page. Then write down at least 10 goals you would like to accomplish in the next 12 months or so.
 
-These can be one-day goals, one-week goals, one-month goals, six-month goals, and or one-year goals, but they are all goals that you would like to achieve within the next year. Write your goals in a special way that makes them more acceptable to your subconscious mind, your mental powerhouse. Write them using the three P’s, personal, positive, and present tense. Begin each goal with the word I.
+These can be one-day goals, one-week goals, one-month goals, six-month goals, and or one-year goals, but they are all goals that you would like to achieve within the next year. Write your goals in a special way that makes them more acceptable to your subconscious mind, your mental powerhouse. Write them using the three P’s, personal, positive, and present tense. Begin each goal with the word.
 
-Your subconscious mind can’t work on a goal only if you tell it that it is you personally who wants this goal. For example, you could say, I earn this specific amount of money by December 31 of this year. Make your goals positive. Instead of saying, I don’t smoke anymore, you say, I am a non-smoker.
+I. Your subconscious mind can’t work on a goal only if you tell it that it is you personally who wants this goal.
 
-Your subconscious mind can accept commands that are phrased only in the positive voice. Write your goals in the present tense. Your subconscious mind cannot relate to the past or the future. You therefore state your goal as though it were already a reality, as though you had already achieved it and you are describing your accomplishment to someone else.
+For example, you could say, I earn this specific amount of money by December 31 of this year. Make your goals positive. Instead of saying, I don’t smoke anymore, you say, I am a non-smoker. Your subconscious mind can accept commands that are phrased only in the positive voice.
 
-Instead of saying, I will earn a specific amount of money this year, you say, I earn this specific amount of money by this specific date. For example, you could say, I drive a brand new four-door BMW sedan by December 31 of this year. Your subconscious mind then takes this command as an order and begins to work on it 24 hours a day from the day you become clear about the goals you want to achieve and when you want to achieve them and write them down, you will begin to receive a steady stream of ideas and insights that will help you move quickly towards your goal and will cause your goal to move faster toward you.
+Write your goals in the present tense. Your subconscious mind cannot relate to the past or the future. You therefore state your goal as though it were already a reality, as though you had already achieved it and you are describing your accomplishment to someone else. Instead of saying, I will earn a specific amount of money this year, you say, I earn this specific amount of money by this specific date.
+
+For example, you could say, I drive a brand new four-door BMW sedan by December 31 of this year. Your subconscious mind then takes this command as an order and begins to work on it 24 hours a day from the day you become clear about the goals you want to achieve and when you want to achieve them and write them down, you will begin to receive a steady stream of ideas and insights that will help you move quickly towards your goal and will cause your goal to move faster toward you.
 
 Major definite purpose. Napoleon Hill wrote after 22 years of research into the wealthiest people in America that all great success began with a major definite purpose. This is the one goal that is more important to you than any other single goal. It’s the one goal that can help you more to achieve more of your other goals than any single achievement.
 
-So look at your list of 10 goals and ask this question. If I could achieve any one goal on this list within 24 hours, which one goal would have the greatest positive impact on my life? Usually this goal will jump out at you from the page. It is the one goal that excites you and motivates you more than anything else.
+So look at your list of 10 goals and ask this question. If. I could achieve any one goal on this list within 24 hours, which one goal would have the greatest positive impact on my life? Usually this goal will jump out at you from the page.
+
+It is the one goal that excites you and motivates you more than anything else.
 
 
 <a id="sec-003519"></a>
@@ -259,7 +305,7 @@ Is he or she competent? Answering these questions usually takes much more time, 
 
 If you are a warm and trusting person, the kind of person whom people like and enjoy and want to be around, you will have a lot of friends and good relationships. But if you get the reputation for not being particularly good at your work, or even worse, for being incompetent and undependable, people may still like you, but they will also actually pity you. The reason is that people instinctively recognize that a nice person who is not very good at their work has a limited future.
 
-He will not be successful over the long term. Instead of being a winner, he will be a non-winner, a person who will not achieve very much in life. Perhaps the most important ability in the world of work is dependability. This means that people can absolutely depend on you to do an excellent job on time every time.
+He will not be successful over the long term. Instead of being a winner, he will be a non-winner, a person who will not achieve very much in life. Perhaps, the most important ability in the world of work is dependability. This means that people can absolutely depend on you to do an excellent job on time every time.
 
 People who participate in karaoke have an expression showing up. The question they ask about a performer is, how is he or she showing up? This is a description of the totality of the performance of the karaoke singer. In life we are always being judged and evaluated by other people, just as we are always judging and evaluating others.
 
@@ -269,11 +315,13 @@ You want people to think about you and talk about you as an excellent person, as
 
 So the question for you is, how are you showing up? The great pandemic. A pandemic is an illness or malady that is spread over a large area and affects an enormous number of people. Today there is a pandemic of poor performance sweeping across the Western world.
 
-It is undermining productivity, weakening character, destroying hopes and dreams for the future, cutting off people’s desires for achievement and advancement, and keeping millions of people, especially young people, working at lower incomes than they are truly capable of earning. This pandemic can be called the curse of electronic interruptions. According to Robert Half International, fully 50% of each workday is wasted in activities that contribute no value whatever to the company and have nothing at all to do with the work at hand. Much of this wasted time is caused by the inability of people to start and work productively all day long.
+It is undermining productivity, weakening character, destroying hopes and dreams for the future, cutting off people’s desires for achievement and advancement, and keeping millions of people, especially young people, working at lower incomes than they are truly capable of earning. This pandemic can be called the curse of electronic interruptions. According to Robert Half International, fully 50% of each workday is wasted in activities that contribute no value whatever to the company and have nothing at all to do with the work at hand.
 
-Most people in their 20s and 30s came into the workplace in the age of the internet. Today we have Facebook, YouTube, Google, LinkedIn and Twitter, and smartphones with more than 1,200,000 apps as of 2016. Most of these apps are different forms of entertainment, fun, enjoyment and time wastage. It is estimated that the average adult today spends three and a half hours checking apps, email and text messages.
+Much of this wasted time is caused by the inability of people to start and work productively all day long. Most people in their 20s and 30s came into the workplace in the age of the internet. Today we have Facebook, YouTube, Google, LinkedIn and Twitter, and smartphones with more than 1,200,000 apps as of 2016. Most of these apps are different forms of entertainment, fun, enjoyment and time wastage.
 
-Without them even knowing what is happening, people addicted to these distro- distractions will find their hopes and dreams for the future, slowly ebbing away. As they spend more time reacting to electronic interruptions, they do less work and they do it poorly because they are continually being distracted. Your world of work. How is it that so many people are performing and earning far below their potential?
+It is estimated that the average adult today spends three and a half hours checking apps, email and text messages. Without them even knowing what is happening, people addicted to these distro- distractions will find their hopes and dreams for the future, slowly ebbing away. As they spend more time reacting to electronic interruptions, they do less work and they do it poorly because they are continually being distracted. Your world of work.
+
+How is it that so many people are performing and earning far below their potential?
 
 
 <a id="sec-004524"></a>
@@ -303,9 +351,11 @@ By the end of the day, your brain is so tired that you have difficulty making ev
 
 When you took your job, you entered into an agreement to produce a certain quality and quantity of work in exchange for a certain quantity of money and benefits. You made a promise, and you have a promise to keep. You made a contract, and you’re required to comply with the terms of your contract. When you think of work like this, it can change your whole perspective.
 
-Every minute of every day at work, ask these questions. Why am I on the payroll? What have I been hired to accomplish? Is what I’m doing right now the reason I am on the payroll?
+Every minute of every day at work, ask these questions. Why am. I on the payroll? What have.
 
-Is what I’m doing the highest and best use of my time? If you’re not doing the most important things that you have been hired to do, stop whatever
+I been hired to accomplish? Is what. I’m doing right now the reason. I am on the payroll?
+
+Is what. I’m doing the highest and best use of my time? If you’re not doing the most important things that you have been hired to do, stop whatever
 
 
 <a id="sec-005028"></a>
@@ -317,25 +367,25 @@ When you go to work, say hello to your coworkers and then begin work immediately
 
 Meanwhile, you have things you have to get done, and you are on a tight deadline. Usually the time wasters, the people who do not value their time or the time of anyone else, will start to find you uninteresting and will spend more and more time with other people who have more time to waste. Here’s a simple formula for work time. Don’t check your email in the morning.
 
-Check your email only twice a day, at perhaps 11 a.m. and 3 p.m. In between, turn off your email. Turn off all the sounds, bells and rings that remind you that there are incoming messages. Remember, every time you hear one of those sounds, you get a dopamine jolt, distracting you from your work and decreasing your productivity. Leave them off.
+Check your email only twice a day, at perhaps 11 a.m. and 3 p.m. In between, turn off your email. Turn off all the sounds, bells and rings that remind you that there are incoming messages. Remember, every time you hear one of those sounds, you get a dopamine jolt, distracting you from your work and decreasing your productivity.
 
-Focus and concentration. The second keyword for high productivity is focus. Your ability to focus single-mindedly on your most important task can do more to help you move ahead rapidly in your career than perhaps any other factor. Electronic interruptions break your focus and distract you from your work, the results you need to get to be successful.
+Leave them off. Focus and concentration. The second keyword for high productivity is focus. Your ability to focus single-mindedly on your most important task can do more to help you move ahead rapidly in your career than perhaps any other factor.
 
-Many people have been seduced by the myth of multitasking. They think that they can work on several jobs at a time, but the experts have found that multitasking is really just task shifting, going back and forth among various tasks, seldom focusing on anyone for very long. Even worse, you require about 17 minutes to refocus on an important task after being distracted for any reason. The third keyword for improving productivity is concentration.
+Electronic interruptions break your focus and distract you from your work, the results you need to get to be successful. Many people have been seduced by the myth of multitasking. They think that they can work on several jobs at a time, but the experts have found that multitasking is really just task shifting, going back and forth among various tasks, seldom focusing on anyone for very long. Even worse, you require about 17 minutes to refocus on an important task after being distracted for any reason.
 
-All important work requires single-minded concentration for a sustained period of time until the work is done. This is often called concentrated mind activity, CMA. Fortunately, concentration is a skill or a habit that you can learn with practice and repetition until it becomes easy and automatic. The big payoffs.
+The third keyword for improving productivity is concentration. All important work requires single-minded concentration for a sustained period of time until the work is done. This is often called concentrated mind activity, CMA. Fortunately, concentration is a skill or a habit that you can learn with practice and repetition until it becomes easy and automatic.
 
-There are two big payoffs for practicing clarity, focus and concentration all day long at work. The first payoff is that you will become one of the most productive and respected people in your organization. You’ll get much more done, sooner and of higher quality. More and more important assignments will be given to you.
+The big payoffs. There are two big payoffs for practicing clarity, focus and concentration all day long at work. The first payoff is that you will become one of the most productive and respected people in your organization. You’ll get much more done, sooner and of higher quality.
 
-You will gain the attention and respect of your superiors. You will be paid more and promoted faster. Doors of opportunity will open up for you and sometimes far more rapidly than you can now imagine. The second big payoff for practicing clarity, focus and concentration is the way you feel about yourself.
+More and more important assignments will be given to you. You will gain the attention and respect of your superiors. You will be paid more and promoted faster. Doors of opportunity will open up for you and sometimes far more rapidly than you can now imagine.
 
-All of your work life and most of your personal life revolves around the starting and completing of tasks. Each time you start and complete a task of any size, you get a burst of energy, enthusiasm and self-esteem. You feel better about yourself. You feel happier.
+The second big payoff for practicing clarity, focus and concentration is the way you feel about yourself. All of your work life and most of your personal life revolves around the starting and completing of tasks. Each time you start and complete a task of any size, you get a burst of energy, enthusiasm and self-esteem. You feel better about yourself.
 
-Your brain releases endorphins, nature’s happy drug, and you feel more creative, more calm, more confident and more personable toward others. Feel like a winner. Here’s the formula. Start every day with a list of tasks that you need to complete.
+You feel happier. Your brain releases endorphins, nature’s happy drug, and you feel more creative, more calm, more confident and more personable toward others. Feel like a winner. Here’s the formula.
 
-Minimize the task from the most important to the least important. Start work on your most important task and discipline yourself to work on it non-stop until it’s complete. Whenever you complete any task, you get a jolt of endorphin, which makes you happier and boosts your feelings of self-esteem and personal pride. When you complete a high value task, you get an even greater feeling of happiness and self-esteem.
+Start every day with a list of tasks that you need to complete. Minimize the task from the most important to the least important. Start work on your most important task and discipline yourself to work on it non-stop until it’s complete. Whenever you complete any task, you get a jolt of endorphin, which makes you happier and boosts your feelings of self-esteem and personal pride.
 
-When you complete your most important task, like finishing a major assignment at work, you experience a burst of exhilaration that causes you to feel wonderful about yourself. When you develop the habit of starting and completing your most important tasks, you put your entire life and career onto the fast track. The opposite of this feeling of happiness and personal pride, which comes only from task completion, is the feeling of frustration and dissatisfaction that comes from working hour after hour and feeling that you are accomplishing very little.
+When you complete a high value task, you get an even greater feeling of happiness and self-esteem. When you complete your most important task, like finishing a major assignment at work, you experience a burst of exhilaration that causes you to feel wonderful about yourself. When you develop the habit of starting and completing your most important tasks, you put your entire life and career onto the fast track. The opposite of this feeling of happiness and personal pride, which comes only from task completion, is the feeling of frustration and dissatisfaction that comes from working hour after hour and feeling that you are accomplishing very little.
 
 Remember, results are everything.
 
@@ -349,23 +399,25 @@ You will put yourself on the side of the angels. Make a list. The first time man
 
 When you create a list of everything you have to do the next day, your subconscious mind will then work on that list all night long while you sleep. Often, you’ll wake up in the morning with ideas and insights on how to do the job better and in less time. If something new comes up, write it down on the list. Use to do anything, even make a phone call or send in an email until you write it down.
 
-When you write things down on a list, you can see clearly what is more important and what is less important. According to Alan Lakin, a time management expert, you’ll save 25% of your time the very first day you begin working from a list and stick with that list. In a matter of three or four weeks, you will develop that habit of making lists for your day and for every project or every multi-task activity that you have to do. Your productivity will increase immediately.
+When you write things down on a list, you can see clearly what is more important and what is less important. According to Alan Lakin, a time management expert, you’ll save 25% of your time the very first day you begin working from a list and stick with that list. In a matter of three or four weeks, you will develop that habit of making lists for your day and for every project or every multi-task activity that you have to do.
 
-Set clear priorities. Prioritize your list before you begin work. Take the time to stand back and think about what you have to do, recognizing that you will never be able to get everything done. No matter how productive you are, there will always be too many tasks for you to complete.
+Your productivity will increase immediately. Set clear priorities. Prioritize your list before you begin work. Take the time to stand back and think about what you have to do, recognizing that you will never be able to get everything done.
 
-You’re always going to have to choose which tasks to do first, which task to do second, and which task to do not at all. Apply the 80-20 rule to your list. As you recall, this rule says that 20% of your activities will account for 80% of your results. If you have a list of 10 activities planned for a particular day, two of those activities will be worth more than the other eight put together.
+No matter how productive you are, there will always be too many tasks for you to complete. You’re always going to have to choose which tasks to do first, which task to do second, and which task to do not at all. Apply the 80-20 rule to your list. As you recall, this rule says that 20% of your activities will account for 80% of your results.
 
-Sometimes, of course, there will be a single task that is more important than all the others put together. Remember, it’s not the amount of time that you put in, it’s the value of the work that you do and accomplish in that time. Your job is to focus on accomplishments rather than activities. Allocate your time based on the value of the task and do the most important first.
+If you have a list of 10 activities planned for a particular day, two of those activities will be worth more than the other eight put together. Sometimes, of course, there will be a single task that is more important than all the others put together. Remember, it’s not the amount of time that you put in, it’s the value of the work that you do and accomplish in that time. Your job is to focus on accomplishments rather than activities.
 
-The ABCDE method. Practice the ABCDE method. Before you start your workday, go through your list and write one of these five letters before each task or activity. Think about the likely consequences of completing or not completing each task.
+Allocate your time based on the value of the task and do the most important first. The ABCDE method. Practice the ABCDE method. Before you start your workday, go through your list and write one of these five letters before each task or activity.
 
-Something is unimportant to the degree to which it has low or no potential consequences. Consequences are everything. Successful, highly productive people spent most of their time working on activities that have big potential consequences. Successful people often work harder and longer hours, but they spent too much of their time working on activities that have few or no consequences at all.
+Think about the likely consequences of completing or not completing each task. Something is unimportant to the degree to which it has low or no potential consequences. Consequences are everything. Successful, highly productive people spent most of their time working on activities that have big potential consequences.
 
-It doesn’t really matter if they complete them or not. Put the letters A, B, C, D, or E next to each task on your list. An A activity is something that you must do. It has serious potential consequences for completion or non-completion.
+Successful people often work harder and longer hours, but they spent too much of their time working on activities that have few or no consequences at all. It doesn’t really matter if they complete them or not. Put the letters A, B, C, D, or E next to each task on your list. An A activity is something that you must do.
 
-If you don’t do this task or get it down on time, there are going to be serious problems. These are the most important things that you do each day. Put a B in front of activities that you should do, activities that have mild potential consequences if they are done or not done. You need to get to these tasks sooner or later, but they are not as important as your A tasks. is that you never do a B task when there is an A task left undone.
+It has serious potential consequences for completion or non-completion. If you don’t do this task or get it down on time, there are going to be serious problems. These are the most important things that you do each day. Put a B in front of activities that you should do, activities that have mild potential consequences if they are done or not done.
 
-A C task is something that would be nice to do, but it has no consequences at all one way or the other. Checking your email, falling home, having coffee with a co-worker are all activities that are nice to do, but it does not matter at all whether you do them or not. Select your tasks. Unfortunately, the great majority of people spent most of the time doing B and C tasks, and they think that because
+You need to get to these tasks sooner or later, but they are not as important as your A tasks. is that you never do a B task when there is an A task left undone. A C task is something that would be nice to do, but it has no consequences at all one way or the other. Checking your email, falling home, having coffee with a co-worker are all activities that are nice to do, but it does not matter at all whether you do them or not.
+
+Select your tasks. Unfortunately, the great majority of people spent most of the time doing B and C tasks, and they think that because
 
 
 <a id="sec-010032"></a>
@@ -389,39 +441,41 @@ You can never get them back, but if you invest time and money, you can earn a re
 
 If you then reinvest your higher income back into yourself, you will soon be one of the most valuable and highest paid people in your business. The law of three. Practice the law of three in your work. This law says that no matter how many tasks you have to complete in your work, only three of those tasks will account for 90% of the value of your contribution to your company and to yourself.
 
-When working with my clients, I ask them to make a list of everything they did in the course of a week or a month. They come back to me with 20 or 30, sometimes even 50 tasks that they felt were part of their job description. Then I would explain to them that there are only three things they do in the course of their workday that account for 90% of the value of everything they do. This means that everything you do that is not one of those three main tasks falls into the bottom 10% in terms of value.
+When working with my clients, I ask them to make a list of everything they did in the course of a week or a month. They come back to me with 20 or 30, sometimes even 50 tasks that they felt were part of their job description. Then. I would explain to them that there are only three things they do in the course of their workday that account for 90% of the value of everything they do.
 
-The key to increasing your productivity is for you to identify your three most important tasks and then work on them exclusively while ignoring all the rest. Start by making a list of everything you do in the course of your work. To identify your three most important tasks, take a look at your list and then ask the three magic questions. Number one, if I could only do one task on this list all day long, which one activity would contribute the greatest value to my work and to my company?
+This means that everything you do that is not one of those three main tasks falls into the bottom 10% in terms of value. The key to increasing your productivity is for you to identify your three most important tasks and then work on them exclusively while ignoring all the rest. Start by making a list of everything you do in the course of your work. To identify your three most important tasks, take a look at your list and then ask the three magic questions.
 
-Whatever your answer is to that question, put a circle around it. Magic
+Number one, if. I could only do one task on this list all day long, which one activity would contribute the greatest value to my work and to my company? Whatever your answer is to that question, put a circle around it. Magic
 
 
 <a id="sec-010534"></a>
 ### ⏱️ [01:05:34 - 01:10:35]
 
-question number two is if I could only do two things on this list all day long, what would be the second activity that would enable me to contribute the greatest value to my business or my work? The answer to this question is not as easy as the first, but it’s usually quite clear. Question number three, if I could only do three things on this list all day long, what would be the third activity that would enable me to contribute the most value?
+question number two is if. I could only do two things on this list all day long, what would be the second activity that would enable me to contribute the greatest value to my business or my work? The answer to this question is not as easy as the first, but it’s usually quite clear. Question number three, if.
 
-When you ask yourself these questions and become clear about the answers, you’ll be astonished to see how true this formula is. If you just did these three things all day long, you would probably transform your career from the first day. Here are four corollaries of the law of three. Number one, do fewer things.
+I could only do three things on this list all day long, what would be the third activity that would enable me to contribute the most value? When you ask yourself these questions and become clear about the answers, you’ll be astonished to see how true this formula is. If you just did these three things all day long, you would probably transform your career from the first day. Here are four corollaries of the law of three.
 
-You will never get caught up. You will never be able to do everything on your list. To get control of your life, you must stop doing an enormous number of small things. Number two, do more important things.
+Number one, do fewer things. You will never get caught up. You will never be able to do everything on your list. To get control of your life, you must stop doing an enormous number of small things.
 
-Do the top three tasks that you have identified and nothing else until you have no more of these major tasks left to do. Number three, do your most important tasks more of the time, preferably all day long. The more time you spend doing the most important things, the more productive you will be on the outside and the happier you will feel on the inside. And number four corollary is get better at your most important tasks.
+Number two, do more important things. Do the top three tasks that you have identified and nothing else until you have no more of these major tasks left to do. Number three, do your most important tasks more of the time, preferably all day long. The more time you spend doing the most important things, the more productive you will be on the outside and the happier you will feel on the inside.
 
-Continual self-improvement in the area of your most important tasks is the best investment that you can make. It enables you to dramatically increase your productivity, performance and output and to get more done in a shorter period of time. Resolve today that you are going to earn the reputation as the hardest working person in your organization. But don’t tell anybody.
+And number four corollary is get better at your most important tasks. Continual self-improvement in the area of your most important tasks is the best investment that you can make. It enables you to dramatically increase your productivity, performance and output and to get more done in a shorter period of time. Resolve today that you are going to earn the reputation as the hardest working person in your organization.
 
-Keep it to yourself. Imagine that there is a contest for the most productive person in your business, but you are the only person who knows about the contest. Instead of telling anybody, let people reach their own conclusions by watching you at work. And remember, work all the time you work.
+But don’t tell anybody. Keep it to yourself. Imagine that there is a contest for the most productive person in your business, but you are the only person who knows about the contest. Instead of telling anybody, let people reach their own conclusions by watching you at work.
 
-Now here are three action exercises that you can practice. Number one, make a list every day of everything that you plan to do that day. Number two, set priorities on your list and start work on the one activity that represents the most valuable use of your time. And number three, discipline yourself to start on your most important task and to work single-mindedly on that one task until it is complete.
+And remember, work all the time you work. Now here are three action exercises that you can practice. Number one, make a list every day of everything that you plan to do that day. Number two, set priorities on your list and start work on the one activity that represents the most valuable use of your time.
 
-Chapter three, income improvement time. Claude M. Bristol once wrote, thought is the original source of all wealth, all success, all material gain, all great discoveries and inventions, and of all achievement. Everyone wants to earn more money, to be highly paid, and to achieve financial independence in his or her career.
+And number three, discipline yourself to start on your most important task and to work single-mindedly on that one task until it is complete. Chapter three, income improvement time. Claude M. Bristol once wrote, thought is the original source of all wealth, all success, all material gain, all great discoveries and inventions, and of all achievement.
 
-The way you think about your income and how you can increase it is one of the most important mental skills you can develop. Sometimes I open a seminar by asking what is your most important financial asset? The audience usually thinks about this question for a while and then throws out some answers such as my house, my bank account, my business. Then I explain that your most valuable financial asset is your earning ability.
+Everyone wants to earn more money, to be highly paid, and to achieve financial independence in his or her career. The way you think about your income and how you can increase it is one of the most important mental skills you can develop. Sometimes. I open a seminar by asking what is your most important financial asset?
 
-This is defined as your ability to get results that people will pay you for. You could lose all your money through no fault of your own. As long as you are left with your earning ability, you could go back into the marketplace and earn it all back again. This is what many successful people do throughout their lifetimes.
+The audience usually thinks about this question for a while and then throws out some answers such as my house, my bank account, my business. Then. I explain that your most valuable financial asset is your earning ability. This is defined as your ability to get results that people will pay you for.
 
-Your earning ability is the total accumulation of all your knowledge, skills, experience, study, hard work, and results you have acquired over the course of your life and your career. It has taken you your whole life to develop, appreciating or depreciating. Because your earning ability is an asset, like any other asset, it can be either appreciating or depreciating in value over time. It can be appreciating when you are continually upgrading your knowledge and skills, making yourself become more and more valuable, doing more of those tasks that people value highly and are willing to pay you for.
+You could lose all your money through no fault of your own. As long as you are left with your earning ability, you could go back into the marketplace and earn it all back again. This is what many successful people do throughout their lifetimes. Your earning ability is the total accumulation of all your knowledge, skills, experience, study, hard work, and results you have acquired over the course of your life and your career.
 
-Your earning ability can be a depreciating asset if you are not continually upgrading your skills and abilities through study and hard work on yourself. But because of rapid change in our economy and the
+It has taken you your whole life to develop, appreciating or depreciating. Because your earning ability is an asset, like any other asset, it can be either appreciating or depreciating in value over time. It can be appreciating when you are continually upgrading your knowledge and skills, making yourself become more and more valuable, doing more of those tasks that people value highly and are willing to pay you for. Your earning ability can be a depreciating asset if you are not continually upgrading your skills and abilities through study and hard work on yourself.
+
+But because of rapid change in our economy and the
 
 
 <a id="sec-011035"></a>
@@ -439,15 +493,15 @@ They read, study and practice new ideas. They never let up the pressure on thems
 
 Your only personal source of sustainable competitive advantage of keeping yourself at a high level of employability and income is your ability to learn and practice new skills that people need to get more and better results. Ericsson found that high performers in every field spent more time practicing and upgrading their skills than low performers. This difference accounted for most of the large income disparities we see in our society. Identify your most important skill.
 
-Ericsson investigated executives who started work with large companies and who, over the years, moved into high positions of management, sometimes becoming the CEO or president, where they earned as much as 301 times, according to 2016 figures, the average income of the people who worked in their companies. He found that most of these people practiced a simple strategy that they had used throughout their careers. As soon as they started at their first job, they went to their boss and asked him, what one skill, if I was really good at it, would help me to make a more valuable contribution at my job?
+Ericsson investigated executives who started work with large companies and who, over the years, moved into high positions of management, sometimes becoming the CEO or president, where they earned as much as 301 times, according to 2016 figures, the average income of the people who worked in their companies. He found that most of these people practiced a simple strategy that they had used throughout their careers. As soon as they started at their first job, they went to their boss and asked him, what one skill, if.
 
-The boss would tell the employee that he was really good at marketing or team building or making presentations or reading financial statements or something else. He would be able to do his job much better and make a more valuable contribution. The new employee would take that advice, like a dog, catching a stick and running with it, and begin work immediately to develop that skill. He would set the development of this skill as a goal and create a learning plan.
+I was really good at it, would help me to make a more valuable contribution at my job? The boss would tell the employee that he was really good at marketing or team building or making presentations or reading financial statements or something else. He would be able to do his job much better and make a more valuable contribution. The new employee would take that advice, like a dog, catching a stick and running with it, and begin work immediately to develop that skill.
 
-He would make a list of all the things that he could do to become better in that area. He would find out the books that he should read, the courses and workshops he should attend, and the audio programs he could listen to on the way to work. The magic number. Here’s the magic number.
+He would set the development of this skill as a goal and create a learning plan. He would make a list of all the things that he could do to become better in that area. He would find out the books that he should read, the courses and workshops he should attend, and the audio programs he could listen to on the way to work. The magic number.
 
-Ericsson found that these top people invested two hours per day, five days per week to learn new skills. There are 168 hours in each week, 24 hours times 7 days. By investing 10 of those hours… on average, people starting off at the bottom of their corporations, at the beginning of their careers, were able to continually move up faster and faster. As they develop more knowledge and skills, they continue to increase their earning ability, their ability to get results.
+Here’s the magic number. Ericsson found that these top people invested two hours per day, five days per week to learn new skills. There are 168 hours in each week, 24 hours times 7 days. By investing 10 of those hours… on average, people starting off at the bottom of their corporations, at the beginning of their careers, were able to continually move up faster and faster.
 
-While their friends were out socializing, partying, and watching sports on television, these high achievers were carving out two hours each day, five days each week, to get better and better at their work. Albert Einstein wrote that compounding is the most powerful force
+As they develop more knowledge and skills, they continue to increase their earning ability, their ability to get results. While their friends were out socializing, partying, and watching sports on television, these high achievers were carving out two hours each day, five days each week, to get better and better at their work. Albert Einstein wrote that compounding is the most powerful force
 
 
 <a id="sec-011536"></a>
@@ -457,25 +511,25 @@ in the universe. This applies to money and to skills as well. What these success
 
 Over the years, I have found that many people are only one skill away from doubling their income. If they could develop one more key skill, leveraged times the skills and experience they already had, they could be twice as valuable to their company and be paid twice as much. See yourself as self-employed. The top 3% of people in every industry accept high levels of responsibility for themselves, for everything they do and for everything they become.
 
-As a result, they view themselves as self-employed. They act as if they own the company they work in. Robert Reich, a former U. S. Secretary of Labor, said that when he went into a company, he could immediately determine the type of culture the company had developed. He said that it was contained in the pronouns the employees used when they talked about the company and themselves.
+As a result, they view themselves as self-employed. They act as if they own the company they work in. Robert Reich, a former U. S.
 
-In the top companies, people would use the words we and us and our. In the top companies, people felt and acted as if the company belonged to them. They were fully engaged. They accepted high levels of responsibility for the company’s results.
+Secretary of Labor, said that when he went into a company, he could immediately determine the type of culture the company had developed. He said that it was contained in the pronouns the employees used when they talked about the company and themselves. In the top companies, people would use the words we and us and our. In the top companies, people felt and acted as if the company belonged to them.
 
-In the lower performing companies, people used the pronouns they, them, and their. They viewed the company as something completely apart from themselves, an entity that provided them with a job and a paycheck, and that was all. This is why it is estimated that fully 65% of employees today are officially disengaged from their work. They’re going through the motions each day, putting in minimum effort, reading the want ads on the Internet, and dreaming about doing different work.
+They were fully engaged. They accepted high levels of responsibility for the company’s results. In the lower performing companies, people used the pronouns they, them, and their. They viewed the company as something completely apart from themselves, an entity that provided them with a job and a paycheck, and that was all.
 
-You are the president, but not the top people. The top people realize that they are the chief executive officers, the presidents of their own careers. They see themselves as presidents of a company called U, Inc. Earl night ago once said, the worst mistake you could ever make is to think that you work for anyone else but yourself.
+This is why it is estimated that fully 65% of employees today are officially disengaged from their work. They’re going through the motions each day, putting in minimum effort, reading the want ads on the Internet, and dreaming about doing different work. You are the president, but not the top people. The top people realize that they are the chief executive officers, the presidents of their own careers.
 
-You are always self-employed. No matter who signed your paycheck, you’re always on your own payroll. You’re always working for yourself. You are the president of a personal services corporation with one employee yourself.
+They see themselves as presidents of a company called U, Inc. Earl night ago once said, the worst mistake you could ever make is to think that you work for anyone else but yourself. You are always self-employed. No matter who signed your paycheck, you’re always on your own payroll.
 
-You have only one product to sell in a competitive market, your own personal services. Your rewards in life and your career will be determined by the value of your services to others, by your ability to contribute to your company, and by your ability to add value continuously throughout your career. What determines your income? Your income will largely be determined by three factors.
+You’re always working for yourself. You are the president of a personal services corporation with one employee yourself. You have only one product to sell in a competitive market, your own personal services. Your rewards in life and your career will be determined by the value of your services to others, by your ability to contribute to your company, and by your ability to add value continuously throughout your career.
 
-The work you do, how well you do it, and the difficulty of replacing you. If you’re not happy with the amount that you are being paid, you must do different work or you must do your current work better, and you must become indispensable to your company so that they would have tremendous difficulty finding someone to replace you. Because of these three factors, unemployment or underemployment, high or low income, and earning less than your true potential are largely self-determined personal choices. Over time, each person largely decides his or her own income.
+What determines your income? Your income will largely be determined by three factors. The work you do, how well you do it, and the difficulty of replacing you. If you’re not happy with the amount that you are being paid, you must do different work or you must do your current work better, and you must become indispensable to your company so that they would have tremendous difficulty finding someone to replace you.
 
-Each person decides how much he or she is going to earn. Each person decides their own financial future by the things they do and by the things that they fail to do. Ludwig von Mises, the great economist wrote, every action has a consequence or consequences. Your ability to accurately predict the consequences of your actions is a mark of the superior thinker.
+Because of these three factors, unemployment or underemployment, high or low income, and earning less than your true potential are largely self-determined personal choices. Over time, each person largely decides his or her own income. Each person decides how much he or she is going to earn. Each person decides their own financial future by the things they do and by the things that they fail to do.
 
-Von Mises then pointed out that anything that has a consequence can be considered an action, even an inaction, even doing nothing in certain circumstances. Just as there are things that you do that have consequences or results in your life, the things that you don’t do can have consequences as well, and sometimes your inactions have greater consequences than you can imagine. A person who comes to work at the last minute spends most of the day socializing with their friends, takes long coffee breaks and lunch hours and leaves at the earliest possible minute, is engaging in actions that will soon have negative consequences for his career.
+Ludwig von Mises, the great economist wrote, every action has a consequence or consequences. Your ability to accurately predict the consequences of your actions is a mark of the superior thinker. Von Mises then pointed out that anything that has a consequence can be considered an action, even an inaction, even doing nothing in certain circumstances. Just as there are things that you do that have consequences or results in your life, the things that you don’t do can have consequences as well, and sometimes your inactions have greater consequences than you can imagine.
 
-Failing to upgrade your skills, to use your time well, or to work hard at your most important tasks are inactions that can have enormous negative consequences as
+A person who comes to work at the last minute spends most of the day socializing with their friends, takes long coffee breaks and lunch hours and leaves at the earliest possible minute, is engaging in actions that will soon have negative consequences for his career. Failing to upgrade your skills, to use your time well, or to work hard at your most important tasks are inactions that can have enormous negative consequences as
 
 
 <a id="sec-012040"></a>
@@ -513,25 +567,27 @@ Set a schedule to study for a certain period of time each day and discipline you
 <a id="sec-012541"></a>
 ### ⏱️ [01:25:41 - 01:30:43]
 
-price of success in advance over and over for years if necessary to get to the top of your field. The good news is that you can learn anything you need to learn to achieve any goal that you can set for yourself, and the more you learn the more you can learn. When you concentrate on learning new subjects, you activate more and more of your brainpower, your ganglia and neurons which are connected to hundreds and thousands of other neurons. As a result, you get smarter and smarter.
+price of success in advance over and over for years if necessary to get to the top of your field. The good news is that you can learn anything you need to learn to achieve any goal that you can set for yourself, and the more you learn the more you can learn. When you concentrate on learning new subjects, you activate more and more of your brainpower, your ganglia and neurons which are connected to hundreds and thousands of other neurons.
 
-Your mind functions faster and with greater clarity. You can then learn even more subjects faster and faster. When you become a lifelong learner, your potential has no limit. Now here are three action exercises for you.
+As a result, you get smarter and smarter. Your mind functions faster and with greater clarity. You can then learn even more subjects faster and faster. When you become a lifelong learner, your potential has no limit.
 
-Number one, develop the one skill that if you are excellent at it would enable you to make a more valuable contribution than any other skill. Number two, set it as a goal to develop the skill. Create a learning plan to attain the skill and then work single-mindedly to master this one skill no matter how long it takes. And number three, set aside a minimum of ten hours per week during which you learn, study and develop your most important skill.
+Now here are three action exercises for you. Number one, develop the one skill that if you are excellent at it would enable you to make a more valuable contribution than any other skill. Number two, set it as a goal to develop the skill. Create a learning plan to attain the skill and then work single-mindedly to master this one skill no matter how long it takes.
 
-Chapter four, spare time. Robert Collier wrote, all riches have their origin in mind. Wealth is in ideas, not money. One of the most important times of your life is a time period that few people think of.
+And number three, set aside a minimum of ten hours per week during which you learn, study and develop your most important skill. Chapter four, spare time. Robert Collier wrote, all riches have their origin in mind. Wealth is in ideas, not money.
 
-Your spare time. There are 168 hours in a week. The average person works eight hours per day, 40 hours a week, sleeps eight hours per day, 56 hours a week and dresses, eats and travels to work or to shopping four hours per day, 28 hours a week. These tasks use up 124 hours, leaving 44 hours a week as spare time.
+One of the most important times of your life is a time period that few people think of. Your spare time. There are 168 hours in a week. The average person works eight hours per day, 40 hours a week, sleeps eight hours per day, 56 hours a week and dresses, eats and travels to work or to shopping four hours per day, 28 hours a week.
 
-Unfortunately, the average person spends most of this time socializing, watching television or in entertainment activities of some kind, such as social media, television, conversations with friends and other leisure time activities. But what you do with your spare time can make all the difference between success and failure in life. You can spend it on pleasurable activities or you can invest it in your future. The byproducts of life.
+These tasks use up 124 hours, leaving 44 hours a week as spare time. Unfortunately, the average person spends most of this time socializing, watching television or in entertainment activities of some kind, such as social media, television, conversations with friends and other leisure time activities. But what you do with your spare time can make all the difference between success and failure in life. You can spend it on pleasurable activities or you can invest it in your future.
 
-Many manufacturers, especially those using large quantities of raw materials and natural resources in the production process, throw off large quantities of byproducts. Surrounding many factories, you will see large slag heaps of byproducts that eventually must be disposed of in some way. Over the years, with advances in science, these byproducts are often turned into new products to be sold. Many byproducts that were once thrown away can now be converted into useful products, thereby using up more and more of the byproduct, leaving less and less to be disposed of.
+The byproducts of life. Many manufacturers, especially those using large quantities of raw materials and natural resources in the production process, throw off large quantities of byproducts. Surrounding many factories, you will see large slag heaps of byproducts that eventually must be disposed of in some way. Over the years, with advances in science, these byproducts are often turned into new products to be sold.
 
-Sometimes the byproduct of a manufacturing process turns out to be more profitable than the main product being produced. For decades, the Bayer Chemical Corporation of Germany created large quantities of acetyl salicylic acid in the process of manufacturing other chemical products. This acid in crystal powder was piled in large heaps outside the factory before being hauled away for disposal. Over a period of months, a Bayer executive, looking out his window, noticed that many of the workers arriving on Monday morning were stopping to scoop up and gulp down a handful of this crystalline powder.
+Many byproducts that were once thrown away can now be converted into useful products, thereby using up more and more of the byproduct, leaving less and less to be disposed of. Sometimes the byproduct of a manufacturing process turns out to be more profitable than the main product being produced. For decades, the Bayer Chemical Corporation of Germany created large quantities of acetyl salicylic acid in the process of manufacturing other chemical products. This acid in crystal powder was piled in large heaps outside the factory before being hauled away for disposal.
 
-When the workers were asked the reason for this, they replied that this powder was a great painkiller that took away headaches and muscular pains that they got from overworking and overdrinking on the weekends. This led to the discovery of the remarkable properties of what Bayer trademarked as Today, bioaspirin is one of the most popular and profitable all-purpose, over-the-counter remedies in the world. Bioaspirin has made a fortune for the company, many billions of dollars, and perhaps more than it was earning from the original chemical of which the aspirin was a byproduct.
+Over a period of months, a Bayer executive, looking out his window, noticed that many of the workers arriving on Monday morning were stopping to scoop up and gulp down a handful of this crystalline powder. When the workers were asked the reason for this, they replied that this powder was a great painkiller that took away headaches and muscular pains that they got from overworking and overdrinking on the weekends. This led to the discovery of the remarkable properties of what Bayer trademarked as Today, bioaspirin is one of the most popular and profitable all-purpose, over-the-counter remedies in the world.
 
-Your Personal Byproduct In your life, your spare time is a byproduct as well. By using this spare time intelligently, rather than wasting it or discarding it, you can become more valuable, be paid more money, and even become one of the top people in your field. Spare time is the real byproduct of your busy life.
+Bioaspirin has made a fortune for the company, many billions of dollars, and perhaps more than it was earning from the original chemical of which the aspirin was a byproduct. Your Personal Byproduct. In your life, your spare time is a byproduct as well. By using this spare time intelligently, rather than wasting it or discarding it, you can become more valuable, be paid more money, and even become one of the top people in your field.
+
+Spare time is the real byproduct of your busy life.
 
 
 <a id="sec-013043"></a>
@@ -545,21 +601,25 @@ When you continue with this calculation, you find that the average income of the
 
 All over the world, this principle holds true. The people in the top 20% earn, on average, 16 times the average pay of the bottom 80%. The people in the top 20% of the top 20%, the top 4%, earn much, much more. My own story.
 
-When I was 24 years old, with holes in my shoes and struggling to get started in direct commission sales, another salesman asked me if I’d ever heard about the 80-20 rule, that the top 20% in sales earned 80% of the income. I had never heard that statistic, the Pareto Principle, before, but at that moment it suddenly occurred to me that I had a choice. I could earn a little, or I could earn a lot. At that time I was earning a little, very little, so I made a decision that I was going to do whatever it took to get into the top 20%.
+When. I was 24 years old, with holes in my shoes and struggling to get started in direct commission sales, another salesman asked me if. I’d ever heard about the 80-20 rule, that the top 20% in sales earned 80% of the income. I had never heard that statistic, the Pareto Principle, before, but at that moment it suddenly occurred to me that.
 
-That decision changed my life. From that day onward, I began asking successful people what they were doing differently from the way I did things. I read books written by successful people. I listened to audio programs on success and sales recorded by successful people.
+I had a choice. I could earn a little, or. I could earn a lot. At that time.
 
-I attended seminars given by successful people in which they explained exactly what they had done to start at the bottom and get to the top. One thing I learned was that everyone in the top 20% started in the bottom 20%. Everyone who was doing it well today was once doing poorly. Almost all rich people today were once poor.
+I was earning a little, very little, so. I made a decision that. I was going to do whatever it took to get into the top 20%. That decision changed my life.
 
-And the major turning point in the lives of the top people was when they made the decision to become one of the best people in their field. Resolve today to become a member of the top 20% in your field. If you’re already in the top 20%, decide to be in the top 10%. Set a clear goal for yourself.
+From that day onward, I began asking successful people what they were doing differently from the way. I did things. I read books written by successful people. I listened to audio programs on success and sales recorded by successful people.
 
-Remember you can’t hit a target that you can’t see. You can’t achieve a goal if you don’t know what it is. Whatever field you are in today, find out how much the top 20% are earning and then set their income level as your initial goal. Here’s the good news.
+I attended seminars given by successful people in which they explained exactly what they had done to start at the bottom and get to the top. One thing. I learned was that everyone in the top 20% started in the bottom 20%. Everyone who was doing it well today was once doing poorly.
 
-Once you’ve decided to get into the top 20% in your field, nothing and no one can stop you as long as you don’t quit. Your own determination is stronger than any other influence. Make a decision. I never met anyone anywhere in the world, and that’s 121 countries so far, who failed to get into the top 20% after they made that do or die decision to do whatever was necessary to achieve it.
+Almost all rich people today were once poor. And the major turning point in the lives of the top people was when they made the decision to become one of the best people in their field. Resolve today to become a member of the top 20% in your field. If you’re already in the top 20%, decide to be in the top 10%.
 
-And I never met anyone who got into the top 20% until they made that decision and then backed it up with months and even years of hard, hard work. The motto of the top person is, I will until. The problem in society today is not an income gap, instead it is a skills gap. The highest paid people have skills that are in demand.
+Set a clear goal for yourself. Remember you can’t hit a target that you can’t see. You can’t achieve a goal if you don’t know what it is. Whatever field you are in today, find out how much the top 20% are earning and then set their income level as your initial goal.
 
-The lowest paid workers do not.
+Here’s the good news. Once you’ve decided to get into the top 20% in your field, nothing and no one can stop you as long as you don’t quit. Your own determination is stronger than any other influence. Make a decision.
+
+I never met anyone anywhere in the world, and that’s 121 countries so far, who failed to get into the top 20% after they made that do or die decision to do whatever was necessary to achieve it. And. I never met anyone who got into the top 20% until they made that decision and then backed it up with months and even years of hard, hard work. The motto of the top person is, I will until.
+
+The problem in society today is not an income gap, instead it is a skills gap. The highest paid people have skills that are in demand. The lowest paid workers do not.
 
 
 <a id="sec-013544"></a>
@@ -599,37 +659,37 @@ You are surrounded by people in situations that waste your time and undermine yo
 
 all day long. Only by practicing rigorous self-discipline can you free yourself from these thieves of time. The seven major time wasters. There are seven major time wasters in the world of work, but you’ve been identified from hundreds of studies and opinion surveys.
 
-Your ability to deal with them effectively will largely determine how successful you will be in your career. Number one, telephone, email, and text interruptions. The first major time waster is interruption by telephone, email, and SMS. When the telephone rings or the email dings, your train of thought is broken and you’re distracted from the task at hand. When you hang up the phone or turn away from the screen, you find it hard to get back to the work in front of you.
+Your ability to deal with them effectively will largely determine how successful you will be in your career. Number one, telephone, email, and text interruptions. The first major time waster is interruption by telephone, email, and SMS. When the telephone rings or the email dings, your train of thought is broken and you’re distracted from the task at hand.
 
-There are seven ways to deal with telephone and email interruptions. Number one, use the telephone and email as business tools. Get on and off the telephone or computer fast. Don’t socialize when you are working.
+When you hang up the phone or turn away from the screen, you find it hard to get back to the work in front of you. There are seven ways to deal with telephone and email interruptions. Number one, use the telephone and email as business tools. Get on and off the telephone or computer fast.
 
-Make your calls or messages as efficient as possible. You must discipline yourself to use the telephone and the computer as business tools during the hours from nine to five. This applies to your smartphone as well. Number two, have your emails and calls screened or screened them yourself.
+Don’t socialize when you are working. Make your calls or messages as efficient as possible. You must discipline yourself to use the telephone and the computer as business tools during the hours from nine to five. This applies to your smartphone as well.
 
-Find out who is on the phone before you answer. Overcome the natural curiosity that wells up in you when people who you don’t know call you. Find out why they are calling before you take the phone call. Number three, whenever possible, set aside periods of the day when you allow no interruptions.
+Number two, have your emails and calls screened or screened them yourself. Find out who is on the phone before you answer. Overcome the natural curiosity that wells up in you when people who you don’t know call you. Find out why they are calling before you take the phone call.
 
-Don’t become a slave to a ringing phone, a ringing email, or a beeping text message. Leave things off. There is nothing so important that you cannot get back to it later when it’s more convenient for you. Number four, when you make a call or send an email message, set clear call back or response times.
+Number three, whenever possible, set aside periods of the day when you allow no interruptions. Don’t become a slave to a ringing phone, a ringing email, or a beeping text message. Leave things off. There is nothing so important that you cannot get back to it later when it’s more convenient for you.
 
-Tell us the time that you will be available to respond to the message or phone call. Avoid plain telephone or email tag. Leave a telephone number if it’s an emergency. Number five, batch your calls and your email activities.
+Number four, when you make a call or send an email message, set clear call back or response times. Tell us the time that you will be available to respond to the message or phone call. Avoid plain telephone or email tag. Leave a telephone number if it’s an emergency.
 
-Use the learning curve. Call of your telephone calls or email responses at once. Don’t spread them throughout the day. Sometimes you can accumulate your phone calls or email messages up to 11 a.m. and then return them all by noon.
+Number five, batch your calls and your email activities. Use the learning curve. Call of your telephone calls or email responses at once. Don’t spread them throughout the day.
 
-Then you can accumulate them again up to 3.30 p.m. and return them all by 4.30. Number six, plan your calls and email in advance. Think about a business call as a meeting and write out an outline or agenda for the items you want to cover in the call or type message. Number seven, take good notes.
+Sometimes you can accumulate your phone calls or email messages up to 11 a.m. and then return them all by noon. Then you can accumulate them again up to 3.30 p.m. and return them all by 4.30. Number six, plan your calls and email in advance. Think about a business call as a meeting and write out an outline or agenda for the items you want to cover in the call or type message.
 
-When talking on the phone, write down every key point made by the other person and you. Never answer a telephone without a pad of paper in front of you and a pen in your hand. The power is always on the side of the person with the best notes. Number two, unexpected visitors.
+Number seven, take good notes. When talking on the phone, write down every key point made by the other person and you. Never answer a telephone without a pad of paper in front of you and a pen in your hand. The power is always on the side of the person with the best notes.
 
-The second major time waster is unexpected visitors. Drop-in visitors can be extremely time-consuming. These are people from within your company or from the outside. They drop by your office, disrupt your work, break your train of thought and impair your effectiveness.
+Number two, unexpected visitors. The second major time waster is unexpected visitors. Drop-in visitors can be extremely time-consuming. These are people from within your company or from the outside.
 
-Sometimes they talk endlessly about unimportant matters and keep you from your work. You must find ways to avoid this time waster at all costs. Here are five things you can do. Number one, create a quiet time for work.
+They drop by your office, disrupt your work, break your train of thought and impair your effectiveness. Sometimes they talk endlessly about unimportant matters and keep you from your work. You must find ways to avoid this time waster at all costs. Here are five things you can do.
 
-Specify a time during the day when you will concentrate on your work. During this time, allow no interruptions. Turn everything off. Get yourself a do not disturb sign and put it on your door.
+Number one, create a quiet time for work. Specify a time during the day when you will concentrate on your work. During this time, allow no interruptions. Turn everything off.
 
-Make it clear that when that sign is out, you do not want to be disturbed for any reason by anyone except in an emergency. Number two, stand up quickly when unwelcome visitors walk into your office or come to your workplace as though you were just leaving. Start moving as though you were on your way out. Tell the time waster that you were really swamped today, and you have a lot that you have to get done.
+Get yourself a do not disturb sign and put it on your door. Make it clear that when that sign is out, you do not want to be disturbed for any reason by anyone except in an emergency. Number two, stand up quickly when unwelcome visitors walk into your office or come to your workplace as though you were just leaving. Start moving as though you were on your way out.
 
-When somebody interrupts you by phone, tell them that you are just leaving and that you are in a bit of a hurry. This will prompt them to get straight to the point. Number three, bring the discussion to a close. When the meeting has gone on long enough, you can say, well, there’s one more thing before you go.
+Tell the time waster that you were really swamped today, and you have a lot that you have to get done. When somebody interrupts you by phone, tell them that you are just leaving and that you are in a bit of a hurry. This will prompt them to get straight to the point. Number three, bring the discussion to a close.
 
-Finish off the conversation with anything you can think of, shake hands, and then go back to work. Number four, arrange specific meeting times. To deal effectively with drop-in visitors, you can arrange specific times to meet that are convenient for both of you. Make appointments to get together with the people in your office.
+When the meeting has gone on long enough, you can say, well, there’s one more thing before you go. Finish off the conversation with anything you can think of, shake hands, and then go back to work. Number four, arrange specific meeting times. To deal effectively with drop-in visitors, you can arrange specific times to meet that are convenient for both of you.
 
-Make appointments with your staff and let them know that at certain times of the day, your door is open and you will be available.
+Make appointments to get together with the people in your office. Make appointments with your staff and let them know that at certain times of the day, your door is open and you will be available.
 
 
 <a id="sec-014550"></a>
@@ -637,11 +697,11 @@ Make appointments with your staff and let them know that at certain times of the
 
 Number five, avoid wasting the time of others. Make every effort to avoid being a drop-in visitor yourself. If you do drop in on someone else without warning, always be polite enough to ask, is this a good time to talk or can we get together later? Ask for their permission in advance.
 
-It’s amazing how many people unconsciously waste the time of others and don’t even know it. If you want to increase your efficiency, ask others, what do I do that wastes your time? Be prepared for an earful and whatever the other person says, refuse to defend or explain. Just thank her and listen without interrupting.
+It’s amazing how many people unconsciously waste the time of others and don’t even know it. If you want to increase your efficiency, ask others, what do. I do that wastes your time? Be prepared for an earful and whatever the other person says, refuse to defend or explain.
 
-Number three, meetings. The third time waster is meetings, both planned and unplanned. They consume 40 to 50% of your time. They can be planned and organized involving several people or they can be one-on-one in an office or in the hallway.
+Just thank her and listen without interrupting. Number three, meetings. The third time waster is meetings, both planned and unplanned. They consume 40 to 50% of your time.
 
-Whenever you meet to talk with one or more people, you are having a meeting. Because of poor planning and preparation, many meetings are unnecessary or largely a waste of time.
+They can be planned and organized involving several people or they can be one-on-one in an office or in the hallway. Whenever you meet to talk with one or more people, you are having a meeting. Because of poor planning and preparation, many meetings are unnecessary or largely a waste of time.
 
 However, meetings are not an evil. Meetings are a necessary business tool for exchanging information, solving problems, and reviewing progress. But they must be managed and they must be used effectively. Before scheduling a meeting, determine its cost.
 
@@ -683,23 +743,23 @@ The more facts you gather, the more capable you will be of dealing with the prob
 
 But if a crisis or problem has a tendency to repeat itself and you cannot find a way to eliminate the crisis in advance, you should by all means develop a system so that the average person can deal with the problem in your absence. Number six, plan for the worst. Problems and crises are normal, natural and unavoidable in the history of any company or organization. One of the qualities of great leaders throughout history is that they develop the ability to think ahead and determine what could possibly go wrong.
 
-They then plan for contingencies in advance. When something goes wrong, they are ready to move quickly. They have already thought it through. Ask yourself, what are the worst things that could happen in my business or personal life and how would I handle them?
+They then plan for contingencies in advance. When something goes wrong, they are ready to move quickly. They have already thought it through. Ask yourself, what are the worst things that could happen in my business or personal life and how would.
 
-Number five, procrastination. The fifth biggest time waster is procrastination. Procrastination is not only the thief of time, it is the thief of life. Your ability to stop procrastinating and get on with the work can change your life.
+I handle them? Number five, procrastination. The fifth biggest time waster is procrastination. Procrastination is not only the thief of time, it is the thief of life.
 
-Here are seven ways to overcome procrastination. Number one, think on paper. Prepare thoroughly. List every step of the job in advance.
+Your ability to stop procrastinating and get on with the work can change your life. Here are seven ways to overcome procrastination. Number one, think on paper. Prepare thoroughly.
 
-Break the job down into its constituent parts before you begin. Number two, gather all the materials and work tools you will need before you begin so you won’t have to get up or move until the task is done. Number three, do one small thing to get started. Often the first 20% of the task accounts for 80% of the value.
+List every step of the job in advance. Break the job down into its constituent parts before you begin. Number two, gather all the materials and work tools you will need before you begin so you won’t have to get up or move until the task is done. Number three, do one small thing to get started.
 
-Once you get started, it is much easier to keep going. Number four, salami slice the task. Sometimes the best way to complete a major job or project is to take a small slice and complete just that one piece. Number five, practice the Swiss cheese technique.
+Often the first 20% of the task accounts for 80% of the value. Once you get started, it is much easier to keep going. Number four, salami slice the task. Sometimes the best way to complete a major job or project is to take a small slice and complete just that one piece.
 
-This is a block of Swiss cheese full of holes. You treat your task like a block of cheese and you punch holes in it, selecting a five minute part of the job and doing just that. Number six, start from the outside and complete the smaller tasks first. Often this will help you to overcome procrastination and get you started on the big task.
+Number five, practice the Swiss cheese technique. This is a block of Swiss cheese full of holes. You treat your task like a block of cheese and you punch holes in it, selecting a five minute part of the job and doing just that. Number six, start from the outside and complete the smaller tasks first.
 
-Number seven, start from the inside and do the larger tasks first. Discipline yourself to start on the one item that will take the most time and require the most effort. Once you complete this task, all the other tasks will seem easier by comparison. Number six, socializing and idle conversations.
+Often this will help you to overcome procrastination and get you started on the big task. Number seven, start from the inside and do the larger tasks first. Discipline yourself to start on the one item that will take the most time and require the most effort. Once you complete this task, all the other tasks will seem easier by comparison.
 
-The sixth time waster is socializing and idle conversation, both one-on-one and online. Socializing takes up an enormous amount of time. It’s been estimated that as much as 75% of time at work is spent interacting with other people. Unfortunately, at least half of this time is spent in idle chatter that has nothing to do with the work.
+Number six, socializing and idle conversations. The sixth time waster is socializing and idle conversation, both one-on-one and online. Socializing takes up an enormous amount of time. It’s been estimated that as much as 75% of time at work is spent interacting with other people.
 
-Socializing takes time away from getting the job done.
+Unfortunately, at least half of this time is spent in idle chatter that has nothing to do with the work. Socializing takes time away from getting the job done.
 
 
 <a id="sec-015556"></a>
@@ -753,19 +813,21 @@ It’s estimated that each person has four ideas each year, any one of which wou
 
 You didn’t do anything about the idea. As a result, someone else came up with the same idea and ran with it, trying it out, debugging it as she went along and eventually making the new idea work at a higher level. You could have done the same. The billion dollar idea.
 
-In June 2009, my wife, my daughter and I attended an all day meeting with our publisher at their offices in downtown San Francisco. The meeting ended at 5 p.m. We were tired and looking forward to getting back to our hotel. But when we walked out onto the sidewalks of San Francisco, there were no taxis. We walked a block to a busy intersection looking for a taxi and waving at any taxi that went past, but no one stopped.
+In June 2009, my wife, my daughter and. I attended an all day meeting with our publisher at their offices in downtown San Francisco. The meeting ended at 5 p.m. We were tired and looking forward to getting back to our hotel.
 
-We walked another block to a hotel entrance, hoping to take a taxi from the taxi stand in front. But the taxi stand was empty. We walked for half an hour through the busy teeming rush hour traffic of San Francisco and could not find a single taxi to take us back to our hotel about a mile away. Eventually, tired and hungry, we stopped at a restaurant and had dinner.
+But when we walked out onto the sidewalks of San Francisco, there were no taxis. We walked a block to a busy intersection looking for a taxi and waving at any taxi that went past, but no one stopped. We walked another block to a hotel entrance, hoping to take a taxi from the taxi stand in front. But the taxi stand was empty.
 
-After dinner, we once more began our walk toward our hotel, which was a while away up the steep hills of San Francisco. This time, we finally found the taxi and made it back to our hotel. We learned later that the unionized taxi industry had installed what is called change over time. This is the period between 5 p.m. and 7 p.m. when people need taxis more than almost any other time in the day.
+We walked for half an hour through the busy teeming rush hour traffic of San Francisco and could not find a single taxi to take us back to our hotel about a mile away. Eventually, tired and hungry, we stopped at a restaurant and had dinner. After dinner, we once more began our walk toward our hotel, which was a while away up the steep hills of San Francisco. This time, we finally found the taxi and made it back to our hotel.
 
-But this is when the taxi drivers go home for dinner. They shut off their lights and refused to pick up anyone during that two-hour period. The importance of taking action. Here’s the interesting part.
+We learned later that the unionized taxi industry had installed what is called change over time. This is the period between 5 p.m. and 7 p.m. when people need taxis more than almost any other time in the day. But this is when the taxi drivers go home for dinner. They shut off their lights and refused to pick up anyone during that two-hour period.
 
-In that same year, four other businessmen in San Francisco came out of a late meeting and tried to hail the taxi cab. They had the same experience that we had had. They could not find a taxi anywhere. They ended up having to walk a considerable distance to get back to their hotels as well.
+The importance of taking action. Here’s the interesting part. In that same year, four other businessmen in San Francisco came out of a late meeting and tried to hail the taxi cab. They had the same experience that we had had.
 
-They asked, as we did, why isn’t it possible to get a taxi at a rush hour or at other times in a big city like this? But while my family went back to the hotel, complaining and grumbling, these four businessmen decided to start a new company to fill this need. They saw a business opportunity to solve the problem of non-availability of cabs. They called it Uber.
+They could not find a taxi anywhere. They ended up having to walk a considerable distance to get back to their hotels as well. They asked, as we did, why isn’t it possible to get a taxi at a rush hour or at other times in a big city like this? But while my family went back to the hotel, complaining and grumbling, these four businessmen decided to start a new company to fill this need.
 
-They decided to make taxis available to anyone through a simple app that you could download for free. Today, the Uber concept has swept the world. As of 2016, the company was valued at 62.5 billion dollars and all the founders were among the richest people in the world. By the way, I had the same
+They saw a business opportunity to solve the problem of non-availability of cabs. They called it Uber. They decided to make taxis available to anyone through a simple app that you could download for free. Today, the Uber concept has swept the world.
+
+As of 2016, the company was valued at 62.5 billion dollars and all the founders were among the richest people in the world. By the way, I had the same
 
 
 <a id="sec-020605"></a>
@@ -779,13 +841,13 @@ There are great ideas all around you. All you need is one good idea to improve a
 
 You have the ability to solve almost any problem, overcome almost any obstacle, and achieve almost any goal that you can set for yourself as long as you are clear about the goal and you both focus and concentrate all of your mental energies on one idea at a time like a laser beam. The most important requirement of all for you to activate the full powers of your creative mind is our old friend clarity. You must be absolutely clear about the goal you want to achieve or the obstacle that stands in your way.
 
-The greater clarity you have, the faster you will attract into your life, the ideas, people, and resources that you need to solve your problem or achieve your goal. Types of creativity. There are two main types of creative intelligence, integrated intelligence and original thought. With integrated intelligence you combine and recombine existing information, ideas, and experience into new, better, and more desirable forms. This is why most creative breakthroughs come from people with considerable knowledge and experience in a particular field.
+The greater clarity you have, the faster you will attract into your life, the ideas, people, and resources that you need to solve your problem or achieve your goal. Types of creativity. There are two main types of creative intelligence, integrated intelligence and original thought. With integrated intelligence you combine and recombine existing information, ideas, and experience into new, better, and more desirable forms.
 
-The second form of intelligence, original thought, is when you come up with an idea no one else has thought of before. This idea may be based on a tremendous amount of knowledge and experience, but you take it to a higher level and you create something completely new like Google, the iPhone, or Uber. The wonderful discovery is that your creative ability is like a muscle. The more you use it, the stronger it becomes and the faster it works for you.
+This is why most creative breakthroughs come from people with considerable knowledge and experience in a particular field. The second form of intelligence, original thought, is when you come up with an idea no one else has thought of before. This idea may be based on a tremendous amount of knowledge and experience, but you take it to a higher level and you create something completely new like Google, the iPhone, or Uber. The wonderful discovery is that your creative ability is like a muscle.
 
-By practicing some of the techniques described here, you can actually increase your IQ by as much as 25 points, moving you from average or above average into the genius range of intelligence. What holds you back? If everyone has the capacity to function at genius levels, why is it that so few people ever unlock their full mental potential to come up with great ideas to change and improve their life or work? There are three main enemies of creative thought.
+The more you use it, the stronger it becomes and the faster it works for you. By practicing some of the techniques described here, you can actually increase your IQ by as much as 25 points, moving you from average or above average into the genius range of intelligence. What holds you back? If everyone has the capacity to function at genius levels, why is it that so few people ever unlock their full mental potential to come up with great ideas to change and improve their life or work?
 
-They are the comfort zone, learned helplessness, and fear of failure or rejection. Perhaps the biggest enemy of progress is the comfort zone, a feeling of complacency or comfort that people get into after having done things in a certain way for a long period of time, or often for just a short period of time. This is why many of the great breakthroughs in business and technology are from new companies outside the industry and are started by people without the heavy baggage of past experience.
+There are three main enemies of creative thought. They are the comfort zone, learned helplessness, and fear of failure or rejection. Perhaps, the biggest enemy of progress is the comfort zone, a feeling of complacency or comfort that people get into after having done things in a certain way for a long period of time, or often for just a short period of time. This is why many of the great breakthroughs in business and technology are from new companies outside the industry and are started by people without the heavy baggage of past experience.
 
 They have no comfort zone to break out of. The natural tendency is for a person to slip into a comfort zone and then to resist anything new or different in that area. Instead of being open to newer, better, faster, cheaper, or more convenient ways of producing the product or delivering the service, the average person resists change of any kind. They say things like, we’ve always done it this way, or we tried that once before and it didn’t work, or it costs too much, or what’s wrong with the way we’re doing it now?
 
@@ -811,19 +873,19 @@ Fear holds you back. The third enemy of creativity is the fear of failure and it
 
 They immediately back away from trying or investing in anything new or different. In addition, the fear of rejection caused by the fear of criticism is a major reason people do not try new things. Many people are so sensitive to the possible negative opinions of others that they refuse to do anything new or different that might generate disapproval. Whenever you have or hear a new idea, be alert to the natural tendency to resist the new idea by slipping back into your comfort zone, feeling incapable of making it work, learn helplessness, or fearing failure or rejection, fear of failure.
 
-The good news is that you can go from being uncreative to being extremely creative in almost no time at all. There are a series of methods and techniques to unlock your creativity that I’ve taught to more than 2 million people in 75 countries. People often tell me that one or more of these ideas had transformed their life and often made them wealthy. Ask the right questions.
+The good news is that you can go from being uncreative to being extremely creative in almost no time at all. There are a series of methods and techniques to unlock your creativity that. I’ve taught to more than 2 million people in 75 countries. People often tell me that one or more of these ideas had transformed their life and often made them wealthy.
 
-Here are four questions that you can ask yourself repeatedly. Each of these questions expands your thinking and enables you to see things you might not have seen before. Question number one, what are we trying to do? Ask this question especially when you’re experiencing resistance or are not getting the results you expected.
+Ask the right questions. Here are four questions that you can ask yourself repeatedly. Each of these questions expands your thinking and enables you to see things you might not have seen before. Question number one, what are we trying to do?
 
-Become absolutely clear about what you are trying to accomplish. Has your goal changed? Number two, how are we trying to do it? There are many different ways to achieve any goal.
+Ask this question especially when you’re experiencing resistance or are not getting the results you expected. Become absolutely clear about what you are trying to accomplish. Has your goal changed? Number two, how are we trying to do it?
 
-It’s highly likely that the way you are attempting to achieve your goal is not the best way. The only real question is, does it work? Is your current method working? The rule is to be clear about the goal, but flexible about the method of achieving it.
+There are many different ways to achieve any goal. It’s highly likely that the way you are attempting to achieve your goal is not the best way. The only real question is, does it work? Is your current method working?
 
-Number three, what are our assumptions? If you’re experiencing frustration, resistance, or temporary failure, ask yourself, what are my assumptions about this situation? And question four, what if your assumptions were wrong? What would you do then?
+The rule is to be clear about the goal, but flexible about the method of achieving it. Number three, what are our assumptions? If you’re experiencing frustration, resistance, or temporary failure, ask yourself, what are my assumptions about this situation? And question four, what if your assumptions were wrong?
 
-Peter Drucker wrote, errant assumptions lie at the root of every failure. Analyze your assumptions. Each person has two types of assumptions, explicit and implicit. Explicit assumptions are those that you are conscious of and that you can clearly explain and defend to another person.
+What would you do then? Peter Drucker wrote, errant assumptions lie at the root of every failure. Analyze your assumptions. Each person has two types of assumptions, explicit and implicit.
 
-The first and most dangerous explicit assumption that a person makes in a new business is that there is an actual market for the product or service.
+Explicit assumptions are those that you are conscious of and that you can clearly explain and defend to another person. The first and most dangerous explicit assumption that a person makes in a new business is that there is an actual market for the product or service.
 
 
 <a id="sec-021611"></a>
@@ -831,33 +893,33 @@ The first and most dangerous explicit assumption that a person makes in a new bu
 
 But according to Forbes magazine, fully 80% of business failure is caused by a single factor. Customers simply do not want the product that you are offering. Even with the best market research, fully 80% of new products introduced each year fail in the marketplace and have to be discontinued, costing enormous amounts of money. The people who developed and marketed the product proceeded on the assumption that there was a market demand for what they were selling and that the demand was big enough and profitable enough to justify all of the efforts to bring the product to market in the first place.
 
-The second type of assumption is implicit or unconscious. This is something that you believe without question. What could they be for you? One fatal implicit assumption is, because I want to, I can.
+The second type of assumption is implicit or unconscious. This is something that you believe without question. What could they be for you? One fatal implicit assumption is, because.
 
-Many people assume that their desire or willpower or determination is all that is necessary to overcome obstacles and eventually succeed. But there is often very little relationship between what you want to do and what you are capable of doing. Another fatal assumption is, because I have to, I can.
+I want to, I can. Many people assume that their desire or willpower or determination is all that is necessary to overcome obstacles and eventually succeed. But there is often very little relationship between what you want to do and what you are capable of doing. Another fatal assumption is, because.
 
-The truth is that you may lack the knowledge, skills, money or resources to achieve a particular goal that you feel is essential to your success. Your life is greatly influenced by your assumptions. You always act on the basis of what you believe to be true, even if it is not true at all or you have no proof. Challenge your assumptions.
+I have to, I can. The truth is that you may lack the knowledge, skills, money or resources to achieve a particular goal that you feel is essential to your success. Your life is greatly influenced by your assumptions. You always act on the basis of what you believe to be true, even if it is not true at all or you have no proof.
 
-Be prepared to consider that your most cherished assumptions about yourself or your business could be completely wrong. This is a difficult possibility for most people to deal with, but whenever you are struggling to make progress in any area or facing what seems to be an unsolvable problem or difficulty, stand back and ask yourself, what if I am completely wrong in what I am trying to do? What if we are completely wrong in our current approach? What if there is a completely different way to achieve this goal?
+Challenge your assumptions. Be prepared to consider that your most cherished assumptions about yourself or your business could be completely wrong. This is a difficult possibility for most people to deal with, but whenever you are struggling to make progress in any area or facing what seems to be an unsolvable problem or difficulty, stand back and ask yourself, what if. I am completely wrong in what.
 
-What if we could do something that has never been done before? The words what if are probably responsible for more creative breakthroughs than any other words. Edward Dubono, an expert on thinking skills, calls this po or provocation. Like an electric cattle prod, whenever you ask a provocative question that challenges or shakes up your thinking, you stimulate creativity and creative responses.
+I am trying to do? What if we are completely wrong in our current approach? What if there is a completely different way to achieve this goal? What if we could do something that has never been done before?
 
-Could there be a better way? This is a great question that can sometimes make you rich. The fact is that there is always a better way for you to solve any problem or accomplish any goal. There is always a better way to produce, sell or deliver any product or service.
+The words what if are probably responsible for more creative breakthroughs than any other words. Edward Dubono, an expert on thinking skills, calls this po or provocation. Like an electric cattle prod, whenever you ask a provocative question that challenges or shakes up your thinking, you stimulate creativity and creative responses. Could there be a better way?
 
-Practice reinvention. Imagine that you are starting your business or career over again today with everything that you now know. Imagine your business burned to the ground and you could walk across the street and start again with no baggage from the past. What would you do differently?
+This is a great question that can sometimes make you rich. The fact is that there is always a better way for you to solve any problem or accomplish any goal. There is always a better way to produce, sell or deliver any product or service. Practice reinvention.
 
-What would you start doing or stop doing? What changes would you make immediately? The exercise of reinvention can free you from the comfort zone of the past and open up your mind to all kinds of new possibilities. Unlocking your creativity.
+Imagine that you are starting your business or career over again today with everything that you now know. Imagine your business burned to the ground and you could walk across the street and start again with no baggage from the past. What would you do differently? What would you start doing or stop doing?
 
-There are four ways you can solve any problem, make any change or achieve any goal. Number one, you can do more of certain things. What should you be doing more of? Answer, you should be doing more of those things that are giving you the very best results today.
+What changes would you make immediately? The exercise of reinvention can free you from the comfort zone of the past and open up your mind to all kinds of new possibilities. Unlocking your creativity. There are four ways you can solve any problem, make any change or achieve any goal.
 
-What are they? Number two, you can do less of other things. And what should you be doing less of? Answer, you should be doing less of those things that are not working very well or not working at all.
+Number one, you can do more of certain things. What should you be doing more of? Answer, you should be doing more of those things that are giving you the very best results today. What are they?
 
-Number three, you can start doing something completely new or different. This is usually the hardest step of all, but usually doing something new or different is the step that leads to the greatest breakthroughs in every field. What should you start doing today that you are not now doing? And number four way to unlock your creativity is you can stop doing certain things altogether.
+Number two, you can do less of other things. And what should you be doing less of? Answer, you should be doing less of those things that are not working very well or not working at all. Number three, you can start doing something completely new or different.
 
-And what should you stop doing? You should stop doing anything that is not helping you to achieve your most important goals. Use the A-B method described in chapter one. Think on paper.
+This is usually the hardest step of all, but usually doing something new or different is the step that leads to the greatest breakthroughs in every field. What should you start doing today that you are not now doing? And number four way to unlock your creativity is you can stop doing certain things altogether. And what should you stop doing?
 
-There is something miraculous that happens between the head and the hand. When you write something down on a piece of paper, you trigger what is called a psychoneuromotor activity. This is a big word for activating your whole brain into focusing on a single point for a period of time. When you write, you think, visualize, and move simultaneously.
+You should stop doing anything that is not helping you to achieve your most important goals. Use the A-B method described in chapter one. Think on paper. There is something miraculous that happens between the head and the hand.
 
-It’s not possible for you to write and at the same time think or pay attention to anything
+When you write something down on a piece of paper, you trigger what is called a psychoneuromotor activity. This is a big word for activating your whole brain into focusing on a single point for a period of time. When you write, you think, visualize, and move simultaneously. It’s not possible for you to write and at the same time think or pay attention to anything
 
 
 <a id="sec-022111"></a>
@@ -869,27 +931,29 @@ Writing things down activates your creative ability. It stimulates your brain. I
 
 Here’s a simple exercise for you. Select a problem that you have been trying to solve. Take a clean sheet of paper and write out every detail of this problem. Write down all the facts or information that you have about this situation.
 
-Ask questions like these. What am I trying to do? How am I trying to do it? What exactly is the problem or goal?
+Ask questions like these. What am. I trying to do? How am.
 
-How did this problem arise? When did it happen or occur for the first time? Who was involved? Why did this problem happen?
+I trying to do it? What exactly is the problem or goal? How did this problem arise? When did it happen or occur for the first time?
 
-Is this really a problem or could it be an opportunity? These questions stimulate your creativity. You will be amazed at what you think of when you begin writing line after line every detail of the problem you are wrestling with, including all the possible causes and the many possible solutions. Sometimes during this exercise, the exact right idea or solution will jump off the page at you.
+Who was involved? Why did this problem happen? Is this really a problem or could it be an opportunity? These questions stimulate your creativity.
 
-I’ve worked with people who had been struggling with a goal or problem for many months who are able to solve it in a few minutes by simply taking the time in the quiet to write down every detail of the problem. As a result, the problem practically solved itself on the paper in front of them. Your super-conscious mind. Throughout history, people have talked and written about a higher form of mind or thinking that each person has available to them.
+You will be amazed at what you think of when you begin writing line after line every detail of the problem you are wrestling with, including all the possible causes and the many possible solutions. Sometimes during this exercise, the exact right idea or solution will jump off the page at you. I’ve worked with people who had been struggling with a goal or problem for many months who are able to solve it in a few minutes by simply taking the time in the quiet to write down every detail of the problem.
 
-Sigmund Freud called it the super-ego, Alfred Adler called it the super-conscious mind, Napoleon Hill referred to it as infinite intelligence, Ralph Waldo Emerson called it the over-soul. Many people refer to it as the god-mind. After many years of research, I prefer to call it the super-conscious mind.
+As a result, the problem practically solved itself on the paper in front of them. Your super-conscious mind. Throughout history, people have talked and written about a higher form of mind or thinking that each person has available to them. Sigmund Freud called it the super-ego, Alfred Adler called it the super-conscious mind, Napoleon Hill referred to it as infinite intelligence, Ralph Waldo Emerson called it the over-soul.
 
-However you describe it, this mind is always available to you just as is your iPhone or laptop computer. You can turn it on and access it at any time. In a few moments, all of your super-conscious powers become available to you to solve your problems and achieve your goals. Activating your mental powers.
+Many people refer to it as the god-mind. After many years of research, I prefer to call it the super-conscious mind.
+
+However, you describe it, this mind is always available to you just as is your iPhone or laptop computer. You can turn it on and access it at any time. In a few moments, all of your super-conscious powers become available to you to solve your problems and achieve your goals. Activating your mental powers.
 
 The super-conscious mind has several amazing qualities. Number one, the super-conscious mind will enable you to achieve any goal you want as long as the goal is clear. People who write and rewrite and think about their goals constantly seem to enjoy a steady stream of ideas that help them to achieve their goals faster. Number two, the super-conscious mind has access to all your previous knowledge and experience from throughout your entire life, plus it has access to the knowledge and experience of others, even at a great distance.
 
 Number three, the super-conscious mind is the seat of the power of attraction. When you have a clear goal, the super-conscious mind sends out vibrations that turn you into a living magnet. With this power, you begin to attract into your life the ideas, people, circumstances and money that you need to achieve your goals. Number four, the super-conscious mind automatically solves every problem on the way to your goal as long as the goal is clear.
 
-Number five, the super-conscious mind will bring you exactly the answer you need at exactly the right time, but this information is time-dated. You must act on it immediately in some way or it will be too late. Number six, your super-conscious mind will bring you the lessons you need to achieve your goal, often disguised as obstacles, setbacks and temporary failure. Your main job is to look into the problem or difficulty and ask, what can I learn from this experience?
+Number five, the super-conscious mind will bring you exactly the answer you need at exactly the right time, but this information is time-dated. You must act on it immediately in some way or it will be too late. Number six, your super-conscious mind will bring you the lessons you need to achieve your goal, often disguised as obstacles, setbacks and temporary failure. Your main job is to look into the problem or difficulty and ask, what can.
 
-When the super-conscious mind brings you the answer that you need, it will be complete in every respect and always within your current capabilities. You’ll be able to take action on your idea immediately. The answer will feel simple, logical and clear, like a blinding flash of the obvious. Your super-conscious mind often speaks to you through your intuition, the still, small voice within.
+I learn from this experience? When the super-conscious mind brings you the answer that you need, it will be complete in every respect and always within your current capabilities. You’ll be able to take action on your idea immediately. The answer will feel simple, logical and clear, like a blinding flash of the obvious.
 
-If you listen to your intuition and follow its guidance, you’ll probably never make another mistake. Fortunately, your super-conscious mind is always available even if you have not paid attention to it or listened to your intuition for a long time. It actually grows stronger and works faster as you use it and trust in it.
+Your super-conscious mind often speaks to you through your intuition, the still, small voice within. If you listen to your intuition and follow its guidance, you’ll probably never make another mistake. Fortunately, your super-conscious mind is always available even if you have not paid attention to it or listened to your intuition for a long time. It actually grows stronger and works faster as you use it and trust in it.
 
 
 <a id="sec-022616"></a>
@@ -899,29 +963,29 @@ Mindstorming is another way that you can use the power of pen and paper to activ
 
 Here’s how it works. Take a clean sheet of paper and write your most important goal at the top of the page in the form of a question.
 
-For example, you could write, how can I double my income over the next 12 months, or by such and such a date? Even better, select a specific amount, right? How can I earn X number of dollars by this specific date? The question must be simple and clear, something that a six-year-old child could understand and that triggers practical answers, as this question does.
+For example, you could write, how can. I double my income over the next 12 months, or by such and such a date? Even better, select a specific amount, right? How can.
 
-You then discipline yourself to write down at least 20 answers to your question. But here’s a warning. The first time you do this, you’ll find it’s one of the hardest thinking exercises that you’ve ever practiced. Your first three to five answers will be simple and obvious.
+I earn X number of dollars by this specific date? The question must be simple and clear, something that a six-year-old child could understand and that triggers practical answers, as this question does. You then discipline yourself to write down at least 20 answers to your question. But here’s a warning.
 
-Do more of this, or less of that. Your next three to five answers will be more difficult. What should you start doing or stop doing? The next 10 answers will be some of the most difficult of your life.
+The first time you do this, you’ll find it’s one of the hardest thinking exercises that you’ve ever practiced. Your first three to five answers will be simple and obvious. Do more of this, or less of that. Your next three to five answers will be more difficult.
 
-Unless you exert tremendous discipline, you will feel like giving up and quitting this exercise. This is normal and natural the first time that you practice mind-storming. But if you discipline yourself to continue writing until you have written out a minimum of 20 answers, something amazing will happen. Very often, among those answers will be a breakthrough idea that enables you to achieve your goal or starts you off in a new direction that leads you to the right solution.
+What should you start doing or stop doing? The next 10 answers will be some of the most difficult of your life. Unless you exert tremendous discipline, you will feel like giving up and quitting this exercise. This is normal and natural the first time that you practice mind-storming.
 
-You can use mind-storming as a regular part of your life. Every time you have a goal, sit down with a sheet of paper, write the goal as a question at the top of the page, and then write 20 answers to your question. The final part of mind-storming is for you to take action immediately on at least one of the ideas you have generated. When you take action on one of these ideas, you keep your creative juices flowing.
+But if you discipline yourself to continue writing until you have written out a minimum of 20 answers, something amazing will happen. Very often, among those answers will be a breakthrough idea that enables you to achieve your goal or starts you off in a new direction that leads you to the right solution. You can use mind-storming as a regular part of your life. Every time you have a goal, sit down with a sheet of paper, write the goal as a question at the top of the page, and then write 20 answers to your question.
 
-Taking action on one idea triggers additional ideas. Taking action on an idea activates your super-conscious mind and begins to attract into your life people in circumstances that can help you. Brainstorming The brainstorming method developed by advertising executive Alex Osborne in 1946 has become one of the most popular creative thinking techniques of all, often leading to breakthrough results. When you bring together a group of people to focus their intelligence and creativity on a single problem or goal, you activate and stimulate the minds of everyone in the group.
+The final part of mind-storming is for you to take action immediately on at least one of the ideas you have generated. When you take action on one of these ideas, you keep your creative juices flowing. Taking action on one idea triggers additional ideas. Taking action on an idea activates your super-conscious mind and begins to attract into your life people in circumstances that can help you.
 
-A higher mind then becomes available to all the participants, often triggering ideas that nobody had thought of before. Brainstorming is simple. There are a few basic rules that you can practice in your first brainstorming session. Number one, the ideal group size for a brainstorming session is four to six people.
+Brainstorming The brainstorming method developed by advertising executive Alex Osborne in 1946 has become one of the most popular creative thinking techniques of all, often leading to breakthrough results. When you bring together a group of people to focus their intelligence and creativity on a single problem or goal, you activate and stimulate the minds of everyone in the group. A higher mind then becomes available to all the participants, often triggering ideas that nobody had thought of before. Brainstorming is simple.
 
-Fewer than four people is not enough to get the full value of brainstorming, and more than six people does not give each person a chance to share their best thinking. Number two, a brainstorming session should be 15 to 45 minutes long. Start and stop on time. When everyone is clear when the brainstorming session ends, like the final bell at the stock exchange, more ideas will be stimulated in a shorter period of time.
+There are a few basic rules that you can practice in your first brainstorming session. Number one, the ideal group size for a brainstorming session is four to six people. Fewer than four people is not enough to get the full value of brainstorming, and more than six people does not give each person a chance to share their best thinking. Number two, a brainstorming session should be 15 to 45 minutes long.
 
-Number three, here’s the key. No criticism, no ridicule, no judgment at all of any of the ideas. The leader of the brainstorming session remains totally positive, complimenting every idea and praising people for their contributions. Number four, focus on quantity of ideas rather than quality.
+Start and stop on time. When everyone is clear when the brainstorming session ends, like the final bell at the stock exchange, more ideas will be stimulated in a shorter period of time. Number three, here’s the key. No criticism, no ridicule, no judgment at all of any of the ideas.
 
-Make it a game to see how many different ideas, no matter how ridiculous the group can generate within the specific time prescribed. Number five, the job of the leader is to encourage everyone to contribute their best ideas, especially those participants who might be a little shy or reserved. Often, these quieter people have incredible ideas if they get a chance to share them. Number six, assign one person the job of keeping notes.
+The leader of the brainstorming session remains totally positive, complimenting every idea and praising people for their contributions. Number four, focus on quantity of ideas rather than quality. Make it a game to see how many different ideas, no matter how ridiculous the group can generate within the specific time prescribed. Number five, the job of the leader is to encourage everyone to contribute their best ideas, especially those participants who might be a little shy or reserved.
 
-Record each idea. Write it down. Afterward, you could type up all of the ideas for review or circulation. Sometimes one good brainstorming session can change the direction of a company or a life.
+Often, these quieter people have incredible ideas if they get a chance to share them. Number six, assign one person the job of keeping notes. Record each idea. Write it down.
 
-Number seven, encourage the participants to come back to you later if they think of any ideas that did not come up in the brainstorming session. Remember, one new idea, if it’s the right idea at the right time, can be all you need
+Afterward, you could type up all of the ideas for review or circulation. Sometimes one good brainstorming session can change the direction of a company or a life. Number seven, encourage the participants to come back to you later if they think of any ideas that did not come up in the brainstorming session. Remember, one new idea, if it’s the right idea at the right time, can be all you need
 
 
 <a id="sec-023121"></a>
@@ -963,27 +1027,29 @@ Most people think about the solutions and the actions that they can take immedia
 
 But when you think and talk about solutions, you continuously discover more and better solutions. Think in terms of action. Whenever you have a problem of any kind, immediately ask the questions, what can be done and what is our next action? In problem solving, as in other areas, clarity is your best friend.
 
-When you’re absolutely clear about the goal you want to achieve, it is easier for you to develop clarity about the things that are stopping you from achieving that goal. When you have absolute clarity about the things you need to do to get the things that you want, you can focus and concentrate single-mindedly on doing just those things that can help you the most. Here are two questions for you. First ask, what are the three biggest problems in my life today?
+When you’re absolutely clear about the goal you want to achieve, it is easier for you to develop clarity about the things that are stopping you from achieving that goal. When you have absolute clarity about the things you need to do to get the things that you want, you can focus and concentrate single-mindedly on doing just those things that can help you the most. Here are two questions for you.
 
-These are the problems that you think about most of the time. They are the major barriers to your success and happiness. Then ask, what are the three best solutions to each of these three problems? Sometimes these simple questions help you to solve the problems and make the necessary decisions quickly and easily.
+First, ask, what are the three biggest problems in my life today? These are the problems that you think about most of the time. They are the major barriers to your success and happiness. Then ask, what are the three best solutions to each of these three problems?
 
-Often the correct solutions are clear and obvious. You just need to open your eyes. In 1242, Sir William of Occam put forth what has become known as Occam’s razor. This law says that the most likely solution to any problem is the simplest of all solutions available.
+Sometimes these simple questions help you to solve the problems and make the necessary decisions quickly and easily. Often the correct solutions are clear and obvious. You just need to open your eyes. In 1242, Sir William of Occam put forth what has become known as Occam’s razor.
 
-Even earlier, Socrates said that the correct solution is usually the solution that contains the fewest possible steps. What are the simplest solutions to your most pressing problems? Sometimes they are so clear and simple that you are amazed that you have not seen them before. Constraint theory Israeli management consultant, Elayu Goldrat, developed the theory of constraints as a business principle some years ago.
+This law says that the most likely solution to any problem is the simplest of all solutions available. Even earlier, Socrates said that the correct solution is usually the solution that contains the fewest possible steps. What are the simplest solutions to your most pressing problems? Sometimes they are so clear and simple that you are amazed that you have not seen them before.
 
-It is now taught and used all over the world. There are even three-day seminars during which executives are trained to apply these principles to solving problems, removing obstacles, and getting more done faster under any circumstances. The theory itself is quite simple. It begins with your becoming clear about your goal.
+Constraint theory Israeli management consultant, Elayu Goldrat, developed the theory of constraints as a business principle some years ago. It is now taught and used all over the world. There are even three-day seminars during which executives are trained to apply these principles to solving problems, removing obstacles, and getting more done faster under any circumstances. The theory itself is quite simple.
 
-Where are you now and what do you want to achieve? In business, your goal could be a certain level of sales, growth, profitability, market share, or cost reduction. Whatever your goal, you then ask the key question. What is the limiting factor or constraint that sets the speed at which I achieve this goal?
+It begins with your becoming clear about your goal. Where are you now and what do you want to achieve? In business, your goal could be a certain level of sales, growth, profitability, market share, or cost reduction. Whatever your goal, you then ask the key question.
 
-Another way to ask this question is, why aren’t I already at my goal? Do you want to double your income? Well, why isn’t your income already twice as high? Question your constraints.
+What is the limiting factor or constraint that sets the speed at which. I achieve this goal? Another way to ask this question is, why aren’t. I already at my goal?
 
-Many people make up elaborate excuses to justify and explain why they have not achieved the things they really want in life. They then fall in love with their excuses. No matter what the difficulty or problem they are having in achieving their business or personal goals, they roll out a steady stream of excuses to absolve themselves of taking effective action. When you ask the question, why aren’t I already at my goal, your favorite excuses will jump out at you.
+Do you want to double your income? Well, why isn’t your income already twice as high? Question your constraints. Many people make up elaborate excuses to justify and explain why they have not achieved the things they really want in life.
+
+They then fall in love with their excuses. No matter what the difficulty or problem they are having in achieving their business or personal goals, they roll out a steady stream of excuses to absolve themselves of taking effective action. When you ask the question, why aren’t. I already at my goal, your favorite excuses will jump out at you.
 
 You will immediately think of all the reasons you use for achieving less than you really want. Why isn’t your income already twice as high? The real reason is probably because your ability to get results that people will pay you for is not high enough. Why aren’t you already at your ideal weight?
 
 It is almost always because you eat too much and exercise too little. Whenever you hide behind an excuse, trotting it out and giving it to yourself and others, you shut down your problem-solving capabilities. You engage in learned helplessness. Here’s a way to test if your excuses are valid.
 
-Ask, is there any person or organization that has the same problems and difficulties that I have that is achieving their goals nonetheless?
+Ask, is there any person or organization that has the same problems and difficulties that. I have that is achieving their goals nonetheless?
 
 
 <a id="sec-024125"></a>
@@ -995,21 +1061,21 @@ It’s a deception that you have talked yourself into, but which is contradicted
 
 Begin by assuming that for any problem or difficulty, there is an answer or solution just waiting to be found. Your absolute confidence that there is a solution and that you can find it makes you positive, confident, and more likely to solve the problem. Solving problems and making decisions is what you do in your life and work all day long. No matter what job description is written on your business card, your true job is problem solver.
 
-Your success and promotion are largely determined by your demonstrated ability to solve the problems that you meet at your current level. Henry Kissinger once said, the only reward you get for solving problems is even larger problems to solve. The bigger and more complex the problems you can solve, the more valuable and important you become to your organization, and the more you will be paid. The most highly respected and successful people in any company are those who can solve the biggest and most complex problems. Focus on the solution.
+Your success and promotion are largely determined by your demonstrated ability to solve the problems that you meet at your current level. Henry Kissinger once said, the only reward you get for solving problems is even larger problems to solve. The bigger and more complex the problems you can solve, the more valuable and important you become to your organization, and the more you will be paid. The most highly respected and successful people in any company are those who can solve the biggest and most complex problems.
 
-Your ability to focus on a single problem or decision is very important to your success. The same amount of electricity necessary to power a light bulb properly focused into a laser beam will cut through steel. When you focus all of your attention on solving a particular problem or achieving a particular goal, your mind becomes more and more like a laser beam, capable of cutting through any obstacle that stands in your way. You could dramatically improve your ability to solve problems by asking and answering the right questions over and over again.
+Focus on the solution. Your ability to focus on a single problem or decision is very important to your success. The same amount of electricity necessary to power a light bulb properly focused into a laser beam will cut through steel. When you focus all of your attention on solving a particular problem or achieving a particular goal, your mind becomes more and more like a laser beam, capable of cutting through any obstacle that stands in your way.
 
-When I conducted problem solving and decision making seminars for IBM some years ago, I always began by encouraging the participants to ask a series of key questions. Question number one is, what exactly is the problem that you are dealing with right now? The biggest obstacle to solving problems is lack of clarity about exactly what the problem is in the first place. Question number two is, is this really a problem or could it be an opportunity?
+You could dramatically improve your ability to solve problems by asking and answering the right questions over and over again. When. I conducted problem solving and decision making seminars for IBM some years ago, I always began by encouraging the participants to ask a series of key questions. Question number one is, what exactly is the problem that you are dealing with right now?
 
-Many of the greatest breakthroughs in business and science came about as a result of a product, service, or experiment that failed completely. This failure revealed new information or forced people to do something completely different from what they had started off to do and in that new direction was incredible success. The great breakthrough. One of the greatest medical breakthroughs of the 20th century was the discovery of penicillin by Sir Alexander Fleming in a laboratory experiment that failed.
+The biggest obstacle to solving problems is lack of clarity about exactly what the problem is in the first place. Question number two is, is this really a problem or could it be an opportunity? Many of the greatest breakthroughs in business and science came about as a result of a product, service, or experiment that failed completely. This failure revealed new information or forced people to do something completely different from what they had started off to do and in that new direction was incredible success.
 
-In 1928 Fleming had put some bacteria on agar in a glass dish and then gone out for lunch. When he got back, he was disappointed to find that all of the bacteria in his experiment had died completely. Whereas the typical researcher would have simply thrown away the tainted agar and begun again, Fleming instead asked, what kind of a substance was so powerful that it could kill all this bacteria so quickly? He found that an experiment with a new spore in another part of the laboratory had been left uncovered, allowing spores to drift through the air and fall in different parts of the lab, including on the bacteria in Fleming’s agar dish.
+The great breakthrough. One of the greatest medical breakthroughs of the 20th century was the discovery of penicillin by Sir Alexander Fleming in a laboratory experiment that failed. In 1928 Fleming had put some bacteria on agar in a glass dish and then gone out for lunch. When he got back, he was disappointed to find that all of the bacteria in his experiment had died completely.
 
-This spore was eventually isolated and named penicillin, the most powerful antibiotic ever discovered. In World War II, a decade later, penicillin saved millions of lives from disease and infection. As a result of this discovery, Fleming was knighted by the King of England, won the Nobel Prize in medicine, became very wealthy and was heralded as one of the most respected and esteemed doctors in British history. He still is today.
+Whereas the typical researcher would have simply thrown away the tainted agar and begun again, Fleming instead asked, what kind of a substance was so powerful that it could kill all this bacteria so quickly? He found that an experiment with a new spore in another part of the laboratory had been left uncovered, allowing spores to drift through the air and fall in different parts of the lab, including on the bacteria in Fleming’s agar dish. This spore was eventually isolated and named penicillin, the most powerful antibiotic ever discovered.
 
-Expand your definition. Once you have a clear definition of the problem, you ask yourself the magic question. What else is the problem? The rule is to be aware of a problem for which there is only one definition.
+In World War II, a decade later, penicillin saved millions of lives from disease and infection. As a result of this discovery, Fleming was knighted by the King of England, won the Nobel Prize in medicine, became very wealthy and was heralded as one of the most respected and esteemed doctors in British history. He still is today. Expand your definition.
 
-It seems that the more ways you can define and restate the problem, the more likely you are to arrive at the right definition, which will lead to the correct solution.
+Once you have a clear definition of the problem, you ask yourself the magic question. What else is the problem? The rule is to be aware of a problem for which there is only one definition. It seems that the more ways you can define and restate the problem, the more likely you are to arrive at the right definition, which will lead to the correct solution.
 
 
 <a id="sec-024625"></a>
@@ -1031,13 +1097,13 @@ They became a market leader and remained the market leader in their field even t
 
 Because no one was assigned specific responsibility for implementing the solution. When you have chosen a specific person to be responsible for the solution, set measures that you can use to determine progress and to ensure that the solution has been successful. Set deadlines and sub-deadlines. The more important the solution is to your company or to you personally, the more regularly you should check to make sure that everything is being done on time and on budget.
 
-The Peter Principle Some years ago, a man named Dr. Lawrence Peter wrote a book called The Peter Principle. This became a bestseller and an eye-opener for millions of people. Peter said each person in an organization is continually promoted based on their ability to do their job and get results. This promotion process continues until the employee reaches the level where he can no longer do his job in a satisfactory manner.
+The Peter Principle Some years ago, a man named Dr. Lawrence Peter wrote a book called The Peter Principle. This became a bestseller and an eye-opener for millions of people. Peter said each person in an organization is continually promoted based on their ability to do their job and get results.
 
-At that point, he stops being promoted. His career levels out. For this reason, Peter said, eventually each person rises to their level of incompetence. His critical insight was that people who have reached their level of incompetence eventually staff every organization at every level.
+This promotion process continues until the employee reaches the level where he can no longer do his job in a satisfactory manner. At that point, he stops being promoted. His career levels out. For this reason, Peter said, eventually each person rises to their level of incompetence.
 
-They are not capable of doing their work well at that level or of being promoted or demoted. All organizations, but especially government organizations, end up being staffed by incompetent people. This insight explains a lot of the problems with underperformance and excessive spending in government bureaucracies. Your problem-solving ability.
+His critical insight was that people who have reached their level of incompetence eventually staff every organization at every level. They are not capable of doing their work well at that level or of being promoted or demoted. All organizations, but especially government organizations, end up being staffed by incompetent people. This insight explains a lot of the problems with underperformance and excessive spending in government bureaucracies.
 
-This is what happens in your life as well. When you start your career, you are given work to do requiring that you solve problems and achieve results at that level. As you demonstrate a mastery of your work by solving the problems, overcoming the obstacles, and getting the results expected of you, you are promoted almost automatically to more responsible positions.
+Your problem-solving ability. This is what happens in your life as well. When you start your career, you are given work to do requiring that you solve problems and achieve results at that level. As you demonstrate a mastery of your work by solving the problems, overcoming the obstacles, and getting the results expected of you, you are promoted almost automatically to more responsible positions.
 
 
 <a id="sec-025129"></a>
@@ -1073,63 +1139,71 @@ You could not have planned or prepared for them. The essayist Michel de Montaign
 
 Therefore, the great business of life is to create as many of them as possible. You create memories by allowing large blocks of relaxed, unstructured time during which those unexpected memories can occur. And you never know when they will happen. As within, so without.
 
-A major purpose of working to become successful in your career is so that you can enjoy a higher standard and quality of life with the people who are most important to you. You will be truly happy only when your behavior on the outside is congruent or in harmony with your values on the inside. Lack of congruence, allowing your life to get out of balance, is a major source of stress and unhappiness as well as physical and mental illness. Many people, especially men, say that their families are more important to them than anything else.
+A major purpose of working to become successful in your career is so that you can enjoy a higher standard and quality of life with the people who are most important to you. You will be truly happy only when your behavior on the outside is congruent or in harmony with your values on the inside. Lack of congruence, allowing your life to get out of balance, is a major source of stress and unhappiness as well as physical and mental illness.
 
-They say the main reason they are working so hard is to provide a good life for their families. But then they work long hours, come home late, watch television when they do come home, and play golf on the weekends. Recent research says that the average father spends an average of 8 minutes per day with each child. This allocation of time can cause considerable stress.
+Many people, especially men, say that their families are more important to them than anything else. They say the main reason they are working so hard is to provide a good life for their families. But then they work long hours, come home late, watch television when they do come home, and play golf on the weekends. Recent research says that the average father spends an average of 8 minutes per day with each child.
 
-Just as a car vibrates and shakes when a wheel gets out of alignment, your life begins to vibrate and shake to become unhappy and stressful when it gets out of balance. Imagine your ideal life. The starting point of getting your life into balance is for you to practice idealization. Imagine that you could wave a magic wand and make your family and personal life perfect in every respect.
+This allocation of time can cause considerable stress. Just as a car vibrates and shakes when a wheel gets out of alignment, your life begins to vibrate and shake to become unhappy and stressful when it gets out of balance. Imagine your ideal life. The starting point of getting your life into balance is for you to practice idealization.
 
-What would it look like? What kind of lifestyle would you have? Where would you be living? Where would you be working?
+Imagine that you could wave a magic wand and make your family and personal life perfect in every respect. What would it look like? What kind of lifestyle would you have? Where would you be living?
 
-What would you be doing? What kind of people would you be living or working with? And how would your ideal life in the future be different from your current life today? Practice zero-based thinking on your work and your personal life.
+Where would you be working? What would you be doing? What kind of people would you be living or working with? And how would your ideal life in the future be different from your current life today?
 
-Ask the question, is there anything that I am doing in my life that knowing what I now know I would not start up or get into again today? Apply this question to your relationships of all kinds. Is there any person in your life, personal or business, who, knowing what you now know, you would not get involved with them again? If the answer is yes, that you would not get involved with them, then your next question is simply, how do you get out of this situation and how fast?
+Practice zero-based thinking on your work and your personal life. Ask the question, is there anything that. I am doing in my life that knowing what. I now know.
 
-It’s amazing how many people are unhappy, stressed and unfulfilled because they continue to remain in a relationship which, knowing what they now know, based on their experiences, they would never enter into again if they had a chance. What I’ve discovered is that if you would not enter into a relationship with someone again today, knowing what you now know, the relationship is finished. It’s over. It cannot be saved.
+I would not start up or get into again today? Apply this question to your relationships of all kinds. Is there any person in your life, personal or business, who, knowing what you now know, you would not get involved with them again? If the answer is yes, that you would not get involved with them, then your next question is simply, how do you get out of this situation and how fast?
 
-The only question is, how long will you suffer? How much will you pay before you admit that the relationship is finished? Get your relationships in order. One of the very best uses of your time is to get your relationships in order.
+It’s amazing how many people are unhappy, stressed and unfulfilled because they continue to remain in a relationship which, knowing what they now know, based on their experiences, they would never enter into again if they had a chance. What. I’ve discovered is that if you would not enter into a relationship with someone again today, knowing what you now know, the relationship is finished. It’s over.
 
-On a regular basis, examine each of your important relationships and ask the following questions. What should I be doing more of if I want both of us to be happier? What should I be doing less of to improve the quality of this relationship? What should I start doing today that I’m not doing now if I want to improve this relationship?
+It cannot be saved. The only question is, how long will you suffer? How much will you pay before you admit that the relationship is finished? Get your relationships in order.
 
-And what should I stop doing completely to improve the quality of this relationship? Some years ago, after I discovered these questions, I went home and sat down with my wife and small children. I asked them what they would like me to do more of or less of to be a better husband and father. What would they like me to start doing or stop doing altogether to make them happier?
+One of the very best uses of your time is to get your relationships in order. On a regular basis, examine each of your important relationships and ask the following questions. What should. I be doing more of if.
 
-They didn’t hesitate. They told me. They had several suggestions for me about things to do more of or less of or to start or stop. I was quite amazed at how much room there was for improvement.
+I want both of us to be happier? What should. I be doing less of to improve the quality of this relationship? What should.
 
-I accepted their advice without arguing or defending and acted upon it. It took a lot of courage, but it was one of the best family building exercises I ever engaged in. Try it yourself and see what is really important. Here’s a good way to improve the quality of your relationships and family life.
+I start doing today that. I’m not doing now if. I want to improve this relationship? And what should.
 
-Ask what would I do? How would I spend my time if I learned today
+I stop doing completely to improve the quality of this relationship? Some years ago, after. I discovered these questions, I went home and sat down with my wife and small children. I asked them what they would like me to do more of or less of to be a better husband and father.
+
+What would they like me to start doing or stop doing altogether to make them happier? They didn’t hesitate. They told me. They had several suggestions for me about things to do more of or less of or to start or stop.
+
+I was quite amazed at how much room there was for improvement. I accepted their advice without arguing or defending and acted upon it. It took a lot of courage, but it was one of the best family building exercises. I ever engaged in.
+
+Try it yourself and see what is really important. Here’s a good way to improve the quality of your relationships and family life. Ask what would. I do?
+
+How would. I spend my time if. I learned today
 
 
 <a id="sec-030143"></a>
 ### ⏱️ [03:01:43 - 03:06:47]
 
-that I only had six months left to live? This is a great question. What would you do more of or less of? What would you start doing or stop doing?
+that. I only had six months left to live? This is a great question. What would you do more of or less of?
 
-How would you spend your last six months on Earth? Almost invariably, your answer will revolve around the people in your life, making peace with people from the past and spending the rest of your time with those people who are most important to you. Here’s the rule. Whatever you would do if you learned that you only had a short time to live, you should start doing it immediately.
+What would you start doing or stop doing? How would you spend your last six months on Earth? Almost invariably, your answer will revolve around the people in your life, making peace with people from the past and spending the rest of your time with those people who are most important to you. Here’s the rule.
 
-You should incorporate your answer into your day-to-day life. Don’t wait until it’s too late. Be fully present with your family. The key to a happy life is to spend more time with your family.
+Whatever you would do if you learned that you only had a short time to live, you should start doing it immediately. You should incorporate your answer into your day-to-day life. Don’t wait until it’s too late. Be fully present with your family.
 
-But what exactly does this mean? It means that when you are with your family, you are really there 100% of the time. Turn off the telephone, television, and computer. Turn off your smartphone or put it on silent.
+The key to a happy life is to spend more time with your family. But what exactly does this mean? It means that when you are with your family, you are really there 100% of the time. Turn off the telephone, television, and computer.
 
-Close the book you are reading and fold up the newspaper. Eliminate all distractions. Focus single-mindedly on the other person or persons as if he or they were the most important people in the world. You are really with another person only when you are face-to-face, head-to-head, knee-to-knee, and heart-to-heart.
+Turn off your smartphone or put it on silent. Close the book you are reading and fold up the newspaper. Eliminate all distractions. Focus single-mindedly on the other person or persons as if he or they were the most important people in the world.
 
-You are really spending time with another person only when you are in her face. You’re only fully engaged when you are talking to and with her, listening attentively to her responses, and paying complete attention to her. When someone in your family or home wants to talk to you, stop whatever you’re doing and concentrate single-mindedly on him or her and what he or she has to say. Make it clear to the other person that he or she is the most important person in the world at that moment.
+You are really with another person only when you are face-to-face, head-to-head, knee-to-knee, and heart-to-heart. You are really spending time with another person only when you are in her face. You’re only fully engaged when you are talking to and with her, listening attentively to her responses, and paying complete attention to her. When someone in your family or home wants to talk to you, stop whatever you’re doing and concentrate single-mindedly on him or her and what he or she has to say.
 
-Trust and likability. The most important qualities for success with people at work and at home are trust and likability. As long as the other person likes and trusts you, the relationship can endure any number of problems and difficulties. But if the trust and respect are lost, it’s only a matter of time before the relationship collapses.
+Make it clear to the other person that he or she is the most important person in the world at that moment. Trust and likability. The most important qualities for success with people at work and at home are trust and likability. As long as the other person likes and trusts you, the relationship can endure any number of problems and difficulties.
 
-And here’s the rule. Listening builds trust. There’s a direct relationship between how much and how well you listen and the level of warmth and trust you build with another person. Here are four keys to effective listening.
+But if the trust and respect are lost, it’s only a matter of time before the relationship collapses. And here’s the rule. Listening builds trust. There’s a direct relationship between how much and how well you listen and the level of warmth and trust you build with another person.
 
-When you practice these listening skills with each person you meet, you’ll be amazed at the results. Number one, listen attentively. When a person speaks to you, immediately stop whatever you’re doing. Face the person directly.
+Here are four keys to effective listening. When you practice these listening skills with each person you meet, you’ll be amazed at the results. Number one, listen attentively. When a person speaks to you, immediately stop whatever you’re doing.
 
-Focus your eyes on her lips with occasional flicks to her eyes. Lean forward. Nod, smile, and be actively engaged in the words and conversation of the other person. Above all, don’t interrupt.
+Face the person directly. Focus your eyes on her lips with occasional flicks to her eyes. Lean forward. Nod, smile, and be actively engaged in the words and conversation of the other person.
 
-When you interrupt a person when she is speaking, it’s the same as sticking out your leg to trip someone who’s walking down the sidewalk. Interrupting another person trips her emotionally and makes her feel angry and frustrated. Interrupting someone immediately lowers the level of trust and warmth she might feel toward you. Intense listening is the highest form of flattery.
+Above all, don’t interrupt. When you interrupt a person when she is speaking, it’s the same as sticking out your leg to trip someone who’s walking down the sidewalk. Interrupting another person trips her emotionally and makes her feel angry and frustrated. Interrupting someone immediately lowers the level of trust and warmth she might feel toward you.
 
-When you listen intensely to another person, when she is speaking, your listening actually affects her emotionally and physically. Her heart rate increases. Her self-esteem goes up. People like themselves more when you are listening intensely to them, and as a result they like you more as well.
+Intense listening is the highest form of flattery. When you listen intensely to another person, when she is speaking, your listening actually affects her emotionally and physically. Her heart rate increases. Her self-esteem goes up.
 
-Number two, pause before replying. When the other person stops speaking, remain silent for a few seconds or longer. Resist the urge to immediately express your own ideas or opinions. Most people do not listen to others.
+People like themselves more when you are listening intensely to them, and as a result they like you more as well. Number two, pause before replying. When the other person stops speaking, remain silent for a few seconds or longer. Resist the urge to immediately express your own ideas or opinions.
 
-They simply wait politely until they can jump in with their own comments or observations. It is said most conversation is not listening, it is just waiting. But when you pause before replying, after the other person has stopped speaking, you achieve three marvelous benefits.
+Most people do not listen to others. They simply wait politely until they can jump in with their own comments or observations. It is said most conversation is not listening, it is just waiting. But when you pause before replying, after the other person has stopped speaking, you achieve three marvelous benefits.
 
 First, you avoid the risk of interrupting the other person if she is just stopping to collect her thoughts before continuing. The second advantage is that you tell her with your silence that you really value what she is saying, and by extension you value her by pausing and allowing silence to take place in the conversation. Third, when you pause you actually hear the other person at a deeper level of mind. You hear both what is said and what is not said by allowing the other person’s words to soak into your mind for a few seconds.
 
@@ -1145,25 +1219,27 @@ You can also ask, how do you mean exactly? The good thing about this question is
 
 The rule is this, that the person who asks questions has control. The person who is asking the questions controls the person who is answering the questions in a very subtle way. The secret to being charming in your conversation with others, for example, is for you to ask questions, smile, nod, listen intently, and react to the other person as if what she is saying were one of the most important and fascinating things that you’ve ever heard. The first time you try this, you will be astonished by the reaction of the other person.
 
-Feed it back. The fourth key to effective listening is for you to feed it back in your own words. Instead of responding immediately, ask something like, let me be sure I understand exactly what you just said. Did you mean this or that or something else?
+Feed it back. The fourth key to effective listening is for you to feed it back in your own words. Instead of responding immediately, ask something like, let me be sure. I understand exactly what you just said.
 
-This is called the acid test of listening. When you can feed back what a person has just said in your own words, paraphrasing her thought or ideas, you prove to her that you were really listening. As a result, she likes and respects you even more and is even more open to your influence. Connect with others.
+Did you mean this or that or something else? This is called the acid test of listening. When you can feed back what a person has just said in your own words, paraphrasing her thought or ideas, you prove to her that you were really listening. As a result, she likes and respects you even more and is even more open to your influence.
 
-The author of Emotional Intelligence, Daniel Goleman, said in a Fortune interview that the highest form of emotional intelligence and the most helpful and important human quality is persuasiveness. Successful people in every area of life are more persuasive than others. They have a wonderful ability to persuade others to cooperate with them and to go along with their ideas. President Dwight D.
+Connect with others. The author of Emotional Intelligence, Daniel Goleman, said in a Fortune interview that the highest form of emotional intelligence and the most helpful and important human quality is persuasiveness. Successful people in every area of life are more persuasive than others. They have a wonderful ability to persuade others to cooperate with them and to go along with their ideas.
 
-Eisenhower once said, the key to leadership is to get people to do what you want them to do and to think of it as their own idea. The best way to become more persuasive is to ask well thought out and organize questions that bring people around to your point of view. Listening is perhaps the most powerful element of persuasion that you can practice. Seven keys to success with people.
+President Dwight D. Eisenhower once said, the key to leadership is to get people to do what you want them to do and to think of it as their own idea. The best way to become more persuasive is to ask well thought out and organize questions that bring people around to your point of view. Listening is perhaps the most powerful element of persuasion that you can practice.
 
-Dale Carnegie in his best-selling book How to Win Friends and Influence People said, the deepest craving of human nature is the need to feel important. Psychologists say that your level of self-esteem, how much you like and respect yourself, and how important and valuable you feel you are, lies at the core of your personality. Your self-esteem determines how happy you feel about yourself and your relationships with others. Your level of self-esteem determines the goals that you set and how persistent you are in achieving those goals.
+Seven keys to success with people. Dale Carnegie in his best-selling book. How to Win Friends and Influence People said, the deepest craving of human nature is the need to feel important. Psychologists say that your level of self-esteem, how much you like and respect yourself, and how important and valuable you feel you are, lies at the core of your personality.
 
-Your level of self-esteem determines how happy you are every single day. There are seven ways that you can make others feel important, raising their levels of self-esteem and self-confidence and making them feel happy about themselves. Number one, be positive. Refuse to criticize, complain, or condemn anyone for any reason.
+Your self-esteem determines how happy you feel about yourself and your relationships with others. Your level of self-esteem determines the goals that you set and how persistent you are in achieving those goals. Your level of self-esteem determines how happy you are every single day. There are seven ways that you can make others feel important, raising their levels of self-esteem and self-confidence and making them feel happy about themselves.
 
-Whenever you criticize others for any reason, you lower their self-esteem. You take away their self-respect and undermine their self-confidence. Criticism, complaining, and condemnation make people feel angry and unhappy. Destructive criticism is the most hurtful of all behaviors.
+Number one, be positive. Refuse to criticize, complain, or condemn anyone for any reason. Whenever you criticize others for any reason, you lower their self-esteem. You take away their self-respect and undermine their self-confidence.
 
-Destructive criticism, experienced in childhood, is the main reason for most unhappiness and problems in adult life. Eliminate it from your vocabulary. Number two, be agreeable. Being agreeable means that you never argue.
+Criticism, complaining, and condemnation make people feel angry and unhappy. Destructive criticism is the most hurtful of all behaviors. Destructive criticism, experienced in childhood, is the main reason for most unhappiness and problems in adult life. Eliminate it from your vocabulary.
 
-Never tell people that they are wrong. This makes them angry and defensive. They shut down and become closed off to being influenced by you. By telling that they are wrong, you diminish their self-esteem and make them resistant to any attempt by you to prove that they have made a mistake.
+Number two, be agreeable. Being agreeable means that you never argue. Never tell people that they are wrong. This makes them angry and defensive.
 
-Instead, when someone says something with which you disagree, you can take control of the conversation by asking questions such as, why do you say that? And where did you hear that? Instead of arguing, be curious. Ask people if they could help you
+They shut down and become closed off to being influenced by you. By telling that they are wrong, you diminish their self-esteem and make them resistant to any attempt by you to prove that they have made a mistake. Instead, when someone says something with which you disagree, you can take control of the conversation by asking questions such as, why do you say that? And where did you hear that?
+
+Instead of arguing, be curious. Ask people if they could help you
 
 
 <a id="sec-031151"></a>
@@ -1195,11 +1271,11 @@ Imagine being engaged in a pleasant conversation with another person face-to-fac
 
 The more closely you pay attention to another person, the more valuable and important he feels. As a result, he likes to trust you and enjoys being with you. Paying attention to another person is the fastest way to satisfy his deep emotional need to feel important and to make him feel happy about himself. The benefit of success.
 
-Some years ago, I found myself sitting next to a businessman on a flight from San Diego to Chicago. He turned out to be a wealthy and successful executive who had started and built a $300 million company. During that flight, he told me a story that I never forgot. He said that he had just been at a three-day meeting in San Diego with several other top executives, a meeting that ended with a long, pleasant dinner at an expensive restaurant.
+Some years ago, I found myself sitting next to a businessman on a flight from San Diego to Chicago. He turned out to be a wealthy and successful executive who had started and built a $300 million company. During that flight, he told me a story that. I never forgot.
 
-All of these men had started with little or nothing and become successful over the years. As they were talking about and sharing their successes, one member of the group spoke up and asked, what is success? Since this man was one of the smartest and most insightful people at the table, everyone quieted down to listen to his answer to his question. He then said, success means no more difficult people in your life.
+He said that he had just been at a three-day meeting in San Diego with several other top executives, a meeting that ended with a long, pleasant dinner at an expensive restaurant. All of these men had started with little or nothing and become successful over the years. As they were talking about and sharing their successes, one member of the group spoke up and asked, what is success? Since this man was one of the smartest and most insightful people at the table, everyone quieted down to listen to his answer to his question.
 
-He actually used another more colorful word to
+He then said, success means no more difficult people in your life. He actually used another more colorful word to
 
 
 <a id="sec-031655"></a>
@@ -1245,45 +1321,51 @@ You are like a boxer during the last rounds of a fight, staying on your feet and
 
 Think of your brain like a battery which loses its energy, discharges and burns out over time. It’s estimated that fully 80% of your energy is burned up by mental activity rather than physical activity. This is why at the end of a long business day or after an intense meeting you can feel tired out, even exhausted and hardly capable of deciding what you want for dinner. Your glucose, the energy that your brain runs on, is largely depleted.
 
-Just like a cell phone needs to recharge regularly so that it operates at its highest capability, you need to recharge your brain regularly as well. You need to set aside specific times and often extended periods of time to fully recharge your brain battery so that you can be alert and aware most of the time. The danger of dopamine. As I mentioned earlier, we live today in the age of electronic distractions.
+Just like a cell phone needs to recharge regularly so that it operates at its highest capability, you need to recharge your brain regularly as well. You need to set aside specific times and often extended periods of time to fully recharge your brain battery so that you can be alert and aware most of the time. The danger of dopamine. As.
 
-If you do not control the world around you, you will find yourself bombarded with emails, texts and telephone calls all day long. Each time you respond to the novelty or newness of an email or text message, your body releases a shot of dopamine, the same chemical found in cocaine. This dopamine acts as a stimulant and actually gives you a small feeling of pleasure. This stimulus and feeling of pleasure motivate you to repeat the process, to respond to the next text or email, or to send a new email or text to someone else.
+I mentioned earlier, we live today in the age of electronic distractions. If you do not control the world around you, you will find yourself bombarded with emails, texts and telephone calls all day long. Each time you respond to the novelty or newness of an email or text message, your body releases a shot of dopamine, the same chemical found in cocaine. This dopamine acts as a stimulant and actually gives you a small feeling of pleasure.
 
-Once you answer your first email in the morning and get your first jolt of dopamine, you find it harder and harder not to respond to incoming messages and eventually you cannot resist at all. Once you check your first email or respond to the first text, you find yourself reacting and responding to electronic stimuli all day long. Recent research suggests that the sound of an incoming email is similar to the sound of a slot machine bell ringing and coins falling. You immediately become curious to see what you just won.
+This stimulus and feeling of pleasure motivate you to repeat the process, to respond to the next text or email, or to send a new email or text to someone else. Once you answer your first email in the morning and get your first jolt of dopamine, you find it harder and harder not to respond to incoming messages and eventually you cannot resist at all. Once you check your first email or respond to the first text, you find yourself reacting and responding to electronic stimuli all day long.
 
-This is why you must leave the thing off if you’re going to totally relax. Taking care of your mental and physical health, your machine, is essential and perhaps more important than anything else to ensure your health, happiness and long-term success. Your health and well-being are more important to the quality of your life than almost any other factors. To perform at your best, rest is essential.
+Recent research suggests that the sound of an incoming email is similar to the sound of a slot machine bell ringing and coins falling. You immediately become curious to see what you just won. This is why you must leave the thing off if you’re going to totally relax. Taking care of your mental and physical health, your machine, is essential and perhaps more important than anything else to ensure your health, happiness and long-term success.
 
-You need long periods of complete rest and relaxation when you do absolutely nothing but recharge your mental, physical and emotional batteries. Vince Lombardi once said, fatigue makes cowards of us all. When you are tired out, burned out, you are susceptible to stress and negativity, are likely to become angry and impatient and may make choices and decisions that are not in your best long-term interest. Set rest as a priority.
+Your health and well-being are more important to the quality of your life than almost any other factors. To perform at your best, rest is essential. You need long periods of complete rest and relaxation when you do absolutely nothing but recharge your mental, physical and emotional batteries. Vince Lombardi once said, fatigue makes cowards of us all.
 
-Sometimes the very best use of your time is to come home and go to bed early at 8 or 9 p.m. and just sleep for 9 or 10 hours completely recharging your mental and physical batteries. When you have a lot going on in your life, when you have important decisions and choices to make, sometimes the best advice is to sleep on it. Put off any important decision
+When you are tired out, burned out, you are susceptible to stress and negativity, are likely to become angry and impatient and may make choices and decisions that are not in your best long-term interest. Set rest as a priority. Sometimes the very best use of your time is to come home and go to bed early at 8 or 9 p.m. and just sleep for 9 or 10 hours completely recharging your mental and physical batteries. When you have a lot going on in your life, when you have important decisions and choices to make, sometimes the best advice is to sleep on it.
+
+Put off any important decision
 
 
 <a id="sec-032701"></a>
 ### ⏱️ [03:27:01 - 03:32:04]
 
-until you are fully rested. Many years ago, my mentor, a successful business executive, gave me a little pamphlet called, Take Time Out for Mental Digestion. In this pamphlet, which I never forgot, the author recommended that you take 72 hours to think about a major choice or decision before taking action. This turns out to be a success secret of many top executives.
+until you are fully rested. Many years ago, my mentor, a successful business executive, gave me a little pamphlet called, Take Time Out for Mental Digestion. In this pamphlet, which. I never forgot, the author recommended that you take 72 hours to think about a major choice or decision before taking action.
 
-The more time you take to consider an important decision, the better quality decision you will make. This is because you get a chance to rest, to sleep on it, to turn it over in your mind and to carefully consider all the ramifications of the decision. Slow down to go faster. Most people feel that they have too much to do and too little time.
+This turns out to be a success secret of many top executives. The more time you take to consider an important decision, the better quality decision you will make. This is because you get a chance to rest, to sleep on it, to turn it over in your mind and to carefully consider all the ramifications of the decision. Slow down to go faster.
 
-They don’t have time for all this rest we are recommending. They feel that they have to get up and get going early in the morning and work hard all day long, sometimes bringing work home in the evening and continue to work until just before they go to bed. But this is false. There’s a story about the little girl who goes to her mother and asks, Mommy, why does Daddy bring a briefcase full of work home every night and works all the time and never spends time with a family?
+Most people feel that they have too much to do and too little time. They don’t have time for all this rest we are recommending. They feel that they have to get up and get going early in the morning and work hard all day long, sometimes bringing work home in the evening and continue to work until just before they go to bed. But this is false.
 
-The mother gently answers her by saying, well, honey, you have to understand Daddy has too much work to do at work, so he has to bring it home in order to catch up. The little girl says, Mommy, why don’t they just put him in a slower class? Be careful that you don’t get put into a slower class as the result of being perceived as someone who’s overwhelmed and unable to stay on top of her work. Violate Parkinson’s law.
+There’s a story about the little girl who goes to her mother and asks, Mommy, why does Daddy bring a briefcase full of work home every night and works all the time and never spends time with a family? The mother gently answers her by saying, well, honey, you have to understand Daddy has too much work to do at work, so he has to bring it home in order to catch up. The little girl says, Mommy, why don’t they just put him in a slower class?
 
-The primary reason people have too much to do and too little time is because the average person is wasting fully 50% of her time at work in idle conversation, checking email, taking long lunches and coffee breaks and generally engaging in other non-work activities. This is why one of the greatest success principles of all is to work all the time you work. C. Northcote Parkinson, a British historian, wrote a book many years ago called Parkinson’s Law.
+Be careful that you don’t get put into a slower class as the result of being perceived as someone who’s overwhelmed and unable to stay on top of her work. Violate Parkinson’s law. The primary reason people have too much to do and too little time is because the average person is wasting fully 50% of her time at work in idle conversation, checking email, taking long lunches and coffee breaks and generally engaging in other non-work activities. This is why one of the greatest success principles of all is to work all the time you work.
 
-In this book, he made the famous observation that work expands to fill the time allotted for it. If you have eight hours to accomplish a certain number of tasks, you will take a full eight hours and you’ll probably be rushing at the end of the day to finish your work. But the reverse of Parkinson’s Law is that work contracts to fill the time allotted for it. This means that if you give yourself a tighter deadline to get all your work done, you will work faster and more efficiently and sometimes accomplish even a full day’s work in just a couple of hours.
+C. Northcote Parkinson, a British historian, wrote a book many years ago called Parkinson’s Law. In this book, he made the famous observation that work expands to fill the time allotted for it. If you have eight hours to accomplish a certain number of tasks, you will take a full eight hours and you’ll probably be rushing at the end of the day to finish your work.
 
-Set deadlines on yourself. One of my seminar attendees, a successful businessman, told me an interesting story. He said that when he got married, he promised his wife… he would be home by six o’clock each night and would spend at least two solid hours with her every single day and more on the weekends. When his children were born he expanded that to three hours per day for his family and more time on the weekends.
+But the reverse of Parkinson’s Law is that work contracts to fill the time allotted for it. This means that if you give yourself a tighter deadline to get all your work done, you will work faster and more efficiently and sometimes accomplish even a full day’s work in just a couple of hours. Set deadlines on yourself. One of my seminar attendees, a successful businessman, told me an interesting story.
 
-He told me that if he had to be out of town he would religiously make up the lost hours of spending even more time with his wife and his children. He said that this promise, made early in his career, changed his life. To keep his promise he disciplined himself to work efficiently and on his most important tasks all day long. He went to work a little earlier.
+He said that when he got married, he promised his wife… he would be home by six o’clock each night and would spend at least two solid hours with her every single day and more on the weekends. When his children were born he expanded that to three hours per day for his family and more time on the weekends. He told me that if he had to be out of town he would religiously make up the lost hours of spending even more time with his wife and his children.
 
-He worked a little harder and he finished up on time to be home with his family for dinner by 6 p.m. He became one of the most productive executives in his industry. He was paid more and promoted rapidly and over the course of his career became quite wealthy. He said that making that promise to his wife was one of the most important things he ever did. You can do the same.
+He said that this promise, made early in his career, changed his life. To keep his promise he disciplined himself to work efficiently and on his most important tasks all day long. He went to work a little earlier. He worked a little harder and he finished up on time to be home with his family for dinner by 6 p.m.
+
+He became one of the most productive executives in his industry. He was paid more and promoted rapidly and over the course of his career became quite wealthy. He said that making that promise to his wife was one of the most important things he ever did. You can do the same.
 
 Remember it’s not the number of hours that you put in but the amount that you produce in those hours. To produce the best quality and quantity of work requires that you be fully rested every working hour of every day. You owe this to yourself and to your company. Observe the Sabbath.
 
-Orthodox Jews honor the Sabbath in a particular way as an important part of their religious practice. From sundown on Friday to sundown on Saturday they refrain from all work of any kind. They take a full 24 hours during which they engage in religious and family activities. This is a wonderful concept that I adapted to my life many years ago and which many of my students have incorporated as well.
+Orthodox Jews honor the Sabbath in a particular way as an important part of their religious practice. From sundown on Friday to sundown on Saturday they refrain from all work of any kind. They take a full 24 hours during which they engage in religious and family activities. This is a wonderful concept that.
 
-Each week discipline yourself to take off at least one full day where you do no business work at all. What you need is two full nights of rest with no work in between. One good night’s rest does not seem to be enough. What you need is to sleep deeply and well on one night, completely relax and refresh for a full day and then get another
+I adapted to my life many years ago and which many of my students have incorporated as well. Each week discipline yourself to take off at least one full day where you do no business work at all. What you need is two full nights of rest with no work in between. One good night’s rest does not seem to be enough.
+
+What you need is to sleep deeply and well on one night, completely relax and refresh for a full day and then get another
 
 
 <a id="sec-033204"></a>
@@ -1341,11 +1423,11 @@ Use your amazing mind to keep yourself active all day without doing any heavy me
 
 In this way you give your mental energies a chance to rejuvenate. If you’re going through an emotionally draining situation, be sure to get more sleep. Try to take a complete break by engaging in a physical activity, even going for a walk to give yourself a chance to recharge. Make R&R a way of life.
 
-In addition to taking one full day off each week when you do no mental work at all, you should plan to take a three-day vacation every couple of months with your spouse or mate. But to get the maximum benefit out of these short vacations, you need to get two full nights of sleep when you are away. I live in San Diego. My wife and I often drive to Palm Springs, a two and a half hour drive for a three-day weekend, leaving on Friday and coming back on Sunday afternoon.
+In addition to taking one full day off each week when you do no mental work at all, you should plan to take a three-day vacation every couple of months with your spouse or mate. But to get the maximum benefit out of these short vacations, you need to get two full nights of sleep when you are away. I live in San Diego. My wife and.
 
-Sometimes we’ll fly to San Francisco on the same schedule and spend two full days in a hotel, going out for dinner and just relaxing. These turn out to be some of the most enjoyable times of our lives. In addition, set a goal to take two, three or four weeks away on vacation each year. During this time you may occasionally check your email to make sure that there are no emergencies, but generally speaking you leave things off.
+I often drive to Palm Springs, a two and a half hour drive for a three-day weekend, leaving on Friday and coming back on Sunday afternoon. Sometimes we’ll fly to San Francisco on the same schedule and spend two full days in a hotel, going out for dinner and just relaxing. These turn out to be some of the most enjoyable times of our lives. In addition, set a goal to take two, three or four weeks away on vacation each year.
 
-If you’re living and working intensely, you’ll
+During this time you may occasionally check your email to make sure that there are no emergencies, but generally speaking you leave things off. If you’re living and working intensely, you’ll
 
 
 <a id="sec-034213"></a>
@@ -1353,25 +1435,27 @@ If you’re living and working intensely, you’ll
 
 require three or four or even five days on vacation to decompress and to start to fully relax. Up to that time you’ll still be mentally running on the treadmill, thinking about your work and things that you could do while you are gone. During this period of decompression you must discipline yourself to keep busy doing things other than work. Turn your computer off, get out and move around.
 
-Go for walks, go out for dinner, go sightseeing, but don’t do any work until the compulsion to work eventually dies away, which it will. Family vacations. This idea of long vacations does not always come easy. I was in my late 30s before I first took a two-week vacation and I felt guilty about not working the whole time, but in the long run I really enjoyed the experience.
+Go for walks, go out for dinner, go sightseeing, but don’t do any work until the compulsion to work eventually dies away, which it will. Family vacations. This idea of long vacations does not always come easy. I was in my late 30s before.
 
-The next year we took another long vacation and we have taken long vacations every year ever since. At the beginning it took me at least three days before I could get off the mental treadmill and stop thinking about the work I had left behind. Today, with the passing of time and with the increased busyness of my schedule, it takes me a full week to come down. Until then, I have to fight the irresistible desire to open up my laptop and communicate with the rest of the world.
+I first took a two-week vacation and. I felt guilty about not working the whole time, but in the long run. I really enjoyed the experience. The next year we took another long vacation and we have taken long vacations every year ever since.
 
-This may happen to you as well. Remember, the more time you take off, daily, weekly, monthly and annually, to allow yourself to rest completely, the more productive you will be when you go back to work. Sometimes you will have one great idea while you’re on vacation that may save you a year or even five years of hard work, but you have to create the rested time for this inspiration to occur. Plan vacations in advance.
+At the beginning it took me at least three days before. I could get off the mental treadmill and stop thinking about the work. I had left behind. Today, with the passing of time and with the increased busyness of my schedule, it takes me a full week to come down.
 
-There’s a great technique that has been a life changer for me for more than three decades. It is this. Each January, plan your time off and vacation calendar for the year to come. Mark off the days you will take off each week, your two and three day getaways and your one and two week vacations.
+Until then, I have to fight the irresistible desire to open up my laptop and communicate with the rest of the world. This may happen to you as well. Remember, the more time you take off, daily, weekly, monthly and annually, to allow yourself to rest completely, the more productive you will be when you go back to work. Sometimes you will have one great idea while you’re on vacation that may save you a year or even five years of hard work, but you have to create the rested time for this inspiration to occur.
 
-Then call and book your vacations with a non-refundable deposit. Once you’ve paid a non-refundable deposit, you are committed. You will very seldom ever miss a vacation for which you have prepaid. My wife and I go to Hawaii for three weeks at Christmas each year with our family.
+Plan vacations in advance. There’s a great technique that has been a life changer for me for more than three decades. It is this. Each January, plan your time off and vacation calendar for the year to come.
 
-The complex where we stay is very popular and is fully booked through December and January. Because of this, they require a deposit on January 5 to hold the condominium that you wish to stay in, half payment by April 1 and payment by June 1, and the payments are non-refundable. In 30 years we have never failed to take these family vacations. We have never missed a day, and it will be the same with you.
+Mark off the days you will take off each week, your two and three day getaways and your one and two week vacations. Then call and book your vacations with a non-refundable deposit. Once you’ve paid a non-refundable deposit, you are committed. You will very seldom ever miss a vacation for which you have prepaid.
 
-Rest and recreation time is some of the most important time of your life. Many of your best ideas, ideas that can make you successful even wealthy, will come to you after a period of complete physical and mental vacation. Carving out blocks of time where you can totally relax is one of the most important and valuable uses of your time, and can make all the difference in your life, your future. Now here are three action exercises for you.
+My wife and. I go to Hawaii for three weeks at Christmas each year with our family. The complex where we stay is very popular and is fully booked through December and January. Because of this, they require a deposit on January 5 to hold the condominium that you wish to stay in, half payment by April 1 and payment by June 1, and the payments are non-refundable.
 
-One, resolve today that you’re going to build a rest and relaxation schedule into your life to ensure you will perform at your best in your work. Number two, plan your vacation schedule at the beginning of the year, and then plan your work responsibilities around it. Number three, book and pay for your vacations early in the year to ensure you never delay or procrastinate on the rest and relaxation that you need.
+In 30 years we have never failed to take these family vacations. We have never missed a day, and it will be the same with you. Rest and recreation time is some of the most important time of your life. Many of your best ideas, ideas that can make you successful even wealthy, will come to you after a period of complete physical and mental vacation.
 
-#### Chapter 10, quiet time. James Allen wrote, dream lofty dreams, and as you dream so shall you become.
+Carving out blocks of time where you can totally relax is one of the most important and valuable uses of your time, and can make all the difference in your life, your future. Now here are three action exercises for you. One, resolve today that you’re going to build a rest and relaxation schedule into your life to ensure you will perform at your best in your work. Number two, plan your vacation schedule at the beginning of the year, and then plan your work responsibilities around it.
 
-Your vision is the promise of what you shall one day be. Your ideal is the prophecy of what you shall at last
+Number three, book and pay for your vacations early in the year to ensure you never delay or procrastinate on the rest and relaxation that you need.
+
+#### Chapter 10, quiet time. James Allen wrote, dream lofty dreams, and as you dream so shall you become. Your vision is the promise of what you shall one day be. Your ideal is the prophecy of what you shall at last
 
 
 <a id="sec-034714"></a>
@@ -1387,7 +1471,7 @@ Spiritual development requires among other things that you practice mindfulness 
 
 Aristotle wrote wisdom is an equal combination of experience plus reflection. Constant busyness, electronic interruptions, television, socializing, all keep our minds so busy that we seldom have time to actually stop and think about what we are doing or what is really happening around us. When you are so busy that you don’t take time to reflect on the experiences of your life. You don’t learn, grow, and develop the wisdom that you need to become a fully mature, fully functioning person.
 
-The more time you take to think and reflect on your experiences the deeper will be your knowledge and intelligence. As a result you’ll find yourself making better decisions and fewer mistakes. Mindfulness requires that you discipline yourself to stop and think on a regular basis about what you are doing and how you are doing it. Fortunately you can practice this mindfulness at any time by simply slowing down.
+The more time you take to think and reflect on your experiences the deeper will be your knowledge and intelligence. As a result you’ll find yourself making better decisions and fewer mistakes. Mindfulness requires that you discipline yourself to stop and think on a regular basis about what you are doing and how you are doing it. Fortunately, you can practice this mindfulness at any time by simply slowing down.
 
 Mindfulness made simple. A simple technique for mindfulness for centering or calming your mind completely is called stopping thoughts. Your ability to stop your thoughts to clear your mind requires that you shift your focus and attention away from your day-to-day life and onto something as simple as breathing in and breathing out. Because you can think only one thought at a time when you start to think about your reading you automatically stop thinking about anything else especially something that might cause you anger or stress at the moment.
 
@@ -1395,7 +1479,7 @@ When you can get your mind busy elsewhere thinking about something else or nothi
 
 Take deep deep breaths inhaling as deeply as you possibly can. Count to seven as you do this. Then hold your breath to the slow count of seven.
 
-Finally exhale your breath to the count of seven. Do this complete exercise seven times whenever you are experiencing stress anger or in advance of an important event like a meeting or presentation. This seven seven seven method of breathing will trigger the release of endorphins in your brain. Endorphins are called nature’s happy drug.
+Finally, exhale your breath to the count of seven. Do this complete exercise seven times whenever you are experiencing stress anger or in advance of an important event like a meeting or presentation. This seven seven seven method of breathing will trigger the release of endorphins in your brain. Endorphins are called nature’s happy drug.
 
 A tiny amount of these hormones will give you a feeling of peace and a sense of mental clarity. You will be more happy and creative. Remember yourself. The metaphysician, Peter Ospensky, taught the practice of self-remembering as a way of centering oneself and increasing self-awareness.
 
@@ -1445,9 +1529,9 @@ You’ll enjoy the same benefits of relaxation and enhanced creativity as you wo
 
 Either meditation or contemplation will work for you in bringing you the peace you seek or the solutions that you are looking for. The big payoff. The French writer Pascal said, all the problems of the human race stem from man’s inability to sit quietly by himself in a room. When you include periods of mindfulness, solitude, meditation, and contemplation in your life, you’ll feel happier, healthier, and more in control of yourself and your emotions.
 
-The good news is that meditation, contemplation, and solitude are purely beneficial acts. Each of them lowers your flashpoint, reduces your stress, and makes you more relaxed and resilient in the face of day-to-day problems. People report extraordinary benefits from mindful living, enjoying greater clarity and alertness, a heightened sense of self-control, and greater personal power. They experience lower blood pressure, less stress, better sleep, superior health, and many other good things, including weight loss. Resolve right now that you’re going to take a few minutes each day, perhaps just five minutes at the beginning, to sit perfectly still, quietly, with no distractions, and just let your mind float peacefully.
+The good news is that meditation, contemplation, and solitude are purely beneficial acts. Each of them lowers your flashpoint, reduces your stress, and makes you more relaxed and resilient in the face of day-to-day problems. People report extraordinary benefits from mindful living, enjoying greater clarity and alertness, a heightened sense of self-control, and greater personal power. They experience lower blood pressure, less stress, better sleep, superior health, and many other good things, including weight loss.
 
-Think about your breathing, or think about water. From the first time you practice this mindfulness, you’ll be more alert and aware and feel better about yourself and your world.
+Resolve right now that you’re going to take a few minutes each day, perhaps just five minutes at the beginning, to sit perfectly still, quietly, with no distractions, and just let your mind float peacefully. Think about your breathing, or think about water. From the first time you practice this mindfulness, you’ll be more alert and aware and feel better about yourself and your world.
 
 Now, here are three action exercises for you. Number one, go into the silence on a regular basis, once per day if possible. Practice solitude to tune into your higher powers. Number two, practice mindfulness, slowing down to increase your sense of awareness when you eat, work, and talk with others.
 

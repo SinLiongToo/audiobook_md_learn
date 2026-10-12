@@ -145,35 +145,91 @@
 <a id="sec-000000"></a>
 ### ⏱️ [00:00:00 - 00:05:02]
 
-12 rules for life by Jordan Peterson forward Rules more rules really isn’t life complicated enough restricting enough without abstract rules that don’t take our unique individual situations into account And given that our brains are plastic and all develop differently based on our life experiences Why even expect that a few rules might be helpful to us all? Well don’t clamor for rules even in the Bible as when Moses comes down the mountain after a long absence Bearing the tablets inscribed with 10 commandments and finds the children of Israel in revelry They’ve been Pharaoh’s slaves and subject to his tyrannical regulations for 400 years and after that Moses subjected them to the harsh desert wilderness For another 40 years to purify them of their slavishness Now free at last they’re unbridled and have lost all control as they dance wildly around an idol a golden calf displaying all manner of corporeal corruption I’ve got some good news.
+12 rules for life by Jordan Peterson forward Rules more rules really isn’t life complicated enough restricting enough without abstract rules that don’t take our unique individual situations into account. And given that our brains are plastic and all develop differently based on our life experiences. Why even expect that a few rules might be helpful to us all? Well don’t clamor for rules even in the Bible as when Moses comes down the mountain after a long absence Bearing the tablets inscribed with 10 commandments and finds the children of Israel in revelry.
 
-I’ve got some bad news the lawgiver yells to them. Which do you want first? the hedonists reply I Got in from 15 commandments down to 10 Cried the unruly crowd and the bad oh Adultery is still in So rules there will be but please not too many We are ambivalent about rules even when we know they’re good for us If we are spirited souls if we have character rules seem restrictive and affront to our sense of agency and our pride in working out our own lives Why should we be judged according to another’s rule?
+They’ve been Pharaoh’s slaves and subject to his tyrannical regulations for 400 years and after that Moses subjected them to the harsh desert wilderness. For another 40 years to purify them of their slavishness. Now free at last they’re unbridled and have lost all control as they dance wildly around an idol a golden calf displaying all manner of corporeal corruption. I’ve got some good news.
 
-And judged we are after all God didn’t give Moses the 10 suggestions He gave commandments and if I’m a free agent my first reaction to a command might just be that nobody not even God Tells me what to do even if it’s good for me But the story of the golden calf also reminds us that without rules we quickly become slaves to our passions And there’s nothing freeing about that and the story suggests something more Unshaperoned and left to our own untutored judgment.
+I’ve got some bad news the lawgiver yells to them. Which do you want first? the hedonists reply. I Got in from 15 commandments down to 10. Cried the unruly crowd and the bad oh Adultery is still in.
 
-We’re quick to aim low and worship qualities that are beneath us In this case an artificial animal that brings out our own animal instincts in a completely unregulated way The old Hebrew story makes it clear how the ancients felt about our prospects for civilized behavior in the absence of rules that seek to Elevate our gaze and raise our standards One neat thing about the Bible story is that it doesn’t simply list its rules as lawyers or legislators or administrators might it embeds them In a dramatic tale that illustrates why we need them thereby making them easier to understand Similarly in this book professor Peterson doesn’t just propose his 12 rules He tells stories to bringing to bear his knowledge of many fields as he illustrates and explains why the best rules do not ultimately Restrict us but instead facilitate our goals and make for fuller freer lives The first time I met Jordan Peterson was on September 12 2004 at the home of two mutual friends TV producer Wodek Zemberg and the medical internist Esther Abekir It was Wodek’s birthday party Wodek and Esther are Polish amigra who grew up within the Soviet Empire where it was understood that many topics were off limits And that casually questioning certain social arrangements and philosophical ideas not to mention the regime itself could mean big trouble But now host and hostess luxuriated an easygoing honest talk by having elegant parties devoted to the pleasure of saying what you really thought and hearing Others do the same in an uninhibited give-and-take Here the rule was speak your mind If the conversation turned to politics people of different political persuasions spoke to each other indeed looked forward to it in a manner That is increasingly rare This sometimes Wodek’s own opinions or truths exploded out of him as did his laugh Then we’d hug whoever had made him laugh or provoked him to speak his mind with greater intensity than even he might have intended This was the best part of the parties and this frankness and his warm embraces made it worth provoking him Meanwhile Esther’s voice lilted across the room on a very precise path towards its intended listener Truth explosions didn’t make the atmosphere any less easygoing for the company They made for more truth explosions liberating us and more laughs and making the whole evening more pleasant Because with de-repressing Eastern Europeans like the Zemberd Beckyres You always knew with what and with whom you were dealing and that frankness was enlivening When the lead above Zach the novelist once described the balls and parties in his native France Observing that what appeared to be a single party was always really to in the first hours The gathering was suffused with bored people posing and posturing and attendees who came to meet perhaps one special person who would confirm them in their beauty and status Then only in the very late hours after most of the guests had left with the second party the real party begin Here the conversation was shared by each person present and open-hearted laughter replaced the starchy heirs At Esther and Wodek’s parties this kind of wee hours of the morning disclosure and intimacy often began as soon as we entered the room Wodek is a silver-haired lion maned hunter always on the lookout for potential public intellectuals who know how to spot people who can really talk in front of a TV camera and who look authentic because they are The camera picks up on that he often invites such people to these salons That day Wodek brought a psychology professor from my own University of Toronto who fit the bill intellect and emotion in tandem Wodek was the first to put Jordan Peterson in front of a camera and thought of him as a teacher in search of students Because he was always ready to explain and it helped that he liked the camera and that the camera liked him back That afternoon there was a large table set outside in the Zemberg Beckyres garden around
+So rules there will be but please not too many. We are ambivalent about rules even when we know they’re good for us. If we are spirited souls if we have character rules seem restrictive and affront to our sense of agency and our pride in working out our own lives. Why should we be judged according to another’s rule?
+
+And judged we are after all God didn’t give Moses the 10 suggestions. He gave commandments and if. I’m a free agent my first reaction to a command might just be that nobody not even God Tells me what to do even if it’s good for me. But the story of the golden calf also reminds us that without rules we quickly become slaves to our passions.
+
+And there’s nothing freeing about that and the story suggests something more Unshaperoned and left to our own untutored judgment. We’re quick to aim low and worship qualities that are beneath us. In this case an artificial animal that brings out our own animal instincts in a completely unregulated way The old Hebrew story makes it clear how the ancients felt about our prospects for civilized behavior in the absence of rules that seek to Elevate our gaze and raise our standards One neat thing about the Bible story is that it doesn’t simply list its rules as lawyers or legislators or administrators might it embeds them.
+
+In a dramatic tale that illustrates why we need them thereby making them easier to understand. Similarly, in this book professor Peterson doesn’t just propose his 12 rules. He tells stories to bringing to bear his knowledge of many fields as he illustrates and explains why the best rules do not ultimately Restrict us but instead facilitate our goals and make for fuller freer lives The first time. I met Jordan Peterson was on September 12 2004 at the home of two mutual friends TV producer Wodek Zemberg and the medical internist Esther Abekir.
+
+It was Wodek’s birthday party Wodek and Esther are Polish amigra who grew up within the Soviet Empire where it was understood that many topics were off limits. And that casually questioning certain social arrangements and philosophical ideas not to mention the regime itself could mean big trouble. But now host and hostess luxuriated an easygoing honest talk by having elegant parties devoted to the pleasure of saying what you really thought and hearing Others do the same in an uninhibited give-and-take.
+
+Here the rule was speak your mind. If the conversation turned to politics people of different political persuasions spoke to each other indeed looked forward to it in a manner. That is increasingly rare. This sometimes Wodek’s own opinions or truths exploded out of him as did his laugh.
+
+Then we’d hug whoever had made him laugh or provoked him to speak his mind with greater intensity than even he might have intended. This was the best part of the parties and this frankness and his warm embraces made it worth provoking him.
+
+Meanwhile Esther’s voice lilted across the room on a very precise path towards its intended listener Truth explosions didn’t make the atmosphere any less easygoing for the company. They made for more truth explosions liberating us and more laughs and making the whole evening more pleasant. Because with de-repressing Eastern Europeans like the Zemberd Beckyres. You always knew with what and with whom you were dealing and that frankness was enlivening.
+
+When the lead above Zach the novelist once described the balls and parties in his native France Observing that what appeared to be a single party was always really to in the first hours The gathering was suffused with bored people posing and posturing and attendees who came to meet perhaps one special person who would confirm them in their beauty and status. Then only in the very late hours after most of the guests had left with the second party the real party begin.
+
+Here the conversation was shared by each person present and open-hearted laughter replaced the starchy heirs. At Esther and Wodek’s parties this kind of wee hours of the morning disclosure and intimacy often began as soon as we entered the room Wodek is a silver-haired lion maned hunter always on the lookout for potential public intellectuals who know how to spot people who can really talk in front of a TV camera and who look authentic because they are The camera picks up on that he often invites such people to these salons.
+
+That day Wodek brought a psychology professor from my own University of Toronto who fit the bill intellect and emotion in tandem Wodek was the first to put Jordan Peterson in front of a camera and thought of him as a teacher in search of students. Because he was always ready to explain and it helped that he liked the camera and that the camera liked him back. That afternoon there was a large table set outside in the Zemberg Beckyres garden around
 
 
 <a id="sec-000502"></a>
 ### ⏱️ [00:05:02 - 00:10:07]
 
-It was gathered the usual collection of lips and ears and loquacious virtuosos We seemed however to be plagued by a buzzing paparazzi of bees and here was this new fellow at the table with an Albertan accent And cowboy boots who was ignoring them and kept on talking He kept talking while the rest of us were playing musical chairs to keep away from the pests yet also trying to remain at the Table because this new addition to our gatherings was so interesting He had this odd habit of speaking about the deepest questions to whoever was at this table most of them new acquaintances as though he were just making small talk or if he did do small talk the interval between How do you know Wodek and Esther or I was a beekeeper once so I’m used to them and more serious topics would be nanoseconds One might hear such questions discussed at parties where professors and professionals gather But usually the conversation would remain between two specialists in the topic off in a corner or if shared with the whole group It was often not without someone preening But this Peterson the erudite didn’t come across as a pedant He had this enthusiasm of a kid who had just learned something new and had to share it He seemed to be assuming as a child would before learning how dulled adults can become that if if he thought something was interesting Then so might others There was something boyish in the cowboy in his broaching of subjects as though we had all grown up together in the same small town Or family and had been thinking about the very same problems of human existence all along Peterson wasn’t really an eccentric he had sufficient conversational chops had been a Harvard professor was a gentleman as Cowboys can be though He did say damn bloody a lot in a rural 1950s sort of way But everyone listened with a fascination on their faces because he was in fact addressing the questions of concern to everyone at the table There was something freeing about being with a person so learned yet speaking in such an unedited way his thinking was motoric It seemed he needed to think aloud to use his motor cortex to think But that motor also had to run fast to work properly to get to liftoff not quite manic, but his idling speed revved high Spirited thoughts were tumbling out But unlike many academics who take the floor and hold it if someone challenged or corrected him he really seemed to like it He didn’t rear up and nay.
+It was gathered the usual collection of lips and ears and loquacious virtuosos. We seemed however to be plagued by a buzzing paparazzi of bees and here was this new fellow at the table with an Albertan accent. And cowboy boots who was ignoring them and kept on talking. He kept talking while the rest of us were playing musical chairs to keep away from the pests yet also trying to remain at the Table because this new addition to our gatherings was so interesting.
 
-He’d say in a kind of folksy way Yeah, and bow his head involuntarily wag it if he had overlooked something laughing at himself for over generalizing He appreciated being shown another side of an issue and it became clear that thinking through a problem was for him a dialogic process One could not but be struck by another unusual thing about him for an egghead Peterson was extremely practical His examples were filled with applications to everyday life business management how to make furniture He made much of his own designing a simple house making a room beautiful now an internet meme or in another specific case related to education creating an online writing project that kept minority students from dropping out of school by getting them to do a kind of Psychoanalytic exercise on themselves in which they would free associate about their past present and future now known as the self-authoring program I was always especially fond of Midwestern Prairie types who come from a farm where they learned all about nature or from a very small town When have worked with their hands to make things spend long periods outside in the harsh elements and are often self educated and go to University against the odds.
+He had this odd habit of speaking about the deepest questions to whoever was at this table most of them new acquaintances as though he were just making small talk or if he did do small talk the interval between. How do you know Wodek and Esther or. I was a beekeeper once so. I’m used to them and more serious topics would be nanoseconds One might hear such questions discussed at parties where professors and professionals gather.
 
-I found them quite unlike their sophisticated but somewhat denatured urban counterparts for whom higher education was preordained and For that reason sometimes taken for granted or thought of not as an end in itself But simply as a life stage in the service of career advancement these Westerners were different self-made Unentitled hands-on neighborly and less precious than many of their big-city peers who increasingly spent their lives indoors manipulating symbols on computers This cowboy psychologist seemed to care about a thought only if it might in some way be helpful to someone We became friends as a psychiatrist and psychoanalyst who loves literature I was drawn to him because here was a clinician who also had given himself a great books education and who not only loved soulful Russian Novels philosophy and ancient mythology, but who also seemed to treat them as his most treasured inheritance But he also did illuminating statistical research on personality and temperament and had studied neuroscience Though trained as a behaviorist He was powerfully drawn to psychoanalysis with its focus on dreams Archetypes the persistence of childhood conflicts in the adult and the role of defenses and rationalization in everyday life He was also an outlier in being the only member of the research oriented department of psychology at the University of Toronto Who also kept the clinical practice on my visits our conversations began with banter and laughter That was the small-town Peterson from the Alberta hinterland his teenage years right out of the movie fubar Welcoming you into his home The house had been gutted by Tammy his wife and himself and turned into perhaps the most fascinating and shocking middle-class home I had seen they had art some carved masks and abstract portraits But they were overwhelmed by a huge collection of original socialist realist paintings of Lenin and the early communists commissioned by the USSR Not long after the Soviet Union fell and most of the world breathed a sigh of relief Peterson began purchasing this propaganda for a song online Paintings lionizing the Soviet revolutionary spirit completely filled every single wall the ceilings even the bathrooms The paintings were not there because Jordan had any totalitarian sympathies But because he wanted to remind himself of something he knew he and everyone would rather forget Did over a hundred million people were murdered in the name of a utopia?
+But usually the conversation would remain between two specialists in the topic off in a corner or if shared with the whole group. It was often not without someone preening. But this Peterson the erudite didn’t come across as a pedant. He had this enthusiasm of a kid who had just learned something new and had to share it.
 
-It took getting used to this semi-haunted house decorated by delusion that had practically destroyed mankind But it was eased by his wonderful and unique spouse Tammy who was all in who embraced and encouraged this unusual need for expression These paintings provided a visitor with the first window into the full extent of Jordan’s concern about our human capacity for evil in the name Of good and the psychological mystery of self-deception. How can a person deceive himself and get away with it an interest that we share
+He seemed to be assuming as a child would before learning how dulled adults can become that if if he thought something was interesting. Then so might others. There was something boyish in the cowboy in his broaching of subjects as though we had all grown up together in the same small town Or family and had been thinking about the very same problems of human existence all along Peterson wasn’t really an eccentric he had sufficient conversational chops had been a Harvard professor was a gentleman as Cowboys can be though.
+
+He did say damn bloody a lot in a rural 1950s sort of way. But everyone listened with a fascination on their faces because he was in fact addressing the questions of concern to everyone at the table. There was something freeing about being with a person so learned yet speaking in such an unedited way his thinking was motoric. It seemed he needed to think aloud to use his motor cortex to think.
+
+But that motor also had to run fast to work properly to get to liftoff not quite manic, but his idling speed revved high Spirited thoughts were tumbling out. But unlike many academics who take the floor and hold it if someone challenged or corrected him he really seemed to like it. He didn’t rear up and nay. He’d say in a kind of folksy way Yeah, and bow his head involuntarily wag it if he had overlooked something laughing at himself for over generalizing.
+
+He appreciated being shown another side of an issue and it became clear that thinking through a problem was for him a dialogic process One could not but be struck by another unusual thing about him for an egghead Peterson was extremely practical. His examples were filled with applications to everyday life business management how to make furniture. He made much of his own designing a simple house making a room beautiful now an internet meme or in another specific case related to education creating an online writing project that kept minority students from dropping out of school by getting them to do a kind of Psychoanalytic exercise on themselves in which they would free associate about their past present and future now known as the self-authoring program.
+
+I was always especially fond of Midwestern Prairie types who come from a farm where they learned all about nature or from a very small town. When have worked with their hands to make things spend long periods outside in the harsh elements and are often self educated and go to University against the odds. I found them quite unlike their sophisticated but somewhat denatured urban counterparts for whom higher education was preordained and. For that reason sometimes taken for granted or thought of not as an end in itself.
+
+But simply as a life stage in the service of career advancement these Westerners were different self-made Unentitled hands-on neighborly and less precious than many of their big-city peers who increasingly spent their lives indoors manipulating symbols on computers. This cowboy psychologist seemed to care about a thought only if it might in some way be helpful to someone. We became friends as a psychiatrist and psychoanalyst who loves literature. I was drawn to him because here was a clinician who also had given himself a great books education and who not only loved soulful Russian Novels philosophy and ancient mythology, but who also seemed to treat them as his most treasured inheritance.
+
+But he also did illuminating statistical research on personality and temperament and had studied neuroscience Though trained as a behaviorist. He was powerfully drawn to psychoanalysis with its focus on dreams Archetypes the persistence of childhood conflicts in the adult and the role of defenses and rationalization in everyday life. He was also an outlier in being the only member of the research oriented department of psychology at the University of Toronto. Who also kept the clinical practice on my visits our conversations began with banter and laughter.
+
+That was the small-town Peterson from the Alberta hinterland his teenage years right out of the movie fubar Welcoming you into his home The house had been gutted by Tammy his wife and himself and turned into perhaps the most fascinating and shocking middle-class home. I had seen they had art some carved masks and abstract portraits. But they were overwhelmed by a huge collection of original socialist realist paintings of Lenin and the early communists commissioned by the USSR Not long after the Soviet Union fell and most of the world breathed a sigh of relief Peterson began purchasing this propaganda for a song online Paintings lionizing the Soviet revolutionary spirit completely filled every single wall the ceilings even the bathrooms The paintings were not there because Jordan had any totalitarian sympathies.
+
+But because he wanted to remind himself of something he knew he and everyone would rather forget Did over a hundred million people were murdered in the name of a utopia? It took getting used to this semi-haunted house decorated by delusion that had practically destroyed mankind. But it was eased by his wonderful and unique spouse Tammy who was all in who embraced and encouraged this unusual need for expression. These paintings provided a visitor with the first window into the full extent of Jordan’s concern about our human capacity for evil in the name Of good and the psychological mystery of self-deception.
+
+How can a person deceive himself and get away with it an interest that we share
 
 
 <a id="sec-001007"></a>
 ### ⏱️ [00:10:07 - 00:15:10]
 
-and then there were also the hours we’d spend discussing what I might call a lesser problem lesser because rarer the human capacity for evil for The sake of evil the joy some people take in destroying others captured famously by the 17th century English poet John Milton in Paradise Lost and So we’d chat and have our tea in his kitchen underworld walled by this odd art collection a visual marker of his earnest quest to move beyond simplistic Ideology left or right and not repeat mistakes of the past After a while, there was nothing peculiar about taking tea in the kitchen discussing family issues One’s latest reading with those ominous pictures hovering.
+and then there were also the hours we’d spend discussing what. I might call a lesser problem lesser because rarer the human capacity for evil for The sake of evil the joy some people take in destroying others captured famously by the 17th century English poet John Milton in Paradise Lost and. So we’d chat and have our tea in his kitchen underworld walled by this odd art collection a visual marker of his earnest quest to move beyond simplistic Ideology left or right and not repeat mistakes of the past.
 
-It was just living in the world as it was or in some places is In Jordan’s first and only book before this one maps of meaning he shares his profound insights into universal themes of world mythology and explains how all cultures have created stories to help us grapple with and Ultimately map the chaos into which we are thrown at birth This chaos is everything that is unknown to us and any unexplored territory that we must reverse be it in the world outside or the psyche within Combining evolution the neuroscience of emotion some of the best of young some of Freud much of the great works of Nietzsche Dostoyevsky Solzhenitsyn Eliade Newman Piaget Frye Frankel maps of meaning published nearly two decades ago shows Jordan’s wide-ranging approach to understanding how human beings and the human brain Deal with the archetypal situation that arises whenever we in our daily lives must face something we do not understand The brilliance of the book is in his demonstration of how rooted the situation is in evolution our DNA our brains And our most ancient stories and he shows that these stories have survived because they still provide guidance in dealing with uncertainty and the unavoidable unknown One of the many virtues of the book you’re reading now is that it provides an entry point into maps of meaning which is a highly Complex work because Jordan was working out his approach to psychology as he wrote it But it was foundational because no matter how different our genes or life experiences may be or how differently our plastic brains are wired by our experience We all have to deal with the unknown and we all attempt to move from chaos to order and this is why many of the rules in This book being based on maps of meaning have an element of universality to them maps of meaning was sparked by Jordan’s agonized awareness as a teenager growing up in the midst of the Cold War that much of Mankind seemed on the verge of blowing up the planet to defend their various identities He felt he had to understand how it could be that people would sacrifice everything for an identity whatever that was And he felt he had to understand the ideologies that drove totalitarian regimes to a variant of that same behavior Killing their own citizens in maps of meaning and again in this book one of the matters He cautions readers to be most wary of his ideology no matter who is peddling it or to what end Ideologies are simple ideas disguised as science or philosophy that purport to explain the complexity of the world and offer remedies that will perfect it Ideologues are people who pretend they know how to make the world a better place Before they’ve taken care of their own chaos within the warrior identity that their ideology gives them covers over that chaos That’s hubris of course and one of the most important themes of this book is set your house in order first and Jordan provides practical advice on how to do this Ideologies are substitutes for true knowledge and ideologues are always dangerous when they come to power because a simple-minded I know it all approach is no match for the complexity of existence Furthermore when their social contraptions fail to fly ideologues blame not themselves, but all who see through the simplifications Another great U of T professor Lewis foyer in his book ideology and the ideologies Observe the ideologies retool the very religious stories They purport to have supplanted but eliminate the narrative and psychological richness communism borrowed from the story of the children of Israel in Egypt with an enslaved class rich persecutors a Leader like Lenin who goes abroad lives among the enslavers and then leads the enslaved to the promised land the utopia the dictatorship of the proletariat To understand ideology Jordan read extensively about not only the Soviet Gulag, but also the Holocaust and the rise of Nazism I had never before met a person born Christian and of my generation who was so utterly Tormented by what happened in Europe to the Jews and who had worked so hard to understand how it could have occurred I too had studied this in depth My own father survived Auschwitz My grandmother was middle-aged when she stood face to face with dr You’ll see from England the Nazi physician who conducted unspeakably cruel experiments on his victims And she survived Auschwitz by disobeying his order to join the line with the elderly the gray and the weak and instead slipping into A line with younger people She avoided the gas chambers a second time by trading food for hair dye, so she wouldn’t be murdered for looking too old My grandfather her husband survived the Mauthausen concentration camp But choked to death on the first piece of solid food.
+After a while, there was nothing peculiar about taking tea in the kitchen discussing family issues One’s latest reading with those ominous pictures hovering. It was just living in the world as it was or in some places is. In Jordan’s first and only book before this one maps of meaning he shares his profound insights into universal themes of world mythology and explains how all cultures have created stories to help us grapple with and Ultimately map the chaos into which we are thrown at birth.
 
-He was given just before liberation day. I Relate this because years after we became friends when Jordan would take a classical liberal stand for free speech He would be accused by left-wing extremists as being a right-wing bigot Let me say with all the moderation I can summon at best those accusers have simply not done their due diligence I have with a family history such as mine one develops not only a radar But underwater sonar for right-wing bigotry But even more important one learns to recognize the kind of person with the comprehension tools goodwill and courage to combat it and Jordan Peterson is that person?
+This chaos is everything that is unknown to us and any unexplored territory that we must reverse be it in the world outside or the psyche within Combining evolution the neuroscience of emotion some of the best of young some of Freud much of the great works of Nietzsche Dostoyevsky Solzhenitsyn Eliade Newman Piaget Frye Frankel maps of meaning published nearly two decades ago shows Jordan’s wide-ranging approach to understanding how human beings and the human brain Deal with the archetypal situation that arises whenever we in our daily lives must face something we do not understand The brilliance of the book is in his demonstration of how rooted the situation is in evolution our DNA our brains.
+
+And our most ancient stories and he shows that these stories have survived because they still provide guidance in dealing with uncertainty and the unavoidable unknown One of the many virtues of the book you’re reading now is that it provides an entry point into maps of meaning which is a highly Complex work because Jordan was working out his approach to psychology as he wrote it. But it was foundational because no matter how different our genes or life experiences may be or how differently our plastic brains are wired by our experience.
+
+We all have to deal with the unknown and we all attempt to move from chaos to order and this is why many of the rules in. This book being based on maps of meaning have an element of universality to them maps of meaning was sparked by Jordan’s agonized awareness as a teenager growing up in the midst of the Cold War that much of Mankind seemed on the verge of blowing up the planet to defend their various identities.
+
+He felt he had to understand how it could be that people would sacrifice everything for an identity whatever that was. And he felt he had to understand the ideologies that drove totalitarian regimes to a variant of that same behavior Killing their own citizens in maps of meaning and again in this book one of the matters. He cautions readers to be most wary of his ideology no matter who is peddling it or to what end Ideologies are simple ideas disguised as science or philosophy that purport to explain the complexity of the world and offer remedies that will perfect it Ideologues are people who pretend they know how to make the world a better place.
+
+Before they’ve taken care of their own chaos within the warrior identity that their ideology gives them covers over that chaos. That’s hubris of course and one of the most important themes of this book is set your house in order first and Jordan provides practical advice on how to do this Ideologies are substitutes for true knowledge and ideologues are always dangerous when they come to power because a simple-minded. I know it all approach is no match for the complexity of existence.
+
+Furthermore, when their social contraptions fail to fly ideologues blame not themselves, but all who see through the simplifications Another great U of T professor Lewis foyer in his book ideology and the ideologies Observe the ideologies retool the very religious stories. They purport to have supplanted but eliminate the narrative and psychological richness communism borrowed from the story of the children of Israel in Egypt with an enslaved class rich persecutors a Leader like Lenin who goes abroad lives among the enslavers and then leads the enslaved to the promised land the utopia the dictatorship of the proletariat To understand ideology Jordan read extensively about not only the Soviet Gulag, but also the Holocaust and the rise of Nazism.
+
+I had never before met a person born Christian and of my generation who was so utterly Tormented by what happened in Europe to the Jews and who had worked so hard to understand how it could have occurred. I too had studied this in depth. My own father survived Auschwitz. My grandmother was middle-aged when she stood face to face with dr.
+
+You’ll see from England the Nazi physician who conducted unspeakably cruel experiments on his victims. And she survived Auschwitz by disobeying his order to join the line with the elderly the gray and the weak and instead slipping into A line with younger people. She avoided the gas chambers a second time by trading food for hair dye, so she wouldn’t be murdered for looking too old. My grandfather her husband survived the Mauthausen concentration camp.
+
+But choked to death on the first piece of solid food. He was given just before liberation day. I Relate this because years after we became friends when Jordan would take a classical liberal stand for free speech. He would be accused by left-wing extremists as being a right-wing bigot Let me say with all the moderation.
+
+I can summon at best those accusers have simply not done their due diligence. I have with a family history such as mine one develops not only a radar. But underwater sonar for right-wing bigotry. But even more important one learns to recognize the kind of person with the comprehension tools goodwill and courage to combat it and Jordan Peterson is that person?
 
 My own dissatisfaction with modern political sciences attempts to understand the rise of Nazism to tell totalitarianism, and prejudice, was a major factor in my decision to supplement my studies of political science with the study of the unconscious. Projection, psychoanalysis, the regressive potential of group psychology, psychiatry, and the brain.
 
@@ -181,23 +237,25 @@ My own dissatisfaction with modern political sciences attempts to understand the
 <a id="sec-001510"></a>
 ### ⏱️ [00:15:10 - 00:20:11]
 
-Jordan switched out of political science for similar reasons. With these important parallel interests, we didn’t always agree on the answers, thank God, but we almost always agreed on the questions. Our friendship was an all doom and gloom. I have made a habit of attending my fellow professor’s classes at our university, and so attended his, which were always packed, and I saw what now millions have seen online.
+Jordan switched out of political science for similar reasons. With these important parallel interests, we didn’t always agree on the answers, thank God, but we almost always agreed on the questions. Our friendship was an all doom and gloom. I have made a habit of attending my fellow professor’s classes at our university, and so attended his, which were always packed, and.
 
-A brilliant, often dazzling public speaker who was at his best riffing like a jazz artist. At times he resembled an ardent prairie preacher, not an evangelizing, but in his passion, and his ability to tell stories that convey the life stakes that go with believing or disbelieving various ideas. Then he just as easily switched to do a breathtakingly systematic summary of a series of scientific studies. He was a master at helping students become more reflective, and take themselves and their futures seriously.
+I saw what now millions have seen online. A brilliant, often dazzling public speaker who was at his best riffing like a jazz artist. At times he resembled an ardent prairie preacher, not an evangelizing, but in his passion, and his ability to tell stories that convey the life stakes that go with believing or disbelieving various ideas. Then he just as easily switched to do a breathtakingly systematic summary of a series of scientific studies.
 
-He taught them to respect many of the greatest books ever written. He gave vivid examples from clinical practice, was appropriately self revealing, even of his own vulnerabilities, and made fascinating links between evolution, the brain, and religious stories. In a world where students are taught to see evolution and religion as simply opposed by thinkers like Richard Dawkins, Jordan showed his students how evolution of all things helps to explain the profound psychological appeal and wisdom of many ancient stories, from Gilgamesh to the life of the Buddha, Egyptian mythology, and the Bible.
+He was a master at helping students become more reflective, and take themselves and their futures seriously. He taught them to respect many of the greatest books ever written. He gave vivid examples from clinical practice, was appropriately self revealing, even of his own vulnerabilities, and made fascinating links between evolution, the brain, and religious stories. In a world where students are taught to see evolution and religion as simply opposed by thinkers like Richard Dawkins, Jordan showed his students how evolution of all things helps to explain the profound psychological appeal and wisdom of many ancient stories, from Gilgamesh to the life of the Buddha, Egyptian mythology, and the Bible.
 
 He showed, for instance, how stories about journeying voluntarily into the unknown, the hero’s quest, mirror universal tasks for which the brain evolved. He respected the stories, was not reductionist, and never claimed to exhaust their wisdom. If he discussed a topic such as prejudice, or its emotional relatives fear and disgust, or the differences between the sexes on average, he was able to show how these traits evolved and why they survived. Above all, he alerted his students to topics rarely discussed in university, such as the simple fact that all the ancients, from Buddha to the biblical authors, knew what every slightly worn out adult knows, that life is suffering.
 
-If you are suffering, or someone close to you is, that’s sad. But, alas, it’s not particularly special. We don’t suffer only because politicians are dimwitted, or the system is corrupt, or because you and I, like almost everyone else, can legitimately describe ourselves in some way as a victim of something or someone. It is because we are born human, that we are guaranteed a good dose of suffering.
+If you are suffering, or someone close to you is, that’s sad. But, alas, it’s not particularly special. We don’t suffer only because politicians are dimwitted, or the system is corrupt, or because you and. I, like almost everyone else, can legitimately describe ourselves in some way as a victim of something or someone.
 
-And chances are, if you or someone you love is not suffering now, they will be within five years, unless you are freakishly lucky. Rearing kids is hard, work is hard, aging, sickness, and death are hard. And Jordan emphasized that doing all that totally on your own, without the benefit of a loving relationship, or wisdom, or the psychological insights of the greatest psychologies, only makes it harder. He wasn’t scaring the students.
+It is because we are born human, that we are guaranteed a good dose of suffering. And chances are, if you or someone you love is not suffering now, they will be within five years, unless you are freakishly lucky. Rearing kids is hard, work is hard, aging, sickness, and death are hard. And Jordan emphasized that doing all that totally on your own, without the benefit of a loving relationship, or wisdom, or the psychological insights of the greatest psychologies, only makes it harder.
 
-In fact, they found this frank talk reassuring, because in the depths of their psyches, most of them knew what he said was true, even if there was never a forum to discuss it. Perhaps because the adults in their lives had become so naively overprotective, that they deluded themselves into thinking that not talking about suffering would in some way magically protect their children from it. Here he would relate the myth of the hero, a cross-cultural theme explored psychoanalytically by Otto Rank, who noted, following Freud, that hero myths are similar in many cultures, a theme that was picked up by Carl Jung, Joseph Campbell, and Eric Newman, among others.
+He wasn’t scaring the students. In fact, they found this frank talk reassuring, because in the depths of their psyches, most of them knew what he said was true, even if there was never a forum to discuss it. Perhaps, because the adults in their lives had become so naively overprotective, that they deluded themselves into thinking that not talking about suffering would in some way magically protect their children from it. Here he would relate the myth of the hero, a cross-cultural theme explored psychoanalytically by Otto Rank, who noted, following Freud, that hero myths are similar in many cultures, a theme that was picked up by Carl Jung, Joseph Campbell, and Eric Newman, among others.
 
-Where Freud made great contributions in explaining neuroses by, among other things, focusing on understanding what we might call a failed hiri story, that of Oedipus, Jordan focused on triumphant heroes. In all these triumph stories, the hero has to go into the unknown, into an unexplored territory, and deal with a great new challenge and take great risks. In the process, something of himself has to die or be given up, so that he can be reborn and meet the challenge. This requires courage, something rarely discussed in a psychology class or textbook.
+Where Freud made great contributions in explaining neuroses by, among other things, focusing on understanding what we might call a failed hiri story, that of Oedipus, Jordan focused on triumphant heroes. In all these triumph stories, the hero has to go into the unknown, into an unexplored territory, and deal with a great new challenge and take great risks. In the process, something of himself has to die or be given up, so that he can be reborn and meet the challenge.
 
-During his recent public stand for free speech, and against what I call forced speech, because it involves a government forcing citizens to voice political views, the stakes were very high. He had much to lose, and knew it. Nonetheless, I saw him, and Tammy, for that matter, not only display such courage, but also continue to live by many of the rules in this book, some of which can be very demanding. I saw him grow from the remarkable person he was into someone even more able and assured, through living by these rules.
+This requires courage, something rarely discussed in a psychology class or textbook. During his recent public stand for free speech, and against what. I call forced speech, because it involves a government forcing citizens to voice political views, the stakes were very high. He had much to lose, and knew it.
+
+Nonetheless, I saw him, and Tammy, for that matter, not only display such courage, but also continue to live by many of the rules in this book, some of which can be very demanding. I saw him grow from the remarkable person he was into someone even more able and assured, through living by these rules.
 
 In fact, it was the process of writing this book and developing these rules that led him to take the stand he did against forced or compelled speech. And that is why, during those events, he started posting some of his thoughts about life and these rules on the internet. Now over 100 million YouTube hits later, we know they have struck a chord. Given our distaste for rules, how do we explain the extraordinary response to his lectures which give rules?
 
@@ -213,29 +271,29 @@ The first idea we’re teaching is that morality is relative, at best, a persona
 
 Relative to, or related to, a particular framework, such as one’s ethnicity, or one’s upbringing, or the cultural or historical moment one is born into. It’s nothing but an accident of birth. According to this argument, now a creed, history teaches that religion, tribes, nations, and ethnic groups tend to disagree about fundamentals. And always have.
 
-Today, the postmodernist left makes the additional claim that one’s group, morality, is nothing but its attempt to exercise power over another group. So the decent thing to do, once it becomes apparent how arbitrary your and your society’s moral values are, is to show tolerance for people who think differently, and who come from different, diverse backgrounds. That emphasis on tolerant is so paramount that for many people one of the worst character flaws a person can have is to be, quote-unquote, judgmental. And since we don’t know right from wrong or what is good, just about the most inappropriate thing an adult can do is give a young person advice about how to live.
+Today, the postmodernist left makes the additional claim that one’s group, morality, is nothing but its attempt to exercise power over another group. So the decent thing to do, once it becomes apparent how arbitrary your and your society’s moral values are, is to show tolerance for people who think differently, and who come from different, diverse backgrounds. That emphasis on tolerant is so paramount that for many people one of the worst character flaws a person can have is to be, quote-unquote, judgmental.
 
-And so, a generation has been raised untutored in what was once called aptly practical wisdom, which guided previous generations. Millennials often told they have received the finest education available anywhere, have actually suffered a form of serious intellectual and moral neglect. The relativists of my generation and Jordan’s, many of whom became their professors, chose to devalue thousands of years of human knowledge about how to acquire virtue, dismissing it as passé, not relevant, or even oppressive. They were so successful at it that the very word virtue sounds out of date, and someone using it appears anachronistically, moralistic, and self-righteous.
+And since we don’t know right from wrong or what is good, just about the most inappropriate thing an adult can do is give a young person advice about how to live. And so, a generation has been raised untutored in what was once called aptly practical wisdom, which guided previous generations. Millennials often told they have received the finest education available anywhere, have actually suffered a form of serious intellectual and moral neglect. The relativists of my generation and Jordan’s, many of whom became their professors, chose to devalue thousands of years of human knowledge about how to acquire virtue, dismissing it as passé, not relevant, or even oppressive.
 
-Start note on the word judgmental. Some argue, mistakenly, that Freud, often mentioned in these pages, contributed to our current longing for a culture, schools, and institutions that are, quote-unquote, non-judgmental. It is true that he recommended that when psychoanalysts listen to their patients in therapy, they be tolerant, empathetic, and not voice-critical, moralistic judgments. But this was for the express purposes of helping patients feel comfortable in being totally honest and not diminish their problems. This encouraged self-reflection and allowed them to explore warded-off feelings, wishes, even shameful antisocial urges.
+They were so successful at it that the very word virtue sounds out of date, and someone using it appears anachronistically, moralistic, and self-righteous. Start note on the word judgmental. Some argue, mistakenly, that Freud, often mentioned in these pages, contributed to our current longing for a culture, schools, and institutions that are, quote-unquote, non-judgmental. It is true that he recommended that when psychoanalysts listen to their patients in therapy, they be tolerant, empathetic, and not voice-critical, moralistic judgments.
 
-It also, and this was the masterstroke, allowed them to discover their own unconscious conscience and its judgments, and their own harsh self-criticism of their own lapses, and their own unconscious guilt, which they had often hidden from themselves, but which they often formed the basis of their low self-esteem, depression, anxiety. If anything, Freud showed that we are both immoral and more moral than we are aware of. This kind of, quote-unquote, non-judgmentalism in therapy is a powerful and liberating technique or tactic, an ideal attitude when you want to better understand yourself.
+But this was for the express purposes of helping patients feel comfortable in being totally honest and not diminish their problems. This encouraged self-reflection and allowed them to explore warded-off feelings, wishes, even shameful antisocial urges. It also, and this was the masterstroke, allowed them to discover their own unconscious conscience and its judgments, and their own harsh self-criticism of their own lapses, and their own unconscious guilt, which they had often hidden from themselves, but which they often formed the basis of their low self-esteem, depression, anxiety.
 
-But Freud never argued, as do some who want all culture to become one huge group therapy session, that one can live one’s entire life without ever making judgments or without morality. In fact, his point in civilization and its discontents is that civilization only arises when some restraining rules and morality are in place. Continuation. The study of virtue is not quite the same as the study of morals, right and wrong, good and evil.
+If anything, Freud showed that we are both immoral and more moral than we are aware of. This kind of, quote-unquote, non-judgmentalism in therapy is a powerful and liberating technique or tactic, an ideal attitude when you want to better understand yourself. But Freud never argued, as do some who want all culture to become one huge group therapy session, that one can live one’s entire life without ever making judgments or without morality.
 
-Aristotle defined the virtues simply as the ways of behaving that are most conducive to happiness in life. Vice was defined as the ways of behaving least conducive to happiness. He observed that the virtues always aim for balance and avoid the extremes of the vices. Aristotle studied the virtues and the vices in his Nicomachean Ethics.
+In fact, his point in civilization and its discontents is that civilization only arises when some restraining rules and morality are in place. Continuation. The study of virtue is not quite the same as the study of morals, right and wrong, good and evil. Aristotle defined the virtues simply as the ways of behaving that are most conducive to happiness in life.
 
-It was a book based on experience and observation, not conjecture, about the kind of happiness that was possible for human beings. Cultivating judgment about the difference between virtue and vice is the beginning of wisdom, something that can never be out of date. By contrast, our modern relativism begins by asserting that making judgments about how to live is impossible, because there is no real good and no true virtue, as these two are relative. Thus, relativism’s closest approximation to virtue is tolerance.
+Vice was defined as the ways of behaving least conducive to happiness. He observed that the virtues always aim for balance and avoid the extremes of the vices. Aristotle studied the virtues and the vices in his Nicomachean Ethics. It was a book based on experience and observation, not conjecture, about the kind of happiness that was possible for human beings.
 
-Only tolerance will provide social cohesion between different groups and save us from harming each other. On Facebook and other forms of social media, therefore, you signal your so-called virtue, telling everyone how tolerant, open and compassionate you are, and wait for likes to accumulate. Leave aside that telling people your virtuous isn’t a virtue, it’s self-promotion, virtue signaling is not virtue. Virtue signaling is, quite possibly, our commonest vice.
+Cultivating judgment about the difference between virtue and vice is the beginning of wisdom, something that can never be out of date. By contrast, our modern relativism begins by asserting that making judgments about how to live is impossible, because there is no real good and no true virtue, as these two are relative. Thus, relativism’s closest approximation to virtue is tolerance. Only tolerance will provide social cohesion between different groups and save us from harming each other.
 
-Intolerance of others' views, no matter how ignorant or incoherent they may be, is not simply wrong. In a world where there is no right or wrong, it is worse. It is a sign you are embarrassingly unsophisticated or possibly dangerous. But it turns out that many people cannot tolerate the vacuum, the chaos, which is inherent in life, but made worse by this moral relativism.
+On Facebook and other forms of social media, therefore, you signal your so-called virtue, telling everyone how tolerant, open and compassionate you are, and wait for likes to accumulate. Leave aside that telling people your virtuous isn’t a virtue, it’s self-promotion, virtue signaling is not virtue. Virtue signaling is, quite possibly, our commonest vice. Intolerance of others' views, no matter how ignorant or incoherent they may be, is not simply wrong.
 
-They cannot live without a moral compass, without an ideal at which to aim in their lives. For relativists, ideals are values too, and, like all values, they are merely relative and hardly worth sacrificing for. So, right alongside relativism, we find the spread of nihilism and despair, and also the opposite of moral relativism, the blind certainty offered by ideologies that claim to have an answer for everything. And so we arrive at the second teaching that millennials have been bombarded with.
+In a world where there is no right or wrong, it is worse. It is a sign you are embarrassingly unsophisticated or possibly dangerous. But it turns out that many people cannot tolerate the vacuum, the chaos, which is inherent in life, but made worse by this moral relativism. They cannot live without a moral compass, without an ideal at which to aim in their lives.
 
-They sign up for a humanities course to study the greatest books ever written, but they’re not assigned the books. Instead, they are given ideological attacks on them, based on some appalling simplification. Where the relativist is filled with uncertainty, the ideologue is the very opposite. He or she is hyperjudgmental and censorious, always knows what’s wrong about others and what to do about it.
+For relativists, ideals are values too, and, like all values, they are merely relative and hardly worth sacrificing for. So, right alongside relativism, we find the spread of nihilism and despair, and also the opposite of moral relativism, the blind certainty offered by ideologies that claim to have an answer for everything. And so we arrive at the second teaching that millennials have been bombarded with. They sign up for a humanities course to study the greatest books ever written, but they’re not assigned the books.
 
-Sometimes it seems the only people willing to give advice in a relativistic society are those with the least to offer.
+Instead, they are given ideological attacks on them, based on some appalling simplification. Where the relativist is filled with uncertainty, the ideologue is the very opposite. He or she is hyperjudgmental and censorious, always knows what’s wrong about others and what to do about it. Sometimes it seems the only people willing to give advice in a relativistic society are those with the least to offer.
 
 
 <a id="sec-002513"></a>
@@ -249,17 +307,17 @@ Moreover, by implying that values had a lesser reality than facts, science contr
 
 When the ancient Greeks sailed to India and elsewhere, they too discovered that rules, morals, and customs differed from place to place, and saw that the explanation for what was right and wrong was often rooted in some ancestral authority. The Greek response was not despair, but a new invention, philosophy. Socrates, reacting to the uncertainty bred by awareness of these conflicting moral codes, decided that instead of becoming a nihilist, a relativist, or an ideologue, he would devote his life to the search for wisdom that could reason about these differences, i.e., he helped invent philosophy.
 
-He spent his life asking perplexing foundational questions such as what is virtue, and how can one live the good life, and what is justice? And he looked at different approaches, asking which seemed most coherent and most in accord with human nature. These are the kinds of questions that I believe animate this book. For the ancients, the discovery that different people have different ideas about how practically to live did not paralyze them, it deepened their understanding of humanity and led to some of the most satisfying conversations human beings have ever had about how life might be lived.
+He spent his life asking perplexing foundational questions such as what is virtue, and how can one live the good life, and what is justice? And he looked at different approaches, asking which seemed most coherent and most in accord with human nature. These are the kinds of questions that. I believe animate this book.
 
-Likewise, Aristotle. Instead of despairing about these differences in moral codes, Aristotle argued that those specific rules, laws, and customs differed from place to place. What does not differ is that in all places, human beings, by their nature, have a proclivity to make rules, like… Introducing AudioNest, your gateway to the world’s best-selling audiobooks, all for free.
+For the ancients, the discovery that different people have different ideas about how practically to live did not paralyze them, it deepened their understanding of humanity and led to some of the most satisfying conversations human beings have ever had about how life might be lived. Likewise, Aristotle. Instead of despairing about these differences in moral codes, Aristotle argued that those specific rules, laws, and customs differed from place to place. What does not differ is that in all places, human beings, by their nature, have a proclivity to make rules, like…
 
-Imagine diving into captivating stories while you commute, cook, or even relax. With AudioNest, you can minimize the app, and let your favorite books play in the background, seamlessly blending with your daily life. The best part? You can enjoy these stories in the language you love.
+Introducing AudioNest, your gateway to the world’s best-selling audiobooks, all for free. Imagine diving into captivating stories while you commute, cook, or even relax. With AudioNest, you can minimize the app, and let your favorite books play in the background, seamlessly blending with your daily life. The best part?
 
-English, Spanish, Hindi, German, you name it, we’ve got it. Why wait? Step into AudioNest today, where every story is yours to explore, for free. To download the AudioNest app, visit our website, w.audionestapp.com, or click on the link in bio.
+You can enjoy these stories in the language you love. English, Spanish, Hindi, German, you name it, we’ve got it. Why wait? Step into AudioNest today, where every story is yours to explore, for free.
 
-To put this in modern terms, it seems that all human beings are, by some kind of biological endowment, so ineradically concerned with morality, that we create a structure of laws and rules wherever we are. The idea that human life can be free of moral concerns is a fantasy. We are rule generators, and given that we are moral animals, what must be the effect of our simplistic modern relativism upon us? It means we are hobbling ourselves by pretending to be something that we are not.
+To download the AudioNest app, visit our website, w.audionestapp.com, or click on the link in bio. To put this in modern terms, it seems that all human beings are, by some kind of biological endowment, so ineradically concerned with morality, that we create a structure of laws and rules wherever we are. The idea that human life can be free of moral concerns is a fantasy. We are rule generators, and given that we are moral animals, what must be the effect of our simplistic modern relativism upon us?
 
-It is a mask, but a strange one, for it mostly deceives the one who wears it. Scratch the most clever postmodern relativist professor’s Mercedes with a key, and you will see how fast the mask of relativism, with its pretense that there can be neither right or wrong, and the cloak of radical tolerance come off. Because we do not yet have an ethics based on modern science, Jordan is not trying to develop his rules by wiping the slate clean, by dismissing thousands of years of wisdom as mere superstition and ignoring our greatest moral achievements.
+It means we are hobbling ourselves by pretending to be something that we are not. It is a mask, but a strange one, for it mostly deceives the one who wears it. Scratch the most clever postmodern relativist professor’s Mercedes with a key, and you will see how fast the mask of relativism, with its pretense that there can be neither right or wrong, and the cloak of radical tolerance come off. Because we do not yet have an ethics based on modern science, Jordan is not trying to develop his rules by wiping the slate clean, by dismissing thousands of years of wisdom as mere superstition and ignoring our greatest moral achievements.
 
 Far better to integrate the best of what we are now, learning with the books human beings saw fit to preserve over millennia, and with the stories that have survived, against all odds, time’s tendency to obliterate. He is doing what reasonable guides have always done. He makes no claim that human wisdom begins with himself, but rather, turns first to his own guides. And although the topics in this book are serious, Jordan often has a great fun addressing them with a light touch, as the chapter headings convey.
 
@@ -273,75 +331,99 @@ Yet this generation, many of whom were raised in small families by hyperprotecti
 
 universities with safe spaces where they don’t have to hear things they don’t want to, school to be risk-averse, has among it now millions who feel stultified by this underestimation of their potential resilience and who have embraced Jordan’s message that each individual has ultimate responsibility to bear. That if one wants to live a full life, one first sets one’s own house in order and only then can one sensibly aim to take on bigger responsibilities. The extent of this reaction has often moved both of us to the brink of tears.
 
-Sometimes these rules are demanding. They require you to undertake an incremental process that over time will stretch you to a new limit. That requires, as I’ve said, venturing into the unknown. Stretching yourself beyond the boundaries of your current self requires carefully choosing and then pursuing ideals, ideals that are up there above you, superior to you, and that you can’t always be sure you will reach.
+Sometimes these rules are demanding. They require you to undertake an incremental process that over time will stretch you to a new limit. That requires, as. I’ve said, venturing into the unknown.
 
-But if it’s uncertain that our ideals are attainable, why do we bother reaching in the first place? Because if you don’t reach for them, it is certain you will never feel that your life has meaning. And perhaps because, as unfamiliar and strange as it sounds, in the deepest part of our psyche, we all want to be judged. Dr. Norman Deutsch, MD, is the author of The Brain That Changes Itself. 12 Rules for Life by Jordan Peterson. Overture.
+Stretching yourself beyond the boundaries of your current self requires carefully choosing and then pursuing ideals, ideals that are up there above you, superior to you, and that you can’t always be sure you will reach. But if it’s uncertain that our ideals are attainable, why do we bother reaching in the first place? Because if you don’t reach for them, it is certain you will never feel that your life has meaning. And perhaps because, as unfamiliar and strange as it sounds, in the deepest part of our psyche, we all want to be judged.
+
+Dr. Norman Deutsch, MD, is the author of The Brain. That Changes Itself. 12 Rules for Life by Jordan Peterson. Overture.
 
 This book has a short history and a long history. We’ll begin with the short history. In 2012, I started contributing to a website called Quora. On Quora, anyone can ask a question of any sort and anyone can answer.
 
 Readers upvote those answers they like and downvote those they don’t. In this manner, the most useful answers rise to the top while the others sink into oblivion. I was curious about the site. I liked its free-for-all nature.
 
-The discussion was often compelling and it was interesting to see the diverse range of opinions generated by the same question. When I was taking a break or avoiding work, I often turned to Quora looking for questions to engage with. I considered and eventually answered such questions as, what’s the difference between being happy and being content? What things get better as you age?
+The discussion was often compelling and it was interesting to see the diverse range of opinions generated by the same question. When. I was taking a break or avoiding work, I often turned to Quora looking for questions to engage with. I considered and eventually answered such questions as, what’s the difference between being happy and being content?
 
-And what makes life more meaningful? Quora tells you how many people have viewed your answer and how many upvotes you received. Thus, you can determine your reach and see what people think of your ideas. Only a small minority of those who view and answer upvote it.
+What things get better as you age? And what makes life more meaningful? Quora tells you how many people have viewed your answer and how many upvotes you received. Thus, you can determine your reach and see what people think of your ideas.
 
-As of July 2017, as I write this, and five years after I addressed what makes life more meaningful, my answer to that question has received a relatively small audience, 14,000 views and 133 upvotes. While my response to the question about aging has been viewed by 7,200 people and received 36 upvotes. Not exactly home runs.
+Only a small minority of those who view and answer upvote it. As of July 2017, as. I write this, and five years after. I addressed what makes life more meaningful, my answer to that question has received a relatively small audience, 14,000 views and 133 upvotes.
+
+While my response to the question about aging has been viewed by 7,200 people and received 36 upvotes. Not exactly home runs.
 
 However, it’s to be expected. On such sites, most answers receive very little attention while a tiny minority become disproportionately popular. Soon after, I answered another question. What are the most valuable things everyone should know?
 
-I wrote a list of rules or maxims. Some dead serious, some tongue-in-cheek. Be grateful in spite of your suffering. Do not do things that you hate. Do not hide things in the fog and so on.
+I wrote a list of rules or maxims. Some dead serious, some tongue-in-cheek. Be grateful in spite of your suffering. Do not do things that you hate.
 
-The Quora readers appeared pleased with this list. They commented on and shared it. They said such things as, I’m definitely printing this list out and keeping it as a reference. Simply phenomenal.
+Do not hide things in the fog and so on. The Quora readers appeared pleased with this list. They commented on and shared it. They said such things as, I’m definitely printing this list out and keeping it as a reference.
 
-And you win Quora. We can just close the site now. Students at the University of Toronto where I teach came up to me and told me how much they liked it. To date, my answer to, what are the most valuable things, has been viewed by 120,000 people and been upvoted 2,300 times.
+Simply phenomenal. And you win Quora. We can just close the site now. Students at the University of Toronto where.
 
-Only a few hundred of the roughly 600,000 questions on Quora have cracked the 2000 upvote barrier. My procrastination-induced musings hit a nerve. I had written a 99.9 percentile answer. It was not obvious to me when I wrote the list of rules for living that it was going to perform so well.
+I teach came up to me and told me how much they liked it. To date, my answer to, what are the most valuable things, has been viewed by 120,000 people and been upvoted 2,300 times. Only a few hundred of the roughly 600,000 questions on Quora have cracked the 2000 upvote barrier. My procrastination-induced musings hit a nerve.
 
-I had put a fair bit of care into all the 60 or so answers I submitted in the few months surrounding that post. Nonetheless, Quora provides market research at its finest. The respondents are anonymous. They’re disinterested in the best sense.
+I had written a 99.9 percentile answer. It was not obvious to me when. I wrote the list of rules for living that it was going to perform so well. I had put a fair bit of care into all the 60 or so answers.
 
-Their opinions are spontaneous and unbiased. So I paid attention to the results and thought about the reasons for that answer’s disproportionate success. Perhaps I struck the right balance between the familiar and the unfamiliar while formulating the rules. Perhaps people were drawn to the structure that such rules imply.
+I submitted in the few months surrounding that post. Nonetheless, Quora provides market research at its finest. The respondents are anonymous. They’re disinterested in the best sense.
 
-Perhaps people just liked lists. A few months earlier in March of 2012, I had received an email from a literary agent. She had heard me speak on CBC Radio during a show entitled, Just Say No to Happiness, where I had criticized the idea that happiness was the proper goal for life. Over the previous decades, I had read more than my share of dark books about the 20th century, focusing particularly on Nazi Germany and the Soviet Union.
+Their opinions are spontaneous and unbiased. So. I paid attention to the results and thought about the reasons for that answer’s disproportionate success. Perhaps.
 
-Alexander Solzhenitsyn, the great documenter of the slave labor camp horrors of the latter, once wrote that the pitiful ideology holding that human beings are created for happiness was an ideology done in by the first blow of the works of Snyder’s Kudgel. In a crisis, the inevitable suffering that life entails can rapidly make a mockery of the idea that happiness is the proper pursuit of the individual. On the radio show, I suggested instead that a deeper meaning was required. I noted that the nature of such meaning was constantly represented in the great stories of the past and that it had more to do with developing character in the face of suffering than with happiness.
+I struck the right balance between the familiar and the unfamiliar while formulating the rules. Perhaps, people were drawn to the structure that such rules imply. Perhaps, people just liked lists. A few months earlier in March of 2012, I had received an email from a literary agent.
 
-This is part of the long history of the present work. From 1985 until 1999, I worked for about three hours a day on the only other book I have ever published, Maps of Meaning, the architecture of belief. During that time and in the years since, I also taught a course on the material in that book, first at Harvard and now at the University of Toronto. In 2013,
+She had heard me speak on CBC Radio during a show entitled, Just Say No to Happiness, where. I had criticized the idea that happiness was the proper goal for life. Over the previous decades, I had read more than my share of dark books about the 20th century, focusing particularly on Nazi Germany and the Soviet Union. Alexander Solzhenitsyn, the great documenter of the slave labor camp horrors of the latter, once wrote that the pitiful ideology holding that human beings are created for happiness was an ideology done in by the first blow of the works of Snyder’s Kudgel.
+
+In a crisis, the inevitable suffering that life entails can rapidly make a mockery of the idea that happiness is the proper pursuit of the individual. On the radio show, I suggested instead that a deeper meaning was required. I noted that the nature of such meaning was constantly represented in the great stories of the past and that it had more to do with developing character in the face of suffering than with happiness. This is part of the long history of the present work.
+
+From 1985 until 1999, I worked for about three hours a day on the only other book. I have ever published, Maps of Meaning, the architecture of belief. During that time and in the years since, I also taught a course on the material in that book, first at Harvard and now at the University of Toronto. In 2013,
 
 
 <a id="sec-003515"></a>
 ### ⏱️ [00:35:15 - 00:40:15]
 
-observing the rise of YouTube and because of the popularity of some work I had done with TVO, a Canadian public TV station, I decided to film my university and public lectures and place them online. They attracted an increasingly large audience, more than a million views by April 2016. The number of views has risen very dramatically since then, up to 18 million as I write this, but that is in part because I became embroiled in a political controversy that drew an inordinate amount of attention.
+observing the rise of YouTube and because of the popularity of some work. I had done with TVO, a Canadian public TV station, I decided to film my university and public lectures and place them online. They attracted an increasingly large audience, more than a million views by April 2016. The number of views has risen very dramatically since then, up to 18 million as.
 
-That’s another story, maybe even another book. I proposed in Maps of Meaning that the great myths and religious stories of the past, particularly those derived from an earlier oral tradition, were moral in their intent rather than descriptive. Thus, they did not concern themselves with what the world was as a scientist might have it, but with how a human being should act. I suggested that our ancestors portrayed the world as a stage, a drama, instead of a place of objects.
+I write this, but that is in part because. I became embroiled in a political controversy that drew an inordinate amount of attention. That’s another story, maybe even another book. I proposed in Maps of Meaning that the great myths and religious stories of the past, particularly those derived from an earlier oral tradition, were moral in their intent rather than descriptive.
 
-I described how I had come to believe that the constituent elements of the world as a drama were order and chaos, not material things. Order is where the people around you act according to well understood social norms and remain predictable and cooperative. It’s the world of social structure, explored territory, and familiarity. The state of order is typically portrayed, symbolically, imaginatively, as masculine.
+Thus, they did not concern themselves with what the world was as a scientist might have it, but with how a human being should act. I suggested that our ancestors portrayed the world as a stage, a drama, instead of a place of objects. I described how. I had come to believe that the constituent elements of the world as a drama were order and chaos, not material things.
 
-It’s the wise king and the tyrant forever bound together as society is simultaneously structured and oppression. Chaos, by contrast, is where or when something unexpected happens. Chaos emerges in trivial form when you tell a joke at a party with people you think you know and a silent and embarrassing chill falls over the gathering. Chaos is what emerges more catastrophically when you suddenly find yourself without employment or betrayed by a lover.
+Order is where the people around you act according to well understood social norms and remain predictable and cooperative. It’s the world of social structure, explored territory, and familiarity. The state of order is typically portrayed, symbolically, imaginatively, as masculine. It’s the wise king and the tyrant forever bound together as society is simultaneously structured and oppression.
 
-As the antithesis of symbolically masculine order, it’s presented imaginatively as feminine. It’s the new and unpredictable suddenly emerging in the midst of the commonplace familiar. Its creation and destruction, the source of new things, and the destination of the dead, as nature opposed to culture, is simultaneously birth and demise. Order and chaos are the yang and yin of the famous Taoist symbol, two serpents head to tail.
+Chaos, by contrast, is where or when something unexpected happens. Chaos emerges in trivial form when you tell a joke at a party with people you think you know and a silent and embarrassing chill falls over the gathering. Chaos is what emerges more catastrophically when you suddenly find yourself without employment or betrayed by a lover. As the antithesis of symbolically masculine order, it’s presented imaginatively as feminine.
 
-Start note, the yin-yang symbol is the second part of the more comprehensive five-part tajitu, a diagram representing both the original absolute unity and its division into the multiplicity of the observed world. This is discussed in more detail in Rule 2 below as well as elsewhere in the book. Continuation. Order is the white masculine serpent, chaos, its black feminine counterpart.
+It’s the new and unpredictable suddenly emerging in the midst of the commonplace familiar. Its creation and destruction, the source of new things, and the destination of the dead, as nature opposed to culture, is simultaneously birth and demise. Order and chaos are the yang and yin of the famous Taoist symbol, two serpents head to tail. Start note, the yin-yang symbol is the second part of the more comprehensive five-part tajitu, a diagram representing both the original absolute unity and its division into the multiplicity of the observed world.
 
-The black dot in the white and the white in the black indicate the possibility of transformation. Just when things seem secure, the unknown can loom unexpectedly and large. Conversely, just when everything seems lost, new order can emerge from catastrophe and chaos. For the Taoist, meaning is to be found on the border between the ever-entwined pair.
+This is discussed in more detail in.
 
-To walk that border is to stay on the path of life, the divine way. And that’s much better than happiness. The literary agent I referred to listened to the CBC radio broadcast where I discussed such issues. It left her asking herself deeper questions.
+#### Rule 2 below as well as elsewhere in the book.
 
-She emailed me asking if I had considered writing a book for a general audience. I had previously attempted to produce a more accessible version of Maps of Meaning, which is a very dense book, but I found that the spirit was neither in me during that attempt nor in the resultant manuscript. I think this was because I was imitating my former self and my previous book instead of occupying the place between order and chaos producing something new. I suggested that she watch four of the lectures I had done for a TVO program called Big Ideas on my YouTube channel.
+Continuation. Order is the white masculine serpent, chaos, its black feminine counterpart. The black dot in the white and the white in the black indicate the possibility of transformation. Just when things seem secure, the unknown can loom unexpectedly and large.
 
-I thought if she did that we could have a more informed and thorough discussion about what kind of topics I might address in a more publicly accessible book. She contacted me a few weeks later after watching all four lectures and discussing them with a colleague. Her interest had been further heightened, as had her commitment to the project. That was promising and unexpected.
+Conversely, just when everything seems lost, new order can emerge from catastrophe and chaos. For the Taoist, meaning is to be found on the border between the ever-entwined pair. To walk that border is to stay on the path of life, the divine way. And that’s much better than happiness.
 
-I’m always surprised when people respond positively to what I’m saying given its seriousness and strange nature. I’m amazed I’ve been allowed, even encouraged, to teach what I taught first in Boston and now in Toronto. I’ve always thought that if people really noticed what I was teaching, there’d be hell to pay. You can decide for yourself what truth there might be in that concern after reading this book.
+The literary agent. I referred to listened to the CBC radio broadcast where. I discussed such issues. It left her asking herself deeper questions.
 
-Myley Face. She suggested that I write a guide of sorts to what a person needs to live well, whatever that might mean. I thought immediately about my Quora list. I had, in the meantime, written some further thoughts about the rules I had posted.
+She emailed me asking if. I had considered writing a book for a general audience. I had previously attempted to produce a more accessible version of Maps of Meaning, which is a very dense book, but. I found that the spirit was neither in me during that attempt nor in the resultant manuscript.
 
-People had responded positively toward those new ideas as well. It seemed to me, therefore, there might be a nice fit between the Quora list and my new agent’s ideas. So I sent her the list. Liked it.
+I think this was because. I was imitating my former self and my previous book instead of occupying the place between order and chaos producing something new. I suggested that she watch four of the lectures. I had done for a TVO program called Big Ideas on my YouTube channel.
+
+I thought if she did that we could have a more informed and thorough discussion about what kind of topics. I might address in a more publicly accessible book. She contacted me a few weeks later after watching all four lectures and discussing them with a colleague. Her interest had been further heightened, as had her commitment to the project.
+
+That was promising and unexpected. I’m always surprised when people respond positively to what. I’m saying given its seriousness and strange nature. I’m amazed.
+
+I’ve been allowed, even encouraged, to teach what. I taught first in Boston and now in Toronto. I’ve always thought that if people really noticed what. I was teaching, there’d be hell to pay.
+
+You can decide for yourself what truth there might be in that concern after reading this book. Myley Face. She suggested that. I write a guide of sorts to what a person needs to live well, whatever that might mean.
+
+I thought immediately about my Quora list. I had, in the meantime, written some further thoughts about the rules. I had posted. People had responded positively toward those new ideas as well.
+
+It seemed to me, therefore, there might be a nice fit between the Quora list and my new agent’s ideas. So. I sent her the list. Liked it.
 
 At about the same time, a friend and former student of mine, the novelist and screenwriter Greg Hurwitz, was considering a new book, which would become the best-selling thriller Orphan X. He liked the rules too. He had Mia, the book’s female lead, post a selection of them one by one on her fridge at points in the story where they seemed apropos. That was another piece of evidence supporting my supposition of their attractiveness.
 
-I suggested to my agent that I write a brief chapter on each of the rules. She agreed, so I wrote a book proposal suggesting as much. When I started writing the actual chapters, however, they weren’t at all brief. I had much more to say about each rule than I had originally envisioned.
+I suggested to my agent that. I write a brief chapter on each of the rules. She agreed, so. I wrote a book proposal suggesting as much.
 
-This was partly because I had spent a very long time researching my first book, studying history, mythology, neuroscience, psychoanalysis, child psychology, poetry, and large sections of the Bible. I read, and perhaps even understood, much of Milton’s Paradise Laws, Goethe’s Faust, and Dante’s Inferno. I integrated all of that, for better or worse, trying to address a perplexing problem, the reason or reasons for the nuclear standoff of the Cold War. I couldn’t understand how
+When. I started writing the actual chapters, however, they weren’t at all brief. I had much more to say about each rule than. I had originally envisioned.
+
+This was partly because. I had spent a very long time researching my first book, studying history, mythology, neuroscience, psychoanalysis, child psychology, poetry, and large sections of the Bible. I read, and perhaps even understood, much of Milton’s Paradise Laws, Goethe’s Faust, and Dante’s Inferno. I integrated all of that, for better or worse, trying to address a perplexing problem, the reason or reasons for the nuclear standoff of the Cold War.
+
+I couldn’t understand how
 
 
 <a id="sec-004015"></a>
@@ -373,57 +455,65 @@ Presence of group-centered beliefs make conflict with other groups inevitable. I
 
 Our technologies of destruction have become too powerful. The potential consequences of war are literally apocalyptic, but we cannot simply abandon our systems of value, our beliefs, our cultures either. I agonized over this, apparently intractable problem for months. Was there a third way, invisible to me?
 
-I dreamt one night during this period that I was suspended in mid-air, clinging to a chandelier many- stories above the ground directly under the dome of a massive cathedral. The people on the floor below were distant and tiny. There was a great expanse between me and any wall, and even the peak of the dome itself. I have learned to pay attention to dreams, not least because of my training as a clinical psychologist.
+I dreamt one night during this period that. I was suspended in mid-air, clinging to a chandelier many- stories above the ground directly under the dome of a massive cathedral. The people on the floor below were distant and tiny. There was a great expanse between me and any wall, and even the peak of the dome itself.
+
+I have learned to pay attention to dreams, not least because of my training as a clinical psychologist.
 
 
 <a id="sec-004515"></a>
 ### ⏱️ [00:45:15 - 00:50:17]
 
-Dreams shed light on the dim places where reason itself has yet to voyage. I have studied Christianity a fair bit too, more than other religious traditions, although I am always trying to redress this lack. Like others, therefore, I must and do draw more from what I do know than from what I do not. I knew that cathedrals were constructed in the shape of a cross, and that the point under the dome was the center of the cross.
+Dreams shed light on the dim places where reason itself has yet to voyage. I have studied Christianity a fair bit too, more than other religious traditions, although. I am always trying to redress this lack. Like others, therefore, I must and do draw more from what.
 
-I knew that the cross was simultaneously the point of greatest suffering, the point of death and transformation, and the symbolic center of the world. That was not somewhere I wanted to be. I managed to get down, out of the heights, out of the symbolic sky, back to safe, familiar, anonymous ground. I don’t know how.
+I do know than from what. I do not. I knew that cathedrals were constructed in the shape of a cross, and that the point under the dome was the center of the cross. I knew that the cross was simultaneously the point of greatest suffering, the point of death and transformation, and the symbolic center of the world.
 
-Then, still in my dream, I returned to my bedroom and my bed and tried to return to sleep and a piece of unconsciousness. As I relaxed, however, I could feel my body transported. A great wind was dissolving me, preparing to propel me back to the cathedral to place me once again at that central point. There was no escape.
+That was not somewhere. I wanted to be. I managed to get down, out of the heights, out of the symbolic sky, back to safe, familiar, anonymous ground. I don’t know how.
 
-It was a true nightmare. I forced myself awake. The curtains behind me were blowing in over my pillows. Half asleep I looked at the foot of the bed.
+Then, still in my dream, I returned to my bedroom and my bed and tried to return to sleep and a piece of unconsciousness. As. I relaxed, however, I could feel my body transported. A great wind was dissolving me, preparing to propel me back to the cathedral to place me once again at that central point.
 
-I saw the great cathedral doors. I shook myself completely awake and they disappeared. My dream placed me at the center of being itself, and there was no escape. It took me months to understand what this meant.
+There was no escape. It was a true nightmare. I forced myself awake. The curtains behind me were blowing in over my pillows.
 
-During this time, I came to a more complete, personal realization of what the great stories of the past continually insist upon us. The center is occupied by the individual. The center is marked by the cross as X marks the spot. Existence at that cross is suffering and transformation, and that fact, above all, needs to be voluntarily accepted.
+Half asleep. I looked at the foot of the bed. I saw the great cathedral doors. I shook myself completely awake and they disappeared.
 
-It is possible to transcend slavish adherence to the group and its doctrines and simultaneously to avoid the pitfalls of its opposite extreme, nihilism. It is possible instead to find sufficient meaning in individual consciousness and experience. How could the world be freed from the terrible dilemma of conflict on the one hand and psychological and social disillusion on the other? The answer was this.
+My dream placed me at the center of being itself, and there was no escape. It took me months to understand what this meant. During this time, I came to a more complete, personal realization of what the great stories of the past continually insist upon us. The center is occupied by the individual.
 
-Through the elevation and development of the individual and through the willingness of everyone to shoulder the burden of being and to take the heroic path. We must each adopt as much responsibility as possible for individual life, society, and the world. We must each tell the truth and repair what is in disrepair and break down and recreate what is old and outdated. It is in this manner that we can and must reduce the suffering that poisons the world.
+The center is marked by the cross as X marks the spot. Existence at that cross is suffering and transformation, and that fact, above all, needs to be voluntarily accepted. It is possible to transcend slavish adherence to the group and its doctrines and simultaneously to avoid the pitfalls of its opposite extreme, nihilism. It is possible instead to find sufficient meaning in individual consciousness and experience.
 
-It’s asking a lot. It’s asking for everything. But the alternative? The horror of authoritarian belief?
+How could the world be freed from the terrible dilemma of conflict on the one hand and psychological and social disillusion on the other? The answer was this. Through the elevation and development of the individual and through the willingness of everyone to shoulder the burden of being and to take the heroic path. We must each adopt as much responsibility as possible for individual life, society, and the world.
 
-The chaos of the collapsed state? The tragic catastrophe of the unbridled natural world? The existential angst and weakness of the purposeless individual? Is clearly worse.
+We must each tell the truth and repair what is in disrepair and break down and recreate what is old and outdated. It is in this manner that we can and must reduce the suffering that poisons the world. It’s asking a lot. It’s asking for everything.
 
-I’ve been thinking and lecturing about such ideas for decades. I’ve built up a large corpus of stories and concepts pertaining to them. I’m not for a moment claiming, however, that I am entirely correct or complete in my thinking. Being is far more complicated than one person can know and I don’t have the whole story.
+But the alternative? The horror of authoritarian belief? The chaos of the collapsed state? The tragic catastrophe of the unbridled natural world?
 
-I’m simply offering the best I can manage. In any case, the consequence of all that previous research and thinking was the new essays which eventually became this book. My initial idea was to write a short essay on all 40 of the answers I had provided to Quora. That proposal was accepted by Penguin Random House Canada.
+The existential angst and weakness of the purposeless individual? Is clearly worse. I’ve been thinking and lecturing about such ideas for decades. I’ve built up a large corpus of stories and concepts pertaining to them.
 
-While writing, however, I cut the essay number to 25, and then to 16, and finally to the current 12. I’ve been editing that remainder with the help and care of my official editor and with the vicious and horribly accurate criticism of Hurwitz mentioned previously for the past three years. It took a long time to settle on a title. 12 rules for life, antidote to chaos. Why did that one rise up above all others?
+I’m not for a moment claiming, however, that. I am entirely correct or complete in my thinking. Being is far more complicated than one person can know and. I don’t have the whole story.
 
-First and foremost because of its simplicity. It indicates clearly that people need ordering principles and that chaos otherwise beckons. We require rules, standards, values, alone and together. We’re pack animals, beasts of burden.
+I’m simply offering the best. I can manage. In any case, the consequence of all that previous research and thinking was the new essays which eventually became this book. My initial idea was to write a short essay on all 40 of the answers.
+
+I had provided to Quora. That proposal was accepted by Penguin Random House Canada. While writing, however, I cut the essay number to 25, and then to 16, and finally to the current 12. I’ve been editing that remainder with the help and care of my official editor and with the vicious and horribly accurate criticism of Hurwitz mentioned previously for the past three years.
+
+It took a long time to settle on a title. 12 rules for life, antidote to chaos. Why did that one rise up above all others?
+
+First, and foremost because of its simplicity. It indicates clearly that people need ordering principles and that chaos otherwise beckons. We require rules, standards, values, alone and together. We’re pack animals, beasts of burden.
 
 We must bear a load to justify our miserable existence. We require routine and tradition, that’s order. Order can become excessive and that’s not good, but chaos can swamp us, so we drown. And that’s also not good.
 
 We need to stay on the straight and narrow path. Each of the 12 rules of this book and their accompanying essays therefore provide a guide to being there. There is the dividing line between order and chaos. That’s where we are simultaneously stable enough, exploring enough, transforming enough, repairing enough, and cooperating enough.
 
-It’s there we find the meaning that justifies life and its inevitable suffering. Perhaps if we lived properly, we’d be able to tolerate the weight of our own self-consciousness. Perhaps if we lived properly, we could withstand the knowledge of our own fragility and mortality without the sense of aggrieved victimhood that produces first resentment, then envy, then the desire for vengeance and destruction. Perhaps if we lived properly, we wouldn’t have to turn to totalitarian certainty to shield ourselves from the knowledge of our own insufficiency and ignorance.
+It’s there we find the meaning that justifies life and its inevitable suffering. Perhaps, if we lived properly, we’d be able to tolerate the weight of our own self-consciousness. Perhaps, if we lived properly, we could withstand the knowledge of our own fragility and mortality without the sense of aggrieved victimhood that produces first resentment, then envy, then the desire for vengeance and destruction. Perhaps, if we lived properly, we wouldn’t have to turn to totalitarian certainty to shield ourselves from the knowledge of our own insufficiency and ignorance.
 
-Perhaps we’d come to avoid those pathways to hell, and we have seen in the terrible 20th century just how real hell can be. I hope that these rules and their accompanying essays will help people understand what they already know, that the soul of the individual eternally hungers for the heroism of genuine being, and that the willingness to take on that responsibility is identical to the decision to live a meaningful life.
+Perhaps, we’d come to avoid those pathways to hell, and we have seen in the terrible 20th century just how real hell can be. I hope that these rules and their accompanying essays will help people understand what they already know, that the soul of the individual eternally hungers for the heroism of genuine being, and that the willingness to take on that responsibility is identical to the decision to live a meaningful life.
 
 
 <a id="sec-005017"></a>
 ### ⏱️ [00:50:17 - 00:55:19]
 
-If we each live properly, we will collectively flourish. Best wishes to you all as you proceed through these pages. Dr. Jordan B. Peterson, clinical psychologist and professor of psychology. 12 Rules for Life by Jordan Peterson.
+If we each live properly, we will collectively flourish. Best wishes to you all as you proceed through these pages. Dr. Jordan B.
 
-#### Rule 1. Stand up straight with your shoulders back.
+Peterson, clinical psychologist and professor of psychology. 12 Rules for Life by Jordan Peterson.
 
-Lobsters and territory. If you’re like most people, you don’t have to think about lobsters, unless you’re eating one.
+#### Rule 1. Stand up straight with your shoulders back. Lobsters and territory. If you’re like most people, you don’t have to think about lobsters, unless you’re eating one.
 
 However, these interesting and delicious crustaceans are very much worth considering. Their nervous systems are comparatively simple, with large, easily observable neurons, the magic cells of the brain. Because of this, scientists have been able to map the neural circuitry of lobsters very accurately. This has helped us understand the structure and function of the brain and behavior of more complex animals, including human beings.
 
@@ -435,27 +525,31 @@ Other creatures have this problem, too. When songbirds come north in the spring,
 
 Take the wren, for example, a small, feisty, insect-eating songbird common in North America. A newly arrived wren wants a sheltered place to build a nest, away from the wind and rain. He wants it close to food and attractive to potential mates. He also wants to convince competitors for that space to keep their distance.
 
-Birds and Territory My dad and I designed a house for a wren family when I was 10 years old. It looked like a Conestoga wagon and had a front entrance about the size of a quarter. This made it a good house for wrens who are tiny and not so good for other larger birds who couldn’t get in. My elderly neighbor had a bird house, too, which we built for her at the same time, from an old rubber boot.
+Birds and Territory. My dad and. I designed a house for a wren family when. I was 10 years old.
 
-It had an opening large enough for the bird the size of a robin. She was looking forward to the day it was occupied. A wren soon discovered our bird house and made himself at home there. We could hear his lengthy, trilling song repeated over and over during the early spring.
+It looked like a Conestoga wagon and had a front entrance about the size of a quarter. This made it a good house for wrens who are tiny and not so good for other larger birds who couldn’t get in. My elderly neighbor had a bird house, too, which we built for her at the same time, from an old rubber boot. It had an opening large enough for the bird the size of a robin.
 
-Once he’d built his nest in the covered wagon, however, our new avian tenant started carrying small sticks to our neighbor’s nearby boot. He packed it so full that no other bird, large or small, could possibly get in. Our neighbor was not pleased by this preemptive strike, but there was nothing to be done about it. It was down, said my dad, cleaned it up, and put it back in the tree that wren will just pack it full of sticks again.
+She was looking forward to the day it was occupied. A wren soon discovered our bird house and made himself at home there. We could hear his lengthy, trilling song repeated over and over during the early spring. Once he’d built his nest in the covered wagon, however, our new avian tenant started carrying small sticks to our neighbor’s nearby boot.
 
-Wrens are small, and they’re cute, but they’re merciless. I had broken my leg skiing the previous winter, first time down the hill, and had received some money from a school insurance policy designed to reward unfortunate, clumsy children. I purchased a cassette recorder, a high-tech novelty at the time, with the proceeds. My dad suggested that I sit on the back lawn, record the wren song, play it back, and watch what happened.
+He packed it so full that no other bird, large or small, could possibly get in. Our neighbor was not pleased by this preemptive strike, but there was nothing to be done about it. It was down, said my dad, cleaned it up, and put it back in the tree that wren will just pack it full of sticks again. Wrens are small, and they’re cute, but they’re merciless.
 
-So I went out into the bright spring sunlight and taped a few minutes of the wren laying furious claim to his territory with song. Then I let him hear his own voice. That little bird, one-third the size of a sparrow, began to dive-bomb me and my cassette recorder, swooping back and forth, inches from the speaker. We saw a lot of that sort of behavior, even in the absence of the tape recorder.
+I had broken my leg skiing the previous winter, first time down the hill, and had received some money from a school insurance policy designed to reward unfortunate, clumsy children. I purchased a cassette recorder, a high-tech novelty at the time, with the proceeds. My dad suggested that. I sit on the back lawn, record the wren song, play it back, and watch what happened.
 
-If a larger bird ever dared to sit and rest in any of the trees near our birdhouse, there was a good chance he would get knocked off his perch by kamikaze wren. Now wrens and lobsters are very different. Lobsters do not fly, sing, or perch in trees. Wrens have feathers, not hard shells.
+So. I went out into the bright spring sunlight and taped a few minutes of the wren laying furious claim to his territory with song. Then. I let him hear his own voice.
 
-The wrens can’t breathe underwater and are seldom served with butter. However, they are also similar in important ways. Both are obsessed with status and position, for example, like a great many creatures. The Norwegian zoologist and comparative psychologist Thorlith Schleh-e-ebb-b-be-be-be-b-be-be…
+That little bird, one-third the size of a sparrow, began to dive-bomb me and my cassette recorder, swooping back and forth, inches from the speaker. We saw a lot of that sort of behavior, even in the absence of the tape recorder. If a larger bird ever dared to sit and rest in any of the trees near our birdhouse, there was a good chance he would get knocked off his perch by kamikaze wren. Now wrens and lobsters are very different.
 
-I looked that one up… This thoroughly of shelter-up epi observed, back in 1921, that even common barnyard chickens establish a pecking order. The determination of who’s who in the chicken world has important implications for each individual bird’s survival, particularly in times of scarcity. The birds that always have priority access to whatever food is sprinkled out in the yard in the morning are the celebrity chickens.
+Lobsters do not fly, sing, or perch in trees. Wrens have feathers, not hard shells. The wrens can’t breathe underwater and are seldom served with butter.
 
-After them come the second stringers, the hangers-on and wannabes, then the third-rate chickens have their turn and so on, down to the bedraggled, partially feathered and badly pecked wretches who occupy the lowest, untouchable stratum of the chicken hierarchy. Chickens like suburbanites live communally. Songbirds such as wrens do not, but they still inhabit a dominance hierarchy. It’s just spread out over more territory.
+However, they are also similar in important ways. Both are obsessed with status and position, for example, like a great many creatures. The Norwegian zoologist and comparative psychologist Thorlith Schleh-e-ebb-b-be-be-be-b-be-be… I looked that one up…
 
-The williest, strongest, healthiest and most fortunate birds occupy prime territory and defend it. Because of this, they are more likely to attract high-quality mates and to hatch chicks who survive and thrive. Protection from wind, rain and predators, as well as easy access to superior food makes for a much less stressed existence. Territory matters and there is little difference between territorial rights and social status.
+This thoroughly of shelter-up epi observed, back in 1921, that even common barnyard chickens establish a pecking order. The determination of who’s who in the chicken world has important implications for each individual bird’s survival, particularly in times of scarcity. The birds that always have priority access to whatever food is sprinkled out in the yard in the morning are the celebrity chickens. After them come the second stringers, the hangers-on and wannabes, then the third-rate chickens have their turn and so on, down to the bedraggled, partially feathered and badly pecked wretches who occupy the lowest, untouchable stratum of the chicken hierarchy.
 
-It is often a matter of life and death. If a contagious avian disease sweeps through a neighborhood of well-stratified songbirds,
+Chickens like suburbanites live communally. Songbirds such as wrens do not, but they still inhabit a dominance hierarchy. It’s just spread out over more territory. The williest, strongest, healthiest and most fortunate birds occupy prime territory and defend it.
+
+Because of this, they are more likely to attract high-quality mates and to hatch chicks who survive and thrive. Protection from wind, rain and predators, as well as easy access to superior food makes for a much less stressed existence. Territory matters and there is little difference between territorial rights and social status. It is often a matter of life and death.
+
+If a contagious avian disease sweeps through a neighborhood of well-stratified songbirds,
 
 
 <a id="sec-005519"></a>
@@ -527,7 +621,7 @@ DeSola Price, the researcher who discovered its application in science in 1963. 
 <a id="sec-010525"></a>
 ### ⏱️ [01:05:25 - 01:10:27]
 
-1848-1923, in Italian polymath, noticed its applicability to wealth distribution in the early 20th century, and it appears true for every society ever studied regardless of governmental It also applies to the population of cities, a very small number have almost all the people, the mass of heavenly bodies, a very small number hoard all the matter, and the frequency of words in a language. 90% of communication occurs using just 500 words. Among many other things. Sometimes it is known as the Matthew principle, from Matthew 25-29, derived from what might be the harshest statement ever attributed to Christ.
+1848-1923, in Italian polymath, noticed its applicability to wealth distribution in the early 20th century, and it appears true for every society ever studied regardless of governmental. It also applies to the population of cities, a very small number have almost all the people, the mass of heavenly bodies, a very small number hoard all the matter, and the frequency of words in a language. 90% of communication occurs using just 500 words. Among many other things. Sometimes it is known as the Matthew principle, from Matthew 25-29, derived from what might be the harshest statement ever attributed to Christ.
 
 To those who have everything, more will be given. From those who have nothing, everything will be taken. You truly know you are the son of God when your dicta apply even to crustaceans. Back to the fractious shellfish.
 
@@ -645,35 +739,37 @@ circumstances. When operating at the bottom, the ancient brain counter assumes t
 
 You’re sitting in your car with the gas and brake pedals, both punched to the mat. Too much of that and everything falls apart. The ancient counter will even shut down your immune system, expanding the energy and resources required for future health now, during the crises of the present. It will render you impulsive, so that you will jump, for example, at any short-term mating opportunities or any possibilities of pleasure, no matter how subpar, disgraceful or illegal.
 
-It will leave you far more likely to live or die carelessly, for a rare opportunity at pleasure when it manifests itself. The physical demands of emergency preparedness will wear you down in every way. If you have a high status, on the other hand, the counter’s cold, pre-reptilian mechanics assume that your niche is secure, productive, safe, and that you are well buttressed with your social support, it thinks the chance that something will damage you is low and can be safely discounted. Change might be opportunity instead of disaster.
+It will leave you far more likely to live or die carelessly, for a rare opportunity at pleasure when it manifests itself. The physical demands of emergency preparedness will wear you down in every way. If you have a high status, on the other hand, the counter’s cold, pre-reptilian mechanics assume that your niche is secure, productive, safe, and that you are well buttressed with your social support, it thinks the chance that something will damage you is low and can be safely discounted.
 
-The serotonin flows plentifully. This renders you confident and calm, standing tall and straight and much less on constant alert. Because your position is secure, the future is likely to be good for you. It’s worthwhile to think in the long-term and plan for a better tomorrow.
+Change might be opportunity instead of disaster. The serotonin flows plentifully. This renders you confident and calm, standing tall and straight and much less on constant alert. Because your position is secure, the future is likely to be good for you.
 
-You don’t need to grasp impulsively at whatever crumbs come to your way, because you can realistically expect good things to remain available. You can delay gratification without foregoing it forever. You can afford to be a reliable and thoughtful citizen. Malfunction Sometimes, however, the counter-mechanism can go wrong.
+It’s worthwhile to think in the long-term and plan for a better tomorrow. You don’t need to grasp impulsively at whatever crumbs come to your way, because you can realistically expect good things to remain available. You can delay gratification without foregoing it forever. You can afford to be a reliable and thoughtful citizen.
 
-Eradic habits of sleeping and eating can interfere with its function. Uncertainty can throw it for a loop. The body with its various parts needs to function like a well-rehearsed orchestra. Every system must play its role properly and at exactly the right time or noise and chaos ensue.
+Malfunction Sometimes, however, the counter-mechanism can go wrong. Eradic habits of sleeping and eating can interfere with its function. Uncertainty can throw it for a loop. The body with its various parts needs to function like a well-rehearsed orchestra.
 
-It is for this reason that routine is so necessary. The acts of life we repeat every day need to be automatized. They must be turned into stable and reliable habits, so they lose their complexity and gain predictability and simplicity. This can be perceived most clearly in the case of small children who are delightful and comical and playful when their sleeping and eating schedules are stable and horrible and whiny and nasty when they are not.
+Every system must play its role properly and at exactly the right time or noise and chaos ensue. It is for this reason that routine is so necessary. The acts of life we repeat every day need to be automatized. They must be turned into stable and reliable habits, so they lose their complexity and gain predictability and simplicity.
 
-It is for such reasons that I always ask my clinical clients first about sleep. Do they wake up in the morning at approximately the time the typical person wakes up and at the same time every day? If the answer is no, fixing that is the first thing I recommend. It doesn’t matter so much if they go to bed at the same time each evening, but waking up at a consistent hour is a necessity.
+This can be perceived most clearly in the case of small children who are delightful and comical and playful when their sleeping and eating schedules are stable and horrible and whiny and nasty when they are not. It is for such reasons that. I always ask my clinical clients first about sleep. Do they wake up in the morning at approximately the time the typical person wakes up and at the same time every day?
 
-Anxiety and depression cannot be easily treated if the sufferer has unpredictable daily routines. The systems that mediate negative emotion are tightly tied to the properly cyclical circadian rhythms. The next thing I ask about is breakfast. I counsel my clients to eat a fat and protein-heavy breakfast as soon as possible after they awaken. No simple carbohydrates, no sugars, as they are digested too rapidly and produce a blood sugar spike and a rapid dip.
+If the answer is no, fixing that is the first thing. I recommend. It doesn’t matter so much if they go to bed at the same time each evening, but waking up at a consistent hour is a necessity. Anxiety and depression cannot be easily treated if the sufferer has unpredictable daily routines.
 
-This is because anxious and depressed people are already stressed, particularly if their lives have not been under control for a good while. Their bodies are therefore primed to hypersecrete insulin if they engage in any complex or demanding activity. If they do so after fasting all night and before eating, the excess insulin in their bloodstream will mop up all their blood sugar. Then they become hypoglycemic and psychophysiologically unstable.
+The systems that mediate negative emotion are tightly tied to the properly cyclical circadian rhythms. The next thing. I ask about is breakfast. I counsel my clients to eat a fat and protein-heavy breakfast as soon as possible after they awaken.
 
-All day. Their systems cannot be reset until after more sleep. I have had many clients whose anxiety was reduced to subclinical levels merely because they started to sleep on a predictable schedule and eat breakfast. Other bad habits can also interfere with the counter’s accuracy.
+No simple carbohydrates, no sugars, as they are digested too rapidly and produce a blood sugar spike and a rapid dip. This is because anxious and depressed people are already stressed, particularly if their lives have not been under control for a good while. Their bodies are therefore primed to hypersecrete insulin if they engage in any complex or demanding activity. If they do so after fasting all night and before eating, the excess insulin in their bloodstream will mop up all their blood sugar.
 
-Sometimes this happens directly for poorly understood biological reasons and sometimes it happens because those habits initiate a complex positive feedback loop. A positive feedback loop requires an input detector, an amplifier, and some form of output. Imagine a signal picked up by the input detector amplified and then emitted in amplified form. So far so good.
+Then they become hypoglycemic and psychophysiologically unstable. All day. Their systems cannot be reset until after more sleep. I have had many clients whose anxiety was reduced to subclinical levels merely because they started to sleep on a predictable schedule and eat breakfast.
 
-The trouble starts when the input detector detects that output and runs it through the system again amplifying and emitting it again. A few rounds of intensification and things get dangerously out of control. Most people have been subject to the deafening howling of feedback at a concert when the sound system squeals painfully. The microphone sends a signal to the speakers.
+Other bad habits can also interfere with the counter’s accuracy. Sometimes this happens directly for poorly understood biological reasons and sometimes it happens because those habits initiate a complex positive feedback loop. A positive feedback loop requires an input detector, an amplifier, and some form of output. Imagine a signal picked up by the input detector amplified and then emitted in amplified form.
 
-The speakers emit the signal. The signal can be picked up by the microphone and sent through the system again if it’s too loud or too close to the speakers. The sound rapidly amplifies to unbearable levels sufficient to destroy the speakers if it continues. The same destructive loop happens within people’s lives.
+So far so good. The trouble starts when the input detector detects that output and runs it through the system again amplifying and emitting it again. A few rounds of intensification and things get dangerously out of control. Most people have been subject to the deafening howling of feedback at a concert when the sound system squeals painfully.
 
-Much of the time when it happens, we label it mental illness. Even though it’s not only or even at all occurring inside people’s psyches. Addiction to alcohol or another mood-altering drug is a common positive feedback process. Imagine a person who enjoys alcohol, perhaps a bit too much.
+The microphone sends a signal to the speakers. The speakers emit the signal. The signal can be picked up by the microphone and sent through the system again if it’s too loud or too close to the speakers. The sound rapidly amplifies to unbearable levels sufficient to destroy the speakers if it continues.
 
-He has a quick three or four drinks. His blood alcohol level spikes sharply. This can be extremely exhilarating, particularly for someone who has a genetic predisposition to alcoholism. But it only occurs while blood alcohol levels are actively rising and that only contributes if the drinker keeps drinking.
+The same destructive loop happens within people’s lives. Much of the time when it happens, we label it mental illness. Even though it’s not only or even at all occurring inside people’s psyches. Addiction to alcohol or another mood-altering drug is a common positive feedback process.
 
-When he stops, not only does his blood alcohol level plateau and then start to sink, but his body begins to produce a variety of toxins as it metabolizes the ethanol already consumed. He also starts to experience alcohol withdrawal as the anxiety systems that were suppressed during intoxication start to hyper-respond.
+Imagine a person who enjoys alcohol, perhaps a bit too much. He has a quick three or four drinks. His blood alcohol level spikes sharply. This can be extremely exhilarating, particularly for someone who has a genetic predisposition to alcoholism.
+
+But it only occurs while blood alcohol levels are actively rising and that only contributes if the drinker keeps drinking. When he stops, not only does his blood alcohol level plateau and then start to sink, but his body begins to produce a variety of toxins as it metabolizes the ethanol already consumed. He also starts to experience alcohol withdrawal as the anxiety systems that were suppressed during intoxication start to hyper-respond.
 
 
 <a id="sec-012534"></a>
@@ -687,7 +783,7 @@ But that might be what is required in the short term if the misery is sufficient
 
 Something similar often happens to people who develop anxiety disorders, such as agoraphobia. People with agoraphobia can become so overwhelmed with fear that they will no longer leave their homes. Agoraphobia is the consequence of a positive feedback loop. The first event that precipitates the disorder is often a panic attack.
 
-The sufferer is typically a middle-aged woman who has been too dependent on other people. Perhaps she went immediately from over-reliance on her father to a relationship with an older and comparatively dominant boyfriend or husband, with little or no break for independent existence. In the weeks leading up to the emergence of her agoraphobia, such a woman typically experiences something unexpected and anomalous. It might be something physiological, such as heart palpitations, which are common in any case, and whose likelihood is increased during menopause, when a hormonal process is regulating a woman’s psychological experience fluctuate unpredictably.
+The sufferer is typically a middle-aged woman who has been too dependent on other people. Perhaps, she went immediately from over-reliance on her father to a relationship with an older and comparatively dominant boyfriend or husband, with little or no break for independent existence. In the weeks leading up to the emergence of her agoraphobia, such a woman typically experiences something unexpected and anomalous. It might be something physiological, such as heart palpitations, which are common in any case, and whose likelihood is increased during menopause, when a hormonal process is regulating a woman’s psychological experience fluctuate unpredictably.
 
 Any perceptible alteration in heart rate can trigger thoughts both of heart attack and an all-too-public and embarrassing display of post-heart attack, distress, and suffering. Death and social humiliation constituting the two most basic fears. The unexpected occurrence might instead be conflict in the sufferer’s marriage or the illness or death of a spouse. It might be a close friend’s divorce or hospitalization.
 
@@ -705,7 +801,7 @@ But she goes anyway. On the way she can feel her heart pounding. That triggers a
 
 But now the anxiety systems in her brain note that she ran away from the mall and conclude that the journey there was truly dangerous. Our anxiety systems are very practical. They assume that anything you run away from is dangerous. The proof of that is of course the fact that you ran away.
 
-So now the mall is tagged too dangerous to approach or the budding agoraphobic has labeled herself too fragile to approach the mall. Perhaps that is not yet taking things far enough to cause her real trouble. There are other places to shop. But maybe the nearby supermarket is mall like enough to trigger a similar response.
+So now the mall is tagged too dangerous to approach or the budding agoraphobic has labeled herself too fragile to approach the mall. Perhaps, that is not yet taking things far enough to cause her real trouble. There are other places to shop. But maybe the nearby supermarket is mall like enough to trigger a similar response.
 
 When she visits it instead and then retreats. Now the supermarket occupies the same category. Then it’s the corner store. Then it’s buses and taxis and subways.
 
@@ -735,15 +831,17 @@ It also happens to people who have decided for one reason or another that all fo
 
 With their capacity for aggression straitjacketed within a too narrow morality, those who are only or merely compassionate and self-sacrificing cannot call forth the genuinely righteous and appropriately self-protective anger necessary to defend themselves. If you can bite, you generally don’t have to. When skillfully integrated, the ability to respond with aggression and violence decreases rather than increases the probability that actual aggression will become necessary. If you say no, early in the cycle of oppression, and you mean what you say, which means you state your refusal in no uncertain terms and stand behind it, then the scope for oppression on the part of oppressor will remain properly bounded and limited.
 
-The forces of tyranny expand inexorably to fill the space made available for their existence. People who refuse to muster appropriately self-protective territorial responses are laid open to exploitation as much as those who genuinely can’t stand up for their own rights because of a more essential inability or a true imbalance in power. Naive, harmless people usually guide their perceptions and actions with a few simple axioms. People are basically good. No one really wants to hurt anyone else.
+The forces of tyranny expand inexorably to fill the space made available for their existence. People who refuse to muster appropriately self-protective territorial responses are laid open to exploitation as much as those who genuinely can’t stand up for their own rights because of a more essential inability or a true imbalance in power. Naive, harmless people usually guide their perceptions and actions with a few simple axioms. People are basically good.
 
-The threat, and certainly the use of force, physical or otherwise, is wrong. These axioms collapse, or worse, in the presence of individuals who are genuinely malevolent. Worse means that naive beliefs can become a positive invitation to abuse because those who aim to harm have become specialized to prey on people who think precisely such things. Under such conditions, the axioms of harmlessness must be retooled.
+No one really wants to hurt anyone else. The threat, and certainly the use of force, physical or otherwise, is wrong. These axioms collapse, or worse, in the presence of individuals who are genuinely malevolent. Worse means that naive beliefs can become a positive invitation to abuse because those who aim to harm have become specialized to prey on people who think precisely such things.
 
-In my clinical practice I often draw the attention of my clients, who think that good people never become angry, to the stark realities of their own resentments. Introducing AudioNest, your gateway to the world’s best-selling audiobooks, all for free. Imagine diving into captivating stories while you commute, cook or even relax. With AudioNest, you can minimize the app and let your favorite books play in the background, seamlessly blending with your daily life.
+Under such conditions, the axioms of harmlessness must be retooled. In my clinical practice. I often draw the attention of my clients, who think that good people never become angry, to the stark realities of their own resentments. Introducing AudioNest, your gateway to the world’s best-selling audiobooks, all for free.
 
-The best part? You can enjoy these stories in the language you love, English, Spanish, Hindi, German, you name it, we’ve got it! Why wait? Step into AudioNest today, where every story is yours to explore, for free!
+Imagine diving into captivating stories while you commute, cook or even relax. With AudioNest, you can minimize the app and let your favorite books play in the background, seamlessly blending with your daily life. The best part? You can enjoy these stories in the language you love, English, Spanish, Hindi, German, you name it, we’ve got it!
 
-To download the AudioNest app, visit our website, w.audionestapp.com, or click on the link in bio. No one likes to be pushed around, but people often put up with it for too long. So I get them to see their resentment, first as anger, and then as an indication that something needs to be said, if not done, not least because honesty demands it. Then I get them to see such action as part of the force that holds tyranny at bay, at the social level, as much as the individual.
+Why wait? Step into AudioNest today, where every story is yours to explore, for free! To download the AudioNest app, visit our website, w.audionestapp.com, or click on the link in bio. No one likes to be pushed around, but people often put up with it for too long.
+
+So. I get them to see their resentment, first as anger, and then as an indication that something needs to be said, if not done, not least because honesty demands it. Then. I get them to see such action as part of the force that holds tyranny at bay, at the social level, as much as the individual.
 
 Many bureaucracies have petty authoritarians within them, generating unnecessary rules and procedures simply to express and cement power. Such people produce powerful undercurrents of resentment around them which, if expressed,
 
@@ -753,7 +851,7 @@ Many bureaucracies have petty authoritarians within them, generating unnecessary
 
 would limit their expression of pathological power. It is in this manner that the willingness of the individual to stand up for him or herself protects everyone from the corruption of society. When naive people discover the capacity for anger within themselves, they’re shocked, sometimes severely. A profound example of this can be found in the Susceptibility of New Soldiers to Post-Traumatic Stress Disorder, which often occurs because of something they watch themselves doing rather than because of something that has happened to them.
 
-They react like the monsters they can truly be in extreme battlefield conditions, and the revelation of that capacity undoes their world. And no wonder, perhaps they assume that all of history’s terrible perpetrators were people totally unlike themselves. Perhaps they were never able to see within themselves the capacity for oppression and bullying, and perhaps not their capacity for assertion and success as well. I have had clients who were terrified into literally years of daily hysterical convulsions by the sheer look of malevolence on their attackers' faces.
+They react like the monsters they can truly be in extreme battlefield conditions, and the revelation of that capacity undoes their world. And no wonder, perhaps they assume that all of history’s terrible perpetrators were people totally unlike themselves. Perhaps, they were never able to see within themselves the capacity for oppression and bullying, and perhaps not their capacity for assertion and success as well. I have had clients who were terrified into literally years of daily hysterical convulsions by the sheer look of malevolence on their attackers' faces.
 
 Such individuals typically come from hyper-sheltered families where nothing terrible is allowed to exist and everything is fairyland, wonderful. Or else. When the awakening occurs, when once-naive people recognize in themselves the seeds of evil and monstrosity and see themselves as dangerous, at least potentially, their fear decreases. They develop more self-respect.
 
@@ -761,25 +859,25 @@ Then perhaps they begin to resist oppression. They see that they have the abilit
 
 This is one of the most difficult lessons of life. Maybe you are a loser, and maybe you’re not, but if you are, you don’t have to continue in that mode. Maybe you just have a bad habit. Maybe you’re even just a collection of bad habits.
 
-Nonetheless, even if you came by your poor posture honestly, even if you were unpopular, or bullied at home or in grade school, it’s not necessarily appropriate now, circumstances change. If you slump around with the same bearing that characterizes a defeated lobster, people will assign you a lower status, and the old counter that you share with crustaceans, sitting at the very base of your brain, will assign you a low dominance number. Then, your brain will not produce as much serotonin. This will make you less happy, and more anxious and sad, and more likely to back down when you should stand up for yourself.
+Nonetheless, even if you came by your poor posture honestly, even if you were unpopular, or bullied at home or in grade school, it’s not necessarily appropriate now, circumstances change. If you slump around with the same bearing that characterizes a defeated lobster, people will assign you a lower status, and the old counter that you share with crustaceans, sitting at the very base of your brain, will assign you a low dominance number. Then, your brain will not produce as much serotonin.
 
-It will also decrease the probability that you will get to live in a good neighborhood, and have access to the highest quality resources, and obtain a healthy desirable mate. It will render you more likely to abuse cocaine and alcohol as you live for the present in a world full of uncertain futures. It will increase your susceptibility to heart disease, cancer, and dementia. All in all, it’s just not good.
+This will make you less happy, and more anxious and sad, and more likely to back down when you should stand up for yourself. It will also decrease the probability that you will get to live in a good neighborhood, and have access to the highest quality resources, and obtain a healthy desirable mate. It will render you more likely to abuse cocaine and alcohol as you live for the present in a world full of uncertain futures. It will increase your susceptibility to heart disease, cancer, and dementia.
 
-Circumstances change, and so can you. Positive feedback loops adding effect to effect can spiral counter-productively in a negative direction, but can also work to get you ahead. That’s the other, far more optimistic lesson of Price’s Law and the Pareto distribution. Those who start to have will probably get more.
+All in all, it’s just not good. Circumstances change, and so can you. Positive feedback loops adding effect to effect can spiral counter-productively in a negative direction, but can also work to get you ahead. That’s the other, far more optimistic lesson of Price’s Law and the Pareto distribution.
 
-Some of these upwardly moving loops can occur in your own private subjective space. Emotions in body language offer an important example. If you are asked by a researcher to move your facial muscles one at a time into a position that would look sad to an observer, you will report feeling sadder. If you are asked to move the muscles one by one into a position that looks happy, you will report feeling happier.
+Those who start to have will probably get more. Some of these upwardly moving loops can occur in your own private subjective space. Emotions in body language offer an important example. If you are asked by a researcher to move your facial muscles one at a time into a position that would look sad to an observer, you will report feeling sadder.
 
-Emotion is partly bodily expression, and can be amplified, or dampened, by that expression. Some of the positive feedback loops instantiated by body language can occur beyond the private confines of subjective experience, in the social space you share with other people. If your posture is poor, for example, if you slump, shoulders forward and rounded, chest tucked in, head down, looking small, defeated and ineffectual, protected in theory against attack from behind, then you will feel small, defeated and ineffectual. The reactions of others will amplify that.
+If you are asked to move the muscles one by one into a position that looks happy, you will report feeling happier. Emotion is partly bodily expression, and can be amplified, or dampened, by that expression. Some of the positive feedback loops instantiated by body language can occur beyond the private confines of subjective experience, in the social space you share with other people. If your posture is poor, for example, if you slump, shoulders forward and rounded, chest tucked in, head down, looking small, defeated and ineffectual, protected in theory against attack from behind, then you will feel small, defeated and ineffectual.
 
-People like lobsters size each other up, partly in consequence of stance. If you present yourself as defeated, then people will react to you as if you are losing. If you start to straighten up and people will look and treat you differently, you might object. Being at the bottom is equally real.
+The reactions of others will amplify that. People like lobsters size each other up, partly in consequence of stance. If you present yourself as defeated, then people will react to you as if you are losing. If you start to straighten up and people will look and treat you differently, you might object.
 
-A mere transformation of posture is insufficient to change anything that fixed. If you are in number 10 position, then standing up straight and appearing dominant might only attract the attention of those who want, once again, to put you down. And fair enough. But standing up straight with your shoulders back is not something that is only physical because you are not only a body, you are a spirit, so to speak, a psyche as well.
+Being at the bottom is equally real. A mere transformation of posture is insufficient to change anything that fixed. If you are in number 10 position, then standing up straight and appearing dominant might only attract the attention of those who want, once again, to put you down. And fair enough.
 
-Standing up physically also implies and invokes and demands standing up metaphysically. Standing up means voluntarily accepting the burden of being. Your nervous system responds in an entirely different manner when you face the demands of life voluntarily. You respond to a challenge instead of bracing for a catastrophe.
+But standing up straight with your shoulders back is not something that is only physical because you are not only a body, you are a spirit, so to speak, a psyche as well. Standing up physically also implies and invokes and demands standing up metaphysically. Standing up means voluntarily accepting the burden of being. Your nervous system responds in an entirely different manner when you face the demands of life voluntarily.
 
-You see the gold, the dragon hordes, instead of the shrinking in terror from the all too real fact of the dragon. You step forward to take your place in the dominance hierarchy and occupy your territory manifesting your willingness to defend, expand and transform it. That can all occur practically or symbolically, as a physical or as a conceptual restructuring. To stand up straight with your shoulders back is to accept the terrible responsibility of life with eyes wide open.
+You respond to a challenge instead of bracing for a catastrophe. You see the gold, the dragon hordes, instead of the shrinking in terror from the all too real fact of the dragon. You step forward to take your place in the dominance hierarchy and occupy your territory manifesting your willingness to defend, expand and transform it. That can all occur practically or symbolically, as a physical or as a conceptual restructuring.
 
-It means deciding to voluntarily transform the chaos of potential into the realities
+To stand up straight with your shoulders back is to accept the terrible responsibility of life with eyes wide open. It means deciding to voluntarily transform the chaos of potential into the realities
 
 
 <a id="sec-014041"></a>
@@ -799,21 +897,25 @@ Doing so will not only genuinely increase the probability that good things will 
 
 Thus emboldened, you will embark on the voyage of your life. Let your light shine, so to speak, on the heavenly hill and pursue your rightful destiny. Then the meaning of your life may be sufficient to keep the corrupting influence of mortal despair at bay. Then you may be able to accept the terrible burden of the world and find joy.
 
-Look for your inspiration to the victorious lobster, with its 350 million years of practical wisdom. Stand up straight, with your shoulders back. 12 Rules for Life by Jordan Peterson Rule 2 Treat yourself like someone you are responsible for helping. Why won’t you just take your damn pills? Imagine that a hundred people are prescribed a drug.
+Look for your inspiration to the victorious lobster, with its 350 million years of practical wisdom. Stand up straight, with your shoulders back. 12 Rules for Life by Jordan Peterson.
 
-Consider what happens next. One third of them won’t fill the prescription. Half of the remaining 67 will fill it, but won’t take the medication correctly. They’ll miss doses.
+#### Rule 2 Treat yourself like someone you are responsible for helping.
 
-They’ll quit taking it early. They might not even take it at all. Physicians and pharmacists tend to blame such patients for their non-compliance in action and error. You can lead a horse to water, they reason.
+Why won’t you just take your damn pills? Imagine that a hundred people are prescribed a drug. Consider what happens next. One third of them won’t fill the prescription.
 
-Psychologists tend to take a dim view of such judgments. We are trained to assume that the failure of patients to follow professional advice is the fault of the practitioner, not the patient. We believe the healthcare provider has a responsibility to prefer advice that will be followed, offer interventions that will be respected, plan with the patient or client until the desired result is achieved, and follow up to ensure that everything is going correctly. This is just one of the many things that make psychologists so wonderful.
+Half of the remaining 67 will fill it, but won’t take the medication correctly. They’ll miss doses. They’ll quit taking it early. They might not even take it at all.
 
-Of course, we have the luxury of time with our clients, unlike other more beleaguered professionals who wonder why sick people won’t take their medication. What’s wrong with them? Don’t they want to get better? Here’s something worse.
+Physicians and pharmacists tend to blame such patients for their non-compliance in action and error. You can lead a horse to water, they reason. Psychologists tend to take a dim view of such judgments. We are trained to assume that the failure of patients to follow professional advice is the fault of the practitioner, not the patient.
 
-Imagine that someone receives an organ transplant. Imagine it’s a kidney. A transplant typically occurs only after a long period of anxious waiting on the part of the recipient. Only a minority of people donate organs when they die, and even fewer when they’re still alive.
+We believe the healthcare provider has a responsibility to prefer advice that will be followed, offer interventions that will be respected, plan with the patient or client until the desired result is achieved, and follow up to ensure that everything is going correctly. This is just one of the many things that make psychologists so wonderful. Of course, we have the luxury of time with our clients, unlike other more beleaguered professionals who wonder why sick people won’t take their medication.
 
-Only a small number of donated organs are a good match for any hopeful recipient. This means that the typical kidney transplantee has been undergoing dialysis, the only alternative, for years. Dialysis involves passing all the patient’s blood out of his or her body through a machine and back in. It is an unlikely and miraculous treatment, so that’s all good, but it’s not pleasant.
+What’s wrong with them? Don’t they want to get better? Here’s something worse. Imagine that someone receives an organ transplant.
 
-It must happen 5-7 times a week for 8 hours at a time. Should happen every time the patient sleeps. That’s too much. No one wants to stay on dialysis.
+Imagine it’s a kidney. A transplant typically occurs only after a long period of anxious waiting on the part of the recipient. Only a minority of people donate organs when they die, and even fewer when they’re still alive. Only a small number of donated organs are a good match for any hopeful recipient.
+
+This means that the typical kidney transplantee has been undergoing dialysis, the only alternative, for years. Dialysis involves passing all the patient’s blood out of his or her body through a machine and back in. It is an unlikely and miraculous treatment, so that’s all good, but it’s not pleasant. It must happen 5-7 times a week for 8 hours at a time.
+
+Should happen every time the patient sleeps. That’s too much. No one wants to stay on dialysis.
 
 Now, one of the complications of transplantation is rejection. Your body does not like it when parts of someone else’s body are stitched into it. Your immune system will attack and destroy such foreign elements even when they’re crucial to your own survival. To stop this from happening, you must take an anti-rejection drug, which weakens immunity and increasing your susceptibility to infectious disease.
 
@@ -889,9 +991,9 @@ Wrong question. What exactly remains standing? That was the issue at hand. When 
 
 When the bottom drops out and all things fall apart, you plunge through the ice, that’s chaos. Order is the shire of Tolkien’s hobbits, peaceful, productive, and safely inhabitable, even by the naive. Chaos is the underground kingdom of the dwarves, usurped by Smaug, the treasure-hoarding serpent. Chaos is the deep ocean bottom to which Pinocchio voyaged to rescue his father from Monstro, whale and fire-breathing dragon.
 
-That journey into darkness and rescue is the most difficult thing a puppet must do if he wants to be real, if he wants to extract himself from the temptations of deceit and acting and victimization and impulsive pleasure and totalitarian subjugation, if he wants to take his place as a genuine being in the world. Order is the stability of your marriage. It’s buttressed by the traditions of the past and by your expectations, grounded, often invisibly, in those traditions. Chaos is that stability crumbling under your feet when you discover your partner’s infidelity.
+That journey into darkness and rescue is the most difficult thing a puppet must do if he wants to be real, if he wants to extract himself from the temptations of deceit and acting and victimization and impulsive pleasure and totalitarian subjugation, if he wants to take his place as a genuine being in the world. Order is the stability of your marriage. It’s buttressed by the traditions of the past and by your expectations, grounded, often invisibly, in those traditions.
 
-Chaos is the experience of reeling unbound and unsupported through space when your guiding routines and traditions collapse. Order is the place and time where the often visible axioms you live by organize your experience and your actions so that what should happen does happen.
+Chaos is that stability crumbling under your feet when you discover your partner’s infidelity. Chaos is the experience of reeling unbound and unsupported through space when your guiding routines and traditions collapse. Order is the place and time where the often visible axioms you live by organize your experience and your actions so that what should happen does happen.
 
 
 <a id="sec-015553"></a>
@@ -949,9 +1051,9 @@ It is also what matters, or what is the matter, the very subject of matter of th
 
 Chaos, the eternal feminine, is also the crushing force of sexual selection. Women are choosy maters, unlike female chimps, their closest animal counterparts. Most men do not meet female human standards. It is for this reason that women on dating sites rate 85% of men as below average in attractiveness.
 
-It is for this reason that we all have twice as many female ancestors as male. Imagine that all the women who have ever lived have averaged one child. Now imagine that half the men who have ever lived have fathered two children, if they had any, while the other half fathered none. It is woman as nature who looks at half of all men and says, no. For the men, that’s a direct encounter with Chaos, and it occurs with devastating force every time they are turned down for a date.
+It is for this reason that we all have twice as many female ancestors as male. Imagine that all the women who have ever lived have averaged one child. Now imagine that half the men who have ever lived have fathered two children, if they had any, while the other half fathered none. It is woman as nature who looks at half of all men and says, no.
 
-Women female choosiness is also why we are very different from the common ancestor we shared with our chimpanzee cousins, while the latter are very much the same. Women’s proclivity to say no, more than any other force, has shaped our evolution into the creative, industrious, upright, large-brained, competitive, aggressive, domineering creatures that we are. It is nature as woman who says, well, bucko, you’re good enough for a friend, but my experience of you so far has not indicated the suitability of your genetic material for continued propagation." The most profound religious symbols rely for their power in large part on this underlying fundamentally bipartisan conceptual subdivision.
+For the men, that’s a direct encounter with Chaos, and it occurs with devastating force every time they are turned down for a date. Women female choosiness is also why we are very different from the common ancestor we shared with our chimpanzee cousins, while the latter are very much the same. Women’s proclivity to say no, more than any other force, has shaped our evolution into the creative, industrious, upright, large-brained, competitive, aggressive, domineering creatures that we are. It is nature as woman who says, well, bucko, you’re good enough for a friend, but my experience of you so far has not indicated the suitability of your genetic material for continued propagation." The most profound religious symbols rely for their power in large part on this underlying fundamentally bipartisan conceptual subdivision.
 
 The Star of David is, for example, the downward-pointing triangle of femininity and the upward-pointing triangle of the male. It is of great interest in this regard that the five-part taijitu, referred to in chapter 1 and the source of the simpler yin-yang symbol, expresses the origin of the cosmos as, first, dividing in the undifferentiated absolute, then dividing into yin and yang, chaos, order, feminine, masculine, and then into the five agents, wood, fire, earth, metal, water, and then, simply put, the ten thousand things.
 
@@ -967,27 +1069,29 @@ The Shiva linga is depicted with snake deities called the nagas. The ancient Egy
 
 It should also be noted, finally, that the structure of the brain itself, at a gross morphological level, appears to reflect this duality. This to me indicates the fundamental, beyond-the-metaphorical reality of this symbolically feminine-slash-masculine divide since the brain is adapted, by definition, to reality itself, that is, reality conceptualized in this quasi-Darwinian manner. Elkanon Goldberg, student of the great Russian neuropsychologist Alexander Luria, has proposed quite lucidly and directly that the very hemispheric structure of the cortex reflects the fundamental division between novelty, the unknown or chaos, and routinization, the known, order.
 
-He doesn’t make reference to the symbols representing the structure of the world in reference to this theory, but that’s all the better, and idea is more credible when it emerges as a consequence of investigations in different realms. We already know all this, but we don’t know we know it. But we immediately comprehend it when it’s articulated in a manner such as this. Everyone understands order and chaos, world and underworld when it’s explained using these terms. We all have a palpable sense of the chaos lurking under everything familiar.
+He doesn’t make reference to the symbols representing the structure of the world in reference to this theory, but that’s all the better, and idea is more credible when it emerges as a consequence of investigations in different realms. We already know all this, but we don’t know we know it. But we immediately comprehend it when it’s articulated in a manner such as this. Everyone understands order and chaos, world and underworld when it’s explained using these terms.
 
-That’s why we understand the strange, surreal stories of Pinocchio and Sleeping Beauty and the Lion King and the Little Mermaid and Beauty and the Beast, with their eternal landscapes of known and unknown, world and underworld. We’ve all been in both places many times, sometimes by happenstance, sometimes by choice. Many things begin to fall into place when you begin to consciously understand the world in this manner. It’s as if the knowledge of your body and soul falls into alignment with the knowledge of your intellect.
+We all have a palpable sense of the chaos lurking under everything familiar. That’s why we understand the strange, surreal stories of Pinocchio and Sleeping Beauty and the Lion King and the Little Mermaid and Beauty and the Beast, with their eternal landscapes of known and unknown, world and underworld. We’ve all been in both places many times, sometimes by happenstance, sometimes by choice. Many things begin to fall into place when you begin to consciously understand the world in this manner.
 
-And there’s more. Such knowledge is prescriptive, as well as descriptive. This is the kind of knowing what that helps you know how. This is the kind of is from which you can derive and ought.
+It’s as if the knowledge of your body and soul falls into alignment with the knowledge of your intellect. And there’s more. Such knowledge is prescriptive, as well as descriptive. This is the kind of knowing what that helps you know how.
 
-The Taoist juxtaposition of yin and yang, for example, doesn’t simply portray chaos and order as the fundamental elements of being. It also tells you how to act. The Way, the Taoist path of life, is represented by, or exists on, the border between the twin serpents. The Way is the path of proper being.
+This is the kind of is from which you can derive and ought. The Taoist juxtaposition of yin and yang, for example, doesn’t simply portray chaos and order as the fundamental elements of being. It also tells you how to act. The Way, the Taoist path of life, is represented by, or exists on, the border between the twin serpents.
 
-It’s the same way as that referred to by Christ in John chapter 14 verse 6. I am the way and the truth and the life. The same idea is expressed in Matthew chapter 7 verse 14. Because straight is the gate and narrow is the way, which leadeth unto life, and few there be that find it.
+The Way is the path of proper being. It’s the same way as that referred to by Christ in John chapter 14 verse 6. I am the way and the truth and the life. The same idea is expressed in Matthew chapter 7 verse 14.
 
-We eternally inhabit order surrounded by chaos. We eternally occupy known territory surrounded by the unknown. We experience meaningful engagement when we mediate appropriately between them. We are adapted in the deepest Darwinian sense not to world of objects, but to the meta realities of order and chaos, yang and yin.
+Because straight is the gate and narrow is the way, which leadeth unto life, and few there be that find it. We eternally inhabit order surrounded by chaos. We eternally occupy known territory surrounded by the unknown. We experience meaningful engagement when we mediate appropriately between them.
 
-Chaos and order make up the eternal, transcendent environment of the living. To straddle that fundamental duality is to be balanced, to have one foot firmly planted in order and security and the other in chaos, possibility, growth, and adventure. When life suddenly reveals itself as intense, gripping, and meaningful, when time passes and you’re so engrossed in what you’re doing and you don’t notice, it is there and then that you are located precisely on the border between order and chaos. The subjective meaning that we encounter there is the reaction of our deepest being, our neurologically and evolutionarily grounded instinctive self, indicating that we are ensuring the stability but also the expansion of habitable, productive territory of space that is personal, social, and natural.
+We are adapted in the deepest Darwinian sense not to world of objects, but to the meta realities of order and chaos, yang and yin. Chaos and order make up the eternal, transcendent environment of the living. To straddle that fundamental duality is to be balanced, to have one foot firmly planted in order and security and the other in chaos, possibility, growth, and adventure. When life suddenly reveals itself as intense, gripping, and meaningful, when time passes and you’re so engrossed in what you’re doing and you don’t notice, it is there and then that you are located precisely on the border between order and chaos.
 
-It’s the right place to be in every sense. You are there when and where it matters. That’s what music is telling you too when you’re listening. Even more perhaps when you’re dancing.
+The subjective meaning that we encounter there is the reaction of our deepest being, our neurologically and evolutionarily grounded instinctive self, indicating that we are ensuring the stability but also the expansion of habitable, productive territory of space that is personal, social, and natural. It’s the right place to be in every sense. You are there when and where it matters. That’s what music is telling you too when you’re listening.
 
-When its harmonious layered patterns of predictability and unpredictability make meaning itself well up from the most profound depths of your being. Chaos and order are fundamental elements because every lived situation, even every conceivable lived situation, is made up of both. No matter where we are, there are some things we can identify, make use of, and predict, and some things we neither know nor understand. No matter who we are, Kalahari Desert Dweller or Wall Street Banker, some things are under our control and some things are not.
+Even more perhaps when you’re dancing. When its harmonious layered patterns of predictability and unpredictability make meaning itself well up from the most profound depths of your being. Chaos and order are fundamental elements because every lived situation, even every conceivable lived situation, is made up of both. No matter where we are, there are some things we can identify, make use of, and predict, and some things we neither know nor understand.
 
-That’s why both can understand the same stories and dwell within the confines of the same eternal truths. Finally, the fundamental reality of chaos and order is true for everything alive, not only for us. Living things are all for us. Introducing AudioNest, your gateway to the world’s best-selling audiobooks, all for free.
+No matter who we are, Kalahari Desert Dweller or Wall Street Banker, some things are under our control and some things are not. That’s why both can understand the same stories and dwell within the confines of the same eternal truths.
 
-Driving into captivating stories while you commute, cook, or even relax. With AudioNest, you can minimise the app and let your favourite books play in the background, seamlessly blending with your daily life. The best part? You can enjoy these stories in the language you love, English, Spanish, Hindi, German,
+Finally, the fundamental reality of chaos and order is true for everything alive, not only for us. Living things are all for us. Introducing AudioNest, your gateway to the world’s best-selling audiobooks, all for free. Driving into captivating stories while you commute, cook, or even relax.
+
+With AudioNest, you can minimise the app and let your favourite books play in the background, seamlessly blending with your daily life. The best part? You can enjoy these stories in the language you love, English, Spanish, Hindi, German,
 
 
 <a id="sec-021101"></a>
@@ -1017,7 +1121,9 @@ It just does not appear possible even for God himself to make a bounded space co
 
 Even had all of these been banished, however, in some inconceivable manner by some primordial St. George, snakes still would have remained in the form of our primordial human rivals, at least when they were acting like enemies from our limited, in-group, kin-bonded perspectives. There was, after all, no shortage of conflict and warfare among our ancestors, tribal and otherwise. And even if we had defeated all the snakes that beset us from without, reptilian and human alike, we would still not have been safe.
 
-Nor are we now. We have seen the enemy after all, and he is us. The snake inhabits each of our souls. This is the reason, as far as I can tell, for the strange Christian insistence made most explicit by John Milton that the snake in the Garden of Eden was also Satan, the
+Nor are we now. We have seen the enemy after all, and he is us. The snake inhabits each of our souls. This is the reason, as far as.
+
+I can tell, for the strange Christian insistence made most explicit by John Milton that the snake in the Garden of Eden was also Satan, the
 
 
 <a id="sec-021604"></a>
@@ -1037,27 +1143,27 @@ Question for parents. Do you want to make your children safe or strong? In any c
 
 It therefore comes as no surprise when he decides to play a trick on Eve. Why Eve instead of Adam? It could just be chance. It was 50-50 for Eve, statistically speaking, and those are pretty high odds.
 
-But I have learned that these old stories contain nothing superfluous. Anything accidental, anything that does not serve the plot, has long been forgotten in the telling. As the Russian playwright Anton Chekhov advised, if there is a rifle hanging on the wall in Act I, it must be fired in the next act. Otherwise it has no business being there.
+But. I have learned that these old stories contain nothing superfluous. Anything accidental, anything that does not serve the plot, has long been forgotten in the telling. As the Russian playwright Anton Chekhov advised, if there is a rifle hanging on the wall in Act.
 
-Perhaps Primordial Eve had more reason to attend to serpents than Adam. Maybe they were more likely, for example, to prey on her tree-dwelling infants. Perhaps it is for this reason that Eve’s daughters are more protective, self-conscious, fearful, and nervous to this day, even and especially in the most egalitarian of modern human societies. In any case, the serpent tells Eve that if she eats the forbidden fruit she won’t die.
+I, it must be fired in the next act. Otherwise it has no business being there. Perhaps Primordial Eve had more reason to attend to serpents than Adam. Maybe they were more likely, for example, to prey on her tree-dwelling infants.
 
-Instead, her eyes will be opened. She will become like God, knowing good from evil. Of course, the serpent doesn’t let her know that she will be like God in only that one way. But he is a serpent after all.
+Perhaps, it is for this reason that Eve’s daughters are more protective, self-conscious, fearful, and nervous to this day, even and especially in the most egalitarian of modern human societies. In any case, the serpent tells Eve that if she eats the forbidden fruit she won’t die. Instead, her eyes will be opened. She will become like God, knowing good from evil.
 
-Being human and wanting to know more, Eve decides to eat the fruit. She wakes up. She is conscious, or perhaps self-conscious, for the first time.
+Of course, the serpent doesn’t let her know that she will be like God in only that one way. But he is a serpent after all. Being human and wanting to know more, Eve decides to eat the fruit. She wakes up.
 
-Now, no clear-seeing, conscious woman is going to tolerate an unawakened man. So, Eve immediately shares the fruit with Adam. That makes him self-conscious. Little has changed.
+She is conscious, or perhaps self-conscious, for the first time. Now, no clear-seeing, conscious woman is going to tolerate an unawakened man. So, Eve immediately shares the fruit with Adam. That makes him self-conscious.
 
-Women have been making men self-conscious since the beginning of time. They do this primarily by rejecting them, but they also do it by shaming them, if men do not take responsibility. Since women bear the primary burden of reproduction it’s no wonder. It is very hard to see how it could be otherwise.
+Little has changed. Women have been making men self-conscious since the beginning of time. They do this primarily by rejecting them, but they also do it by shaming them, if men do not take responsibility. Since women bear the primary burden of reproduction it’s no wonder.
 
-But the capacity of women to shame men and render them self-conscious is still a primal force of nature. Now you may ask, what in the world have snakes got to do with vision? Well, first, it’s clearly of some importance to see them, because they might prey on you. Particularly when you’re little and live in trees like our arboreal ancestors. Dr. Lynn Isbell, professor of anthropology and animal behavior at the University of California, has suggested that the stunningly acute vision almost uniquely possessed by human beings was an adaptation forced on us tens of millions of years ago by the necessity of detecting and avoiding the terrible danger of snakes with whom our ancestors co-evolved.
+It is very hard to see how it could be otherwise. But the capacity of women to shame men and render them self-conscious is still a primal force of nature. Now you may ask, what in the world have snakes got to do with vision? Well, first, it’s clearly of some importance to see them, because they might prey on you.
 
-This is perhaps one of the reasons the snake features in the Garden of Paradise as the creature who gave us the vision of God, in addition to serving as the primordial and eternal enemy of mankind. This is perhaps one of the reasons why Mary, the eternal archetypal mother, Eve perfected, is so commonly shown in medieval and renaissance iconography, holding the Christ child in the air as far away as possible from a predatory reptile which she has firmly pinned under her foot.
+Particularly when you’re little and live in trees like our arboreal ancestors. Dr. Lynn Isbell, professor of anthropology and animal behavior at the University of California, has suggested that the stunningly acute vision almost uniquely possessed by human beings was an adaptation forced on us tens of millions of years ago by the necessity of detecting and avoiding the terrible danger of snakes with whom our ancestors co-evolved. This is perhaps one of the reasons the snake features in the Garden of Paradise as the creature who gave us the vision of God, in addition to serving as the primordial and eternal enemy of mankind.
 
-And there’s more. It’s fruit that the snake offers. And fruit is also associated with the transformation of vision, in that our ability to see color is an adaptation that allows us to rapidly detect the ripe and therefore edible bounty of trees. Our primordial parents harkened to the snake.
+This is perhaps one of the reasons why Mary, the eternal archetypal mother, Eve perfected, is so commonly shown in medieval and renaissance iconography, holding the Christ child in the air as far away as possible from a predatory reptile which she has firmly pinned under her foot. And there’s more. It’s fruit that the snake offers. And fruit is also associated with the transformation of vision, in that our ability to see color is an adaptation that allows us to rapidly detect the ripe and therefore edible bounty of trees.
 
-They ate the fruit. Their eyes opened. They both awoke. You might think, as Eve did initially, that this would be a good thing.
+Our primordial parents harkened to the snake. They ate the fruit. Their eyes opened. They both awoke.
 
-Sometimes, however, half a gift
+You might think, as Eve did initially, that this would be a good thing. Sometimes, however, half a gift
 
 
 <a id="sec-022108"></a>
@@ -1091,23 +1197,27 @@ It’s the price we all pay for aim, achievement, and ambition. But it’s also 
 
 This puzzles God who is accustomed to walking with him. Adam calls God, apparently forgetting that he can see through bushes. Where are you? Adam immediately reveals himself, but badly.
 
-First as a neurotic, then as a rat-think. The creator of all the universe calls and Adam replies, I heard you God, but I was naked and hid. What does this mean? It means that people, unsettled by their vulnerability, eternally fear to tell the truth, to mediate between chaos and order, and to manifest their destiny.
+First, as a neurotic, then as a rat-think. The creator of all the universe calls and Adam replies, I heard you God, but. I was naked and hid. What does this mean?
 
-In other words, they are afraid to walk with God. That’s not particularly admirable perhaps, but it’s certainly understandable. God’s a judgemental father, his standards are high. He’s hard to please.
+It means that people, unsettled by their vulnerability, eternally fear to tell the truth, to mediate between chaos and order, and to manifest their destiny. In other words, they are afraid to walk with God. That’s not particularly admirable perhaps, but it’s certainly understandable. God’s a judgemental father, his standards are high.
 
-God says, who told you that you were naked? Did you eat something you weren’t supposed to? And Adam in his wretchedness points right at Eve, his love, his partner, his soulmate, and snitches on her. And then he blames God, he says, the woman whom you gave to me, she gave it to me.
+He’s hard to please. God says, who told you that you were naked? Did you eat something you weren’t supposed to? And Adam in his wretchedness points right at Eve, his love, his partner, his soulmate, and snitches on her.
 
-And then I ate it. How pathetic and how accurate. The first woman made the first man self-conscious and resentful. Then the first man blamed the woman.
+And then he blames God, he says, the woman whom you gave to me, she gave it to me. And then. I ate it. How pathetic and how accurate.
 
-And then the first man blamed God. This is exactly how every spurned male feels to this day. First he feels small in front of the potential object of his love after she denigrates his reproductive suitability. Then he curses God for making her so bitchy, himself so useless, if he has any sense, and being itself so deeply flawed.
+The first woman made the first man self-conscious and resentful. Then the first man blamed the woman. And then the first man blamed God. This is exactly how every spurned male feels to this day.
 
-Then he turns to thoughts of revenge. How thoroughly contemptible and how utterly understandable. At least the woman had the serpent to blame, and it later turns out that snake is Satan himself, unlikely as that seems. Thus we can understand and sympathize with Eve’s error. She was deceived by the best.
+First, he feels small in front of the potential object of his love after she denigrates his reproductive suitability. Then he curses God for making her so bitchy, himself so useless, if he has any sense, and being itself so deeply flawed. Then he turns to thoughts of revenge. How thoroughly contemptible and how utterly understandable.
 
-But Adam, no one forced his words from his mouth. Unfortunately the worst isn’t over, for man or beast. First God curses the serpent telling him that he will now have to slither around, legless, forever in peril of being stomped on by angry humans. Second he tells the woman that she will now bring forth children in sorrow and desire an unworthy, sometimes resentful man, who will in consequence lord her biological fate over her permanently.
+At least the woman had the serpent to blame, and it later turns out that snake is Satan himself, unlikely as that seems. Thus we can understand and sympathize with Eve’s error. She was deceived by the best. But Adam, no one forced his words from his mouth.
 
-What might this mean? It could just mean that God is a patriarchal tyrant as politically motivated interpretations of the ancient story exist. I think it’s merely descriptive. Merely.
+Unfortunately, the worst isn’t over, for man or beast. First God curses the serpent telling him that he will now have to slither around, legless, forever in peril of being stomped on by angry humans.
 
-And here’s why. As human beings evolved, the brains that eventually gave rise to self-consciousness expanded tremendously. This produced an evolutionary arms race between fetal head and female pelvis. The female graciously widened her hips almost
+Second, he tells the woman that she will now bring forth children in sorrow and desire an unworthy, sometimes resentful man, who will in consequence lord her biological fate over her permanently. What might this mean? It could just mean that God is a patriarchal tyrant as politically motivated interpretations of the ancient story exist. I think it’s merely descriptive.
+
+Merely. And here’s why. As human beings evolved, the brains that eventually gave rise to self-consciousness expanded tremendously. This produced an evolutionary arms race between fetal head and female pelvis.
+
+The female graciously widened her hips almost
 
 
 <a id="sec-022612"></a>
@@ -1123,29 +1233,31 @@ But those who see into the future can also eternally see trouble coming, and mus
 
 I hope you’re fond of thorns and thistles, because you’re going to grow a lot of them. And then God banishes the first man and the first woman from Paradise, out of infancy, out of the unconscious animal world, into the horrors of history itself. And then he puts carobim and a flaming sword at the gate of Eden just to stop them from eating the fruit of the tree of life. That, in particular, appears rather mean-spirited.
 
-Why not just make the poor humans immortal, right away? Particularly if that is your plan for the ultimate future anyway as the story goes. But who would dare to question God? Perhaps heaven is something that you must build, and immortality is something you must earn.
+Why not just make the poor humans immortal, right away? Particularly if that is your plan for the ultimate future anyway as the story goes. But who would dare to question God? Perhaps, heaven is something that you must build, and immortality is something you must earn.
 
 And so we return to our original query. Why would someone buy prescription medication for his dog and then so carefully administer it, when he would not do the same for himself? Now you have the answer, derived from one of the foundational texts of mankind. Why should anyone take care of anything as naked, ugly, ashamed, frightened, worthless, cowardly, resentful, defensive, and accusatory as a descendant of Adam?
 
-Even if that thing, that being is himself. And I do not mean at all to exclude women with this phrasing. All the reasons we have discussed so far for taking a dim view of humanity are applicable to others, as much as to the self. They are generalizations about human nature, nothing more specific.
+Even if that thing, that being is himself. And. I do not mean at all to exclude women with this phrasing. All the reasons we have discussed so far for taking a dim view of humanity are applicable to others, as much as to the self.
 
-But you know so much more about yourself, you are bad enough, as other people know you. But only you know the full range of your secret transgressions, insufficiencies, and inadequacies. No one is more familiar than you, with all the ways your mind and body are flawed. No one has more reason to hold you in contempt, to see you as pathetic.
+They are generalizations about human nature, nothing more specific. But you know so much more about yourself, you are bad enough, as other people know you. But only you know the full range of your secret transgressions, insufficiencies, and inadequacies. No one is more familiar than you, with all the ways your mind and body are flawed.
 
-And by withholding something that might do you good, you can punish yourself for all your failings. A dog, a harmless, innocent, unselfconscious dog, is clearly more deserving. But if you are not convinced yet, let us consider another vital issue. Order, chaos, life, death, sin, vision, work, and suffering.
+No one has more reason to hold you in contempt, to see you as pathetic. And by withholding something that might do you good, you can punish yourself for all your failings. A dog, a harmless, innocent, unselfconscious dog, is clearly more deserving. But if you are not convinced yet, let us consider another vital issue.
 
-That is not enough for the authors of Genesis, nor for humanity itself. The story continues, in all its catastrophe and tragedy, and the people involved, that’s us, must contend with yet another painful awakening. We are next fated to contemplate morality itself. Good and evil.
+Order, chaos, life, death, sin, vision, work, and suffering. That is not enough for the authors of Genesis, nor for humanity itself. The story continues, in all its catastrophe and tragedy, and the people involved, that’s us, must contend with yet another painful awakening. We are next fated to contemplate morality itself.
 
-When their eyes are opened, Adam and Eve realize more than just their nakedness and the necessity of toil. They also come to know good and evil. The serpent says, referring to the fruit. For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.
+Good and evil. When their eyes are opened, Adam and Eve realize more than just their nakedness and the necessity of toil. They also come to know good and evil. The serpent says, referring to the fruit.
 
-What could that possibly mean? What could be left to explore and relate after the vast ground already covered? Well, simple context indicates that it must have something to do with gardens, snakes, disobedience, fruit, sexuality, and nakedness. It was the last item, nakedness, that finally clued me in.
+For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. What could that possibly mean? What could be left to explore and relate after the vast ground already covered? Well, simple context indicates that it must have something to do with gardens, snakes, disobedience, fruit, sexuality, and nakedness.
 
-It took years. Dogs are predators. So are cats. They kill things and eat them.
+It was the last item, nakedness, that finally clued me in. It took years. Dogs are predators. So are cats.
 
-It’s not pretty, but we’ll take them as pets and care for them and give them their medication when they’re sick regardless. Why? They’re predators, but it’s just their nature. They do not bear responsibility for it, they’re hungry, not evil.
+They kill things and eat them. It’s not pretty, but we’ll take them as pets and care for them and give them their medication when they’re sick regardless. Why? They’re predators, but it’s just their nature.
 
-They don’t have the presence of mind, the creativity, and above all the self-consciousness necessary for the inspired cruelty of man. And why not? It’s simple. Unlike us, the predators have no comprehension of their fundamental weakness, their fundamental vulnerability, their own subjugation to pain and death.
+They do not bear responsibility for it, they’re hungry, not evil. They don’t have the presence of mind, the creativity, and above all the self-consciousness necessary for the inspired cruelty of man. And why not? It’s simple.
 
-But we know exactly how and where we can be hurt and why. That is as good a definition as any of self-consciousness. We are aware of our own defenselessness, finitude, and mortality. We can feel pain and self-disgust, and shame and horror, and we know it.
+Unlike us, the predators have no comprehension of their fundamental weakness, their fundamental vulnerability, their own subjugation to pain and death. But we know exactly how and where we can be hurt and why. That is as good a definition as any of self-consciousness. We are aware of our own defenselessness, finitude, and mortality.
+
+We can feel pain and self-disgust, and shame and horror, and we know it.
 
 
 <a id="sec-023113"></a>
@@ -1159,27 +1271,27 @@ That’s far more than predation. That’s a qualitative shift in understanding.
 
 That’s a second as-yet-unhealed fracture in the structure of existence. That’s the transformation of being itself into a moral endeavor, all attendant on the development of sophisticated self-consciousness. Only man could conceive of the rack, the iron maiden, and the thumbscrew. Only man will inflict suffering for the sake of suffering.
 
-That is the best definition of evil I have been able to formulate. Individuals can’t manage that, but humans, with their excruciating, semi-divine capacities, most certainly can. And with this realization, we have well nigh full legitimization of the idea, very unpopular in modern intellectual circles, of original sin. And who would dare to say that there was no element of voluntary choice in our evolutionary, individual, and theological transformation?
+That is the best definition of evil. I have been able to formulate. Individuals can’t manage that, but humans, with their excruciating, semi-divine capacities, most certainly can. And with this realization, we have well nigh full legitimization of the idea, very unpopular in modern intellectual circles, of original sin.
 
-Our ancestors chose their sexual partners, and they selected for consciousness, and self-consciousness, and moral knowledge? And who can deny the sense of existential guilt that pervades human experience? And who could avoid noting that without that guilt, that sense of inbuilt corruption and capacity for wrongdoing, a man is one step from psychopathy? Human beings have a great capacity for wrongdoing.
+And who would dare to say that there was no element of voluntary choice in our evolutionary, individual, and theological transformation? Our ancestors chose their sexual partners, and they selected for consciousness, and self-consciousness, and moral knowledge? And who can deny the sense of existential guilt that pervades human experience? And who could avoid noting that without that guilt, that sense of inbuilt corruption and capacity for wrongdoing, a man is one step from psychopathy?
 
-It’s an attribute that is unique in the world of life. We can and do make things worse voluntarily, with full knowledge of what we are doing, as well as accidentally and carelessly in a manner that is willfully blind. Given that terrible capacity, that proclivity from a level into actions, is it any wonder we have a hard time taking care of ourselves or others? Or even that we doubt the value of the entire human enterprise?
+Human beings have a great capacity for wrongdoing. It’s an attribute that is unique in the world of life. We can and do make things worse voluntarily, with full knowledge of what we are doing, as well as accidentally and carelessly in a manner that is willfully blind. Given that terrible capacity, that proclivity from a level into actions, is it any wonder we have a hard time taking care of ourselves or others?
 
-And we’ve suspected ourselves for good reason for a very long time. Thousands of years ago, the ancient Mesopotamians believed, for example, that mankind itself was made from the blood of King U, the single most terrible monster that the great goddess of chaos could produce in her most vengeful and destructive moments. After drawing conclusions such as that, how could we not question the value of our being? And even of being itself?
+Or even that we doubt the value of the entire human enterprise? And we’ve suspected ourselves for good reason for a very long time. Thousands of years ago, the ancient Mesopotamians believed, for example, that mankind itself was made from the blood of King U, the single most terrible monster that the great goddess of chaos could produce in her most vengeful and destructive moments. After drawing conclusions such as that, how could we not question the value of our being?
 
-Who then could be faced with illness in himself or another without doubting the moral utility of prescribing a healing medicament? And no one understands the darkness of the individual better than the individual himself? Who then, when ill, is going to be fully committed to his own care? Perhaps man is something that should never have been.
+And even of being itself? Who then could be faced with illness in himself or another without doubting the moral utility of prescribing a healing medicament? And no one understands the darkness of the individual better than the individual himself? Who then, when ill, is going to be fully committed to his own care?
 
-Perhaps the world should even be cleansed of all human presence, so that being and consciousness could return to the innocent brutality of the animal. I believe that the person who claims never to have wished for such a thing as neither consulted his memory nor confronted his darkest fantasies. What then is to be done? The spark of the divine.
+Perhaps, man is something that should never have been. Perhaps, the world should even be cleansed of all human presence, so that being and consciousness could return to the innocent brutality of the animal. I believe that the person who claims never to have wished for such a thing as neither consulted his memory nor confronted his darkest fantasies. What then is to be done?
 
-In Genesis 1, God creates the world with the divine, truthful word, generating habitable paradisal order from the pre-cosmogonic chaos. He then creates man and woman in his image, imbuing them with his capacity to do the same, to create order from chaos and continue his work. At each stage of creation, including that involving the formation of the first couple, God reflects upon what has come to be and pronounces it good. The juxtaposition of Genesis 1 with Genesis 2 and 3, the latter two chapters outlining the fall of man, describing why our lot is so tragedy-ridden and ethically torturous, produces a narrative sequence almost unbearable in its profundity.
+The spark of the divine. In Genesis 1, God creates the world with the divine, truthful word, generating habitable paradisal order from the pre-cosmogonic chaos. He then creates man and woman in his image, imbuing them with his capacity to do the same, to create order from chaos and continue his work. At each stage of creation, including that involving the formation of the first couple, God reflects upon what has come to be and pronounces it good.
 
-The moral of Genesis 1 is that being brought into existence through true speech is good. This is true even of man himself prior to his separation from God. This goodness is terribly disrupted by the events of the fall and of Cain and Abel and the flood and the Tower of Babel, but we retain an intimation of the pre-Lapsarian state. We remember, so to speak.
+The juxtaposition of Genesis 1 with Genesis 2 and 3, the latter two chapters outlining the fall of man, describing why our lot is so tragedy-ridden and ethically torturous, produces a narrative sequence almost unbearable in its profundity. The moral of Genesis 1 is that being brought into existence through true speech is good. This is true even of man himself prior to his separation from God. This goodness is terribly disrupted by the events of the fall and of Cain and Abel and the flood and the Tower of Babel, but we retain an intimation of the pre-Lapsarian state.
 
-We remain eternally nostalgic for the innocence of childhood, the divine, unconscious being of the animal and the untouched cathedral-like old-growth forest. We find respite in such things. We worship them even if we are self-proclaimed atheistic environmentalists of the most anti-human sort. The original state of nature conceived in this manner is paradisal, but we are no longer one with God in nature and there is no simple turning back.
+We remember, so to speak. We remain eternally nostalgic for the innocence of childhood, the divine, unconscious being of the animal and the untouched cathedral-like old-growth forest. We find respite in such things. We worship them even if we are self-proclaimed atheistic environmentalists of the most anti-human sort.
 
-The original man and woman existing in unbroken unity with their creator did not appear conscious and certainly not self-conscious. Their eyes were not open, but in their perfection they were also less, not more, than their post-fall counterparts. Their goodness was something bestowed rather than deserved or earned. They exercised no choice.
+The original state of nature conceived in this manner is paradisal, but we are no longer one with God in nature and there is no simple turning back. The original man and woman existing in unbroken unity with their creator did not appear conscious and certainly not self-conscious. Their eyes were not open, but in their perfection they were also less, not more, than their post-fall counterparts. Their goodness was something bestowed rather than deserved or earned.
 
-God knows that’s easier, but maybe it’s not better than, for example, goodness genuinely earned. Maybe even in some cosmic sense, assuming that consciousness itself is a phenomena of
+They exercised no choice. God knows that’s easier, but maybe it’s not better than, for example, goodness genuinely earned. Maybe even in some cosmic sense, assuming that consciousness itself is a phenomena of
 
 
 <a id="sec-023614"></a>
@@ -1187,13 +1299,13 @@ God knows that’s easier, but maybe it’s not better than, for example, goodne
 
 cosmic significance, free choice matters. Who can speak with certainty about such things? I’m unwilling to take these questions off the table, however, merely because they are difficult. So here’s a proposition.
 
-Perhaps it is not simply the emergence of self-consciousness and the rise of our moral knowledge of death and the fall that besets us and makes us doubt our own worth. Perhaps it is instead our unwillingness, reflected in Adam’s shamed hiding, to walk with God, despite our fragility and propensity for evil. The entire Bible is structured so that everything after the fall, the history of Israel, the prophets, the coming of Christ, is presented as a remedy for that fall, a way out of evil.
+Perhaps, it is not simply the emergence of self-consciousness and the rise of our moral knowledge of death and the fall that besets us and makes us doubt our own worth. Perhaps, it is instead our unwillingness, reflected in Adam’s shamed hiding, to walk with God, despite our fragility and propensity for evil. The entire Bible is structured so that everything after the fall, the history of Israel, the prophets, the coming of Christ, is presented as a remedy for that fall, a way out of evil.
 
 The beginning of conscious history, the rise of the state and all its pathologies of pride and rigidity, the emergence of great moral figures who try to set things right, culminating in the Messiah himself, that’s all part of humanity’s attempt, God willing, to set itself right. And what would that mean? And this is an amazing thing. The answer is already implicit in Genesis 1, to embody the image of God, to speak out of chaos the being that is good, but to do so consciously, of our own free choice.
 
 Back is the way forward as TS Eliot so rightly insisted, but back as awake beings, exercising the proper choice of awake beings instead of back to sleep. We shall not cease from exploration and the end of all our exploring will be to arrive where we started and know the place for the first time. Through the unknown remembered gate when the last of earth left to discover is that which was the beginning, at the source of the longest river, the voice of the hidden waterfall and the children in the apple tree.
 
-Not known because not looked for, but heard, half heard in the stillness between two waves of the sea, quick now, here, now, always. A condition of complete simplicity costing not less than everything, and all shall be well, and all manner of things shall be well, when the tongues of flames are enfolded into the crown not of fire, and the fire and the rose are one. Little Gidding, Four Quartets, 1943 If we wish to take care of ourselves properly, we would have to respect ourselves, but we don’t, because we are, not least in our own eyes, fallen creatures.
+Not known because not looked for, but heard, half heard in the stillness between two waves of the sea, quick now, here, now, always. A condition of complete simplicity costing not less than everything, and all shall be well, and all manner of things shall be well, when the tongues of flames are enfolded into the crown not of fire, and the fire and the rose are one. Little Gidding, Four Quartets, 1943. If we wish to take care of ourselves properly, we would have to respect ourselves, but we don’t, because we are, not least in our own eyes, fallen creatures.
 
 If we lived in truth, if we spoke the truth, then we could walk with God once again and respect ourselves and others and the world, then we might treat ourselves like people we cared for, we might strive to set the world straight, we might orient it toward heaven where we would want people we cared for to dwell instead of hell where our resentment and hatred would eternally sentence everyone. In the areas where Christianity emerged two thousand years ago, people were much more barbaric than they are today.
 
@@ -1205,47 +1317,49 @@ It is easy to believe that people are arrogant and egotistical and always lookin
 
 They shoulder intolerable burdens of self-disgust, self-contempt, shame and self-consciousness. Thus instead of narcissistically inflating their own importance, they don’t value themselves at all, and they don’t take care of themselves with attention and skill. It seems that people often don’t really believe that they deserve the best care, personally speaking. They are excruciatingly aware of their own faults and inadequacies, real and exaggerated and ashamed and doubtful of their own value.
 
-They believe that other people shouldn’t suffer, and they will work diligently and altruistically to help them alleviate it. They extend the same courtesy even to the animals they are acquainted with, but not so easily to themselves. It is true that the idea of virtuous self-sacrifice is deeply embedded in Western culture, at least insofar as the West has been influenced by Christianity, which is based on the imitation of someone who performed the ultimate act of self-sacrifice. Any claim that the Golden Rule does not mean sacrifice yourself to others might therefore appear dubious.
+They believe that other people shouldn’t suffer, and they will work diligently and altruistically to help them alleviate it. They extend the same courtesy even to the animals they are acquainted with, but not so easily to themselves. It is true that the idea of virtuous self-sacrifice is deeply embedded in Western culture, at least insofar as the West has been influenced by Christianity, which is based on the imitation of someone who performed the ultimate act of self-sacrifice. Any claim that the Golden.
 
-But Christ’s archetypal death exists as an example of how to accept finitude, betrayal and tyranny heroically, how to walk with God despite the tragedy of self-conscious knowledge, and not as a directive to victimize ourselves in the service of others. To sacrifice ourselves to God, to the highest good if you like, does not mean to suffer silently and willingly when some person or organization demands more from us consistently than is offered in return. That means we are supporting tyranny and allowing ourselves to be treated like slaves.
+Rule does not mean sacrifice yourself to others might therefore appear dubious. But Christ’s archetypal death exists as an example of how to accept finitude, betrayal and tyranny heroically, how to walk with God despite the tragedy of self-conscious knowledge, and not as a directive to victimize ourselves in the service of others. To sacrifice ourselves to God, to the highest good if you like, does not mean to suffer silently and willingly when some person or organization demands more from us consistently than is offered in return.
 
-It is not virtuous to be victimized by a bully, even if that bully is oneself. I learned two very important lessons from Carl Jung, the famous Swiss-depth psychologist, about doing unto others as you would have them do unto you, or loving your neighbor
+That means we are supporting tyranny and allowing ourselves to be treated like slaves. It is not virtuous to be victimized by a bully, even if that bully is oneself. I learned two very important lessons from Carl Jung, the famous Swiss-depth psychologist, about doing unto others as you would have them do unto you, or loving your neighbor
 
 
 <a id="sec-024114"></a>
 ### ⏱️ [02:41:14 - 02:46:16]
 
-as yourself. The first lesson was that neither of those statements has anything to do with being nice. The second was that both are equations rather than injunctions. If I am someone’s friend, family member or lover, then I am morally obliged to bargain as hard on my own behalf as they are on theirs.
+as yourself. The first lesson was that neither of those statements has anything to do with being nice. The second was that both are equations rather than injunctions. If.
 
-If I fail to do so, I will end up a slave, and the other person a tyrant. What good is that? It is much better for any relationship when both partners are strong.
+I am someone’s friend, family member or lover, then. I am morally obliged to bargain as hard on my own behalf as they are on theirs. If. I fail to do so, I will end up a slave, and the other person a tyrant.
+
+What good is that? It is much better for any relationship when both partners are strong.
 
 Furthermore, there is little difference between standing up and speaking for yourself when you are being bullied or otherwise tormented and enslaved, and standing up and speaking for someone else. As Jung points out, this means embracing and loving the sinner who is yourself, as much as forgiving and aiding someone else who is stumbling and imperfect. As God Himself claims, so goes the story, vengeance is mine. I will repay, saith the Lord.
 
 According to this philosophy, you do not simply belong to yourself. You are not simply your own possession to torture and mistreat. This is partly because your being is inexorably tied up with that of others, and your mistreatment of yourself can have catastrophic consequences for others. This is most clearly evident perhaps in the aftermath of suicide, when those left behind are often bereft and traumatized.
 
-But metaphorically speaking, there is also this. You have a spark of the divine in you, which belongs not to you but to God. We are, after all, according to Genesis, made in His image. We have the semi-divine capacity for consciousness.
+But metaphorically speaking, there is also this. You have a spark of the divine in you, which belongs not to you but to God. We are, after all, according to Genesis, made in. His image.
 
-Our consciousness participates in the speaking forth of being. We are low-resolution, kinetic versions of God. We can make order from chaos and vice versa, in our way, with our words. So we may not exactly be God, but we are not exactly nothing either.
+We have the semi-divine capacity for consciousness. Our consciousness participates in the speaking forth of being. We are low-resolution, kinetic versions of God. We can make order from chaos and vice versa, in our way, with our words.
 
-In my own periods of darkness in the underworld of the soul, I find myself frequently overcome and amazed by the ability of people to befriend each other, to love their intimate partners and parents and children, and to do what they must do to keep the machinery of the world running. I knew a man, injured and disabled by a car accident, who was employed by a local utility. For years after the crash, he worked side by side with another man, who for his part suffered a degenerative neurological disease.
+So we may not exactly be God, but we are not exactly nothing either. In my own periods of darkness in the underworld of the soul, I find myself frequently overcome and amazed by the ability of people to befriend each other, to love their intimate partners and parents and children, and to do what they must do to keep the machinery of the world running. I knew a man, injured and disabled by a car accident, who was employed by a local utility.
 
-They cooperated while repairing the lines, each making up for the others' inadequacy. And this sort of everyday heroism is the rule, I believe, rather than the exception. Most individuals are dealing with one or more serious health problems while going productively and uncomplainingly about their business. If anyone is fortunate enough to be in a rare period of grace and health, personally, then he or she typically has at least one close family member in crisis.
+For years after the crash, he worked side by side with another man, who for his part suffered a degenerative neurological disease. They cooperated while repairing the lines, each making up for the others' inadequacy. And this sort of everyday heroism is the rule, I believe, rather than the exception. Most individuals are dealing with one or more serious health problems while going productively and uncomplainingly about their business.
 
-Yet people prevail, and continue to do difficult and effortful tasks to hold themselves and their families and society together. To me this is miraculous. So much so that a dumbfounded gratitude is the only appropriate response. There are so many ways that things can fall apart or fail to work altogether, and it is always wounded people who are holding it together.
+If anyone is fortunate enough to be in a rare period of grace and health, personally, then he or she typically has at least one close family member in crisis. Yet people prevail, and continue to do difficult and effortful tasks to hold themselves and their families and society together. To me this is miraculous. So much so that a dumbfounded gratitude is the only appropriate response.
 
-They deserve some genuine and heartfelt admiration for that. It’s an ongoing miracle of fortitude and perseverance. In my clinical practice, I encourage people to credit themselves and those around them for acting productively and with care, as well as the genuine concern and thoughtfulness they manifest towards others. People are so tortured by the limitations and constraint of being that I am amazed they ever act properly or look beyond themselves at all.
+There are so many ways that things can fall apart or fail to work altogether, and it is always wounded people who are holding it together. They deserve some genuine and heartfelt admiration for that. It’s an ongoing miracle of fortitude and perseverance. In my clinical practice, I encourage people to credit themselves and those around them for acting productively and with care, as well as the genuine concern and thoughtfulness they manifest towards others.
 
-But enough do so that we have central heat and running water and infinite computational power and electricity and enough for everyone to eat, and even the capacity to contemplate the fate of broader society and nature, terrible nature itself. All that complex machinery that protects us from freezing and starving and dying, from lack of water, tends unceasingly toward malfunction through entropy, and is only the constant attention of careful people that keeps it working so unbelievably well. Some people degenerate into hell of resentment and the hatred of being, but most refuse to do so, despite their suffering and disappointments and losses and inadequacies and ugliness and, again, that is a miracle for those with the eyes to see it.
+People are so tortured by the limitations and constraint of being that. I am amazed they ever act properly or look beyond themselves at all. But enough do so that we have central heat and running water and infinite computational power and electricity and enough for everyone to eat, and even the capacity to contemplate the fate of broader society and nature, terrible nature itself. All that complex machinery that protects us from freezing and starving and dying, from lack of water, tends unceasingly toward malfunction through entropy, and is only the constant attention of careful people that keeps it working so unbelievably well.
 
-Humanity in Todo and those who compose it as identifiable people deserves some sympathy for the appalling burden under which the human individual genuinely staggers. some sympathy for subjugation to mortal vulnerability, tyranny of the state, and the depredations of nature. It is an existential situation that no mere animal encounters or endures, and one of severity such that it would take a god to fully bear it. It is this sympathy that should be the proper medicament for self-conscious self-contempt, which has its justification but is only half the full and proper story.
+Some people degenerate into hell of resentment and the hatred of being, but most refuse to do so, despite their suffering and disappointments and losses and inadequacies and ugliness and, again, that is a miracle for those with the eyes to see it. Humanity in Todo and those who compose it as identifiable people deserves some sympathy for the appalling burden under which the human individual genuinely staggers. some sympathy for subjugation to mortal vulnerability, tyranny of the state, and the depredations of nature.
 
-Hatred for self and mankind must be balanced with gratefulness for tradition and the state and astonishment at what normal everyday people accomplish, to say nothing of the staggering achievements of the truly remarkable. We deserve some respect. You deserve some respect. You are important to other people as much as to yourself.
+It is an existential situation that no mere animal encounters or endures, and one of severity such that it would take a god to fully bear it. It is this sympathy that should be the proper medicament for self-conscious self-contempt, which has its justification but is only half the full and proper story. Hatred for self and mankind must be balanced with gratefulness for tradition and the state and astonishment at what normal everyday people accomplish, to say nothing of the staggering achievements of the truly remarkable.
 
-You have some vital role to play in the unfolding destiny of the world. You are therefore morally obliged to take care of yourself. You should take care of help and be good to yourself, the same way you would take care of help and be good to someone you loved and valued. You may therefore have to conduct yourself habitually in a manner that allows you some respect for your own being, and fair enough.
+We deserve some respect. You deserve some respect. You are important to other people as much as to yourself. You have some vital role to play in the unfolding destiny of the world.
 
-But every person is deeply flawed. Everyone falls short of the glory of God. If that stark fact meant, however, that we had no responsibility to care for ourselves as much as others, everyone would be brutally punished all the time. That would not be good.
+You are therefore morally obliged to take care of yourself. You should take care of help and be good to yourself, the same way you would take care of help and be good to someone you loved and valued. You may therefore have to conduct yourself habitually in a manner that allows you some respect for your own being, and fair enough. But every person is deeply flawed.
 
-That would make the shortcomings of the world,
+Everyone falls short of the glory of God. If that stark fact meant, however, that we had no responsibility to care for ourselves as much as others, everyone would be brutally punished all the time. That would not be good. That would make the shortcomings of the world,
 
 
 <a id="sec-024616"></a>
@@ -1257,33 +1371,35 @@ It’s also not what would make you happy. Every time you give a child something
 
 You must get children to brush their teeth. They must put on their snow suits when they go outside in the cold, even though they might object strenuously. You must help a child become a virtuous, responsible, awake being, capable of full reciprocity, able to take care of himself and others, and to thrive while doing so. Why would you think it’s acceptable to do anything less for yourself?
 
-You need to consider the future and think, what might my life look like if I were caring for myself properly? What career would challenge me and render me productive and helpful, so that I could shoulder my share of the load and enjoy the consequences? What should I be doing when I have some freedom to improve my health, expand my knowledge, strengthen my body? You need to know where you are, so you can start to chart your course.
+You need to consider the future and think, what might my life look like if. I were caring for myself properly? What career would challenge me and render me productive and helpful, so that. I could shoulder my share of the load and enjoy the consequences?
 
-You need to know who you are, so that you can understand your armament and bolster yourself in respect to your limitations. You need to know where you are going, so that you can limit the extent of chaos in your life, restructure order, and bring the divine force of hope to bear on the world. You must determine where you are going, so that you can bargain for yourself, so that you don’t end up resentful, vengeful, and cruel. You have to articulate your own principles, so that you can defend yourself against others taking inappropriate advantage of you, and so you are secure and safe while you work and play.
+What should. I be doing when. I have some freedom to improve my health, expand my knowledge, strengthen my body? You need to know where you are, so you can start to chart your course.
 
-You must discipline yourself carefully. You must keep the promises you make to yourself and reward yourself, so that you can trust and motivate yourself. You need to determine how to act toward yourself, so that you are most likely to become and to stay a good person. It would be good to make the world a better place.
+You need to know who you are, so that you can understand your armament and bolster yourself in respect to your limitations. You need to know where you are going, so that you can limit the extent of chaos in your life, restructure order, and bring the divine force of hope to bear on the world. You must determine where you are going, so that you can bargain for yourself, so that you don’t end up resentful, vengeful, and cruel.
 
-Heaven, after all, will not arrive of its own accord. We will have to work to bring it about and strengthen ourselves, so that we can withstand the deadly angels and flaming sword of judgment that God used to bar its entrance. Don’t underestimate the power of vision and direction. These are irresistible forces able to transform what might appear to be unconquerable obstacles into traversable pathways and expanding opportunities.
+You have to articulate your own principles, so that you can defend yourself against others taking inappropriate advantage of you, and so you are secure and safe while you work and play. You must discipline yourself carefully. You must keep the promises you make to yourself and reward yourself, so that you can trust and motivate yourself. You need to determine how to act toward yourself, so that you are most likely to become and to stay a good person.
 
-Strengthen the individual. Start with yourself. Take care with yourself. Define who you are.
+It would be good to make the world a better place. Heaven, after all, will not arrive of its own accord. We will have to work to bring it about and strengthen ourselves, so that we can withstand the deadly angels and flaming sword of judgment that God used to bar its entrance. Don’t underestimate the power of vision and direction.
 
-Refine your personality. Choose your destination and articulate your being. As the great 19th century German philosopher Friedrich Nietzsche so brilliantly noted, he whose life has a why can bear almost any how. You could help direct the world on its careening trajectory a bit more toward heaven and a bit more away from hell.
+These are irresistible forces able to transform what might appear to be unconquerable obstacles into traversable pathways and expanding opportunities. Strengthen the individual. Start with yourself. Take care with yourself.
 
-Once having understood hell, researched it so to speak, particularly your own individual hell, you could decide against going there or creating that. You could aim elsewhere. You could in fact devote your life to this. That would give you a meaning with a capital M.
+Define who you are. Refine your personality. Choose your destination and articulate your being. As the great 19th century German philosopher Friedrich Nietzsche so brilliantly noted, he whose life has a why can bear almost any how.
 
-That would justify your miserable existence. That would atone for your sinful nature and replace your shame and self-consciousness with the natural pride and forthright confidence of someone who has learned once again to walk with God in the garden. You could begin by treating yourself as if you were someone you were responsible for helping. 12 Rules for Life by Jordan Peterson.
+You could help direct the world on its careening trajectory a bit more toward heaven and a bit more away from hell. Once having understood hell, researched it so to speak, particularly your own individual hell, you could decide against going there or creating that. You could aim elsewhere. You could in fact devote your life to this.
 
-#### Rule 3. Make friends with people who want the best for you.
+That would give you a meaning with a capital M. That would justify your miserable existence. That would atone for your sinful nature and replace your shame and self-consciousness with the natural pride and forthright confidence of someone who has learned once again to walk with God in the garden. You could begin by treating yourself as if you were someone you were responsible for helping. 12 Rules for Life by Jordan Peterson.
 
-The Old Hometown The town I grew up in had been scraped only 50 years earlier out of the endless, flat northern prairie. Fairview, Alberta was part of the frontier and had the cowboy bars to prove it. The Hudson’s Bay Company department store on Main Street still bought beaver, wolf and coyote furs directly from their local trappers. 3,000 people lived there, 400 miles away from the nearest city. Cable TV, video games and internet did not exist.
+#### Rule 3.
 
-It was no easy matter to stay innocently amused in Fairview, particularly during the five months of winter when long stretches of 40 below days and even colder nights were the norm. The world is a different place when it’s cold like that. The drunks in our town ended their sad lives early. They passed out in snow banks at three in the morning and froze to death.
+Make friends with people who want the best for you. The Old Hometown The town. I grew up in had been scraped only 50 years earlier out of the endless, flat northern prairie. Fairview, Alberta was part of the frontier and had the cowboy bars to prove it.
 
-You don’t go outside casually when it’s 40 below. Introducing AudioNest, your gateway to the world’s best-selling audiobooks, all for free. Imagine diving into captivating stories while you commute, cook or even relax. With AudioNest, you can minimize the app and let your favorite books play in the background, seamlessly blending with your daily life.
+The Hudson’s Bay Company department store on Main Street still bought beaver, wolf and coyote furs directly from their local trappers. 3,000 people lived there, 400 miles away from the nearest city. Cable TV, video games and internet did not exist. It was no easy matter to stay innocently amused in Fairview, particularly during the five months of winter when long stretches of 40 below days and even colder nights were the norm. The world is a different place when it’s cold like that.
 
-The best part? You can enjoy these stories in the language you love, English, Spanish, Hindi, German, you name it, we’ve got it. Why wait? Step into AudioNest today, where every story is yours to explore for free.
+The drunks in our town ended their sad lives early. They passed out in snow banks at three in the morning and froze to death. You don’t go outside casually when it’s 40 below. Introducing AudioNest, your gateway to the world’s best-selling audiobooks, all for free.
 
-To download the AudioNest app, visit our website www.audionestapp.com or click on the link in bio. On first breath, the arid desert air constricts
+Imagine diving into captivating stories while you commute, cook or even relax. With AudioNest, you can minimize the app and let your favorite books play in the background, seamlessly blending with your daily life. The best part? You can enjoy these stories in the language you love, English, Spanish, Hindi, German, you name it, we’ve got it.
+
+Why wait? Step into AudioNest today, where every story is yours to explore for free. To download the AudioNest app, visit our website www.audionestapp.com or click on the link in bio. On first breath, the arid desert air constricts
 
 
 <a id="sec-025117"></a>
@@ -1305,35 +1421,37 @@ Fairview cats were also at great risk in the winter from cars, but not for the r
 
 A frigid cat might think highly of climbing up under such a vehicle and sitting on its still warm engine block. But what if the driver decided to use the car again before the engine cooled down and the cat departed? Let’s just say the heat-seeking house pets and rapidly rotating radiator fans do not co-exist happily. Because we were so far north, the bitterly cold winters were also very dark.
 
-By December, the sun didn’t rise until 930 a.m. We trudged to school in the pitch black. It wasn’t much lighter when we walked to home just before the early sunset. There wasn’t much for young people to do in Fairview, even in the summer. But the winters were worse.
+By December, the sun didn’t rise until 930 a.m. We trudged to school in the pitch black. It wasn’t much lighter when we walked to home just before the early sunset. There wasn’t much for young people to do in Fairview, even in the summer.
 
-Then your friends mattered. More than anything. My friend Chris and his cousin. I had a friend at that time.
+But the winters were worse. Then your friends mattered. More than anything. My friend Chris and his cousin.
 
-We’ll call him Chris. He was a smart guy. He read a lot. He liked science fiction of the kind I was attracted to.
+I had a friend at that time. We’ll call him Chris. He was a smart guy. He read a lot.
 
-Bradbury, Heinlein, Clark. He was inventive. He was interested in electronic kits and gears and motors. He was a natural engineer.
+He liked science fiction of the kind. I was attracted to. Bradbury, Heinlein, Clark. He was inventive.
 
-All this was overshadowed, however, by something that had gone wrong in his family. I don’t know what it was. His sisters were smart and his father was soft-smoking, and his mother was kind. The girls seemed okay.
+He was interested in electronic kits and gears and motors. He was a natural engineer. All this was overshadowed, however, by something that had gone wrong in his family. I don’t know what it was.
 
-But Chris had been left unattended to in some important way. Despite his intelligence and curiosity, he was angry, resentful, and without hope. All this manifested itself in material form in the shape of his 1972 blue Ford pickup truck. That notorious vehicle had at least one dent in every quarter panel of its damaged external body.
+His sisters were smart and his father was soft-smoking, and his mother was kind. The girls seemed okay. But Chris had been left unattended to in some important way. Despite his intelligence and curiosity, he was angry, resentful, and without hope.
 
-Worse, it had an equivalent number of dents inside. Those were produced by the impact of the body parts of friends against the internal surfaces during the continual accidents that resulted in the outer dents. Chris’s truck was the exoskeleton of a nihilist. It had the perfect bumper sticker.
+All this manifested itself in material form in the shape of his 1972 blue Ford pickup truck. That notorious vehicle had at least one dent in every quarter panel of its damaged external body. Worse, it had an equivalent number of dents inside. Those were produced by the impact of the body parts of friends against the internal surfaces during the continual accidents that resulted in the outer dents.
 
-Be alert. The world needs more alerts. The irony it produced in combination with the dents elevated it nicely to theater of the absurd. Very little of that was, so to speak, accidental.
+Chris’s truck was the exoskeleton of a nihilist. It had the perfect bumper sticker. Be alert. The world needs more alerts.
 
-Every time Chris crashed his truck, his father would fix it and buy him something else. He had a motorbike and a van for selling ice cream. He did not care for his motorbike. He sold no ice cream.
+The irony it produced in combination with the dents elevated it nicely to theater of the absurd. Very little of that was, so to speak, accidental. Every time Chris crashed his truck, his father would fix it and buy him something else. He had a motorbike and a van for selling ice cream.
 
-He often expressed dissatisfaction with his father and their relationship. But his dad was older and unwell, diagnosed with an illness only after many years. He didn’t have the energy he should have. Maybe he couldn’t pay enough attention to his son.
+He did not care for his motorbike. He sold no ice cream. He often expressed dissatisfaction with his father and their relationship. But his dad was older and unwell, diagnosed with an illness only after many years.
 
-Maybe that’s all it took to fracture their relationship. Chris had a cousin, Ed, who was about two years younger. I liked him as much as you can like the younger cousin of a teenage friend. He was a tall, smart, charming, good-looking kid.
+He didn’t have the energy he should have. Maybe he couldn’t pay enough attention to his son. Maybe that’s all it took to fracture their relationship. Chris had a cousin, Ed, who was about two years younger.
 
-He was witty, too. You would have predicted a good future for him had you met him when he was 12. But Ed drifted slowly downhill into a dropout, semi-drifting mode of existence. He didn’t get as angry as Chris, but he was just as confused.
+I liked him as much as you can like the younger cousin of a teenage friend. He was a tall, smart, charming, good-looking kid. He was witty, too. You would have predicted a good future for him had you met him when he was 12.
 
-If he knew Ed’s friends, you might say that it was peer pressure that set him on his downward path. But his peers weren’t obviously any more lost or delinquent than he was, although they were generally somewhat less bright. It was also the case that Ed’s and Chris’s situation did not appear particularly improved by their discovery of marijuana. Marijuana isn’t bad for everyone any more than alcohol is bad for everyone.
+But Ed drifted slowly downhill into a dropout, semi-drifting mode of existence. He didn’t get as angry as Chris, but he was just as confused. If he knew Ed’s friends, you might say that it was peer pressure that set him on his downward path. But his peers weren’t obviously any more lost or delinquent than he was, although they were generally somewhat less bright.
 
-Sometimes it even appears to improve people. But it didn’t improve Ed. It didn’t improve Chris, either. To amuse ourselves in the long nights, Chris and I and Ed and the rest of the teenagers drove around and around in our 1970s cars and pickup trucks.
+It was also the case that Ed’s and Chris’s situation did not appear particularly improved by their discovery of marijuana. Marijuana isn’t bad for everyone any more than alcohol is bad for everyone. Sometimes it even appears to improve people. But it didn’t improve Ed.
 
-We cruised down Main Street along Railroad Avenue, up past the high school, around the north end of town over to the west. Or up Main Street,
+It didn’t improve Chris, either. To amuse ourselves in the long nights, Chris and. I and Ed and the rest of the teenagers drove around and around in our 1970s cars and pickup trucks. We cruised down Main Street along Railroad Avenue, up past the high school, around the north end of town over to the west.
+
+Or up Main Street,
 
 
 <a id="sec-025619"></a>
@@ -1351,7 +1469,7 @@ They were dismal affairs. The lights were kept low. That kept self-consciousness
 
 There was little to talk about in any case. There were always a couple of the town psychopaths attending. Everybody drank and smoked too much. A dreary and oppressive sense of aimlessness hung over such occasions, and nothing ever happened.
 
-Unless you count the time my too-quiet classmate drunkenly began to brandish his fully loaded 12-gauge shotgun, or the time the girl I later married contemptuously insulted someone while he threatened her with a knife, or the time another friend climbed a large tree, swung out on a branch, and crashed flat onto his back, half dead right beside the campfire we had started at its base, followed precisely one minute later by his half-wit sidekick. No one knew what the hell they were doing at those parties.
+Unless you count the time my too-quiet classmate drunkenly began to brandish his fully loaded 12-gauge shotgun, or the time the girl. I later married contemptuously insulted someone while he threatened her with a knife, or the time another friend climbed a large tree, swung out on a branch, and crashed flat onto his back, half dead right beside the campfire we had started at its base, followed precisely one minute later by his half-wit sidekick. No one knew what the hell they were doing at those parties.
 
 Hoping for a cheerleader? Waiting for Godot? Although the former would have been immediately preferred. Although cheerleading squads were scarce in our town, the latter was closer to the truth.
 
@@ -1359,31 +1477,33 @@ It would be more romantic, I suppose, to suggest that we would have all jumped a
 
 I don’t know what teenage life was like before the revolutionaries of the late sixties advised everyone young to tune in, turn on, and drop out. Was it okay for a teenager to belong wholeheartedly to a club in 1955? Because it certainly wasn’t twenty years later. Plenty of us turned on and dropped out.
 
-But not so many tuned in. I wanted to be elsewhere. I wasn’t the only one. Everyone who eventually left the Fairview I grew up in knew they were leaving by the age of twelve.
+But not so many tuned in. I wanted to be elsewhere. I wasn’t the only one. Everyone who eventually left the Fairview.
 
-I knew. My wife, who grew up with me on the street our families shared, knew. The friends I had who did and didn’t leave also knew, regardless of which track they were on. There was an unspoken expectation in the families of those who were college-bound that such a thing was a matter of course.
+I grew up in knew they were leaving by the age of twelve. I knew. My wife, who grew up with me on the street our families shared, knew. The friends.
 
-For those from less-educated families, a future that included university was simply not part of the conceptual realm. It wasn’t for lack of money, either. Tuition for advanced education was very low at that time, and jobs in Alberta were plentiful and high-paying. I earned more money in 1980 working at a plywood mill than I would again doing anything else for twenty years.
+I had who did and didn’t leave also knew, regardless of which track they were on. There was an unspoken expectation in the families of those who were college-bound that such a thing was a matter of course. For those from less-educated families, a future that included university was simply not part of the conceptual realm. It wasn’t for lack of money, either.
 
-No one missed out on university because of financial need in oil-rich Alberta in the 1970s. Some different friends and some more of the same. In high school, after my first group of cronies had all dropped out, I made friends with a couple of newcomers. They came to Fairview as Borders.
+Tuition for advanced education was very low at that time, and jobs in Alberta were plentiful and high-paying. I earned more money in 1980 working at a plywood mill than. I would again doing anything else for twenty years. No one missed out on university because of financial need in oil-rich Alberta in the 1970s.
 
-There was no school after ninth grade in their even more remote and aptly named hometown, Bear Canyon. They were an ambitious duo, comparatively speaking. Straightforward and reliable. But also cool, and very amusing.
+Some different friends and some more of the same. In high school, after my first group of cronies had all dropped out, I made friends with a couple of newcomers. They came to Fairview as Borders. There was no school after ninth grade in their even more remote and aptly named hometown, Bear Canyon.
 
-When I left town to attend Grande Prairie Regional College ninety miles away, one of them became my roommate. The other went off elsewhere to pursue further education. Both were aiming upward. Their decisions to do so bolstered mine.
+They were an ambitious duo, comparatively speaking. Straightforward and reliable. But also cool, and very amusing. When.
 
-I was a happy clam when I arrived at college. I found another expanded group of like-minded companions whom my Bear Canyon comrade also joined. We were all captivated by literature and philosophy. We ran the student union.
+I left town to attend Grande Prairie Regional College ninety miles away, one of them became my roommate. The other went off elsewhere to pursue further education. Both were aiming upward. Their decisions to do so bolstered mine.
 
-We made it profitable for the first time in its history hosting college dances. How can you lose money selling beer to college kids? We started the newspaper. We got to know our professors of political science and biology and English literature in the tiny seminars that characterized even our first year.
+I was a happy clam when. I arrived at college. I found another expanded group of like-minded companions whom my Bear Canyon comrade also joined. We were all captivated by literature and philosophy.
 
-The instructors were thankful for our enthusiasm and taught us well. We were building a better life. It’s left off a lot of my past. In a small town, everyone knows who you are.
+We ran the student union. We made it profitable for the first time in its history hosting college dances. How can you lose money selling beer to college kids? We started the newspaper.
 
-You drag your ears behind you like a running dog with tin cans tied to its tail. You can’t escape who you have been. Everything wasn’t online then and thank God for that. But it was stored equally indelibly in everyone’s spoken and unspoken expectations and memory.
+We got to know our professors of political science and biology and English literature in the tiny seminars that characterized even our first year. The instructors were thankful for our enthusiasm and taught us well. We were building a better life. It’s left off a lot of my past.
 
-When you move, everything is up in the air, at least for a while. It’s stressful, but in the chaos there are new possibilities. People, including you, can’t hem you in with their old notions. You get shaken out of your ruts.
+In a small town, everyone knows who you are. You drag your ears behind you like a running dog with tin cans tied to its tail. You can’t escape who you have been. Everything wasn’t online then and thank God for that.
 
-You can make new, better ruts with people aiming at better things. I thought this was just a natural development. I thought that every person who moved would have, and want, the same Phoenix-like experience, but that wasn’t always the case. One time when I was about 15, I went with Chris and another friend Carl to Edmonton, a city of 600,000.
+But it was stored equally indelibly in everyone’s spoken and unspoken expectations and memory. When you move, everything is up in the air, at least for a while. It’s stressful, but in the chaos there are new possibilities. People, including you, can’t hem you in with their old notions.
 
-Carl had never been to a city. This was not
+You get shaken out of your ruts. You can make new, better ruts with people aiming at better things. I thought this was just a natural development. I thought that every person who moved would have, and want, the same Phoenix-like experience, but that wasn’t always the case.
+
+One time when. I was about 15, I went with Chris and another friend Carl to Edmonton, a city of 600,000. Carl had never been to a city. This was not
 
 
 <a id="sec-030122"></a>
@@ -1391,49 +1511,51 @@ Carl had never been to a city. This was not
 
 uncommon. Fairview to Edmonton was an 800-mile round trip. I had done it many times, sometimes with my parents, sometimes without. I liked the anonymity that the city provided.
 
-I liked the new beginnings. I liked the escape from the dismal, cramped, adolescent culture of my hometown. So I convinced my two friends to make the journey, but they did not have the same experience. As soon as we arrived, Chris and Carl wanted to buy some pot.
+I liked the new beginnings. I liked the escape from the dismal, cramped, adolescent culture of my hometown. So. I convinced my two friends to make the journey, but they did not have the same experience.
 
-We headed for the parts of Edmonton that were exactly like the worst of Fairview. We found the same furtive street-vending marijuana providers. We spent the weekend drinking in the hotel room. Although we had traveled a long distance, we had gone nowhere at all.
+As soon as we arrived, Chris and Carl wanted to buy some pot. We headed for the parts of Edmonton that were exactly like the worst of Fairview. We found the same furtive street-vending marijuana providers. We spent the weekend drinking in the hotel room.
 
-I saw an even more egregious example of this a few years later. I had moved to Edmonton to finish my undergraduate degree. I took an apartment with my sister, who was studying to be a nurse. She was also an up-and-out-of-there person.
+Although we had traveled a long distance, we had gone nowhere at all. I saw an even more egregious example of this a few years later. I had moved to Edmonton to finish my undergraduate degree. I took an apartment with my sister, who was studying to be a nurse.
 
-Not too many years later, she would plant strawberries in Norway and run safaris through Africa and smuggle trucks across the Tuareg Menes Sahara Desert and babysit orphan gorillas in a Congo. We had a nice place in a new high-rise overlooking the broad valley of the north Saskatchewan River. We had a view of the city skyline in the background. I bought a beautiful new Yamaha upright piano in a fit of enthusiasm.
+She was also an up-and-out-of-there person. Not too many years later, she would plant strawberries in Norway and run safaris through Africa and smuggle trucks across the Tuareg Menes Sahara Desert and babysit orphan gorillas in a Congo. We had a nice place in a new high-rise overlooking the broad valley of the north Saskatchewan River. We had a view of the city skyline in the background.
 
-The place looked good. I heard through the grapevine that Ed, Chris’s younger cousin, had moved to the city. I thought that was a good thing.
+I bought a beautiful new Yamaha upright piano in a fit of enthusiasm. The place looked good. I heard through the grapevine that Ed, Chris’s younger cousin, had moved to the city. I thought that was a good thing.
 
-One day he called. I invited him over. I wanted to see how he was faring. I hoped he had achieved some of the potential I once saw in him.
+One day he called. I invited him over. I wanted to see how he was faring. I hoped he had achieved some of the potential.
 
-That’s not what happened. Ed showed up, older, bolder, and stooped. He was a lot more not-doing-so-well young adult and a lot less youthful possibility. His eyes were the telltale red slits of the practice stoner.
+I once saw in him. That’s not what happened. Ed showed up, older, bolder, and stooped. He was a lot more not-doing-so-well young adult and a lot less youthful possibility.
 
-Ed had taken some job, lawnmowing and casual landscaping, which would have been fine for a part-time university student or for someone who could not do better, but which was wretchedly low-end as a career for an intelligent person. He was accompanied by a friend. It was his friend, I really remember. He was spaced.
+His eyes were the telltale red slits of the practice stoner. Ed had taken some job, lawnmowing and casual landscaping, which would have been fine for a part-time university student or for someone who could not do better, but which was wretchedly low-end as a career for an intelligent person. He was accompanied by a friend. It was his friend, I really remember.
 
-He was baked. He was stoned out of his gourd, his head in our nice civilized apartment did not easily occupy the same universe. My sister was there. She knew Ed.
+He was spaced. He was baked. He was stoned out of his gourd, his head in our nice civilized apartment did not easily occupy the same universe. My sister was there.
 
-She had seen this sort of thing before. But I still wasn’t happy that Ed had brought this character into our place. Ed sat down. His friend sat down too, although it wasn’t clear he noticed.
+She knew Ed. She had seen this sort of thing before. But. I still wasn’t happy that Ed had brought this character into our place.
 
-It was tragic comedy. Stoned as he was, Ed still had the sense to be embarrassed. We sipped our beer. Ed’s friend looked upwards.
+Ed sat down. His friend sat down too, although it wasn’t clear he noticed. It was tragic comedy. Stoned as he was, Ed still had the sense to be embarrassed.
 
-My particles are scattered all over the ceiling, he managed. Truer words were never spoken. I took Ed aside and told him politely that he had to leave. I said that he shouldn’t have brought his useless bastard of a companion.
+We sipped our beer. Ed’s friend looked upwards. My particles are scattered all over the ceiling, he managed. Truer words were never spoken.
 
-He nodded. He understood. That made it even worse. His older cousin, Chris, wrote me a letter much later about such things.
+I took Ed aside and told him politely that he had to leave. I said that he shouldn’t have brought his useless bastard of a companion. He nodded. He understood.
 
-I included it in my first book, Maps of Meaning, the Architecture of Belief, published in 1999. I had friends, he said, before. Anyone with enough self-contempt that they could forgive me mine. What was it that made Chris and Carl and Ed unable, or worse perhaps unwilling, to move or to change their friendships and improve the circumstances of their lives?
+That made it even worse. His older cousin, Chris, wrote me a letter much later about such things. I included it in my first book, Maps of Meaning, the Architecture of Belief, published in 1999. I had friends, he said, before.
 
-Was it inevitable? A consequence of their own limitations, nascent illnesses and traumas of the past? After all, people vary significantly in ways that seem both structural and deterministic. People differ in intelligence, which is in large part the ability to learn and transform.
+Anyone with enough self-contempt that they could forgive me mine. What was it that made Chris and Carl and Ed unable, or worse perhaps unwilling, to move or to change their friendships and improve the circumstances of their lives? Was it inevitable? A consequence of their own limitations, nascent illnesses and traumas of the past?
 
-People have very different personalities as well. Some are active and some are passive. Others are anxious or calm. For every individual driven to achieve, there is another who is absent.
+After all, people vary significantly in ways that seem both structural and deterministic. People differ in intelligence, which is in large part the ability to learn and transform. People have very different personalities as well. Some are active and some are passive.
 
-The degree to which these differences are immutably part and parcel of someone is greater than an optimist might presume or desire. And then there is illness, mental and physical, diagnosed or invisible, further limiting or shaping our lives. Chris had a psychotic break in his thirties after flirting with insanity for many years. Not long afterward, he committed suicide.
+Others are anxious or calm. For every individual driven to achieve, there is another who is absent. The degree to which these differences are immutably part and parcel of someone is greater than an optimist might presume or desire. And then there is illness, mental and physical, diagnosed or invisible, further limiting or shaping our lives.
 
-Did his heavy marijuana use play a magnifying role or was it understandable self-medication? Use of physician-prescribed drugs for pain has, after all, decreased in marijuana legal states such as Colorado. Maybe the pot made things better for Chris, not worse. Maybe it eased his suffering instead of exacerbating his instability.
+Chris had a psychotic break in his thirties after flirting with insanity for many years. Not long afterward, he committed suicide. Did his heavy marijuana use play a magnifying role or was it understandable self-medication? Use of physician-prescribed drugs for pain has, after all, decreased in marijuana legal states such as Colorado.
 
-Was it the nihilistic philosophy he nurtured that paved the way to his eventual breakdown? Was that nihilism in turn a consequence of genuine ill health or just an intellectual rationalization of his unwillingness to dive responsibly into life? Why did he, like his cousin, like my other friends, continually choose people who, in places that were not good for him? Sometimes when people have a low opinion of their own worth, or perhaps when they refuse responsibility for their lives, they choose a new acquaintance of precisely the type who proved troublesome in the past.
+Maybe the pot made things better for Chris, not worse. Maybe it eased his suffering instead of exacerbating his instability. Was it the nihilistic philosophy he nurtured that paved the way to his eventual breakdown? Was that nihilism in turn a consequence of genuine ill health or just an intellectual rationalization of his unwillingness to dive responsibly into life?
 
-Some people don’t believe that they deserve any better, so they don’t go looking for it, or perhaps they don’t want the trouble of better. Freud called this a repetition compulsion. He thought of it as an unconscious drive to repeat the horrors of the past, sometimes perhaps to formulate those horrors more precisely, sometimes to attempt more active mastery, and sometimes perhaps no alternatives beckon. People create their worlds with the tools they have directly at hand.
+Why did he, like his cousin, like my other friends, continually choose people who, in places that were not good for him? Sometimes when people have a low opinion of their own worth, or perhaps when they refuse responsibility for their lives, they choose a new acquaintance of precisely the type who proved troublesome in the past. Some people don’t believe that they deserve any better, so they don’t go looking for it, or perhaps they don’t want the trouble of better.
 
-Faulty tools produce faulty results. Repeated use of the same faulty tools produces the same faulty results. It is in this manner that those who fail to learn from the past doom themselves to repeat it. It’s partly fate.
+Freud called this a repetition compulsion. He thought of it as an unconscious drive to repeat the horrors of the past, sometimes perhaps to formulate those horrors more precisely, sometimes to attempt more active mastery, and sometimes perhaps no alternatives beckon. People create their worlds with the tools they have directly at hand. Faulty tools produce faulty results.
 
-It’s partly inability. It’s partly unwillingness to learn, refusal to learn,
+Repeated use of the same faulty tools produces the same faulty results. It is in this manner that those who fail to learn from the past doom themselves to repeat it. It’s partly fate. It’s partly inability.
+
+It’s partly unwillingness to learn, refusal to learn,
 
 
 <a id="sec-030627"></a>
@@ -1453,35 +1575,39 @@ I am an unattractive man. I believe my liver is diseased. It is the confession o
 
 Then, imagining himself redeemed, the underground man commits the worst transgression of the lot. He offers aid to a genuinely unfortunate person, Lisa, a woman on the desperate nineteenth-century road to prostitution. He invites her for a visit, promising to set her life back on the proper course. While waiting for her to appear, his fantasies spin increasingly messianic.
 
-One day passed, however, another and another. She did not come and I began to grow calmer. I felt particularly bold and cheerful. After nine o’clock I even sometimes began dreaming and rather sweetly.
+One day passed, however, another and another. She did not come and. I began to grow calmer. I felt particularly bold and cheerful.
 
-I, for instance, become the salvation of Lisa simply through her coming to me and my talking to her. I develop her, educate her.
+After nine o’clock. I even sometimes began dreaming and rather sweetly. I, for instance, become the salvation of Lisa simply through her coming to me and my talking to her. I develop her, educate her.
 
-Finally, I notice that she loves me, loves me passionately. I pretend not to understand. I don’t know, however, why I pretend just for effect, perhaps. At last all confusion, transfigured, trembling and sobbing, she flings herself at my feet and says that I am her saviour and that she loves me better than anything in the world.
+Finally, I notice that she loves me, loves me passionately. I pretend not to understand. I don’t know, however, why. I pretend just for effect, perhaps.
 
-Nothing but the narcissism of the underground man is nourished by such fantasies. Lisa herself is demolished by them. The salvation he offers her demands far more in the way of commitment and maturity than the underground man is willing or able to offer. He simply does not have the characters to see it through.
+At last all confusion, transfigured, trembling and sobbing, she flings herself at my feet and says that. I am her saviour and that she loves me better than anything in the world. Nothing but the narcissism of the underground man is nourished by such fantasies. Lisa herself is demolished by them.
 
-Something he quickly realizes and equally quickly rationalizes. Lisa eventually arrives at his shabby apartment hoping desperately for a way out, staking everything she has on the visit. She tells the underground man that she wants to have her current life. His response?
+The salvation he offers her demands far more in the way of commitment and maturity than the underground man is willing or able to offer. He simply does not have the characters to see it through. Something he quickly realizes and equally quickly rationalizes. Lisa eventually arrives at his shabby apartment hoping desperately for a way out, staking everything she has on the visit.
 
-Why have you come to me? Tell me that, please. I began, gasping for breath and regardless of logical connection in my words. I longed to have it all out at once, at one burst.
+She tells the underground man that she wants to have her current life. His response? Why have you come to me? Tell me that, please.
 
-I did not even trouble how to begin. Why have you come? Answer, answer, I cried, hardly knowing what I was doing. I’ll tell you, my good girl, why you have come.
+I began, gasping for breath and regardless of logical connection in my words. I longed to have it all out at once, at one burst. I did not even trouble how to begin. Why have you come?
 
-You’ve come because I talk sentimental stuff to you then. So now you are soft as butter and longing for fine sentiments again. So you may as well know that I was laughing at you then. And I am laughing at you now.
+Answer, answer, I cried, hardly knowing what. I was doing. I’ll tell you, my good girl, why you have come. You’ve come because.
 
-Why are you shuddering? Yes, I was laughing at you. I had been insulted just before at dinner by the fellows who came that evening before me. I came to you, meaning to trash one of them, an officer.
+I talk sentimental stuff to you then. So now you are soft as butter and longing for fine sentiments again. So you may as well know that. I was laughing at you then.
 
-But I didn’t succeed. I didn’t find him. I had to avenge the insult on someone to get back my own again. You turned up.
+And. I am laughing at you now. Why are you shuddering? Yes, I was laughing at you.
 
-I vented my spleen on you and laughed at you. I had been humiliated. So I wanted to humiliate. I had been treated like a rag.
+I had been insulted just before at dinner by the fellows who came that evening before me. I came to you, meaning to trash one of them, an officer. But. I didn’t succeed.
 
-So I wanted to show my power. That’s what it was. And you imagined I had come here on purpose to save you. Yes?
+I didn’t find him. I had to avenge the insult on someone to get back my own again. You turned up. I vented my spleen on you and laughed at you.
 
-You imagined that? You imagined that? I knew that she would perhaps be muddled and not take it all in exactly. But I knew too that she would grasp the gist of it very well indeed.
+I had been humiliated. So. I wanted to humiliate. I had been treated like a rag.
 
-And so indeed she did. She turned white as a handkerchief, tried to say something and her lips worked painfully. But she sank on a chair as though she had been felled by an axe. And all the time afterwards she listened to me with her lips parted and her eyes wide open, shuddering with awful terror.
+So. I wanted to show my power. That’s what it was. And you imagined.
 
-The cynicism, the cynicism of my words overwhelmed her.
+I had come here on purpose to save you. Yes? You imagined that? You imagined that?
+
+I knew that she would perhaps be muddled and not take it all in exactly. But. I knew too that she would grasp the gist of it very well indeed. And so indeed she did.
+
+She turned white as a handkerchief, tried to say something and her lips worked painfully. But she sank on a chair as though she had been felled by an axe. And all the time afterwards she listened to me with her lips parted and her eyes wide open, shuddering with awful terror. The cynicism, the cynicism of my words overwhelmed her.
 
 
 <a id="sec-031129"></a>
@@ -1489,83 +1615,91 @@ The cynicism, the cynicism of my words overwhelmed her.
 
 The inflated self-importance, carelessness and sheer malevolence of the underground man dashes Lisa’s last hopes. He understands this well. Worse, something in him was aiming at this all along. And he knows that too.
 
-But a villain who despairs of his villainy has not become a hero. A hero is something positive, not just the absence of evil. But Christ himself, you might object, befriended tax collectors and prostitutes. How dare I cast aspersions on motives of those who are trying to help?
+But a villain who despairs of his villainy has not become a hero. A hero is something positive, not just the absence of evil. But Christ himself, you might object, befriended tax collectors and prostitutes. How dare.
 
-But Christ was the archetypal perfect man. And you’re you. How do you know that your attempts to pull someone up won’t instead bring them or you further down? Imagine the case of someone supervising an exceptional team of workers, all of them striving towards a collectively held goal.
+I cast aspersions on motives of those who are trying to help? But Christ was the archetypal perfect man. And you’re you. How do you know that your attempts to pull someone up won’t instead bring them or you further down?
 
-Imagine them hardworking, brilliant, creative and unified. But the person supervising is also responsible for someone troubled who is performing poorly elsewhere. In a fit of inspiration, the well-meaning manager moves that problematic person into the midst of his stellar team, hoping to improve him by example. What happens?
+Imagine the case of someone supervising an exceptional team of workers, all of them striving towards a collectively held goal. Imagine them hardworking, brilliant, creative and unified. But the person supervising is also responsible for someone troubled who is performing poorly elsewhere. In a fit of inspiration, the well-meaning manager moves that problematic person into the midst of his stellar team, hoping to improve him by example.
 
-And the psychological literature is clear on this point. Does the errant interloper immediately straighten up and fly right? No. Instead, the entire team degenerates. The newcomer remains cynical, arrogant and neurotic. He complains.
+What happens? And the psychological literature is clear on this point. Does the errant interloper immediately straighten up and fly right? No.
 
-He shirks. He misses important meetings. His low-quality work causes delays and must be redone by others. He still gets paid however, just like his teammates.
+Instead, the entire team degenerates. The newcomer remains cynical, arrogant and neurotic. He complains. He shirks.
 
-The hard workers who surround him start to feel betrayed. Why am I breaking myself into pieces striving to finish this project, each thinks, when my new team member never breaks a sweat? The same thing happens when well-meaning counselors place a delinquent teen among comparatively civilized peers. The delinquency spreads, not the stability.
+He misses important meetings. His low-quality work causes delays and must be redone by others. He still gets paid however, just like his teammates. The hard workers who surround him start to feel betrayed.
+
+Why am. I breaking myself into pieces striving to finish this project, each thinks, when my new team member never breaks a sweat? The same thing happens when well-meaning counselors place a delinquent teen among comparatively civilized peers. The delinquency spreads, not the stability.
 
 Down is a lot easier than up. Maybe you are saving someone because you are a strong, generous, well-put-together person who wants to do the right thing. But it’s also possible, and perhaps more likely, that you just want to draw attention to your inexhaustible reserves of compassion and goodwill. Or maybe you are saving someone because you want to convince yourself that the strength of your character is more than just a side effect of your luck and birthplace.
 
-Or maybe it’s because it’s easier to lurk, to lurk, to look virtuous when standing alongside someone utterly irresponsible. Assume first that you are doing the easiest thing and not the most difficult. Your raging alcoholism makes my binge-drinking appear trivial. My long-serious talks with you about your badly failing marriage convince both of us that you are doing everything possible and that I am helping you to my utmost.
+Or maybe it’s because it’s easier to lurk, to lurk, to look virtuous when standing alongside someone utterly irresponsible. Assume first that you are doing the easiest thing and not the most difficult. Your raging alcoholism makes my binge-drinking appear trivial. My long-serious talks with you about your badly failing marriage convince both of us that you are doing everything possible and that.
 
-It looks like effort. It looks like progress. But real improvement would require far more from both of you. Are you so sure the person crying out to be saved has not decided a thousand times to accept his lot of pointless and worsening suffering simply because it is easier than shouldering any true responsibility?
+I am helping you to my utmost. It looks like effort. It looks like progress. But real improvement would require far more from both of you.
 
-Are you enabling a delusion? Is it possible that your contempt would be more salutary than your pity? Or maybe you have no plan, genuine or otherwise, to rescue anybody? You’re associating with people who are bad for you not because it’s better for anyone but because it’s easier.
+Are you so sure the person crying out to be saved has not decided a thousand times to accept his lot of pointless and worsening suffering simply because it is easier than shouldering any true responsibility? Are you enabling a delusion? Is it possible that your contempt would be more salutary than your pity? Or maybe you have no plan, genuine or otherwise, to rescue anybody?
 
-You know it. Your friends know it. You’re all bound by an implicit contract, one aimed at nihilism and failure and suffering of the stupidest sort. You’ve all decided to sacrifice the future to the present.
+You’re associating with people who are bad for you not because it’s better for anyone but because it’s easier. You know it. Your friends know it. You’re all bound by an implicit contract, one aimed at nihilism and failure and suffering of the stupidest sort.
 
-You don’t talk about it. You don’t all get together and say let’s take the easier path, let’s indulge in whatever the moment might bring and let’s agree further not to call each other on it. That way we can more easily forget what we are doing. No, you don’t mention any of that, but you all know what’s really going on.
+You’ve all decided to sacrifice the future to the present. You don’t talk about it. You don’t all get together and say let’s take the easier path, let’s indulge in whatever the moment might bring and let’s agree further not to call each other on it. That way we can more easily forget what we are doing.
 
-Before you help someone, you should find out why that person is in trouble. You shouldn’t merely assume that he or she is a noble victim of unjust circumstances and exploitation. It’s the most unlikely explanation, if not the most probable. In my experience, clinical and otherwise, it’s just never been that simple.
+No, you don’t mention any of that, but you all know what’s really going on. Before you help someone, you should find out why that person is in trouble. You shouldn’t merely assume that he or she is a noble victim of unjust circumstances and exploitation. It’s the most unlikely explanation, if not the most probable.
 
-Besides, if you buy the story that everything terrible just happened on its own with no personal responsibility on the part of the victim, you deny that person all agency in the past, and by implication, in the present and future as well. In this manner, you strip him or her of all power. It is far more likely that a given individual has just decided to reject the path upward because of its difficulty. Perhaps that should even be your default assumption when faced with such a situation.
+In my experience, clinical and otherwise, it’s just never been that simple. Besides, if you buy the story that everything terrible just happened on its own with no personal responsibility on the part of the victim, you deny that person all agency in the past, and by implication, in the present and future as well. In this manner, you strip him or her of all power. It is far more likely that a given individual has just decided to reject the path upward because of its difficulty.
 
-That’s too harsh, you think. You might be right. Maybe that’s a step too far. But consider this.
+Perhaps, that should even be your default assumption when faced with such a situation. That’s too harsh, you think. You might be right. Maybe that’s a step too far.
 
-Failure is easy to understand. No explanation for its existence is required. In the same manner, fear, hatred, addiction, promiscuity, betrayal, and deception require no explanation. It’s not the existence of vice or the indulgence in it that requires explanation.
+But consider this. Failure is easy to understand. No explanation for its existence is required. In the same manner, fear, hatred, addiction, promiscuity, betrayal, and deception require no explanation.
 
-Vice is easy. Failure is easy, too. It’s easier not to shoulder a burden. It’s easier not to think, and not to do, and not to care.
+It’s not the existence of vice or the indulgence in it that requires explanation. Vice is easy. Failure is easy, too. It’s easier not to shoulder a burden.
 
-It’s easier to put off until tomorrow what needs to be done today and drown the upcoming months and years in today’s cheap pleasures. As the infamous father of the Simpson clan puts it, immediately prior to drowning a jar of mayonnaise and vodka, That’s a problem for future, Homer. Man, I don’t envy that guy. How do I know that your suffering is not the demand of a martyrdom for my resources so that you can oh-so-momentarily stave off the inevitable?
+It’s easier not to think, and not to do, and not to care. It’s easier to put off until tomorrow what needs to be done today and drown the upcoming months and years in today’s cheap pleasures. As the infamous father of the Simpson clan puts it, immediately prior to drowning a jar of mayonnaise and vodka, That’s a problem for future, Homer. Man, I don’t envy that guy.
 
-Maybe you have even moved beyond caring about the impending collapse, but you don’t yet want to admit it. Maybe my help won’t rectify anything, can’t rectify anything.
+How do. I know that your suffering is not the demand of a martyrdom for my resources so that you can oh-so-momentarily stave off the inevitable? Maybe you have even moved beyond caring about the impending collapse, but you don’t yet want to admit it. Maybe my help won’t rectify anything, can’t rectify anything.
 
 
 <a id="sec-031632"></a>
 ### ⏱️ [03:16:32 - 03:21:35]
 
-But it does keep that too-terrible, too-personal realization temporarily at bay. Maybe your misery is the demand placed on me so that I fail, too, so that the gap you so painfully feel between us can be reduced while you degenerate and sink. How do I know that you would refuse to play such a game? How do I know that I am not myself merely pretending to be responsible while pointlessly helping you so that I don’t have to do something truly difficult and genuinely possible?
+But it does keep that too-terrible, too-personal realization temporarily at bay. Maybe your misery is the demand placed on me so that. I fail, too, so that the gap you so painfully feel between us can be reduced while you degenerate and sink. How do.
 
-Maybe your misery is the weapon you brandish in your hatred for those who rose upward while you waited and sank. Maybe your misery is your attempt to prove the world’s injustice instead of the evidence of your own sin, your own missing of the mark, your conscious refusal to strive and to live. Maybe your willingness to suffer and failure is inexhaustible given what you use that suffering to prove. Maybe it’s your revenge on being.
+I know that you would refuse to play such a game? How do. I know that. I am not myself merely pretending to be responsible while pointlessly helping you so that.
 
-How exactly should I befriend you when you’re in such a place? How exactly could I? Success. That’s the mystery.
+I don’t have to do something truly difficult and genuinely possible? Maybe your misery is the weapon you brandish in your hatred for those who rose upward while you waited and sank. Maybe your misery is your attempt to prove the world’s injustice instead of the evidence of your own sin, your own missing of the mark, your conscious refusal to strive and to live. Maybe your willingness to suffer and failure is inexhaustible given what you use that suffering to prove.
 
-Virtue. That’s what’s inexplicable. To fail, you merely have to cultivate a few bad habits. You just have to bide your time, and once someone has spent enough time cultivating bad habits and biding their time, they’re much diminished.
+Maybe it’s your revenge on being. How exactly should. I befriend you when you’re in such a place? How exactly could.
 
-Much of what they could have been has dissipated, and much of the less that they have become is now real. Things fall apart of their own accord, but the sins of men speed their degeneration. And then comes the flood. I’m not saying that there’s no hope of redemption, but it is much harder to extract someone from a chasm than to lift him from a ditch, and some chasms are very deep, and there’s not much left of the body at the bottom.
+I? Success. That’s the mystery. Virtue.
 
-Maybe I should at least wait to help you until it’s clear that you want to be helped. Karl Rogers, the famous humanistic psychologist, believed it was impossible to start a therapeutic relationship if the person seeking help did not want to improve. Rogers believed it was impossible to convince someone to change for the better. The desire to improve was, instead, the precondition for progress.
+That’s what’s inexplicable. To fail, you merely have to cultivate a few bad habits. You just have to bide your time, and once someone has spent enough time cultivating bad habits and biding their time, they’re much diminished. Much of what they could have been has dissipated, and much of the less that they have become is now real.
+
+Things fall apart of their own accord, but the sins of men speed their degeneration. And then comes the flood. I’m not saying that there’s no hope of redemption, but it is much harder to extract someone from a chasm than to lift him from a ditch, and some chasms are very deep, and there’s not much left of the body at the bottom. Maybe.
+
+I should at least wait to help you until it’s clear that you want to be helped. Karl Rogers, the famous humanistic psychologist, believed it was impossible to start a therapeutic relationship if the person seeking help did not want to improve. Rogers believed it was impossible to convince someone to change for the better. The desire to improve was, instead, the precondition for progress.
 
 I’ve had court-mandated psychotherapy clients. They did not want my help. They were forced to seek it. It did not work.
 
-It was a travesty. If I stay in an unhealthy relationship with you, perhaps it’s because I’m too weak-willed and indecisive to leave, but I don’t want to know it. Thus, I continue helping you and console myself with my pointless martyrdom. Maybe I can then conclude about myself, someone that’s self-sacrificing, that willing to help someone, that has to be a good person.
+It was a travesty. If. I stay in an unhealthy relationship with you, perhaps it’s because. I’m too weak-willed and indecisive to leave, but.
+
+I don’t want to know it. Thus, I continue helping you and console myself with my pointless martyrdom. Maybe. I can then conclude about myself, someone that’s self-sacrificing, that willing to help someone, that has to be a good person.
 
 Not so. It might just be a person trying to look good pretending to solve what appears to be a difficult problem instead of actually being good and addressing something real. Maybe instead of continuing our friendship, I should just go off somewhere, get my act together, and lead by example. And none of this is a justification for abandoning those in real need to pursue your narrow blind ambition in case it has to be said.
 
-A Reciprocal Arrangement Here’s something to consider. If you have a friend whose friendship you wouldn’t recommend to your sister or your father or your son, why would you have such a friend for yourself? You might say, out of loyalty? Well, loyalty is not identical to stupidity.
+A Reciprocal Arrangement. Here’s something to consider. If you have a friend whose friendship you wouldn’t recommend to your sister or your father or your son, why would you have such a friend for yourself? You might say, out of loyalty?
 
-Loyalty must be negotiated fairly and honestly. Friendship is a reciprocal arrangement. You are not morally obliged to support someone who is making the world a worse place. Quite the opposite.
+Well, loyalty is not identical to stupidity. Loyalty must be negotiated fairly and honestly. Friendship is a reciprocal arrangement. You are not morally obliged to support someone who is making the world a worse place.
 
-You should choose people who want things to be better, not worse. It’s a good thing, not a selfish thing, to choose people who are good for you. It’s appropriate and praiseworthy to associate with people whose lives would be improved if they saw your life improve. If you surround yourself with people who support your upward aim, they will not tolerate your cynicism and destructiveness.
+Quite the opposite. You should choose people who want things to be better, not worse. It’s a good thing, not a selfish thing, to choose people who are good for you. It’s appropriate and praiseworthy to associate with people whose lives would be improved if they saw your life improve.
 
-They will instead encourage you when you do good for yourself and others and punish you carefully when you do not. This will help you bolster your resolve to do what you should do, in the most appropriate and careful manner. People who are not aiming up will do the opposite. They will offer a former smoker a cigarette and a former alcoholic a beer.
+If you surround yourself with people who support your upward aim, they will not tolerate your cynicism and destructiveness. They will instead encourage you when you do good for yourself and others and punish you carefully when you do not. This will help you bolster your resolve to do what you should do, in the most appropriate and careful manner. People who are not aiming up will do the opposite.
 
-They will become jealous when you succeed or do something pristine. They will withdraw their presence or support or actively punish you for it. They will override your accomplishment with a past action, real or imaginary of their own. Maybe they are trying to test you, to see if your resolve is real, to see if you are genuine.
+They will offer a former smoker a cigarette and a former alcoholic a beer. They will become jealous when you succeed or do something pristine. They will withdraw their presence or support or actively punish you for it. They will override your accomplishment with a past action, real or imaginary of their own.
 
-But mostly, they are dragging you down because your new improvements cast their faults in an even dimmer light. It is for this reason that every good example is a fateful challenge and every hero a judge. Michelangelo’s great perfect marble David cries out to its observer, you could be more than you are. When you dare aspire upward, you reveal the inadequacy of the present and the promise of the future.
+Maybe they are trying to test you, to see if your resolve is real, to see if you are genuine. But mostly, they are dragging you down because your new improvements cast their faults in an even dimmer light. It is for this reason that every good example is a fateful challenge and every hero a judge. Michelangelo’s great perfect marble David cries out to its observer, you could be more than you are.
 
-Then you disturb others in the depths of their souls where they understand that their cynicism and immobility are unjustifiable. You play able to their cane. You remind them that they ceased caring not because of life’s horrors, which are undeniable, but because they do not want to lift the world up onto their shoulders where it belongs. Don’t think that it is easier to surround yourself with good healthy people than with bad unhealthy people.
+When you dare aspire upward, you reveal the inadequacy of the present and the promise of the future. Then you disturb others in the depths of their souls where they understand that their cynicism and immobility are unjustifiable. You play able to their cane. You remind them that they ceased caring not because of life’s horrors, which are undeniable, but because they do not want to lift the world up onto their shoulders where it belongs.
 
-It’s not. A good healthy person is an ideal. It requires strength and daring to stand up near such a person. Have some humility, have some courage.
+Don’t think that it is easier to surround yourself with good healthy people than with bad unhealthy people. It’s not. A good healthy person is an ideal. It requires strength and daring to stand up near such a person.
 
-Use your judgment and protect yourself from too uncritical compassion and pity. Make friends with people who want the best for you.
+Have some humility, have some courage. Use your judgment and protect yourself from too uncritical compassion and pity. Make friends with people who want the best for you.
 
 
 <a id="sec-032135"></a>
@@ -1601,7 +1735,7 @@ What but willful blindness could possibly shelter people from such withering cri
 
 A more dismal, wretched, pessimistic philosophy can hardly be imagined. Things are so terrible that only delusion can save you. Here’s an alternative approach, and one that requires no illusions. If the cards are always stacked against you, perhaps the game you are playing is somehow rigged.
 
-Perhaps by you, unbeknownst to yourself. If the internal voice makes you doubt the value of your endeavors, or your life, or life itself, perhaps you should stop listening. If the critical voice within says the same denigrating things about everyone, no matter how successful, how reliable can it be? Maybe its comments are chatter, not wisdom.
+Perhaps, by you, unbeknownst to yourself. If the internal voice makes you doubt the value of your endeavors, or your life, or life itself, perhaps you should stop listening. If the critical voice within says the same denigrating things about everyone, no matter how successful, how reliable can it be? Maybe its comments are chatter, not wisdom.
 
 There will always be people better than you. That’s a cliche of nihilism. Like the phrase, in a million years, who’s going to know the difference? The proper response to that statement is not, well then, everything is meaningless.
 
@@ -1635,11 +1769,11 @@ Furthermore, if changing games does not work, you can invent a new one. I recent
 
 It’s also unlikely that you’re playing only one game. You have a career in friends and family members and personal projects and artistic endeavors and athletic pursuits. You might consider judging your success across all of the games you play. Imagine that you are very good at some middling at others and terrible at the remainder.
 
-Perhaps that’s how it should be. You might object. I should be winning at everything. Winning at everything might only mean that you’re not doing anything new or difficult.
+Perhaps, that’s how it should be. You might object. I should be winning at everything. Winning at everything might only mean that you’re not doing anything new or difficult.
 
 You might be winning, but you’re not growing. And growing might be the most important form of winning. Should victory in the present always take precedence over trajectory across time?
 
-Finally, you might come to realize that the specifics of the many games you are playing are so unique to you, so individual, that comparison to others is simply inappropriate. Perhaps you are overvaluing what you don’t have and undervaluing what you do. There’s some real utility and gratitude. It’s also good protection against the dangers of victimhood and resentment.
+Finally, you might come to realize that the specifics of the many games you are playing are so unique to you, so individual, that comparison to others is simply inappropriate. Perhaps, you are overvaluing what you don’t have and undervaluing what you do. There’s some real utility and gratitude. It’s also good protection against the dangers of victimhood and resentment.
 
 Your colleague outperforms you at work, his wife, however, is having an affair, while your marriage is stable and happy. Who has it better? The celebrity you admire is a chronic drunk driver and bigot. Is his life truly preferable to yours?
 
@@ -1681,7 +1815,7 @@ What do you need to take from people? What are you putting up with or pretending
 
 It’s part of an evil triad, arrogance, deceit, and resentment. Nothing causes more harm than this underworld trinity, but resentment always means one of two things. Either the resentful person is immature, in which case he or she should shut up, quit whining, and get on with it, or there is tyranny afoot, in which case the person subjugated has a moral obligation to speak up. Why?
 
-Because the consequence of remaining silent is worse. Of course it’s easier in the moment to stay silent and avoid conflict, but in the long term that’s deadly. When you have something to say, silence is a lie, and tyranny feeds on lies. When should you push back against oppression despite the danger?
+Because the consequence of remaining silent is worse. Of course, it’s easier in the moment to stay silent and avoid conflict, but in the long term that’s deadly. When you have something to say, silence is a lie, and tyranny feeds on lies. When should you push back against oppression despite the danger?
 
 When you start nursing secret fantasies of revenge, when your life is being poisoned and your imagination fills with the wish to devour and destroy. I had a client decades ago who suffered from severe obsessive compulsive disorder. He had to line up his pajamas just right before he could go to sleep at night. Then he had to fluff his pillow.
 
@@ -1689,15 +1823,17 @@ Then he had to adjust his bedsheets. Over and over and over and over. I said, ma
 
 What could it be? He said, control. I said, close your eyes and let it tell you what it wants. Don’t let fear stop you.
 
-You don’t have to act it out just because you’re thinking it. He said, it wants me to take my stepfather by the collar, put him up against the door and shake him like a rat. Maybe it was time to shake someone like a rat, although I suggested something a bit less primal. But God only knows what battles must be fought forthrightly voluntarily on the road to peace.
+You don’t have to act it out just because you’re thinking it. He said, it wants me to take my stepfather by the collar, put him up against the door and shake him like a rat. Maybe it was time to shake someone like a rat, although. I suggested something a bit less primal.
 
-What do you do to avoid conflict necessary though it may be? What do you incline to lie about assuming the truth might be intolerable? What do you fake? The infant is dependent on his parents for almost everything he needs.
+But God only knows what battles must be fought forthrightly voluntarily on the road to peace. What do you do to avoid conflict necessary though it may be? What do you incline to lie about assuming the truth might be intolerable? What do you fake?
 
-The child, the successful child, can leave his parents, at least temporarily and make friends. He gives up a little of himself to do that, but gains much in return. The successful adolescent must take that process to its logical conclusion. He has to leave his parents and become like everyone else.
+The infant is dependent on his parents for almost everything he needs. The child, the successful child, can leave his parents, at least temporarily and make friends. He gives up a little of himself to do that, but gains much in return. The successful adolescent must take that process to its logical conclusion.
 
-He has to integrate with a group so he can transcend his childhood dependency. Once integrated, the successful adult then must learn how to be just the right amount of different from everyone else. Be cautious when you’re comparing yourself to others. You’re a singular being once you’re an adult.
+He has to leave his parents and become like everyone else. He has to integrate with a group so he can transcend his childhood dependency. Once integrated, the successful adult then must learn how to be just the right amount of different from everyone else. Be cautious when you’re comparing yourself to others.
 
-You have your own particular specific problems, financial and intimate, psychological and otherwise. Those are embedded in the unique broader context of your existence. Your career or job works for you in a personal matter or it does not and it does so in a unique interplay with the other specifics of your life. You must decide how much of your time
+You’re a singular being once you’re an adult. You have your own particular specific problems, financial and intimate, psychological and otherwise. Those are embedded in the unique broader context of your existence. Your career or job works for you in a personal matter or it does not and it does so in a unique interplay with the other specifics of your life.
+
+You must decide how much of your time
 
 
 <a id="sec-033642"></a>
@@ -1731,7 +1867,7 @@ It could help you take stock. But you must walk through your psychological house
 
 Here’s a hint. The future is like the past, but there’s a crucial difference. The past is fixed, but the future, it could be better. It could be better, some precise amount, the amount that can be achieved perhaps in a day with some minimal engagement.
 
-The present is eternally flawed. But where you start might not be as important as the direction you are heading. Perhaps happiness is always to be found in the journey uphill and not in the fleeting sense of satisfaction awaiting at the next peak. Much of happiness is hope, no matter how deep the underworld in which that hope was conceived.
+The present is eternally flawed. But where you start might not be as important as the direction you are heading. Perhaps, happiness is always to be found in the journey uphill and not in the fleeting sense of satisfaction awaiting at the next peak. Much of happiness is hope, no matter how deep the underworld in which that hope was conceived.
 
 Called upon properly, the internal critic will suggest something to set in order, which you could set in order, which you would set in order voluntarily, without resentment, even with pleasure. Ask yourself, is there one thing that exists in disarray in your life or your situation that you could and would set straight? Could you and would you fix that one thing that announces itself humbly in need of repair? Could you do it now?
 
@@ -1751,23 +1887,29 @@ offered. Who wants to work for a tyrant like that? Not you. That’s why you don
 
 You’re a bad employee, but a worse boss. Maybe you need to say to yourself, okay, I know we haven’t gotten along very well in the past. I’m sorry about that. I’m trying to improve.
 
-I’ll probably make some more mistakes along the way, but I’ll try to listen if you object. I’ll try to learn. I noticed just now, today, that you weren’t really jumping at the opportunity to help when I asked, is there something I could offer in return for your cooperation? Maybe if you did the dishes, we could go for coffee.
+I’ll probably make some more mistakes along the way, but. I’ll try to listen if you object. I’ll try to learn. I noticed just now, today, that you weren’t really jumping at the opportunity to help when.
 
-You like espresso? How about an espresso? Maybe a double shot, huh? Or is there something else you want?
+I asked, is there something. I could offer in return for your cooperation? Maybe if you did the dishes, we could go for coffee. You like espresso?
 
-Then you can listen. Maybe you’ll hear a voice inside. Maybe it’s even the voice of a long-lost child. Maybe it will reply, really?
+How about an espresso? Maybe a double shot, huh? Or is there something else you want? Then you can listen.
 
-You really want to do something nice for me? You’ll really do it? It’s not a trick. This is where you must be careful.
+Maybe you’ll hear a voice inside. Maybe it’s even the voice of a long-lost child. Maybe it will reply, really? You really want to do something nice for me?
 
-That little voice, that’s the voice of someone once burnt and twice shy. So you could say very carefully, really, I might not do it very well, and I might not be great company, but I will do something nice for you, I promise. A little careful kindness goes a long way, and judicious reward is a powerful motivator. Then you could take that small bit of yourself by the hand and do the damn dishes, and then you better not go clean the bathroom and forget about the coffee or the movie or the beer, or it will be even harder to call those forgotten parts of yourself forth from the nooks and crannies of the underworld.
+You’ll really do it? It’s not a trick. This is where you must be careful. That little voice, that’s the voice of someone once burnt and twice shy.
 
-You might ask yourself, what could I say to someone else, my friend, my brother, my boss, my assistant, that would set things a bit more right between us tomorrow? What bit of chaos might I eradicate at home, on my desk, in my kitchen, tonight, so that the stage could be set for a better play? What snakes might I banish from my closet and my mind? Five hundred small decisions, five hundred tiny actions, compose your day, today and every day.
+So you could say very carefully, really, I might not do it very well, and. I might not be great company, but. I will do something nice for you, I promise. A little careful kindness goes a long way, and judicious reward is a powerful motivator.
 
-Could you aim one or two of these at a better result? Better in your own private opinion, by your own individual standards. Could you compare your specific personal tomorrow with your specific personal yesterday? Could you use your own judgment and ask yourself, what that better tomorrow might be?
+Then you could take that small bit of yourself by the hand and do the damn dishes, and then you better not go clean the bathroom and forget about the coffee or the movie or the beer, or it will be even harder to call those forgotten parts of yourself forth from the nooks and crannies of the underworld. You might ask yourself, what could. I say to someone else, my friend, my brother, my boss, my assistant, that would set things a bit more right between us tomorrow?
 
-Aim small. You don’t want to shoulder too much to begin with, given your limited talents, tendency to deceive, burden of resentment and ability to shirk responsibility. Thus, you set forward the following goal. By the end of the day, I want things in my life to be a tiny bit better than they were this morning.
+What bit of chaos might. I eradicate at home, on my desk, in my kitchen, tonight, so that the stage could be set for a better play? What snakes might. I banish from my closet and my mind?
 
-Then you ask yourself, what could I do, that I would do, that would accomplish that, and what small thing would I like as a reward? Then you do what you’ve decided to do, even if you do it badly. Then you give yourself that damn coffee and triumph. Maybe you feel a bit stupid about it, but you do it anyway.
+Five hundred small decisions, five hundred tiny actions, compose your day, today and every day. Could you aim one or two of these at a better result? Better in your own private opinion, by your own individual standards. Could you compare your specific personal tomorrow with your specific personal yesterday?
+
+Could you use your own judgment and ask yourself, what that better tomorrow might be? Aim small. You don’t want to shoulder too much to begin with, given your limited talents, tendency to deceive, burden of resentment and ability to shirk responsibility. Thus, you set forward the following goal.
+
+By the end of the day, I want things in my life to be a tiny bit better than they were this morning. Then you ask yourself, what could. I do, that. I would do, that would accomplish that, and what small thing would.
+
+I like as a reward? Then you do what you’ve decided to do, even if you do it badly. Then you give yourself that damn coffee and triumph. Maybe you feel a bit stupid about it, but you do it anyway.
 
 And you do the same thing tomorrow, and the next day, and the next. And with each day, your baseline of comparison gets a little higher. And that’s magic. That’s compound interest.
 
@@ -1779,13 +1921,15 @@ The dependency of sight on aim, and therefore on value, because you aim at what 
 
 He would slowly fade in a road cutting through the wheat. He didn’t insert some little easy-to-miss footpath, either. It was a major trail, occupying a good third of the image. Remarkably, the observers would frequently fail to take notice.
 
-The demonstration that made Dr. Simmons famous was of the same kind, but more dramatic, even unbelievable. First, he produced a video of two teams of three people. One team was wearing white shirts. The other, black.
+The demonstration that made Dr. Simmons famous was of the same kind, but more dramatic, even unbelievable.
 
-The two teams were not off in the distance, either, or in any way difficult to see. The six of them filled much of the video screen, and their facial features were close enough to see clearly. Each team had its own ball, which they bounced or threw to their other team members, as they moved and fainted in the small space in front of the elevators, where the game was filmed. Once Dan had his video, he showed it to his study participants.
+First, he produced a video of two teams of three people. One team was wearing white shirts. The other, black. The two teams were not off in the distance, either, or in any way difficult to see.
 
-He asked each of them to count the number of times the white shirts threw the ball back and forth to one another. After a few minutes, his subjects were asked to report the number of passes. Most answered 15. That was the correct answer.
+The six of them filled much of the video screen, and their facial features were close enough to see clearly. Each team had its own ball, which they bounced or threw to their other team members, as they moved and fainted in the small space in front of the elevators, where the game was filmed. Once Dan had his video, he showed it to his study participants. He asked each of them to count the number of times the white shirts threw the ball back and forth to one another.
 
-Most felt pretty good about that. Ha! They passed the test. But then, Dr. Simmons asked, did you see the gorilla?
+After a few minutes, his subjects were asked to report the number of passes. Most answered 15. That was the correct answer. Most felt pretty good about that.
+
+Ha! They passed the test. But then, Dr. Simmons asked, did you see the gorilla?
 
 Was this a joke? What gorilla? So he said, watch the video again, but this time don’t count. Sure enough, a minute or so in, a man dressed in a gorilla suit waltzes right into the middle of the game for a few long seconds, stops, and then beats his chest in the manner of stereotyped gorillas everywhere.
 
@@ -1795,61 +1939,65 @@ Right in the middle of the screen, large as life, painfully and irrefutably evid
 <a id="sec-034649"></a>
 ### ⏱️ [03:46:49 - 03:51:50]
 
-every two of his research subjects missed it the first time they saw the video. It gets worse. Dr. Simons did another study. This time he showed his subjects a video of someone being served at a counter. The server dips behind the counter to retrieve something and pops back up.
+every two of his research subjects missed it the first time they saw the video. It gets worse. Dr. Simons did another study.
 
-So what? Most of his participants don’t detect anything amiss, but it was a different person who stood up in the original server’s place. No way, you think. I’d notice.
+This time he showed his subjects a video of someone being served at a counter. The server dips behind the counter to retrieve something and pops back up. So what? Most of his participants don’t detect anything amiss, but it was a different person who stood up in the original server’s place.
 
-But it’s yes way. There’s a high probability you wouldn’t even detect the change, even if the gender or race of the person is switched at the same time. You’re blind, too. This is partly because vision is expensive, psychophysiologically expensive, neurologically expensive.
+No way, you think. I’d notice. But it’s yes way. There’s a high probability you wouldn’t even detect the change, even if the gender or race of the person is switched at the same time.
 
-Very little of your retina is high-resolution fovea, the very central high-resolution part of the eye used to do such things as identify faces. Each of the scarce foveal cells needs 10,000 cells in the visual cortex, merely to manage the first part of the multi-stage processing of C. Then each of those 10,000 requires 10,000 more just to get to stage two. If all your retina was fovea, you would require the skull of a B-movie alien to house your brain.
+You’re blind, too. This is partly because vision is expensive, psychophysiologically expensive, neurologically expensive. Very little of your retina is high-resolution fovea, the very central high-resolution part of the eye used to do such things as identify faces. Each of the scarce foveal cells needs 10,000 cells in the visual cortex, merely to manage the first part of the multi-stage processing of C.
 
-In consequence, we triage when we see. Most of our vision is peripheral and low-resolution. We save the fovea for things of importance. We point our high-resolution capacities at the few specific things we are aiming at, and we let everything else, which is almost everything, fade unnoticed into the background.
+Then each of those 10,000 requires 10,000 more just to get to stage two. If all your retina was fovea, you would require the skull of a B-movie alien to house your brain. In consequence, we triage when we see. Most of our vision is peripheral and low-resolution.
 
-If something you’re not attending to pops its ugly head up in a manner that directly interferes with your narrowly focused current activity, you will see it. Otherwise, it’s just not there. The ball in which Simon’s research subjects were focused was never obscured by the gorilla or by any of the six players. Because of that, because the gorilla did not interfere with the ongoing narrowly defined task, it was indistinguishable from everything else the participants didn’t see when they were looking at that ball.
+We save the fovea for things of importance. We point our high-resolution capacities at the few specific things we are aiming at, and we let everything else, which is almost everything, fade unnoticed into the background. If something you’re not attending to pops its ugly head up in a manner that directly interferes with your narrowly focused current activity, you will see it. Otherwise, it’s just not there.
 
-The big ape could be safely ignored. That’s how you deal with the overwhelming complexity of the world. You ignore it while you concentrate minutely on your private concerns. You see things that facilitate your movement forward toward your desired goals.
+The ball in which Simon’s research subjects were focused was never obscured by the gorilla or by any of the six players. Because of that, because the gorilla did not interfere with the ongoing narrowly defined task, it was indistinguishable from everything else the participants didn’t see when they were looking at that ball. The big ape could be safely ignored. That’s how you deal with the overwhelming complexity of the world.
 
-You detect obstacles when they pop in your path. You’re blind to everything else, and there’s a lot of everything else, so you’re very blind. And it has to be that way, because there is much more of the world than there is of you. You must shepherd your limited resources carefully.
+You ignore it while you concentrate minutely on your private concerns. You see things that facilitate your movement forward toward your desired goals. You detect obstacles when they pop in your path. You’re blind to everything else, and there’s a lot of everything else, so you’re very blind.
 
-Seeing is very difficult, so you must choose what to see and let the rest go. There’s a profound idea in the ancient Vedic texts, the oldest scriptures of Hinduism and part of the bedrock of Indian culture. The world, as perceived, is Maya, appearance or illusion. This means, in part, that people are blinded by their desires, as well as merely incapable of seeing things as they truly are.
+And it has to be that way, because there is much more of the world than there is of you. You must shepherd your limited resources carefully. Seeing is very difficult, so you must choose what to see and let the rest go. There’s a profound idea in the ancient Vedic texts, the oldest scriptures of Hinduism and part of the bedrock of Indian culture.
 
-This is true in a sense that transcends the metaphorical. Your eyes are tools. They are there to help you get what you want. The price you pay for that utility, that specific focused direction, is blindness to everything else.
+The world, as perceived, is Maya, appearance or illusion. This means, in part, that people are blinded by their desires, as well as merely incapable of seeing things as they truly are. This is true in a sense that transcends the metaphorical. Your eyes are tools.
 
-This doesn’t matter so much when things are going well and we are getting what we want, although it can be a problem even then, because getting what we want currently can make us blind to higher callings. But all that ignored world presents a truly terrible problem when we’re in crisis and nothing whatsoever is turning out the way we want it to. Then there can be far too much to deal with. Happily, however, that problem contains within it the seeds of its own solution.
+They are there to help you get what you want. The price you pay for that utility, that specific focused direction, is blindness to everything else. This doesn’t matter so much when things are going well and we are getting what we want, although it can be a problem even then, because getting what we want currently can make us blind to higher callings. But all that ignored world presents a truly terrible problem when we’re in crisis and nothing whatsoever is turning out the way we want it to.
 
-Since you’ve ignored so much, there’s plenty of possibility left where you have not yet looked. Imagine that you’re unhappy. You’re not getting what you need. Perversely, this may be because of what you want.
+Then there can be far too much to deal with. Happily, however, that problem contains within it the seeds of its own solution. Since you’ve ignored so much, there’s plenty of possibility left where you have not yet looked. Imagine that you’re unhappy.
 
-You’re blind because of what you desire. Perhaps what you really need is right in front of your eyes, but you cannot see it because of what you are currently aiming for. And that brings us to something else. The price that must be paid before you or anyone can get what they want, or better yet, what they need.
+You’re not getting what you need. Perversely, this may be because of what you want. You’re blind because of what you desire. Perhaps, what you really need is right in front of your eyes, but you cannot see it because of what you are currently aiming for.
 
-Think about it this way. You look at the world in your particular idiosyncratic manner. You use a set of tools to screen most things out and let some things in. You’ve spent a lot of time building those tools.
+And that brings us to something else. The price that must be paid before you or anyone can get what they want, or better yet, what they need. Think about it this way. You look at the world in your particular idiosyncratic manner.
 
-They’ve become habitual. They’re not mere abstract thoughts. They’re built right into you. They orient you in the world.
+You use a set of tools to screen most things out and let some things in. You’ve spent a lot of time building those tools. They’ve become habitual. They’re not mere abstract thoughts.
 
-They’re your deepest and often implicit and unconscious values. They’ve become part of your biological structure. They’re alive. And they don’t want to disappear or transform or die.
+They’re built right into you. They orient you in the world. They’re your deepest and often implicit and unconscious values. They’ve become part of your biological structure.
 
-But sometimes their time has come and new things need to be born. For this reason, although not only for this reason, it is necessary to let things go during the journey uphill. If things are not going well for you, well that might be because as the most cynical of aphorisms has it, life sucks and then you die. Before your crisis impels you to that hideous conclusion however, you might consider the following.
+They’re alive. And they don’t want to disappear or transform or die. But sometimes their time has come and new things need to be born. For this reason, although not only for this reason, it is necessary to let things go during the journey uphill.
 
-Life doesn’t have the problem. You do. At least that realization leaves you with some options. If your life is not going well, perhaps it is your current knowledge that is insufficient, not life itself.
+If things are not going well for you, well that might be because as the most cynical of aphorisms has it, life sucks and then you die. Before your crisis impels you to that hideous conclusion however, you might consider the following. Life doesn’t have the problem. You do.
 
-Perhaps your value structure needs some serious retooling. Perhaps what you want is blinding you to what else could be. Perhaps you are holding on to your desires in the present so tightly that you cannot see anything else, even what you truly need. Imagine that you are thinking enviously, I should have my boss’s job.
+At least that realization leaves you with some options. If your life is not going well, perhaps it is your current knowledge that is insufficient, not life itself. Perhaps, your value structure needs some serious retooling. Perhaps, what you want is blinding you to what else could be.
 
-If your boss sticks to his post stubbornly and competently, thoughts like that will lead you into a state of irritation, unhappiness and disgust. You might realize this. You think, I am unhappy.
+Perhaps, you are holding on to your desires in the present so tightly that you cannot see anything else, even what you truly need. Imagine that you are thinking enviously, I should have my boss’s job. If your boss sticks to his post stubbornly and competently, thoughts like that will lead you into a state of irritation, unhappiness and disgust. You might realize this.
 
-However, I could be cured of this
+You think, I am unhappy. However, I could be cured of this
 
 
 <a id="sec-035150"></a>
 ### ⏱️ [03:51:50 - 03:56:54]
 
-unhappiness if I could just fulfill my ambition. But then you might think further, wait, wait you think. Maybe I’m not unhappy because I don’t have my boss’s job. Maybe I’m unhappy because I can’t stop wanting that job.
+unhappiness if. I could just fulfill my ambition. But then you might think further, wait, wait you think. Maybe.
 
-That doesn’t mean you can simply and magically tell yourself to stop wanting that job and then listen and transform. You won’t, you can’t in fact, just change yourself that easily. You have to dig deeper. You must change what you are after more profoundly.
+I’m not unhappy because. I don’t have my boss’s job. Maybe. I’m unhappy because.
 
-So you might think, I don’t know what to do about this stupid suffering. I can’t just abandon my ambitions. That would leave me nowhere to go. But my longing for a job that I can’t have isn’t working.
+I can’t stop wanting that job. That doesn’t mean you can simply and magically tell yourself to stop wanting that job and then listen and transform. You won’t, you can’t in fact, just change yourself that easily. You have to dig deeper.
 
-You might decide to take a different tack. You might ask instead for the revelation of a different plan. One that would fulfill your desires and gratify your ambitions in a real sense. But that would remove from your life the bitterness and resentment from which you are currently affected.
+You must change what you are after more profoundly. So you might think, I don’t know what to do about this stupid suffering. I can’t just abandon my ambitions. That would leave me nowhere to go.
 
-You might think, I will make a different plan. I will try to want whatever it is that would make my life better. Whatever that might be and I will start working on it now. If that turns out to mean something other than chasing my boss’s job, I will accept that and I will move forward.
+But my longing for a job that. I can’t have isn’t working. You might decide to take a different tack. You might ask instead for the revelation of a different plan.
+
+One that would fulfill your desires and gratify your ambitions in a real sense. But that would remove from your life the bitterness and resentment from which you are currently affected. You might think, I will make a different plan. I will try to want whatever it is that would make my life better.
+
+Whatever that might be and. I will start working on it now. If that turns out to mean something other than chasing my boss’s job, I will accept that and. I will move forward.
 
 Now you’re on a whole different kind of trajectory. Before what was right, desirable and worthy of pursuit was something narrow and concrete. But you became stuck there, tightly jammed and unhappy. So you let go.
 
@@ -1893,25 +2041,27 @@ Hence the classical liberal Western Enlightenment objection to religious belief,
 
 It is therefore necessary and desirable for religions to have a dogmatic element. What good is a value system that does not provide a stable structure? What good is a value system that does not point the way to higher order? And what good can you possibly be if you cannot or do not internalize that structure or accept that order, not as a final destination necessarily, but at least as a starting point?
 
-Without that, you’re nothing but an adult two-year-old without the charm or the potential. That’s not to say, to say it again, that obedience is sufficient, but a person capable of obedience, let’s say instead a properly disciplined person, is at least a well-forged tool. At least that, and that’s not nothing. Of course there must be vision beyond discipline, beyond dogma.
+Without that, you’re nothing but an adult two-year-old without the charm or the potential. That’s not to say, to say it again, that obedience is sufficient, but a person capable of obedience, let’s say instead a properly disciplined person, is at least a well-forged tool. At least that, and that’s not nothing. Of course, there must be vision beyond discipline, beyond dogma.
 
 A tool still needs a purpose. It is for such reasons that Christ said in the Gospel of Thomas, the kingdom of the Father is spread out upon the earth, but men do not see it. Does that mean that what we see is dependent on our religious beliefs? Yes, and what we don’t see as well.
 
-You might object, but I’m an atheist. No, you’re not. And if you want to understand this, you could read Dostoyevsky’s Crime and Punishment, perhaps the greatest novel ever written in which the main character Raskolnikov decides to take his atheism with true seriousness, commits what he has rationalized as a benevolent murder, and pays the price. You’re simply not an atheist in your actions, and it is your actions that most accurately reflect your deepest beliefs.
+You might object, but. I’m an atheist. No, you’re not. And if you want to understand this, you could read Dostoyevsky’s Crime and Punishment, perhaps the greatest novel ever written in which the main character Raskolnikov decides to take his atheism with true seriousness, commits what he has rationalized as a benevolent murder, and pays the price.
 
-Those that are implicit, embedded in your being, underneath your conscious apprehensions and articulable attitudes and surface level self-knowledge. You can only find out what you actually believe, rather than what you think you believe, by watching how you act. You simply don’t know what you believe before that. You are too complex to understand yourself.
+You’re simply not an atheist in your actions, and it is your actions that most accurately reflect your deepest beliefs. Those that are implicit, embedded in your being, underneath your conscious apprehensions and articulable attitudes and surface level self-knowledge. You can only find out what you actually believe, rather than what you think you believe, by watching how you act. You simply don’t know what you believe before that.
 
-It takes careful observation and education and reflection and communication with others just to scratch the surface of your beliefs. Everything you value is a product of unimaginably lengthy developmental process, personal, cultural, and biological. You don’t understand how what you want, and therefore what you see, is conditioned by the immense, abysmal, profound past. You simply don’t understand how every circuit, every neural circuit through which you appear at the world has been shaped, and painfully by the ethical aims of millions of years of human ancestors, and all of the life that was lived for the billions of years before that.
+You are too complex to understand yourself. It takes careful observation and education and reflection and communication with others just to scratch the surface of your beliefs. Everything you value is a product of unimaginably lengthy developmental process, personal, cultural, and biological. You don’t understand how what you want, and therefore what you see, is conditioned by the immense, abysmal, profound past.
 
-You don’t understand anything. You didn’t even know that you were blind. Some of our knowledge of our beliefs has been documented. We have been watching ourselves act, reflecting on that watching, and telling stories. distilled through that reflection for tens and perhaps hundreds of thousands of years.
+You simply don’t understand how every circuit, every neural circuit through which you appear at the world has been shaped, and painfully by the ethical aims of millions of years of human ancestors, and all of the life that was lived for the billions of years before that. You don’t understand anything. You didn’t even know that you were blind. Some of our knowledge of our beliefs has been documented.
 
-That is all part of our attempts, individual and collective, to discover and articulate what it is that we believe. Part of the knowledge so generated is what is encapsulated in the fundamental teachings of our cultures in ancient writings such as the Tao Te Ching, or the aforementioned Vedic scriptures, or the biblical stories. The Bible is, for better or worse, the foundational document of Western civilization, of Western values, Western morality, and Western conceptions of good and evil. It is the product of processes that remain fundamentally beyond our comprehension.
+We have been watching ourselves act, reflecting on that watching, and telling stories. distilled through that reflection for tens and perhaps hundreds of thousands of years. That is all part of our attempts, individual and collective, to discover and articulate what it is that we believe. Part of the knowledge so generated is what is encapsulated in the fundamental teachings of our cultures in ancient writings such as the Tao Te Ching, or the aforementioned Vedic scriptures, or the biblical stories.
 
-The Bible is a library composed of many books, each written and edited by many people. It is a truly emergent document, a selected, sequenced and finally coherent story written by no one and everyone over many thousands of years. The Bible has been thrown up out of the deep by the collective human imagination, which is itself a product of unimaginable forces operating over unfathomable spans of time. Its careful, respectful study can reveal things to us about what we believe, about how we do, and should act that can be discovered in almost no other manner.
+The Bible is, for better or worse, the foundational document of Western civilization, of Western values, Western morality, and Western conceptions of good and evil. It is the product of processes that remain fundamentally beyond our comprehension. The Bible is a library composed of many books, each written and edited by many people. It is a truly emergent document, a selected, sequenced and finally coherent story written by no one and everyone over many thousands of years.
 
-The god of the Old Testament can appear harsh, judgmental, unpredictable, and dangerous, particularly on cursory reading. The degree to which this is true has arguably been exaggerated by Christian commentators, intent on magnifying the distinction between the older and newer divisions of the Bible. There has been a price paid, however, for such plotting. And I mean that in both sense of the word, the tendency for modern people to think when confronted with Jehovah, I would never believe in a god like that.
+The Bible has been thrown up out of the deep by the collective human imagination, which is itself a product of unimaginable forces operating over unfathomable spans of time. Its careful, respectful study can reveal things to us about what we believe, about how we do, and should act that can be discovered in almost no other manner. The god of the Old Testament can appear harsh, judgmental, unpredictable, and dangerous, particularly on cursory reading. The degree to which this is true has arguably been exaggerated by Christian commentators, intent on magnifying the distinction between the older and newer divisions of the Bible.
 
-But Old Testament God doesn’t much care what modern people think. He often didn’t care what Old Testament people thought either, although he could be bargained with, to a surprising degree as is particularly evident in the Abrahamic stories. Nonetheless, when his people strayed from the path, when they disobeyed his injunctions,
+There has been a price paid, however, for such plotting. And. I mean that in both sense of the word, the tendency for modern people to think when confronted with Jehovah, I would never believe in a god like that. But Old Testament God doesn’t much care what modern people think.
+
+He often didn’t care what Old Testament people thought either, although he could be bargained with, to a surprising degree as is particularly evident in the Abrahamic stories. Nonetheless, when his people strayed from the path, when they disobeyed his injunctions,
 
 
 <a id="sec-040154"></a>
@@ -1949,7 +2099,7 @@ You see past the limitations that hemmed you in unknowingly. New possibilities f
 
 Better, perhaps? That means better for me and my family and my friends, even for my enemies. But that’s not all that it means. It means better today in a matter that makes everything better tomorrow and next week and next year and a decade from now and a hundred years from now and a thousand years from now and forever.
 
-And then better means to aim at the improvement of being with a capital I and a capital B. Thinking all of this, realizing all of this, you take a risk. You decide that you will start treating Old Testament God with all his terrible and oft arbitrary seeming power as if he could also be New Testament God, even though you understand the many ways in which that is absurd.
+And then better means to aim at the improvement of being with a capital. I and a capital B. Thinking all of this, realizing all of this, you take a risk. You decide that you will start treating Old Testament God with all his terrible and oft arbitrary seeming power as if he could also be New Testament God, even though you understand the many ways in which that is absurd.
 
 In other words, you decide to act as if existence might be justified by its goodness, if only you behaved properly. And it is that decision, that declaration
 
@@ -1967,27 +2117,29 @@ It means instead that you must quit maneuvering and calculating and conniving an
 
 Pay attention. Focus on your surroundings, physical and psychological. Notice something that bothers you, that concerns you, that will not let you be, which you could fix and you would fix. You can find such somethings by asking yourself, as if you genuinely want to know, three questions.
 
-What is it that is bothering me? Is that something I could fix? And would I actually be willing to fix it? If you find that the answer is no to any or all of these questions, then look elsewhere.
+What is it that is bothering me? Is that something. I could fix? And would.
 
-Aim lower. Search until you find something that bothers you, that you could fix, that you would fix and then fix it. That might be enough for the day. Maybe there’s a stack of paper on your desk and you’ve been avoiding it.
+I actually be willing to fix it? If you find that the answer is no to any or all of these questions, then look elsewhere. Aim lower. Search until you find something that bothers you, that you could fix, that you would fix and then fix it.
 
-You won’t even really look at it when you walk into your room. There are terrible things lurking there. Tax forms and bills and letters from people wanting things you aren’t sure you can deliver. Notice your fear and have some sympathy for it.
+That might be enough for the day. Maybe there’s a stack of paper on your desk and you’ve been avoiding it. You won’t even really look at it when you walk into your room. There are terrible things lurking there.
 
-Maybe there are snakes in that pile of paper. Maybe you’ll get bitten. Maybe there are even hydras lurking there. You’ll cut off one head and seven more will grow.
+Tax forms and bills and letters from people wanting things you aren’t sure you can deliver. Notice your fear and have some sympathy for it. Maybe there are snakes in that pile of paper. Maybe you’ll get bitten.
 
-How could you possibly cope with that? You could ask yourself, is there anything at all that I might be willing to do about that pile of paper? Would I look maybe at one part of it for 20 minutes? Maybe the answer will be no. But you might look for 10 or even for five and if not that for one.
+Maybe there are even hydras lurking there. You’ll cut off one head and seven more will grow. How could you possibly cope with that? You could ask yourself, is there anything at all that.
 
-Start there. You will soon find that the entire pile shrinks in significance merely because you have looked at part of it. And you’ll find that the whole thing is made of parts. What if you allowed yourself a glass of wine with dinner or curled up on the sofa in red or watched a stupid movie as a reward?
+I might be willing to do about that pile of paper? Would. I look maybe at one part of it for 20 minutes? Maybe the answer will be no.
 
-What if you instructed your wife or your husband to say good job after you fixed whatever you fixed? Would that motivate you? The people from whom thanks you want. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free.
+But you might look for 10 or even for five and if not that for one. Start there. You will soon find that the entire pile shrinks in significance merely because you have looked at part of it. And you’ll find that the whole thing is made of parts.
+
+What if you allowed yourself a glass of wine with dinner or curled up on the sofa in red or watched a stupid movie as a reward? What if you instructed your wife or your husband to say good job after you fixed whatever you fixed? Would that motivate you? The people from whom thanks you want.
 
 To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free.
 
-To listen to the full audio book please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audio book please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audio book please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audio book please download our app AudioNest and listen to the thousands of other audiobooks like this for free.
+To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audio book please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audio book please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audio book please download our app audio nest and listen to the thousand of other audio books like this for free.
 
-To listen to the full audiobook please download our app AudioNest and listen to the thousands of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousands of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousands of other audiobooks like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free.
+To listen to the full audio book please download our app AudioNest and listen to the thousands of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousands of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousands of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousands of other audiobooks like this for free.
 
-To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook
+To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook
 
 
 <a id="sec-041201"></a>
@@ -2071,9 +2223,9 @@ To listen to the full audiobook please download our app audio nest and listen to
 
 To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audio book please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audio book please download our app audio nest and listen to the thousand of other audio books like this for free.
 
-To listen to the full audio book please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audio book please download our app audio Listen to the full audiobook, please download our app AudioNest, and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest, and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest, and listen to the thousand of other audiobooks like this for free.
+To listen to the full audio book please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audio book please download our app audio Listen to the full audiobook, please download our app AudioNest, and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest, and listen to the thousand of other audiobooks like this for free.
 
-To listen to the full audiobook, please download our app AudioNest, and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand
+To listen to the full audiobook, please download our app AudioNest, and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest, and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand
 
 
 <a id="sec-043211"></a>
@@ -3161,11 +3313,11 @@ To listen to the full audiobook, please download our app AudioNest and listen to
 
 To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audio book please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audio book please download our app audio nest and listen to the thousand of other audio books like this for free.
 
-To listen to the full audio book please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audio book please download our app To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free.
+To listen to the full audio book please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audio book please download our app To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free.
 
 To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free.
 
-To To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free.
+To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free.
 
 
 <a id="sec-083439"></a>
@@ -3609,13 +3761,13 @@ of other audiobooks like this for free. To listen to the full audiobook, please 
 
 To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free.
 
-To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free.
+To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks our app audio nest and listen to the thousand of other audiobooks like this for free.
 
-To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audio books like this for free.
+To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audio books like this for free.
 
-To listen to the full audiobook please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free.
+To listen to the full audiobook please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free.
 
-To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free to listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free to listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free to listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free to listen to the full audiobook please download our app AudioNest and listen to the thousands of other audiobooks like this for free.
+To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free to listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free to listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free to listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free to listen to the full audiobook please download our app AudioNest and listen to the thousands of other audiobooks like this for free.
 
 To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free.
 
@@ -3787,19 +3939,19 @@ To listen to the full audiobook, please download our app AudioNest and listen to
 
 To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free.
 
-To listen to the full audiobook, please download our app AudioNest and listen to the thousand of the please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free.
+To listen to the full audiobook, please download our app AudioNest and listen to the thousand of the please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free.
 
-To listen to the full audio book please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audio book please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audio book please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audio book please download our app audio nest and listen to the thousand of other audiobooks like this for free.
+To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audio book please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audio book please download our app audio nest and listen to the thousand of other audio books like this for free. To listen to the full audio book please download our app audio nest and listen to the thousand of other audio books like this for free.
 
-To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free.
+To listen to the full audio book please download our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app audio nest and listen to the thousand of other audiobooks like this for free.
 
-To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please Please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free.
+To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook please Please download our app AudioNest and listen to the thousand of other audiobooks like this for free.
 
 To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free.
 
-To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free.
+To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free.
 
-To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To
+To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To listen to the full audiobook, please download our app AudioNest and listen to the thousand of other audiobooks like this for free. To
 
 
 <a id="sec-105631"></a>

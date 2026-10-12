@@ -220,31 +220,31 @@ For weeks past he had been making ready for this moment, and it had never crosse
 
 Moreover, his varicose ulcer had begun itching unbearably. He dared not scratch it because if he did so it always became inflamed. The seconds were ticking by. He was conscious of nothing except the blankness of the page in front of him, the itching of the skin above his ankle, the blaring of the music, and a slight booziness caused by the jinn.
 
-Suddenly he began writing in sheer power. panic, only imperfectly aware of what he was setting down. His small but childish handwriting straggled up and down the page, shedding first its capital
+Suddenly, he began writing in sheer power. panic, only imperfectly aware of what he was setting down. His small but childish handwriting straggled up and down the page, shedding first its capital
 
 
 <a id="sec-001509"></a>
 ### ⏱️ [00:15:09 - 00:20:11]
 
-letters and finally even its full stops. April 4th, 1984. Last night to the flicks, all war films, one very good one of a ship full of refugees being bombed somewhere in the Mediterranean, audience much amused by shots of a great huge fat man trying to swim away with a helicopter after him. First you saw him wallowing along in the water like a porpoise, then you saw him through the helicopter’s gunsights, then he was full of holes, and the sea round him turned pink and he sank as suddenly as though the holes had let in the water, audience shouting with laughter when he sank.
+letters and finally even its full stops. April 4th, 1984. Last night to the flicks, all war films, one very good one of a ship full of refugees being bombed somewhere in the Mediterranean, audience much amused by shots of a great huge fat man trying to swim away with a helicopter after him.
 
-Then you saw a lifeboat full of children with a helicopter hovering over it. There was a middle-aged woman, might have been a duess, sitting up in the bow with a little boy about three years old in her arms, little boy screaming with fright and hiding his head between her breasts as if he was trying to burrow right into her, and the woman putting her arms round him and comforting him, although she was blue with fright herself, all the time covering him up as much as possible, as if she thought her arms could keep the bullets off him.
+First, you saw him wallowing along in the water like a porpoise, then you saw him through the helicopter’s gunsights, then he was full of holes, and the sea round him turned pink and he sank as suddenly as though the holes had let in the water, audience shouting with laughter when he sank. Then you saw a lifeboat full of children with a helicopter hovering over it. There was a middle-aged woman, might have been a duess, sitting up in the bow with a little boy about three years old in her arms, little boy screaming with fright and hiding his head between her breasts as if he was trying to burrow right into her, and the woman putting her arms round him and comforting him, although she was blue with fright herself, all the time covering him up as much as possible, as if she thought her arms could keep the bullets off him.
 
-Then the helicopter planted a twenty kilo bomb in among them, terrific flash, and the boat went all to matchwood. Then there was a wonderful shot of a child’s arm going up, up, up, right up into the air. A helicopter with a camera in its nose must have followed it up, and there was a lot of applause from the party seats, but a woman down in the prole part of the house suddenly started kicking up a fuss and shouting. They didn’t order of showed it not in front of kids, they didn’t it ain’t right, not in front of kids, it ain’t until the police turned her, turned her out, I don’t suppose anything happened to her.
+Then the helicopter planted a twenty kilo bomb in among them, terrific flash, and the boat went all to matchwood. Then there was a wonderful shot of a child’s arm going up, up, up, right up into the air. A helicopter with a camera in its nose must have followed it up, and there was a lot of applause from the party seats, but a woman down in the prole part of the house suddenly started kicking up a fuss and shouting.
 
-He cares what the proles say, typical prole reaction, they never. Winston stopped writing, partly because he was suffering from cramp. He did not know what had made him pour out this stream of rubbish, but the curious thing was that while he was doing so a totally different memory had clarified itself in his mind, to the point where he almost felt equal to writing it down. It was, he now realised, because of this other incident, that he had suddenly decided to come home and begin the diary today.
+They didn’t order of showed it not in front of kids, they didn’t it ain’t right, not in front of kids, it ain’t until the police turned her, turned her out, I don’t suppose anything happened to her. He cares what the proles say, typical prole reaction, they never. Winston stopped writing, partly because he was suffering from cramp. He did not know what had made him pour out this stream of rubbish, but the curious thing was that while he was doing so a totally different memory had clarified itself in his mind, to the point where he almost felt equal to writing it down.
 
-It had happened that morning at the ministry, if anything so nebulous could be said to happen. It was nearly eleven hundred and in the records department, where Winston worked, they were dragging the chairs out of the cubicles and grouping them in the centre of the hall opposite the big telly screen, in preparation for the two minutes' hate. Winston was just taking his place in one of the middle rows, when two people whom he knew by sight but had never spoken to, came unexpectedly into the room.
+It was, he now realised, because of this other incident, that he had suddenly decided to come home and begin the diary today. It had happened that morning at the ministry, if anything so nebulous could be said to happen. It was nearly eleven hundred and in the records department, where Winston worked, they were dragging the chairs out of the cubicles and grouping them in the centre of the hall opposite the big telly screen, in preparation for the two minutes' hate.
 
-One of them was a girl whom he often passed in the corridors. He did not know her name, but he knew that she worked in the fiction department, presumably since he had sometimes seen her with oily hands and carrying a spanner, she had some mechanical job on one of the novel writing machines. She was a bold looking girl, of about twenty-seven, with thick hair, a freckled face and swift athletic movements. A narrow scarlet sash, emblem of the junior anti-sex league, was wound several times round the waist of her overalls, just tightly enough to bring out the shapeliness of her hips.
+Winston was just taking his place in one of the middle rows, when two people whom he knew by sight but had never spoken to, came unexpectedly into the room. One of them was a girl whom he often passed in the corridors. He did not know her name, but he knew that she worked in the fiction department, presumably since he had sometimes seen her with oily hands and carrying a spanner, she had some mechanical job on one of the novel writing machines.
 
-Winston had disliked her from the very first moment of seeing her, he knew the reason. That was because of the atmosphere of hockey fields and cold baths and community hikes and general clean-mindedness which she managed to carry about with her. He disliked nearly all women, and especially the young and pretty ones. It was always the women, and above all the young ones, who were the most bigoted adherents of the party, the swallowers of slogans, the amateur spies and noses out of unorthodoxy.
+She was a bold looking girl, of about twenty-seven, with thick hair, a freckled face and swift athletic movements. A narrow scarlet sash, emblem of the junior anti-sex league, was wound several times round the waist of her overalls, just tightly enough to bring out the shapeliness of her hips. Winston had disliked her from the very first moment of seeing her, he knew the reason. That was because of the atmosphere of hockey fields and cold baths and community hikes and general clean-mindedness which she managed to carry about with her.
 
-This particular girl gave him the impression of being more dangerous than most. Once, when they passed in the corridor, she gave him a quick, sidelong glance which seemed to pierce right into him and for a moment had filled him with black terror. The idea had even crossed his mind that she might be an agent of the Thought Police. That it was true was very unlikely.
+He disliked nearly all women, and especially the young and pretty ones. It was always the women, and above all the young ones, who were the most bigoted adherents of the party, the swallowers of slogans, the amateur spies and noses out of unorthodoxy. This particular girl gave him the impression of being more dangerous than most. Once, when they passed in the corridor, she gave him a quick, sidelong glance which seemed to pierce right into him and for a moment had filled him with black terror.
 
-Still he continued to feel a peculiar uneasiness, which had fear mixed up in it as well as hostility, whenever she was anywhere near him. The other person was a man named O’Brien, a member of the inner party and holder of some post so important and remote that Winston had only a dim idea of its nature. A momentary hush passed over the group of people round the chairs as they saw the black overalls of an inner party member approaching. O’Brien was a large, burly man with a thick neck and a coarse, humorous, brutal face.
+The idea had even crossed his mind that she might be an agent of the Thought Police. That it was true was very unlikely. Still he continued to feel a peculiar uneasiness, which had fear mixed up in it as well as hostility, whenever she was anywhere near him. The other person was a man named O’Brien, a member of the inner party and holder of some post so important and remote that Winston had only a dim idea of its nature.
 
-In spite of his formidable appearance, he had a certain charm of manner.
+A momentary hush passed over the group of people round the chairs as they saw the black overalls of an inner party member approaching. O’Brien was a large, burly man with a thick neck and a coarse, humorous, brutal face. In spite of his formidable appearance, he had a certain charm of manner.
 
 
 <a id="sec-002011"></a>
@@ -274,23 +274,23 @@ He was crying hysterically that the revolution had been betrayed. And all this i
 
 The dull, rhythmic tramp of the soldier’s boots formed the background to Goldstein’s bleating voice. Before the hate had proceeded for thirty seconds, uncontrollable exclamations of rage were breaking out from half the people in the room. The self-satisfied sheep-like face on the screen, and the terrifying power of the Eurasian army behind it, were too much to be borne. Besides, the sight or even the thought of Goldstein produced fear and anger automatically.
 
-He was an object of hatred more constant than either Eurasia or Eastasia, since when Oceania was at war with one of these powers, it was generally at peace with the other. But what was strange was that although Goldstein was hated and despised by everybody, although every day and a thousand times a day, on platforms, on the telly-screen, in newspapers, in books, his theories were refuted, smashed, ridiculed, held up to the general gaze for the pitiful rubbish that they were. In spite of all this, his influence never seemed to grow less.
+He was an object of hatred more constant than either Eurasia or Eastasia, since when Oceania was at war with one of these powers, it was generally at peace with the other. But what was strange was that although Goldstein was hated and despised by everybody, although every day and a thousand times a day, on platforms, on the telly-screen, in newspapers, in books, his theories were refuted, smashed, ridiculed, held up to the general gaze for the pitiful rubbish that they were.
 
-Always there were fresh dupes waiting to be seduced by him. A day never passed when spies and saboteurs acting under his directions were not unmasked by the thought police. He was the commander of a vast, shadowy army, an underground network of conspirators dedicated to the overthrow of the state, the Brotherhood, its name was supposed to be. There were also whispered stories of a terrible book, a compendium of all the heresies, of which Goldstein was the author, and which circulated clandestinely here and there.
+In spite of all this, his influence never seemed to grow less. Always there were fresh dupes waiting to be seduced by him. A day never passed when spies and saboteurs acting under his directions were not unmasked by the thought police. He was the commander of a vast, shadowy army, an underground network of conspirators dedicated to the overthrow of the state, the Brotherhood, its name was supposed to be.
 
-It was a book without a title. People referred to it, if at all, simply as The Book. But one knew of such things only through vague rumours. Whether the Brotherhood nor the Book was a subject that any ordinary party member would mention if there was a way of avoiding it.
+There were also whispered stories of a terrible book, a compendium of all the heresies, of which Goldstein was the author, and which circulated clandestinely here and there. It was a book without a title. People referred to it, if at all, simply as The Book. But one knew of such things only through vague rumours.
 
-In its second minute, the hate rose to a frenzy. People were leaping up and down in their places and shouting at the tops of their voices, in an effort to drown the maddening, bleating voice that came from the screen. The little sandy-haired woman had turned bright pink, and her mouth was opening and shutting like that of a landed fish. One O’Brien’s heavy face was flushed.
+Whether the Brotherhood nor the Book was a subject that any ordinary party member would mention if there was a way of avoiding it. In its second minute, the hate rose to a frenzy. People were leaping up and down in their places and shouting at the tops of their voices, in an effort to drown the maddening, bleating voice that came from the screen. The little sandy-haired woman had turned bright pink, and her mouth was opening and shutting like that of a landed fish.
 
-He was sitting very straight in his chair, his powerful chest swelling and quivering as though he were standing up to the assault of a wave. The dark-haired girl behind Winston had begun crying out, swine, swine, swine, and suddenly she picked up a heavy, new-speak dictionary and flung it at the screen. It struck Goldstein’s nose and bounced off. The voice continued inexorably.
+One O’Brien’s heavy face was flushed. He was sitting very straight in his chair, his powerful chest swelling and quivering as though he were standing up to the assault of a wave. The dark-haired girl behind Winston had begun crying out, swine, swine, swine, and suddenly she picked up a heavy, new-speak dictionary and flung it at the screen. It struck Goldstein’s nose and bounced off.
 
-In a lucid moment, Winston found that he was shouting with the others and kicking his heel violently against the rung of his chair. The horrible thing about the two-minute’s hate was not that one was obliged to act apart, but on the contrary, that it was impossible to avoid joining in. Within thirty seconds any pretence was always unnecessary. A hideous ecstasy of fear and vindictiveness, a desire to kill, to torture, to smash faces in with a sledgehammer, seemed to flow through the whole group of people like an electric current, turning one, even against one’s will, into a grimacing, screaming lunatic.
+The voice continued inexorably. In a lucid moment, Winston found that he was shouting with the others and kicking his heel violently against the rung of his chair. The horrible thing about the two-minute’s hate was not that one was obliged to act apart, but on the contrary, that it was impossible to avoid joining in. Within thirty seconds any pretence was always unnecessary.
 
-And yet the rage that one felt was an abstract, undirected emotion which could be switched from one object to another, like the flame of a blow lamp. Thus, at one moment, Winston’s hatred was not turned against Goldstein at all, but on the contrary, against Big Brother, the party, and the Thought Police. And at such moments his heart went out to the lonely, derided heretic on the screen, sole guardian of truth and sanity in a world of lies. And yet the very next instant he was at one with the people about him, and all that was said of Goldstein seemed to him to be true.
+A hideous ecstasy of fear and vindictiveness, a desire to kill, to torture, to smash faces in with a sledgehammer, seemed to flow through the whole group of people like an electric current, turning one, even against one’s will, into a grimacing, screaming lunatic. And yet the rage that one felt was an abstract, undirected emotion which could be switched from one object to another, like the flame of a blow lamp. Thus, at one moment, Winston’s hatred was not turned against Goldstein at all, but on the contrary, against Big Brother, the party, and the Thought Police.
 
-At those moments his secret loathing of Big Brother changed into adoration, and Big Brother seemed to tower up, an invincible, fearless protector. Standing like a rock against the hordes of Asia and Goldstein, in spite of his isolation, his helplessness, and the doubt that hung about his very existence, seemed like some sinister enchanter, capable by the mere power of his voice of wrecking the structure of civilization. It was even possible at moments to switch one’s hatred this way or that by a voluntary act, suddenly, by the sort of violent effort with which one wrenches one’s head away from the pillow in a nightmare, Winston succeeded in transf- murmuring his hatred from the face on the screen to the dark haired girl behind him.
+And at such moments his heart went out to the lonely, derided heretic on the screen, sole guardian of truth and sanity in a world of lies. And yet the very next instant he was at one with the people about him, and all that was said of Goldstein seemed to him to be true. At those moments his secret loathing of Big Brother changed into adoration, and Big Brother seemed to tower up, an invincible, fearless protector. Standing like a rock against the hordes of Asia and Goldstein, in spite of his isolation, his helplessness, and the doubt that hung about his very existence, seemed like some sinister enchanter, capable by the mere power of his voice of wrecking the structure of civilization.
 
-Vivid, beautiful hallucinations flashed through his mind. He would flog her to death with a rubber truncheon.
+It was even possible at moments to switch one’s hatred this way or that by a voluntary act, suddenly, by the sort of violent effort with which one wrenches one’s head away from the pillow in a nightmare, Winston succeeded in transf- murmuring his hatred from the face on the screen to the dark haired girl behind him. Vivid, beautiful hallucinations flashed through his mind. He would flog her to death with a rubber truncheon.
 
 
 <a id="sec-003012"></a>
@@ -302,19 +302,21 @@ The hate rose to its climax. The voice of Goldstein had become an actual sheep�
 
 Nobody heard what Big Brother was saying. It was merely a few words of encouragement, the sort of words that are uttered in the din of battle, not distinguishable individually but restoring confidence by the fact of being spoken. Then the face of Big Brother faded away again, and instead the three slogans of the party stood out in bold capitals, war is peace, freedom is slavery, ignorance is strength. But the face of Big Brother seemed to persist for several seconds on the screen, as though the impact that it had made on everyone’s eyeballs was too vivid to wear off immediately.
 
-The little sandy-haired woman had flung herself forward over the back of the chair in front of her, with a tremulous murmur that sounded like my saviour. She extended her arms towards the screen, then she buried her face in her hands. It was apparent that she was uttering a prayer. At this moment, the entire group of people broke into a deep, slow, rhythmical chant of Bibi, Bibi, over and over again, very slowly, with a long pause between the first B and the second, a heavy, murmurous sound, somehow curiously savage, in the background of which one seemed to hear the stamp of naked feet and the throbbing of tom-toms. For perhaps as much as thirty seconds they kept it up.
+The little sandy-haired woman had flung herself forward over the back of the chair in front of her, with a tremulous murmur that sounded like my saviour. She extended her arms towards the screen, then she buried her face in her hands. It was apparent that she was uttering a prayer. At this moment, the entire group of people broke into a deep, slow, rhythmical chant of Bibi, Bibi, over and over again, very slowly, with a long pause between the first B and the second, a heavy, murmurous sound, somehow curiously savage, in the background of which one seemed to hear the stamp of naked feet and the throbbing of tom-toms.
 
-It was a refrain that was often heard in moments of overwhelming emotion. Partly it was a sort of hymn to the wisdom and majesty of Big Brother, but still more it was an act of self-hypnosis, a deliberate drowning of consciousness by means of rhythmic noise. Winston’s entrails seemed to grow cold. In the two minutes' hate he could not help sharing in the general delirium, but this subhuman chanting of Bibi, Bibi always filled him with horror.
+For perhaps as much as thirty seconds they kept it up. It was a refrain that was often heard in moments of overwhelming emotion. Partly it was a sort of hymn to the wisdom and majesty of Big Brother, but still more it was an act of self-hypnosis, a deliberate drowning of consciousness by means of rhythmic noise. Winston’s entrails seemed to grow cold.
 
-Of course he chanted with the rest. It was impossible to do otherwise. To dissemble your feelings, to control your face, to do what everyone else was doing was an instinctive reaction. But there was a space of a couple of seconds during which the expression of his eyes might conceivably have betrayed him, and it was exactly at this moment that the significant thing happened, if indeed it did happen.
+In the two minutes' hate he could not help sharing in the general delirium, but this subhuman chanting of Bibi, Bibi always filled him with horror. Of course, he chanted with the rest. It was impossible to do otherwise. To dissemble your feelings, to control your face, to do what everyone else was doing was an instinctive reaction.
 
-Momentarily he caught O’Brien’s eye. O’Brien had stood up. He had taken off his spectacles and was in the act of resettling them on his nose with his characteristic gesture. But there was a fraction of a second when their eyes met, and for as long as it took to happen, Winston knew—yes, he knew—that O’Brien was thinking the same thing as himself.
+But there was a space of a couple of seconds during which the expression of his eyes might conceivably have betrayed him, and it was exactly at this moment that the significant thing happened, if indeed it did happen. Momentarily he caught O’Brien’s eye. O’Brien had stood up. He had taken off his spectacles and was in the act of resettling them on his nose with his characteristic gesture.
 
-An unmistakable message had passed. It was as though their two minds had opened and the thoughts were flowing from one into the other through their eyes. I am with you, O’Brien seemed to be saying to him. I know precisely what you are feeling.
+But there was a fraction of a second when their eyes met, and for as long as it took to happen, Winston knew—yes, he knew—that O’Brien was thinking the same thing as himself. An unmistakable message had passed. It was as though their two minds had opened and the thoughts were flowing from one into the other through their eyes. I am with you, O’Brien seemed to be saying to him.
 
-I know all about your contempt, your hatred, your disgust. But don’t worry, I’m on your side. And then the flash of intelligence was gone, and O’Brien’s face was as inscrutable as everybody else’s. That was all, and he was already uncertain whether it had happened.
+I know precisely what you are feeling. I know all about your contempt, your hatred, your disgust. But don’t worry, I’m on your side. And then the flash of intelligence was gone, and O’Brien’s face was as inscrutable as everybody else’s.
 
-Such incidents never had any sequel. All that they did was to keep alive in him the belief or hope that others besides himself were the enemies of the party. Perhaps the rumors of vast underground conspiracies were true after all. Perhaps the Brotherhood really existed.
+That was all, and he was already uncertain whether it had happened. Such incidents never had any sequel. All that they did was to keep alive in him the belief or hope that others besides himself were the enemies of the party. Perhaps, the rumors of vast underground conspiracies were true after all.
+
+Perhaps, the Brotherhood really existed.
 
 
 <a id="sec-003514"></a>
@@ -346,9 +348,11 @@ He sat as still as a mouse, in the futile hope that whoever it was might go away
 
 He got up and moved heavily towards the door.
 
-#### Chapter 2 As he put his hand to the doorknob, Winston saw that he had left the diary open on the table. Down with Big Brother was written all over it, in letters almost big enough to be legible across the room. It was an inconceivably stupid thing to have done. But he realised, even in his panic, he had not wanted to smudge the creamy paper by shutting the book while the ink was wet.
+#### Chapter 2. As he put his hand to the doorknob, Winston saw that he had left the diary open on the table. Down with Big Brother was written all over it, in letters almost big enough to be legible across the room. It was an inconceivably stupid thing to have done.
 
-He drew in his breath and opened the door. Instantly a warm wave of relief flowed through him. A colourless, crushed looking woman, with wispy hair and a lined face, was standing outside. Oh, Comrade, she began in a dreary, whining sort of voice, I thought I heard you come
+But he realised, even in his panic, he had not wanted to smudge the creamy paper by shutting the book while the ink was wet. He drew in his breath and opened the door. Instantly a warm wave of relief flowed through him. A colourless, crushed looking woman, with wispy hair and a lined face, was standing outside.
+
+Oh, Comrade, she began in a dreary, whining sort of voice, I thought. I heard you come
 
 
 <a id="sec-004018"></a>
@@ -374,11 +378,13 @@ He’s ever so good with his hands, Tom is. Parsons was Winston’s fellow emplo
 
 At the Ministry he was employed in some subordinate post for which intelligence was not required, but on the other hand he was a leading figure on the sports committee, and all the other committees engaged in organising community hikes, spontaneous demonstrations, savings campaigns and voluntary activities generally. He would inform you with quiet pride between whiffs of his pipe that he had put in an appearance at the community centre every evening for the past four years, an overpowering smell of sweat, a sort of unconscious testimony to the strenuousness of his life, followed him about wherever he went, and even remained behind him after he had gone.
 
-Have you got a spanner? said Winston, fiddling with the nut on the angle joint. A spanner? said Mrs. Parsons, immediately becoming invertebrate. I don’t know, I’m sure. Perhaps the children?
+Have you got a spanner? said Winston, fiddling with the nut on the angle joint. A spanner? said Mrs. Parsons, immediately becoming invertebrate. I don’t know, I’m sure.
 
-There was a trampling of boots and another blast on the comb as the children charged into the living room. Mrs. Parsons brought the spanner. Winston let out the water and disgustedly removed the clot of human hair that had blocked up the pipe. He cleaned his fingers as best he could in the cold war. from the tap and went back into the other room. Up with your hands, yelled a savage voice.
+Perhaps, the children? There was a trampling of boots and another blast on the comb as the children charged into the living room. Mrs. Parsons brought the spanner.
 
-A handsome, tough-looking boy of nine had popped up from behind the table and was menacing him with a toy automatic pistol. While his small sister, about two years younger, made the same gesture with a fragment of wood.
+Winston let out the water and disgustedly removed the clot of human hair that had blocked up the pipe. He cleaned his fingers as best he could in the cold war. from the tap and went back into the other room. Up with your hands, yelled a savage voice. A handsome, tough-looking boy of nine had popped up from behind the table and was menacing him with a toy automatic pistol.
+
+While his small sister, about two years younger, made the same gesture with a fragment of wood.
 
 
 <a id="sec-004519"></a>
@@ -388,15 +394,17 @@ Both of them were dressed in the blue shorts, gray shirts, and red neckerchiefs,
 
 You’re a Eurasian spy. I’ll shoot you, I’ll vaporize you, I’ll send you to the salt mines.
 
-Suddenly they were both leaping round him, shouting traitor and thought criminal, the little girl imitating her brother in every movement. It was somehow slightly frightening, like the gambling of tiger cubs which will soon grow up into man-eaters. There was a sort of calculating ferocity in the boy’s eye, a quite evident desire to hit or kick Winston, and a consciousness of being very nearly big enough to do so. It was a good job it was not a real pistol he was holding, Winston thought. Mrs. Parson’s eyes flitted nervously from Winston to the children and back again.
+Suddenly, they were both leaping round him, shouting traitor and thought criminal, the little girl imitating her brother in every movement. It was somehow slightly frightening, like the gambling of tiger cubs which will soon grow up into man-eaters. There was a sort of calculating ferocity in the boy’s eye, a quite evident desire to hit or kick Winston, and a consciousness of being very nearly big enough to do so. It was a good job it was not a real pistol he was holding, Winston thought.
 
-In the better light of the living room, he noticed with interest that there actually was dust in the creases of her face. They do get so noisy, she said. They’re disappointed because they couldn’t go to see the hanging. That’s what it is.
+Mrs. Parson’s eyes flitted nervously from Winston to the children and back again. In the better light of the living room, he noticed with interest that there actually was dust in the creases of her face. They do get so noisy, she said.
 
-I’m too busy to take them, and Tom won’t be back from work in time. Why can’t we go and see the hanging? Roared the boy in his huge voice. Want to see the hanging, want to see the hanging?
+They’re disappointed because they couldn’t go to see the hanging. That’s what it is. I’m too busy to take them, and Tom won’t be back from work in time. Why can’t we go and see the hanging?
 
-Chanted the little girl, still capering round. Some Eurasian prisoners, guilty of war crimes, were to be hanged in the park that evening, Winston remembered. This happened about once a month and was a popular spectacle. Children always clamoured to be taken to see it.
+Roared the boy in his huge voice. Want to see the hanging, want to see the hanging? Chanted the little girl, still capering round. Some Eurasian prisoners, guilty of war crimes, were to be hanged in the park that evening, Winston remembered.
 
-He took his leave of Mrs. Parsons and made for the door. But he had not gone six steps down the passage when something hit the back of his neck, an agonizingly painful blow. It was as though a red hot wire had been jabbed into him. He spun round just in time to see Mrs. Parsons dragging her son back into the doorway while the boy pocketed a catapult.
+This happened about once a month and was a popular spectacle. Children always clamoured to be taken to see it. He took his leave of Mrs. Parsons and made for the door.
+
+But he had not gone six steps down the passage when something hit the back of his neck, an agonizingly painful blow. It was as though a red hot wire had been jabbed into him. He spun round just in time to see Mrs. Parsons dragging her son back into the doorway while the boy pocketed a catapult.
 
 Goldstein bellowed the boy as the door closed on him. But what most struck Winston was the look of helpless fright on the woman’s grayish face. Back in the flat, he stepped quickly past the telly screen and sat down at the table again, still rubbing his neck. The music from the telly screen had stopped.
 
@@ -408,7 +416,7 @@ It was all a sort of glorious game to them. All their ferocity was turned outwar
 
 Had overheard some compromising remark and denounced its parents to the thought police. The sting of the catapult bullet had worn off. He picked up his pen half heartedly, wondering whether he could find something more to write in the diary.
 
-Suddenly he began thinking of O’Brien again. Years ago, how long was it? Seven years it must be. He had dreamed that he was walking through a pitch dark room.
+Suddenly, he began thinking of O’Brien again. Years ago, how long was it? Seven years it must be. He had dreamed that he was walking through a pitch dark room.
 
 And someone sitting to one side of him had said as he passed. We shall meet in the place where there is no darkness. It was said very quietly, almost casually, a statement, not a command. He had walked on without pausing.
 
@@ -470,15 +478,15 @@ With the tip of his finger, he picked up an identifiable grain of whitish dust a
 
 #### Chapter 3 Winston was dreaming of his mother. He must, he thought, have been ten or eleven years old when his mother had disappeared. She was a tall, statuesque, rather silent woman, with slow movements and magnificent fair hair. His father, he remembered more vaguely as dark and thin, dressed always in neat, dark clothes.
 
-Winston remembered especially the very thin soles of his father’s shoes and wearing spectacles. The two of them must evidently have been swallowed up in one of the first great purges of the fifties. At this moment, his mother was sitting in some place deep down beneath him, with his young sister in her arms. He did not remember his sister at all, except as a tiny, feeble baby, always silent, with large watchful eyes. Both of them were looking up at him.
+Winston remembered especially the very thin soles of his father’s shoes and wearing spectacles. The two of them must evidently have been swallowed up in one of the first great purges of the fifties. At this moment, his mother was sitting in some place deep down beneath him, with his young sister in her arms. He did not remember his sister at all, except as a tiny, feeble baby, always silent, with large watchful eyes.
 
-They were down in some subterranean place, the bottom of a well, for instance, or a very deep grave. But it was a place which, already far below him, was itself moving downwards. They were in the saloon of a sinking ship, looking up at him through the darkening water. There was still air in the saloon, they could still see him and he them, but all the while they were sinking down, down into the green waters which in another moment must hide them from sight forever.
+Both of them were looking up at him. They were down in some subterranean place, the bottom of a well, for instance, or a very deep grave. But it was a place which, already far below him, was itself moving downwards. They were in the saloon of a sinking ship, looking up at him through the darkening water.
 
-He was out in the light and air, while they were being sucked down to death, and they were down there because he was up here. He knew it, and they knew it, and he could see the knowledge in their faces. There was no reproach either in their faces or in their hearts, only the knowledge that they must die in order that he might remain alive, and that this was part of the unavoidable order of things. He could not remember what had happened, but he knew in his dream that in some way the lives of his mother and his sister had been sacrificed to his own.
+There was still air in the saloon, they could still see him and he them, but all the while they were sinking down, down into the green waters which in another moment must hide them from sight forever. He was out in the light and air, while they were being sucked down to death, and they were down there because he was up here. He knew it, and they knew it, and he could see the knowledge in their faces.
 
-It was one of those dreams which, while retaining the characteristic dream scenery, are a continuation of one’s intellectual life, and in which one becomes aware of facts and ideas which still seem new and valuable after one is awake. The thing that now suddenly struck Winston was that his mother’s death nearly 30 years ago had been tragic and sorrowful in a way that was no longer possible. Tragedy he perceived belonged to the ancient time, to a time when there was still privacy, love and friendship, and when the members of a family stood by one another without needing to know the reason.
+There was no reproach either in their faces or in their hearts, only the knowledge that they must die in order that he might remain alive, and that this was part of the unavoidable order of things. He could not remember what had happened, but he knew in his dream that in some way the lives of his mother and his sister had been sacrificed to his own. It was one of those dreams which, while retaining the characteristic dream scenery, are a continuation of one’s intellectual life, and in which one becomes aware of facts and ideas which still seem new and valuable after one is awake.
 
-His mother’s memory tore at his heart because she had died loving him, when he was too young
+The thing that now suddenly struck Winston was that his mother’s death nearly 30 years ago had been tragic and sorrowful in a way that was no longer possible. Tragedy he perceived belonged to the ancient time, to a time when there was still privacy, love and friendship, and when the members of a family stood by one another without needing to know the reason. His mother’s memory tore at his heart because she had died loving him, when he was too young
 
 
 <a id="sec-010023"></a>
@@ -486,33 +494,33 @@ His mother’s memory tore at his heart because she had died loving him, when he
 
 and selfish to love her in return, and because somehow he did not remember how. She had sacrificed herself to a conception of loyalty that was private and unalterable. Such things, he saw, could not happen today. Today there were fear, hatred, and pain, but no dignity of emotion, no deep or complex sorrows.
 
-All this he seemed to see in the large eyes of his mother and his sister, looking up at him through the green water, hundreds of fathoms down and still sinking. Suddenly he was standing on short springy turf on a summer evening when the slanting rays of the sun gilded the ground. The landscape that he was looking at recurred so often in his dreams that he was never fully certain whether or not he had seen it in the real world. In his waking thoughts he called it the Golden Country.
+All this he seemed to see in the large eyes of his mother and his sister, looking up at him through the green water, hundreds of fathoms down and still sinking. Suddenly, he was standing on short springy turf on a summer evening when the slanting rays of the sun gilded the ground. The landscape that he was looking at recurred so often in his dreams that he was never fully certain whether or not he had seen it in the real world.
 
-It was an old rabbit-bitten pasture, with a foot-track wandering across it and a mole hill here and there. In the ragged hedge on the opposite side of the field, the boughs of the elm trees were swaying very faintly in the breeze, their leaves just stirring in dense masses like women’s hair. Somewhere near at hand, though out of sight, there was a clear, slow-moving stream where dace were swimming in the pools under the willow trees. The girl with dark hair was coming towards them across the field.
+In his waking thoughts he called it the Golden Country. It was an old rabbit-bitten pasture, with a foot-track wandering across it and a mole hill here and there. In the ragged hedge on the opposite side of the field, the boughs of the elm trees were swaying very faintly in the breeze, their leaves just stirring in dense masses like women’s hair. Somewhere near at hand, though out of sight, there was a clear, slow-moving stream where dace were swimming in the pools under the willow trees.
 
-With what seemed a single movement, she tore off her clothes and flung them disdainfully aside. Her body was white and smooth, but it aroused no desire in him. Indeed he barely looked at it. What overwhelmed him in that instant was admiration for the gesture with which she had thrown her clothes aside.
+The girl with dark hair was coming towards them across the field. With what seemed a single movement, she tore off her clothes and flung them disdainfully aside. Her body was white and smooth, but it aroused no desire in him. Indeed, he barely looked at it.
 
-With its grace and carelessness it seemed to annihilate a whole culture, a whole system of thought, as though Big Brother and the Party and the Thought Police could all be swept into nothingness by a single, splendid movement of the arm. That too was a gesture belonging to the ancient time. Winston woke up with the word Shakespeare on his lips. The telescreen was giving forth an ear-splitting whistle, which continued on the same note for thirty seconds.
+What overwhelmed him in that instant was admiration for the gesture with which she had thrown her clothes aside. With its grace and carelessness it seemed to annihilate a whole culture, a whole system of thought, as though Big Brother and the Party and the Thought Police could all be swept into nothingness by a single, splendid movement of the arm. That too was a gesture belonging to the ancient time. Winston woke up with the word Shakespeare on his lips.
 
-It was nought seven-fifteen, getting up time for office workers. Winston wrenched his body out of bed, naked, for a member of the Outer Party received only 3,000 clothing coupons annually, and a suit of pyjamas was six-hundred, and seized a dingy singlet and a pair of shorts that were lying across a chair. The physical jerks would begin in three minutes. The next moment he was doubled up by a violent coughing fit which nearly always attacked him soon after waking up.
+The telescreen was giving forth an ear-splitting whistle, which continued on the same note for thirty seconds. It was nought seven-fifteen, getting up time for office workers. Winston wrenched his body out of bed, naked, for a member of the Outer Party received only 3,000 clothing coupons annually, and a suit of pyjamas was six-hundred, and seized a dingy singlet and a pair of shorts that were lying across a chair. The physical jerks would begin in three minutes.
 
-It emptied his lungs so completely that he could only begin breathing again by lying on his back and taking a series of deep gasps. His veins had swelled with the effort of the cough, and the varicose ulcer had started itching. Thirty to forty group yapped a piercing female voice. Thirty to forty group take your places please, thirties to forties.
+The next moment he was doubled up by a violent coughing fit which nearly always attacked him soon after waking up. It emptied his lungs so completely that he could only begin breathing again by lying on his back and taking a series of deep gasps. His veins had swelled with the effort of the cough, and the varicose ulcer had started itching. Thirty to forty group yapped a piercing female voice.
 
-Winston sprang to attention in front of the telescreen, upon which the image of a youngish woman, scrawny but muscular, dressed in tunic and gym shoes, had already appeared. Arms bending and stretching she rapped out. Take your time by me. One, two, three, four.
+Thirty to forty group take your places please, thirties to forties. Winston sprang to attention in front of the telescreen, upon which the image of a youngish woman, scrawny but muscular, dressed in tunic and gym shoes, had already appeared. Arms bending and stretching she rapped out. Take your time by me.
 
-One, two, three, four. Come on comrades, put a bit of life into it. One, two, three, four. One, two, three, four.
+One, two, three, four. One, two, three, four. Come on comrades, put a bit of life into it. One, two, three, four.
 
-The pain of the coughing fit had not quite driven out of Winston’s mind, the impression made by his dream, and the rhythmic movements of the exercise restored it somewhat. As he mechanically shot his arms back and forth, wearing on his face the look of grim enjoyment which was considered proper during the physical jerks, he was struggling to think his way backward into the dim period of his early childhood. It was extraordinarily difficult. Beyond the late fifties, everything faded.
+One, two, three, four. The pain of the coughing fit had not quite driven out of Winston’s mind, the impression made by his dream, and the rhythmic movements of the exercise restored it somewhat. As he mechanically shot his arms back and forth, wearing on his face the look of grim enjoyment which was considered proper during the physical jerks, he was struggling to think his way backward into the dim period of his early childhood. It was extraordinarily difficult.
 
-Even there were no external records that you could refer to, even the outline of your own life lost its sharpness. You remembered huge events which had quite probably not happened, you remembered the detail of incidents without being able to recapture their atmosphere, and there were long blank periods to which you could assign nothing. Everything had been different then. Even the names of countries and their shapes on the map had been different.
+Beyond the late fifties, everything faded. Even there were no external records that you could refer to, even the outline of your own life lost its sharpness. You remembered huge events which had quite probably not happened, you remembered the detail of incidents without being able to recapture their atmosphere, and there were long blank periods to which you could assign nothing. Everything had been different then.
 
-Type one, for instance, had not been so called in those days. It had been called England or Britain, though London, he felt fairly certain, had always been called London. Winston could not definitely remember a time when his country had not been at war, but it was evident that there had been a fairly long interval of peace during his childhood, because one of his early memories was of an air raid which appeared to take everyone by
+Even the names of countries and their shapes on the map had been different. Type one, for instance, had not been so called in those days. It had been called England or Britain, though London, he felt fairly certain, had always been called London. Winston could not definitely remember a time when his country had not been at war, but it was evident that there had been a fairly long interval of peace during his childhood, because one of his early memories was of an air raid which appeared to take everyone by
 
 
 <a id="sec-010526"></a>
 ### ⏱️ [01:05:26 - 01:10:29]
 
-surprise. Perhaps it was the time when the atomic bomb had fallen on Colchester. He did not remember the raid itself, but he did remember his father’s hand clutching his own as they hurried down, down, down into some place deep in the earth, round and round a spiral staircase which rang under his feet, and which finally so wearied his legs that he began whimpering, and they had to stop and rest. His mother, in her slow, dreamy way, was following a long way behind them.
+surprise. Perhaps, it was the time when the atomic bomb had fallen on Colchester. He did not remember the raid itself, but he did remember his father’s hand clutching his own as they hurried down, down, down into some place deep in the earth, round and round a spiral staircase which rang under his feet, and which finally so wearied his legs that he began whimpering, and they had to stop and rest. His mother, in her slow, dreamy way, was following a long way behind them.
 
 She was carrying his baby sister, or perhaps it was only a bundle of blankets that she was carrying. He was not certain whether his sister had been born then.
 
@@ -522,23 +530,23 @@ His face was scarlet, and his eyes were blue and full of tears. He reeked of gin
 
 In his childish way, Winston grasped that some terrible thing, something that was beyond forgiveness and could never be remedied, had just happened. It also seemed to him that he knew what it was. Someone whom the old man loved, a little granddaughter perhaps, had been killed. Every few minutes the old man kept repeating, we didn’t ought to have trusted them.
 
-I said so, Ma, didn’t I? That’s what comes of trusting them. I said so all along. We didn’t ought to have trusted the buggers.
+I said so, Ma, didn’t. I? That’s what comes of trusting them. I said so all along.
 
-But which buggers they didn’t ought to have trusted Winston could not now remember. Since about that time, war had been literally continuous. Though strictly speaking, it had not always been the same war. For several months during his childhood, there had been confused street fighting in London itself, some of which he remembered vividly.
+We didn’t ought to have trusted the buggers. But which buggers they didn’t ought to have trusted Winston could not now remember. Since about that time, war had been literally continuous. Though strictly speaking, it had not always been the same war.
 
-But to trace out the history of the whole period, to say who was fighting whom at any given moment, would have been utterly impossible, since no written record and no spoken word ever made mention of any other alignment than the existing one. At this moment, for example, in 1984, if it was 1984, Oceania was at war with Eurasia and in alliance with Eastasia. In no public or private utterance was it ever admitted that the three powers had at any time been grouped along different lines.
+For several months during his childhood, there had been confused street fighting in London itself, some of which he remembered vividly. But to trace out the history of the whole period, to say who was fighting whom at any given moment, would have been utterly impossible, since no written record and no spoken word ever made mention of any other alignment than the existing one. At this moment, for example, in 1984, if it was 1984, Oceania was at war with Eurasia and in alliance with Eastasia.
 
-Actually, as Winston well knew, it was only four years since Oceania had been at war with Eastasia and in alliance with Eurasia. But that was merely a piece of furtive knowledge which he happened to possess because his memory was not satisfactorily under control. Officially, the change of partners had never happened. Oceania was at war with Eurasia.
+In no public or private utterance was it ever admitted that the three powers had at any time been grouped along different lines. Actually, as Winston well knew, it was only four years since Oceania had been at war with Eastasia and in alliance with Eurasia. But that was merely a piece of furtive knowledge which he happened to possess because his memory was not satisfactorily under control. Officially, the change of partners had never happened.
 
-Therefore, Oceania had always been at war with Eurasia. The enemy of the moment always represented absolute evil, and it followed that any past or future agreement with him was impossible. The frightening thing, he reflected for the ten thousandth time as he forced his shoulders painfully backward. With hands on hips, they were gyrating their bodies from the waist.
+Oceania was at war with Eurasia. Therefore, Oceania had always been at war with Eurasia. The enemy of the moment always represented absolute evil, and it followed that any past or future agreement with him was impossible. The frightening thing, he reflected for the ten thousandth time as he forced his shoulders painfully backward.
 
-An exercise that was supposed to be good for the back muscles. The frightening thing was that it might all be true. If the party could thrust its hand into the past and say of this or that event, it never happened. That surely was more terrifying than mere torture and death.
+With hands on hips, they were gyrating their bodies from the waist. An exercise that was supposed to be good for the back muscles. The frightening thing was that it might all be true. If the party could thrust its hand into the past and say of this or that event, it never happened.
 
-The party said that Oceania had never been in alliance with Eurasia. He, Winston Smith, knew that Oceania had been in alliance with Eurasia a shorter time as four years ago. But where did that knowledge exist? Only in his own consciousness, which in any case must soon be annihilated.
+That surely was more terrifying than mere torture and death. The party said that Oceania had never been in alliance with Eurasia. He, Winston Smith, knew that Oceania had been in alliance with Eurasia a shorter time as four years ago. But where did that knowledge exist?
 
-And if all others accepted the lie which the party imposed, if all records told the same tale, then the lie passed into history and became truth. Who controls the past ran the party slogan, controls the future, who controls the present controls the past. And yet the past, though of its nature alterable, never had been altered. Whatever was true now was true from everlasting to everlasting.
+Only in his own consciousness, which in any case must soon be annihilated. And if all others accepted the lie which the party imposed, if all records told the same tale, then the lie passed into history and became truth. Who controls the past ran the party slogan, controls the future, who controls the present controls the past. And yet the past, though of its nature alterable, never had been altered.
 
-It was quite simple. All that was needed was an unending series of victories over your own memory.
+Whatever was true now was true from everlasting to everlasting. It was quite simple. All that was needed was an unending series of victories over your own memory.
 
 
 <a id="sec-011029"></a>
@@ -568,39 +576,43 @@ You’re not trying. Lower, please. That’s better, Comrade. Now stand at ease,
 
 A sudden hot sweat had broken out all over Winston’s body. His face remained completely inscrutable. Never show dismay. Never show resentment.
 
-A single flicker of the eyes could give you away. She stood watching while the instructress raised her arms above her head and, one could not say gracefully, but with remarkable neatness and efficiency, bent over and tucked the first joint of her fingers under her toes. There, Comrades. That’s how I want to see you doing it.
+A single flicker of the eyes could give you away. She stood watching while the instructress raised her arms above her head and, one could not say gracefully, but with remarkable neatness and efficiency, bent over and tucked the first joint of her fingers under her toes. There, Comrades. That’s how.
 
-Watch me again. I’m thirty-nine and I’ve had four children. Now look. She bent over again.
+I want to see you doing it. Watch me again. I’m thirty-nine and. I’ve had four children.
 
-You see, my knees aren’t bent. You can all do it if you want to, she added as she straightened her. self up. Anyone under 45 is perfectly capable of touching his toes. We don’t all have the privilege of fighting in the front line, but at least we can all keep fit.
+Now look. She bent over again. You see, my knees aren’t bent. You can all do it if you want to, she added as she straightened her. self up.
 
-Remember our boys on the Malabar front, and the sailors in the floating fortresses, just think what they have to put up with. Now try again. That’s better, Comrade. That’s much better, she added encouragingly, as Winston, with a violent lunge, succeeded in touching his toes with knees unbent for the first time in several years.
+Anyone under 45 is perfectly capable of touching his toes. We don’t all have the privilege of fighting in the front line, but at least we can all keep fit. Remember our boys on the Malabar front, and the sailors in the floating fortresses, just think what they have to put up with. Now try again.
+
+That’s better, Comrade. That’s much better, she added encouragingly, as Winston, with a violent lunge, succeeded in touching his toes with knees unbent for the first time in several years.
 
 
 <a id="sec-011535"></a>
 ### ⏱️ [01:15:35 - 01:20:35]
 
-#### Chapter 4 With the deep, unconscious sigh which not even the nearness of the telescreen could prevent him from uttering when his day’s work started, Winston pulled the speak right towards him, blew the dust from its mouthpiece, and put on his spectacles. Then he unrolled and clipped together four small cylinders of paper which had already flopped out of the pneumatic tube on the right hand side of his desk. In the walls of the cubicle there were three orifices. To the right of the speak right, a small pneumatic tube for written messages.
+#### Chapter 4. With the deep, unconscious sigh which not even the nearness of the telescreen could prevent him from uttering when his day’s work started, Winston pulled the speak right towards him, blew the dust from its mouthpiece, and put on his spectacles. Then he unrolled and clipped together four small cylinders of paper which had already flopped out of the pneumatic tube on the right hand side of his desk. In the walls of the cubicle there were three orifices.
 
-To the left, a larger one for newspapers. And in the side wall, within easy reach of Winston’s arm, a large oblong slit protected by a wire grating. This last was for the disposal of waste paper. Similar slits existed in thousands or tens of thousands throughout the building, not only in every room, but at short intervals in every corridor.
+To the right of the speak right, a small pneumatic tube for written messages. To the left, a larger one for newspapers. And in the side wall, within easy reach of Winston’s arm, a large oblong slit protected by a wire grating. This last was for the disposal of waste paper.
 
-For some reason, they were nicknamed memory holes. When one knew that any document was due for destruction, or even when one saw a scrap of waste paper lying about, it was an automatic action to lift the flap of the nearest memory hole and drop it in, whereupon it would be whirled away on a current of warm air to the enormous furnaces which were hidden somewhere in the recesses of the building. Winston examined the four slips of paper which he had unrolled.
+Similar slits existed in thousands or tens of thousands throughout the building, not only in every room, but at short intervals in every corridor. For some reason, they were nicknamed memory holes. When one knew that any document was due for destruction, or even when one saw a scrap of waste paper lying about, it was an automatic action to lift the flap of the nearest memory hole and drop it in, whereupon it would be whirled away on a current of warm air to the enormous furnaces which were hidden somewhere in the recesses of the building.
 
-Each contained a message of only one or two lines, in the abbreviated jargon, not actually newspeak, but consisting largely of newspeak words which was used in the Ministry for internal purposes. They ran. Times 17th of March, 84. B.
+Winston examined the four slips of paper which he had unrolled. Each contained a message of only one or two lines, in the abbreviated jargon, not actually newspeak, but consisting largely of newspeak words which was used in the Ministry for internal purposes. They ran. Times 17th of March, 84.
 
-B. Speech, Mal-reported Africa Rectify. Times 19th of December, 83. Forecast 3YP. 4th Quarter, 83.
+B. B. Speech, Mal-reported Africa Rectify. Times 19th of December, 83.
 
-Misprints verify current issue. Times 14th of February, 84. Mini-plenty Mal-quoted Chocolate Rectify. Times 3rd of December, 83.
+Forecast 3YP. 4th Quarter, 83. Misprints verify current issue. Times 14th of February, 84. Mini-plenty Mal-quoted Chocolate Rectify.
 
-Reporting B. B. Day order double-plus-and-good refs on persons rewrite full-wise upsub anti-filing. With a faint feeling of satisfaction, Winston laid the fourth message aside.
+Times 3rd of December, 83. Reporting B. B. Day order double-plus-and-good refs on persons rewrite full-wise upsub anti-filing.
 
-It was an intricate and responsible job and had better be dealt with last. The other three were routine matters, though the second one would probably mean some tedious wading through lists of figures. Winston dialled back numbers on the tele-screen and called for the appropriate issues of The Times, which slid out of the pneumatic tube after only a few minutes delay. The messages he had received referred to articles or news items, which for one reason or another it was thought necessary to alter, or, as the official phrase had it, to rectify.
+With a faint feeling of satisfaction, Winston laid the fourth message aside. It was an intricate and responsible job and had better be dealt with last. The other three were routine matters, though the second one would probably mean some tedious wading through lists of figures. Winston dialled back numbers on the tele-screen and called for the appropriate issues of The Times, which slid out of the pneumatic tube after only a few minutes delay.
 
-For example, it appeared from The Times of the 17th of March that Big Brother, in his speech of the previous day, had predicted that the South Indian front would remain quiet, but that a Eurasian offensive would shortly be launched in North Africa. As it happened, the Eurasian higher command had launched its offensive in South India and left North Africa alone. It was therefore necessary to rewrite a paragraph of Big Brother’s speech in such a way as to make him predict the thing that had actually happened, or again, The Times of the 19th of December had published the official forecasts of the output of various classes of consumption goods in the fourth quarter of 1983, which was also the sixth quarter of the ninth three-year plan.
+The messages he had received referred to articles or news items, which for one reason or another it was thought necessary to alter, or, as the official phrase had it, to rectify. For example, it appeared from The Times of the 17th of March that Big Brother, in his speech of the previous day, had predicted that the South Indian front would remain quiet, but that a Eurasian offensive would shortly be launched in North Africa. As it happened, the Eurasian higher command had launched its offensive in South India and left North Africa alone.
 
-Today’s issue contained a statement of the actual output, from which it appeared that the forecasts were in every instance grossly wrong. Winston’s job was to rectify the original figures by making them agree with the later ones. As for the third message, it referred to a very simple error which could be set right in a couple of minutes. A shorter time ago as February, the Ministry of Plenty had issued a promise, a categorical pledge, were the official words, that there would be no reduction of the chocolate ration during 1984.
+It was therefore necessary to rewrite a paragraph of Big Brother’s speech in such a way as to make him predict the thing that had actually happened, or again, The Times of the 19th of December had published the official forecasts of the output of various classes of consumption goods in the fourth quarter of 1983, which was also the sixth quarter of the ninth three-year plan. Today’s issue contained a statement of the actual output, from which it appeared that the forecasts were in every instance grossly wrong.
 
-Actually, as Winston was aware, the chocolate ration was to be reduced from thirty grams to twenty at the end of the present week. All that was needed was to substitute for the original promise, a warning that it would probably be necessary to reduce the ration at some time in April. As soon as Winston had dealt with each of the messages, he clipped his speak-written corrections to the appropriate copy of The Times and pushed them into the pneumatic tube. Then, with a movement which was as nearly as possible unconscious, he crumpled up the original message, and any notes that he himself had made, and dropped
+Winston’s job was to rectify the original figures by making them agree with the later ones. As for the third message, it referred to a very simple error which could be set right in a couple of minutes. A shorter time ago as February, the Ministry of Plenty had issued a promise, a categorical pledge, were the official words, that there would be no reduction of the chocolate ration during 1984. Actually, as Winston was aware, the chocolate ration was to be reduced from thirty grams to twenty at the end of the present week.
+
+All that was needed was to substitute for the original promise, a warning that it would probably be necessary to reduce the ration at some time in April. As soon as Winston had dealt with each of the messages, he clipped his speak-written corrections to the appropriate copy of The Times and pushed them into the pneumatic tube. Then, with a movement which was as nearly as possible unconscious, he crumpled up the original message, and any notes that he himself had made, and dropped
 
 
 <a id="sec-012035"></a>
@@ -654,7 +666,7 @@ before filing. Winston read through the offending article. Big Brother’s order
 
 Three months later, FFCC had suddenly been dissolved with no reasons given. One could assume that Withers and his associates were now in disgrace, but there had been no report of the matter in the press or on the telescreen. That was to be expected, since it was unusual for political offenders to be put on trial or even publicly denounced. The great purges involving thousands of people, with public trials of traitors and thought-criminals who made abject confession of their crimes and were afterwards executed, were special show-pieces not occurring oftener than once in a couple of years.
 
-More commonly, people who had incurred the displeasure of the party simply disappeared and were never heard of again. One never had the smallest clue as to what had happened to them. In some cases, they might not even be dead. Perhaps thirty people personally known to Winston, not counting his parents, had disappeared at one time or another.
+More commonly, people who had incurred the displeasure of the party simply disappeared and were never heard of again. One never had the smallest clue as to what had happened to them. In some cases, they might not even be dead. Perhaps, thirty people personally known to Winston, not counting his parents, had disappeared at one time or another.
 
 Winston stroked his nose gently with a paper clip. In the cubicle across the way, Comrade Tillotson was still crouching secretively over his speak-right. He raised his head for a moment, again the hostile, spectacle flash. Winston wondered whether Comrade Tillotson was engaged on the same job as himself.
 
@@ -662,7 +674,7 @@ It was perfectly possible. So tricky a piece of work would never be entrusted to
 
 On the other hand, to turn it over to a committee, would be to admit openly that an act of fabrication was taking place. Very likely as many as a dozen people were now working away on rival versions of what Big Brother had actually said, and presently some master brain in the inner party would select this version or that, would re-edit it and set in motion the complex processes of cross-referencing that would be required, and then the chosen lie would pass into the permanent records and become truth.
 
-Winston did not know why Withers had been disgraced. Perhaps it was for corruption or incompetence. Perhaps Big Brother was merely getting rid of a too-popular subordinate. Perhaps Withers or someone close to him had been suspected of heretical tendencies.
+Winston did not know why Withers had been disgraced. Perhaps, it was for corruption or incompetence. Perhaps Big Brother was merely getting rid of a too-popular subordinate. Perhaps Withers or someone close to him had been suspected of heretical tendencies.
 
 Or perhaps what was likeliest of all. The thing had simply happened because purges and vaporizations were a necessary part of the mechanics of government. The only real clue lay in the words refs, unpersons, which indicated that Withers was already dead. You could not invariably assume this to be the case when people were arrested.
 
@@ -670,7 +682,7 @@ Sometimes they were released and allowed to remain at liberty for as much as a y
 
 He had never existed. Winston decided that it would not be enough simply to reverse the tendency of Big Brother’s speech. It was better to make it deal with something totally unconnected with its original subject. He might turn the speech into the usual denunciation of traitors and thought criminals, but that was a little too obvious, while to invent a victory at the front or some triumph of overproduction in the ninth three-year plan might complicate the records too much.
 
-What was needed was a piece of pure fantasy. Suddenly there sprang into his mind, ready made as it were, the image of a certain Comrade Ogilvy, who had recently died in battle, in heroic circumstances. There were occasions when Big Brother devoted his order for the day to commemorating some humble, rank-and-file party member whose life and death he held up as an example worthy to be followed. Today he should commemorate Comrade Ogilvy.
+What was needed was a piece of pure fantasy. Suddenly, there sprang into his mind, ready made as it were, the image of a certain Comrade Ogilvy, who had recently died in battle, in heroic circumstances. There were occasions when Big Brother devoted his order for the day to commemorating some humble, rank-and-file party member whose life and death he held up as an example worthy to be followed. Today he should commemorate Comrade Ogilvy.
 
 It was true that there was no such person as Comrade Ogilvy, but a few lines of print and a couple of faked photographs would soon bring him into existence. Winston thought for a moment, then pulled the speak right towards him and began dictating in Big Brother’s familiar style. A style at once military and pedantic, and because of a trick of asking questions and then promptly answering
 
@@ -694,15 +706,15 @@ There was no way of knowing whose job would finally be adopted, but he felt a pr
 
 In the low-ceilinged canteen, deep underground, the lunch cue jerked slowly forward. The room was already very full and deafeningly noisy. From the grill at the counter the steam of stew came pouring forth, with a sour metallic smell which did not quite overcome the fumes of victory gin. On the far side of the room there was a small bar, a mere hole in the wall, where gin could be bought at ten cents, the large nip.
 
-“'Just the man I was looking for,' said a voice at Winston’s back. He turned round. It was his friend Syme, who worked in the research department. Perhaps friend was not exactly the right word.
+“'Just the man. I was looking for,' said a voice at Winston’s back. He turned round. It was his friend Syme, who worked in the research department.
 
-You did not have friends nowadays, you had comrades. But there were some comrades whose society was pleasanter than that of others. Syme was a philologist, a specialist in newspeak. Indeed, he was one of the enormous team of experts now engaged in compiling the eleventh edition of the Newspeak dictionary.
+Perhaps, friend was not exactly the right word. You did not have friends nowadays, you had comrades. But there were some comrades whose society was pleasanter than that of others. Syme was a philologist, a specialist in newspeak.
 
-He was a tiny creature, smaller than Winston, with dark hair and large, protuberant eyes, at once mournful and derisive, which seemed to search your face closely while he was speaking to you. ”'I wanted to ask you whether you’d got any razor blades,' he said. “'Not one,' said Winston, with a sort of guilty haste. ”'I’ve tried all over the place.
+Indeed, he was one of the enormous team of experts now engaged in compiling the eleventh edition of the Newspeak dictionary. He was a tiny creature, smaller than Winston, with dark hair and large, protuberant eyes, at once mournful and derisive, which seemed to search your face closely while he was speaking to you. ”'I wanted to ask you whether you’d got any razor blades,' he said.
 
-They don’t exist any longer.' “'Everyone kept asking you for razor blades. Actually, he had two unused ones which he was hoarding up. There had been a famine of them for months past. At any given moment there was some necessary article which the party shops were unable to supply.
+“'Not one,' said Winston, with a sort of guilty haste. ”'I’ve tried all over the place. They don’t exist any longer.' “'Everyone kept asking you for razor blades. Actually, he had two unused ones which he was hoarding up. There had been a famine of them for months past.
 
-Sometimes it was buttons, sometimes it was darning wool, sometimes it was shoelaces. At present it was razor blades. You could only get hold of them, if at all, by scrounging more or less furtively on the free market.' ”'I’ve been using the same blade for six weeks,' he added untruthfully.
+At any given moment there was some necessary article which the party shops were unable to supply. Sometimes it was buttons, sometimes it was darning wool, sometimes it was shoelaces. At present it was razor blades. You could only get hold of them, if at all, by scrounging more or less furtively on the free market.' ”'I’ve been using the same blade for six weeks,' he added untruthfully.
 
 
 <a id="sec-014045"></a>
@@ -728,11 +740,11 @@ From the table at Winston’s left, a little behind his back, someone was talkin
 
 We’re cutting the language down to the bone. The eleventh edition won’t contain a single word that will become obsolete before the year 2050.' He bit hungrily into his bread and swallowed a couple of mouthfuls, then continued speaking, with a sort of pedant’s passion. His thin, dark face had become animated. His eyes had lost their mocking expression and grown almost dreamy.
 
-It’s a beautiful thing, the destruction of words. Of course, the great wastage is in the verbs and adjectives, but there are hundreds of nouns that can be got rid of as well. It isn’t only the synonyms, there are also the antonyms. After all, what justification is there for a word which is simply the opposite of some other word? A word contains its opposite in itself.
+It’s a beautiful thing, the destruction of words. Of course, the great wastage is in the verbs and adjectives, but there are hundreds of nouns that can be got rid of as well. It isn’t only the synonyms, there are also the antonyms. After all, what justification is there for a word which is simply the opposite of some other word?
 
-Take good, for instance. If you have a word like good, what need is there for a word like bad? Ungood will do just as well, better because it’s an exact opposite which the other is not. Or, again, if you want a stronger version of good, what sense is there in having a whole string of vague, useless words like excellent and splendid and all the rest of them?
+A word contains its opposite in itself. Take good, for instance. If you have a word like good, what need is there for a word like bad? Ungood will do just as well, better because it’s an exact opposite which the other is not.
 
-Plus good covers the meaning, or double plus good if you want
+Or, again, if you want a stronger version of good, what sense is there in having a whole string of vague, useless words like excellent and splendid and all the rest of them? Plus good covers the meaning, or double plus good if you want
 
 
 <a id="sec-014547"></a>
@@ -750,19 +762,19 @@ Do you know that Newspeak is the only language in the world whose vocabulary get
 
 Syme bit off another fragment of the dark-colored bread, chewed it briefly, and went on. Don’t you see that the whole aim of Newspeak is to narrow the range of thought? In the end, we shall make thought-crime literally impossible. Because there will be no words in which to express it.
 
-Every concept that can ever be needed will be expressed by exactly one word, with its meaning rigidly defined, and all its subsidiary meanings rubbed out and forgotten. Already, in the 11th edition, we’re not far from that point, but the process will still be continuing long after you and I are dead. Every year, fewer and fewer words, and the range of consciousness always a little smaller. Even now, of course, there’s no reason or excuse for committing thought-crime.
+Every concept that can ever be needed will be expressed by exactly one word, with its meaning rigidly defined, and all its subsidiary meanings rubbed out and forgotten. Already, in the 11th edition, we’re not far from that point, but the process will still be continuing long after you and. I are dead. Every year, fewer and fewer words, and the range of consciousness always a little smaller.
 
-It’s merely a question of self-discipline, reality control. But in the end, there won’t be any need even for that. The revolution will be complete when the language is perfect. Newspeak is Ingsoc, and Ingsoc is Newspeak, he added, with a sort of mystical satisfaction.
+Even now, of course, there’s no reason or excuse for committing thought-crime. It’s merely a question of self-discipline, reality control. But in the end, there won’t be any need even for that. The revolution will be complete when the language is perfect.
 
-Has it ever occurred to you, Winston, that by the year 2050, at the very latest, not a single human being will be alive, who could understand such a conversation as we are having now? Except, began Winston doubtfully, and he stopped. It had been on the tip of his tongue to say, except the proles, but he checked himself, not feeling fully certain that this remark was not in some way unorthodox. Sime, however, had divined what he was about to say.
+Newspeak is Ingsoc, and Ingsoc is Newspeak, he added, with a sort of mystical satisfaction. Has it ever occurred to you, Winston, that by the year 2050, at the very latest, not a single human being will be alive, who could understand such a conversation as we are having now? Except, began Winston doubtfully, and he stopped. It had been on the tip of his tongue to say, except the proles, but he checked himself, not feeling fully certain that this remark was not in some way unorthodox.
 
-The proles are not human beings, he said carelessly. By 2050, earlier probably, all real knowledge of Oldspeak will have disappeared. The whole literature of the past will have been destroyed. Chaucer, Shakespeare, Milton, Byron, they’ll exist only in Newspeak versions, not merely changed into something different, but actually changed into something contradictory of what they used to be.
+Sime, however, had divined what he was about to say. The proles are not human beings, he said carelessly. By 2050, earlier probably, all real knowledge of Oldspeak will have disappeared. The whole literature of the past will have been destroyed.
 
-Even the literature of the party will change. Even the slogans will change. How could you have a slogan like freedom is slavery, when the concept of freedom has been abolished? The whole climate of thought will be different.
+Chaucer, Shakespeare, Milton, Byron, they’ll exist only in Newspeak versions, not merely changed into something different, but actually changed into something contradictory of what they used to be. Even the literature of the party will change. Even the slogans will change. How could you have a slogan like freedom is slavery, when the concept of freedom has been abolished?
 
-In fact, there will be no thought as we understand it now. Orthodoxy means not thinking, not needing to think. Orthodoxy is unconsciousness. One of these days, thought Winston with sudden deep conviction, Sime will be vaporized.
+The whole climate of thought will be different. In fact, there will be no thought as we understand it now. Orthodoxy means not thinking, not needing to think. Orthodoxy is unconsciousness.
 
-He is too intelligent. He sees too clearly and speaks too plainly. The party does not like such people.
+One of these days, thought Winston with sudden deep conviction, Sime will be vaporized. He is too intelligent. He sees too clearly and speaks too plainly. The party does not like such people.
 
 One day, he will disappear. It is written in his face. Winston had finished his bread and cheese. He turned a little sideways in his chair to drink his mug of coffee.
 
@@ -810,27 +822,31 @@ sweat. Beads of moisture stood out all over his pink face. His powers of sweatin
 
 Syme had produced a strip of paper on which there was a long column of words, and was studying it with an ink pencil between his fingers. Look at him working away in the lunch hour, said Parsons, nudging Winston. Keenness, eh? What’s that you’ve got there, old boy?
 
-Something a bit too brainy for me, I expect. Smith, old boy, I’ll tell you why I’m chasing you. It’s that sub you forgot to give me. Which sub is that? said Winston, automatically feeling for money.
+Something a bit too brainy for me, I expect. Smith, old boy, I’ll tell you why. I’m chasing you. It’s that sub you forgot to give me.
 
-About a quarter of one’s salary had to be earmarked for voluntary subscriptions, which were so numerous that it was difficult to keep track of them. For hate week. You know, the house by house fund. I’m treasurer for our block.
+Which sub is that? said Winston, automatically feeling for money. About a quarter of one’s salary had to be earmarked for voluntary subscriptions, which were so numerous that it was difficult to keep track of them. For hate week. You know, the house by house fund.
 
-We’re making an all-out effort, gonna put on a tremendous show. I tell you, it won’t be my fault if old Victory Mansions doesn’t have the biggest outfit of flags in the whole street. Two dollars, you promised me. Winston found and handed over two creased and filthy notes, which Parsons entered in a small notebook, in the neat handwriting of the illiterate.
+I’m treasurer for our block. We’re making an all-out effort, gonna put on a tremendous show. I tell you, it won’t be my fault if old Victory Mansions doesn’t have the biggest outfit of flags in the whole street. Two dollars, you promised me.
 
-By the way, old boy, he said, “I hear that little beggar of mine let fly at you with his catapult yesterday.” I gave him a good dressing down for it. In fact, I told him I’d take the catapult away if he does it again. I think he was a little upset at not going to the execution, said Winston. Ah, well, what I mean to say, shows the right spirit, doesn’t it?
+Winston found and handed over two creased and filthy notes, which Parsons entered in a small notebook, in the neat handwriting of the illiterate. By the way, old boy, he said, “I hear that little beggar of mine let fly at you with his catapult yesterday.”. I gave him a good dressing down for it.
 
-Mischievous little beggars they are, both of them. But talk about keenness. All they think about is the spies. And the war, of course.
+In fact, I told him. I’d take the catapult away if he does it again. I think he was a little upset at not going to the execution, said Winston. Ah, well, what.
 
-Do you know what that little girl of mine did last Saturday, when her troop was on a hike out Berkham Stedway? She got two other girls to go with her, slipped off from the hike, and spent the whole afternoon following a strange man. They kept on his tail for two hours, right through the woods. And then, when they got into Amisham, handed him over to the patrols.
+I mean to say, shows the right spirit, doesn’t it? Mischievous little beggars they are, both of them. But talk about keenness. All they think about is the spies.
 
-What did they do that for, said Winston, somewhat taken aback. Parsons went on triumphantly. My kid made sure he was some kind of enemy agent. Might have been dropped by parachute, for instance.
+And the war, of course. Do you know what that little girl of mine did last Saturday, when her troop was on a hike out Berkham Stedway? She got two other girls to go with her, slipped off from the hike, and spent the whole afternoon following a strange man. They kept on his tail for two hours, right through the woods.
 
-But here’s the point, old boy. What do you think put her on to him in the first place? She spotted he was wearing a funny kind of shoes. Said she’d never seen anyone wearing shoes like that before.
+And then, when they got into Amisham, handed him over to the patrols. What did they do that for, said Winston, somewhat taken aback. Parsons went on triumphantly. My kid made sure he was some kind of enemy agent.
 
-So the chances were he was a foreigner. Pretty smart for a nipper of seven, eh? What happened to the man? Said Winston.
+Might have been dropped by parachute, for instance. But here’s the point, old boy. What do you think put her on to him in the first place? She spotted he was wearing a funny kind of shoes.
 
-Ah, that I couldn’t say, of course. But I wouldn’t be altogether surprised if… Parsons made the motion of aiming a rifle, and clicked his tongue for the explosion. Good, said Sime abstractedly, without looking up from his strip of paper.
+Said she’d never seen anyone wearing shoes like that before. So the chances were he was a foreigner. Pretty smart for a nipper of seven, eh? What happened to the man?
 
-Of course we can’t afford to take chances, agreed Winston dutifully. What I mean to say, there is a war on, said Parsons. As though in confirmation of this, a trumpet call floated from the telescreen just above their heads.
+Said Winston. Ah, that. I couldn’t say, of course. But.
+
+I wouldn’t be altogether surprised if… Parsons made the motion of aiming a rifle, and clicked his tongue for the explosion. Good, said Sime abstractedly, without looking up from his strip of paper. Of course, we can’t afford to take chances, agreed Winston dutifully.
+
+What. I mean to say, there is a war on, said Parsons. As though in confirmation of this, a trumpet call floated from the telescreen just above their heads.
 
 However, it was not the proclamation of a military victory this time, but merely an announcement from the Ministry of Plenty. Comrades, cried an eager youthful voice. Attention, Comrades, we have glorious news for you. We have won the battle for production.
 
@@ -872,9 +888,11 @@ By the way, Smith, old boy, I suppose you haven’t got any razor blades you can
 <a id="sec-020557"></a>
 ### ⏱️ [02:05:57 - 02:10:58]
 
-Ah, well, just thought I’d ask you, old boy. Sorry, said Winston. The quacking voice from the next table, temporarily silenced during the Ministry’s announcement, had started up again, as loud as ever. For some reason, Winston suddenly found himself thinking of Mrs. Parsons, with her wispy hair and the dust in the creases of her face.
+Ah, well, just thought. I’d ask you, old boy. Sorry, said Winston. The quacking voice from the next table, temporarily silenced during the Ministry’s announcement, had started up again, as loud as ever.
 
-Within two years, those children would be denouncing her to the Thought Police. Mrs. Parsons would be vaporized. Sime would be vaporized. Winston would be vaporized. O’Brien would be vaporized.
+For some reason, Winston suddenly found himself thinking of Mrs. Parsons, with her wispy hair and the dust in the creases of her face. Within two years, those children would be denouncing her to the Thought Police. Mrs.
+
+Parsons would be vaporized. Sime would be vaporized. Winston would be vaporized. O’Brien would be vaporized.
 
 Parsons, on the other hand, would never be vaporized. The eyeless creature with the quacking voice would never be vaporized. The little beetle-like men, who scuttle so nimbly through the labyrinthine corridors of Ministries, they too would never be vaporized. And the girl with dark hair, the girl from the Fiction Department, she would never be vaporized either.
 
@@ -892,17 +910,19 @@ It was terribly dangerous to let your thoughts wander when you were in any publi
 
 To look incredulous when a victory was announced, for example. Was itself a punishable offence? There was even a word for it in Newspeak. Police crime, it was called.
 
-The girl had turned her back on him again. Perhaps after all she was not really following him about. Perhaps it was coincidence that she had sat so close to him two days running. His cigarette had gone out, and he laid it carefully on the edge of the table.
+The girl had turned her back on him again. Perhaps, after all she was not really following him about. Perhaps, it was coincidence that she had sat so close to him two days running. His cigarette had gone out, and he laid it carefully on the edge of the table.
 
 He would finish smoking it after work, if he could keep the tobacco in it. Quite likely the person at the next table was a spy of the Thought Police. And quite likely he would be in the cellars of the Ministry of Love within three days. But a cigarette end must not be wasted.
 
-Syme had folded up his strip of paper and stowed it away in his pocket. Parsons had begun talking again. Did I ever tell you, old boy, he said, chuckling round the stem of his pipe, about the time when those two nippers of mine set fire to the old market woman’s skirt because they saw her wrapping up sausages in a poster of Beebe, sneaked up behind her and set fire to it with a box of matches. Burned her quite badly, I believe.
+Syme had folded up his strip of paper and stowed it away in his pocket. Parsons had begun talking again. Did. I ever tell you, old boy, he said, chuckling round the stem of his pipe, about the time when those two nippers of mine set fire to the old market woman’s skirt because they saw her wrapping up sausages in a poster of Beebe, sneaked up behind her and set fire to it with a box of matches.
 
-Little beggars, eh? But keen as mustard. That’s a first-rate training they give them in the spies nowadays. Better than in my day, even.
+Burned her quite badly, I believe. Little beggars, eh? But keen as mustard. That’s a first-rate training they give them in the spies nowadays.
 
-What do you think’s the latest thing they’ve served them out with? Ear trumpets for listening through keyholes. My little girl brought one home the other night, tried it out on our sitting-room door, and reckoned she could hear twice as much as with her ear to the hole. Of course it’s only a toy, mind you.
+Better than in my day, even. What do you think’s the latest thing they’ve served them out with? Ear trumpets for listening through keyholes. My little girl brought one home the other night, tried it out on our sitting-room door, and reckoned she could hear twice as much as with her ear to the hole.
 
-Still, gives them the right idea, eh? At this moment the telescreen let out a piercing whistle. It was the signal to return to work. All three men sprang to their feet to join in the struggle round the lifts, and the remaining tobacco fell out of Winston’s cigarette.
+Of course, it’s only a toy, mind you. Still, gives them the right idea, eh? At this moment the telescreen let out a piercing whistle. It was the signal to return to work.
+
+All three men sprang to their feet to join in the struggle round the lifts, and the remaining tobacco fell out of Winston’s cigarette.
 
 #### Chapter 6 Winston was writing in his diary.
 
@@ -956,49 +976,51 @@ And what was strange was that even when she was clasping him against her, he had
 
 But even then he could have borne living with her if it had been agreed that they should remain celibate. But curiously enough it was Catherine who refused this. They must, she said, produce a child if they could. So the performance continued to happen once a week quite regularly, whenever it was not impossible.
 
-She even used to remind him of it in the morning as something which had to be done that evening and which must not be forgotten. She had two names for it. One was Making a Baby, and the other was Our Duty to the Party. Yes, she had actually used that phrase.
+She even used to remind him of it in the morning as something which had to be done that evening and which must not be forgotten. She had two names for it. One was Making a Baby, and the other was. Our Duty to the Party.
 
-Quite soon he grew to have a feeling of positive dread when the appointed day came round. But luckily no child appeared, and in the end she agreed to give up trying, and soon afterwards they parted. Winston sighed inaudibly. He picked up his pen again and wrote.
+Yes, she had actually used that phrase. Quite soon he grew to have a feeling of positive dread when the appointed day came round. But luckily no child appeared, and in the end she agreed to give up trying, and soon afterwards they parted. Winston sighed inaudibly.
 
-She threw herself down on the bed and at once, without any kind of preliminary, in the most coarse, horrible way you can imagine, pulled up her skirt, I… He saw himself standing there in the dim lamplight, with the smell of bugs and cheap scent in his nostrils, and in his heart a feeling of defeat and resentment, which even at that moment was mixed up with the thought of Catherine’s white body, frozen forever by the hypnotic power of the party. Why did it always have to be like this?
+He picked up his pen again and wrote. She threw herself down on the bed and at once, without any kind of preliminary, in the most coarse, horrible way you can imagine, pulled up her skirt, I… He saw himself standing there in the dim lamplight, with the smell of bugs and cheap scent in his nostrils, and in his heart a feeling of defeat and resentment, which even at that moment was mixed up with the thought of Catherine’s white body, frozen forever by the hypnotic power of the party.
 
-Why could he not have a woman of his own instead of these filthy scuffles at intervals of years? But a real love affair was an almost unthinkable event. The women of the party were all alike. Chastity was as deep ingrained in them as party loyalty, by careful early conditioning, by games and cold water, by the rubbish that was dimmed into them at school and in the spies and the youth league, by lectures, parades, songs, slogans, and martial music.
+Why did it always have to be like this? Why could he not have a woman of his own instead of these filthy scuffles at intervals of years? But a real love affair was an almost unthinkable event. The women of the party were all alike.
 
-The natural feeling had been driven out of them. His reason told him that there must be exceptions, but his heart did not believe it. They were all impregnable as the party intended that they should be, and what he wanted, more even than to be loved, was to break down that wall of virtue, even if it were only once in his whole life. The sexual act, successfully performed, was rebellion.
+Chastity was as deep ingrained in them as party loyalty, by careful early conditioning, by games and cold water, by the rubbish that was dimmed into them at school and in the spies and the youth league, by lectures, parades, songs, slogans, and martial music. The natural feeling had been driven out of them. His reason told him that there must be exceptions, but his heart did not believe it. They were all impregnable as the party intended that they should be, and what he wanted, more even than to be loved, was to break down that wall of virtue, even if it were only once in his whole life.
 
-Desire was thought crime. Even to have awakened Catherine, if he could have achieved it, would
+The sexual act, successfully performed, was rebellion. Desire was thought crime. Even to have awakened Catherine, if he could have achieved it, would
 
 
 <a id="sec-022103"></a>
 ### ⏱️ [02:21:03 - 02:26:03]
 
-have been like a seduction, although she was his wife. But the rest of the story had got to be written down. He wrote, I turned up the lamp, when I saw her in the light. After the darkness, the feeble light of the paraffin lamp had seemed very bright, for the first time he could see the woman properly.
+have been like a seduction, although she was his wife. But the rest of the story had got to be written down. He wrote, I turned up the lamp, when. I saw her in the light.
 
-He had taken a step towards her, and then halted, full of lust and terror. He was painfully conscious of the risk he had taken in coming here. It was perfectly possible that the patrols would catch him on the way out. For that matter, they might be waiting outside the door at this moment.
+After the darkness, the feeble light of the paraffin lamp had seemed very bright, for the first time he could see the woman properly. He had taken a step towards her, and then halted, full of lust and terror. He was painfully conscious of the risk he had taken in coming here. It was perfectly possible that the patrols would catch him on the way out.
 
-If he went away, without even doing what he had come here to do. It had got to be written down. It had got to be confessed. What he had suddenly seen in the lamplight was that the woman was old.
+For that matter, they might be waiting outside the door at this moment. If he went away, without even doing what he had come here to do. It had got to be written down. It had got to be confessed.
 
-The paint was plastered so thick on her face that it looked as though it might crack like a cardboard mask. There were streaks of white in her hair, but the truly dreadful detail was that her mouth had fallen a little open, revealing nothing except a cavernous blackness. She had no teeth at all. He wrote hurriedly in scrabbling handwriting.
+What he had suddenly seen in the lamplight was that the woman was old. The paint was plastered so thick on her face that it looked as though it might crack like a cardboard mask. There were streaks of white in her hair, but the truly dreadful detail was that her mouth had fallen a little open, revealing nothing except a cavernous blackness. She had no teeth at all.
 
-When I saw her in the light she was quite an old woman, fifty years old at least. But I went ahead and did it just the same. He pressed his fingers against his eyelids again. He had written it down at last, but it made no difference.
+He wrote hurriedly in scrabbling handwriting. When. I saw her in the light she was quite an old woman, fifty years old at least. But.
 
-The therapy had not worked. The urge to shout filthy words at the top of his voice was as strong as ever.
+I went ahead and did it just the same. He pressed his fingers against his eyelids again. He had written it down at last, but it made no difference. The therapy had not worked.
 
-#### Chapter 7. If there is hope, wrote Winston, it lies in the proles. If there was hope, it must lie in the proles, because only there, in those swarming, disregarded masses, eighty-five percent of the population of Oceania, could the force to destroy the party ever be generated.
+The urge to shout filthy words at the top of his voice was as strong as ever.
 
-The party could not be overthrown from within, its enemies, if it had any enemies, had no way of coming together or even of identifying one another. Even if the legendary brotherhood existed as just possibly it might, it was inconceivable that its members could ever assemble in larger numbers than twos and threes. Rebellion meant a look in the eyes, an inflection of the voice, at the most an occasional whispered word. But the proles, if only they could somehow become conscious of their own strength, would have no need to conspire.
+#### Chapter 7. If there is hope, wrote Winston, it lies in the proles. If there was hope, it must lie in the proles, because only there, in those swarming, disregarded masses, eighty-five percent of the population of Oceania, could the force to destroy the party ever be generated. The party could not be overthrown from within, its enemies, if it had any enemies, had no way of coming together or even of identifying one another.
 
-They needed only to rise up and shake themselves like a horse shaking off flies. If they chose, they could blow the party to pieces tomorrow morning. Surely, sooner or later it must occur to them to do it. And yet, he remembered how once he had been walking down a crowded street when a tremendous shout of hundreds of voices, women’s voices, had burst from a side street a little way ahead.
+Even if the legendary brotherhood existed as just possibly it might, it was inconceivable that its members could ever assemble in larger numbers than twos and threes. Rebellion meant a look in the eyes, an inflection of the voice, at the most an occasional whispered word. But the proles, if only they could somehow become conscious of their own strength, would have no need to conspire. They needed only to rise up and shake themselves like a horse shaking off flies.
 
-It was a great formidable cry of anger and despair, a deep loud, oh, oh, oh, oh, oh, that went humming on like the reverberation of a bell. His heart had leapt. It started, he had thought, a riot, the proles are breaking loose at last. When he had reached the spot, it was to see a mob of two or three hundred women crowding round the stalls of a street market, with faces as tragic as though they had been the doomed passengers on a sinking ship.
+If they chose, they could blow the party to pieces tomorrow morning. Surely, sooner or later it must occur to them to do it. And yet, he remembered how once he had been walking down a crowded street when a tremendous shout of hundreds of voices, women’s voices, had burst from a side street a little way ahead. It was a great formidable cry of anger and despair, a deep loud, oh, oh, oh, oh, oh, that went humming on like the reverberation of a bell.
 
-But at this moment, the general despair broke down into a multitude of individual quarrels. It appeared that one of the stalls had been selling tin saucepans. They were wretched, flimsy things, but cooking pots of any kind were always difficult to get. Now the supply had unexpectedly given out.
+His heart had leapt. It started, he had thought, a riot, the proles are breaking loose at last. When he had reached the spot, it was to see a mob of two or three hundred women crowding round the stalls of a street market, with faces as tragic as though they had been the doomed passengers on a sinking ship. But at this moment, the general despair broke down into a multitude of individual quarrels.
 
-The successful women, bumped and jostled by the rest, were trying to make off with their saucepans while dozens of others clamoured round the stall, accusing the stallkeeper of favouritism and of having more saucepans somewhere in reserve. There was a fresh outburst of yells. Two bloated women, one of them with her hair coming down, had got hold of the same saucepan and were trying to tear it out of one another’s hands. For a moment, they were both tugging, and then the handle came off.
+It appeared that one of the stalls had been selling tin saucepans. They were wretched, flimsy things, but cooking pots of any kind were always difficult to get. Now the supply had unexpectedly given out. The successful women, bumped and jostled by the rest, were trying to make off with their saucepans while dozens of others clamoured round the stall, accusing the stallkeeper of favouritism and of having more saucepans somewhere in reserve.
 
-Winston watched them disgustedly. And yet, just for a moment, what almost frightening power had sounded in that cry from only a few hundred throats, why was it that they could never shout like that about anything that mattered?
+There was a fresh outburst of yells. Two bloated women, one of them with her hair coming down, had got hold of the same saucepan and were trying to tear it out of one another’s hands. For a moment, they were both tugging, and then the handle came off. Winston watched them disgustedly.
 
-He wrote, “'Until they become conscious, they will never rebel. And until after they have rebelled, they cannot become conscious.'” That, he reflected, might almost have been a transcription from one of the party textbooks. The party claimed, of course, to have liberated the proles from bondage. Before the revolution, they had been hideously oppressed by the capitalists.
+And yet, just for a moment, what almost frightening power had sounded in that cry from only a few hundred throats, why was it that they could never shout like that about anything that mattered? He wrote, “'Until they become conscious, they will never rebel. And until after they have rebelled, they cannot become conscious.'”. That, he reflected, might almost have been a transcription from one of the party textbooks.
+
+The party claimed, of course, to have liberated the proles from bondage. Before the revolution, they had been hideously oppressed by the capitalists.
 
 
 <a id="sec-022603"></a>
@@ -1022,9 +1044,9 @@ In all questions of morals, they were allowed to follow their ancestral code. Th
 
 For that matter, even religious worship would have been permitted if the proles had shown any sign of needing or wanting it. They were beneath suspicion. As the party slogan put it, proles and animals are free. Winston reached down and cautiously scratched his varicose ulcer.
 
-It had begun itching again. The thing you invariably came back to was the impossibility of knowing what life before the revolution had really been like. He took out of the drawer a copy of a children’s history textbook which he had borrowed from Mrs. Parsons and began copying a passage into the diary. In the old days, it ran.
+It had begun itching again. The thing you invariably came back to was the impossibility of knowing what life before the revolution had really been like. He took out of the drawer a copy of a children’s history textbook which he had borrowed from Mrs. Parsons and began copying a passage into the diary.
 
-Before the glorious revolution, London was not the beautiful city that we know today. It was a dark, dirty, miserable place where hardly anybody had enough to eat and where hundreds and thousands of poor people had no boots on their feet and not even a roof to sleep under. Children no older than you had to work 12 hours a day for cruel masters who flogged them with whips if they worked too slowly and fed them on nothing but stale breadcrusts and water.
+In the old days, it ran. Before the glorious revolution, London was not the beautiful city that we know today. It was a dark, dirty, miserable place where hardly anybody had enough to eat and where hundreds and thousands of poor people had no boots on their feet and not even a roof to sleep under. Children no older than you had to work 12 hours a day for cruel masters who flogged them with whips if they worked too slowly and fed them on nothing but stale breadcrusts and water.
 
 But in among all this terror horrible poverty, there were just a few great big beautiful houses that were lived in by rich men, who had as many as thirty servants to look after them. These rich men were called capitalists. They were fat, ugly men with wicked faces, like the one in the picture on the opposite page. You can see that he’s dressed in a long black coat which was called a frock coat, and a queer, shiny hat shaped like a stovepipe, which was called a top hat.
 
@@ -1038,23 +1060,23 @@ When any ordinary person spoke to a capitalist, he had to cringe and bow to him,
 
 lawn sleeves, the judges in their ermine robes, the pillory, the stocks, the treadmill, the catenine tails, the Lord Mayor’s banquet, and the practice of kissing the Pope’s toe. There was also something called the jus primae noctis, which would probably not be mentioned in a textbook for children. It was the law by which every capitalist had the right to sleep with any woman working in one of his factories. How could you tell how much of it was lies?
 
-It might be true that the average human being was better off now than he had been before the revolution. The only evidence to the contrary was the mute protest in your own bones, the instinctive feeling that the conditions you lived in were intolerable, and that at some other time they must have been different. It struck him that the truly characteristic thing about modern life was not its cruelty and insecurity, but simply its bareness, its dinginess, its listlessness. Life, if you looked about you, bore no resemblance not only to the lies that streamed out of the telly screens, but even to the ideals that the party was trying to achieve.
+It might be true that the average human being was better off now than he had been before the revolution. The only evidence to the contrary was the mute protest in your own bones, the instinctive feeling that the conditions you lived in were intolerable, and that at some other time they must have been different. It struck him that the truly characteristic thing about modern life was not its cruelty and insecurity, but simply its bareness, its dinginess, its listlessness.
 
-Great areas of it, even for a party member, were neutral and non-political, a matter of slogging through dreary jobs, fighting for a place on the tube, darning a worn-out sock, caging a saccharine tablet, saving a cigarette end. The ideal set up by the party was something huge, terrible, and glittering, a world of steel and concrete, of monstrous machines and terrifying weapons, a nation of warriors and fanatics, marching forward in perfect unity, all thinking the same thoughts and shouting the same slogans, perpetually working, fighting, triumphing, persecuting, three hundred million people, all with the same face.
+Life, if you looked about you, bore no resemblance not only to the lies that streamed out of the telly screens, but even to the ideals that the party was trying to achieve. Great areas of it, even for a party member, were neutral and non-political, a matter of slogging through dreary jobs, fighting for a place on the tube, darning a worn-out sock, caging a saccharine tablet, saving a cigarette end. The ideal set up by the party was something huge, terrible, and glittering, a world of steel and concrete, of monstrous machines and terrifying weapons, a nation of warriors and fanatics, marching forward in perfect unity, all thinking the same thoughts and shouting the same slogans, perpetually working, fighting, triumphing, persecuting, three hundred million people, all with the same face.
 
-The reality was decaying, dingy cities where underfed people shuffled to and fro in leaky shoes, in patched-up nineteenth-century houses that smelt always of cabbage and bad lavatories. He seemed to see a vision of London, vast and ruinous, city of a million dustbins, and mixed up with it was a picture of Mrs. Parsons, a woman with lined face and wispy hair, fiddling helplessly with a blocked waistpipe. He reached down and scratched his ankle again. Day and night the telescreens bruised your ears with statistics proving that people today had more food, more clothes, better houses, better recreations, that they lived longer, worked shorter hours, were bigger, healthier, stronger, happier, more intelligent, better educated than the people of fifty years ago.
+The reality was decaying, dingy cities where underfed people shuffled to and fro in leaky shoes, in patched-up nineteenth-century houses that smelt always of cabbage and bad lavatories. He seemed to see a vision of London, vast and ruinous, city of a million dustbins, and mixed up with it was a picture of Mrs. Parsons, a woman with lined face and wispy hair, fiddling helplessly with a blocked waistpipe. He reached down and scratched his ankle again.
 
-Not a word of it could ever be proved or disproved. The party claimed, for example, that today forty percent of adult proles were literate. Before the Revolution it was said the number had only been fifteen percent. The party claimed that the infant mortality rate was now only one hundred and sixty per thousand, whereas before the Revolution it had been three hundred, and so it went on.
+Day and night the telescreens bruised your ears with statistics proving that people today had more food, more clothes, better houses, better recreations, that they lived longer, worked shorter hours, were bigger, healthier, stronger, happier, more intelligent, better educated than the people of fifty years ago. Not a word of it could ever be proved or disproved. The party claimed, for example, that today forty percent of adult proles were literate. Before the Revolution it was said the number had only been fifteen percent.
 
-It was like a single equation with two unknowns. It might very well be that literally every word in the history books, even the things that one accepted without question, was pure fantasy. For all he knew, there might never have been any such law as the Euseprime Noctis, or any such creature as a capitalist, or any such garment as a top hat. Everything faded into mist.
+The party claimed that the infant mortality rate was now only one hundred and sixty per thousand, whereas before the Revolution it had been three hundred, and so it went on. It was like a single equation with two unknowns. It might very well be that literally every word in the history books, even the things that one accepted without question, was pure fantasy. For all he knew, there might never have been any such law as the Euseprime Noctis, or any such creature as a capitalist, or any such garment as a top hat.
 
-The past was erased, the erasure was forgotten, the lie became truth. Just once in his life he had possessed. After the event, that was what counted, concrete, unmistakable evidence of an act of falsification. He had held it between his fingers for as long as thirty seconds.
+Everything faded into mist. The past was erased, the erasure was forgotten, the lie became truth. Just once in his life he had possessed. After the event, that was what counted, concrete, unmistakable evidence of an act of falsification.
 
-In 1973, it must have been. At any rate, it was at about the time when he and Catherine had parted. But the really relevant date was seven or eight years earlier. The story really began in the middle sixties, the period of the great purges in which the original leaders of the Revolution were wiped out once and for all.
+He had held it between his fingers for as long as thirty seconds. In 1973, it must have been. At any rate, it was at about the time when he and Catherine had parted. But the really relevant date was seven or eight years earlier.
 
-By 1970, none of them was left, except Big Brother himself. All the rest had by that time been exposed as traitors and counter-revolutionaries. Goldstein had fled and was hiding no one knew where, and of the others, a few had simply disappeared, while the majority had been executed after spectacular public trials at which they made confession of their crimes. Among the last survivors were three men named Jones, Aronson, and Rutherford.
+The story really began in the middle sixties, the period of the great purges in which the original leaders of the Revolution were wiped out once and for all. By 1970, none of them was left, except Big Brother himself. All the rest had by that time been exposed as traitors and counter-revolutionaries. Goldstein had fled and was hiding no one knew where, and of the others, a few had simply disappeared, while the majority had been executed after spectacular public trials at which they made confession of their crimes.
 
-It must have been in 1965 that these three had been arrested. As often happened, they had vanished for a year or more, so that one did not know whether they were alive or dead, and then had suddenly been brought forth
+Among the last survivors were three men named Jones, Aronson, and Rutherford. It must have been in 1965 that these three had been arrested. As often happened, they had vanished for a year or more, so that one did not know whether they were alive or dead, and then had suddenly been brought forth
 
 
 <a id="sec-023610"></a>
@@ -1106,7 +1128,7 @@ Was the party’s hold upon the past less strong, he wondered, because a piece o
 
 Two, three, he could not remember how many. Very likely, the confessions had been rewritten and rewritten until the original facts and dates no longer had the smallest significance. The past not only changed, but changed continuously. What most afflicted him with the sense of nightmare was that he had never had a sense of sense of sense of sense. never clearly understood why the huge imposture was undertaken.
 
-The immediate advantages of falsifying the past were obvious, but the ultimate motive was mysterious. He took up his pen again and wrote, I understand how, I do not understand why. He wondered, as he had many times wondered before, whether he himself was a lunatic. Perhaps a lunatic was simply a minority of one.
+The immediate advantages of falsifying the past were obvious, but the ultimate motive was mysterious. He took up his pen again and wrote, I understand how, I do not understand why. He wondered, as he had many times wondered before, whether he himself was a lunatic. Perhaps, a lunatic was simply a minority of one.
 
 At one time it had been a sign of madness to believe that the earth goes round the sun, today to believe that the past is unalterable. He might be alone in holding that belief, and if alone, then a lunatic. But the thought of being a lunatic did not greatly trouble him. The horror was that he might also be wrong.
 
@@ -1118,87 +1140,89 @@ He picked up the children’s history book and looked at the portrait of Big Bro
 
 In the end the party would announce that two and two made five, and you would have to believe it. It was inevitable that they should make that claim sooner or later. The logic of their position demanded it, not merely the validity of experience, but the very existence of external reality was tacitly denied by their philosophy. The heresy of heresies was common sense, and what was terrifying was not that they would kill you for thinking otherwise, but that they might be right, for after all, how do we know that two and two make four, or that the force of gravity works, or that the past is unchangeable?
 
-If both the past and the external world exist only in the mind, and if the mind itself is controllable, what then? But no. His courage seemed suddenly to stiffen of its own accord. The face of O’Brien, not called up by any obvious association, had floated into his mind. He knew with more certainty than before that O’Brien was on his side.
+If both the past and the external world exist only in the mind, and if the mind itself is controllable, what then? But no. His courage seemed suddenly to stiffen of its own accord. The face of O’Brien, not called up by any obvious association, had floated into his mind.
 
-He was writing the diary for O’Brien. To O’Brien. It was like an interminable letter which no one would ever read, but which was addressed to a particular person and took its colour from that fact. The party told you to reject the evidence of your eyes and ears.
+He knew with more certainty than before that O’Brien was on his side. He was writing the diary for O’Brien. To O’Brien. It was like an interminable letter which no one would ever read, but which was addressed to a particular person and took its colour from that fact.
 
-It was their final, most essential command. His heart sank as he thought of the enormous power arrayed against him. The ease with which any party intellectual would overthrow him in debate. The subtle arguments which he would not be able to understand, much less answer.
+The party told you to reject the evidence of your eyes and ears. It was their final, most essential command. His heart sank as he thought of the enormous power arrayed against him. The ease with which any party intellectual would overthrow him in debate.
 
-And yet he was in the right. They were wrong, and he was right. The obvious, the silly, and the true had got to be defended. Truisms are true, hold on to that.
+The subtle arguments which he would not be able to understand, much less answer. And yet he was in the right. They were wrong, and he was right. The obvious, the silly, and the true had got to be defended.
 
-The solid world exists, its laws do not change. Truisms are hard, water is wet, objects unsupported fall towards the earth’s centre. With the feeling that he was speaking to O’Brien, and also that he was setting forth an important axiom, he wrote, freedom is the freedom to say that two plus two make four. If that is granted, all else follows.
+Truisms are true, hold on to that. The solid world exists, its laws do not change. Truisms are hard, water is wet, objects unsupported fall towards the earth’s centre. With the feeling that he was speaking to O’Brien, and also that he was setting forth an important axiom, he wrote, freedom is the freedom to say that two plus two make four.
 
-#### Chapter 8 From somewhere at the bottom of a passage the smell of roasting coffee, real coffee, not victory coffee, came floating out into the street.
+If that is granted, all else follows.
 
-Winston paused involuntarily, for perhaps two seconds he was back in the half forgotten world of his childhood. Then a door banged, seeming to cut off the smell as abruptly as though it had been a sound. He had walked several kilometres over pavements, and his varicose ulcer was throbbing. This was the second time in three weeks that he had missed an evening at the community centre.
+#### Chapter 8. From somewhere at the bottom of a passage the smell of roasting coffee, real coffee, not victory coffee, came floating out into the street. Winston paused involuntarily, for perhaps two seconds he was back in the half forgotten world of his childhood. Then a door banged, seeming to cut off the smell as abruptly as though it had been a sound.
 
-A rash act, since you could be certain that the number of your attendances at the centre was carefully checked. In principle a party member had no spare time, and was never alone except in bed. It was assumed that when he was not working, eating, or sleeping, he would be taking part in some kind of communal recreation, to do anything that suggested a taste for solitude, and to go for a walk by yourself, was always slightly dangerous. There was a word for it in Newspeak, own life, it was called, meaning individualism and eccentricity.
+He had walked several kilometres over pavements, and his varicose ulcer was throbbing. This was the second time in three weeks that he had missed an evening at the community centre. A rash act, since you could be certain that the number of your attendances at the centre was carefully checked. In principle a party member had no spare time, and was never alone except in bed.
 
-But this evening, as he came out of the ministry, the balmyness of the April air had tempted him. The sky was a warmer blue than he had seen it that year, and suddenly the long noisy evening at the centre, the boring, exhausting games, the lectures, the creaking camaraderie oiled by gin, had seemed intolerable. On impulse he had turned away from the bus stop, and wandered off into the labyrinth of London, first south, then east, then north again, losing himself among unknown streets, and hardly bothering in which direction he was going.
+It was assumed that when he was not working, eating, or sleeping, he would be taking part in some kind of communal recreation, to do anything that suggested a taste for solitude, and to go for a walk by yourself, was always slightly dangerous. There was a word for it in Newspeak, own life, it was called, meaning individualism and eccentricity. But this evening, as he came out of the ministry, the balmyness of the April air had tempted him.
 
-If there is hope, he had written in the diary, it lies in the proles. The words kept coming back to him, statement of a mystical truth and a palpable absurdity. He was somewhere in the vague, brown-coloured slums to the north and east of what had once been St Pancras station. He was walking up a cobbled street of little two-storey houses with battered doorways which gave straight on the pavement, and which was somehow curiously suggestive of wrath-holays.
+The sky was a warmer blue than he had seen it that year, and suddenly the long noisy evening at the centre, the boring, exhausting games, the lectures, the creaking camaraderie oiled by gin, had seemed intolerable. On impulse he had turned away from the bus stop, and wandered off into the labyrinth of London, first south, then east, then north again, losing himself among unknown streets, and hardly bothering in which direction he was going. If there is hope, he had written in the diary, it lies in the proles.
 
-There were puddles of filthy water here and there among the cobbles. In and out of the dark doorways and down narrow alleyways that branched off on either side, people swarmed in astonishing numbers, girls in full bloom with crudely lip-sticked mouths,
+The words kept coming back to him, statement of a mystical truth and a palpable absurdity. He was somewhere in the vague, brown-coloured slums to the north and east of what had once been St Pancras station. He was walking up a cobbled street of little two-storey houses with battered doorways which gave straight on the pavement, and which was somehow curiously suggestive of wrath-holays. There were puddles of filthy water here and there among the cobbles.
+
+In and out of the dark doorways and down narrow alleyways that branched off on either side, people swarmed in astonishing numbers, girls in full bloom with crudely lip-sticked mouths,
 
 
 <a id="sec-025117"></a>
 ### ⏱️ [02:51:17 - 02:56:21]
 
-and youths who chased the girls, and swollen waddling women who showed you what the girls would be like in ten years' time, and old bent creatures shuffling along on splayed feet and ragged barefooted children who played in the puddles, and then scattered at angry yells from their mothers. Perhaps a quarter of the windows in the street were broken and boarded up. Most of the people paid no attention to Winston. A few eyed him with a sort of guarded curiosity.
+and youths who chased the girls, and swollen waddling women who showed you what the girls would be like in ten years' time, and old bent creatures shuffling along on splayed feet and ragged barefooted children who played in the puddles, and then scattered at angry yells from their mothers. Perhaps, a quarter of the windows in the street were broken and boarded up. Most of the people paid no attention to Winston. A few eyed him with a sort of guarded curiosity.
 
-Two monstrous women with brick-red forearms folded across their aprons were talking outside a doorway. Winston caught scraps of conversation as he approached. Yes, I says to her, that’s all very well, I says. But if you’d have been in my place, you’d have done the same as what I’d done.
+Two monstrous women with brick-red forearms folded across their aprons were talking outside a doorway. Winston caught scraps of conversation as he approached. Yes, I says to her, that’s all very well, I says. But if you’d have been in my place, you’d have done the same as what.
 
-It’s easy to criticise, I says. But you ain’t got the same problems as what I got." Ah, said the other, that’s just it, that’s just where it is. The strident voices stopped abruptly. The women studied him in hostile silence as he went past.
+I’d done. It’s easy to criticise, I says. But you ain’t got the same problems as what. I got." Ah, said the other, that’s just it, that’s just where it is.
 
-But it was not hostility exactly, merely a kind of weariness, a momentary stiffening as at the passing of some unfamiliar animal. The blue overalls of the party could not be a common sight in a street like this. Indeed, it was unwise to be seen in such places, unless you had definite business there. The patrols might stop you if you happen to run into them.
+The strident voices stopped abruptly. The women studied him in hostile silence as he went past. But it was not hostility exactly, merely a kind of weariness, a momentary stiffening as at the passing of some unfamiliar animal. The blue overalls of the party could not be a common sight in a street like this.
 
-May I see your papers, Comrade? What are you doing here? What time did you leave work? Is this your usual way home?
+Indeed, it was unwise to be seen in such places, unless you had definite business there. The patrols might stop you if you happen to run into them. May. I see your papers, Comrade?
 
-And so on and so forth. Not that there was any rule against walking home by an unusual route, but it was enough to draw attention to you if the thought police heard about it.
+What are you doing here? What time did you leave work? Is this your usual way home? And so on and so forth.
 
-Suddenly the whole street was in commotion. There were yells of warning from all sides. People were shooting into the doorways like rabbits. A young woman leapt out of a doorway a little ahead of Winston, grabbed up a tiny child playing in a puddle, whipped her apron round it, and leapt back again, all in one movement.
+Not that there was any rule against walking home by an unusual route, but it was enough to draw attention to you if the thought police heard about it. Suddenly, the whole street was in commotion. There were yells of warning from all sides. People were shooting into the doorways like rabbits.
 
-At the same instant, a man in a concertina-like black suit, who had emerged from a side alley, ran towards Winston, pointing excitedly to the sky. Steamer, he yelled, look out, Governor, bang over Ed, lay down quick. Steamer was a nickname which, for some reason, the proles applied to rocket bombs. Winston promptly flung himself on his face.
+A young woman leapt out of a doorway a little ahead of Winston, grabbed up a tiny child playing in a puddle, whipped her apron round it, and leapt back again, all in one movement. At the same instant, a man in a concertina-like black suit, who had emerged from a side alley, ran towards Winston, pointing excitedly to the sky. Steamer, he yelled, look out, Governor, bang over Ed, lay down quick. Steamer was a nickname which, for some reason, the proles applied to rocket bombs.
 
-The proles were nearly always right when they gave you a warning of this kind. They seemed to possess some kind of instinct, which told them several seconds in advance when a rocket was coming, although the rocket supposedly travelled faster than sound. Winston clasped his forearms above his head. There was a roar that seemed to make the pavement heave, a shower of light objects patted onto his back.
+Winston promptly flung himself on his face. The proles were nearly always right when they gave you a warning of this kind. They seemed to possess some kind of instinct, which told them several seconds in advance when a rocket was coming, although the rocket supposedly travelled faster than sound. Winston clasped his forearms above his head.
 
-When he stood up, he found that he was covered with fragments of glass from the nearest window. He walked on. The bomb had demolished a group of houses 200 metres up the street. A black plume of smoke hung in the sky, and below it a cloud of plaster dust in which a crowd was already forming around the ruins.
+There was a roar that seemed to make the pavement heave, a shower of light objects patted onto his back. When he stood up, he found that he was covered with fragments of glass from the nearest window. He walked on. The bomb had demolished a group of houses 200 metres up the street.
 
-There was a little pile of plaster lying on the pavement ahead of him, and in the middle of it he could see a bright red streak. When he got up to it, he saw that it was a human hand severed at the wrist. Apart from the bloody stump, the hand was so completely whitened as to resemble a plaster cast. He kicked the thing into the gutter, and then to avoid the crowd turned down a side street to the right.
+A black plume of smoke hung in the sky, and below it a cloud of plaster dust in which a crowd was already forming around the ruins. There was a little pile of plaster lying on the pavement ahead of him, and in the middle of it he could see a bright red streak. When he got up to it, he saw that it was a human hand severed at the wrist. Apart from the bloody stump, the hand was so completely whitened as to resemble a plaster cast.
 
-Within three or four minutes he was out of the area which the bomb had affected, and the sordid, swarming life of the streets was going on as though nothing had happened. It was nearly twenty hours, and the drinking shops which the proles frequented, pubs they called them, were choked with customers. From their grimy swing doors, endlessly opening and shutting, there came forth the smell of urine, sawdust, and sour beer. In an angle formed by a projecting house front, three men were standing very close together, the middle one of them holding a folded-up newspaper which the other two were studying over his shoulder.
+He kicked the thing into the gutter, and then to avoid the crowd turned down a side street to the right. Within three or four minutes he was out of the area which the bomb had affected, and the sordid, swarming life of the streets was going on as though nothing had happened. It was nearly twenty hours, and the drinking shops which the proles frequented, pubs they called them, were choked with customers. From their grimy swing doors, endlessly opening and shutting, there came forth the smell of urine, sawdust, and sour beer.
 
-Even before he was near enough to make out the expression on their faces, Winston could see absorption in every line of their bodies. It was obviously some serious piece of news that they were reading. He was a few paces away from them when suddenly the group broke up, and two of the men were in violent altercation. For a moment they seemed almost on the point of blows.
+In an angle formed by a projecting house front, three men were standing very close together, the middle one of them holding a folded-up newspaper which the other two were studying over his shoulder. Even before he was near enough to make out the expression on their faces, Winston could see absorption in every line of their bodies. It was obviously some serious piece of news that they were reading. He was a few paces away from them when suddenly the group broke up, and two of the men were in violent altercation.
 
-Can’t you bleeding well listen to what I say? I tell you no number ending in seven ain’t one for over fourteen months. Yes, it has then. No, it has not.
+For a moment they seemed almost on the point of blows. Can’t you bleeding well listen to what. I say? I tell you no number ending in seven ain’t one for over fourteen months.
 
-Back home I got the old lot of them for over two years wrote down on a piece of paper.
+Yes, it has then. No, it has not. Back home. I got the old lot of them for over two years wrote down on a piece of paper.
 
 
 <a id="sec-025621"></a>
 ### ⏱️ [02:56:21 - 03:01:24]
 
-I take some down regular as the clock. And I tell you, no number ending in seven. Yes, a seven as one. I could pretty near tell you the bleeding number, 407 it ended in.
+I take some down regular as the clock. And. I tell you, no number ending in seven. Yes, a seven as one.
 
-It were in February, second week in February. February, your grandmother, I got it all down in black and white. And I tell you, no number. Oh, pack it in, said the third man.
+I could pretty near tell you the bleeding number, 407 it ended in. It were in February, second week in February. February, your grandmother, I got it all down in black and white. And.
 
-They were talking about the lottery. Winston looked back when he had gone 30 meters. They were still arguing with vivid, passionate faces. The lottery, with its weekly payout of enormous prizes, was the one public event to which the proles paid serious attention.
+I tell you, no number. Oh, pack it in, said the third man. They were talking about the lottery. Winston looked back when he had gone 30 meters.
 
-It was probable that there were some millions of proles for whom the lottery was the principal, if not the only reason, for remaining alive. It was their delight, their folly, their anodyne, their intellectual stimulant. Where the lottery was concerned, even people who could barely read and write seemed capable of intricate calculations and staggering feats of memory. There was a whole tribe of men who made a living simply by selling systems, forecasts and lucky amulets.
+They were still arguing with vivid, passionate faces. The lottery, with its weekly payout of enormous prizes, was the one public event to which the proles paid serious attention. It was probable that there were some millions of proles for whom the lottery was the principal, if not the only reason, for remaining alive. It was their delight, their folly, their anodyne, their intellectual stimulant.
 
-Winston had nothing to do with the running of the lottery, which was managed by the Ministry of Plenty. But he was aware, indeed everyone in the party was aware, that the prizes were largely imaginary. Only small sums were actually paid out, the winners of the big prizes being non-existent persons. In the absence of any real intercommunication between one part of Oceania and another, this was not difficult to arrange.
+Where the lottery was concerned, even people who could barely read and write seemed capable of intricate calculations and staggering feats of memory. There was a whole tribe of men who made a living simply by selling systems, forecasts and lucky amulets. Winston had nothing to do with the running of the lottery, which was managed by the Ministry of Plenty. But he was aware, indeed everyone in the party was aware, that the prizes were largely imaginary.
 
-But if there was hope, it lay in the proles. You had to cling on to that. When you put it in words, it sounded reasonable. It was when you looked at the human beings passing you on the pavement that it became an act of faith.
+Only small sums were actually paid out, the winners of the big prizes being non-existent persons. In the absence of any real intercommunication between one part of Oceania and another, this was not difficult to arrange. But if there was hope, it lay in the proles. You had to cling on to that.
 
-The street into which he had turned ran downhill. He had a feeling that he had been in this neighborhood before, and that there was a main thoroughfare not far away. From somewhere ahead there came a din of shouting voices. The street took a sharp turn and then ended in a flight of steps which led down into a sunken alley where a few stallkeepers were selling tired-looking vegetables.
+When you put it in words, it sounded reasonable. It was when you looked at the human beings passing you on the pavement that it became an act of faith. The street into which he had turned ran downhill. He had a feeling that he had been in this neighborhood before, and that there was a main thoroughfare not far away.
 
-At this moment, Winston remembered where he was. The alley led out into the main street, and down the next turning, not five minutes away, was the junk shop where he had bought the blank book which was now his diary, and in a small stationer’s shop not far away he had bought his pen holder and his bottle of ink. He paused for a moment at the top of the steps. On the opposite side of the alley there was a dingy little pub whose windows appeared to be frosted over but in reality were merely coated with dust.
+From somewhere ahead there came a din of shouting voices. The street took a sharp turn and then ended in a flight of steps which led down into a sunken alley where a few stallkeepers were selling tired-looking vegetables. At this moment, Winston remembered where he was. The alley led out into the main street, and down the next turning, not five minutes away, was the junk shop where he had bought the blank book which was now his diary, and in a small stationer’s shop not far away he had bought his pen holder and his bottle of ink.
 
-A very old man, bent but active, with white mustaches that bristled forward like those of a prawn, pushed open the swing door and went in. As Winston stood watching, it occurred to him that the old man, who must be eighty at the least, had already been middle-aged when the revolution happened. He and a few others like him were the last links that now existed with the vanished world of capitalism. In the party itself there were not many people left whose ideas had been formed before the revolution.
+He paused for a moment at the top of the steps. On the opposite side of the alley there was a dingy little pub whose windows appeared to be frosted over but in reality were merely coated with dust. A very old man, bent but active, with white mustaches that bristled forward like those of a prawn, pushed open the swing door and went in. As Winston stood watching, it occurred to him that the old man, who must be eighty at the least, had already been middle-aged when the revolution happened.
 
-The older generation had mostly been wiped out in the great purges of the fifties and sixties, and the few who survived had long ago been terrified into complete intellectual surrender. And if there was anyone still alive who could give you a truthful account of conditions in the early part of the century, it could only be a prole.
+He and a few others like him were the last links that now existed with the vanished world of capitalism. In the party itself there were not many people left whose ideas had been formed before the revolution. The older generation had mostly been wiped out in the great purges of the fifties and sixties, and the few who survived had long ago been terrified into complete intellectual surrender. And if there was anyone still alive who could give you a truthful account of conditions in the early part of the century, it could only be a prole.
 
-Suddenly the passage from the history book that he had copied into his diary came back into Winston’s mind, and a lunatic impulse took hold of him. He would go into the pub. He would scrape acquaintance with that old man and question him. He would say to him, tell me about your life when you were a boy.
+Suddenly, the passage from the history book that he had copied into his diary came back into Winston’s mind, and a lunatic impulse took hold of him. He would go into the pub. He would scrape acquaintance with that old man and question him. He would say to him, tell me about your life when you were a boy.
 
 What was it like in those days? Were things better than they are now, or were they worse? Hurriedly, lest he should have time to become frightened, he descended the steps and crossed the narrow street. It was madness, of course.
 
@@ -1210,15 +1234,17 @@ As he entered, the din of voices dropped to about half its volume. Behind his ba
 <a id="sec-030124"></a>
 ### ⏱️ [03:01:24 - 03:06:24]
 
-with the barman, a large, stout, hook-nosed young man with enormous forearms. A knot of others, standing round with glasses in their hands, were watching the scene. I asked you civil enough, didn’t I? said the old man, straightening his shoulders pugnaciously. You telling me you ain’t got a pint mug in the old bleeding boozer? And what in hell’s name is a pint? said the barman, leaning forward with the tips of his fingers on the counter.
+with the barman, a large, stout, hook-nosed young man with enormous forearms. A knot of others, standing round with glasses in their hands, were watching the scene. I asked you civil enough, didn’t. I? said the old man, straightening his shoulders pugnaciously.
 
-Look at him, calls himself a barman, and don’t know what a pint is. Why, a pint’s the half of a quart, and there’s four quarts to the gallon. I have to teach you the A, B, C next. Never heard of him, said the barman shortly.
+You telling me you ain’t got a pint mug in the old bleeding boozer? And what in hell’s name is a pint? said the barman, leaning forward with the tips of his fingers on the counter. Look at him, calls himself a barman, and don’t know what a pint is. Why, a pint’s the half of a quart, and there’s four quarts to the gallon.
 
-Lita and half-lita, that’s all we serve. There’s the glasses on the shelf in front of you. I like Sir Pint, persisted the old man. You could have drawn me off a pint easy enough.
+I have to teach you the A, B, C next. Never heard of him, said the barman shortly. Lita and half-lita, that’s all we serve. There’s the glasses on the shelf in front of you.
 
-We didn’t have these bleeding liters when I was a young man. When you were a young man, we were all living in the treetops, said the barman, with a glance at the other customers. There was a shout of laughter, and the uneasiness caused by Winston’s entry seemed to disappear. The old man’s white stubbled face had flushed pink.
+I like Sir Pint, persisted the old man. You could have drawn me off a pint easy enough. We didn’t have these bleeding liters when. I was a young man.
 
-He turned away, muttering to himself, and bumped into Winston. Winston caught him gently by the arm. May I offer you a drink, he said. You’re a gent, said the other, straightening his shoulders again.
+When you were a young man, we were all living in the treetops, said the barman, with a glance at the other customers. There was a shout of laughter, and the uneasiness caused by Winston’s entry seemed to disappear. The old man’s white stubbled face had flushed pink. He turned away, muttering to himself, and bumped into Winston.
+
+Winston caught him gently by the arm. May. I offer you a drink, he said. You’re a gent, said the other, straightening his shoulders again.
 
 He appeared not to have noticed Winston’s blue overalls. Pint, he added aggressively to the barman. Pint of wallop. The barman swished two half-liters of dark brown beer into thick glasses which he had rinsed in a bucket under the counter.
 
@@ -1228,67 +1254,75 @@ There was a deal table under the window where he and the old man could talk with
 
 And a old litre’s too much, it starts my bladder running, let alone the price. You must have seen great changes since you were a young man, said Winston, tentatively. The old man’s pale blue eyes moved from the darts board to the bar, and from the bar to the door of the gents, as though it were in the bar room that he expected the changes to have occurred. The beer was better, he said finally, and cheaper.
 
-When I was a young man, mild beer, wallop we used to call it, was fourpence a pint. That was before the war, of course. Which war was that, said Winston? It’s all wars, said the old man vaguely.
+When. I was a young man, mild beer, wallop we used to call it, was fourpence a pint. That was before the war, of course. Which war was that, said Winston?
 
-He took up his glass, and his shoulders straightened again. Ears wishing you the very best of health. In his lean throat, the sharp pointed Adam’s apple made a surprisingly rapid up-and-down movement and the beer vanished. Winston went to the bar and came back with two more half-litres.
+It’s all wars, said the old man vaguely. He took up his glass, and his shoulders straightened again. Ears wishing you the very best of health. In his lean throat, the sharp pointed Adam’s apple made a surprisingly rapid up-and-down movement and the beer vanished.
 
-The old man appeared to have forgotten his prejudice against drinking a full litre. You are very much older than I am, said Winston. You must have been a grown man before I was born. You can remember what it was like in the old days, before the revolution.
+Winston went to the bar and came back with two more half-litres. The old man appeared to have forgotten his prejudice against drinking a full litre. You are very much older than. I am, said Winston.
 
-People of my age don’t really know anything about those times. We can only read about them in books, and what it says in the books may not be true. I should like your opinion on that. The history books say that life before the revolution was completely different from what it is now.
+You must have been a grown man before. I was born. You can remember what it was like in the old days, before the revolution. People of my age don’t really know anything about those times.
 
-There was the most terrible oppression, injustice, poverty, worse than anything we can imagine. Here in London, the great mass of the people never had enough to eat from birth to death. Half of them hadn’t even boots on their feet. They worked twelve hours a day.
+We can only read about them in books, and what it says in the books may not be true. I should like your opinion on that. The history books say that life before the revolution was completely different from what it is now. There was the most terrible oppression, injustice, poverty, worse than anything we can imagine.
 
-They left school at nine. They slept ten in a room. And at the same time there were a very few people, only a few thousands, the capitalists they were called, who were rich and powerful. They owned everything that there was to own.
+Here in London, the great mass of the people never had enough to eat from birth to death. Half of them hadn’t even boots on their feet. They worked twelve hours a day. They left school at nine.
 
-They lived in great, gorgeous houses with thirty servants. They rode about in motor cars and four-horse carriages. They drank champagne. They wore top hats.
+They slept ten in a room. And at the same time there were a very few people, only a few thousands, the capitalists they were called, who were rich and powerful. They owned everything that there was to own. They lived in great, gorgeous houses with thirty servants.
 
-The old man brightened suddenly. Top hats, he said. Funny you should mention them. The same thing come into my head only yesterday.
+They rode about in motor cars and four-horse carriages. They drank champagne. They wore top hats. The old man brightened suddenly.
 
-I don’t know why. I was just thinking. I ain’t seen a top hat in years.
+Top hats, he said. Funny you should mention them. The same thing come into my head only yesterday. I don’t know why.
+
+I was just thinking. I ain’t seen a top hat in years.
 
 
 <a id="sec-030624"></a>
 ### ⏱️ [03:06:24 - 03:11:25]
 
-Gorn right out they have. The last time I wore one was at my sister-in-law’s funeral, and that was, well, I couldn’t give you the date, but it must have been fifty years ago. Of course it was only I had for the occasion, you understand. It isn’t very important about the top hats, said Winston, patiently.
+Gorn right out they have. The last time. I wore one was at my sister-in-law’s funeral, and that was, well, I couldn’t give you the date, but it must have been fifty years ago. Of course, it was only.
 
-The point is, these capitalists, they, and a few lawyers and priests and so forth who lived on them, were the lords of the earth. Everything existed for their benefit. You, the ordinary people, the workers, were their slaves. They could do what they liked with you.
+I had for the occasion, you understand. It isn’t very important about the top hats, said Winston, patiently. The point is, these capitalists, they, and a few lawyers and priests and so forth who lived on them, were the lords of the earth. Everything existed for their benefit.
 
-They could ship you off to Canada like cattle. They could sleep with your daughters if they chose. They could order you to be flogged with something called a catter nine tails. You had to take your cap off when you passed them.
+You, the ordinary people, the workers, were their slaves. They could do what they liked with you. They could ship you off to Canada like cattle. They could sleep with your daughters if they chose.
 
-Every capitalist went about with a gang of lackeys who… The old man brightened again. Lackeys, he said. Now there’s a word I ain’t heard since ever so long, lackeys.
+They could order you to be flogged with something called a catter nine tails. You had to take your cap off when you passed them. Every capitalist went about with a gang of lackeys who… The old man brightened again.
 
-That regular takes me back, that does. I recollect… Oh, donkeys years ago. I used to sometimes go to Y.
+Lackeys, he said. Now there’s a word. I ain’t heard since ever so long, lackeys. That regular takes me back, that does.
 
-D. Park of a Sunday afternoon to hear the blokes making speeches. Salvation Army, Roman Catholics, Jews, Indians, all sorts there was. And there was one bloke.
+I recollect… Oh, donkeys years ago. I used to sometimes go to Y. D.
 
-Well, I couldn’t give you his name, but a real powerful speaker he was. He didn’t half give it them. These he says, lackeys of the bourgeoisie, flunkies of the ruling class, parasites. That was another of them.
+Park of a Sunday afternoon to hear the blokes making speeches. Salvation Army, Roman Catholics, Jews, Indians, all sorts there was. And there was one bloke. Well, I couldn’t give you his name, but a real powerful speaker he was.
 
-And jenas, he definitely called them jenas. Of course he was referring to the Labour Party, you understand. Winston had the feeling that they were talking at cross purposes. What I really wanted to know was this, he said.
+He didn’t half give it them. These he says, lackeys of the bourgeoisie, flunkies of the ruling class, parasites. That was another of them. And jenas, he definitely called them jenas.
 
-Do you feel that you have more freedom now than you had in those days? Are you treated more like a human being? In the old days the rich people, the people at the top, the House of Lords put in the old man reminiscently, the House of Lords, if you like. What I am asking is, were these people able to treat you as an inferior, simply because they were rich and you were poor?
+Of course, he was referring to the Labour Party, you understand. Winston had the feeling that they were talking at cross purposes. What. I really wanted to know was this, he said.
 
-Is it a fact, for instance, that you had to call them sir and take off your cap when you passed them? The old man appeared to think deeply. He drank off about a quarter of his beer before answering. Yes, he said.
+Do you feel that you have more freedom now than you had in those days? Are you treated more like a human being? In the old days the rich people, the people at the top, the House of Lords put in the old man reminiscently, the House of Lords, if you like. What.
 
-They liked you to touch your cap to him. It showed respect-like. I didn’t agree with it myself, but I’d done it often enough. Had to, as you might say.
+I am asking is, were these people able to treat you as an inferior, simply because they were rich and you were poor? Is it a fact, for instance, that you had to call them sir and take off your cap when you passed them? The old man appeared to think deeply. He drank off about a quarter of his beer before answering.
 
-And was it usual, I’m only quoting what I’ve read in history books, was it usual for these people and their servants to push you off the pavement into the gutter? One of them pushed me once, said the old man. I recollected as if it was yesterday. It was boat-race night, terribly rowdy they used to get on boat-race night, and I bumps into a young bloke on Shaftesbury Avenue, quite a gent he was, dress shirt, top hat, black overcoat.
+Yes, he said. They liked you to touch your cap to him. It showed respect-like. I didn’t agree with it myself, but.
 
-He was kind of zigzagging across the pavement, and I bumps into him accidental-like. He says, Why can’t you look where you’re going? He says, I say, Do you think you’ve bought the bleeding pavement? He says, I’ll twist your bloody head off if you get fresh with me.
+I’d done it often enough. Had to, as you might say. And was it usual, I’m only quoting what. I’ve read in history books, was it usual for these people and their servants to push you off the pavement into the gutter?
 
-I says, You’re drunk. I’ll give you in charge in half a minute, I says. And if you’ll believe me, he puts his hand on my chest and gives me a shove as pretty near sent me under the wheels of a bus. Well, I was young in them days, and I was going to have fetched him one, only.
+One of them pushed me once, said the old man. I recollected as if it was yesterday. It was boat-race night, terribly rowdy they used to get on boat-race night, and. I bumps into a young bloke on Shaftesbury Avenue, quite a gent he was, dress shirt, top hat, black overcoat.
 
-A sense of helplessness took hold of Winston. The old man’s memory was nothing but a rubbish heap of details. One could question him all day without getting any real information. The party histories might still be true after a fashion.
+He was kind of zigzagging across the pavement, and. I bumps into him accidental-like. He says, Why can’t you look where you’re going? He says, I say, Do you think you’ve bought the bleeding pavement?
 
-They might even be completely true. He made a last attempt. Perhaps I’ve not made myself clear, he said. What I’m trying to say is this.
+He says, I’ll twist your bloody head off if you get fresh with me. I says, You’re drunk. I’ll give you in charge in half a minute, I says. And if you’ll believe me, he puts his hand on my chest and gives me a shove as pretty near sent me under the wheels of a bus.
+
+Well, I was young in them days, and. I was going to have fetched him one, only. A sense of helplessness took hold of Winston. The old man’s memory was nothing but a rubbish heap of details.
+
+One could question him all day without getting any real information. The party histories might still be true after a fashion. They might even be completely true. He made a last attempt.
+
+Perhaps. I’ve not made myself clear, he said. What. I’m trying to say is this.
 
 You have been alive a very long time. You lived half of your life before the revolution. In 1925, for instance, you were already grown up. Would you say from what you can remember, that life in 1925 was better than it is now or worse?
 
 If you could choose, would you prefer to live then or now? The old man looked meditatively at the darts board. He finished up his beer more slowly than before. When he spoke, it was with a tolerant philosophical air as though the beer had mellowed him.
 
-I know what you expect me to say, he said. You expect me to say as I’d sooner be young again. Most people say they’d sooner be young if you asked them. You got your health and strength when you’re young.
+I know what you expect me to say, he said. You expect me to say as. I’d sooner be young again. Most people say they’d sooner be young if you asked them.
 
-When you get to my time of life, you ain’t never well. I suffer something wicked from my feet and my bladder’s just terrible.
+You got your health and strength when you’re young. When you get to my time of life, you ain’t never well. I suffer something wicked from my feet and my bladder’s just terrible.
 
 
 <a id="sec-031125"></a>
@@ -1314,27 +1348,29 @@ He was a man of perhaps 60, frail and bowed, with a long benevolent nose, and mi
 
 I recognized you on the pavement, he said immediately. You’re the gentleman that bought the Young Lady’s Keepsake album. That was a beautiful bit of paper that was. Cream laid, it used to be called.
 
-There’s been no paper like that made for, I dare say, 50 years. He peered at Winston over the top of his spectacles. Is there anything special I can do for you, or did you just want to look round? I was passing, said Winston vaguely.
+There’s been no paper like that made for, I dare say, 50 years. He peered at Winston over the top of his spectacles. Is there anything special. I can do for you, or did you just want to look round?
 
-I just looked in. I don’t want anything in particular. It’s just as well, said the other, because I don’t suppose I could have satisfied you. He made an apologetic gesture with his soft palmed hand.
+I was passing, said Winston vaguely. I just looked in. I don’t want anything in particular. It’s just as well, said the other, because.
 
-You see how it is. An empty shop, you might say. Between you and me, the antique trade’s just about finished. No demand any longer, and no stock either.
+I don’t suppose. I could have satisfied you. He made an apologetic gesture with his soft palmed hand. You see how it is.
 
-Furniture, china, glass, it’s all been broken up by degrees. And of course, the metal stuff’s mostly been melted down. I haven’t seen a brass candlestick in years. The tiny interior of the shop was in fact uncomfortably full.
+An empty shop, you might say. Between you and me, the antique trade’s just about finished. No demand any longer, and no stock either. Furniture, china, glass, it’s all been broken up by degrees.
 
-But there was almost nothing in it of the slightest value. The floor space was very restricted, because all of round the walls were stacked innumerable dusty picture frames. In the window, there were trays of nuts and bolts, worn out chisels,
+And of course, the metal stuff’s mostly been melted down. I haven’t seen a brass candlestick in years. The tiny interior of the shop was in fact uncomfortably full. But there was almost nothing in it of the slightest value.
+
+The floor space was very restricted, because all of round the walls were stacked innumerable dusty picture frames. In the window, there were trays of nuts and bolts, worn out chisels,
 
 
 <a id="sec-031626"></a>
 ### ⏱️ [03:16:26 - 03:21:29]
 
-pen knives with broken blades, tarnished watches that did not even pretend to be in going order, and other miscellaneous rubbish. Only on a small table in the corner was there a litter of odds and ends, lacquered snuff boxes, a gate broaches and the like, which looked as though they might include something interesting. As Winston wandered towards the table, his eye was caught by a round, smooth thing that gleamed softly in the lamplight, and he picked it up. It was a heavy lump of glass, curved on one side, flat on the other, making almost a hemisphere.
+pen knives with broken blades, tarnished watches that did not even pretend to be in going order, and other miscellaneous rubbish. Only on a small table in the corner was there a litter of odds and ends, lacquered snuff boxes, a gate broaches and the like, which looked as though they might include something interesting. As Winston wandered towards the table, his eye was caught by a round, smooth thing that gleamed softly in the lamplight, and he picked it up.
 
-There was a peculiar softness, as of rainwater, in both the color and the texture of the glass. At the heart of it, magnified by the curved surface, there was a strange, pink, convoluted object that recalled a rose or a sea anemone. What is it, said Winston, fascinated. That’s coral, that is, said the old man.
+It was a heavy lump of glass, curved on one side, flat on the other, making almost a hemisphere. There was a peculiar softness, as of rainwater, in both the color and the texture of the glass. At the heart of it, magnified by the curved surface, there was a strange, pink, convoluted object that recalled a rose or a sea anemone. What is it, said Winston, fascinated.
 
-It must have come from the Indian Ocean. They used to kind of embed it in the glass. That wasn’t made less than 100 years ago, more by the look of it. It’s a beautiful thing, said Winston.
+That’s coral, that is, said the old man. It must have come from the Indian Ocean. They used to kind of embed it in the glass. That wasn’t made less than 100 years ago, more by the look of it.
 
-It is a beautiful thing, said the other, appreciatively. But there’s not many that had say so nowadays. He coughed.
+It’s a beautiful thing, said Winston. It is a beautiful thing, said the other, appreciatively. But there’s not many that had say so nowadays. He coughed.
 
 Now, if it so happened that you wanted to buy it, that had cost you $4. I can remember when a thing like that would have fetched eight pounds. And eight pounds was, well, I can’t work it out, but it was a lot of money. But who cares about genuine antiques nowadays, even the few that’s left?
 
@@ -1348,13 +1384,15 @@ He lit another lamp, and with bowed back, led the way slowly up the steep and wo
 
 An old-fashioned glass clock with a 12-hour face was ticking away on the mantelpiece. Under the window, and occupying nearly a quarter of the room, was an enormous bed with the mattress still on it. We lived here till my wife died, said the old man, half apologetically. I’m selling the furniture off by little and little.
 
-Now that’s a beautiful mahogany bed. Or at least it would be if you could get the bugs out of it. But I dare say you’d find it a little bit cumbersome. He was holding the lamp high up so as to illuminate the whole room, and in the warm, dim light the place looked curiously inviting.
+Now that’s a beautiful mahogany bed. Or at least it would be if you could get the bugs out of it. But. I dare say you’d find it a little bit cumbersome.
 
-The thought flitted through Winston’s mind that it would probably be quite easy to rent the room for a few dollars a week, if he dared to take the risk. It was a wild, impossible notion, to be abandoned as soon as thought of. But the room had awakened in him a sort of nostalgia, a sort of ancestral memory. It seemed to him that he knew exactly what it felt like to sit in a room like this, in an armchair beside an open fire with your feet in the fender and a kettle on the hob.
+He was holding the lamp high up so as to illuminate the whole room, and in the warm, dim light the place looked curiously inviting. The thought flitted through Winston’s mind that it would probably be quite easy to rent the room for a few dollars a week, if he dared to take the risk. It was a wild, impossible notion, to be abandoned as soon as thought of. But the room had awakened in him a sort of nostalgia, a sort of ancestral memory.
 
-Utterly alone, utterly secure, with nobody watching you, no voice pursuing you, no sound except the singing of the kettle and the friendly ticking of the clock. There’s no tele-screen, he could not help murmuring. Ah, said the old man, I never had one of those things. Too expensive.
+It seemed to him that he knew exactly what it felt like to sit in a room like this, in an armchair beside an open fire with your feet in the fender and a kettle on the hob. Utterly alone, utterly secure, with nobody watching you, no voice pursuing you, no sound except the singing of the kettle and the friendly ticking of the clock. There’s no tele-screen, he could not help murmuring. Ah, said the old man, I never had one of those things.
 
-And I never seemed to feel the need of it somehow. Now that’s a nice gate-legged table in the corner there. Though of course you’d have to put new hinges on it if you wanted to use the flaps.
+Too expensive. And. I never seemed to feel the need of it somehow. Now that’s a nice gate-legged table in the corner there.
+
+Though of course you’d have to put new hinges on it if you wanted to use the flaps.
 
 
 <a id="sec-032129"></a>
@@ -1364,41 +1402,43 @@ There was a small bookcase in the other corner, and Winston had already gravitat
 
 The old man, still carrying the lamp, was standing in front of a picture in a rosewood frame which hung on the other side of the fireplace, opposite the bed. Now if you happen to be interested in old prints at all, he began delicately. Winston came across to examine the picture. It was a steel engraving of an oval building with rectangular windows and a small tower in front.
 
-There was a railing running round the building, and at the rear end there was what appeared to be a statue. Winston gazed at it for some moments. It seemed vaguely familiar, though he did not remember the statue. The frames fixed to the wall, said the old man, but I could unscrew it for you, I dare say.
+There was a railing running round the building, and at the rear end there was what appeared to be a statue. Winston gazed at it for some moments. It seemed vaguely familiar, though he did not remember the statue. The frames fixed to the wall, said the old man, but.
 
-I know that building, said Winston, finally. It’s a ruin now. It’s in the middle of the street outside the Palace of Justice. That’s right, outside the law courts.
+I could unscrew it for you, I dare say. I know that building, said Winston, finally. It’s a ruin now. It’s in the middle of the street outside the Palace of Justice.
 
-It was bombed in, oh, many years ago. It was a church at one time, St. Clement-Dane’s, its name was. He smiled apologetically, as though conscious of saying something slightly ridiculous and added, Oranges and lemons, say the bells of St.
+That’s right, outside the law courts. It was bombed in, oh, many years ago. It was a church at one time, St. Clement-Dane’s, its name was.
 
-Clement’s. What’s that? said Winston. Oh, oranges and lemons, say the bells of St. Clement’s.
+He smiled apologetically, as though conscious of saying something slightly ridiculous and added, Oranges and lemons, say the bells of St. Clement’s. What’s that? said Winston. Oh, oranges and lemons, say the bells of St.
 
-That was a rhyme we had when I was a little boy. How it goes on, I don’t remember. But I do know it ended up. Here comes a candle to light you to bed.
+Clement’s. That was a rhyme we had when. I was a little boy. How it goes on, I don’t remember.
 
-Here comes a chopper to chop off your head. It was a kind of a dance. They held out their arms for you to pass under. And when they came to here comes a chopper to chop off your head, they brought their arms down and caught you.
+But. I do know it ended up. Here comes a candle to light you to bed. Here comes a chopper to chop off your head.
 
-It was just names of churches. All the London churches were in it, all the principal ones, that is. Winston wondered vaguely to what century the church belonged. It was always difficult to determine the age of a London building.
+It was a kind of a dance. They held out their arms for you to pass under. And when they came to here comes a chopper to chop off your head, they brought their arms down and caught you. It was just names of churches.
 
-Anything large and impressive, if it was reasonably new in appearance, was automatically claimed as having been built since the revolution. While anything that was obviously of earlier date was ascribed to some dim period called the Middle Ages. The centuries of capitalism were held to have produced nothing of any value. One could not learn history from architecture any more than one could learn it from books.
+All the London churches were in it, all the principal ones, that is. Winston wondered vaguely to what century the church belonged. It was always difficult to determine the age of a London building. Anything large and impressive, if it was reasonably new in appearance, was automatically claimed as having been built since the revolution.
 
-Statues, inscriptions, memorial stones, the names of streets, anything that might throw light upon the past, had been systematically altered. I never knew it had been a church, he said. There’s a lot of them left, really, said the old man. Though they’d been put to other uses.
+While anything that was obviously of earlier date was ascribed to some dim period called the Middle Ages. The centuries of capitalism were held to have produced nothing of any value. One could not learn history from architecture any more than one could learn it from books. Statues, inscriptions, memorial stones, the names of streets, anything that might throw light upon the past, had been systematically altered.
 
-Now how did that rhyme go? Ah, I’ve got it. Oranges and lemons, say the bells of St. Clement’s.
+I never knew it had been a church, he said. There’s a lot of them left, really, said the old man. Though they’d been put to other uses. Now how did that rhyme go?
 
-You owe me three farthings, say the bells of St. Martin’s. There now, that’s as far as I can get. A farthing, that was a small copper coin, looked something like a scent.
+Ah, I’ve got it. Oranges and lemons, say the bells of St. Clement’s. You owe me three farthings, say the bells of St.
+
+Martin’s. There now, that’s as far as. I can get. A farthing, that was a small copper coin, looked something like a scent.
 
 Where was St. Martin’s? said Winston. St. Martin’s, that’s still standing.
 
 It’s in Victory Square, alongside the Picture Gallery. A building with a kind of a triangular porch and pillars in front and a big flight of steps. Winston knew the place well. It was a museum used for propaganda displays of various kinds, scale models of rocket bombs and floating fortresses, waxwork tableau illustrating enemy atrocities and the like.
 
-St. Martin’s in the fields it used to be called, supplemented the old man. Though I don’t recollect any fields anywhere in those parts. Winston did not buy the picture.
+St. Martin’s in the fields it used to be called, supplemented the old man. Though. I don’t recollect any fields anywhere in those parts.
 
-It would have been an even more incongruous possession than the glass paperweight. An impossible to carry home, unless it were taken out of its frame. But he lingered for some minutes more, talking to the old man, whose name he discovered was not Weeks, as one might have gathered from the inscription over the shop front. But Charrington. Mr. Charrington, it seemed, was a widower aged 63 and had inhabited this shop for 30 years.
+Winston did not buy the picture. It would have been an even more incongruous possession than the glass paperweight. An impossible to carry home, unless it were taken out of its frame. But he lingered for some minutes more, talking to the old man, whose name he discovered was not Weeks, as one might have gathered from the inscription over the shop front.
 
-Throughout that time he had been intending to alter the name over the window, but had never quite got to the point of doing it. All the while that they were talking the half-remembered rhyme kept running through Winston’s head. Oranges and lemons say the bells of St. Clement’s.
+But Charrington. Mr. Charrington, it seemed, was a widower aged 63 and had inhabited this shop for 30 years. Throughout that time he had been intending to alter the name over the window, but had never quite got to the point of doing it.
 
-You owe me three farthings. Say the bells of St. Martin’s. It was curious.
+All the while that they were talking the half-remembered rhyme kept running through Winston’s head. Oranges and lemons say the bells of St. Clement’s. You owe me three farthings.
 
-But when you said it to yourself you had the illusion of actually hearing bells.
+Say the bells of St. Martin’s. It was curious. But when you said it to yourself you had the illusion of actually hearing bells.
 
 
 <a id="sec-032631"></a>
@@ -1406,15 +1446,15 @@ But when you said it to yourself you had the illusion of actually hearing bells.
 
 The bells of a lost London that still existed somewhere or other. Disguised and forgotten. From one ghostly steeple after another he seemed to hear them peeling forth. Yet so far as he could remember, he had never in real life heard church bells ringing.
 
-He got away from Mr. Charrington and went down the stairs alone, so as not to let the old man see him reconnoitering the street before stepping out of the door. He had already made up his mind that after a suitable interval, a month say, he would take the risk of visiting the shop again. It was perhaps not more dangerous than shirking an evening at the centre. The serious piece of folly had been to come back here in the first place, after buying the diary and without knowing whether the proprietor of the shop could be trusted.
+He got away from Mr. Charrington and went down the stairs alone, so as not to let the old man see him reconnoitering the street before stepping out of the door. He had already made up his mind that after a suitable interval, a month say, he would take the risk of visiting the shop again. It was perhaps not more dangerous than shirking an evening at the centre.
 
-However, yes, he thought again, he would come back. He would buy further scraps of beautiful rubbish. He would buy the engraving of St. Clement Danes, take it out of its frame and carry it home concealed under the jacket of his overalls.
+The serious piece of folly had been to come back here in the first place, after buying the diary and without knowing whether the proprietor of the shop could be trusted. However, yes, he thought again, he would come back. He would buy further scraps of beautiful rubbish. He would buy the engraving of St.
 
-He would drag the rest of that poem out of Mr. Charrington’s memory. Even the lunatic project of renting the room upstairs flashed momentarily through his mind again. For perhaps five seconds, exaltation made him careless, and he stepped out onto the pavement without so much as a preliminary glance through the window. He had even started humming to an improvised tune, oranges and lemons, say the bells of St.
+Clement Danes, take it out of its frame and carry it home concealed under the jacket of his overalls. He would drag the rest of that poem out of Mr. Charrington’s memory. Even the lunatic project of renting the room upstairs flashed momentarily through his mind again.
 
-Clement’s. You owe me three farthings, say that.
+For perhaps five seconds, exaltation made him careless, and he stepped out onto the pavement without so much as a preliminary glance through the window. He had even started humming to an improvised tune, oranges and lemons, say the bells of St. Clement’s. You owe me three farthings, say that.
 
-Suddenly his heart seemed to turn to ice and his bowels to water. A figure in blue overalls was coming down the pavement, not ten metres away. It was the girl from the fiction department, the girl with dark hair. The light was failing, but there was no difficulty in recognising her.
+Suddenly, his heart seemed to turn to ice and his bowels to water. A figure in blue overalls was coming down the pavement, not ten metres away. It was the girl from the fiction department, the girl with dark hair. The light was failing, but there was no difficulty in recognising her.
 
 She looked him straight in the face, then walked quickly on as though she had not seen him. For a few seconds Winston was too paralysed to move. Then he turned to the right and walked heavily away, not noticing for the moment that he was going in the wrong direction. At any rate, one question was settled.
 
@@ -1486,25 +1526,27 @@ No, I’m all right. It hurt for a moment, that’s all. She held out her free h
 
 It’s nothing, she repeated shortly. I only gave my wrist a bit of a bang. Thanks, Comrade. And with that she walked on in the direction in which she had been going, as briskly as though it had really been nothing.
 
-The whole incident could not have taken as much as half a minute. Not to let one’s feelings appear in one’s face was a habit that had acquired the status of an instinct, and in any case, they had been standing straight in front of a telescreen when the thing happened. Nevertheless, it had been very difficult not to betray a momentary surprise, for in the two or three seconds while he was helping her up, the girl had slipped something into his hand. There was no question that she had done it intentionally.
+The whole incident could not have taken as much as half a minute. Not to let one’s feelings appear in one’s face was a habit that had acquired the status of an instinct, and in any case, they had been standing straight in front of a telescreen when the thing happened. Nevertheless, it had been very difficult not to betray a momentary surprise, for in the two or three seconds while he was helping her up, the girl had slipped something into his hand.
 
-It was something small and flat. As he passed through the lavatory door, he transferred it to his pocket and felt it with the tips of his fingers. It was a scrap of paper folded into a square. While he stood at the urinal, he managed, with a little more fingering, to get it unfolded.
+There was no question that she had done it intentionally. It was something small and flat. As he passed through the lavatory door, he transferred it to his pocket and felt it with the tips of his fingers. It was a scrap of paper folded into a square.
 
-Obviously there must be a message of some kind written on it. For a moment he was tempted to take it into one of the water closets and read it at once. But that would be shocking folly, as he well knew. There was no place where you could be more certain that the telescreens were watched continuously.
+While he stood at the urinal, he managed, with a little more fingering, to get it unfolded. Obviously, there must be a message of some kind written on it. For a moment he was tempted to take it into one of the water closets and read it at once. But that would be shocking folly, as he well knew.
 
-He went back to his cubicle, sat down, threw the fragment of paper casually among the other papers on the desk, put on his spectacles, and hitched the speak right towards him. Five minutes, he told himself, five minutes at the very least. His heart bumped in his breast with frightening loudness. Fortunately, the piece of work he was engaged on was mere routine, the rectification of a long list of figures not needing close attention.
+There was no place where you could be more certain that the telescreens were watched continuously. He went back to his cubicle, sat down, threw the fragment of paper casually among the other papers on the desk, put on his spectacles, and hitched the speak right towards him. Five minutes, he told himself, five minutes at the very least. His heart bumped in his breast with frightening loudness.
 
-Whatever was written on the paper, it must have some kind of political meaning. So far as he could see, there were two possibilities. One, much the more likely, was that the girl was an agent of the Thought Police, just as he had feared. He did not know why the Thought Police should choose to deliver their messages in such a fashion.
+Fortunately, the piece of work he was engaged on was mere routine, the rectification of a long list of figures not needing close attention. Whatever was written on the paper, it must have some kind of political meaning. So far as he could see, there were two possibilities. One, much the more likely, was that the girl was an agent of the Thought Police, just as he had feared.
 
-But perhaps they had their reasons. The thing that was written on the paper might be a threat, a summons, an order to commit suicide, a trap of some description. But there was another, wilder possibility that kept raising its head, though he tried vainly to suppress it. This was that the message did not come from the Thought Police at all, but from some kind of underground organization.
+He did not know why the Thought Police should choose to deliver their messages in such a fashion. But perhaps they had their reasons. The thing that was written on the paper might be a threat, a summons, an order to commit suicide, a trap of some description. But there was another, wilder possibility that kept raising its head, though he tried vainly to suppress it.
 
-Perhaps the brotherhood existed after all. Perhaps the girl was part of it. No doubt the idea was absurd, but it had sprung into his mind in the very instant of feeling the scrap of paper in his hand. It was not till a couple of minutes later that the other, more probable explanation had occurred to him.
+This was that the message did not come from the Thought Police at all, but from some kind of underground organization. Perhaps, the brotherhood existed after all. Perhaps, the girl was part of it. No doubt the idea was absurd, but it had sprung into his mind in the very instant of feeling the scrap of paper in his hand.
 
-And even now, though his intellect told him that the message probably meant death, still that was not what he believed, and the unreasonable hope persisted, and his heart banged, and it was with difficulty that he kept his voice from trembling as he murmured his figures into the speak-right. He rolled up the completed bundle of work and slid it into the pneumatic tube. Eight minutes had gone by. He readjusted his spectacles on his nose, sighed, and drew the next batch of work towards him, with the scrap of paper on top of it.
+It was not till a couple of minutes later that the other, more probable explanation had occurred to him. And even now, though his intellect told him that the message probably meant death, still that was not what he believed, and the unreasonable hope persisted, and his heart banged, and it was with difficulty that he kept his voice from trembling as he murmured his figures into the speak-right. He rolled up the completed bundle of work and slid it into the pneumatic tube.
 
-He flattened it out. On it was written, in a large, unformed handwriting, I love you. For several seconds he was too stunned even to throw the incriminating thing into the memory hole. When he did so, although he knew very well the danger of showing too much interest, he could not resist reading it once again, just to make sure that the words were really there.
+Eight minutes had gone by. He readjusted his spectacles on his nose, sighed, and drew the next batch of work towards him, with the scrap of paper on top of it. He flattened it out. On it was written, in a large, unformed handwriting, I love you.
 
-For the rest of the morning it was very difficult to work. What was even worse than having to focus his mind on a series of niggling jobs was the need to conceal his agitation from the telly-screen. He felt as though a fire were burning in his belly. Lunch in the hot, crowded,
+For several seconds he was too stunned even to throw the incriminating thing into the memory hole. When he did so, although he knew very well the danger of showing too much interest, he could not resist reading it once again, just to make sure that the words were really there. For the rest of the morning it was very difficult to work. What was even worse than having to focus his mind on a series of niggling jobs was the need to conceal his agitation from the telly-screen.
+
+He felt as though a fire were burning in his belly. Lunch in the hot, crowded,
 
 
 <a id="sec-034140"></a>
@@ -1520,7 +1562,7 @@ Then the memory of her face came back, and with it a raging, intolerable desire 
 
 His soul writhed with boredom, but for once he had had no impulse to shirk his evening at the centre, at the sight of the words, I love you. The desire to stay alive had welled up in him, and the taking of minor risks suddenly seemed stupid. It was not till twenty-three hours, when he was home and in bed, in the darkness where you were safe even from the telly screen so long as you kept silent, that he was able to think continuously.
 
-It was a physical problem that had to be solved, how to get in touch with the girl and arrange a meeting. He did not consider any longer the possibility that she might be laying some kind of trap for him. He knew that it was not so because of her unmistakable agitation when she handed him the note. Obviously she had been frightened out of her wits, as well she might be.
+It was a physical problem that had to be solved, how to get in touch with the girl and arrange a meeting. He did not consider any longer the possibility that she might be laying some kind of trap for him. He knew that it was not so because of her unmistakable agitation when she handed him the note. Obviously, she had been frightened out of her wits, as well she might be.
 
 Nor did the idea of refusing her advances even cross his mind. Only five nights ago he had contemplated smashing her skull in with a cobblestone, but that was of no importance. He thought of her naked, youthful body, as he had seen it in his dream. He had imagined her a fool like all the rest of them, her head stuffed with lies and hatred, her belly full of ice, a kind of fever. seized him at the thought that he might lose her, the white youthful body might slip away from him.
 
@@ -1580,31 +1622,31 @@ Both Winston and the girl were eating steadily. The stuff they were eating was a
 
 Steadily they spooned the watery stuff into their mouths, and between spoonfuls exchanged the few necessary words in low expressionless voices. What time do you leave work? Eighteen-thirty. Where can we meet?
 
-Victory Square, near the monument. It’s full of telescreens. It doesn’t matter if there’s a crowd. Any signal? No. Don’t come up to me until you see me among a lot of people, and don’t look at me.
+Victory Square, near the monument. It’s full of telescreens. It doesn’t matter if there’s a crowd. Any signal?
 
-Just keep somewhere near me. What time? Nineteen hours. All right.
+No. Don’t come up to me until you see me among a lot of people, and don’t look at me. Just keep somewhere near me. What time?
 
-Ampleforth failed to see Winston, and sat down at another table. They did not speak again, and so far as it was possible for two people sitting on opposite sides of the same table, they did not look at one another. The girl finished her lunch quickly and made off, while Winston stayed to smoke a cigarette. Winston was in Victory Square before the appointed time.
+Nineteen hours. All right. Ampleforth failed to see Winston, and sat down at another table. They did not speak again, and so far as it was possible for two people sitting on opposite sides of the same table, they did not look at one another.
 
-He wandered round the base of the enormous fluted column, at the top of which Big Brother’s statue gazed southward towards the skies where he had vanquished the Eurasian aeroplanes, the East Asian aeroplanes it had been a few years ago, in the Battle of Airstrip One. In the street in front of it, there was a statue of a man on horseback which was supposed to represent Oliver Cromwell. At five minutes past the hour, the girl had still not appeared. Again the terrible fear seized upon Winston.
+The girl finished her lunch quickly and made off, while Winston stayed to smoke a cigarette. Winston was in Victory Square before the appointed time. He wandered round the base of the enormous fluted column, at the top of which Big Brother’s statue gazed southward towards the skies where he had vanquished the Eurasian aeroplanes, the East Asian aeroplanes it had been a few years ago, in the Battle of Airstrip One. In the street in front of it, there was a statue of a man on horseback which was supposed to represent Oliver Cromwell.
 
-She was not coming. She had changed her mind. He walked slowly up to the north side of the square and got a sort of pale-coloured pleasure from identifying St. Martin’s Church, whose bells, when it had bells, had chimed, You owe me three farthings.
+At five minutes past the hour, the girl had still not appeared. Again the terrible fear seized upon Winston. She was not coming. She had changed her mind.
 
-Then he saw the girl standing at the base of the monument, reading or pretending to read a poster which ran spirally up the column. It was not safe to go near her until some more people had accumulated. There were telescreens all round the pediment, but at this moment there was a din of shouting and a zoom of heavy vehicles from somewhere to the left.
+He walked slowly up to the north side of the square and got a sort of pale-coloured pleasure from identifying St. Martin’s Church, whose bells, when it had bells, had chimed, You owe me three farthings. Then he saw the girl standing at the base of the monument, reading or pretending to read a poster which ran spirally up the column. It was not safe to go near her until some more people had accumulated.
 
-Suddenly everyone seemed to be running across the square. The girl nipped nimbly round the lions at the base of the monument and joined in the rush. Winston followed. As he ran, he gathered from some shouted remarks that a convoy of Eurasian prisoners was passing.
+There were telescreens all round the pediment, but at this moment there was a din of shouting and a zoom of heavy vehicles from somewhere to the left. Suddenly, everyone seemed to be running across the square. The girl nipped nimbly round the lions at the base of the monument and joined in the rush. Winston followed.
 
-Already a dense mass of people was blocking the south side of the square. Winston, at normal times, the kind of person who gravitates to the outer edge of any kind of scrimmage, shoved, butted, squirmed his way forward into the heart of the crowd. Soon he was within arm’s length of the girl, but the way was blocked by an enormous prole and an almost equally enormous woman, presumably his wife, who seemed to form an impenetrable wall of flesh. Winston wriggled himself sideways and with a violent lunge managed to drive his shoulder between them.
+As he ran, he gathered from some shouted remarks that a convoy of Eurasian prisoners was passing. Already a dense mass of people was blocking the south side of the square. Winston, at normal times, the kind of person who gravitates to the outer edge of any kind of scrimmage, shoved, butted, squirmed his way forward into the heart of the crowd. Soon he was within arm’s length of the girl, but the way was blocked by an enormous prole and an almost equally enormous woman, presumably his wife, who seemed to form an impenetrable wall of flesh.
 
-For a moment it felt as though his entrails were being ground to pulp between the two muscular hips. Then he had broken through, sweating a little. He was next to the girl. They were shoulder to shoulder, both staring fixedly in front of them.
+Winston wriggled himself sideways and with a violent lunge managed to drive his shoulder between them. For a moment it felt as though his entrails were being ground to pulp between the two muscular hips. Then he had broken through, sweating a little. He was next to the girl.
 
-A long line of trucks with wooden-faced guards armed with submachine guns standing upright in each corner was passing slowly down the street. In the trucks, little yellow men in shabby greenish uniforms were squatting, jammed close together. Their sad, Mongolian faces gazed out over the sides of the trucks, utterly incurious. Occasionally, when a truck jolted, there was a clank, clank of metal.
+They were shoulder to shoulder, both staring fixedly in front of them. A long line of trucks with wooden-faced guards armed with submachine guns standing upright in each corner was passing slowly down the street. In the trucks, little yellow men in shabby greenish uniforms were squatting, jammed close together. Their sad, Mongolian faces gazed out over the sides of the trucks, utterly incurious.
 
-All the prisoners were wearing leg irons. Truckload after truckload of the sad faces passed. Winston knew they were there, but he saw them only intermittently. The girl’s shoulder, and her arm right down to the elbow, were pressed against his.
+Occasionally, when a truck jolted, there was a clank, clank of metal. All the prisoners were wearing leg irons. Truckload after truckload of the sad faces passed. Winston knew they were there, but he saw them only intermittently.
 
-Her cheek was almost near enough for him to feel its warmth. She had immediately taken charge of the situation, just as she had done in the canteen. She began speaking in the same expressionless voice as before, with lips barely moving, a mere murmur easily drowned by the din of voices and the rumbling of the trucks. Can you hear me?
+The girl’s shoulder, and her arm right down to the elbow, were pressed against his. Her cheek was almost near enough for him to feel its warmth. She had immediately taken charge of the situation, just as she had done in the canteen. She began speaking in the same expressionless voice as before, with lips barely moving, a mere murmur easily drowned by the din of voices and the rumbling of the trucks.
 
-Yes. Can you get Sunday afternoon off?
+Can you hear me? Yes. Can you get Sunday afternoon off?
 
 
 <a id="sec-035652"></a>
@@ -1650,7 +1692,7 @@ He knelt down and began picking some partly to pass the time away, but also from
 
 To look round was to show guilt. He picked another and another. A hand fell lightly on his shoulder. He looked up.
 
-It was the girl. She shook her head evidently as a warning that he must keep silent, then parted the bushes and quickly led the way along the narrow track into the wood. Obviously she had been that way before, for she dodged the boggy bits as though by habit. Winston followed, still clasping his bunch of flowers.
+It was the girl. She shook her head evidently as a warning that he must keep silent, then parted the bushes and quickly led the way along the narrow track into the wood. Obviously, she had been that way before, for she dodged the boggy bits as though by habit. Winston followed, still clasping his bunch of flowers.
 
 His first feeling was relief, but as he watched the strong, slender body moving in front of him, with the scarlet sash that was just tight enough to bring out the curve of her hips, the sense of his own inferiority was heavy upon him. Even now it seemed quite likely that when she turned round and looked at him, she would draw back after all. The sweetness of the air and the greenness of the leaves daunted him. Already on the walk from the station, the May sunshine had made him feel dirty and etiolated, a creature of indoors, with the sooty dust of London in the paws of his skin.
 
@@ -1666,11 +1708,13 @@ There’s nothing big enough to hide a mic in. Besides, I’ve been here before.
 
 She stood before him, very upright, with a smile on her face that looked faintly ironical, as though she were wondering why he was so slow to act. The bluebells had cascaded onto the ground. They seemed to have fallen of their own accord. He took her hand.
 
-Would you believe, he said, that till this moment I didn’t know what color your eyes were. They were brown, he noted, a rather light shade of brown with dark lashes. Now that you’ve seen what I’m really like, can you still bear to look at me? Yes, easily.
+Would you believe, he said, that till this moment. I didn’t know what color your eyes were. They were brown, he noted, a rather light shade of brown with dark lashes. Now that you’ve seen what.
 
-I’m 39 years old. I’ve got a wife that I can’t get rid of. I’ve got varicose veins. I’ve got five false teeth.
+I’m really like, can you still bear to look at me? Yes, easily. I’m 39 years old. I’ve got a wife that.
 
-I couldn’t care less, said the girl. The next moment, it was hard to say by whose act. She was in his arms. At the beginning, he had no feeling except sheer incredulity. The youthful body was strained against his own.
+I can’t get rid of. I’ve got varicose veins. I’ve got five false teeth. I couldn’t care less, said the girl.
+
+The next moment, it was hard to say by whose act. She was in his arms. At the beginning, he had no feeling except sheer incredulity. The youthful body was strained against his own.
 
 The mass of dark hair was against his face. And yes, actually she had turned her face up and he was kissing the wide red mouth. She had clasped her arms about his neck. She was calling him darling, precious one, loved one.
 
@@ -1684,41 +1728,47 @@ All he felt was incredulity and pride. He was glad that this was happening, but 
 
 He was too much used to living without women. He did not know the reason. The girl picked herself up and pulled a bluebell out of her hair. She sat against him, putting her arm round his waist.
 
-Never mind, dear, there’s no hurry. We’ve got the whole afternoon. Isn’t this a splendid hideout? I found it when I got lost once on a community hike.
+Never mind, dear, there’s no hurry. We’ve got the whole afternoon. Isn’t this a splendid hideout? I found it when.
 
-If anyone was coming, you could hear them a hundred meters away. What is your name? said Winston. Julia, I know yours. It’s Winston.
+I got lost once on a community hike. If anyone was coming, you could hear them a hundred meters away. What is your name? said Winston. Julia, I know yours.
 
-Winston Smith. How did you find that out? I expect I’m better at finding things out than you are, dear. Tell me.
+It’s Winston. Winston Smith. How did you find that out? I expect.
 
-What did you think of me before that day I gave you the note? He did not feel any temptation to tell lies to her. It was even a sort of love offering to start off by telling the worst. I hated the sight of you, he said.
+I’m better at finding things out than you are, dear. Tell me. What did you think of me before that day. I gave you the note?
 
-I wanted to rape you and then murder you afterwards. Two weeks ago, I thought seriously of smashing your head in with a cobblestone. If you really want to know, I imagined that you had something to do with the Thought Police. The girl laughed delightedly, evidently taking this as a tribute to the excellence of her disguise.
+He did not feel any temptation to tell lies to her. It was even a sort of love offering to start off by telling the worst. I hated the sight of you, he said. I wanted to rape you and then murder you afterwards.
 
-Not the Thought Police. You didn’t honestly think that. Well, perhaps not exactly that. But from your general appearance, merely because you’re young and fresh and healthy, you understand, I thought that probably…
+Two weeks ago, I thought seriously of smashing your head in with a cobblestone. If you really want to know, I imagined that you had something to do with the Thought Police. The girl laughed delightedly, evidently taking this as a tribute to the excellence of her disguise. Not the Thought Police.
 
-You thought I was a good party member, pure in word and deed. Banners, processions, slogans, games, community hikes, all that stuff. And you thought that if I had a quarter of a chance, I’d denounce you as a thought criminal and get you killed off. Yes, something of that kind.
+You didn’t honestly think that. Well, perhaps not exactly that. But from your general appearance, merely because you’re young and fresh and healthy, you understand, I thought that probably… You thought.
 
-A great many young girls are like that, you know. It’s this bloody thing that does it, she said, ripping off the scarlet sash of the junior anti-sex league and flinging it onto a bow. Then, as though touching her waist had reminded her of something, she felt in the pocket of her overalls and produced a small slab of chocolate. She broke it in half and gave one of the pieces to Winston.
+I was a good party member, pure in word and deed. Banners, processions, slogans, games, community hikes, all that stuff. And you thought that if. I had a quarter of a chance, I’d denounce you as a thought criminal and get you killed off.
 
-Even before he had taken it, he knew by the smell that it was very unusual chocolate. It was dark and shiny and was wrapped in silver paper. Chocolate normally was dull, brown, crumbly stuff that tasted, as nearly as one could describe it, like the smoke of a rubbish fire. But at some time or another, he had tasted chocolate like the piece she had given him.
+Yes, something of that kind. A great many young girls are like that, you know. It’s this bloody thing that does it, she said, ripping off the scarlet sash of the junior anti-sex league and flinging it onto a bow. Then, as though touching her waist had reminded her of something, she felt in the pocket of her overalls and produced a small slab of chocolate.
 
-The first whiff of its scent had stirred up some memory which he could not pin down, but which was powerful and troubling. Where did you get this stuff, he said. Black market, she said indifferently. Actually, I am that sort of girl to look at.
+She broke it in half and gave one of the pieces to Winston. Even before he had taken it, he knew by the smell that it was very unusual chocolate. It was dark and shiny and was wrapped in silver paper. Chocolate normally was dull, brown, crumbly stuff that tasted, as nearly as one could describe it, like the smoke of a rubbish fire.
 
-I’m good at games. I was a troop leader in the spies. I do voluntary work three evenings a week for the junior anti-sex league. Hours and hours I’ve spent pasting their bloody rot all over London.
+But at some time or another, he had tasted chocolate like the piece she had given him. The first whiff of its scent had stirred up some memory which he could not pin down, but which was powerful and troubling. Where did you get this stuff, he said. Black market, she said indifferently.
 
-I always carry one end of a banner in the processions. I always look cheerful and I never shirk anything. Always yell with the crowd, that’s what I say. It’s the only way to be safe.
+Actually, I am that sort of girl to look at. I’m good at games. I was a troop leader in the spies. I do voluntary work three evenings a week for the junior anti-sex league.
+
+Hours and hours. I’ve spent pasting their bloody rot all over London. I always carry one end of a banner in the processions. I always look cheerful and.
+
+I never shirk anything. Always yell with the crowd, that’s what. I say. It’s the only way to be safe.
 
 The first fragment of chocolate had melted on Winston’s tongue. The taste was delightful. But there was still that memory moving round the edges of his consciousness. Something strongly felt but not reducible to definite shape, like an object seen out of the corner of one’s eye.
 
-He pushed it away from him, aware only that it was the memory of some action which he would have liked to undo but could not. You are very young, he said. You are ten or fifteen years younger than I am. What could you see to attract you in a man like me?
+He pushed it away from him, aware only that it was the memory of some action which he would have liked to undo but could not. You are very young, he said. You are ten or fifteen years younger than. I am.
 
-It was something in your face. I thought I’d take a chance. I’m good at spotting people who don’t belong. As soon as I saw you, I knew you were against them.
+What could you see to attract you in a man like me? It was something in your face. I thought. I’d take a chance.
 
-Them, it appeared, meant the party, and above all the inner party, about whom she talked with an open, jeering hatred which made Winston feel uneasy, although he knew that they were safe here, if they could be safe anywhere. A thing that astonished him about her was the coarseness of her language. Party members were supposed not to swear, and Winston himself very seldom did swear, aloud at any rate. Julia, however, seemed unable to mention the party, and especially the inner party, without using the kind of words that you saw chalked up in dripping alleyways.
+I’m good at spotting people who don’t belong. As soon as. I saw you, I knew you were against them. Them, it appeared, meant the party, and above all the inner party, about whom she talked with an open, jeering hatred which made Winston feel uneasy, although he knew that they were safe here, if they could be safe anywhere.
 
-He did not dislike it. It was merely one symptom of her revolt against the party and all its ways, and somehow it seemed natural and healthy, like the sneeze of a horse that smells bad hay. They had left the clearing and were wandering again through the checkered shade, with their arms round each other’s waists, whenever it was wide enough to walk to a breast. He noticed how much softer her waist seemed to feel now that the sash was gone.
+A thing that astonished him about her was the coarseness of her language. Party members were supposed not to swear, and Winston himself very seldom did swear, aloud at any rate. Julia, however, seemed unable to mention the party, and especially the inner party, without using the kind of words that you saw chalked up in dripping alleyways. He did not dislike it.
 
-They did not speak above a whisper. Outside the clearing, Julia said,
+It was merely one symptom of her revolt against the party and all its ways, and somehow it seemed natural and healthy, like the sneeze of a horse that smells bad hay. They had left the clearing and were wandering again through the checkered shade, with their arms round each other’s waists, whenever it was wide enough to walk to a breast. He noticed how much softer her waist seemed to feel now that the sash was gone. They did not speak above a whisper.
+
+Outside the clearing, Julia said,
 
 
 <a id="sec-041204"></a>
@@ -1734,21 +1784,21 @@ There must be a stream with green pools where dace were swimming. Isn’t there 
 
 It’s at the edge of the next field, actually. There are fish in it, great big ones. You can watch them lying in the pools under the willow trees, waving their tails. It’s the golden country, almost, he murmured.
 
-The golden country? It’s nothing, really. A landscape I’ve seen sometimes in a dream. Look, whispered Julia.
+The golden country? It’s nothing, really. A landscape. I’ve seen sometimes in a dream.
 
-A thrush had alighted on a bough not five meters away, almost at the level of their faces. Perhaps it had not seen them. It was in the sun, they in the shade. It spread out its wings, fitted them carefully into place again, ducked its head for a moment, as though making a sort of a basence to the sun, and then began to pour forth a torrent of song.
+Look, whispered Julia. A thrush had alighted on a bough not five meters away, almost at the level of their faces. Perhaps, it had not seen them. It was in the sun, they in the shade.
 
-In the afternoon hush, the volume of sound was startling. Winston and Julia clung together, fascinated. The music went on and on, minute after minute, with astonishing variations, never once repeating itself, almost as though the bird were deliberately showing off its virtuosity. Sometimes it stopped for a few seconds, spread out and resettled its wings, then swelled its speckled breast and again burst into song.
+It spread out its wings, fitted them carefully into place again, ducked its head for a moment, as though making a sort of a basence to the sun, and then began to pour forth a torrent of song. In the afternoon hush, the volume of sound was startling. Winston and Julia clung together, fascinated. The music went on and on, minute after minute, with astonishing variations, never once repeating itself, almost as though the bird were deliberately showing off its virtuosity.
 
-Winston watched it with a sort of vague reverence. For whom, for what, was that bird singing? No mate, no rival was watching it. What made it sit at the edge of the lonely wood and pour its music into nothingness?
+Sometimes it stopped for a few seconds, spread out and resettled its wings, then swelled its speckled breast and again burst into song. Winston watched it with a sort of vague reverence. For whom, for what, was that bird singing? No mate, no rival was watching it.
 
-He wondered whether after all there was a microphone hidden somewhere near. He and Julia had spoken only in low whispers, and it would not pick up what they had said, but it would pick up the thrush. Perhaps at the other end of the instrument, some small, beetle-like man was listening intently, listening to that. But by degrees, the flood of music drove all speculations out of it. of his mind.
+What made it sit at the edge of the lonely wood and pour its music into nothingness? He wondered whether after all there was a microphone hidden somewhere near. He and Julia had spoken only in low whispers, and it would not pick up what they had said, but it would pick up the thrush. Perhaps, at the other end of the instrument, some small, beetle-like man was listening intently, listening to that.
 
-It was as though it were a kind of liquid stuff that poured all over him and got mixed up with the sunlight that filtered through the leaves. He stopped thinking and merely felt. The girl’s waste in the bend of his arm was soft and warm. He pulled her round so that they were breast to breast.
+But by degrees, the flood of music drove all speculations out of it. of his mind. It was as though it were a kind of liquid stuff that poured all over him and got mixed up with the sunlight that filtered through the leaves. He stopped thinking and merely felt. The girl’s waste in the bend of his arm was soft and warm.
 
-Her body seemed to melt into his. Wherever his hands moved it was all as yielding as water. Their mouths clung together. It was quite different from the hard kisses they had exchanged earlier.
+He pulled her round so that they were breast to breast. Her body seemed to melt into his. Wherever his hands moved it was all as yielding as water. Their mouths clung together.
 
-When they moved their faces apart again, both of them sighed deeply. The bird took fright and fled with a clatter of wings. Winston put his lips against her ear.
+It was quite different from the hard kisses they had exchanged earlier. When they moved their faces apart again, both of them sighed deeply. The bird took fright and fled with a clatter of wings. Winston put his lips against her ear.
 
 Now, he whispered. Not here, she whispered back. Come back to the hideout, it’s safer. Quickly, with an occasional crackle of twigs, they threaded their way back to the clearing.
 
@@ -1760,51 +1810,53 @@ He knelt down before her and took her hands in his. Have you done this before? O
 
 Well, scores of times, anyway. With party members? Yes, always with party members. With members of the inner party?
 
-Not with those swine, no. But there’s plenty that would if they got half a chance. They’re not so holy as they make out. His heart leaped. Scores of time she had done it.
+Not with those swine, no. But there’s plenty that would if they got half a chance. They’re not so holy as they make out. His heart leaped.
 
-He wished
+Scores of time she had done it. He wished
 
 
 <a id="sec-041709"></a>
 ### ⏱️ [04:17:09 - 04:22:14]
 
-it had been hundreds, thousands. Anything that hinted at corruption always filled him with a wild hope. Who knew? Perhaps the party was rotten under the surface.
+it had been hundreds, thousands. Anything that hinted at corruption always filled him with a wild hope. Who knew? Perhaps, the party was rotten under the surface.
 
 Its cult of strenuousness and self-denial simply a sham concealing iniquity. If he could have infected the whole lot of them with leprosy or syphilis, how gladly he would have done so. Anything to rot, to weaken, to undermine. He pulled her down so that they were kneeling face to face.
 
-Listen. The more men you’ve had, the more I love you. Do you understand that? Yes, perfectly.
+Listen. The more men you’ve had, the more. I love you. Do you understand that?
 
-I hate purity. I hate goodness. I don’t want any virtue to exist anywhere. I want everyone to be corrupt to the bones.
+Yes, perfectly. I hate purity. I hate goodness. I don’t want any virtue to exist anywhere.
 
-Well, then I ought to suit you, dear. I’m corrupt to the bones. You like doing this. I don’t mean simply me.
+I want everyone to be corrupt to the bones. Well, then. I ought to suit you, dear. I’m corrupt to the bones.
 
-I mean the thing in itself. I adore it. That was above all what he wanted to hear. Not merely the love of one person, but the animal instinct.
+You like doing this. I don’t mean simply me. I mean the thing in itself. I adore it.
 
-The simple undifferentiated desire. That was the force that would tear the party to pieces. He pressed her down upon the grass, among the fallen bluebells. This time there was no difficulty.
+That was above all what he wanted to hear. Not merely the love of one person, but the animal instinct. The simple undifferentiated desire. That was the force that would tear the party to pieces.
 
-Presently, the rising and falling of their breasts slowed to normal speed, and in a sort of pleasant helplessness, they fell apart. The sun seemed to have grown hotter. They were both sleepy. He reached out for the discarded overalls and pulled them partly over her.
+He pressed her down upon the grass, among the fallen bluebells. This time there was no difficulty. Presently, the rising and falling of their breasts slowed to normal speed, and in a sort of pleasant helplessness, they fell apart. The sun seemed to have grown hotter.
 
-Almost immediately, they fell asleep and slept for about half an hour. Winston woke first. He sat up and watched the freckled face, still peacefully asleep, pillowed on the palm of her hand. Except for her mouth, you could not call her beautiful.
+They were both sleepy. He reached out for the discarded overalls and pulled them partly over her. Almost immediately, they fell asleep and slept for about half an hour. Winston woke first.
 
-There was a line or two round the eyes if you looked closely. The short dark hair was extraordinarily thick and soft. It occurred to him that he still did not know her surname or where she lived. The young, strong body, now helpless in sleep, awoke in him a pitying, protecting feeling.
+He sat up and watched the freckled face, still peacefully asleep, pillowed on the palm of her hand. Except for her mouth, you could not call her beautiful. There was a line or two round the eyes if you looked closely. The short dark hair was extraordinarily thick and soft.
 
-But the mindless tenderness that he had felt under the hazel tree, while the thrush was singing, had not quite come back. He pulled the overalls aside and studied her smooth, white flank. In the old days, he thought, a man looked at a girl’s body and saw that it was desirable, and that was the end of the story. But you could not have pure love or pure lust nowadays.
+It occurred to him that he still did not know her surname or where she lived. The young, strong body, now helpless in sleep, awoke in him a pitying, protecting feeling. But the mindless tenderness that he had felt under the hazel tree, while the thrush was singing, had not quite come back. He pulled the overalls aside and studied her smooth, white flank.
 
-No emotion was pure because everything was mixed up with fear and hatred. Their embrace had been a battle, the climax, a victory. It was a blow struck against the party. It was a political act.
+In the old days, he thought, a man looked at a girl’s body and saw that it was desirable, and that was the end of the story. But you could not have pure love or pure lust nowadays. No emotion was pure because everything was mixed up with fear and hatred. Their embrace had been a battle, the climax, a victory.
 
-#### Chapter 3.
+It was a blow struck against the party. It was a political act.
 
-We can come here once again, said Julia. It’s generally safe to use any hideout twice, but not for another month or two, of course. As soon as she woke up, her demeanor had changed. She became alert and business-like, put her clothes on, knotted the scarlet sash about her waist, and began arranging the details of the journey home.
+#### Chapter 3. We can come here once again, said Julia. It’s generally safe to use any hideout twice, but not for another month or two, of course.
 
-It seemed natural to leave this to her. She obviously had a practical cunning which Winston lacked, and she seemed also to have an exhaustive knowledge of the countryside round London, stored away from innumerable community hikes. The route she gave him was quite different from the one by which he had come and brought him out at a different railway station. Never go home the same way as you went out, she said, as though enunciating an important general principle.
+As soon as she woke up, her demeanor had changed. She became alert and business-like, put her clothes on, knotted the scarlet sash about her waist, and began arranging the details of the journey home. It seemed natural to leave this to her. She obviously had a practical cunning which Winston lacked, and she seemed also to have an exhaustive knowledge of the countryside round London, stored away from innumerable community hikes.
 
-She would leave first, and Winston was to wait half an hour before following her. She had named a place where they could meet after work. Four evenings hence. It was a street in one of the poorer quarters where there was an open market which was generally crowded and noisy.
+The route she gave him was quite different from the one by which he had come and brought him out at a different railway station. Never go home the same way as you went out, she said, as though enunciating an important general principle. She would leave first, and Winston was to wait half an hour before following her. She had named a place where they could meet after work.
 
-She would be hanging about among the stalls, pretending to be in search of shoelaces or sewing thread. If she judged that the coast was clear, she would blow her nose when he approached. Otherwise, he was to walk past her without recognition. But with luck, in the middle of the crowd, it would be safe to talk for a quarter of an hour and arrange another meeting.
+Four evenings hence. It was a street in one of the poorer quarters where there was an open market which was generally crowded and noisy. She would be hanging about among the stalls, pretending to be in search of shoelaces or sewing thread. If she judged that the coast was clear, she would blow her nose when he approached.
 
-And now I must go, she said, as soon as he had mastered his instructions. I’m due back at nineteen-thirty. I’ve got to put in two hours for the junior anti-sex league, handing out leaflets or something. Isn’t it bloody?
+Otherwise, he was to walk past her without recognition. But with luck, in the middle of the crowd, it would be safe to talk for a quarter of an hour and arrange another meeting. And now. I must go, she said, as soon as he had mastered his instructions.
 
-Give me a brush down, would you? Have I got any twigs in my hair? Are you sure, then goodbye, my love, goodbye? She flung herself into his arms, kissed him almost violently, and a moment later pushed her way through the saplings and disappeared into the wood with very little noise.
+I’m due back at nineteen-thirty. I’ve got to put in two hours for the junior anti-sex league, handing out leaflets or something. Isn’t it bloody? Give me a brush down, would you?
+
+Have. I got any twigs in my hair? Are you sure, then goodbye, my love, goodbye? She flung herself into his arms, kissed him almost violently, and a moment later pushed her way through the saplings and disappeared into the wood with very little noise.
 
 Even now, he had not found out her surname or her address. However, it made no difference, for it was inconceivable that they could ever
 
@@ -1830,11 +1882,13 @@ It was camouflage. If you kept the small rules, you could break the big ones. Sh
 
 When they met in the church tower, the gaps in their fragmentary conversation were filled up. It was a blazing afternoon. The air in the little square chamber above the bells was hot and stagnant and smelt overpoweringly of pigeon dung. They sat talking for hours on the dusty, twig-littered floor, one or other of them getting up from time to time to cast a glance through the arrow slits and make sure that no one was coming.
 
-Julia was twenty-six years old. She lived in a hostel with thirty other girls. Always in the stink of women. How I hate women, she said parenthetically.
+Julia was twenty-six years old. She lived in a hostel with thirty other girls. Always in the stink of women. How.
 
-And she worked, as he had guessed, on the novel writing machines in the fiction department. She enjoyed her work which consisted chiefly in running and servicing a powerful but tricky electric motor. She was not clever but was fond of using her hands and felt at home with machinery. She could describe the whole process of composing a novel, from the general directive issued by the planning committee down to the final touching up by the rewrite squad.
+I hate women, she said parenthetically. And she worked, as he had guessed, on the novel writing machines in the fiction department. She enjoyed her work which consisted chiefly in running and servicing a powerful but tricky electric motor. She was not clever but was fond of using her hands and felt at home with machinery.
 
-But she was not interested in the finished product. She didn’t much care for reading, she said. Books were just a commodity that had to be produced, like jam or boot laces. She had no memories of anything before the early sixties, and the only person she’d ever known who talked frequently of the days before the revolution
+She could describe the whole process of composing a novel, from the general directive issued by the planning committee down to the final touching up by the rewrite squad. But she was not interested in the finished product. She didn’t much care for reading, she said. Books were just a commodity that had to be produced, like jam or boot laces.
+
+She had no memories of anything before the early sixties, and the only person she’d ever known who talked frequently of the days before the revolution
 
 
 <a id="sec-042718"></a>
@@ -1846,33 +1900,33 @@ She had even, an infallible mark of good reputation, been picked out to work in 
 
 What are these books like? said Winston curiously. Oh ghastly rubbish. They’re boring, really. They only have six plots, but they swapped them round a bit.
 
-Of course I was only on the kaleidoscopes. I was never in the rewrite squad. I’m not literary, dear. Not even enough for that.
+Of course. I was only on the kaleidoscopes. I was never in the rewrite squad. I’m not literary, dear.
 
-He learned with astonishment that all the workers in pornosec, except the heads of the departments, were girls. The theory was that men, whose sex instincts were less controllable than those of women, were in greater danger of being corrupted by the filth they handled. They don’t even like having married women there, she added. Girls are always supposed to be so pure.
+Not even enough for that. He learned with astonishment that all the workers in pornosec, except the heads of the departments, were girls. The theory was that men, whose sex instincts were less controllable than those of women, were in greater danger of being corrupted by the filth they handled. They don’t even like having married women there, she added.
 
-Here’s one who isn’t, anyway. She had had her first love affair when she was 16, with a party member of 60 who later committed suicide to avoid arrest. And a good job too, said Julia, otherwise they’d have had my name out of him when he confessed. Since then, there had been various others.
+Girls are always supposed to be so pure. Here’s one who isn’t, anyway. She had had her first love affair when she was 16, with a party member of 60 who later committed suicide to avoid arrest. And a good job too, said Julia, otherwise they’d have had my name out of him when he confessed.
 
-Life as she saw it was quite simple. You wanted a good time, they, meaning the party, wanted to stop you having it. You broke the rules as best you could. She seemed to think it just as natural that they should want to rob you of your pleasures, as that you should want to avoid being caught.
+Since then, there had been various others. Life as she saw it was quite simple. You wanted a good time, they, meaning the party, wanted to stop you having it. You broke the rules as best you could.
 
-She hated the party, and said so in the crudest words. But she made no general criticism of it. Except where it touched upon her own life, she had no interest in party doctrine. He noticed that she never used newspeak words except the ones that had passed into everyday use.
+She seemed to think it just as natural that they should want to rob you of your pleasures, as that you should want to avoid being caught. She hated the party, and said so in the crudest words. But she made no general criticism of it. Except where it touched upon her own life, she had no interest in party doctrine.
 
-She had never heard of the brotherhood, and refused to believe in its existence. Any kind of organized revolt against the party, which was bound to be a failure. struck her as stupid. The clever thing was to break the rules and stay alive all the same. He wondered vaguely how many others like her there might be in the younger generation people who had grown up in the world of the revolution, knowing nothing else.
+He noticed that she never used newspeak words except the ones that had passed into everyday use. She had never heard of the brotherhood, and refused to believe in its existence. Any kind of organized revolt against the party, which was bound to be a failure. struck her as stupid. The clever thing was to break the rules and stay alive all the same.
 
-Accepting the party as something unalterable, like the sky. Not rebelling against its authority but simply evading it as a rabbit dodges a dog. They did not discuss the possibility of getting married. It was too remote to be worth thinking about.
+He wondered vaguely how many others like her there might be in the younger generation people who had grown up in the world of the revolution, knowing nothing else. Accepting the party as something unalterable, like the sky. Not rebelling against its authority but simply evading it as a rabbit dodges a dog. They did not discuss the possibility of getting married.
 
-No imaginable committee would ever sanction such a marriage, even if Catherine, Winston’s wife, could somehow have been got rid of. It was hopeless even as a daydream. What was she like, your wife, said Julia? She was, do you know the new speak word, good thinkful?
+It was too remote to be worth thinking about. No imaginable committee would ever sanction such a marriage, even if Catherine, Winston’s wife, could somehow have been got rid of. It was hopeless even as a daydream. What was she like, your wife, said Julia?
 
-Meaning naturally orthodox, incapable of thinking a bad thought? No, I didn’t know the word, but I know the kind of person right enough. He began telling her the story of his married life, but curiously enough, she appeared to know the essential parts of it already. She described to him, almost as though she had seen or felt it, the stiffening of Catherine’s body as soon as he touched her.
+She was, do you know the new speak word, good thinkful? Meaning naturally orthodox, incapable of thinking a bad thought? No, I didn’t know the word, but. I know the kind of person right enough.
 
-The way in which she still seemed to be pushing him from her with all her strength, even when her arms were clasped tightly around him. With Julia, he felt no difficulty in talking about such things. Catherine, in any case, had long ceased to be a painful memory, and became merely a distasteful one. I could have stood it if it hadn’t been for one thing, he said.
+He began telling her the story of his married life, but curiously enough, she appeared to know the essential parts of it already. She described to him, almost as though she had seen or felt it, the stiffening of Catherine’s body as soon as he touched her. The way in which she still seemed to be pushing him from her with all her strength, even when her arms were clasped tightly around him. With Julia, he felt no difficulty in talking about such things.
 
-He told her about the frigid little ceremony that Catherine had forced him to go through on the same night every week. She hated it, but nothing would make her stop doing it. She used to call it, but you’ll never guess. Our duty to the party, said Julia promptly.
+Catherine, in any case, had long ceased to be a painful memory, and became merely a distasteful one. I could have stood it if it hadn’t been for one thing, he said. He told her about the frigid little ceremony that Catherine had forced him to go through on the same night every week. She hated it, but nothing would make her stop doing it.
 
-How did you know that? I’ve been at school too, dear. Sex talks once a month for the over 16s. And in the youth movement, they rub it into you for years.
+She used to call it, but you’ll never guess. Our duty to the party, said Julia promptly. How did you know that? I’ve been at school too, dear.
 
-I dare say it works in a lot of cases. But of course you can never tell. People are such hypocrites. She began to enlarge upon the subject.
+Sex talks once a month for the over 16s. And in the youth movement, they rub it into you for years. I dare say it works in a lot of cases. But of course you can never tell.
 
-With Julia, everything came back to her own sexuality. As soon as this was touched upon in any way, she was capable of greater cuteness.
+People are such hypocrites. She began to enlarge upon the subject. With Julia, everything came back to her own sexuality. As soon as this was touched upon in any way, she was capable of greater cuteness.
 
 
 <a id="sec-043222"></a>
@@ -1900,9 +1954,11 @@ She had already turned to go, but she did rather fretfully come back for a momen
 
 There was not a human creature anywhere, not a leaf stirring, not even a bird awake. In a place like this, the danger that there would be a hidden microphone was very small. And even if there was a microphone, it would only pick up sounds. It was the hottest, sleepiest hour of the afternoon.
 
-The sun blazed down upon them, the sweat tickled his face, and the thought struck him. Why didn’t you give her a good shove, said Julia? I would have. Yes, dear, you would have, I would, if I’d been the same person then as I am now.
+The sun blazed down upon them, the sweat tickled his face, and the thought struck him. Why didn’t you give her a good shove, said Julia? I would have. Yes, dear, you would have, I would, if.
 
-Or perhaps I would, I’m not certain. Are you sorry you didn’t? Yes, on the whole, I’m sorry I didn’t. They were sitting side by side on the dusty floor.
+I’d been the same person then as. I am now. Or perhaps. I would, I’m not certain.
+
+Are you sorry you didn’t? Yes, on the whole, I’m sorry. I didn’t. They were sitting side by side on the dusty floor.
 
 He pulled her closer against him. Her head rested on his shoulder, the pleasant smell of her hair conquering the pigeon dung. She was very young, he thought. She still expected something from life.
 
@@ -1912,41 +1968,43 @@ She did not understand that to push an inconvenient person over a cliff
 <a id="sec-043723"></a>
 ### ⏱️ [04:37:23 - 04:42:25]
 
-solves nothing. Actually, it would have made no difference, he said. Then why are you sorry you didn’t do it? Only because I prefer a positive to a negative.
+solves nothing. Actually, it would have made no difference, he said. Then why are you sorry you didn’t do it? Only because.
 
-In this game that we’re playing, we can’t win. Some kinds of failure are better than other kinds, that’s all. He felt her shoulders give a wriggle of dissent. She always contradicted him when he said anything of this kind.
+I prefer a positive to a negative. In this game that we’re playing, we can’t win. Some kinds of failure are better than other kinds, that’s all. He felt her shoulders give a wriggle of dissent.
 
-She would not accept it as a law of nature that the individual is always defeated. In a way, she realized that she herself was doomed. That sooner or later, the thought police would catch her and kill her. But with another part of her mind, she believed that it was somehow possible to construct a secret world in which you could live as you chose.
+She always contradicted him when he said anything of this kind. She would not accept it as a law of nature that the individual is always defeated. In a way, she realized that she herself was doomed. That sooner or later, the thought police would catch her and kill her.
 
-All you needed was luck and cunning and boldness. She did not understand that there was no such thing as happiness. That the only victory lay in the far future, long after you were dead. That from the moment of declaring war on the party, it was better to think of yourself as a corpse.
+But with another part of her mind, she believed that it was somehow possible to construct a secret world in which you could live as you chose. All you needed was luck and cunning and boldness. She did not understand that there was no such thing as happiness. That the only victory lay in the far future, long after you were dead.
 
-We are the dead, he said. We’re not dead yet, said Julia prosaically. Not physically, six months, a year, five years conceivably. I am afraid of death.
+That from the moment of declaring war on the party, it was better to think of yourself as a corpse. We are the dead, he said. We’re not dead yet, said Julia prosaically. Not physically, six months, a year, five years conceivably.
 
-You are young, so presumably you’re more afraid of it than I am. Obviously, we shall put it off as long as we can, but it makes very little difference. So long as human beings stay human, death and life are the same thing. Rubbish, which would you soon sleep with, me or a skeleton?
+I am afraid of death. You are young, so presumably you’re more afraid of it than. I am. Obviously, we shall put it off as long as we can, but it makes very little difference.
 
-Don’t you enjoy being alive? Don’t you like feeling? This is me, this is my hand, this is my leg. I’m real, I’m solid, I’m alive.
+So long as human beings stay human, death and life are the same thing. Rubbish, which would you soon sleep with, me or a skeleton? Don’t you enjoy being alive? Don’t you like feeling?
 
-Don’t you like this? She twisted herself round and pressed her bosom against him. He could feel her breasts, ripe yet firm through her overalls. Her body seemed to be pouring some of its youth and vigor into his.
+This is me, this is my hand, this is my leg. I’m real, I’m solid, I’m alive. Don’t you like this? She twisted herself round and pressed her bosom against him.
 
-Yes, I like that, he said, and stop talking about dying. And now listen, dear, we’ve got to fix up about the next time we meet. We may as well go back to the place in the wood. We’ve given it a good long rest.
+He could feel her breasts, ripe yet firm through her overalls. Her body seemed to be pouring some of its youth and vigor into his. Yes, I like that, he said, and stop talking about dying. And now listen, dear, we’ve got to fix up about the next time we meet.
 
-But you must get there by a different way this time. I’ve got it all planned out. You take the train, but look, I’ll draw it out for you. And in her practical way, she scraped together a small square of dust.
+We may as well go back to the place in the wood. We’ve given it a good long rest. But you must get there by a different way this time. I’ve got it all planned out.
 
-And with a twig from a pigeon’s nest, began drawing a map on the floor.
+You take the train, but look, I’ll draw it out for you. And in her practical way, she scraped together a small square of dust. And with a twig from a pigeon’s nest, began drawing a map on the floor.
 
-#### Chapter 4. Winston looked round the shabby little room above Mr. Charrington’s shop. Beside the window, the enormous bed was made up with ragged blankets and a coverless bolster. The old fashioned clock with the 12 hour face was ticking away on the mantelpiece.
+#### Chapter 4. Winston looked round the shabby little room above Mr.
 
-In the corner, on the gate leg table, the glass paper weight which he had bought on his last visit gleamed softly out of the half darkness. In the fender was a battered tin oil stove, a saucepan, and two cups provided by Mr. Charrington. Winston lit the burner and set a pan of water to boil. He had brought an envelope full of victory coffee and some saccharine tablets.
+Charrington’s shop. Beside the window, the enormous bed was made up with ragged blankets and a coverless bolster. The old fashioned clock with the 12 hour face was ticking away on the mantelpiece. In the corner, on the gate leg table, the glass paper weight which he had bought on his last visit gleamed softly out of the half darkness.
+
+In the fender was a battered tin oil stove, a saucepan, and two cups provided by Mr. Charrington. Winston lit the burner and set a pan of water to boil. He had brought an envelope full of victory coffee and some saccharine tablets.
 
 The clock’s hands said 1720. It was 1920, really. She was coming at 1930. Folly, folly, his heart kept saying.
 
-Conscious, gratuitous, suicidal folly. Of all the crimes that a party member could commit, this one was the least possible to conceal. Actually, the idea had first floated into his head in the form of a vision, of the glass paper weight mirrored by the surface of the gate leg table. As he had foreseen, Mr. Charrington had made no difficulty about letting the room.
+Conscious, gratuitous, suicidal folly. Of all the crimes that a party member could commit, this one was the least possible to conceal. Actually, the idea had first floated into his head in the form of a vision, of the glass paper weight mirrored by the surface of the gate leg table. As he had foreseen, Mr.
 
-He was obviously glad of the few dollars that it would bring him. Nor did he seem shocked or become offensively knowing when it was made clear that Winston wanted the room for the purpose of a love affair. Instead, he looked into the middle distance and spoke in generalities, with so delicate an air as to give the impression that he had become partly invisible. Privacy, he said, was a very valuable thing.
+Charrington had made no difficulty about letting the room. He was obviously glad of the few dollars that it would bring him. Nor did he seem shocked or become offensively knowing when it was made clear that Winston wanted the room for the purpose of a love affair. Instead, he looked into the middle distance and spoke in generalities, with so delicate an air as to give the impression that he had become partly invisible.
 
-Everyone wanted a place where they could be alone occasionally. And when they had such a place, it was only common courtesy in anyone else who knew of it to keep his knowledge to himself. He even, seeming almost to fade out of existence as he did so, added that there were two entries to the house, one of them through the backyard, which gave on an alley. Under the window, somebody was singing.
+Privacy, he said, was a very valuable thing. Everyone wanted a place where they could be alone occasionally. And when they had such a place, it was only common courtesy in anyone else who knew of it to keep his knowledge to himself. He even, seeming almost to fade out of existence as he did so, added that there were two entries to the house, one of them through the backyard, which gave on an alley.
 
-Winston peeped out, secure in the protection of the muslin curtain. The dune sun was still high in the sky, and in the sun filled court below, a monstrous woman, solid as a Norman pillar, with brawny red forearms and
+Under the window, somebody was singing. Winston peeped out, secure in the protection of the muslin curtain. The dune sun was still high in the sky, and in the sun filled court below, a monstrous woman, solid as a Norman pillar, with brawny red forearms and
 
 
 <a id="sec-044225"></a>
@@ -1972,39 +2030,43 @@ During the month that he had known her, the nature of his desire for her had cha
 
 She had become a physical necessity, something that he not only wanted, but felt that he had a right to. When she said that she could not come, he had the feeling that she was cheating him. But just at this moment the crowd pressed them together, and their hands accidentally met. She gave the tips of his fingers a quick squeeze that seemed to invite not desire but affection.
 
-It struck him that when one lived with a woman, this particular disappointment must be a normal, recurring event, and a deep tenderness, such as he had not felt for her before, suddenly took hold of him. He wished that they were a married couple of ten years standing. He wished that he were walking through the streets with her just as they were doing now, but openly and without fear, talking of trivialities and buying odds and ends for the household. He wished above all that they had some place where they could be alone together, without feeling the obligation to make love every time they met.
+It struck him that when one lived with a woman, this particular disappointment must be a normal, recurring event, and a deep tenderness, such as he had not felt for her before, suddenly took hold of him. He wished that they were a married couple of ten years standing. He wished that he were walking through the streets with her just as they were doing now, but openly and without fear, talking of trivialities and buying odds and ends for the household.
 
-It was not actually at that moment, but at some time on the following day that the idea of renting Mr. Charrington’s room had occurred to him. When he suggested it to Julia, she had agreed with unexpected readiness. Both of them knew that it was lunacy. It was as though they were intentionally stepping nearer to their graves.
+He wished above all that they had some place where they could be alone together, without feeling the obligation to make love every time they met. It was not actually at that moment, but at some time on the following day that the idea of renting Mr. Charrington’s room had occurred to him. When he suggested it to Julia, she had agreed with unexpected readiness.
 
-As he sat waiting on the edge of the bed, he thought again of the cellars of the Ministry of Love. It was curious how that predestined horror moved in and out of one’s consciousness. There it lay, fixed in future times, preceding death, as surely as 99 precedes 100. One could not avoid it, but one could perhaps postpone it, and yet instead, every now and again, by a conscious, willful act, one chose to shorten the interval before it happened.
+Both of them knew that it was lunacy. It was as though they were intentionally stepping nearer to their graves. As he sat waiting on the edge of the bed, he thought again of the cellars of the Ministry of Love. It was curious how that predestined horror moved in and out of one’s consciousness.
 
-At this moment there was a quick step on the stairs. Julia burst into the room. She was carrying a tool bag of coarse brown canvas, such as he had sometimes seen her carrying to and fro at the Ministry. He started forward to take her in his arms, but she disengaged herself rather hurriedly,
+There it lay, fixed in future times, preceding death, as surely as 99 precedes 100. One could not avoid it, but one could perhaps postpone it, and yet instead, every now and again, by a conscious, willful act, one chose to shorten the interval before it happened. At this moment there was a quick step on the stairs. Julia burst into the room.
+
+She was carrying a tool bag of coarse brown canvas, such as he had sometimes seen her carrying to and fro at the Ministry. He started forward to take her in his arms, but she disengaged herself rather hurriedly,
 
 
 <a id="sec-044730"></a>
 ### ⏱️ [04:47:30 - 04:52:31]
 
-partly because she was still holding the tool bag. Half a second, she said, just let me show you what I’ve brought. Did you bring some of that filthy victory coffee? I thought you would.
+partly because she was still holding the tool bag. Half a second, she said, just let me show you what. I’ve brought. Did you bring some of that filthy victory coffee?
 
-You can chuck it away again because we shan’t be needing it. Look here. She fell on her knees, threw open the bag, and tumbled out some spanners and a screwdriver that filled the top part of it. Underneath were a number of neat paper packets.
+I thought you would. You can chuck it away again because we shan’t be needing it. Look here. She fell on her knees, threw open the bag, and tumbled out some spanners and a screwdriver that filled the top part of it.
 
-The first packet that she passed to Winston had a strange and yet vaguely familiar feeling. It was filled with some kind of heavy, sand-like stuff, which yielded wherever you touched it. It isn’t sugar, he said, real sugar, not saccharine, sugar. And here’s a loaf of bread, proper white bread, not our bloody stuff, and a little pot of jam.
+Underneath were a number of neat paper packets. The first packet that she passed to Winston had a strange and yet vaguely familiar feeling. It was filled with some kind of heavy, sand-like stuff, which yielded wherever you touched it. It isn’t sugar, he said, real sugar, not saccharine, sugar.
 
-And here’s a tin of milk. But look, this is the one I’m really proud of. I had to wrap a bit of sacking round it because… but she did not need to tell him why she had wrapped it up. The smell was already filling the room, a rich hot smell which seemed like an emanation from his early childhood, but which one did occasionally meet with even now, blowing down a passageway before a door slammed, or diffusing itself mysteriously in a crowded street, sniffed for an instant, and then lost again.
+And here’s a loaf of bread, proper white bread, not our bloody stuff, and a little pot of jam. And here’s a tin of milk. But look, this is the one. I’m really proud of.
 
-It’s coffee, he murmured. Real coffee. It’s inner party coffee. There’s a whole kilo here, she said.
+I had to wrap a bit of sacking round it because… but she did not need to tell him why she had wrapped it up. The smell was already filling the room, a rich hot smell which seemed like an emanation from his early childhood, but which one did occasionally meet with even now, blowing down a passageway before a door slammed, or diffusing itself mysteriously in a crowded street, sniffed for an instant, and then lost again. It’s coffee, he murmured.
 
-How did you manage to get hold of all these things? It’s all inner party stuff. There’s nothing those swine don’t have, nothing, but of course waiters and servants and people pinch things, and… look, I got a little packet of tea as well. Winston had squatted down beside her.
+Real coffee. It’s inner party coffee. There’s a whole kilo here, she said. How did you manage to get hold of all these things?
 
-He tore open a corner of the packet. It’s real tea, not blackberry leaves. There’s been a lot of tea about lately. They’ve captured India or something, she said vaguely.
+It’s all inner party stuff. There’s nothing those swine don’t have, nothing, but of course waiters and servants and people pinch things, and… look, I got a little packet of tea as well. Winston had squatted down beside her. He tore open a corner of the packet.
 
-But listen, dear. I want you to turn your back on me for three minutes. Go and sit on the other side of the bed. Don’t go too near the window, and don’t turn round till I tell you.
+It’s real tea, not blackberry leaves. There’s been a lot of tea about lately. They’ve captured India or something, she said vaguely. But listen, dear.
+
+I want you to turn your back on me for three minutes. Go and sit on the other side of the bed. Don’t go too near the window, and don’t turn round till. I tell you.
 
 Winston gazed abstractedly through the muslin curtain. Down in the yard, the red-armed woman was still marching to and fro between the washtub and the line. She took two more pegs out of her mouth and sang with deep feeling. They see that time eels all things.
 
 They see you can always forget. But the smiles and the tears across the years they twist my art strings yet. She knew the whole driveling song by heart, it seemed. Her voice floated upward with the sweet summer air, very tuneful, charged with a sort of happy melancholy.
 
-One had the feeling that she would have been perfectly content if the June evening had been endless and the supply of clothes inexhaustible, to remain there for a thousand years, pegging out diapers and singing rubbish. It struck him as a curious fact that he had never heard a member of the party singing alone and spontaneously. It would even have seemed slightly unorthodox, a dangerous eccentricity, like talking to oneself. Perhaps it was only when people were somewhere near the starvation level that they had anything to sing about.
+One had the feeling that she would have been perfectly content if the June evening had been endless and the supply of clothes inexhaustible, to remain there for a thousand years, pegging out diapers and singing rubbish. It struck him as a curious fact that he had never heard a member of the party singing alone and spontaneously. It would even have seemed slightly unorthodox, a dangerous eccentricity, like talking to oneself. Perhaps, it was only when people were somewhere near the starvation level that they had anything to sing about.
 
 You can turn round now, said Julia. He turned round and for a second almost failed to recognize her. What he had actually expected was to see her naked. But she was not naked.
 
@@ -2014,9 +2076,9 @@ There was even a touch of something under the eyes to make them brighter. It was
 
 With just a few dabs of colour in the right places she had become not only very much prettier, but above all far more feminine. Her short hair and boyish overalls merely added to the effect. As he took her in his arms, a wave of synthetic violets flooded his nostrils. He remembered the half darkness of a basement kitchen and a woman’s cavernous mouth.
 
-It was the very same scent that she had used, but at the moment it did not seem to matter. Scent too, he said. Yes, dear, scent too. And do you know what I’m going to do next?
+It was the very same scent that she had used, but at the moment it did not seem to matter. Scent too, he said. Yes, dear, scent too. And do you know what.
 
-I’m going to get hold of a real woman’s frock from somewhere and wear it instead of these bloody trousers. I’ll wear silk stockings and high-heeled shoes. In this room,
+I’m going to do next? I’m going to get hold of a real woman’s frock from somewhere and wear it instead of these bloody trousers. I’ll wear silk stockings and high-heeled shoes. In this room,
 
 
 <a id="sec-045231"></a>
@@ -2062,45 +2124,47 @@ What was even better than the taste of the coffee was the silky texture given to
 
 She brought the glass paperweight over to the bed to have a look at it in a better light. He took it out of her hand, fascinated, as always, by the soft, rainwatery appearance of the glass. What is it, do you think, said Julia? I don’t think it’s anything.
 
-I mean, I don’t think it was ever put to any use. That’s what I like about it. It’s a little chunk of history that they’ve forgotten to alter. It’s a message from a hundred years ago, if one knew how to read it.
+I mean, I don’t think it was ever put to any use. That’s what. I like about it. It’s a little chunk of history that they’ve forgotten to alter.
 
-And that picture over there, she nodded at the engraving on the opposite wall. Would that be a hundred years old? More. Two hundred, I dare say.
+It’s a message from a hundred years ago, if one knew how to read it. And that picture over there, she nodded at the engraving on the opposite wall. Would that be a hundred years old? More.
 
-One can’t tell. It’s impossible to discover the age of anything nowadays. She went over to look at it. Here’s where that brute stuck his nose out, she said, kicking the wainscoting immediately below the picture.
+Two hundred, I dare say. One can’t tell. It’s impossible to discover the age of anything nowadays. She went over to look at it.
 
-What is this place? I’ve seen it before somewhere. It’s a church, or at least it used to be. St.
+Here’s where that brute stuck his nose out, she said, kicking the wainscoting immediately below the picture. What is this place? I’ve seen it before somewhere. It’s a church, or at least it used to be.
 
-Clement Danes, its name was. The fragment of rhyme that Mr. Charrington had taught him came back into his head, and he added half nostalgically. Oranges and lemons, say the bells of St. Clement Ass.
+St. Clement Danes, its name was. The fragment of rhyme that Mr. Charrington had taught him came back into his head, and he added half nostalgically.
 
-To his astonishment, she capped the line. You owe me three farthings, say the bells of St. Martin S. When will you pay me?
+Oranges and lemons, say the bells of St. Clement Ass. To his astonishment, she capped the line. You owe me three farthings, say the bells of St.
 
-Say the bells of Old Bailey. I can’t remember how it goes on after that. But anyway, I remember it ends up. Here comes a candle to light you to bed.
+Martin S. When will you pay me? Say the bells of Old Bailey. I can’t remember how it goes on after that.
 
-Here comes a chopper to chop off your head. It was like the two halves of a countersign. But there must be another line after the bells of Old Bailey. Perhaps it could be dug out of Mr. Charrington’s memory if he were suitably prompted.
+But anyway, I remember it ends up. Here comes a candle to light you to bed. Here comes a chopper to chop off your head. It was like the two halves of a countersign.
 
-Who taught you that, he said. My grandfather. He used to say it to me when I was a little girl. He was vaporized when I was eight.
+But there must be another line after the bells of Old Bailey. Perhaps, it could be dug out of Mr. Charrington’s memory if he were suitably prompted. Who taught you that, he said.
 
-At any rate, he disappeared. I wonder what a lemon was, she added inconsequently. I’ve seen oranges. They’re a kind of round yellow fruit with a thick skin.
+My grandfather. He used to say it to me when. I was a little girl. He was vaporized when.
 
-I can remember lemons, said Winston. They were quite common in the 50s. They were so sour that it set your teeth on edge even to smell them. I bet that picture’s got bugs behind it, said Julia.
+I was eight. At any rate, he disappeared. I wonder what a lemon was, she added inconsequently. I’ve seen oranges.
 
-I’ll take it down and give it a good clean someday. I suppose it’s almost time we were leaving. I must start washing this paint off. What a bore.
+They’re a kind of round yellow fruit with a thick skin. I can remember lemons, said Winston. They were quite common in the 50s. They were so sour that it set your teeth on edge even to smell them.
 
-I’ll get the lipstick off your face afterwards. Winston did not get up for a few minutes more. The room was darkening. He turned over towards the light and lay gazing into the glass paperweight.
+I bet that picture’s got bugs behind it, said Julia. I’ll take it down and give it a good clean someday. I suppose it’s almost time we were leaving. I must start washing this paint off.
 
-The inexhaustibly interesting thing was not the fragment of coral, but the interior of the glass itself. There was such a depth of it, and yet it was almost as transparent as air. It was as though the surface of the glass had been the arch of the sky, enclosing a tiny world with its atmosphere complete. He had the feeling that he could get inside it, and that in fact he was inside it, along with the mahogany bed and the gate leg table and the clock and the steel engraving and the paperweight itself.
+What a bore. I’ll get the lipstick off your face afterwards. Winston did not get up for a few minutes more. The room was darkening.
 
-The paperweight was the room he was in, and the coral was Julia’s life and his own, fixed in a sort of eternity at the heart of the crystal.
+He turned over towards the light and lay gazing into the glass paperweight. The inexhaustibly interesting thing was not the fragment of coral, but the interior of the glass itself. There was such a depth of it, and yet it was almost as transparent as air. It was as though the surface of the glass had been the arch of the sky, enclosing a tiny world with its atmosphere complete.
 
-#### Chapter 5. Sime had vanished. A morning came, and he was missing from work. A few thoughtless people commented on his absence.
+He had the feeling that he could get inside it, and that in fact he was inside it, along with the mahogany bed and the gate leg table and the clock and the steel engraving and the paperweight itself. The paperweight was the room he was in, and the coral was Julia’s life and his own, fixed in a sort of eternity at the heart of the crystal.
 
-On the next day, nobody mentioned him. On the third day, Winston went into the vestibule of the records department to look at the notice board. One of the notices carried a printed list of the members of the chess committee, of whom Sime had been won. It looked almost exactly as it had looked before.
+#### Chapter 5. Sime had vanished. A morning came, and he was missing from work.
 
-Nothing had been crossed out. But it was one name shorter. It was enough. Sime had ceased to exist.
+A few thoughtless people commented on his absence. On the next day, nobody mentioned him. On the third day, Winston went into the vestibule of the records department to look at the notice board. One of the notices carried a printed list of the members of the chess committee, of whom Sime had been won.
 
-He had never existed. The weather was baking hot. In the labyrinthine ministry, the windowless, air-conditioned rooms kept their normal temperature. But outside the pavement scorched one’s feet, and the stench of the tubes at the rush hours was a horror.
+It looked almost exactly as it had looked before. Nothing had been crossed out. But it was one name shorter. It was enough.
 
-The preparations for hate week were in full swing, and
+Sime had ceased to exist. He had never existed. The weather was baking hot. In the labyrinthine ministry, the windowless, air-conditioned rooms kept their normal temperature.
+
+But outside the pavement scorched one’s feet, and the stench of the tubes at the rush hours was a horror. The preparations for hate week were in full swing, and
 
 
 <a id="sec-050235"></a>
@@ -2108,25 +2172,25 @@ The preparations for hate week were in full swing, and
 
 the staffs of all the ministries were working overtime. Processions, meetings, military parades, lectures, waxworks, displays, film shows, telescreen programs, all had to be organized. Stands had to be erected, effigies built, slogans coined, songs written, rumors circulated, photographs faked. Julia’s unit in the fiction department had been taken off the production of novels and was rushing out a series of atrocity pamphlets.
 
-Winston, in addition to his regular work, spent long periods every day in going through back files of The Times, and altering and embellishing news items which were to be quoted in speeches. Late at night, when crowds of rowdy proles roamed the streets, the town had a curiously febrile air. The rocket bombs crashed oftener than ever, and sometimes in the far distance there were enormous explosions which no one could explain, and about which there were wild rumors. The new tune, which was to be the theme song of hate week, the hate song it was called, had already been composed and was being endlessly plugged on the tele screens.
+Winston, in addition to his regular work, spent long periods every day in going through back files of The Times, and altering and embellishing news items which were to be quoted in speeches. Late at night, when crowds of rowdy proles roamed the streets, the town had a curiously febrile air. The rocket bombs crashed oftener than ever, and sometimes in the far distance there were enormous explosions which no one could explain, and about which there were wild rumors.
 
-It had a savage, barking rhythm, which could not exactly be called music, but resembled the beating of a drum. Roared out by hundreds of voices to the tramp of marching feet, it was terrifying. The proles had taken a fancy to it, and in the midnight streets, it competed with the still popular, it was only a hopeless fancy. The Parsons children played it at all hours of the night and day, unbearably, on a comb and a piece of toilet paper.
+The new tune, which was to be the theme song of hate week, the hate song it was called, had already been composed and was being endlessly plugged on the tele screens. It had a savage, barking rhythm, which could not exactly be called music, but resembled the beating of a drum. Roared out by hundreds of voices to the tramp of marching feet, it was terrifying. The proles had taken a fancy to it, and in the midnight streets, it competed with the still popular, it was only a hopeless fancy.
 
-Winston’s evenings were fuller than ever. Squads of volunteers, organized by Parsons, were preparing the street for hate week, stitching banners, painting posters, erecting flagstaffs on the roofs, and perilously slinging wires across the street for the reception of streamers. Parsons boasted that victory mansions alone would display 400 meters of bunting. He was in his native element and as happy as a lark.
+The Parsons children played it at all hours of the night and day, unbearably, on a comb and a piece of toilet paper. Winston’s evenings were fuller than ever. Squads of volunteers, organized by Parsons, were preparing the street for hate week, stitching banners, painting posters, erecting flagstaffs on the roofs, and perilously slinging wires across the street for the reception of streamers. Parsons boasted that victory mansions alone would display 400 meters of bunting.
 
-The heat and the manual work had even given him a pretext for reverting to shorts and an open shirt in the evenings. He was everywhere at once, pushing, pulling, soaring, hammering, improvising, jolling everyone along with comradely exhortations, and giving out from every fold of his body what seemed an inexhaustible supply of acrid smelling sweat. A new poster had suddenly appeared all over London. It had no caption and represented simply the monstrous figure of a Eurasian soldier, three or four meters high, striding forward with expressionless Mongolian face and enormous boots, a submachine gun pointed from his hip.
+He was in his native element and as happy as a lark. The heat and the manual work had even given him a pretext for reverting to shorts and an open shirt in the evenings. He was everywhere at once, pushing, pulling, soaring, hammering, improvising, jolling everyone along with comradely exhortations, and giving out from every fold of his body what seemed an inexhaustible supply of acrid smelling sweat. A new poster had suddenly appeared all over London.
 
-From whatever angle you looked at the poster, the muzzle of the gun, magnified by the foreshortening, seemed to be pointed straight at you. The thing had been plastered on every blank space on every wall, even outnumbering the portraits of Big Brother. The proles, normally apathetic about the war, were being lashed into one of their periodical frenzies of patriotism. As though to harmonize with the general mood, the rocket bombs had been killing larger numbers of people than usual.
+It had no caption and represented simply the monstrous figure of a Eurasian soldier, three or four meters high, striding forward with expressionless Mongolian face and enormous boots, a submachine gun pointed from his hip. From whatever angle you looked at the poster, the muzzle of the gun, magnified by the foreshortening, seemed to be pointed straight at you. The thing had been plastered on every blank space on every wall, even outnumbering the portraits of Big Brother. The proles, normally apathetic about the war, were being lashed into one of their periodical frenzies of patriotism.
 
-One fell on a crowded film theater in Stepney, burying several hundred victims among the ruins. The whole population of the neighborhood turned out for a long trailing funeral which went on for hours and was in effect an indignation meeting. Another bomb fell on a piece of waste ground which was used as a playground, and several dozen children were blown to pieces. There were further angry demonstrations, Goldstein was burned in effigy.
+As though to harmonize with the general mood, the rocket bombs had been killing larger numbers of people than usual. One fell on a crowded film theater in Stepney, burying several hundred victims among the ruins. The whole population of the neighborhood turned out for a long trailing funeral which went on for hours and was in effect an indignation meeting. Another bomb fell on a piece of waste ground which was used as a playground, and several dozen children were blown to pieces.
 
-Hundreds of copies of the poster of the Eurasian soldier were torn down and added to the flames, and a number of shops were looted in the turmoil. Then a rumor flew round that spies were directing the rocket bombs by means of wireless waves, and an old couple who were suspected of being of foreign extraction had their house set on fire and perished of suffocation. In the room over Mr. Charington’s shop, when they could get there, Julia and Winston lay side by side on a stripped bed under the open window, naked for the sake of coolness.
+There were further angry demonstrations, Goldstein was burned in effigy. Hundreds of copies of the poster of the Eurasian soldier were torn down and added to the flames, and a number of shops were looted in the turmoil. Then a rumor flew round that spies were directing the rocket bombs by means of wireless waves, and an old couple who were suspected of being of foreign extraction had their house set on fire and perished of suffocation. In the room over Mr.
 
-The rat had never come back, but the bugs had multiplied hideously in the heat. It did not seem to matter. Dirty or clean, the room was paradise. As soon as they arrived, they would sprinkle everything with pepper bought on the black market, tear off their clothes, and make love with sweating bodies.
+Charington’s shop, when they could get there, Julia and Winston lay side by side on a stripped bed under the open window, naked for the sake of coolness. The rat had never come back, but the bugs had multiplied hideously in the heat. It did not seem to matter. Dirty or clean, the room was paradise.
 
-Then fall asleep and wait to find that the bugs had rallied and were massing for the counter attack. Four, five, six, seven times they met during the month of June. Winston had dropped his habit of drinking gin at all hours. He seemed to have lost the need for it.
+As soon as they arrived, they would sprinkle everything with pepper bought on the black market, tear off their clothes, and make love with sweating bodies. Then fall asleep and wait to find that the bugs had rallied and were massing for the counter attack. Four, five, six, seven times they met during the month of June. Winston had dropped his habit of drinking gin at all hours.
 
-He had grown fatter. His varicose ulcer had subsided, leaving only a brown stain on the skin
+He seemed to have lost the need for it. He had grown fatter. His varicose ulcer had subsided, leaving only a brown stain on the skin
 
 
 <a id="sec-050738"></a>
@@ -2134,55 +2198,57 @@ He had grown fatter. His varicose ulcer had subsided, leaving only a brown stain
 
 above his ankle. His fits of coughing in the early morning had stopped. The process of life had ceased to be intolerable. He had no longer any impulse to make faces at the telescreen or shout curses at the top of his voice.
 
-Now that they had a secure hiding place, almost a home, it did not even seem a hardship that they could only meet infrequently and for a couple of hours at a time. What mattered was that the room over the junk shop should exist. To know that it was there, inviolate, was almost the same as being in it. The room was a world, a pocket of the past where extinct animals could walk. Mr. Charrington thought Winston was another extinct animal.
+Now that they had a secure hiding place, almost a home, it did not even seem a hardship that they could only meet infrequently and for a couple of hours at a time. What mattered was that the room over the junk shop should exist. To know that it was there, inviolate, was almost the same as being in it. The room was a world, a pocket of the past where extinct animals could walk.
 
-He usually stopped to talk with Mr. Charrington for a few minutes on his way upstairs. The old man seemed seldom or never to go out of doors, and on the other hand, to have almost no customers. He led a ghost-like existence between the tiny dark shop and an even tinier back kitchen where he prepared his meals and which contained, among other things, an unbelievably ancient gramophone with an enormous horn. He seemed glad of the opportunity to talk.
+Mr. Charrington thought Winston was another extinct animal. He usually stopped to talk with Mr. Charrington for a few minutes on his way upstairs.
 
-Wandering about among his worthless stock with his long nose and thick spectacles and his bowed shoulders in the velvet jacket, he had always vaguely the air of being a collector rather than a tradesman. With a sort of faded enthusiasm, he would finger this scrap of rubbish or that. A china bottle stopper, the painted lid of a broken snuff box, a pinch-back locket containing a strand of some long dead baby’s hair. Never asking that Winston should buy it, merely that he should admire it.
+The old man seemed seldom or never to go out of doors, and on the other hand, to have almost no customers. He led a ghost-like existence between the tiny dark shop and an even tinier back kitchen where he prepared his meals and which contained, among other things, an unbelievably ancient gramophone with an enormous horn. He seemed glad of the opportunity to talk. Wandering about among his worthless stock with his long nose and thick spectacles and his bowed shoulders in the velvet jacket, he had always vaguely the air of being a collector rather than a tradesman.
 
-To talk to him was like listening to the tinkling of a worn-out musical box. He had dragged out from the corners of his memory some more fragments of forgotten rhymes. There was one about four and 20 blackbirds, and another about a cow with a crumpled horn, and another about the death of poor cock-robin. It just occurred to me you might be interested, he would say, with a deprecating little laugh, whenever he produced a new fragment.
+With a sort of faded enthusiasm, he would finger this scrap of rubbish or that. A china bottle stopper, the painted lid of a broken snuff box, a pinch-back locket containing a strand of some long dead baby’s hair. Never asking that Winston should buy it, merely that he should admire it. To talk to him was like listening to the tinkling of a worn-out musical box.
 
-But he could never recall more than a few lines of any one rhyme, both of them new. In a way, it was never out of their minds that what was now happening could not last long. There were times when the fact of impending death seemed as palpable as the bed they lay on, and they would cling together with a sort of despairing sensuality, like a damned soul grasping at his last morsel of pleasure when the clock is within five minutes of striking.
+He had dragged out from the corners of his memory some more fragments of forgotten rhymes. There was one about four and 20 blackbirds, and another about a cow with a crumpled horn, and another about the death of poor cock-robin. It just occurred to me you might be interested, he would say, with a deprecating little laugh, whenever he produced a new fragment. But he could never recall more than a few lines of any one rhyme, both of them new.
 
-But there were also times when they had the illusion not only of safety but of permanence. So long as they were actually in this room, they both felt no harm could come to them. Getting there was difficult and dangerous, but the room itself was sanctuary. It was as when Winston had gazed into the heart of the paperweight with the feeling that it would be possible to get inside that glassy world, and that once inside it, time could be arrested.
+In a way, it was never out of their minds that what was now happening could not last long. There were times when the fact of impending death seemed as palpable as the bed they lay on, and they would cling together with a sort of despairing sensuality, like a damned soul grasping at his last morsel of pleasure when the clock is within five minutes of striking. But there were also times when they had the illusion not only of safety but of permanence.
 
-Often they gave themselves up to daydreams of escape. Their luck would hold indefinitely, and they would carry on their intrigue just like this, for the remainder of their natural lives. Or Catherine would die, and by subtle maneuverings, Winston and Julia would succeed in getting married. Or they would commit suicide together.
+So long as they were actually in this room, they both felt no harm could come to them. Getting there was difficult and dangerous, but the room itself was sanctuary. It was as when Winston had gazed into the heart of the paperweight with the feeling that it would be possible to get inside that glassy world, and that once inside it, time could be arrested. Often they gave themselves up to daydreams of escape.
 
-Or they would disappear, alter themselves out of recognition, learn to speak with proletarian accents, get jobs in a factory, and live out their lives undetected in a back street. It was all nonsense, as they both knew. In reality, there was no escape. Even the one plan that was practicable, suicide, they had no intention of carrying out.
+Their luck would hold indefinitely, and they would carry on their intrigue just like this, for the remainder of their natural lives. Or Catherine would die, and by subtle maneuverings, Winston and Julia would succeed in getting married. Or they would commit suicide together. Or they would disappear, alter themselves out of recognition, learn to speak with proletarian accents, get jobs in a factory, and live out their lives undetected in a back street.
 
-To hang on from day to day and from week to week, spinning out a present that had no future, seemed an unconquerable instinct. Just as one’s lungs will always draw the next breath, so long as there is air available. Sometimes, too, they talked of engaging in active rebellion against the party, but with no notion of how to take the first step. Even if the fabulous brotherhood was a reality, there still remained the difficulty of finding one’s way into it.
+It was all nonsense, as they both knew. In reality, there was no escape. Even the one plan that was practicable, suicide, they had no intention of carrying out. To hang on from day to day and from week to week, spinning out a present that had no future, seemed an unconquerable instinct.
 
-He told her of the strange intimacy that existed, or seemed to exist, between himself and O’Brien, and of the impulse he sometimes felt. Simply to walk into O’Brien’s presence, announce that he was the enemy of the party, and demand his help. Curiously enough, this did not strike her as an impossibly rash thing to do. She was used to judging people by their faces.
+Just as one’s lungs will always draw the next breath, so long as there is air available. Sometimes, too, they talked of engaging in active rebellion against the party, but with no notion of how to take the first step. Even if the fabulous brotherhood was a reality, there still remained the difficulty of finding one’s way into it. He told her of the strange intimacy that existed, or seemed to exist, between himself and O’Brien, and of the impulse he sometimes felt.
 
-And it seemed natural to her that Winston should believe O’Brien to be trustworthy on the strength of a single flash of the eyes.
+Simply to walk into O’Brien’s presence, announce that he was the enemy of the party, and demand his help. Curiously enough, this did not strike her as an impossibly rash thing to do. She was used to judging people by their faces. And it seemed natural to her that Winston should believe O’Brien to be trustworthy on the strength of a single flash of the eyes.
 
 
 <a id="sec-051239"></a>
 ### ⏱️ [05:12:39 - 05:17:41]
 
-Moreover, she took it for granted that everyone, or nearly everyone, secretly hated the party, and would break the rules if he thought it’s safe to do so. But she refused to believe that widespread, organized opposition existed or could exist. The tales about Goldstein and his underground army, she said, were simply a lot of rubbish which the party had invented for its own purposes, and which you had to pretend to believe in, times beyond number, at party rallies and spontaneous demonstrations. She had shouted at the top of her voice for the execution of people whose names she had never heard, and in whose supposed crimes she had not the faintest belief.
+Moreover, she took it for granted that everyone, or nearly everyone, secretly hated the party, and would break the rules if he thought it’s safe to do so. But she refused to believe that widespread, organized opposition existed or could exist. The tales about Goldstein and his underground army, she said, were simply a lot of rubbish which the party had invented for its own purposes, and which you had to pretend to believe in, times beyond number, at party rallies and spontaneous demonstrations.
 
-When public trials were happening, she’d taken her place in the detachments from the youth league who surrounded the courts from morning to night, chanting at intervals, death to the traitors. During the two minutes, hate, she always excelled all others in shouting insults at Goldstein. Yet she had only the dimmest idea of who Goldstein was and what doctrines he was supposed to represent. She’d grown up since the revolution and was too young to remember the ideological battles of the 50s and 60s.
+She had shouted at the top of her voice for the execution of people whose names she had never heard, and in whose supposed crimes she had not the faintest belief. When public trials were happening, she’d taken her place in the detachments from the youth league who surrounded the courts from morning to night, chanting at intervals, death to the traitors. During the two minutes, hate, she always excelled all others in shouting insults at Goldstein. Yet she had only the dimmest idea of who Goldstein was and what doctrines he was supposed to represent.
 
-Such a thing as an independent political movement was outside her imagination. And in any case, the party was invincible. It would always exist, and it would always be the same. You could only rebel against it by secret disobedience, or at most, by isolated acts of violence such as killing somebody or blowing something up.
+She’d grown up since the revolution and was too young to remember the ideological battles of the 50s and 60s. Such a thing as an independent political movement was outside her imagination. And in any case, the party was invincible. It would always exist, and it would always be the same.
 
-In some ways, she was far more acute than Winston, and far less susceptible to party propaganda. Once when he happened in some connection to mention the war against Eurasia, she startled him by saying casually that in her opinion, the war was not happening. The rocket bombs, which fell daily on London, were probably fired by the government of Oceania itself, just to keep people frightened. This was an idea that had literally never occurred to him.
+You could only rebel against it by secret disobedience, or at most, by isolated acts of violence such as killing somebody or blowing something up. In some ways, she was far more acute than Winston, and far less susceptible to party propaganda. Once when he happened in some connection to mention the war against Eurasia, she startled him by saying casually that in her opinion, the war was not happening. The rocket bombs, which fell daily on London, were probably fired by the government of Oceania itself, just to keep people frightened.
 
-She also stirred a sort of envy in him by telling him that during the two minutes hate, her great difficulty was to avoid bursting out laughing. But she only questioned the teachings of the party when they in some way touched upon her own life. Often she was ready to accept the official mythology, simply because the difference between truth and falsehood did not seem important to her. She believed, for instance, having learnt it at school, that the party had invented aeroplanes.
+This was an idea that had literally never occurred to him. She also stirred a sort of envy in him by telling him that during the two minutes hate, her great difficulty was to avoid bursting out laughing. But she only questioned the teachings of the party when they in some way touched upon her own life. Often she was ready to accept the official mythology, simply because the difference between truth and falsehood did not seem important to her.
 
-In his own school days, Winston remembered, in the late fifties, it was only the helicopter that the party claimed to have invented. A dozen years later, when Julia was at school, it was already claiming the aeroplane, one generation more, and it would be claiming the steam engine. And when he told her that aeroplanes had been in existence before he was born and long before the revolution, the fact struck her as totally uninteresting. After all, what did it matter who had invented aeroplanes?
+She believed, for instance, having learnt it at school, that the party had invented aeroplanes. In his own school days, Winston remembered, in the late fifties, it was only the helicopter that the party claimed to have invented. A dozen years later, when Julia was at school, it was already claiming the aeroplane, one generation more, and it would be claiming the steam engine. And when he told her that aeroplanes had been in existence before he was born and long before the revolution, the fact struck her as totally uninteresting.
 
-It was rather more of a shock to him when he discovered from some chance remark that she did not remember that Oceania, four years ago, had been at war with Eastasia and at peace with Eurasia. It was true that she regarded the whole war as a sham, but apparently she had not even noticed that the name of the enemy had changed. I thought we’d always been at war with Eurasia, she said vaguely. It frightened him a little.
+After all, what did it matter who had invented aeroplanes? It was rather more of a shock to him when he discovered from some chance remark that she did not remember that Oceania, four years ago, had been at war with Eastasia and at peace with Eurasia. It was true that she regarded the whole war as a sham, but apparently she had not even noticed that the name of the enemy had changed. I thought we’d always been at war with Eurasia, she said vaguely.
 
-The invention of aeroplanes dated from long before her birth, but the switchover in the war had happened only four years ago, well after she was grown up. He argued with her about it for perhaps a quarter of an hour. In the end he succeeded in forcing her memory back until she did dimly recall that at one time Eastasia and not Eurasia had been the enemy. But the issue still struck her as unimportant.
+It frightened him a little. The invention of aeroplanes dated from long before her birth, but the switchover in the war had happened only four years ago, well after she was grown up. He argued with her about it for perhaps a quarter of an hour. In the end he succeeded in forcing her memory back until she did dimly recall that at one time Eastasia and not Eurasia had been the enemy.
 
-Who cares, she said impatiently. It’s always one bloody war after another and one knows the news is all lies anyway. Sometimes he talked to her of the records department and the impudent forgeries that he committed there. Such things did not appear to horrify her.
+But the issue still struck her as unimportant. Who cares, she said impatiently. It’s always one bloody war after another and one knows the news is all lies anyway. Sometimes he talked to her of the records department and the impudent forgeries that he committed there.
 
-She did not feel the abyss opening beneath her feet at the thought of lies becoming truths. He told her the story of Jones, Aronson, and Rutherford, and the momentous slip of paper which he had once held between his fingers. It did not make much impression on her. At first, indeed, she failed to grasp the point of the story.
+Such things did not appear to horrify her. She did not feel the abyss opening beneath her feet at the thought of lies becoming truths. He told her the story of Jones, Aronson, and Rutherford, and the momentous slip of paper which he had once held between his fingers. It did not make much impression on her.
 
-Were they friends of yours, she said? No, I never knew them. They were inner party members. Besides, they were far older men than I was.
+At first, indeed, she failed to grasp the point of the story. Were they friends of yours, she said? No, I never knew them. They were inner party members.
 
-They belonged to the old days, before the revolution. I barely knew them by sight. Then what was there to worry about? People are being killed off all the time, aren’t they?
+Besides, they were far older men than. I was. They belonged to the old days, before the revolution. I barely knew them by sight.
+
+Then what was there to worry about? People are being killed off all the time, aren’t they?
 
 
 <a id="sec-051741"></a>
@@ -2194,29 +2260,31 @@ If it survives anywhere, it’s in a few solid objects with no words attached to
 
 Every picture has been repainted. Every statue and street and building has been renamed. Every date has been altered, and that process is continuing day by day and minute by minute. History has stopped.
 
-Nothing exists except an endless present in which the party is always right. I know, of course, that the past is falsified, but it would never be possible for me to prove it, even when I did the falsification myself. After the thing is done, no evidence ever remains. The only evidence is inside my own mind, and I don’t know with any certainty that any other human being shares my memories.
+Nothing exists except an endless present in which the party is always right. I know, of course, that the past is falsified, but it would never be possible for me to prove it, even when. I did the falsification myself. After the thing is done, no evidence ever remains.
 
-Just in that one instance, in my whole life, I did possess actual concrete evidence after the event, years after it. And what good was that? It was no good, because I threw it away a few minutes later. But if the same thing happened today, I should keep it.
+The only evidence is inside my own mind, and. I don’t know with any certainty that any other human being shares my memories. Just in that one instance, in my whole life, I did possess actual concrete evidence after the event, years after it. And what good was that?
 
-Well I wouldn’t, said Julia. I’m quite ready to take risks, but only for something worthwhile, not for bits of old newspaper. What could you have done with it, even if you had kept it? Not much, perhaps, but it was evidence.
+It was no good, because. I threw it away a few minutes later. But if the same thing happened today, I should keep it. Well.
 
-It might have planted a few doubts here and there, supposing that I dared to show it to anybody. I don’t imagine that we can alter anything in our own lifetime. But one can imagine little knots of resistance springing up here and there, small groups of people banding themselves together, and gradually growing and even leaving a few records behind, so that the next generations can carry on where we leave off. I’m not interested in the next generation, dear.
+I wouldn’t, said Julia. I’m quite ready to take risks, but only for something worthwhile, not for bits of old newspaper. What could you have done with it, even if you had kept it? Not much, perhaps, but it was evidence.
 
-I’m interested in us. You’re only a rebel from the waist downwards, he told her. She thought this brilliantly witty and flung her arms round him in delight. In the ramifications of party doctrine, she had not the faintest interest.
+It might have planted a few doubts here and there, supposing that. I dared to show it to anybody. I don’t imagine that we can alter anything in our own lifetime. But one can imagine little knots of resistance springing up here and there, small groups of people banding themselves together, and gradually growing and even leaving a few records behind, so that the next generations can carry on where we leave off.
 
-After he began to talk of the principles of Ingsoc, doublethink, the mutability of the past, and the denial of objective reality, and to use new-speak words, she became bored and confused and said that she never paid any attention to that kind of thing. One knew that it was all rubbish, so why let oneself be worried by it? She knew when to cheer and when to boo, and that was all one needed. If he persisted in talking of such subjects, she had a disconcerting habit of falling asleep.
+I’m not interested in the next generation, dear. I’m interested in us. You’re only a rebel from the waist downwards, he told her. She thought this brilliantly witty and flung her arms round him in delight.
 
-She was one of those people who can go to sleep at any hour and in any position. Talking to her, he realized how easy it was to present an appearance of orthodoxy, while having no grasp whatever of what orthodoxy meant. In a way, the worldview of the party imposed itself most successfully on people incapable of understanding it. They could be made to accept the most flagrant violations of reality, because they never fully grasped the enormity of what was demanded of them, and were not sufficiently interested in public events to notice what was happening.
+In the ramifications of party doctrine, she had not the faintest interest. After he began to talk of the principles of Ingsoc, doublethink, the mutability of the past, and the denial of objective reality, and to use new-speak words, she became bored and confused and said that she never paid any attention to that kind of thing. One knew that it was all rubbish, so why let oneself be worried by it? She knew when to cheer and when to boo, and that was all one needed.
 
-By lack of understanding, they remained sane. They simply swallowed everything, and what they swallowed did them no harm, because it left no residue behind, just as a grain of corn will pass undigested through the body of a bird.
+If he persisted in talking of such subjects, she had a disconcerting habit of falling asleep. She was one of those people who can go to sleep at any hour and in any position. Talking to her, he realized how easy it was to present an appearance of orthodoxy, while having no grasp whatever of what orthodoxy meant. In a way, the worldview of the party imposed itself most successfully on people incapable of understanding it.
 
-#### Chapter 6 It had happened at last. The expected message had come. All his life, it seemed to him, he had been waiting for this to happen.
+They could be made to accept the most flagrant violations of reality, because they never fully grasped the enormity of what was demanded of them, and were not sufficiently interested in public events to notice what was happening. By lack of understanding, they remained sane. They simply swallowed everything, and what they swallowed did them no harm, because it left no residue behind, just as a grain of corn will pass undigested through the body of a bird.
 
-He was walking down the long corridor at the ministry, and he was almost at the spot where Julia had slipped the note into his hand when he became aware that someone larger than himself was walking just behind him. The person, whoever it was, gave a small cough, evidently as a prelude to speaking. Winston stopped abruptly and turned. It was O’Brien.
+#### Chapter 6.
 
-At last they were face to face, and it seemed that his only impulse was to run away. His heart bounded violently. He would have been incapable of speaking. O’Brien, however, had continued forward in the same movement, laying a friendly hand for a moment on Winston’s arm, so that the two of them were walking side by side.
+It had happened at last. The expected message had come. All his life, it seemed to him, he had been waiting for this to happen. He was walking down the long corridor at the ministry, and he was almost at the spot where Julia had slipped the note into his hand when he became aware that someone larger than himself was walking just behind him.
 
-He began speaking with the peculiar grave courtesy that differentiated him from the majority of inner party members.
+The person, whoever it was, gave a small cough, evidently as a prelude to speaking. Winston stopped abruptly and turned. It was O’Brien. At last they were face to face, and it seemed that his only impulse was to run away.
+
+His heart bounded violently. He would have been incapable of speaking. O’Brien, however, had continued forward in the same movement, laying a friendly hand for a moment on Winston’s arm, so that the two of them were walking side by side. He began speaking with the peculiar grave courtesy that differentiated him from the majority of inner party members.
 
 
 <a id="sec-052242"></a>
@@ -2232,31 +2300,33 @@ Again, Winston’s heart stirred painfully. It was inconceivable that this was a
 
 O’Brien’s remark must obviously have been intended as a signal, a code word. By sharing a small act of thought crime, he had turned the two of them into accomplices. They had continued to stroll slowly down the corridor, but now O’Brien halted. With the curious, disarming friendliness that he always managed to put in, to the gesture he resettled his spectacles on his nose, then he went on.
 
-What I had really intended to say was that in your article I noticed you had used two words which have become obsolete, but they have only become so very recently. Have you seen the 10th edition of the NewSpeak dictionary? No, said Winston. I didn’t think it had been issued yet.
+What. I had really intended to say was that in your article. I noticed you had used two words which have become obsolete, but they have only become so very recently. Have you seen the 10th edition of the NewSpeak dictionary?
 
-We are still using the 9th in the records department. The 10th edition is not due to appear for some months, I believe. But a few advance copies have been circulated. I have one myself.
+No, said Winston. I didn’t think it had been issued yet. We are still using the 9th in the records department. The 10th edition is not due to appear for some months, I believe.
 
-It might interest you to look at it, perhaps. Very much so, said Winston, immediately seeing where this tended. Some of the new developments are most ingenious. The reduction in the number of verbs, that is the point that will appeal to you, I think.
+But a few advance copies have been circulated. I have one myself. It might interest you to look at it, perhaps. Very much so, said Winston, immediately seeing where this tended.
 
-Let me see, shall I send a messenger to you with the dictionary? But I’m afraid I invariably forget anything of that kind. Perhaps you could pick it up at my flat at some time that suited you. Wait, let me give you my address.
+Some of the new developments are most ingenious. The reduction in the number of verbs, that is the point that will appeal to you, I think. Let me see, shall. I send a messenger to you with the dictionary?
 
-They were standing in front of a telescreen. Somewhat absent-mindedly, O’Brien felt two of his pockets, and then produced a small leather-covered notebook and a gold ink pencil. Immediately beneath the telescreen, in such a position that anyone who was watching at the other end of the instrument could read what he was writing, he scribbled an address, tore out the page, and handed it to Winston. I’m usually at home in the evenings, he said.
+But. I’m afraid. I invariably forget anything of that kind. Perhaps, you could pick it up at my flat at some time that suited you.
 
-If not, my servant will give you the dictionary. He was gone, leaving Winston holding the scrap of paper, which this time there was no need to conceal. Nevertheless, he carefully memorized what was written on it, and some hours later dropped it into the memory hole, along with a mass of other papers. They had been talking to one another for a couple of minutes at the most.
+Wait, let me give you my address. They were standing in front of a telescreen. Somewhat absent-mindedly, O’Brien felt two of his pockets, and then produced a small leather-covered notebook and a gold ink pencil. Immediately beneath the telescreen, in such a position that anyone who was watching at the other end of the instrument could read what he was writing, he scribbled an address, tore out the page, and handed it to Winston.
 
-There was only one meaning that the episode could possibly have. It had been contrived as a way of letting Winston know O’Brien’s address. This was necessary, because except by direct inquiry, it was never possible to discover where anyone lived. There were no directories of any kind.
+I’m usually at home in the evenings, he said. If not, my servant will give you the dictionary. He was gone, leaving Winston holding the scrap of paper, which this time there was no need to conceal. Nevertheless, he carefully memorized what was written on it, and some hours later dropped it into the memory hole, along with a mass of other papers.
 
-If you ever want to see me, this is where I can be found, was what O’Brien had been saying to him. Perhaps there would even be a message concealed somewhere in the dictionary. But at any rate, one thing was certain. The conspiracy that he had dreamed of did exist, and he had reached the outer edges of it.
+They had been talking to one another for a couple of minutes at the most. There was only one meaning that the episode could possibly have. It had been contrived as a way of letting Winston know O’Brien’s address. This was necessary, because except by direct inquiry, it was never possible to discover where anyone lived.
 
-He knew that sooner or later he would obey O’Brien’s summons. Perhaps tomorrow, perhaps after a long delay, he was not certain. What was happening was only the working out of a process that had started years ago. The first step had been a secret, involuntary thought.
+There were no directories of any kind. If you ever want to see me, this is where. I can be found, was what O’Brien had been saying to him. Perhaps, there would even be a message concealed somewhere in the dictionary.
 
-The second had been the opening of the diary. He had moved from thoughts to words, and now from words to actions. The last step was something that would happen in the Ministry of Love. He had accepted it.
+But at any rate, one thing was certain. The conspiracy that he had dreamed of did exist, and he had reached the outer edges of it. He knew that sooner or later he would obey O’Brien’s summons. Perhaps, tomorrow, perhaps after a long delay, he was not certain.
 
-The end was contained in the beginning, but it was frightening. Or more exactly, it was like a foretaste of death, like being a little less alive. Even while he was speaking to O’Brien, when the meaning of the words had sunk in, a chilly, shuddering feeling had taken possession of his body. He had the sensation of stepping into the dampness of a grave, and it was not much better because he had always known that the grave was there and waiting for him.
+What was happening was only the working out of a process that had started years ago. The first step had been a secret, involuntary thought. The second had been the opening of the diary. He had moved from thoughts to words, and now from words to actions.
 
-#### Chapter 7.
+The last step was something that would happen in the Ministry of Love. He had accepted it. The end was contained in the beginning, but it was frightening. Or more exactly, it was like a foretaste of death, like being a little less alive.
 
-Winston had woken up with his eyes full of tears.
+Even while he was speaking to O’Brien, when the meaning of the words had sunk in, a chilly, shuddering feeling had taken possession of his body. He had the sensation of stepping into the dampness of a grave, and it was not much better because he had always known that the grave was there and waiting for him.
+
+#### Chapter 7. Winston had woken up with his eyes full of tears.
 
 
 <a id="sec-052743"></a>
@@ -2266,25 +2336,27 @@ Julia rolled sleepily against him, murmuring something that might have been. Wha
 
 There was the dream itself, and there was a memory connected with it that had swum into his mind in the few seconds after waking. He lay back with his eyes shut, still sodden in the atmosphere of the dream. It was a vast, luminous dream in which his whole life seemed to stretch out before him like a landscape on a summer evening after rain. It had all occurred inside the glass paperweight, but the surface of the glass was the dome of the sky.
 
-And inside the dome, everything was flooded with clear, soft light in which one could see into interminable distances. The dream had also been comprehended by, indeed, in some sense, it had consisted in a gesture of the arm made by his mother and made again 30 years later by the Jewish woman he had seen on the news film. Trying to shelter the small boy from the bullets before the helicopter blew them both to pieces. Do you know, he said, that until this moment I believed I had murdered my mother?
+And inside the dome, everything was flooded with clear, soft light in which one could see into interminable distances. The dream had also been comprehended by, indeed, in some sense, it had consisted in a gesture of the arm made by his mother and made again 30 years later by the Jewish woman he had seen on the news film. Trying to shelter the small boy from the bullets before the helicopter blew them both to pieces. Do you know, he said, that until this moment.
 
-Why did you murder her, said Julia, almost asleep? I didn’t murder her, not physically. In the dream, he’d remembered his last glimpse of his mother. And within a few moments of waking, the cluster of small events surrounding it had all come back.
+I believed. I had murdered my mother? Why did you murder her, said Julia, almost asleep? I didn’t murder her, not physically.
 
-It was a memory that he must have deliberately pushed out of his consciousness over many years. He was not certain of the date, but he could not have been less than 10 years old, possibly 12, when it had happened. His father had disappeared sometime earlier. How much earlier he could not remember.
+In the dream, he’d remembered his last glimpse of his mother. And within a few moments of waking, the cluster of small events surrounding it had all come back. It was a memory that he must have deliberately pushed out of his consciousness over many years. He was not certain of the date, but he could not have been less than 10 years old, possibly 12, when it had happened.
 
-He remembered better the rackety, uneasy circumstances of the time. The periodical panics about air raids and the sheltering in tube stations. The piles of rubble everywhere. The unintelligible proclamations posted at street corners.
+His father had disappeared sometime earlier. How much earlier he could not remember. He remembered better the rackety, uneasy circumstances of the time. The periodical panics about air raids and the sheltering in tube stations.
 
-The gangs of youths in shirts all the same color. The enormous queues outside the bakeries. The intermittent machine gun fire in the distance. sense, above all, the fact that there was never enough to eat. He remembered long afternoons spent with other boys in scrounging round dustbins and rubbish heaps, picking out the ribs of cabbage leaves, potato peelings, sometimes even scraps of stale breadcrust from which they carefully scraped away the cinders, and also in waiting for the passing of trucks which travelled over a certain route and were known to carry cattle feed, and which, when they jolted over the bad patches in the road, sometimes spilt a few fragments of oil cake.
+The piles of rubble everywhere. The unintelligible proclamations posted at street corners. The gangs of youths in shirts all the same color. The enormous queues outside the bakeries.
+
+The intermittent machine gun fire in the distance. sense, above all, the fact that there was never enough to eat. He remembered long afternoons spent with other boys in scrounging round dustbins and rubbish heaps, picking out the ribs of cabbage leaves, potato peelings, sometimes even scraps of stale breadcrust from which they carefully scraped away the cinders, and also in waiting for the passing of trucks which travelled over a certain route and were known to carry cattle feed, and which, when they jolted over the bad patches in the road, sometimes spilt a few fragments of oil cake.
 
 When his father disappeared, his mother did not show any surprise or any violent grief, but a sudden change came over her. She seemed to have become completely spiritless. It was evident even to Winston that she was waiting for something that she knew must happen. She did everything that was needed, cooked, washed, mended, made the bed, swept the floor, dusted the mantelpiece, always very slowly and with a curious lack of superfluous motion, like an artist’s lay figure moving of its own accord.
 
 Her large, shapely body seemed to relapse naturally into stillness. For hours at a time she would sit almost immobile on the bed, nursing his young sister, a tiny, ailing, very silent child of two or three, with a face made simian by thinness. Very occasionally she would take Winston in her arms and press him against her for a long time without saying anything. He was aware, in spite of his youthfulness and selfishness, that this was somehow connected with the never mentioned thing that was about to happen.
 
-He remembered the room where they lived, a dark, close-smelling room that seemed half filled by a bed with a white counterpane. There was a gas ring in the fender and a shelf where food was kept, and on the landing outside there was a brown earthenware sink common to several rooms. He remembered his mother’s statuesque body bending over the gas ring to stir at something in a saucepan. Above all he remembered his continuous hunger and the fierce, sordid battles at mealtimes. He would ask his mother naggingly, over and over again, why there was not more food.
+He remembered the room where they lived, a dark, close-smelling room that seemed half filled by a bed with a white counterpane. There was a gas ring in the fender and a shelf where food was kept, and on the landing outside there was a brown earthenware sink common to several rooms. He remembered his mother’s statuesque body bending over the gas ring to stir at something in a saucepan. Above all he remembered his continuous hunger and the fierce, sordid battles at mealtimes.
 
-He would shout and storm at her. He even remembered the tones of his voice which was beginning to break prematurely and sometimes boomed in a peculiar way. Or he would attempt a snivelling note of pathos in his efforts to get more than his share. His mother was quite ready to give him more than his share.
+He would ask his mother naggingly, over and over again, why there was not more food. He would shout and storm at her. He even remembered the tones of his voice which was beginning to break prematurely and sometimes boomed in a peculiar way. Or he would attempt a snivelling note of pathos in his efforts to get more than his share.
 
-She took it for granted that he, the boy, should have the biggest portion. But however much she gave him, he invariably demanded more. At
+His mother was quite ready to give him more than his share. She took it for granted that he, the boy, should have the biggest portion. But however much she gave him, he invariably demanded more. At
 
 
 <a id="sec-053247"></a>
@@ -2326,39 +2398,41 @@ If you loved someone, you loved him. And when you had nothing else to give,
 <a id="sec-053750"></a>
 ### ⏱️ [05:37:50 - 05:42:53]
 
-you still gave him love. When the last of the chocolate was gone, his mother had clasped the child in her arms. It was no use. It changed nothing. It did not produce more chocolate.
+you still gave him love. When the last of the chocolate was gone, his mother had clasped the child in her arms. It was no use. It changed nothing.
 
-It did not avert the child’s death or her own, but it seemed natural to her to do it. The refugee woman in the boat had also covered the little boy with her arm, which was no more use against the bullets than a sheet of paper. The terrible thing that the party had done was to persuade you that mere impulses, mere feelings, were of no account, while at the same time robbing you of all power over the material world. When once you were in the grip of the party, what you felt or did not feel, what you did or refrained from doing, made literally no difference.
+It did not produce more chocolate. It did not avert the child’s death or her own, but it seemed natural to her to do it. The refugee woman in the boat had also covered the little boy with her arm, which was no more use against the bullets than a sheet of paper. The terrible thing that the party had done was to persuade you that mere impulses, mere feelings, were of no account, while at the same time robbing you of all power over the material world.
 
-Whatever happened, you vanished, and neither you nor your actions were ever heard of again. You were lifted clean out of the stream of history, and yet to the people of only two generations ago, this would not have seemed all important, because they were not attempting to alter history. They were governed by private loyalties which they did not question. What mattered were individual relationships, and a completely helpless gesture and embrace, a tear, a word spoken to a dying man, could have value in itself.
+When once you were in the grip of the party, what you felt or did not feel, what you did or refrained from doing, made literally no difference. Whatever happened, you vanished, and neither you nor your actions were ever heard of again. You were lifted clean out of the stream of history, and yet to the people of only two generations ago, this would not have seemed all important, because they were not attempting to alter history. They were governed by private loyalties which they did not question.
 
-The proles, it suddenly occurred to him, had remained in this condition. They were not loyal to a party, or a country, or an idea, they were loyal to one another. For the first time in his life, he did not despise the proles, or think of them merely as an inert force which would one day spring to life and regenerate the world. The proles had stayed human.
+What mattered were individual relationships, and a completely helpless gesture and embrace, a tear, a word spoken to a dying man, could have value in itself. The proles, it suddenly occurred to him, had remained in this condition. They were not loyal to a party, or a country, or an idea, they were loyal to one another. For the first time in his life, he did not despise the proles, or think of them merely as an inert force which would one day spring to life and regenerate the world.
 
-They had not become hardened inside. They had held on to the primitive emotions, which he himself had to relearn by conscious effort. And in thinking this he remembered, without apparent relevance, how a few weeks ago he had seen a severed hand lying on the pavement, and had kicked it into the gutter as though it had been a cabbage stalk. The proles are human beings, he said aloud.
+The proles had stayed human. They had not become hardened inside. They had held on to the primitive emotions, which he himself had to relearn by conscious effort. And in thinking this he remembered, without apparent relevance, how a few weeks ago he had seen a severed hand lying on the pavement, and had kicked it into the gutter as though it had been a cabbage stalk.
 
-We are not human. Why not, said Julia, who had woken up again. He thought for a little while. Has it ever occurred to you, he said, that the best thing for us to do would be simply to walk out of here before it’s too late and never see each other again?
+The proles are human beings, he said aloud. We are not human. Why not, said Julia, who had woken up again. He thought for a little while.
 
-Yes, dear, it has occurred to me several times, but I’m not going to do it all the same. We’ve been lucky, he said, but it can’t last much longer. You’re young. You look normal and innocent.
+Has it ever occurred to you, he said, that the best thing for us to do would be simply to walk out of here before it’s too late and never see each other again? Yes, dear, it has occurred to me several times, but. I’m not going to do it all the same. We’ve been lucky, he said, but it can’t last much longer.
 
-If you keep clear of people like me, you might stay alive for another fifty years. No, I’ve thought it all out. What you do, I’m going to do. And don’t be too downhearted.
+You’re young. You look normal and innocent. If you keep clear of people like me, you might stay alive for another fifty years. No, I’ve thought it all out.
 
-I’m rather good at staying alive. We may be together for another six months, a year, there’s no knowing. At the end, we’re certain to be apart. Do you realize how utterly alone we shall be?
+What you do, I’m going to do. And don’t be too downhearted. I’m rather good at staying alive. We may be together for another six months, a year, there’s no knowing.
 
-When once they get hold of us, there will be nothing, literally nothing that either of us can do for the other. If I confess, they’ll shoot you. And if I refuse to confess, they’ll shoot you just the same. Nothing that I can do or say or stop myself from saying will put off your death for as much as five minutes.
+At the end, we’re certain to be apart. Do you realize how utterly alone we shall be? When once they get hold of us, there will be nothing, literally nothing that either of us can do for the other. If.
 
-Neither of us will even know whether the other is alive or dead. We shall be utterly without power of any kind. The one thing that matters is that we shouldn’t betray one another, although even that can’t make the slightest difference. If you mean confessing, she said, we shall do that right enough.
+I confess, they’ll shoot you. And if. I refuse to confess, they’ll shoot you just the same. Nothing that.
 
-Everybody always confesses. You can’t help it. They torture you. I don’t mean confessing.
+I can do or say or stop myself from saying will put off your death for as much as five minutes. Neither of us will even know whether the other is alive or dead. We shall be utterly without power of any kind. The one thing that matters is that we shouldn’t betray one another, although even that can’t make the slightest difference.
 
-Confession is not betrayal. What you say or do doesn’t matter. Only feelings matter. If they could make me stop loving you, that would be the real betrayal.
+If you mean confessing, she said, we shall do that right enough. Everybody always confesses. You can’t help it. They torture you.
 
-She thought it over. They can’t do that, she said.
+I don’t mean confessing. Confession is not betrayal. What you say or do doesn’t matter. Only feelings matter.
+
+If they could make me stop loving you, that would be the real betrayal. She thought it over. They can’t do that, she said.
 
 Finally, it’s the one thing they can’t do. They can make you say anything, anything, but they can’t make you believe it. They can’t get inside you. No, he said a little more hopefully.
 
 No, that’s quite true. They can’t get inside you. If you can feel that staying human is worthwhile, even when it can’t have any result whatever, you’ve beaten them. He thought of the telescreen with its never sleeping ear.
 
-They could spy upon you night and day, but if you kept your head, you could still outwit them. With all their cleverness, they had never mastered the secret of finding out what another human being was thinking. Perhaps that was less true when you were actually in their hands. One did not know what happened inside the Ministry of Love, but it was possible to guess.
+They could spy upon you night and day, but if you kept your head, you could still outwit them. With all their cleverness, they had never mastered the secret of finding out what another human being was thinking. Perhaps, that was less true when you were actually in their hands. One did not know what happened inside the Ministry of Love, but it was possible to guess.
 
 
 <a id="sec-054253"></a>
@@ -2402,117 +2476,119 @@ He was opposite them now. His solid form towered over the pair of them, and the 
 
 Even now it was quite conceivable that he was simply a busy man, wondering irritably why he had been interrupted. Nobody spoke. After the stopping of the telescreen, the room seemed deadly silent. The seconds marched past, enormous, with difficulty Winston continued to keep his eyes fixed on O’Brien’s.
 
-Then suddenly, the grim face broke down into what might have been the beginnings of a smile. With his character gesture, O’Brien resettled his spectacles on his nose. Shall I say it, or will you, he said? I will say it, said Winston promptly.
+Then suddenly, the grim face broke down into what might have been the beginnings of a smile. With his character gesture, O’Brien resettled his spectacles on his nose. Shall. I say it, or will you, he said?
 
-That thing is really turned off. Yes, everything is turned off. We are alone. We have come here because…
+I will say it, said Winston promptly. That thing is really turned off. Yes, everything is turned off. We are alone.
 
-He paused, realizing for the first time the vagueness of his own motives. Since he did not in fact know what kind of help he expected from O’Brien, it was not easy to say why he had come here. He went on, conscious that what he was saying must sound both feeble and pretentious. We believe that there is some kind of conspiracy, some kind of secret organization working against the party and that you are involved in it.
+We have come here because… He paused, realizing for the first time the vagueness of his own motives. Since he did not in fact know what kind of help he expected from O’Brien, it was not easy to say why he had come here. He went on, conscious that what he was saying must sound both feeble and pretentious.
 
-We want to join it and work for it. We are enemies of the party. We disbelieve in the principles of Ingsoc. We are thought criminals.
+We believe that there is some kind of conspiracy, some kind of secret organization working against the party and that you are involved in it. We want to join it and work for it. We are enemies of the party. We disbelieve in the principles of Ingsoc.
 
-We are also adulterers. I tell you this because we want to put ourselves at your mercy. If you want us to incriminate ourselves in any other way, we are ready. He stopped and glanced over his shoulder, with the feeling that the door had opened.
+We are thought criminals. We are also adulterers. I tell you this because we want to put ourselves at your mercy. If you want us to incriminate ourselves in any other way, we are ready.
 
-Sure enough, the little yellow-faced servant had come in without knocking. Winston saw that he was carrying a tray with a decanter and glasses. Martin is one of us, said O’Brien impassively. Bring the drinks over here, Martin.
+He stopped and glanced over his shoulder, with the feeling that the door had opened. Sure enough, the little yellow-faced servant had come in without knocking. Winston saw that he was carrying a tray with a decanter and glasses. Martin is one of us, said O’Brien impassively.
 
-Put them on the round table. Have we enough chairs? Then we may as well sit down and talk in comfort. Bring a chair for yourself, Martin.
+Bring the drinks over here, Martin. Put them on the round table. Have we enough chairs? Then we may as well sit down and talk in comfort.
 
-This is business. You can stop being a servant for the next ten minutes. The little man sat down, quite at his ease, and yet still with a servant-like air, the air of a valet enjoying a privilege. Winston regarded him out of the corner of his eye.
+Bring a chair for yourself, Martin. This is business. You can stop being a servant for the next ten minutes. The little man sat down, quite at his ease, and yet still with a servant-like air, the air of a valet enjoying a privilege.
 
-It struck him that the man’s whole life was playing a part, and that he felt it to be dangerous to drop his assumed personality even for a moment. O’Brien took the decanter by the neck and filled up the glasses with a dark red liquid. It aroused in Winston dim memories of something seen long ago on a wall or a hoarding, a vast bottle composed of electric lights which seemed to move up and down and pour its contents into a glass. Seen from the top, the stuff looked almost black, but in the decanter it gleamed like a ruby.
+Winston regarded him out of the corner of his eye. It struck him that the man’s whole life was playing a part, and that he felt it to be dangerous to drop his assumed personality even for a moment. O’Brien took the decanter by the neck and filled up the glasses with a dark red liquid. It aroused in Winston dim memories of something seen long ago on a wall or a hoarding, a vast bottle composed of electric lights which seemed to move up and down and pour its contents into a glass.
 
-It had a sour sweet smell. He saw Julia pick up her glass and sniff at it with frank curiosity. It is called wine, said O’Brien, with a faint smile. You will have read about it in books, no doubt.
+Seen from the top, the stuff looked almost black, but in the decanter it gleamed like a ruby. It had a sour sweet smell. He saw Julia pick up her glass and sniff at it with frank curiosity. It is called wine, said O’Brien, with a faint smile.
 
-Not much of it gets to the outer party, I’m afraid. His face grew solemn again, and he raised his glass. I think it is fitting that we should begin by drinking a health. To our leader.
+You will have read about it in books, no doubt. Not much of it gets to the outer party, I’m afraid. His face grew solemn again, and he raised his glass. I think it is fitting that we should begin by drinking a health.
 
-To Emmanuel. Goldstein. Winston took up his glass with a certain eagerness. Wine was a thing he had read and dreamed about.
+To our leader. To Emmanuel. Goldstein. Winston took up his glass with a certain eagerness.
 
-Like the glass paperweight or Mr. Charrington’s half-remembered rhymes, it belonged to the vanished, romantic past. The olden time, as he liked to call it, in his secret thoughts. For some reason he had always thought of wine as having an intensely sweet taste, like that of blackberry jam and an immediate intoxicating effect. Actually, when he came to swallow it, the stuff was distinctly disappointing.
+Wine was a thing he had read and dreamed about. Like the glass paperweight or Mr. Charrington’s half-remembered rhymes, it belonged to the vanished, romantic past. The olden time, as he liked to call it, in his secret thoughts.
 
-The truth was that after years of gin drinking, he could barely taste it. He set down the empty glass. Then there is such a person as Goldstein, he said. Yes, there is such a person, and he is alive.
+For some reason he had always thought of wine as having an intensely sweet taste, like that of blackberry jam and an immediate intoxicating effect. Actually, when he came to swallow it, the stuff was distinctly disappointing. The truth was that after years of gin drinking, he could barely taste it. He set down the empty glass.
 
-Where, I do not know. And the conspiracy, the organization, is it real? It is not simply an invention of the thought police? No, it is real.
+Then there is such a person as Goldstein, he said. Yes, there is such a person, and he is alive. Where, I do not know. And the conspiracy, the organization, is it real?
 
-The brotherhood, we call it. You will never learn much more about the brotherhood than that it exists and that you belong to it. I will come back to that presently. He looked at his wristwatch.
+It is not simply an invention of the thought police? No, it is real. The brotherhood, we call it. You will never learn much more about the brotherhood than that it exists and that you belong to it.
 
-It is unwise even for members of the inner party to turn off the telescreen for more than half an hour. You ought not to have come here together, and you will have to leave separately. You, Comrade, he bowed his head to Julia, will leave first. We have about
+I will come back to that presently. He looked at his wristwatch. It is unwise even for members of the inner party to turn off the telescreen for more than half an hour. You ought not to have come here together, and you will have to leave separately.
+
+You, Comrade, he bowed his head to Julia, will leave first. We have about
 
 
 <a id="sec-055304"></a>
 ### ⏱️ [05:53:04 - 05:58:09]
 
-twenty minutes at our disposal. You will understand that I must start by asking you certain questions. In general terms, what are you prepared to do? Anything that we are capable of, said Winston.
+twenty minutes at our disposal. You will understand that. I must start by asking you certain questions. In general terms, what are you prepared to do?
 
-O’Brien had turned himself a little in his chair so that he was facing Winston. He almost ignored Julia, seeming to take it for granted that Winston could speak for her. For a moment the lids flitted down over his eyes. He began asking his questions in a low, expressionless voice, as though this were a routine, a sort of catechism, most of whose answers were known to him already.
+Anything that we are capable of, said Winston. O’Brien had turned himself a little in his chair so that he was facing Winston. He almost ignored Julia, seeming to take it for granted that Winston could speak for her. For a moment the lids flitted down over his eyes.
 
-You are prepared to give your lives? Yes. You are prepared to commit murder? Yes.
+He began asking his questions in a low, expressionless voice, as though this were a routine, a sort of catechism, most of whose answers were known to him already. You are prepared to give your lives? Yes. You are prepared to commit murder?
 
-To commit acts of sabotage which may cause the death of hundreds of innocent people? Yes. To betray your country to foreign powers? Yes.
+Yes. To commit acts of sabotage which may cause the death of hundreds of innocent people? Yes. To betray your country to foreign powers?
 
-You are prepared to cheat, to forge, to blackmail, to corrupt the minds of children, to distribute habit-forming drugs, to encourage prostitution, to disseminate venereal diseases, to do anything which is likely to cause demoralization and weaken the power of the party? Yes. If, for example, it would somehow serve our interest to throw sulphuric acid in a child’s face, are you prepared to do that? Yes.
+Yes. You are prepared to cheat, to forge, to blackmail, to corrupt the minds of children, to distribute habit-forming drugs, to encourage prostitution, to disseminate venereal diseases, to do anything which is likely to cause demoralization and weaken the power of the party? Yes. If, for example, it would somehow serve our interest to throw sulphuric acid in a child’s face, are you prepared to do that?
 
-You are prepared to lose your identity and live out the rest of your life as a waiter or a dock worker? Yes. You are prepared to commit suicide if and when we order you to do so? Yes.
+Yes. You are prepared to lose your identity and live out the rest of your life as a waiter or a dock worker? Yes. You are prepared to commit suicide if and when we order you to do so?
 
-You are prepared, the two of you, to separate and never see one another again? No, broke in Julia. It appeared to Winston that a long time passed before he answered. For a moment he seemed even to have been deprived of the power of speech.
+Yes. You are prepared, the two of you, to separate and never see one another again? No, broke in Julia. It appeared to Winston that a long time passed before he answered.
 
-His tongue worked soundlessly, forming the opening syllables first of one word, then of the other, over and over again. Until he had said it, he did not know which word he was going to say. No, he said finally. You did well to tell me, said O’Brien.
+For a moment he seemed even to have been deprived of the power of speech. His tongue worked soundlessly, forming the opening syllables first of one word, then of the other, over and over again. Until he had said it, he did not know which word he was going to say. No, he said finally.
 
-It is necessary for us to know everything. He turned himself towards Julia and added in a voice with somewhat more expression in it. Do you understand that even if he survives, it may be as a different person? We may be obliged to give him a new identity, his face, his movements, the shape of his hands, the colour of his hair, even his voice would be different.
+You did well to tell me, said O’Brien. It is necessary for us to know everything. He turned himself towards Julia and added in a voice with somewhat more expression in it. Do you understand that even if he survives, it may be as a different person?
 
-And you yourself might have become a different person. Our surgeons can alter people beyond recognition. Sometimes it is necessary. Sometimes we even amputate a limb.
+We may be obliged to give him a new identity, his face, his movements, the shape of his hands, the colour of his hair, even his voice would be different. And you yourself might have become a different person. Our surgeons can alter people beyond recognition. Sometimes it is necessary.
 
-Winston could not help snatching another sidelong glance at Martin’s Mongolian face. There were no scars that he could see. Julia had turned a shade paler so that her freckles were showing. But she faced O’Brien boldly.
+Sometimes we even amputate a limb. Winston could not help snatching another sidelong glance at Martin’s Mongolian face. There were no scars that he could see. Julia had turned a shade paler so that her freckles were showing.
 
-She murmured something that seemed to be a scent. Good. Then that is settled. There was a silver box of cigarettes on the table.
+But she faced O’Brien boldly. She murmured something that seemed to be a scent. Good. Then that is settled.
 
-With a rather absent-minded air, O’Brien pushed them towards the others, took one himself, then stood up and began to pace slowly to and fro, as though he could think better standing. They were very good cigarettes, very thick and well packed, with an unfamiliar silkiness in the paper. O’Brien looked at his wristwatch again. You had better go back to your pantry, Martin, he said.
+There was a silver box of cigarettes on the table. With a rather absent-minded air, O’Brien pushed them towards the others, took one himself, then stood up and began to pace slowly to and fro, as though he could think better standing. They were very good cigarettes, very thick and well packed, with an unfamiliar silkiness in the paper. O’Brien looked at his wristwatch again.
 
-I shall switch on in a quarter of an hour. Take a good look at these Comrade’s faces before you go. You will be seeing them again. I may not.
+You had better go back to your pantry, Martin, he said. I shall switch on in a quarter of an hour. Take a good look at these Comrade’s faces before you go. You will be seeing them again.
 
-Exactly as they had done at the front door, the little man’s dark eyes flickered over their faces. There was not a trace of friendliness in his manner. He was memorizing their appearance, but he felt no interest in them or appeared to feel none. It occurred to Winston that a synthetic face was perhaps incapable of changing its expression.
+I may not. Exactly as they had done at the front door, the little man’s dark eyes flickered over their faces. There was not a trace of friendliness in his manner. He was memorizing their appearance, but he felt no interest in them or appeared to feel none.
 
-Without speaking or giving any kind of salutation, Martin went out, closing the door silently behind him. O’Brien was strolling up and down, one hand in the pocket of his black overalls, the other holding his cigarette. You understand, he said, that you will be fighting in the dark. You will always be in the dark.
+It occurred to Winston that a synthetic face was perhaps incapable of changing its expression. Without speaking or giving any kind of salutation, Martin went out, closing the door silently behind him. O’Brien was strolling up and down, one hand in the pocket of his black overalls, the other holding his cigarette. You understand, he said, that you will be fighting in the dark.
 
-You will receive orders and you will obey them without knowing why. Later I shall send you a book from which you will learn the true nature of the society we live in and the strategy by which we shall destroy it. When you have read the book, you will be full members of the Brotherhood. But between the general aims that we are fighting for and the immediate tasks of the moment, you will never know anything.
+You will always be in the dark. You will receive orders and you will obey them without knowing why. Later. I shall send you a book from which you will learn the true nature of the society we live in and the strategy by which we shall destroy it.
 
-I tell you that the
+When you have read the book, you will be full members of the Brotherhood. But between the general aims that we are fighting for and the immediate tasks of the moment, you will never know anything. I tell you that the
 
 
 <a id="sec-055809"></a>
 ### ⏱️ [05:58:09 - 06:03:11]
 
-Brotherhood exists, but I cannot tell you whether it numbers a hundred members or ten million. From your personal knowledge, you will never be able to say that it numbers even as many as a dozen. You will have three or four contacts who will be renewed from time to time as they disappear. As this was your first contact, it will be preserved.
+Brotherhood exists, but. I cannot tell you whether it numbers a hundred members or ten million. From your personal knowledge, you will never be able to say that it numbers even as many as a dozen. You will have three or four contacts who will be renewed from time to time as they disappear.
 
-When you receive orders, they will come from me. If we find it necessary to communicate with you, it will be through Martin. When you are finally caught, you will confess. That is unavoidable, but you will have very little to confess, other than your own actions.
+As this was your first contact, it will be preserved. When you receive orders, they will come from me. If we find it necessary to communicate with you, it will be through Martin. When you are finally caught, you will confess.
 
-You will not be able to betray more than a handful of unimportant people. Probably you will not even betray me. By that time, I may be dead, or I shall have become a different person with a different face. He continued to move to and fro over the soft carpet.
+That is unavoidable, but you will have very little to confess, other than your own actions. You will not be able to betray more than a handful of unimportant people. Probably you will not even betray me. By that time, I may be dead, or.
 
-In spite of the bulkiness of his body, there was a remarkable grace in his movements. It came out even in the gesture with which he thrust a hand into his pocket or manipulated a cigarette. More even than of strength, he gave an impression of confidence and of an understanding tinged by irony.
+I shall have become a different person with a different face. He continued to move to and fro over the soft carpet. In spite of the bulkiness of his body, there was a remarkable grace in his movements. It came out even in the gesture with which he thrust a hand into his pocket or manipulated a cigarette.
 
-However much in earnest he might be, he had nothing of the single-mindedness that belongs to a fanatic. When he spoke of murder, suicide, venereal disease, amputated limbs, and altered faces, it was with a faint air of persiflage. This is unavoidable, his voice seemed to say. This is what we have got to do unflinchingly.
+More even than of strength, he gave an impression of confidence and of an understanding tinged by irony. However, much in earnest he might be, he had nothing of the single-mindedness that belongs to a fanatic. When he spoke of murder, suicide, venereal disease, amputated limbs, and altered faces, it was with a faint air of persiflage. This is unavoidable, his voice seemed to say.
 
-But this is not what we shall be doing when life is worth living again. A wave of admiration, almost of worship, flowed out from Winston towards O’Brien. For the moment he had forgotten the shadowy figure of Goldstein. When you looked at O’Brien’s powerful shoulders and his blunt featured face, so ugly and yet so civilized, it was impossible to believe that he could be defeated.
+This is what we have got to do unflinchingly. But this is not what we shall be doing when life is worth living again. A wave of admiration, almost of worship, flowed out from Winston towards O’Brien. For the moment he had forgotten the shadowy figure of Goldstein.
 
-There was no stratagem that he was not equal to, no danger that he could not foresee. Even Julia seemed to be impressed. She had let her cigarette go out and was listening intently. O’Brien went on.
+When you looked at O’Brien’s powerful shoulders and his blunt featured face, so ugly and yet so civilized, it was impossible to believe that he could be defeated. There was no stratagem that he was not equal to, no danger that he could not foresee. Even Julia seemed to be impressed. She had let her cigarette go out and was listening intently.
 
-You will have heard rumors of the existence of the Brotherhood. No doubt you have formed your own picture of it. You have imagined probably a huge underworld of conspirators meeting secretly in cellars, scribbling messages on walls, recognizing one another by code words or by special movements of the hand. Nothing of the kind exists.
+O’Brien went on. You will have heard rumors of the existence of the Brotherhood. No doubt you have formed your own picture of it. You have imagined probably a huge underworld of conspirators meeting secretly in cellars, scribbling messages on walls, recognizing one another by code words or by special movements of the hand.
 
-The members of the Brotherhood have no way of recognizing one another, and it is impossible for any one member to be aware of the identity of more than a few others. Goldstein himself, if he fell into the hands of the Thought Police, could not give them a complete list of members or any information that would lead them to a complete list. No such list exists. The Brotherhood cannot be wiped out because it is not an organization in the ordinary sense.
+Nothing of the kind exists. The members of the Brotherhood have no way of recognizing one another, and it is impossible for any one member to be aware of the identity of more than a few others. Goldstein himself, if he fell into the hands of the Thought Police, could not give them a complete list of members or any information that would lead them to a complete list. No such list exists.
 
-Nothing holds it together except an idea which is indestructible. You will never have anything to sustain you, except the idea. You will get no comradeship and no encouragement. When finally you are caught, you will get no help.
+The Brotherhood cannot be wiped out because it is not an organization in the ordinary sense. Nothing holds it together except an idea which is indestructible. You will never have anything to sustain you, except the idea. You will get no comradeship and no encouragement.
 
-We never help our members. At most, when it is absolutely necessary that someone should be silenced, we are occasionally able to smuggle a razor blade into a prisoner’s cell. You will have to get used to living without results and without hope. You will work for a while, you will be caught, you will confess, and then you will die.
+When finally you are caught, you will get no help. We never help our members. At most, when it is absolutely necessary that someone should be silenced, we are occasionally able to smuggle a razor blade into a prisoner’s cell. You will have to get used to living without results and without hope.
 
-Those are the only results that you will ever see. There is no possibility that any perceptible change will happen within our own lifetime. We are the dead. Our only true life is in the future.
+You will work for a while, you will be caught, you will confess, and then you will die. Those are the only results that you will ever see. There is no possibility that any perceptible change will happen within our own lifetime. We are the dead.
 
-We shall take part in it as handfuls of dust and splinters of bone. But how far away that future may be, there is no knowing. It might be a thousand years. At present nothing is possible except to extend the area of sanity little by little.
+Our only true life is in the future. We shall take part in it as handfuls of dust and splinters of bone. But how far away that future may be, there is no knowing. It might be a thousand years.
 
-We cannot act collectively. We can only spread our knowledge outwards from individual to individual, generation after generation. In the face of the thought police, there is no other way. He halted and looked for the third time at his wristwatch.
+At present nothing is possible except to extend the area of sanity little by little. We cannot act collectively. We can only spread our knowledge outwards from individual to individual, generation after generation. In the face of the thought police, there is no other way.
 
-It is almost time for you to leave, Comrade, he said to Julia. Wait, the decanter is still half full. He filled the glasses and raised his own glass by the stem. What shall it be this time, he said, still with the same faint suggestion of irony?
+He halted and looked for the third time at his wristwatch. It is almost time for you to leave, Comrade, he said to Julia. Wait, the decanter is still half full. He filled the glasses and raised his own glass by the stem.
 
-To the confusion of the thought police? To the death of Big Brother? To humanity? To the future?
+What shall it be this time, he said, still with the same faint suggestion of irony? To the confusion of the thought police? To the death of Big Brother? To humanity?
 
-To the past, said Winston.
+To the future? To the past, said Winston.
 
 
 <a id="sec-060311"></a>
@@ -2522,39 +2598,43 @@ The past is more important, agreed O’Brien gravely. They emptied their glasses
 
 The lift attendants were very observant. As soon as the door had shut behind her, he appeared to forget her existence. He took another pace or two up and down, then stopped. There are details to be settled, he said.
 
-I assume that you have a hiding place of some kind. Winston explained about the room over Mr. Charrington’s shop. That will do for the moment. Later we will arrange something else for you.
+I assume that you have a hiding place of some kind. Winston explained about the room over Mr. Charrington’s shop. That will do for the moment.
 
-It is important to change one’s hiding place frequently. Meanwhile I shall send you a copy of the book. O’Brien, Winston noticed, seemed to pronounce the words as though they were in italics. Goldstein’s book, you understand, as soon as possible.
+Later we will arrange something else for you. It is important to change one’s hiding place frequently.
 
-It may be some days before I can get hold of one. There are not many in existence, as you can imagine. The thought police hunt them down and destroy them almost as fast as we can produce them. It makes very little difference.
+Meanwhile. I shall send you a copy of the book. O’Brien, Winston noticed, seemed to pronounce the words as though they were in italics. Goldstein’s book, you understand, as soon as possible.
 
-The book is indestructible. If the last copy were gone, we could reproduce it almost word for word. Do you carry a briefcase to work with you, he added. As a rule, yes.
+It may be some days before. I can get hold of one. There are not many in existence, as you can imagine. The thought police hunt them down and destroy them almost as fast as we can produce them.
 
-What is it like? Black, very shabby. With two straps. Black, two straps, very shabby, good.
+It makes very little difference. The book is indestructible. If the last copy were gone, we could reproduce it almost word for word. Do you carry a briefcase to work with you, he added.
 
-One day in the fairly near future, I cannot give a date. One of the messages among your morning’s work will contain a misprinted word, and you will have to ask for a repeat. On the following day you will go to work without your briefcase. At some time during the day, in the street, a man will touch you on the arm and say, I think you have dropped your briefcase.
+As a rule, yes. What is it like? Black, very shabby. With two straps.
 
-The one he gives you will contain a copy of Goldstein’s book. You will return it within 14 days. They were silent for a moment. There are a couple of minutes before you need to go, said O’Brien.
+Black, two straps, very shabby, good. One day in the fairly near future, I cannot give a date. One of the messages among your morning’s work will contain a misprinted word, and you will have to ask for a repeat. On the following day you will go to work without your briefcase.
 
-We shall meet again. If we do meet again, Winston looked up at him. In the place where there is no darkness, he said hesitantly, O’Brien nodded without appearance of surprise. In the place where there is no darkness, he said, as though he had recognized the illusion.
+At some time during the day, in the street, a man will touch you on the arm and say, I think you have dropped your briefcase. The one he gives you will contain a copy of Goldstein’s book. You will return it within 14 days. They were silent for a moment.
 
-And in the meantime, is there anything that you wish to say before you leave? Any message? Any question? Winston thought.
+There are a couple of minutes before you need to go, said O’Brien. We shall meet again. If we do meet again, Winston looked up at him. In the place where there is no darkness, he said hesitantly, O’Brien nodded without appearance of surprise.
 
-There did not seem to be any further question that he wanted to ask. Still less did he feel any impulse to utter high-sounding generalities. Instead of anything directly connected with O’Brien or the brotherhood, there came into his mind a sort of composite picture of the dark bedroom where his mother had spent her last days, and the little room over Mr. Charington’s shop, and the glass paperweight, and the steel engraving in its rosewood frame. Almost at random, he said, did you ever happen to hear an old rhyme that begins oranges and lemons, say the bells of St.
+In the place where there is no darkness, he said, as though he had recognized the illusion. And in the meantime, is there anything that you wish to say before you leave? Any message? Any question?
 
-Clement S. Again O’Brien nodded. With a sort of grave courtesy, he completed the stanza. Oranges and lemons, say the bells of St.
+Winston thought. There did not seem to be any further question that he wanted to ask. Still less did he feel any impulse to utter high-sounding generalities. Instead of anything directly connected with O’Brien or the brotherhood, there came into his mind a sort of composite picture of the dark bedroom where his mother had spent her last days, and the little room over Mr.
 
-Clement S, you owe me three farthings. Say the bells of St. Martin S, when will you pay me? Say the bells of old Bailey, when I grow rich.
+Charington’s shop, and the glass paperweight, and the steel engraving in its rosewood frame. Almost at random, he said, did you ever happen to hear an old rhyme that begins oranges and lemons, say the bells of St. Clement S. Again O’Brien nodded.
 
-Say the bells of shore ditch. You knew the last line, said Winston. Yes I knew the last line, and now, I’m afraid, it is time for you to go, but wait. You had better let me give you one of these tablets.
+With a sort of grave courtesy, he completed the stanza. Oranges and lemons, say the bells of St. Clement S, you owe me three farthings. Say the bells of St.
+
+Martin S, when will you pay me? Say the bells of old Bailey, when. I grow rich. Say the bells of shore ditch.
+
+You knew the last line, said Winston. Yes. I knew the last line, and now, I’m afraid, it is time for you to go, but wait. You had better let me give you one of these tablets.
 
 As Winston stood up, O’Brien held out a hand. His powerful grip crushed the bones of Winston’s palm. At the door, Winston looked back, but O’Brien seemed already to be in process of putting him out of mind. He was waiting with his hand on the switch that controlled the telly screen.
 
 Beyond him, Winston could see the writing table with its green shaded lamp and the speak right and the wire baskets deep laden with papers. The incident was closed. Within thirty seconds it occurred to him, O’Brien would be back at his interrupted and important work on behalf of the party.
 
-#### Chapter 9 Winston Was Gelatinous with Fatigue This was the right word. It had come into his head spontaneously.
+#### Chapter 9 Winston Was Gelatinous with Fatigue. This was the right word.
 
-His body seemed to have not only the weakness of a jelly, but its translucency. He felt that if he held up his hand he would be able to see the light through it. All the blood and lymph had been drained out of him by an enormous debauch of work, leaving
+It had come into his head spontaneously. His body seemed to have not only the weakness of a jelly, but its translucency. He felt that if he held up his hand he would be able to see the light through it. All the blood and lymph had been drained out of him by an enormous debauch of work, leaving
 
 
 <a id="sec-060814"></a>
@@ -2562,25 +2642,27 @@ His body seemed to have not only the weakness of a jelly, but its translucency. 
 
 only a frail structure of nerves, bones, and skin. All sensations seemed to be magnified. His overalls fretted his shoulders, the pavement tickled his feet, even the opening and closing of a hand was an effort that made his joints creak. He had worked more than ninety hours in five days.
 
-So had everyone else in the ministry. Now it was all over, and he had literally nothing to do, no party work of any description until tomorrow morning. He could spend six hours in the hiding place and another nine in his own bed. Slowly, in mild afternoon sunshine, he walked up a dingy street in the direction of Mr. Charington’s shop, keeping one eye open for the patrols, but irrationally convinced that this afternoon there was no danger of anyone interfering with him.
+So had everyone else in the ministry. Now it was all over, and he had literally nothing to do, no party work of any description until tomorrow morning. He could spend six hours in the hiding place and another nine in his own bed. Slowly, in mild afternoon sunshine, he walked up a dingy street in the direction of Mr.
 
-The heavy briefcase that he was carrying bumped against his knee at each step, sending a tingling sensation up and down the skin of his leg. And it was the book, which he had now had in his possession for six days and had not yet opened, nor even looked at. On the sixth day of hate week, after the processions, the speeches, the shouting, the singing, the banners, the posters, the films, the waxworks, the rolling of drums and squealing of trumpets, the tramp of marching feet, the grinding of the caterpillars of tanks, the roar of massed planes, the booming of guns.
+Charington’s shop, keeping one eye open for the patrols, but irrationally convinced that this afternoon there was no danger of anyone interfering with him. The heavy briefcase that he was carrying bumped against his knee at each step, sending a tingling sensation up and down the skin of his leg. And it was the book, which he had now had in his possession for six days and had not yet opened, nor even looked at. On the sixth day of hate week, after the processions, the speeches, the shouting, the singing, the banners, the posters, the films, the waxworks, the rolling of drums and squealing of trumpets, the tramp of marching feet, the grinding of the caterpillars of tanks, the roar of massed planes, the booming of guns.
 
-After six days of this, when the great orgasm was quivering to its climax and the general hatred of Eurasia had boiled up into such delirium that if the crowd could have got their hands on the 2,000 Eurasian war criminals, who were to be publicly hanged on the last day of the proceedings, they would unquestionably have torn them to pieces. At just this moment, it had been announced that Oceania was not after all at war with Eurasia. Oceania was at war with Eastasia.
+After six days of this, when the great orgasm was quivering to its climax and the general hatred of Eurasia had boiled up into such delirium that if the crowd could have got their hands on the 2,000 Eurasian war criminals, who were to be publicly hanged on the last day of the proceedings, they would unquestionably have torn them to pieces. At just this moment, it had been announced that Oceania was not after all at war with Eurasia.
 
-Eurasia was an ally. There was, of course, no admission that any change had taken place. Merely it became known, with extreme suddenness and everywhere at once, that Eastasia and not Eurasia was the enemy. One was taking part in a demonstration in one of the central London squares at the moment when it happened.
+Oceania was at war with Eastasia. Eurasia was an ally. There was, of course, no admission that any change had taken place. Merely it became known, with extreme suddenness and everywhere at once, that Eastasia and not Eurasia was the enemy.
 
-It was night, and the white faces and the scarlet banners were luridly floodlit. The square was packed with several thousand people, including a block of about a thousand schoolchildren in the uniform of the spies. On a scarlet-draped platform, an orator of the inner party, a small lean man with disproportionately long arms and a large bald skull, over which a few lank locks straggled, was haranguing the crowd. A little rumpled stiltskin figure, contorted with hatred, he gripped the neck of the microphone with one hand, while the other, enormous at the end of a bony arm, clawed the air menacingly above his head.
+One was taking part in a demonstration in one of the central London squares at the moment when it happened. It was night, and the white faces and the scarlet banners were luridly floodlit. The square was packed with several thousand people, including a block of about a thousand schoolchildren in the uniform of the spies. On a scarlet-draped platform, an orator of the inner party, a small lean man with disproportionately long arms and a large bald skull, over which a few lank locks straggled, was haranguing the crowd.
 
-His voice, made metallic by the amplifiers, boomed forth an endless catalogue of atrocities, massacres, deportations, lootings, rapings, torture of prisoners, bombing of civilians, lying propaganda, unjust aggressions, broken treaties. It was almost impossible to listen to him without being first convinced and then maddened. At every few moments the fury of the crowd boiled over, and the voice of the speaker was drowned by a wild beast-like roaring that rose uncontrollably from thousands of throats. The most savage yells of all came from the schoolchildren.
+A little rumpled stiltskin figure, contorted with hatred, he gripped the neck of the microphone with one hand, while the other, enormous at the end of a bony arm, clawed the air menacingly above his head. His voice, made metallic by the amplifiers, boomed forth an endless catalogue of atrocities, massacres, deportations, lootings, rapings, torture of prisoners, bombing of civilians, lying propaganda, unjust aggressions, broken treaties. It was almost impossible to listen to him without being first convinced and then maddened.
 
-The speech had been proceeding for perhaps twenty minutes when a messenger hurried onto the platform and a scrap of paper was slipped into the speaker’s hand. He unrolled and read it without pausing in his speech. Nothing altered in his voice or manner, or in the content of what he was saying. But suddenly the names were different.
+At every few moments the fury of the crowd boiled over, and the voice of the speaker was drowned by a wild beast-like roaring that rose uncontrollably from thousands of throats. The most savage yells of all came from the schoolchildren. The speech had been proceeding for perhaps twenty minutes when a messenger hurried onto the platform and a scrap of paper was slipped into the speaker’s hand. He unrolled and read it without pausing in his speech.
 
-Without words said, a wave of understanding rippled through the crowd. Oceania was at war with Eustacia. The next moment there was a tremendous commotion. The banners and posters with which the square was decorated were all wrong.
+Nothing altered in his voice or manner, or in the content of what he was saying. But suddenly the names were different. Without words said, a wave of understanding rippled through the crowd. Oceania was at war with Eustacia.
 
-Quite half of them had the wrong faces on them. It was sabotage. The agents of Goldstein had been at work. There was a riotous interlude while posters were ripped from the walls, banners torn to shreds and trampled underfoot.
+The next moment there was a tremendous commotion. The banners and posters with which the square was decorated were all wrong. Quite half of them had the wrong faces on them. It was sabotage.
 
-The spies performed prodigies of activity in clambering over the rooftops and cutting the streamers that fluttered from the chimneys. But within two or three minutes it was all over. The orator still gripping the neck of the microphone, his shoulders hunched forward, his free hand clawing at the air, had gone straight on with his speech. One minute more and the feral roars of rage were again bursting from the crowd.
+The agents of Goldstein had been at work. There was a riotous interlude while posters were ripped from the walls, banners torn to shreds and trampled underfoot. The spies performed prodigies of activity in clambering over the rooftops and cutting the streamers that fluttered from the chimneys. But within two or three minutes it was all over.
+
+The orator still gripping the neck of the microphone, his shoulders hunched forward, his free hand clawing at the air, had gone straight on with his speech. One minute more and the feral roars of rage were again bursting from the crowd.
 
 
 <a id="sec-061317"></a>
@@ -2588,7 +2670,7 @@ The spies performed prodigies of activity in clambering over the rooftops and cu
 
 The hate continued exactly as before, except that the target had been changed. The thing that impressed Winston in looking back was that the speaker had switched from one line to the other, actually in mid-sentence, not only without a pause, but without even breaking the syntax. But at the moment he had other things to preoccupy him.
 
-It was during the moment of disorder, while the posters were being torn down, that a man whose face he did not see had tapped him on the shoulder and said, “Excuse me, I think you’ve dropped your briefcase.” He took the briefcase abstractedly, without speaking. He knew that it would be days before he had an opportunity to look inside it. The instant that the demonstration was over, he went straight to the Ministry of Truth, though the time was now nearly twenty-three hours.
+It was during the moment of disorder, while the posters were being torn down, that a man whose face he did not see had tapped him on the shoulder and said, “Excuse me, I think you’ve dropped your briefcase.”. He took the briefcase abstractedly, without speaking. He knew that it would be days before he had an opportunity to look inside it. The instant that the demonstration was over, he went straight to the Ministry of Truth, though the time was now nearly twenty-three hours.
 
 The entire staff of the Ministry had done likewise, the orders already issuing from the tele-screen, recalling them to their posts, were hardly necessary. Oceania was at war with Istasia. Oceania had always been at war with Istasia. A large part of the political literature of five years was now completely obsolete.
 
@@ -2604,15 +2686,15 @@ For as much as half an hour, nothing came out of the tube. Then one more cylinde
 
 A deep and, as it were, secret sigh went through the department. A mighty deed, which could never be mentioned, had been achieved. It was now impossible for any human being to prove by documentary evidence that the war with Eurasia had ever happened. At twelve hundred, it was unexpectedly announced that all workers in the ministry were free till tomorrow morning.
 
-Winston, still carrying the briefcase containing the book, which had remained between his feet while he worked and under his body while he slept, went home, shaved himself, and almost fell asleep in his bath, although the water was barely more than tepid. With a sort of voluptuous creaking in his joints, he climbed the stair above Mr. Charrington’s shop. He was tired, but not sleepy any longer. He opened the window, lit the dirty little oil stove, and put on a pan of water for coffee.
+Winston, still carrying the briefcase containing the book, which had remained between his feet while he worked and under his body while he slept, went home, shaved himself, and almost fell asleep in his bath, although the water was barely more than tepid. With a sort of voluptuous creaking in his joints, he climbed the stair above Mr. Charrington’s shop. He was tired, but not sleepy any longer.
 
-Julia would arrive presently. Meanwhile, there was the book. He sat down in the sluttish armchair and undid the straps of the briefcase. A heavy, black volume, amateurishly bound, with no name or title on the cover.
+He opened the window, lit the dirty little oil stove, and put on a pan of water for coffee. Julia would arrive presently.
 
-The print also looked slightly irregular. The pages were worn at the edges and fell apart easily, as though the book had passed through many hands. The inscription on the title page ran, The Theory and Practice of Oligarchical Collectivism, by Immanuel Goldstein. Winston began reading.
+Meanwhile, there was the book. He sat down in the sluttish armchair and undid the straps of the briefcase. A heavy, black volume, amateurishly bound, with no name or title on the cover. The print also looked slightly irregular.
 
-#### Chapter 1.
+The pages were worn at the edges and fell apart easily, as though the book had passed through many hands. The inscription on the title page ran, The Theory and Practice of Oligarchical Collectivism, by Immanuel Goldstein. Winston began reading.
 
-Ignorance is Strength
+#### Chapter 1. Ignorance is Strength
 
 
 <a id="sec-061825"></a>
@@ -2646,13 +2728,13 @@ War has in fact changed its character. More exactly, the reasons for which war i
 
 One must realise in the first place that it is impossible for it to be decisive. None of the three superstates could be definitively conquered even by the other two in combination. They are too evenly matched and their natural defences are too formidable. Eurasia is protected by its vast land spaces.
 
-Oceania by the width of the Atlantic and the Pacific, Istasia by the fecundity and industriousness of its inhabitants. Secondly, there is no longer, in a material sense, anything to fight about. With the establishment of self-contained economies in which production and consumption are geared to one another, the scramble for markets which was a main cause of previous wars has come to an end, while the competition for raw materials is no longer a matter of life and death. In any case, each of the three superstates is so vast that it can obtain almost all the materials that it needs within its own boundaries.
+Oceania by the width of the Atlantic and the Pacific, Istasia by the fecundity and industriousness of its inhabitants. Secondly, there is no longer, in a material sense, anything to fight about. With the establishment of self-contained economies in which production and consumption are geared to one another, the scramble for markets which was a main cause of previous wars has come to an end, while the competition for raw materials is no longer a matter of life and death.
 
-Insofar as the war has a direct economic purpose, it is a war for labour power. Between the frontiers of the superstates are not permanently in the possession of any of them. There lies a rough quadrilateral with its corners at Tangier, Brazzaville, Darwin and Hong Kong, containing within it about a fifth of the population of the Earth. It is for the possession of these thickly populated regions and of the northern ice cap that the three powers are constantly struggling.
+In any case, each of the three superstates is so vast that it can obtain almost all the materials that it needs within its own boundaries. Insofar as the war has a direct economic purpose, it is a war for labour power. Between the frontiers of the superstates are not permanently in the possession of any of them. There lies a rough quadrilateral with its corners at Tangier, Brazzaville, Darwin and Hong Kong, containing within it about a fifth of the population of the Earth.
 
-In practice, no one power ever controls the whole of the disputed area. Portions of it are constantly changing hands, and it is the chance of seizing this or that fragment by a sudden stroke of treachery that dictates the endless changes of alignment. All of the disputed territories contain valuable minerals, and some of them yield important vegetable products such as rubber, which in colder climates it is necessary to synthesise by comparatively expensive methods. But above all, they contain a bottomless reserve of cheap labour.
+It is for the possession of these thickly populated regions and of the northern ice cap that the three powers are constantly struggling. In practice, no one power ever controls the whole of the disputed area. Portions of it are constantly changing hands, and it is the chance of seizing this or that fragment by a sudden stroke of treachery that dictates the endless changes of alignment. All of the disputed territories contain valuable minerals, and some of them yield important vegetable products such as rubber, which in colder climates it is necessary to synthesise by comparatively expensive methods.
 
-Whichever power controls equatorial Africa, or the countries of the Middle East, or southern India, or the Indonesian archipelago, disposes also of the bodies of scores or hundreds of millions of ill-paid and hard-working coolies. The inhabitants of these areas, reduced more or less openly to the status of slaves, pass continually from conqueror to conqueror, and are expended like so much coal or oil in the race to turn out more armaments, to capture more territory, to control more labour power, to turn out more armaments, to capture more territory, and so on indefinitely.
+But above all, they contain a bottomless reserve of cheap labour. Whichever power controls equatorial Africa, or the countries of the Middle East, or southern India, or the Indonesian archipelago, disposes also of the bodies of scores or hundreds of millions of ill-paid and hard-working coolies. The inhabitants of these areas, reduced more or less openly to the status of slaves, pass continually from conqueror to conqueror, and are expended like so much coal or oil in the race to turn out more armaments, to capture more territory, to control more labour power, to turn out more armaments, to capture more territory, and so on indefinitely.
 
 It should be noted that the fighting never really moves beyond the edges of the disputed areas. The frontiers of Eurasia flow back and forth between the basin of the Congo and the northern shore of the Mediterranean. The islands of the Indian Ocean and the Pacific are constantly being captured and recaptured by Oceania or by Istasia. In Mongolia, the dividing line between Eurasia and Istasia is never stable.
 
@@ -2684,7 +2766,9 @@ Nor was it a satisfactory solution to keep the masses in poverty by restricting 
 
 Capital equipment was not added to. Great blocks of the population were prevented from working and kept half alive by state charity. But this, too, entailed military weakness, and since the privations it inflicted were obviously unnecessary, it made opposition inevitable. The problem was how to keep the wheels of industry turning without increasing the real wealth of the world.
 
-Goods must be produced, but they must not be distributed, and in practice the only way of achieving this was by continuous warfare. The essential act of war is destruction, not necessarily of human lives, but of the products of human labor. War is a way of shattering to pieces, or pouring into the stratosphere, or sinking in the depths of the sea, materials which might otherwise be used to make the masses too comfortable, and hence, in the long run, too intelligent. Even when weapons of war are not actually destroyed, their manufacture is still a convenient way of expending labor
+Goods must be produced, but they must not be distributed, and in practice the only way of achieving this was by continuous warfare. The essential act of war is destruction, not necessarily of human lives, but of the products of human labor. War is a way of shattering to pieces, or pouring into the stratosphere, or sinking in the depths of the sea, materials which might otherwise be used to make the masses too comfortable, and hence, in the long run, too intelligent.
+
+Even when weapons of war are not actually destroyed, their manufacture is still a convenient way of expending labor
 
 
 <a id="sec-063332"></a>
@@ -2704,9 +2788,9 @@ In other words, it is necessary that he should have the mentality appropriate to
 
 It is precisely in the inner party that war hysteria and hatred of the enemy are strongest. In his capacity as an administrator, it is often necessary for a member of the inner party to know that this or that item of war news is untruthful, and he may often be aware that the entire war is spurious and is either not happening or is being waged for purposes quite other than the declared ones. But such knowledge is easily neutralised by the technique of doublethink.
 
-Meanwhile, no inner party member wavers for an instant in his mystical belief that the war is real and that it is bound to end victoriously with Oceania, the undisputed master of the entire world. All members of the inner party believe in this coming conquest as an article of faith. It is to be achieved either by gradually acquiring more and more territory and so building up an overwhelming preponderance of power or by the discovery of some new and unanswerable weapon. The search for new weapons continues unceasingly and is one of the very few remaining activities in which the inventive or speculative type of mind can find any outlet.
+Meanwhile, no inner party member wavers for an instant in his mystical belief that the war is real and that it is bound to end victoriously with Oceania, the undisputed master of the entire world. All members of the inner party believe in this coming conquest as an article of faith. It is to be achieved either by gradually acquiring more and more territory and so building up an overwhelming preponderance of power or by the discovery of some new and unanswerable weapon.
 
-In Oceania at the present day, science, in the old sense, has almost ceased to exist. In Newspeak there is no word for science. The empirical method of thought on which all the scientific achievements of the past were founded
+The search for new weapons continues unceasingly and is one of the very few remaining activities in which the inventive or speculative type of mind can find any outlet. In Oceania at the present day, science, in the old sense, has almost ceased to exist. In Newspeak there is no word for science. The empirical method of thought on which all the scientific achievements of the past were founded
 
 
 <a id="sec-063834"></a>
@@ -2722,13 +2806,13 @@ Some are concerned simply with planning the logistics of future wars, others dev
 
 Others explore even remoter possibilities, such as focusing the sun’s rays through lenses suspended thousands of kilometres away in space, or producing artificial earthquakes and tidal waves by tapping the heat at the earth’s centre. But none of these projects ever comes anywhere near realisation, and none of the three superstates ever gains a significant lead on the others. What is more remarkable is that all three powers already possess, in the atomic bomb, a weapon far more powerful than any that their present researchers are likely to discover.
 
-Although the party, according to its habit, claims the invention for itself, atomic bombs first appeared as early as the 1940s, and were first used on a large scale about 10 years later. At that time, some hundreds of bombs were dropped on industrial centres, chiefly in European Russia, Western Europe, and North America. The effect was to convince the ruling groups of all countries that a few more atomic bombs would mean the end of organised society, and hence, of their own power. Thereafter, although no formal agreement was ever made or hinted at, no more bombs were dropped.
+Although the party, according to its habit, claims the invention for itself, atomic bombs first appeared as early as the 1940s, and were first used on a large scale about 10 years later. At that time, some hundreds of bombs were dropped on industrial centres, chiefly in European Russia, Western Europe, and North America. The effect was to convince the ruling groups of all countries that a few more atomic bombs would mean the end of organised society, and hence, of their own power.
 
-All three powers merely continue to produce atomic bombs, and store them up against the decisive opportunity which they all believe will come sooner or later. And meanwhile, the art of war has remained almost stationary for 30 or 40 years. Helicopters are more used than they were formally. Bombing planes have been largely superseded by self-propelled projectiles, and the fragile, movable battleship has given way to the almost unsinkable floating fortress.
+Thereafter, although no formal agreement was ever made or hinted at, no more bombs were dropped. All three powers merely continue to produce atomic bombs, and store them up against the decisive opportunity which they all believe will come sooner or later. And meanwhile, the art of war has remained almost stationary for 30 or 40 years. Helicopters are more used than they were formally.
 
-But otherwise, there has been little development. The tank, the submarine, the torpedo, the machine gun, even the rifle and the hand grenade are still in use. And in spite of the endless slaughters reported in the press and on the telescreens, the desperate battles of earlier wars, in which hundreds of thousands or even millions of men were often killed in a few weeks, have never been repeated. None of the three superstates ever attempts any manoeuvre which involves the risk of serious defeat.
+Bombing planes have been largely superseded by self-propelled projectiles, and the fragile, movable battleship has given way to the almost unsinkable floating fortress. But otherwise, there has been little development. The tank, the submarine, the torpedo, the machine gun, even the rifle and the hand grenade are still in use. And in spite of the endless slaughters reported in the press and on the telescreens, the desperate battles of earlier wars, in which hundreds of thousands or even millions of men were often killed in a few weeks, have never been repeated.
 
-When any large operation is undertaken, it is usually a surprise attack against an ally. The strategy that all three powers are following, or pretend to themselves that they are following, is the same. The plan is, by a combination of fighting, bargaining, and well-timed strokes of treachery, to acquire a ring of bases completely encircling one or other
+None of the three superstates ever attempts any manoeuvre which involves the risk of serious defeat. When any large operation is undertaken, it is usually a surprise attack against an ally. The strategy that all three powers are following, or pretend to themselves that they are following, is the same. The plan is, by a combination of fighting, bargaining, and well-timed strokes of treachery, to acquire a ring of bases completely encircling one or other
 
 
 <a id="sec-064338"></a>
@@ -2788,27 +2872,31 @@ with the forbidden book, in a room with no telescreen, had not worn off. Solitud
 
 It said what he would have said if it had been possible for him to set his scattered thoughts in order. It was the product of a mind similar to his own, but enormously more powerful, more systematic, less fear-ridden. The best books he perceived are those that tell you what you know already. He had just turned back to chapter one when he heard Julia’s footstep on the stair and started out of his chair to meet her.
 
-She dumped her brown tool-bag on the floor and flung herself into his arms. It was more than a week since they had seen one another. I’ve got the book, he said, as they disentangled themselves. Oh, you’ve got it! Good, she said without much interest, and almost immediately knelt down beside the oil stove to make the coffee.
+She dumped her brown tool-bag on the floor and flung herself into his arms. It was more than a week since they had seen one another. I’ve got the book, he said, as they disentangled themselves. Oh, you’ve got it!
 
-They did not return to the subject until they had been in bed for half an hour. The evening was just cool enough to make it worthwhile to pull up the counterpane. From below came the familiar sound of singing and the scrape of boots on the flagstones. The brawny red-armed woman, whom Winston had seen there on his first visit, was almost a fixture in the yard.
+Good, she said without much interest, and almost immediately knelt down beside the oil stove to make the coffee. They did not return to the subject until they had been in bed for half an hour. The evening was just cool enough to make it worthwhile to pull up the counterpane. From below came the familiar sound of singing and the scrape of boots on the flagstones.
 
-There seemed to be no hour of daylight when she was not marching to and fro between the washtub and the line, alternately gagging herself with clothes pegs and breaking forth into lusty song. Martha had settled down on her side and seemed to be already on the point of falling asleep. He reached out for the book, which was lying on the floor, and sat up against the bedhead. We must read it, he said.
+The brawny red-armed woman, whom Winston had seen there on his first visit, was almost a fixture in the yard. There seemed to be no hour of daylight when she was not marching to and fro between the washtub and the line, alternately gagging herself with clothes pegs and breaking forth into lusty song. Martha had settled down on her side and seemed to be already on the point of falling asleep. He reached out for the book, which was lying on the floor, and sat up against the bedhead.
 
-You too. All members of the Brotherhood have to read it. You read it, she said, with her eyes shut. Read it aloud.
+We must read it, he said. You too. All members of the Brotherhood have to read it. You read it, she said, with her eyes shut.
 
-That’s the best way. Then you can explain it to me as you go. The clock’s hand said six, meaning eighteen. They had three or four hours ahead of them.
+Read it aloud. That’s the best way. Then you can explain it to me as you go. The clock’s hand said six, meaning eighteen.
 
-He propped the book against his knees and began reading.
+They had three or four hours ahead of them. He propped the book against his knees and began reading.
 
-#### Chapter 1 Ignorance is Strength Throughout recorded time, and probably since the end of the Neolithic age, there have been three kinds of people in the world, the high, the middle, and the low. They have been subdivided in many ways, they have borne countless different names, and their relative numbers, as well as their attitude towards one another, have varied from age to age. But the essential structure of society has never altered.
+#### Chapter 1 Ignorance is Strength Throughout recorded time, and probably since the end of the Neolithic age, there have been three kinds of people in the world, the high, the middle, and the low. They have been subdivided in many ways, they have borne countless different names, and their relative numbers, as well as their attitude towards one another, have varied from age to age.
 
-Even after enormous upheavals and seemingly irrevocable changes, the same pattern has always reasserted itself, just as a gyroscope will always return to equilibrium, however far it is pushed one way or the other. Julia, are you awake? said Winston. Yes, my love, I’m listening. Go on.
+But the essential structure of society has never altered. Even after enormous upheavals and seemingly irrevocable changes, the same pattern has always reasserted itself, just as a gyroscope will always return to equilibrium, however far it is pushed one way or the other. Julia, are you awake? said Winston. Yes, my love, I’m listening.
 
-It’s marvelous. He continued reading. The aims of these three groups are entirely irreconcilable. The aim of the high is to remain where they are, the aim of the middle is to change places with the high, the aim of the low when they have an aim, for it is an abiding characteristic of the low that they are too much crushed by drudgery to be more than intermittently conscious of anything outside their daily lives, is to abolish all distinctions and create a society in which all men shall be equal.
+Go on. It’s marvelous. He continued reading. The aims of these three groups are entirely irreconcilable.
 
-Thus throughout history a struggle which is the same in its main outlines recurs over and over again. For long periods the high seem to be securely in power, but sooner or later there always comes a moment when they lose either their belief in themselves or their capacity to govern efficiently, or both. They are then overthrown by the middle, who enlist the low on their side by pretending to them that they are fighting for liberty and justice. As soon as they have reached their objective, the middle thrust the low back into their old position of servitude and themselves become the high.
+The aim of the high is to remain where they are, the aim of the middle is to change places with the high, the aim of the low when they have an aim, for it is an abiding characteristic of the low that they are too much crushed by drudgery to be more than intermittently conscious of anything outside their daily lives, is to abolish all distinctions and create a society in which all men shall be equal. Thus throughout history a struggle which is the same in its main outlines recurs over and over again.
 
-Presently, a new middle group splits off from one of the other groups, or from both of them, and the struggle begins over again. Of the three groups, only the low are never even temporarily successful in achieving their aims. It would be an exaggeration to say that throughout history there has been no progress of a material kind. Even today, in a period of decline, the average human being is physically better off than he was a few centuries ago. But no advance in wealth, no softening of manners, no reform or revolution has ever
+For long periods the high seem to be securely in power, but sooner or later there always comes a moment when they lose either their belief in themselves or their capacity to govern efficiently, or both. They are then overthrown by the middle, who enlist the low on their side by pretending to them that they are fighting for liberty and justice. As soon as they have reached their objective, the middle thrust the low back into their old position of servitude and themselves become the high.
+
+Presently, a new middle group splits off from one of the other groups, or from both of them, and the struggle begins over again. Of the three groups, only the low are never even temporarily successful in achieving their aims. It would be an exaggeration to say that throughout history there has been no progress of a material kind. Even today, in a period of decline, the average human being is physically better off than he was a few centuries ago.
+
+But no advance in wealth, no softening of manners, no reform or revolution has ever
 
 
 <a id="sec-065844"></a>
@@ -2816,45 +2904,45 @@ Presently, a new middle group splits off from one of the other groups, or from b
 
 brought human equality a millimetre nearer. From the point of view of the low, no historic change has ever meant much more than a change in the name of their masters. By the late 19th century, the recurrence of this pattern had become obvious to many observers. There then rose schools of thinkers who interpreted history as a cyclical process, and claimed to show that inequality was the unalterable law of human life.
 
-This doctrine, of course, had always had its adherence, but in the manner in which it was now put forward there was a significant change. In the past, the need for a hierarchical form of society had been the doctrine specifically of the high. It had been preached by kings and aristocrats and by the priests, lawyers, and the like who were parasitical upon them, and it had generally been softened by promises of compensation in an imaginary world beyond the grave. The middle, so long as it was struggling for power, had always made use of such terms as freedom, justice, and fraternity.
+This doctrine, of course, had always had its adherence, but in the manner in which it was now put forward there was a significant change. In the past, the need for a hierarchical form of society had been the doctrine specifically of the high. It had been preached by kings and aristocrats and by the priests, lawyers, and the like who were parasitical upon them, and it had generally been softened by promises of compensation in an imaginary world beyond the grave.
 
-Now, however, the concept of human brotherhood began to be assailed by people who were not yet in positions of command, but merely hoped to be so before long. past the middle had made revolutions under the banner of equality, and then had established a fresh tyranny as soon as the old one was overthrown. The new middle groups in effect proclaimed their tyranny beforehand. Socialism, a theory which appeared in the early nineteenth century and was the last link in a chain of thought stretching back to the slave rebellions of antiquity, was still deeply infected by the utopianism of past ages.
+The middle, so long as it was struggling for power, had always made use of such terms as freedom, justice, and fraternity. Now, however, the concept of human brotherhood began to be assailed by people who were not yet in positions of command, but merely hoped to be so before long. past the middle had made revolutions under the banner of equality, and then had established a fresh tyranny as soon as the old one was overthrown. The new middle groups in effect proclaimed their tyranny beforehand.
 
-But in each variant of socialism that appeared from about 1900 onwards, the aim of establishing liberty and equality was more and more openly abandoned. The new movements which appeared in the middle years of the century, Ingsoc in Oceania, Neo-Bolshevism in Eurasia, death worship as it is commonly called, in East Asia, had the conscious aim of perpetuating unfreedom and inequality. These new movements, of course, grew out of the old ones and tended to keep their names and pay lip service to their ideology.
+Socialism, a theory which appeared in the early nineteenth century and was the last link in a chain of thought stretching back to the slave rebellions of antiquity, was still deeply infected by the utopianism of past ages. But in each variant of socialism that appeared from about 1900 onwards, the aim of establishing liberty and equality was more and more openly abandoned. The new movements which appeared in the middle years of the century, Ingsoc in Oceania, Neo-Bolshevism in Eurasia, death worship as it is commonly called, in East Asia, had the conscious aim of perpetuating unfreedom and inequality.
 
-But the purpose of all of them was to arrest progress and freeze history at a chosen moment. The familiar pendulum swing was to happen once more and then stop. As usual, the high were to be turned out by the middle, who would then become the high, but this time by conscious strategy, the high would be able to maintain their position permanently. The new doctrines arose partly because of the accumulation of historical knowledge and the growth of the historical sense which had hardly existed before the nineteenth century.
+These new movements, of course, grew out of the old ones and tended to keep their names and pay lip service to their ideology. But the purpose of all of them was to arrest progress and freeze history at a chosen moment. The familiar pendulum swing was to happen once more and then stop. As usual, the high were to be turned out by the middle, who would then become the high, but this time by conscious strategy, the high would be able to maintain their position permanently.
 
-The cyclical movement of history was now intelligible or appeared to be so, and if it was intelligible then it was alterable. But the principal underlying cause was that, as early as the beginning of the twentieth century, human equality had become technically possible. It was still true that men were not equal in their native talents and that functions had to be specialised in ways that favoured some individuals against others, but there was no longer any real need for class distinctions or for large differences of wealth.
+The new doctrines arose partly because of the accumulation of historical knowledge and the growth of the historical sense which had hardly existed before the nineteenth century. The cyclical movement of history was now intelligible or appeared to be so, and if it was intelligible then it was alterable. But the principal underlying cause was that, as early as the beginning of the twentieth century, human equality had become technically possible. It was still true that men were not equal in their native talents and that functions had to be specialised in ways that favoured some individuals against others, but there was no longer any real need for class distinctions or for large differences of wealth.
 
 In earlier ages, class distinctions had been not only inevitable, but desirable. Inequality was the price of civilisation. With the development of machine production, however, the case was altered. Even if it was still necessary for human beings to do different kinds of work, it was no longer necessary for them to live at different social or economic levels.
 
 Therefore, from the point of view of the new groups who were on the point of seizing power, human equality was no longer an ideal to be striven after but a danger to be averted. In more primitive ages, when a just and peaceful society was in fact not possible, it had been fairly easy to believe it. The idea of an earthly paradise in which men should live together in a state of brotherhood, without laws and without brute labour, had haunted the human imagination for thousands of years.
 
-And this vision had had a certain hold even on the groups who actually profited by each historical change. The heirs of the French, English and American revolutions had partly believed in their own phrases about the rights of man, freedom of speech, equality before the law and the like, and have even allowed their conduct to be influenced by them to some extent. But by the fourth decade of the twentieth century, all the main currents of political thought were authoritarian. The earthly paradise had been discredited at exactly the moment when it became realizable.
+And this vision had had a certain hold even on the groups who actually profited by each historical change. The heirs of the French, English and American revolutions had partly believed in their own phrases about the rights of man, freedom of speech, equality before the law and the like, and have even allowed their conduct to be influenced by them to some extent. But by the fourth decade of the twentieth century, all the main currents of political thought were authoritarian.
 
-Every new political theory,
+The earthly paradise had been discredited at exactly the moment when it became realizable. Every new political theory,
 
 
 <a id="sec-070349"></a>
 ### ⏱️ [07:03:49 - 07:08:49]
 
-by whatever name it called itself, led back to hierarchy and regimentation, and in the general hardening of outlook that set in round about 1930, practices which had been long abandoned in some cases for hundreds of years, imprisonment without trial, the use of war prisoners as slaves, public executions, torture to extract confessions, the use of hostages, and the deportation of whole populations, not only became common again, but were tolerated and even defended by people who considered themselves enlightened and progressive. It was only after a decade of national wars, civil wars, revolutions, and counter revolutions in all parts of the world, that Ingsoc and its rivals emerged as fully worked out political theories.
+by whatever name it called itself, led back to hierarchy and regimentation, and in the general hardening of outlook that set in round about 1930, practices which had been long abandoned in some cases for hundreds of years, imprisonment without trial, the use of war prisoners as slaves, public executions, torture to extract confessions, the use of hostages, and the deportation of whole populations, not only became common again, but were tolerated and even defended by people who considered themselves enlightened and progressive.
 
-But they had been foreshadowed by the various systems, generally called totalitarian, which had appeared earlier in the century, and the main outlines of the world which would emerge from the prevailing chaos had long been obvious. What kind of people would control this world had been equally obvious. The new aristocracy was made up for the most part of bureaucrats, scientists, technicians, trade union organizers, publicity experts, sociologists, teachers, journalists, and professional politicians. These people, whose origins lay in the salaried middle class and the upper grades of the working class, had been shaped and brought together by the barren world of monopoly industry and centralized government.
+It was only after a decade of national wars, civil wars, revolutions, and counter revolutions in all parts of the world, that Ingsoc and its rivals emerged as fully worked out political theories. But they had been foreshadowed by the various systems, generally called totalitarian, which had appeared earlier in the century, and the main outlines of the world which would emerge from the prevailing chaos had long been obvious. What kind of people would control this world had been equally obvious.
 
-As compared with their opposite numbers in past ages, they were less avaricious, less tempted by luxury, hungrier for pure power, and above all, more conscious of what they were doing and more intent on crushing opposition. This last difference was cardinal. By comparison with that existing today, all the tyrannies of the past were half-hearted and inefficient. The ruling groups were always infected to some extent by liberal ideas and were content to leave loose ends everywhere, to regard only the overt act and to be uninterested in what their subjects were thinking.
+The new aristocracy was made up for the most part of bureaucrats, scientists, technicians, trade union organizers, publicity experts, sociologists, teachers, journalists, and professional politicians. These people, whose origins lay in the salaried middle class and the upper grades of the working class, had been shaped and brought together by the barren world of monopoly industry and centralized government. As compared with their opposite numbers in past ages, they were less avaricious, less tempted by luxury, hungrier for pure power, and above all, more conscious of what they were doing and more intent on crushing opposition.
 
-Even the Catholic Church of the Middle Ages was tolerant by modern standards. Part of the reason for this was that in the past, no government had the power to keep its citizens under constant surveillance. The invention of print, however, made it easier to manipulate public opinion, and the film and the radio carried the process further. With the development of television and the technical advance which made it possible to receive and transmit simultaneously on the same instrument, private life came to an end.
+This last difference was cardinal. By comparison with that existing today, all the tyrannies of the past were half-hearted and inefficient. The ruling groups were always infected to some extent by liberal ideas and were content to leave loose ends everywhere, to regard only the overt act and to be uninterested in what their subjects were thinking. Even the Catholic Church of the Middle Ages was tolerant by modern standards.
 
-Every citizen, or at least every citizen important enough to be worth watching, could be kept for twenty-four hours a day under the eyes of the police and in the sound of official propaganda with all other channels of communication closed. The possibility of enforcing not only complete obedience to the will of the state, but complete uniformity of opinion on all subjects, now existed for the first time. After the revolutionary period of the fifties and sixties, society regrouped itself, as always, into high, middle, and low.
+Part of the reason for this was that in the past, no government had the power to keep its citizens under constant surveillance. The invention of print, however, made it easier to manipulate public opinion, and the film and the radio carried the process further. With the development of television and the technical advance which made it possible to receive and transmit simultaneously on the same instrument, private life came to an end. Every citizen, or at least every citizen important enough to be worth watching, could be kept for twenty-four hours a day under the eyes of the police and in the sound of official propaganda with all other channels of communication closed.
 
-But the new high group, unlike all its forerunners, did not act upon instinct but knew what was needed to safeguard its position. It had long been realised that the only secure basis for oligarchy is collectivism. Wealth and privilege are most easily defended when they are possessed jointly. The so-called abolition of private property, which took place in the middle years of the century, meant, in effect, the concentration of property in far fewer hands than before.
+The possibility of enforcing not only complete obedience to the will of the state, but complete uniformity of opinion on all subjects, now existed for the first time. After the revolutionary period of the fifties and sixties, society regrouped itself, as always, into high, middle, and low. But the new high group, unlike all its forerunners, did not act upon instinct but knew what was needed to safeguard its position. It had long been realised that the only secure basis for oligarchy is collectivism.
 
-But with this difference, that the new owners were a group instead of a mass of individuals. Individually, no member of the party owns anything, except petty personal belongings. Collectively, the party owns everything in Oceania, because it controls everything, and disposes of the products as it thinks fit. In the years following the revolution, it was able to step into this commanding position almost unopposed, because the whole process was represented as an act of collectivisation.
+Wealth and privilege are most easily defended when they are possessed jointly. The so-called abolition of private property, which took place in the middle years of the century, meant, in effect, the concentration of property in far fewer hands than before. But with this difference, that the new owners were a group instead of a mass of individuals. Individually, no member of the party owns anything, except petty personal belongings.
 
-It had always been assumed that if the capitalist class were expropriated, socialism must follow. And unquestionably, the capitalists had been expropriated. Factories, mines, land, houses, transport, everything had been taken away from them. And since these things were no longer private property, it followed that they must be public property.
+Collectively, the party owns everything in Oceania, because it controls everything, and disposes of the products as it thinks fit. In the years following the revolution, it was able to step into this commanding position almost unopposed, because the whole process was represented as an act of collectivisation. It had always been assumed that if the capitalist class were expropriated, socialism must follow. And unquestionably, the capitalists had been expropriated.
 
-Ingsoc, which grew out of the earlier socialist movement and inherited its phraseology,
+Factories, mines, land, houses, transport, everything had been taken away from them. And since these things were no longer private property, it followed that they must be public property. Ingsoc, which grew out of the earlier socialist movement and inherited its phraseology,
 
 
 <a id="sec-070849"></a>
@@ -2878,9 +2966,9 @@ His function is to act as a focusing point for love, fear and reverence, emotion
 
 Below that come the Dumb Masses, whom we habitually refer to as the Proles, numbering perhaps eighty-five percent of the population. In the terms of our earlier classification, the Proles are the Low. For the slave population of the equatorial lands who pass constantly from conqueror to conqueror are not a permanent or necessary part of the structure. In principle, membership of these three groups is not hereditary.
 
-The child of Inner Party parents is, in theory, not born into the Inner Party. Admission to either branch of the party is by examination, taken at the age of sixteen, nor is there any racial discrimination or any marked domination of one province by another. Jews, Negroes, South Americans of pure Indian blood are to be found in the highest ranks of the party, and the administrators of any area are always drawn from the inhabitants of that area. In no part of Oceania do the inhabitants have the feeling that they are a colonial population ruled from a distant capital.
+The child of Inner Party parents is, in theory, not born into the Inner Party. Admission to either branch of the party is by examination, taken at the age of sixteen, nor is there any racial discrimination or any marked domination of one province by another. Jews, Negroes, South Americans of pure Indian blood are to be found in the highest ranks of the party, and the administrators of any area are always drawn from the inhabitants of that area.
 
-Oceania has no capital,
+In no part of Oceania do the inhabitants have the feeling that they are a colonial population ruled from a distant capital. Oceania has no capital,
 
 
 <a id="sec-071355"></a>
@@ -2912,17 +3000,17 @@ On the other hand, his actions are not regulated by law or by any clearly formul
 
 In Oceania, there is no law. Thoughts and actions which, when detected, mean certain death are not formally forbidden, and the endless purges, arrests, tortures, imprisonments and vaporisations are not inflicted as punishment for crimes which have actually been committed, but are merely the wiping out of persons who might perhaps commit a crime at some time in the future. A party member is required to have not only the right opinions, but the right instincts. Many of the beliefs and attitudes demanded of him are never plainly stated, and could not be stated without laying bare the contradictions inherent in Ingsoc.
 
-If he is a person naturally orthodox, in Newspeak, a good thinker, he will in all circumstances know without taking thought what is the true belief or the desirable emotion. But in any case, an elaborate mental training undergone in childhood and grouping itself round the Newspeak words, crime-stop, black-white and double-think, makes him unwilling and unable to think too deeply on any subject whatever. A party member is expected to have no private emotions and no respites from enthusiasm. He is supposed to live in a continuous frenzy of hatred of foreign enemies and internal traitors, triumph over victories, and self-abasement before the power and wisdom of the party.
+If he is a person naturally orthodox, in Newspeak, a good thinker, he will in all circumstances know without taking thought what is the true belief or the desirable emotion. But in any case, an elaborate mental training undergone in childhood and grouping itself round the Newspeak words, crime-stop, black-white and double-think, makes him unwilling and unable to think too deeply on any subject whatever. A party member is expected to have no private emotions and no respites from enthusiasm.
 
-The discontents produced by his bare, unsatisfying life are deliberately turned outwards and dissipated by such devices as the two-minutes' hate, and the speculations which might possibly induce a sceptical or rebellious attitude are killed in advance by his early acquired inner discipline. The first and simplest stage in the discipline which can be taught even to young children is called, in Newspeak, crime-stop. Crime-stop means the faculty of stopping short, as though by instinct at the threshold of any dangerous thought. It includes the power of not grasping analogies, of failing to perceive logical errors, of misunderstanding the simplest arguments if they are inimical to Ingsoc, and of being bored or repelled by any train of thought which is capable of leading in a heretical direction.
+He is supposed to live in a continuous frenzy of hatred of foreign enemies and internal traitors, triumph over victories, and self-abasement before the power and wisdom of the party. The discontents produced by his bare, unsatisfying life are deliberately turned outwards and dissipated by such devices as the two-minutes' hate, and the speculations which might possibly induce a sceptical or rebellious attitude are killed in advance by his early acquired inner discipline. The first and simplest stage in the discipline which can be taught even to young children is called, in Newspeak, crime-stop.
 
-Crime-stop, in short, means protective stupidity. But stupidity is not enough. On the contrary, orthodoxy, in the full sense, demands a control over one’s own mental processes, as complete as that of a contortionist over his body. Oceanic society rests ultimately on the belief that Big Brother is omnipotent and that the party is infallible.
+Crime-stop means the faculty of stopping short, as though by instinct at the threshold of any dangerous thought. It includes the power of not grasping analogies, of failing to perceive logical errors, of misunderstanding the simplest arguments if they are inimical to Ingsoc, and of being bored or repelled by any train of thought which is capable of leading in a heretical direction. Crime-stop, in short, means protective stupidity. But stupidity is not enough.
 
-But since in reality Big Brother is not omnipotent and the party is not infallible, there is need for an unwearying, moment-to-moment flexibility in the treatment of facts. The key word here is black-white. Like so many Newspeak words, this word has two mutually contradictory meanings. Applied to an opponent, it means the habit of impudently claiming that black is white.
+On the contrary, orthodoxy, in the full sense, demands a control over one’s own mental processes, as complete as that of a contortionist over his body. Oceanic society rests ultimately on the belief that Big Brother is omnipotent and that the party is infallible. But since in reality Big Brother is not omnipotent and the party is not infallible, there is need for an unwearying, moment-to-moment flexibility in the treatment of facts. The key word here is black-white.
 
-In contradiction of the plain facts, applied to a party member, it means a loyal willingness to say that black is white when party discipline demands this. But it means also the ability to believe that black is white, and more, to know that black is white and to forget that one has ever believed the contrary. This demands a continuous alteration of the past, made possible by the system of thought which really embraces all the rest, and which is known in Newspeak as doublethink.
+Like so many Newspeak words, this word has two mutually contradictory meanings. Applied to an opponent, it means the habit of impudently claiming that black is white. In contradiction of the plain facts, applied to a party member, it means a loyal willingness to say that black is white when party discipline demands this. But it means also the ability to believe that black is white, and more, to know that black is white and to forget that one has ever believed the contrary.
 
-The alteration of the past is necessary for two reasons, one of which is subsidiary and so to speak precautionary. The subsidiary reason is that the party member, like the proletarian, tolerates present-day conditions partly because he has no standards of comparison. He must be cut off from the past, just as he must be cut off from foreign countries, because it is necessary for him to believe that he is better off than his ancestors, and that the average level of material comfort is constantly rising.
+This demands a continuous alteration of the past, made possible by the system of thought which really embraces all the rest, and which is known in Newspeak as doublethink. The alteration of the past is necessary for two reasons, one of which is subsidiary and so to speak precautionary. The subsidiary reason is that the party member, like the proletarian, tolerates present-day conditions partly because he has no standards of comparison. He must be cut off from the past, just as he must be cut off from foreign countries, because it is necessary for him to believe that he is better off than his ancestors, and that the average level of material comfort is constantly rising.
 
 But by far the more important reason for the readjustment of the past is the need to safeguard the infallibility of the party. It is not merely that speeches, statistics, and records of every kind must be constantly brought up to date in order to show that the predictions of the party were in all cases right. It is also that no change in doctrine or in political alignment can ever be admitted, for to change one’s mind, or even one’s policy, is a confession of weakness.
 
@@ -3074,25 +3162,27 @@ He knew what it was like. The terrible, agonizing pain which was there all the w
 
 Winston had a glimpse of her face, upside down, yellow and contorted. With the eyes shut and still with a smear of rouge on either cheek. And that was the last he saw of her. He stood dead still.
 
-No one had hit him yet. Thoughts which came of their own accord but seemed totally uninteresting began to flip through his mind. He wondered whether they had got Mr. Charrington. He wondered what they had done to the woman in the yard.
+No one had hit him yet. Thoughts which came of their own accord but seemed totally uninteresting began to flip through his mind. He wondered whether they had got Mr. Charrington.
 
-He noticed that he badly wanted to urinate and felt a faint surprise because he had done so only two or three hours ago. He noticed that the clock on the mantelpiece said nine, meaning 21. But the light seemed too strong. Would not the light be fading at 21 hours on an August evening?
+He wondered what they had done to the woman in the yard. He noticed that he badly wanted to urinate and felt a faint surprise because he had done so only two or three hours ago. He noticed that the clock on the mantelpiece said nine, meaning 21. But the light seemed too strong.
 
-He wondered whether after all he and Julia had mistaken the time, had slept the clock round and thought it was 2030 when really it was nought 830 on the following morning. But he did not pursue the thought further. It was not interesting. There was another lighter step in the passage. Mr. Charrington came into the room.
+Would not the light be fading at 21 hours on an August evening? He wondered whether after all he and Julia had mistaken the time, had slept the clock round and thought it was 2030 when really it was nought 830 on the following morning. But he did not pursue the thought further. It was not interesting.
 
-The demeanor of the black uniform men suddenly became more subdued. Something had also changed in Mr. Charrington’s appearance. His eye fell on the fragments of the glass paperweight. Pick up those pieces, he said sharply.
+There was another lighter step in the passage. Mr. Charrington came into the room. The demeanor of the black uniform men suddenly became more subdued.
 
-A man stooped to a bay. The Cockney accent had disappeared. Winston suddenly realized whose voice it was that he had heard a few moments ago on the telly screen. Mr. Charrington was still wearing his old velvet jacket. But his hair, which had been almost white, had turned black.
+Something had also changed in Mr. Charrington’s appearance. His eye fell on the fragments of the glass paperweight. Pick up those pieces, he said sharply.
 
-Also, he was not wearing his spectacles. He gave Winston a single sharp glance as though verifying his identity and then paid no more attention to him. He was still recognizable, but he was not the same person any longer. His body had straightened and seemed to have grown bigger.
+A man stooped to a bay. The Cockney accent had disappeared. Winston suddenly realized whose voice it was that he had heard a few moments ago on the telly screen. Mr.
 
-His face had undergone only tiny changes that had nevertheless worked a complete transformation. The black eyebrows were less bushy. The wrinkles were gone. The whole lines of the face seemed to have altered.
+Charrington was still wearing his old velvet jacket. But his hair, which had been almost white, had turned black. Also, he was not wearing his spectacles. He gave Winston a single sharp glance as though verifying his identity and then paid no more attention to him.
 
-Even the nose seemed shorter. It was the alert, cold face of a man of about five and 30. It occurred to Winston that for the first time in his life, he was looking with knowledge at a member of the thought police. Part three.
+He was still recognizable, but he was not the same person any longer. His body had straightened and seemed to have grown bigger. His face had undergone only tiny changes that had nevertheless worked a complete transformation. The black eyebrows were less bushy.
 
-Chapter one. He did not know where he was. Presumably, he was in the Ministry of Love, but there was no way of making certain. He was in a high-ceilinged, windowless cell with walls of glittering white porcelain.
+The wrinkles were gone. The whole lines of the face seemed to have altered. Even the nose seemed shorter. It was the alert, cold face of a man of about five and 30.
 
-Concealed lamps flooded it with cold light. And there was a low, steady humming sound which he supposed had something to do with the air supply.
+It occurred to Winston that for the first time in his life, he was looking with knowledge at a member of the thought police. Part three. Chapter one. He did not know where he was.
+
+Presumably, he was in the Ministry of Love, but there was no way of making certain. He was in a high-ceilinged, windowless cell with walls of glittering white porcelain. Concealed lamps flooded it with cold light. And there was a low, steady humming sound which he supposed had something to do with the air supply.
 
 
 <a id="sec-074913"></a>
@@ -3124,7 +3214,9 @@ They wrenched off the boots with which she had been trying to kick them and dump
 
 I wouldn’t have sat on you, only the buggers put me there. They don’t know how to treat a lady, do they? She paused, patted her breast, and belched. Pardon, she said.
 
-I ain’t myself, quite. She leant forward and vomited copiously on the floor. That’s better, she said, leaning back with closed eyes. Never keep it down, that’s what I say.
+I ain’t myself, quite. She leant forward and vomited copiously on the floor. That’s better, she said, leaning back with closed eyes. Never keep it down, that’s what.
+
+I say.
 
 
 <a id="sec-075413"></a>
@@ -3170,37 +3262,39 @@ Ampleforth, he said. There was no yell from the telly screen. Ampleforth paused,
 
 Ah, Smith, he said. You too. What are you in for? To tell you the truth, he sat down awkwardly on the bench opposite Winston.
 
-There is only one offence, is there not, he said. And have you committed it? Apparently I have. He put a hand to his forehead and pressed his temples for a moment, as though trying to remember something.
+There is only one offence, is there not, he said. And have you committed it? Apparently. I have.
 
-These things happen, he began vaguely. I have been able to recall one instance, a possible instance. It was an indiscretion undoubtedly. We were producing a definitive edition of the poems of Kipling.
+He put a hand to his forehead and pressed his temples for a moment, as though trying to remember something. These things happen, he began vaguely. I have been able to recall one instance, a possible instance. It was an indiscretion undoubtedly.
 
-I allowed the word God to remain at the end of a line. I could not help it. He added almost indignantly, raising his face to look at Winston. It was impossible to change the line, the rhyme was rod.
+We were producing a definitive edition of the poems of Kipling. I allowed the word God to remain at the end of a line. I could not help it. He added almost indignantly, raising his face to look at Winston.
 
-Do you realise that there are only twelve rhymes to rod in the entire language? For days I had racked my brains. There was no other rhyme. The expression on his face changed.
+It was impossible to change the line, the rhyme was rod. Do you realise that there are only twelve rhymes to rod in the entire language? For days. I had racked my brains.
 
-The annoyance passed out of it and for a moment he looked almost pleased. A sort of intellectual warmth, the joy of the pedant who has found out some useless fact shone through the dirt and scrubby hair. Has it ever occurred to you, he said, that the whole history of English poetry has been determined by the fact that the English language lacks rhymes? No. That particular thought had never occurred to Winston, nor in the circumstances did it strike him as very important or interesting.
+There was no other rhyme. The expression on his face changed. The annoyance passed out of it and for a moment he looked almost pleased. A sort of intellectual warmth, the joy of the pedant who has found out some useless fact shone through the dirt and scrubby hair.
 
-Do you know what time of day it is, he said. Ampleforth looked startled again. I had hardly thought about it. They arrested me.
+Has it ever occurred to you, he said, that the whole history of English poetry has been determined by the fact that the English language lacks rhymes? No. That particular thought had never occurred to Winston, nor in the circumstances did it strike him as very important or interesting. Do you know what time of day it is, he said.
 
-It could be two days ago, perhaps three. His eyes flitted round the walls, as though he half expected to find a window somewhere. There is no difference between night and day in this place. I do not see how one can calculate the time.
+Ampleforth looked startled again. I had hardly thought about it. They arrested me. It could be two days ago, perhaps three.
 
-They talked desultrally for some minutes. Then without apparent reason, a yell from the telly-screen bade them be silent. Winston sat quietly, his hands crossed. Ampleforth, too large to sit in comfort on the narrow bench, fidgeted from side to side, clasping his lank hands first round one knee, then round the other.
+His eyes flitted round the walls, as though he half expected to find a window somewhere. There is no difference between night and day in this place. I do not see how one can calculate the time. They talked desultrally for some minutes.
 
-The telly-screen barked at him to keep still. Time passed. Twenty minutes. An hour.
+Then without apparent reason, a yell from the telly-screen bade them be silent. Winston sat quietly, his hands crossed. Ampleforth, too large to sit in comfort on the narrow bench, fidgeted from side to side, clasping his lank hands first round one knee, then round the other. The telly-screen barked at him to keep still.
 
-It was difficult to judge. Once more there was a sound of boots outside, Winston’s entrails contracted. Soon, very soon, perhaps in five minutes, perhaps now, the tramp of boots would mean that his own turn had come. The door opened.
+Time passed. Twenty minutes. An hour. It was difficult to judge.
 
-The cold-faced young officer stepped into the cell. With a brief movement of the hand, he indicated Ampleforth. Room 101, he said. With march clumsily out between the guards, his face vaguely perturbed but uncomprehending.
+Once more there was a sound of boots outside, Winston’s entrails contracted. Soon, very soon, perhaps in five minutes, perhaps now, the tramp of boots would mean that his own turn had come. The door opened. The cold-faced young officer stepped into the cell.
 
-What seemed like a long time passed. The pain in Winston’s belly had revived. His mind sagged round and round on the same trick, like a ball falling again and again into the same series of slots. He had only six thoughts, the pain in his belly, a piece of bread, the blood and the screaming, O’Brien, Julia, the razor blade.
+With a brief movement of the hand, he indicated Ampleforth. Room 101, he said. With march clumsily out between the guards, his face vaguely perturbed but uncomprehending. What seemed like a long time passed.
 
-There was another spasm in his entrails. The heavy boots were approaching. As the door opened, the wave of air that it created brought in a powerful smell of cold sweat. Parsons walked into the cell.
+The pain in Winston’s belly had revived. His mind sagged round and round on the same trick, like a ball falling again and again into the same series of slots. He had only six thoughts, the pain in his belly, a piece of bread, the blood and the screaming, O’Brien, Julia, the razor blade. There was another spasm in his entrails.
 
-He was wearing khaki shorts and a sports shirt. This time, Winston was startled into self-forgetfulness. You hear, he said. Parsons gave Winston a glance in which there was neither interest nor surprise, but only misery.
+The heavy boots were approaching. As the door opened, the wave of air that it created brought in a powerful smell of cold sweat. Parsons walked into the cell. He was wearing khaki shorts and a sports shirt.
 
-He began walking jerkily up and down, evidently unable to keep still. Each time he straightened his pudgy knees, it was apparent that they were trembling. His eyes had a wide-open, staring look, as though he could not prevent himself from gazing at something in the middle distance. What are you in for? said Winston.
+This time, Winston was startled into self-forgetfulness. You hear, he said. Parsons gave Winston a glance in which there was neither interest nor surprise, but only misery. He began walking jerkily up and down, evidently unable to keep still.
 
-Thought crime, said Parsons, almost blubbering. The tone of his voice implied at once a complete admission of his guilt and a sort of incredulous horror that such a word could be applied to himself.
+Each time he straightened his pudgy knees, it was apparent that they were trembling. His eyes had a wide-open, staring look, as though he could not prevent himself from gazing at something in the middle distance. What are you in for? said Winston. Thought crime, said Parsons, almost blubbering.
+
+The tone of his voice implied at once a complete admission of his guilt and a sort of incredulous horror that such a word could be applied to himself.
 
 
 <a id="sec-080420"></a>
@@ -3208,25 +3302,31 @@ Thought crime, said Parsons, almost blubbering. The tone of his voice implied at
 
 He paused opposite Winston and began eagerly appealing to him. You don’t think they’ll shoot me, do you, old chap? They don’t shoot you if you haven’t actually done anything. Only thoughts which you can’t help.
 
-I know they give you a fair hearing. Oh, I trust them for that. They’ll know my record, won’t they? You know what kind of chap I was.
+I know they give you a fair hearing. Oh, I trust them for that. They’ll know my record, won’t they? You know what kind of chap.
 
-Not a bad chap in my way. Not brainy, of course, but keen. I tried to do my best for the party, didn’t I? I’ll get off with five years, don’t you think?
+I was. Not a bad chap in my way. Not brainy, of course, but keen. I tried to do my best for the party, didn’t.
 
-Or even ten years. A chap like me could make himself pretty useful in a labor camp. They wouldn’t shoot me for going off the rails just once. Are you guilty?
+I? I’ll get off with five years, don’t you think? Or even ten years. A chap like me could make himself pretty useful in a labor camp.
 
-Said Winston. Of course I’m guilty, cried Parsons with a servile glance at the telly screen. You don’t think the party would arrest an innocent man, do you? His frog-like face grew calmer and even took on a slightly sanctimonious expression.
+They wouldn’t shoot me for going off the rails just once. Are you guilty? Said Winston. Of course.
 
-Thought crime is a dreadful thing, old man, he said sententiously. It’s insidious. It can get hold of you without your even knowing it. Do you know how it got hold of me?
+I’m guilty, cried Parsons with a servile glance at the telly screen. You don’t think the party would arrest an innocent man, do you? His frog-like face grew calmer and even took on a slightly sanctimonious expression. Thought crime is a dreadful thing, old man, he said sententiously.
 
-In my sleep, yes, that’s a fact. There I was, working away, trying to do my bit. Never knew I had any bad stuff in my mind at all. And then I started talking in my sleep.
+It’s insidious. It can get hold of you without your even knowing it. Do you know how it got hold of me? In my sleep, yes, that’s a fact.
 
-Do you know what they heard me saying? He sank his voice, like someone who is obliged for medical reasons to utter an obscenity. Down with big brother. Yes, I said that.
+There. I was, working away, trying to do my bit. Never knew. I had any bad stuff in my mind at all.
 
-Said it over and over again, it seems. Between you and me, old man, I’m glad they got me before it went any further. Do you know what I’m going to say to them when I go up before the tribunal? Thank you, I’m going to say. Thank you for saving me before it was too late.
+And then. I started talking in my sleep. Do you know what they heard me saying? He sank his voice, like someone who is obliged for medical reasons to utter an obscenity.
 
-Who denounced you, said Winston. It was my little daughter, said Parsons, with a sort of doleful pride. She listened at the keyhole, heard what I was saying, and nipped off to the patrols the very next day. Pretty smart for a nipper of seven, eh?
+Down with big brother. Yes, I said that. Said it over and over again, it seems. Between you and me, old man, I’m glad they got me before it went any further.
 
-I don’t bear her any grudge for it. In fact, I’m proud of her. It shows I brought her up in the right spirit anyway. He made a few more jerky movements up and down several times, casting a longing glance at the lavatory pan.
+Do you know what. I’m going to say to them when. I go up before the tribunal? Thank you, I’m going to say.
+
+Thank you for saving me before it was too late. Who denounced you, said Winston. It was my little daughter, said Parsons, with a sort of doleful pride. She listened at the keyhole, heard what.
+
+I was saying, and nipped off to the patrols the very next day. Pretty smart for a nipper of seven, eh? I don’t bear her any grudge for it.
+
+In fact, I’m proud of her. It shows. I brought her up in the right spirit anyway. He made a few more jerky movements up and down several times, casting a longing glance at the lavatory pan.
 
 Then he suddenly ripped down his shorts. Excuse me, old man, he said. I can’t help it. It’s the waiting.
 
@@ -3266,23 +3366,27 @@ From time to time, a little blood dripped onto the breast of his overalls. His g
 
 Room 101, he said. There was a gasp and a flurry at Winston’s side. The man had actually flung himself on his knees on the floor, with his hand cluffed together. Comrade, officer, he cried.
 
-You don’t have to take me to that place. Haven’t I told you everything already? What else is it you want to know? There’s nothing I wouldn’t confess, nothing.
+You don’t have to take me to that place. Haven’t. I told you everything already? What else is it you want to know?
 
-Just tell me what it is, and I’ll confess straight off. Write it down, and I’ll sign it. Anything, not room 101. Room 101, said the officer.
+There’s nothing. I wouldn’t confess, nothing. Just tell me what it is, and. I’ll confess straight off.
+
+Write it down, and. I’ll sign it. Anything, not room 101. Room 101, said the officer.
 
 The man’s face, already very pale, turned a color Winston would not have believed possible. It was definitely, unmistakably, a shade of green. Do anything to me, he yelled. You’ve been starving me for weeks, finish it off and let me die, shoot me, hang me, sentence me to 25 years.
 
-Is there somebody else you want me to give away? Just say who it is, and I’ll tell you anything you want. I don’t care who it is or what you do to them. I’ve got a wife and three children.
+Is there somebody else you want me to give away? Just say who it is, and. I’ll tell you anything you want. I don’t care who it is or what you do to them.
 
-The biggest of them isn’t six years old. You can take the whole lot of them and cut their throats in front of my eyes. And I’ll stand by and watch it, but not room 101. Room 101, said the officer.
+I’ve got a wife and three children. The biggest of them isn’t six years old. You can take the whole lot of them and cut their throats in front of my eyes. And.
 
-The man looked frantically round at the other prisoners, as though with some idea that he could put another victim in his own place. His eyes settled on the smashed face of the chinless man. He flung out a lean arm. That’s the one you ought to be taking, not me, he shouted.
+I’ll stand by and watch it, but not room 101. Room 101, said the officer. The man looked frantically round at the other prisoners, as though with some idea that he could put another victim in his own place. His eyes settled on the smashed face of the chinless man.
 
-You didn’t hear what he was saying after they bashed his face. Give me a chance and I’ll tell you every word of it. He’s the one that’s against the party, not me. The guard stepped forward.
+He flung out a lean arm. That’s the one you ought to be taking, not me, he shouted. You didn’t hear what he was saying after they bashed his face. Give me a chance and.
 
-The man’s voice rose to a shriek. You didn’t hear him, he repeated. Something went wrong with the telly screen. He’s the one you want, take him, not me.
+I’ll tell you every word of it. He’s the one that’s against the party, not me. The guard stepped forward. The man’s voice rose to a shriek.
 
-The two sturdy guards had stooped to take him by the arms. But just at this moment, he flung himself across the floor of the cell and grabbed one of the iron legs that supported the bench. He had set up a wordless howling, like an animal. The guards took hold of him to wrench him loose, but he clung on with astonishing strength. For perhaps 20 seconds they were hauling at him.
+You didn’t hear him, he repeated. Something went wrong with the telly screen. He’s the one you want, take him, not me. The two sturdy guards had stooped to take him by the arms.
+
+But just at this moment, he flung himself across the floor of the cell and grabbed one of the iron legs that supported the bench. He had set up a wordless howling, like an animal. The guards took hold of him to wrench him loose, but he clung on with astonishing strength. For perhaps 20 seconds they were hauling at him.
 
 The prisoners sat quiet, their hands crossed on their knees, looking straight in front of them. The howling stopped.
 
@@ -3300,31 +3404,33 @@ The piece of bread still lay where the chinless man had dropped it. At the begin
 
 He would get up because the ache in his bones was no longer bearable, and then would sit down again, almost at once, because he was too dizzy to make sure of staying on his feet. Whenever his physical sensations were a little under control, the terror returned. Sometimes, with a fading hope, he thought of O’Brien and the razor blade. It was thinkable that the razor blade might arrive concealed in his food, if he were ever fed.
 
-More dimly, he thought of Julia. Somewhere or other she was suffering perhaps far worse than he. She might be screaming with pain at this moment. He thought, If I could save Julia by doubling my own pain, would I do it?
+More dimly, he thought of Julia. Somewhere or other she was suffering perhaps far worse than he. She might be screaming with pain at this moment. He thought, If.
 
-Yes, I would. But that was merely an intellectual decision. Taken because he knew that he ought to take it, he did not feel it. In this place you could not feel anything except pain and foreknowledge of pain.
+I could save Julia by doubling my own pain, would. I do it? Yes, I would. But that was merely an intellectual decision.
 
-Besides, was it possible, when you were actually suffering it, to wish for any reason that your own pain should increase? But that question was not answerable yet. The boots were approaching again. The door opened.
+Taken because he knew that he ought to take it, he did not feel it. In this place you could not feel anything except pain and foreknowledge of pain. Besides, was it possible, when you were actually suffering it, to wish for any reason that your own pain should increase? But that question was not answerable yet.
 
-O’Brien came in. Winston started to his feet. The shock of the sight had driven all caution out of him. For the first time in many years, he forgot the presence of the telescreen.
+The boots were approaching again. The door opened. O’Brien came in. Winston started to his feet.
 
-They’ve got you too, he cried. They got me a long time ago, said O’Brien, with a mild, almost regretful irony. He stepped aside. From behind him, there emerged a broad-chested guard with a long black truncheon in his hand.
+The shock of the sight had driven all caution out of him. For the first time in many years, he forgot the presence of the telescreen. They’ve got you too, he cried. They got me a long time ago, said O’Brien, with a mild, almost regretful irony.
 
-You know this, Winston, said O’Brien. Don’t deceive yourself. You did know it. You have always known it.
+He stepped aside. From behind him, there emerged a broad-chested guard with a long black truncheon in his hand. You know this, Winston, said O’Brien. Don’t deceive yourself.
 
-Yes, he saw now. He had always known it. But there was no time to think of that. All he had eyes for was the truncheon in the guard’s hand.
+You did know it. You have always known it. Yes, he saw now. He had always known it.
 
-It might fall anywhere, on the crown, on the tip of the ear, on the upper arm, on the elbow. The elbow. He had slumped to his knees, almost paralyzed, clasping the stricken elbow with his other hand. Everything had exploded into yellow light, inconceivable, inconceivable that one blow could cause such pain.
+But there was no time to think of that. All he had eyes for was the truncheon in the guard’s hand. It might fall anywhere, on the crown, on the tip of the ear, on the upper arm, on the elbow. The elbow.
 
-The light cleared, and he could see the other two looking down at him. The guard was laughing at his contortions. One question at any rate was answered. Never, for any reason on earth, could you wish for an increase of pain.
+He had slumped to his knees, almost paralyzed, clasping the stricken elbow with his other hand. Everything had exploded into yellow light, inconceivable, inconceivable that one blow could cause such pain. The light cleared, and he could see the other two looking down at him. The guard was laughing at his contortions.
 
-Of pain you could wish only one thing. That it should stop. Nothing in the world was so bad as physical pain. In the face of pain, there are no heroes, no heroes, he thought, over and over as he writhed on the floor, clutching uselessly at his disabled left arm.
+One question at any rate was answered. Never, for any reason on earth, could you wish for an increase of pain. Of pain you could wish only one thing. That it should stop.
 
-Chapter Two. He was lying on something that felt like a camp bed, except that it was higher off the ground, and that he was fixed down in some way so that he could not move. Light that seemed stronger than usual was falling on his face. O’Brien was standing at his side, looking down at him intently.
+Nothing in the world was so bad as physical pain. In the face of pain, there are no heroes, no heroes, he thought, over and over as he writhed on the floor, clutching uselessly at his disabled left arm. Chapter Two. He was lying on something that felt like a camp bed, except that it was higher off the ground, and that he was fixed down in some way so that he could not move.
 
-At the other side of him stood a man in a white coat holding a hypodermic syringe. Even after his eyes were open, he took in his surroundings only gradually. He had the impression of swimming up into this room from some quite different world, a sort of underwater world far beneath it. How long he had been down there he did not know.
+Light that seemed stronger than usual was falling on his face. O’Brien was standing at his side, looking down at him intently. At the other side of him stood a man in a white coat holding a hypodermic syringe. Even after his eyes were open, he took in his surroundings only gradually.
 
-Since the moment when they arrested him, he had not seen darkness or daylight. Besides, his memories were not continuous. There had been times when consciousness, even the sort of consciousness that one has in sleep, had stopped dead and started again after a blank interval. But whether the intervals were of days or weeks or only seconds,
+He had the impression of swimming up into this room from some quite different world, a sort of underwater world far beneath it. How long he had been down there he did not know. Since the moment when they arrested him, he had not seen darkness or daylight. Besides, his memories were not continuous.
+
+There had been times when consciousness, even the sort of consciousness that one has in sleep, had stopped dead and started again after a blank interval. But whether the intervals were of days or weeks or only seconds,
 
 
 <a id="sec-081932"></a>
@@ -3338,13 +3444,15 @@ There were times when he rolled about the floor, as shameless as an animal, writ
 
 There were times when his nerve so forsook him that he began shouting for mercy even before the beating began, when the mere sight of a fist drawn back for a blow was enough to make him pour forth a confession of real and imaginary crimes. There were other times when he started out with the resolve of confessing nothing, when every word had to be forced out of him between gasps of pain, and there were times when he feebly tried to compromise, when he said to himself, I will confess, but not yet.
 
-I must hold out till the pain becomes unbearable, three more kicks, two more kicks, and then I will tell them what they want. Sometimes he was beaten till he could hardly stand, then flung like a sack of potatoes onto the stone floor of a cell, left to recuperate for a few hours, and then taken out and beaten again. There were also longer periods of recovery. He remembered them dimly because they were spent chiefly in sleep or stupor.
+I must hold out till the pain becomes unbearable, three more kicks, two more kicks, and then. I will tell them what they want. Sometimes he was beaten till he could hardly stand, then flung like a sack of potatoes onto the stone floor of a cell, left to recuperate for a few hours, and then taken out and beaten again. There were also longer periods of recovery.
 
-He remembered a cell with a plank bed, a sort of shelf sticking out from the wall, and a tin wash basin, and meals of hot soup and bread, and sometimes coffee. He remembered a surly barber arriving to scrape his chin and crop his hair, and business-like unsympathetic men in white coats feeling his pulse, tapping his reflexes, turning up his eyelids, running harsh fingers over him in search for broken bones, and shooting needles into his arm to make him sleep. The beatings grew less frequent, and became mainly a threat, a horror to which he could be sent back at any moment when his answers were unsatisfactory.
+He remembered them dimly because they were spent chiefly in sleep or stupor. He remembered a cell with a plank bed, a sort of shelf sticking out from the wall, and a tin wash basin, and meals of hot soup and bread, and sometimes coffee. He remembered a surly barber arriving to scrape his chin and crop his hair, and business-like unsympathetic men in white coats feeling his pulse, tapping his reflexes, turning up his eyelids, running harsh fingers over him in search for broken bones, and shooting needles into his arm to make him sleep.
 
-His questioners now were not ruffians in black uniforms but party intellectuals, little retund men with quick movements and flashing spectacles, who worked on him in relays over periods which lasted, he thought he could not be sure, ten or twelve hours at a stretch. These other questioners saw to it that he was in constant slight pain, but it was not chiefly pain that they relied on. They slapped his face, wrung his ears, pulled his hair, made him stand on one leg, refused him leave to urinate, shone glaring lights in his face until his eyes ran with water, but the aim of this was simply to humiliate him and destroy his power of arguing and reasoning.
+The beatings grew less frequent, and became mainly a threat, a horror to which he could be sent back at any moment when his answers were unsatisfactory. His questioners now were not ruffians in black uniforms but party intellectuals, little retund men with quick movements and flashing spectacles, who worked on him in relays over periods which lasted, he thought he could not be sure, ten or twelve hours at a stretch. These other questioners saw to it that he was in constant slight pain, but it was not chiefly pain that they relied on.
 
-Their real weapon was the merciless questioning that went on and on, hour after hour, tripping him up, laying traps for him, twisting everything that he said, convicting him at every step of lies and self-contradiction until he began weeping as much from shame as from nervous fatigue. Sometimes he would weep half a dozen times in a single session. Most of the time they screamed abuse at him and threatened at every hesitation to deliver him over to the guards again, but sometimes they would suddenly change their tune, call him Comrade, appeal to him in the name of Ingsoc and Big Brother, and ask him sorrowfully whether even now he had not enough loyalty to the party, left to make him wish to undo the evil he had done.
+They slapped his face, wrung his ears, pulled his hair, made him stand on one leg, refused him leave to urinate, shone glaring lights in his face until his eyes ran with water, but the aim of this was simply to humiliate him and destroy his power of arguing and reasoning. Their real weapon was the merciless questioning that went on and on, hour after hour, tripping him up, laying traps for him, twisting everything that he said, convicting him at every step of lies and self-contradiction until he began weeping as much from shame as from nervous fatigue.
+
+Sometimes he would weep half a dozen times in a single session. Most of the time they screamed abuse at him and threatened at every hesitation to deliver him over to the guards again, but sometimes they would suddenly change their tune, call him Comrade, appeal to him in the name of Ingsoc and Big Brother, and ask him sorrowfully whether even now he had not enough loyalty to the party, left to make him wish to undo the evil he had done.
 
 When his nerves were in rags after hours of questioning, even this appeal could reduce him to sniveling tears. In the end, the nagging voices broke him down more completely than the boots and fists of the guards. He became simply a mouth that uttered, a hand that signed, whatever was demanded of him. His sole concern was to find out
 
@@ -3360,27 +3468,27 @@ It was true that he had been the enemy of the party, and in the eyes of the part
 
 Near at hand some kind of instrument was ticking slowly and regularly. The eyes grew larger and more luminous.
 
-Suddenly he floated out of his seat, dived into the eyes, and was swallowed up. He was strapped into a chair surrounded by dials, under dazzling lights. A man in a white coat was reading the dials. There was a tramp of heavy boots outside.
+Suddenly, he floated out of his seat, dived into the eyes, and was swallowed up. He was strapped into a chair surrounded by dials, under dazzling lights. A man in a white coat was reading the dials. There was a tramp of heavy boots outside.
 
 The door clanged open. The waxed-faced officer marched in, followed by two guards. Room 101, said the officer. The man in the white coat did not turn round.
 
 He did not look at Winston either. He was looking only at the dials. He was rolling down a mighty corridor, a kilometer wide, full of glorious golden light, roaring with laughter and shouting out confessions at the top of his voice. He was confessing everything, even the things he had succeeded in holding back under the torture.
 
-He was relating the entire history of his life to an audience who knew it already. With him were the guards, the other questioners, the men in white coats, O’Brien, Julia, Mr. Charrington, all rolling down the corridor together and shouting with laughter. Some dreadful thing which had lain embedded in the future had somehow been skipped over and had not happened. Everything was all right.
+He was relating the entire history of his life to an audience who knew it already. With him were the guards, the other questioners, the men in white coats, O’Brien, Julia, Mr. Charrington, all rolling down the corridor together and shouting with laughter. Some dreadful thing which had lain embedded in the future had somehow been skipped over and had not happened.
 
-There was no more pain. The last detail of his life was laid bare, understood, forgiven. He was starting up from the plank bed in the half certainty that he had heard O’Brien’s voice. All through his interrogation, although he had never seen him, he had had the feeling that O’Brien was at his elbow, just out of sight.
+Everything was all right. There was no more pain. The last detail of his life was laid bare, understood, forgiven. He was starting up from the plank bed in the half certainty that he had heard O’Brien’s voice.
 
-It was O’Brien who was directing everything. It was he who set the guards on to Winston and who prevented them from killing him. It was he who decided when Winston should scream with pain, when he should have a respite, when he should be fed, when he should sleep, when the drugs should be pumped into his arm. It was he who asked the questions and suggested the answers.
+All through his interrogation, although he had never seen him, he had had the feeling that O’Brien was at his elbow, just out of sight. It was O’Brien who was directing everything. It was he who set the guards on to Winston and who prevented them from killing him. It was he who decided when Winston should scream with pain, when he should have a respite, when he should be fed, when he should sleep, when the drugs should be pumped into his arm.
 
-He was the tormentor, he was the protector, he was the inquisitor, he was the friend. And once, Winston could not remember whether it was in drugged sleep or in normal sleep or even in a moment of wakefulness. A voice murmured in his ear, don’t worry, Winston, you’re in my keeping. For seven years I’ve watched over you.
+It was he who asked the questions and suggested the answers. He was the tormentor, he was the protector, he was the inquisitor, he was the friend. And once, Winston could not remember whether it was in drugged sleep or in normal sleep or even in a moment of wakefulness. A voice murmured in his ear, don’t worry, Winston, you’re in my keeping.
 
-Now the turning point has come. I shall save you. I shall make you perfect. He was not sure whether it was O’Brien’s voice, but it was the same voice that had said to him, we shall meet in the place where there is no darkness in that other dream seven years ago.
+For seven years. I’ve watched over you. Now the turning point has come. I shall save you.
 
-He did not remember any ending to his interrogation. There was a period of blackness and then the cell or room in which he now was had gradually materialized round him. He was almost flat on his back and unable to move. His body was held down at every essential point.
+I shall make you perfect. He was not sure whether it was O’Brien’s voice, but it was the same voice that had said to him, we shall meet in the place where there is no darkness in that other dream seven years ago. He did not remember any ending to his interrogation. There was a period of blackness and then the cell or room in which he now was had gradually materialized round him.
 
-Even the back of his head was gripped in some manner. O’Brien was looking down at him gravely and rather sadly. His face, seen from below, looked coarse and worn, with pouches under the eyes and tired lines from nose to chin. He was older than Winston had thought him.
+He was almost flat on his back and unable to move. His body was held down at every essential point. Even the back of his head was gripped in some manner. O’Brien was looking down at him gravely and rather sadly.
 
-He was perhaps 48 or 50.
+His face, seen from below, looked coarse and worn, with pouches under the eyes and tired lines from nose to chin. He was older than Winston had thought him. He was perhaps 48 or 50.
 
 
 <a id="sec-082937"></a>
@@ -3388,89 +3496,137 @@ He was perhaps 48 or 50.
 
 Under his hand there was a dial with a lever on top and figures running round the face. I told you, said O’Brien, that if we met again it would be here. Yes, said Winston, without any warning except a slight movement of O’Brien’s hand, a wave of pain flooded his body. It was a frightening pain.
 
-Because he could not see what was happening and he had the feeling that some mortal injury was being done to him He did not know whether the thing was really happening or whether the effect was electrically produced But his body was being wrenched out of shape. The joints were being slowly torn apart Although the pain had brought the sweat out on his forehead The worst of all was the fear that his backbone was about to snap He set his teeth and breathed hard through his nose trying to keep silent as long as possible You are afraid said O’Brien watching his face that in another moment something is going to break You’re a special fear is that it will be your backbone You have a vivid mental picture of the vertebrae snapping apart and the spinal fluid dripping out of them That is what you are thinking.
+Because he could not see what was happening and he had the feeling that some mortal injury was being done to him. He did not know whether the thing was really happening or whether the effect was electrically produced. But his body was being wrenched out of shape. The joints were being slowly torn apart.
 
-Is it not Winston? Winston did not answer O’Brien drew back the lever on the dial the wave of pain receded almost as quickly as it had come That was 40 said O’Brien You can see that the numbers on this dial run up to a hundred Will you please remember throughout our conversation that I have it in my power to inflict pain on you at any moment and to whatever degree I choose if You tell me any lies or attempt to prevaricate in any way or even fall below your usual level of intelligence You will cry out with pain Instantly do you understand that?
+Although the pain had brought the sweat out on his forehead The worst of all was the fear that his backbone was about to snap. He set his teeth and breathed hard through his nose trying to keep silent as long as possible. You are afraid said O’Brien watching his face that in another moment something is going to break. You’re a special fear is that it will be your backbone.
 
-Yes, said Winston O’Brien’s manner became less severe He resettled his spectacles thoughtfully and took a pace or two up and down When he spoke his voice was gentle and patient He had the air of a doctor a teacher even a priest anxious to explain and persuade rather than to punish I’m taking trouble with you Winston. He said because you are worth trouble You know perfectly well. What is the matter with you? You have known it for years though.
+You have a vivid mental picture of the vertebrae snapping apart and the spinal fluid dripping out of them. That is what you are thinking. Is it not Winston? Winston did not answer O’Brien drew back the lever on the dial the wave of pain receded almost as quickly as it had come.
 
-You have fought against the knowledge You are mentally deranged You suffer from a defective memory You are unable to remember real events and you persuade yourself that you remember other events which never happened Fortunately, it is curable You have never cured yourself of it because you did not choose to There was a small effort of the will that you were not ready to make Even now I am well aware You are clinging to your disease under the impression that it is a virtue now.
+That was 40 said O’Brien. You can see that the numbers on this dial run up to a hundred Will you please remember throughout our conversation that. I have it in my power to inflict pain on you at any moment and to whatever degree. I choose if.
 
-We will take an example At this moment, which power is Oceania at war with? When I was arrested Oceania was at war with East Asia with East Asia good and Oceania has always been at war with East Asia. Has it not? Winston drew in his breath.
+You tell me any lies or attempt to prevaricate in any way or even fall below your usual level of intelligence. You will cry out with pain Instantly do you understand that? Yes, said Winston O’Brien’s manner became less severe. He resettled his spectacles thoughtfully and took a pace or two up and down.
 
-He opened his mouth to speak and then did not speak He could not take his eyes away from the dial The truth, please Winston your truth Tell me what you think you remember I Remember that until only a week before I was arrested. We were not at war with East Asia at all We were in alliance with them. The war was against Eurasia that had lasted for four years before that O’Brien stopped him with a movement of the hand another example he said Some years ago you had a very serious delusion indeed you believed that three men three one-time party members named Jones Aronson and Rutherford Men who were executed for treachery and sabotage after making the fullest possible confession Were not guilty of the crimes.
+When he spoke his voice was gentle and patient. He had the air of a doctor a teacher even a priest anxious to explain and persuade rather than to punish. I’m taking trouble with you Winston. He said because you are worth trouble.
 
-They were charged with You believed that you had seen unmistakable documentary evidence proving that their confessions were false There was a certain photograph about which you had a hallucination You believed that you had actually held it in your hands. It was a photograph something like this An oblong slip of newspaper had appeared between O’Brien’s fingers For perhaps five seconds. It was within the angle of Winston’s vision It was a photograph and there was no question of its identity It was the photograph It was another copy of the photograph of Jones Aronson and Rutherford at the party function in New York Which he had chanced upon 11 years ago and promptly destroyed For only an instant it was before his eyes, then it was out of sight again
+You know perfectly well. What is the matter with you? You have known it for years though. You have fought against the knowledge.
+
+You are mentally deranged. You suffer from a defective memory. You are unable to remember real events and you persuade yourself that you remember other events which never happened. Fortunately, it is curable.
+
+You have never cured yourself of it because you did not choose to. There was a small effort of the will that you were not ready to make. Even now. I am well aware.
+
+You are clinging to your disease under the impression that it is a virtue now. We will take an example. At this moment, which power is Oceania at war with? When.
+
+I was arrested Oceania was at war with East Asia with East Asia good and Oceania has always been at war with East Asia. Has it not? Winston drew in his breath. He opened his mouth to speak and then did not speak.
+
+He could not take his eyes away from the dial The truth, please Winston your truth Tell me what you think you remember. I Remember that until only a week before. I was arrested. We were not at war with East Asia at all.
+
+We were in alliance with them. The war was against Eurasia that had lasted for four years before that O’Brien stopped him with a movement of the hand another example he said Some years ago you had a very serious delusion indeed you believed that three men three one-time party members named Jones Aronson and Rutherford Men who were executed for treachery and sabotage after making the fullest possible confession Were not guilty of the crimes. They were charged with.
+
+You believed that you had seen unmistakable documentary evidence proving that their confessions were false. There was a certain photograph about which you had a hallucination. You believed that you had actually held it in your hands. It was a photograph something like this An oblong slip of newspaper had appeared between O’Brien’s fingers.
+
+For perhaps five seconds. It was within the angle of Winston’s vision. It was a photograph and there was no question of its identity. It was the photograph.
+
+It was another copy of the photograph of Jones Aronson and Rutherford at the party function in New York. Which he had chanced upon 11 years ago and promptly destroyed. For only an instant it was before his eyes, then it was out of sight again
 
 
 <a id="sec-083440"></a>
 ### ⏱️ [08:34:40 - 08:39:40]
 
-But he had seen it unquestionably He had seen it He made a desperate agonizing effort to wrench the top half of his body free It was impossible to move so much as a centimeter in any direction For the moment he had even forgotten the dial All he wanted was to hold the photograph in his fingers again, or at least to see it It exists. He cried No, said O’Brien. He stepped across the room There was a memory hole in the opposite wall O’Brien lifted the grating Unseen the frail slip of paper was whirling away on the current of warm air.
+But he had seen it unquestionably. He had seen it. He made a desperate agonizing effort to wrench the top half of his body free. It was impossible to move so much as a centimeter in any direction.
 
-It was vanishing in a flash of flame O’Brien turned away from the wall Ashes he said not even identifiable ashes dust It does not exist it never existed But it did exist it does exist it exists in memory. I remember it you remember it. I Do not remember it said O’Brien Winston’s heart sank that was double think He had a feeling of deadly helplessness If he could have been certain that O’Brien was lying it would not have seemed to matter But it was perfectly possible that O’Brien had really forgotten the photograph and if so Then already he would have forgotten his denial of remembering it and forgotten the act of forgetting How could one be sure that it was simple trickery?
+For the moment he had even forgotten the dial All he wanted was to hold the photograph in his fingers again, or at least to see it. It exists. He cried No, said O’Brien. He stepped across the room.
 
-Perhaps that lunatic dislocation in the mind could really happen That was the thought that defeated him O’Brien was looking down at him speculatively More than ever he had the air of a teacher taking pains with a wayward but promising child There is a party slogan dealing with the control of the past he said Repeat it if you please Who controls the past controls the future who controls the present controls the past? repeated Winston obediently Who controls the present controls the past said O’Brien? nodding his head with slow approval Is it your opinion Winston that the past has real existence?
+There was a memory hole in the opposite wall O’Brien lifted the grating Unseen the frail slip of paper was whirling away on the current of warm air. It was vanishing in a flash of flame O’Brien turned away from the wall Ashes he said not even identifiable ashes dust. It does not exist it never existed. But it did exist it does exist it exists in memory.
 
-Again the feeling of helplessness descended upon Winston his eyes flitted towards the dial He not only did not know whether yes or no was the answer that would save him from pain He did not even know which answer he believed to be the true one O’Brien smiled faintly You are no metaphysician Winston he said Until this moment you had never considered. What is meant by existence? I Will put it more precisely Does the past exist concretely in space is there somewhere or other a place a world of solid objects?
+I remember it you remember it. I Do not remember it said O’Brien Winston’s heart sank that was double think. He had a feeling of deadly helplessness. If he could have been certain that O’Brien was lying it would not have seemed to matter.
 
-Where the past is still happening? No Then where does the past exist if at all? in records it is written down in records and In the mind in human memories in memory very well, then We the party control all records and we control all memories then we control the past do we not? But how can you stop people remembering things cried Winston again momentarily forgetting the dial it is involuntary It is outside oneself. How can you control memory you have not controlled mine?
+But it was perfectly possible that O’Brien had really forgotten the photograph and if so. Then already he would have forgotten his denial of remembering it and forgotten the act of forgetting. How could one be sure that it was simple trickery? Perhaps, that lunatic dislocation in the mind could really happen.
 
-O’Brien’s manner grew stern again He laid his hand on the dial On the contrary he said you have not controlled it that is what has brought you here You are here because you have failed in humility in self-discipline You would not make the act of submission, which is the price of sanity you preferred to be a lunatic a minority of one Only the disciplined mind can see reality Winston you believe that reality is something objective external existing in its own right You also believe that the nature of reality is self-evident When you delude yourself into thinking that you see something you assume that everyone else sees the same thing as you But I tell you Winston that reality is not external Reality exists in the human mind and nowhere else Not in the individual mind which can make mistakes and in any case soon perishes Only in the mind of the party which is collective and immortal Whatever the party holds to be the truth is truth It is impossible to see reality except by looking through the eyes of the party That is the fact that you have got to relearn Winston It needs an act of self-destruction an effort of the will You must humble yourself before you can become sane He paused for a few moments as though to allow what he had been saying to sink in
+That was the thought that defeated him O’Brien was looking down at him speculatively More than ever he had the air of a teacher taking pains with a wayward but promising child. There is a party slogan dealing with the control of the past he said Repeat it if you please. Who controls the past controls the future who controls the present controls the past? repeated Winston obediently. Who controls the present controls the past said O’Brien? nodding his head with slow approval Is it your opinion Winston that the past has real existence?
+
+Again the feeling of helplessness descended upon Winston his eyes flitted towards the dial. He not only did not know whether yes or no was the answer that would save him from pain. He did not even know which answer he believed to be the true one O’Brien smiled faintly. You are no metaphysician Winston he said Until this moment you had never considered.
+
+What is meant by existence? I Will put it more precisely Does the past exist concretely in space is there somewhere or other a place a world of solid objects? Where the past is still happening? No.
+
+Then where does the past exist if at all? in records it is written down in records and. In the mind in human memories in memory very well, then. We the party control all records and we control all memories then we control the past do we not? But how can you stop people remembering things cried Winston again momentarily forgetting the dial it is involuntary.
+
+It is outside oneself. How can you control memory you have not controlled mine? O’Brien’s manner grew stern again. He laid his hand on the dial.
+
+On the contrary he said you have not controlled it that is what has brought you here. You are here because you have failed in humility in self-discipline. You would not make the act of submission, which is the price of sanity you preferred to be a lunatic a minority of one Only the disciplined mind can see reality Winston you believe that reality is something objective external existing in its own right. You also believe that the nature of reality is self-evident.
+
+When you delude yourself into thinking that you see something you assume that everyone else sees the same thing as you. But I tell you Winston that reality is not external Reality exists in the human mind and nowhere else Not in the individual mind which can make mistakes and in any case soon perishes Only in the mind of the party which is collective and immortal Whatever the party holds to be the truth is truth. It is impossible to see reality except by looking through the eyes of the party.
+
+That is the fact that you have got to relearn Winston. It needs an act of self-destruction an effort of the will. You must humble yourself before you can become sane. He paused for a few moments as though to allow what he had been saying to sink in
 
 
 <a id="sec-083940"></a>
 ### ⏱️ [08:39:40 - 08:44:41]
 
-Do you remember he went on writing in your diary Freedom is the freedom to say that two plus two make four Yes, said Winston O’Brien held up his left hand. It’s back towards Winston with the thumb hidden and the four fingers extended How many fingers am I holding up Winston? Four and if the party says that it is not four but five then how many? four The word ended in a gasp of pain The needle of the dial had shot up to 55 the sweat had sprung out all over Winston’s body The air tore into his lungs and issued again in deep groans, which even by clenching his teeth he could not stop O’Brien watched him the four fingers still extended.
+Do you remember he went on writing in your diary Freedom is the freedom to say that two plus two make four Yes, said Winston O’Brien held up his left hand. It’s back towards Winston with the thumb hidden and the four fingers extended. How many fingers am. I holding up Winston?
 
-He drew back the lever This time the pain was only slightly eased How many fingers Winston? Four the needle went up to 60. How many fingers Winston? Four four.
+Four and if the party says that it is not four but five then how many? four The word ended in a gasp of pain The needle of the dial had shot up to 55 the sweat had sprung out all over Winston’s body The air tore into his lungs and issued again in deep groans, which even by clenching his teeth he could not stop O’Brien watched him the four fingers still extended. He drew back the lever. This time the pain was only slightly eased.
 
-What else can I say? four The needle must have risen again, but he did not look at it The heavy stern face and the four fingers filled his vision The fingers stood up before his eyes like pillars Enormous blurry and seeming to vibrate but unmistakably four How many fingers Winston? Four stop it. Stop it. How can you go on four four?
+How many fingers Winston? Four the needle went up to 60. How many fingers Winston? Four four.
 
-How many fingers Winston five five five? No, Winston. That is no use. You are lying.
+What else can. I say? four The needle must have risen again, but he did not look at it The heavy stern face and the four fingers filled his vision The fingers stood up before his eyes like pillars Enormous blurry and seeming to vibrate but unmistakably four. How many fingers Winston? Four stop it.
 
-You still think there are four. How many fingers please? four five four Anything you like only stop it. Stop the pain Abruptly, he was sitting up with O’Brien’s arm round his shoulders. He had perhaps lost consciousness for a few seconds The bonds that had held his body down were loosened.
+Stop it. How can you go on four four? How many fingers Winston five five five? No, Winston.
 
-He felt very cold. He was shaking uncontrollably His teeth were chattering. The tears were rolling down his cheeks For a moment. He clung to O’Brien like a baby Curiously comforted by the heavy arm round his shoulders He had the feeling that O’Brien was his protector that the pain was something that came from outside from some other source and That it was O’Brien who would save him from it You are a slow learner Winston said O’Brien gently How can I help it?
+That is no use. You are lying. You still think there are four. How many fingers please? four five four Anything you like only stop it.
 
-He blubbered. How can I help seeing what is in front of my eyes two and two of four? Sometimes Winston, sometimes they are five, sometimes they are three, sometimes they are all of them at once You must try harder. It is not easy to become sane He laid Winston down on the bed The grip of his limbs tightened again, but the pain had ebbed away and the trembling had stopped Leaving him merely weak and cold O’Brien motioned with his head to the man in the white coat who had stood immobile throughout the proceedings The man in the white coat bent down and looked closely into Winston’s eyes Felt his pulse laid an ear against his chest tapped here and there then he nodded to O’Brien Again said O’Brien The pain flowed into Winston’s body.
+Stop the pain Abruptly, he was sitting up with O’Brien’s arm round his shoulders. He had perhaps lost consciousness for a few seconds The bonds that had held his body down were loosened. He felt very cold. He was shaking uncontrollably.
 
-The needle must be at 70 75 He had shut his eyes this time. He knew that the fingers were still there and still four All that mattered was somehow to stay alive until the spasm was over He had ceased to notice whether he was crying out or not The pain lessened again. He opened his eyes O’Brien had drawn back the lever How many fingers Winston? Four I suppose there are four I would see five if I could I’m trying to see five Which do you wish to persuade me that you see five or really to see them?
+His teeth were chattering. The tears were rolling down his cheeks. For a moment. He clung to O’Brien like a baby Curiously comforted by the heavy arm round his shoulders.
 
-Really to see them again said O’Brien Perhaps the needle was 80 90 Winston could not intermittently remember why the pain was happening Behind his screwed-up eyelids a forest of fingers seemed to be moving in a sort of dance weaving in and out disappearing behind one another and reappearing again He was trying to count them. He could not remember why He knew only that it was impossible to count them and that this was somehow due to the mysterious identity between five and four The pain died down again When he opened his eyes, it was to find that he was still seeing the same thing innumerable fingers like moving trees were still streaming past in either direction Crossing and re-crossing he shut his eyes again How many fingers am I holding up Winston?
+He had the feeling that O’Brien was his protector that the pain was something that came from outside from some other source and. That it was O’Brien who would save him from it. You are a slow learner Winston said O’Brien gently. How can.
+
+I help it? He blubbered. How can. I help seeing what is in front of my eyes two and two of four?
+
+Sometimes Winston, sometimes they are five, sometimes they are three, sometimes they are all of them at once. You must try harder. It is not easy to become sane. He laid Winston down on the bed The grip of his limbs tightened again, but the pain had ebbed away and the trembling had stopped Leaving him merely weak and cold O’Brien motioned with his head to the man in the white coat who had stood immobile throughout the proceedings The man in the white coat bent down and looked closely into Winston’s eyes Felt his pulse laid an ear against his chest tapped here and there then he nodded to O’Brien Again said O’Brien The pain flowed into Winston’s body.
+
+The needle must be at 70 75. He had shut his eyes this time. He knew that the fingers were still there and still four All that mattered was somehow to stay alive until the spasm was over. He had ceased to notice whether he was crying out or not The pain lessened again.
+
+He opened his eyes O’Brien had drawn back the lever. How many fingers Winston? Four. I suppose there are four.
+
+I would see five if. I could. I’m trying to see five. Which do you wish to persuade me that you see five or really to see them?
+
+Really to see them again said O’Brien. Perhaps, the needle was 80 90 Winston could not intermittently remember why the pain was happening Behind his screwed-up eyelids a forest of fingers seemed to be moving in a sort of dance weaving in and out disappearing behind one another and reappearing again. He was trying to count them. He could not remember why.
+
+He knew only that it was impossible to count them and that this was somehow due to the mysterious identity between five and four The pain died down again. When he opened his eyes, it was to find that he was still seeing the same thing innumerable fingers like moving trees were still streaming past in either direction Crossing and re-crossing he shut his eyes again. How many fingers am. I holding up Winston?
 
 
 <a id="sec-084441"></a>
 ### ⏱️ [08:44:41 - 08:49:42]
 
-I don’t know I don’t know you will kill me if you do that again four five six in all honesty I don’t know better said O’Brien a Needle slid into Winston’s arm almost in the same instant a blissful healing war warmth spread all through his body, the pain was already half forgotten. He opened his eyes and looked up gratefully at O’Brien. At sight of the heavy, lined face, so ugly and so intelligent, his heart seemed to turn over. If he could have moved, he would have stretched out a hand and laid it on O’Brien’s arm.
+I don’t know. I don’t know you will kill me if you do that again four five six in all honesty. I don’t know better said O’Brien a Needle slid into Winston’s arm almost in the same instant a blissful healing war warmth spread all through his body, the pain was already half forgotten. He opened his eyes and looked up gratefully at O’Brien.
 
-He had never loved him so deeply as at this moment, and not merely because he had stopped the pain. The old feeling that at bottom it did not matter whether O’Brien was a friend or an enemy had come back. O’Brien was a person who could be talked to. Perhaps one did not want to be loved so much as to be understood.
+At sight of the heavy, lined face, so ugly and so intelligent, his heart seemed to turn over. If he could have moved, he would have stretched out a hand and laid it on O’Brien’s arm. He had never loved him so deeply as at this moment, and not merely because he had stopped the pain. The old feeling that at bottom it did not matter whether O’Brien was a friend or an enemy had come back.
 
-O’Brien had tortured him to the edge of lunacy, and in a little while it was certain he would send him to his death. It made no difference. In some sense that went deeper than friendship. They were intimates.
+O’Brien was a person who could be talked to. Perhaps, one did not want to be loved so much as to be understood. O’Brien had tortured him to the edge of lunacy, and in a little while it was certain he would send him to his death. It made no difference.
 
-Somewhere or other, although the actual words might never be spoken, there was a place where they could meet and talk. O’Brien was looking down at him with an expression which suggested that the same thought might be in his own mind. When he spoke, it was in an easy conversational tone. Do you know where you are, Winston, he said?
+In some sense that went deeper than friendship. They were intimates. Somewhere or other, although the actual words might never be spoken, there was a place where they could meet and talk. O’Brien was looking down at him with an expression which suggested that the same thought might be in his own mind.
 
-I don’t know, I can guess, in the ministry of love. Do you know how long you have been here? I don’t know, days, weeks, months. I think it is months.
+When he spoke, it was in an easy conversational tone. Do you know where you are, Winston, he said? I don’t know, I can guess, in the ministry of love. Do you know how long you have been here?
 
-And why do you imagine that we bring people to this place? To make them confess? No, that is not the reason. Try again, to punish them.
+I don’t know, days, weeks, months. I think it is months. And why do you imagine that we bring people to this place? To make them confess?
 
-No, exclaimed O’Brien. His voice had changed extraordinarily, and his face had suddenly become both stern and animated. No, not merely to extract your confession, not to punish you. Shall I tell you why we have brought you here?
+No, that is not the reason. Try again, to punish them. No, exclaimed O’Brien. His voice had changed extraordinarily, and his face had suddenly become both stern and animated.
 
-To cure you, to make you sane. Will you understand, Winston, that no one whom we bring to this place ever leaves our hands uncured? We are not interested in those stupid crimes that you have committed. The party is not interested in the overt act.
+No, not merely to extract your confession, not to punish you. Shall. I tell you why we have brought you here? To cure you, to make you sane.
 
-The thought is all we care about. We do not merely destroy our enemies, we change them. Do you understand what I mean by that? He was bending over Winston.
+Will you understand, Winston, that no one whom we bring to this place ever leaves our hands uncured? We are not interested in those stupid crimes that you have committed. The party is not interested in the overt act. The thought is all we care about.
+
+We do not merely destroy our enemies, we change them. Do you understand what. I mean by that? He was bending over Winston.
 
 His face looked enormous because of its nearness. And hideously ugly because it was seen from below.
 
 Moreover, it was filled with a sort of exaltation, a lunatic intensity. Again, Winston’s heart shrank. If it had been possible, he would have cowered deeper into the bed. He felt certain that O’Brien was about to twist the dial out of sheer wantonness.
 
-At this moment, however, O’Brien turned away. He took a pace or two up and down. Then he continued less vehemently. The first thing for you to understand is that in this place there are no martyrdoms. You have read of the religious persecutions of the past.
+At this moment, however, O’Brien turned away. He took a pace or two up and down. Then he continued less vehemently. The first thing for you to understand is that in this place there are no martyrdoms.
 
-In the Middle Ages, there was the Inquisition. It was a failure. It set out to eradicate heresy and ended by perpetuating it. For every heretic it burned at the stake, thousands of others rose up.
+You have read of the religious persecutions of the past. In the Middle Ages, there was the Inquisition. It was a failure. It set out to eradicate heresy and ended by perpetuating it.
 
-Why was that? Because the Inquisition killed its enemies in the open and killed them while they were still unrepentant.
+For every heretic it burned at the stake, thousands of others rose up. Why was that? Because the Inquisition killed its enemies in the open and killed them while they were still unrepentant.
 
 In fact, it killed them because they were unrepentant. Men were dying because they would not abandon their true beliefs. Naturally, all the glory belonged to the victim and all the shame to the Inquisitor who burned him. Later, in the 20th century, there were the Totalitarians, as they were called.
 
@@ -3494,31 +3650,31 @@ O’Brien checked his step as though Winston had uttered the thought aloud. His 
 
 That is what you are thinking, was it not? Yes, said Winston. O’Brien smiled slightly. You are a flaw in the pattern, Winston.
 
-You are a stain that must be wiped out. Did I not tell you just now that we are different from the persecutors of the past? We are not content with negative obedience nor even with the most abject submission. When finally you surrender to us, it must be of your own free will.
+You are a stain that must be wiped out. Did. I not tell you just now that we are different from the persecutors of the past? We are not content with negative obedience nor even with the most abject submission.
 
-We do not destroy the heretic because he resists us. So long as he resists us, we never destroy him. We convert him. We capture his inner mind.
+When finally you surrender to us, it must be of your own free will. We do not destroy the heretic because he resists us. So long as he resists us, we never destroy him. We convert him.
 
-We reshape him. We burn all evil and all illusion out of him. We bring him over to our side, not in appearance, but genuinely, heart and soul. We make him one of ourselves before we kill him.
+We capture his inner mind. We reshape him. We burn all evil and all illusion out of him. We bring him over to our side, not in appearance, but genuinely, heart and soul.
 
-It is intolerable to us that an erroneous thought should exist anywhere in the world, however secret and powerless it may be. Even in the instant of death, we cannot permit any deviation. In the old days, the heretic walked to the stake, still a heretic, proclaiming his heresy, exalting in it. Even the victim of the Russian purges could carry rebellion locked up in his skull as he walked down the passage waiting for the bullet.
+We make him one of ourselves before we kill him. It is intolerable to us that an erroneous thought should exist anywhere in the world, however secret and powerless it may be. Even in the instant of death, we cannot permit any deviation. In the old days, the heretic walked to the stake, still a heretic, proclaiming his heresy, exalting in it.
 
-But we make the brain perfect before we blow it out. The command of the old despotisms was thou shalt not. The command of the totalitarians was thou shalt. Our command is thou art.
+Even the victim of the Russian purges could carry rebellion locked up in his skull as he walked down the passage waiting for the bullet. But we make the brain perfect before we blow it out. The command of the old despotisms was thou shalt not. The command of the totalitarians was thou shalt.
 
-No one whom we bring to this place ever stands out against us. Everyone is washed clean. Even those three miserable traitors in whose innocence you once believed, Jones, Aronson, and Rutherford, in the end, we broke them down. I took part in their interrogation myself.
+Our command is thou art. No one whom we bring to this place ever stands out against us. Everyone is washed clean. Even those three miserable traitors in whose innocence you once believed, Jones, Aronson, and Rutherford, in the end, we broke them down.
 
-I saw them gradually worn down, whimpering, groveling, weeping. And in the end, it was not with pain or fear, only with penitence. By the time we’d finished with them, they were only the shells of men. There was nothing left in them except sorrow for what they had done, and love of Big Brother.
+I took part in their interrogation myself. I saw them gradually worn down, whimpering, groveling, weeping. And in the end, it was not with pain or fear, only with penitence. By the time we’d finished with them, they were only the shells of men.
 
-It was touching to see how they loved him. They begged to be shot quickly so that they could die while their minds were still clean. His voice had grown almost dreamy. The exaltation, the lunatic enthusiasm, was still in his face.
+There was nothing left in them except sorrow for what they had done, and love of Big Brother. It was touching to see how they loved him. They begged to be shot quickly so that they could die while their minds were still clean. His voice had grown almost dreamy.
 
-He is not pretending, thought Winston. He is not a hypocrite. He believes every word he says. What most oppressed him was the consciousness of his own intellectual inferiority.
+The exaltation, the lunatic enthusiasm, was still in his face. He is not pretending, thought Winston. He is not a hypocrite. He believes every word he says.
 
-He watched the heavy, yet graceful form strolling to and fro, in and out of the range of his vision. O’Brien was a being in all ways larger than himself. There was no idea that he had ever had, or could have, that O’Brien had not long ago known, examined, and rejected. His mind contained Winston’s mind.
+What most oppressed him was the consciousness of his own intellectual inferiority. He watched the heavy, yet graceful form strolling to and fro, in and out of the range of his vision. O’Brien was a being in all ways larger than himself. There was no idea that he had ever had, or could have, that O’Brien had not long ago known, examined, and rejected.
 
-But in that case, how could it be true that O’Brien was mad? It must be he, Winston, who was mad. O’Brien halted and looked down at him. His voice had grown stern again.
+His mind contained Winston’s mind. But in that case, how could it be true that O’Brien was mad? It must be he, Winston, who was mad. O’Brien halted and looked down at him.
 
-Do not imagine that you will save yourself, Winston, however completely you surrender to us. No one who has once gone astray is ever spared. And even if we chose to let you live out the natural term of your life, still you would never escape from us. What happens to you here is forever.
+His voice had grown stern again. Do not imagine that you will save yourself, Winston, however completely you surrender to us. No one who has once gone astray is ever spared. And even if we chose to let you live out the natural term of your life, still you would never escape from us.
 
-Understand that in advance. We shall crush you down to the point from which there is no coming back. Things will happen to you from which you could not recover if you lived a thousand years.
+What happens to you here is forever. Understand that in advance. We shall crush you down to the point from which there is no coming back. Things will happen to you from which you could not recover if you lived a thousand years.
 
 
 <a id="sec-085447"></a>
@@ -3548,63 +3704,67 @@ Yes. Eleven years ago, you created a legend about three men who had been condemn
 
 You invented it and later you grew to believe in it. You remember now the very moment at which you first invented it. Do you remember that? Yes.
 
-Just now I held up the fingers of my hand to you. You saw five fingers. Do you remember that? Yes.
+Just now. I held up the fingers of my hand to you. You saw five fingers. Do you remember that?
 
-O’Brien held up the fingers of his left hand with the thumb concealed. There are five fingers there. Do you see five fingers? Yes.
+Yes. O’Brien held up the fingers of his left hand with the thumb concealed. There are five fingers there. Do you see five fingers?
 
-And he did see them. For a fleeting instant, before the scenery of his mind changed. He saw five fingers and there was no deformity. Then everything was normal again, and the old fear, the hatred, and the bewilderment came crowding back again.
+Yes. And he did see them. For a fleeting instant, before the scenery of his mind changed. He saw five fingers and there was no deformity.
 
-But there had been a moment, he did not know how long, 30 seconds perhaps, of luminous certainty, when each new suggestion of O’Brien’s had filled up a patch of emptiness and become absolute truth, and when two and two could have been three as easily as five. If that were what was needed. It had faded, but before O’Brien had dropped his hand. But though he could not recapture it, he could remember it, as one remembers a vivid experience at some period of one’s life when one was in effect a different person.
+Then everything was normal again, and the old fear, the hatred, and the bewilderment came crowding back again. But there had been a moment, he did not know how long, 30 seconds perhaps, of luminous certainty, when each new suggestion of O’Brien’s had filled up a patch of emptiness and become absolute truth, and when two and two could have been three as easily as five. If that were what was needed. It had faded, but before O’Brien had dropped his hand.
 
-You see now, said O’Brien, that it is at any rate possible. Yes, said Winston. O’Brien stood up with a satisfied air. Over to his left, Winston saw the man in the white coat break an ampule and draw back the plunger of a syringe.
+But though he could not recapture it, he could remember it, as one remembers a vivid experience at some period of one’s life when one was in effect a different person. You see now, said O’Brien, that it is at any rate possible. Yes, said Winston. O’Brien stood up with a satisfied air.
 
-O’Brien turned to Winston with a smile. In almost the old manner, he resettled his spectacles on his nose. Do you remember writing in your diary, he said, that it did not matter whether I was a friend or an enemy, since I was at least a person who understood you and could be talked to. You were right.
+Over to his left, Winston saw the man in the white coat break an ampule and draw back the plunger of a syringe. O’Brien turned to Winston with a smile. In almost the old manner, he resettled his spectacles on his nose. Do you remember writing in your diary, he said, that it did not matter whether.
 
-I enjoy talking to you. Your mind appeals to me. It resembles my own mind, except that you happen to be insane.
+I was a friend or an enemy, since. I was at least a person who understood you and could be talked to. You were right. I enjoy talking to you.
+
+Your mind appeals to me. It resembles my own mind, except that you happen to be insane.
 
 
 <a id="sec-085951"></a>
 ### ⏱️ [08:59:51 - 09:04:52]
 
-Before we bring the session to an end, you can ask me a few questions, if you choose. Any question I like. Anything. He saw that Winston’s eyes were upon the dial.
+Before we bring the session to an end, you can ask me a few questions, if you choose. Any question. I like. Anything.
 
-It is switched off. What is your first question? What have you done with Julia, said Winston? O’Brien smiled again.
+He saw that Winston’s eyes were upon the dial. It is switched off. What is your first question? What have you done with Julia, said Winston?
 
-She betrayed you, Winston, immediately, unreservedly. I’ve seldom seen anyone come over to us so promptly. You would hardly recognize her if you saw her. All her rebelliousness, her deceit, her folly, her dirty mindedness.
+O’Brien smiled again. She betrayed you, Winston, immediately, unreservedly. I’ve seldom seen anyone come over to us so promptly. You would hardly recognize her if you saw her.
 
-Everything has been burned out of her. It was a perfect conversion, a textbook case. You tortured her, O’Brien left this unanswered. Next question, he said.
+All her rebelliousness, her deceit, her folly, her dirty mindedness. Everything has been burned out of her. It was a perfect conversion, a textbook case. You tortured her, O’Brien left this unanswered.
 
-Does Big Brother exist? Of course he exists. The party exists. Big Brother is the embodiment of the party.
+Next question, he said. Does Big Brother exist? Of course, he exists. The party exists.
 
-Does he exist in the same way as I exist? You do not exist, said O’Brien. Once again, the sense of helplessness assailed him. He knew, or he could imagine, the arguments which proved his own non-existence.
+Big Brother is the embodiment of the party. Does he exist in the same way as. I exist? You do not exist, said O’Brien.
 
-But they were nonsense. They were only a play on words. Did not the statement, you do not exist, contain a logical absurdity? But what use was it to say so?
+Once again, the sense of helplessness assailed him. He knew, or he could imagine, the arguments which proved his own non-existence. But they were nonsense. They were only a play on words.
 
-His mind shriveled as he thought of the unanswerable, mad arguments with which O’Brien would demolish him. I think I exist, he said wearily. I am conscious of my own identity. I was born and I shall die.
+Did not the statement, you do not exist, contain a logical absurdity? But what use was it to say so? His mind shriveled as he thought of the unanswerable, mad arguments with which O’Brien would demolish him. I think.
+
+I exist, he said wearily. I am conscious of my own identity. I was born and. I shall die.
 
 I have arms and legs. I occupy a particular point in space. No other solid object can occupy the same point simultaneously. In that sense, does Big Brother exist?
 
-It is of no importance he exists. Will Big Brother ever die? Of course not. How could he die?
+It is of no importance he exists. Will Big Brother ever die? Of course, not. How could he die?
 
-Next question, does the brotherhood exist? That, Winston, you will never know. If we choose to set you free when we have finished with you, and if you live to be 90 years old, still you will never learn whether the answer to that question is yes or no. As long as you live, it will be an unsolved riddle in your mind. Winston lay silent.
+Next question, does the brotherhood exist? That, Winston, you will never know. If we choose to set you free when we have finished with you, and if you live to be 90 years old, still you will never learn whether the answer to that question is yes or no. As long as you live, it will be an unsolved riddle in your mind.
 
-His breast rose and fell a little faster. He still had not asked the question that had come into his mind the first. He had got to ask it, and yet it was as though his tongue would not utter it. There was a trace of amusement in O’Brien’s face.
+Winston lay silent. His breast rose and fell a little faster. He still had not asked the question that had come into his mind the first. He had got to ask it, and yet it was as though his tongue would not utter it.
 
-Even his spectacles seemed to wear an ironical gleam. He knows, thought Winston suddenly, he knows what I’m going to ask. At the thought, the words burst out of him, what is in room 101? The expression on O’Brien’s face did not change.
+There was a trace of amusement in O’Brien’s face. Even his spectacles seemed to wear an ironical gleam. He knows, thought Winston suddenly, he knows what. I’m going to ask.
 
-He answered dryly. You know what is in room 101, Winston? Everyone knows what is in room 101. He raised a finger to the man in the white coat.
+At the thought, the words burst out of him, what is in room 101? The expression on O’Brien’s face did not change. He answered dryly. You know what is in room 101, Winston?
 
-Evidently, the session was at an end. A needle jerked into Winston’s arm. He sank almost instantly into deep sleep. Chapter three.
+Everyone knows what is in room 101. He raised a finger to the man in the white coat. Evidently, the session was at an end. A needle jerked into Winston’s arm.
 
-There are three stages in your reintegration, said O’Brien. There is learning, there is understanding, and there is acceptance. It is time for you to enter upon the second stage. As always, Winston was lying flat on his back.
+He sank almost instantly into deep sleep. Chapter three. There are three stages in your reintegration, said O’Brien. There is learning, there is understanding, and there is acceptance.
 
-But of late his bonds were looser. They still held him to the bed, but he could move his knees a little and could turn his head from side to side and raise his arms from the elbow. The dial also had grown to be less of a terror. He could evade its pangs if he was quick-witted enough.
+It is time for you to enter upon the second stage. As always, Winston was lying flat on his back. But of late his bonds were looser. They still held him to the bed, but he could move his knees a little and could turn his head from side to side and raise his arms from the elbow.
 
-It was chiefly when he showed stupidity that O’Brien pulled the lever. Sometimes they got through a whole session without use of the dial. He could not remember how many sessions there had been. The whole process seemed to stretch out over a long indefinite time, weeks possibly, and the intervals between the sessions might sometimes have been days, sometimes only an hour or two.
+The dial also had grown to be less of a terror. He could evade its pangs if he was quick-witted enough. It was chiefly when he showed stupidity that O’Brien pulled the lever. Sometimes they got through a whole session without use of the dial.
 
-As you lie there, said O’Brien, you have often wondered, you have even asked me, why the ministry of love should expend so much time and trouble on you, and when you were free, you were puzzled by what was essentially the same question. You could grasp the mechanics of the society you lived in, but not its underlying motives. Do you remember writing in your diary, I understand how, I do not understand why. It was when you thought about why that you doubted your own sanity.
+He could not remember how many sessions there had been. The whole process seemed to stretch out over a long indefinite time, weeks possibly, and the intervals between the sessions might sometimes have been days, sometimes only an hour or two. As you lie there, said O’Brien, you have often wondered, you have even asked me, why the ministry of love should expend so much time and trouble on you, and when you were free, you were puzzled by what was essentially the same question.
 
-You have read the book, Goldstein’s book, or parts of it at least.
+You could grasp the mechanics of the society you lived in, but not its underlying motives. Do you remember writing in your diary, I understand how, I do not understand why. It was when you thought about why that you doubted your own sanity. You have read the book, Goldstein’s book, or parts of it at least.
 
 
 <a id="sec-090452"></a>
@@ -3636,17 +3796,17 @@ He had understood it all, weighed it all, and it made no difference. All was jus
 
 You believe that human beings are not fit to govern themselves, and therefore, he started and almost cried out. A pang of pain had shot through his body. O’Brien had pushed the lever of the dial up to 35. That was stupid, Winston, stupid, he said.
 
-You should know better than to say a thing like that. He pulled the lever back and continued. Now I will tell you the answer to my question. It is this.
+You should know better than to say a thing like that. He pulled the lever back and continued. Now. I will tell you the answer to my question.
 
-The party seeks power entirely for its own sake. We are not interested in the good of others. We are interested solely in power, not wealth or luxury or long life or happiness, only power, pure power. What pure power means, you will understand presently.
+It is this. The party seeks power entirely for its own sake. We are not interested in the good of others. We are interested solely in power, not wealth or luxury or long life or happiness, only power, pure power.
 
-We are different from all the oligarchies of the past, in that we know what we are doing. All the others, even those who resembled ourselves, were cowards and hypocrites. The German Nazis and the Russian Communists came very close to us in their methods, but they never had the courage to recognize their own motives. They pretended, perhaps they even believed, that they had seized power unwillingly and for a limited time, and that just round the corner there lay a paradise where human beings would be free and equal.
+What pure power means, you will understand presently. We are different from all the oligarchies of the past, in that we know what we are doing. All the others, even those who resembled ourselves, were cowards and hypocrites. The German Nazis and the Russian Communists came very close to us in their methods, but they never had the courage to recognize their own motives.
 
-We are not like that. We know that no one ever seizes power with the intention of relinquishing it. Power is not a means, it is an end. One does not establish a dictatorship in order to safeguard a revolution.
+They pretended, perhaps they even believed, that they had seized power unwillingly and for a limited time, and that just round the corner there lay a paradise where human beings would be free and equal. We are not like that. We know that no one ever seizes power with the intention of relinquishing it. Power is not a means, it is an end.
 
-One makes the revolution in order to establish the dictatorship. The object of persecution is persecution. The object of torture is torture. The object of power is power.
+One does not establish a dictatorship in order to safeguard a revolution. One makes the revolution in order to establish the dictatorship. The object of persecution is persecution. The object of torture is torture.
 
-Now, do you begin to understand me? Winston was struck, as he had been struck before,
+The object of power is power. Now, do you begin to understand me? Winston was struck, as he had been struck before,
 
 
 <a id="sec-090954"></a>
@@ -3654,45 +3814,47 @@ Now, do you begin to understand me? Winston was struck, as he had been struck be
 
 by the tiredness of O’Brien’s face. It was strong and fleshy and brutal. It was full of intelligence and a sort of controlled passion before which he felt himself helpless, but it was tired. There were pouches under the eyes, the skin sagged from the cheekbones.
 
-O’Brien leaned over him, deliberately bringing the worn face nearer. You are thinking, he said, that my face is old and tired. You are thinking that I talk of power, and yet I’m not even able to prevent the decay of my own body. Can you not understand, Winston, that the individual is only a cell?
+O’Brien leaned over him, deliberately bringing the worn face nearer. You are thinking, he said, that my face is old and tired. You are thinking that. I talk of power, and yet.
 
-The weariness of the cell is the vigor of the organism. Do you die when you cut your fingernails? He turned away from the bed and began strolling up and down again, one hand in his pocket. We are the priests of power, he said.
+I’m not even able to prevent the decay of my own body. Can you not understand, Winston, that the individual is only a cell? The weariness of the cell is the vigor of the organism. Do you die when you cut your fingernails?
 
-God is power. But at present power is only a word so far as you are concerned. It is time for you to gather some idea of what power means. The first thing you must realize is that power is collective.
+He turned away from the bed and began strolling up and down again, one hand in his pocket. We are the priests of power, he said. God is power. But at present power is only a word so far as you are concerned.
 
-The individual only has power in so far as he ceases to be an individual. You know the party slogan, freedom is slavery. Has it ever occurred to you that it is reversible? Slavery is freedom.
+It is time for you to gather some idea of what power means. The first thing you must realize is that power is collective. The individual only has power in so far as he ceases to be an individual. You know the party slogan, freedom is slavery.
 
-Alone, free, the human being is always defeated. It must be so because every human being is doomed to die, which is the greatest of all failures. But if he can make complete, utter submission, if he can escape from his identity, if he can merge himself in the party so that he is the party, then he is all powerful and immortal. The second thing for you to realize is that power is power over human beings.
+Has it ever occurred to you that it is reversible? Slavery is freedom. Alone, free, the human being is always defeated. It must be so because every human being is doomed to die, which is the greatest of all failures.
 
-Over the body, but above all, over the mind. Power over matter. External reality, as you would call it, is not important. Already our control over matter is absolute.
+But if he can make complete, utter submission, if he can escape from his identity, if he can merge himself in the party so that he is the party, then he is all powerful and immortal. The second thing for you to realize is that power is power over human beings. Over the body, but above all, over the mind. Power over matter.
 
-For a moment, Winston ignored the dial. He made a violent effort to raise himself into a sitting position and merely succeeded in wrenching his body painfully. But how can you control matter, he burst out. You don’t even control the climate or the law of gravity.
+External reality, as you would call it, is not important. Already our control over matter is absolute. For a moment, Winston ignored the dial. He made a violent effort to raise himself into a sitting position and merely succeeded in wrenching his body painfully.
 
-And there are disease, pain, death. O’Brien silenced him by a movement of his hand. We control matter because we control the mind. Reality is inside the skull.
+But how can you control matter, he burst out. You don’t even control the climate or the law of gravity. And there are disease, pain, death. O’Brien silenced him by a movement of his hand.
 
-You will learn by degrees, Winston. There is nothing that we could not do. Invisibility, levitation, anything. I could float off this floor like a soap bubble if I wish to.
+We control matter because we control the mind. Reality is inside the skull. You will learn by degrees, Winston. There is nothing that we could not do.
 
-I do not wish to because the party does not wish it. You must get rid of those 19th century ideas about the laws of nature. We make the laws of nature. But you do not.
+Invisibility, levitation, anything. I could float off this floor like a soap bubble if. I wish to. I do not wish to because the party does not wish it.
 
-You are not even masters of this planet. What about Eurasia and Eastasia? You have not conquered them yet. Unimportant, we shall conquer them when it suits us.
+You must get rid of those 19th century ideas about the laws of nature. We make the laws of nature. But you do not. You are not even masters of this planet.
 
-And if we did not, what difference would it make? We can shut them out of existence. Oceania is the world. But the world itself is only a speck of dust.
+What about Eurasia and Eastasia? You have not conquered them yet. Unimportant, we shall conquer them when it suits us. And if we did not, what difference would it make?
 
-And man is tiny, helpless. How long has he been in existence? For millions of years, the Earth was uninhabited. Nonsense.
+We can shut them out of existence. Oceania is the world. But the world itself is only a speck of dust. And man is tiny, helpless.
 
-The Earth is as old as we are. No older. How could it be older? Nothing exists except through human consciousness.
+How long has he been in existence? For millions of years, the Earth was uninhabited. Nonsense. The Earth is as old as we are.
 
-But the rocks are full of the bones of extinct animals. Mammoths and mastodons and enormous reptiles which lived here long before man was ever heard of. Have you ever seen those bones, Winston? Of course not. 19th century biologists invented them.
+No older. How could it be older? Nothing exists except through human consciousness. But the rocks are full of the bones of extinct animals.
 
-Before man, there was nothing. After man, if he could come to an end, there would be nothing. Outside man, there is nothing. But the whole universe is outside us.
+Mammoths and mastodons and enormous reptiles which lived here long before man was ever heard of. Have you ever seen those bones, Winston? Of course, not. 19th century biologists invented them. Before man, there was nothing.
 
-Look at the stars. Some of them are a million light years away. They are out of our reach forever. What are the stars, said O’Brien indifferently?
+After man, if he could come to an end, there would be nothing. Outside man, there is nothing. But the whole universe is outside us. Look at the stars.
 
-They are bits of fire a few kilometers away. We could reach them if we wanted to, or we could block them out. The Earth is the center of the universe. The sun and the stars go round it.
+Some of them are a million light years away. They are out of our reach forever. What are the stars, said O’Brien indifferently? They are bits of fire a few kilometers away.
 
-Winston made another convulsive movement. This time, he did not say anything. O’Brien continued as though answering a spoken objection. For certain purposes, of course, that is not true.
+We could reach them if we wanted to, or we could block them out. The Earth is the center of the universe. The sun and the stars go round it. Winston made another convulsive movement.
 
-When we navigate the ocean, or when we predict an eclipse, we often find it convenient to assume that the Earth goes round the sun, and that the stars are millions upon millions of kilometers away. But what of it? Do you suppose it is beyond us to produce a dual system of astronomy? The stars can be near or distant, according as we need them.
+This time, he did not say anything. O’Brien continued as though answering a spoken objection. For certain purposes, of course, that is not true. When we navigate the ocean, or when we predict an eclipse, we often find it convenient to assume that the Earth goes round the sun, and that the stars are millions upon millions of kilometers away.
+
+But what of it? Do you suppose it is beyond us to produce a dual system of astronomy? The stars can be near or distant, according as we need them.
 
 
 <a id="sec-091456"></a>
@@ -3734,45 +3896,47 @@ The espionage, the betrayals, the arrests, the tortures, the executions, the dis
 <a id="sec-091957"></a>
 ### ⏱️ [09:19:57 - 09:24:57]
 
-Every day, at every moment, they will be defeated, discredited, ridiculed, spat upon, and yet they will always survive. This drama that I have played out with you during seven years will be played out over and over again, generation after generation, always in subtler forms. Always we shall have the heretic here at our mercy, screaming with pain, broken up, contemptible, and in the end utterly penitent, saved from himself, crawling to our feet of his own accord. That is the world that we are preparing, Winston, a world of victory after victory, triumph after triumph after triumph, an endless pressing, pressing, pressing upon the nerve of power.
+Every day, at every moment, they will be defeated, discredited, ridiculed, spat upon, and yet they will always survive. This drama that. I have played out with you during seven years will be played out over and over again, generation after generation, always in subtler forms. Always we shall have the heretic here at our mercy, screaming with pain, broken up, contemptible, and in the end utterly penitent, saved from himself, crawling to our feet of his own accord.
 
-You are beginning, I can see, to realize what that world will be like. But in the end, you will do more than understand it. You will accept it, welcome it, become part of it. Winston had recovered himself sufficiently to speak.
+That is the world that we are preparing, Winston, a world of victory after victory, triumph after triumph after triumph, an endless pressing, pressing, pressing upon the nerve of power. You are beginning, I can see, to realize what that world will be like. But in the end, you will do more than understand it. You will accept it, welcome it, become part of it.
 
-You can’t, he said weakly. What do you mean by that remark, Winston? You could not create such a world as you have just described. It is a dream.
+Winston had recovered himself sufficiently to speak. You can’t, he said weakly. What do you mean by that remark, Winston? You could not create such a world as you have just described.
 
-It is impossible. Why? It is impossible to found a civilization on fear and hatred and cruelty. It would never endure.
+It is a dream. It is impossible. Why? It is impossible to found a civilization on fear and hatred and cruelty.
 
-Why not? It would have no vitality. It would disintegrate. It would commit suicide.
+It would never endure. Why not? It would have no vitality. It would disintegrate.
 
-Nonsense. You are under the impression that hatred is more exhausting than love. Why should it be? And if it were, what difference would that make?
+It would commit suicide. Nonsense. You are under the impression that hatred is more exhausting than love. Why should it be?
 
-Suppose that we choose to wear ourselves out faster. Suppose that we quicken the tempo of human life till men are senile at thirty. Still what difference would it make? Can you not understand that the death of the individual is not death, the party is immortal?
+And if it were, what difference would that make? Suppose that we choose to wear ourselves out faster. Suppose that we quicken the tempo of human life till men are senile at thirty. Still what difference would it make?
 
-As usual, the voice had battered Winston into helplessness. Moreover, he was in dread that if he persisted in his disagreement, O’Brien would twist the dial again. And yet he could not keep silent, feebly, without arguments, with nothing to support him except his inarticulate horror of what O’Brien had said. He returned to the attack.
+Can you not understand that the death of the individual is not death, the party is immortal? As usual, the voice had battered Winston into helplessness.
 
-I don’t know. I don’t care. Somehow you will fail. Something will defeat you.
+Moreover, he was in dread that if he persisted in his disagreement, O’Brien would twist the dial again. And yet he could not keep silent, feebly, without arguments, with nothing to support him except his inarticulate horror of what O’Brien had said. He returned to the attack. I don’t know.
 
-Life will defeat you. We control life, Winston, at all its levels. You are imagining that there is something called human nature, which will be outraged by what we do and will turn against us. But we create human nature.
+I don’t care. Somehow you will fail. Something will defeat you. Life will defeat you.
 
-Men are infinitely malleable. Or perhaps you have returned to your old idea that the proletarians or the slaves will arise and overthrow us. Put it out of your mind. They are helpless, like the animals.
+We control life, Winston, at all its levels. You are imagining that there is something called human nature, which will be outraged by what we do and will turn against us. But we create human nature. Men are infinitely malleable.
 
-Humanity is the party. The others are outside, irrelevant. I don’t care. In the end they will beat you.
+Or perhaps you have returned to your old idea that the proletarians or the slaves will arise and overthrow us. Put it out of your mind. They are helpless, like the animals. Humanity is the party.
 
-Sooner or later they will see you for what you are, and then they will tear you to pieces. Do you see any evidence that that is happening? Or any reason why it should? No. I believe it. I know that you will fail.
+The others are outside, irrelevant. I don’t care. In the end they will beat you. Sooner or later they will see you for what you are, and then they will tear you to pieces.
 
-There is something in the universe, I don’t know, some spirit, some principle, that you will never overcome. Do you believe in God, Winston? No. Then what is it, this principle that will defeat us? I don’t know, the spirit of man. And do you consider yourself a man?
+Do you see any evidence that that is happening? Or any reason why it should? No. I believe it.
 
-Yes. If you are a man, Winston, you are the last man. Your kind is extinct. We are the inheritors.
+I know that you will fail. There is something in the universe, I don’t know, some spirit, some principle, that you will never overcome. Do you believe in God, Winston? No.
 
-Do you understand that you are alone? You are outside history. You are non-existent. His manner changed and he said more harshly, and you consider yourself morally superior to us with our lies and our cruelty?
+Then what is it, this principle that will defeat us? I don’t know, the spirit of man. And do you consider yourself a man? Yes.
 
-Yes, I consider myself superior. O’Brien did not speak. Two other voices were speaking. After a moment, Winston recognized one of them as his own.
+If you are a man, Winston, you are the last man. Your kind is extinct. We are the inheritors. Do you understand that you are alone?
 
-It was a soundtrack of the conversation he had had with O’Brien. On the night when he had enrolled himself in the brotherhood, he heard himself promising to lie, to steal, to forge, to murder, to encourage drug-taking and prostitution, to disseminate venereal diseases, to throw vitriol in a child’s face. O’Brien made a small, impatient gesture, as though to say that the demonstration was hardly worth making. Then he turned a switch and the voices stopped.
+You are outside history. You are non-existent. His manner changed and he said more harshly, and you consider yourself morally superior to us with our lies and our cruelty? Yes, I consider myself superior.
 
-Get up from that bed, he said. The bonds had loosened themselves. Winston lowered himself to the floor and stood up unsteadily. You are the last man, said O’Brien.
+O’Brien did not speak. Two other voices were speaking. After a moment, Winston recognized one of them as his own. It was a soundtrack of the conversation he had had with O’Brien.
 
-You are the guardian of the human spirit.
+On the night when he had enrolled himself in the brotherhood, he heard himself promising to lie, to steal, to forge, to murder, to encourage drug-taking and prostitution, to disseminate venereal diseases, to throw vitriol in a child’s face. O’Brien made a small, impatient gesture, as though to say that the demonstration was hardly worth making. Then he turned a switch and the voices stopped. Get up from that bed, he said.
+
+The bonds had loosened themselves. Winston lowered himself to the floor and stood up unsteadily. You are the last man, said O’Brien. You are the guardian of the human spirit.
 
 
 <a id="sec-092457"></a>
@@ -3864,9 +4028,9 @@ He had long grown used to sleeping with a strong light on his face. It seemed to
 <a id="sec-093500"></a>
 ### ⏱️ [09:35:00 - 09:40:04]
 
-with his mother, with Julia, with O’Brien, not doing anything, merely sitting in the sun, talking of peaceful things. Such thoughts as he had when he was awake were mostly about his dreams. He seemed to have lost the power of intellectual effort, now that the stimulus of pain had been removed. He was not bored, he had no desire for conversation or distraction. Merely to be alone, not to be beaten or questioned, to have enough to eat, and to be clean all over, was completely satisfying.
+with his mother, with Julia, with O’Brien, not doing anything, merely sitting in the sun, talking of peaceful things. Such thoughts as he had when he was awake were mostly about his dreams. He seemed to have lost the power of intellectual effort, now that the stimulus of pain had been removed. He was not bored, he had no desire for conversation or distraction.
 
-By degrees he came to spend less time in sleep, but he still felt no impulse to get off the bed. All he cared for was to lie quiet and feel the strength gathering in his body. He would finger himself here and there, trying to make sure that it was not an illusion that his muscles were growing rounder and his skin tauter.
+Merely to be alone, not to be beaten or questioned, to have enough to eat, and to be clean all over, was completely satisfying. By degrees he came to spend less time in sleep, but he still felt no impulse to get off the bed. All he cared for was to lie quiet and feel the strength gathering in his body. He would finger himself here and there, trying to make sure that it was not an illusion that his muscles were growing rounder and his skin tauter.
 
 Finally, it was established beyond a doubt that he was growing fatter. His thighs were now definitely thicker than his knees. After that, reluctantly at first, he began exercising himself regularly. In a little while he could walk three kilometers, measured by pacing the cell, and his bowed shoulders were growing straighter.
 
@@ -3904,25 +4068,25 @@ products of self-deception, how easy it all was, only surrender, and everything 
 
 He hardly knew why he had ever rebelled. Everything was easy, except anything could be true. The so-called laws of nature were nonsense. The law of gravity was nonsense.
 
-If I wished, O’Brien had said, “I could float off this floor like a soap bubble.” Winston worked it out. If he thinks he floats off the floor, and if I simultaneously think I see him do it, then the thing happens.
+If. I wished, O’Brien had said, “I could float off this floor like a soap bubble.” Winston worked it out. If he thinks he floats off the floor, and if. I simultaneously think.
 
-Suddenly, like a lump of submerged wreckage breaking the surface of water, the thought burst into his mind. It doesn’t really happen. We imagine it. It is hallucination.
+I see him do it, then the thing happens. Suddenly, like a lump of submerged wreckage breaking the surface of water, the thought burst into his mind. It doesn’t really happen. We imagine it.
 
-He pushed the thought under instantly. The fallacy was obvious. It presupposed that somewhere or other, outside oneself, there was a real world where real things happened. But how could there be such a world?
+It is hallucination. He pushed the thought under instantly. The fallacy was obvious. It presupposed that somewhere or other, outside oneself, there was a real world where real things happened.
 
-What knowledge have we of anything saved through our own minds? All happenings are in the mind. Whatever happens in all minds truly happens. He had no difficulty in disposing of the fallacy, and he was in no danger of succumbing to it.
+But how could there be such a world? What knowledge have we of anything saved through our own minds? All happenings are in the mind. Whatever happens in all minds truly happens.
 
-He realized, nevertheless, that it ought never to have occurred to him. The mind should develop a blind spot whenever a dangerous thought presented itself. The process should be automatic, instinctive. Crime stop, they called it in newspeak.
+He had no difficulty in disposing of the fallacy, and he was in no danger of succumbing to it. He realized, nevertheless, that it ought never to have occurred to him. The mind should develop a blind spot whenever a dangerous thought presented itself. The process should be automatic, instinctive.
 
-He set to work to exercise himself in crime stop. He presented himself with propositions. The party says the earth is flat. The party says that ice is heavier than water, and trained himself in not seeing or not understanding the arguments that contradicted them.
+Crime stop, they called it in newspeak. He set to work to exercise himself in crime stop. He presented himself with propositions. The party says the earth is flat.
 
-It was not easy. It needed great powers of reasoning and improvisation. The arithmetical problems raised, for instance, by such a statement as two and two make five, were beyond his intellectual grasp. It needed also a sort of athleticism of mind, an ability at one moment to make the most delicate use of logic and at the next to be unconscious of the crudest logical errors.
+The party says that ice is heavier than water, and trained himself in not seeing or not understanding the arguments that contradicted them. It was not easy. It needed great powers of reasoning and improvisation. The arithmetical problems raised, for instance, by such a statement as two and two make five, were beyond his intellectual grasp.
 
-Stupidity was as necessary as intelligence, and as difficult to attain. All the while, with one part of his mind, he wondered how soon they would shoot him. Everything depends on yourself, O’Brien had said, but he knew that there was no conscious act by which he could bring it nearer. It might be ten minutes hence, or ten years.
+It needed also a sort of athleticism of mind, an ability at one moment to make the most delicate use of logic and at the next to be unconscious of the crudest logical errors. Stupidity was as necessary as intelligence, and as difficult to attain. All the while, with one part of his mind, he wondered how soon they would shoot him. Everything depends on yourself, O’Brien had said, but he knew that there was no conscious act by which he could bring it nearer.
 
-They might keep him for years in solitary confinement. They might send him to a labor camp. They might release him for a while, as they sometimes did. It was perfectly possible that before he was shot, the whole drama of his arrest and interrogation would be enacted all over again.
+It might be ten minutes hence, or ten years. They might keep him for years in solitary confinement. They might send him to a labor camp. They might release him for a while, as they sometimes did.
 
-The one, certain thing, was that death never came at an expected moment. The tradition, the unspoken tradition, somehow you knew it, though you never heard it said, was that they shot you from behind, always in the back of the head, without warning, as you walked down a corridor from cell to cell.
+It was perfectly possible that before he was shot, the whole drama of his arrest and interrogation would be enacted all over again. The one, certain thing, was that death never came at an expected moment. The tradition, the unspoken tradition, somehow you knew it, though you never heard it said, was that they shot you from behind, always in the back of the head, without warning, as you walked down a corridor from cell to cell.
 
 One day, but one day was not the right expression, just as probably it was in the middle of the night. Once, he fell into a strange, blissful reverie. He was walking down the corridor, waiting for the bullet. He knew that it was coming in another moment.
 
@@ -3930,7 +4094,7 @@ Everything was settled, smoothed out, reconciled. There were no more doubts, no 
 
 He was not any longer in the narrow white corridors in the Ministry of Love. He was in the enormous sunlit passage, a kilometer wide, down which he had seemed to walk in the delirium induced by drugs. He was in the golden country, following the foot-track across the old, rabbit-cropped pasture. He could feel the short springy turf under his feet, and the gentle sunshine on his face.
 
-At the edge of the field were the elm trees, faintly stirring, and somewhere beyond that was the stream, where the dace lay in the green pools under the willows. Suddenly he started out with a shock of horror. sweat broke out on his backbone. He had heard himself cry aloud,
+At the edge of the field were the elm trees, faintly stirring, and somewhere beyond that was the stream, where the dace lay in the green pools under the willows. Suddenly, he started out with a shock of horror. sweat broke out on his backbone. He had heard himself cry aloud,
 
 
 <a id="sec-094504"></a>
@@ -3970,9 +4134,9 @@ That was stupid. Stand up straighter. Look me in the face. He paused and went on
 
 You are improving. Intellectually, there is very little wrong with you. It is only emotionally that you have failed to make progress. Tell me, Winston, and remember, no lies.
 
-You know that I am always able to detect a lie. Tell me, what are your true feelings towards Big Brother? I hate him. You hate him.
+You know that. I am always able to detect a lie. Tell me, what are your true feelings towards Big Brother? I hate him.
 
-Good. Then the time has come for you to take the last step. You must love
+You hate him. Good. Then the time has come for you to take the last step. You must love
 
 
 <a id="sec-095007"></a>
@@ -3982,37 +4146,39 @@ Big Brother. It is not enough to obey him. You must love him. He released Winsto
 
 Room 101, he said.
 
-#### Chapter 5 At each stage of his imprisonment he had known, or seemed to know, whereabouts he was in the windowless building. Possibly there were slight differences in the air pressure. The cells where the guards had beaten him were below ground level. The room where he had been interrogated by O’Brien was high up near the roof.
+#### Chapter 5. At each stage of his imprisonment he had known, or seemed to know, whereabouts he was in the windowless building. Possibly there were slight differences in the air pressure. The cells where the guards had beaten him were below ground level.
 
-This place was many metres underground, as deep down as it was possible to go. It was bigger than most of the cells he had been in, but he hardly noticed his surroundings. All he noticed was that there were two small tables straight in front of him, each covered with green bays. One was only a metre or two from him.
+The room where he had been interrogated by O’Brien was high up near the roof. This place was many metres underground, as deep down as it was possible to go. It was bigger than most of the cells he had been in, but he hardly noticed his surroundings. All he noticed was that there were two small tables straight in front of him, each covered with green bays.
 
-The other was further away, near the door. He was strapped upright in a chair, so tightly that he could move nothing, not even his head. A sort of pad gripped his head from behind, forcing him to look straight in front of him. For a moment he was alone.
+One was only a metre or two from him. The other was further away, near the door. He was strapped upright in a chair, so tightly that he could move nothing, not even his head. A sort of pad gripped his head from behind, forcing him to look straight in front of him.
 
-Then the door opened, and O’Brien came in. You asked me once, said O’Brien. What was in Room 101? I told you that you knew the answer already.
+For a moment he was alone. Then the door opened, and O’Brien came in. You asked me once, said O’Brien. What was in Room 101?
 
-Everyone knows it. The thing that is in Room 101 is the worst thing in the world. The door opened again. A guard came in carrying something made of wire, a box or basket of some kind.
+I told you that you knew the answer already. Everyone knows it. The thing that is in Room 101 is the worst thing in the world. The door opened again.
 
-He set it down on the further table. Because of the position in which O’Brien was standing, Winston could not see what the thing was. The worst thing in the world, said O’Brien, varies from individual to individual. It may be burial alive, or death by fire, or by drowning, or by impalement, or fifty other deaths.
+A guard came in carrying something made of wire, a box or basket of some kind. He set it down on the further table. Because of the position in which O’Brien was standing, Winston could not see what the thing was. The worst thing in the world, said O’Brien, varies from individual to individual.
 
-There are cases where it is some quite trivial thing, not even fatal. He had moved a little to one side, so that Winston had a better view of the thing on the table. It was an oblong wire cage with a handle on top for carrying it by. Fixed to the front of it was something that looked like a fencing mask, with the concave side outwards.
+It may be burial alive, or death by fire, or by drowning, or by impalement, or fifty other deaths. There are cases where it is some quite trivial thing, not even fatal. He had moved a little to one side, so that Winston had a better view of the thing on the table. It was an oblong wire cage with a handle on top for carrying it by.
 
-Though it was three or four metres away from him, he could see that the cage was divided lengthways into two compartments, and that there was some kind of creature in each. They were rats. In your case, said O’Brien, the worst thing in the world happens to be rats. A sort of premonitory tremor, a fear of he was not certain what, had passed through Winston as soon as he caught his first glimpse of the cage.
+Fixed to the front of it was something that looked like a fencing mask, with the concave side outwards. Though it was three or four metres away from him, he could see that the cage was divided lengthways into two compartments, and that there was some kind of creature in each. They were rats. In your case, said O’Brien, the worst thing in the world happens to be rats.
 
-But at this moment the meaning of the mask-like attachment in front of it suddenly sank into him. His bowels seemed to turn to water. You can’t do that, he cried out in a high-cracked voice. You couldn’t, you couldn’t, it’s impossible.
+A sort of premonitory tremor, a fear of he was not certain what, had passed through Winston as soon as he caught his first glimpse of the cage. But at this moment the meaning of the mask-like attachment in front of it suddenly sank into him. His bowels seemed to turn to water. You can’t do that, he cried out in a high-cracked voice.
 
-Do you remember, said O’Brien, the moment of panic that used to occur in your dreams? There was a wall of blackness in front of you, and a roaring sound in your ears. There was something terrible on the other side of the wall. You knew that you knew what it was, but you dared not drag it into the open.
+You couldn’t, you couldn’t, it’s impossible. Do you remember, said O’Brien, the moment of panic that used to occur in your dreams? There was a wall of blackness in front of you, and a roaring sound in your ears. There was something terrible on the other side of the wall.
 
-It was the rats that were on the other side of the wall. O’Brien, said Winston, making an effort to control his voice, you know this is not necessary, what is it that you want me to do? O’Brien made no direct answer. When he spoke it was in the school masterish manner that he sometimes affected.
+You knew that you knew what it was, but you dared not drag it into the open. It was the rats that were on the other side of the wall. O’Brien, said Winston, making an effort to control his voice, you know this is not necessary, what is it that you want me to do? O’Brien made no direct answer.
 
-He looked thoughtfully into the distance, as though he were addressing an audience somewhere behind Winston’s back. By itself, he said, pain is not always enough. There are occasions when a human being will stand out against pain, even to the point of death. But for everyone there is something unendurable, something that cannot be contemplated.
+When he spoke it was in the school masterish manner that he sometimes affected. He looked thoughtfully into the distance, as though he were addressing an audience somewhere behind Winston’s back. By itself, he said, pain is not always enough. There are occasions when a human being will stand out against pain, even to the point of death.
 
-Courage and cowardice are not involved. If you are falling from a height, it is not cowardly to clutch at a rope. If you have come up from deep water, it is not cowardly to fill your lungs with air. It is merely an instinct which cannot be destroyed.
+But for everyone there is something unendurable, something that cannot be contemplated. Courage and cowardice are not involved. If you are falling from a height, it is not cowardly to clutch at a rope. If you have come up from deep water, it is not cowardly to fill your lungs with air.
 
-It is the same with the rats. For you, they are unendurable. They are a form of pressure that you cannot withstand, even if you wish to. You will do what is required of you.
+It is merely an instinct which cannot be destroyed. It is the same with the rats. For you, they are unendurable. They are a form of pressure that you cannot withstand, even if you wish to.
 
-But what is it? What is it? How can I do it if I don’t know what it is? O’Brien picked up the cage and brought it across to the nearer table.
+You will do what is required of you. But what is it? What is it? How can.
 
-He set it down carefully on the bay’s cloth. Winston could hear the blood singing in his ears. He had the feeling of sitting in utter loneliness. He was in the middle of a great empty plain, a flat desert drenched with sunlight, across which all sounds came to him out of
+I do it if. I don’t know what it is? O’Brien picked up the cage and brought it across to the nearer table. He set it down carefully on the bay’s cloth.
+
+Winston could hear the blood singing in his ears. He had the feeling of sitting in utter loneliness. He was in the middle of a great empty plain, a flat desert drenched with sunlight, across which all sounds came to him out of
 
 
 <a id="sec-095511"></a>
@@ -4032,13 +4198,13 @@ Winston made a frantic effort to tear himself loose from the chair. It was hopel
 
 It was less than a metre from Winston’s face. I have pressed the first lever, said O’Brien. You understand the construction of this cage. The mask will fit over your head, leaving no exit.
 
-When I press this other lever, the door of the cage will slide up. These starving brutes will shoot out of it like bullets. Have you ever seen a rat leap through the air? They will leap onto your face and bore straight into it.
+When. I press this other lever, the door of the cage will slide up. These starving brutes will shoot out of it like bullets. Have you ever seen a rat leap through the air?
 
-Sometimes they attack the eyes first. Sometimes they burrow through the cheeks and devour the tongue. The cage was nearer. It was closing in.
+They will leap onto your face and bore straight into it. Sometimes they attack the eyes first. Sometimes they burrow through the cheeks and devour the tongue. The cage was nearer.
 
-Winston heard a succession of shrill cries which appeared to be occurring in the air above his head. But he fought furiously against his panic, to think, to think, even with a split second left, to think was the only hope.
+It was closing in. Winston heard a succession of shrill cries which appeared to be occurring in the air above his head. But he fought furiously against his panic, to think, to think, even with a split second left, to think was the only hope.
 
-Suddenly the foul musty odour of the brutes struck his nostrils. There was a violent convulsion of nausea inside him, and he almost lost consciousness. Everything had gone black. For an instant he was insane.
+Suddenly, the foul musty odour of the brutes struck his nostrils. There was a violent convulsion of nausea inside him, and he almost lost consciousness. Everything had gone black. For an instant he was insane.
 
 A screaming animal. Yet he came out of the blackness clutching an idea. There was one and only one way to save himself. He must interpose another human being, the body of another human being, between himself and the rats.
 
@@ -4048,7 +4214,7 @@ The other, an old scaly grandfather of the sewers, stood up with his pink hands 
 
 It was a common punishment in Imperial China, said O’Brien, as didactically as ever. The mask was closing on his face, the wire brushed his cheek. And then, no, it was not relief, only hope. A tiny fragment of hope.
 
-Too late. Perhaps too late. But he had suddenly understood that in the whole world there was just one person to whom he could transfer his punishment. One body that he could thrust between himself and the rats, and he was shouting frantically, over and over.
+Too late. Perhaps, too late. But he had suddenly understood that in the whole world there was just one person to whom he could transfer his punishment. One body that he could thrust between himself and the rats, and he was shouting frantically, over and over.
 
 Do it to Julia, do it to Julia, not me. Julia, I don’t care what you do to her, tear her face off, strip her to the bones. Not me, Julia, not me. He was falling backwards, into enormous depths, away from the rats.
 
@@ -4164,19 +4330,19 @@ But suddenly, this process of trailing along in the cold seemed pointless and un
 
 The next moment, not altogether by accident, he allowed himself to become separated from her by a small knot of people. He made a half-hearted attempt to catch up, then slowed down, turned, and made off in the opposite direction. When he had gone fifty metres, he looked back. The street was not crowded, but already he could not distinguish her.
 
-Any one of a dozen hurrying figures might have been hers. Perhaps her thickened, stiffened body was no longer recognisable from behind. At the time when it happens, she had said, you do mean it. He had meant it.
+Any one of a dozen hurrying figures might have been hers. Perhaps, her thickened, stiffened body was no longer recognisable from behind. At the time when it happens, she had said, you do mean it. He had meant it.
 
 He had not merely said it. He had wished it. He had wished that she, and not he, should be delivered over to the… Something changed in the music that trickled from the telly screen.
 
-A cracked and jeering note, a yellow note, came into it. And then, perhaps it was not happening. Perhaps it was only a memory taking on the semblance of sound. A voice was singing, under the spreading chestnut tree I sold you and you sold me.
+A cracked and jeering note, a yellow note, came into it. And then, perhaps it was not happening. Perhaps, it was only a memory taking on the semblance of sound. A voice was singing, under the spreading chestnut tree.
 
-The tears welled up in his eyes. A passing waiter noticed that his glass was empty and came back with the gin bottle. He took up his glass and sniffed at it. The stuff grew not less but more horrible with every mouthful he drank, but it had become the element he swam in.
+I sold you and you sold me. The tears welled up in his eyes. A passing waiter noticed that his glass was empty and came back with the gin bottle. He took up his glass and sniffed at it.
 
-It was his life, his death, and his resurrection. It was gin that sank him into stupor every night, and gin that revived him every morning. When he woke, seldom before eleven hundred, with gummed up eyelids and fiery mouth and a back that seemed to be broken, it would have been impossible even to rise from the horizontal if it had not been for the bottle and teacup placed beside the bed overnight. Through the midday hours, he sat with glazed face, the bottle handy, listening to the telly screen.
+The stuff grew not less but more horrible with every mouthful he drank, but it had become the element he swam in. It was his life, his death, and his resurrection. It was gin that sank him into stupor every night, and gin that revived him every morning. When he woke, seldom before eleven hundred, with gummed up eyelids and fiery mouth and a back that seemed to be broken, it would have been impossible even to rise from the horizontal if it had not been for the bottle and teacup placed beside the bed overnight.
 
-From fifteen to closing time, he was a fixture in the chestnut tree. No one cared what he did any longer. No whistle woke him. No teller screen admonished him.
+Through the midday hours, he sat with glazed face, the bottle handy, listening to the telly screen. From fifteen to closing time, he was a fixture in the chestnut tree. No one cared what he did any longer. No whistle woke him.
 
-Occasionally, perhaps twice a week, he went to a dusty, forgotten-looking office in the Ministry of Truth and did a little work, or what was called work. He had been appointed to a subcommittee of a subcommittee which had sprouted from one of the innumerable committees dealing with minor difficulties that arose in the compilation
+No teller screen admonished him. Occasionally, perhaps twice a week, he went to a dusty, forgotten-looking office in the Ministry of Truth and did a little work, or what was called work. He had been appointed to a subcommittee of a subcommittee which had sprouted from one of the innumerable committees dealing with minor difficulties that arose in the compilation
 
 
 <a id="sec-101519"></a>
@@ -4194,19 +4360,19 @@ He drank another mouthful of gin, picked up the white knight and made a tentativ
 
 It was a moment of reconciliation when the nagging hunger in his belly was forgotten and his earlier affection for her had temporarily revived. He remembered the day well, a pelting, drenching day when the water streamed down the windowpane and the light indoors was too dull to read by. The boredom of the two children in the dark, cramped bedroom became unbearable. Winston whined and grizzled, made futile demands for food, fretted about the room pulling everything out of place and kicking the wainscoting until the neighbours banged on the wall while the younger child wailed intermittently.
 
-In the end his mother said, “Now be good and I’ll buy you a toy, a lovely toy, you’ll love it, and then she had gone out in the rain to a little general shop which was still sporadically open nearby and came back with a cardboard box containing an outfit of snakes and ladders.” He could still remember the smell of the damp cardboard. It was a miserable outfit. The board was cracked and the tiny wooden dice were so ill cut that they would hardly lie on their sides.
+In the end his mother said, “Now be good and. I’ll buy you a toy, a lovely toy, you’ll love it, and then she had gone out in the rain to a little general shop which was still sporadically open nearby and came back with a cardboard box containing an outfit of snakes and ladders.”. He could still remember the smell of the damp cardboard. It was a miserable outfit.
 
-Winston looked at the thing, sulkily and without interest. But then his mother lit a piece of candle and they sat down on the floor to play. Soon he was wildly excited and shouting with laughter as the tiddly winks climbed hopefully up the ladders and then came slithering down the snakes again almost to the starting point. They played eight games, winning four each.
+The board was cracked and the tiny wooden dice were so ill cut that they would hardly lie on their sides. Winston looked at the thing, sulkily and without interest. But then his mother lit a piece of candle and they sat down on the floor to play. Soon he was wildly excited and shouting with laughter as the tiddly winks climbed hopefully up the ladders and then came slithering down the snakes again almost to the starting point.
 
-His tiny sister, too young to understand what the game was about, had sat propped up against a bolster, laughing because the others were laughing. For a whole afternoon they had all been happy together, as in his earlier childhood. He pushed the picture out of his mind. It was a false memory.
+They played eight games, winning four each. His tiny sister, too young to understand what the game was about, had sat propped up against a bolster, laughing because the others were laughing. For a whole afternoon they had all been happy together, as in his earlier childhood. He pushed the picture out of his mind.
 
-He was troubled by false memories occasionally. They did not matter so long as one knew them for what they were. Some things had happened, others had not happened. He turned back to the chessboard and picked up the white knight again.
+It was a false memory. He was troubled by false memories occasionally. They did not matter so long as one knew them for what they were. Some things had happened, others had not happened.
 
-Almost in the same instant it dropped onto the board with a clatter. He had started as though a pin had run into him. A shrill trumpet call had pierced the air. It was the bulletin, victory.
+He turned back to the chessboard and picked up the white knight again. Almost in the same instant it dropped onto the board with a clatter. He had started as though a pin had run into him. A shrill trumpet call had pierced the air.
 
-It always meant victory when a trumpet call preceded the news. A sort of electric drill ran through the café. Even the waiters had started and pricked up their ears. The trumpet call had let loose an enormous volume of noise.
+It was the bulletin, victory. It always meant victory when a trumpet call preceded the news. A sort of electric drill ran through the café. Even the waiters had started and pricked up their ears.
 
-Already an excited voice was gabbling from the telly screen. But even as it started it was almost drowned by a roar of cheering from outside.
+The trumpet call had let loose an enormous volume of noise. Already an excited voice was gabbling from the telly screen. But even as it started it was almost drowned by a roar of cheering from outside.
 
 
 <a id="sec-102019"></a>
@@ -4230,11 +4396,11 @@ Everything was all right. The struggle was finished. He had won the victory over
 
 The Principles of New Speak New Speak was the official language of Oceania, and had been devised to meet the ideological needs of Ingsoc, or English socialism. In the year 1984, there was not as yet anyone who used New Speak as his sole means of communication, either in speech or writing. The leading articles in The Times were written in it, but this was a tour de force which could only be carried out by a specialist. It was expected that New Speak would have finally superseded Old Speak, or Standard English as we should call it, by about the year 2050.
 
-Meanwhile it gained ground steadily, all party members tending to use New Speak words and grammatical constructions more and more in their everyday speech. The version in use in 1984, and embodied in the ninth and tenth editions of the New Speak dictionary, was a provisional one, and contained many superfluous words and archaic formations which were due to be suppressed later. It is with the final, perfected version, as embodied in the eleventh edition of the dictionary, that we are concerned here. The purpose of New Speak was not only to provide a medium of expression for the worldview and mental habits proper to the devotees of Ingsoc, but to make all other modes of thought impossible.
+Meanwhile, it gained ground steadily, all party members tending to use New Speak words and grammatical constructions more and more in their everyday speech. The version in use in 1984, and embodied in the ninth and tenth editions of the New Speak dictionary, was a provisional one, and contained many superfluous words and archaic formations which were due to be suppressed later. It is with the final, perfected version, as embodied in the eleventh edition of the dictionary, that we are concerned here.
 
-It was intended that when New Speak had been adopted once and for all, and Old Speak forgotten, a heretical thought, that is, a thought diverging from the principles of Ingsoc, should be literally unthinkable, at least so far as thought is dependent on words. Its vocabulary was so constructed as to give exact and often very subtle expression to every meaning that a party member could properly wish to express, while excluding all other meanings and also the possibility of arriving at them by indirect methods.
+The purpose of New Speak was not only to provide a medium of expression for the worldview and mental habits proper to the devotees of Ingsoc, but to make all other modes of thought impossible. It was intended that when New Speak had been adopted once and for all, and Old Speak forgotten, a heretical thought, that is, a thought diverging from the principles of Ingsoc, should be literally unthinkable, at least so far as thought is dependent on words.
 
-This was done partly by the invention of new words, but chiefly by eliminating undesirable
+Its vocabulary was so constructed as to give exact and often very subtle expression to every meaning that a party member could properly wish to express, while excluding all other meanings and also the possibility of arriving at them by indirect methods. This was done partly by the invention of new words, but chiefly by eliminating undesirable
 
 
 <a id="sec-102521"></a>
@@ -4250,37 +4416,39 @@ It was composed almost entirely of words that we already possess words like hit,
 
 It would have been quite impossible to use the A vocabulary for literary purposes or for political or philosophical discussion. It was intended only to express simple, purposive thoughts, usually involving concrete objects or physical actions. The grammar of New Speak had two outstanding peculiarities. The first of these was an almost complete interchangeability between different parts of speech.
 
-Any word in the language, in principle this applied even to very abstract words such as if or when, could be used either as verb, noun, adjective, or adverb. Between the verb and the noun form, when they were of the same root, there was never any variation. This rule of itself involving the destruction of many archaic forms. The word thought, for example, did not exist in New Speak. Its place was taken by think, which did duty for both noun and verb.
+Any word in the language, in principle this applied even to very abstract words such as if or when, could be used either as verb, noun, adjective, or adverb. Between the verb and the noun form, when they were of the same root, there was never any variation. This rule of itself involving the destruction of many archaic forms. The word thought, for example, did not exist in New Speak.
 
-No etymological principle was followed here. In some cases it was the original noun that was chosen for retention, in other cases the verb. Even where a noun and verb of kindred meaning were not etymologically connected, one or other of them was frequently suppressed. There was, for example, no such word as cut, its meaning being sufficiently covered by the noun verb knife.
+Its place was taken by think, which did duty for both noun and verb. No etymological principle was followed here. In some cases it was the original noun that was chosen for retention, in other cases the verb. Even where a noun and verb of kindred meaning were not etymologically connected, one or other of them was frequently suppressed.
 
-Adjectives were formed by adding the suffix full to the noun verb, and adverbs by adding wise. Thus, for example, speedful meant rapid, and speedwise meant quickly. Certain of our present day adjectives, such as good, strong, big, black, soft, were retained, but their total number was very small. There was little need for them, since almost any adjectival meaning could be arrived at by adding full to a noun verb.
+There was, for example, no such word as cut, its meaning being sufficiently covered by the noun verb knife. Adjectives were formed by adding the suffix full to the noun verb, and adverbs by adding wise. Thus, for example, speedful meant rapid, and speedwise meant quickly. Certain of our present day adjectives, such as good, strong, big, black, soft, were retained, but their total number was very small.
 
-None of the now existing adverbs was retained, except for a very few already ending in wise. The wise termination was invariable. The word well for ex… example, was replaced by good-wise. In addition, any word, this again applied in principle to every word in the language, could be negatived by adding the affix un, or could be strengthened by the affix plus, or for still greater emphasis, double plus.
+There was little need for them, since almost any adjectival meaning could be arrived at by adding full to a noun verb. None of the now existing adverbs was retained, except for a very few already ending in wise. The wise termination was invariable. The word well for ex… example, was replaced by good-wise.
 
-Thus, for example, uncold meant warm, while plus-cold and double-plus-cold meant respectively very cold and superlatively
+In addition, any word, this again applied in principle to every word in the language, could be negatived by adding the affix un, or could be strengthened by the affix plus, or for still greater emphasis, double plus. Thus, for example, uncold meant warm, while plus-cold and double-plus-cold meant respectively very cold and superlatively
 
 
 <a id="sec-103026"></a>
 ### ⏱️ [10:30:26 - 10:35:28]
 
-cold. It was also possible, as in present-day English, to modify the meaning of almost any word by prepositional affixes such as ante, post, up, down, etc. By such methods it was found possible to bring about an enormous diminution of vocabulary. Given, for instance, the word good, there was no need for such a word as bad, since the required meaning was equally well, indeed better, expressed by ungood. All that was necessary, in any case where two words formed a natural pair of opposites, was to decide which of them to suppress.
+cold. It was also possible, as in present-day English, to modify the meaning of almost any word by prepositional affixes such as ante, post, up, down, etc. By such methods it was found possible to bring about an enormous diminution of vocabulary. Given, for instance, the word good, there was no need for such a word as bad, since the required meaning was equally well, indeed better, expressed by ungood.
 
-Dark, for example, could be replaced by unlight, or light by undark, according to preference. The second distinguishing mark of newspeak grammar was its regularity, subject to a few exceptions which are mentioned below all inflections followed the same rules. Thus, in all verbs, the preterite and the past participle were the same and ended in ed. The preterite of steal was steeled, the preterite of think was thinked, and so on throughout the language.
+All that was necessary, in any case where two words formed a natural pair of opposites, was to decide which of them to suppress. Dark, for example, could be replaced by unlight, or light by undark, according to preference. The second distinguishing mark of newspeak grammar was its regularity, subject to a few exceptions which are mentioned below all inflections followed the same rules. Thus, in all verbs, the preterite and the past participle were the same and ended in ed.
 
-All such forms as swam, gave, brought, spoke, taken, etc., being abolished. All plurals were made by adding s, or s, as the case might be. The plurals of man, ox, life, were man’s, ox’s, life’s. Comparison of adjectives was invariably made by adding er and est, good, gooder, goodest, irregular forms and the more, most formation being suppressed.
+The preterite of steal was steeled, the preterite of think was thinked, and so on throughout the language. All such forms as swam, gave, brought, spoke, taken, etc., being abolished. All plurals were made by adding s, or s, as the case might be. The plurals of man, ox, life, were man’s, ox’s, life’s.
 
-The only classes of words that were still allowed to inflect irregularly were the pronouns, the relatives, the demonstrative adjectives, and the auxiliary verbs. All of these followed their ancient usage, except that whom had been scrapped as unnecessary, and the shall and should tenses had been dropped, all their uses being covered by will and would. There were also certain irregularities in word formation arising out of the need for rapid and easy speech. A word which was difficult to utter, or was liable to be incorrectly heard, was held to be ipso facto a bad word.
+Comparison of adjectives was invariably made by adding er and est, good, gooder, goodest, irregular forms and the more, most formation being suppressed. The only classes of words that were still allowed to inflect irregularly were the pronouns, the relatives, the demonstrative adjectives, and the auxiliary verbs. All of these followed their ancient usage, except that whom had been scrapped as unnecessary, and the shall and should tenses had been dropped, all their uses being covered by will and would.
 
-Occasionally, therefore, for the sake of euphony, extra letters were inserted into a word or an archaic formation was retained. But this need made itself felt chiefly in connection with the B vocabulary. Why so great an importance was attached to ease of pronunciation will be made clear later in this essay. The B vocabulary.
+There were also certain irregularities in word formation arising out of the need for rapid and easy speech. A word which was difficult to utter, or was liable to be incorrectly heard, was held to be ipso facto a bad word. Occasionally, therefore, for the sake of euphony, extra letters were inserted into a word or an archaic formation was retained. But this need made itself felt chiefly in connection with the B vocabulary.
 
-The B vocabulary consisted of words which had been deliberately constructed for political purposes. Words, that is to say, which not only had in every case a political implication, but were intended to impose a desirable mental attitude upon the person using them. Without a full understanding of the principles of Ingsoc it was difficult to use these words correctly. In some cases they could be translated into old speak or even into words taken from the A vocabulary, but this usually demanded a long paraphrase and always involved the loss of certain overtones.
+Why so great an importance was attached to ease of pronunciation will be made clear later in this essay. The B vocabulary. The B vocabulary consisted of words which had been deliberately constructed for political purposes. Words, that is to say, which not only had in every case a political implication, but were intended to impose a desirable mental attitude upon the person using them.
 
-The B words were a sort of verbal shorthand, often packing whole ranges of ideas into a few syllables, and at the same time more accurate and forcible than ordinary language. The B words were in all cases compound words. Compound words such as speak right were of course to be found in the A vocabulary, but these were merely convenient abbreviations and had no special ideological colour. They consisted of two or more words or portions of words, welded together in an easily pronounceable form.
+Without a full understanding of the principles of Ingsoc it was difficult to use these words correctly. In some cases they could be translated into old speak or even into words taken from the A vocabulary, but this usually demanded a long paraphrase and always involved the loss of certain overtones. The B words were a sort of verbal shorthand, often packing whole ranges of ideas into a few syllables, and at the same time more accurate and forcible than ordinary language.
 
-The resulting amalgam was always a noun verb and inflected according to the ordinary rules. To take a single example, the word good think meaning very roughly, orthodoxy, or if one chose to regard it as a verb, to think in an orthodox manner. This inflected as follows. Noun verb, good think, past tense and past participle, good think, present participle, good thinking, adjective, good thinkful, adverb, good think wise, verbal noun, good thinker.
+The B words were in all cases compound words. Compound words such as speak right were of course to be found in the A vocabulary, but these were merely convenient abbreviations and had no special ideological colour. They consisted of two or more words or portions of words, welded together in an easily pronounceable form. The resulting amalgam was always a noun verb and inflected according to the ordinary rules.
 
-The B words were not constructed on any etymological plan. The words of which they were made up could be any parts of speech and could be placed in any order and mutilated in any way which made them easy to pronounce while indicating their derivation. In the word crime think, thought crime, for instance, the think came second, whereas in think poll, thought police, it came first, and in the latter word police had lost
+To take a single example, the word good think meaning very roughly, orthodoxy, or if one chose to regard it as a verb, to think in an orthodox manner. This inflected as follows. Noun verb, good think, past tense and past participle, good think, present participle, good thinking, adjective, good thinkful, adverb, good think wise, verbal noun, good thinker. The B words were not constructed on any etymological plan.
+
+The words of which they were made up could be any parts of speech and could be placed in any order and mutilated in any way which made them easy to pronounce while indicating their derivation. In the word crime think, thought crime, for instance, the think came second, whereas in think poll, thought police, it came first, and in the latter word police had lost
 
 
 <a id="sec-103528"></a>
@@ -4294,15 +4462,15 @@ Consider, for example, such a typical sentence from a Times leading article as O
 
 And in addition, only a person thoroughly grounded in Ingsock could appreciate the full force of the word Belly Feel, which implied a blind, enthusiastic acceptance difficult to imagine today, or of the word Old Think, which was inextricably mixed up with the idea of wickedness and decadence. But the special function of certain New Speak words, of which Old Think was one, was not so much to express meanings as to destroy them. These words, necessarily few in number, had had their meanings extended until they contained within themselves whole batteries of words which, as they were sufficiently covered by a single comprehensive term, could now be scrapped and forgotten.
 
-The greatest difficulty facing the compilers of the New Speak dictionary was not to invent new words, but having invented them to make sure what they meant. To make sure, that is to say, what ranges of words they cancelled by their existence. As we have already seen in the case of the word Free, words which had once born a heretical meaning were sometimes retained for the sake of convenience, but only with the undesirable meanings purged out of them. Countless other words such as Honour, Justice, Morality, Internationalism, Democracy, Science, and Religion had simply ceased to exist.
+The greatest difficulty facing the compilers of the New Speak dictionary was not to invent new words, but having invented them to make sure what they meant. To make sure, that is to say, what ranges of words they cancelled by their existence. As we have already seen in the case of the word Free, words which had once born a heretical meaning were sometimes retained for the sake of convenience, but only with the undesirable meanings purged out of them.
 
-A few blanket words covered them, and in covering them, abolished them. All words grouping themselves around the concepts of liberty and equality, for instance, were contained in the single word Crime Think, while all words grouping themselves around the concepts of Objectivity and Rationalism were contained in the single word Old Think. Greater precision would have been dangerous. What was required in a party member was an outlook similar to that of the ancient Hebrew who knew, without knowing much else, that all nations other than his own worshipped false gods.
+Countless other words such as Honour, Justice, Morality, Internationalism, Democracy, Science, and Religion had simply ceased to exist. A few blanket words covered them, and in covering them, abolished them. All words grouping themselves around the concepts of liberty and equality, for instance, were contained in the single word Crime Think, while all words grouping themselves around the concepts of Objectivity and Rationalism were contained in the single word Old Think. Greater precision would have been dangerous.
 
-He did not need to know that these gods were called Baal, Osiris, Moloch, Ashtaroth, and the like. Probably the less he knew about them the better for his orthodoxy. He knew Jehovah and the commandments of Jehovah. He knew, therefore, that all gods with other names or other attributes were false gods.
+What was required in a party member was an outlook similar to that of the ancient Hebrew who knew, without knowing much else, that all nations other than his own worshipped false gods. He did not need to know that these gods were called Baal, Osiris, Moloch, Ashtaroth, and the like. Probably the less he knew about them the better for his orthodoxy. He knew Jehovah and the commandments of Jehovah.
 
-In somewhat the same way, the party member knew what constituted right conduct, and in exceedingly vague, generalized terms, he knew what kinds of departure from it were possible. His sexual life, for example, was entirely regulated by the two new-speak words, sex crime, sexual immorality, and good sex, chastity. Sex crime covered all sexual misdeeds whatever. It covered fornication, adultery, homosexuality, and other perversions, and in addition, normal intercourse practiced for its own sake.
+He knew, therefore, that all gods with other names or other attributes were false gods. In somewhat the same way, the party member knew what constituted right conduct, and in exceedingly vague, generalized terms, he knew what kinds of departure from it were possible. His sexual life, for example, was entirely regulated by the two new-speak words, sex crime, sexual immorality, and good sex, chastity. Sex crime covered all sexual misdeeds whatever.
 
-There was no need to enumerate them separately, since they were all equally culpable, and in principle, all punishable by death. In the C vocabulary, which consisted of scientific and technical words, it might be necessary to give specialized names to certain sexual aberrations, but the ordinary citizen had no need of them. He knew what was meant by good sex, that is to say, normal intercourse between man and wife, for the sole purpose of begetting children and without physical pleasure on the part of the woman.
+It covered fornication, adultery, homosexuality, and other perversions, and in addition, normal intercourse practiced for its own sake. There was no need to enumerate them separately, since they were all equally culpable, and in principle, all punishable by death. In the C vocabulary, which consisted of scientific and technical words, it might be necessary to give specialized names to certain sexual aberrations, but the ordinary citizen had no need of them. He knew what was meant by good sex, that is to say, normal intercourse between man and wife, for the sole purpose of begetting children and without physical pleasure on the part of the woman.
 
 All else was sex crime. In new-speak, it was seldom possible to follow a heretical thought further than the perception that it was heretical. Beyond that point, the necessary words were non-existent.
 
@@ -4310,21 +4478,21 @@ All else was sex crime. In new-speak, it was seldom possible to follow a heretic
 <a id="sec-104029"></a>
 ### ⏱️ [10:40:29 - 10:45:34]
 
-No word in the B vocabulary was ideologically neutral. A great many were euphemisms. Such words, for instance, as joy camp, forced labor camp, or minipax, ministry of peace, that is ministry of war, meant almost the exact opposite of what they appeared to mean. Some words, on the other hand, displayed a frank and contemptuous understanding of the real nature of oceanic society. An example was prolafide, meaning the rubbishy entertainment and spurious news which the party handed out to the masses.
+No word in the B vocabulary was ideologically neutral. A great many were euphemisms. Such words, for instance, as joy camp, forced labor camp, or minipax, ministry of peace, that is ministry of war, meant almost the exact opposite of what they appeared to mean. Some words, on the other hand, displayed a frank and contemptuous understanding of the real nature of oceanic society.
 
-Other words, again, were ambivalent, having the connotation good when applied to the party, and bad when applied to its enemies. But in addition, there were great numbers of words which at first sight appeared to be mere abbreviations, and which derived their ideological color not from their meaning, but from their structure. So far as it could be contrived, everything that had or might have political significance of any kind was fitted into the B vocabulary. The name of every organization, or body of people, or doctrine, or country, or institution, or public building, was invariably cut down into the familiar shape.
+An example was prolafide, meaning the rubbishy entertainment and spurious news which the party handed out to the masses. Other words, again, were ambivalent, having the connotation good when applied to the party, and bad when applied to its enemies. But in addition, there were great numbers of words which at first sight appeared to be mere abbreviations, and which derived their ideological color not from their meaning, but from their structure. So far as it could be contrived, everything that had or might have political significance of any kind was fitted into the B vocabulary.
 
-That is, a single, easily pronounced word with the smallest number of syllables that would preserve the original derivation. In the Ministry of Truth, for example, the Records Department, in which Winston Smith worked, was called rectep, the Fiction Department was called fictep, the Teleprograms Department was called teledep, and so on. This was not done solely with the object of saving time. Even in the early decades of the 20th century, telescoped words and phrases had been one of the characteristic features of political language, and it had been noticed that the tendency to use abbreviations of this kind was most marked in totalitarian countries and totalitarian organizations.
+The name of every organization, or body of people, or doctrine, or country, or institution, or public building, was invariably cut down into the familiar shape. That is, a single, easily pronounced word with the smallest number of syllables that would preserve the original derivation. In the Ministry of Truth, for example, the Records Department, in which Winston Smith worked, was called rectep, the Fiction Department was called fictep, the Teleprograms Department was called teledep, and so on. This was not done solely with the object of saving time.
 
-Examples were such words as Nazi, Gestapo, Comintern, Imprecore, Ajitprop. In the beginning, the practice had been adopted as it were instinctively, but in newspeak it was used with a conscious purpose. It was perceived that in thus abbreviating a name, one narrowed and subtly altered its meaning by cutting out most of the associations that would otherwise cling to it. The words, Communist International, for instance, call up a composite picture of universal human brotherhood, red flags, barricades, Karl Marx, and the Paris Commune.
+Even in the early decades of the 20th century, telescoped words and phrases had been one of the characteristic features of political language, and it had been noticed that the tendency to use abbreviations of this kind was most marked in totalitarian countries and totalitarian organizations. Examples were such words as Nazi, Gestapo, Comintern, Imprecore, Ajitprop. In the beginning, the practice had been adopted as it were instinctively, but in newspeak it was used with a conscious purpose. It was perceived that in thus abbreviating a name, one narrowed and subtly altered its meaning by cutting out most of the associations that would otherwise cling to it.
 
-The word Comintern, on the other hand, suggests merely a tightly knit organization and a well-defined body of doctrine. It refers to something almost as easily recognized and as limited in purpose as a chair or a table. Comintern is a word that can be uttered almost without taking thought, whereas Communist International is a phrase over which one is obliged to linger at least momentarily. In the same way, the associations called up by a word like minitru are fewer and more controllable than those called up by ministry of truth.
+The words, Communist International, for instance, call up a composite picture of universal human brotherhood, red flags, barricades, Karl Marx, and the Paris Commune. The word Comintern, on the other hand, suggests merely a tightly knit organization and a well-defined body of doctrine. It refers to something almost as easily recognized and as limited in purpose as a chair or a table. Comintern is a word that can be uttered almost without taking thought, whereas Communist International is a phrase over which one is obliged to linger at least momentarily.
 
-This accounted not only for the habit of abbreviating whenever possible, but also for the almost exaggerated care that was taken to make every word easily pronounceable. In newspeak, euphony outweighed every consideration other than exactitude of meaning. Regularity of grammar was always sacrificed to it when it seemed necessary, and rightly so, since what was required, above all for political purposes, was short-clipped words of unmistakable meaning which could be uttered rapidly and which roused the minimum of echoes in the speaker’s mind. The words of the B vocabulary even gained in force from the fact that nearly all of them were very much alike.
+In the same way, the associations called up by a word like minitru are fewer and more controllable than those called up by ministry of truth. This accounted not only for the habit of abbreviating whenever possible, but also for the almost exaggerated care that was taken to make every word easily pronounceable. In newspeak, euphony outweighed every consideration other than exactitude of meaning. Regularity of grammar was always sacrificed to it when it seemed necessary, and rightly so, since what was required, above all for political purposes, was short-clipped words of unmistakable meaning which could be uttered rapidly and which roused the minimum of echoes in the speaker’s mind.
 
-Almost invariably these words, Goodthink, Minipax, Proliefeed, Sexcrime, Joycamp, Ingsoc, Bellyfeel, Thinkpol, and countless others, were words of two or three syllables, with the stress distributed equally between the first syllable and the last. The use of them encouraged a gabbling style of speech, at once staccato and monotonous, and this was exactly what was aimed at. The intention was to make speech, and especially on any subject not ideologically neutral, as nearly as possible independent of consciousness. For the purposes of everyday life it was no doubt necessary or sometimes necessary to reflect before speaking, but a party member called upon to make a political or ethical judgment should be able to spray forth the correct opinions as automatically as a machine gun spraying forth bullets.
+The words of the B vocabulary even gained in force from the fact that nearly all of them were very much alike. Almost invariably these words, Goodthink, Minipax, Proliefeed, Sexcrime, Joycamp, Ingsoc, Bellyfeel, Thinkpol, and countless others, were words of two or three syllables, with the stress distributed equally between the first syllable and the last. The use of them encouraged a gabbling style of speech, at once staccato and monotonous, and this was exactly what was aimed at. The intention was to make speech, and especially on any subject not ideologically neutral, as nearly as possible independent of consciousness.
 
-His training fitted him to do this. The language gave him an almost foolproof instrument, and the texture of the words, with their harsh sound and a certain
+For the purposes of everyday life it was no doubt necessary or sometimes necessary to reflect before speaking, but a party member called upon to make a political or ethical judgment should be able to spray forth the correct opinions as automatically as a machine gun spraying forth bullets. His training fitted him to do this. The language gave him an almost foolproof instrument, and the texture of the words, with their harsh sound and a certain
 
 
 <a id="sec-104534"></a>
@@ -4334,21 +4502,21 @@ wilful ugliness which was in accord with the spirit of Ingsoc, assisted the proc
 
 Each reduction was a gain, since the smaller the area of choice, the smaller the temptation to take thought. Ultimately, it was hoped to make articulate speech issue from the larynx without involving the higher brain centres at all. This aim was frankly admitted in the New-Speak word duck-speak, meaning to quack like a duck. Like various other words in the B vocabulary, duck-speak was ambivalent in learning, provided that the opinions which were quacked out were orthodox ones.
 
-It implied nothing but praise, and when The Times referred to one of the orators of the party as a double-plus good duck-speaker, it was paying a warm and valued compliment. The C vocabulary. The C vocabulary was supplementary to the others, and consisted entirely of scientific and technical terms. These resembled the scientific terms in use today, and were constructed from the same roots. But the usual care was taken to define them rigidly and strip them of undesirable meanings.
+It implied nothing but praise, and when The Times referred to one of the orators of the party as a double-plus good duck-speaker, it was paying a warm and valued compliment. The C vocabulary. The C vocabulary was supplementary to the others, and consisted entirely of scientific and technical terms. These resembled the scientific terms in use today, and were constructed from the same roots.
 
-They followed the same grammatical rules as the words in the other two vocabularies. Very few of the C words had any currency either in everyday speech or in political speech. Any scientific worker or technician could find all the words he needed in the list devoted to his own speciality. But he seldom had more than a smattering of the words occurring in the other lists.
+But the usual care was taken to define them rigidly and strip them of undesirable meanings. They followed the same grammatical rules as the words in the other two vocabularies. Very few of the C words had any currency either in everyday speech or in political speech. Any scientific worker or technician could find all the words he needed in the list devoted to his own speciality.
 
-Only a very few words were common to all lists, and there was no vocabulary expressing the function of science as a habit of mind, or a method of thought, irrespective of its particular branches. There was indeed no word for science, any meaning that it could possibly bear being already sufficiently covered by the word ingsock. From the foregoing account it will be seen that in new speak the expression of unorthodox opinions, above a very low level, was well nigh impossible. It was of course possible to utter heresies of a very crude kind, a species of blasphemy.
+But he seldom had more than a smattering of the words occurring in the other lists. Only a very few words were common to all lists, and there was no vocabulary expressing the function of science as a habit of mind, or a method of thought, irrespective of its particular branches. There was indeed no word for science, any meaning that it could possibly bear being already sufficiently covered by the word ingsock. From the foregoing account it will be seen that in new speak the expression of unorthodox opinions, above a very low level, was well nigh impossible.
 
-It would have been possible, for example, to say, Big Brother is ungood. But this statement, which to an orthodox ear merely conveyed a self-evident absurdity, could not have been sustained by reasoned argument, because the necessary words were not available. Ideas inimical to ingsock could only be entertained in a vague, wordless form, and could only be named in very broad terms which lumped together and condemned whole groups of heresies without defining them in doing so. One could in fact only use new speak for unorthodox purposes by illegitimately translating some of the words back into old speak.
+It was of course possible to utter heresies of a very crude kind, a species of blasphemy. It would have been possible, for example, to say, Big Brother is ungood. But this statement, which to an orthodox ear merely conveyed a self-evident absurdity, could not have been sustained by reasoned argument, because the necessary words were not available. Ideas inimical to ingsock could only be entertained in a vague, wordless form, and could only be named in very broad terms which lumped together and condemned whole groups of heresies without defining them in doing so.
 
-For example, all man’s are equal was a possible new speak sentence, but only in the same sense in which all men are red-haired is a possible old speak sentence. It did not contain a grammatical error, but it expressed a palpable untruth. That is, that all men are of equal size, weight, or strength. The concept of political equality no longer existed, and this secondary meaning had accordingly been purged out of the word equal.
+One could in fact only use new speak for unorthodox purposes by illegitimately translating some of the words back into old speak. For example, all man’s are equal was a possible new speak sentence, but only in the same sense in which all men are red-haired is a possible old speak sentence. It did not contain a grammatical error, but it expressed a palpable untruth. That is, that all men are of equal size, weight, or strength.
 
-In 1984, when old speak was still the normal means of communication, the danger theoretically existed that in using new speak words, one might remember their original meanings. In practice, it was not difficult for any person, well-grounded in doublethink, to avoid doing this. But within a couple of generations, even the possibility of such a lapse would have vanished. A person growing up with new speak as his sole language would no more know that equal had once had the secondary meaning of politically equal, or that free had once meant intellectually free.
+The concept of political equality no longer existed, and this secondary meaning had accordingly been purged out of the word equal. In 1984, when old speak was still the normal means of communication, the danger theoretically existed that in using new speak words, one might remember their original meanings. In practice, it was not difficult for any person, well-grounded in doublethink, to avoid doing this. But within a couple of generations, even the possibility of such a lapse would have vanished.
 
-Then for instance, a person who had never heard of chess would be aware of the secondary meanings attaching to queen and rook. There would be many crimes and errors which it would be beyond his power to commit simply because they were nameless and therefore unimaginable. And it was to be foreseen that with the passage of time, the distinguishing characteristics of new speak would become more and more pronounced, its words growing fewer and fewer, their meanings more and more rigid, and the chance of putting them to improper uses always diminishing.
+A person growing up with new speak as his sole language would no more know that equal had once had the secondary meaning of politically equal, or that free had once meant intellectually free. Then for instance, a person who had never heard of chess would be aware of the secondary meanings attaching to queen and rook. There would be many crimes and errors which it would be beyond his power to commit simply because they were nameless and therefore unimaginable.
 
-When old speak had been once and for all superseded,
+And it was to be foreseen that with the passage of time, the distinguishing characteristics of new speak would become more and more pronounced, its words growing fewer and fewer, their meanings more and more rigid, and the chance of putting them to improper uses always diminishing. When old speak had been once and for all superseded,
 
 
 <a id="sec-105038"></a>

@@ -58,9 +58,9 @@ When he wrote of being able to grow to fullest development as men and women, unh
 
 One quarter of Americans being out of work in 1931 didn’t ruin the idea of the American dream. The stock market falling 89 percent and bread lines across the country didn’t either. The American dream actually may have gained popularity because things were so dire. You didn’t have to see the American dream to believe in it, and thank goodness because in 1931 there was nothing to see.
 
-You just had to believe it was possible and then boom, you felt a little better. Psychologists Lauren Alloy and Lynn Yvonne Abramson have a theory I love called depressive realism. It’s the idea that depressed people have a more accurate view of the world because they’re more realistic about how risky and fragile life is. The opposite of depressive realism is blissfully unaware.
+You just had to believe it was possible and then boom, you felt a little better. Psychologists Lauren Alloy and Lynn Yvonne Abramson have a theory. I love called depressive realism. It’s the idea that depressed people have a more accurate view of the world because they’re more realistic about how risky and fragile life is.
 
-It’s what many of us suffer from. But we don’t actually suffer from it because it feels great. And the fact that it feels good is the fuel we need to wake up and keep working even when the world around us can be objectively awful and pessimism abounds.
+The opposite of depressive realism is blissfully unaware. It’s what many of us suffer from. But we don’t actually suffer from it because it feels great. And the fact that it feels good is the fuel we need to wake up and keep working even when the world around us can be objectively awful and pessimism abounds.
 
 
 <a id="sec-000501"></a>
@@ -68,7 +68,7 @@ It’s what many of us suffer from. But we don’t actually suffer from it becau
 
 In 1984, Jane Pauley interviewed 28-year-old Bill Gates. Some people call you a genius, Pauley said. I know that might embarrass you, but… Gates deadpans.
 
-No emotion, no response. Okay, I guess that doesn’t embarrass you, Pauley says with an awkward laugh. Again, zero reaction from Gates. Of course he was a genius, and he knew it.
+No emotion, no response. Okay, I guess that doesn’t embarrass you, Pauley says with an awkward laugh. Again, zero reaction from Gates. Of course, he was a genius, and he knew it.
 
 Gates dropped out of college at 19 because he thought a computer should be on every desk in every home. You only do that when you have relentless confidence in your abilities. Paul Allen once wrote about the first time he met Bill. You could tell three things about Bill Gates pretty quickly.
 
@@ -76,27 +76,31 @@ He was really smart. He was really competitive. He wanted to show you how smart 
 
 It was almost paranoia, virtually the opposite of his unshakable confidence. From the day he started Microsoft, he insisted on always having enough cash in the bank to keep the company alive for 12 months with no revenue coming in. In 1995, he was asked by Charlie Rose why he kept so much cash on hand. Things changed so fast in technology that next year’s business wasn’t guaranteed, he said, including Microsoft’s.
 
-In 2007 he reflected, I was always worried because people who worked for me were older than me and had kids. And I always thought, what if we don’t get paid? Will I be able to meet the payroll? Here again, optimism and confidence mixed with heavy pessimism.
+In 2007 he reflected, I was always worried because people who worked for me were older than me and had kids. And. I always thought, what if we don’t get paid? Will.
 
-What Gates seems to get is that you can only be an optimist in the long run if you’re pessimistic enough to survive the short run. An important thing to recognize here is that optimism and pessimism exist on a spectrum. At one end, you have the pure optimist. They think everything is great, will always be great, and see all negativity as a character flaw.
+I be able to meet the payroll? Here again, optimism and confidence mixed with heavy pessimism. What Gates seems to get is that you can only be an optimist in the long run if you’re pessimistic enough to survive the short run. An important thing to recognize here is that optimism and pessimism exist on a spectrum.
 
-Part is rooted in ego. They’re so confident in themselves they can’t fathom anything going wrong. At the other end, you have the pure pessimists. They think everything is terrible, will always be terrible, and see all positivity as a character flaw.
+At one end, you have the pure optimist. They think everything is great, will always be great, and see all negativity as a character flaw. Part is rooted in ego. They’re so confident in themselves they can’t fathom anything going wrong.
 
-Part is rooted in ego. They have so little confidence in themselves, they can’t fathom anything going right. They’re the polar opposite of the pure optimist and just as detached from reality. Both are equally dangerous, but either can seem the most logical if you view optimism and pessimism as black and white, like you need to be one or the other.
+At the other end, you have the pure pessimists. They think everything is terrible, will always be terrible, and see all positivity as a character flaw. Part is rooted in ego. They have so little confidence in themselves, they can’t fathom anything going right.
 
-In the middle is the sweet spot, what I call the rational optimists, those who acknowledge that history is a constant chain of problems and disappointments and setbacks, but who remain optimistic because they know setbacks don’t prevent eventual progress. They sound like hypocrites and flip-floppers, but often they’re just looking further ahead than other people. The trick in any field, from finance to careers to relationships, is being able to survive the short-run problems so you can stick around long enough to enjoy the long-term growth.
+They’re the polar opposite of the pure optimist and just as detached from reality. Both are equally dangerous, but either can seem the most logical if you view optimism and pessimism as black and white, like you need to be one or the other. In the middle is the sweet spot, what. I call the rational optimists, those who acknowledge that history is a constant chain of problems and disappointments and setbacks, but who remain optimistic because they know setbacks don’t prevent eventual progress.
 
-Save like a pessimist and invest like an optimist. Plan like a pessimist and dream like an optimist. Those can seem like conflicting skills. And they are.
+They sound like hypocrites and flip-floppers, but often they’re just looking further ahead than other people. The trick in any field, from finance to careers to relationships, is being able to survive the short-run problems so you can stick around long enough to enjoy the long-term growth. Save like a pessimist and invest like an optimist. Plan like a pessimist and dream like an optimist.
 
-It’s intuitive to think you should either be an optimist or a pessimist. It’s hard to realize there’s a time and a place for both. That the two can and should coexist. But it’s what you see in almost every successful long-term endeavor.
+Those can seem like conflicting skills. And they are. It’s intuitive to think you should either be an optimist or a pessimist. It’s hard to realize there’s a time and a place for both.
 
-The business that takes huge risks with new products, like an optimist, but is terrified of short-term debt and always wants a big chunk of safety net cash, like a pessimist. The worker who turns down a lucrative opportunity because it might come at the expense of their reputation, which over the long run is far more valuable. Same in investing. I wrote in my book, The Psychology of Money, more than I want big returns, I want to be financially unbreakable.
+That the two can and should coexist. But it’s what you see in almost every successful long-term endeavor. The business that takes huge risks with new products, like an optimist, but is terrified of short-term debt and always wants a big chunk of safety net cash, like a pessimist. The worker who turns down a lucrative opportunity because it might come at the expense of their reputation, which over the long run is far more valuable.
 
-And if I’m unbreakable, I actually think I’ll get the biggest returns because I’ll be able to stick around long enough for compounding to work wonders. An important lesson from history is that the long run is usually pretty good and the short run is usually pretty bad. It takes effort to reconcile those two and learn how to manage them with what seem like conflicting skills. Those who can’t usually end up either bitter pessimists or bankrupt optimists, moving right along.
+Same in investing. I wrote in my book, The Psychology of Money, more than. I want big returns, I want to be financially unbreakable. And if.
 
-Now let’s discuss another topic that’s not intuitive. The more perfect you try to be, the worse you’ll end up doing. Casualties of perfection. There is a huge advantage to being a little imperfect.
+I’m unbreakable, I actually think. I’ll get the biggest returns because. I’ll be able to stick around long enough for compounding to work wonders. An important lesson from history is that the long run is usually pretty good and the short run is usually pretty bad.
 
-People don’t like to leave opportunities on the table. A common urge is to squeeze out as much efficiency and perfection as you can from whatever you’re pursuing. It feels like the right thing to do, like you’re maximizing your chances of success. But there’s a common downside to perfection that’s so easy to overlook.
+It takes effort to reconcile those two and learn how to manage them with what seem like conflicting skills. Those who can’t usually end up either bitter pessimists or bankrupt optimists, moving right along. Now let’s discuss another topic that’s not intuitive. The more perfect you try to be, the worse you’ll end up doing.
+
+Casualties of perfection. There is a huge advantage to being a little imperfect. People don’t like to leave opportunities on the table. A common urge is to squeeze out as much efficiency and perfection as you can from whatever you’re pursuing.
+
+It feels like the right thing to do, like you’re maximizing your chances of success. But there’s a common downside to perfection that’s so easy to overlook.
 
 
 <a id="sec-001001"></a>
@@ -114,47 +118,53 @@ Evolution has spent 3.8 billion years testing and proving the idea that some ine
 
 Psychologist Amos Tversky once said that, the secret to doing good research is always to be a little underemployed. You waste years by not being able to waste hours. A successful person purposely leaving gaps of free time on their schedule to do nothing in particular can feel inefficient. And it is, so not many people do it.
 
-But Tversky’s point is that if your job is to be creative and think through tough problems, then time spent wandering around a park or aimlessly lounging on a couch might be your most valuable hours. A little inefficiency is wonderful. Every person I’ve worked with comes back from vacation saying some variation of the same thing. Now that I had some time to think, I’ve realized.
+But Tversky’s point is that if your job is to be creative and think through tough problems, then time spent wandering around a park or aimlessly lounging on a couch might be your most valuable hours. A little inefficiency is wonderful. Every person. I’ve worked with comes back from vacation saying some variation of the same thing.
 
-With a few days to clear my mind, I figured out. While I was away, I got this great idea. The irony is that people can get some of their most important work done outside of work when they’re free to think and ponder. The struggle is that we take time off maybe once a year without realizing that time to think is a key element of many jobs and one that a traditional work schedule doesn’t accommodate very well.
+Now that. I had some time to think, I’ve realized. With a few days to clear my mind, I figured out. While.
 
-Not all jobs require creativity or critical thinking. But those that do function better with time devoted to wandering and being curious in ways that are removed from scheduled work but actually help tackle your biggest work problems. It’s just hard to do that because we’re set on the idea that a typical work day should be eight uninterrupted hours seated at your desk. Tell your boss you found a trick that will make you more creative and productive and she’ll ask what you’re waiting for.
+I was away, I got this great idea. The irony is that people can get some of their most important work done outside of work when they’re free to think and ponder. The struggle is that we take time off maybe once a year without realizing that time to think is a key element of many jobs and one that a traditional work schedule doesn’t accommodate very well. Not all jobs require creativity or critical thinking.
 
-Tell her that your trick is taking a 90-minute walk in the middle of the day and she might say, no, you need to work. Another way to put this is that a lot of workers have thought jobs without much time to think. The New York Times once wrote of former Secretary of State George Shultz, his hour of solitude was the only way he could find time to think about the strategic aspects of his job. Otherwise, he would be constantly pulled into moment-to-moment tactical issues, never able to focus on larger questions of the national interest.
+But those that do function better with time devoted to wandering and being curious in ways that are removed from scheduled work but actually help tackle your biggest work problems. It’s just hard to do that because we’re set on the idea that a typical work day should be eight uninterrupted hours seated at your desk. Tell your boss you found a trick that will make you more creative and productive and she’ll ask what you’re waiting for. Tell her that your trick is taking a 90-minute walk in the middle of the day and she might say, no, you need to work.
 
-Albert Einstein put it this way, I take time to go for long walks on the beach so that I can listen to what is going on inside my head. If my work isn’t going well, I lie down in the middle of a work day and gaze at the ceiling while I listen and visualize what goes on in my imagination. Mozart felt the same way. When I am traveling in a carriage or walking after a good meal or during the night when I cannot sleep, it is on such occasions that my ideas flow best and most abundantly.
+Another way to put this is that a lot of workers have thought jobs without much time to think. The New York Times once wrote of former Secretary of State George Shultz, his hour of solitude was the only way he could find time to think about the strategic aspects of his job. Otherwise, he would be constantly pulled into moment-to-moment tactical issues, never able to focus on larger questions of the national interest. Albert Einstein put it this way, I take time to go for long walks on the beach so that.
 
-This meshes with a Stanford study that showed walking increases creativity by 60 percent. Someone once asked Charlie Munger what Warren Buffett’s secret was. I would say half of all the time he spends is sitting on his ass and reading. He has a lot of time to think.
+I can listen to what is going on inside my head. If my work isn’t going well, I lie down in the middle of a work day and gaze at the ceiling while. I listen and visualize what goes on in my imagination. Mozart felt the same way.
 
-The traditional eight-hour work schedule is great if your job is repetitive or physically constraining. But for the large and growing number of thought, jobs, it might not be. You might be better off taking two hours in the morning to
+When. I am traveling in a carriage or walking after a good meal or during the night when. I cannot sleep, it is on such occasions that my ideas flow best and most abundantly. This meshes with a Stanford study that showed walking increases creativity by 60 percent.
+
+Someone once asked Charlie Munger what Warren Buffett’s secret was. I would say half of all the time he spends is sitting on his ass and reading. He has a lot of time to think. The traditional eight-hour work schedule is great if your job is repetitive or physically constraining.
+
+But for the large and growing number of thought, jobs, it might not be. You might be better off taking two hours in the morning to
 
 
 <a id="sec-001505"></a>
 ### ⏱️ [00:15:05 - 00:20:08]
 
-stay at home thinking about some big problem, or go for a long midday walk to ponder why something isn’t working, or leave at 3 p.m. and spend the rest of the day envisioning a new strategy. It’s not about working less, it’s the opposite. A lot of thought jobs basically never stop and without structuring time to think and be curious, you wind up less efficient during the hours that are devoted to sitting at your desk cranking out work. This is the opposite of the concept of hustle porn, where people want to look busy at all times because they think it’s noble.
+stay at home thinking about some big problem, or go for a long midday walk to ponder why something isn’t working, or leave at 3 p.m. and spend the rest of the day envisioning a new strategy. It’s not about working less, it’s the opposite. A lot of thought jobs basically never stop and without structuring time to think and be curious, you wind up less efficient during the hours that are devoted to sitting at your desk cranking out work.
 
-Nassim Taleb says, my only measure of success is how much time you have to kill. More than a measure of success, I think it’s a key ingredient. The most efficient calendar in the world, one where every minute is packed with productivity, comes at the expense of curious wandering and uninterrupted thinking, which eventually become the biggest contributors to success. Another form of helpful inefficiency is a business whose operations have some slack built in.
+This is the opposite of the concept of hustle porn, where people want to look busy at all times because they think it’s noble. Nassim Taleb says, my only measure of success is how much time you have to kill. More than a measure of success, I think it’s a key ingredient. The most efficient calendar in the world, one where every minute is packed with productivity, comes at the expense of curious wandering and uninterrupted thinking, which eventually become the biggest contributors to success.
 
-Just in time manufacturing, where companies don’t stock the parts they need to build products, relying instead on last-minute shipments of components, was the epitome of efficient operations over the last 20 years. Then, COVID-19 hit, supply chains broke, and virtually every manufacturer found itself dreadfully short of what it needed. The irony is deep. In 2022, during one of the biggest consumer spending booms in history, car companies had to shut down factories because they were short on chips, brakes, and paint.
+Another form of helpful inefficiency is a business whose operations have some slack built in. Just in time manufacturing, where companies don’t stock the parts they need to build products, relying instead on last-minute shipments of components, was the epitome of efficient operations over the last 20 years. Then, COVID-19 hit, supply chains broke, and virtually every manufacturer found itself dreadfully short of what it needed. The irony is deep.
 
-They had no room for error. Business’s goal was no room for error, and it completely backfired. A little inefficiency across the whole supply chain would have been the sweet spot. Room for error is often viewed as a cost, an anchor, an inefficiency, but in the long run it can have some of the highest payoffs imaginable.
+In 2022, during one of the biggest consumer spending booms in history, car companies had to shut down factories because they were short on chips, brakes, and paint. They had no room for error. Business’s goal was no room for error, and it completely backfired. A little inefficiency across the whole supply chain would have been the sweet spot.
 
-Same in investing. Cash is an inefficient drag during bull markets and as valuable as oxygen during bear markets. Leverage is the most efficient way to maximize your balance sheet and the easiest way to lose everything. Concentration is the best way to maximize returns, but diversification is the best way to increase the odds of owning a company capable of delivering returns.
+Room for error is often viewed as a cost, an anchor, an inefficiency, but in the long run it can have some of the highest payoffs imaginable. Same in investing. Cash is an inefficient drag during bull markets and as valuable as oxygen during bear markets. Leverage is the most efficient way to maximize your balance sheet and the easiest way to lose everything.
 
-On and on. If you’re honest with yourself, you’ll see that a little inefficiency is the ideal spot to be in. Same with analysis. There’s an investing quip that it’s better to be approximately right than precisely wrong, but where does the intellectual effort go in the investment industry?
+Concentration is the best way to maximize returns, but diversification is the best way to increase the odds of owning a company capable of delivering returns. On and on. If you’re honest with yourself, you’ll see that a little inefficiency is the ideal spot to be in. Same with analysis.
 
-Toward the pursuit of precisions, decimal point exactness that deludes people into thinking they’re not leaving opportunity on the table, when more often they are leaving no room for error for their analysis to be wrong. Investing in your long-term future is of course great because the odds that the economy will become more productive and more valuable are pretty good, but trying to predict the exact path we’ll take to get there can be such a waste of resources. I describe my forecasting model as good enough.
+There’s an investing quip that it’s better to be approximately right than precisely wrong, but where does the intellectual effort go in the investment industry? Toward the pursuit of precisions, decimal point exactness that deludes people into thinking they’re not leaving opportunity on the table, when more often they are leaving no room for error for their analysis to be wrong. Investing in your long-term future is of course great because the odds that the economy will become more productive and more valuable are pretty good, but trying to predict the exact path we’ll take to get there can be such a waste of resources.
 
-I’m confident people will solve problems and become more productive over time. I’m confident markets will allocate the rewards of that productivity to investors over time. I’m confident in other people’s overconfidence, so I know there will be mistakes and accidents and booms and busts along the way. It’s not detailed, but it’s good enough when you keep forecasting that simple, you free up time and bandwidth for other activities.
+I describe my forecasting model as good enough. I’m confident people will solve problems and become more productive over time. I’m confident markets will allocate the rewards of that productivity to investors over time. I’m confident in other people’s overconfidence, so.
 
-I like studying the investing behaviors that never change, and I’d never have the time to do that if I spent my day predicting what the economy will do next quarter. The same is true in virtually every field. The more precise you try to be, the less time you have to focus on big-picture rules that are probably more important. It’s less about admitting that we can’t forecast and more about acknowledging that if your forecast is merely good enough, you can invest your time and resources more efficiently elsewhere.
+I know there will be mistakes and accidents and booms and busts along the way. It’s not detailed, but it’s good enough when you keep forecasting that simple, you free up time and bandwidth for other activities. I like studying the investing behaviors that never change, and. I’d never have the time to do that if.
 
-Just like evolution, the key is realizing that the more perfect you try to become, the more vulnerable you generally are. Next, one of the wildest stories I know. It’s about another risk that’s easy to ignore. The downside of shortcuts.
+I spent my day predicting what the economy will do next quarter. The same is true in virtually every field. The more precise you try to be, the less time you have to focus on big-picture rules that are probably more important. It’s less about admitting that we can’t forecast and more about acknowledging that if your forecast is merely good enough, you can invest your time and resources more efficiently elsewhere.
 
-It’s supposed to be hard. Everything worth pursuing comes with a little pain. The trick is not minding that it hurts. Elle, it may share a few ideas about the allure and danger of shortcuts.
+Just like evolution, the key is realizing that the more perfect you try to become, the more vulnerable you generally are. Next, one of the wildest stories. I know. It’s about another risk that’s easy to ignore.
 
-Few stories make you wince as much as that of the Donner Party. 87 people led by the Donner family left Springfield, Illinois in 1846 for California, which was then seemingly a world away but held the promise of riches and a new beginning. The journey was grueling and risky in the best of times, taking several months and under constant threat of attack from Native Americans, disease, and nasty weather.
+The downside of shortcuts. It’s supposed to be hard. Everything worth pursuing comes with a little pain. The trick is not minding that it hurts.
+
+Elle, it may share a few ideas about the allure and danger of shortcuts. Few stories make you wince as much as that of the Donner Party. 87 people led by the Donner family left Springfield, Illinois in 1846 for California, which was then seemingly a world away but held the promise of riches and a new beginning. The journey was grueling and risky in the best of times, taking several months and under constant threat of attack from Native Americans, disease, and nasty weather.
 
 
 <a id="sec-002008"></a>
@@ -176,21 +186,23 @@ A co-worker of mine at an old employer once hired a social media consultant. Dur
 
 That’s because writing good stuff isn’t a hack. It’s hard. It takes time and creativity. It can’t be manufactured.
 
-It works with a near 100% success rate, but it is the social media equivalent of a heavy workout. Same goes for diets, finances, marketing. Everyone wants a shortcut. It’s always been this way, but I suspect it’s getting worse as technology inflates our benchmark for how fast results should happen.
+It works with a near 100% success rate, but it is the social media equivalent of a heavy workout. Same goes for diets, finances, marketing. Everyone wants a shortcut. It’s always been this way, but.
 
-Hacks are appealing because they look like paths to prizes without the effort, but in the real world, those rarely exist. Charlie Munger once noted, the safest way to try to get what you want is to try to deserve what you want. It’s such a simple idea. It’s the golden rule.
+I suspect it’s getting worse as technology inflates our benchmark for how fast results should happen. Hacks are appealing because they look like paths to prizes without the effort, but in the real world, those rarely exist. Charlie Munger once noted, the safest way to try to get what you want is to try to deserve what you want. It’s such a simple idea.
 
-You want to deliver to the world what you would buy if you were on the other end. In 1990, David Letterman asked his friend Jerry Seinfeld how his new sitcom was going. Jerry said there was one frustrating problem. NBC supplied the show with teams of comedy writers, and he didn’t think he was getting much good material from them.
+It’s the golden rule. You want to deliver to the world what you would buy if you were on the other end. In 1990, David Letterman asked his friend Jerry Seinfeld how his new sitcom was going. Jerry said there was one frustrating problem.
 
-Wouldn’t it be weirder if they were good? David asked. What do you mean? Jerry asked.
+NBC supplied the show with teams of comedy writers, and he didn’t think he was getting much good material from them. Wouldn’t it be weirder if they were good? David asked. What do you mean?
 
-Wouldn’t it be strange if they could all just produce reams of hilarious material day after day? Recalling the conversation, Seinfeld laughed and told Letterman, it’s supposed to be hard. Of course it is. The reason someone like Jerry Seinfeld or Michael Jordan or Serena Williams is so famous is because there is only one of them.
+Jerry asked. Wouldn’t it be strange if they could all just produce reams of hilarious material day after day? Recalling the conversation, Seinfeld laughed and told Letterman, it’s supposed to be hard. Of course, it is.
 
-What they’ve accomplished is unfathomably hard, and that is what we admire. Harvard Business Review once pointed out to Jerry Seinfeld that part of the reason he ended his show was writer burnout. The magazine asked if he and show co-creator Larry David could have avoided burnout and kept the show going if they used a consulting company like McKinsey to create a more efficient writing process. Seinfeld asked if McKinsey is funny.
+The reason someone like Jerry Seinfeld or Michael Jordan or Serena Williams is so famous is because there is only one of them. What they’ve accomplished is unfathomably hard, and that is what we admire. Harvard Business Review once pointed out to Jerry Seinfeld that part of the reason he ended his show was writer burnout. The magazine asked if he and show co-creator Larry David could have avoided burnout and kept the show going if they used a consulting company like McKinsey to create a more efficient writing process.
 
-No, the magazine said. Then I don’t need them, he said. If you’re efficient, you’re doing it the wrong way. The right way is the hard way.
+Seinfeld asked if McKinsey is funny. No, the magazine said. Then. I don’t need them, he said.
 
-The show was successful because I micromanaged it. Every word, every line, every take, every edit, every casting. If you’re efficient, you’re doing it the wrong way. That is so counterintuitive, but I think it perfectly highlights the danger of shortcuts.
+If you’re efficient, you’re doing it the wrong way. The right way is the hard way. The show was successful because. I micromanaged it.
+
+Every word, every line, every take, every edit, every casting. If you’re efficient, you’re doing it the wrong way. That is so counterintuitive, but. I think it perfectly highlights the danger of shortcuts.
 
 Part of this is simply understanding the costs of success. Jeff
 
@@ -212,25 +224,25 @@ A thing that’s easy to overlook in life is that there is a certain level of in
 
 He once described the people who lived there as the funniest and most interesting people he had ever met. He said he soon realized they weren’t crazy at all. They were instead the smartest people who had just seen through the bullshit. And because of that they couldn’t function in the world.
 
-They couldn’t hold a job because they just couldn’t take the bullshit, he said. The rest of the world saw these people as rejects because they couldn’t fit in. But in fact, Pressfield said they were the geniuses who simply couldn’t stand everyone else’s nonsense. This reminds me of something I’ve long believed.
+They couldn’t hold a job because they just couldn’t take the bullshit, he said. The rest of the world saw these people as rejects because they couldn’t fit in. But in fact, Pressfield said they were the geniuses who simply couldn’t stand everyone else’s nonsense. This reminds me of something.
 
-If you recognize that inefficiency, bullshit as Pressfield puts it, is ubiquitous, then the question is not, how can I avoid all of it, but what is the optimal amount to put up with so I can still function in a messy and imperfect world? If your tolerance is zero, if you are allergic to differences in opinion, personal incentives, emotions, inefficiencies, miscommunication, and such, your odds of succeeding in anything that requires other people rounds to zero. You can’t function in the world, as Pressfield says.
+I’ve long believed. If you recognize that inefficiency, bullshit as Pressfield puts it, is ubiquitous, then the question is not, how can. I avoid all of it, but what is the optimal amount to put up with so. I can still function in a messy and imperfect world?
 
-The other end of the spectrum, fully accepting every incidence of nonsense and hassle, is just as bad. The world will eat you alive. What’s easy to miss is that there are bad things that become bigger problems when you try to eliminate them. I think the most successful people recognize when a certain amount of acceptance beats purity.
+If your tolerance is zero, if you are allergic to differences in opinion, personal incentives, emotions, inefficiencies, miscommunication, and such, your odds of succeeding in anything that requires other people rounds to zero. You can’t function in the world, as Pressfield says. The other end of the spectrum, fully accepting every incidence of nonsense and hassle, is just as bad. The world will eat you alive.
 
-Theft is a good example. A grocery store could eliminate theft by strip-searching every customer leaving the store, but then no one would shop there. So the optimal level of theft is never zero. You accept a certain level as an inevitable cost of progress.
+What’s easy to miss is that there are bad things that become bigger problems when you try to eliminate them. I think the most successful people recognize when a certain amount of acceptance beats purity. Theft is a good example. A grocery store could eliminate theft by strip-searching every customer leaving the store, but then no one would shop there.
 
-Inefficiency, in all its forms, is similar. A unique skill, an underrated skill, is identifying the optimal amount of hassle and nonsense you should put up with to get ahead while getting along. Franklin Roosevelt, the most powerful man in the world, whose paralysis meant his aides often had to carry him to the bathroom, once said, if you can’t use your legs and they bring you milk when you wanted orange juice, you learn to say, that’s all right, and drink it. Every industry and career is different, but there’s universal value in accepting hassle when reality demands it.
+So the optimal level of theft is never zero. You accept a certain level as an inevitable cost of progress. Inefficiency, in all its forms, is similar. A unique skill, an underrated skill, is identifying the optimal amount of hassle and nonsense you should put up with to get ahead while getting along.
 
-Volatility, people having bad days, office politics, difficult personalities, bureaucracy, all of them are bad, but all have to be endured to some degree if you want to get anything done. Many managers have little tolerance for nonsense. They think it’s noble. I demand excellence, they say, but it’s just unrealistic.
+Franklin Roosevelt, the most powerful man in the world, whose paralysis meant his aides often had to carry him to the bathroom, once said, if you can’t use your legs and they bring you milk when you wanted orange juice, you learn to say, that’s all right, and drink it. Every industry and career is different, but there’s universal value in accepting hassle when reality demands it. Volatility, people having bad days, office politics, difficult personalities, bureaucracy, all of them are bad, but all have to be endured to some degree if you want to get anything done.
 
-The huge majority of them won’t thrive in their careers. Compounding is fueled by endurance, so sitting through periods of insanity is not a defect. It’s accepting an optimal level of hassle. Same in business.
+Many managers have little tolerance for nonsense. They think it’s noble. I demand excellence, they say, but it’s just unrealistic. The huge majority of them won’t thrive in their careers.
 
-My friend Brent says running a company is like eating glass while being punched in the face. Often nothing works. Emotions run wild. Confusion reigns.
+Compounding is fueled by endurance, so sitting through periods of insanity is not a defect. It’s accepting an optimal level of hassle. Same in business. My friend Brent says running a company is like eating glass while being punched in the face.
 
-He’s also equated it to a daily battle. You wake up every morning, grab your knife, fight off challenges, and pray you make it home alive. But dealing with that hassle is the entire reason why it can be lucrative. Where there’s pain, there’s profit, he often reminds people.
+Often nothing works. Emotions run wild. Confusion reigns. He’s also equated it to a daily battle.
 
-There’s an optimal level of hassle to accept, even embrace.
+You wake up every morning, grab your knife, fight off challenges, and pray you make it home alive. But dealing with that hassle is the entire reason why it can be lucrative. Where there’s pain, there’s profit, he often reminds people. There’s an optimal level of hassle to accept, even embrace.
 
 
 <a id="sec-003012"></a>
@@ -310,7 +322,7 @@ Some things evolve but never actually become better adapted because threats are 
 
 Gone. No one’s ever safe. No one can ever rest. Van Vellen called it the Red Queen hypothesis of evolution.
 
-In Alice in Wonderland, Alice meets the Red Queen in a land where you have to run just to stay in place. However fast they went, they never seem to pass anything. I wonder if all the things move along with us, thought poor puzzled Alice. And the Queen seemed to guess her thoughts, for she cried, Faster!
+In Alice in Wonderland, Alice meets the Red Queen in a land where you have to run just to stay in place. However, fast they went, they never seem to pass anything. I wonder if all the things move along with us, thought poor puzzled Alice. And the Queen seemed to guess her thoughts, for she cried, Faster!
 
 Don’t try to talk. Keep running. Keep running. Just to stay in place is how evolution works.
 
@@ -326,17 +338,17 @@ No competitive advantage is so powerful that it can let you rest on your laurels
 
 It always feels like we’re falling behind. And it’s easy to discount the potential of new technology. There’s a typical path of how people respond to what eventually becomes a world-changing new technology. I’ve never heard of it.
 
-I’ve heard of it, but don’t understand it. I understand it, but I don’t see how it’s useful. I see how it could be fun for rich people, but not me. I use it, but it’s just a toy.
+I’ve heard of it, but don’t understand it. I understand it, but. I don’t see how it’s useful. I see how it could be fun for rich people, but not me.
 
-It’s becoming more useful for me. I use it all the time. I could not imagine life without it. Seriously, people lived without it?
+I use it, but it’s just a toy. It’s becoming more useful for me. I use it all the time. I could not imagine life without it.
 
-It’s too powerful and needs to be regulated. It happens over and over again. It’s very difficult to envision what one small invention has the potential to become one day. A common view through history is that past innovation was magnificent, but future innovation must be limited because we’ve picked all the low-hanging fruit.
+Seriously, people lived without it? It’s too powerful and needs to be regulated. It happens over and over again. It’s very difficult to envision what one small invention has the potential to become one day.
 
-On January 12, 1908, the Washington Post ran a full-page spread headlined America’s Thinking Men Forecast the Wonders of the Future. Among the thinking men buried in the fine print was Thomas Edison. Edison had already changed the world at this point. He was the Steve Jobs of his time.
+A common view through history is that past innovation was magnificent, but future innovation must be limited because we’ve picked all the low-hanging fruit. On January 12, 1908, the Washington Post ran a full-page spread headlined America’s Thinking Men Forecast the Wonders of the Future. Among the thinking men buried in the fine print was Thomas Edison. Edison had already changed the world at this point.
 
-The Post editors asked, is the age of invention passing? Edison answered, passing. He repeated in apparent astonishment that such a question should be asked. Why?
+He was the Steve Jobs of his time. The Post editors asked, is the age of invention passing? Edison answered, passing. He repeated in apparent astonishment that such a question should be asked.
 
-It hasn’t started yet. That ought to answer your question. Do you want anything else?
+Why? It hasn’t started yet. That ought to answer your question. Do you want anything else?
 
 You believe that that the next 50 years will see as great a mechanical and scientific development as the past half-century?“ The post queried Edison. ”'Greater. Much greater,' he replied.
 
@@ -390,29 +402,29 @@ Take the way mother nature works. A little cool air from the north is no big dea
 
 Same with new technology. One boring thing plus one boring thing can equal one world-changing thing in a way that’s hard to fathom if you don’t respect exponential growth. The same thing happens in careers that when someone with a few mediocre skills mixed together at the right time becomes multiple times more successful than someone who’s an expert in one thing. On January 12th, 1908, the same day the post ran their column with Edison, the first long distance wireless message was sent in France.
 
-No one could foresee the inventions it eventually seeded, including helping me write this book and send it to the publisher 114 years later, same as ever. Now, let me tell you a story about how good people are at disguising how hard their lives are, harder than it looks, and not as fun as it seems. The grass is always greener on the side that’s fertilized with bullshit. In 1963, Life magazine asked James Baldwin where he gets his inspiration. Baldwin responded, you think your pain and your heartbreak are unprecedented in the history of the world, but then you read.
+No one could foresee the inventions it eventually seeded, including helping me write this book and send it to the publisher 114 years later, same as ever. Now, let me tell you a story about how good people are at disguising how hard their lives are, harder than it looks, and not as fun as it seems. The grass is always greener on the side that’s fertilized with bullshit. In 1963, Life magazine asked James Baldwin where he gets his inspiration.
 
-It was books that taught me that the things that tormented me most were the very things that connected me with all the people who were alive or whoever had been alive. An artist is a sort of emotional historian. It’s a wonderful observation, but I think what he’s describing here is rare. Most people do not disclose what torments them, what they’re scared of, what they’re insecure about, or whether or not they’re actually happy.
+Baldwin responded, you think your pain and your heartbreak are unprecedented in the history of the world, but then you read. It was books that taught me that the things that tormented me most were the very things that connected me with all the people who were alive or whoever had been alive. An artist is a sort of emotional historian. It’s a wonderful observation, but.
 
-Rarely will they give you an honest account of their flaws and failures. The window-dressed version of ourselves is by far the most common. There’s a saying, I don’t know whose, that an expert is always from out of town. It’s similar to the Bible verse that says, no man is a prophet in his own country.
+I think what he’s describing here is rare. Most people do not disclose what torments them, what they’re scared of, what they’re insecure about, or whether or not they’re actually happy. Rarely will they give you an honest account of their flaws and failures. The window-dressed version of ourselves is by far the most common.
 
-That one has deeper meaning, but they both get across an important point. It’s easiest to convince people that you’re special if they don’t know you well enough to see all the ways you’re not. Keep that in mind when comparing your career, business, and life to those of others. Good advice that took me a while to learn is that everything is sales.
+There’s a saying, I don’t know whose, that an expert is always from out of town. It’s similar to the Bible verse that says, no man is a prophet in his own country. That one has deeper meaning, but they both get across an important point. It’s easiest to convince people that you’re special if they don’t know you well enough to see all the ways you’re not.
 
-Everything is sales. This is usually framed as career advice. No matter what your role in a company is, your ultimate job is to help sales, but it applies to so many things. Everything is sales also means that everyone is trying to craft an image of who they are.
+Keep that in mind when comparing your career, business, and life to those of others. Good advice that took me a while to learn is that everything is sales. Everything is sales. This is usually framed as career advice.
 
-The image helps them sell themselves to others. Some are more aggressive than others, but everyone plays the image game, even if only subconsciously. Since they’re crafting the image, it’s not a complete view. There’s a filter, skills are advertised, flaws are hidden.
+No matter what your role in a company is, your ultimate job is to help sales, but it applies to so many things. Everything is sales also means that everyone is trying to craft an image of who they are. The image helps them sell themselves to others. Some are more aggressive than others, but everyone plays the image game, even if only subconsciously.
 
-A friend once complained to me about how inefficient his employer is. Processes are poor, communication is bad. He then said a competitor company was far better and had its act together. I asked him how he knew that.
+Since they’re crafting the image, it’s not a complete view. There’s a filter, skills are advertised, flaws are hidden. A friend once complained to me about how inefficient his employer is. Processes are poor, communication is bad.
 
-He’s never worked there and has never been inside the company. Fair, he said. It just seems that way from the outside, but almost everything looks better from the outside. I guarantee workers at the competitor find flaws in the way their company operates because they know about their company, what my friend knows about his, how the sausage is made.
+He then said a competitor company was far better and had its act together. I asked him how he knew that. He’s never worked there and has never been inside the company. Fair, he said.
 
-All the messy personalities and difficult decisions that you see only when you’re inside. In the trenches, all businesses are loosely functioning disasters, Brent Bashore says. But a business is like an iceberg. Only a fraction is visible.
+It just seems that way from the outside, but almost everything looks better from the outside. I guarantee workers at the competitor find flaws in the way their company operates because they know about their company, what my friend knows about his, how the sausage is made. All the messy personalities and difficult decisions that you see only when you’re inside. In the trenches, all businesses are loosely functioning disasters, Brent Bashore says.
 
-It’s the same for people. Instagram is full of beach vacation photos, not flight delay photos. Resumes highlight career wins but are silent on doubt and worry. Investing gurus and business titans are easy to elevate to mythical status because you don’t know them well enough to witness times when their decision-making process was ordinary, if not awful.
+But a business is like an iceberg. Only a fraction is visible. It’s the same for people. Instagram is full of beach vacation photos, not flight delay photos.
 
-Of course, there’s a spectrum. Some companies operate better than others. Some people are more insightful than average. A few are extraordinary.
+Resumes highlight career wins but are silent on doubt and worry. Investing gurus and business titans are easy to elevate to mythical status because you don’t know them well enough to witness times when their decision-making process was ordinary, if not awful. Of course, there’s a spectrum. Some companies operate better than others.
 
-But it’s always
+Some people are more insightful than average. A few are extraordinary. But it’s always
 
 
 <a id="sec-005523"></a>
@@ -422,13 +434,15 @@ hard to know where anyone sits on that spectrum when they’ve carefully crafted
 
 Partly his own doing, the collateral damage of a life where picking stocks was the highest priority. Same for Bill and Melinda Gates, whose life looked fairy tale charmed right up until the news of their nasty divorce. Elon Musk once broke down in tears when asked about the mental toll of Tesla’s struggles. This has really come at the expense of seeing my kids and seeing friends.
 
-I grew up with a chronic stutter. People who have known me for years tend to say, I never knew you had a problem when I tell them about it. It’s a well-meaning comment, but it actually highlights the issue. You didn’t know I stutter because I didn’t talk when I knew it would be difficult for me.
+I grew up with a chronic stutter. People who have known me for years tend to say, I never knew you had a problem when. I tell them about it. It’s a well-meaning comment, but it actually highlights the issue.
 
-You never know what struggles people are hiding. I’ve always wondered how many people I know are stutterers, but like me have kept it mostly hidden and how many other issues are like that, depression, anxiety, phobias. So many things can be disguised in a way that places a facade of normalcy over a person’s internal struggles. Back to the iceberg.
+You didn’t know. I stutter because. I didn’t talk when. I knew it would be difficult for me.
 
-What most of us see most of the time is a fraction of what has actually happened or what’s going on inside people’s heads, and it’s stripped of all the hard parts. Most things are harder than they look and not as fun as they seem. It leads to a few things. When you are keenly aware of your own struggles but blind to those of others, it’s easy to assume you’re missing some skill or secret that others shave.
+You never know what struggles people are hiding. I’ve always wondered how many people. I know are stutterers, but like me have kept it mostly hidden and how many other issues are like that, depression, anxiety, phobias. So many things can be disguised in a way that places a facade of normalcy over a person’s internal struggles.
 
-The more we describe successful people as having superhuman powers, the more everyone else looks at them and says, I could never do that, which is unfortunate because more people would be willing to try if they knew that those they admire are probably normal people who played the odds right. When someone is viewed as more extraordinary than they are, you’re more likely to overvalue their opinion on things they have no special talent in, like a successful hedge fund manager’s political views or a politician’s investment advice.
+Back to the iceberg. What most of us see most of the time is a fraction of what has actually happened or what’s going on inside people’s heads, and it’s stripped of all the hard parts. Most things are harder than they look and not as fun as they seem. It leads to a few things.
+
+When you are keenly aware of your own struggles but blind to those of others, it’s easy to assume you’re missing some skill or secret that others shave. The more we describe successful people as having superhuman powers, the more everyone else looks at them and says, I could never do that, which is unfortunate because more people would be willing to try if they knew that those they admire are probably normal people who played the odds right. When someone is viewed as more extraordinary than they are, you’re more likely to overvalue their opinion on things they have no special talent in, like a successful hedge fund manager’s political views or a politician’s investment advice.
 
 Only when you get to know someone well do you realize the best you can do in life is to become an expert at some things while remaining inept at others, and that’s if you’re good. There’s an important difference between someone whose specific talent should be celebrated versus someone whose ideas should never be questioned. Eat the orange, throw away the peel. Everyone’s dealing with problems they don’t advertise, at least until you get to know them well.
 
@@ -442,25 +456,29 @@ The New York Times asked the Nigerian how he felt about causing so much harm to 
 
 I. G once casually mentioned that he began selling crack in fourth grade. He explained how it happened. Early on in life, he was always interested in art.
 
-His teachers pushed him to become an artist and told him that he could actually make a living drawing. He began dreaming of becoming a commercial artist, designing billboards. Then one day he got introduced to selling crack. He recalled, haha, now I’m thinking commercial art, haha, I’m out here for 20 minutes and I can make some real, real money.
+His teachers pushed him to become an artist and told him that he could actually make a living drawing. He began dreaming of becoming a commercial artist, designing billboards. Then one day he got introduced to selling crack. He recalled, haha, now.
 
-Soviet poet Yevgeny Yevdishenko once speculated that during Galileo’s day, several scientists believed Earth revolved around the sun. But they had families to feed, so they never spoke up. These are extreme examples of something everyone, you, me, everyone, is susceptible to and more influenced by than we want to admit. Incentives are the most powerful force in the world and can get people to justify or defend almost anything.
+I’m thinking commercial art, haha, I’m out here for 20 minutes and. I can make some real, real money. Soviet poet Yevgeny Yevdishenko once speculated that during Galileo’s day, several scientists believed Earth revolved around the sun. But they had families to feed, so they never spoke up.
+
+These are extreme examples of something everyone, you, me, everyone, is susceptible to and more influenced by than we want to admit. Incentives are the most powerful force in the world and can get people to justify or defend almost anything.
 
 
 <a id="sec-010028"></a>
 ### ⏱️ [01:00:28 - 01:05:28]
 
-When you understand how powerful incentives can be, you stop being surprised when the world lurches from one absurdity to the next. If asked, how many people in the world are truly crazy, I might say, I don’t know, 3%, 5%. But if I asked, how many people in the world would be willing to do something crazy if their incentives were right? I’d say, oh, easily, 50% or more.
+When you understand how powerful incentives can be, you stop being surprised when the world lurches from one absurdity to the next. If asked, how many people in the world are truly crazy, I might say, I don’t know, 3%, 5%. But if. I asked, how many people in the world would be willing to do something crazy if their incentives were right?
 
-No matter how much information and context you have, nothing is more persuasive than what you desperately want or need to be true. And as Daniel Kahneman once wrote, it is easier to recognize other people’s mistakes than our own. What makes incentives powerful is not just how they influence other people’s decisions, but how blind we can be to how they impact our own. Ben Franklin once wrote, if you would persuade, appeal to interest and not to reason.
+I’d say, oh, easily, 50% or more. No matter how much information and context you have, nothing is more persuasive than what you desperately want or need to be true. And as Daniel Kahneman once wrote, it is easier to recognize other people’s mistakes than our own. What makes incentives powerful is not just how they influence other people’s decisions, but how blind we can be to how they impact our own.
 
-Incentives fuel stories that justify people’s actions and beliefs, offering comfort even when they’re doing things they know are wrong and believe things they know aren’t true. James Clear put it this way, people follow incentives, not advice. True story about a guy I knew well, a pizza delivery man who became a subprime mortgage banker in 2005. Virtually overnight, he could earn more per day than he earned per month delivering pizza.
+Ben Franklin once wrote, if you would persuade, appeal to interest and not to reason. Incentives fuel stories that justify people’s actions and beliefs, offering comfort even when they’re doing things they know are wrong and believe things they know aren’t true. James Clear put it this way, people follow incentives, not advice. True story about a guy.
 
-It completely changed his life. Put yourself in his shoes. His job was to make loans. Feeding his family relied on making loans.
+I knew well, a pizza delivery man who became a subprime mortgage banker in 2005. Virtually overnight, he could earn more per day than he earned per month delivering pizza. It completely changed his life. Put yourself in his shoes.
 
-And if he didn’t make those loans, someone else would. So protesting or quitting felt pointless. Everyone knew the subprime mortgage game was a joke in the mid 2000s. Everyone knew it would end one day.
+His job was to make loans. Feeding his family relied on making loans. And if he didn’t make those loans, someone else would. So protesting or quitting felt pointless.
 
-But the bar for someone like my friend to say, this is unsustainable, so I’m going to quit and deliver pizza again is unbelievably high. It would be high for most of us. I didn’t blame him then. And I don’t blame him now.
+Everyone knew the subprime mortgage game was a joke in the mid 2000s. Everyone knew it would end one day. But the bar for someone like my friend to say, this is unsustainable, so. I’m going to quit and deliver pizza again is unbelievably high.
+
+It would be high for most of us. I didn’t blame him then. And. I don’t blame him now.
 
 A lot of bankers screwed up during the 2008 financial crisis. But too many of us underestimate how we ourselves would have acted if someone dangled enormous rewards in our face. Most people are blind to their own faults. To paraphrase Ben Franklin, vice knows it’s ugly, so it hides behind a mask.
 
@@ -484,25 +502,27 @@ It was going to report only on things that were objectively true. But Luce soon 
 <a id="sec-010528"></a>
 ### ⏱️ [01:05:28 - 01:10:28]
 
-Show me a man who thinks he’s objective, and I’ll show you a man who’s deceiving himself, Luce said. Some variation of this applies to many fields, especially service industries where someone pays for an expert’s opinion. There can be a difference between knowing what’s right and making a living delivering what you know to be right. This may be most common in investing, law, and medicine, when do nothing is the best answer, but do something is the career incentive.
+Show me a man who thinks he’s objective, and. I’ll show you a man who’s deceiving himself, Luce said. Some variation of this applies to many fields, especially service industries where someone pays for an expert’s opinion. There can be a difference between knowing what’s right and making a living delivering what you know to be right.
 
-Sometimes it’s immoral, but it can be an innocent form of cover your butt. Mostly, though, I think an advisor just feels useless if they tell a client, we don’t need to do anything here. In the quest to be helpful, they add complexity even when none is needed or when it might backfire. Years ago, John Stewart interviewed investor and CNBC host Jim Cramer.
+This may be most common in investing, law, and medicine, when do nothing is the best answer, but do something is the career incentive. Sometimes it’s immoral, but it can be an innocent form of cover your butt. Mostly, though, I think an advisor just feels useless if they tell a client, we don’t need to do anything here. In the quest to be helpful, they add complexity even when none is needed or when it might backfire.
 
-When pressed on CNBC content that ranged from contradictory to inane, Cramer said, look, we’ve got 17 hours of live TV a day to do. Stewart responded, maybe you can cut down on that. He’s right. But if you’re in the TV business, you can’t.
+Years ago, John Stewart interviewed investor and CNBC host Jim Cramer. When pressed on CNBC content that ranged from contradictory to inane, Cramer said, look, we’ve got 17 hours of live TV a day to do. Stewart responded, maybe you can cut down on that. He’s right.
 
-A doctor once told me the biggest thing they don’t teach in medical school is the difference between medicine and being a doctor. Medicine is a biological science, while being a doctor is often a social skill of managing expectations, understanding the insurance system, communicating effectively, and so on. Three things stick out here. When good and honest people can be incentivized into crazy behavior, it’s easy to underestimate the odds of the world going off the rails.
+But if you’re in the TV business, you can’t. A doctor once told me the biggest thing they don’t teach in medical school is the difference between medicine and being a doctor. Medicine is a biological science, while being a doctor is often a social skill of managing expectations, understanding the insurance system, communicating effectively, and so on. Three things stick out here.
 
-Everything from wars to recessions to frauds to business failures to market bubbles happen more often than people think because the moral boundaries of what people are willing to do can be extended with certain incentives. That goes both ways. It’s easy to underestimate how much good people can do, how talented they can become, and what they can accomplish when they operate in a world where their incentives are aligned toward progress. Extremes are the norm.
+When good and honest people can be incentivized into crazy behavior, it’s easy to underestimate the odds of the world going off the rails. Everything from wars to recessions to frauds to business failures to market bubbles happen more often than people think because the moral boundaries of what people are willing to do can be extended with certain incentives. That goes both ways. It’s easy to underestimate how much good people can do, how talented they can become, and what they can accomplish when they operate in a world where their incentives are aligned toward progress.
 
-Unsustainable things can last longer than you anticipate. Incentives can keep crazy, unsustainable trends going longer than seems reasonable because there are social and financial reasons preventing people from accepting reality for as long as they can. A good question to ask is, which of my current views would change if my incentives were different? If you answer, none, you are likely not only persuaded but blinded by your incentives.
+Extremes are the norm. Unsustainable things can last longer than you anticipate. Incentives can keep crazy, unsustainable trends going longer than seems reasonable because there are social and financial reasons preventing people from accepting reality for as long as they can. A good question to ask is, which of my current views would change if my incentives were different?
 
-Speaking of persuasion, let’s discuss a related point. Nothing is more persuasive than what you’ve experienced firsthand. Now you get it. Nothing is more persuasive than what you’ve experienced firsthand.
+If you answer, none, you are likely not only persuaded but blinded by your incentives. Speaking of persuasion, let’s discuss a related point. Nothing is more persuasive than what you’ve experienced firsthand. Now you get it.
 
-Nothing is more persuasive than what you’ve experienced firsthand. You can read and study and have empathy, but you often have no clue what you’re willing to do, what you want, and how far you’re willing to go until you’ve seen something with your own eyes. Harry Truman once said, the next generation never learns anything from the previous one until it’s brought home with a hammer. I’ve wondered why the next generation can’t profit from the generation before, but they never do until they get knocked in the head by experience.
+Nothing is more persuasive than what you’ve experienced firsthand. Nothing is more persuasive than what you’ve experienced firsthand. You can read and study and have empathy, but you often have no clue what you’re willing to do, what you want, and how far you’re willing to go until you’ve seen something with your own eyes. Harry Truman once said, the next generation never learns anything from the previous one until it’s brought home with a hammer.
 
-A big theme throughout history is that preferences are fickle and people have no idea how they’ll respond to an extreme shift in circumstance until they experience it for themselves. One of the most fascinating parts of the Great Depression isn’t just that the economy collapsed, but how quickly and dramatically people’s views changed as a result. Americans voted Herbert Hoover into office in 1928 with one of the biggest landslides in history, 444 electoral college votes. They voted him out in 1932 with a landslide in the other direction, 59 electoral college votes.
+I’ve wondered why the next generation can’t profit from the generation before, but they never do until they get knocked in the head by experience. A big theme throughout history is that preferences are fickle and people have no idea how they’ll respond to an extreme shift in circumstance until they experience it for themselves. One of the most fascinating parts of the Great Depression isn’t just that the economy collapsed, but how quickly and dramatically people’s views changed as a result.
 
-Then the big changes began, the gold standard gone, gold actually became illegal to own, public works surged, attempts to provide taxpayer-funded old age pension insurance made no progress for decades, with supporters arrested on the Capitol lawn during the most serious push after World War I. The Depression practically flipped a switch. A fringe idea was suddenly embraced. The Social Security Act was passed in 1935, 330-72, 33 in the House of Representatives, and 77, 6 in the Senate.
+Americans voted Herbert Hoover into office in 1928 with one of the biggest landslides in history, 444 electoral college votes. They voted him out in 1932 with a landslide in the other direction, 59 electoral college votes. Then the big changes began, the gold standard gone, gold actually became illegal to own, public works surged, attempts to provide taxpayer-funded old age pension insurance made no progress for decades, with supporters arrested on the Capitol lawn during the most serious push after World War.
+
+I. The Depression practically flipped a switch. A fringe idea was suddenly embraced. The Social Security Act was passed in 1935, 330-72, 33 in the House of Representatives, and 77, 6 in the Senate.
 
 On the other side of this was an alleged coup by wealthy businessmen to overthrow Franklin Roosevelt, with a Marine general named Smedley Butler taking his place as dictator, similar to fascist actions sweeping Europe at the time. These are not the kind of things that occur when people have full stomachs and stable jobs. It’s not until your life is upended, your hopes dashed, your dreams uncertain, that people say, what was that wild idea we heard before? Maybe we should give it a shot.
 
@@ -512,27 +532,29 @@ Nothing else is working might as well try.
 <a id="sec-011028"></a>
 ### ⏱️ [01:10:28 - 01:15:29]
 
-Comedian Trevor Noah once discussed apartheid in his native South Africa, noting, if you find the right balance between desperation and fear, you can make people do anything. It’s just so hard to understand that and understand how you’ll respond to risk, fear, and desperation until you’re in the heat of the moment. Nowhere was this more powerful than in 1930s Germany, where the Great Depression was preceded by devastating hyperinflation that destroyed all paper wealth. The book What We Knew features interviews with German civilians after World War II, seeking to understand how one of the most advanced and civilized cultures turned so sharp so quickly and committed the worst atrocities in human history.
+Comedian Trevor Noah once discussed apartheid in his native South Africa, noting, if you find the right balance between desperation and fear, you can make people do anything. It’s just so hard to understand that and understand how you’ll respond to risk, fear, and desperation until you’re in the heat of the moment. Nowhere was this more powerful than in 1930s Germany, where the Great Depression was preceded by devastating hyperinflation that destroyed all paper wealth. The book.
 
-At the beginning of this interview, you said that most grown-ups welcomed Hitler’s measures. Yes, clearly, one has to remember that in 1923 we had the inflation. The currency had inflated a trillion times. Then Adolf came to power with his new idea.
+What We Knew features interviews with German civilians after World War II, seeking to understand how one of the most advanced and civilized cultures turned so sharp so quickly and committed the worst atrocities in human history. At the beginning of this interview, you said that most grown-ups welcomed Hitler’s measures. Yes, clearly, one has to remember that in 1923 we had the inflation. The currency had inflated a trillion times.
 
-For most, that was indeed better. People who hadn’t had a job for years had a job. And then the people were all for the system. When someone helps you get out of an emergency situation and into a better life, then you’re going to give them your support.
+Then Adolf came to power with his new idea. For most, that was indeed better. People who hadn’t had a job for years had a job. And then the people were all for the system.
 
-Do you think people would then say, this is all such nonsense, I’m against that? No, that doesn’t happen. Or take Varlem Shalamov, a poet who spent 15 years imprisoned in a gulag. He once wrote how quickly normal people can crack under stress and uncertainty.
+When someone helps you get out of an emergency situation and into a better life, then you’re going to give them your support. Do you think people would then say, this is all such nonsense, I’m against that? No, that doesn’t happen. Or take Varlem Shalamov, a poet who spent 15 years imprisoned in a gulag.
 
-Take a good, honest, loving person and strip them of basic necessities, and you’ll soon get an unrecognizable monster who’ll do anything to survive. Under high stress, a man becomes a beast in three weeks, Shalamov wrote. Historian Stephen Ambrose chronicled World War II soldiers who left basic training full of bravado and confidence, eager to fight when they joined the front lines. Then they get shot at, and everything changes.
+He once wrote how quickly normal people can crack under stress and uncertainty. Take a good, honest, loving person and strip them of basic necessities, and you’ll soon get an unrecognizable monster who’ll do anything to survive. Under high stress, a man becomes a beast in three weeks, Shalamov wrote. Historian Stephen Ambrose chronicled World War II soldiers who left basic training full of bravado and confidence, eager to fight when they joined the front lines.
 
-There was no way training could prepare a man for combat, Ambrose wrote. It could teach you how to fire a gun and follow orders, but it could not teach men how to lie helpless under a shower of shrapnel in a field crisscrossed by machine gun fire. No one could understand it until they experienced it. These are some of the most extreme examples that exist.
+Then they get shot at, and everything changes. There was no way training could prepare a man for combat, Ambrose wrote. It could teach you how to fire a gun and follow orders, but it could not teach men how to lie helpless under a shower of shrapnel in a field crisscrossed by machine gun fire. No one could understand it until they experienced it.
 
-But the idea that people who are under stress quickly embrace ideas and goals they never would otherwise has left its fingerprints all over history. Take 94% tax rates after World War II. Low taxes were the most popular economic platform of the 1920s, and anyone suggesting a hike was pushed aside. Then everything broke with the doubleheader, depression, and war.
+These are some of the most extreme examples that exist. But the idea that people who are under stress quickly embrace ideas and goals they never would otherwise has left its fingerprints all over history. Take 94% tax rates after World War II. Low taxes were the most popular economic platform of the 1920s, and anyone suggesting a hike was pushed aside.
 
-In 1943, Franklin Roosevelt effectively capped incomes at the equivalent of $400,000 per year, with everything above that taxed at 94%. He was reelected in a landslide the next year. Same with the Reagan Revolution. Almost 80% of Americans had high trust in the government in 1964.
+Then everything broke with the doubleheader, depression, and war. In 1943, Franklin Roosevelt effectively capped incomes at the equivalent of $400,000 per year, with everything above that taxed at 94%. He was reelected in a landslide the next year. Same with the Reagan Revolution.
 
-Then the 1970s happened. Years of high inflation and high unemployment meant Americans were ready to listen to a politician who said the government was the cause of their problems, not the solution. The big takeaway here is that we really have no idea what policies we’ll be pushing for in, say, five or ten years. Unexpected hardship makes people do and think things they’d never imagine when things are calm.
+Almost 80% of Americans had high trust in the government in 1964. Then the 1970s happened. Years of high inflation and high unemployment meant Americans were ready to listen to a politician who said the government was the cause of their problems, not the solution. The big takeaway here is that we really have no idea what policies we’ll be pushing for in, say, five or ten years.
 
-Your personal views fall into the same trap. In investing, saying, I will be greedy when others are fearful is easier said than done because people underestimate how much their views and goals can change when markets break. The reason you may embrace ideas and goals you once thought unthinkable during a downturn is because more changes during downturns than just asset prices. If I, today, imagine how I’d respond to stocks falling 30%, I picture a world where everything is like it is today except stock valuations, which are 30% cheaper.
+Unexpected hardship makes people do and think things they’d never imagine when things are calm. Your personal views fall into the same trap. In investing, saying, I will be greedy when others are fearful is easier said than done because people underestimate how much their views and goals can change when markets break. The reason you may embrace ideas and goals you once thought unthinkable during a downturn is because more changes during downturns than just asset prices.
 
-But that’s not how the world works. Downturns don’t happen in isolation. The reason stocks might fall 30% is because big groups of people, companies, and politicians screwed something up, and their screw-ups might sap my confidence in our ability to recover. So my investment priorities might shift from growth It’s difficult to contextualize this mental shift when the economy is booming, and even though Warren Buffett says to be greedy when others are fearful, far more people agree with that quote than actually act on it.
+If. I, today, imagine how. I’d respond to stocks falling 30%, I picture a world where everything is like it is today except stock valuations, which are 30% cheaper. But that’s not how the world works.
+
+Downturns don’t happen in isolation. The reason stocks might fall 30% is because big groups of people, companies, and politicians screwed something up, and their screw-ups might sap my confidence in our ability to recover. So my investment priorities might shift from growth. It’s difficult to contextualize this mental shift when the economy is booming, and even though Warren Buffett says to be greedy when others are fearful, far more people agree with that quote than actually act on it.
 
 The same idea holds true for companies, careers, and relationships. Hard times make people do and think things they’d never imagine when things are calm. Chris Rock once joked about who actually teaches kids in school?
 
@@ -546,21 +568,25 @@ Learning to the moon is the coolest thing humans have ever done. You’d think i
 
 Three months later, after Al Bean walked on the moon during Apollo 12, he turned to astronaut Pete Conrad and said, it’s kind of like the song. Is that all there is? Conrad was relieved because he secretly felt the same, describing his moonwalk as spectacular but not momentous. Expectations also shift and goalposts move faster than you can imagine.
 
-Collins once said of Aldrin, I think he resents not being first on the moon more than he appreciates being second. I don’t think I’ve met or know of anyone with outsized success who gained as much happiness as an outsider might expect. That doesn’t mean success can’t bring pride or contentment or independence. But it’s rarely what you thought it would be before achieving it.
+Collins once said of Aldrin, I think he resents not being first on the moon more than he appreciates being second. I don’t think. I’ve met or know of anyone with outsized success who gained as much happiness as an outsider might expect. That doesn’t mean success can’t bring pride or contentment or independence.
 
-Jim Carrey once said, “I think everybody should get rich and famous and do everything they ever dreamed of so they can see that it’s not the answer.” Part of this is the same reason that predicting how you’ll respond to risk is difficult. It’s hard to imagine the full context until you experience it firsthand. If you think of your future self living in a new mansion, you imagine basking in splendor and everything feeling great. What’s easy to forget is that people in mansions can get the flu, have psoriasis, become embroiled in lawsuits, bicker with their spouses, feel racked with insecurity and annoyed with politicians, which in any given moment can supersede any joy that comes from material success.
+But it’s rarely what you thought it would be before achieving it. Jim Carrey once said, “I think everybody should get rich and famous and do everything they ever dreamed of so they can see that it’s not the answer.”. Part of this is the same reason that predicting how you’ll respond to risk is difficult. It’s hard to imagine the full context until you experience it firsthand.
 
-Future fortunes are imagined in a vacuum, but reality is always lived with the good and bad taken together, competing for attention. You might think you know how it’ll feel. Then you experience it firsthand and you realize, ah, okay, it’s more complicated than you thought. Now you get it.
+If you think of your future self living in a new mansion, you imagine basking in splendor and everything feeling great. What’s easy to forget is that people in mansions can get the flu, have psoriasis, become embroiled in lawsuits, bicker with their spouses, feel racked with insecurity and annoyed with politicians, which in any given moment can supersede any joy that comes from material success. Future fortunes are imagined in a vacuum, but reality is always lived with the good and bad taken together, competing for attention.
 
-Next, let’s talk about the long run. Time horizons. Saying I’m in it for the long run is a bit like standing at the base of Mount Everest, pointing to the top and saying that’s where I’m heading. Well, that’s nice.
+You might think you know how it’ll feel. Then you experience it firsthand and you realize, ah, okay, it’s more complicated than you thought. Now you get it. Next, let’s talk about the long run.
 
-Now comes the test. Nothing will ever separate us. We will probably be married another 10 years. Elizabeth Taylor, five days before filing for divorce, L, long term thinking is easier to believe in than to accomplish.
+Time horizons. Saying. I’m in it for the long run is a bit like standing at the base of Mount Everest, pointing to the top and saying that’s where. I’m heading.
 
-Most people know it’s the right strategy in investing, careers, relationships, anything that compounds, but saying I’m in it for the long run is a bit like standing at the base of Mount Everest, pointing to the top and saying that’s where I’m heading. Well that’s nice. Now comes the test. Long term is harder than most people imagine, which is why it’s more lucrative than many people assume.
+Well, that’s nice. Now comes the test. Nothing will ever separate us. We will probably be married another 10 years.
 
-Everything worthwhile has a price and the prices aren’t always obvious. The real price of long term, the skills required, the mentality needed is easy to minimize and often summarized with simple phrases like be more patient as if that explains why so many people can’t. To do long term effectively, you have to understand a few points. The long run is just a collection of short runs you have to put up with.
+Elizabeth Taylor, five days before filing for divorce, L, long term thinking is easier to believe in than to accomplish. Most people know it’s the right strategy in investing, careers, relationships, anything that compounds, but saying. I’m in it for the long run is a bit like standing at the base of Mount Everest, pointing to the top and saying that’s where. I’m heading.
 
-Saying you have a 10 year time horizon doesn’t exempt you from all the nonsense that happens in the next 10 years. Everyone has to experience the recessions, the bear markets, the meltdowns, the surprises and the memes. So rather than assuming long term thinkers don’t have to deal with short term nonsense, ask the question, how can I endure a never ending parade of nonsense? Long term thinking can be a deceptive safety blanket that people assume lets them bypass the painful and unpredictable short run, but it never does.
+Well that’s nice. Now comes the test. Long term is harder than most people imagine, which is why it’s more lucrative than many people assume. Everything worthwhile has a price and the prices aren’t always obvious.
+
+The real price of long term, the skills required, the mentality needed is easy to minimize and often summarized with simple phrases like be more patient as if that explains why so many people can’t. To do long term effectively, you have to understand a few points. The long run is just a collection of short runs you have to put up with. Saying you have a 10 year time horizon doesn’t exempt you from all the nonsense that happens in the next 10 years.
+
+Everyone has to experience the recessions, the bear markets, the meltdowns, the surprises and the memes. So rather than assuming long term thinkers don’t have to deal with short term nonsense, ask the question, how can. I endure a never ending parade of nonsense? Long term thinking can be a deceptive safety blanket that people assume lets them bypass the painful and unpredictable short run, but it never does.
 
 It might be the opposite. The longer your time horizon, the more calamities and disasters you’ll experience. Baseball player Dan Quiesenberry once said, the future is much like the present, only longer. Dealing with that reality requires a certain kind of alignment that’s easy to overlook.
 
@@ -576,29 +602,33 @@ matter. No one’s around to benefit. The same thing happens when you have the g
 
 These are not rarities. They’re some of the most common outcomes in life. A lot of it comes from the gap between what you believe and what you can convince other people of. People mock how much short-term thinking there is in the financial industry, and they should.
 
-But I also get it. The reason so many financial professionals stray towards short-termism is because it’s the only way to run a viable business when customers flee at the first sign of trouble. But the reason customers flee is often because investors have done such a poor job communicating how investing works, what their strategy is, what they should expect as an investor, and how to deal with inevitable volatility and cyclicality. Eventually being right is one thing.
+But. I also get it. The reason so many financial professionals stray towards short-termism is because it’s the only way to run a viable business when customers flee at the first sign of trouble. But the reason customers flee is often because investors have done such a poor job communicating how investing works, what their strategy is, what they should expect as an investor, and how to deal with inevitable volatility and cyclicality.
 
-But can you eventually be right and convince those around you? That’s completely different and easy to overlook. Patience is often stubbornness in disguise. The world changes, which makes changing your mind not just helpful, but crucial.
+Eventually being right is one thing. But can you eventually be right and convince those around you? That’s completely different and easy to overlook. Patience is often stubbornness in disguise.
 
-But changing your mind is hard because fooling yourself into believing a falsehood is so much easier than admitting a mistake. Long-term thinking can become a crutch for those who are wrong but don’t want to change their mind. They say, I’m just early, or everyone else is crazy. And they can’t let go of something that used to be true, but the world has moved on from.
+The world changes, which makes changing your mind not just helpful, but crucial. But changing your mind is hard because fooling yourself into believing a falsehood is so much easier than admitting a mistake. Long-term thinking can become a crutch for those who are wrong but don’t want to change their mind. They say, I’m just early, or everyone else is crazy.
 
-Doing long-term thinking well requires identifying when you’re being patient versus just stubborn. Not an easy thing to do. The only solution is knowing the very few things in your industry that will never change and putting everything else in a bucket that’s in constant need of updating and adapting. The few, very few things that never change are candidates for long-term thinking.
+And they can’t let go of something that used to be true, but the world has moved on from. Doing long-term thinking well requires identifying when you’re being patient versus just stubborn. Not an easy thing to do. The only solution is knowing the very few things in your industry that will never change and putting everything else in a bucket that’s in constant need of updating and adapting.
 
-Everything else has a shelf life. Long-term is less about time horizon and more about flexibility. If it’s 2010 and you say, I have a 10-year time horizon, your target date is 2020, which is when the world fell to pieces. If you were a business or an investor, it was a terrible time to assume the world was ready to hand you the reward you had been patiently awaiting.
+The few, very few things that never change are candidates for long-term thinking. Everything else has a shelf life. Long-term is less about time horizon and more about flexibility. If it’s 2010 and you say, I have a 10-year time horizon, your target date is 2020, which is when the world fell to pieces.
 
-A long-time horizon with a firm end date can be as reliant on chance as a short-time horizon. Our superior is flexibility. Time is compounding’s magic and its importance can’t be minimized, but the odds of success fall deepest in your favor when you mix a long-time horizon with a flexible end date or an indefinite horizon. Benjamin Graham said, the purpose of the margin of safety is to render the forecast unnecessary.
+If you were a business or an investor, it was a terrible time to assume the world was ready to hand you the reward you had been patiently awaiting. A long-time horizon with a firm end date can be as reliant on chance as a short-time horizon. Our superior is flexibility. Time is compounding’s magic and its importance can’t be minimized, but the odds of success fall deepest in your favor when you mix a long-time horizon with a flexible end date or an indefinite horizon.
 
-The more flexibility you have, the less you need to know what happens next. And never forget John Maynard Keynes. In the long run, we’re all dead. Another point about long-term thinking is how it sways the information we consume.
+Benjamin Graham said, the purpose of the margin of safety is to render the forecast unnecessary. The more flexibility you have, the less you need to know what happens next. And never forget John Maynard Keynes. In the long run, we’re all dead.
 
-I try to ask when I’m reading, will I care about this a year from now, 10 years from now, 80 years from now? It’s fine if the answer is no, even a lot of the time, but if you’re honest with yourself, you may begin to steer toward the more enduring bits of information. There are two types of information, permanent and expiring. Permanent information is, how do people behave when they encounter a risk they hadn’t fathomed?
+Another point about long-term thinking is how it sways the information we consume. I try to ask when. I’m reading, will. I care about this a year from now, 10 years from now, 80 years from now?
 
-Expiring information is, how much profit did Microsoft earn in the second quarter of 2005? Expiring knowledge catches more attention than it should, for two reasons. One, there’s a lot of it, eager to keep our short attention spans occupied. Two, we chase it down, anxious to squeeze insight out of it before it loses relevance.
+It’s fine if the answer is no, even a lot of the time, but if you’re honest with yourself, you may begin to steer toward the more enduring bits of information. There are two types of information, permanent and expiring. Permanent information is, how do people behave when they encounter a risk they hadn’t fathomed? Expiring information is, how much profit did Microsoft earn in the second quarter of 2005?
 
-Permanent information is harder to notice because it’s buried in books rather than blasted in headlines, but its benefit is huge. It’s not just that permanent information never expires, letting you accumulate it. It also compounds over time, leveraging off what you’ve already learned. Expiring information tells you what happened.
+Expiring knowledge catches more attention than it should, for two reasons. One, there’s a lot of it, eager to keep our short attention spans occupied. Two, we chase it down, anxious to squeeze insight out of it before it loses relevance. Permanent information is harder to notice because it’s buried in books rather than blasted in headlines, but its benefit is huge.
 
-Permanent information tells you why something happened and is likely to happen again. What why can translate and interact with stuff you know about other topics, which is where the compounding comes in. I read newspapers and books every day. I cannot recall one damn thing I read in a newspaper from, say, 2011, but I can tell you in detail about a few great books I read in 2011 and how they changed the way I think.
+It’s not just that permanent information never expires, letting you accumulate it. It also compounds over time, leveraging off what you’ve already learned. Expiring information tells you what happened. Permanent information tells you why something happened and is likely to happen again.
 
-I’ll remember them forever. I’ll keep reading newspapers. But if I read more books, I’d probably develop better filters and frameworks that would help me make better sense of the news. The point, then, isn’t that you should read less news and more books.
+What why can translate and interact with stuff you know about other topics, which is where the compounding comes in. I read newspapers and books every day. I cannot recall one damn thing. I read in a newspaper from, say, 2011, but.
+
+I can tell you in detail about a few great books. I read in 2011 and how they changed the way. I think. I’ll remember them forever.
+
+I’ll keep reading newspapers. But if. I read more books, I’d probably develop better filters and frameworks that would help me make better sense of the news. The point, then, isn’t that you should read less news and more books.
 
 It’s that if you read good books, you’ll have an easier time understanding what you
 
@@ -608,29 +638,31 @@ It’s that if you read good books, you’ll have an easier time understanding w
 
 should or shouldn’t pay attention to in the news. Next up, when trying too hard backfires, trying too hard. There are no points awarded for difficulty. Let’s discuss an enduring quirk of human behavior, the allure of complexity, intellectual stimulation and discounting things that are simple but very effective in preference to things that are complex but less effective.
 
-In 2013, Harold Varmus, then director of the National Cancer Institute, gave a speech describing how difficult the war on cancer had become. Eradicating cancer, the National Cancer Act’s goal when it was signed in 1971, seemed perpetually distant. Varmus said, there’s a paradox that we must now honestly confront. Despite the extraordinary progress we’ve made in understanding the underlying defects in cancer cells, we have not succeeded in controlling cancer as a human disease to the extent that I believe is possible.
+In 2013, Harold Varmus, then director of the National Cancer Institute, gave a speech describing how difficult the war on cancer had become. Eradicating cancer, the National Cancer Act’s goal when it was signed in 1971, seemed perpetually distant. Varmus said, there’s a paradox that we must now honestly confront. Despite the extraordinary progress we’ve made in understanding the underlying defects in cancer cells, we have not succeeded in controlling cancer as a human disease to the extent that.
 
-One of the missing pieces, he said, is that we focus too much on cancer treatment and not enough on cancer prevention. If you wanted to get the next big leg up in the war on cancer, you had to make prevention the front line. But prevention is boring, especially compared to the science and prestige of cancer treatments. So even if we know how important it is, it’s hard for smart people to take it seriously.
+I believe is possible. One of the missing pieces, he said, is that we focus too much on cancer treatment and not enough on cancer prevention. If you wanted to get the next big leg up in the war on cancer, you had to make prevention the front line. But prevention is boring, especially compared to the science and prestige of cancer treatments.
 
-MIT cancer researcher Robert Weinberg once described it this way. You can’t die from cancer if you don’t get cancer in the first place. But that simple truth is easy to overlook because it’s not intellectually stimulating. Persuading somebody to quit smoking is a psychological exercise.
+So even if we know how important it is, it’s hard for smart people to take it seriously. MIT cancer researcher Robert Weinberg once described it this way. You can’t die from cancer if you don’t get cancer in the first place. But that simple truth is easy to overlook because it’s not intellectually stimulating.
 
-It has nothing to do with molecules and genes and cells. And so people like me are essentially uninterested in it. That’s in spite of the fact, he says, that getting people to quit smoking can make a bigger impact in the war on cancer than anything he, as a biologist, can do in his lifetime. It’s astounding, isn’t it?
+Persuading somebody to quit smoking is a psychological exercise. It has nothing to do with molecules and genes and cells. And so people like me are essentially uninterested in it. That’s in spite of the fact, he says, that getting people to quit smoking can make a bigger impact in the war on cancer than anything he, as a biologist, can do in his lifetime.
 
-Here you have one of the top cancer researchers in the world, and he’s saying he could make a bigger impact on cancer if he focused on getting people to quit smoking. But that’s not intellectually stimulating enough for him, or for many scientists for that matter.
+It’s astounding, isn’t it? Here you have one of the top cancer researchers in the world, and he’s saying he could make a bigger impact on cancer if he focused on getting people to quit smoking. But that’s not intellectually stimulating enough for him, or for many scientists for that matter.
 
 Now, I don’t blame him, and Weinberg has added enormous value to the war on cancer. But here we have an example of complexity being favored for its excitement when simplicity may actually do a better job. And that, I’ll tell you, is a big lesson that applies to many things. Cancer scientist Edsger Dijkstra once wrote, Simplicity is the hallmark of truth.
 
 We should know better, but complexity continues to have a morbid attraction. When you give an academic audience a lecture that is crystal clear, from Alpha to Omega, your audience feels cheated. The sore truth is that complexity sells better. The sore truth is that complexity sells better.
 
-Of course it does. We see that everywhere. To take a simple example, the U. S. Constitution is 7,591 words. Compare that to the average mortgage contract, which is over 15,000 words, and Apple’s iCloud Terms of Service Agreement, which is 7,314 words.
+Of course, it does. We see that everywhere. To take a simple example, the U. S.
 
-The U. S. tax code is over 11 million words. Sometimes length is necessary. When the Allies met to discuss what to do with Germany after World War II, Winston Churchill noted, We are dealing with the fate of 80 million people, and that requires more than 80 minutes to consider. But in most situations, a handful of simple variables drives the majority of outcomes.
+Constitution is 7,591 words. Compare that to the average mortgage contract, which is over 15,000 words, and Apple’s iCloud Terms of Service Agreement, which is 7,314 words. The U. S. tax code is over 11 million words.
 
-If you’ve covered the few things that matter, you’re all set. A lot of what gets added after that is unnecessary filler that is either intellectually seductive, wastes your time, or is designed to confuse or impress you. Nature has figured this out. Samuel Williston was a 19th century paleontologist who first noticed a historic trend in the reduction of body parts.
+Sometimes length is necessary. When the Allies met to discuss what to do with Germany after World War II, Winston Churchill noted, We are dealing with the fate of 80 million people, and that requires more than 80 minutes to consider. But in most situations, a handful of simple variables drives the majority of outcomes. If you’ve covered the few things that matter, you’re all set.
 
-Primitive animals often had many duplicate body parts, then evolution reduced the number, but increased their usefulness. The course of evolution has been to reduce the number of parts, and to adapt those which remain more closely with their special uses, either by increase in size or by modifications of their shape and structure, Williston wrote in 1914. Animals with hundreds of teeth often evolved. to have a handful of specialized incisors, canines, and molars. Dozens of jaw bones fused into two big ones.
+A lot of what gets added after that is unnecessary filler that is either intellectually seductive, wastes your time, or is designed to confuse or impress you. Nature has figured this out. Samuel Williston was a 19th century paleontologist who first noticed a historic trend in the reduction of body parts. Primitive animals often had many duplicate body parts, then evolution reduced the number, but increased their usefulness.
 
-Skulls often made up of hundreds of tiny bones evolved into typically fewer than 30. Evolution figured out its version of simplification. It, if you can imagine evolution talking, says, get all that useless crap out of the way. Just give me the few things I need and make them effective.
+The course of evolution has been to reduce the number of parts, and to adapt those which remain more closely with their special uses, either by increase in size or by modifications of their shape and structure, Williston wrote in 1914. Animals with hundreds of teeth often evolved. to have a handful of specialized incisors, canines, and molars. Dozens of jaw bones fused into two big ones. Skulls often made up of hundreds of tiny bones evolved into typically fewer than 30.
+
+Evolution figured out its version of simplification. It, if you can imagine evolution talking, says, get all that useless crap out of the way. Just give me the few things. I need and make them effective.
 
 A trick to learning a complicated topic is realizing how many complex details are cousins of something simple. John Reed wrote in his book, Succeeding,
 
@@ -644,19 +676,21 @@ This is so vital. In finance, spending less than you make, saving the difference
 
 In health, it’s sleep eight hours, move a lot, eat real food, but not too much. But what’s popular? Supplements, hacks, and pills. Mark Twain said kids provide the most interesting information for the tell all they know and then they stop.
 
-Adults tend to lose this skill or they learn a new skill, how to dazzle with nonsense. Stephen King explains in his book On Writing, this is a short book because most books about writing are filled with bullshit. I figured the shorter the book, the less bullshit. Poetry, the question then is, why?
+Adults tend to lose this skill or they learn a new skill, how to dazzle with nonsense. Stephen King explains in his book. On Writing, this is a short book because most books about writing are filled with bullshit. I figured the shorter the book, the less bullshit.
 
-Why are complexity and length so appealing when simplicity and brevity will do? A few reasons. Complexity gives a comforting impression of control while simplicity is hard to distinguish from cluelessness. In most fields, a handful of variables dictate the majority of outcomes.
+Poetry, the question then is, why? Why are complexity and length so appealing when simplicity and brevity will do? A few reasons. Complexity gives a comforting impression of control while simplicity is hard to distinguish from cluelessness.
 
-But paying attention to only those few variables can feel like you’re leaving too much of the outcome to fate. The more knobs you can fiddle with, the hundred tab spreadsheet or the big data analysis, the more control you feel you have over the situation if only because the impression of knowledge increases. The flip side is that paying attention to only a few variables while ignoring the majority of others can make you look ignorant. If a client says, what about this?
+In most fields, a handful of variables dictate the majority of outcomes. But paying attention to only those few variables can feel like you’re leaving too much of the outcome to fate. The more knobs you can fiddle with, the hundred tab spreadsheet or the big data analysis, the more control you feel you have over the situation if only because the impression of knowledge increases. The flip side is that paying attention to only a few variables while ignoring the majority of others can make you look ignorant.
 
-What’s happening here? And you respond, oh, I have no idea. I don’t even look at that. The odds that you’ll sound uninformed are greater than the odds you’ll sound like you’ve mastered simplicity.
+If a client says, what about this? What’s happening here? And you respond, oh, I have no idea. I don’t even look at that.
 
-Things you don’t understand create a mystique around people who do. If you say something I didn’t know but can understand, I might think you’re smart. If you say something I can’t understand, I might think you have an ability to think about a topic in ways I can’t, which is a whole different species of admiration. When you understand things I don’t, I have a hard time judging the limits of your knowledge in that field, which makes me more prone to taking your views at face value.
+The odds that you’ll sound uninformed are greater than the odds you’ll sound like you’ve mastered simplicity. Things you don’t understand create a mystique around people who do. If you say something. I didn’t know but can understand, I might think you’re smart.
 
-Length is often the only thing that can signal effort and thoughtfulness. A typical nonfiction book covering a single topic is perhaps 250 pages or something like 65,000 words. The funny thing is the average reader does not come close to finishing most books they buy. Even among bestsellers, average readers quit after a few dozen pages.
+If you say something. I can’t understand, I might think you have an ability to think about a topic in ways. I can’t, which is a whole different species of admiration. When you understand things.
 
-Length then has to serve a purpose other than providing more material. My theory is that length indicates the author has spent more time thinking about a topic than you have, which can be the only data point signaling they might have insights you don’t. It doesn’t mean their thinking is right, and you may understand their point after two chapters, but the purpose of chapters 3.16 is often to show that the author has done so much work that chapters one and two might have some insight.
+I don’t, I have a hard time judging the limits of your knowledge in that field, which makes me more prone to taking your views at face value. Length is often the only thing that can signal effort and thoughtfulness. A typical nonfiction book covering a single topic is perhaps 250 pages or something like 65,000 words. The funny thing is the average reader does not come close to finishing most books they buy.
+
+Even among bestsellers, average readers quit after a few dozen pages. Length then has to serve a purpose other than providing more material. My theory is that length indicates the author has spent more time thinking about a topic than you have, which can be the only data point signaling they might have insights you don’t. It doesn’t mean their thinking is right, and you may understand their point after two chapters, but the purpose of chapters 3.16 is often to show that the author has done so much work that chapters one and two might have some insight.
 
 Same goes for research reports and white papers. Simplicity feels like an easy walk. Complexity feels like a mental marathon. If the reps don’t hurt when you’re exercising, you’re not really exercising.
 
@@ -678,23 +712,25 @@ It allowed his mind to settle on the most likely diagnosis rather than be burden
 
 It’s possible to try too hard, to be too attracted to complexity and doing so can backfire spectacularly. We’ve made it to the last chapter. It’s one of my favorites. Wounds heal.
 
-Scars last. What have you experienced that I haven’t that makes you believe what you do? And what I think about the world like you do if I experienced what you have. Derive past the Pentagon in Washington DC and there is no tree of the plane that crashed into its walls on September 11th, 2001, but drive three minutes down the road to Reagan National Airport and the scars of 9-11 are everywhere.
+Scars last. What have you experienced that. I haven’t that makes you believe what you do? And what.
 
-Shoes off, jackets off, belts off, toothpaste out, hands up and empty your water bottle while going through security. Here’s a common theme in the way people think. Wounds heal, but scars last. There’s a long history of people adapting and rebuilding while the scars of their ordeal remain forever, changing how they think about risk, reward, opportunities and goals for as long as they live.
+I think about the world like you do if. I experienced what you have. Derive past the Pentagon in Washington DC and there is no tree of the plane that crashed into its walls on September 11th, 2001, but drive three minutes down the road to Reagan National Airport and the scars of 9-11 are everywhere. Shoes off, jackets off, belts off, toothpaste out, hands up and empty your water bottle while going through security.
 
-An important component of human behavior is that people who’ve had different experiences than you will think differently than you do. They’ll have different goals, outlooks, wishes and values. So most debates are not actual disagreements. They’re people with different experiences talking over each other.
+Here’s a common theme in the way people think. Wounds heal, but scars last. There’s a long history of people adapting and rebuilding while the scars of their ordeal remain forever, changing how they think about risk, reward, opportunities and goals for as long as they live. An important component of human behavior is that people who’ve had different experiences than you will think differently than you do.
 
-Let me share a few times in history when the weight of personal experiences led to massive shifts in people’s outlook on life. More than 30 million people about the population of California died over four years on the Eastern front during World War II. The dozen or so territories that made up the Soviet Republic represented about 10% of the world’s population in 1940. By 1945, nearly 14% of that group was dead. 70,000 villages were completely destroyed.
+They’ll have different goals, outlooks, wishes and values. So most debates are not actual disagreements. They’re people with different experiences talking over each other. Let me share a few times in history when the weight of personal experiences led to massive shifts in people’s outlook on life.
 
-There are stories of people still finding bones, bullets and bombs in this region today, but most of the physical damage of the war was cleaned up by 1960. Industries rebuilt, people reorganized. Total population surpassed its pre-war level less than a decade after the war ended. This trend was more noticeable in Japan whose economy opened up to global markets after the war.
+More than 30 million people about the population of California died over four years on the Eastern front during World War II. The dozen or so territories that made up the Soviet Republic represented about 10% of the world’s population in 1940. By 1945, nearly 14% of that group was dead. 70,000 villages were completely destroyed. There are stories of people still finding bones, bullets and bombs in this region today, but most of the physical damage of the war was cleaned up by 1960.
 
-In 1946, Japan was producing enough food to provide only 1,500 calories a day for its people. By 1960, it was one of the fastest growing economies in the world. Its GDP increased from $91 billion in 1965 to $1.1 trillion in 1980 with technology and manufacturing rivaling and surpassing any other region in the world. The same is true for recessions, things heal and markets, things recover and businesses, past mistakes are forgotten, but scars last.
+Industries rebuilt, people reorganized. Total population surpassed its pre-war level less than a decade after the war ended. This trend was more noticeable in Japan whose economy opened up to global markets after the war. In 1946, Japan was producing enough food to provide only 1,500 calories a day for its people.
 
-A study of 20,000 people from 13 countries who lived through World War II found they were 3% more likely to have diabetes as adults and 6% more likely to suffer depression. Compared to those who avoided the war, they were less likely to marry and less satisfied with their lives as older adults. In 1952, Frederick Louis Allen wrote about those who lived through the Great Depression. They were not at by a constant lurking fear of worst things yet and in all too many cases actually went hungry.
+By 1960, it was one of the fastest growing economies in the world. Its GDP increased from $91 billion in 1965 to $1.1 trillion in 1980 with technology and manufacturing rivaling and surpassing any other region in the world. The same is true for recessions, things heal and markets, things recover and businesses, past mistakes are forgotten, but scars last. A study of 20,000 people from 13 countries who lived through World War II found they were 3% more likely to have diabetes as adults and 6% more likely to suffer depression.
 
-They cast a cynical eye upon the old Horatio Alger formula for success, to be dubious about taking chances for ambition’s sake, to look with a favorable eye upon a safe if unadventurous job, social insurance plans, pension plans. They had learned from bitter experience to crave security. They had learned from bitter experience to crave security. This again was written in the 1950s when the US economy was roaring and the unemployment rate was near a record low of less than 3%.
+Compared to those who avoided the war, they were less likely to marry and less satisfied with their lives as older adults. In 1952, Frederick Louis Allen wrote about those who lived through the Great Depression. They were not at by a constant lurking fear of worst things yet and in all too many cases actually went hungry. They cast a cynical eye upon the old Horatio Alger formula for success, to be dubious about taking chances for ambition’s sake, to look with a favorable eye upon a safe if unadventurous job, social insurance plans, pension plans.
 
-It is too easy to examine history and say, look, if you just held on and took a long-term view, things recovered and life went on without realizing that mindsets are harder to repair than buildings and cash flows. We can see and measure just about everything in the world
+They had learned from bitter experience to crave security. They had learned from bitter experience to crave security. This again was written in the 1950s when the US economy was roaring and the unemployment rate was near a record low of less than 3%. It is too easy to examine history and say, look, if you just held on and took a long-term view, things recovered and life went on without realizing that mindsets are harder to repair than buildings and cash flows.
+
+We can see and measure just about everything in the world
 
 
 <a id="sec-014037"></a>
@@ -724,7 +760,7 @@ There is too little of everything. Too few houses to live in and not enough glas
 
 Historian Tony Judt notes that the state of affairs was so bad in post-war Europe that only the state could offer hope of salvation to the masses of displaced people. So it did. Everything from generous unemployment insurance to universal healthcare became common after the war in ways that never caught on in America. Historian Michael Howard has said that war and welfare go hand in hand.
 
-Perhaps that’s because even the most financially prepared, the most risk averse and those with the most foresight can… be completely crushed by war. Europeans did not to choose whether they wanted to be caught up in World War II, it became the most pressing issue of their lives whether they supported it or not, and it crushed their sense of control whether they prepared for it or not. It’s why baby boomers who lived through the 1970s and 80s think about inflation in ways their children couldn’t fathom as young adults.
+Perhaps, that’s because even the most financially prepared, the most risk averse and those with the most foresight can… be completely crushed by war. Europeans did not to choose whether they wanted to be caught up in World War II, it became the most pressing issue of their lives whether they supported it or not, and it crushed their sense of control whether they prepared for it or not. It’s why baby boomers who lived through the 1970s and 80s think about inflation in ways their children couldn’t fathom as young adults.
 
 And it’s why you can separate today’s tech entrepreneurs into clearly different buckets. Those who experienced the dot-com crash in the late 1990s, and those who didn’t because
 
@@ -734,9 +770,11 @@ And it’s why you can separate today’s tech entrepreneurs into clearly differ
 
 they were too young. Two things tend to happen after you get hit with something big and unexpected. You assume what just happened will keep happening, but with greater force and consequence. You forecast with great conviction despite the original event being improbable and something few if anyone predicted.
 
-The more impactful the surprise, the more this is true, and importantly the more those who didn’t experience that big event will struggle to understand your point of view. The oldest story is that of two sides who don’t agree with each other. The question, why don’t you agree with me, can have infinite answers. Sometimes one side is selfish or stupid or blind or uninformed, but usually a better question is, what have you experienced that I haven’t that makes you believe what you do, and what I think about the world like you do if I experienced what you have?
+The more impactful the surprise, the more this is true, and importantly the more those who didn’t experience that big event will struggle to understand your point of view. The oldest story is that of two sides who don’t agree with each other. The question, why don’t you agree with me, can have infinite answers. Sometimes one side is selfish or stupid or blind or uninformed, but usually a better question is, what have you experienced that.
 
-It’s the question that contains the most answers about why people don’t agree with one another. But it’s such a hard question to ask. It’s uncomfortable to think that what you haven’t experienced might change what you believe because it’s admitting your own ignorance. It’s much easier to assume that those who disagree with you aren’t thinking as hard as you are.
+I haven’t that makes you believe what you do, and what. I think about the world like you do if. I experienced what you have? It’s the question that contains the most answers about why people don’t agree with one another.
 
-So people will disagree even as access to information explodes. They may disagree more than ever because, as Benedict Evans says, the more the internet exposes people to new points of view, the angrier people get that different views exist. Disagreement has less to do with what people know and more to do with what they’ve experienced. And since experiences will always be different, disagreement will be constant, same as it’s ever been, same as it will always be, same as it ever was.
+But it’s such a hard question to ask. It’s uncomfortable to think that what you haven’t experienced might change what you believe because it’s admitting your own ignorance. It’s much easier to assume that those who disagree with you aren’t thinking as hard as you are. So people will disagree even as access to information explodes.
+
+They may disagree more than ever because, as Benedict Evans says, the more the internet exposes people to new points of view, the angrier people get that different views exist. Disagreement has less to do with what people know and more to do with what they’ve experienced. And since experiences will always be different, disagreement will be constant, same as it’s ever been, same as it will always be, same as it ever was.
 

@@ -61,15 +61,19 @@
 <a id="sec-000000"></a>
 ### ⏱️ [00:00:00 - 00:05:01]
 
-Master Your Emotions. A Practical Guide to Overcome Negativity and Better Manage Your Feelings. By Tebow Muris. Introduction.
+Master. Your Emotions. A Practical Guide to Overcome Negativity and Better Manage. Your Feelings.
 
-The mind in its own place, and in itself can make a heaven of hell, a hell of heaven. John Milton, poet. We all experience a wild range of emotions throughout our lives. I had to admit, while writing this book, I experienced highs and lows myself.
+By Tebow Muris. Introduction. The mind in its own place, and in itself can make a heaven of hell, a hell of heaven. John Milton, poet.
 
-At first, I was filled with excitement and thrilled at the idea of providing people with a guide to help them understand their emotions. I imagined how readers' lives would improve as they learned to control their emotions. My motivation was high and I couldn’t help but imagine how great the book would be. Or so I thought.
+We all experience a wild range of emotions throughout our lives. I had to admit, while writing this book, I experienced highs and lows myself. At first, I was filled with excitement and thrilled at the idea of providing people with a guide to help them understand their emotions. I imagined how readers' lives would improve as they learned to control their emotions.
 
-After the initial excitement, the time came to sit down to write the actual book, and that’s when the excitement wore off pretty quickly. Emotions that looked great in my mind suddenly felt dull. My writing seemed boring, and I felt as though I had nothing substantive or valuable to contribute. Sitting at my desk and writing became more challenging each day.
+My motivation was high and. I couldn’t help but imagine how great the book would be. Or so. I thought.
 
-I started losing confidence. Who was I to write a book about emotions if I couldn’t even master my own emotions? How ironic. I considered giving up.
+After the initial excitement, the time came to sit down to write the actual book, and that’s when the excitement wore off pretty quickly. Emotions that looked great in my mind suddenly felt dull. My writing seemed boring, and. I felt as though.
+
+I had nothing substantive or valuable to contribute. Sitting at my desk and writing became more challenging each day. I started losing confidence. Who was.
+
+I to write a book about emotions if. I couldn’t even master my own emotions? How ironic. I considered giving up.
 
 There are already plenty of books on the topic, so why add one more? At the same time, I realized this book was a perfect opportunity to work on my own emotional issues. And who doesn’t suffer from negative emotions from time to time? We all have highs and lows, don’t we?
 
@@ -77,7 +81,7 @@ The key is what we do with our lows. Are we using our emotions to grow? Are we l
 
 So, let’s talk about your emotions now. Let me start by asking you this. How do you feel right now? Knowing how you feel is the first step toward taking control of your emotions.
 
-You may have spent so much time internalizing you’ve lost touch with your emotions. Perhaps you answered as follows, I feel this book could be useful, or, I really feel I could learn something from this book.
+You may have spent so much time internalizing you’ve lost touch with your emotions. Perhaps, you answered as follows, I feel this book could be useful, or, I really feel. I could learn something from this book.
 
 However, none of these answers reflect how you feel. You don’t feel like this, or, feel like that, you simply feel. You don’t feel like, this book could be useful, you think, this book could be useful, and that generates an emotion which makes you feel excited about reading it. Feelings manifest as physical sensations in your body, not as an idea in your mind.
 
@@ -109,19 +113,21 @@ You’ll also learn how to condition your mind to experience more positive emoti
 
 Let’s get started. How to use this book. I encourage you to read all the way through this book at least once. After that, I invite you to revisit the book and focus on the sections you want to explore in more depth.
 
-In this book, I include a number of different exercises. Though I don’t expect you to go through them all, my hope is you’ll pick some and apply them in your life. Remember, the results you’ll get out of this book depend on how much time and effort you’re willing to put in. If you feel this book could be of any use to your family members or friends, make sure to share it with them.
+In this book, I include a number of different exercises. Though. I don’t expect you to go through them all, my hope is you’ll pick some and apply them in your life. Remember, the results you’ll get out of this book depend on how much time and effort you’re willing to put in.
 
-Emotions are complex and I believe it would benefit us all to deepen our understanding of the topic.
+If you feel this book could be of any use to your family members or friends, make sure to share it with them. Emotions are complex and. I believe it would benefit us all to deepen our understanding of the topic.
 
-#### Part 1. What Emotions Are. Have you ever wondered what emotions are and what purpose they serve? In this section, we’ll discuss how your survival mechanism affects your emotions.
+#### Part 1. What Emotions Are.
 
-Then, we’ll explain what the ego is and how it impacts your emotions. Finally, we’ll discover the mechanism behind emotions and learn why negative emotions can be so hard to deal with. 1. How your survival mechanism affects your emotions. Why people have a bias towards negativity.
+Have you ever wondered what emotions are and what purpose they serve? In this section, we’ll discuss how your survival mechanism affects your emotions. Then, we’ll explain what the ego is and how it impacts your emotions.
 
-Your brain is designed for survival, which explains why you’re able to read this book at this very moment. When you think about it, the probability of you being born was extremely low. For this miracle to happen, all the generations before you had to survive long enough to procreate. In their quest for survival and procreation, they must have faced death hundreds or perhaps thousands of times.
+Finally, we’ll discover the mechanism behind emotions and learn why negative emotions can be so hard to deal with. 1. How your survival mechanism affects your emotions. Why people have a bias towards negativity. Your brain is designed for survival, which explains why you’re able to read this book at this very moment.
 
-Fortunately, unlike your ancestors, you’re, probably, not facing death every day. In fact, in many parts of the world, life has never been safer. Yet, your survival mechanism hasn’t changed much. Your brain still scans your environment looking for potential threats.
+When you think about it, the probability of you being born was extremely low. For this miracle to happen, all the generations before you had to survive long enough to procreate. In their quest for survival and procreation, they must have faced death hundreds or perhaps thousands of times. Fortunately, unlike your ancestors, you’re, probably, not facing death every day.
 
-In many ways, some parts of your brain have become obsolete. While you may not be seconds away from being eaten by a predator, your brain still gives significantly more weight to negative events than to positive ones. Fear of rejection is one example of a bias toward negativity. In the past, being rejected from your tribe would reduce your chances of survival significantly.
+In fact, in many parts of the world, life has never been safer. Yet, your survival mechanism hasn’t changed much. Your brain still scans your environment looking for potential threats. In many ways, some parts of your brain have become obsolete.
+
+While you may not be seconds away from being eaten by a predator, your brain still gives significantly more weight to negative events than to positive ones. Fear of rejection is one example of a bias toward negativity. In the past, being rejected from your tribe would reduce your chances of survival significantly.
 
 Therefore, you learn to look for any sign of rejection, and this became hardwired in your brain. Nowadays, being rejected often carries little or no consequence to your long-term survival. You could be hated by the entire world and still have a job, a roof and plenty of food on the table, yet, your brain is still programmed to perceive rejection as a threat to your survival. This is why rejection can be so painful.
 
@@ -133,33 +139,37 @@ In fact, one single criticism can often outweigh hundreds of positive ones. That
 <a id="sec-001004"></a>
 ### ⏱️ [00:10:04 - 00:15:06]
 
-reaction. The fear of rejection can also lead you to overdramatize events. If your boss criticized you at work, your brain may see the event as a threat and you now think, what if I’m fired? What if I can’t find a job quickly enough and my wife leaves me?
+reaction. The fear of rejection can also lead you to overdramatize events. If your boss criticized you at work, your brain may see the event as a threat and you now think, what if. I’m fired?
 
-What about my kids? What if I can’t see them again? While you are fortunate to have such an effective survival mechanism, it is also your responsibility to separate real threats from imaginary ones. If you don’t, you’ll experience unnecessary pain and worry that will negatively impact the quality of your life.
+What if. I can’t find a job quickly enough and my wife leaves me? What about my kids? What if.
 
-To overcome this bias towards negativity, you must reprogram your mind. One of a human being’s greatest powers is our ability to use our thoughts to shape our reality and interpret events in a more empowering way. This book will teach you how to do this. Action Step Complete the corresponding exercise in the workbook, section 1.
+I can’t see them again? While you are fortunate to have such an effective survival mechanism, it is also your responsibility to separate real threats from imaginary ones. If you don’t, you’ll experience unnecessary pain and worry that will negatively impact the quality of your life. To overcome this bias towards negativity, you must reprogram your mind.
 
-What Emotions Are, 1. Bias Towards Negativity. Why your brain’s job isn’t to make you happy Your brain’s primary job is not to make you happy, but to ensure your survival. Thus, if you want to be happy, you must take control of your emotions rather than hoping you’ll be happy because it’s your natural state.
+One of a human being’s greatest powers is our ability to use our thoughts to shape our reality and interpret events in a more empowering way. This book will teach you how to do this. Action Step Complete the corresponding exercise in the workbook, section 1. What Emotions Are, 1.
+
+Bias Towards Negativity. Why your brain’s job isn’t to make you happy. Your brain’s primary job is not to make you happy, but to ensure your survival. Thus, if you want to be happy, you must take control of your emotions rather than hoping you’ll be happy because it’s your natural state.
 
 In the following section, we’ll discuss what happiness is and how it works. How dopamine can mess with your happiness Dopamine is a neurotransmitter which, among other functions, plays a major role in rewarding certain behaviors. When dopamine is released into specific areas of your brain, the pleasure centers you get a high. This is what happens during exercise when you gamble, have sex, or eat great food.
 
-One of the roles of dopamine is to ensure you look for food so you don’t die of starvation and you search for a mate so you can reproduce. Without dopamine, our species would likely be extinct by now. It’s a pretty good thing, right? Well, yes and no. In today’s world, this reward system is, in many cases, obsolete.
+One of the roles of dopamine is to ensure you look for food so you don’t die of starvation and you search for a mate so you can reproduce. Without dopamine, our species would likely be extinct by now. It’s a pretty good thing, right? Well, yes and no.
 
-While in the past, dopamine was linked to our survival instinct, the release of dopamine can now be generated artificially. A great example of this effect is social media, which uses psychology to suck as much time as possible out of your life. Have you noticed all these notifications that pop up constantly? They’re used to trigger a release of dopamine so you stay connected, and the longer you stay connected, the more money the services make.
+In today’s world, this reward system is, in many cases, obsolete. While in the past, dopamine was linked to our survival instinct, the release of dopamine can now be generated artificially. A great example of this effect is social media, which uses psychology to suck as much time as possible out of your life. Have you noticed all these notifications that pop up constantly?
 
-Watching pornography or gambling also leads to a release of dopamine which can make these activities highly addictive. Fortunately, we don’t need to act each time our brain releases dopamine. For instance, we don’t need to constantly check our Facebook news feeds just because it gives us a pleasurable shot of dopamine. Today’s society is selling a version of happiness that can make us unhappy.
+They’re used to trigger a release of dopamine so you stay connected, and the longer you stay connected, the more money the services make. Watching pornography or gambling also leads to a release of dopamine which can make these activities highly addictive. Fortunately, we don’t need to act each time our brain releases dopamine. For instance, we don’t need to constantly check our Facebook news feeds just because it gives us a pleasurable shot of dopamine.
 
-We’ve become addicted to dopamine largely because of marketers who have found effective ways to exploit our brains. We receive multiple shots of dopamine throughout the day and we love it. But is that the same thing as happiness? Worse than that, dopamine can create real addictions with severe consequences on our health.
+Today’s society is selling a version of happiness that can make us unhappy. We’ve become addicted to dopamine largely because of marketers who have found effective ways to exploit our brains. We receive multiple shots of dopamine throughout the day and we love it. But is that the same thing as happiness?
 
-Research conducted at Tulane University showed that, when given permission to self-stimulate their pleasure center, participants did it an average of 40 times per minute. They chose the stimulation of their pleasure center over food, even refusing to eat when hungry. Korean, Lee Seung Sip, is an extreme case of this syndrome. In 2005, Mr Sip died after playing a video game for 58 hours straight with very little food or water, and no sleep.
+Worse than that, dopamine can create real addictions with severe consequences on our health. Research conducted at Tulane University showed that, when given permission to self-stimulate their pleasure center, participants did it an average of 40 times per minute. They chose the stimulation of their pleasure center over food, even refusing to eat when hungry. Korean, Lee Seung Sip, is an extreme case of this syndrome.
 
-The subsequent investigation concluded the cause of death was heart failure induced by exhaustion and dehydration. He was only 28 years old. To take control of your emotions, it is essential you understand the role dopamine plays and how it affects your happiness. Are you addicted to your phone?
+In 2005, Mr Sip died after playing a video game for 58 hours straight with very little food or water, and no sleep. The subsequent investigation concluded the cause of death was heart failure induced by exhaustion and dehydration. He was only 28 years old. To take control of your emotions, it is essential you understand the role dopamine plays and how it affects your happiness.
 
-Are you glued to your TV? Or maybe you spend too much time playing video games? Most of us are addicted to something. For some people it’s obvious, but for others, it’s more subtle.
+Are you addicted to your phone? Are you glued to your TV? Or maybe you spend too much time playing video games? Most of us are addicted to something.
 
-For instance, you could be addicted to thinking. To better control your emotions, it is important to shed the light on your addictions as they can rob you of your happiness. The one day I will, myth. Do you believe that one day you will achieve your dream and finally be happy?
+For some people it’s obvious, but for others, it’s more subtle. For instance, you could be addicted to thinking. To better control your emotions, it is important to shed the light on your addictions as they can rob you of your happiness. The one day.
 
-This is unlikely to happen. You may, and I hope you will, achieve your dream, but you won’t live happily ever after. later. This is just another trick your mind plays on you. Your mind quickly acclimates
+I will, myth. Do you believe that one day you will achieve your dream and finally be happy? This is unlikely to happen. You may, and.
+
+I hope you will, achieve your dream, but you won’t live happily ever after. later. This is just another trick your mind plays on you. Your mind quickly acclimates
 
 
 <a id="sec-001506"></a>
@@ -169,17 +179,19 @@ to new situations, which is probably the result of evolution and our need to ada
 
 How hedonic adaptation works. Let me share an interesting study that will likely change the way you see happiness. This study, which was conducted on lottery winners and paraplegics, was extremely eye-opening for me. Conducted in 1978, the investigation evaluated how winning the lottery or becoming a paraplegic influence happiness.
 
-The study found that one year after the event, both groups were just as happy as they were beforehand. Yes, just as happy or unhappy. You can find more about it by watching Dan Gilbert’s TED talk, the surprising science of happiness here. Perhaps you believe that you’ll be happy once you’ve made it.
+The study found that one year after the event, both groups were just as happy as they were beforehand. Yes, just as happy or unhappy. You can find more about it by watching Dan Gilbert’s TED talk, the surprising science of happiness here. Perhaps, you believe that you’ll be happy once you’ve made it.
 
-But, as the above study on happiness shows, this is simply not true. No matter what happens to you, you’ll revert back to your predetermined level of happiness once you’ve adapted to the new event. This is how your mind works. Does that mean you can’t be happier than you are right now? No. What it means is that, in the long run, external events have very little impact on your level of happiness.
+But, as the above study on happiness shows, this is simply not true. No matter what happens to you, you’ll revert back to your predetermined level of happiness once you’ve adapted to the new event. This is how your mind works. Does that mean you can’t be happier than you are right now?
 
-In fact, according to Sonya Lyubomirsky, author of The How of Happiness, 50% of our happiness is determined by genetics, 40% by internal factors, and only 10% by external factors. These external factors include such things as whether we’re single or married, rich or poor, and similar social influences. This suggests, only 10% of your happiness is linked to external factors, which is probably way less than you thought. The bottom line is this, your attitude towards life influences your happiness, not what happens to you.
+No. What it means is that, in the long run, external events have very little impact on your level of happiness.
 
-By now, you understand how your survival mechanism impacts negatively your emotions and prevent you from experiencing more joy and happiness in your life. In the next section, we’ll learn about the ego. Action step. Use the workbook to write down things that give you shots of dopamine, section 1.
+In fact, according to Sonya Lyubomirsky, author of The. How of Happiness, 50% of our happiness is determined by genetics, 40% by internal factors, and only 10% by external factors. These external factors include such things as whether we’re single or married, rich or poor, and similar social influences. This suggests, only 10% of your happiness is linked to external factors, which is probably way less than you thought.
 
-What emotions are, 2. Happiness, 2. What is the ego? Your survival mechanism is not the only factor affecting your emotions.
+The bottom line is this, your attitude towards life influences your happiness, not what happens to you. By now, you understand how your survival mechanism impacts negatively your emotions and prevent you from experiencing more joy and happiness in your life. In the next section, we’ll learn about the ego. Action step.
 
-Your ego also plays a major role in shaping the way you feel. Thus, to gain more control over your emotions, it is fundamental you understand what your ego is and how it works.
+Use the workbook to write down things that give you shots of dopamine, section 1. What emotions are, 2. Happiness, 2. What is the ego?
+
+Your survival mechanism is not the only factor affecting your emotions. Your ego also plays a major role in shaping the way you feel. Thus, to gain more control over your emotions, it is fundamental you understand what your ego is and how it works.
 
 Now, let’s clarify what we mean by ego. We often say of someone he has a big ego, referring to the ego as something close to pride. While pride is certainly a manifestation of ego, that’s only one part of it. You may show no pride and appear humble while still being controlled by your ego.
 
@@ -197,21 +209,21 @@ On the other hand, highly self-conscious people can see through their ego. They 
 <a id="sec-002011"></a>
 ### ⏱️ [00:20:11 - 00:25:19]
 
-it’s just a result of a lack of self-awareness. It fades away as you become aware of it, since ego and awareness cannot coexist. Your ego’s need for an identity Your ego is a selfish entity, only concerned about its own survival. Interestingly, it’s rather similar to your brain in the way it operates.
+it’s just a result of a lack of self-awareness. It fades away as you become aware of it, since ego and awareness cannot coexist. Your ego’s need for an identity. Your ego is a selfish entity, only concerned about its own survival.
 
-It has its own survival mechanism and will do whatever it can to persist. As with your brain, its primary concern is neither your happiness nor your peace of mind. On the contrary, your ego is restless. It wants you to be a go-getter.
+Interestingly, it’s rather similar to your brain in the way it operates. It has its own survival mechanism and will do whatever it can to persist. As with your brain, its primary concern is neither your happiness nor your peace of mind. On the contrary, your ego is restless.
 
-It wants you to do, have, and achieve great things so you can become a somebody. As we already mentioned, your ego needs an identity to exist. The way it does that is through identification with things, people, or beliefs and ideas.
+It wants you to be a go-getter. It wants you to do, have, and achieve great things so you can become a somebody. As we already mentioned, your ego needs an identity to exist. The way it does that is through identification with things, people, or beliefs and ideas.
 
-Now, let’s look at some of the things your ego identifies with to strengthen its identity, physical items. The ego likes to identify with physical things. Needless to say, it thrives in today’s world. Perhaps, we can say capitalism and the consumer society we’re living in today is the creation of collective egos, which is why it has been the dominant economic model in the recent decades. Marketers perfectly understand people’s need to identify with things.
+Now, let’s look at some of the things your ego identifies with to strengthen its identity, physical items. The ego likes to identify with physical things. Needless to say, it thrives in today’s world. Perhaps, we can say capitalism and the consumer society we’re living in today is the creation of collective egos, which is why it has been the dominant economic model in the recent decades.
 
-They know people don’t just buy a product, they also buy the emotions or story attached to the product. Often, you buy certain clothes or a particular car because you want to tell a story about yourself. For instance, you may want to enhance your status, look cool or express your unique personality, and choose the products most closely associated with these ideals. This is how the ego works.
+Marketers perfectly understand people’s need to identify with things. They know people don’t just buy a product, they also buy the emotions or story attached to the product. Often, you buy certain clothes or a particular car because you want to tell a story about yourself. For instance, you may want to enhance your status, look cool or express your unique personality, and choose the products most closely associated with these ideals.
 
-It uses things to create a story you can identify with. It doesn’t mean things are wrong per se. It’s a negative issue only when you become overly attached to things, believing they can fulfill you, which they can’t. Your body.
+This is how the ego works. It uses things to create a story you can identify with. It doesn’t mean things are wrong per se. It’s a negative issue only when you become overly attached to things, believing they can fulfill you, which they can’t.
 
-Most people derive their self-worth from their physical appearance. Your ego loves the way you look because it is the easiest thing to recognize and quantify. When you strongly associate with your physical appearance, you tend to identify more easily with physical and emotional pain. Believe it or not, you can observe your body without identifying with it.
+Your body. Most people derive their self-worth from their physical appearance. Your ego loves the way you look because it is the easiest thing to recognize and quantify. When you strongly associate with your physical appearance, you tend to identify more easily with physical and emotional pain.
 
-The ego also derives its sense of identity from your relationships with others. The ego is only interested in what it can get from others.
+Believe it or not, you can observe your body without identifying with it. The ego also derives its sense of identity from your relationships with others. The ego is only interested in what it can get from others.
 
 In other words, the ego thrives on the way it can use people to strengthen its identity. If you are honest with yourself, you’ll realize most of the things you do are attempts to obtain the approval of others. You want your parents to be proud of you, your boss to respect you, and your wife to love you.
 
@@ -221,43 +233,49 @@ You see this all the time. Next time you watch a junior soccer, or baseball, gam
 
 Couples The feeling of needing someone is very much a play of the ego as well. Anthony de Mello has a beautiful way to put it when he says, loneliness is not cured by human company. Loneliness is cured by contact with reality, by understanding that we don’t need people. Anthony de Mello Once you realize you don’t actually need anyone, you can start enjoying people’s company.
 
-You can see them as they really are rather than trying to get something from them. Your beliefs Your ego also uses beliefs to strengthen its identity. In extreme cases, people become so attached to their beliefs they are ready to die to protect them. Worse still, they are willing to kill people who disagree with them.
+You can see them as they really are rather than trying to get something from them. Your beliefs. Your ego also uses beliefs to strengthen its identity. In extreme cases, people become so attached to their beliefs they are ready to die to protect them.
 
-Religion is a perfect illustration of the dangers of excessive attachment to beliefs. The ego will use any belief to strengthen its identity, whether these beliefs are religious, political, or metaphysical. Other objects of identification Now let’s have a look at a, non-exhaustive, list of things your ego generally derives its identity from, your body, your name, your gender, your nationality, your culture,
+Worse still, they are willing to kill people who disagree with them. Religion is a perfect illustration of the dangers of excessive attachment to beliefs. The ego will use any belief to strengthen its identity, whether these beliefs are religious, political, or metaphysical. Other objects of identification.
+
+Now let’s have a look at a, non-exhaustive, list of things your ego generally derives its identity from, your body, your name, your gender, your nationality, your culture,
 
 
 <a id="sec-002519"></a>
 ### ⏱️ [00:25:19 - 00:30:19]
 
-your family slash friends, your beliefs, political beliefs, religious, etc. Your personal story, your interpretation of the past, your expectations regarding the future. Your problems, illnesses, financial situation, victim mindset, etc. Your age Your job Your social status Your role, as employee, homemaker, parental status, employment status, etc. Material items, your house, car, clothes, phone, etc. Your desires The ego’s main characteristics Here are some main characteristics of the ego, the ego tends to equate having with being, which is why the ego likes to identify with objects.
+your family slash friends, your beliefs, political beliefs, religious, etc. Your personal story, your interpretation of the past, your expectations regarding the future. Your problems, illnesses, financial situation, victim mindset, etc. Your age.
 
-The ego lives through comparison. Your ego likes to compare itself with other egos. The ego is never satisfied. Your ego always wants more.
+Your job. Your social status. Your role, as employee, homemaker, parental status, employment status, etc. Material items, your house, car, clothes, phone, etc.
 
-More fame, more stuff, more recognition, and so on. The ego’s sense of self-worth often depends on the worth you have in the eyes of others. Your ego needs the approval of other people to feel valued. The egos need to feel superior.
+Your desires The ego’s main characteristics. Here are some main characteristics of the ego, the ego tends to equate having with being, which is why the ego likes to identify with objects. The ego lives through comparison. Your ego likes to compare itself with other egos.
 
-Your ego wants to feel superior to other egos. It wants to stand out and needs to create artificial separations to do that. Here are some stratagems it employs, enhancing its value through people. If you have smart slash famous friends, your ego will associate with them to strengthen its identity.
+The ego is never satisfied. Your ego always wants more. More fame, more stuff, more recognition, and so on. The ego’s sense of self-worth often depends on the worth you have in the eyes of others.
 
-This is why some people love to tell others how smart, rich or famous their friends are. Gossiping People gossip because it makes them feel different and superior in some way. This is why some people like to put other people down and talk behind their back, it makes them, and everybody else in their gossiping group feel superior. Manifesting an inferiority complex.
+Your ego needs the approval of other people to feel valued. The egos need to feel superior. Your ego wants to feel superior to other egos. It wants to stand out and needs to create artificial separations to do that.
 
-This hides a desire to be better than others. Yes, even in this case, people want to feel superior. Manifesting a superiority complex. This hides the fear of not being good enough.
+Here are some stratagems it employs, enhancing its value through people. If you have smart slash famous friends, your ego will associate with them to strengthen its identity. This is why some people love to tell others how smart, rich or famous their friends are. Gossiping People gossip because it makes them feel different and superior in some way.
 
-Looking for fame. This offers the illusion of superiority, which is why people often dream of becoming famous. Being right. The ego loves to be right.
+This is why some people like to put other people down and talk behind their back, it makes them, and everybody else in their gossiping group feel superior. Manifesting an inferiority complex. This hides a desire to be better than others. Yes, even in this case, people want to feel superior.
 
-It’s a great way for it to affirm its existence. Have you noticed that everybody, from Adolf Hitler to Nelson Mandela, believe they’re doing the right thing? Most people think they are correct. But can everybody be right?
+Manifesting a superiority complex. This hides the fear of not being good enough. Looking for fame. This offers the illusion of superiority, which is why people often dream of becoming famous.
 
-Complaining. When people complain, by definition they believe they are right and others are wrong. It works with objects as well. Have you ever bumped into a table and complained or even insulted it?
+Being right. The ego loves to be right. It’s a great way for it to affirm its existence. Have you noticed that everybody, from Adolf Hitler to Nelson Mandela, believe they’re doing the right thing?
 
-I have, and the darn table was wrong to be in my way, wasn’t it? Seeking attention. The ego likes to stand out. It loves recognition, praise or admiration.
+Most people think they are correct. But can everybody be right? Complaining. When people complain, by definition they believe they are right and others are wrong.
 
-To seek attention, people may also commit crimes, wear eccentric clothes, or have tattoos all over their body. Your ego’s impact on your emotion. Understanding the way your ego works can help you better control your emotions. To do this, you must first realize your current story is the result of a strong identification with people, things or ideas.
+It works with objects as well. Have you ever bumped into a table and complained or even insulted it? I have, and the darn table was wrong to be in my way, wasn’t it? Seeking attention.
 
-This strong identification is the root of many of the negative emotions you experience in your life. For instance, when life doesn’t unfold according to your personal story you get upset, or when someone challenges one of your beliefs you become defensive. In short, most of your emotions are based on your personal story and the way you perceive the world. As you replace your current story with a more empowering one, while, at the same time, letting go of your excessive attachment to things, people or ideas, you will be able to experience more positive emotions.
+The ego likes to stand out. It loves recognition, praise or admiration. To seek attention, people may also commit crimes, wear eccentric clothes, or have tattoos all over their body. Your ego’s impact on your emotion.
 
-Later in this book, we’ll see how you can change the way you interpret events. Action Step. Take a few minutes to answer the questions in the workbook, section 1. What emotions are, 3.
+Understanding the way your ego works can help you better control your emotions. To do this, you must first realize your current story is the result of a strong identification with people, things or ideas. This strong identification is the root of many of the negative emotions you experience in your life. For instance, when life doesn’t unfold according to your personal story you get upset, or when someone challenges one of your beliefs you become defensive.
 
-The nature of the ego. 3. The nature of emotions. Emotions can be tricky. In this section, we’ll discuss in depth how they work.
+In short, most of your emotions are based on your personal story and the way you perceive the world. As you replace your current story with a more empowering one, while, at the same time, letting go of your excessive attachment to things, people or ideas, you will be able to experience more positive emotions. Later in this book, we’ll see how you can change the way you interpret events. Action Step.
 
-By a understanding the mechanism behind emotions, you’ll be able to manage them more effectively as they arise. The first thing to understand is that emotions come and go. One moment you feel happy, the next you feel sad. While you do have some control over your emotions, you must also recognize their unpredictable
+Take a few minutes to answer the questions in the workbook, section 1. What emotions are, 3. The nature of the ego. 3. The nature of emotions.
+
+Emotions can be tricky. In this section, we’ll discuss in depth how they work. By a understanding the mechanism behind emotions, you’ll be able to manage them more effectively as they arise. The first thing to understand is that emotions come and go.
+
+One moment you feel happy, the next you feel sad. While you do have some control over your emotions, you must also recognize their unpredictable
 
 
 <a id="sec-003019"></a>
@@ -279,21 +297,21 @@ In fact, negative emotions can actually be helpful. Sometimes, you need to touch
 
 After losing his fiancée, Abraham Lincoln was depressed for months. This tragic event didn’t prevent him from becoming President of the United States. Negative emotions often serve a purpose. They may serve as a wake-up call.
 
-They may help you learn something positive about yourself. Of course, when you’re under their spell, it may be difficult to look at the bright side of things, but in hindsight, you may realize emotions, even sad ones, had their role to play in your ultimate success. The Positive Role of Negative Emotions Your emotions are not here to make your life harder, but to tell you something. Without them, you wouldn’t grow.
+They may help you learn something positive about yourself. Of course, when you’re under their spell, it may be difficult to look at the bright side of things, but in hindsight, you may realize emotions, even sad ones, had their role to play in your ultimate success. The Positive Role of Negative Emotions. Your emotions are not here to make your life harder, but to tell you something.
 
-Think of your negative emotions as the emotional equivalent of physical pain. While you hate being in pain, if you didn’t have pain, chances are you would be dead by now. Physical pain sends a powerful signal that something is wrong, nudging you to take action of some kind. It could be to consult your doctor, which may lead you to undergo surgery, change your diet, or increase exercise.
+Without them, you wouldn’t grow. Think of your negative emotions as the emotional equivalent of physical pain. While you hate being in pain, if you didn’t have pain, chances are you would be dead by now. Physical pain sends a powerful signal that something is wrong, nudging you to take action of some kind.
 
-Without physical pain, you wouldn’t do any of these things and your situation would worsen, potentially leading to a premature death. Emotions work the same way. They signal you to do something about your current situation. Perhaps, you need to let go of some people, quit your job, or remove a disempowering story that creates suffering in your life.
+It could be to consult your doctor, which may lead you to undergo surgery, change your diet, or increase exercise. Without physical pain, you wouldn’t do any of these things and your situation would worsen, potentially leading to a premature death. Emotions work the same way. They signal you to do something about your current situation.
 
-The Fleeting Nature of Emotions No matter how depressed you are, how much grief you’re experiencing, or how horrible you feel at a given point in time, this shall pass. Look at some of the negative emotions you experienced in the past. Remember the worst times in your life. During these most difficult periods, you were probably so caught up in your emotions you imagined never being able to escape them.
+Perhaps, you need to let go of some people, quit your job, or remove a disempowering story that creates suffering in your life. The Fleeting Nature of Emotions No matter how depressed you are, how much grief you’re experiencing, or how horrible you feel at a given point in time, this shall pass. Look at some of the negative emotions you experienced in the past. Remember the worst times in your life.
 
-You couldn’t imagine being happy again. But even these episodes ended. Eventually, the clouds dissipated and the real you shone again. Your emotions come and they go.
+During these most difficult periods, you were probably so caught up in your emotions you imagined never being able to escape them. You couldn’t imagine being happy again. But even these episodes ended. Eventually, the clouds dissipated and the real you shone again.
 
-Your depression will go, your sadness will vanish and your anger will fade away. Bear in mind, if you experience the same emotions repeatedly, it probably means you hold disempowering beliefs and need to change something in your life. We’ll discuss how later. If you suffer from severe, chronic depression, it might be a good idea to consult a specialist.
+Your emotions come and they go. Your depression will go, your sadness will vanish and your anger will fade away. Bear in mind, if you experience the same emotions repeatedly, it probably means you hold disempowering beliefs and need to change something in your life. We’ll discuss how later.
 
-The Trickiness of Emotions Have you ever felt you’ll never be happy again? Have you ever been so attached to your emotions you thought they’ll never go away? Don’t worry, it’s a common feeling. Negative emotions act as a filter that taints the quality of your experiences.
+If you suffer from severe, chronic depression, it might be a good idea to consult a specialist. The Trickiness of Emotions Have you ever felt you’ll never be happy again? Have you ever been so attached to your emotions you thought they’ll never go away? Don’t worry, it’s a common feeling.
 
-During a negative episode, every experience is perceived through this filter.
+Negative emotions act as a filter that taints the quality of your experiences. During a negative episode, every experience is perceived through this filter.
 
 
 <a id="sec-003519"></a>
@@ -303,27 +321,29 @@ While the world outside may remain the same, you will experience it in a complet
 
 On the other hand, when you’re in a positive mood, everything in life appears better. Food tastes great, you’re naturally friendlier, and you enjoy all the activities you partake in. You may now believe that, armed with the knowledge you have gained from this book, you’ll never be depressed again. Wrong!
 
-You’ll keep experiencing sadness, frustration, depression, or resentment, but hopefully, each time these occur, you’ll become wiser and wiser, remembering that this too, shall pass. I have to admit, I can easily be fooled by my emotions. While I know I am not my emotions, I still give them too much credit and fail to realize they are just temporary visitors. More importantly, I fail to remember they are not me.
+You’ll keep experiencing sadness, frustration, depression, or resentment, but hopefully, each time these occur, you’ll become wiser and wiser, remembering that this too, shall pass. I have to admit, I can easily be fooled by my emotions. While. I know.
 
-Those always come and go, but I remain. Once, the emotional storm has passed, I generally feel like an idiot for having taken my emotions so seriously. Do you? Interestingly, external factors might not be, and often aren’t, the direct cause of a sudden change in your emotional state.
+I am not my emotions, I still give them too much credit and fail to realize they are just temporary visitors. More importantly, I fail to remember they are not me. Those always come and go, but. I remain.
 
-You can be in the exact same situation, with the same job, the same amount of money in your bank account, and have the same problems as always, but experience radically different emotional states. In fact, if you look at your past, this is often what happens. You are mildly depressed for a couple of hours or a few days, before bouncing back to your default, emotional state. During this period of emotional stress, your environment doesn’t change at all.
+Once, the emotional storm has passed, I generally feel like an idiot for having taken my emotions so seriously. Do you? Interestingly, external factors might not be, and often aren’t, the direct cause of a sudden change in your emotional state. You can be in the exact same situation, with the same job, the same amount of money in your bank account, and have the same problems as always, but experience radically different emotional states.
 
-The only thing that changes is your internal dialogue. I encourage you to make a conscious effort to notice whenever such events happen and start seeing through your emotions trickery. You might want to go one step further and record these events in a journal. By doing so, you will gain a deeper understanding of how emotions work and, as a result, you will be better equipped to manage them.
+In fact, if you look at your past, this is often what happens. You are mildly depressed for a couple of hours or a few days, before bouncing back to your default, emotional state. During this period of emotional stress, your environment doesn’t change at all. The only thing that changes is your internal dialogue.
 
-The evil power of emotions. An emotion usually represents an amplified energized thought pattern, and because of its often overpowering energetic charges, it is not easy initially to stay present enough to be able to watch it. It wants to take you over, and it usually succeeds, unless there is enough presence in you. Eckhart Tolle, the power of now.
+I encourage you to make a conscious effort to notice whenever such events happen and start seeing through your emotions trickery. You might want to go one step further and record these events in a journal. By doing so, you will gain a deeper understanding of how emotions work and, as a result, you will be better equipped to manage them. The evil power of emotions.
 
-Negative emotions are like a spell. While you’re under their influence, breaking free from them seems impossible. You may know dwelling on the same thoughts is pointless, yet you can’t help but go along with the flow. Feeling an intense pull, you keep identifying with your thoughts and, as a result, feel worse and worse.
+An emotion usually represents an amplified energized thought pattern, and because of its often overpowering energetic charges, it is not easy initially to stay present enough to be able to watch it. It wants to take you over, and it usually succeeds, unless there is enough presence in you. Eckhart Tolle, the power of now. Negative emotions are like a spell.
 
-When this happens, no rational argument seems to work. The more these emotions fit your personal story, the stronger the pull becomes. For instance, if you believe you aren’t good enough, you may experience negative emotions such as guilt or shame each time you judge what you do is, not good enough. As you’ve experienced these emotions so many times before, they have become an automatic response.
+While you’re under their influence, breaking free from them seems impossible. You may know dwelling on the same thoughts is pointless, yet you can’t help but go along with the flow. Feeling an intense pull, you keep identifying with your thoughts and, as a result, feel worse and worse. When this happens, no rational argument seems to work.
 
-For more information on how the identification with emotions works refers to the section identification. The filtering power of emotions. Your emotional state can drastically affect your outlook on life, leading you to act and behave differently. When you’re in a positive state, you have more energy available.
+The more these emotions fit your personal story, the stronger the pull becomes. For instance, if you believe you aren’t good enough, you may experience negative emotions such as guilt or shame each time you judge what you do is, not good enough. As you’ve experienced these emotions so many times before, they have become an automatic response. For more information on how the identification with emotions works refers to the section identification.
 
-This gives you, more confidence in everything you do. An openness to consider new actions that could improve your life. The ability to leave or break out of your comfort zone more emotional room to persevere during tough times better ideas and enhanced creativity, and easy access to positive emotions within the same emotional range. When you’re in a negative state of mind, you have less energy available, giving you, a lack of confidence that affects everything you do a lack of motivation that reduces the scope of actions you’re willing to take.
+The filtering power of emotions. Your emotional state can drastically affect your outlook on life, leading you to act and behave differently. When you’re in a positive state, you have more energy available. This gives you, more confidence in everything you do.
+
+An openness to consider new actions that could improve your life. The ability to leave or break out of your comfort zone more emotional room to persevere during tough times better ideas and enhanced creativity, and easy access to positive emotions within the same emotional range. When you’re in a negative state of mind, you have less energy available, giving you, a lack of confidence that affects everything you do a lack of motivation that reduces the scope of actions you’re willing to take.
 
 A reluctance to take on new challenges and leave your comfort zone. A reduced ability to persevere in face of setbacks and a propensity to attract negative thoughts within the same emotional range. Let’s have a look at a real example. Real life example, let me share with you a real example from my own life.
 
-Both cases happened under the same external conditions. The only difference was my emotional state at the time. Case 1, feeling excited about my online business, more confidence in everything I do, I feel
+Both cases happened under the same external conditions. The only difference was my emotional state at the time. Case 1, feeling excited about my online business, more confidence in everything. I do, I feel
 
 
 <a id="sec-004020"></a>
@@ -331,31 +351,39 @@ Both cases happened under the same external conditions. The only difference was 
 
 as though my ideas are good. I’m excited to work on my books and eager to write articles. I am open to sharing my work and promoting it. An openness to consider new courses of action, I am open to new ideas or to work on a new project.
 
-I can think of ways to collaborate with other authors and start building a new coaching program to offer my audience. The ability to get out of my comfort zone, it becomes easier for me to push myself beyond my comfort zone. I may contact people I don’t know or run Facebook lives for instance. More emotional room to persevere, I stick to my projects even when I lack motivation.
+I can think of ways to collaborate with other authors and start building a new coaching program to offer my audience. The ability to get out of my comfort zone, it becomes easier for me to push myself beyond my comfort zone. I may contact people. I don’t know or run Facebook lives for instance.
 
-Better ideas and enhanced creativity, I am open to new ideas. I might come up with new ideas for books, articles or other creative projects. Easy access to more positive emotions, I attract more positive emotions. At the same time, my mind rejects negative thoughts more easily, by refusing to identify with them.
+More emotional room to persevere, I stick to my projects even when. I lack motivation. Better ideas and enhanced creativity, I am open to new ideas. I might come up with new ideas for books, articles or other creative projects.
 
-Case 2, feeling mildly depressed due to my lack of results, a lack of confidence, I start doubting myself and all the projects I’m currently working on. Suddenly, everything I do becomes useless or not good enough. Thoughts like, what’s the point, I’m not going to make it, or, I’m stupid, cross my mind. Needless to say, promoting myself becomes a major challenge.
+Easy access to more positive emotions, I attract more positive emotions. At the same time, my mind rejects negative thoughts more easily, by refusing to identify with them. Case 2, feeling mildly depressed due to my lack of results, a lack of confidence, I start doubting myself and all the projects. I’m currently working on.
+
+Suddenly, everything. I do becomes useless or not good enough. Thoughts like, what’s the point, I’m not going to make it, or, I’m stupid, cross my mind. Needless to say, promoting myself becomes a major challenge.
 
 A lack of motivation, I don’t feel like doing anything. I’m attacked by, and am unable to escape, negative thoughts. I have the same negative thoughts again and again, which repeat like a broken record. They seem so real and taint all my experiences.
 
-A difficulty to take on new challenges, I have little energy left over to leave my comfort and undertake challenging projects. A reduced ability to persevere, I have difficulty finishing tasks and I procrastinate over tasks I should be working on. A propensity to attract negative thoughts, I attract more and more negative thoughts. Although these thoughts may have been crossing my mind before, now they stick fast.
+A difficulty to take on new challenges, I have little energy left over to leave my comfort and undertake challenging projects. A reduced ability to persevere, I have difficulty finishing tasks and. I procrastinate over tasks. I should be working on.
 
-By identifying with these thoughts, I generate more negative emotions. Both cases happened only a few days apart. The external environment was the exact same, but my emotional state was radically different and led me to take different actions. The magnetic power of emotions.
+A propensity to attract negative thoughts, I attract more and more negative thoughts. Although these thoughts may have been crossing my mind before, now they stick fast. By identifying with these thoughts, I generate more negative emotions. Both cases happened only a few days apart.
 
-Your emotions act like magnets. They attract thoughts on the same wave. That’s why, when you’re in a negative state, you easily attract other negative thoughts, and by latching onto these thoughts you make the situation worse. As Eckhart Tolle wrote in The Power of Now, often, a vicious circle builds up between your thinking and the emotion, they feed each other.
+The external environment was the exact same, but my emotional state was radically different and led me to take different actions. The magnetic power of emotions. Your emotions act like magnets. They attract thoughts on the same wave.
 
-The thought pattern creates a magnified reflection of itself in the form of an emotion, and the vibrational frequency of the emotion keeps feeding the original thought pattern. Eckhart Tolle.
+That’s why, when you’re in a negative state, you easily attract other negative thoughts, and by latching onto these thoughts you make the situation worse. As Eckhart Tolle wrote in The Power of.
+
+Now, often, a vicious circle builds up between your thinking and the emotion, they feed each other. The thought pattern creates a magnified reflection of itself in the form of an emotion, and the vibrational frequency of the emotion keeps feeding the original thought pattern. Eckhart Tolle.
 
 Now, let’s see what you can do to break free from that magnetic power. Breaking the magnetic power of emotions. Let’s say you have a bad day at work and you’re in a terrible mood. The negative state you’re in causes you to attract more negative thoughts.
 
 Suddenly, you fixate on the fact you’re still single at 30 and start beating yourself up over it. Then, you blame yourself for being overweight. You also remember you have to go to the office the following Saturday which reminds you how much your job sucks. Do you see how much easier it is to attract negative thoughts when you’re feeling low?
 
-To prevent this from happening, it is essential you remove the habit of clustering negative thoughts together. Real life example, I have knee problems, which prevents me from practicing many sports. Since I’ve always loved sports, these injuries have been a source of emotional pain. Fortunately, I seldom feel pain in my knees, but when I do, it can trigger negative emotions.
+To prevent this from happening, it is essential you remove the habit of clustering negative thoughts together. Real life example, I have knee problems, which prevents me from practicing many sports. Since. I’ve always loved sports, these injuries have been a source of emotional pain.
 
-One day, as I was observing my thought process, we all have different hobbies, haven’t we, I realized experiencing pain in my knees negatively affected my mood, triggering more negative emotions in a negative feedback loop. The pain would cause me to focus on all the things that were going wrong, from my work to my personal life. As a result, I would experience negative emotions for hours, or even days. The point I’m… making is, no matter how great your life is, if you spend most of your time focusing on your problems, you’ll become depressed.
+Fortunately, I seldom feel pain in my knees, but when. I do, it can trigger negative emotions.
 
-Thus, to reduce negative emotions, you must learn to compartmentalize your issues. Don’t let your mind overdramatize things by clustering unrelated issues. It will only make you feel worse. Instead, remember that negative emotions
+One day, as. I was observing my thought process, we all have different hobbies, haven’t we, I realized experiencing pain in my knees negatively affected my mood, triggering more negative emotions in a negative feedback loop. The pain would cause me to focus on all the things that were going wrong, from my work to my personal life. As a result, I would experience negative emotions for hours, or even days.
+
+The point. I’m… making is, no matter how great your life is, if you spend most of your time focusing on your problems, you’ll become depressed. Thus, to reduce negative emotions, you must learn to compartmentalize your issues. Don’t let your mind overdramatize things by clustering unrelated issues.
+
+It will only make you feel worse. Instead, remember that negative emotions
 
 
 <a id="sec-004523"></a>
@@ -365,35 +393,41 @@ exist only in your mind. Taken separately, most of your issues aren’t such a b
 
 Look at what triggers them. The more you do this, the more you will uncover certain patterns.
 
-For example, let’s say you felt sad for a couple of days, ask yourself the following questions, what triggered my emotions? What fueled them over the two-day period? What story was I telling myself?
+For example, let’s say you felt sad for a couple of days, ask yourself the following questions, what triggered my emotions? What fueled them over the two-day period? What story was. I telling myself?
 
-How and why did I get out of my slump? What can I learn from this episode? Answering these questions will be invaluable and will greatly help you deal with similar issues in the future. Your emotional accessibility we previously saw you attract thoughts that matched your emotional state.
+How and why did. I get out of my slump? What can. I learn from this episode?
 
-The opposite is also true. You can’t attract thoughts that are out of sync with how you feel at any given time. Even if you tried to think positive thoughts, your mind wouldn’t be receptive to them. This is why during periods of sadness, while positive thoughts may cross your mind from time to time, you won’t be able to associate with them and you won’t be able to change your emotional state.
+Answering these questions will be invaluable and will greatly help you deal with similar issues in the future. Your emotional accessibility we previously saw you attract thoughts that matched your emotional state. The opposite is also true. You can’t attract thoughts that are out of sync with how you feel at any given time.
 
-Your emotional set point. Have you ever been told to cheer up when you were grieving or express gratitude when you were depressed? Did it help? It probably didn’t.
+Even if you tried to think positive thoughts, your mind wouldn’t be receptive to them. This is why during periods of sadness, while positive thoughts may cross your mind from time to time, you won’t be able to associate with them and you won’t be able to change your emotional state. Your emotional set point. Have you ever been told to cheer up when you were grieving or express gratitude when you were depressed?
 
-This is because the emotional state you were in didn’t allow you access to these emotions. In their book, Ask And It Is Given, Esther and Jerry Hicks offer a model to explain how emotional ranges are connected and how we can move up the ladder from negative to more positive emotions. For instance, in this model, depression or hopelessness is at the bottom of the ladder followed by anger. What it means is that when you feel depressed, signs of anger indicate you’re climbing the emotional ladder.
+Did it help? It probably didn’t. This is because the emotional state you were in didn’t allow you access to these emotions. In their book, Ask.
 
-This makes sense. When you’re angry you have more energy than when you’re depressed, right? Recently, after being depressed for a while, I experienced feelings of anger. For some reason, I got tired of the stories and excuses running through my mind, and I used the anger as a fuel to complete the tasks I had been avoiding.
+And It Is Given, Esther and Jerry Hicks offer a model to explain how emotional ranges are connected and how we can move up the ladder from negative to more positive emotions. For instance, in this model, depression or hopelessness is at the bottom of the ladder followed by anger. What it means is that when you feel depressed, signs of anger indicate you’re climbing the emotional ladder. This makes sense.
 
-As a result, I was able to create momentum and climb the emotional ladder. Whenever you experience negative emotions, watch for emotions that give you more energy. So-called negative emotions like anger can help you overcome even more disempowering emotions, like hopelessness. Only you know how you feel.
+When you’re angry you have more energy than when you’re depressed, right? Recently, after being depressed for a while, I experienced feelings of anger. For some reason, I got tired of the stories and excuses running through my mind, and. I used the anger as a fuel to complete the tasks.
 
-Therefore, if anger feels better, accept it. Emotions and mental suffering. Did you know you create a lot of unnecessary pain in your life? Each time you lock on to a thought or hold on to an emotion, you suffer.
+I had been avoiding. As a result, I was able to create momentum and climb the emotional ladder. Whenever you experience negative emotions, watch for emotions that give you more energy. So-called negative emotions like anger can help you overcome even more disempowering emotions, like hopelessness.
 
-A great example of this is how you react to physical pain. Whenever you feel pain, your first reaction is to interpret it. When you do so, you generate negative thoughts. Your identification with these thoughts is what creates mental suffering.
+Only you know how you feel. Therefore, if anger feels better, accept it. Emotions and mental suffering. Did you know you create a lot of unnecessary pain in your life?
 
-Below are some of the thoughts that may cross your mind in these situations. What if this pain never goes away? What if I can’t do X, Y, Z anymore because of the pain? What if it gets worse?
+Each time you lock on to a thought or hold on to an emotion, you suffer. A great example of this is how you react to physical pain. Whenever you feel pain, your first reaction is to interpret it. When you do so, you generate negative thoughts.
 
-What if I need to undergo surgery? What if I can’t go to work? I have an important project I must finish on time. With this pain, today’s going to be challenging I don’t have money.
+Your identification with these thoughts is what creates mental suffering. Below are some of the thoughts that may cross your mind in these situations. What if this pain never goes away? What if.
 
-How will I pay hospital bills if things get worse? This internal dialogue creates suffering but does nothing to help solve the problem. You can still function properly and take appropriate actions without dwelling on any of the above worries. Negative emotions are not the problem, the mental suffering you create out of these emotions is.
+I can’t do X, Y, Z anymore because of the pain? What if it gets worse? What if. I need to undergo surgery?
 
-Another example of mental suffering is procrastination. Have you ever delayed starting a task for days or weeks just to realize it wasn’t a big deal once you completed it? I have. What was the most exhausting part, the task itself, or the time you spent worrying about it?
+What if. I can’t go to work? I have an important project. I must finish on time.
 
-Or perhaps you didn’t sleep long enough and keep telling yourself today’s going to be a rough day. As you imagine all the tasks you need to do, you already feel exhausted. Psychologists have shown that mental suffering is what consumes most of your energy. After all, sitting at a desk all day shouldn’t be that tiring, yet many of us feel exhausted at the end of the day.
+With this pain, today’s going to be challenging. I don’t have money. How will. I pay hospital bills if things get worse?
 
-In his classic book, How to Stop Worrying and Start Living, Dale Carnegie wrote the following, one of America’s most distinguished psychiatrists, Dr. A. Brill, goes even further. He declares, 100% of the fatigue of the sedentary worker in good health is due to psychological
+This internal dialogue creates suffering but does nothing to help solve the problem. You can still function properly and take appropriate actions without dwelling on any of the above worries. Negative emotions are not the problem, the mental suffering you create out of these emotions is. Another example of mental suffering is procrastination.
+
+Have you ever delayed starting a task for days or weeks just to realize it wasn’t a big deal once you completed it? I have. What was the most exhausting part, the task itself, or the time you spent worrying about it? Or perhaps you didn’t sleep long enough and keep telling yourself today’s going to be a rough day.
+
+As you imagine all the tasks you need to do, you already feel exhausted. Psychologists have shown that mental suffering is what consumes most of your energy. After all, sitting at a desk all day shouldn’t be that tiring, yet many of us feel exhausted at the end of the day. In his classic book, How to Stop Worrying and Start Living, Dale Carnegie wrote the following, one of America’s most distinguished psychiatrists, Dr.
+
+A. Brill, goes even further. He declares, 100% of the fatigue of the sedentary worker in good health is due to psychological
 
 
 <a id="sec-005024"></a>
@@ -403,55 +437,61 @@ factors, by which we mean emotional factors. Dale Carnegie. People inflict a tre
 
 You’ll notice people around you dwelling on a past they cannot alter. You’ll see your family members and friends worrying about a future they cannot predict. You’ll witness people having the same repeated thoughts, running in circles to fight a problem that exists only in their mind. For thousands of years, mystics have told us that problems are in our mind.
 
-They have repeatedly invited us to look within. Yet, today, how many people are listening? Too many of us are addicted to our problems. Instead of letting go, we complain, we play the victim, we blame other people, or we discuss our problems without doing anything to solve them. To reduce this mental suffering, we must refuse to interpret our emotions in a negative and disempowering way.
+They have repeatedly invited us to look within. Yet, today, how many people are listening? Too many of us are addicted to our problems. Instead of letting go, we complain, we play the victim, we blame other people, or we discuss our problems without doing anything to solve them.
 
-Why problems don’t exist. If we go one step further and look at reality in an objective way, we can say that problems don’t actually exist. Here is why, what you don’t focus on doesn’t exist, a problem only exists when you give it your attention. From your mind’s perspective, what you don’t give any thought to doesn’t exist.
+To reduce this mental suffering, we must refuse to interpret our emotions in a negative and disempowering way. Why problems don’t exist. If we go one step further and look at reality in an objective way, we can say that problems don’t actually exist. Here is why, what you don’t focus on doesn’t exist, a problem only exists when you give it your attention.
 
-Let’s take a hypothetical example. Imagine you lost your legs. If you accept that fact immediately and refuse to give it any thought, there will be no problem and thus, no mental suffering. You would simply be living in reality, of course, that’s usually not what happens.
+From your mind’s perspective, what you don’t give any thought to doesn’t exist. Let’s take a hypothetical example. Imagine you lost your legs. If you accept that fact immediately and refuse to give it any thought, there will be no problem and thus, no mental suffering.
 
-A problem exists only in time, a problem can only exist in the past or in the future. And where do the past and future exist? In your mind. To acknowledge a problem, you must use your thoughts, and thoughts exist in time, not in the present moment.
+You would simply be living in reality, of course, that’s usually not what happens. A problem exists only in time, a problem can only exist in the past or in the future. And where do the past and future exist? In your mind.
 
-A problem needs to be labeled as a problem to actually exist, a problem exists only when you interpret a situation as being a problem. Otherwise, there is no problem. This concept may be hard to grasp at first, but it’s a key theory. In the next section, we’ll look at the different components affecting your emotions.
+To acknowledge a problem, you must use your thoughts, and thoughts exist in time, not in the present moment. A problem needs to be labeled as a problem to actually exist, a problem exists only when you interpret a situation as being a problem. Otherwise, there is no problem. This concept may be hard to grasp at first, but it’s a key theory.
 
-Action step. Explore the nature of emotions using the workbook, section 1. What emotions are for? The nature of emotions.
+In the next section, we’ll look at the different components affecting your emotions. Action step. Explore the nature of emotions using the workbook, section 1. What emotions are for?
 
-#### Part 2.
+The nature of emotions.
 
-What impacts your emotions? Your mind operates on the famous computing principle of Geigo, garbage in, garbage out. If you do ill, speak ill and think ill, the residue is going to leave you sick. If you do well, speak well and think well, the outcome is going to be well.
+#### Part 2. What impacts your emotions? Your mind operates on the famous computing principle of Geigo, garbage in, garbage out. If you do ill, speak ill and think ill, the residue is going to leave you sick.
 
-#### OS, AMT.
+If you do well, speak well and think well, the outcome is going to be well.
 
-Emotions are complex, and a variety of factors influence how you feel. In this section, we’ll cover some of the elements affecting what drives your emotions. The good news is, you have some control over them. If we exclude spontaneous emotional reactions resulting from your survival mechanism, most of your emotions are self-created.
+#### OS, AMT. Emotions are complex, and a variety of factors influence how you feel. In this section, we’ll cover some of the elements affecting what drives your emotions. The good news is, you have some control over them.
 
-They result from the way you interpret thoughts or events. However, these aren’t the only elements that affect your emotional state. Your body, your voice, the food you eat, or how much you sleep, also play a role in determining the quality of your emotions and therefore the quality of your life. Let’s see how each of these elements impact your emotions. 4.
+If we exclude spontaneous emotional reactions resulting from your survival mechanism, most of your emotions are self-created. They result from the way you interpret thoughts or events.
 
-The impact of sleep on your mood. The quality of your sleep and how much of it you get affects your emotional state. You’ve probably experienced the side effects of sleep deprivation yourself. Perhaps, you felt grumpy, unable to concentrate, listless, or had difficulty dealing with negative emotions.
+However, these aren’t the only elements that affect your emotional state. Your body, your voice, the food you eat, or how much you sleep, also play a role in determining the quality of your emotions and therefore the quality of your life. Let’s see how each of these elements impact your emotions. 4. The impact of sleep on your mood.
 
-Sleep deprivation can impact mood in many different ways. According to a survey performed on people suffering from anxiety or depression most of the respondents reported receiving less than 6 hours sleep per night. Sleep deprivation also increases mortality risk. A 2016 study conducted by researchers at non-profit organization, RandEurope, estimated that people sleeping less than 6 hours a night had a 13% increased mortality risk than people sleeping between 7 and 9 hours.
+The quality of your sleep and how much of it you get affects your emotional state. You’ve probably experienced the side effects of sleep deprivation yourself. Perhaps, you felt grumpy, unable to concentrate, listless, or had difficulty dealing with negative emotions. Sleep deprivation can impact mood in many different ways.
 
-The same studies revealed that lack of sleep cost an estimated $411 billion per year to the United States economy. Interestingly, sleep deprivation also seems to reduce an individual’s ability to enjoy positive experiences. One study shows that, while people who had enough sleep did experience a positive effect from such experiences, no such effect was generated in people who were sleep deprived.
+According to a survey performed on people suffering from anxiety or depression most of the respondents reported receiving less than 6 hours sleep per night. Sleep deprivation also increases mortality risk. A 2016 study conducted by researchers at non-profit organization, RandEurope, estimated that people sleeping less than 6 hours a night had a 13% increased mortality risk than people sleeping between 7 and 9 hours. The same studies revealed that lack of sleep cost an estimated $411 billion per year to the United States economy.
+
+Interestingly, sleep deprivation also seems to reduce an individual’s ability to enjoy positive experiences. One study shows that, while people who had enough sleep did experience a positive effect from such experiences, no such effect was generated in people who were sleep deprived.
 
 
 <a id="sec-005529"></a>
 ### ⏱️ [00:55:29 - 01:00:30]
 
-How to improve the quality of your sleep There are many ways to improve the quality of your sleep. Let’s go over some of them, make sure your bedroom is pitch black. Many studies have shown that the darker the bedroom is, the better we tend to sleep. If your room isn’t pitch black, what can you do to make it darker?
+How to improve the quality of your sleep. There are many ways to improve the quality of your sleep. Let’s go over some of them, make sure your bedroom is pitch black. Many studies have shown that the darker the bedroom is, the better we tend to sleep.
 
-Maybe you can buy a sleep mask or curtains that do a better job at blocking daylight. Avoid using electronic devices. This applies to smartphones, tablets, televisions, and the like. According to sleepfoundation.org, studies have shown that even our small electronic devices emit sufficient light to miscue the brain and promote wakefulness.
+If your room isn’t pitch black, what can you do to make it darker? Maybe you can buy a sleep mask or curtains that do a better job at blocking daylight. Avoid using electronic devices. This applies to smartphones, tablets, televisions, and the like.
 
-As adults, we are subject to these influences, and our children are particularly susceptible. A 2014 study published in PNAS showed that melatonin, a chemical which helps regulate sleep patterns, was reduced by 50% in participants who read with electronic devices rather than books. These participants took about 10 minutes longer to fall asleep and lost 10 minutes of deep sleep, also known as REM. Participants also reported feeling less alert in the morning.
+According to sleepfoundation.org, studies have shown that even our small electronic devices emit sufficient light to miscue the brain and promote wakefulness. As adults, we are subject to these influences, and our children are particularly susceptible. A 2014 study published in PNAS showed that melatonin, a chemical which helps regulate sleep patterns, was reduced by 50% in participants who read with electronic devices rather than books. These participants took about 10 minutes longer to fall asleep and lost 10 minutes of deep sleep, also known as REM.
 
-If your device has a light setting for nighttime use, it may still have a negative impact on your sleep, but just test the night setting and see if it makes a difference to your sleep patterns. If you absolutely have to use electronic devices at night, considering wearing glasses that block the blue light they emit, it’s best to put the glasses on a few hours before you go to bed. Relax your mind. If you’re like me, you may have all kinds of thoughts running through your head when it’s time to fall asleep.
+Participants also reported feeling less alert in the morning. If your device has a light setting for nighttime use, it may still have a negative impact on your sleep, but just test the night setting and see if it makes a difference to your sleep patterns. If you absolutely have to use electronic devices at night, considering wearing glasses that block the blue light they emit, it’s best to put the glasses on a few hours before you go to bed.
 
-I tend to get very excited about new ideas I have, or things I want to do. As a result, I often feel as though there are so many things I could have completed during the day, and these feelings make it difficult for me to sleep. Aside from turning off electronic devices before bed, I’ve found that listening to soothing music really helps. Reading a physical book can also help me relax, as long as I don’t get too excited by the book, which has been known to happen.
+Relax your mind. If you’re like me, you may have all kinds of thoughts running through your head when it’s time to fall asleep. I tend to get very excited about new ideas. I have, or things.
 
-Avoid drinking too much water within two hours of going to bed. This one is obvious, but still worth mentioning. If you have to go to the bathroom in the middle of the night, it’s going to interrupt your sleep pattern. This, of course, will probably make you more tired the next day.
+I want to do. As a result, I often feel as though there are so many things. I could have completed during the day, and these feelings make it difficult for me to sleep. Aside from turning off electronic devices before bed, I’ve found that listening to soothing music really helps.
 
-Have an evening ritual. This alone will help you fall asleep more easily. It’s best to try going to bed at the same time every night, including the weekends. If you like to go out during the weekend and stay up late, this will present a challenge, but I encourage you to give it a try and see how it goes.
+Reading a physical book can also help me relax, as long as. I don’t get too excited by the book, which has been known to happen. Avoid drinking too much water within two hours of going to bed. This one is obvious, but still worth mentioning.
 
-An evening ritual will also help you stay on track with your morning ritual. It will be easier to wake up every day at the same time without feeling tired if you have a morning and a nighttime ritual. If you do go out and stay up late during the weekend, one thing you can do is still wake up as early as during the weekdays and have a couple of naps throughout the day as necessary. If you have difficulty sleeping well, try to implement some of the things mentioned above.
+If you have to go to the bathroom in the middle of the night, it’s going to interrupt your sleep pattern. This, of course, will probably make you more tired the next day. Have an evening ritual. This alone will help you fall asleep more easily.
 
-The best advice I can give you is to keep trying different strategies until you figure out what works best for you. 5. Using your body to influence your emotions. Our bodies change our minds, our minds change our behavior, and our behavior changes our outcomes. Amy Cuddy.
+It’s best to try going to bed at the same time every night, including the weekends. If you like to go out during the weekend and stay up late, this will present a challenge, but. I encourage you to give it a try and see how it goes. An evening ritual will also help you stay on track with your morning ritual.
+
+It will be easier to wake up every day at the same time without feeling tired if you have a morning and a nighttime ritual. If you do go out and stay up late during the weekend, one thing you can do is still wake up as early as during the weekdays and have a couple of naps throughout the day as necessary. If you have difficulty sleeping well, try to implement some of the things mentioned above. The best advice.
+
+I can give you is to keep trying different strategies until you figure out what works best for you. 5. Using your body to influence your emotions. Our bodies change our minds, our minds change our behavior, and our behavior changes our outcomes. Amy Cuddy.
 
 Social Psychologist. Body language and body posture. By changing your body language and your body posture you can alter the way you feel. When you are confident or happy you expand your body and make yourself bigger.
 
@@ -501,33 +541,35 @@ Meditation helps tame the monkey and cure it of restlessness. As you meditate, y
 
 The benefits of visualization. Did you know your subconscious can’t clearly distinguish real experiences from fake ones? This means you can trick your mind by simulating desired experiences through visualization. The more details you visualize, the more your brain will interpret the experience as real.
 
-By using visualization to elicit positive feelings such as gratitude, excitement, or joy, you can condition your mind to experience more positive emotions, as we’ll see in more depth in the section, Conditioning Your Mind. 7. Using Your Words to Influence Your Emotions. Your words have more impact on your thoughts and behaviors than you might realize. Because your thoughts, words, and behaviors are all interconnected, they influence each other.
+By using visualization to elicit positive feelings such as gratitude, excitement, or joy, you can condition your mind to experience more positive emotions, as we’ll see in more depth in the section, Conditioning. Your Mind. 7. Using. Your Words to Influence.
 
-For instance, when you lack confidence, you use certain words such as, I’ll try, I hope, or I wish. Conversely, using specific words can make you feel less confident. This also means you can boost your confidence by using certain words such as, I will. For instance, saying, I will change career, or, I will complete this project by the end of this month, will make you feel more confident than saying, I hope I can change career, or, I’ll try to complete this project by the end of this month.
+Your Emotions. Your words have more impact on your thoughts and behaviors than you might realize. Because your thoughts, words, and behaviors are all interconnected, they influence each other. For instance, when you lack confidence, you use certain words such as, I’ll try, I hope, or.
 
-To enhance your confidence, replace words that show self-doubt with words that display confidence as shown below. Words to be avoided, would slash, could slash, should slash, might try slash, hope slash, wish. Maybe slash perhaps. If everything is okay.
+I wish. Conversely, using specific words can make you feel less confident. This also means you can boost your confidence by using certain words such as, I will. For instance, saying, I will change career, or, I will complete this project by the end of this month, will make you feel more confident than saying, I hope.
 
-If everything goes well. Words to be used instead, I will. Absolutely. Definitely.
+I can change career, or, I’ll try to complete this project by the end of this month. To enhance your confidence, replace words that show self-doubt with words that display confidence as shown below. Words to be avoided, would slash, could slash, should slash, might try slash, hope slash, wish. Maybe slash perhaps.
 
-Of course. Sure. Certainly. Obviously.
+If everything is okay. If everything goes well. Words to be used instead, I will. Absolutely.
 
-Without any doubt. No problem. The power of positive affirmations positive affirmations are sentences you repeat to yourself on a regular basis until your subconscious mind accepts them as true. Over time they help you condition your mind to experience positive emotions such as confidence or gratitude.
+Definitely. Of course. Sure. Certainly.
 
-For more information on how to condition your mind refer to the section, conditioning your mind. How to use positive affirmation. Use the present tense and not the future tense, I am not, I will. Avoid negative forms like, I am not shy.
+Obviously. Without any doubt. No problem. The power of positive affirmations positive affirmations are sentences you repeat to yourself on a regular basis until your subconscious mind accepts them as true.
 
-Instead, use, I am confident. Repeat the sentence again and again for five minutes. Do it every single day without exception for a month, and preferably longer. Use visualization at the same time and involve your emotions.
+Over time they help you condition your mind to experience positive emotions such as confidence or gratitude. For more information on how to condition your mind refer to the section, conditioning your mind. How to use positive affirmation. Use the present tense and not the future tense, I am not, I will.
 
-Some examples of powerful affirmations, I love being confident. I am independent of the good or bad opinions of others. I am beneath no one and no one is beneath me. I love you.
+Avoid negative forms like, I am not shy. Instead, use, I am confident. Repeat the sentence again and again for five minutes. Do it every single day without exception for a month, and preferably longer.
 
-Add your name and say it while looking into your eyes in the mirror, e.g., I love you, Tebow. Awkward, isn’t it? Thank you. Exercise.
+Use visualization at the same time and involve your emotions. Some examples of powerful affirmations, I love being confident. I am independent of the good or bad opinions of others. I am beneath no one and no one is beneath me.
 
-Use positive affirmation for five minutes daily. Notice words that show a lack of commitment, confidence or assertiveness. Go over your emails before you send them and remove phrases such as, I’ll try, I should, I hope, etc. Replace them with, I will or something equally assertive. For the next three weeks, challenge yourself to avoid using words showing a lack of confidence.
+I love you. Add your name and say it while looking into your eyes in the mirror, e.g., I love you, Tebow. Awkward, isn’t it? Thank you.
 
-Additional tip, the world-famous life coach, Tony Robbins, has been using what he calls, incantation, for decades before meeting a client or holding a seminar. He uses both his body and certain phrases to put himself in the right state and to reach a level of absolute certainty. As you perform your own affirmations, try engaging your body as well. Remember, your words and your body affect your emotions.
+Exercise. Use positive affirmation for five minutes daily. Notice words that show a lack of commitment, confidence or assertiveness. Go over your emails before you send them and remove phrases such as, I’ll try, I should, I hope, etc.
 
-Eight, how your breathing affects your emotions. You can stay without food or sleep for days, but you cannot survive past a few minutes without oxygen. While breathing should happen naturally, the truth is that many people don’t know how to breathe properly. As a result, they don’t generate as much energy as they could.
+Replace them with, I will or something equally assertive. For the next three weeks, challenge yourself to avoid using words showing a lack of confidence. Additional tip, the world-famous life coach, Tony Robbins, has been using what he calls, incantation, for decades before meeting a client or holding a seminar. He uses both his body and certain phrases to put himself in the right state and to reach a level of absolute certainty.
 
-These individuals tire more easily than others, which affects their mood and make them more prone to experience negative emotions.
+As you perform your own affirmations, try engaging your body as well. Remember, your words and your body affect your emotions. Eight, how your breathing affects your emotions. You can stay without food or sleep for days, but you cannot survive past a few minutes without oxygen.
+
+While breathing should happen naturally, the truth is that many people don’t know how to breathe properly. As a result, they don’t generate as much energy as they could. These individuals tire more easily than others, which affects their mood and make them more prone to experience negative emotions.
 
 
 <a id="sec-011037"></a>
@@ -537,11 +579,13 @@ Proper breathing benefits you in different ways. Slowing your breathing helps re
 
 One breathing cycle per minute, optimized cooperation between brain hemispheres, dramatic calming of anxiety, fear and worry. Rapid breathing such as the breath of fire allows you to release stress, be more alert and have more energy alongside with other benefits. You can watch a tutorial video here. For a more general overview on how to breath properly, I invite you to watch the video here.
 
-For more on how to use breathing to change your mood you can refer to breath walk, breathing your way to a revitalized body, mind and spirit or search out other books on breathing. 9. How your environment affects your emotions Your environment also influences the way you feel. By environment, I mean everything around you can affect you in some way. It could be people you hang out with, TV shows you watch, or the place you live.
+For more on how to use breathing to change your mood you can refer to breath walk, breathing your way to a revitalized body, mind and spirit or search out other books on breathing. 9. How your environment affects your emotions. Your environment also influences the way you feel. By environment, I mean everything around you can affect you in some way.
 
-For instance, negative relatives may drag you down, while a messy desk may be demotivating. I’ve noticed that when I feel demotivated, decluttering my desk, cleaning my room, or reorganizing files on my computer often gives me a boost of motivation. For more on how you can use your environment to change your emotions see the section, change in your environment. 10. How music affects your emotions We all know music affects our mood.
+It could be people you hang out with, TV shows you watch, or the place you live. For instance, negative relatives may drag you down, while a messy desk may be demotivating. I’ve noticed that when. I feel demotivated, decluttering my desk, cleaning my room, or reorganizing files on my computer often gives me a boost of motivation.
 
-Who hasn’t listened to Rocky’s song while working out? For instance, music can help you relax when you’re tired, motivate you when you’re in a slump, help you persevere when you’re at the gym, help you access feelings of gratitude and put you in a positive mood state. Some studies have shown that listening to positive music can help people boost their mood. In a study conducted in 2012, participants reported higher positive mood after listening to a positive song for just 12 minutes, 5 times, over a two-week period.
+For more on how you can use your environment to change your emotions see the section, change in your environment. 10. How music affects your emotions. We all know music affects our mood. Who hasn’t listened to Rocky’s song while working out?
+
+For instance, music can help you relax when you’re tired, motivate you when you’re in a slump, help you persevere when you’re at the gym, help you access feelings of gratitude and put you in a positive mood state. Some studies have shown that listening to positive music can help people boost their mood. In a study conducted in 2012, participants reported higher positive mood after listening to a positive song for just 12 minutes, 5 times, over a two-week period.
 
 Interestingly, it only worked with participants who were told to make an effort to boost their mood. Other participants didn’t report such mood improvement. Another study conducted in 2014 showed that music can help reduce negative mood and boost self-esteem as indicated below. Specifically, the most significant results of the music interventions on the psychological side can be identified in the aspects more closely related to mood, especially in the reduction of the depressive and anxieties component, and in the improvement of the emotional expression, communication and interpersonal skills, self-esteem and quality of life.
 
@@ -549,9 +593,11 @@ Valerie N. Stratton, Ph. D. and Annette H. Zalinosky, of Penn State University, 
 
 They asked their students to keep music diaries for two weeks. Stratton concluded that, not only did our sample of students report more positive emotions after listening to music, but their already positive emotions were intensified by listening to music. Interestingly, the music genre and the context in which students listened to the music didn’t affect the result. Students' mood improved whether they listened to rock or classical music, or whether they were at home, driving or socializing.
 
-Using Music to Condition Your Mind You can go one step further and use the power of music to condition your mind by creating playlists tailored to your emotional needs. Building playlists is time-consuming, but well worth the effort. The world-class endurance athlete and coach, Christopher Bergland, uses music to help him stay motivated. it and perform at his best. This is what he wrote in an article published in Psychology Today, as an athlete, I developed an ideal mindset for peak performance and used an arsenal of time-tested songs to fortify this alter ego and invincible state of mind.
+Using Music to Condition. Your Mind. You can go one step further and use the power of music to condition your mind by creating playlists tailored to your emotional needs. Building playlists is time-consuming, but well worth the effort.
 
-During my training and races it became obvious that even in really horrible weather conditions, or when I was physically suffering, that I could use music, and my imagination, to create a parallel universe that had little to do with reality. I used music to stay optimistic and see the glass as perpetually half-full while doing ultra-endurance races.
+The world-class endurance athlete and coach, Christopher Bergland, uses music to help him stay motivated. it and perform at his best. This is what he wrote in an article published in Psychology Today, as an athlete, I developed an ideal mindset for peak performance and used an arsenal of time-tested songs to fortify this alter ego and invincible state of mind. During my training and races it became obvious that even in really horrible weather conditions, or when. I was physically suffering, that.
+
+I could use music, and my imagination, to create a parallel universe that had little to do with reality. I used music to stay optimistic and see the glass as perpetually half-full while doing ultra-endurance races.
 
 
 <a id="sec-011538"></a>
@@ -579,7 +625,7 @@ How to change your story and create a more empowering one how to condition your 
 
 Finally, I’ll share with you a list of short-term and long-term strategies you can use to better deal with negative emotions. Let’s get started. 11. How emotions are formed. When a thought emerges on the canvas of your mind, if you don’t drop it, its pursuit will either take the form of a desire or an emotion, positive or negative.
 
-Oh I’m swami, a million thoughts. Few people know how emotions are formed. While we experience them all day long, we seldom, if ever, take time to understand why we are feeling certain emotions and how they came into existence.
+Oh. I’m swami, a million thoughts. Few people know how emotions are formed. While we experience them all day long, we seldom, if ever, take time to understand why we are feeling certain emotions and how they came into existence.
 
 First, let’s differentiate two types of negative emotions. The first type are the negative emotions you experience spontaneously. These are the emotions that keep you alive such as the fear our ancestors felt when they encountered a saber-toothed tiger. The second type of negative emotions are the ones you create in your mind by identifying with your thoughts.
 
@@ -643,25 +689,29 @@ In fact, if you had let go of the thought of resentment immediately after it aro
 
 How emotions are formed. Recall the last time you felt anger, sadness, frustration, fear, or depression.
 
-Now, write down what happens for each of the following, interpretation, what events happened and what thoughts arose. Identification How did you respond to these thoughts? Repetition Did you identify with these thoughts repeatedly? 12. Changing your interpretation The sight of a slaughterhouse may trigger a negative emotion in you, whereas it may be positive for the business owner and natural for the machine operator.
+Now, write down what happens for each of the following, interpretation, what events happened and what thoughts arose. Identification. How did you respond to these thoughts? Repetition Did you identify with these thoughts repeatedly? 12.
 
-It all depends on how you are conditioned. O M Swami A Million Thoughts In itself, an event or a thought has no power to alter your emotional state. What generates emotions is the way you choose to interpret the event or thought. This is why two people can react differently to the same situation.
+Changing your interpretation The sight of a slaughterhouse may trigger a negative emotion in you, whereas it may be positive for the business owner and natural for the machine operator. It all depends on how you are conditioned. O M Swami A Million Thoughts. In itself, an event or a thought has no power to alter your emotional state.
 
-One will see a problem and blame external circumstances, while the other will see an opportunity to be embraced. One will get stuck, the other will grow. The way you interpret events is closely linked to general assumptions you hold about life. As such, it is essential we first delve into the underlying assumptions that lead to these interpretations.
+What generates emotions is the way you choose to interpret the event or thought. This is why two people can react differently to the same situation. One will see a problem and blame external circumstances, while the other will see an opportunity to be embraced. One will get stuck, the other will grow.
 
-Exploring Your Assumptions To enter a given emotional state, you made certain assumptions regarding how things should be. These assumptions constitute your subjective reality. Because you’re convinced they are true, you don’t question them. Below are some examples of assumptions you may have, problems should be avoided.
+The way you interpret events is closely linked to general assumptions you hold about life. As such, it is essential we first delve into the underlying assumptions that lead to these interpretations. Exploring. Your Assumptions To enter a given emotional state, you made certain assumptions regarding how things should be.
 
-This is a problem. I should be healthy. I’ll live at least until I’m 70. I must get married.
+These assumptions constitute your subjective reality. Because you’re convinced they are true, you don’t question them. Below are some examples of assumptions you may have, problems should be avoided. This is a problem.
 
-Complaining is normal. There is nothing wrong with dwelling on the past I need to worry about the future, and or.
+I should be healthy. I’ll live at least until. I’m 70. I must get married.
 
-Now, let’s look at each one of these assumptions, problems should be avoided, many people want to get rid of their problems. But what if you can’t, and what if you don’t need to? For sure, some people have, better, problems than others, but everybody has problems. What if the assumption that you shouldn’t have any problems is wrong? What if you need to learn how to dance in the rain and make the most of your problems? What if problems are just challenges to be overcome, and part of life?
+Complaining is normal. There is nothing wrong with dwelling on the past. I need to worry about the future, and or.
 
-This is a problem. What if this thing you label as a problem is actually not a problem? What if it doesn’t matter as much as you think? What if it’s an opportunity in disguise?
+Now, let’s look at each one of these assumptions, problems should be avoided, many people want to get rid of their problems. But what if you can’t, and what if you don’t need to? For sure, some people have, better, problems than others, but everybody has problems. What if the assumption that you shouldn’t have any problems is wrong?
 
-And how could you make it so? I should be healthy, we tend to take our health for granted, but we cannot guarantee we won’t get sick tomorrow. What if your health is a blessing and not necessarily the default position? Wouldn’t that make you think of your health in a different way?
+What if you need to learn how to dance in the rain and make the most of your problems? What if problems are just challenges to be overcome, and part of life? This is a problem. What if this thing you label as a problem is actually not a problem?
 
-I’ll live at least until I’m 70, you probably assume you’ll live a long life, but what if that’s not the case? Isn’t living a long life a blessing rather than something you should take for granted? Unfortunately, some people die young, but that’s the nature of reality. People say, he died too young, but is that correct?
+What if it doesn’t matter as much as you think? What if it’s an opportunity in disguise? And how could you make it so? I should be healthy, we tend to take our health for granted, but we cannot guarantee we won’t get sick tomorrow.
+
+What if your health is a blessing and not necessarily the default position? Wouldn’t that make you think of your health in a different way? I’ll live at least until. I’m 70, you probably assume you’ll live a long life, but what if that’s not the case?
+
+Isn’t living a long life a blessing rather than something you should take for granted? Unfortunately, some people die young, but that’s the nature of reality. People say, he died too young, but is that correct?
 
 
 <a id="sec-013044"></a>
@@ -675,21 +725,23 @@ It doesn’t help you and doesn’t change anything. The only thing it does is s
 
 You probably spend too much time dwelling on the past. Everybody does. But do you realize the past exists only in your mind? And do you realize you can’t change it no matter what you do?
 
-Learning from your past is useful, dwelling on it isn’t. I need to worry about the future. Worrying about the future is unavoidable to a certain extent, but it doesn’t help. Instead, you should do the best you can in the present to avoid future problems. You don’t need to have the perfect life to be happy.
+Learning from your past is useful, dwelling on it isn’t. I need to worry about the future. Worrying about the future is unavoidable to a certain extent, but it doesn’t help. Instead, you should do the best you can in the present to avoid future problems.
 
-Happiness is a choice you need to make every day. You must practice it since, as we’ve seen before, external factors won’t significantly affect your happiness. These are just some examples of assumptions you may hold. My intention here is to show you that your interpretations and the emotions generated from them are largely the result of the assumptions you hold about the world.
+You don’t need to have the perfect life to be happy. Happiness is a choice you need to make every day. You must practice it since, as we’ve seen before, external factors won’t significantly affect your happiness. These are just some examples of assumptions you may hold.
 
-Thus, to experience more positive emotions, it is important you spend time revising your assumptions. Analyzing your interpretations. As we’ve already seen, you interpret events based on your assumptions.
+My intention here is to show you that your interpretations and the emotions generated from them are largely the result of the assumptions you hold about the world. Thus, to experience more positive emotions, it is important you spend time revising your assumptions. Analyzing your interpretations. As we’ve already seen, you interpret events based on your assumptions.
 
-Now, below are some questions to help you understand what I mean by interpretations. Do you think everything happens for a reason and embrace it, or do you play the victim? Do you believe temporary setbacks are just milestones that will lead you to succeed, or do you give up when you encounter your first major setback? Do you try to change things that cannot be changed, or do you accept them?
+Now, below are some questions to help you understand what. I mean by interpretations. Do you think everything happens for a reason and embrace it, or do you play the victim? Do you believe temporary setbacks are just milestones that will lead you to succeed, or do you give up when you encounter your first major setback?
 
-Do you believe you’re here for a reason, or do you wander through life without any clear purpose? Do you believe problems are bad and should be avoided, or do you believe they are a necessary part of life? Remember, what differentiates people who live a happy life from people who are miserable is often how they choose to interpret their lives. Action step.
+Do you try to change things that cannot be changed, or do you accept them? Do you believe you’re here for a reason, or do you wander through life without any clear purpose? Do you believe problems are bad and should be avoided, or do you believe they are a necessary part of life? Remember, what differentiates people who live a happy life from people who are miserable is often how they choose to interpret their lives.
 
-Write down interpretations of your emotions using the workbook, section three. How to change your emotions, two. Change in your story. Write down one or two emotional issues you currently have.
+Action step. Write down interpretations of your emotions using the workbook, section three. How to change your emotions, two. Change in your story.
 
-Ask yourself if I could get rid of some emotions, losing which ones would have the most positive impact on my life. Your interpretation of these issues. Ask yourself, what would I need to believe for my story to be true? New empowering interpretations that will help you deal with these issues.
+Write down one or two emotional issues you currently have. Ask yourself if. I could get rid of some emotions, losing which ones would have the most positive impact on my life. Your interpretation of these issues.
 
-Ask yourself, what do I need to believe to avoid experiencing these negative emotions? 13, letting go of your emotions. Emotions are just emotions. They are not you, they are not facts, and you can let them go. Hailed work in the Sedona Method.
+Ask yourself, what would. I need to believe for my story to be true? New empowering interpretations that will help you deal with these issues. Ask yourself, what do.
+
+I need to believe to avoid experiencing these negative emotions? 13, letting go of your emotions. Emotions are just emotions. They are not you, they are not facts, and you can let them go. Hailed work in the Sedona Method.
 
 As we’ve seen, interpretation, identification, and repetition can lead to the creation of strong emotions. In this section, we’ll see what you can do to start letting go of emotions that aren’t helping you achieve the life you want. Emotions are energy in motion, but what happens when you prevent the energy from moving? It accumulates.
 
@@ -711,23 +763,29 @@ One, observe your emotions with detachment. Whenever you experience a negative e
 
 Practice feeling how it feels. Try to locate the emotion. Think of the way you would describe the emotion to someone else. Remember, don’t engage in a story revolving around that emotion and believe in whatever images or thoughts that arise when you experience that emotion.
 
-Two, label your emotion. Remember, emotions are merely temporary experiences or if you prefer, clothes you wear for a while. They aren’t you. When you experience an emotion, you say things like, I am angry, I am sad or I am depressed.
+Two, label your emotion. Remember, emotions are merely temporary experiences or if you prefer, clothes you wear for a while. They aren’t you. When you experience an emotion, you say things like, I am angry, I am sad or.
 
-Notice how you instantly identify with your emotions. However, this is factually incorrect. The emotions you experience have nothing to do with who you really are. If you were your depression, you’ll be depressed all day long every single second of your existence.
+I am depressed. Notice how you instantly identify with your emotions.
 
-Fortunately, that’s not the case. Let’s assume you feel sad. Rather than saying, I’m sad, a more accurate way to describe that emotion would be, I feel sad or I experience a feeling of sadness. Can you see how different it is from saying, I’m sad?
+However, this is factually incorrect. The emotions you experience have nothing to do with who you really are. If you were your depression, you’ll be depressed all day long every single second of your existence. Fortunately, that’s not the case.
+
+Let’s assume you feel sad. Rather than saying, I’m sad, a more accurate way to describe that emotion would be, I feel sad or. I experience a feeling of sadness. Can you see how different it is from saying, I’m sad?
 
 It gives you more space to distance yourself from your emotions. The more you become aware of your emotions, the more you can label them and detach yourself from them. And the easier it will be to let go of these emotions. Three, let go of your emotions.
 
 Too often, you over identify with your emotions and cling to them for the following reasons. They’re part of the story you’re telling yourself. Sometimes you can’t stop clinging to a story, even a disempowering one. Yes, you can become addicted to destructive stories despite knowing they aren’t helping you.
 
-You believe the emotions are you and feel a strong need to identify with them. You may fall into the trap of believing you or your emotions. As a result, you identify heavily with them, which creates suffering. Real life example, I regularly felt that I wasn’t good enough.
+You believe the emotions are you and feel a strong need to identify with them. You may fall into the trap of believing you or your emotions. As a result, you identify heavily with them, which creates suffering. Real life example, I regularly felt that.
 
-As a result, I believed I should work harder. This belief led me to create lists of daily goals that were impossible to complete even when working from morning to night. I often fell short on my goals, which reinforced the belief that I wasn’t good enough. By realizing this was just a story, I started letting go of this belief.
+I wasn’t good enough. As a result, I believed. I should work harder. This belief led me to create lists of daily goals that were impossible to complete even when working from morning to night.
 
-After doing so, I noticed I was actually getting almost as much work done, but without the need to struggle and feel stressed out. I’m still working on that issue, but I gained tremendous value from this process. The challenging part was to let go of the attachment to my story by letting go of the following, the belief that I’m not good enough and must work harder the pride I feel from working harder than most people, the victim mentality that comes from working hard while not getting the results I want.
+I often fell short on my goals, which reinforced the belief that. I wasn’t good enough. By realizing this was just a story, I started letting go of this belief. After doing so, I noticed.
 
-The idea I’m somewhat special, the idea the world needs to be changed, and the need to control the outcome of my actions. As you can see, letting go of core emotions is not easy. They’ve become part of our identity, and we often derive a twisted pleasure from them. We may even wonder who we will be without them.
+I was actually getting almost as much work done, but without the need to struggle and feel stressed out. I’m still working on that issue, but. I gained tremendous value from this process. The challenging part was to let go of the attachment to my story by letting go of the following, the belief that.
+
+I’m not good enough and must work harder the pride. I feel from working harder than most people, the victim mentality that comes from working hard while not getting the results. I want. The idea.
+
+I’m somewhat special, the idea the world needs to be changed, and the need to control the outcome of my actions. As you can see, letting go of core emotions is not easy. They’ve become part of our identity, and we often derive a twisted pleasure from them. We may even wonder who we will be without them.
 
 Four, a five-step process to let go of emotions. In his book, The Sedona Method, Hale Dwaskin explains there are three different ways to release your emotions as they arise. You can, one, let them go. When you experience negative emotions, you can consciously choose to release them rather than repressing them or clinging to them.
 
@@ -739,23 +797,29 @@ Two, allow them to be here. You can allow them by acknowledging their existence 
 
 is to become aware of your emotions as they arise. He then introduces a five-step process to let go of your emotions. Step one, focus on a certain emotion you would like to work on so you can feel better. This doesn’t need to be a big emotion.
 
-It could be something as simple as not feeling like working on a specific task or being mildly annoyed about something. Step two, ask yourself one of the following questions. One, could I let this feeling go? Two, could I allow this feeling to be here?
+It could be something as simple as not feeling like working on a specific task or being mildly annoyed about something. Step two, ask yourself one of the following questions. One, could. I let this feeling go?
 
-Three, could I welcome this feeling? Depending on which way you want to go, release, allow, or welcome, answer the corresponding question. Step three, then ask yourself, would I? One, would I let this feeling go?
+Two, could. I allow this feeling to be here? Three, could. I welcome this feeling?
 
-Two, would I allow this feeling to be here? Three, would I welcome this feeling? Answer yes or no to each question while being honest with yourself. Do you feel like you can let go slash allow slash welcome the emotion?
+Depending on which way you want to go, release, allow, or welcome, answer the corresponding question. Step three, then ask yourself, would. I? One, would.
 
-Even a no will help you let go of it. Step four, ask yourself when? Your answer will be now. You let go of that emotion immediately.
+I let this feeling go? Two, would. I allow this feeling to be here? Three, would.
 
-Step five, repeat this process as many times as necessary for that particular feeling to disappear. You may be tempted to brush off this technique as overly simplistic and ineffective. Don’t do that. Try it for yourself.
+I welcome this feeling? Answer yes or no to each question while being honest with yourself. Do you feel like you can let go slash allow slash welcome the emotion? Even a no will help you let go of it.
 
-Remember that you are not your emotions. That’s precisely by practicing letting go of them that you’ll realize that universal truth. As you make a conscious choice to let go of your emotions, welcome them fully or allow them to be, you’ll gain a whole new understanding of how emotions work and how to release them. Action step.
+Step four, ask yourself when? Your answer will be now. You let go of that emotion immediately. Step five, repeat this process as many times as necessary for that particular feeling to disappear.
 
-Use the exercises in the corresponding section of the workbook to start letting go of your emotions. Section three, how emotions are formed. Three, letting go of your emotions. Make a list of all the emotions you would like to let go of.
+You may be tempted to brush off this technique as overly simplistic and ineffective. Don’t do that. Try it for yourself. Remember that you are not your emotions.
 
-Perhaps you feel as though you aren’t good enough. Perhaps you struggle with procrastination and experience guilt and shame. Maybe you blame yourself for something you did in the past or you worry about your future. Just write down whatever comes to your mind.
+That’s precisely by practicing letting go of them that you’ll realize that universal truth. As you make a conscious choice to let go of your emotions, welcome them fully or allow them to be, you’ll gain a whole new understanding of how emotions work and how to release them. Action step. Use the exercises in the corresponding section of the workbook to start letting go of your emotions.
 
-Now, use the method mentioned above. Select one emotion then ask yourself, could I let this feeling go? Would I? Yes slash no, when?
+Section three, how emotions are formed. Three, letting go of your emotions. Make a list of all the emotions you would like to let go of. Perhaps, you feel as though you aren’t good enough.
+
+Perhaps, you struggle with procrastination and experience guilt and shame. Maybe you blame yourself for something you did in the past or you worry about your future. Just write down whatever comes to your mind.
+
+Now, use the method mentioned above. Select one emotion then ask yourself, could. I let this feeling go? Would.
+
+I? Yes slash no, when?
 
 Now, don’t worry if you’re not successful at first. You’ll have plenty of opportunities to practice in the future. Fourteen, conditioning your mind to experience more positive emotions. Try to see that a thought about a person or event is merely a thought about that person or event.
 
@@ -787,7 +851,7 @@ Later, we’ll discuss how you can use your emotions as a tool for personal grow
 
 On the other hand, people with low self-esteem bombard their mind with disempowering thoughts. They discard their accomplishments as no big deal and fail to recognize their strengths and the positive intent behind their actions. No wonder they feel unworthy. For more information red section, not being good enough.
 
-Both use their thoughts to distort reality, but who do you think is better off? The person who deposits positive thoughts in their mind or the person who dwells on negative thoughts. Does it mean positive thinking is going to solve all your problems and eliminate your negative emotions once and for all? Of course not.
+Both use their thoughts to distort reality, but who do you think is better off? The person who deposits positive thoughts in their mind or the person who dwells on negative thoughts. Does it mean positive thinking is going to solve all your problems and eliminate your negative emotions once and for all? Of course, not.
 
 Thought manipulation is simply one of the tools you can use to master your emotions. The limit of positive thinking Repeating to yourself, I’m happy, I’m happy, I’m happy, all day long won’t turn you into a living Buddha. You may benefit from it, but you’ll still experience negative emotions. Unless you know how to deal with negative emotions when they appear, you’ll fall prey to your own disempowering story.
 
@@ -821,29 +885,31 @@ Think of how you benefit from this chair, remember a time you were so tired you 
 
 Search gratitude meditation on YouTube too. Excitement. Sometimes, you lose excitement. You feel as though you’re running in circles trapped in the same old routine.
 
-To generate more excitement, spend a little time every morning visualizing all the things you want. Get excited about these things. Below are several ways to do it, please note, this should be practiced on a regular basis a write down what you want, take a pen and piece of paper and write what I want at the top of the page. Then write down anything you can think of that excites you.
+To generate more excitement, spend a little time every morning visualizing all the things you want. Get excited about these things. Below are several ways to do it, please note, this should be practiced on a regular basis a write down what you want, take a pen and piece of paper and write what. I want at the top of the page.
 
-B visualize what you want, ask yourself what do I really want and visualize all the things you desire. Try to be as specific as possible. Clarity is power. Think of your ideal career, relationship, or lifestyle, or any goals you want to accomplish in the coming decade or beyond.
+Then write down anything you can think of that excites you. B visualize what you want, ask yourself what do. I really want and visualize all the things you desire. Try to be as specific as possible.
 
-C. Create a goals slash dreams journal, buy a notebook and write down your goals in each area of your life. Review them each morning and keep adding pictures, drawings, or anything else to foster your enthusiasm. D.
+Clarity is power. Think of your ideal career, relationship, or lifestyle, or any goals you want to accomplish in the coming decade or beyond. C. Create a goals slash dreams journal, buy a notebook and write down your goals in each area of your life.
 
-Vividly envision your ideal day, what would you eat for breakfast? How would you spend your day? With whom would you spend your day? What would you do in the evening?
+Review them each morning and keep adding pictures, drawings, or anything else to foster your enthusiasm. D. Vividly envision your ideal day, what would you eat for breakfast? How would you spend your day?
 
-Where would you live? How would you feel? You can have several versions of your ideal day. Just make sure each version excites you. 3.
+With whom would you spend your day? What would you do in the evening? Where would you live? How would you feel?
 
-Confidence slash certainty if you want to have more confidence in your ability to achieve your goals, visualize yourself as having already accomplished them and feel good about it. Practice developing a sense of certainty. Commit to your vision in your mind. Each time you visualize your goal, give the energy of commitment to it.
+You can have several versions of your ideal day. Just make sure each version excites you. 3. Confidence slash certainty if you want to have more confidence in your ability to achieve your goals, visualize yourself as having already accomplished them and feel good about it. Practice developing a sense of certainty.
 
-Know it’s going to happen. 4. Self-esteem. To boost your self-esteem, keep track of your daily accomplishments. You do many things right, but you tend only to remember things you do wrong.
+Commit to your vision in your mind. Each time you visualize your goal, give the energy of commitment to it. Know it’s going to happen. 4. Self-esteem.
 
-No wonder your self-esteem suffers. Buy a notebook and dedicate it to this purpose. Record your accomplishments every day. Some examples of accomplishments would be, I woke on time.
+To boost your self-esteem, keep track of your daily accomplishments. You do many things right, but you tend only to remember things you do wrong. No wonder your self-esteem suffers. Buy a notebook and dedicate it to this purpose.
 
-I ate some fruit. I cleaned my desk. I completed project A. I exercised.
+Record your accomplishments every day. Some examples of accomplishments would be, I woke on time. I ate some fruit. I cleaned my desk.
+
+I completed project A. I exercised.
 
 
 <a id="sec-015556"></a>
 ### ⏱️ [01:55:56 - 02:00:57]
 
-I completed my morning ritual, and or I read. As you can see, you don’t have to write down anything big.
+I completed my morning ritual, and or. I read. As you can see, you don’t have to write down anything big.
 
 In fact, by writing down small accomplishments, you condition your mind to look for more wins. Which, over time, enhances your self-esteem. For more exercises related to self-esteem, refer to the section, not feeling good enough. 5. Decisiveness.
 
@@ -851,7 +917,7 @@ As you practice being more decisive, you’ll boost your productivity, which wil
 
 If you can do the things you don’t feel like doing, you’ll get everything you’ve ever wanted. Her 5-second rule states you have 5 seconds from the moment you have an idea to the moment you take action. If you fail to act within these 5 seconds, your mind will talk you out of it. The nature of the mind is to prevent us from doing anything scary or tiring.
 
-For instance, you have 5 seconds to, introduce yourself to someone you want to talk to at an event send that important email, or ask a question during a meeting. Exercise, strengthen your decisiveness to practice the 5-second rule, you can start with small things. Make a list of things you procrastinate over. Perhaps you put off washing the dishes or cleaning your home.
+For instance, you have 5 seconds to, introduce yourself to someone you want to talk to at an event send that important email, or ask a question during a meeting. Exercise, strengthen your decisiveness to practice the 5-second rule, you can start with small things. Make a list of things you procrastinate over. Perhaps, you put off washing the dishes or cleaning your home.
 
 Maybe, you delay calling someone or sending some emails. Write it down.
 
@@ -859,9 +925,11 @@ Now, select a couple of things on which you’ll use the 5-second rule. Commit t
 
 Common mistakes to avoid when conditioning your mind, as you condition your mind to experience more positive emotions, avoid making the following mistakes, trying to implement too many changes at once, stick to one or two exercises for a month or so before trying any other exercises. Starting too big, keep it small and make sure the exercises aren’t too challenging. Remember, taking control of your emotions is a long-term game. It’s a marathon, not a sprint.
 
-To learn and more about how to create an exciting morning ritual, please consult my book, Wake Up Call, How to Take Control of Your Morning and Transform Your Life. Action Step. Refer to the corresponding section in the workbook and choose the emotions you want to experience more of, section 3. How to Change Your Emotions, 4.
+To learn and more about how to create an exciting morning ritual, please consult my book, Wake Up Call, How to Take Control of. Your Morning and Transform. Your Life. Action Step.
 
-Conditioning Your Mind. 15. Changing your emotions by changing your behavior. Action seems to follow feeling, but really action and feeling go together, and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not. William James, philosopher and psychologist.
+Refer to the corresponding section in the workbook and choose the emotions you want to experience more of, section 3. How to Change. Your Emotions, 4. Conditioning.
+
+Your Mind. 15. Changing your emotions by changing your behavior. Action seems to follow feeling, but really action and feeling go together, and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not. William James, philosopher and psychologist.
 
 We’ve seen you can influence your emotions by using your body, mind, or words. We’ve also discussed how you can change your interpretations of thoughts or events to change your emotional state. Unfortunately, when negative emotions suddenly arise or are too strong, changing your body posture or using positive affirmation might not be enough.
 
@@ -869,9 +937,9 @@ In fact, trying to replace a negative emotion by a more positive one often fails
 
 However, you can influence the way you feel by changing your behavior. As you alter your behavior, your feelings will change accordingly. It may happen almost immediately, as when you distract yourself from mild anger by performing a task. Or it may take weeks or even months while you deal with profound emotions such as intense grief or depression.
 
-To start changing the way you feel, whenever you experience a negative emotion, ask yourself the following questions, what causes that emotion, and what can I do about my present reality? After asking these questions, identify concrete actions you could take to change your emotional state. Remember, by nature, emotions will fade as time passes. That is, unless you reinforce them by replaying the same situation over and over in your mind.
+To start changing the way you feel, whenever you experience a negative emotion, ask yourself the following questions, what causes that emotion, and what can. I do about my present reality? After asking these questions, identify concrete actions you could take to change your emotional state. Remember, by nature, emotions will fade as time passes.
 
-Below are some real-world examples to help you better understand how it works.
+That is, unless you reinforce them by replaying the same situation over and over in your mind. Below are some real-world examples to help you better understand how it works.
 
 
 <a id="sec-020057"></a>
@@ -887,19 +955,23 @@ Don’t forget to practice letting go of negative emotions as they arise. As you
 
 Changing your emotions by changing your behaviors. Remember the last time you experienced a negative emotion that lasted more than a couple of days.
 
-Now, think of what you did specifically to overcome this negative emotion, if anything. Then, ask yourself, how could I have changed my behavior to influence my emotions positively? 16. Changing your emotions by changing your environment. You cannot always control your emotions.
+Now, think of what you did specifically to overcome this negative emotion, if anything. Then, ask yourself, how could. I have changed my behavior to influence my emotions positively? 16. Changing your emotions by changing your environment.
 
-Certain events, such as a breakup, the loss of a loved one, or a severe disease, can trigger negative emotions. However, you do have control over some events. Do you have daily life situations that affect your peace of mind? What if you could do something about them?
+You cannot always control your emotions. Certain events, such as a breakup, the loss of a loved one, or a severe disease, can trigger negative emotions.
 
-Sometimes, to reduce negative emotions you simply need to avoid putting yourself in the situations generating them in the first place. Perhaps, you watch too much TV, which makes you miserable. Or maybe, seeing your friends, seemingly, happy on Facebook makes you feel like a failure. Why not spend less time in such situations?
+However, you do have control over some events. Do you have daily life situations that affect your peace of mind? What if you could do something about them? Sometimes, to reduce negative emotions you simply need to avoid putting yourself in the situations generating them in the first place.
 
-Real life example, Facebook was making me unhappy and I felt like a failure. People in my field were killing it and my friends looked so happy, or so I thought. Not to mention the fact I was wasting hours of my time mindlessly scrolling through my newsfeed. To overcome this drain on my emotional bank, I drastically reduced the time I spent on Facebook.
+Perhaps, you watch too much TV, which makes you miserable. Or maybe, seeing your friends, seemingly, happy on Facebook makes you feel like a failure. Why not spend less time in such situations? Real life example, Facebook was making me unhappy and.
 
-Ever since making the decision, I’ve been feeling better. This example shows you that small changes can enhance your well-being. If you look at the things you do daily, you’ll find activities or behaviors that don’t support your happiness. Just removing one or two of these activities, or changing some of your behaviors, may noticeably improve your mood.
+I felt like a failure. People in my field were killing it and my friends looked so happy, or so. I thought. Not to mention the fact.
 
-You may already know what you should do, but it’s also possible you’re unaware of the cost of some of your behaviors on your well-being. Below, I’ve listed some examples of activities or behaviors that may rob you of your happiness. Ask yourself whether they’re contributing to your overall sense of well-being, watching TV, although watching TV can be fun, it’s also a passive activity which may not contribute much to your happiness. Spending time on social media, social media is convenient and it allows you to keep in touch with your friends, but it can also be addictive.
+I was wasting hours of my time mindlessly scrolling through my newsfeed. To overcome this drain on my emotional bank, I drastically reduced the time. I spent on Facebook. Ever since making the decision, I’ve been feeling better.
 
-Facebook or Twitter can turn you into an addict craving the approval of others. Hanging out with negative people, people you hang out with have a tremendous influence on your emotional state. Positive people will lift you up and help you achieve your wildest dreams. Negative people will suck up your energy, demotivate you and destroy your potential.
+This example shows you that small changes can enhance your well-being. If you look at the things you do daily, you’ll find activities or behaviors that don’t support your happiness. Just removing one or two of these activities, or changing some of your behaviors, may noticeably improve your mood. You may already know what you should do, but it’s also possible you’re unaware of the cost of some of your behaviors on your well-being.
+
+Below, I’ve listed some examples of activities or behaviors that may rob you of your happiness. Ask yourself whether they’re contributing to your overall sense of well-being, watching TV, although watching TV can be fun, it’s also a passive activity which may not contribute much to your happiness. Spending time on social media, social media is convenient and it allows you to keep in touch with your friends, but it can also be addictive. Facebook or Twitter can turn you into an addict craving the approval of others.
+
+Hanging out with negative people, people you hang out with have a tremendous influence on your emotional state. Positive people will lift you up and help you achieve your wildest dreams. Negative people will suck up your energy, demotivate you and destroy your potential.
 
 As Jim Rohn said, “YOU are the average of the five people you spend the most time with.” Make sure you surround yourself with the right people. Complaining and focusing on the negative, do you constantly see the negative side of things? Do you dwell on the past? If so, how does
 
@@ -929,15 +1001,17 @@ Listen to music, listening to your favorite music may shift your emotional state
 
 Take action. Do it anyway, leave your feeling alone and do what you have to do. Mature adults do what they have to do whether they feel like it or not. Do something about it, your behavior indirectly changes your feelings.
 
-Ask yourself, what action can I take in today to change the way I feel? Then, go do it. C. Become aware of your emotions.
+Ask yourself, what action can. I take in today to change the way. I feel? Then, go do it.
 
-Write it down, take a pen and paper and write down what you worry about, why, and what you can do about it. Be as specific as possible. Write down what happened, take a piece of paper and write down what exactly happened to generate the negative emotion. Don’t write down your interpretation of it or the drama you created around it.
+C. Become aware of your emotions. Write it down, take a pen and paper and write down what you worry about, why, and what you can do about it. Be as specific as possible.
 
-Write down the raw facts. Now ask yourself, in the grand scheme of your life, is it really that big a deal? Talk, have a discussion with a friend. You may be overreacting, making things worse than they are.
+Write down what happened, take a piece of paper and write down what exactly happened to generate the negative emotion. Don’t write down your interpretation of it or the drama you created around it. Write down the raw facts. Now ask yourself, in the grand scheme of your life, is it really that big a deal?
 
-Sometimes, all you need is a different perspective. Remember a time when you felt good about. Yourself, this can help you get back in that state and gain a new perspective. Ask yourself the following questions, how did it feel?
+Talk, have a discussion with a friend. You may be overreacting, making things worse than they are. Sometimes, all you need is a different perspective. Remember a time when you felt good about.
 
-What was I thinking at the time? What was my outlook on life at the time? Let your emotion go, ask yourself, can I let that emotion go? Then, allow yourself to release it.
+Yourself, this can help you get back in that state and gain a new perspective. Ask yourself the following questions, how did it feel? What was. I thinking at the time?
+
+What was my outlook on life at the time? Let your emotion go, ask yourself, can. I let that emotion go? Then, allow yourself to release it.
 
 Allow your emotions to be, stop trying to resist your emotions or to change them.
 
@@ -951,35 +1025,35 @@ What are they exactly at their core? D, just relax. Rest, take a nap or a break.
 
 Breathe, breathe slowly to relax. The way you breathe affects your emotional state. Use breathing techniques to calm you down or to give you more energy. Relax, take a few minutes to relax your muscles.
 
-Start by relaxing your jaw, the tension around your eyes and the muscles on your face. Your body affects your emotions. As you relax your body, your mind also relaxes. Bless your problems, thank your problems. Understand they are here for a reason and will serve you in some way. 2, long-term solutions.
+Start by relaxing your jaw, the tension around your eyes and the muscles on your face. Your body affects your emotions. As you relax your body, your mind also relaxes. Bless your problems, thank your problems.
 
-The following techniques will help you manage your negative emotions long-term. A, analyze your negative emotions, identify the story behind your emotions, take a pen and paper, and write down all the reasons why you have these emotions in the first place. What assumptions do you hold? How did you interpret what’s happening to you?
+Understand they are here for a reason and will serve you in some way. 2, long-term solutions. The following techniques will help you manage your negative emotions long-term. A, analyze your negative emotions, identify the story behind your emotions, take a pen and paper, and write down all the reasons why you have these emotions in the first place. What assumptions do you hold?
 
-Now, see if you can let go of this particular story. Write down your emotions in a journal, take a few minutes each day to write down how you felt. Look for recurrent patterns. Then, use affirmations, visualization, or a relevant exercise to help you overcome these emotions.
+How did you interpret what’s happening to you? Now, see if you can let go of this particular story. Write down your emotions in a journal, take a few minutes each day to write down how you felt. Look for recurrent patterns.
 
-Practice mindfulness, observe your emotions. Throughout the day. Meditation will help you do this. Another way is simply to engage in an activity while being fully present.
+Then, use affirmations, visualization, or a relevant exercise to help you overcome these emotions. Practice mindfulness, observe your emotions. Throughout the day. Meditation will help you do this.
 
-As you’re doing this, observe what’s going on in your mind. B, move away from negativity. Change environment, if you’re surrounded by negativity, change your environment. Move to a different place or reduce the time you spend with negative friends.
+Another way is simply to engage in an activity while being fully present. As you’re doing this, observe what’s going on in your mind. B, move away from negativity. Change environment, if you’re surrounded by negativity, change your environment.
 
-Remove counterproductive activities, remove or reduce the time you spend on any activity not having a positive impact on your life. This could be reducing the time you spend watching TV or surfing the internet. C, condition your mind. Create daily rituals, this will help you to experience more positive emotions.
+Move to a different place or reduce the time you spend with negative friends. Remove counterproductive activities, remove or reduce the time you spend on any activity not having a positive impact on your life. This could be reducing the time you spend watching TV or surfing the internet. C, condition your mind.
 
-Meditate, exercise, repeat affirmations, create a gratitude journal, and so on. The best time to deposit positive thoughts in your mind is right before going to sleep and first thing in the morning. Exercise, exercise regularly. Exercise improves your mood and is good for your emotional and physical health.
+Create daily rituals, this will help you to experience more positive emotions. Meditate, exercise, repeat affirmations, create a gratitude journal, and so on. The best time to deposit positive thoughts in your mind is right before going to sleep and first thing in the morning. Exercise, exercise regularly.
 
-D, increase your energy. The less energy you have, the more likely you are to experience negative emotions. Improve your sleep, make sure you get enough sleep. If possible, go to bed and wake up at the same time every day.
+Exercise improves your mood and is good for your emotional and physical health. D, increase your energy. The less energy you have, the more likely you are to experience negative emotions. Improve your sleep, make sure you get enough sleep.
 
-Eat healthier food, as the saying goes, you are what you eat. Junk food will negatively impact your energy levels, so take steps to improve your diet. Rest, take regular naps or take a few minutes to relax breathe, learn to breathe properly. E, ask for help.
+If possible, go to bed and wake up at the same time every day. Eat healthier food, as the saying goes, you are what you eat. Junk food will negatively impact your energy levels, so take steps to improve your diet. Rest, take regular naps or take a few minutes to relax breathe, learn to breathe properly.
 
-Consult a professional, if you have deep emotional issues such as extreme low self-esteem or depression, it might be wise to consult a professional. Action Step Write down one short-term and one long-term technique you want to use. Ask yourself, among the items on the list, list, what is the one technique that will best help me deal with negative emotions? Section 3.
+E, ask for help. Consult a professional, if you have deep emotional issues such as extreme low self-esteem or depression, it might be wise to consult a professional. Action Step Write down one short-term and one long-term technique you want to use. Ask yourself, among the items on the list, list, what is the one technique that will best help me deal with negative emotions?
 
-How to change your emotions, short-term solutions slash long-term solutions.
+Section 3. How to change your emotions, short-term solutions slash long-term solutions.
 
-#### Part 4. How to use your emotions to grow. I suggest to you that every situation, every moment, provides the opportunity for self-growth and development of your character. Reality keeps bringing us circumstances, sometimes I picture them as waves breaking on the shore and we have the chance to keep merging with that reality to fit ourselves to it, to dive into those waves.
+#### Part 4. How to use your emotions to grow. I suggest to you that every situation, every moment, provides the opportunity for self-growth and development of your character.
 
-David K. Reynolds, author of Constructive Living. We’ve seen what emotions are, how they are formed, and how you can reprogram your mind to experience more positive emotions.
+Reality keeps bringing us circumstances, sometimes. I picture them as waves breaking on the shore and we have the chance to keep merging with that reality to fit ourselves to it, to dive into those waves. David K. Reynolds, author of Constructive Living.
 
-Now, let’s see how you can use your emotions as a tool for personal growth. Most people underestimate how useful emotions can be. They never truly realize they can use their emotions to grow. Think of it this way.
+We’ve seen what emotions are, how they are formed, and how you can reprogram your mind to experience more positive emotions. Now, let’s see how you can use your emotions as a tool for personal growth. Most people underestimate how useful emotions can be. They never truly realize they can use their emotions to grow.
 
-Your emotions send you a message. They
+Think of it this way. Your emotions send you a message. They
 
 
 <a id="sec-021607"></a>
@@ -989,9 +1063,9 @@ tell you that your current interpretation of reality is biased. The problem is n
 
 She was imprisoned in a concentration camp during World War II and didn’t know how long she had left to live. She, nevertheless, found joy. As she recalls, I was always laughing. We were lying on the floor with my son, and he saw me laughing.
 
-How can a child not laugh when the mother Alice Sommer? Nick Vujicic believed he would never be happy. After all, he was born with no arms or legs. As he said in one of the lectures he gave at a school, what kind of husband am I gonna be if I can’t even hold my wife’s hand?
+How can a child not laugh when the mother Alice Sommer? Nick Vujicic believed he would never be happy. After all, he was born with no arms or legs. As he said in one of the lectures he gave at a school, what kind of husband am.
 
-Nick Vujicic. Under these circumstances, nobody would have blamed him if he had remained bitter all his life.
+I gonna be if. I can’t even hold my wife’s hand? Nick Vujicic. Under these circumstances, nobody would have blamed him if he had remained bitter all his life.
 
 However, he overcame his challenges and today, in addition to being a successful motivational speaker, he’s a happy husband and father of two. These two examples show us we can overcome even the most challenging situations. They show us negative emotions don’t last forever. Challenging times in our life are often the events that allow us to grow as human beings.
 
@@ -1049,47 +1123,65 @@ Did you change your thoughts? Did you take action on things you were avoiding do
 
 Concrete example, let’s say you record your emotions for a week and notice that you were mildly depressed for a couple of days. Here is what it could look like, what caused this emotion. I was asked to do a task at work and felt unable on incompetent to complete it. What really happened?
 
-I was asked to complete a task and I did it. What was your interpretation of the facts? I felt like I was incompetent and everybody in the office but me could do
+I was asked to complete a task and. I did it. What was your interpretation of the facts? I felt like.
+
+I was incompetent and everybody in the office but me could do
 
 
 <a id="sec-022614"></a>
 ### ⏱️ [02:26:14 - 02:31:14]
 
-the task. I felt as though I should have been able to do the task well. I felt as though everybody was judging me. What would you need to believe to feel that way?
+the task. I felt as though. I should have been able to do the task well. I felt as though everybody was judging me.
 
-I would need to believe I am incompetent. Being incompetent is unacceptable. I should have been able to do that task. Everyone is judging me.
+What would you need to believe to feel that way? I would need to believe. I am incompetent. Being incompetent is unacceptable.
 
-Are your beliefs true? Are you really incompetent? Maybe I’m biased and I judged myself too harshly. Is being incompetent unacceptable? No. The fact is, I cannot always be competent at everything.
+I should have been able to do that task. Everyone is judging me. Are your beliefs true? Are you really incompetent?
 
-Should you be able to do that task? I haven’t much experience performing similar tasks and there was no way I could do it without asking for help. Is it true that everyone judging you? Some people may judge me, but that’s probably not true of everyone.
+Maybe. I’m biased and. I judged myself too harshly. Is being incompetent unacceptable?
 
-It’s also possible nobody really cares. After all, they have their own issues to deal with. And what if nobody noticed? Or perhaps, I did okay and the negativity is all in my mind.
+No. The fact is, I cannot always be competent at everything. Should you be able to do that task? I haven’t much experience performing similar tasks and there was no way.
 
-How did you return to your neutral state? I realized it was actually no big deal. I asked a colleague whether I did the task correctly. He helped me and gave me some advice.
+I could do it without asking for help. Is it true that everyone judging you? Some people may judge me, but that’s probably not true of everyone. It’s also possible nobody really cares.
+
+After all, they have their own issues to deal with. And what if nobody noticed? Or perhaps, I did okay and the negativity is all in my mind. How did you return to your neutral state?
+
+I realized it was actually no big deal. I asked a colleague whether. I did the task correctly. He helped me and gave me some advice.
 
 He also recommended some good books to help improve my skills. What could you have done differently to avoid or reduce this negative emotion? I could have asked someone to help me instead of trying to do everything on my own. As you go through this process, you’ll notice what causes you to experience negative emotions.
 
 You’ll be able to identify self-defeating behaviors and overcome then using daily conditioning and affirmation. Additional tip, remember to write down how you feel each day using a dedicated journal. This will help you detach yourself from your emotions as you realize ups and downs are a normal part of living. Action step.
 
-Record your emotions using the workbook section 4. How to use your emotions to grow, record your emotions. 20. Not being good enough. When I won the Oscar, I thought it was a fluke.
+Record your emotions using the workbook section 4. How to use your emotions to grow, record your emotions. 20. Not being good enough. When.
 
-I thought everybody would find out, and they’d take it back. They’d come to my house, knocking on the door, excuse me, we meant to give that to someone else. That was going to Meryl Streep. Jodie Foster.
+I won the Oscar, I thought it was a fluke. I thought everybody would find out, and they’d take it back. They’d come to my house, knocking on the door, excuse me, we meant to give that to someone else. That was going to Meryl Streep.
 
-You think, why would anyone want to see me again in a movie? And I don’t know how to act anyway, so why am I doing this? Meryl Streep do you feel as though you aren’t good enough? Guess what?
+Jodie Foster. You think, why would anyone want to see me again in a movie? And. I don’t know how to act anyway, so why am.
 
-You’re not the only one. The other day I wrote the following to a fellow blogger, there are a lot of topics I could write about but there are already so many books out there. Sometimes, I’m like, what’s the point?
+I doing this? Meryl Streep do you feel as though you aren’t good enough? Guess what? You’re not the only one.
 
-He replied, “I know the feeling of, what’s the point?” Everything worth saying has already been said. And who am I to write about it anyway? What have I achieved so far? Ah, well.
+The other day. I wrote the following to a fellow blogger, there are a lot of topics. I could write about but there are already so many books out there. Sometimes, I’m like, what’s the point?
 
-I guess it’s natural. Good to know that we’re not the only ones struggling. Whether or not you’re aware of it, millions of people feel the same way. The feeling of, not being good enough, alone must have killed more dreams than anything else.
+He replied, “I know the feeling of, what’s the point?” Everything worth saying has already been said. And who am. I to write about it anyway? What have.
 
-And who has never felt that way? Here is a, non-exhaustive, list of how I felt in my life, I’m not a good enough writer. I’m not charismatic enough I’m not confident enough I’m not confident enough I’m not courageous enough I’m not disciplined enough I’m not a good enough writer. not good enough at public speaking I’m not handsome enough I’m not inspiring enough I’m not interesting enough I’m not making enough money I’m not muscular enough I’m not patient enough I’m not perseverant enough I’m not proactive enough I’m not productive enough I’m not smart enough I’m not taking enough action I’m not tough enough I’m not working hard enough my English isn’t good enough my Japanese isn’t good enough and my memory isn’t good enough and I could go on people who feel they aren’t good enough tend to have low self-esteem.
+I achieved so far? Ah, well. I guess it’s natural. Good to know that we’re not the only ones struggling.
 
-They focus on what they aren’t good at while filtering out all the things they are good at. Try complimenting them and all you’ll hear is, it’s no big deal. Worse, they may even think you’re being polite or trying to manipulate them. These people have a hard time accepting compliments.
+Whether or not you’re aware of it, millions of people feel the same way. The feeling of, not being good enough, alone must have killed more dreams than anything else. And who has never felt that way? Here is a, non-exhaustive, list of how.
 
-Instead of a simple thank you, they return the compliment or downplay their role. Perhaps, you’re acting the same way. See if you do one of the following things when receiving a compliment. One, dismiss the whole thing as being no big deal, anybody could have done it.
+I felt in my life, I’m not a good enough writer. I’m not charismatic enough. I’m not confident enough. I’m not confident enough.
 
-Two, talk about all the things you did wrong while explaining what you could have done better. Three, try to return the compliment, thank you. I think
+I’m not courageous enough. I’m not disciplined enough. I’m not a good enough writer. not good enough at public speaking. I’m not handsome enough.
+
+I’m not inspiring enough. I’m not interesting enough. I’m not making enough money. I’m not muscular enough.
+
+I’m not patient enough. I’m not perseverant enough. I’m not proactive enough. I’m not productive enough.
+
+I’m not smart enough. I’m not taking enough action. I’m not tough enough. I’m not working hard enough my English isn’t good enough my Japanese isn’t good enough and my memory isn’t good enough and.
+
+I could go on people who feel they aren’t good enough tend to have low self-esteem. They focus on what they aren’t good at while filtering out all the things they are good at. Try complimenting them and all you’ll hear is, it’s no big deal. Worse, they may even think you’re being polite or trying to manipulate them.
+
+These people have a hard time accepting compliments. Instead of a simple thank you, they return the compliment or downplay their role. Perhaps, you’re acting the same way. See if you do one of the following things when receiving a compliment.
+
+One, dismiss the whole thing as being no big deal, anybody could have done it. Two, talk about all the things you did wrong while explaining what you could have done better. Three, try to return the compliment, thank you. I think
 
 
 <a id="sec-023114"></a>
@@ -1113,17 +1205,19 @@ People with healthy self-esteem tend to look at themselves in a more objective w
 
 For this exercise, I encourage you to use your dedicated notebook. 1. First, Write down everything you’ve accomplished in your life. Come up with a list of 50 things. If you run out of things, write smaller accomplishments.
 
-This will help you realize how much you’ve already accomplished. 2. At the end of each day, write down all the things you’ve accomplished that day. It can be simple things such as, I woke up on time I exercised, and I ate a healthy breakfast. Try to come up with 5 to 10 things each day.
+This will help you realize how much you’ve already accomplished. 2. At the end of each day, write down all the things you’ve accomplished that day. It can be simple things such as, I woke up on time. I exercised, and.
 
-Exercise 2, Fill up Your Self-Esteem Jar An alternative is to write down each thing you’ve accomplished on separate pieces of paper and put them into a jar. Here are a few recommendations to ensure you make the most out of this exercise. Make sure your jar, or any other container you use, is in a visible location. The best location is probably on your desk, the second best location is your bedroom.
+I ate a healthy breakfast. Try to come up with 5 to 10 things each day. Exercise 2, Fill up. Your Self-Esteem Jar An alternative is to write down each thing you’ve accomplished on separate pieces of paper and put them into a jar.
 
-Select a container you like. Choose a design you’re fond of. It’s all about your self-esteem so anything that makes you feel good is advisable. Make sure it is transparent so that you can see it filling up.
+Here are a few recommendations to ensure you make the most out of this exercise. Make sure your jar, or any other container you use, is in a visible location. The best location is probably on your desk, the second best location is your bedroom. Select a container you like.
 
-Give it a positive name, e.g. my self-esteem jar, declaration of love to myself etc. Write your accomplishment on a paper you love. For instance, use different colors so that when the jar fills up, it creates something pleasant to the eye. One idea would be to use origami paper. Write with your favorite pen.
+Choose a design you’re fond of. It’s all about your self-esteem so anything that makes you feel good is advisable. Make sure it is transparent so that you can see it filling up. Give it a positive name, e.g. my self-esteem jar, declaration of love to myself etc.
 
-The idea is to show more respect towards yourself by acknowledging your multiple accomplishments. Exercise 3, Create a Positive Journal You can also create a journal to write down every compliment you received that day. Your colleague told you your shoes look nice, write it down. Your friend complimented your hair, write it down.
+Write your accomplishment on a paper you love. For instance, use different colors so that when the jar fills up, it creates something pleasant to the eye. One idea would be to use origami paper. Write with your favorite pen.
 
-Your boss told you how well you did at a task, write it down as well. Don’t question the sincerity of these compliments. Always assume they are genuine.
+The idea is to show more respect towards yourself by acknowledging your multiple accomplishments. Exercise 3, Create a Positive Journal. You can also create a journal to write down every compliment you received that day. Your colleague told you your shoes look nice, write it down.
+
+Your friend complimented your hair, write it down. Your boss told you how well you did at a task, write it down as well. Don’t question the sincerity of these compliments. Always assume they are genuine.
 
 
 <a id="sec-023615"></a>
@@ -1177,13 +1271,13 @@ Living purposefully, is to use your powers to achieve the goals you have selecte
 
 In breaking the chain of low self-esteem, Marilyn Sorensen provides a great overview of what self-esteem is and how it works. The author explains that low self-esteem stems from the negative perception you hold of yourself, a perception that is largely, if not entirely, based on your negative interpretations of past experiences. This distorted perception of reality leads you to experience fear and anxiety. Your family environment may have played a big part.
 
-Perhaps, your parents have repeatedly put you down, making you feel as though nothing you did was ever good enough. You may now firmly believe you are less worthy than others. As a result, you filter everything based on this negative image of yourself. It’s as if you were looking at reality through tinted glasses, glasses that discard praise and compliments, remembering only criticisms. The examples in her books will help you understand how self-esteem issues manifest in real life.
+Perhaps, your parents have repeatedly put you down, making you feel as though nothing you did was ever good enough. You may now firmly believe you are less worthy than others. As a result, you filter everything based on this negative image of yourself. It’s as if you were looking at reality through tinted glasses, glasses that discard praise and compliments, remembering only criticisms.
 
-In addition, Ms. Sorensen provides dozens of practical exercises to help you become more aware of your self-esteem issues and provide you the tool to develop a healthier self-esteem. Refer to the exercises in the corresponding section of the workbook, Section 4. How to use your emotions to grow, not being good enough. Being defensive.
+The examples in her books will help you understand how self-esteem issues manifest in real life. In addition, Ms. Sorensen provides dozens of practical exercises to help you become more aware of your self-esteem issues and provide you the tool to develop a healthier self-esteem. Refer to the exercises in the corresponding section of the workbook, Section 4.
 
-Our love of being right is best understood as our fear of being wrong. Catherine Schultz, journalist and author. Do you constantly justify yourself? Are you offended whenever someone insults you or disrespects you?
+How to use your emotions to grow, not being good enough. Being defensive. Our love of being right is best understood as our fear of being wrong. Catherine Schultz, journalist and author.
 
-There are very specific reasons why you get defensive. By becoming conscious of these reasons, you’ll learn a lot about yourself and be able to let go of that desire to defend yourself.
+Do you constantly justify yourself? Are you offended whenever someone insults you or disrespects you? There are very specific reasons why you get defensive. By becoming conscious of these reasons, you’ll learn a lot about yourself and be able to let go of that desire to defend yourself.
 
 First, let’s see why you get defensive. Why you get defensive. The need to defend yourself stems from your desire to protect your story or your ego. Every time your ego is threatened, you are triggered and feel the need to defend it.
 
@@ -1213,43 +1307,49 @@ How to use this emotion to grow? Look at the situations that triggers you. Whene
 
 Can you let go of this belief? And is this belief really true? By doing this, you’ll learn a great deal about yourself. You’ll be able to let go of beliefs that aren’t serving you well, and you’ll realize that, in most cases, you don’t even need to defend yourself.
 
-Action Step Refer to the exercises in the corresponding section of the workbook, section 4. How to use your emotions to grow, getting defensive. Whenever you become defensive, remember to ask yourself the following questions. What am I trying to protect here?
+Action Step Refer to the exercises in the corresponding section of the workbook, section 4. How to use your emotions to grow, getting defensive. Whenever you become defensive, remember to ask yourself the following questions. What am.
 
-Can I let go of that belief? What would I be without that belief? 22. Stress and worry. Within every worry is an opportunity for positive action.
+I trying to protect here? Can. I let go of that belief? What would.
 
-Within every lie, there is a kernel of truth. Behind every neurotic symptom is the misdirected desire to live fully and well. David K. Reynolds, Constructive Living.
+I be without that belief? 22. Stress and worry. Within every worry is an opportunity for positive action. Within every lie, there is a kernel of truth.
 
-Have you ever wondered what stress is and why you experience it? Most people believe a situation can be stressful.
+Behind every neurotic symptom is the misdirected desire to live fully and well. David K. Reynolds, Constructive Living. Have you ever wondered what stress is and why you experience it?
 
-The truth is, stress doesn’t exist outside of yourself and, therefore, no situation can be said to be stressful in itself. Yet, my guess is you experience stress on a regular basis. And probably more often than you would like to. Stress alone is responsible for tens of thousands of deaths every year.
+Most people believe a situation can be stressful. The truth is, stress doesn’t exist outside of yourself and, therefore, no situation can be said to be stressful in itself. Yet, my guess is you experience stress on a regular basis. And probably more often than you would like to.
 
-Stress does more harm than many diseases and leaves countless families grieving the loss of a loved one. This is why it is essential you take active steps towards reducing your stress levels. Taking responsibility for your stress. Stress is something you have some control over and, therefore, must take responsibility for.
+Stress alone is responsible for tens of thousands of deaths every year. Stress does more harm than many diseases and leaves countless families grieving the loss of a loved one. This is why it is essential you take active steps towards reducing your stress levels. Taking responsibility for your stress.
 
-The more you take responsibility for it, the better you’ll be able to reduce it. Stress happens for various reasons and manifests in numerous situations. The traffic jam on your way to work, a business presentation, tensions with your boss, or frequent disputes with your spouse, all constitute potential sources of stress. There are two ways you can reduce stress, by avoiding situations you perceive as stressful and by becoming better at dealing with stressful situations.
+Stress is something you have some control over and, therefore, must take responsibility for. The more you take responsibility for it, the better you’ll be able to reduce it. Stress happens for various reasons and manifests in numerous situations. The traffic jam on your way to work, a business presentation, tensions with your boss, or frequent disputes with your spouse, all constitute potential sources of stress.
 
-We’ll see how you can use these methods to reduce your stress levels. How you can use stress to grow. Exercise, make a list of your major sources of stress let’s look at specific situations that are sources of stress for you. Using the workbook, write down what causes the most stress in your typical week.
+There are two ways you can reduce stress, by avoiding situations you perceive as stressful and by becoming better at dealing with stressful situations. We’ll see how you can use these methods to reduce your stress levels. How you can use stress to grow. Exercise, make a list of your major sources of stress let’s look at specific situations that are sources of stress for you.
 
-Come up with at least 10 things. Reframing stress. Emotions arise as a result of your interpretation of events. The mere fact you experience stress, or any other emotion, means you’ve added your own interpretation to what is happening.
+Using the workbook, write down what causes the most stress in your typical week. Come up with at least 10 things. Reframing stress. Emotions arise as a result of your interpretation of events.
 
-Otherwise, you would have a stress-free life. Now, look at your list of stressful situations. For each situation ask yourself the following questions, is that situation stressful in itself? What do I need to believe to experience stress in that specific situation?
+The mere fact you experience stress, or any other emotion, means you’ve added your own interpretation to what is happening. Otherwise, you would have a stress-free life.
 
-What would I need to believe to reduce or remove stress in that particular situation? Let’s say you’re stuck in a traffic jam and you find it stressful.
+Now, look at your list of stressful situations. For each situation ask yourself the following questions, is that situation stressful in itself? What do. I need to believe to experience stress in that specific situation?
+
+What would. I need to believe to reduce or remove stress in that particular situation? Let’s say you’re stuck in a traffic jam and you find it stressful.
 
 
 <a id="sec-025122"></a>
 ### ⏱️ [02:51:22 - 02:56:24]
 
-Is that situation stressful in itself? No, not necessarily. The traffic jam exists and there is nothing wrong with it, per se. What would I need to believe to experience stress in that specific situation?
+Is that situation stressful in itself? No, not necessarily. The traffic jam exists and there is nothing wrong with it, per se. What would.
 
-I would need to believe, there shouldn’t be any traffic jams and therefore, something is wrong. The traffic jam is a stressful event in itself. I should be where I need to go, instead of being stuck in traffic. I can do something about it.
+I need to believe to experience stress in that specific situation? I would need to believe, there shouldn’t be any traffic jams and therefore, something is wrong. The traffic jam is a stressful event in itself. I should be where.
 
-What would I need to believe to reduce slash remove stress in that particular situation? I would need to believe that, a traffic jam is a normal event like anything else. I don’t necessarily have to experience stress just because I’m stuck in traffic. I’m here caught in a traffic jam and I don’t need to be there, wherever I want to go, for a while.
+I need to go, instead of being stuck in traffic. I can do something about it. What would. I need to believe to reduce slash remove stress in that particular situation?
 
-I can’t do anything about it, so I might as well enjoy it, or at least don’t stress over it. Dealing with worry. Worry differs from stress as it isn’t the result of something you experience in the present, but a concern you have regarding events from the past or events that may happen in the future. You experience stress when you face a stressful situation in the present moment.
+I would need to believe that, a traffic jam is a normal event like anything else. I don’t necessarily have to experience stress just because. I’m stuck in traffic. I’m here caught in a traffic jam and.
 
-For instance, a stressful situation would be being stuck in a traffic jam or having your boss yell at you. Worrying would be remembering, past, or anticipating slash imagining these stressful situations, future. Interestingly, most of your worries are unnecessary for the following reasons, they happen in the past and there’s absolutely nothing you can do about them, and or they may happen in the future and you can’t control the future. Exercise, make a list of your worries.
+I don’t need to be there, wherever. I want to go, for a while. I can’t do anything about it, so. I might as well enjoy it, or at least don’t stress over it.
 
-Make a list of things you worry about, past or future. They may be similar to the things you wrote in the previous exercise. Examples of things you may worry about are, your health, your financial situations, your work, your relationships, and or your family.
+Dealing with worry. Worry differs from stress as it isn’t the result of something you experience in the present, but a concern you have regarding events from the past or events that may happen in the future. You experience stress when you face a stressful situation in the present moment. For instance, a stressful situation would be being stuck in a traffic jam or having your boss yell at you.
+
+Worrying would be remembering, past, or anticipating slash imagining these stressful situations, future. Interestingly, most of your worries are unnecessary for the following reasons, they happen in the past and there’s absolutely nothing you can do about them, and or they may happen in the future and you can’t control the future. Exercise, make a list of your worries. Make a list of things you worry about, past or future.
+
+They may be similar to the things you wrote in the previous exercise. Examples of things you may worry about are, your health, your financial situations, your work, your relationships, and or your family.
 
 Now, write at least 10 things you tend to worry about in a typical week. Starting out your worries constant worry results from trying to control events over which you have no control. When you do so, you create unnecessary stress in your life. To deal with stress and overcome chronic worries more effectively, it is essential you learn to sort out worries.
 
@@ -1257,15 +1357,17 @@ An effective way to do this is to separate the things you have control over from
 
 You can also decide what actions you’ll take to achieve your goals. Two, things you have some control over, there are things you have only limited control over such as a competition or a job interview. You can’t be absolutely certain you’ll win a tennis match but you do have some control over its outcome. For instance, you can choose to train harder or hire a great coach.
 
-Similarly, you can prepare for a job interview by conducting extensive research about the company you apply to or by doing a mock interview. You don’t, however, have absolute control over the outcome of the interview. Three, things you have no control over, unfortunately, there are also many things you have no control over. These are things such as the weather, the economy, or traffic jams. Exercise, sort out your worries look at your list of stressful situations.
+Similarly, you can prepare for a job interview by conducting extensive research about the company you apply to or by doing a mock interview. You don’t, however, have absolute control over the outcome of the interview. Three, things you have no control over, unfortunately, there are also many things you have no control over. These are things such as the weather, the economy, or traffic jams.
 
-Next to each item, put C, control, SC, some control, or NC, no control. This simple act of sorting out your worries already helps reduce them. As you identify things you have no control over, you can let go of your urge to worry.
+Exercise, sort out your worries look at your list of stressful situations. Next to each item, put C, control, SC, some control, or NC, no control. This simple act of sorting out your worries already helps reduce them. As you identify things you have no control over, you can let go of your urge to worry.
 
 Now, for things you have, some, control over, write down what you could do about it. What concrete actions could you take to alleviate them? For things you have no control over, can you let go of your need to control them and, instead, accept them? Taking 100% responsibility for your stress and worries what if you had more control over your worries than you believe?
 
-Look at the situations you have no control over and ask yourself, if I had control over them, what would I do? What would it look like? And how could I prevent them from happening? Often, you’ll realize you have some control over these situations.
+Look at the situations you have no control over and ask yourself, if. I had control over them, what would. I do? What would it look like?
 
-This can be by changing, reframing or eliminating them from your life. Let’s say you identified traffic jams as something you have no control over. This sounds reasonable.
+And how could. I prevent them from happening? Often, you’ll realize you have some control over these situations. This can be by changing, reframing or eliminating them from your life.
+
+Let’s say you identified traffic jams as something you have no control over. This sounds reasonable.
 
 
 <a id="sec-025624"></a>
@@ -1277,13 +1379,15 @@ Instead of escaping the situation mentally, you could choose to be fully present
 
 Write down what you could do to change, reframe or eliminate these events. Action Step Refer to the exercises in the corresponding section of the workbook, section 4. How to use your emotions to grow, stress slash worry. 23. Caring what people think of you how on earth can another’s thought about you harm you?
 
-It is your thought about his thought that harms. Change your thought. Vernon Howard, the power of your super mind. Are you overly self-conscious? In this section, I’ll explain why you care so much what people think of you and what you can do alleviate the situation.
+It is your thought about his thought that harms. Change your thought. Vernon Howard, the power of your super mind. Are you overly self-conscious?
 
-You are the most important person in the world first, realize you are the most important person in the world. If you don’t believe me, remember the last time you felt intense pain. Perhaps it was too thick or surgery, or maybe, you broke your leg in an accident. What were you thinking back then?
+In this section, I’ll explain why you care so much what people think of you and what you can do alleviate the situation. You are the most important person in the world first, realize you are the most important person in the world. If you don’t believe me, remember the last time you felt intense pain. Perhaps, it was too thick or surgery, or maybe, you broke your leg in an accident.
 
-Were you concerned about the famine in Africa? Did you worry about innocent people being killed in wars in the Middle East? No. The only thing you wanted is for the pain to go away. This is because you are the most important person in the world. Since you must live with yourself 24-7, it is normal to be concerned about your own mental and physical well-being.
+What were you thinking back then? Were you concerned about the famine in Africa? Did you worry about innocent people being killed in wars in the Middle East? No.
 
-You have to realize the same goes for every other human on the planet. For me, you’re not the most important person in the world, I am. And, from their perspective, so are your close friends, family members and colleagues. As you live with yourself 24-7 you incorrectly assume, often unconsciously, people think about you significantly more often than they actually do.
+The only thing you wanted is for the pain to go away. This is because you are the most important person in the world. Since you must live with yourself 24-7, it is normal to be concerned about your own mental and physical well-being. You have to realize the same goes for every other human on the planet.
+
+For me, you’re not the most important person in the world, I am. And, from their perspective, so are your close friends, family members and colleagues. As you live with yourself 24-7 you incorrectly assume, often unconsciously, people think about you significantly more often than they actually do.
 
 In fact, for the most part, people do not care about you. While it may sound depressing, it’s actually liberating. It means you don’t have to worry so much what people think of you. As the famous saying goes, when you’re 20, you care what everyone thinks, when you’re 40, you stop caring what everyone thinks, and when you’re 60, you realize no one was ever thinking about you in the first place.
 
@@ -1321,7 +1425,7 @@ Go through your day and try to remember all the people you met or interacted wit
 
 As you can see, you don’t really have time to worry about other people. Most of the time you are concerned only about yourself. It’s not to say you have no compassion or are a selfish jerk. You’re merely being human.
 
-Stop being overly attached to your self-image if you are overly self-conscious, chances are you worry too much about the way people perceive you. Perhaps you want their approval or are afraid they will judge you. It is essential you learn to let go of this self-image. Exercise, letting go of your self-image write down all the things you’re afraid to be judged on, maybe you worry about your look, or you’re afraid of saying something silly.
+Stop being overly attached to your self-image if you are overly self-conscious, chances are you worry too much about the way people perceive you. Perhaps, you want their approval or are afraid they will judge you. It is essential you learn to let go of this self-image. Exercise, letting go of your self-image write down all the things you’re afraid to be judged on, maybe you worry about your look, or you’re afraid of saying something silly.
 
 Write down why you care, what is the issue here? What image are you trying to protect? Do people believe you’re smart and you’re afraid you can’t live up to this image? Are you afraid of being rejected as a result of saying something wrong?
 
@@ -1331,7 +1435,7 @@ Finally, remember people will always interpret your words and actions based on t
 
 How to use your emotions to grow, caring what people think of you. 24. Resentment. Even if we can’t love our enemies, lest at least love ourselves. Let’s love ourselves so much that we won’t permit our enemies to control our happiness, our health, and our looks.
 
-Dale Carnegie, how to stop worrying and start living. When you resent people, you’re angry at them because they didn’t behave the way you wanted them to. Maybe they broke their promises, or perhaps they didn’t give you what you expected from them. Perhaps you believe they owed you something, but they failed to deliver.
+Dale Carnegie, how to stop worrying and start living. When you resent people, you’re angry at them because they didn’t behave the way you wanted them to. Maybe they broke their promises, or perhaps they didn’t give you what you expected from them. Perhaps, you believe they owed you something, but they failed to deliver.
 
 Resentment often builds up when you fail to communicate effectively with the people you resent. That is, when you didn’t tell them you felt hurt or didn’t communicate your needs and wants, assuming they would naturally cater to them. It can also grow when you did express your feelings but can’t let go of them and forgive. As Nelson Mandela once said, resentment is like drinking poison and then hoping it will kill your enemies.
 
@@ -1363,13 +1467,15 @@ Your ability to release resentment is linked to your level of compassion. The mo
 
 Thus, rather than saying people are good or bad, it is more accurate to say they are either conscious or unconscious. When they do terrible things to you, it’s often because of their lack of consciousness or the negative emotional state they were in at the time. Sadly, most people are deeply conditioned. Their upbringing leads them to act in a certain way.
 
-People often act the same way as their parents, which is why you often hear of people who’ve been abused by their parents, becoming, in turn, abusive with their children. As Eckhart Tolle wrote in The Power of Now, the mind, conditioned as it is by the past, always seeks to recreate what it knows and is familiar with. Even if it is painful, at least it is familiar. The mind always adheres to the known.
+People often act the same way as their parents, which is why you often hear of people who’ve been abused by their parents, becoming, in turn, abusive with their children. As Eckhart Tolle wrote in The Power of.
 
-The unknown is dangerous because it has no control over it. That’s why the mind dislikes and ignores the present moment. In short, the nature of the, unconscious, human mind is to cling to old patterns and recreate them. Look at your family history and you’ll probably notice these patterns.
+Now, the mind, conditioned as it is by the past, always seeks to recreate what it knows and is familiar with. Even if it is painful, at least it is familiar. The mind always adheres to the known. The unknown is dangerous because it has no control over it.
 
-You’ll see how people are conditioned. This shows how difficult it is for people to break free from set patterns. I used to resent my mother for being overly protective. I blamed her for not encouraging me to grow, but instead, her actions made me weaker than I already was.
+That’s why the mind dislikes and ignores the present moment. In short, the nature of the, unconscious, human mind is to cling to old patterns and recreate them. Look at your family history and you’ll probably notice these patterns. You’ll see how people are conditioned.
 
-Perhaps it was one of the reasons I embarked on a personal development journey.
+This shows how difficult it is for people to break free from set patterns. I used to resent my mother for being overly protective. I blamed her for not encouraging me to grow, but instead, her actions made me weaker than. I already was.
+
+Perhaps, it was one of the reasons. I embarked on a personal development journey.
 
 
 <a id="sec-031129"></a>
@@ -1419,33 +1525,37 @@ something someone else has, believing that it would fulfill you. Alternatively, 
 
 For instance, in her book Quiet, Susan Cain explained she would often feel jealous of her friends who were writers or psychologists. Interestingly, even though she was a lawyer at the time, she didn’t feel jealous of successful lawyers, as her lawyer friends often did. This led her to realize she wasn’t made to be a lawyer. As a result, she changed her career and became a writer.
 
-I had a similar experience. While I was a consultant, I didn’t envy or look up to successful people in my company.
+I had a similar experience. While. I was a consultant, I didn’t envy or look up to successful people in my company.
 
-On the other hand, on my personal development journey, I became envious of successful personal development bloggers and YouTubers. I felt particularly jealous of two such people when I realized they were doing exactly what I wanted to do. I imagined how amazing it would be to help other people and make a contribution to society while studying and growing along the way. This is why I created a blog and started writing books.
+On the other hand, on my personal development journey, I became envious of successful personal development bloggers and YouTubers. I felt particularly jealous of two such people when. I realized they were doing exactly what. I wanted to do.
 
-As you can see, jealousy, when properly used, can be beneficial. Exercise, identify who you are jealous of write down who you are jealous of.
+I imagined how amazing it would be to help other people and make a contribution to society while studying and growing along the way. This is why. I created a blog and started writing books. As you can see, jealousy, when properly used, can be beneficial.
 
-Now, what does it say about you and what you want from life? Jealousy can signal a scarcity mindset. In other situations, jealousy may indicate you’re operating under a scarcity mindset. Let me give you another example from my personal life.
+Exercise, identify who you are jealous of write down who you are jealous of. Now, what does it say about you and what you want from life? Jealousy can signal a scarcity mindset. In other situations, jealousy may indicate you’re operating under a scarcity mindset.
 
-When I see best-selling writers, I sometimes become jealous. I feel as though they are stealing my piece of the pie, and I deserve success as much as they do. I’m not proud of this feeling, but I don’t blame myself for having it either. This feeling of jealousy stems from the belief there is only a certain amount of success available out there.
+Let me give you another example from my personal life. When. I see best-selling writers, I sometimes become jealous. I feel as though they are stealing my piece of the pie, and.
+
+I deserve success as much as they do. I’m not proud of this feeling, but. I don’t blame myself for having it either. This feeling of jealousy stems from the belief there is only a certain amount of success available out there.
 
 Thus, every time someone has a little success, they are stealing your piece of the action. Interestingly, this is often not the case. If anything, for writers the opposite is true. The more a writer can cooperate with other writers, the better chances he or she has to succeed.
 
-A writer who tries to do everything on his or her own is likely to fail. This is not limited to writers, of course. Shifting your mindset from one of competition to one of cooperation can help you move from a feeling of scarcity to a feeling of abundance. Nowadays, when I see other writers having success, I remind myself what great news it is.
+A writer who tries to do everything on his or her own is likely to fail. This is not limited to writers, of course. Shifting your mindset from one of competition to one of cooperation can help you move from a feeling of scarcity to a feeling of abundance. Nowadays, when.
 
-After all, if they can do it, so can I. And the more successful my fellow writers become, the more they are in the position to help me in the future. This also works the other way around. The more I help other writers to succeed, the more they’ll be able to help me in the future.
+I see other writers having success, I remind myself what great news it is. After all, if they can do it, so can. I. And the more successful my fellow writers become, the more they are in the position to help me in the future.
 
-As Zig Ziglar said, you can have everything in life you want, if you will just help other people get what they want. Remember, what other people can do, you can do as well. Remember also, success is not a limited resource. Exercise, cooperate rather than competing.
+This also works the other way around. The more. I help other writers to succeed, the more they’ll be able to help me in the future. As Zig Ziglar said, you can have everything in life you want, if you will just help other people get what they want.
 
-Think of a time in the past when you felt jealous of someone else’s accomplishments. Now, ask yourself why you felt that way. Then, ask yourself, what would it be like to support the person? How could I cooperate with the person?
+Remember, what other people can do, you can do as well. Remember also, success is not a limited resource. Exercise, cooperate rather than competing. Think of a time in the past when you felt jealous of someone else’s accomplishments.
 
-Why is that person success good for me? Jealousy may tell you to solve self-esteem issues. Perhaps you’re afraid your boyfriend or girlfriend may cheat on you, or leave you for someone else. This usually comes from the belief you aren’t good enough, and you need your boyfriend or girlfriend to complete you.
+Now, ask yourself why you felt that way. Then, ask yourself, what would it be like to support the person? How could. I cooperate with the person?
+
+Why is that person success good for me? Jealousy may tell you to solve self-esteem issues. Perhaps, you’re afraid your boyfriend or girlfriend may cheat on you, or leave you for someone else. This usually comes from the belief you aren’t good enough, and you need your boyfriend or girlfriend to complete you.
 
 Unfortunately, or fortunately, the same way you can’t control what people think of you or how they behave, you can’t control your loved one’s thoughts or behaviors either. Often, the very same desire to control your partner is what pushes them further away. While feeling jealous from time to time is normal, if you’re excessively jealous, it is essential you look within you. Your insecurities and fears usually come from a lack of self-esteem and from the fear that you can’t or won’t be loved.
 
-Jealousy may lead to some of the following behaviors, trying to control your partner, you may check your partner’s phone or emails or prevent them from going out to see their friends. Testing your partner to see whether he or she loves you, you may expect your partner to behave in a certain way and when he or she doesn’t, you feel betrayed. This stems from the belief that you shouldn’t have to tell your partner what you want or need. He or she should be able to guess.
+Jealousy may lead to some of the following behaviors, trying to control your partner, you may check your partner’s phone or emails or prevent them from going out to see their friends. Testing your partner to see whether he or she loves you, you may expect your partner to behave in a certain way and when he or she doesn’t, you feel betrayed. This stems from the belief that you shouldn’t have to tell your partner what you want or need.
 
-Imagining things that aren’t there,
+He or she should be able to guess. Imagining things that aren’t there,
 
 
 <a id="sec-032136"></a>
@@ -1489,33 +1599,33 @@ depression. Does it mean you should feel guilty or beat yourself up for being de
 
 In fact, you should never beat yourself up for any of the emotions you feel. That would be pointless. What it means, however, is that, because you’ve played a part in creating your current emotional state, you also have the power to get out of it. And that’s great news, right?
 
-Remember Dr. David K. Reynolds' first-hand experience with depression. He wrote the following, Depression can be created by sitting slouched in a chair, shoulders hunched, head hanging down. Repeat these words over and over, there’s nothing anybody can do.
+Remember Dr. David K. Reynolds' first-hand experience with depression. He wrote the following, Depression can be created by sitting slouched in a chair, shoulders hunched, head hanging down.
 
-No one can help. It’s hopeless. I’m helpless. I give up.
+Repeat these words over and over, there’s nothing anybody can do. No one can help. It’s hopeless. I’m helpless.
 
-Shake your head, sigh, cry. In general, act depressed and the genuine feeling will follow in time. David K. Reynolds, constructive living.
+I give up. Shake your head, sigh, cry. In general, act depressed and the genuine feeling will follow in time. David K.
 
-David K. Reynolds' depression was entirely self-created. It was an active process that involved adopting a certain body language, repeating certain words, and having certain thoughts. He had to act in a certain way to become depressed.
+Reynolds, constructive living. David K. Reynolds' depression was entirely self-created. It was an active process that involved adopting a certain body language, repeating certain words, and having certain thoughts.
 
-The good news is that because you have the power to create depression, you also have the power to climb out of it. However, in a negative state such as depression, ignoring negative thoughts and replacing them with more positive ones can be extremely challenging. Even if you try to think positive thoughts of gratitude, joy, or happiness, at first, they will seem to have no power. But you may experience other negative emotions such as anger for instance.
+He had to act in a certain way to become depressed. The good news is that because you have the power to create depression, you also have the power to climb out of it.
 
-You may ignore your anger at first. Your friends may even encourage you to do so, they would rather see you quiet and depressed, than angry.
+However, in a negative state such as depression, ignoring negative thoughts and replacing them with more positive ones can be extremely challenging. Even if you try to think positive thoughts of gratitude, joy, or happiness, at first, they will seem to have no power. But you may experience other negative emotions such as anger for instance. You may ignore your anger at first.
 
-However, sometimes anger may help you move up the emotional ladder and overcome depression. Keep in mind, any emotions other than depression can help and learn to embrace whatever emotional state seems to give you more energy, and therefore provide more power to move up the emotional ladder. David K. Reynolds also suggests that feelings fluctuate over time even with depressed people.
+Your friends may even encourage you to do so, they would rather see you quiet and depressed, than angry. However, sometimes anger may help you move up the emotional ladder and overcome depression. Keep in mind, any emotions other than depression can help and learn to embrace whatever emotional state seems to give you more energy, and therefore provide more power to move up the emotional ladder. David K.
 
-He wrote, in the deepest depression there are ripples and waves of somewhat lighter moods. You can use moments when you feel slightly better to take whatever action may be beneficial to you at that time. How to use depression to grow? Depression is a sign you’ve lost touch with reality.
+Reynolds also suggests that feelings fluctuate over time even with depressed people. He wrote, in the deepest depression there are ripples and waves of somewhat lighter moods. You can use moments when you feel slightly better to take whatever action may be beneficial to you at that time. How to use depression to grow?
 
-Have you noticed that human beings are one of the few species on earth that have the ability to become depressed? This is because they are the only ones who can get lost in their mind and become enslaved by negative thoughts and disempowering stories. Depression is a sign that you need to move away from your mind by letting go of your worries about the past slash future or your interpretation of the present situation and reconnect to the present moment. It can be a powerful invitation to let go of the identity you’ve been clinging to for so many years.
+Depression is a sign you’ve lost touch with reality. Have you noticed that human beings are one of the few species on earth that have the ability to become depressed? This is because they are the only ones who can get lost in their mind and become enslaved by negative thoughts and disempowering stories. Depression is a sign that you need to move away from your mind by letting go of your worries about the past slash future or your interpretation of the present situation and reconnect to the present moment.
 
-This identity is what led you to believe you should be doing certain things, making a certain amount of money, adopting a certain lifestyle, or developing a certain social status. Depression invites you to reconnect with your body and emotions while getting out of your head. After all, didn’t your mind create the depression in the first place? Some people who experience severe grief, sadness, or depression like to keep themselves busy to avoid thinking.
+It can be a powerful invitation to let go of the identity you’ve been clinging to for so many years. This identity is what led you to believe you should be doing certain things, making a certain amount of money, adopting a certain lifestyle, or developing a certain social status. Depression invites you to reconnect with your body and emotions while getting out of your head. After all, didn’t your mind create the depression in the first place?
 
-When depressed, more thinking is seldom the solution. You rarely see people getting out of depression by using their mind.
+Some people who experience severe grief, sadness, or depression like to keep themselves busy to avoid thinking. When depressed, more thinking is seldom the solution. You rarely see people getting out of depression by using their mind.
 
 Therefore, instead of thinking, you want to reconnect with your body. Exercising is a great way to do this and has been shown to be effective in improving your mood. For additional information refer to the section, The Benefits of Exercising, In some rare cases, severe depression can lead people to separate from their mind. When this happens, their story suddenly drops.
 
-Apparently, this is what happened to Eckhart Tolle as he recalls in his book, The Power of Now. He had a sudden awakening and his mind stopped. Here is what he wrote about his experience, This withdrawal must have been so complete that this false, suffering self immediately collapsed, just as if a plug had been pulled out of an inflatable toy. Eckhart Tolle.
+Apparently, this is what happened to Eckhart Tolle as he recalls in his book, The Power of. Now. He had a sudden awakening and his mind stopped. Here is what he wrote about his experience, This withdrawal must have been so complete that this false, suffering self immediately collapsed, just as if a plug had been pulled out of an inflatable toy.
 
-In summary, depression tells you to let go of your ego and reconnect with reality. It invites you to get out of your mind, which can only recall the past or anticipate the future and live more in the present. Severe depression may require the help of a professional, but for milder depression here are some mediating strategies, exercise, reconnect with your body in your emotions
+Eckhart Tolle. In summary, depression tells you to let go of your ego and reconnect with reality. It invites you to get out of your mind, which can only recall the past or anticipate the future and live more in the present. Severe depression may require the help of a professional, but for milder depression here are some mediating strategies, exercise, reconnect with your body in your emotions
 
 
 <a id="sec-033136"></a>
@@ -1531,19 +1641,19 @@ Activity, getting busy allows you to avoid excessive thinking. Instead of feedin
 
 Whether or not it is accurate, focusing on others can certainly help you forget about your own issues and focus on something more positive. Unfortunately, when you feel depressed you won’t want to do any of these things.
 
-However, as you start moving and start keeping yourself busy, your situation will gradually improve, and it will become easier and easier. Thus, it is important to take things just one step at a time. One Step Refer to the exercises in the corresponding section of the workbook, section 4. How to Use Your Emotions to Grow, Depression 27.
+However, as you start moving and start keeping yourself busy, your situation will gradually improve, and it will become easier and easier. Thus, it is important to take things just one step at a time. One Step Refer to the exercises in the corresponding section of the workbook, section 4. How to Use.
 
-Fear Slash Discomfort Life always begins with one step outside of your comfort zone. Shannon L. Valder, Inspirational Author Whenever we try something new, we experience anxiety. We are afraid of the unknown.
+Your Emotions to Grow, Depression 27. Fear Slash Discomfort Life always begins with one step outside of your comfort zone. Shannon L. Valder, Inspirational Author Whenever we try something new, we experience anxiety.
 
-This is why we like to maintain our daily routine and stay within our comfort zones. From our brain’s point of view, this makes perfect sense. If our current habits allow us to be safe and avoid any potential threat to our survival, or the survival of our ego, why bother changing them? This explains why we often keep the same routine, or have the same thoughts over and over.
+We are afraid of the unknown. This is why we like to maintain our daily routine and stay within our comfort zones. From our brain’s point of view, this makes perfect sense. If our current habits allow us to be safe and avoid any potential threat to our survival, or the survival of our ego, why bother changing them?
 
-It is also why we may experience a lot of internal resistance when trying to change ourselves. Thus, when we try to move beyond our comfort zones, we experience fear and distress.
+This explains why we often keep the same routine, or have the same thoughts over and over. It is also why we may experience a lot of internal resistance when trying to change ourselves. Thus, when we try to move beyond our comfort zones, we experience fear and distress.
 
 Now, do we want to stay in the same place most of our lives and avoid taking any risks, or do we want to pursue our dreams and see what we are truly capable of becoming? We have to remember, most of our fears are a threat only to our ego, not to our survival. Generally, they aren’t physical threats, but imaginary ones. If we play it safe we risk missing out on life, and we may regret it later.
 
 Below are common fears you may experience, fear of rejection, you’re afraid of being rejected. This may be physical rejection from a specific group, but it is generally more subtle. For instance, you may be afraid of, making a comment people could disapprove of asking someone out and being turned down, or sharing your work and being criticized for it. Fear of failure, you’re afraid of failing.
 
-This usually comes from the deepest fear of not being good enough, i.e. you are afraid of being ridiculed and believe that failure will erode your self-esteem. Fear of loss, human beings have an aversion to loss, which is why we are often more motivated to prevent a loss than to secure a gain. Fear of disturbing, you’re afraid of disturbing people. Perhaps due to the belief you’re not important enough.
+This usually comes from the deepest fear of not being good enough, i.e. you are afraid of being ridiculed and believe that failure will erode your self-esteem. Fear of loss, human beings have an aversion to loss, which is why we are often more motivated to prevent a loss than to secure a gain. Fear of disturbing, you’re afraid of disturbing people. Perhaps, due to the belief you’re not important enough.
 
 As a result, you may feel reluctant to affirm yourself for fear of appearing selfish. Fear of success, you’re afraid of success. You may worry you won’t be able to sustain it with all the added pressure on your shoulders. How to use fear to grow.
 
@@ -1565,25 +1675,25 @@ As Benjamin Franklin said, some people die at 25 and aren’t buried until 75. M
 
 Courage is realizing fear is not going to go away and doing what you want to do anyway. Without fear, there is no courage. As you face fear on a regular basis, you cultivate courage and turn it into a habit. You don’t need to avoid fear or numb yourself to it before you can take action.
 
-Instead, you must accept the fact that fear won’t go away and get used to it. Then, you must decide to take action. Exercise, move out of your comfort zone. To start moving out of your comfort zone, you can ask yourself, what is the one thing I should be doing, but fear has made me procrastinate over.
+Instead, you must accept the fact that fear won’t go away and get used to it. Then, you must decide to take action. Exercise, move out of your comfort zone. To start moving out of your comfort zone, you can ask yourself, what is the one thing.
 
-Once you do that one thing, you’ll likely experience a sense of pride and of being alive. This is a sign you’re on the right track. See it as the reward your brain gives you for moving beyond your comfort zone. Action Step Refer to the exercises in the corresponding section of the workbook, Action 4.
+I should be doing, but fear has made me procrastinate over. Once you do that one thing, you’ll likely experience a sense of pride and of being alive. This is a sign you’re on the right track. See it as the reward your brain gives you for moving beyond your comfort zone.
 
-How to use your emotions to grow, fear slash discomfort. 28. Procrastination. Only put off until tomorrow what you are willing to die having left undone. Pablo Picasso.
+Action Step Refer to the exercises in the corresponding section of the workbook, Action 4. How to use your emotions to grow, fear slash discomfort. 28. Procrastination. Only put off until tomorrow what you are willing to die having left undone.
 
-Procrastination is largely an emotional issue. While there are effective techniques to deal with procrastination, for the most part, learning to manage your emotions properly is the key to overcoming your tendency towards delayed action. Why You Procrastinate. There are different reasons why people procrastinate.
+Pablo Picasso. Procrastination is largely an emotional issue. While there are effective techniques to deal with procrastination, for the most part, learning to manage your emotions properly is the key to overcoming your tendency towards delayed action. Why.
 
-Below are some of them, the task is boring the task is seen as unimportant the task is too challenging, or perceived as such, you’re afraid you’ll do a poor job, and or you are habitually lazy. Imagine if the task was lots of fun, perceived as important, and so easy you couldn’t fail, would you procrastinate? I believe fear is the main reason people procrastinate. Instead they’ll do a poor job, people would rather put off a task.
+You Procrastinate. There are different reasons why people procrastinate. Below are some of them, the task is boring the task is seen as unimportant the task is too challenging, or perceived as such, you’re afraid you’ll do a poor job, and or you are habitually lazy. Imagine if the task was lots of fun, perceived as important, and so easy you couldn’t fail, would you procrastinate?
 
-While they may convince themselves that the task is not urgent or important, or that they are tired, often, the truth is they are scared. Note that procrastination isn’t in itself a sign you are lazy or something is wrong with you. We all procrastinate.
+I believe fear is the main reason people procrastinate. Instead they’ll do a poor job, people would rather put off a task. While they may convince themselves that the task is not urgent or important, or that they are tired, often, the truth is they are scared. Note that procrastination isn’t in itself a sign you are lazy or something is wrong with you.
 
-However, if you regularly suffer from procrastination, it may indicate you either have self-esteem issues, or you lack self-discipline. How to use procrastination to grow? Procrastination might suggest you believe too much in what your mind is telling you. Instead of being the master of your mind, you’ve become its slave.
+We all procrastinate. However, if you regularly suffer from procrastination, it may indicate you either have self-esteem issues, or you lack self-discipline. How to use procrastination to grow? Procrastination might suggest you believe too much in what your mind is telling you.
 
-This comes at the cost of, not living the life you want, not accomplishing your dreams, and experiencing low self-esteem, guilt and unhappiness. Remember, when your mind tells you, you’re tired. Let’s rest, or, let’s do it tomorrow, it’s not an order. You don’t have to follow it.
+Instead of being the master of your mind, you’ve become its slave. This comes at the cost of, not living the life you want, not accomplishing your dreams, and experiencing low self-esteem, guilt and unhappiness. Remember, when your mind tells you, you’re tired. Let’s rest, or, let’s do it tomorrow, it’s not an order.
 
-You aren’t your emotions. Neither are you your mind. No matter what thought may cross your mind, you can choose to either accept it, or ignore it. Now I would like to share a 16-step process to overcome procrastination.
+You don’t have to follow it. You aren’t your emotions. Neither are you your mind. No matter what thought may cross your mind, you can choose to either accept it, or ignore it.
 
-Don’t worry, it’s not as complicated as it might first appear. How to crush procrastination in 16 simple steps 1.
+Now. I would like to share a 16-step process to overcome procrastination. Don’t worry, it’s not as complicated as it might first appear. How to crush procrastination in 16 simple steps 1.
 
 
 <a id="sec-034141"></a>
@@ -1599,11 +1709,13 @@ Spend time identifying all the reasons behind your procrastination. Be honest wi
 
 The indirect consequence of procrastination is that you may feel bad about yourself. You may blame yourself for not doing what you know you should be doing, which erodes your self-esteem and creates unnecessary worries. Exercise, the cost of procrastination.
 
-Now, take a sheet of paper and write down what procrastination costs you. How does it affect your peace of mind? Your self-esteem. Your ability to achieve your dreams. The more you’re sick and tired of procrastination, the more likely you will be to actually do something about it. 3.
+Now, take a sheet of paper and write down what procrastination costs you. How does it affect your peace of mind? Your self-esteem. Your ability to achieve your dreams.
 
-Uncover your story. The third step to overcome procrastination is to identify the story behind it. What are you telling yourself when you feel the urge to procrastinate? What thoughts cross your mind?
+The more you’re sick and tired of procrastination, the more likely you will be to actually do something about it. 3. Uncover your story. The third step to overcome procrastination is to identify the story behind it. What are you telling yourself when you feel the urge to procrastinate?
 
-What excuses do you use? Some common excuses are, I’m too tired I’ll do it tomorrow I’ll do a poor job, and or it’s not really important. Let’s address some of these excuses right away I’m too tired while that may be true, you must realize you’re not your mind. You don’t need to listen to your mind.
+What thoughts cross your mind? What excuses do you use? Some common excuses are, I’m too tired. I’ll do it tomorrow.
+
+I’ll do a poor job, and or it’s not really important. Let’s address some of these excuses right away. I’m too tired while that may be true, you must realize you’re not your mind. You don’t need to listen to your mind.
 
 Navy SEAL, David Goggins, uses the 40% rule. This rule states that, even when you think you can’t take it anymore, you’re using only 40% of your brain’s capacity. The bottom line is you have great reserves of energy you can tap into when you feel tired.
 
@@ -1621,31 +1733,37 @@ They control you because you let them to. Commit to addressing them. 4. Rewrite 
 
 Are you too tired? Do you lack time? Are you trying to do everything perfectly? Now you’ve identified your story, create a new more empowering story to neutralize your old excuses.
 
-See the examples below, I don’t have time for that I find and make time for whatever I’m committed to. I’m too tired I have control over my mind and I have more energy than I imagine. When I schedule a task, I complete it. Then, create affirmations or mantras around your new story.
+See the examples below, I don’t have time for that. I find and make time for whatever. I’m committed to. I’m too tired.
+
+I have control over my mind and. I have more energy than. I imagine. When.
+
+I schedule a task, I complete it. Then, create affirmations or mantras around your new story.
 
 
 <a id="sec-034646"></a>
 ### ⏱️ [03:46:46 - 03:51:51]
 
-Repeat them to yourself every morning and throughout the day until they become part of your identity. Remember, procrastination is a habit. You want to reprogram your mind and implement a new habit, the habit of working on the tasks you schedule whether you feel like it or not. For more, refer to the section, Conditioning Your Mind. 5.
+Repeat them to yourself every morning and throughout the day until they become part of your identity. Remember, procrastination is a habit. You want to reprogram your mind and implement a new habit, the habit of working on the tasks you schedule whether you feel like it or not. For more, refer to the section, Conditioning.
 
-Clarify your why procrastination is often due to a lack of motivation. When you’re excited about a goal, you don’t run away from it, do you? No. You can’t wait to work on it. Look at the tasks you regularly procrastinate over. Why is that?
+Your Mind. 5. Clarify your why procrastination is often due to a lack of motivation. When you’re excited about a goal, you don’t run away from it, do you? No.
 
-How can you make these tasks part of your vision to make you feel more motivated? Can you adjust these tasks? Can you learn something from these tasks? Can you envision yourself feeling proud of yourself as you complete these tasks?
+You can’t wait to work on it. Look at the tasks you regularly procrastinate over. Why is that? How can you make these tasks part of your vision to make you feel more motivated?
 
-The stronger your reason, your why, the easier it will be for you to overcome your tendency to procrastinate. 6. Identify the ways you distract yourself. The next step is to notice all the ways you distract yourself. What are your own ways to procrastinate?
+Can you adjust these tasks? Can you learn something from these tasks? Can you envision yourself feeling proud of yourself as you complete these tasks? The stronger your reason, your why, the easier it will be for you to overcome your tendency to procrastinate. 6.
 
-Is it going for a walk? Watching videos on YouTube. Drinking coffee. Or perhaps, reading books on how to overcome procrastination.
+Identify the ways you distract yourself. The next step is to notice all the ways you distract yourself. What are your own ways to procrastinate? Is it going for a walk?
 
-Unless you’re aware of all the ways procrastination manifests in your life, you’ll have a hard time overcoming it. Exercise. Make a list of all the ways you procrastinate. Take a couple of minutes to write down all the way you procrastinate using the free workbook. 7.
+Watching videos on YouTube. Drinking coffee. Or perhaps, reading books on how to overcome procrastination. Unless you’re aware of all the ways procrastination manifests in your life, you’ll have a hard time overcoming it.
 
-Stay with the urge. As you feel the urge, stay with the emotion. How do you feel? Allow yourself to feel the emotion.
+Exercise. Make a list of all the ways you procrastinate. Take a couple of minutes to write down all the way you procrastinate using the free workbook. 7. Stay with the urge.
 
-Don’t judge yourself. Don’t blame yourself. Just accept what is. As you do so, you’ll gain more control of your mind, refer to the chapter on letting go of your emotions, for more information. 8.
+As you feel the urge, stay with the emotion. How do you feel? Allow yourself to feel the emotion. Don’t judge yourself.
 
-Record everything you do to assess your productivity and gather insights on ways you procrastinate, record everything you do in a notebook. Do it for one week. Each time you switch from one activity to another, write it down. Make sure you write how much time you spend on each task.
+Don’t blame yourself. Just accept what is. As you do so, you’ll gain more control of your mind, refer to the chapter on letting go of your emotions, for more information. 8. Record everything you do to assess your productivity and gather insights on ways you procrastinate, record everything you do in a notebook.
 
-By the end of the week, you’ll know how much time you spend doing real work and how much time you spend distracting yourself. Be careful, you might be shocked. 9. Set a clear intent behind everything you do before working on a task, make sure you know exactly what needs to be done. Ask yourself, what am I trying to accomplish here?
+Do it for one week. Each time you switch from one activity to another, write it down. Make sure you write how much time you spend on each task. By the end of the week, you’ll know how much time you spend doing real work and how much time you spend distracting yourself.
+
+Be careful, you might be shocked. 9. Set a clear intent behind everything you do before working on a task, make sure you know exactly what needs to be done. Ask yourself, what am. I trying to accomplish here?
 
 What will the end result look like? This way, you’ll avoid giving your mind room to create excuses. 10. Prepare your environment. Your mind doesn’t like what’s difficult.
 
@@ -1667,37 +1785,37 @@ Often, when you start working on a task, you’ll enter what is called, the flow
 
 To make it easier, decide to work on a task for only 5 minutes and see what happens. Remove any pressure or desire to perform well and give yourself permission to do a poor job. You’ll often end up working on the task for a lot longer than originally planned. Notice that the more attention your task requires, the more likely you are to enter the flow quickly.
 
-In addition, you can use the 5-second rule introduced by Mel Robbins in her book, The 5-Second Rule. This rule states that you only have a 5-second window to take action before your mind talks you out of it. For more on the 5-second rule, refer to the section, Conditioning Your Mind. 14. Create daily habits to support you.
+In addition, you can use the 5-second rule introduced by Mel Robbins in her book, The 5-Second. Rule. This rule states that you only have a 5-second window to take action before your mind talks you out of it. For more on the 5-second rule, refer to the section, Conditioning.
 
-If you tend to procrastinate on important tasks, commit to working on them first thing in the morning. For instance, if you want to write a book, start writing every morning. Start small. For instance, set a tiny goal of writing 50 words a day and do it every morning.
+Your Mind. 14. Create daily habits to support you. If you tend to procrastinate on important tasks, commit to working on them first thing in the morning. For instance, if you want to write a book, start writing every morning.
 
-As you maintain this schedule, you’ll develop a writing habit and make procrastination less likely. 15. Use visualization. You can also use visualization to help you overcome procrastination. Below are two specific ways to do so. 1.
+Start small. For instance, set a tiny goal of writing 50 words a day and do it every morning. As you maintain this schedule, you’ll develop a writing habit and make procrastination less likely. 15. Use visualization.
 
-Visualize yourself doing the task. See yourself turning on the computer, opening the file and writing. Imagine yourself putting on your running shoes and going for a run. This type of visualization has been shown to increase the likelihood you work on the task.
+You can also use visualization to help you overcome procrastination. Below are two specific ways to do so. 1. Visualize yourself doing the task. See yourself turning on the computer, opening the file and writing.
 
-Try it out. 2. Visualize yourself having completed the task. How would you feel once the task is done? Liberated?
+Imagine yourself putting on your running shoes and going for a run. This type of visualization has been shown to increase the likelihood you work on the task. Try it out. 2. Visualize yourself having completed the task.
 
-Happy? Proud?
+How would you feel once the task is done? Liberated? Happy? Proud?
 
 Now, feel as you would feel if you had completed your task. By doing so, you’ll experience a boost of motivation that will encourage you to work on your task. 16. Build accountability. If you have a hard time completing a task, you might need some accountability.
 
-When I’m likely to procrastinate, I like to send a message to a friend and tell him I will complete a certain task by a specific date. Another way to build accountability is to have an accountability partner you communicate with on a regular basis. You could talk to him or her once a week and share your list of goals. You could look at the important tasks you’ll likely to put off and set a specific deadline for each one.
+When. I’m likely to procrastinate, I like to send a message to a friend and tell him. I will complete a certain task by a specific date. Another way to build accountability is to have an accountability partner you communicate with on a regular basis.
 
-Then, you could send an email to your accountability partner to let him or her know when you completed a task. If you follow this 16-step process, you should be able to overcome or, at least, significantly reduce your tendency to procrastinate. Action step. Follow the 16-step process using the corresponding section of the workbook, Section 4.
+You could talk to him or her once a week and share your list of goals. You could look at the important tasks you’ll likely to put off and set a specific deadline for each one. Then, you could send an email to your accountability partner to let him or her know when you completed a task. If you follow this 16-step process, you should be able to overcome or, at least, significantly reduce your tendency to procrastinate.
 
-How to use your emotions to grow, procrastination. 29. Lack of motivation. People often say that motivation doesn’t last. Well, neither does bathing, that’s why we recommend it daily.
+Action step. Follow the 16-step process using the corresponding section of the workbook, Section 4. How to use your emotions to grow, procrastination. 29. Lack of motivation.
 
-Zig Ziglar, salesman and motivational speaker. Lacking motivation is usually a sign that you don’t have a compelling vision to pursue. People who have an exciting vision seldom lack motivation. While they may experience setbacks along the way and feel frustrated or even mildly depressed, they tend to bounce back quickly by reminding themselves of their vision.
+People often say that motivation doesn’t last. Well, neither does bathing, that’s why we recommend it daily. Zig Ziglar, salesman and motivational speaker. Lacking motivation is usually a sign that you don’t have a compelling vision to pursue.
 
-Lack of motivation is also a sign you’re not following your bliss. It shows there is a misalignment between what you do and who you are. The word, enthusiastic, comes from Greek and means, filled with the divine. If you lack enthusiasm, you’re probably out of touch with the essence of who you are.
+People who have an exciting vision seldom lack motivation. While they may experience setbacks along the way and feel frustrated or even mildly depressed, they tend to bounce back quickly by reminding themselves of their vision. Lack of motivation is also a sign you’re not following your bliss. It shows there is a misalignment between what you do and who you are.
 
-I’ve never heard of a Nobel Prize winner retiring early because he or she was bored. In fact, most of them will work until the day they die. This is because they have a clear purpose. Similarly, I’ve never seen billionaires selling their companies to retire on a tropical island.
+The word, enthusiastic, comes from Greek and means, filled with the divine. If you lack enthusiasm, you’re probably out of touch with the essence of who you are. I’ve never heard of a Nobel Prize winner retiring early because he or she was bored.
 
-They may have tried but quickly realize how boring their lives have become. The point is, you don’t inherently lack motivation, you’re just not doing what you’re supposed to do. You haven’t stretched yourself enough and haven’t created a vision that inspires you. Perhaps, you’re stuck at the same dead-end job that bores you to tears.
+In fact, most of them will work until the day they die. This is because they have a clear purpose. Similarly, I’ve never seen billionaires selling their companies to retire on a tropical island. They may have tried but quickly realize how boring their lives have become.
 
-Or maybe you’re at your current job for the money, or to fulfill your parents' wishes. Then, it’s no wonder you lack motivation. Fortunately, you can get your motivation back. How to use motivation, or lack thereof, to grow a lack of motivation says you need to design a life that is more in line with who you are.
+The point is, you don’t inherently lack motivation, you’re just not doing what you’re supposed to do. You haven’t stretched yourself enough and haven’t created a vision that inspires you. Perhaps, you’re stuck at the same dead-end job that bores you to tears. Or maybe you’re at your current job for the money, or to fulfill your parents' wishes.
 
-It entails having a deep knowledge of your strengths, personality, and preferences, while making sure you leverage them on a day-to-day basis.
+Then, it’s no wonder you lack motivation. Fortunately, you can get your motivation back. How to use motivation, or lack thereof, to grow a lack of motivation says you need to design a life that is more in line with who you are. It entails having a deep knowledge of your strengths, personality, and preferences, while making sure you leverage them on a day-to-day basis.
 
 
 <a id="sec-035656"></a>
@@ -1731,7 +1849,9 @@ Motivation comes and goes. There is no need to beat yourself up when you feel un
 
 Putting a system in place means having a daily routine that allows you to move toward your goal. For instance, it could be working on a task for a certain amount of time first thing in the morning. Sticking to that ritual every day is one way to build self-discipline. Another way is to set small goals every day and achieve them consistently.
 
-Having self-compassion means encouraging yourself instead of beating yourself up. To learn more about how to create a morning ritual, you can refer to my book, Wake Up Call, How to Take Control of Your Morning and Transform Your Life. Feeling stuck. Sometimes, you feel stuck.
+Having self-compassion means encouraging yourself instead of beating yourself up. To learn more about how to create a morning ritual, you can refer to my book, Wake Up Call, How to Take Control of. Your Morning and Transform. Your Life.
+
+Feeling stuck. Sometimes, you feel stuck.
 
 
 <a id="sec-040157"></a>
@@ -1747,11 +1867,11 @@ Closing open loops. If you’ve been putting off too many tasks or have too many
 
 Perhaps, just a few hours could allow you to finish many of these tasks. Or maybe you need longer. If so, take more time. Three, for bigger projects, in the next few days or weeks, focus on only one project until it is complete.
 
-Four, reschedule, delegate or abandon some of your projects. To learn how to get your motivation back, you can refer to the second book in the mastery series, Master Your Motivation. Action Step. Refer to the exercises in the corresponding section of the workbook.
+Four, reschedule, delegate or abandon some of your projects. To learn how to get your motivation back, you can refer to the second book in the mastery series, Master. Your Motivation. Action Step.
 
-Section 4. How to Use Your Emotions to Grow, Lack of Motivation. Conclusion. Thank you for purchasing this book.
+Refer to the exercises in the corresponding section of the workbook. Section 4. How to Use. Your Emotions to Grow, Lack of Motivation.
 
-My sincere hope is that it helped you make sense of your emotions and gave you the tools you need to start taking better control of them. Remember, the quality of your emotions determines the quality of your life.
+Conclusion. Thank you for purchasing this book. My sincere hope is that it helped you make sense of your emotions and gave you the tools you need to start taking better control of them. Remember, the quality of your emotions determines the quality of your life.
 
 Therefore, learning how to change yourself and your environment to experience more positive emotions is essential for your well-being. Let’s face it. You’ll keep experiencing negative emotions throughout your life, but, hopefully, each time you’ll remind yourself that your emotions are not you and will learn to accept them as they are before letting them go. You’re not sad, depressed, jealous or angry, you are what witnesses these emotions.
 

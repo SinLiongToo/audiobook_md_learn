@@ -38,15 +38,17 @@ Later, McNamara took that skill to Washington when he became Secretary of Defens
 
 He said something was missing. What? McNamara asked. The feelings of the Vietnamese people, Lansdale replied.
 
-You couldn’t reduce that to a statistic or a chart. This was a central issue with managing the Vietnam War. The difference between battle statistics brought to Washington and the feelings among those involved could be a million miles apart. General Westmoreland, who commanded U. S. forces, told Senator Fritz Hollings, we’re killing these people at a rate of 10 to 1.
+You couldn’t reduce that to a statistic or a chart. This was a central issue with managing the Vietnam War. The difference between battle statistics brought to Washington and the feelings among those involved could be a million miles apart. General Westmoreland, who commanded U.
 
-Hollings replied, the American people don’t care about the 10. They care about the 1. Ho Chi Minh once put it more bluntly, allegedly stating, you will kill 10 of us and we will kill one of you, but it is you who will tire first. It’s hard to contextualize that on a chart.
+S. forces, told Senator Fritz Hollings, we’re killing these people at a rate of 10 to 1. Hollings replied, the American people don’t care about the 10. They care about the 1. Ho Chi Minh once put it more bluntly, allegedly stating, you will kill 10 of us and we will kill one of you, but it is you who will tire first.
 
-Some things are immeasurably important. They’re either impossible or too elusive to quantify. But they can make all the difference in the world, often because their lack of quantification causes people to discount their relevance or even deny their existence. Carved on the Wall at University of Chicago is a quote from Lord Kelvin that says, when you cannot measure, your knowledge is meager and unsatisfactory.
+It’s hard to contextualize that on a chart. Some things are immeasurably important. They’re either impossible or too elusive to quantify. But they can make all the difference in the world, often because their lack of quantification causes people to discount their relevance or even deny their existence.
 
-He’s not wrong, but the danger is assuming that if something can’t be measured, it doesn’t matter. The opposite is true. Some of the most important forces in the world, particularly those regarding people’s personalities and mindsets, are nearly impossible to measure and impossible to predict. Jeff Bezos once said, the thing I have noticed is when the anecdotes and the data disagree, the anecdotes are usually right.
+Carved on the Wall at University of Chicago is a quote from Lord Kelvin that says, when you cannot measure, your knowledge is meager and unsatisfactory. He’s not wrong, but the danger is assuming that if something can’t be measured, it doesn’t matter. The opposite is true. Some of the most important forces in the world, particularly those regarding people’s personalities and mindsets, are nearly impossible to measure and impossible to predict.
 
-There’s something wrong with the way you are measuring it. I love and hate that quote in equal parts, because I know it’s true, but I don’t want it to be. You see its wisdom so often in history. The Battle of the Bulge was one of the deadliest American military battles of all time. 19,000 American soldiers were killed, another 70,000 wounded or missing, in just over a month as Nazi Germany made an ill-fated final push against the Allies.
+Jeff Bezos once said, the thing. I have noticed is when the anecdotes and the data disagree, the anecdotes are usually right. There’s something wrong with the way you are measuring it. I love and hate that quote in equal parts, because.
+
+I know it’s true, but. I don’t want it to be. You see its wisdom so often in history. The Battle of the Bulge was one of the deadliest American military battles of all time. 19,000 American soldiers were killed, another 70,000 wounded or missing, in just over a month as Nazi Germany made an ill-fated final push against the Allies.
 
 Part of the reason it was so bloody is that Americans were surprised. And part of the reason they were surprised is that in the rational minds of American generals, it made no sense for Germany to attack. The Germans didn’t have enough troops to mount a successful counterattack, and the few that were left were often children under age 18 with no combat experience. They didn’t have enough fuel.
 
@@ -74,15 +76,15 @@ Sometimes great athletes choke. Sometimes dark horses win. Hill once wedded to t
 
 But he eventually figured out what was going on, and it changed how scientists think about athletic performance forever. Athletic performance isn’t just what you’re physically capable of. It’s what you’re capable of within the context of what your brain is willing to endure for the risk and reward in a given moment. Your brain’s first job is to make sure you don’t die.
 
-So, like a speed governor on a car, it won’t let you exert true maximum performance, which could leave you exhausted to the point of being vulnerable, unless the stakes are high enough. It will shut you down at a lower physical limit if the risk of exertion isn’t worth the reward. Physical running limits on a test track may be different than physical limits during an Olympic final, which may be different than physical limits when being chased by an axe murderer. This helps explain crazy stories about people lifting up cars when someone is pinned underneath, their life in jeopardy.
+So, like a speed governor on a car, it won’t let you exert true maximum performance, which could leave you exhausted to the point of being vulnerable, unless the stakes are high enough. It will shut you down at a lower physical limit if the risk of exertion isn’t worth the reward. Physical running limits on a test track may be different than physical limits during an Olympic final, which may be different than physical limits when being chased by an axe murderer.
 
-Capabilities are a function of in-the-moment circumstances. In his early days, Hill wrote that our bodies are machines, whose energy expenditures may be closely measured. Later on, as his views came around to a more nuanced view of human performance, he noted that there is more in athletics than sheer chemistry. There was a behavioral and psychological side that was much harder to measure.
+This helps explain crazy stories about people lifting up cars when someone is pinned underneath, their life in jeopardy. Capabilities are a function of in-the-moment circumstances. In his early days, Hill wrote that our bodies are machines, whose energy expenditures may be closely measured. Later on, as his views came around to a more nuanced view of human performance, he noted that there is more in athletics than sheer chemistry.
 
-You never know how an athlete can perform until you put them in the heat of the moment, with the pressures, risks, and incentives of real-world conditions that can’t be emulated in the laboratory. Hill, in an interesting coincidence, was married to John Maynard Keynes' sister. Keynes, the British economist, had discovered in his work that economies are not machines. They have souls, emotions, and feelings.
+There was a behavioral and psychological side that was much harder to measure. You never know how an athlete can perform until you put them in the heat of the moment, with the pressures, risks, and incentives of real-world conditions that can’t be emulated in the laboratory. Hill, in an interesting coincidence, was married to John Maynard Keynes' sister. Keynes, the British economist, had discovered in his work that economies are not machines.
 
-Keynes called them animal spirits. Hill discovered the same, but for our bodies. He called them moral factors. Our bodies are not machines, and we shouldn’t expect them to perform as such.
+They have souls, emotions, and feelings. Keynes called them animal spirits. Hill discovered the same, but for our bodies. He called them moral factors.
 
-They have feelings, emotions, and fears, all of which regulate what we’re capable of, all of which are very hard to measure. Investor Jim Grant once said, to suppose that the value of a common stock is determined purely by a corporation’s earnings discounted by the relevant interest rates and adjusted for the marginal tax rate, is to forget that people have burned witches, gone to war on a whim, risen to the defense of Joseph Stalin and believed Orson Welles when he told them over the radio that the Martians had landed.
+Our bodies are not machines, and we shouldn’t expect them to perform as such. They have feelings, emotions, and fears, all of which regulate what we’re capable of, all of which are very hard to measure. Investor Jim Grant once said, to suppose that the value of a common stock is determined purely by a corporation’s earnings discounted by the relevant interest rates and adjusted for the marginal tax rate, is to forget that people have burned witches, gone to war on a whim, risen to the defense of Joseph Stalin and believed Orson Welles when he told them over the radio that the Martians had landed.
 
 That’s always been the case. And it will always be the case. Every investment price,
 
@@ -116,9 +118,11 @@ And expecting there to be a rational answer. Or worse, always mistaking what hap
 
 John Nash is one of the smartest mathematicians to ever live. He won the Nobel Prize. He was also schizophrenic and spent most of his life convinced that aliens were sending him coded messages. In her book, A Beautiful Mind, Sylvia Nassar recounts a conversation between Nash and Harvard professor George Mackey.
 
-How could you, a mathematician, a man devoted to reason and logical proof, how could you believe that extraterrestrials are sending you messages? How could you believe that you are being recruited by aliens from outer space to save the world? How could you, because, Nash said slowly in his soft, reasonable southern drawl, the ideas I had about supernatural beings came to me the same way that my mathematical ideas did. So I took them seriously.
+How could you, a mathematician, a man devoted to reason and logical proof, how could you believe that extraterrestrials are sending you messages? How could you believe that you are being recruited by aliens from outer space to save the world? How could you, because, Nash said slowly in his soft, reasonable southern drawl, the ideas. I had about supernatural beings came to me the same way that my mathematical ideas did.
 
-The first step toward accepting that some things don’t compute is realizing that the reason we have innovation and advancement is because we are fortunate to have people in this world whose minds work differently from ours. It would be great if the world worked in predictable, rational ways. But constant uncertainty, misunderstanding, and the inability to know what people will do next is the truth.
+So. I took them seriously. The first step toward accepting that some things don’t compute is realizing that the reason we have innovation and advancement is because we are fortunate to have people in this world whose minds work differently from ours. It would be great if the world worked in predictable, rational ways.
+
+But constant uncertainty, misunderstanding, and the inability to know what people will do next is the truth.
 
 
 <a id="sec-001504"></a>
@@ -128,7 +132,7 @@ Author Robert Greene once wrote, The need for certainty is the greatest disease 
 
 Everything would compute if everyone had the same time horizon, goals, ambitions, and risk tolerances. But they don’t. Panic selling stocks after they’ve declined 5% is a terrible idea if you’re a long-term investor and a career imperative if you’re a professional trader. There is no world in which every business or investing decision you see other people make will align with your own hopes and dreams of how things should be.
 
-Third is understanding the power of incentives. A financial bubble might seem irrational, but the people who work in industries that are in bubbles, mortgage brokers in 2004 or stock brokers in 1999, make so much money from them that there’s a powerful incentive to keep the music playing. They delude not only their customers but themselves. Last is the power of stories over statistics.
+Third, is understanding the power of incentives. A financial bubble might seem irrational, but the people who work in industries that are in bubbles, mortgage brokers in 2004 or stock brokers in 1999, make so much money from them that there’s a powerful incentive to keep the music playing. They delude not only their customers but themselves. Last is the power of stories over statistics.
 
 Housing prices in relation to median incomes are now above their historic average and typically mean revert is a statistic. Jim just made $500,000 flipping homes and can now retire early and his wife thinks he’s amazing is a story and it’s way more persuasive in the moment. It’s hard to compute, but it’s how the world works. In the next chapter, we’ll look at life’s guaranteed ability to swing from one absurdity to the next.
 
@@ -174,25 +178,25 @@ In 1900, roughly 800 per 100,000 Americans died each year from infectious diseas
 
 It’s an entirely good thing. However, it creates an anomaly. The decline in deaths from infectious diseases has made the world less equipped to handle them. Maybe not medically, but certainly psychologically.
 
-What was a tragic but expected part of life a hundred years ago is now a tragic and inconceivable part of modern life, which is indeed what made the COVID-19 pandemic so shocking and overwhelming. Clark Welton, a former speechwriter for New York City Mayor Ed Koch once wrote, For those who grew up in the 1930s and 1940s, there was nothing unusual about finding yourself threatened by contagious disease. Mumps, measles, chicken pox, and German measles swept through entire schools and towns. I had all four.
+What was a tragic but expected part of life a hundred years ago is now a tragic and inconceivable part of modern life, which is indeed what made the COVID-19 pandemic so shocking and overwhelming. Clark Welton, a former speechwriter for New York City Mayor Ed Koch once wrote, For those who grew up in the 1930s and 1940s, there was nothing unusual about finding yourself threatened by contagious disease. Mumps, measles, chicken pox, and German measles swept through entire schools and towns.
 
-Polio took a heavy annual toll, leaving thousands of people, mostly children, paralyzed or dead. There were no vaccines. Growing up meant running an unavoidable gauntlet of infectious disease. Compare this to my generation, who benefit from a half dozen vaccines within weeks of birth.
+I had all four. Polio took a heavy annual toll, leaving thousands of people, mostly children, paralyzed or dead. There were no vaccines. Growing up meant running an unavoidable gauntlet of infectious disease.
 
-And it’s like we live in separate worlds. I can’t fathom what was normal two generations ago. My guess is if COVID-19 struck the world in 1920, it would be a single page in the history books about yet another deadly pandemic wedged in between a long list of common tragedies. But since it struck in the comparative calm of 2020, it will leave a mark that reshapes how some people think about viral risk.
+Compare this to my generation, who benefit from a half dozen vaccines within weeks of birth. And it’s like we live in separate worlds. I can’t fathom what was normal two generations ago. My guess is if COVID-19 struck the world in 1920, it would be a single page in the history books about yet another deadly pandemic wedged in between a long list of common tragedies.
 
-The odd thing to ponder is the Hyman Minsky version of this development. Did a lack of pandemics over the last 50 years make the world more vulnerable to COVID-19? Did the decline of infectious disease death make us underestimate the odds that it could happen in modern times? Part of what made COVID dangerous is that we got so good at preventing pandemics in the last century that few people before 2020 assumed an infectious disease would ever impact their lives.
+But since it struck in the comparative calm of 2020, it will leave a mark that reshapes how some people think about viral risk. The odd thing to ponder is the Hyman Minsky version of this development. Did a lack of pandemics over the last 50 years make the world more vulnerable to COVID-19? Did the decline of infectious disease death make us underestimate the odds that it could happen in modern times?
 
-It was hard to comprehend, so people were utterly unprepared for a pandemic when I’d arrived. The irony of good times is that they breed complacency and skepticism of warnings. Epidemiologists had been warning something like COVID could happen for years, but mostly to deaf ears. And a public that assumed pandemics were something that happened only in history books and other parts of the world.
+Part of what made COVID dangerous is that we got so good at preventing pandemics in the last century that few people before 2020 assumed an infectious disease would ever impact their lives. It was hard to comprehend, so people were utterly unprepared for a pandemic when. I’d arrived. The irony of good times is that they breed complacency and skepticism of warnings.
 
-It’s hard to convince someone they’re in danger of a risk they assume has been defeated. As public health did its job, it became a target of budget cuts. Lori Freeman, CEO of the National Association of Health Officials, said in 2020, calm planted the seeds of crazy, and that happens so often. A common irony goes like this.
+Epidemiologists had been warning something like COVID could happen for years, but mostly to deaf ears. And a public that assumed pandemics were something that happened only in history books and other parts of the world. It’s hard to convince someone they’re in danger of a risk they assume has been defeated. As public health did its job, it became a target of budget cuts.
 
-Paranoia leads to success because it keeps you on your toes. But paranoia is stressful, so you abandon it quickly once you achieve success. Now you’ve abandoned what made you successful and you begin to decline, which is even more stressful. It happens in business, investing, careers, relationships, all over the place.
+Lori Freeman, CEO of the National Association of Health Officials, said in 2020, calm planted the seeds of crazy, and that happens so often. A common irony goes like this. Paranoia leads to success because it keeps you on your toes. But paranoia is stressful, so you abandon it quickly once you achieve success.
 
-Carl Jung had a theory called enantiodromia. It’s the idea that an excess of something gives rise to its opposite. Let me give you an example from Mother Nature. California was hit with an epic drought in the mid 2010s.
+Now you’ve abandoned what made you successful and you begin to decline, which is even more stressful. It happens in business, investing, careers, relationships, all over the place. Carl Jung had a theory called enantiodromia. It’s the idea that an excess of something gives rise to its opposite.
 
-Then 2017 came, dropping a preposterous amount of moisture. Parts of Lake Tahoe received, I’m not making this up, more than 65 feet of snow in a few months. The six-year drought was declared over. You’d think that would be great.
+Let me give you an example from Mother Nature. California was hit with an epic drought in the mid 2010s. Then 2017 came, dropping a preposterous amount of moisture. Parts of Lake Tahoe received, I’m not making this up, more than 65 feet of snow in a few months.
 
-But it backfired in an unexpected way. Record rain in 2017
+The six-year drought was declared over. You’d think that would be great. But it backfired in an unexpected way. Record rain in 2017
 
 
 <a id="sec-002506"></a>
@@ -224,7 +228,9 @@ One is accepting that crazy doesn’t mean broken. Crazy is normal. Beyond the p
 
 But it’s always been that way. People haven’t lost their minds. They’re just searching for the boundaries of what other investors are willing to believe. The second is realizing the power of enough, being more like Seinfeld.
 
-Investor Chamath Palihatia was once asked about earning the highest returns and remarked, “'I would really love to just compound at 15% per year, ”'because if I can do that for 50 years, “'that’s just enormous, ”'just slow and steady against hard problems. “'Maybe there’s more potential out there, ”'but it’s fine to say, you know what? “'I’m pretty happy with this level of risk, ”'and I’m fine just watching this game play out.
+Investor Chamath Palihatia was once asked about earning the highest returns and remarked, “'I would really love to just compound at 15% per year, ”'because if. I can do that for 50 years, “'that’s just enormous, ”'just slow and steady against hard problems.
+
+“'Maybe there’s more potential out there, ”'but it’s fine to say, you know what? “'I’m pretty happy with this level of risk, ”'and. I’m fine just watching this game play out.
 
 “'Not everyone can do it, ”'and markets on average can never do it, “'but more of us should try.'” Next, let’s talk about another wild problem, people’s tendency to want to make good things bigger and faster. Too much. Too soon. Too fast.
 
@@ -234,31 +240,33 @@ A good idea on steroids quickly becomes a terrible idea. Erin Buffett once joked
 <a id="sec-003010"></a>
 ### ⏱️ [00:30:10 - 00:35:12]
 
-pregnant. You’d be surprised, though, how common it is for people to attempt to speed up a process beyond what it can handle. Whenever people discover something valuable, particularly a lucrative investment or a special skill, there is a tendency to ask, great, but can I have it all faster? Can we push it twice as hard?
+pregnant. You’d be surprised, though, how common it is for people to attempt to speed up a process beyond what it can handle. Whenever people discover something valuable, particularly a lucrative investment or a special skill, there is a tendency to ask, great, but can. I have it all faster?
 
-Can we make it twice the size? Can we squeeze some more juice out of it? It’s a natural question and understandable. But the history of taking something valuable and pushing it too far, trying to make it go too fast, and asking too much is long.
+Can we push it twice as hard? Can we make it twice the size? Can we squeeze some more juice out of it? It’s a natural question and understandable.
 
-Most things have a natural size and speed and backfire quickly when you push them beyond that. Let me tell you about Robert Wadlow. He was enormous, the largest human ever known, a pituitary gland abnormality bombarded Wadlow’s body with growth hormone, leading to staggering size. He was six feet tall at age seven, seven feet tall by age 11, and when he died at 22, stood an inch shy of nine feet, weighed 500 pounds, and wore size 37 shoes.
+But the history of taking something valuable and pushing it too far, trying to make it go too fast, and asking too much is long. Most things have a natural size and speed and backfire quickly when you push them beyond that. Let me tell you about Robert Wadlow. He was enormous, the largest human ever known, a pituitary gland abnormality bombarded Wadlow’s body with growth hormone, leading to staggering size.
 
-His hand was a foot wide. He was what fiction would portray as a superhuman athlete, capable of running faster, jumping higher, lifting more weight, and crushing more bad guys than any normal person, a real-life Paul Bunyan. But that was not Wadlow’s life at all. He required steel leg braces to stand and a cane to walk.
+He was six feet tall at age seven, seven feet tall by age 11, and when he died at 22, stood an inch shy of nine feet, weighed 500 pounds, and wore size 37 shoes. His hand was a foot wide. He was what fiction would portray as a superhuman athlete, capable of running faster, jumping higher, lifting more weight, and crushing more bad guys than any normal person, a real-life Paul Bunyan. But that was not Wadlow’s life at all.
 
-His walk wasn’t much more than a limp, requiring tremendous effort. What few videos of Wadlow exist show a man whose movements are strained and awkward. He was rarely seen standing on his own and usually leaned on a wall for support. So much pressure was put on his legs that near the end of his life, he had little feeling below his knees.
+He required steel leg braces to stand and a cane to walk. His walk wasn’t much more than a limp, requiring tremendous effort. What few videos of Wadlow exist show a man whose movements are strained and awkward. He was rarely seen standing on his own and usually leaned on a wall for support.
 
-Had Wadlow lived longer and kept growing, casual walking would have caused his leg bones to break. What actually killed him was nearly as grim. Wadlow had high blood pressure in his legs due to his heart straining to pump blood around his enormous body, which caused an ulcer, which led to a deadly infection. You can’t triple the size of a human and expect triple the performance.
+So much pressure was put on his legs that near the end of his life, he had little feeling below his knees. Had Wadlow lived longer and kept growing, casual walking would have caused his leg bones to break. What actually killed him was nearly as grim. Wadlow had high blood pressure in his legs due to his heart straining to pump blood around his enormous body, which caused an ulcer, which led to a deadly infection.
 
-The mechanics don’t work like that. Huge animals tend to have short, squatty legs, rhinos, or extremely long legs relative to their torso, giraffes. Wadlow grew too large given the structure of the human body. There are limits to scaling.
+You can’t triple the size of a human and expect triple the performance. The mechanics don’t work like that. Huge animals tend to have short, squatty legs, rhinos, or extremely long legs relative to their torso, giraffes. Wadlow grew too large given the structure of the human body.
 
-Writing before Wadlow’s time, biologist J. B. S. Haldane once showed how many things this scaling issue applies to.
+There are limits to scaling. Writing before Wadlow’s time, biologist J. B. S.
 
-A flea can jump two feet in the air, an athletic man about four. But if a flea were as large as a man, it would not be able to jump thousands of feet. It doesn’t scale like that. Air resistance would be far greater for the giant flea, and the amount of energy needed to jump a given height is proportional to weight.
+Haldane once showed how many things this scaling issue applies to. A flea can jump two feet in the air, an athletic man about four. But if a flea were as large as a man, it would not be able to jump thousands of feet. It doesn’t scale like that.
 
-If a flea were a thousand times its normal size, its hop might increase from two feet to perhaps six, Haldane assumed. A human exiting a bathtub has perhaps a pound of water dripping off them. No big deal. A wet mouse, on the other hand, must lug around its body weight in excess water, and a wet fly is effectively pinned to the ground.
+Air resistance would be far greater for the giant flea, and the amount of energy needed to jump a given height is proportional to weight. If a flea were a thousand times its normal size, its hop might increase from two feet to perhaps six, Haldane assumed. A human exiting a bathtub has perhaps a pound of water dripping off them. No big deal.
 
-The same action at different sizes produces massively different problems. For every type of animal, there is a most convenient size, and a change in size inevitably carries with it a change of form, Haldane wrote. A most convenient size. A proper state where things work well but break when you try to scale them to a different size or speed. It applies to so many things in life.
+A wet mouse, on the other hand, must lug around its body weight in excess water, and a wet fly is effectively pinned to the ground. The same action at different sizes produces massively different problems. For every type of animal, there is a most convenient size, and a change in size inevitably carries with it a change of form, Haldane wrote. A most convenient size.
 
-A good summary of investing history is that stocks pay a fortune in the long run, but seek punitive damages when you demand to be paid sooner. Here’s how often the U. S. stock market has generated a positive return based on how long you held stocks for. One way to think about this chart is that there’s a most convenient investing time horizon. Probably somewhere around 10 years or more.
+A proper state where things work well but break when you try to scale them to a different size or speed. It applies to so many things in life. A good summary of investing history is that stocks pay a fortune in the long run, but seek punitive damages when you demand to be paid sooner. Here’s how often the U.
 
-That’s the period in which markets nearly always reward your patients. The more your time horizon compresses, the more you rely on luck and temp ruin. Go down the list of historical investing blunders, and I’m telling you, no less than 90% of them are caused by investors trying to compress this natural, most convenient time horizon. The same thing happens to companies.
+S. stock market has generated a positive return based on how long you held stocks for. One way to think about this chart is that there’s a most convenient investing time horizon. Probably somewhere around 10 years or more. That’s the period in which markets nearly always reward your patients.
+
+The more your time horizon compresses, the more you rely on luck and temp ruin. Go down the list of historical investing blunders, and. I’m telling you, no less than 90% of them are caused by investors trying to compress this natural, most convenient time horizon. The same thing happens to companies.
 
 Starbucks had 425 stores in 1994, its 23rd year in existence. In 1999, it opened 625 new stores. By 2007, it was opening 2,500 stores per year, a new coffee shop every four hours. One thing led to another.
 
@@ -308,21 +316,25 @@ On March 25, 1911, a fire broke out in a garment factory staffed with hundreds o
 
 Everybody was running, trying to get out, said Bessie Cohen, a survivor of the fire. Most workers crowded in the building’s windows, searching for the last gasps of oxygen. Crowds began congregating on the streets below what they saw next no one would ever forget. One passerby said something that looked like a burning bale of old clothes fell out of the building and hit the ground with a thud.
 
-Another commented that they must be throwing burning clothes out the window to try to stop the fire. With more thuds, it became apparent that factory workers were jumping to their death. First one, then a few more, then dozens. Thud dead, thud dead, thud dead, thud dead is how one witness described it.
+Another commented that they must be throwing burning clothes out the window to try to stop the fire. With more thuds, it became apparent that factory workers were jumping to their death.
 
-The doors and fire escapes of the factory had been locked shut to prevent workers from taking unscheduled breaks. When a freight elevator stopped working, jumping became the only way out of the inferno. There was this beautiful little girl, my friend Dora, Cohen recalled. I remember her face before she jumped. The whole tragedy was over in less than 30 minutes.
+First, one, then a few more, then dozens. Thud dead, thud dead, thud dead, thud dead is how one witness described it. The doors and fire escapes of the factory had been locked shut to prevent workers from taking unscheduled breaks. When a freight elevator stopped working, jumping became the only way out of the inferno.
 
-One hundred and forty-six workers died. Later that evening, a woman named Frances Perkins, who witnessed the fire from the street below, described to a reporter what she saw. They came down in twos and threes, jumping together in a kind of desperate hope, Perkins said. The life nets were broken.
+There was this beautiful little girl, my friend Dora, Cohen recalled. I remember her face before she jumped. The whole tragedy was over in less than 30 minutes. One hundred and forty-six workers died.
 
-The firemen kept shouting for them not to jump, but they had no choice. The flames were right behind them. Thirty years later, Perkins would be appointed by President Franklin Roosevelt as Secretary of Labor, the first woman member of a presidential cabinet. Appalled by what she witnessed at the Triangle Fire and how preventable the deaths could have been had the employees had better working conditions, as simple as fire escapes and unlocked doors, Perkins and countless others devoted much of the rest of their lives to fighting for workers' rights.
+Later that evening, a woman named Frances Perkins, who witnessed the fire from the street below, described to a reporter what she saw. They came down in twos and threes, jumping together in a kind of desperate hope, Perkins said. The life nets were broken. The firemen kept shouting for them not to jump, but they had no choice.
 
-We banded ourselves together, Perkins wrote, moved by a sense of stricken guilt to prevent this kind of disaster from ever happening again. She called it a never-to-be-forgotten reminder of why I had to spend my life fighting conditions that could permit such a tragedy. The Triangle Fire tragedy was in many ways the beginning of a workers' rights movement that transformed the 20th century. Looking back almost half a century after the fire, Perkins said that the New Deal, the 1930s economic policies to remake the U. S. economy with an eye toward workers' rights, began in spirit on March 25, 1911, the day of the Triangle Fire.
+The flames were right behind them. Thirty years later, Perkins would be appointed by President Franklin Roosevelt as Secretary of Labor, the first woman member of a presidential cabinet. Appalled by what she witnessed at the Triangle Fire and how preventable the deaths could have been had the employees had better working conditions, as simple as fire escapes and unlocked doors, Perkins and countless others devoted much of the rest of their lives to fighting for workers' rights. We banded ourselves together, Perkins wrote, moved by a sense of stricken guilt to prevent this kind of disaster from ever happening again.
 
-Stress, pain, discomfort, shock, and disgust. For all its tragic downsides, it’s also when the magic happens. Cars and airplanes are two of the biggest innovations of modern times. But there’s an interesting thing about their early years.
+She called it a never-to-be-forgotten reminder of why. I had to spend my life fighting conditions that could permit such a tragedy. The Triangle Fire tragedy was in many ways the beginning of a workers' rights movement that transformed the 20th century. Looking back almost half a century after the fire, Perkins said that the New Deal, the 1930s economic policies to remake the U.
 
-Few looked at early cars and said, oh, there’s a thing I can commute to work in. Few saw a plane and said, aha, I can use that to get to my next vacation. It took decades for people to see that potential. What they did say early on was, can we mount a machine gun on that?
+S. economy with an eye toward workers' rights, began in spirit on March 25, 1911, the day of the Triangle Fire. Stress, pain, discomfort, shock, and disgust. For all its tragic downsides, it’s also when the magic happens. Cars and airplanes are two of the biggest innovations of modern times.
 
-Can we drop bombs out of it? Adolphus Greeley was one of the first people outside the car industry to realize the horseless carriage could be useful. Greeley, a brigadier general, purchased three cars in 1899, almost a decade before Ford’s Model T for the U. S. Army to experiment with. In one of its first mentions of automobiles, the Los Angeles Times wrote about General Greeley’s purchase.
+But there’s an interesting thing about their early years. Few looked at early cars and said, oh, there’s a thing. I can commute to work in. Few saw a plane and said, aha, I can use that to get to my next vacation.
+
+It took decades for people to see that potential. What they did say early on was, can we mount a machine gun on that? Can we drop bombs out of it? Adolphus Greeley was one of the first people outside the car industry to realize the horseless carriage could be useful.
+
+Greeley, a brigadier general, purchased three cars in 1899, almost a decade before Ford’s Model T for the U. S. Army to experiment with. In one of its first mentions of automobiles, the Los Angeles Times wrote about General Greeley’s purchase.
 
 It can be used for the transportation of light artillery, such as machine guns. It can be utilized for the carrying of equipment, ammunition, and supplies, for taking the wounded to the rear, and in general, for most of the purposes to which the power of mules and horses
 
@@ -332,29 +344,33 @@ It can be used for the transportation of light artillery, such as machine guns. 
 
 is now applied. Nine years later, the Los Angeles Times did an interview with young brothers Wilbur and Orville Wright, who talked about the prospects of their new flying machine. The utility of the airship, they think, will lie entirely in its advantage as a reconnoitering agent in time of war. They have no desire to sell their invention to a private company, but desire to have the War Department at Washington take it up.
 
-The Wrights had reason to believe this was true. Their only real customer in their early years, the only group to show interest in airplanes, was the U. S. Army, which purchased the first flyer in 1908. The Army’s early interest in cars and planes wasn’t a fluke of lucky foresight. Go down the list of big innovations and militaries show up repeatedly.
+The Wrights had reason to believe this was true. Their only real customer in their early years, the only group to show interest in airplanes, was the U. S. Army, which purchased the first flyer in 1908.
 
-Radar, atomic energy, the internet, microprocessors, jets, rockets, antibiotics, interstate highways, helicopters, GPS, digital photography, microwave ovens, synthetic rubber. They all either came directly from or were heavily influenced by the military. Why? The military’s home to the greatest technical visionaries?
+The Army’s early interest in cars and planes wasn’t a fluke of lucky foresight. Go down the list of big innovations and militaries show up repeatedly. Radar, atomic energy, the internet, microprocessors, jets, rockets, antibiotics, interstate highways, helicopters, GPS, digital photography, microwave ovens, synthetic rubber. They all either came directly from or were heavily influenced by the military.
 
-The most talented engineers? Perhaps. But more importantly, they’re home to really big problems that need to be solved right now. Innovation is driven by incentives, which come in many forms. On one hand, there’s, if I don’t figure this out, I might get fired.
+Why? The military’s home to the greatest technical visionaries? The most talented engineers? Perhaps.
 
-That will get your brain in gear. Then there’s, if I figure this out, I might help people and make a lot of money. That will produce creative sparks. Then there’s what militaries have dealt with.
+But more importantly, they’re home to really big problems that need to be solved right now. Innovation is driven by incentives, which come in many forms. On one hand, there’s, if. I don’t figure this out, I might get fired.
 
-If we don’t figure this out right now, we’re all going to die and Adolf Hitler might take over the world. That will fuel the most incredible problem solving and innovation in the shortest period of time that the world has ever seen. Frederick Lewis Allen describes the burst of scientific progress that took place during World War II. What the government, through its Office of Scientific Research and Development and other agencies, was constantly saying during the war was, in effect, is this discovery or that one of any possible war value?
+That will get your brain in gear. Then there’s, if. I figure this out, I might help people and make a lot of money. That will produce creative sparks.
 
-If so, then develop it and put it to use and damn the expense. Militaries are engines of innovation because they occasionally deal with problems so important, so urgent, so vital, that money and manpower are removed as obstacles, and those involved collaborate in ways that are hard to emulate during calm times. You cannot compare the incentives of Silicon Valley coders trying to get you to click on ads to Manhattan Project physicists trying to end a war that threatened the country’s existence. You can’t even compare their capabilities.
+Then there’s what militaries have dealt with. If we don’t figure this out right now, we’re all going to die and Adolf Hitler might take over the world. That will fuel the most incredible problem solving and innovation in the shortest period of time that the world has ever seen. Frederick Lewis Allen describes the burst of scientific progress that took place during World War II.
 
-The same people with the same intelligence have wildly different potential under different circumstances, and the circumstances that tend to produce the biggest innovations are those that cause people to be worried, scared, and eager to move quickly because their future depends on it. Nothing can become truly resilient when everything goes right, Shopify founder Toby Luckey said. The excess energy released from overreaction to setbacks is what innovates, wrote Nassim Taleb. Stress focuses your attention in ways good times can’t.
+What the government, through its Office of Scientific Research and Development and other agencies, was constantly saying during the war was, in effect, is this discovery or that one of any possible war value? If so, then develop it and put it to use and damn the expense. Militaries are engines of innovation because they occasionally deal with problems so important, so urgent, so vital, that money and manpower are removed as obstacles, and those involved collaborate in ways that are hard to emulate during calm times.
 
-It kills procrastination and indecision, taking what you need to get done and shoving it so close to your face that you have no choice but to pursue it, right now and to the best of your ability. During World War II, an unnamed U. S. soldier was interviewed by a newspaper, asked what he was thinking during combat.
+You cannot compare the incentives of Silicon Valley coders trying to get you to click on ads to Manhattan Project physicists trying to end a war that threatened the country’s existence. You can’t even compare their capabilities. The same people with the same intelligence have wildly different potential under different circumstances, and the circumstances that tend to produce the biggest innovations are those that cause people to be worried, scared, and eager to move quickly because their future depends on it.
 
-The soldier replied, “I was hoping to remember to stay afraid because that is the best way to stay alive and not make careless mistakes.” It’s good advice and a smart insight that applies to many things. The 1930s were a disaster, one of the darkest periods in American history. Almost a quarter of Americans were out of work in 1932. The stock market fell 89 percent.
+Nothing can become truly resilient when everything goes right, Shopify founder Toby Luckey said. The excess energy released from overreaction to setbacks is what innovates, wrote Nassim Taleb. Stress focuses your attention in ways good times can’t. It kills procrastination and indecision, taking what you need to get done and shoving it so close to your face that you have no choice but to pursue it, right now and to the best of your ability.
 
-Those two economic stories dominate the decade’s attention, and they should. But there’s another story about the 1930s that rarely gets mentioned. It was, by far, the most productive and technologically progressive decade in U. S. history. The number of problems people solved and the ways they discovered how to build stuff more efficiently is a forgotten story of the 30s that helps explain a lot of why the rest of the 20th century was so prosperous.
+During World War II, an unnamed U. S. soldier was interviewed by a newspaper, asked what he was thinking during combat.
 
-Here are the numbers. Total factor productivity, that’s economic output relative to the number of hours people worked and the amount of money invested in the economy, hit levels not seen before or since. Economist Alex Field wrote that by 1941, the U. S. economy was producing 40 percent more output than it had in 1929, with virtually no increase in the total number of hours worked. Education simply became staggeringly more productive.
+The soldier replied, “I was hoping to remember to stay afraid because that is the best way to stay alive and not make careless mistakes.”. It’s good advice and a smart insight that applies to many things. The 1930s were a disaster, one of the darkest periods in American history. Almost a quarter of Americans were out of work in 1932.
 
-A couple of things happened during this period that are worth paying attention to, because
+The stock market fell 89 percent. Those two economic stories dominate the decade’s attention, and they should. But there’s another story about the 1930s that rarely gets mentioned. It was, by far, the most productive and technologically progressive decade in U.
+
+S. history. The number of problems people solved and the ways they discovered how to build stuff more efficiently is a forgotten story of the 30s that helps explain a lot of why the rest of the 20th century was so prosperous. Here are the numbers. Total factor productivity, that’s economic output relative to the number of hours people worked and the amount of money invested in the economy, hit levels not seen before or since.
+
+Economist Alex Field wrote that by 1941, the U. S. economy was producing 40 percent more output than it had in 1929, with virtually no increase in the total number of hours worked. Education simply became staggeringly more productive. A couple of things happened during this period that are worth paying attention to, because
 
 
 <a id="sec-005019"></a>
@@ -380,35 +396,37 @@ They marketed themselves as washing machine rentals. Factories of all kinds look
 
 It had increased by an amazing 41%. The trauma of the Great Depression did not slow down the American invention machine, economist Robert Gordon wrote. If anything, the pace of innovation picked up. Driving knowledge work in the 30s was the fact that more young people stayed in school because they had nothing else to do.
 
-High school graduation surged during the depression to levels not seen again until the 1960s. All of this, the better factories, the new ideas, the educated workers, became vital in 1941 when America entered the war and became the Allied manufacturing engine. The big question is whether the technical leap of the 1930s could have happened without the devastation of the depression. And I think the answer is no, at least not to the extent that it occurred.
+High school graduation surged during the depression to levels not seen again until the 1960s. All of this, the better factories, the new ideas, the educated workers, became vital in 1941 when America entered the war and became the Allied manufacturing engine. The big question is whether the technical leap of the 1930s could have happened without the devastation of the depression. And.
+
+I think the answer is no, at least not to the extent that it occurred.
 
 
 <a id="sec-005521"></a>
 ### ⏱️ [00:55:21 - 01:00:22]
 
-You could never push through something like the New Deal without an economy so wrecked that people were desperate to try anything to fix it. It’s doubtful that business owners and entrepreneurs would so urgently have found new efficiencies without the record threat of business failure. Managers looking at their employees and saying, go try something new, blow up the playbook, I don’t care, is not something that gets said when the economy is booming and the outlook is bright. Big fast changes happen only when they’re forced by necessity.
+You could never push through something like the New Deal without an economy so wrecked that people were desperate to try anything to fix it. It’s doubtful that business owners and entrepreneurs would so urgently have found new efficiencies without the record threat of business failure. Managers looking at their employees and saying, go try something new, blow up the playbook, I don’t care, is not something that gets said when the economy is booming and the outlook is bright.
 
-World War II began on horseback in 1939 and ended with nuclear fission in 1945. NASA was created in 1958, two weeks after the Soviets launched Sputnik and landed on the moon just 11 years later. Stuff like that rarely happens that fast without fear as a motivator. Same with commercial airplanes.
+Big fast changes happen only when they’re forced by necessity. World War II began on horseback in 1939 and ended with nuclear fission in 1945. NASA was created in 1958, two weeks after the Soviets launched Sputnik and landed on the moon just 11 years later. Stuff like that rarely happens that fast without fear as a motivator.
 
-Flying is as safe as it is because after every accident comes an intense learn and fix process that reduces the odds of similar future accidents. The same thing occurred in the 2000s when an oil shock in 2008 that made prices surge incentivized oil companies to innovate on drilling techniques, which brought American oil production to record highs. Would the innovation boom have occurred without the previous crisis? Almost certainly not.
+Same with commercial airplanes. Flying is as safe as it is because after every accident comes an intense learn and fix process that reduces the odds of similar future accidents. The same thing occurred in the 2000s when an oil shock in 2008 that made prices surge incentivized oil companies to innovate on drilling techniques, which brought American oil production to record highs. Would the innovation boom have occurred without the previous crisis?
 
-Same during COVID-19 when a generational risk and panic set off an astounding development and production of new vaccines. Vannevar Bush, who ran the U. S. Office of Scientific Research and Development during World War II, controversially suggested the medical advances that came about from the war, most notably the production and use of antibiotics, may have saved more lives than were lost during the war. It’s so difficult to imagine these upsides as a crisis is happening, but time and again throughout history, the upsides indeed occur.
+Almost certainly not. Same during COVID-19 when a generational risk and panic set off an astounding development and production of new vaccines. Vannevar Bush, who ran the U. S.
 
-There’s an obvious limit to stress-induced innovation. There’s a delicate balance between helpful stress and crippling disaster. The latter prevents innovation as resources are sapped and people turn their attention from getting out of a crisis to merely surviving it. And perhaps just as important is what happens when we have the opposite.
+Office of Scientific Research and Development during World War II, controversially suggested the medical advances that came about from the war, most notably the production and use of antibiotics, may have saved more lives than were lost during the war. It’s so difficult to imagine these upsides as a crisis is happening, but time and again throughout history, the upsides indeed occur. There’s an obvious limit to stress-induced innovation. There’s a delicate balance between helpful stress and crippling disaster.
 
-When everything is great, when wealth is flush, when the outlook is bright, when responsibility is low and threats appear gone, you get some of the worst, dumbest, least productive human behavior. President Richard Nixon once observed, the unhappiest people of the world are those in the international watering places like the south coast of France and Newport and Palm Springs and Palm Beach, going to parties every night, playing golf every afternoon, drinking too much, talking too much, thinking too little, retired, no purpose.
+The latter prevents innovation as resources are sapped and people turn their attention from getting out of a crisis to merely surviving it. And perhaps just as important is what happens when we have the opposite. When everything is great, when wealth is flush, when the outlook is bright, when responsibility is low and threats appear gone, you get some of the worst, dumbest, least productive human behavior. President Richard Nixon once observed, the unhappiest people of the world are those in the international watering places like the south coast of France and Newport and Palm Springs and Palm Beach, going to parties every night, playing golf every afternoon, drinking too much, talking too much, thinking too little, retired, no purpose.
 
-So while there are those that would totally disagree with this and say, gee, if I could just be a millionaire, that would be the most wonderful thing. If I could just not have to work every day, if I could just be out fishing or hunting or playing golf or traveling, that would be the most wonderful life in the world. They don’t know life because what makes life mean something is purpose, a goal, the battle, the struggle, even if you don’t win it.
+So while there are those that would totally disagree with this and say, gee, if. I could just be a millionaire, that would be the most wonderful thing. If. I could just not have to work every day, if.
 
-Entrepreneur Andrew Wilkinson echoed the same when he said, most successful people are just a walking anxiety disorder harnessed for productivity. Investor Patrick O’Shaughnessy writes, in my experience, many of the most talented people I’ve met couldn’t be described as happy.
+I could just be out fishing or hunting or playing golf or traveling, that would be the most wonderful life in the world. They don’t know life because what makes life mean something is purpose, a goal, the battle, the struggle, even if you don’t win it. Entrepreneur Andrew Wilkinson echoed the same when he said, most successful people are just a walking anxiety disorder harnessed for productivity. Investor Patrick O’Shaughnessy writes, in my experience, many of the most talented people.
 
-In fact, there are probably more that could be described as tortured. The fear, the pain, the struggle are motivators that positive feelings can never match. That’s a big takeaway from history, and it leads to a realization that will always be true. Be careful what you wish for.
+I’ve met couldn’t be described as happy. In fact, there are probably more that could be described as tortured. The fear, the pain, the struggle are motivators that positive feelings can never match. That’s a big takeaway from history, and it leads to a realization that will always be true.
 
-A carefree and stress-free life sounds wonderful, only until you recognize the motivation and progress it prevents. No one cheers for hardship, nor should they. But we should recognize that it’s the most potent fuel of problem-solving, serving as both the root of what we enjoy today and the seed of opportunity for what we’ll enjoy tomorrow. Next, a story of Dwight Eisenhower’s worst day and the timeless topic of miracles and disasters, overnight tragedies and long-term miracles.
+Be careful what you wish for. A carefree and stress-free life sounds wonderful, only until you recognize the motivation and progress it prevents. No one cheers for hardship, nor should they. But we should recognize that it’s the most potent fuel of problem-solving, serving as both the root of what we enjoy today and the seed of opportunity for what we’ll enjoy tomorrow.
 
-Good news comes from compounding, which always takes time, but bad news comes from a loss in confidence or a catastrophic error that can occur in a blink of an eye. An important fact that explains a lot of things is that good news takes time. time, but bad news tends to occur instantly. Warren Buffett says it takes 20 years to build a reputation and five minutes to destroy one. A lot of things work just like that.
+Next, a story of Dwight Eisenhower’s worst day and the timeless topic of miracles and disasters, overnight tragedies and long-term miracles. Good news comes from compounding, which always takes time, but bad news comes from a loss in confidence or a catastrophic error that can occur in a blink of an eye. An important fact that explains a lot of things is that good news takes time. time, but bad news tends to occur instantly. Warren Buffett says it takes 20 years to build a reputation and five minutes to destroy one.
 
-It’s a natural part of how the world works, driven by the fact that good news comes from compounding, which always takes time, but bad news comes from a loss in confidence or catastrophic
+A lot of things work just like that. It’s a natural part of how the world works, driven by the fact that good news comes from compounding, which always takes time, but bad news comes from a loss in confidence or catastrophic
 
 
 <a id="sec-010022"></a>
@@ -442,7 +460,9 @@ Things that thrived for decades can be ruined in minutes. There is no equivalent
 
 New ideas fight for attention. Business models fight incumbents. Skyscrapers fight gravity. There’s always a headwind, but everyone gets out of the way of decline.
 
-Some might try to step in and slow the fall, but it doesn’t attract masses of outsiders who rush in to push back in the other direction the way progress does. Tens of billions of individual steps have to go right in the correct order to create a human, but only one thing has to happen to cause its demise. After just five weeks, a human embryo has a brain, a beating heart, a pancreas, a liver, and a gallbladder. By birth, a baby has 100 billion neurons, 250 trillion
+Some might try to step in and slow the fall, but it doesn’t attract masses of outsiders who rush in to push back in the other direction the way progress does. Tens of billions of individual steps have to go right in the correct order to create a human, but only one thing has to happen to cause its demise. After just five weeks, a human embryo has a brain, a beating heart, a pancreas, a liver, and a gallbladder.
+
+By birth, a baby has 100 billion neurons, 250 trillion
 
 
 <a id="sec-010525"></a>
@@ -460,27 +480,27 @@ It’s not an easy thing to get used to, but it’ll always be with us. A couple
 
 Good news is the deaths that didn’t take place, the diseases you didn’t get, the wars that never happened, the tragedies avoided, and the injustices prevented. That’s hard for people to contextualize or even imagine, let alone measure. But bad news is visible. More than visible, it’s in your face.
 
-It’s the terrorist attack, the war, the car accident, the pandemic, the stock market crash, and the political battle you can’t look away from. It is so easy to discount how much progress is achievable. If I were to say, what are the odds the average American will be twice as rich 50 years from now? It sounds preposterous.
+It’s the terrorist attack, the war, the car accident, the pandemic, the stock market crash, and the political battle you can’t look away from. It is so easy to discount how much progress is achievable. If. I were to say, what are the odds the average American will be twice as rich 50 years from now?
 
-The odds seem very low, twice as rich as they are today, doubling what we already have. It seems too ambitious. But then if I said, what are the odds we can achieve 1.4% average annual growth for the next 50 years? I almost sound like a pessimist. 1%?
+It sounds preposterous. The odds seem very low, twice as rich as they are today, doubling what we already have. It seems too ambitious. But then if.
 
-That’s it. But those numbers, of course, are the same. It’s always been like that, and always will be. On a related topic, let me share a story about nuclear bombs to show how easy it is to discount risks, tiny and magnificent, when little things compound into extraordinary things.
+I said, what are the odds we can achieve 1.4% average annual growth for the next 50 years? I almost sound like a pessimist. 1%? That’s it. But those numbers, of course, are the same.
 
-A common theme in history is that people assume the biggest companies, nations, and innovations pose the biggest threats and create the biggest opportunities. But that’s usually not how it works. A 2010 Yale study showed that one of the leading causes of the increase in obesity is not necessarily people eating larger meals. It’s eating more small snacks throughout the day.
+It’s always been like that, and always will be. On a related topic, let me share a story about nuclear bombs to show how easy it is to discount risks, tiny and magnificent, when little things compound into extraordinary things. A common theme in history is that people assume the biggest companies, nations, and innovations pose the biggest threats and create the biggest opportunities. But that’s usually not how it works.
 
-It’s a good example of how lots of things work. Most catastrophes come from a series of tiny risks, each of which is easy to ignore, that multiply and compound into something huge. The opposite is true. Most amazing things happen when something tiny and insignificant compounds into something extraordinary.
+A 2010 Yale study showed that one of the leading causes of the increase in obesity is not necessarily people eating larger meals. It’s eating more small snacks throughout the day. It’s a good example of how lots of things work. Most catastrophes come from a series of tiny risks, each of which is easy to ignore, that multiply and compound into something huge.
 
-The Soviets once built a nuclear bomb 1,500 times stronger than the one dropped on Hiroshima. Called Tsar Bomba, king of bombs, it was ten times more powerful than every conventional bomb dropped during World War II combined. When tested in Russia, its fireball was seen 600 miles away. Its mushroom cloud went 42 miles into the sky.
+The opposite is true. Most amazing things happen when something tiny and insignificant compounds into something extraordinary. The Soviets once built a nuclear bomb 1,500 times stronger than the one dropped on Hiroshima. Called Tsar Bomba, king of bombs, it was ten times more powerful than every conventional bomb dropped during World War II combined.
 
-Historian John Lewis Gaddis wrote, the island over which the explosion took place was literally leveled, not only of snow but also of rocks, so that it looked like an immense skating rink. One estimate calculated, the resulting firestorm would have engulfed in an area the size of the state of Maryland. The first nuclear bomb was developed to end World War II. Within a decade, we had enough bombs to end the world.
+When tested in Russia, its fireball was seen 600 miles away. Its mushroom cloud went 42 miles into the sky. Historian John Lewis Gaddis wrote, the island over which the explosion took place was literally leveled, not only of snow but also of rocks, so that it looked like an immense skating rink. One estimate calculated, the resulting firestorm would have engulfed in an area the size of the state of Maryland.
 
-All of it. But there was a weird silver lining to how deadly these bombs were. Countries were unlikely to use them in battle because they raised the stakes so high. Wipe out an enemy’s capital city and they’ll do the same to you 60 seconds later, so why bother?
+The first nuclear bomb was developed to end World War II. Within a decade, we had enough bombs to end the world. All of it. But there was a weird silver lining to how deadly these bombs were.
 
-John F. Kennedy said neither country wanted a war that would leave not one Rome intact, but two Carthages destroyed. By 1960, we got around this predicament by going the other way. We built smaller, less deadly nuclear bombs.
+Countries were unlikely to use them in battle because they raised the stakes so high. Wipe out an enemy’s capital city and they’ll do the same to you 60 seconds later, so why bother? John F. Kennedy said neither country wanted a war that would leave not one Rome intact, but two Carthages destroyed.
 
-One, called Davy Crockett, was 650 times less powerful than the bomb dropped on Hiroshima and could be fired from the back of a jeep. We built nuclear land mines that could fit in a backpack with a warhead the size of a shoebox. These tiny nukes felt more responsible, less risky. We could use them without ending the world.
+By 1960, we got around this predicament by going the other way. We built smaller, less deadly nuclear bombs. One, called Davy Crockett, was 650 times less powerful than the bomb dropped on Hiroshima and could be fired from the back of a jeep. We built nuclear land mines that could fit in a backpack with a warhead the size of a shoebox.
 
-But they backfired. Small nuclear
+These tiny nukes felt more responsible, less risky. We could use them without ending the world. But they backfired. Small nuclear
 
 
 <a id="sec-011026"></a>
@@ -504,17 +524,19 @@ It wasn’t until they happened at the same time and fed off one another that th
 
 When they stop spending, businesses fail. When businesses fail, banks fail. When banks fail, people lose their savings, and so on endlessly. Same thing with COVID-19.
 
-Its initial impact was catastrophic, seemingly out of the blue. But we didn’t get hit with a single one in billions risk. What happened, and I can say this only with hindsight, was a bunch of small risks colliding and multiplying at once. A new virus transferred to humans, something that has happened forever, and those humans interacted with other people, of course.
+Its initial impact was catastrophic, seemingly out of the blue. But we didn’t get hit with a single one in billions risk. What happened, and. I can say this only with hindsight, was a bunch of small risks colliding and multiplying at once.
 
-It was a mystery for a while, understandable, and then bad news was likely suppressed, bad but common. Other countries thought it would be contained, standard denial, and didn’t act fast enough, bureaucracy. We weren’t prepared, over optimism, and could respond only with blunt force lockdowns, panic, do what you got to do. None of those on their own are surprising, but combined, they turned into a disaster.
+A new virus transferred to humans, something that has happened forever, and those humans interacted with other people, of course. It was a mystery for a while, understandable, and then bad news was likely suppressed, bad but common. Other countries thought it would be contained, standard denial, and didn’t act fast enough, bureaucracy. We weren’t prepared, over optimism, and could respond only with blunt force lockdowns, panic, do what you got to do.
 
-The Tenerife Airport disaster in 1977 is the deadliest aircraft accident in history. The error was stunning. One plane took off while another was still on the runway, and the two Boeing 747s collided, killing 583 people on a runway on the Spanish island. In the aftermath, authorities wondered how such an egregious catastrophe could occur.
+None of those on their own are surprising, but combined, they turned into a disaster. The Tenerife Airport disaster in 1977 is the deadliest aircraft accident in history. The error was stunning. One plane took off while another was still on the runway, and the two Boeing 747s collided, killing 583 people on a runway on the Spanish island.
 
-One post-mortem study explained exactly how. 11 separate coincidences and mistakes, most of them minor, had to fall precisely into place for the crash to occur. Lots of tiny mistakes added up to a huge one. It’s good to always assume the world will break about once per decade because, historically, it has. The breakages feel like low-probability events, so it’s common to think they won’t keep happening.
+In the aftermath, authorities wondered how such an egregious catastrophe could occur. One post-mortem study explained exactly how. 11 separate coincidences and mistakes, most of them minor, had to fall precisely into place for the crash to occur. Lots of tiny mistakes added up to a huge one. It’s good to always assume the world will break about once per decade because, historically, it has.
 
-But they do, again and again, because they’re actually just smaller, high-probability events compounding off one another. That isn’t intuitive, so we’ll discount big risks like we always have. And, of course, the same thing happens in the other direction. The most astounding force in the universe is obvious.
+The breakages feel like low-probability events, so it’s common to think they won’t keep happening. But they do, again and again, because they’re actually just smaller, high-probability events compounding off one another. That isn’t intuitive, so we’ll discount big risks like we always have. And, of course, the same thing happens in the other direction.
 
-It’s evolution, the thing that developed single-cell organisms into humans who can read this book on an iPad with a tera- byte of storage. The thing that’s responsible for 2020 vision and flying birds and immune systems. Nothing else in science can blow your mind more than what evolution has accomplished. Biologist Leslie Orgel used to say evolution is cleverer than you are, because whenever a critic says evolution could never do that, they usually just lacked imagination. It’s also easy to underestimate because of basic math.
+The most astounding force in the universe is obvious. It’s evolution, the thing that developed single-cell organisms into humans who can read this book on an iPad with a tera- byte of storage. The thing that’s responsible for 2020 vision and flying birds and immune systems. Nothing else in science can blow your mind more than what evolution has accomplished.
+
+Biologist Leslie Orgel used to say evolution is cleverer than you are, because whenever a critic says evolution could never do that, they usually just lacked imagination. It’s also easy to underestimate because of basic math.
 
 
 <a id="sec-011527"></a>
@@ -526,9 +548,9 @@ The time, not the little changes, is what moves the needle. Take miniscule chang
 
 It’s not intuitive, but it’s so powerful. The greatest shortcoming of the human race is our inability to understand the exponential function, physicist Albert Bartlett used to say, a lot of things work like that. An area where we commonly see this shortcoming in action is investing. Investor Howard Marks once talked about an investor whose annual results were never ranked in the top quartile, but over a 14-year period he was in the top 4% of all investors.
 
-If he keeps those mediocre returns up for another 10 years, he may be in the top 1% of his peers, one of the greatest of his generation, despite being unremarkable in any given year. So much focus in investing is on what people can do right now, this year, maybe next year. What are the best returns I can earn? Seems like such an intuitive question to ask.
+If he keeps those mediocre returns up for another 10 years, he may be in the top 1% of his peers, one of the greatest of his generation, despite being unremarkable in any given year. So much focus in investing is on what people can do right now, this year, maybe next year. What are the best returns. I can earn?
 
-But like evolution, that’s not where the magic happens. If you understand the math behind compounding, you realize the most important question is not, how can I earn the highest returns? It’s, what are the best returns I can sustain for the longest period of time? Little changes compounded for a long time create extraordinary changes.
+Seems like such an intuitive question to ask. But like evolution, that’s not where the magic happens. If you understand the math behind compounding, you realize the most important question is not, how can. I earn the highest returns?
 
-Same as ever, next we’ll look at the dangers of overconfidence.
+It’s, what are the best returns. I can sustain for the longest period of time? Little changes compounded for a long time create extraordinary changes. Same as ever, next we’ll look at the dangers of overconfidence.
 

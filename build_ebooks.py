@@ -3428,40 +3428,18 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
 # 4. PARSER & ENHANCER LOGIC
 # ==========================================
 def enhance_transcript_text(raw_text: str) -> list:
-    """Cleans punctuation and groups into readable paragraphs."""
+    """Cleans punctuation, restores missing sentence boundaries, and groups into readable paragraphs."""
     text = raw_text.strip()
     if not text:
         return []
 
-    text = re.sub(r'\s+([,.;:?!])', r'\1', text)
-
-    is_chinese = bool(re.search(r'[\u4e00-\u9fff]', text))
-    if is_chinese:
-        text = re.sub(r'([\u4e00-\u9fff]),', r'\1，', text)
-        text = re.sub(r',([\u4e00-\u9fff])', r'，\1', text)
-        text = re.sub(r'([\u4e00-\u9fff])\.', r'\1。', text)
-        text = re.sub(r'([\u4e00-\u9fff])\?', r'\1？', text)
-        text = re.sub(r'([\u4e00-\u9fff])!', r'\1！', text)
-        text = re.sub(r'([\u4e00-\u9fff]):', r'\1：', text)
-        text = re.sub(r'([\u4e00-\u9fff]);', r'\1；', text)
-        text = re.sub(r'([\u4e00-\u9fff])\s+([\u4e00-\u9fff])', r'\1\2', text)
-        text = re.sub(r'(說|道|問|答|喊)[，：]\s*([「"“]?)([^。！？，\n]+[。！？])', r'\1：「\3」', text)
-        text = re.sub(r'([\u4e00-\u9fff])([a-zA-Z0-9])', r'\1 \2', text)
-        text = re.sub(r'([a-zA-Z0-9])([\u4e00-\u9fff])', r'\1 \2', text)
-
-    text = re.sub(r'([A-Z]{2,}(?:[\s,:\-–—]+[A-Z]{2,})+)\s+([A-Z][a-z]+|\bI\s+[a-z]+)', r'\1.\n\n\2', text)
-    text = re.sub(r'([.?!])([A-Z])', r'\1 \2', text)
-    text = re.sub(r'\b(said|asked|told him|told her|replied|yelled|whispered|screamed),\s+([A-Z][^\.\?!]+[\.\?!])', r'\1, “\2”', text)
-    text = re.sub(r'(?<!<[^>])"([^"\n]+)"', r'“\1”', text)
-    text = re.sub(r"([A-Za-z])'([A-Za-z])", r'\1’\2', text)
-    text = re.sub(r'\.{3,}', '…', text)
-    text = re.sub(r'\s+--\s+|\s+--|--\s+', ' — ', text)
-
+    # 1. Protect abbreviations & numbers
     protected = {}
     abbrs = [
         r'Mr\.', r'Mrs\.', r'Ms\.', r'Dr\.', r'Prof\.', r'Sr\.', r'Jr\.',
         r'vs\.', r'etc\.', r'i\.e\.', r'e\.g\.', r'vol\.', r'no\.',
-        r'J\.\s*C\.', r'B\.\s*F\.', r'U\.\s*S\.', r'U\.\s*K\.', r'a\.m\.', r'p\.m\.'
+        r'J\.\s*C\.', r'B\.\s*F\.', r'U\.\s*S\.', r'U\.\s*K\.', r'a\.m\.', r'p\.m\.',
+        r'St\.', r'Ave\.', r'Co\.', r'Corp\.', r'Inc\.', r'Ltd\.'
     ]
     for idx, abbr in enumerate(abbrs):
         pattern = re.compile(abbr, re.IGNORECASE)
@@ -3476,6 +3454,67 @@ def enhance_transcript_text(raw_text: str) -> list:
         return tok
     text = re.sub(r'\b\d+\.\d+\b', num_replace, text)
 
+    # 2. Chinese Punctuation & Spacing
+    is_chinese = bool(re.search(r'[\u4e00-\u9fff]', text))
+    if is_chinese:
+        text = re.sub(r'([\u4e00-\u9fff]),', r'\1，', text)
+        text = re.sub(r',([\u4e00-\u9fff])', r'，\1', text)
+        text = re.sub(r'([\u4e00-\u9fff])\.', r'\1。', text)
+        text = re.sub(r'([\u4e00-\u9fff])\?', r'\1？', text)
+        text = re.sub(r'([\u4e00-\u9fff])!', r'\1！', text)
+        text = re.sub(r'([\u4e00-\u9fff]):', r'\1：', text)
+        text = re.sub(r'([\u4e00-\u9fff]);', r'\1；', text)
+        # Spaces between Chinese segments indicate speech pauses: convert to comma if unpunctuated
+        text = re.sub(r'([\u4e00-\u9fff])\s+([\u4e00-\u9fff])', r'\1，\2', text)
+        # Conjunction pauses: add comma before transition words if not preceded by punctuation
+        text = re.sub(r'([^，。！？：；\s])(但是|然而|因此|所以|例如|不過|同時|此外)', r'\1，\2', text)
+        text = re.sub(r'(說|道|問|答|喊)[，：]\s*([「"“]?)([^。！？，\n]+[。！？])', r'\1：「\3」', text)
+        text = re.sub(r'([\u4e00-\u9fff])([a-zA-Z0-9])', r'\1 \2', text)
+        text = re.sub(r'([a-zA-Z0-9])([\u4e00-\u9fff])', r'\1 \2', text)
+
+    # 3. English Sentence Boundary Restoration (Missing periods between segments)
+    sentence_starters = (
+        r"I|He|She|It|They|We|You|This|That|These|Those|There|Here|"
+        r"My|His|Her|Our|Their|Your|"
+        r"However|Therefore|Moreover|Meanwhile|Furthermore|Instead|Nonetheless|Consequently|"
+        r"Suddenly|Finally|Naturally|Similarly|Indeed|Perhaps|Obviously|Clearly|Unfortunately|Fortunately|"
+        r"Now|Then|So|Thus|"
+        r"In|On|At|By|From|With|After|Before|During|When|While|Where|Why|How|What|Who|Which|"
+        r"If|Because|Although|Even|As|Since|"
+        r"And|But|For|"
+        r"Chapter|Rule|Part|Section|Lesson"
+    )
+    # Insert period where a sentence ends and a capitalized starter begins without punctuation
+    starter_pattern = re.compile(rf'([a-z0-9\)\”\’])\s+({sentence_starters})\b')
+    text = starter_pattern.sub(r'\1. \2', text)
+
+    # Fix speech reporting tags
+    text = re.sub(r'([a-z0-9])\s+(Cried|Said|Yelled|Asked|Replied)\b', r'\1. \2', text)
+
+    # Add commas after introductory transition adverbs/phrases if missing
+    intro_words = (
+        r"However|Therefore|Moreover|Meanwhile|Furthermore|In fact|For example|"
+        r"In other words|In contrast|Of course|First|Second|Third|Finally|Suddenly|"
+        r"Naturally|Similarly|Indeed|Perhaps|Obviously|Clearly|Unfortunately|Fortunately"
+    )
+    text = re.sub(rf'(?<=[\.\?!…\n]\s)({intro_words})\s+(?=[a-z])', r'\1, ', text)
+
+    # Clean double punctuation, spaces, quotes
+    text = re.sub(r'([A-Z]{2,}(?:[\s,:\-–—]+[A-Z]{2,})+)\s+([A-Z][a-z]+|\bI\s+[a-z]+)', r'\1.\n\n\2', text)
+    text = re.sub(r'\s+([,.;:?!…])', r'\1', text)
+    text = re.sub(r'(?<!\.)\.\.(?!\.)', '.', text)
+    text = re.sub(r'([.?!])([A-Z])', r'\1 \2', text)
+    text = re.sub(r'\b(said|asked|told him|told her|replied|yelled|whispered|screamed),\s+([A-Z][^\.\?!]+[\.\?!])', r'\1, “\2”', text)
+    text = re.sub(r'(?<!<[^>])"([^"\n]+)"', r'“\1”', text)
+    text = re.sub(r"([A-Za-z])'([A-Za-z])", r'\1’\2', text)
+    text = re.sub(r'\.{3,}', '…', text)
+    text = re.sub(r'\s+--\s+|\s+--|--\s+', ' — ', text)
+
+    # Restore protected
+    for tok, orig in protected.items():
+        text = text.replace(tok, orig)
+
+    # 4. Split sentences
     raw_sents = re.split(r'(?<=[.?!…])\s+(?=[A-Z“「])|(?<=[。！？…])(?=[^\s。！？…])', text)
 
     sentences = []
@@ -3483,10 +3522,9 @@ def enhance_transcript_text(raw_text: str) -> list:
         s = s.strip()
         if not s:
             continue
-        for tok, orig in protected.items():
-            s = s.replace(tok, orig)
         sentences.append(s)
 
+    # 5. Group into readable paragraphs (3~5 sentences or natural transition break)
     paragraphs = []
     current_p = []
 
@@ -3525,7 +3563,7 @@ def enhance_transcript_text(raw_text: str) -> list:
             should_break = True
         elif len(current_p) >= 4:
             should_break = True
-        elif sum(len(s.split()) for s in current_p) >= 85:
+        elif sum(len(s.split()) for s in current_p) >= 80:
             should_break = True
 
         if should_break and current_p:

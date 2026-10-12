@@ -106,61 +106,65 @@
 <a id="sec-000000"></a>
 ### ⏱️ [00:00:00 - 00:05:00]
 
-Harper Audio presents The Art of Thinking Clearly by Rolf Dobelli, translated by Nicki Griffin, read by Eric Conger. In the fall of 2004, a European media mogul invited me to Munich to partake in what was described as an informal exchange of intellectuals. I had never considered myself an intellectual, I had studied business, which made me quite the opposite, really. But I had also written two literary novels, and that, I guessed, must have qualified me for such an invitation.
+Harper Audio presents The Art of Thinking. Clearly, by Rolf Dobelli, translated by Nicki Griffin, read by Eric Conger. In the fall of 2004, a European media mogul invited me to Munich to partake in what was described as an informal exchange of intellectuals. I had never considered myself an intellectual, I had studied business, which made me quite the opposite, really.
 
-Nassim Nicholas Taleb was sitting at the table. At that time, he was an obscure Wall Street trader with a penchant for philosophy. I was introduced to him as an authority on the English and Scottish Enlightenment, particularly the philosophy of David Hume. Obviously, I’d been mixed up with someone else.
+But. I had also written two literary novels, and that, I guessed, must have qualified me for such an invitation. Nassim Nicholas Taleb was sitting at the table. At that time, he was an obscure Wall Street trader with a penchant for philosophy.
 
-Stunned, I nevertheless flashed a hesitant smile around the room and let the resulting silence act as proof of my philosophical prowess. Right away, Taleb pulled over a free chair and patted the seat. I sat down. After a cursory exchange about Hume, the conversation mercifully shifted to Wall Street.
+I was introduced to him as an authority on the English and Scottish Enlightenment, particularly the philosophy of David Hume. Obviously, I’d been mixed up with someone else. Stunned, I nevertheless flashed a hesitant smile around the room and let the resulting silence act as proof of my philosophical prowess. Right away, Taleb pulled over a free chair and patted the seat.
 
-We marveled at the systematic errors in decision-making CEOs and business leaders make, ourselves included. We chatted about the fact that unexpected events seem much more likely in retrospect. We chuckled about why it is that investors cannot part with their shares when they drop below acquisition price. Following the event, Taleb sent me pages from his manuscript, a gem of a book, which I commented on and partly criticized.
+I sat down. After a cursory exchange about Hume, the conversation mercifully shifted to Wall Street. We marveled at the systematic errors in decision-making CEOs and business leaders make, ourselves included. We chatted about the fact that unexpected events seem much more likely in retrospect.
 
-These went on to form part of his international bestseller, The Black Swan. The book catapulted Taleb into the intellectual All-Star League.
+We chuckled about why it is that investors cannot part with their shares when they drop below acquisition price. Following the event, Taleb sent me pages from his manuscript, a gem of a book, which. I commented on and partly criticized. These went on to form part of his international bestseller, The Black Swan.
 
-Meanwhile, my appetite whetted, I began to devour books and articles written by cognitive and social scientists on topics such as heuristics and biases, and I also increased my email conversations with a large number of researchers and started to visit their labs. By 2009, I realized that, alongside my job as a novelist, I had become a student of social and cognitive psychology. The failure to think clearly, or what experts call a cognitive error, is a systematic deviation from logic, from optimal, rational, reasonable thought and behavior.
+The book catapulted Taleb into the intellectual All-Star League. Meanwhile, my appetite whetted, I began to devour books and articles written by cognitive and social scientists on topics such as heuristics and biases, and. I also increased my email conversations with a large number of researchers and started to visit their labs. By 2009, I realized that, alongside my job as a novelist, I had become a student of social and cognitive psychology.
 
-By systematic, I mean that these are not just occasional errors in judgment, but rather routine mistakes, barriers to logic we stumble over time again and again, repeating patterns through generations and through the centuries. For example, it’s much more common that we overestimate our knowledge than we underestimate it. Similarly, the danger of losing something stimulates us much more than the prospect of making a similar gain. In the presence of other people, we tend to adjust our behavior to theirs, not the opposite.
+The failure to think clearly, or what experts call a cognitive error, is a systematic deviation from logic, from optimal, rational, reasonable thought and behavior. By systematic, I mean that these are not just occasional errors in judgment, but rather routine mistakes, barriers to logic we stumble over time again and again, repeating patterns through generations and through the centuries.
 
-Anecdotes make us overlook the statistical distribution base rate behind it, not the other way around. The errors we make follow the same pattern over and over again, piling up in one specific, predictable corner like dirty laundry, while the other corner remains relatively clean. That is, they pile up in the overconfidence corner, not the underconfidence corner. To avoid frivolous gambles with the wealth I had accumulated over the course of my literary career, I began to put together a list of these systematic cognitive errors, complete with notes and personal anecdotes, with no intention of ever publishing them.
+For example, it’s much more common that we overestimate our knowledge than we underestimate it. Similarly, the danger of losing something stimulates us much more than the prospect of making a similar gain. In the presence of other people, we tend to adjust our behavior to theirs, not the opposite. Anecdotes make us overlook the statistical distribution base rate behind it, not the other way around.
+
+The errors we make follow the same pattern over and over again, piling up in one specific, predictable corner like dirty laundry, while the other corner remains relatively clean. That is, they pile up in the overconfidence corner, not the underconfidence corner. To avoid frivolous gambles with the wealth. I had accumulated over the course of my literary career, I began to put together a list of these systematic cognitive errors, complete with notes and personal anecdotes, with no intention of ever publishing them.
 
 The list was originally designed to be used by me alone. Some of these thinking errors have been known for centuries, others have been discovered in the last few years. Some come with two or three names attached to them. I chose the terms most widely used.
 
-Soon I realized that such a compilation of pitfalls was not only useful for making investing decisions, but also for business and personal matters. Once I had prepared the list, I felt calmer and more level-headed. I began to recognize my own errors sooner and was able to change course before any lasting damage was done. And for the first time in my life, I was able to recognize when others might be in the thrall of these very same systematic errors.
+Soon. I realized that such a compilation of pitfalls was not only useful for making investing decisions, but also for business and personal matters. Once. I had prepared the list, I felt calmer and more level-headed.
 
-Armed with my list, I could now resist their pull, and perhaps even gain an upper hand
+I began to recognize my own errors sooner and was able to change course before any lasting damage was done. And for the first time in my life, I was able to recognize when others might be in the thrall of these very same systematic errors. Armed with my list, I could now resist their pull, and perhaps even gain an upper hand
 
 
 <a id="sec-000500"></a>
 ### ⏱️ [00:05:00 - 00:10:02]
 
-in my dealings. I now had categories, terms, and explanations with which to ward off the specter of irrationality. Since Benjamin Franklin’s kite-flying days, thunder and lightning have not grown less frequent, powerful, or loud, but they have become less worrisome. This is exactly how I feel about my own irrationality now.
+in my dealings. I now had categories, terms, and explanations with which to ward off the specter of irrationality. Since Benjamin Franklin’s kite-flying days, thunder and lightning have not grown less frequent, powerful, or loud, but they have become less worrisome. This is exactly how.
 
-Friends soon learned of my compendium and showed interest. This led to a weekly newspaper column in Germany, Holland, and Switzerland, countless presentations, mostly to medical doctors, investors, board members, CEOs, and government officials, and eventually to this book. Please keep in mind three things as you peruse these pages.
+I feel about my own irrationality now. Friends soon learned of my compendium and showed interest. This led to a weekly newspaper column in Germany, Holland, and Switzerland, countless presentations, mostly to medical doctors, investors, board members, CEOs, and government officials, and eventually to this book. Please keep in mind three things as you peruse these pages.
 
 First, the list of fallacies in this book is not complete. Undoubtedly, new ones will be discovered.
 
 Second, the majority of these errors are related to one another. This should come as no surprise. After all, brain regions are linked. Neural projections travel from region to region in the brain.
 
-No area functions independently. Third, I am primarily a novelist and an entrepreneur, not a social scientist. I don’t have my own lab where I can conduct experiments on cognitive errors. Or do I have a staff of researchers I can dispatch to scout for behavioral errors?
+No area functions independently. Third, I am primarily a novelist and an entrepreneur, not a social scientist. I don’t have my own lab where. I can conduct experiments on cognitive errors.
 
-In writing this book, I think of myself as a translator whose job is to interpret and synthesize what I’ve read and learned, to put it in terms others can understand. My great respect goes to the researchers who, in recent decades, have uncovered these behavioral and cognitive errors. The success of this book is fundamentally a tribute to their research. I am enormously indebted to them.
+Or do. I have a staff of researchers. I can dispatch to scout for behavioral errors? In writing this book, I think of myself as a translator whose job is to interpret and synthesize what.
+
+I’ve read and learned, to put it in terms others can understand. My great respect goes to the researchers who, in recent decades, have uncovered these behavioral and cognitive errors. The success of this book is fundamentally a tribute to their research. I am enormously indebted to them.
 
 This is not a how-to book. You won’t find seven steps to an error-free life here. Cognitive errors are far too ingrained to rid ourselves of them completely. Silencing them would require superhuman willpower.
 
 But that isn’t even a worthy goal. Not all cognitive errors are toxic, and some are even necessary for leading a good life. Although this book may not hold the key to happiness, at the very least it acts as insurance against too much self-induced unhappiness. Indeed, my wish is quite simple.
 
-If we could learn to recognize and evade the biggest errors in thinking in our private lives, at work, or in government, we might experience a leap in prosperity. We need no extra cunning, no new ideas, no unnecessary gadgets, no frantic hyperactivity. All we need is less irrationality. 1. Why You Should Visit Cemeteries Survivorship bias.
+If we could learn to recognize and evade the biggest errors in thinking in our private lives, at work, or in government, we might experience a leap in prosperity. We need no extra cunning, no new ideas, no unnecessary gadgets, no frantic hyperactivity. All we need is less irrationality. 1. Why.
 
-No matter where Rick looks, he sees rock stars. They appear on television, on the front pages of magazines, in concert programs, and at online fan sites. Their songs are unavoidable, in the mall, on his playlist, in the gym. The rock stars are everywhere.
+You Should Visit Cemeteries Survivorship bias. No matter where Rick looks, he sees rock stars. They appear on television, on the front pages of magazines, in concert programs, and at online fan sites. Their songs are unavoidable, in the mall, on his playlist, in the gym.
 
-There are lots of them. And they are successful. Motivated by the stories of countless guitar heroes, Rick starts a band. Will he make it big?
+The rock stars are everywhere. There are lots of them. And they are successful. Motivated by the stories of countless guitar heroes, Rick starts a band.
 
-The probability lies a fraction above zero. Like so many others, he will most likely end up in the graveyard of failed musicians. This burial ground houses 10,000 times more musicians than the stage does, but no journalist is interested in failures, with the exception of fallen superstars. This makes the cemetery invisible to outsiders.
+Will he make it big? The probability lies a fraction above zero. Like so many others, he will most likely end up in the graveyard of failed musicians. This burial ground houses 10,000 times more musicians than the stage does, but no journalist is interested in failures, with the exception of fallen superstars.
 
-In daily life, because triumph is made more visible than failure, you systematically overestimate your chances of succeeding. As an outsider, you, like Rick, succumb to an illusion, and you mistake how minuscule the probability of success really is. Rick, like so many others, is a victim of survivorship bias. Behind every popular author, you can find 100 other writers whose books will never sell.
+This makes the cemetery invisible to outsiders. In daily life, because triumph is made more visible than failure, you systematically overestimate your chances of succeeding. As an outsider, you, like Rick, succumb to an illusion, and you mistake how minuscule the probability of success really is. Rick, like so many others, is a victim of survivorship bias.
 
-Behind them are another 100 who haven’t found publishers. Behind them are yet another 100 whose unfinished manuscripts gather dust and drawers. And behind each of these are 100 people who dream of, one day, writing a book. You, however, hear of only the successful authors, these days many of them self-published, and fail to recognize how unlikely literary success is.
+Behind every popular author, you can find 100 other writers whose books will never sell. Behind them are another 100 who haven’t found publishers. Behind them are yet another 100 whose unfinished manuscripts gather dust and drawers. And behind each of these are 100 people who dream of, one day, writing a book.
 
-The same goes for photographers, entrepreneurs, artists, athletes, architects, Nobel Prize winners, television presenters, and beauty queens. The media is not interested in digging around in the graveyards of the unsuccessful, nor
+You, however, hear of only the successful authors, these days many of them self-published, and fail to recognize how unlikely literary success is. The same goes for photographers, entrepreneurs, artists, athletes, architects, Nobel Prize winners, television presenters, and beauty queens. The media is not interested in digging around in the graveyards of the unsuccessful, nor
 
 
 <a id="sec-001002"></a>
@@ -196,9 +200,9 @@ Whenever we confuse selection factors with results, we fall prey to what Taleb c
 
 For example, Harvard has the reputation of being a top university. Many highly successful people have studied there. Does this mean that Harvard is a good school? We don’t know.
 
-Perhaps the school is terrible, and it simply recruits the brightest students around. I experienced this phenomenon at the University of St. Gallen in Switzerland. It’s said to be one of the top ten business schools in Europe, but the lessons I received, albeit twenty-five years ago, were mediocre.
+Perhaps, the school is terrible, and it simply recruits the brightest students around. I experienced this phenomenon at the University of St. Gallen in Switzerland. It’s said to be one of the top ten business schools in Europe, but the lessons.
 
-Nevertheless, many of its graduates were successful. The reason behind this is unknown.
+I received, albeit twenty-five years ago, were mediocre. Nevertheless, many of its graduates were successful. The reason behind this is unknown.
 
 
 <a id="sec-001505"></a>
@@ -208,29 +212,29 @@ Perhaps it was due to the climate in the narrow valley, or even the cafeteria fo
 
 Many prospective students fall for this approach. I’m not implying that the schools doctor the statistics, but still their statements must not be swallowed wholesale. Why? Because those who pursue an MBA are different from those who do not.
 
-The income gap between both groups stems from a multitude of reasons that have nothing to do with the MBA degree itself. Once again, we see the swimmer’s body illusion at work, the factor for selection confused with the result. So if you’re considering further study, do it for reasons other than a bigger paycheck. When I ask people about the secret of their contentment, I often hear answers like, you have to see the glass half full rather than half empty.
+The income gap between both groups stems from a multitude of reasons that have nothing to do with the MBA degree itself. Once again, we see the swimmer’s body illusion at work, the factor for selection confused with the result. So if you’re considering further study, do it for reasons other than a bigger paycheck. When.
 
-It’s as if these individuals do not realize that they were born happy and now tend to see the positive in everything. They don’t realize that cheerfulness, according to many studies, such as those conducted by Harvard’s Dan Gilbert, is largely a personality trait that remains constant throughout life. Or as social scientists David Lichen and Oukie Telligan starkly suggest, trying to be happier is as futile as trying to be taller. Thus, the swimmer’s body illusion is also a self-illusion.
+I ask people about the secret of their contentment, I often hear answers like, you have to see the glass half full rather than half empty. It’s as if these individuals do not realize that they were born happy and now tend to see the positive in everything. They don’t realize that cheerfulness, according to many studies, such as those conducted by Harvard’s Dan Gilbert, is largely a personality trait that remains constant throughout life. Or as social scientists David Lichen and Oukie Telligan starkly suggest, trying to be happier is as futile as trying to be taller.
 
-When these optimists write self-help books, the illusion can become treacherous. That’s why it’s important to give wide berth to tips and advice from self-help authors. For billions of people, these pieces of advice are unlikely to help. But because the unhappy don’t write self-help books about their failures, this fact remains hidden.
+Thus, the swimmer’s body illusion is also a self-illusion. When these optimists write self-help books, the illusion can become treacherous. That’s why it’s important to give wide berth to tips and advice from self-help authors. For billions of people, these pieces of advice are unlikely to help.
 
-In conclusion, be wary when you’re encouraged to strive for certain things, be it abs of steel, immaculate looks, a higher income, a long life, a particular demeanor, or happiness. You might fall prey to the swimmer’s body illusion. Before you decide to take the plunge, look in the mirror and be honest about what you see. 3. Why You See Shapes in the Clouds Clustering Illusion In 1957, Swedish opera singer Friedrich Jorgensen bought a tape player to record his vocals.
+But because the unhappy don’t write self-help books about their failures, this fact remains hidden. In conclusion, be wary when you’re encouraged to strive for certain things, be it abs of steel, immaculate looks, a higher income, a long life, a particular demeanor, or happiness. You might fall prey to the swimmer’s body illusion. Before you decide to take the plunge, look in the mirror and be honest about what you see. 3.
 
-When he listened back to the recording, he heard strange noises throughout, whispers that sounded like supernatural messages. A few years later, he recorded Birdsong.
+Why. You See Shapes in the Clouds Clustering Illusion. In 1957, Swedish opera singer Friedrich Jorgensen bought a tape player to record his vocals. When he listened back to the recording, he heard strange noises throughout, whispers that sounded like supernatural messages.
 
-This time, he heard the voice of his deceased mother in the background whispering to him, “'Freed, my little freed. Can you hear me? It’s Mammy.'” That did it. Jorgensen turned his life around and devoted himself to communicating with the deceased via tape recordings.
+A few years later, he recorded Birdsong. This time, he heard the voice of his deceased mother in the background whispering to him, “'Freed, my little freed. Can you hear me? It’s Mammy.'”.
 
-In 1994, Diana Dooser from Florida also had an otherworldly encounter. After biting into a slice of toast and placing it back down on the plate, she noticed the face of the Virgin Mary in it. Eventually she stopped eating and stored the divine message, minus a bite, in a plastic container. In November 2004, she auctioned the still fairly well-preserved snack on eBay.
+That did it. Jorgensen turned his life around and devoted himself to communicating with the deceased via tape recordings. In 1994, Diana Dooser from Florida also had an otherworldly encounter. After biting into a slice of toast and placing it back down on the plate, she noticed the face of the Virgin Mary in it.
 
-Her daily bread earned her $28,000. In 1978, a woman from New Mexico had a similar experience. Her tortillas blackened spots resembled Jesus’s face. The press latched onto the story, and thousands of people flocked to New Mexico to see the Savior in burrito form.
+Eventually she stopped eating and stored the divine message, minus a bite, in a plastic container. In November 2004, she auctioned the still fairly well-preserved snack on eBay. Her daily bread earned her $28,000. In 1978, a woman from New Mexico had a similar experience.
 
-Two years earlier, in 1976, the orbiter of the Viking spacecraft photographed a rock formation that, from high above, looked like a human face. The face on Mars made headlines around the world. And you? Have you ever seen faces in the clouds or the outlines of animals in rocks?
+Her tortillas blackened spots resembled Jesus’s face. The press latched onto the story, and thousands of people flocked to New Mexico to see the Savior in burrito form. Two years earlier, in 1976, the orbiter of the Viking spacecraft photographed a rock formation that, from high above, looked like a human face. The face on Mars made headlines around the world.
 
-Of course. This is perfectly normal. The human brain seeks patterns and rules.
+And you? Have you ever seen faces in the clouds or the outlines of animals in rocks? Of course. This is perfectly normal.
 
-In fact, it takes it one step further. If it finds no familiar patterns, it simply invents some. The more diffuse the signal, such as the background noise on the tape, the easier it is to find hidden messages in it. Twenty-five years after uncovering the face on Mars, the Mars Global Surveyor sent back crisp, clear images of the rock formations.
+The human brain seeks patterns and rules. In fact, it takes it one step further. If it finds no familiar patterns, it simply invents some. The more diffuse the signal, such as the background noise on the tape, the easier it is to find hidden messages in it.
 
-The captivating human face had dissolved into plain old scree. These frothy examples make the clustering illusion seem innocuous.
+Twenty-five years after uncovering the face on Mars, the Mars Global Surveyor sent back crisp, clear images of the rock formations. The captivating human face had dissolved into plain old scree. These frothy examples make the clustering illusion seem innocuous.
 
 
 <a id="sec-002005"></a>
@@ -272,35 +276,35 @@ In one third of cases, he will answer incorrectly to match the other people’s 
 <a id="sec-002506"></a>
 ### ⏱️ [00:25:06 - 00:30:08]
 
-Well, in the past, following others was a good survival strategy. Suppose that 50,000 years ago, you were traveling around the Serengeti with your hunter-gatherer friends, and suddenly they all bolted. What would you have done? Would you have stayed put, scratching your head, and weighing up whether what you were looking at was a lion or something that just looked like a lion, but was in fact a harmless animal that could serve as a great protein source? No. You would have sprinted after your friends.
+Well, in the past, following others was a good survival strategy. Suppose that 50,000 years ago, you were traveling around the Serengeti with your hunter-gatherer friends, and suddenly they all bolted. What would you have done? Would you have stayed put, scratching your head, and weighing up whether what you were looking at was a lion or something that just looked like a lion, but was in fact a harmless animal that could serve as a great protein source?
 
-Later on, when you were safe, you could have reflected on what had actually happened. Those who acted differently, and I’m sure there were some, exited the gene pool. We are the direct heirs of those who copied the other’s behavior. This pattern is so deeply rooted in us that we still use it today, even when it offers no survival advantage.
+No. You would have sprinted after your friends. Later on, when you were safe, you could have reflected on what had actually happened. Those who acted differently, and.
 
-Only a few cases come to mind where social proof is of value. For example, if you find yourself hungry in a foreign city and don’t know a good restaurant, it makes sense to pick the one that’s full of locals.
+I’m sure there were some, exited the gene pool. We are the direct heirs of those who copied the other’s behavior. This pattern is so deeply rooted in us that we still use it today, even when it offers no survival advantage. Only a few cases come to mind where social proof is of value.
 
-In other words, you copy the local’s behavior. Comedy and talk shows make use of social proof by inserting canned laughter at strategic spots, inciting the audience to laugh along. One of the most impressive, though troubling, cases of this phenomenon is the famous speech by Nazi propaganda minister Josef Goebbels, delivered to a large audience in 1943. See it for yourself on YouTube.
+For example, if you find yourself hungry in a foreign city and don’t know a good restaurant, it makes sense to pick the one that’s full of locals. In other words, you copy the local’s behavior. Comedy and talk shows make use of social proof by inserting canned laughter at strategic spots, inciting the audience to laugh along. One of the most impressive, though troubling, cases of this phenomenon is the famous speech by Nazi propaganda minister Josef Goebbels, delivered to a large audience in 1943.
 
-As the war went from bad to worse for Germany, he demanded to know, do you want total war? If necessary, do you want a war more total and radical than anything that we can even imagine today? The crowd roared. If the attendees had been asked individually and anonymously, it’s likely that nobody would have consented to this crazy proposal.
+See it for yourself on YouTube. As the war went from bad to worse for Germany, he demanded to know, do you want total war? If necessary, do you want a war more total and radical than anything that we can even imagine today? The crowd roared.
 
-The advertising industry benefits greatly from our weakness for social proof. This works well when a situation is unclear, such as deciding among various car makes, cleaning products, beauty products, and so on, with no obvious advantages or disadvantages, and where people like you and me appear. So be skeptical whenever a company claims its product is better because it’s the most popular. How is a product better simply because it sells the most units?
+If the attendees had been asked individually and anonymously, it’s likely that nobody would have consented to this crazy proposal. The advertising industry benefits greatly from our weakness for social proof. This works well when a situation is unclear, such as deciding among various car makes, cleaning products, beauty products, and so on, with no obvious advantages or disadvantages, and where people like you and me appear. So be skeptical whenever a company claims its product is better because it’s the most popular.
 
-And remember English novelist W. Somerset Maugham’s wise words, if 50 million people say something foolish, it’s still foolish. Five, why you should forget the past sunk cost fallacy. The film was dire.
+How is a product better simply because it sells the most units? And remember English novelist W. Somerset Maugham’s wise words, if 50 million people say something foolish, it’s still foolish. Five, why you should forget the past sunk cost fallacy.
 
-After an hour, I whispered to my wife, come on, let’s go home. She replied, no way, we’re not throwing away $30. That’s no reason to stay, I protested. The money’s already gone.
+The film was dire. After an hour, I whispered to my wife, come on, let’s go home. She replied, no way, we’re not throwing away $30. That’s no reason to stay, I protested.
 
-This is the sunk cost fallacy at work, a thinking error. She glared at me as if she had just bitten off a piece of lemon. Okay, I sometimes go overboard on the subject. I desperately tried to clarify the situation.
+The money’s already gone. This is the sunk cost fallacy at work, a thinking error. She glared at me as if she had just bitten off a piece of lemon. Okay, I sometimes go overboard on the subject.
 
-We have spent $30 regardless of whether we stay or leave, so this factor should not play a role in our decision. Needless to say, I gave in and sunk back down in my seat. The next day, I sat in a marketing meeting. Our advertising campaign had been running for four months and had not met even one of its goals.
+I desperately tried to clarify the situation. We have spent $30 regardless of whether we stay or leave, so this factor should not play a role in our decision. Needless to say, I gave in and sunk back down in my seat. The next day, I sat in a marketing meeting.
 
-I was in favor of scrapping it. The advertising manager resisted, saying, but we’ve invested so much money in it. If we stop now, it’ll all have been for nothing. Another victim of the sunk cost fallacy.
+Our advertising campaign had been running for four months and had not met even one of its goals. I was in favor of scrapping it. The advertising manager resisted, saying, but we’ve invested so much money in it. If we stop now, it’ll all have been for nothing.
 
-A friend struggled for years in a troubled relationship. His girlfriend cheated on him time and again. Each time, she came back repentant and begged for forgiveness. He explained it to me this way, I’ve invested so much energy in the relationship, it would be wrong to throw it away, a classic case of the sunk cost fallacy.
+Another victim of the sunk cost fallacy. A friend struggled for years in a troubled relationship. His girlfriend cheated on him time and again. Each time, she came back repentant and begged for forgiveness.
 
-The sunk cost fallacy is most dangerous when we’ve invested a lot of time, money, energy, or love in something. This investment becomes a reason to carry on, even if we’re dealing with a lost cause. The more we invest, the greater the sunk costs are, and the greater the urge to continue becomes. Investors frequently fall victim to the sunk cost fallacy.
+He explained it to me this way, I’ve invested so much energy in the relationship, it would be wrong to throw it away, a classic case of the sunk cost fallacy. The sunk cost fallacy is most dangerous when we’ve invested a lot of time, money, energy, or love in something. This investment becomes a reason to carry on, even if we’re dealing with a lost cause. The more we invest, the greater the sunk costs are, and the greater the urge to continue becomes.
 
-When they base their trading decisions on acquisition prices, I lost so much money with this stock I can’t sell it now, they say, this is irrational. The acquisition price should play no role. What counts is the stock’s future performance, and the future performance of alternative investments. Ironically, the more money a share loses. loses, the more investors tend to stick by it.
+Investors frequently fall victim to the sunk cost fallacy. When they base their trading decisions on acquisition prices, I lost so much money with this stock. I can’t sell it now, they say, this is irrational. The acquisition price should play no role.
 
-This irrational behavior is driven by a need for consistency.
+What counts is the stock’s future performance, and the future performance of alternative investments. Ironically, the more money a share loses. loses, the more investors tend to stick by it. This irrational behavior is driven by a need for consistency.
 
 
 <a id="sec-003008"></a>
@@ -312,31 +316,31 @@ Carrying on with a meaningless project delays this painful realization and keeps
 
 The sunk-cost fallacy is therefore often referred to as the Concorde effect. It leads to costly, even disastrous, errors of judgment. The Americans extended their involvement in the Vietnam War because of this. They’re thinking, we’ve already sacrificed so much for this war, it’d be a mistake to give up now.
 
-We’ve come this far. I’ve read so much of this book already. But I’ve spent two years doing this course. If you recognize any of these thought patterns, it shows that the sunk-cost fallacy is at work in a corner of your brain.
+We’ve come this far. I’ve read so much of this book already. But. I’ve spent two years doing this course.
 
-Of course, there may be good reasons to continue investing in something to finalize it. But beware of doing so for the wrong reasons, such as to justify non-recoverable investments. Rational decision-making requires you to forget about the costs incurred to date. No matter how much you have already invested, only your assessment of the future costs and benefits counts. 6.
+If you recognize any of these thought patterns, it shows that the sunk-cost fallacy is at work in a corner of your brain. Of course, there may be good reasons to continue investing in something to finalize it. But beware of doing so for the wrong reasons, such as to justify non-recoverable investments. Rational decision-making requires you to forget about the costs incurred to date.
 
-Don’t accept free drinks. Reciprocity. Not so long ago, you may have come across disciples of the Hare Krishna sect floating around in saffron-colored robes as you hurried to catch a flight or a train to your destination. A member of the sect presented you with a small flower and a smile.
+No matter how much you have already invested, only your assessment of the future costs and benefits counts. 6. Don’t accept free drinks. Reciprocity. Not so long ago, you may have come across disciples of the Hare Krishna sect floating around in saffron-colored robes as you hurried to catch a flight or a train to your destination.
 
-If you’re like most people, you took the flower simply to avoid seeming rude. If you tried to refuse, you would have heard a gentle, take it. This is our gift to you. If you wanted to dispose of the flower in the next trash can, you found that there were already a few there.
+A member of the sect presented you with a small flower and a smile. If you’re like most people, you took the flower simply to avoid seeming rude. If you tried to refuse, you would have heard a gentle, take it. This is our gift to you.
 
-But that was not the end. Just as your bad conscience started to tug at you, another disciple of Krishna approached you again, this time asking for a donation. In many cases, this plea was successful. So pervasive that many airports banned the sect from the premises.
+If you wanted to dispose of the flower in the next trash can, you found that there were already a few there. But that was not the end. Just as your bad conscience started to tug at you, another disciple of Krishna approached you again, this time asking for a donation. In many cases, this plea was successful.
 
-First Robert Cialdini can explain the success of this and other such campaigns. He has studied the phenomenon of reciprocity and has established that people have extreme difficulty being in another person’s debt. Many NGOs and philanthropic organizations use exactly the same techniques. First give, then take.
+So pervasive that many airports banned the sect from the premises. First Robert Cialdini can explain the success of this and other such campaigns. He has studied the phenomenon of reciprocity and has established that people have extreme difficulty being in another person’s debt. Many NGOs and philanthropic organizations use exactly the same techniques.
 
-Last week, a conservation organization sent me an envelope full of postcards featuring all sorts of idyllic landscapes. The accompanying letter assured me that the postcards were a gift to be kept, whether or not I decided to donate to their organization. Even though I understood the tactic, it took a little willpower and ruthlessness to throw them in the trash. Unfortunately, this kind of gentle blackmail, you could also call it corruption, is widespread.
+First, give, then take. Last week, a conservation organization sent me an envelope full of postcards featuring all sorts of idyllic landscapes. The accompanying letter assured me that the postcards were a gift to be kept, whether or not. I decided to donate to their organization.
 
-A supplier of screws invites a potential customer to join him at a big sports game. A month later, it’s time to order screws. The desire not to be in debt is so strong that the buyer gives in and places an order with his new friend. It’s also an ancient technique.
+Even though. I understood the tactic, it took a little willpower and ruthlessness to throw them in the trash. Unfortunately, this kind of gentle blackmail, you could also call it corruption, is widespread. A supplier of screws invites a potential customer to join him at a big sports game.
 
-We find reciprocity in all species whose food supplies are subject to high fluctuations. Suppose you’re a hunter-gatherer.
+A month later, it’s time to order screws. The desire not to be in debt is so strong that the buyer gives in and places an order with his new friend. It’s also an ancient technique. We find reciprocity in all species whose food supplies are subject to high fluctuations.
 
-One day you’re lucky and kill a deer. You can’t possibly eat all of it in a day, and refrigerators are still a few centuries away. You decide to share the deer with the group, which ensures that you’ll benefit from other spoils when your haul is less impressive. The bellies of your buddies serve as your refrigerator.
+Suppose you’re a hunter-gatherer. One day you’re lucky and kill a deer. You can’t possibly eat all of it in a day, and refrigerators are still a few centuries away. You decide to share the deer with the group, which ensures that you’ll benefit from other spoils when your haul is less impressive.
 
-Reciprocity is a very useful survival strategy, a form of risk management. Without it, humanity and countless species of animals would be long extinct. It’s at the core of cooperation between people who are not related and a necessary ingredient for economic growth and wealth creation. There would be no global economy without it.
+The bellies of your buddies serve as your refrigerator. Reciprocity is a very useful survival strategy, a form of risk management. Without it, humanity and countless species of animals would be long extinct. It’s at the core of cooperation between people who are not related and a necessary ingredient for economic growth and wealth creation.
 
-There would be no economy at all. That’s the good side of reciprocity. But there’s also an ugly side of reciprocity, retaliation. Revenge breeds counter-revenge, and you soon find yourself in a full-scale war.
+There would be no global economy without it. There would be no economy at all. That’s the good side of reciprocity. But there’s also an ugly side of reciprocity, retaliation.
 
-Jesus preached that we should break this cycle by turning the other cheek, which proves very difficult to do, so compelling as the pull of reciprocity even when the stakes are far
+Revenge breeds counter-revenge, and you soon find yourself in a full-scale war. Jesus preached that we should break this cycle by turning the other cheek, which proves very difficult to do, so compelling as the pull of reciprocity even when the stakes are far
 
 
 <a id="sec-003509"></a>
@@ -392,13 +396,15 @@ Yen? Pesos? Wheat? Residential property in Manhattan?
 
 The average price of a hot dog? Religious and philosophical beliefs represent an excellent breeding ground for the confirmation bias. Here, in soft, spongy terrain, it grows wild and free.
 
-For example, worshipers always find evidence for God’s existence, even though He never shows Himself overtly, except to illiterates in the desert and in isolated mountain villages. It’s never to the masses in, say, Frankfurt or New York. Counterarguments are dismissed by the faithful, demonstrating just how powerful the confirmation bias is. No professionals suffer more from the confirmation bias than business journalists.
+For example, worshipers always find evidence for God’s existence, even though. He never shows Himself overtly, except to illiterates in the desert and in isolated mountain villages. It’s never to the masses in, say, Frankfurt or New York. Counterarguments are dismissed by the faithful, demonstrating just how powerful the confirmation bias is.
 
-Often they formulate an easy theory, pad it out with two or three pieces of evidence, and call it a day. For example, Google is so successful because the company nurtures a culture of creativity. Once this idea is on paper, the journalist corroborates it by mentioning a few other prosperous companies that foster ingenuity. Rarely does the writer seek out disconfirming evidence, which in this instance would be struggling businesses that live and breathe creativity, or conversely, flourishing firms that are utterly uncreative.
+No professionals suffer more from the confirmation bias than business journalists. Often they formulate an easy theory, pad it out with two or three pieces of evidence, and call it a day.
 
-Both groups have plenty of members, but the journalist simply ignores them. If he or she were to mention just one, the storyline would be ruined. Self-help and get-rich quickbooks are further examples of blinkered storytelling. Their shrewd authors collect piles of proof to pump up the most banal of theories, such as meditation is the key to happiness.
+For example, Google is so successful because the company nurtures a culture of creativity. Once this idea is on paper, the journalist corroborates it by mentioning a few other prosperous companies that foster ingenuity. Rarely does the writer seek out disconfirming evidence, which in this instance would be struggling businesses that live and breathe creativity, or conversely, flourishing firms that are utterly uncreative. Both groups have plenty of members, but the journalist simply ignores them.
 
-Any reader seeking disconfirming evidence does so in vain. Nowhere in these books do we see people who lead fulfilled lives without meditation, or those who, despite meditation, are still sad. The Internet is particularly fertile ground for the confirmation bias. To stay informed, we browse news sites and blogs, forgetting that our favored pages mirror our existing values, be they liberal, conservative, or somewhere in between.
+If he or she were to mention just one, the storyline would be ruined. Self-help and get-rich quickbooks are further examples of blinkered storytelling. Their shrewd authors collect piles of proof to pump up the most banal of theories, such as meditation is the key to happiness. Any reader seeking disconfirming evidence does so in vain.
+
+Nowhere in these books do we see people who lead fulfilled lives without meditation, or those who, despite meditation, are still sad. The Internet is particularly fertile ground for the confirmation bias. To stay informed, we browse news sites and blogs, forgetting that our favored pages mirror our existing values, be they liberal, conservative, or somewhere in between.
 
 Moreover, a lot of sites now tailor content to personal interests and browsing history, causing new and divergent opinions to vanish from the radar altogether. We inevitably land in communities of like-minded people, further reinforcing our convictions and the confirmation bias. Literary critic Arthur Quiller Couch had a memorable motto, murder your darlings. This was his advice to writers who struggled with cutting cherished but redundant sentences.
 
@@ -490,25 +496,29 @@ In addition, people prefer information that’s easy to obtain, be it economic d
 
 For example, we’ve known for 10 years that the so-called Black Scholes formula for the pricing of derivative financial products does not work, but we don’t have another solution, so we carry on with an incorrect tool. It’s as if you were in a foreign city without a map and then pulled out one for your hometown and simply used that. We prefer wrong information to no information. Thus, the availability bias has presented the banks with billions in losses.
 
-What was it that Frank Sinatra sang, something about loving the girl I’m near when I’m not near the girl I love? A perfect example of the availability bias. Fan it off by spending time with people who think differently than you do. People whose experiences and expertise are different from yours.
+What was it that Frank Sinatra sang, something about loving the girl. I’m near when. I’m not near the girl. I love?
 
-We require others' input to overcome the availability bias. 12. Why no pain, no gain should set alarm bells ringing. The it’ll get worse before it gets better fallacy. A few years ago, I was on vacation in Corsica and fell sick.
+A perfect example of the availability bias. Fan it off by spending time with people who think differently than you do. People whose experiences and expertise are different from yours. We require others' input to overcome the availability bias. 12.
 
-The symptoms were new to me and the pain was growing by the day. Eventually, I decided to seek help at a local clinic. A young doctor began to inspect me, prodding my stomach, gripping my shoulders and knees, and then poking each vertebra. I began to suspect that he had no idea what my problem was, but I wasn’t really sure, so I simply endured the strange examination.
+Why no pain, no gain should set alarm bells ringing. The it’ll get worse before it gets better fallacy. A few years ago, I was on vacation in Corsica and fell sick. The symptoms were new to me and the pain was growing by the day.
 
-To signal its end, he pulled out his notebook and said, antibiotics, take one tablet three times a day. It’ll get worse before it gets better. Glad that I now had a treatment, I dragged myself back to my hotel room with the prescription in my hand. The pain grew worse and worse, just as the doctor had predicted.
+Eventually, I decided to seek help at a local clinic. A young doctor began to inspect me, prodding my stomach, gripping my shoulders and knees, and then poking each vertebra. I began to suspect that he had no idea what my problem was, but. I wasn’t really sure, so.
 
-The doctor must have known what was wrong with me after all, but when the pain hadn’t subsided after three days, I called him. Increase the dose to five times a day. It’s going to hurt for a while more, he said. After two more days of agony, I finally called the International Air Ambulance.
+I simply endured the strange examination. To signal its end, he pulled out his notebook and said, antibiotics, take one tablet three times a day. It’ll get worse before it gets better. Glad that.
 
-The Swiss doctor diagnosed appendicitis and operated on me immediately. Why did you wait so long? he asked me after the surgery. I replied. It all happened exactly as the doctor said, so I trusted him.
+I now had a treatment, I dragged myself back to my hotel room with the prescription in my hand. The pain grew worse and worse, just as the doctor had predicted. The doctor must have known what was wrong with me after all, but when the pain hadn’t subsided after three days, I called him. Increase the dose to five times a day.
 
-Ah, you fell victim to the it’ll get worse before it gets better fallacy. That corset conductor had no idea, probably just the same type of stand-in you find in all the tourist places in high season. Let’s take another example. A CEO is at his wits end.
+It’s going to hurt for a while more, he said. After two more days of agony, I finally called the International Air Ambulance. The Swiss doctor diagnosed appendicitis and operated on me immediately. Why did you wait so long? he asked me after the surgery.
 
-Sales are in the toilet, the salespeople are unmotivated, and the marketing campaign sank without a trace. In his desperation, he hires a consultant for $5,000 a day. This man analyzes the company and comes back with his findings. Your sales department has no vision and your brand isn’t positioned clearly.
+I replied. It all happened exactly as the doctor said, so. I trusted him. Ah, you fell victim to the it’ll get worse before it gets better fallacy.
 
-It’s a tricky situation. I can fix it for you, but not overnight. The measures will require sensitivity and most likely sales will fall further before things improve. The CEO hype. the consultant.
+That corset conductor had no idea, probably just the same type of stand-in you find in all the tourist places in high season. Let’s take another example. A CEO is at his wits end. Sales are in the toilet, the salespeople are unmotivated, and the marketing campaign sank without a trace.
 
-A year later, sales fall and the same thing happens the next year. Again and again, the consultant stresses that the company’s progress corresponds closely to his prediction. As sales continue their slump in the third year, the CEO fires the consultant. A mere smokescreen, the it’ll get worse before
+In his desperation, he hires a consultant for $5,000 a day. This man analyzes the company and comes back with his findings. Your sales department has no vision and your brand isn’t positioned clearly. It’s a tricky situation.
+
+I can fix it for you, but not overnight. The measures will require sensitivity and most likely sales will fall further before things improve. The CEO hype. the consultant. A year later, sales fall and the same thing happens the next year.
+
+Again and again, the consultant stresses that the company’s progress corresponds closely to his prediction. As sales continue their slump in the third year, the CEO fires the consultant. A mere smokescreen, the it’ll get worse before
 
 
 <a id="sec-010020"></a>
@@ -524,13 +534,13 @@ But beware, situations do exist where things first dip, then improve. For exampl
 
 The milestones are clear and verifiable. Look to these rather than to the heavens. Thirteen. Even true stories are fairy tales.
 
-Story bias. Life is a muddle, as intricate as a Gordian knot. Imagine an invisible Martian decides to follow you around with an equally invisible notebook recording what you do, think, and dream. The rundown of your life would consist of entries such as drank coffee, two sugars, stepped on a thumbtack and swore like a sailor, dreamed that I kissed the neighbor, booked vacation, Maldives, now nearly out of money, found hair sticking out of ear, plucked it right away, and so on.
+Story bias. Life is a muddle, as intricate as a Gordian knot. Imagine an invisible Martian decides to follow you around with an equally invisible notebook recording what you do, think, and dream. The rundown of your life would consist of entries such as drank coffee, two sugars, stepped on a thumbtack and swore like a sailor, dreamed that.
 
-We like to knit this jumble of details into a neat story. We want our lives to form a pattern that can be easily followed. Many call this guiding principle meaning. If our story advances evenly over the years, we refer to it as identity.
+I kissed the neighbor, booked vacation, Maldives, now nearly out of money, found hair sticking out of ear, plucked it right away, and so on. We like to knit this jumble of details into a neat story. We want our lives to form a pattern that can be easily followed. Many call this guiding principle meaning.
 
-We try on stories as we try on clothes, says Max Frisch, a famous Swiss novelist. We do the same with world history, shaping the details into a consistent story.
+If our story advances evenly over the years, we refer to it as identity. We try on stories as we try on clothes, says Max Frisch, a famous Swiss novelist. We do the same with world history, shaping the details into a consistent story.
 
-Suddenly we understand certain things, for example, why the Treaty of Versailles led to the Second World War, or why Alan Greenspan’s loose monetary policy created the collapse of Lehman Brothers. We comprehend why the Iron Curtain had to fall, or why Harry Potter became a best-seller. Here we speak about understanding, but these things cannot be understood in the traditional sense. We simply build the meaning into them afterward.
+Suddenly, we understand certain things, for example, why the Treaty of Versailles led to the Second World War, or why Alan Greenspan’s loose monetary policy created the collapse of Lehman Brothers. We comprehend why the Iron Curtain had to fall, or why Harry Potter became a best-seller. Here we speak about understanding, but these things cannot be understood in the traditional sense. We simply build the meaning into them afterward.
 
 Stories are dubious entities. They simplify and distort reality and filter things that don’t fit, but apparently we can’t do without them. Why remains unclear. What is clear is that people first use stories to explain the world before they began to think scientifically, making mythology older than philosophy.
 
@@ -588,31 +598,33 @@ It was always going to go wrong. They were just so different or they were just s
 <a id="sec-011031"></a>
 ### ⏱️ [01:10:31 - 01:15:36]
 
-hindsight bias isn’t easy. Studies have shown that people who are aware of it fall for it just as much as everyone else. So I’m very sorry, but you’ve just wasted your time reading this chapter. If you’re still with me, I have one final tip, this time from personal rather than professional experience.
+hindsight bias isn’t easy. Studies have shown that people who are aware of it fall for it just as much as everyone else. So. I’m very sorry, but you’ve just wasted your time reading this chapter.
 
-Keep a journal. Write down your predictions for political changes, your career, your weight, the stock market, and so on. Then, from time to time, compare your notes with actual developments. You’ll be amazed at what a poor forecaster you are.
+If you’re still with me, I have one final tip, this time from personal rather than professional experience. Keep a journal. Write down your predictions for political changes, your career, your weight, the stock market, and so on. Then, from time to time, compare your notes with actual developments.
 
-Don’t forget to read history too, not the retrospective compacted theories compiled in textbooks, but the diaries, oral histories, and historical documents from the period. If you can’t live without news, read newspapers from five, ten, or twenty years ago. This will give you a much better sense of just how unpredictable the world is. Hindsight may provide temporary comfort to those overwhelmed by complexity, but as for providing deeper revelations about how the world works, you’ll benefit by looking elsewhere. 15.
+You’ll be amazed at what a poor forecaster you are. Don’t forget to read history too, not the retrospective compacted theories compiled in textbooks, but the diaries, oral histories, and historical documents from the period. If you can’t live without news, read newspapers from five, ten, or twenty years ago. This will give you a much better sense of just how unpredictable the world is.
 
-Why you systematically overestimate your knowledge and abilities. Overconfidence effect. My favorite musician, Johann Sebastian Bach, was anything but a one-hit wonder. He composed numerous works.
+Hindsight may provide temporary comfort to those overwhelmed by complexity, but as for providing deeper revelations about how the world works, you’ll benefit by looking elsewhere. 15. Why you systematically overestimate your knowledge and abilities. Overconfidence effect. My favorite musician, Johann Sebastian Bach, was anything but a one-hit wonder.
 
-How many there were, I’ll reveal at the end of this chapter, but for now, here’s a small assignment. How many concertos do you think Bach composed? Choose a range, for example, between 100 and 500, aiming for an estimate that is 98% correct and only 2% off. How much confidence should we have in our own knowledge?
+He composed numerous works. How many there were, I’ll reveal at the end of this chapter, but for now, here’s a small assignment. How many concertos do you think Bach composed? Choose a range, for example, between 100 and 500, aiming for an estimate that is 98% correct and only 2% off.
 
-Psychologists Howard Reifa and Mark Alpert, wondering the same thing, have interviewed hundreds of people in this way. Sometimes they’ve asked participants to estimate the total egg production in the United States, or the number of physicians and surgeons listed in the yellow pages of the phone directory for Boston, or the number of foreign automobiles imported into the United States, or even the toll collections of the Panama Canal in millions of dollars. Subjects could choose any range they liked with the aim of being wrong no more than 2% of the time.
+How much confidence should we have in our own knowledge? Psychologists Howard Reifa and Mark Alpert, wondering the same thing, have interviewed hundreds of people in this way. Sometimes they’ve asked participants to estimate the total egg production in the United States, or the number of physicians and surgeons listed in the yellow pages of the phone directory for Boston, or the number of foreign automobiles imported into the United States, or even the toll collections of the Panama Canal in millions of dollars.
 
-The results were amazing. In the final tally, instead of just 2%, they proved incorrect 40% of the time. The researchers dubbed this amazing phenomenon the overconfidence effect. The overconfidence effect also applies to forecasts such as stock market performance over a year or your firm’s profits over three years.
+Subjects could choose any range they liked with the aim of being wrong no more than 2% of the time. The results were amazing. In the final tally, instead of just 2%, they proved incorrect 40% of the time. The researchers dubbed this amazing phenomenon the overconfidence effect.
 
-We systematically overestimate our knowledge and our ability to predict on a massive scale. The overconfidence effect does not deal with whether single estimates are correct or not. Rather, it measures the difference between what people really know and what they think they know. What’s surprising is this.
+The overconfidence effect also applies to forecasts such as stock market performance over a year or your firm’s profits over three years. We systematically overestimate our knowledge and our ability to predict on a massive scale. The overconfidence effect does not deal with whether single estimates are correct or not. Rather, it measures the difference between what people really know and what they think they know.
 
-Experts suffer even more from the overconfidence effect than lay people do. If asked to forecast oil prices in five years' time, an economics professor will be as wide of the mark as a zookeeper will.
+What’s surprising is this. Experts suffer even more from the overconfidence effect than lay people do. If asked to forecast oil prices in five years' time, an economics professor will be as wide of the mark as a zookeeper will.
 
 However, the professor will offer his forecast with certitude. The overconfidence effect does not stop at economics. In surveys, 84% of Frenchmen estimate that they’re above average lovers. Without the overconfidence effect, that figure should be exactly 50%.
 
-After all, the statistical median means 50% should rank higher and 50% should rank lower. In another survey, 93% of U. S. students estimated themselves to be above average drivers. And 68% of the faculty at the University of Nebraska rated themselves in the top 25% for teaching ability. Entrepreneurs and those wishing to marry also deem themselves to be different.
+After all, the statistical median means 50% should rank higher and 50% should rank lower. In another survey, 93% of U. S. students estimated themselves to be above average drivers. And 68% of the faculty at the University of Nebraska rated themselves in the top 25% for teaching ability.
 
-They believe they can beat the odds. In fact, entrepreneurial activity would be a lot lower if the overconfidence effect did not ex- For example, every restaurateur hopes to establish the next Michelin-starred restaurant, even though statistics show that most close their doors after just three years. The return on an investment in the restaurant business lies chronically below zero. Hardly any major projects exist that are completed in less time and at a lower cost than forecasted.
+Entrepreneurs and those wishing to marry also deem themselves to be different. They believe they can beat the odds.
 
-Some delays in cost overruns are even legendary, such as the Airbus A400M, the Sydney Opera House and Boston’s Big Dig. The list can be added to at will.
+In fact, entrepreneurial activity would be a lot lower if the overconfidence effect did not ex- For example, every restaurateur hopes to establish the next Michelin-starred restaurant, even though statistics show that most close their doors after just three years. The return on an investment in the restaurant business lies chronically below zero. Hardly any major projects exist that are completed in less time and at a lower cost than forecasted. Some delays in cost overruns are even legendary, such as the Airbus A400M, the Sydney Opera House and Boston’s Big Dig.
+
+The list can be added to at will.
 
 
 <a id="sec-011536"></a>
@@ -632,23 +644,25 @@ This way, you have a chance of judging the situation somewhat realistically. Bac
 
 After receiving the Nobel Prize in Physics in 1918, Max Planck went on tour across Germany. Wherever he was invited, he delivered the same lecture on new quantum mechanics. Over time, his chauffeur grew to know it by heart. It has to be boring giving the same speech each time, Professor Planck.
 
-How about I do it for you in Munich? You can sit in the front row and wear my chauffeur’s cap. That’d give us both a bit of variety. Planck liked the idea, so that evening, the driver held a long lecture on quantum mechanics in front of a distinguished audience.
+How about. I do it for you in Munich? You can sit in the front row and wear my chauffeur’s cap. That’d give us both a bit of variety.
 
-Later, a physics professor stood up with the question. The driver recoiled. Never would I have thought that someone from such an advanced city as Munich would ask such a simple question. My chauffeur will answer it.
+Planck liked the idea, so that evening, the driver held a long lecture on quantum mechanics in front of a distinguished audience. Later, a physics professor stood up with the question. The driver recoiled. Never would.
 
-According to Charlie Munger, one of the world’s best investors, and from whom I’ve borrowed this story, there are two types of knowledge. First, we have real knowledge. We see it in people who have committed a large amount of time and effort to understanding a topic. The second type is chauffeur knowledge, knowledge from people who have learned to put on a show.
+I have thought that someone from such an advanced city as Munich would ask such a simple question. My chauffeur will answer it. According to Charlie Munger, one of the world’s best investors, and from whom. I’ve borrowed this story, there are two types of knowledge.
 
-Maybe they have a great voice or good hair, but the knowledge, they espouse, is not their own. They reel off eloquent words as if reading from a script. Unfortunately, it’s increasingly difficult to separate true knowledge from chauffeur knowledge. With news anchors, however, it’s still easy.
+First, we have real knowledge. We see it in people who have committed a large amount of time and effort to understanding a topic. The second type is chauffeur knowledge, knowledge from people who have learned to put on a show. Maybe they have a great voice or good hair, but the knowledge, they espouse, is not their own.
 
-These are actors, period. Everyone knows it. And yet it continues to astound me how much respect these perfectly quaffed script readers enjoy, not to mention how much they earn. Moderating panels about topics, they barely fathom.
+They reel off eloquent words as if reading from a script. Unfortunately, it’s increasingly difficult to separate true knowledge from chauffeur knowledge. With news anchors, however, it’s still easy. These are actors, period.
 
-With journalists, it’s more difficult. Some have acquired true knowledge. Often they’re veteran reporters who have specialized for years in a clearly defined area. They make a serious effort to understand the complexity of a subject and to communicate it.
+Everyone knows it. And yet it continues to astound me how much respect these perfectly quaffed script readers enjoy, not to mention how much they earn. Moderating panels about topics, they barely fathom. With journalists, it’s more difficult.
 
-They tend to write long articles that highlight a variety of cases and exceptions. The majority of journalists, however, fall into the category of chauffeur. They conjure up articles off the tops of their heads, or rather from Google searches. Their texts are one-sided, short, and, often as compensation for their patchy knowledge, snarky and self-satisfied in tone.
+Some have acquired true knowledge. Often they’re veteran reporters who have specialized for years in a clearly defined area. They make a serious effort to understand the complexity of a subject and to communicate it. They tend to write long articles that highlight a variety of cases and exceptions.
 
-The same superficiality is present in business. The larger a company, the more the CEO is expected to possess star quality. Dedication, solemnity and reliability are undervalued, at least at the top. Too often, shareholders and business journalists seem to believe that showmanship will deliver better results, which is obviously not the case.
+The majority of journalists, however, fall into the category of chauffeur. They conjure up articles off the tops of their heads, or rather from Google searches. Their texts are one-sided, short, and, often as compensation for their patchy knowledge, snarky and self-satisfied in tone. The same superficiality is present in business.
 
-To guard against the chauffeur effect, Warren Buffett, Munger’s business partner, has coined a wonderful phrase, the circle of competence. What lies inside this circle you understand intuitively. What lies outside you may only partially comprehend. One of Munger’s best pieces of advice is, you have to stick within what I call your circle of competence.
+The larger a company, the more the CEO is expected to possess star quality. Dedication, solemnity and reliability are undervalued, at least at the top. Too often, shareholders and business journalists seem to believe that showmanship will deliver better results, which is obviously not the case. To guard against the chauffeur effect, Warren Buffett, Munger’s business partner, has coined a wonderful phrase, the circle of competence.
+
+What lies inside this circle you understand intuitively. What lies outside you may only partially comprehend. One of Munger’s best pieces of advice is, you have to stick within what. I call your circle of competence.
 
 You have to know what you understand and what you don’t understand. It’s not terribly important how big the circle is,
 
@@ -668,25 +682,25 @@ Every day, shortly before nine o’clock, a man with a red hat stands in a squar
 
 One day, a policeman comes up to him and asks, what are you doing? I’m keeping the giraffes away. But there aren’t any giraffes here. Well, I must be doing a good job then.
 
-A friend with a broken leg was stuck in bed and asked me to pick up a lottery ticket for him. I went to the store, checked a few boxes, wrote his name on it, and paid. As I handed him the copy of the ticket, he balked. Why did you fill it out?
+A friend with a broken leg was stuck in bed and asked me to pick up a lottery ticket for him. I went to the store, checked a few boxes, wrote his name on it, and paid. As. I handed him the copy of the ticket, he balked.
 
-I wanted to do that. I’m never going to win anything with your numbers. Do you really think it affects the draw if you pick the numbers? I inquired.
+Why did you fill it out? I wanted to do that. I’m never going to win anything with your numbers. Do you really think it affects the draw if you pick the numbers?
 
-He looked at me blankly. In casinos, most people throw the dice as hard as they can if they need a high number and as gingerly as possible if they’re hoping for a low number, which is as nonsensical as football fans thinking they can swing a game by gesticulating in front of the TV. Unfortunately, they share this illusion with many people who also seek to influence the world by sending out the right thoughts, such as vibrations, positive energy, karma. The illusion of control is the tendency to believe that we can influence something over which we have absolutely no sway.
+I inquired. He looked at me blankly. In casinos, most people throw the dice as hard as they can if they need a high number and as gingerly as possible if they’re hoping for a low number, which is as nonsensical as football fans thinking they can swing a game by gesticulating in front of the TV. Unfortunately, they share this illusion with many people who also seek to influence the world by sending out the right thoughts, such as vibrations, positive energy, karma.
 
-This was discovered in 1965 by two researchers, Jenkins and Ward. Their experiment was simple, consisting of just two switches and a light. The men were able to adjust when the switch is connected to the light and when not. Even when the light flashed on and off at random, subjects were still convinced that they could influence it by flicking the switches.
+The illusion of control is the tendency to believe that we can influence something over which we have absolutely no sway. This was discovered in 1965 by two researchers, Jenkins and Ward. Their experiment was simple, consisting of just two switches and a light. The men were able to adjust when the switch is connected to the light and when not.
 
-Or consider this example. An American researcher has been investigating acoustic sensitivity to pain. For this, he placed people in sound booths and increased the volume until the subject signaled him to stop. The two rooms, A and B, were identical, save one thing.
+Even when the light flashed on and off at random, subjects were still convinced that they could influence it by flicking the switches. Or consider this example. An American researcher has been investigating acoustic sensitivity to pain. For this, he placed people in sound booths and increased the volume until the subject signaled him to stop.
 
-Room B had a red panic button on the wall. The button was purely for show, but it gave participants the feeling that they were in control of the situation, leading them to withstand significantly more noise. If you’ve read Alexander Solzhenitsyn, Primo Levi, or Viktor Frankl, this finding won’t surprise you. The idea that people can influence their destiny, even by a fraction, encouraged these prisoners not to give up hope.
+The two rooms, A and B, were identical, save one thing. Room B had a red panic button on the wall. The button was purely for show, but it gave participants the feeling that they were in control of the situation, leading them to withstand significantly more noise. If you’ve read Alexander Solzhenitsyn, Primo Levi, or Viktor Frankl, this finding won’t surprise you.
 
-Crossing the street in Los Angeles is a tricky business, but luckily, at the press of a button, we can stop traffic. Or can we? The button’s real purpose is to make us believe we have an influence on the traffic lights, and thus, we’re better able to endure the wait for the signal to change with more patience. The same goes for door open and door close buttons in elevators.
+The idea that people can influence their destiny, even by a fraction, encouraged these prisoners not to give up hope. Crossing the street in Los Angeles is a tricky business, but luckily, at the press of a button, we can stop traffic. Or can we? The button’s real purpose is to make us believe we have an influence on the traffic lights, and thus, we’re better able to endure the wait for the signal to change with more patience.
 
-Many are not even connected to the electrical panel. Such tricks are also designed in open-plan offices. For some people, it will always be too hot. For others, too cold.
+The same goes for door open and door close buttons in elevators. Many are not even connected to the electrical panel. Such tricks are also designed in open-plan offices. For some people, it will always be too hot.
 
-Clever technicians create the illusion of control by installing fake temperature dials. This reduces energy bills and complaints. Such ploys are called placebo buttons, and they’re being pushed in all sorts of realms. Central bankers and government officials employ placebo buttons masterfully. Take, for instance, the federal funds rate, which is an extreme short-term rate, an overnight rate, to be precise.
+For others, too cold. Clever technicians create the illusion of control by installing fake temperature dials. This reduces energy bills and complaints. Such ploys are called placebo buttons, and they’re being pushed in all sorts of realms.
 
-While this rate doesn’t affect long-term interest rates, which are a function of supply and demand, and which are an important factor in investment decisions, the stock market nevertheless reacts frenetically to its every change.
+Central bankers and government officials employ placebo buttons masterfully. Take, for instance, the federal funds rate, which is an extreme short-term rate, an overnight rate, to be precise. While this rate doesn’t affect long-term interest rates, which are a function of supply and demand, and which are an important factor in investment decisions, the stock market nevertheless reacts frenetically to its every change.
 
 
 <a id="sec-012539"></a>
@@ -716,13 +730,13 @@ Do you want to influence the behavior of people or organizations? You could alwa
 
 Anything is possible from good grades to Nobel Prizes to special treatment in the afterlife. For a long time, I tried to understand what made well-educated nobles from the Middle Ages bid adieu to their comfortable lives, swing themselves up onto horses, and take part in the Crusades. They were well aware that the arduous ride to Jerusalem lasted at least six months and passed directly through enemy territory. Yet they took the risk.
 
-And then it came to me. The answer lies in the incentive systems. If they came back alive, they could keep the spoils of war and live out their days as rich men. If they died, they automatically passed on to the afterlife as martyrs, with all the benefits that came with it. It was win-win.
+And then it came to me. The answer lies in the incentive systems. If they came back alive, they could keep the spoils of war and live out their days as rich men. If they died, they automatically passed on to the afterlife as martyrs, with all the benefits that came with it.
 
-Imagine for a moment that instead of demanding enemies' riches, warriors and soldiers charged by the hour, we’d effectively be incentivizing them to take as long as possible, right? So why do we do just this? with lawyers, architects, consultants, accountants, and driving instructors. My advice? Forget hourly rates and always negotiate a fixed price in advance.
+It was win-win. Imagine for a moment that instead of demanding enemies' riches, warriors and soldiers charged by the hour, we’d effectively be incentivizing them to take as long as possible, right? So why do we do just this? with lawyers, architects, consultants, accountants, and driving instructors. My advice?
 
-Be wary, too, of investment advisors endorsing particular financial products. They’re not interested in your financial well-being but in earning a commission on these products. The same goes for entrepreneurs and investment bankers' business plans. These are often worthless because, again, the vendors have their own interests at heart.
+Forget hourly rates and always negotiate a fixed price in advance. Be wary, too, of investment advisors endorsing particular financial products. They’re not interested in your financial well-being but in earning a commission on these products. The same goes for entrepreneurs and investment bankers' business plans.
 
-What’s the old adage? Never ask a barber if you need a haircut. In conclusion, keep an eye out for the incentive super-response tendency.
+These are often worthless because, again, the vendors have their own interests at heart. What’s the old adage? Never ask a barber if you need a haircut. In conclusion, keep an eye out for the incentive super-response tendency.
 
 
 <a id="sec-013040"></a>
@@ -764,7 +778,7 @@ After ten weeks, about one thousand monkeys will be left.
 
 Those who have always invested their money well. After twenty weeks, just one monkey will remain. This one always, without fail, chose the right stocks, and is now a billionaire. Let’s call him the Success Monkey.
 
-How does the media react? It will pounce on this animal to understand its success principles, and they will find some. Perhaps the monkey eats more bananas than others. Perhaps he sits in another corner of the cage, or maybe he swings headlong through the branches, or he takes long, reflective pauses while grooming.
+How does the media react? It will pounce on this animal to understand its success principles, and they will find some. Perhaps, the monkey eats more bananas than others. Perhaps, he sits in another corner of the cage, or maybe he swings headlong through the branches, or he takes long, reflective pauses while grooming.
 
 He must have some recipe for success, right? How else could he perform so brilliantly? Spot on for two years, and that from a simple monkey? Impossible.
 
@@ -788,9 +802,11 @@ So rather than tearing your hair out about a wrong decision, or applauding yours
 
 Paradox of choice. My sister and her husband bought an unfinished house a little while ago. Since then, we haven’t been able to talk about anything else. The sole topic of conversation for the past two months has been bathroom tiles.
 
-Ceramic, granite, marble, metal, stone, wood, glass, and every type of laminate known to man. Rarely have I seen my sister in such anguish. There are just too many to choose from, she exclaims, throwing her hands in the air and returning to the tile catalog, her constant companion. I’ve counted and researched.
+Ceramic, granite, marble, metal, stone, wood, glass, and every type of laminate known to man. Rarely have. I seen my sister in such anguish. There are just too many to choose from, she exclaims, throwing her hands in the air and returning to the tile catalog, her constant companion.
 
-My local grocery store stocks 48 varieties of yogurt, 134 types of red wine, 64 different cleaning products, and a grand total of 30,000 items. Amazon, the internet bookseller, has two million titles available. Nowadays people are bombarded with options, such as hundreds of metal disorders, thousands of different careers, even more holiday destinations, and an infinite variety of lifestyles. There has never been more choice. When I was young we had three types of yogurt, three television channels, two churches, two kinds of cheese, mild or strong, one type of fish, trout, and one telephone provided
+I’ve counted and researched. My local grocery store stocks 48 varieties of yogurt, 134 types of red wine, 64 different cleaning products, and a grand total of 30,000 items. Amazon, the internet bookseller, has two million titles available. Nowadays people are bombarded with options, such as hundreds of metal disorders, thousands of different careers, even more holiday destinations, and an infinite variety of lifestyles.
+
+There has never been more choice. When. I was young we had three types of yogurt, three television channels, two churches, two kinds of cheese, mild or strong, one type of fish, trout, and one telephone provided
 
 
 <a id="sec-014043"></a>
@@ -800,39 +816,39 @@ by the Swiss Post. The black box with the dial served no other purpose than maki
 
 In contrast, anyone who enters a cell phone store today runs the risk of being flattened by an avalanche of brands, models, and contract options. And yet selection is the yardstick of progress. It’s what sets us apart from planned economies and the Stone Age. Yes, abundance makes you giddy, but there is a limit.
 
-When it succeeded, a surfeit of choices destroys quality of life. The technical term for this is the paradox of choice. In his book of the same title, psychologist Barry Schwartz describes why this is so. First a large selection leads to inner paralysis.
+When it succeeded, a surfeit of choices destroys quality of life. The technical term for this is the paradox of choice. In his book of the same title, psychologist Barry Schwartz describes why this is so.
 
-To test this, a supermarket set up a stand where customers could sample 24 varieties of jelly. They could try as many as they liked and then buy them at a discount. The next day the owners carried out the same experiment with only six flavors. The result?
+First, a large selection leads to inner paralysis. To test this, a supermarket set up a stand where customers could sample 24 varieties of jelly. They could try as many as they liked and then buy them at a discount. The next day the owners carried out the same experiment with only six flavors.
 
-They sold ten times more jelly on day two. Why? With such a wide range, customers couldn’t come to a decision, so they bought nothing. The experiment was repeated several times with different products.
+The result? They sold ten times more jelly on day two. Why? With such a wide range, customers couldn’t come to a decision, so they bought nothing.
 
-The results were always the same. Second, a broader selection leads to poorer decisions. If you ask young people what’s important in a life partner, they reel off all the usual qualities. Intelligence, good manners, warmth, the ability to listen, a sense of humor, and physical attractiveness.
+The experiment was repeated several times with different products. The results were always the same.
 
-But do they actually take these criteria into account when choosing someone? In the past, a young man from a village of average size could choose among maybe twenty girls of similar age with whom he went to school. He knew their families and vice versa, leading to a decision based on several well-known attributes. Nowadays, in the era of online dating, millions of potential partners are at our disposal.
+Second, a broader selection leads to poorer decisions. If you ask young people what’s important in a life partner, they reel off all the usual qualities. Intelligence, good manners, warmth, the ability to listen, a sense of humor, and physical attractiveness. But do they actually take these criteria into account when choosing someone?
 
-It has been proven that the stress caused by this mind-boggling variety is so large that the male brain reduces the decision to one single criterion, physical attractiveness. The consequences of this selection process you already know, perhaps even from personal experience.
+In the past, a young man from a village of average size could choose among maybe twenty girls of similar age with whom he went to school. He knew their families and vice versa, leading to a decision based on several well-known attributes. Nowadays, in the era of online dating, millions of potential partners are at our disposal. It has been proven that the stress caused by this mind-boggling variety is so large that the male brain reduces the decision to one single criterion, physical attractiveness.
 
-Finally, large selection leads to discontent. How can you be sure you’re making the right choice when two hundred options surround and confound you? The answer is, you cannot. The more choice you have, the more unsure and therefore dissatisfied you are afterward.
+The consequences of this selection process you already know, perhaps even from personal experience. Finally, large selection leads to discontent. How can you be sure you’re making the right choice when two hundred options surround and confound you? The answer is, you cannot.
 
-So what can you do? Think carefully about what you want before you inspect existing offers. Write down these criteria and stick to them rigidly. Also realize that you can never make a perfect decision.
+The more choice you have, the more unsure and therefore dissatisfied you are afterward. So what can you do? Think carefully about what you want before you inspect existing offers. Write down these criteria and stick to them rigidly.
 
-Aiming for this is, given the flood of possibilities, a form of irrational perfectionism. Instead, learn to love a good choice. Yes, even in terms of life partners. Only the best will do?
+Also realize that you can never make a perfect decision. Aiming for this is, given the flood of possibilities, a form of irrational perfectionism. Instead, learn to love a good choice. Yes, even in terms of life partners.
 
-In this age of unlimited variety, rather the opposite is true. Good enough is the new optimum. Except, of course, for you and me. Twenty-two.
+Only the best will do? In this age of unlimited variety, rather the opposite is true. Good enough is the new optimum. Except, of course, for you and me.
 
-You like me. You really, really like me. Liking bias. Kevin has just bought two boxes of fine Margaux.
+Twenty-two. You like me. You really, really like me. Liking bias.
 
-He rarely drinks wine, not even Bordeaux. But the sales assistant was so nice, not fake or pushy, just really likable. So he bought them. Joe Girard is considered the most successful car salesman in the world.
+Kevin has just bought two boxes of fine Margaux. He rarely drinks wine, not even Bordeaux. But the sales assistant was so nice, not fake or pushy, just really likable. So he bought them.
 
-His tip for success? There’s nothing more effective than selling anything than getting the customer to believe. Really believe that you like him and care about him. Girard doesn’t just talk the talk.
+Joe Girard is considered the most successful car salesman in the world. His tip for success? There’s nothing more effective than selling anything than getting the customer to believe. Really believe that you like him and care about him.
 
-His secret weapon is sending a card to his customers each month. Just one sentence salutes them. I like you. The liking bias is startlingly simple to understand, and yet we continually fall prey to it.
+Girard doesn’t just talk the talk. His secret weapon is sending a card to his customers each month. Just one sentence salutes them. I like you.
 
-It means this. The more we like someone, the more inclined we are to buy from or help that person. Still, the question remains, what does likable even mean? According to research, we see people as pleasant if, a, they are outwardly attractive, b, they are similar to us in terms of origin, personality, or interests, and c, they like us.
+The liking bias is startlingly simple to understand, and yet we continually fall prey to it. It means this. The more we like someone, the more inclined we are to buy from or help that person. Still, the question remains, what does likable even mean?
 
-Consequently, advertising is full of attractive people. Ugly people seem unfriendly and don’t even make it into the background. See A. In addition to engaging super attractive types, advertising also employs people like you and me, c, b, those who are similar in appearance, accent, or background.
+According to research, we see people as pleasant if, a, they are outwardly attractive, b, they are similar to us in terms of origin, personality, or interests, and c, they like us. Consequently, advertising is full of attractive people. Ugly people seem unfriendly and don’t even make it into the background. See A.
 
-In short, the more similar, the better. Mirroring is a standard technique in sales to get exactly this effect. Here the salesperson tries to copy the gestures, language, and facial expressions of his prospective
+In addition to engaging super attractive types, advertising also employs people like you and me, c, b, those who are similar in appearance, accent, or background. In short, the more similar, the better. Mirroring is a standard technique in sales to get exactly this effect. Here the salesperson tries to copy the gestures, language, and facial expressions of his prospective
 
 
 <a id="sec-014547"></a>
@@ -852,7 +868,7 @@ The more human a creature acts, the more similar it is to us, the more we like i
 
 Depending on the makeup and interests of an audience, they emphasize different topics, such as residential area, social background, or economic issues. And they flatter us. Each potential voter is made to feel like an indispensable member of the team. Your vote counts.
 
-Of course your vote counts, but only by the tiniest of fractions bordering on the irrelevant. A friend who deals in oil pumps told me how he once closed an eight-figure deal for a pipeline in Russia. Bribery, I inquired. He shook his head.
+Of course, your vote counts, but only by the tiniest of fractions bordering on the irrelevant. A friend who deals in oil pumps told me how he once closed an eight-figure deal for a pipeline in Russia. Bribery, I inquired. He shook his head.
 
 We were chatting, and suddenly we got onto the topic of sailing. It turned out that both of us, the buyer and me, were diehard 470 dinghy fans. From that moment on, he liked me. I was a friend.
 
@@ -862,15 +878,17 @@ Banish the salespeople from your mind, or rather, pretend you don’t like them.
 
 Although it had a few miles on the odometer, it looked in perfect condition. I know a little about used cars, and to me it was worth around $40,000.
 
-However, the salesman was pushing for $50,000 and wouldn’t budge a dime. When he called the next week to say he would accept $40,000 after all, I went for it. The next day I took it out for a spin and stopped at a gas station. The owner came out to admire the car and proceeded to offer me $53,000 in cash on the spot.
+However, the salesman was pushing for $50,000 and wouldn’t budge a dime. When he called the next week to say he would accept $40,000 after all, I went for it. The next day. I took it out for a spin and stopped at a gas station.
 
-I politely declined. Only on the way home did I realize how ridiculous I was to have said no. Something that I considered worth $40,000 had passed into my possession and suddenly taken on a value of more than $53,000. If I were thinking purely rationally, I would have sold the car immediately. But alas, I’d fallen under the influence of the endowment effect.
+The owner came out to admire the car and proceeded to offer me $53,000 in cash on the spot. I politely declined. Only on the way home did. I realize how ridiculous.
 
-We consider things to be more valuable the moment we own them. In other words, if we’re selling something, we charge more for it than what we ourselves would be willing to spend. To probe this, psychologist Dan Ariely conducted the following experiment. In one of his classes, he raffled tickets to a major basketball game, then polled the students to see how much they thought the tickets were worth.
+I was to have said no. Something that. I considered worth $40,000 had passed into my possession and suddenly taken on a value of more than $53,000. If.
 
-The empty-handed students estimated around $170, whereas the winning students would not sell it below an average of $2,400. The simple fact of ownership makes us add zeros to the selling price. In real estate, the endowment effect is palpable. Sellers become emotionally attached to their houses and thus systematically overestimate their value.
+I were thinking purely rationally, I would have sold the car immediately. But alas, I’d fallen under the influence of the endowment effect. We consider things to be more valuable the moment we own them.
 
-They balk at the market price, expecting buyers to pay more, which is completely absurd since this excess is little more than sentimental value.
+In other words, if we’re selling something, we charge more for it than what we ourselves would be willing to spend. To probe this, psychologist Dan Ariely conducted the following experiment. In one of his classes, he raffled tickets to a major basketball game, then polled the students to see how much they thought the tickets were worth. The empty-handed students estimated around $170, whereas the winning students would not sell it below an average of $2,400.
+
+The simple fact of ownership makes us add zeros to the selling price. In real estate, the endowment effect is palpable. Sellers become emotionally attached to their houses and thus systematically overestimate their value. They balk at the market price, expecting buyers to pay more, which is completely absurd since this excess is little more than sentimental value.
 
 
 <a id="sec-015047"></a>
@@ -884,27 +902,33 @@ Because the average owner would not sell below $5.25 and the average buyer would
 
 Auction houses like Christie’s and Sotheby’s thrive on this. A person who bids until the end of an auction gets the feeling that the object is practically theirs, thus increasing its value. The would-be owner is suddenly willing to pay much more than planned, and any withdrawal from the bidding is perceived as a loss, which defies all logic. In large auctions, such as those for mining rights or mobile radio frequencies, we often observe the winner’s curse.
 
-Here the successful bidder turns out to be the economic loser when he gets caught up in the fervor and over bids. I’ll offer more insight on the winner’s curse in Chapter 35. There’s a similar effect in the job market. If you’re applying for a job and don’t get a call back, you have every reason to be disappointed.
+Here the successful bidder turns out to be the economic loser when he gets caught up in the fervor and over bids. I’ll offer more insight on the winner’s curse in.
+
+#### Chapter 35.
+
+There’s a similar effect in the job market. If you’re applying for a job and don’t get a call back, you have every reason to be disappointed.
 
 However, if you make it to the final stages of the selection process and then receive the rejection, the disappointment can be much bigger, irrationally. Either you get the job or you don’t. Nothing else should matter. In conclusion, don’t cling to things.
 
-Consider your property something that the universe, whatever you believe this to be, has bestowed to you temporarily. Keep in mind that it can recoup this, or more, in the blink of an eye. 24. The Inevitability of Unlikely Events Coincidence At 7.15 p.m. on March 1, 1950, the 15 members of the church choir in Beatrice, Nebraska were scheduled to meet for rehearsal. For various reasons, they were all running late.
+Consider your property something that the universe, whatever you believe this to be, has bestowed to you temporarily. Keep in mind that it can recoup this, or more, in the blink of an eye. 24. The Inevitability of Unlikely Events Coincidence. At 7.15 p.m. on March 1, 1950, the 15 members of the church choir in Beatrice, Nebraska were scheduled to meet for rehearsal.
 
-The minister’s family was delayed because his wife still had to iron their daughter’s dress. One couple was held back when their car wouldn’t start. The pianist wanted to be there 30 minutes early, but he fell into a deep sleep after dinner. And so on.
+For various reasons, they were all running late. The minister’s family was delayed because his wife still had to iron their daughter’s dress. One couple was held back when their car wouldn’t start. The pianist wanted to be there 30 minutes early, but he fell into a deep sleep after dinner.
 
-At 7.25 p.m., the church exploded. The blast was heard all around the village. It blew out the walls and sent the roof crashing to the ground. Miraculously, nobody was killed.
+And so on. At 7.25 p.m., the church exploded. The blast was heard all around the village. It blew out the walls and sent the roof crashing to the ground.
 
-The fire chief traced the explosion back to a gas leak, even though members of the choir were convinced they had received a sign from God. Hand of God or Coincidence? Something last week made me think of my old school friend, Andy, whom I hadn’t spoken to in a long time.
+Miraculously, nobody was killed. The fire chief traced the explosion back to a gas leak, even though members of the choir were convinced they had received a sign from God. Hand of God or Coincidence? Something last week made me think of my old school friend, Andy, whom.
 
-Suddenly the phone rang. I picked it up, and lo and behold, it was Andy. I must be telepathic, I exclaimed excitedly. But telepathy or coincidence?
+I hadn’t spoken to in a long time. Suddenly, the phone rang. I picked it up, and lo and behold, it was Andy. I must be telepathic, I exclaimed excitedly.
 
-On October 5, 1990, the San Francisco Examiner reported that Intel would take its rival, AMD, to court. Intel found out that the company was planning to launch a computer chip named AM386, a term that clearly referred to Intel’s 386 chip. How Intel came upon the information is remarkable. By pure coincidence, both companies had hired someone named Mike Webb.
+But telepathy or coincidence? On October 5, 1990, the San Francisco Examiner reported that Intel would take its rival, AMD, to court. Intel found out that the company was planning to launch a computer chip named AM386, a term that clearly referred to Intel’s 386 chip. How Intel came upon the information is remarkable.
 
-Both men were staying in the same hotel in California and checked out on the same day. After they had left, the hotel accepted a package for Mike Webb at reception. It contained confidential documents about the AM386 chip, and the hotel mistakenly sent it to Mike Webb of Intel, who promptly forwarded the contents to the legal department. How likely are stories like that?
+By pure coincidence, both companies had hired someone named Mike Webb. Both men were staying in the same hotel in California and checked out on the same day. After they had left, the hotel accepted a package for Mike Webb at reception. It contained confidential documents about the AM386 chip, and the hotel mistakenly sent it to Mike Webb of Intel, who promptly forwarded the contents to the legal department.
 
-The Swiss psychiatrist C. G. Jung saw in them the work of an unknown force, which he called synchronicity. But how should a rationally-minded thinker approach these accounts, preferably with a piece of paper and a pencil?
+How likely are stories like that? The Swiss psychiatrist C. G. Jung saw in them the work of an unknown force, which he called synchronicity.
 
-What are the first case, the explosion of the church? Draw four boxes to represent each of the potential events. The first possibility is what actually took place. Choir delayed and church exploded.
+But how should a rationally-minded thinker approach these accounts, preferably with a piece of paper and a pencil? What are the first case, the explosion of the church? Draw four boxes to represent each of the potential events. The first possibility is what actually took place.
+
+Choir delayed and church exploded.
 
 
 <a id="sec-015548"></a>
@@ -928,17 +952,23 @@ Groupthink. Have you ever bitten your tongue in a meeting? Surely. Don’t sit t
 
 After all, you don’t want to be the eternal naysayer. Moreover, you might not be 100% sure why you disagree, whereas the others are unanimous and far from stupid. So you keep your mouth shut for another day. When everyone thinks and acts like this, groupthink is at work.
 
-This is where a group of smart people makes reckless decisions because everyone aligns their opinions with the supposed consensus. Thus, motions are passed that each individual group member would have rejected if no peer pressure had been involved. Groupthink is a special branch of social proof, a flaw that we discussed in Chapter 4. In March 1960, the U. S. Secret Service began to mobilize anti-communist exiles from Cuba, most of them living in Miami, to use against Fidel Castro’s regime.
+This is where a group of smart people makes reckless decisions because everyone aligns their opinions with the supposed consensus. Thus, motions are passed that each individual group member would have rejected if no peer pressure had been involved. Groupthink is a special branch of social proof, a flaw that we discussed in.
 
-In January 1961, two days after taking office, President Kennedy was informed about the secret plan to invade Cuba. Three months later, a key meeting took place at the White House, where Kennedy and his advisers all voted in favor of the invasion. On April 17, 1961, a brigade of about 1,400 exiled Cubans landed at the Bay of Pigs, on Cuba’s south coast, with the help of the U. S. Navy, the Air Force, and the CIA. The aim was to overthrow Castro’s government.
+#### Chapter 4.
 
-However, nothing went as planned. On the first day, not a single supply ship reached the coast. The Cuban Air Force sank the first two, and the next two turned around and fled back to the United States. A day later, Castro’s army completely surrounded the brigade.
+In March 1960, the U. S. Secret Service began to mobilize anti-communist exiles from Cuba, most of them living in Miami, to use against Fidel Castro’s regime. In January 1961, two days after taking office, President Kennedy was informed about the secret plan to invade Cuba.
 
-On the third day, the 1,200 survivors were taken into custody and sent to military prisons. Kennedy’s invasion of the Bay of Pigs is regarded as one of the biggest flops in American foreign policy. That such an absurd plan was ever agreed upon, never mind put into action, is astounding. All of the ass… assumptions that spoke in favor of the invasion were erroneous.
+Three months later, a key meeting took place at the White House, where Kennedy and his advisers all voted in favor of the invasion. On April 17, 1961, a brigade of about 1,400 exiled Cubans landed at the Bay of Pigs, on Cuba’s south coast, with the help of the U. S. Navy, the Air Force, and the CIA.
 
-For example, Kennedy’s team completely underestimated the strength of Cuba’s Air Force. Also, it was expected that in an emergency the brigade would be able to hide in the Escambre Mountains and carry out an underground war against Castro from there. A glance at the map shows that the refuge was 100 miles away from the Bay of Pigs with an insurmountable swamp in between. And yet, Kennedy and his advisers were among the most intelligent people to ever run an American government.
+The aim was to overthrow Castro’s government. However, nothing went as planned. On the first day, not a single supply ship reached the coast. The Cuban Air Force sank the first two, and the next two turned around and fled back to the United States.
 
-What went wrong between January and April 1961? Psychology professor Irving Janus has studied many fiasco’s. He concluded that they share the following pattern. Members of a close-knit group cultivate team spirit by, unconsciously, building illusions.
+A day later, Castro’s army completely surrounded the brigade. On the third day, the 1,200 survivors were taken into custody and sent to military prisons. Kennedy’s invasion of the Bay of Pigs is regarded as one of the biggest flops in American foreign policy. That such an absurd plan was ever agreed upon, never mind put into action, is astounding.
+
+All of the ass… assumptions that spoke in favor of the invasion were erroneous. For example, Kennedy’s team completely underestimated the strength of Cuba’s Air Force. Also, it was expected that in an emergency the brigade would be able to hide in the Escambre Mountains and carry out an underground war against Castro from there. A glance at the map shows that the refuge was 100 miles away from the Bay of Pigs with an insurmountable swamp in between.
+
+And yet, Kennedy and his advisers were among the most intelligent people to ever run an American government. What went wrong between January and April 1961? Psychology professor Irving Janus has studied many fiasco’s. He concluded that they share the following pattern.
+
+Members of a close-knit group cultivate team spirit by, unconsciously, building illusions.
 
 
 <a id="sec-020052"></a>
@@ -958,7 +988,7 @@ Which do you play? If you win the first game, it changes your life completely. Y
 
 The probability of winning is 1 in 100 million in the first game, and 1 in 10,000 in the second game. So which do you choose? Our emotions draw us to the first game, even though the second is 10 times better, objectively considered. Expected win times probability.
 
-Therefore the trend is toward ever-larger jackpots, mega-millions, mega-billions, mega-trillions, no matter how small the odds are. In a classic experiment from 1972, participants were divided into two groups. The members of the first group were told that they would receive a small electric shock. In the second group, subjects were told that the risk of this happening was only 50%.
+Therefore, the trend is toward ever-larger jackpots, mega-millions, mega-billions, mega-trillions, no matter how small the odds are. In a classic experiment from 1972, participants were divided into two groups. The members of the first group were told that they would receive a small electric shock. In the second group, subjects were told that the risk of this happening was only 50%.
 
 The researchers measured physical anxiety, heart rate, nervousness, sweating, etc., shortly before commencing. The results were, well, shocking. There was absolutely no difference. Participants in both groups were equally stressed.
 
@@ -982,35 +1012,37 @@ To test this, let’s examine two methods of treating drinking water. Suppose a 
 
 That is, the threat is completely eliminated. So Method A or B? If you think like most people, you’ll opt for Method B, which is silly because with Measure A, 3% fewer people die, and with B, just 1% fewer. Method A is three times as good.
 
-This fallacy is called the zero-risk bias. A classic example of this is the U. S. Food Act of 1958, which prohibits food that contains cancer-causing substances. Instituted to achieve zero risk of cancer, this ban sounds good at first, but it ended up leading to the use of more dangerous, but non-carcinogenic, food additives. It’s also absurd.
+This fallacy is called the zero-risk bias. A classic example of this is the U. S. Food Act of 1958, which prohibits food that contains cancer-causing substances.
 
-As Paracelsus illustrated in the 16th century, poisoning is always a question of dosage. Furthermore, this law can never be enforced properly since it’s impossible to remove the last banned molecule from food. Each farm would have to function like a hyper-sterile computer chip factory, and the cost of food would increase a hundredfold. Economically, zero risk rarely makes sense.
+Instituted to achieve zero risk of cancer, this ban sounds good at first, but it ended up leading to the use of more dangerous, but non-carcinogenic, food additives. It’s also absurd. As Paracelsus illustrated in the 16th century, poisoning is always a question of dosage.
 
-One exception is when the consequences are colossal, such as a deadly, highly contagious virus escaping from a biotech laboratory. We have no intuitive grasp of risk, and thus distinguish poorly among different threats. The more serious the threat, and the more emotional the topic, such as radioactivity, the less reassuring a reduction in risk seems to us. Two researchers at the University of Chicago have shown that people are equally afraid of a 99% chance, as they are of a 1% chance of contamination by toxic chemicals.
+Furthermore, this law can never be enforced properly since it’s impossible to remove the last banned molecule from food. Each farm would have to function like a hyper-sterile computer chip factory, and the cost of food would increase a hundredfold. Economically, zero risk rarely makes sense. One exception is when the consequences are colossal, such as a deadly, highly contagious virus escaping from a biotech laboratory.
 
-An irrational response, but a common one. Twenty-seven. Why the last cookie in the jar makes your mouth water? Scarcity error.
+We have no intuitive grasp of risk, and thus distinguish poorly among different threats. The more serious the threat, and the more emotional the topic, such as radioactivity, the less reassuring a reduction in risk seems to us. Two researchers at the University of Chicago have shown that people are equally afraid of a 99% chance, as they are of a 1% chance of contamination by toxic chemicals. An irrational response, but a common one.
 
-Coffee at a friend’s house. We sat trying to make conversation while her three children grappled with one another on the floor.
+Twenty-seven. Why the last cookie in the jar makes your mouth water? Scarcity error. Coffee at a friend’s house.
 
-Suddenly I remembered that I had brought some glass marbles with me, a whole bag full. I spilled them out on the floor in the hope that the little angels would play with them in peace. Far from it. A heated argument ensued.
+We sat trying to make conversation while her three children grappled with one another on the floor. Suddenly. I remembered that. I had brought some glass marbles with me, a whole bag full.
 
-I didn’t understand what was happening until I looked more closely. Apparently, among the countless marbles, there was just one blue one, and the children scrambled for it. All the marbles were exactly the same size, and shiny and bright. But the blue one had an advantage over the others.
+I spilled them out on the floor in the hope that the little angels would play with them in peace. Far from it. A heated argument ensued. I didn’t understand what was happening until.
 
-It was one of a kind. I had to laugh at how childish children are. In August 2005, when I heard that Google would launch its own email service, I was dead set on getting an account. In the end, I did.
+I looked more closely. Apparently, among the countless marbles, there was just one blue one, and the children scrambled for it. All the marbles were exactly the same size, and shiny and bright. But the blue one had an advantage over the others.
 
-At the time, new accounts were very restricted and were given out only by invitation. This made me want one even more. But why? Certainly not because I needed another email account.
+It was one of a kind. I had to laugh at how childish children are. In August 2005, when. I heard that Google would launch its own email service, I was dead set on getting an account.
 
-Back then, I already had four, nor because Gmail was better than the competition, but simply because not everyone had access to it. Looking back, I have to laugh at how childish adults are. Rara sunt kara, said the Romans, rare is valuable.
+In the end, I did. At the time, new accounts were very restricted and were given out only by invitation. This made me want one even more. But why?
 
-In fact, the scarcity error is as old as mankind. My friend with the three children is a part-time real estate agent. Whenever she has an interested buyer who cannot decide, she calls and says, a doctor from London saw the plot of land yesterday. He liked it a lot.
+Certainly not because. I needed another email account. Back then, I already had four, nor because Gmail was better than the competition, but simply because not everyone had access to it. Looking back, I have to laugh at how childish adults are.
 
-What about you? Are you still interested? The doctor from London, sometimes it’s a professor or a banker, is, of course, fictitious. The effect is very real, though.
+Rara sunt kara, said the Romans, rare is valuable. In fact, the scarcity error is as old as mankind. My friend with the three children is a part-time real estate agent. Whenever she has an interested buyer who cannot decide, she calls and says, a doctor from London saw the plot of land yesterday.
 
-It causes prospects to see the opportunity disappearing before their eyes, so they act and close the deal. Why? This is the potential shortage of supply, yet again. Objectively, this situation is incomprehensible.
+He liked it a lot. What about you? Are you still interested? The doctor from London, sometimes it’s a professor or a banker, is, of course, fictitious.
 
-Either the prospect wants the land for the set price or he doesn’t, regardless of any doctors from London. To assess the quality of cookies, Professor Stephen Vorkle split participants into two groups. The first group received an entire box of cookies, and the second group just two. In the end, the subjects with just two cookies rated the quality much higher than the first group did.
+The effect is very real, though. It causes prospects to see the opportunity disappearing before their eyes, so they act and close the deal. Why? This is the potential shortage of supply, yet again.
 
-The experiment was repeated several times and always showed the same result. Only while stocks last, the ads alert, today only, warned the posters. Gallery owners take advantage of the scarcity error by placing red sold dots under most of their paintings, transforming the remaining few works into rare items that must be snatched
+Objectively, this situation is incomprehensible. Either the prospect wants the land for the set price or he doesn’t, regardless of any doctors from London. To assess the quality of cookies, Professor Stephen Vorkle split participants into two groups. The first group received an entire box of cookies, and the second group just two.
+
+In the end, the subjects with just two cookies rated the quality much higher than the first group did. The experiment was repeated several times and always showed the same result. Only while stocks last, the ads alert, today only, warned the posters. Gallery owners take advantage of the scarcity error by placing red sold dots under most of their paintings, transforming the remaining few works into rare items that must be snatched
 
 
 <a id="sec-021100"></a>
@@ -1028,13 +1060,13 @@ In Europe, where the age limit is 18, you don’t witness this type of behavior.
 
 When you hear hoofbeats, don’t expect a zebra. Base rate neglect. Mark is a thin man from Germany with glasses who likes to listen to Mozart. Which is more likely?
 
-That A, Mark is a truck driver, or B, he is a professor of literature in Frankfurt. Most will bet on B, which is wrong. Germany has 10,000 times more truck drivers than Frankfurt has literature professors. Therefore it’s more likely that Mark is a truck driver.
+That A, Mark is a truck driver, or B, he is a professor of literature in Frankfurt. Most will bet on B, which is wrong. Germany has 10,000 times more truck drivers than Frankfurt has literature professors.
 
-So what just happened? The detailed description enticed us to overlook the statistical reality. Scientists call this fallacy, base rate neglect, a disregard of fundamental distribution levels. It’s one of the most common errors in reasoning.
+Therefore, it’s more likely that Mark is a truck driver. So what just happened? The detailed description enticed us to overlook the statistical reality. Scientists call this fallacy, base rate neglect, a disregard of fundamental distribution levels.
 
-Virtually all journalists, economists, and politicians fall for it on a regular basis. Here’s a second example. A young man is stabbed and fatally injured. Which of these is more likely?
+It’s one of the most common errors in reasoning. Virtually all journalists, economists, and politicians fall for it on a regular basis. Here’s a second example. A young man is stabbed and fatally injured.
 
-A, the attacker is a Russian immigrant and imports combat knives illegally, or B, the attacker is a middle-class American. You know the drill now, option B is much more likely because there are a million times more middle-class Americans than there are Russian knife importers. In medicine, base rate neglect plays an important role.
+Which of these is more likely? A, the attacker is a Russian immigrant and imports combat knives illegally, or B, the attacker is a middle-class American. You know the drill now, option B is much more likely because there are a million times more middle-class Americans than there are Russian knife importers. In medicine, base rate neglect plays an important role.
 
 For example, migraines can point, among others, to a viral infection or a brain tumor. However, viral infections are much more common.
 
@@ -1054,21 +1086,25 @@ This makes them neglect the large part of the invisible cases. Imagine you’re 
 <a id="sec-021601"></a>
 ### ⏱️ [02:16:01 - 02:21:02]
 
-The label of the bottle is covered. If, like me, you’re not a wine connoisseur, the only lifeline you have is the base rate. You know from experience that about three quarters of the wines on the menu are of French origin, so reasonably you guess France, even if you suspect a Chilean or Californian twist. Sometimes I have the dubious honor of speaking in front of students of elite business schools.
+The label of the bottle is covered. If, like me, you’re not a wine connoisseur, the only lifeline you have is the base rate. You know from experience that about three quarters of the wines on the menu are of French origin, so reasonably you guess France, even if you suspect a Chilean or Californian twist. Sometimes.
 
-When I ask them about their career prospects, most answer that in the medium term, they see themselves on the boards of global companies. Years ago, both my fellow students and I gave the same answer. The way I see it, my role is to give students a base rate crash course. With a degree from this school, the chance of you landing a spot on the board of a Fortune 500 company is less than 0.1%.
+I have the dubious honor of speaking in front of students of elite business schools. When. I ask them about their career prospects, most answer that in the medium term, they see themselves on the boards of global companies. Years ago, both my fellow students and.
 
-No matter how smart and ambitious you are, the most likely scenario is that you will end up in middle management. With this, I earn shocked looks and tell myself that I’ve made a small contribution toward mitigating their future midlife crises. 29. Why the balancing force of the universe is baloney. Gambler’s fallacy.
+I gave the same answer. The way. I see it, my role is to give students a base rate crash course. With a degree from this school, the chance of you landing a spot on the board of a Fortune 500 company is less than 0.1%.
 
-In the summer of 1913, something incredible happened in Monte Carlo. Crowds gathered around a roulette table and could not believe their eyes. The ball had landed on black 20 times in a row. Many players took advantage of the opportunity and immediately put their money on red.
+No matter how smart and ambitious you are, the most likely scenario is that you will end up in middle management. With this, I earn shocked looks and tell myself that. I’ve made a small contribution toward mitigating their future midlife crises. 29. Why the balancing force of the universe is baloney.
 
-But the ball continued to come to rest on black. Even more people flocked to the table to bet on red. It had to change eventually. But it was black yet again and again and again.
+Gambler’s fallacy. In the summer of 1913, something incredible happened in Monte Carlo. Crowds gathered around a roulette table and could not believe their eyes. The ball had landed on black 20 times in a row.
 
-It was not until the 27th spin that the ball eventually landed on red. By that time, the players had bet millions on the table. In a few spins of the wheel, they were bankrupt. The average IQ of pupils in a big city is 100.
+Many players took advantage of the opportunity and immediately put their money on red. But the ball continued to come to rest on black. Even more people flocked to the table to bet on red. It had to change eventually.
 
-To investigate this, you take a random sample of 50 students, the first child tested as an IQ of 150. What will the average IQ of your 50 students be? Most people guess 100. Somehow they think that the super smart student will be balanced out, perhaps by a dismal student with an IQ of 150 or by two below average students with IQs of 75.
+But it was black yet again and again and again. It was not until the 27th spin that the ball eventually landed on red. By that time, the players had bet millions on the table. In a few spins of the wheel, they were bankrupt.
 
-But with such a small sample, that’s very unlikely. We must expect that the remaining 49 students will represent the average of the population, so they’ll each have an average IQ of 100. 49 times 100 plus one IQ of 150 gives us an average of 101 in the sample. The Monte Carlo example and the IQ experiment show that people believe in the balancing forces of the universe. This is the gambler’s fallacy.
+The average IQ of pupils in a big city is 100. To investigate this, you take a random sample of 50 students, the first child tested as an IQ of 150. What will the average IQ of your 50 students be? Most people guess 100.
+
+Somehow they think that the super smart student will be balanced out, perhaps by a dismal student with an IQ of 150 or by two below average students with IQs of 75. But with such a small sample, that’s very unlikely. We must expect that the remaining 49 students will represent the average of the population, so they’ll each have an average IQ of 100. 49 times 100 plus one IQ of 150 gives us an average of 101 in the sample.
+
+The Monte Carlo example and the IQ experiment show that people believe in the balancing forces of the universe. This is the gambler’s fallacy.
 
 However, with independent events, there is no harmonizing force at work. A ball cannot remember how many times it has landed on black. Despite this, one of my friends entered the weekly Mega Millions numbers into a spreadsheet and then plays those that have appeared the least. All this work is for naught.
 
@@ -1092,15 +1128,15 @@ For example, the rich tend to get richer. A stock that shoots up creates its own
 
 In real life, in the financial markets, and in business, with the weather and your health, events are often interrelated. What has already happened has an influence on what will happen. As comforting an idea as it is, there is simply no balancing force out there for independent events. What goes around, comes around.
 
-Simply does not exist. 30. Why the Wheel of Fortune Makes Our Head Spin. The Anchor. When was Abraham Lincoln born?
+Simply does not exist. 30. Why the Wheel of Fortune Makes. Our Head Spin. The Anchor.
 
-If you don’t know the year off the top of your head, and your smartphone battery has just died, how do you answer this? Perhaps you know that he was president during the Civil War in the 1860s, and that he was the first US president to be assassinated. Looking at the Lincoln Memorial in Washington, you don’t see a young, energetic man, but something more akin to a worn-out 60-year-old veteran. The memorial must depict him at the height of his political power, say at the age of 60.
+When was Abraham Lincoln born? If you don’t know the year off the top of your head, and your smartphone battery has just died, how do you answer this? Perhaps, you know that he was president during the Civil War in the 1860s, and that he was the first US president to be assassinated. Looking at the Lincoln Memorial in Washington, you don’t see a young, energetic man, but something more akin to a worn-out 60-year-old veteran.
 
-Let’s assume that he was assassinated in the mid-1860s, making 1805 our estimate for the year he was born. The correct answer is 1809. So how did we work it out? We found an anchor to help us, the year 1865, and worked from there to an educated guess.
+The memorial must depict him at the height of his political power, say at the age of 60. Let’s assume that he was assassinated in the mid-1860s, making 1805 our estimate for the year he was born. The correct answer is 1809. So how did we work it out?
 
-Whenever we have to guess something, the length of the Mississippi River, population density in Russia, the number of nuclear power plants in France, we use anchors. We start with something we’re sure of and venture into unfamiliar territory from there. How else could we do it? Just pick a number off the top of our heads?
+We found an anchor to help us, the year 1865, and worked from there to an educated guess. Whenever we have to guess something, the length of the Mississippi River, population density in Russia, the number of nuclear power plants in France, we use anchors. We start with something we’re sure of and venture into unfamiliar territory from there. How else could we do it?
 
-That would be irrational. Unfortunately, we also use anchors when we don’t need to.
+Just pick a number off the top of our heads? That would be irrational. Unfortunately, we also use anchors when we don’t need to.
 
 For example, one day in a lecture, a professor placed a bottle of wine on the table. He asked his students to write down the last two digits of their social security numbers and then decide if they would be willing to spend that amount on the wine. In the auction that followed, students with higher numbers bid nearly twice as much as students with lower numbers. The social security digits worked as an anchor, albeit in a hidden and misleading way.
 
@@ -1114,9 +1150,9 @@ And the professionals, did they value the house objectively? No, they were simil
 
 The recommended retail price printed on many products is nothing more than an anchor. Sales professionals know they must establish a price at an early stage, long before they have an offer. Also, it’s been proven that if teachers know students' past grades, it influences how their mark new work. The most recent grades act as a starting point.
 
-In my early years, I had a quick stint at a consulting firm. My boss was a pro when it came to using anchors. In his first conversation with any client, he made sure to fix an opening price, which by the way almost criminally exceeded our internal costs. I’ll tell you this now, so you’re not surprised when you receive the quote, Mr. So-and-so.
+In my early years, I had a quick stint at a consulting firm. My boss was a pro when it came to using anchors. In his first conversation with any client, he made sure to fix an opening price, which by the way almost criminally exceeded our internal costs. I’ll tell you this now, so you’re not surprised when you receive the quote, Mr.
 
-We’ve just completed a similar project for one of your competitors, and it was in the range of five million dollars. The anchor was dropped. The price negotiation started at exactly five million.
+So-and-so. We’ve just completed a similar project for one of your competitors, and it was in the range of five million dollars. The anchor was dropped. The price negotiation started at exactly five million.
 
 
 <a id="sec-022622"></a>
@@ -1140,27 +1176,27 @@ Suppose that after one month the indices have fallen. Now you can send another e
 
 Continue doing this. After 10 months, around 100 people will remain, all of whom you’ve advised impeccably. From their perspective, you’re a genius. You’ve proven that you’re truly in possession of prophetic powers.
 
-Some of these people will trust you with their money, take it, and start a new life in Brazil. However it’s not just naive strangers who get deceived in this way. We constantly trick ourselves, too.
+Some of these people will trust you with their money, take it, and start a new life in Brazil. However, it’s not just naive strangers who get deceived in this way. We constantly trick ourselves, too.
 
 For example, people who are rarely ill consider themselves immortal. CEOs who announce increased profits in consecutive quarters deem themselves infallible. Their employees and shareholders do, too. I once had a friend who was a base jumper.
 
-He jumped off cliffs and teni in buildings, pulling the ripcord only at the last minute. One day I brought up how risky his chosen sport is. He replied quite matter-of-factly, I’ve over a thousand jumps under my belt, and nothing has ever happened to me. Two months later he was dead.
+He jumped off cliffs and teni in buildings, pulling the ripcord only at the last minute. One day. I brought up how risky his chosen sport is. He replied quite matter-of-factly, I’ve over a thousand jumps under my belt, and nothing has ever happened to me.
 
-It happened when he jumped from a particularly dangerous cliff in South Africa. This single event was enough to eradicate a theory confirmed a thousand times over. Inductive thinking can have devastating results, yet we cannot do without it. We trust that when we board a plane, aerodynamic laws will still be valid.
+Two months later he was dead. It happened when he jumped from a particularly dangerous cliff in South Africa. This single event was enough to eradicate a theory confirmed a thousand times over. Inductive thinking can have devastating results, yet we cannot do without it.
 
-We imagine that we will not be randomly beaten up on the street. state, we expect that our hearts will still be beating tomorrow. These are confidences without which we couldn’t live. But we must remember that certainties are always provisional. As Benjamin Franklin said, nothing is certain but death and taxes.
+We trust that when we board a plane, aerodynamic laws will still be valid. We imagine that we will not be randomly beaten up on the street. state, we expect that our hearts will still be beating tomorrow. These are confidences without which we couldn’t live. But we must remember that certainties are always provisional.
 
-Induction seduces us and leads us to conclusions such as, mankind has always survived, so we’ll be able to tackle any future challenges too. Sounds good in theory, but what we fail to realize is that such a statement can only come from a species that has lasted until now. To assume that our existence to date is an indication of our future survival is a serious flaw in reasoning, probably the most serious of all. 32. Why evil is more striking than good.
+As Benjamin Franklin said, nothing is certain but death and taxes. Induction seduces us and leads us to conclusions such as, mankind has always survived, so we’ll be able to tackle any future challenges too. Sounds good in theory, but what we fail to realize is that such a statement can only come from a species that has lasted until now. To assume that our existence to date is an indication of our future survival is a serious flaw in reasoning, probably the most serious of all. 32.
 
-Loss aversion. On a scale of one to ten, how good do you feel today? Now consider what would bring you up to a perfect ten. That vacation in the Caribbean you’ve always dreamed of?
+Why evil is more striking than good. Loss aversion. On a scale of one to ten, how good do you feel today? Now consider what would bring you up to a perfect ten.
 
-A step up the career ladder, maybe. Next question, what would make you drop down by the same number of points? Paralysis? Alzheimer’s?
+That vacation in the Caribbean you’ve always dreamed of? A step up the career ladder, maybe. Next question, what would make you drop down by the same number of points? Paralysis?
 
-Cancer? Depression? War? Hunger?
+Alzheimer’s? Cancer? Depression? War?
 
-Torture? Financial ruin? Damage to your reputation? Losing your best friend?
+Hunger? Torture? Financial ruin? Damage to your reputation?
 
-Your children getting kidnapped? Blindness?
+Losing your best friend? Your children getting kidnapped? Blindness?
 
 
 <a id="sec-023123"></a>
@@ -1170,7 +1206,7 @@ Death? The long list of possibilities makes us realize just how many obstacles t
 
 One stupid mistake, and you were dead. Everything could lead to your rapid departure from the game of life, carelessness on the hunt, an inflamed tendon, exclusion from the group, and so on. People who were reckless or gung-ho died before they could pass their genes on to the next generation. Those who remained, the cautious, survived.
 
-We are their descendants. So no wonder we fear loss more than we value gain. Losing $100 costs you a greater amount of happiness than the delight you would feel if I gave you $100.
+We are their descendants. So no wonder we fear loss more than we value gain. Losing $100 costs you a greater amount of happiness than the delight you would feel if. I gave you $100.
 
 In fact, it’s been proven that emotionally, a loss weighs about twice that of a similar gain. Social scientists call this loss aversion. For this reason, if you want to convince someone about something, don’t focus on the advantages. Instead, highlight how it helps them dodge the disadvantages.
 
@@ -1208,25 +1244,27 @@ We slack off mentally, too. For example, in meetings, the larger the team, the w
 
 However, once a certain number of participants are involved, our performance plateaus. Whether the group consists of 20 or 100 people is not important. Maximum inertia has been achieved. One question remains.
 
-Who came up with the much-vaunted idea that teams achieve more than individual workers? Maybe the Japanese. Thirty years ago, they flooded global markets with their products. Business economists looked more closely at the industrial miracle and saw that Japanese factories were organized into teams. This model was copied with mixed success.
+Who came up with the much-vaunted idea that teams achieve more than individual workers? Maybe the Japanese. Thirty years ago, they flooded global markets with their products. Business economists looked more closely at the industrial miracle and saw that Japanese factories were organized into teams.
 
-What worked very well in Japan could not be replicated with the Americans and Europeans, perhaps because social loafing rarely happens there. In the West, teams function better if and only if they’re small and consist of diverse, specialized people. This makes sense because within such groups, individual performances can be traced back to each specialist. Social loafing has interesting implications.
+This model was copied with mixed success. What worked very well in Japan could not be replicated with the Americans and Europeans, perhaps because social loafing rarely happens there. In the West, teams function better if and only if they’re small and consist of diverse, specialized people. This makes sense because within such groups, individual performances can be traced back to each specialist.
 
-In groups, we tend to hold back not only in terms of participation, but also in terms of accountability. Nobody wants to take the rap for the misdeeds or poor decisions of the whole group. A glaring example is the prosecution of the Nazis at the Nuremberg trials, or less controversially, any board or management team. We hide behind team decisions.
+Social loafing has interesting implications. In groups, we tend to hold back not only in terms of participation, but also in terms of accountability. Nobody wants to take the rap for the misdeeds or poor decisions of the whole group. A glaring example is the prosecution of the Nazis at the Nuremberg trials, or less controversially, any board or management team.
 
-The technical term for this is diffusion of responsibility. For the same reason, teams tend to take bigger risks than their members would take on their own. The individual group members reason that they’re not the only ones who will be blamed if things go wrong. This effect is called risky shift and is especially hazardous among companies and pension fund strategists where billions are at stake or in the Defense Department where groups decide on the use of nuclear weapons.
+We hide behind team decisions. The technical term for this is diffusion of responsibility. For the same reason, teams tend to take bigger risks than their members would take on their own. The individual group members reason that they’re not the only ones who will be blamed if things go wrong.
 
-In conclusion, people behave differently in groups than when alone, otherwise there would be no groups. The disadvantages of groups can be mitigated by making individual performances as visible as possible. Long live meritocracy. Long live the performance society. 34.
+This effect is called risky shift and is especially hazardous among companies and pension fund strategists where billions are at stake or in the Defense Department where groups decide on the use of nuclear weapons. In conclusion, people behave differently in groups than when alone, otherwise there would be no groups. The disadvantages of groups can be mitigated by making individual performances as visible as possible. Long live meritocracy.
 
-Stumped by a sheet of paper. Exponential growth. A piece of paper is folded in two, then in half again, and again and again. How thick will it be after 50 folds?
+Long live the performance society. 34. Stumped by a sheet of paper. Exponential growth. A piece of paper is folded in two, then in half again, and again and again.
 
-Write down your guess before you continue reading. Second task. Choose between these options. A.
+How thick will it be after 50 folds? Write down your guess before you continue reading.
 
-Over the next 30 days, I will give you $1,000 a day. B. Over the next 30 days, I will give you a cent on the first day, two cents a day. Cents on the second day, four cents on the third day, eight cents on the fourth day, and so on.
+Second, task. Choose between these options. A. Over the next 30 days, I will give you $1,000 a day.
 
-Don’t think too long about it, A or B. Are you ready? Well, if we assume that a sheet of copy paper is approximately 0.004 inches thick, then its thickness after 50 folds is a little over 60 million miles. This equals the distance between the Earth and the Sun, as you can check easily with a calculator.
+B. Over the next 30 days, I will give you a cent on the first day, two cents a day. Cents on the second day, four cents on the third day, eight cents on the fourth day, and so on. Don’t think too long about it, A or B.
 
-With the second question, it’s worthwhile choosing option B, even though A sounds more tempting. Selecting A earns you $30,000 in 30 days. Choosing B gives you more than $5 million. Linear growth, we understand intuitively.
+Are you ready? Well, if we assume that a sheet of copy paper is approximately 0.004 inches thick, then its thickness after 50 folds is a little over 60 million miles. This equals the distance between the Earth and the Sun, as you can check easily with a calculator. With the second question, it’s worthwhile choosing option B, even though A sounds more tempting.
+
+Selecting A earns you $30,000 in 30 days. Choosing B gives you more than $5 million. Linear growth, we understand intuitively.
 
 However, we have no sense of exponential or percentage growth. Why is this? Because we didn’t need it before. Our ancestors' experiences were mostly of the linear variety.
 
@@ -1252,15 +1290,17 @@ Nothing that grows exponentially grows forever. Most politicians, economists, an
 
 For example, the intestinal bacterium Escherichia coli divides every 20 minutes. In just a few days, it could cover the whole planet, but since it consumes more oxygen and sugar than is available, its growth has a cutoff point. The ancient Persians were well aware that people struggled with percentage growth. Here’s a local tale.
 
-There was once a wise courtier who presented the king with a chessboard. Moved by the gift, the king said to him, tell me how I can thank you. Your Highness, I want nothing more than for you to cover the chessboard with rice, putting one grain of rice on the first square, and then on every subsequent square, twice the previous number of grains. The king was astonished.
+There was once a wise courtier who presented the king with a chessboard. Moved by the gift, the king said to him, tell me how. I can thank you. Your Highness, I want nothing more than for you to cover the chessboard with rice, putting one grain of rice on the first square, and then on every subsequent square, twice the previous number of grains.
 
-It’s an honor to you, dear courtier, that you present such a modest request. But how much rice is that? The king guessed about a sack. Only when his servants began the task, placing a grain on the first square, two grains of rice on the second square, four grains of rice on the third, and so on, did he realize that he would need more rice than was growing on Earth.
+The king was astonished. It’s an honor to you, dear courtier, that you present such a modest request. But how much rice is that? The king guessed about a sack.
 
-When it comes to growth rates, don’t trust your intuition. You don’t have any. Accept it. What really helps is a calculator, or with low growth rates, the magic number of 70. 35.
+Only when his servants began the task, placing a grain on the first square, two grains of rice on the second square, four grains of rice on the third, and so on, did he realize that he would need more rice than was growing on Earth. When it comes to growth rates, don’t trust your intuition. You don’t have any. Accept it.
 
-Curb Your Enthusiasm. Winners Curse. Texas in the 1950s. A piece of land is being auctioned.
+What really helps is a calculator, or with low growth rates, the magic number of 70. 35. Curb. Your Enthusiasm. Winners Curse.
 
-Ten oil companies are vying for it. Each has made an estimate of how much the site is worth. The lowest assessment is $10 million, and the highest is $100 million. The higher the price climbs during the auction, the more firms exit the bidding.
+Texas in the 1950s. A piece of land is being auctioned. Ten oil companies are vying for it. Each has made an estimate of how much the site is worth.
+
+The lowest assessment is $10 million, and the highest is $100 million. The higher the price climbs during the auction, the more firms exit the bidding.
 
 Finally, one company submits the highest bid and wins. Champagne corks pop. The Winners Curse suggests that the winner of an auction often turns out to be the loser. Industry analysts have noted that companies that regularly emerged as winning bidders from these oil field auctions systematically paid too much, and years later went under.
 
@@ -1294,13 +1334,15 @@ Try it out with friends. In conclusion, accept this piece of wisdom about auctio
 
 Write this number on a piece of paper and don’t go assent over it. Thirty-six. Never ask a writer if the novel is autobiographical. Fundamental attribution error.
 
-Opening the newspaper, you learn that another CEO has been forced to step down because of bad results. In the sports section, you read that your team’s winning season was thanks to player X or coach Y. In history books, you learn that the success of the French army in the early eighteen hundreds is a testament to Napoleon’s superb leadership and strategy. Every story has a face, it seems. Indeed, this is an ironclad rule in every newsroom.
+Opening the newspaper, you learn that another CEO has been forced to step down because of bad results. In the sports section, you read that your team’s winning season was thanks to player X or coach Y. In history books, you learn that the success of the French army in the early eighteen hundreds is a testament to Napoleon’s superb leadership and strategy. Every story has a face, it seems.
 
-Always on the lookout for the people angle, journalists and their readers take this principle one step further and thus fall prey to the fundamental attribution error. This describes the tendency to overestimate individual’s influence and underestimate external situational factors. In 1967, researchers at Duke University set up the following experiment. Participants read an argument either lauding or loathing Fidel Castro.
+Indeed, this is an ironclad rule in every newsroom. Always on the lookout for the people angle, journalists and their readers take this principle one step further and thus fall prey to the fundamental attribution error. This describes the tendency to overestimate individual’s influence and underestimate external situational factors. In 1967, researchers at Duke University set up the following experiment.
 
-They were informed that the author of the text had been allocated the viewpoint regardless of his true political views. He was just making a coherent argument. Nevertheless, most of the audience believed what he said reflected his true opinion. They falsely attributed the content of the speech to his character and ignored the external factors, in this case, the professors who had crafted the text.
+Participants read an argument either lauding or loathing Fidel Castro. They were informed that the author of the text had been allocated the viewpoint regardless of his true political views. He was just making a coherent argument. Nevertheless, most of the audience believed what he said reflected his true opinion.
 
-The fundamental attribution error is particularly useful for whittling negative events into neat little packages. For example, the blame for wars we lazily push onto individuals. The Yugoslav assassin in Sarajevo has World War I on his conscience and Hitler single-handedly caused World War II. Many swallow these simplifications even though wars are unforeseeable events whose innumerable dynamics we may never fully understand, which sounds a little bit like financial markets and climate issues.
+They falsely attributed the content of the speech to his character and ignored the external factors, in this case, the professors who had crafted the text. The fundamental attribution error is particularly useful for whittling negative events into neat little packages.
+
+For example, the blame for wars we lazily push onto individuals. The Yugoslav assassin in Sarajevo has World War. I on his conscience and Hitler single-handedly caused World War II. Many swallow these simplifications even though wars are unforeseeable events whose innumerable dynamics we may never fully understand, which sounds a little bit like financial markets and climate issues.
 
 Don’t you agree? We see the same pattern when companies announce good or bad results. All eyes shift to the CEO’s office, even if we know the truth. Economic success depends far more on the overall economic climate and the industry’s attractiveness than on brilliant leadership.
 
@@ -1352,7 +1394,7 @@ The simple truth is that educated parents tend to value their children’s educa
 
 more than uneducated ones do. Plus, educated parents often have more books at home. In short, a dust-covered copy of War and Peace alone isn’t going to influence anyone’s grades. What counts is parents' education levels, as well as their genes.
 
-The best example of false causality was the supposed relationship between the birth rate and the number of stork pairs in Germany. Both were in decline, and if you plot them on a graph, the two lines of development from 1965 to 1987 appear almost identical. Does this mean the stork actually does bring babies? Obviously not, since this was a purely coincidental correlation.
+The best example of false causality was the supposed relationship between the birth rate and the number of stork pairs in Germany. Both were in decline, and if you plot them on a graph, the two lines of development from 1965 to 1987 appear almost identical. Does this mean the stork actually does bring babies? Obviously, not, since this was a purely coincidental correlation.
 
 In conclusion, correlation is not causality. Take a closer look at linked events. Sometimes what’s presented as the cause turns out to be the effect, and vice versa. And sometimes there’s no link at all, just like with the stork and babies. 38.
 
@@ -1360,7 +1402,7 @@ Why attractive people climb the career ladder more quickly. Halo effect. Cisco, 
 
 In March 2000, it was the most valuable company in the world. When Cisco’s stock plummeted 80 percent the following year, the journalists changed their tune.
 
-Suddenly the company’s competitive advantages were reframed as destructive shortcomings, poor customer service, a woolly strategy, clumsy acquisitions, a lame corporate culture, and an insipid CEO. All this, and yet neither the strategy nor the CEO had changed. What had changed, in the wake of the dot-com crash, was demand for Cisco’s product, and that was through no fault of the firm. The halo effect occurs when a single aspect dazzles us and affects how we see the full picture.
+Suddenly, the company’s competitive advantages were reframed as destructive shortcomings, poor customer service, a woolly strategy, clumsy acquisitions, a lame corporate culture, and an insipid CEO. All this, and yet neither the strategy nor the CEO had changed. What had changed, in the wake of the dot-com crash, was demand for Cisco’s product, and that was through no fault of the firm. The halo effect occurs when a single aspect dazzles us and affects how we see the full picture.
 
 In the case of Cisco, its halo shone particularly bright. Journalists were astounded by its stock prices and assumed the entire business was just as brilliant, without closer investigation. The halo effect always works the same way. We take a simple to obtain or remarkable factor detail, such as a company’s financial situation, and extrapolate conclusions from there that are harder to nail down, such as the merit of its management or the feasibility of its strategy.
 
@@ -1374,9 +1416,9 @@ But this hasn’t detracted from the success of the campaign. We’re so used to
 
 All that needs to register is the attractive face, dream lifestyle, and that product. Sticking with negative effects, the halo effect can lead to great injustice and even stereotyping when nationality, gender, or race becomes the all-encompassing feature. One need be neither racist nor sexist to fall victim to this. The halo effect clouds our view, just as it does journalists, educators, and consumers.
 
-Occasionally this effect has pleasant consequences, at least in the short term. Have you ever been head over heels in love? If so, you know how flawless a person can appear. Your Mr. or Ms. Perfect seems to be the whole package.
+Occasionally this effect has pleasant consequences, at least in the short term. Have you ever been head over heels in love? If so, you know how flawless a person can appear. Your Mr. or Ms.
 
-Attractive, intelligent, likable, and warm. Even when your friends might point out obvious failings, you see nothing but endearing quirks. The halo effect obstructs our view of true characteristics.
+Perfect seems to be the whole package. Attractive, intelligent, likable, and warm. Even when your friends might point out obvious failings, you see nothing but endearing quirks. The halo effect obstructs our view of true characteristics.
 
 
 <a id="sec-030140"></a>
@@ -1410,9 +1452,9 @@ In the heart of New York, working for one of the major investment banks, maybe i
 
 To a rational mind, 10 million dollars that comes about through a huge risk is worth less than the same sum earned by years of drudgery. An accountant might disagree, though. Recently, I was at a dinner with an American friend who suggested tossing a coin to decide who should pay the bill. He lost.
 
-The situation was uncomfortable for me since he was my guest in Switzerland. Next time I’ll pay, whether here or in New York, I promised. He thought for a moment and said, considering the alternative paths, you’ve actually already paid for half of this dinner. In conclusion, risk is not directly visible.
+The situation was uncomfortable for me since he was my guest in Switzerland. Next time. I’ll pay, whether here or in New York, I promised. He thought for a moment and said, considering the alternative paths, you’ve actually already paid for half of this dinner.
 
-Therefore, always consider what the alternative paths are. Success that comes about through risky dealings is to a rational mind of less worth than success achieved the boring way.
+In conclusion, risk is not directly visible. Therefore, always consider what the alternative paths are. Success that comes about through risky dealings is to a rational mind of less worth than success achieved the boring way.
 
 For example, with laborious work as a lawyer, a dentist, a ski instructor, a pilot, a hairdresser or a consultant. Yes, looking at alternative paths from the outside is a difficult task. Looking at them from the inside, an almost impossible task. Your brain will do everything to convince you that your success is warranted, no matter how risky your dealings are, and will obscure any thought of paths other than the one you’re on. 40.
 
@@ -1432,17 +1474,19 @@ In terms of accuracy, the experts fared only marginally better than a random for
 
 None of these countries has imploded. There are two kinds of forecasters, those who don’t know and those who don’t know they don’t know, wrote Harvard economist John Kenneth Galbraith. With this, he made himself a figure of hatred in his own guild. Fund manager Peter Lynch summed it up even more cuttingly.
 
-There are 60,000 economists in the US. Many of them employed full time trying to forecast recessions and interest rates. And if they could do it successfully twice in a row, they’d all be millionaires by now. As far as I know, most of them are still gainfully employed, which ought to tell us something.
+There are 60,000 economists in the US. Many of them employed full time trying to forecast recessions and interest rates. And if they could do it successfully twice in a row, they’d all be millionaires by now. As far as.
 
-That was 10 years ago. Today, the United States could employ three times as many economists with little or no effect on the quality of their forecasts. The problem is that experts enjoy free rein with few negative consequences. If they strike it lucky, they enjoy publicity, consultancy offers, and publication deals.
+I know, most of them are still gainfully employed, which ought to tell us something. That was 10 years ago. Today, the United States could employ three times as many economists with little or no effect on the quality of their forecasts. The problem is that experts enjoy free rein with few negative consequences.
 
-If they’re completely off the mark, they face no penalties, neither in terms of financial compensation, nor in loss of reputation. This win-win scenario virtually incentivizes them to churn out as many prophecies as they can muster. Indeed, the more forecasts they generate, the more will be coincidentally correct. Ideally, they should have to pay into some sort of forecast fund, say $1,000 per prediction.
+If they strike it lucky, they enjoy publicity, consultancy offers, and publication deals. If they’re completely off the mark, they face no penalties, neither in terms of financial compensation, nor in loss of reputation. This win-win scenario virtually incentivizes them to churn out as many prophecies as they can muster. Indeed, the more forecasts they generate, the more will be coincidentally correct.
 
-If the forecast is correct, the expert gets his money back with interest. If he’s wrong, the money goes to charity. So what is predictable and what is not? Some things are fairly simple.
+Ideally, they should have to pay into some sort of forecast fund, say $1,000 per prediction. If the forecast is correct, the expert gets his money back with interest. If he’s wrong, the money goes to charity. So what is predictable and what is not?
 
-For example, I have a rough idea of how many pounds I will weigh in a year’s time. However, the more complex the system and the longer the timeframe, the more blurred the view of the future will be. Global warming, oil prices, or exchange rates are almost impossible to foresee. Inventions are not at all predictable because if we knew what technology we would invent in the future, we would already have invented it.
+Some things are fairly simple. For example, I have a rough idea of how many pounds. I will weigh in a year’s time.
 
-So be critical when you encounter predictions. Whenever I hear one, I make sure to smile, no matter how bleak it is. Then I ask myself two questions.
+However, the more complex the system and the longer the timeframe, the more blurred the view of the future will be. Global warming, oil prices, or exchange rates are almost impossible to foresee. Inventions are not at all predictable because if we knew what technology we would invent in the future, we would already have invented it. So be critical when you encounter predictions.
+
+Whenever. I hear one, I make sure to smile, no matter how bleak it is. Then. I ask myself two questions.
 
 First, what incentive does the expert have? If he’s an employee, could he lose his job if he’s always wrong? Or is he a self-appointed guru who earns a living through books and lectures? The latter type of forecaster relies on the media’s attention.
 
@@ -1450,13 +1494,13 @@ So predictably, his prophecies tend to be sensational. Second, how good is his s
 
 This information is vital, yet often goes unreported. I implore the media, please don’t publish any more forecasts without giving the pundits track record.
 
-Finally, since it’s so fitting, a quote from former British Prime Minister Tony Blair. I don’t make predictions. I never have and I never will. 41. The deception of specific cases.
+Finally, since it’s so fitting, a quote from former British Prime Minister Tony Blair. I don’t make predictions. I never have and. I never will. 41.
 
-Conjunction fallacy. Chris is 35. He studied social philosophy and has had an interest in developing countries since he was a teenager. After graduation, he worked for two years with the Red Cross in West Africa, and then for three years in its Geneva headquarters where he rose to the head of the African Aid Department.
+The deception of specific cases. Conjunction fallacy. Chris is 35. He studied social philosophy and has had an interest in developing countries since he was a teenager.
 
-He then completed an MBA, writing his thesis on corporate social responsibility. What is more likely? A, Chris works for a major bank or B, Chris works for a major bank where he runs its Third World Foundation. A or B?
+After graduation, he worked for two years with the Red Cross in West Africa, and then for three years in its Geneva headquarters where he rose to the head of the African Aid Department. He then completed an MBA, writing his thesis on corporate social responsibility. What is more likely? A, Chris works for a major bank or B, Chris works for a major bank where he runs its Third World Foundation.
 
-Most people will opt for B. Unfortunately, it’s the wrong answer. Option B does not only say that Chris works for a major bank, but also that an additional
+A or B? Most people will opt for B. Unfortunately, it’s the wrong answer. Option B does not only say that Chris works for a major bank, but also that an additional
 
 
 <a id="sec-031151"></a>
@@ -1466,7 +1510,7 @@ condition has been met. Employees who work specifically within a bank’s Third 
 
 Therefore, option A is much more likely. The conjunction fallacy is at play when such a subset seems larger than the entire set, which by definition cannot be the case. Amos Tversky and Nobel Laureate Daniel Kahneman have studied this extensively. We are easy prey for the conjunction fallacy because we have an innate attraction to harmonious or plausible stories.
 
-The more convincingly, impressively, or vividly that Chris, the aid worker, is portrayed, the greater the risk of false reasoning. If I’d put it a different way, you would have recognized the extra details as overly specific.
+The more convincingly, impressively, or vividly that Chris, the aid worker, is portrayed, the greater the risk of false reasoning. If. I’d put it a different way, you would have recognized the extra details as overly specific.
 
 For example, Chris is 35. What is more likely? A, Chris works for a bank or B, Chris works for a bank in New York where his office is on the 24th floor overlooking Central Park. Here’s another example.
 
@@ -1482,9 +1526,9 @@ Both groups had to indicate how likely they considered the scenarios. The result
 
 The first kind is intuitive, automatic, and direct. The second is conscious, rational, slow, laborious, and logical. Unfortunately, intuitive thinking draws conclusions long before the conscious mind does.
 
-For example, I experienced this after the 9-11 attacks on the World Trade Center. I wanted to take out travel insurance and came across a firm that offered special terrorism cover. Although other policies protected against all possible incidents, including terrorism, I automatically fell for the offer. The high point of the whole farce was that I was willing to pay even more for this enticing yet redundant add-on.
+For example, I experienced this after the 9-11 attacks on the World Trade Center. I wanted to take out travel insurance and came across a firm that offered special terrorism cover. Although other policies protected against all possible incidents, including terrorism, I automatically fell for the offer. The high point of the whole farce was that.
 
-In conclusion, forget about left brains and right brains. The difference between intuitive and conscious thinking is much more significant. With important decisions, remember that, at the intuitive level, we have a soft spot for plausible stories.
+I was willing to pay even more for this enticing yet redundant add-on. In conclusion, forget about left brains and right brains. The difference between intuitive and conscious thinking is much more significant. With important decisions, remember that, at the intuitive level, we have a soft spot for plausible stories.
 
 Therefore, be on the lookout for convenient details and happy endings. Remember, if an additional condition has to be met, no matter how plausible it sounds, it will become less, not more likely. 42. It’s not what you say, but how you say it. Framing.
 
@@ -1588,15 +1632,15 @@ However, if the company has had a miserable year, we read about all sorts of oth
 
 If you got an A, you were solely responsible. The top grade reflected your intelligence, hard work, and skill. And if you flunked, the test was clearly unfair. But grades don’t matter to you anymore.
 
-Perhaps the stock market has taken their place. There, if you make a profit, you applaud yourself. If your portfolio performs miserably, the blame lies exclusively with the market, whatever you imply by this. Or maybe that useless investment advisor.
+Perhaps, the stock market has taken their place. There, if you make a profit, you applaud yourself. If your portfolio performs miserably, the blame lies exclusively with the market, whatever you imply by this. Or maybe that useless investment advisor.
 
-I too have periods where I’m a power user of the self-serving bias. If my new novel rockets up the bestseller list, I clap myself on the shoulder. Surely, this is my best book yet. But if it disappears in the flood of new releases, it’s because the readers simply don’t recognize good literature when they see it.
+I too have periods where. I’m a power user of the self-serving bias. If my new novel rockets up the bestseller list, I clap myself on the shoulder. Surely, this is my best book yet.
 
-Even if the critics slay it, it’s clearly a case of jealousy. To investigate this bias, researchers put together a personality test and afterward allocated the participants good or bad scores at random. Those who got scored highly found the test thorough and fair. Low scorers rated it completely useless.
+But if it disappears in the flood of new releases, it’s because the readers simply don’t recognize good literature when they see it. Even if the critics slay it, it’s clearly a case of jealousy. To investigate this bias, researchers put together a personality test and afterward allocated the participants good or bad scores at random. Those who got scored highly found the test thorough and fair.
 
-So why do we attribute success to our own skill and describe failure to other factors? There are many theories. The simplest explanation is probably this. It feels good.
+Low scorers rated it completely useless. So why do we attribute success to our own skill and describe failure to other factors? There are many theories. The simplest explanation is probably this.
 
-Plus, it doesn’t cause any major harm. If it did, evolution would have eliminated it over the past hundred thousand years.
+It feels good. Plus, it doesn’t cause any major harm. If it did, evolution would have eliminated it over the past hundred thousand years.
 
 
 <a id="sec-033201"></a>
@@ -1606,33 +1650,37 @@ But beware, in a modern world with many hidden risks, the self-serving bias can 
 
 In SAT tests, students can score between 200 and 800 points. When asked their results a year later, they tend to boost their scores by around 50 points. Interestingly, they’re neither lying nor exaggerating. They’re simply enhancing the result a little, until they start to believe the new score themselves.
 
-In the building where I live, five students share an apartment. I meet them now and again in the elevator, and I decided to ask them separately how often they take out the trash. One said he did it every second time, another every third time. Roommate number three, cursing because his garbage bag had split, reckoned he did it pretty much every time, say 90 percent.
+In the building where. I live, five students share an apartment. I meet them now and again in the elevator, and. I decided to ask them separately how often they take out the trash.
 
-Although their answer should have added up to 100 percent, these boys achieved an impressive 320 percent. The five systematically overestimated their roles, and so are no different from many of us. In married couples, the same thing happens. It’s been shown that both men and women overestimate their contribution to the health of the marriage.
+One said he did it every second time, another every third time. Roommate number three, cursing because his garbage bag had split, reckoned he did it pretty much every time, say 90 percent. Although their answer should have added up to 100 percent, these boys achieved an impressive 320 percent. The five systematically overestimated their roles, and so are no different from many of us.
 
-Each assumes their input is more than 50 percent. So how can we dodge the self-serving bias? Do you have friends who tell you the truth, no holds barred? If so, consider yourself lucky.
+In married couples, the same thing happens. It’s been shown that both men and women overestimate their contribution to the health of the marriage. Each assumes their input is more than 50 percent. So how can we dodge the self-serving bias?
 
-If not, do you have at least one enemy? Good. Invite him or her over for coffee and ask for an honest opinion about your strengths and weaknesses. You’ll be forever grateful you did.
+Do you have friends who tell you the truth, no holds barred? If so, consider yourself lucky. If not, do you have at least one enemy? Good.
 
-Forty-six. Be careful what you wish for. Hedonic treadmill. Suppose one day the phone rings, an excited voice tells you that you’ve just scooped the lottery jackpot ten million dollars.
+Invite him or her over for coffee and ask for an honest opinion about your strengths and weaknesses. You’ll be forever grateful you did. Forty-six. Be careful what you wish for.
 
-How would you feel? And how long would you feel like that? Another scenario, the phone rings and you learn that your best friend has passed away. Again, how would you feel and for how long?
+Hedonic treadmill. Suppose one day the phone rings, an excited voice tells you that you’ve just scooped the lottery jackpot ten million dollars. How would you feel? And how long would you feel like that?
 
-In Chapter 40, False Prophets, Forecast Illusion, we examined the miserable accuracy of predictions, for example in the fields of politics, economics, and social events. We concluded that self-appointed experts are of no more use than a random forecast generator. So moving on to a new area. How well can we predict our feelings?
+Another scenario, the phone rings and you learn that your best friend has passed away. Again, how would you feel and for how long? In.
 
-Are we experts on ourselves? Would winning the lottery make us the happiest people alive for years to come? Harvard psychologist Dan Gilbert says no. He studied lottery winners and discovered that the happiness effect fizzles out after a few months. So a little while after you receive the big check, you’ll be as content or as discontent as you were before.
+#### Chapter 40, False Prophets, Forecast Illusion, we examined the miserable accuracy of predictions, for example in the fields of politics, economics, and social events.
+
+We concluded that self-appointed experts are of no more use than a random forecast generator. So moving on to a new area. How well can we predict our feelings? Are we experts on ourselves?
+
+Would winning the lottery make us the happiest people alive for years to come? Harvard psychologist Dan Gilbert says no. He studied lottery winners and discovered that the happiness effect fizzles out after a few months. So a little while after you receive the big check, you’ll be as content or as discontent as you were before.
 
 He calls this effective forecasting, our inability to correctly predict our own emotions. A friend, a banking executive, whose enormous income was beginning to burn a hole in his pocket, decided to build himself a new home away from the city. His dream materialized into a villa with ten rooms, a swimming pool, and an enviable view of the lake and mountains. For the first few weeks, he beamed with delight.
 
 Soon the cheerfulness disappeared, and six months later, he was unhappier than ever. What happened? As we now know, the happiness effect evaporates after a few months. The villa was no longer his dream.
 
-I come home from work, open the door, and nothing. I feel as indifferent about the villa as I did about my one-room student apartment. To make things worse, the poor guy now faced a one-hour commute twice a day. This may sound tolerable, but studies show that commuting by car represents a major source of discontent and stress, and people hardly ever get used to it.
+I come home from work, open the door, and nothing. I feel as indifferent about the villa as. I did about my one-room student apartment. To make things worse, the poor guy now faced a one-hour commute twice a day.
 
-In other words, whoever has no innate affinity for commuting will suffer every day twice a day. Anyhow, the moral of the story is that the dream villa had an overall negative effect on my friend’s happiness. Many others fare no better. People who change or progress in their careers are, in terms of happiness, right back where they started after around three months.
+This may sound tolerable, but studies show that commuting by car represents a major source of discontent and stress, and people hardly ever get used to it. In other words, whoever has no innate affinity for commuting will suffer every day twice a day. Anyhow, the moral of the story is that the dream villa had an overall negative effect on my friend’s happiness. Many others fare no better.
 
-The same goes for people who buy the latest Porsche. Science calls this effect the hedonic treadmill. We work hard, advance, and are able to afford more and nicer things, and yet this doesn’t make us any happier. So how do negative events affect us?
+People who change or progress in their careers are, in terms of happiness, right back where they started after around three months. The same goes for people who buy the latest Porsche. Science calls this effect the hedonic treadmill. We work hard, advance, and are able to afford more and nicer things, and yet this doesn’t make us any happier.
 
-Perhaps a spinal cord injury or the loss of a friend? Here we also overestimate the duration and intensity of future emotions.
+So how do negative events affect us? Perhaps, a spinal cord injury or the loss of a friend? Here we also overestimate the duration and intensity of future emotions.
 
 
 <a id="sec-033704"></a>
@@ -1646,13 +1694,19 @@ Aim for as much free time and autonomy as possible, since long-lasting positive 
 
 In other words, if you ascend to a CEO role and fraternize only with other executives, the effect fizzles out. 47. Do not marvel at your existence. Self-selection bias. Starting from Philadelphia up to New York, I got stuck in a traffic jam.
 
-Why is that always me? I groaned. Glancing to the opposite side of the road, I saw carefree southbound drivers racing past with enviable speed. As I spent the next hour crawling forward at a snail’s pace and started to grow restless from braking and accelerating, I asked myself whether I really was especially unlucky.
+Why is that always me? I groaned. Glancing to the opposite side of the road, I saw carefree southbound drivers racing past with enviable speed. As.
 
-Do I always pick the worst lines at the bank, post office, and grocery store? Or do I just think I do? Suppose that on this highway, a traffic jam develops 10 percent of the time. The probability that I’ll get stuck in a jam on a particular day is not greater than the probability that one will occur.
+I spent the next hour crawling forward at a snail’s pace and started to grow restless from braking and accelerating, I asked myself whether. I really was especially unlucky. Do. I always pick the worst lines at the bank, post office, and grocery store?
 
-However, the likelihood that I will get stuck at a certain point in my journey is greater than 10 percent. The reason? Because I can only crawl forward when, in a traffic jam, I spend a disproportionate amount of time in this state. In addition, if the traffic is zooming along, the prospect never crosses my mind.
+Or do. I just think. I do? Suppose that on this highway, a traffic jam develops 10 percent of the time.
 
-But the moment it arises, and I’m stuck, I notice it. The same applies to the lines at bank counters or traffic lights. Let’s say the route between point A and point B has 10 traffic lights. On average, one out of the 10 will always be red, and the other’s green.
+The probability that. I’ll get stuck in a jam on a particular day is not greater than the probability that one will occur.
+
+However, the likelihood that. I will get stuck at a certain point in my journey is greater than 10 percent. The reason? Because.
+
+I can only crawl forward when, in a traffic jam, I spend a disproportionate amount of time in this state. In addition, if the traffic is zooming along, the prospect never crosses my mind. But the moment it arises, and. I’m stuck, I notice it.
+
+The same applies to the lines at bank counters or traffic lights. Let’s say the route between point A and point B has 10 traffic lights. On average, one out of the 10 will always be red, and the other’s green.
 
 However, you may spend more than 10 percent of your total travel time waiting at a red light. If this doesn’t seem right, imagine that you’re traveling at near the speed of light. In this case, you’d spend 99.99 percent, not 10 percent, of your total journey time waiting and cursing in front of red traffic lights. Whenever we complain about bad luck, we must be wary of the so-called self-selection bias.
 
@@ -1690,19 +1744,21 @@ He used a bell to call the dogs to eat, but soon the ringing sound was enough to
 
 For this reason, you’ll never see a coke alongside a frowning face or a wrinkly body. Coke people are young, beautiful, and oh-so-fun, and they appear in clusters not seen in the real world. These false connections are the work of the association bias, which also influences the quality of our decisions.
 
-For example, we often condemn bearers of bad news since we automatically associate them with the message’s content, otherwise known as shoot the messenger syndrome. Sometimes CEOs and investors unconsciously steer clear of these harbingers, meaning the only news that reaches the upper echelons is positive, thus creating a distorted view of the real situation. If you lead a group of people and don’t want to fall prey to false connections, direct your staff to tell you only the bad news and fast. With this, you overcompensate for the shoot the messenger syndrome, and believe me, you will still hear enough positive news.
+For example, we often condemn bearers of bad news since we automatically associate them with the message’s content, otherwise known as shoot the messenger syndrome. Sometimes CEOs and investors unconsciously steer clear of these harbingers, meaning the only news that reaches the upper echelons is positive, thus creating a distorted view of the real situation. If you lead a group of people and don’t want to fall prey to false connections, direct your staff to tell you only the bad news and fast.
 
-In the days before email and telemarketing, traveling salesmen went door-to-door peddling their wares. One day, a particular salesman, George Foster, stood at a front door. The house transpired to be vacant, and unbeknownst to him, a tiny leak had been filling it with gas for weeks. The bell was also damaged, so when he pressed it, it created a spark, and the house exploded.
+With this, you overcompensate for the shoot the messenger syndrome, and believe me, you will still hear enough positive news. In the days before email and telemarketing, traveling salesmen went door-to-door peddling their wares.
 
-Poor George ended up in the hospital, but fortunately, he was soon back on his feet. Unfortunately, his fear of ringing door bells had become so strong that he couldn’t carry out his job for many years. He knew how unlikely a repeat of the incident was, but for all he tried, he just couldn’t manage to reverse the false emotional connection. The take-home message from all this is phrased most aptly by Mark Twain.
+One day, a particular salesman, George Foster, stood at a front door. The house transpired to be vacant, and unbeknownst to him, a tiny leak had been filling it with gas for weeks. The bell was also damaged, so when he pressed it, it created a spark, and the house exploded. Poor George ended up in the hospital, but fortunately, he was soon back on his feet.
 
-We should be careful to get out of an experience only the wisdom that is in it, and stop there lest we be like the cat that sits down on a hot stove lid. She will never sit down on a hot stove lid again, and that as well, but also she will never sit down on a cold one anymore. 49. Be wary when things get off to a great
+Unfortunately, his fear of ringing door bells had become so strong that he couldn’t carry out his job for many years. He knew how unlikely a repeat of the incident was, but for all he tried, he just couldn’t manage to reverse the false emotional connection. The take-home message from all this is phrased most aptly by Mark Twain. We should be careful to get out of an experience only the wisdom that is in it, and stop there lest we be like the cat that sits down on a hot stove lid.
+
+She will never sit down on a hot stove lid again, and that as well, but also she will never sit down on a cold one anymore. 49. Be wary when things get off to a great
 
 
 <a id="sec-034716"></a>
 ### ⏱️ [03:47:16 - 03:52:19]
 
-start. Beginner’s Luck In the last chapter, we learned about the association bias, the tendency to see connections where none exist.
+start. Beginner’s Luck. In the last chapter, we learned about the association bias, the tendency to see connections where none exist.
 
 For example, regardless of how many big presentations he’s nailed while wearing them, Kevin’s green polka-dot underpants are no guarantee of success. We now come to a particularly tricky branch of the association bias, creating a false link with the past. Casino players know this well. They call it beginner’s luck.
 
@@ -1714,9 +1770,9 @@ Objectively speaking, this was foreseeable because in the previous acquisitions,
 
 However, these investors overlooked one tiny detail. Their amazing profits at the time had nothing to do with their stock-picking abilities. The market was simply on an upward spiral. Even the most clueless investors won big.
 
-When the market finally turned downward, many were left facing mountains of dot-com debt. We witnessed the same delusions during the recent U. S. housing boom. Debtists, lawyers, teachers, and taxi drivers gave up their jobs to flip houses, to buy them and resell them right away at higher prices. The first fat profits justified their career changes, but of course these gains had nothing to do with any specific skills.
+When the market finally turned downward, many were left facing mountains of dot-com debt. We witnessed the same delusions during the recent U. S. housing boom. Debtists, lawyers, teachers, and taxi drivers gave up their jobs to flip houses, to buy them and resell them right away at higher prices.
 
-The housing bubble allowed even the most inept amateur brokers to flourish. Many investors became deeply indebted as they flipped even more and even bigger mansions. When the bubble finally burst, many were left with only a string of unsellable properties to their names.
+The first fat profits justified their career changes, but of course these gains had nothing to do with any specific skills. The housing bubble allowed even the most inept amateur brokers to flourish. Many investors became deeply indebted as they flipped even more and even bigger mansions. When the bubble finally burst, many were left with only a string of unsellable properties to their names.
 
 In fact, history has no shortage of beginner’s luck. I doubt whether Napoleon or Hitler would have dared launch a campaign against the Russians without the previous victories in smaller battles to bolster them. But how do you tell the difference between beginner’s luck and the first signs of real talent? There is no clear rule, but these two tips may help.
 
@@ -1726,23 +1782,23 @@ Second, the more people competing, the greater the chances are that one of them 
 
 Watch and wait before you draw any conclusions. Beginner’s luck can be devastating, so guard against misconceptions by treating your theories as a scientist would. Try to disprove them. As my first novel, Thirty-Five, was ready to go, I sent it to a single publisher, where it was promptly accepted.
 
-For a moment, I felt like a genius—a literary sensation. The chance that this publisher will take on a manuscript is one in fifteen thousand. To test my theory, I then sent the manuscript to ten other big publishers, and I got ten rejection letters. My notion was thus disproven, bringing me swiftly back down to earth.
+For a moment, I felt like a genius—a literary sensation. The chance that this publisher will take on a manuscript is one in fifteen thousand. To test my theory, I then sent the manuscript to ten other big publishers, and. I got ten rejection letters.
 
-Fifty, sweet little lies, cognitive dissonance. A fox crept up to a vine. He gazed longingly at the fat, purple, overripe grapes. He placed his front paws against the trunk of the vine, stretched his neck, and tried to get at the fruit, but it was too high.
+My notion was thus disproven, bringing me swiftly back down to earth. Fifty, sweet little lies, cognitive dissonance. A fox crept up to a vine. He gazed longingly at the fat, purple, overripe grapes.
 
-Irritated, he tried his luck again. He launched himself upward, but his jaw snapped only at fresh air. A third time he leapt with all his might, so powerfully that he landed back down on the ground with a thud. Still, not a single leaf had stirred.
+He placed his front paws against the trunk of the vine, stretched his neck, and tried to get at the fruit, but it was too high. Irritated, he tried his luck again. He launched himself upward, but his jaw snapped only at fresh air. A third time he leapt with all his might, so powerfully that he landed back down on the ground with a thud.
 
-The fox turned up his nose.
+Still, not a single leaf had stirred. The fox turned up his nose.
 
 
 <a id="sec-035219"></a>
 ### ⏱️ [03:52:19 - 03:57:20]
 
-These aren’t even ripe yet. Why would I want sour grapes? Holding his head high, he strode back into the forest. The Greek poet Aesop created this fable to illustrate one of the most common errors in reasoning.
+These aren’t even ripe yet. Why would. I want sour grapes? Holding his head high, he strode back into the forest.
 
-An inconsistency arose when the fox set out to do something and failed to accomplish it. He can resolve this conflict in one of three ways. A, by somehow getting at the grapes. B, by admitting that his skills are insufficient.
+The Greek poet Aesop created this fable to illustrate one of the most common errors in reasoning. An inconsistency arose when the fox set out to do something and failed to accomplish it. He can resolve this conflict in one of three ways. A, by somehow getting at the grapes.
 
-Or C, by reinterpreting what happened retrospectively. This last option is an example of cognitive dissonance, or rather, its resolution. Suppose you buy a new car.
+B, by admitting that his skills are insufficient. Or C, by reinterpreting what happened retrospectively. This last option is an example of cognitive dissonance, or rather, its resolution. Suppose you buy a new car.
 
 However, you regret your choice soon afterward. The engine sounds like a jet taking off, and you just can’t get comfortable in the driver’s seat. What do you do? Giving the car back would be an admission of error.
 
@@ -1760,21 +1816,21 @@ Just as ESUP’s FOX reinterpreted the situation, so did they. The students who 
 
 They experienced no cognitive dissonance. Suppose you apply for a job and discover you’ve lost out to another candidate. Instead of admitting that the other person was better suited, you convince yourself that you didn’t want the job in the first place. You simply wanted to test your market value and see if you could get invited for an interview.
 
-I reacted very similarly some time ago when I had to choose between investing in two different stocks. My chosen stock lost much of its value shortly after the purchase, whereas shares in the other stock, the one I hadn’t invested in, skyrocketed. I couldn’t bring myself to admit my error. Quite the reverse, in fact.
+I reacted very similarly some time ago when. I had to choose between investing in two different stocks. My chosen stock lost much of its value shortly after the purchase, whereas shares in the other stock, the one. I hadn’t invested in, skyrocketed.
 
-I distinctly remember trying to convince a friend that, though the stock was experiencing teething problems, it still had more potential overall. Only cognitive dissonance can explain this remarkably irrational reaction. The potential would indeed have been greater if I had postponed the decision to purchase the shares until today. It was that friend who told me the ESUP fable.
+I couldn’t bring myself to admit my error. Quite the reverse, in fact. I distinctly remember trying to convince a friend that, though the stock was experiencing teething problems, it still had more potential overall. Only cognitive dissonance can explain this remarkably irrational reaction.
 
-You can play the clever fox all you want, but you’ll never get the grapes that way. 51. Live each day as if it were your last, but only on Sundays. Hyperbolic discounting. You know the saying, live each day as if it were your last.
+The potential would indeed have been greater if. I had postponed the decision to purchase the shares until today. It was that friend who told me the ESUP fable. You can play the clever fox all you want, but you’ll never get the grapes that way. 51.
 
-It features at least three times in every lifestyle magazine and has a slot in every self-help manual standard repertoire too. For such a clever line, it makes you none the wiser. Just imagine what would happen if you followed it to the letter. You would no longer brush your teeth, wash your hair, clean the apartment, turn up for work, pay the bills.
+Live each day as if it were your last, but only on Sundays. Hyperbolic discounting. You know the saying, live each day as if it were your last. It features at least three times in every lifestyle magazine and has a slot in every self-help manual standard repertoire too.
 
-In no time, you would be broke, sick, and perhaps even behind bars. And yet its meaning is inherently noble. It expresses a deep longing, a desire for immediacy. We place huge value on immediacy much more than is justifiable.
+For such a clever line, it makes you none the wiser. Just imagine what would happen if you followed it to the letter. You would no longer brush your teeth, wash your hair, clean the apartment, turn up for work, pay the bills. In no time, you would be broke, sick, and perhaps even behind bars.
 
-Enjoy each day to the fullest, and don’t worry about tomorrow is simply not a smart way to live. Would you rather receive $1,000 in a year or $1,100 in a year and a month? Most people will opt for the larger sum in 13 months. Where else will you find a monthly interest rate of 10% or 120% per annum?
+And yet its meaning is inherently noble. It expresses a deep longing, a desire for immediacy. We place huge value on immediacy much more than is justifiable. Enjoy each day to the fullest, and don’t worry about tomorrow is simply not a smart way to live.
 
-A wise choice, since the interest will compensate you generously for any risks you face by waiting the extra few weeks. Second question, would you prefer $1,000 today cash on the table or $1,100 in a month? If you think like most people, you’ll take the $1,000 right away. This is amazing.
+Would you rather receive $1,000 in a year or $1,100 in a year and a month? Most people will opt for the larger sum in 13 months. Where else will you find a monthly interest rate of 10% or 120% per annum? A wise choice, since the interest will compensate you generously for any risks you face by waiting the extra few weeks.
 
-In both cases, if you just hold
+Second, question, would you prefer $1,000 today cash on the table or $1,100 in a month? If you think like most people, you’ll take the $1,000 right away. This is amazing. In both cases, if you just hold
 
 
 <a id="sec-035720"></a>
@@ -1800,19 +1856,23 @@ Some people will be willing to pay extra just so they don’t have to wait. Amaz
 
 Once a week. 52. Any lame excuse. Because justification. Traffic jam on the highway between Los Angeles and San Francisco.
 
-Surface repairs. I spent 30 minutes slowly battling my way through until the chaos was a distant scene in my rearview mirror. Or so I thought. Half an hour later, I was again bumper to bumper.
+Surface repairs. I spent 30 minutes slowly battling my way through until the chaos was a distant scene in my rearview mirror. Or so. I thought.
 
-More maintenance work. Strangely enough, my level of frustration was much lower this time. Why? Reassuringly cheerful signs along the road announced, We’re renovating the highway for you.
+Half an hour later, I was again bumper to bumper. More maintenance work. Strangely enough, my level of frustration was much lower this time. Why?
 
-The jam reminded me of an experiment conducted by the Harvard psychologist Ellen Langer in the 1970s. For this, she went into a library and waited at a photocopier until a line had formed.
+Reassuringly cheerful signs along the road announced, We’re renovating the highway for you. The jam reminded me of an experiment conducted by the Harvard psychologist Ellen Langer in the 1970s. For this, she went into a library and waited at a photocopier until a line had formed.
 
-Then she approached the first in line and said, “Excuse me, I have five pages.” May I use the Xerox machine? Her success rate was 60%. She repeated the experiment, this time giving a reason. Excuse me, I have five pages.
+Then she approached the first in line and said, “Excuse me, I have five pages.” May. I use the Xerox machine? Her success rate was 60%. She repeated the experiment, this time giving a reason.
 
-May I use the Xerox machine because I’m in a rush? In almost all cases, 94%, she was allowed to go ahead. This is understandable. If people are in a hurry, you often let them cut into the front of the line.
+Excuse me, I have five pages. May. I use the Xerox machine because. I’m in a rush?
 
-She tried yet another approach, this time saying, Excuse me, I have five pages. May I go before you because I have to make some copies? The result was amazing. Even though the pretext was, ahem, paper thin, after all, everyone was standing in line to make copies, she was allowed to pass to the front of the line in almost all cases, 93%.
+In almost all cases, 94%, she was allowed to go ahead. This is understandable. If people are in a hurry, you often let them cut into the front of the line. She tried yet another approach, this time saying, Excuse me, I have five pages.
 
-When you justify your behavior, you encounter more tolerance and helpfulness. It seems to matter very little if your excuse is good or not. Using the simple validation because is sufficient. A sign proclaiming, we’re renovating the highway for you, is completely redundant.
+May. I go before you because. I have to make some copies? The result was amazing.
+
+Even though the pretext was, ahem, paper thin, after all, everyone was standing in line to make copies, she was allowed to pass to the front of the line in almost all cases, 93%. When you justify your behavior, you encounter more tolerance and helpfulness. It seems to matter very little if your excuse is good or not. Using the simple validation because is sufficient.
+
+A sign proclaiming, we’re renovating the highway for you, is completely redundant.
 
 
 <a id="sec-040221"></a>
@@ -1834,11 +1894,13 @@ Whatever that means. If the stock market rises or falls by half a percent, you�
 
 No, people want a palpable reason. And the commentator is happy to select one. Whatever explanation he utters will be meaningless. With frequent blame applied to the pronouncements of Federal Reserve Bank presidents.
 
-If someone asks you why you have yet to complete a task, it’s best to say, because I haven’t gotten around to it yet. It’s a pathetic excuse. Had you done so, the conversation wouldn’t be taking place. But it usually does the trick without the need to scramble for more plausible reasons.
+If someone asks you why you have yet to complete a task, it’s best to say, because. I haven’t gotten around to it yet. It’s a pathetic excuse. Had you done so, the conversation wouldn’t be taking place.
 
-One day I watched my wife carefully separating black laundry from blue. As far as I know, this effort isn’t necessary. Both are dark colors, right? Such logic has managed to keep my clothes run free for many years.
+But it usually does the trick without the need to scramble for more plausible reasons. One day. I watched my wife carefully separating black laundry from blue. As far as.
 
-Why do you do that? I asked. Because I prefer to wash them separately. For me, a perfectly fine answer.
+I know, this effort isn’t necessary. Both are dark colors, right? Such logic has managed to keep my clothes run free for many years. Why do you do that?
+
+I asked. Because. I prefer to wash them separately. For me, a perfectly fine answer.
 
 Never leave home without because. This unassuming little word greases the wheels of human interaction. Use it unrestrainedly. 53. Decide better, decide less.
 
@@ -1846,15 +1908,17 @@ Decision fatigue. For weeks, you’ve been working to the point of exhaustion on
 
 The pitch is a paradigm of crystal clear logic. Everything depends on your presentation. If you get the green light from the CEO, you’re on your way to a corner office. If the presentation flops, you’re on your way to the unemployment office.
 
-The CEO’s assistant proposes the following times for the presentation. 8 a.m., 11.30 a.m., or 6 p.m. Which slot do you choose? The psychologist Roy Baumeister and collaborator Gene Twenke once covered a table with hundreds of inexpensive items, from tennis balls and candles to T-shirts, chewing gum, and Coke cans. He divided his students into two groups. The first group he labeled deciders.
+The CEO’s assistant proposes the following times for the presentation. 8 a.m., 11.30 a.m., or 6 p.m. Which slot do you choose? The psychologist Roy Baumeister and collaborator Gene Twenke once covered a table with hundreds of inexpensive items, from tennis balls and candles to T-shirts, chewing gum, and Coke cans. He divided his students into two groups.
 
-The second, non-deciders. He told the first group, I’m going to show you sets containing two random items, and each time you have to decide which you prefer. At the end of the experiment, I’ll give you one item you can take home. They were led to believe that their choices would influence them which item they get to keep.
+The first group he labeled deciders. The second, non-deciders. He told the first group, I’m going to show you sets containing two random items, and each time you have to decide which you prefer. At the end of the experiment, I’ll give you one item you can take home.
 
-To the second group he said, “Write down what you think about each item, and I’ll pick one and give it to you at the end.” Immediately thereafter, he asked each student to put their hand in ice-cold water and hold it there as long as possible. In psychology, this is a classic method to measure willpower or self-discipline. If you have little or none, you yank your hand back out of the water very quickly. The result?
+They were led to believe that their choices would influence them which item they get to keep. To the second group he said, “Write down what you think about each item, and. I’ll pick one and give it to you at the end.” Immediately thereafter, he asked each student to put their hand in ice-cold water and hold it there as long as possible. In psychology, this is a classic method to measure willpower or self-discipline.
 
-The deciders pulled their hands out of the icy water much sooner than the non-deciders did. The intensive decision-making had drained their willpower, an effect confirmed in many other experiments. Making decisions is exhausting. Anyone who has ever configured a laptop online or researched a long trip, flight, hotels, activities, restaurants, weather, knows this well.
+If you have little or none, you yank your hand back out of the water very quickly. The result? The deciders pulled their hands out of the icy water much sooner than the non-deciders did. The intensive decision-making had drained their willpower, an effect confirmed in many other experiments.
 
-After all the comparing, considering, and choosing, you’re exhausted. Science calls this decision fatigue. Decision fatigue is perilous.
+Making decisions is exhausting. Anyone who has ever configured a laptop online or researched a long trip, flight, hotels, activities, restaurants, weather, knows this well. After all the comparing, considering, and choosing, you’re exhausted. Science calls this decision fatigue.
+
+Decision fatigue is perilous.
 
 
 <a id="sec-040722"></a>
@@ -1880,15 +1944,15 @@ Meanwhile, priests, bishops, and abbots gathered all the relics that they could 
 
 In order to add weight to his demand, he waved the bloody clothes and holy bones in front of them. The nobles must have had enormous reverence for such symbols. The bishops' unique appeal to their conscience spread throughout Europe, promoting the peace and truce of God. One should never underestimate the fear of saints in the Middle Ages and of saints' relics, says American historian Philip Dileater.
 
-As an enlightened person, you can only laugh at this silly superstition. But wait! What if I put it to you this way? Would you put on a freshly laundered sweater that Hitler had once worn?
+As an enlightened person, you can only laugh at this silly superstition. But wait! What if. I put it to you this way?
 
-Probably not, right? So it seems that you haven’t lost all respect for intangible forces either. Essentially, this sweater has nothing to do with Hitler anymore. There isn’t a single molecule of Hitler’s sweat on it.
+Would you put on a freshly laundered sweater that Hitler had once worn? Probably not, right? So it seems that you haven’t lost all respect for intangible forces either. Essentially, this sweater has nothing to do with Hitler anymore.
 
-However, the prospect of putting it on still puts you off. It’s more than just a matter of respect. Yes, we want to project a correct image to our fellow humans and to ourselves, but the thought puts us off even when we’re alone and when we convince ourselves that touching this sweater does not endorse Hitler in any way. This emotional reaction is difficult to override.
+There isn’t a single molecule of Hitler’s sweat on it. However, the prospect of putting it on still puts you off. It’s more than just a matter of respect. Yes, we want to project a correct image to our fellow humans and to ourselves, but the thought puts us off even when we’re alone and when we convince ourselves that touching this sweater does not endorse Hitler in any way.
 
-Even those who consider themselves quite rational have a hard time completely banishing the belief in mysterious forces, me included. Mysterious powers of this kind can’t simply be switched off. Paul Rosen and his research colleagues at the University of Pennsylvania asked test subjects to bring in photos of loved ones. These were pinned to the center of targets, and the subjects had to shoot darts at them.
+This emotional reaction is difficult to override. Even those who consider themselves quite rational have a hard time completely banishing the belief in mysterious forces, me included. Mysterious powers of this kind can’t simply be switched off. Paul Rosen and his research colleagues at the University of Pennsylvania asked test subjects to bring in photos of loved ones.
 
-Riddling a picture with darts does no harm to the person in it, but, nevertheless,
+These were pinned to the center of targets, and the subjects had to shoot darts at them. Riddling a picture with darts does no harm to the person in it, but, nevertheless,
 
 
 <a id="sec-041226"></a>
@@ -1898,29 +1962,31 @@ the subject’s hesitation was palpable. They were much less accurate than a con
 
 A friend was a longtime war correspondent for the French public television channel France Deux. Just as passengers on a Caribbean cruise take home souvenirs from each island, a straw hat or a painted coconut, my friend also collected mementos from her adventures. One of her last missions was to Baghdad in 2003. A few hours after American troops stormed Saddam Hussein’s government palace, she crept into the private quarters.
 
-In the dining room she spotted six gold-plated wine glasses and promptly commandeered them. When I attended one of her dinner parties in Paris recently, the gilded goblets had pride of place on the dining table. Are these from Galerie Lafayette? One person asked.
+In the dining room she spotted six gold-plated wine glasses and promptly commandeered them. When. I attended one of her dinner parties in Paris recently, the gilded goblets had pride of place on the dining table. Are these from Galerie Lafayette?
 
-No, they’re from Saddam Hussein, she said candidly. A horrified guest spat his wine back into the glass and began to splutter uncontrollably. I had to contribute. You realize how many molecules you’ve already shared with Saddam simply by breathing?
+One person asked. No, they’re from Saddam Hussein, she said candidly. A horrified guest spat his wine back into the glass and began to splutter uncontrollably. I had to contribute.
 
-I asked. About a billion per breath? His cough got even worse. Fifty-five.
+You realize how many molecules you’ve already shared with Saddam simply by breathing? I asked. About a billion per breath? His cough got even worse.
 
-Why there is no such thing as an average war. The problem with averages. Suppose you’re on a bus with forty-nine other people. At the next stop the heaviest person in America gets on.
+Fifty-five. Why there is no such thing as an average war. The problem with averages. Suppose you’re on a bus with forty-nine other people.
 
-Question. By how much has the average weight of the passengers increased? Four percent? Five?
+At the next stop the heaviest person in America gets on. Question. By how much has the average weight of the passengers increased? Four percent?
 
-Something like that? Suppose the bus stops again and on gets Bill Gates. This time we’re not concerned about weight. Question.
+Five? Something like that? Suppose the bus stops again and on gets Bill Gates. This time we’re not concerned about weight.
 
-By how much has the average wealth risen? Four percent? Five? Far from it.
+Question. By how much has the average wealth risen? Four percent? Five?
 
-Let’s calculate the second example quickly. Suppose each of the fifty randomly selected individuals has assets of fifty-four thousand dollars. This is the statistical middle value, the median. Then Bill Gates is added to the mix with his fortune of around fifty-nine billion dollars.
+Far from it. Let’s calculate the second example quickly. Suppose each of the fifty randomly selected individuals has assets of fifty-four thousand dollars. This is the statistical middle value, the median.
 
-The average wealth has just shot up to one point one five billion dollars. an increase of more than two million percent. A single outlier has radically altered the picture, rendering the term average completely meaningless. Don’t cross a river if it is, on average, four feet deep, warns Nassim Taleb from whom I have the above examples. The river can be very shallow for long stretches, mere inches, but it might transform into a raging torrent that’s 20 feet deep in the middle, in which case you could easily drown.
+Then Bill Gates is added to the mix with his fortune of around fifty-nine billion dollars. The average wealth has just shot up to one point one five billion dollars. an increase of more than two million percent. A single outlier has radically altered the picture, rendering the term average completely meaningless. Don’t cross a river if it is, on average, four feet deep, warns Nassim Taleb from whom.
 
-Dealing in averages is a risky undertaking because they often mask the underlying distribution, the way the values stack up. Another example, the average amount of UV rays you’re exposed to on a June day is not harmful to your health. But if you were to spend the entire summer in a darkened office, then fly to Barbados and lie in the sun without sunscreen for a week solid, you’d have a problem, even though on average over the summer you are not getting more UV light than someone who was regularly outside.
+I have the above examples. The river can be very shallow for long stretches, mere inches, but it might transform into a raging torrent that’s 20 feet deep in the middle, in which case you could easily drown. Dealing in averages is a risky undertaking because they often mask the underlying distribution, the way the values stack up. Another example, the average amount of UV rays you’re exposed to on a June day is not harmful to your health.
 
-All this is quite straightforward and maybe you were aware of it already. For example, you drink one glass of red wine for dinner every evening. That’s not a health issue. Many doctors recommend it.
+But if you were to spend the entire summer in a darkened office, then fly to Barbados and lie in the sun without sunscreen for a week solid, you’d have a problem, even though on average over the summer you are not getting more UV light than someone who was regularly outside. All this is quite straightforward and maybe you were aware of it already.
 
-But if you drink no alcohol the entire year, and on December 31st, you gulp 356 glasses, which is equivalent to 60 bottles, you will have a problem, although the average over the year is the same. Here’s the update. In a complex world, distribution is becoming more and more irregular.
+For example, you drink one glass of red wine for dinner every evening. That’s not a health issue. Many doctors recommend it. But if you drink no alcohol the entire year, and on December 31st, you gulp 356 glasses, which is equivalent to 60 bottles, you will have a problem, although the average over the year is the same.
+
+Here’s the update. In a complex world, distribution is becoming more and more irregular.
 
 In other words, we’ll observe the Bill Gates phenomenon in ever more domains. How many visits does an average website get? The answer is, there are no average websites. A handful of sites, such as the New York Times, Facebook, or Google, garner the majority of visits, and countless other pages draw comparatively few.
 
@@ -1946,23 +2012,25 @@ If a single anomaly has almost no influence on the set, the concept is still wor
 
 It’s just not very evenly distributed. 56. How bonuses destroy motivation. Motivation crowding. A few months ago, a friend from Connecticut decided to move to New York City.
 
-This man had a fabulous collection of antiques, such as exquisite old books and hand-blown Murano glasses from generations ago. I knew how attached he was to them and how anxious he would be handing them over to a moving company. So the last time I visited, I offered to carry the most fragile items with me when I returned to the city. Two weeks later, I got a thank you letter.
+This man had a fabulous collection of antiques, such as exquisite old books and hand-blown Murano glasses from generations ago. I knew how attached he was to them and how anxious he would be handing them over to a moving company. So the last time. I visited, I offered to carry the most fragile items with me when.
 
-Enclosed was a $50 bill. For years, Switzerland has been considering where to store its radioactive waste. The authorities considered a few different locations for the underground repository, including the village of Wolfenstein in the center of the country. Economist Bruno Frey and his fellow researchers at the University of Zurich traveled there and recorded people’s opinions at a community meeting.
+I returned to the city. Two weeks later, I got a thank you letter. Enclosed was a $50 bill. For years, Switzerland has been considering where to store its radioactive waste.
 
-Surprisingly, 50.8% were in favor of the proposal. Their positive response can be attributed to several factors, national pride, common decency, social obligation, the prospect of new jobs, and so on. The team carried out the survey a second time, but this time they mentioned a hypothetical reward of $5,000 for each town person paid for by Swiss taxpayers if they were to accept the proposal. What happened?
+The authorities considered a few different locations for the underground repository, including the village of Wolfenstein in the center of the country. Economist Bruno Frey and his fellow researchers at the University of Zurich traveled there and recorded people’s opinions at a community meeting. Surprisingly, 50.8% were in favor of the proposal. Their positive response can be attributed to several factors, national pride, common decency, social obligation, the prospect of new jobs, and so on.
 
-Results plummeted. Only 24.6% were willing to endorse the proposal. Another example is children’s daycare centers. Daycare workers faced the same issue the world over, parents collecting their children after closing time.
+The team carried out the survey a second time, but this time they mentioned a hypothetical reward of $5,000 for each town person paid for by Swiss taxpayers if they were to accept the proposal. What happened? Results plummeted. Only 24.6% were willing to endorse the proposal.
 
-The staff has no choice but to wait. They can hardly put the last remaining children in taxis or leave them on the curb. To discourage parental tardiness, many nurseries introduced fees for lateness. Ironically, studies showed that tardiness actually increased.
+Another example is children’s daycare centers. Daycare workers faced the same issue the world over, parents collecting their children after closing time. The staff has no choice but to wait. They can hardly put the last remaining children in taxis or leave them on the curb.
 
-Of course, they could have instituted a draconian penalty of, say, $500 for each hour, as they could have offered $1 million to each citizen of the small Swiss village. But that’s beside the point. The point is, small, surprisingly small monetary incentives crowd out other types of incentives. The three stories illustrate one thing.
+To discourage parental tardiness, many nurseries introduced fees for lateness. Ironically, studies showed that tardiness actually increased. Of course, they could have instituted a draconian penalty of, say, $500 for each hour, as they could have offered $1 million to each citizen of the small Swiss village. But that’s beside the point.
 
-Money does not always motivate. Indeed, in many cases, it does just the opposite. When my friend slipped me that 50, he undermined my good deed and also tainted our friendship. The offer of compensation for the nuclear repository was perceived as a bribe and cheapened the community in patriotic spirit.
+The point is, small, surprisingly small monetary incentives crowd out other types of incentives. The three stories illustrate one thing. Money does not always motivate. Indeed, in many cases, it does just the opposite.
 
-The nursery’s late fees transformed its relationship with parents from interpersonal to monetary and essentially legitimized their lateness. Science has a name for this phenomenon, motivation crowding. When people do something for well-meaning, non-monetary reasons, out of the goodness of their heart, so to speak, payments throw a wrench into the works. Financial reward erodes any other motivations.
+When my friend slipped me that 50, he undermined my good deed and also tainted our friendship. The offer of compensation for the nuclear repository was perceived as a bribe and cheapened the community in patriotic spirit. The nursery’s late fees transformed its relationship with parents from interpersonal to monetary and essentially legitimized their lateness. Science has a name for this phenomenon, motivation crowding.
 
-Suppose you run a nonprofit organization. Logically, the wages you pay are quite modest. Nevertheless, your employees are highly motivated because they believe they’re making a difference.
+When people do something for well-meaning, non-monetary reasons, out of the goodness of their heart, so to speak, payments throw a wrench into the works. Financial reward erodes any other motivations. Suppose you run a nonprofit organization. Logically, the wages you pay are quite modest.
+
+Nevertheless, your employees are highly motivated because they believe they’re making a difference.
 
 
 <a id="sec-042230"></a>
@@ -1978,23 +2046,25 @@ On the other hand, if you create a startup, you would be wise to enlist employee
 
 Instead, give them a fixed amount of pocket money each week. Otherwise, they’ll exploit the system and soon refuse to go to bed without recompense. 57. If you have nothing to say, say nothing. Twaddle tendency.
 
-When asked why a fifth of Americans were unable to locate their country on a world map, Miss Teen South Carolina, a high school graduate, gave this answer in front of rolling cameras. I personally believe that US Americans are unable to do so because some people out there in our nation don’t have maps. And I believe that our education, like such as South Africa and the Iraq, everywhere like such as, and I believe that they should, our education over here in the US should help the US, should help South Africa, and should help the Iraq and the Asian countries.
+When asked why a fifth of Americans were unable to locate their country on a world map, Miss Teen South Carolina, a high school graduate, gave this answer in front of rolling cameras. I personally believe that US Americans are unable to do so because some people out there in our nation don’t have maps. And. I believe that our education, like such as South Africa and the Iraq, everywhere like such as, and.
 
-So we will be able to build up our future. The video went viral. Catastrophic, you agree, but you don’t waste too much time listening to Beauty Queens. Okay, how about the following sentence?
+I believe that they should, our education over here in the US should help the US, should help South Africa, and should help the Iraq and the Asian countries. So we will be able to build up our future. The video went viral. Catastrophic, you agree, but you don’t waste too much time listening to Beauty Queens.
 
-There is certainly no necessity that this increasingly reflexive transmission of cultural traditions be associated with subject-centered reason and future-oriented historical consciousness. To the extent that we become aware of the intersubjective constitution of freedom, the possessive individualist illusion of autonomy as self-ownership disintegrates. Ring any bells? Top German philosopher and sociologist Jurgen Habermas in Between Facts and Norms. Both of these are manifestations of the same phenomenon, the twaddle tendency.
+Okay, how about the following sentence? There is certainly no necessity that this increasingly reflexive transmission of cultural traditions be associated with subject-centered reason and future-oriented historical consciousness. To the extent that we become aware of the intersubjective constitution of freedom, the possessive individualist illusion of autonomy as self-ownership disintegrates. Ring any bells?
 
-Here, reams of words are used to disguise intellectual laziness, stupidity, or underdeveloped ideas. Sometimes it works, sometimes not. For the Beauty Queen, the smokescreen strategy failed spectacularly. For Habermas, it has worked so far.
+Top German philosopher and sociologist Jurgen Habermas in Between Facts and Norms. Both of these are manifestations of the same phenomenon, the twaddle tendency. Here, reams of words are used to disguise intellectual laziness, stupidity, or underdeveloped ideas. Sometimes it works, sometimes not.
 
-The more eloquent the haze of words, the more easily we fall for them. If used in conjunction with the authority bias, such drivel can be especially dangerous. I myself have fallen for the twaddle tendency on many occasions. When I was younger, French philosopher Jacques Derrida fascinated me.
+For the Beauty Queen, the smokescreen strategy failed spectacularly. For Habermas, it has worked so far. The more eloquent the haze of words, the more easily we fall for them. If used in conjunction with the authority bias, such drivel can be especially dangerous.
 
-I devoured his books, but even after intense reflection, I still couldn’t understand much. Subsequently, his writings took on a mysterious aura, and the whole experience drove me to write my dissertation on philosophy. In retrospect, both were tomes of useless chatter, Derrida and my dissertation. In my ignorance, I had turned myself into a walking, talking smoke machine.
+I myself have fallen for the twaddle tendency on many occasions. When. I was younger, French philosopher Jacques Derrida fascinated me. I devoured his books, but even after intense reflection, I still couldn’t understand much.
 
-The twaddle tendency is especially rife in sport. Breathless interviewers push equally breathless football players to break down the components of the game when all they want to say is, we lost the game. It’s really that simple. But the presenter has to fill airtime somehow, and seemingly the best method is by jabbering away and by compelling the athletes and coaches to join in.
+Subsequently, his writings took on a mysterious aura, and the whole experience drove me to write my dissertation on philosophy. In retrospect, both were tomes of useless chatter, Derrida and my dissertation. In my ignorance, I had turned myself into a walking, talking smoke machine. The twaddle tendency is especially rife in sport.
 
-Jabber disguises ignorance. This phenomenon has also taken root in the academic spheres. The fewer results a branch of science publishes, the more babble is necessary. Particularly exposed are economists, which we can see in their comments and economic forecasts.
+Breathless interviewers push equally breathless football players to break down the components of the game when all they want to say is, we lost the game. It’s really that simple. But the presenter has to fill airtime somehow, and seemingly the best method is by jabbering away and by compelling the athletes and coaches to join in. Jabber disguises ignorance.
 
-The same is true for commerce, on a smaller scale. The worse off a company is, the greater the talk of the CEO. The extra chatter extends to not just a lot of talking,
+This phenomenon has also taken root in the academic spheres. The fewer results a branch of science publishes, the more babble is necessary. Particularly exposed are economists, which we can see in their comments and economic forecasts. The same is true for commerce, on a smaller scale.
+
+The worse off a company is, the greater the talk of the CEO. The extra chatter extends to not just a lot of talking,
 
 
 <a id="sec-042733"></a>
@@ -2034,13 +2104,15 @@ The survival rate is highest for stage one patients and lowest for stage four pa
 
 minuscule tumors that no doctor had ever noticed before. The result, patients who were erroneously diagnosed as healthy before are now counted as stage one patients. The addition of relatively healthy people into the stage one group increases the group’s average life expectancy. A great medical success?
 
-Unfortunately not. Mere stage migration. 59. If you have an enemy, give him information. Information bias.
+Unfortunately, not. Mere stage migration. 59. If you have an enemy, give him information. Information bias.
 
 In his short story, Delrigor en la Ciencia, which consists of just a single paragraph, Jorge Luis Borges describes a special country. In this country, the science of cartography is so sophisticated that only the most detailed of maps will do. That is, a map with a scale of one to one, as large as the country itself. Their citizens soon realize that such a map does not provide any insight, since it merely duplicates what they already know.
 
-Borges’s map is the extreme case of the information bias, the delusion that more information guarantees better decisions. Searching for a hotel in Miami a little while ago, I drew up a short list of five good offers. Right away, one jumped out at me, but I wanted to make sure I had found the best deal and decided to keep researching. I plowed my way through dozens of customer reviews and blog posts and clicked through countless photos and videos.
+Borges’s map is the extreme case of the information bias, the delusion that more information guarantees better decisions. Searching for a hotel in Miami a little while ago, I drew up a short list of five good offers. Right away, one jumped out at me, but. I wanted to make sure.
 
-Two hours later, I could say for sure which the best hotel was, the one I had liked at the start. The mountain of additional information did not lead to a better decision. On the contrary, if time is money, then I might as well have taken up residence at the Four Seasons. John Baron from the University of Pennsylvania asked physicians the following question.
+I had found the best deal and decided to keep researching. I plowed my way through dozens of customer reviews and blog posts and clicked through countless photos and videos. Two hours later, I could say for sure which the best hotel was, the one. I had liked at the start.
+
+The mountain of additional information did not lead to a better decision. On the contrary, if time is money, then. I might as well have taken up residence at the Four Seasons. John Baron from the University of Pennsylvania asked physicians the following question.
 
 A patient presents symptoms that indicate with a probability of 80 percent that he is suffering from disease A. If this is not the case, the patient has either disease X or Y. Each of these diseases is equally bad, and each treatment results in similar side effects. As a doctor, what treatment would you suggest?
 
@@ -2090,7 +2162,7 @@ Far from it, housewives took an instant disliking to them because they made thin
 
 Try it out. When you’ve invested a lot of time and effort into something, stand back and examine the result. Only the result. The novel you’ve been tinkering with for five years and that no publisher wants.
 
-Perhaps it’s not nobel-worthy after all. The MBA you felt compelled to do. Would you really recommend it? And the woman you’ve been chasing for years.
+Perhaps, it’s not nobel-worthy after all. The MBA you felt compelled to do. Would you really recommend it? And the woman you’ve been chasing for years.
 
 Is she really better than Bachelorette No. 2, who would say yes right away? 61. Why small things loom large. The law of small numbers. You sit on the corporate board of a retail company with 1,000 stores.
 
@@ -2114,25 +2186,27 @@ Thus, people, especially journalists, managers, and board members continually fa
 
 The big store has 1000 employees, the small store just two. The average weight in the large branch corresponds roughly to the average weight of the population, say 170 pounds. Regardless of who is hired or fired, it won’t change much. Unlike the small store, the store manager’s colleague, if rotund or reedy, will affect the average weight tremendously.
 
-Let’s go back to the shoplifting problem. We now understand why the smaller a branch is, the more its theft rate will vary, from extremely high to extremely low. No matter how the consultant arranges his spreadsheet, if you You list all the theft rates in order of size, small stores will appear at the bottom, large stores will take up the middle, and the top slots, small stores again. So the CEO’s conclusion was useless, but at least he doesn’t need to go overboard on a security system for the small stores.
+Let’s go back to the shoplifting problem. We now understand why the smaller a branch is, the more its theft rate will vary, from extremely high to extremely low. No matter how the consultant arranges his spreadsheet, if you. You list all the theft rates in order of size, small stores will appear at the bottom, large stores will take up the middle, and the top slots, small stores again.
 
-Suppose you read the following story in a newspaper. Startups employ smarter people. A study commissioned by the National Institute of Unnecessary Research has calculated the average IQ in American companies. The result?
+So the CEO’s conclusion was useless, but at least he doesn’t need to go overboard on a security system for the small stores. Suppose you read the following story in a newspaper. Startups employ smarter people. A study commissioned by the National Institute of Unnecessary Research has calculated the average IQ in American companies.
 
-Startups hire Mensa material. What’s your first reaction? Hopefully a raised eyebrow. This is a perfect example of the law of small numbers.
+The result? Startups hire Mensa material. What’s your first reaction? Hopefully a raised eyebrow.
 
-Startups tend to employ fewer people. Therefore, the average IQs will fluctuate much more than those of large corporations, giving small and new businesses the highest and lowest scores. The National Institute study has zero significance. It simply confirms the laws of chance.
+This is a perfect example of the law of small numbers. Startups tend to employ fewer people.
 
-So watch out when you hear remarkable statistics about any small entities, businesses, households, cities, data centers, anthills, parishes, schools, and so on. What’s being peddled as an astounding finding is, in fact, a humdrum consequence of random distribution. In his latest book, Nobel Prize winner Daniel Kahneman reveals that even experienced scientists succumb to the law of small numbers. How reassuring. 62.
+Therefore, the average IQs will fluctuate much more than those of large corporations, giving small and new businesses the highest and lowest scores. The National Institute study has zero significance. It simply confirms the laws of chance. So watch out when you hear remarkable statistics about any small entities, businesses, households, cities, data centers, anthills, parishes, schools, and so on.
 
-Handle with care. Expectations. On January 31, 2006, Google announced its financial results for the final quarter of 2005. Revenue?
+What’s being peddled as an astounding finding is, in fact, a humdrum consequence of random distribution. In his latest book, Nobel Prize winner Daniel Kahneman reveals that even experienced scientists succumb to the law of small numbers. How reassuring. 62. Handle with care.
 
-Up 97%. Net profit? Up 82%. A record-breaking quarter.
+Expectations. On January 31, 2006, Google announced its financial results for the final quarter of 2005. Revenue? Up 97%.
 
-How did the stock market react to those phenomenal figures? In a matter of seconds, shares tumbled 16%. Trading had to be interrupted. When it resumed, the stock plunged another 15%.
+Net profit? Up 82%. A record-breaking quarter. How did the stock market react to those phenomenal figures?
 
-Absolute panic. One particularly desperate trader inquired in his blog, what’s the best skyscraper to throw myself off? What had gone wrong? Wall Street analysts had expected even better results, and when those failed to materialize, $20 billion was slashed from the value of the media giant.
+In a matter of seconds, shares tumbled 16%. Trading had to be interrupted. When it resumed, the stock plunged another 15%. Absolute panic.
 
-Every investor knows it’s impossible to forecast financial results accurately. The logical response to a poor prediction would be, a bad guess, my mistake. But investors don’t react that way. In January 2006, when Juniper Networks announced eagerly anticipated earnings per share that
+One particularly desperate trader inquired in his blog, what’s the best skyscraper to throw myself off? What had gone wrong? Wall Street analysts had expected even better results, and when those failed to materialize, $20 billion was slashed from the value of the media giant. Every investor knows it’s impossible to forecast financial results accurately.
+
+The logical response to a poor prediction would be, a bad guess, my mistake. But investors don’t react that way. In January 2006, when Juniper Networks announced eagerly anticipated earnings per share that
 
 
 <a id="sec-044747"></a>
@@ -2150,21 +2224,21 @@ The prospect of brilliant students influenced the teachers so much that they asc
 
 All we know is that expectations alter the biochemistry of the brain, and thus the whole body. Accordingly, Alzheimer’s patients cannot benefit from it. Their condition impairs the area of the brain that deals with expectations. Expectations are intangible, but their effect is quite real.
 
-They have the power to change reality. Can we deprogram them? Is it possible to live a life free from expectations? Unfortunately not.
+They have the power to change reality. Can we deprogram them? Is it possible to live a life free from expectations? Unfortunately, not.
 
 But you can deal with them more cautiously, raise expectations for yourself and for the people you love. This increases motivation. At the same time, lower expectations for things you cannot control, for example the stock market. As paradoxical as it sounds, the best way to shield yourself from nasty surprises is to anticipate them. 63.
 
 Speed traps ahead. Simple logic. Three easy questions. Grab a pen quickly and jot down your answers in the margin.
 
-First question. In a department store, a ping pong paddle and a plastic ball cost $1.10. If the paddle costs $1 more, how much is the ball? Second question.
+First, question. In a department store, a ping pong paddle and a plastic ball cost $1.10. If the paddle costs $1 more, how much is the ball?
 
-In a textile factory, five machines take exactly five minutes to make five shirts. How many minutes will it take 100 machines to produce 100 shirts? And the third question. A pond has water lilies growing in it.
+Second, question. In a textile factory, five machines take exactly five minutes to make five shirts. How many minutes will it take 100 machines to produce 100 shirts? And the third question.
 
-The flowers multiply quickly, each day doubling the area they take up. If it takes 48 days for the pond to be completely covered with water lilies, how many days will it take for it to be half covered? Don’t listen further until you’ve written down the answers. For each of these questions, there’s an intuitive answer and a right one.
+A pond has water lilies growing in it. The flowers multiply quickly, each day doubling the area they take up. If it takes 48 days for the pond to be completely covered with water lilies, how many days will it take for it to be half covered? Don’t listen further until you’ve written down the answers.
 
-The quick, intuitive answers come to mind first. Ten cents, 100 minutes, and 24 days. But these are all wrong. The solutions are five cents, five minutes, and 47 days.
+For each of these questions, there’s an intuitive answer and a right one. The quick, intuitive answers come to mind first. Ten cents, 100 minutes, and 24 days. But these are all wrong.
 
-How many did you answer correctly? Thousands of people have taken this cognitive reflection test, CRT, which Professor Shane Frederick developed. So far, students at the Massachusetts Institute of Technology, MIT, in Boston have fared
+The solutions are five cents, five minutes, and 47 days. How many did you answer correctly? Thousands of people have taken this cognitive reflection test, CRT, which Professor Shane Frederick developed. So far, students at the Massachusetts Institute of Technology, MIT, in Boston have fared
 
 
 <a id="sec-045247"></a>
@@ -2176,7 +2250,9 @@ However, despite these neat rankings, averages are not interesting in this case.
 
 Frederick discovered that people with low CRT results tend to prefer a bird in the hand. They play it safe. After all, something is better than nothing. Those who score at least two or higher usually opt for the riskier option.
 
-They prefer the gamble. This is especially true for men. One factor that separates the group is their ability to control their impulses. In Chapter 51 on hyperbolic discounting, we discovered the seductive power of now.
+They prefer the gamble. This is especially true for men. One factor that separates the group is their ability to control their impulses. In.
+
+#### Chapter 51 on hyperbolic discounting, we discovered the seductive power of now.
 
 Frederick put the following question to the participants. Would you rather have $3,400 now or $3,800 in a month? In general, people with the low CRT scores favor getting the smaller amount sooner. For them, waiting poses a challenge because they’re more impulsive.
 
@@ -2190,17 +2266,19 @@ Not everything that seems plausible is true. Reject the easy answers that pop in
 
 On the way there, you drive at 100 miles per hour and on the way back, at 50 miles per hour. What was your average speed? 75 miles per hour? Slow down. Slow down. 64.
 
-How to expose a charlatan. Forrer effect. Dear listener, it may surprise you, but I know you personally. This is how I would sum you up.
+How to expose a charlatan. Forrer effect. Dear listener, it may surprise you, but. I know you personally.
 
-You have a great need for other people to like and admire you. You have a tendency to be critical of yourself. You have a great deal of unused capacity, which you have not turned to your advantage. While you have some personality weaknesses, you’re generally able to compensate for them.
+This is how. I would sum you up. You have a great need for other people to like and admire you. You have a tendency to be critical of yourself.
 
-Your sexual adjustment has presented problems for you. Disciplined and self-controlled outside, you tend to be worrisome and insecure inside. At times you have serious doubts as to whether you have made the right decision or done the right thing. You prefer a certain amount of change and variety and become dissatisfied when hemmed in by restrictions and limitations.
+You have a great deal of unused capacity, which you have not turned to your advantage. While you have some personality weaknesses, you’re generally able to compensate for them. Your sexual adjustment has presented problems for you. Disciplined and self-controlled outside, you tend to be worrisome and insecure inside.
 
-You pride yourself as an independent thinker and don’t accept other statements without satisfactory proof. You have found it unwise to be too frank in revealing yourself to others. At times you’re extroverted, affable, and sociable, while at other times you’re introverted, sorry, and reserved. Some of your aspirations tend to be pretty unrealistic.
+At times you have serious doubts as to whether you have made the right decision or done the right thing. You prefer a certain amount of change and variety and become dissatisfied when hemmed in by restrictions and limitations. You pride yourself as an independent thinker and don’t accept other statements without satisfactory proof. You have found it unwise to be too frank in revealing yourself to others.
 
-Security is one of your major goals in life. Do you recognize yourself on a scale from one, poor, to five, excellent? How was my assessment? In 1948, psychologist Bertram Forrer crafted this exact passage using astrology columns from various magazines.
+At times you’re extroverted, affable, and sociable, while at other times you’re introverted, sorry, and reserved. Some of your aspirations tend to be pretty unrealistic. Security is one of your major goals in life. Do you recognize yourself on a scale from one, poor, to five, excellent?
 
-He then gave it to his students to read, suggesting that each person was getting a personalized assessment. On average, the students rated their characterizations 4.3 out of 5. That is, they gave Forrer an accuracy score of 86 percent.
+How was my assessment? In 1948, psychologist Bertram Forrer crafted this exact passage using astrology columns from various magazines. He then gave it to his students to read, suggesting that each person was getting a personalized assessment. On average, the students rated their characterizations 4.3 out of 5.
+
+That is, they gave Forrer an accuracy score of 86 percent.
 
 
 <a id="sec-045747"></a>
@@ -2240,27 +2318,27 @@ more impressive suppose you want a Harley Davidson if you come across a study th
 <a id="sec-051302"></a>
 ### ⏱️ [05:13:02 - 05:18:03]
 
-with bureaucrats who want to protect stupid consumers from themselves response three assumption of malice your counterpart has the necessary information he even understands the debate but he is deliberately confrontational he has evil intentions this is how many religious leaders and followers treat disbelievers if they don’t agree they must be servants of the devil in conclusion nothing is more convincing than your own beliefs we believe that introspection unearths genuine self-knowledge unfortunately introspection is in large part fabrication posing two dangers first the introspection illusion creates inaccurate predictions of future mental states trust your internal observations too much and too long and you might be in for a very rude awakening second we believe that our introspections are more reliable than those of others which creates an illusion of superiority remedy be all the more critical with yourself regard your internal observations with the same skepticism as claims from some random person become your own toughest critic 68 why you should set fire to your ships inability to close doors next to my bed two dozen books are stacked high i have dipped in and out of all of them but am unable to part with even one i know that sporadic reading won’t help me achieve any real insights despite the many hours i put in and that i really should devote myself to one book at a time so why am i still juggling all 24 i know a man who is dating three women he’s in love with all three and can imagine starting a family with any of them however he simply doesn’t have the heart to choose just one because And then he would be passing up on the other two for good.
+with bureaucrats who want to protect stupid consumers from themselves response three assumption of malice your counterpart has the necessary information he even understands the debate but he is deliberately confrontational he has evil intentions this is how many religious leaders and followers treat disbelievers if they don’t agree they must be servants of the devil in conclusion nothing is more convincing than your own beliefs we believe that introspection unearths genuine self-knowledge unfortunately introspection is in large part fabrication posing two dangers first the introspection illusion creates inaccurate predictions of future mental states trust your internal observations too much and too long and you might be in for a very rude awakening second we believe that our introspections are more reliable than those of others which creates an illusion of superiority remedy be all the more critical with yourself regard your internal observations with the same skepticism as claims from some random person become your own toughest critic 68 why you should set fire to your ships inability to close doors next to my bed two dozen books are stacked high i have dipped in and out of all of them but am unable to part with even one i know that sporadic reading won’t help me achieve any real insights despite the many hours i put in and that i really should devote myself to one book at a time so why am i still juggling all 24 i know a man who is dating three women he’s in love with all three and can imagine starting a family with any of them however he simply doesn’t have the heart to choose just one because.
 
-If he refrains from deciding, all options remain open. The downside is that no real relationship will develop. In the third century B. C., General Zhang Yu sent his army across the Yangtze River to take on the Qin Dynasty.
+And then he would be passing up on the other two for good. If he refrains from deciding, all options remain open. The downside is that no real relationship will develop. In the third century B.
 
-While his troops slept, he ordered all the ships to be set alight. The next day he told them, you now have a choice, either you fight to win or you die. By removing the option of retreat, he switched their focus to the only thing that mattered, the battle. Spanish conquistador Cortes used the same motivational trick in the 16th century.
+C., General Zhang Yu sent his army across the Yangtze River to take on the Qin Dynasty. While his troops slept, he ordered all the ships to be set alight. The next day he told them, you now have a choice, either you fight to win or you die. By removing the option of retreat, he switched their focus to the only thing that mattered, the battle.
 
-After landing on the east coast of Mexico, he sank his own ship. Zhang Yu and Cortes are exceptions. We mere mortals do everything we can to keep open the maximum number of options. Psychology professors Dan Ehrle and Ji Wung Shin demonstrated the strength of this instinct using a computer game.
+Spanish conquistador Cortes used the same motivational trick in the 16th century. After landing on the east coast of Mexico, he sank his own ship. Zhang Yu and Cortes are exceptions. We mere mortals do everything we can to keep open the maximum number of options.
 
-Players started with 100 points, and on the screen in front of them, three doors appeared, a red one, a blue one, and a green one. Opening a door cost a point, but for every room they entered, they could accrue more points. The players reacted logically. They found the most fruitful room and holed up there for the whole session.
+Psychology professors Dan Ehrle and Ji Wung Shin demonstrated the strength of this instinct using a computer game. Players started with 100 points, and on the screen in front of them, three doors appeared, a red one, a blue one, and a green one. Opening a door cost a point, but for every room they entered, they could accrue more points. The players reacted logically.
 
-Ehrle and Shin then changed the rules. If doors were not opened within 12 moves, they started shrinking on the screen and eventually vanished. Players now rushed from door to door to secure access to all potential treasure troves. All this unproductive scrambling meant they scored 15% fewer points than in the previous game.
+They found the most fruitful room and holed up there for the whole session. Ehrle and Shin then changed the rules. If doors were not opened within 12 moves, they started shrinking on the screen and eventually vanished. Players now rushed from door to door to secure access to all potential treasure troves.
 
-The organizers then added another twist. Opening doors now cost three points. The same anxiety kicked in. Players frittered away their points trying to keep all doors open.
+All this unproductive scrambling meant they scored 15% fewer points than in the previous game. The organizers then added another twist. Opening doors now cost three points. The same anxiety kicked in.
 
-Even when the subjects learned how many points were hidden in each room, nothing changed. Sacrificing options was a price they were not willing to pay. Why do we act so irrationally? Because the downside to such behavior is not always apparent.
+Players frittered away their points trying to keep all doors open. Even when the subjects learned how many points were hidden in each room, nothing changed. Sacrificing options was a price they were not willing to pay. Why do we act so irrationally?
 
-In the financial markets, things are clear. A financial option on a security always costs something. There is no such thing as a free option. In most other realms, however, options seem to be free.
+Because the downside to such behavior is not always apparent. In the financial markets, things are clear. A financial option on a security always costs something. There is no such thing as a free option.
 
-But this is an illusion. They also come at a price, but the price tag is often hidden and intangible. Each decision costs mental energy and eats up precious time for thinking and living. CEOs who examine every possible expansion option often choose none in the end.
+In most other realms, however, options seem to be free. But this is an illusion. They also come at a price, but the price tag is often hidden and intangible. Each decision costs mental energy and eats up precious time for thinking and living.
 
-Companies that aim to address all customer segments end up addressing no one. Salespeople who chase every single lead close no deals. We’re obsessed with having as many irons as possible in the fire, ruling nothing out and being open to everything.
+CEOs who examine every possible expansion option often choose none in the end. Companies that aim to address all customer segments end up addressing no one. Salespeople who chase every single lead close no deals. We’re obsessed with having as many irons as possible in the fire, ruling nothing out and being open to everything.
 
 
 <a id="sec-051803"></a>
@@ -2290,13 +2368,15 @@ Fifty years into the future will look a lot like today. Of course, you’ll witn
 
 In the 1960s, space travel was all the rage, so we imagined ourselves on school trips to Mars. In the 70s, plastic was in, so we mulled over how we would furnish our see-through houses. Taleb traces this tendency back to the neomania pitfall, the mania for all things shiny and new. In the past, I sympathized with the so-called early adopters, the breed of people who cannot survive without the latest iPhone.
 
-I thought they were ahead of their time. Now I regard them as irrational and suffering from a kind of sickness, neomania. To them, it’s of minor importance if an invention provides tangible benefits. Novelty matters more.
+I thought they were ahead of their time. Now. I regard them as irrational and suffering from a kind of sickness, neomania. To them, it’s of minor importance if an invention provides tangible benefits.
 
-So don’t go out on a limb when forecasting the future. Stanley Kubrick’s cult movie, 2001, A Space Odyssey, illustrates why you shouldn’t. Late in 1968, the movie predicted that, at the turn of the millennium, the United States would have a thousand-strong colony on the moon, and that Pan Am would operate the commuter flights there and back. With this fanciful forecast in mind, I suggest a rule of thumb.
+Novelty matters more. So don’t go out on a limb when forecasting the future. Stanley Kubrick’s cult movie, 2001, A Space Odyssey, illustrates why you shouldn’t. Late in 1968, the movie predicted that, at the turn of the millennium, the United States would have a thousand-strong colony on the moon, and that Pan Am would operate the commuter flights there and back.
 
-Whatever has survived for X years will last another X years. Taleb wagers that the bullshit filter of history will sort the gimmicks from the game-changers. And that’s one debt I’m willing to back. 70. Why Propaganda Works.
+With this fanciful forecast in mind, I suggest a rule of thumb. Whatever has survived for X years will last another X years. Taleb wagers that the bullshit filter of history will sort the gimmicks from the game-changers. And that’s one debt.
 
-Sleeper Effect. During World War II, every nation produced propaganda movies. These were devised to fill the population, especially soldiers, with enthusiasm for the
+I’m willing to back. 70. Why Propaganda Works. Sleeper Effect. During World War II, every nation produced propaganda movies.
+
+These were devised to fill the population, especially soldiers, with enthusiasm for the
 
 
 <a id="sec-052305"></a>
@@ -2346,7 +2426,7 @@ MBA programs attract career-oriented people who will probably earn above-average
 
 That amount, if invested well, could easily exceed the additional income that the brochure promises. Third, to estimate earnings that are more than 30 years away, is idiotic. Who knows what will happen over the next three decades?
 
-Finally, other alternatives exist. You are not stuck between do an MBA and don’t do an MBA. Perhaps you can find a different program that costs significantly less and also represents a shot in the arm for your career. This fourth misconception interests me the most.
+Finally, other alternatives exist. You are not stuck between do an MBA and don’t do an MBA. Perhaps, you can find a different program that costs significantly less and also represents a shot in the arm for your career. This fourth misconception interests me the most.
 
 Let’s call it alternative blindness. We systematically forget to compare an existing offer with the next best alternative. Here’s an example from the world of finance. Suppose you have a little money in your savings account and you ask your investment broker for advice.
 
@@ -2362,17 +2442,19 @@ Let’s say your doctor discovers a tumor that will kill you in five years. He p
 
 However, this procedure is highly risky, with a survival rate of just 50 percent. How do you decide? You weigh up your choices. Certain death in five years, or a 50 percent chance of dying next week.
 
-Alternative blindness. Perhaps there is a variant of the invasive surgery that your hospital doesn’t offer, but a hospital across town does. This invasive surgery might not remove the tumor altogether, just slow its growth, but is much safer and gives you an extra 10 years. And who knows?
+Alternative blindness. Perhaps, there is a variant of the invasive surgery that your hospital doesn’t offer, but a hospital across town does. This invasive surgery might not remove the tumor altogether, just slow its growth, but is much safer and gives you an extra 10 years. And who knows?
 
 A more sophisticated therapy for eradicating tumors will be made available. The bottom line? If you have trouble making a decision, remember that the choices are broader than no surgery or highly risky surgery. Forget about the rock in the hard place, and open your eyes to the other superior alternatives. 72.
 
-Why We Take Aim at Young Guns. Social Comparison Bias. As one of my books reached number one on the bestseller list, my publisher asked me for a favor. An acquaintance’s title was on the verge of entering the top ten list, and the publisher was convinced that a testimonial from me would give it the necessary push.
+Why. We Take Aim at Young Guns. Social Comparison Bias. As one of my books reached number one on the bestseller list, my publisher asked me for a favor.
 
-It always amazes me that these little testimonials work at all. Everyone knows that only favorable comments end up on a book’s jacket. The book you hold in your hands is no exception. A rational reader should ignore the praise or at least consider it alongside the criticism, which is always available, albeit in different places.
+An acquaintance’s title was on the verge of entering the top ten list, and the publisher was convinced that a testimonial from me would give it the necessary push. It always amazes me that these little testimonials work at all. Everyone knows that only favorable comments end up on a book’s jacket. The book you hold in your hands is no exception.
 
-Nevertheless, I’ve written plenty of testimonials for other books, but they were never for rival titles. I hesitated. Wouldn’t writing a blurb be cutting off my nose to spite my face? Why should I help someone who might soon vie for the top slot?
+A rational reader should ignore the praise or at least consider it alongside the criticism, which is always available, albeit in different places. Nevertheless, I’ve written plenty of testimonials for other books, but they were never for rival titles. I hesitated. Wouldn’t writing a blurb be cutting off my nose to spite my face?
 
-As I pondered the question, I realized social comparison bias has kicked in. That is, the tendency to withhold assistance to people who might outdo you even if you look like a fool in the long run. Book testimonials are a harmless example of the social comparison bias.
+Why should. I help someone who might soon vie for the top slot? As. I pondered the question, I realized social comparison bias has kicked in.
+
+That is, the tendency to withhold assistance to people who might outdo you even if you look like a fool in the long run. Book testimonials are a harmless example of the social comparison bias.
 
 However, the phenomenon has reached toxic levels in academia.
 
@@ -2396,15 +2478,17 @@ What ethical behavior. When was the last time you heard of a professor vacating 
 
 Admittedly, in the short term, the preponderance of stars can endanger your status. But in the long run, you can only profit from their contributions. Others will overtake you at some stage anyway. Until then, you should get in the up-and-comers good books and learn from them.
 
-This is why I wrote The Testimonial in the end. 73. Why First Impressions Are Deceiving Primacy and Recency Effects Allow me to introduce you to two men, Alan and Ben. Without thinking about it too long, decide whom you prefer. Alan is smart, hard-working, impulsive, critical, stubborn, and jealous.
+This is why. I wrote The Testimonial in the end. 73. Why First Impressions Are Deceiving Primacy and Recency Effects Allow me to introduce you to two men, Alan and Ben. Without thinking about it too long, decide whom you prefer.
 
-Ben, however, is jealous, stubborn, critical, impulsive, hard-working, and smart. Who would you prefer to get stuck with in an elevator? Most people choose Alan even though the descriptions are exactly the same. Your brain pays more attention to the first adjectives in the lists, causing you to identify two different personalities.
+Alan is smart, hard-working, impulsive, critical, stubborn, and jealous. Ben, however, is jealous, stubborn, critical, impulsive, hard-working, and smart. Who would you prefer to get stuck with in an elevator? Most people choose Alan even though the descriptions are exactly the same.
 
-Alan is smart and hard-working. Ben is jealous and stubborn. The first traits outshine the rest. This is called the primacy effect.
+Your brain pays more attention to the first adjectives in the lists, causing you to identify two different personalities. Alan is smart and hard-working. Ben is jealous and stubborn. The first traits outshine the rest.
 
-If it were not for the primacy effect, people would refrain from decking out their headquarters with luxuriously appointed entrance halls. Your lawyer would feel happy turning up to meet you in worn-out sneakers rather than beautifully polished designer oxfords. The primacy effect triggers practical errors too. Nobel laureate Daniel Kahneman describes how he used to grade examination papers at the beginning of his professorship.
+This is called the primacy effect. If it were not for the primacy effect, people would refrain from decking out their headquarters with luxuriously appointed entrance halls. Your lawyer would feel happy turning up to meet you in worn-out sneakers rather than beautifully polished designer oxfords. The primacy effect triggers practical errors too.
 
-He did it, as most teachers do, in order. Student one followed by student two, and so on. This meant that students who answered the first questions flawlessly endeared themselves to him, thus affecting how he graded the remaining parts of their exams. So Kahneman switched methods and began to grade the individual questions in batches.
+Nobel laureate Daniel Kahneman describes how he used to grade examination papers at the beginning of his professorship. He did it, as most teachers do, in order. Student one followed by student two, and so on. This meant that students who answered the first questions flawlessly endeared themselves to him, thus affecting how he graded the remaining parts of their exams.
+
+So Kahneman switched methods and began to grade the individual questions in batches.
 
 
 <a id="sec-053813"></a>
@@ -2424,19 +2508,23 @@ For instance, if you listen to a speech a few weeks ago, you’ll remember the f
 
 Try to assess all aspects impartially. It’s not easy, but there are ways around it.
 
-For example, in interviews, I jot down a score every five minutes and calculate the average afterward. This way, I make sure that the middle counts just as much as hello and goodbye. 74. Why You Can’t Beat Homemade Not Invented Here Syndrome My cooking skills are quite modest, and my wife knows it.
+For example, in interviews, I jot down a score every five minutes and calculate the average afterward. This way, I make sure that the middle counts just as much as hello and goodbye. 74. Why. You Can’t Beat Homemade Not Invented.
 
-However, every now and then I concoct a dish that could pass for edible. A few weeks ago, I bought some soul. Determined to escape the monotony of familiar sauces, I devised a new one, a daring combination of white wine, pureed pistachio nuts, honey, grated orange peel, and a dash of balsamic vinegar. Upon tasting it, my wife slid her baked soul to the edge of the plate and began to scrape off the sauce, smiling ruefully as she did so.
+Here Syndrome. My cooking skills are quite modest, and my wife knows it.
 
-I, on the other hand, didn’t think it was bad at all. I explained to her in detail what a bold creation she was missing, but her expression stayed the same. Two weeks later, we were having soul again. This time my wife did the cooking.
+However, every now and then. I concoct a dish that could pass for edible. A few weeks ago, I bought some soul. Determined to escape the monotony of familiar sauces, I devised a new one, a daring combination of white wine, pureed pistachio nuts, honey, grated orange peel, and a dash of balsamic vinegar.
 
-She prepared two sauces. The first was her tried-and-true beurre blanc, and the other, a new recipe from a French top chef. The second tasted horrible. Afterwards, she confessed that it was not a French recipe at all, but a Swiss one.
+Upon tasting it, my wife slid her baked soul to the edge of the plate and began to scrape off the sauce, smiling ruefully as she did so. I, on the other hand, didn’t think it was bad at all. I explained to her in detail what a bold creation she was missing, but her expression stayed the same. Two weeks later, we were having soul again.
 
-My masterpiece from two weeks before, she had caught me out. I was guilty of the Not Invented Here Syndrome, NIH Syndrome, which fools us into thinking anything we create ourselves is unbeatable. NIH Syndrome causes you to fall in love with your own ideas. This is valid not only for fish sauces, but for all kinds of solutions, business ideas, and inventions.
+This time my wife did the cooking. She prepared two sauces. The first was her tried-and-true beurre blanc, and the other, a new recipe from a French top chef. The second tasted horrible.
 
-Companies tend to rate homegrown ideas as far more important than those from outsiders, even if objectively this is not the case. I recently had lunch with the CEO of a company that specializes in software for health insurance firms. He told me how difficult it is to sell his software to potential customers, even though his firm is the market leader in terms of service, security, and functionality. Most insurers are convinced that the best solution is what they have crafted themselves in-house over the past 30 years.
+Afterwards, she confessed that it was not a French recipe at all, but a Swiss one. My masterpiece from two weeks before, she had caught me out. I was guilty of the Not Invented. Here Syndrome, NIH Syndrome, which fools us into thinking anything we create ourselves is unbeatable.
 
-Another CEO told me how hard it is to get his staff in the company’s headquarters to accept solutions proposed from far-flung subsidiaries. When people collaborate to solve problems and then evaluate these ideas themselves, NIH Syndrome will inevitably exert an influence. Thus, it makes sense to split teams into two groups. The first group generates ideas, the second rates them, and vice versa.
+NIH Syndrome causes you to fall in love with your own ideas. This is valid not only for fish sauces, but for all kinds of solutions, business ideas, and inventions. Companies tend to rate homegrown ideas as far more important than those from outsiders, even if objectively this is not the case. I recently had lunch with the CEO of a company that specializes in software for health insurance firms.
+
+He told me how difficult it is to sell his software to potential customers, even though his firm is the market leader in terms of service, security, and functionality. Most insurers are convinced that the best solution is what they have crafted themselves in-house over the past 30 years. Another CEO told me how hard it is to get his staff in the company’s headquarters to accept solutions proposed from far-flung subsidiaries. When people collaborate to solve problems and then evaluate these ideas themselves, NIH Syndrome will inevitably exert an influence.
+
+Thus, it makes sense to split teams into two groups. The first group generates ideas, the second rates them, and vice versa.
 
 
 <a id="sec-054318"></a>
@@ -2460,17 +2548,17 @@ That was, until the year 1697, when Willem de Vlaming saw a black swan for the f
 
 Gradually, you grow accustomed to this gentle up and down. Then suddenly, a day like October 19, 1987, comes around, and the stock market tumbles 22 percent, with no warning. This event is a black swan, as described by Nassim Taleb in his book with the same title. A black swan is an unthinkable event that massively affects your life, your career, your company, your country.
 
-There are positive and negative black swans. The meteorite that flattens you, Sutter’s discovery of gold in California, the collapse of the Soviet Union, the invention of the transistor, the Internet browser, the overthrow of Egyptian dictator Mubarak, or another encounter that upturns your life completely. All are black swans. Think what you like of former U. S. Secretary of Defense Donald Rumsfeld, but at a press conference in 2002, he expressed a philosophical thought with exceptional clarity when he offered this observation.
+There are positive and negative black swans. The meteorite that flattens you, Sutter’s discovery of gold in California, the collapse of the Soviet Union, the invention of the transistor, the Internet browser, the overthrow of Egyptian dictator Mubarak, or another encounter that upturns your life completely. All are black swans. Think what you like of former U.
 
-There are things we know, known facts. There are things we do not know, known unknowns. And there are things we do not know that we do not know, unknown unknowns. How big is the universe?
+S. Secretary of Defense Donald Rumsfeld, but at a press conference in 2002, he expressed a philosophical thought with exceptional clarity when he offered this observation. There are things we know, known facts. There are things we do not know, known unknowns.
 
-Does Iran have nuclear weapons? Does the Internet make us smarter or dumber? These are known unknowns. With enough effort, we can hope to answer these one day, unlike the unknown unknowns.
+And there are things we do not know that we do not know, unknown unknowns. How big is the universe? Does Iran have nuclear weapons? Does the Internet make us smarter or dumber?
 
-No one foresaw Facebook mania ten years ago. It’s a black swan. Why are black swans so important? Because as absurd as it may sound, they are cropping up more and more frequently, and they tend to become more consequential.
+These are known unknowns. With enough effort, we can hope to answer these one day, unlike the unknown unknowns. No one foresaw Facebook mania ten years ago. It’s a black swan.
 
-Though we can continue to plan for the future, black swans often destroy our best laid plans. Feedback loops and nonlinear influences interact and cause unexpected results. The reason? Our brains are designed to help us hunt and gather.
+Why are black swans so important? Because as absurd as it may sound, they are cropping up more and more frequently, and they tend to become more consequential. Though we can continue to plan for the future, black swans often destroy our best laid plans. Feedback loops and nonlinear influences interact and cause unexpected results.
 
-Back in the Stone Age, we hardly ever encountered anything truly extraordinary. The deer we chased was sometimes a bit faster or slower, sometimes a little bit fatter or
+The reason? Our brains are designed to help us hunt and gather. Back in the Stone Age, we hardly ever encountered anything truly extraordinary. The deer we chased was sometimes a bit faster or slower, sometimes a little bit fatter or
 
 
 <a id="sec-054821"></a>
@@ -2478,65 +2566,73 @@ Back in the Stone Age, we hardly ever encountered anything truly extraordinary. 
 
 thinner. Everything revolved around a stable mean. Today is different. With one breakthrough, you can increase your income by a factor of ten thousand.
 
-Just ask Larry Page, Usain Bolt, George Soros, J. K. Rowling, or Bono. Such fortunes did not exist previously. Peaks of this size were unknown.
+Just ask Larry Page, Usain Bolt, George Soros, J. K. Rowling, or Bono. Such fortunes did not exist previously.
 
-Only in the most recent of human history has this been possible. Hence our problem with extreme scenarios. Since probabilities cannot fall below zero, and our thought processes are prone to error, you should assume that everything has an above-zero probability. So what can be done?
+Peaks of this size were unknown. Only in the most recent of human history has this been possible. Hence our problem with extreme scenarios. Since probabilities cannot fall below zero, and our thought processes are prone to error, you should assume that everything has an above-zero probability.
 
-Put yourself in situations where you can catch a ride on a positive black swan, as unlikely as that is. Become an artist, inventor, or entrepreneur with a scalable product. If you sell your time, for example as an employee, dentist, or journalist, you’re waiting in vain for such a break. But even if you feel compelled to continue as such, avoid surroundings where negative black swans thrive.
+So what can be done? Put yourself in situations where you can catch a ride on a positive black swan, as unlikely as that is. Become an artist, inventor, or entrepreneur with a scalable product. If you sell your time, for example as an employee, dentist, or journalist, you’re waiting in vain for such a break.
 
-This means stay out of debt, invest your savings as conservatively as possible, and get used to a modest standard of living, no matter whether your big breakthrough comes or not. Seventy-six. Knowledge is non-transferable. Domain dependence.
+But even if you feel compelled to continue as such, avoid surroundings where negative black swans thrive. This means stay out of debt, invest your savings as conservatively as possible, and get used to a modest standard of living, no matter whether your big breakthrough comes or not. Seventy-six. Knowledge is non-transferable.
 
-Writing books about clear thinking brings with it many pluses. Business leaders and investors invite me to give talks for good money. Incidentally, this is in itself poor judgment on their part. Books are much cheaper.
+Domain dependence. Writing books about clear thinking brings with it many pluses. Business leaders and investors invite me to give talks for good money. Incidentally, this is in itself poor judgment on their part.
 
-At a medical conference, the following happened to me. I was speaking about base-rate neglect and illustrated it with a medical example. In a 40-year-old patient, stabbing chest pain, among other things, may indicate heart problems as well as stress. Stress is much more frequent, with a higher base-rate, so it’s advisable to test the patient for this first.
+Books are much cheaper. At a medical conference, the following happened to me. I was speaking about base-rate neglect and illustrated it with a medical example. In a 40-year-old patient, stabbing chest pain, among other things, may indicate heart problems as well as stress.
 
-All this is very reasonable, and the doctors understood it intuitively. But when I used an example from economics, most faltered. The same thing happens when I speak in front of investors. If I illustrate fallacies using financial examples, most catch on immediately.
+Stress is much more frequent, with a higher base-rate, so it’s advisable to test the patient for this first. All this is very reasonable, and the doctors understood it intuitively. But when. I used an example from economics, most faltered.
 
-However, if I take instances from biology, many are lost. The conclusion? Insights do not pass well from one field to another. This effect is called domain dependence.
+The same thing happens when. I speak in front of investors. If. I illustrate fallacies using financial examples, most catch on immediately.
 
-In 1990, Harry Markowitz received the Nobel Prize in Economics for his theory of portfolio selection. It describes the optimum composition of a portfolio, taking into account both risk and return prospects. When it came to Markowitz’s own portfolio, how he should allot his savings into stocks and bonds, he simply opted for 50-50 distribution, half in shares, the other half in bonds. The Nobel Prize winner was incapable of applying his ingenious process to his own affairs, a blatant case of domain dependence.
+However, if. I take instances from biology, many are lost. The conclusion? Insights do not pass well from one field to another.
 
-He failed to transfer knowledge from the academic world to the private sphere. A friend of mine is a hopeless adrenaline junkie, scaling overhanging cliffs with his bare hands and launching himself off mountains in a wingsuit. He explained to me last week why starting a business is dangerous. Bankruptcy can never be ruled out.
+This effect is called domain dependence. In 1990, Harry Markowitz received the Nobel Prize in Economics for his theory of portfolio selection. It describes the optimum composition of a portfolio, taking into account both risk and return prospects. When it came to Markowitz’s own portfolio, how he should allot his savings into stocks and bonds, he simply opted for 50-50 distribution, half in shares, the other half in bonds.
 
-Personally, I’d rather be bankrupt than dead, I replied. He didn’t appreciate my logic. As an author, I realized just how difficult it is to transfer skills to a new area. For me, devising plots for my novels and creating characters are a cinch.
+The Nobel Prize winner was incapable of applying his ingenious process to his own affairs, a blatant case of domain dependence. He failed to transfer knowledge from the academic world to the private sphere. A friend of mine is a hopeless adrenaline junkie, scaling overhanging cliffs with his bare hands and launching himself off mountains in a wingsuit. He explained to me last week why starting a business is dangerous.
 
-A blank, empty page doesn’t daunt me. It’s quite a different story with, say, an empty apartment. When it comes to interior decor, I can stand in the room for hours, hands in my pockets, devoid of one single idea. Business is teeming with domain dependence.
+Bankruptcy can never be ruled out. Personally, I’d rather be bankrupt than dead, I replied. He didn’t appreciate my logic. As an author, I realized just how difficult it is to transfer skills to a new area.
 
-A software company recruits a successful consumer goods salesman. The new position blunts his talents. Transferring his sales skills from products to services is exceedingly difficult. Similarly, a presenter who is outstanding in front of small groups may well tank when his audience reaches 100 people, or a talented marketing mind may be promoted to CEO and suddenly find that he lacks any strategic creativity.
+For me, devising plots for my novels and creating characters are a cinch. A blank, empty page doesn’t daunt me. It’s quite a different story with, say, an empty apartment. When it comes to interior decor, I can stand in the room for hours, hands in my pockets, devoid of one single idea.
 
-With the Markowitz example, we saw that the transfer from the professional realm to the private realm is particularly difficult to navigate. I know CEOs who are charismatic leaders in the office and hopeless duds at home. Similarly, it would be a hard task to find a more cigarette-toting profession than the profits of health themselves, the doctors. Police officers are twice as violent at home as civilians.
+Business is teeming with domain dependence. A software company recruits a successful consumer goods salesman. The new position blunts his talents. Transferring his sales skills from products to services is exceedingly difficult.
+
+Similarly, a presenter who is outstanding in front of small groups may well tank when his audience reaches 100 people, or a talented marketing mind may be promoted to CEO and suddenly find that he lacks any strategic creativity. With the Markowitz example, we saw that the transfer from the professional realm to the private realm is particularly difficult to navigate. I know CEOs who are charismatic leaders in the office and hopeless duds at home. Similarly, it would be a hard task to find a more cigarette-toting profession than the profits of health themselves, the doctors.
+
+Police officers are twice as violent at home as civilians.
 
 
 <a id="sec-055322"></a>
 ### ⏱️ [05:53:22 - 05:58:23]
 
-Literary critics' novels get the poorest reviews. And, almost proverbially, the marriages of couples therapists are frequently more fragile than those of their clients. Mathematics professor Barry Mazur tells this story. Some years ago, I was trying to decide whether or not I should move from Stanford to Harvard.
+Literary critics' novels get the poorest reviews. And, almost proverbially, the marriages of couples therapists are frequently more fragile than those of their clients. Mathematics professor Barry Mazur tells this story. Some years ago, I was trying to decide whether or not.
 
-I had bored my friends silly with endless discussion. Finally, one of them said, you’re one of our leading decision theorists. Maybe you should make a list of the costs and benefits and try to roughly calculate your expected utility. Without thinking, I blurted out, come on, Sandy, this is serious.
+I should move from Stanford to Harvard. I had bored my friends silly with endless discussion.
 
-What you master in one area is difficult to transfer to another. Especially daunting is the transfer from academia to real life, from the theoretically sound to the practically possible. Of course, this also counts for this book. It will be difficult to transfer the knowledge from these pages to your daily life.
+Finally, one of them said, you’re one of our leading decision theorists. Maybe you should make a list of the costs and benefits and try to roughly calculate your expected utility. Without thinking, I blurted out, come on, Sandy, this is serious. What you master in one area is difficult to transfer to another.
 
-Even for me, as the writer, that transition proves to be a tough one. Book smarts don’t transfer to street smarts easily. 77. The Myth of Like-mindedness. False Consensus Effect.
+Especially daunting is the transfer from academia to real life, from the theoretically sound to the practically possible. Of course, this also counts for this book. It will be difficult to transfer the knowledge from these pages to your daily life. Even for me, as the writer, that transition proves to be a tough one.
 
-Which do you prefer, music from the 60s or music from the 80s? How do you think the general public would answer this question? Most people tend to extrapolate their preferences onto others. If they love the 60s, they will automatically assume that the majority of their peers do too.
+Book smarts don’t transfer to street smarts easily. 77. The Myth of Like-mindedness. False Consensus Effect. Which do you prefer, music from the 60s or music from the 80s?
 
-The same goes for 80 aficionados. We frequently overestimate unanimity with others, believing that everyone else thinks and feels exactly like we do. This fallacy is called the false consensus effect. Stanford psychologist Lee Ross hit upon this in 1977.
+How do you think the general public would answer this question? Most people tend to extrapolate their preferences onto others. If they love the 60s, they will automatically assume that the majority of their peers do too. The same goes for 80 aficionados.
 
-He fashioned a sandwich board emblazoned with the slogan, Eat at Joe’s, and asked randomly selected students to wear it around campus for 30 minutes. They also had to estimate how many other students would put themselves forward for the task. Those who declared themselves willing to wear the sign assumed that the majority, 62%, would also agree to it.
+We frequently overestimate unanimity with others, believing that everyone else thinks and feels exactly like we do. This fallacy is called the false consensus effect. Stanford psychologist Lee Ross hit upon this in 1977. He fashioned a sandwich board emblazoned with the slogan, Eat at Joe’s, and asked randomly selected students to wear it around campus for 30 minutes.
+
+They also had to estimate how many other students would put themselves forward for the task. Those who declared themselves willing to wear the sign assumed that the majority, 62%, would also agree to it.
 
 On the other hand, those who politely refused believed that most people, 67%, would find it too stupid to undertake. In both cases, the students imagined themselves to be in the popular majority. The false consensus effect thrives in interest groups and political factions that consistently overrate the popularity of their causes. An obvious example is global warming.
 
-However critical you consider the issue to be, you probably believe that the majority of people share your opinion. Similarly, if politicians are confident of election, it’s not just blind optimism. They cannot help overestimating their popularity. Artists are even worse off.
+However, critical you consider the issue to be, you probably believe that the majority of people share your opinion. Similarly, if politicians are confident of election, it’s not just blind optimism. They cannot help overestimating their popularity. Artists are even worse off.
 
-In 99% of new projects, they expect to achieve more success than ever before. A personal example, I was completely convinced that my novel, Massimo Marini, would be a resounding success. It was at least as good as my previous books, I thought, and those had done very well. But the public was of a different opinion, and I was proven wrong.
+In 99% of new projects, they expect to achieve more success than ever before. A personal example, I was completely convinced that my novel, Massimo Marini, would be a resounding success. It was at least as good as my previous books, I thought, and those had done very well. But the public was of a different opinion, and.
 
-False Consensus Effect Of course, the business world is equally prone to such false conclusions. Just because an R&D department is convinced of its product’s appeal doesn’t mean consumers will think the same way. Companies with tech people in charge are especially affected. Inventors fall in love with their product’s sophisticated features and mistakenly believe that these will bowl customers over too.
+I was proven wrong. False Consensus Effect Of course, the business world is equally prone to such false conclusions. Just because an R&D department is convinced of its product’s appeal doesn’t mean consumers will think the same way. Companies with tech people in charge are especially affected.
 
-The false consensus effect is fascinating for yet another reason. If people don’t share our opinions, we categorize them as abnormal. Ross’s experiment also corroborated this. The students who wore the sandwich board considered those who refused to be stuck up in humorless, whereas the other camp saw the sign-wearers as idiots and attention-seekers.
+Inventors fall in love with their product’s sophisticated features and mistakenly believe that these will bowl customers over too. The false consensus effect is fascinating for yet another reason. If people don’t share our opinions, we categorize them as abnormal. Ross’s experiment also corroborated this.
 
-Perhaps you remember the fallacy of social proof, the notion that an idea is better the more people believe in it. Is the false consensus effect identical? No. Social proof is an evolutionary survival strategy. Following the crowd has saved our butts more often in the past hundred thousand years than striking out on our own. With the false consensus effect, no outside influences are involved.
+The students who wore the sandwich board considered those who refused to be stuck up in humorless, whereas the other camp saw the sign-wearers as idiots and attention-seekers. Perhaps, you remember the fallacy of social proof, the notion that an idea is better the more people believe in it. Is the false consensus effect identical? No.
 
-Despite this, it still has a social function, which is why evolution didn’t eliminate it. Our brain is not built to recognize the truth. Instead, its goal is to leave behind as many offspring as possible. Whoever seemed courageous and convincing, thanks to the false consensus effect, created a positive impression, attracted a disproportionate amount of resources, and thus increased their chances of passing on their genes to future generations.
+Social proof is an evolutionary survival strategy. Following the crowd has saved our butts more often in the past hundred thousand years than striking out on our own. With the false consensus effect, no outside influences are involved. Despite this, it still has a social function, which is why evolution didn’t eliminate it.
+
+Our brain is not built to recognize the truth. Instead, its goal is to leave behind as many offspring as possible. Whoever seemed courageous and convincing, thanks to the false consensus effect, created a positive impression, attracted a disproportionate amount of resources, and thus increased their chances of passing on their genes to future generations.
 
 
 <a id="sec-055823"></a>
@@ -2550,65 +2646,67 @@ His work is important. Revising the past creates the illusion of infallibility a
 
 Worse still, whereas in Orwell’s novel he toiled unwillingly and eventually rebelled against the system, in your brain he’s working with the utmost deficiency, and according to your wishes and goals, he will never rise up against you. He revises your memories so effortlessly, elegantly even, that you never notice his work. Discrete and reliable, Winston disposes of your old mistaken views. As they vanish, one by one, you start to believe you were right all along.
 
-In 1973, U. S. political scientist Gregory Marcus asked 3,000 people to share their opinions on controversial political issues, such as the legalization of drugs. The responses ranged from fully agree to completely disagree. Ten years later, he interviewed them again on the same topics and also asked what they had replied ten years previously. The result?
+In 1973, U. S. political scientist Gregory Marcus asked 3,000 people to share their opinions on controversial political issues, such as the legalization of drugs. The responses ranged from fully agree to completely disagree. Ten years later, he interviewed them again on the same topics and also asked what they had replied ten years previously.
 
-What they recalled disclosing in 1973 was almost identical to their present-day views and a far cry from their original responses. By subconsciously adjusting past views to fit present ones, we avoid any embarrassing proof of our fallibility. It’s a clever coping strategy because, no matter how tough we are, admitting mistakes is an emotionally difficult task. But this is preposterous.
+The result? What they recalled disclosing in 1973 was almost identical to their present-day views and a far cry from their original responses. By subconsciously adjusting past views to fit present ones, we avoid any embarrassing proof of our fallibility. It’s a clever coping strategy because, no matter how tough we are, admitting mistakes is an emotionally difficult task.
 
-Shouldn’t we let out a whoop of joy every time we realize we’re wrong? After all, such admissions would ensure we’ll never make the same mistake twice and have essentially taken a step forward. But we don’t see it that way. So does this mean our brains contain no accurately etched memories?
+But this is preposterous. Shouldn’t we let out a whoop of joy every time we realize we’re wrong? After all, such admissions would ensure we’ll never make the same mistake twice and have essentially taken a step forward. But we don’t see it that way.
 
-Surely not. After all, you can recall the exact moment when you met your partner as if it were captured in a photo. And you can remember exactly where you were on September 11, 2001, when you learned of the terrorist attack in New York, right? You recall to whom you were speaking and how you felt.
+So does this mean our brains contain no accurately etched memories? Surely not. After all, you can recall the exact moment when you met your partner as if it were captured in a photo. And you can remember exactly where you were on September 11, 2001, when you learned of the terrorist attack in New York, right?
 
-Your memories of 9-11 are extraordinarily vivid and detailed. Psychologists call these flashbulb memories. They feel as incontestable as photographs. They are not.
+You recall to whom you were speaking and how you felt. Your memories of 9-11 are extraordinarily vivid and detailed. Psychologists call these flashbulb memories. They feel as incontestable as photographs.
 
-Flashbulb memories are as flawed as regular recollections. They’re the product of reconstruction. Ulrich Nyser, one of the pioneers in the field of cognitive science, investigated them. In 1986, the day after the explosion of the Challenger space shuttle, he asked students to write essays detailing their reactions.
+They are not. Flashbulb memories are as flawed as regular recollections. They’re the product of reconstruction. Ulrich Nyser, one of the pioneers in the field of cognitive science, investigated them.
 
-Three years later, he interviewed them again. Less than 7% of the new data correlated with the initial submissions.
+In 1986, the day after the explosion of the Challenger space shuttle, he asked students to write essays detailing their reactions. Three years later, he interviewed them again. Less than 7% of the new data correlated with the initial submissions.
 
-In fact, 50% of the recollections were incorrect in two-thirds of the points, and 25% failed to match even a single detail. Nyser took one of these conflicting papers and presented it to its owner. Her answer? I know it’s my handwriting, but I couldn’t have written this.
+In fact, 50% of the recollections were incorrect in two-thirds of the points, and 25% failed to match even a single detail. Nyser took one of these conflicting papers and presented it to its owner. Her answer? I know it’s my handwriting, but.
 
-The question remains. Why do flashbulb memories feel so real? We don’t know yet. It’s safe to assume that half of what you remember is wrong.
+I couldn’t have written this. The question remains. Why do flashbulb memories feel so real? We don’t know yet.
 
-Our memories are riddled with inaccuracies, including the seemingly flawless flashbulb memories. Our faith in them can be harmless or lethal. Consider the widespread use of eyewitness testimony and police lineups to identify criminals. To trust such accounts without additional investigation is reckless, even if the witnesses are adamant that they would easily recognize the perpetrator again. 79.
+It’s safe to assume that half of what you remember is wrong. Our memories are riddled with inaccuracies, including the seemingly flawless flashbulb memories. Our faith in them can be harmless or lethal. Consider the widespread use of eyewitness testimony and police lineups to identify criminals.
+
+To trust such accounts without additional investigation is reckless, even if the witnesses are adamant that they would easily recognize the perpetrator again. 79.
 
 
 <a id="sec-060323"></a>
 ### ⏱️ [06:03:23 - 06:08:27]
 
-Why you identify with your football team? In-group, out-group bias. When I was a child, a typical wintery Sunday looked like this. My family sat in front of the TV watching a ski race.
+Why you identify with your football team? In-group, out-group bias. When. I was a child, a typical wintery Sunday looked like this.
 
-My parents cheered for the Swiss skiers and wanted me to do the same. I didn’t understand the fuss.
+My family sat in front of the TV watching a ski race. My parents cheered for the Swiss skiers and wanted me to do the same. I didn’t understand the fuss.
 
 First, why zoom down a mountain on two planks? It makes as little sense as hopping up the mountain on one leg while juggling three balls and stopping every hundred feet to hurl a log as far as possible.
 
-Second, how can one hundredth of a second count as a difference? Common sense would say that if people are that close together, they’re equally good skiers. Third, why should I identify with the Swiss skiers? Was I related to any of them?
+Second, how can one hundredth of a second count as a difference? Common sense would say that if people are that close together, they’re equally good skiers. Third, why should. I identify with the Swiss skiers?
 
-I didn’t think so. I didn’t even know what they thought or read, and if I lived a few feet over the Swiss border, I would probably have to cheer for another team altogether. This brings us to the question, does identifying with a group, a sports team, an ethnicity, a company, a state, represent flawed thinking? Over thousands of years, evolution has shaped every behavioral pattern, including attraction to certain groups.
+Was. I related to any of them? I didn’t think so. I didn’t even know what they thought or read, and if.
 
-In times past, group membership was vital. Fending for yourself was close to impossible. As people began to form alliances, all had to follow suit. Individuals stood no chance against collectives.
+I lived a few feet over the Swiss border, I would probably have to cheer for another team altogether. This brings us to the question, does identifying with a group, a sports team, an ethnicity, a company, a state, represent flawed thinking? Over thousands of years, evolution has shaped every behavioral pattern, including attraction to certain groups. In times past, group membership was vital.
 
-Whoever rejected membership or got expelled forfeited their place not only in the group, but also in the gene pool. No wonder we’re such social animals. Our ancestors were, too. Psychologists have investigated different group effects.
+Fending for yourself was close to impossible. As people began to form alliances, all had to follow suit. Individuals stood no chance against collectives. Whoever rejected membership or got expelled forfeited their place not only in the group, but also in the gene pool.
 
-These can be neatly categorized under the term in-group, out-group bias. First, groups often form based on minor, even trivial, criteria. With sports affiliation, a random birthplace suffices, and in business, it’s where you work. To test this, the British psychologist Henri Teiffel split strangers into groups, tossing a coin to choose who went to which group.
+No wonder we’re such social animals. Our ancestors were, too. Psychologists have investigated different group effects. These can be neatly categorized under the term in-group, out-group bias.
 
-He told the members of one group it was because they all liked a particular type of art. The results were impressive, although A, they were strangers, B, they were allocated a group at random, and C, they were far from art connoisseurs, the group members found each other more agreeable than members of other groups.
+First, groups often form based on minor, even trivial, criteria. With sports affiliation, a random birthplace suffices, and in business, it’s where you work. To test this, the British psychologist Henri Teiffel split strangers into groups, tossing a coin to choose who went to which group. He told the members of one group it was because they all liked a particular type of art.
 
-Second, you perceive people outside your own group to be more similar than they actually are. This is called the out-group homogeneity bias. Stereotypes and prejudices stem from it. Have you ever noticed that in science fiction movies, only the humans have different cultures, and the aliens don’t?
+The results were impressive, although A, they were strangers, B, they were allocated a group at random, and C, they were far from art connoisseurs, the group members found each other more agreeable than members of other groups. Second, you perceive people outside your own group to be more similar than they actually are. This is called the out-group homogeneity bias. Stereotypes and prejudices stem from it.
 
-Third, since groups often form on the basis of common values, group members receive a disproportionate amount of support for their own views. This distortion is dangerous, especially in business. It leads to the infamous organizational blindness. Family members helping one another out is understandable.
+Have you ever noticed that in science fiction movies, only the humans have different cultures, and the aliens don’t? Third, since groups often form on the basis of common values, group members receive a disproportionate amount of support for their own views. This distortion is dangerous, especially in business. It leads to the infamous organizational blindness.
 
-If you share half your genes with your siblings, you’re naturally interested in their well-being. But there is such a thing as pseudo-kinship. It involves the same emotions without blood relationship. Such feelings can lead to the most idiotic cognitive error of all, laying down your life for a random group, also known as going to war.
+Family members helping one another out is understandable. If you share half your genes with your siblings, you’re naturally interested in their well-being. But there is such a thing as pseudo-kinship. It involves the same emotions without blood relationship.
 
-It is no coincidence that motherland suggests kinship, and it’s not by chance that the goal of any military training is to forge soldiers together as brothers. In conclusion, prejudice and aversion are biological responses to anything foreign. Identifying with a group has been a survival strategy for hundreds of thousands of years. Not any longer.
+Such feelings can lead to the most idiotic cognitive error of all, laying down your life for a random group, also known as going to war. It is no coincidence that motherland suggests kinship, and it’s not by chance that the goal of any military training is to forge soldiers together as brothers. In conclusion, prejudice and aversion are biological responses to anything foreign. Identifying with a group has been a survival strategy for hundreds of thousands of years.
 
-Identifying with a group distorts your view of the facts. Should you ever be sent to war and you don’t agree with its goals? Desert. Eighty.
+Not any longer. Identifying with a group distorts your view of the facts. Should you ever be sent to war and you don’t agree with its goals? Desert.
 
-The difference between risk and uncertainty. Ambiguity of version. Two boxes. Box A contains 100 balls, 50 red and 50 black.
+Eighty. The difference between risk and uncertainty. Ambiguity of version. Two boxes.
 
-Box B also holds 100 balls, but you don’t know how many are red and how many are black. If you reach into one of the boxes without looking and draw out a red ball, you win $100. Which box will you choose, A or B? The majority will opt for A.
+Box A contains 100 balls, 50 red and 50 black. Box B also holds 100 balls, but you don’t know how many are red and how many are black. If you reach into one of the boxes without looking and draw out a red ball, you win $100. Which box will you choose, A or B?
 
-Let’s play again using exactly the same boxes. This time you win $100 if you draw out a black ball. Which box will you go for now? Most likely you’ll choose A again, but that’s illogical.
+The majority will opt for A. Let’s play again using exactly the same boxes. This time you win $100 if you draw out a black ball. Which box will you go for now?
 
-In the first round, you assume that B contained fewer red balls and more black balls, so rationally you would have to opt for B this time around. Don’t worry, you’re not alone in this error, quite the opposite. This result is known as the Ellsberg paradox, named after Daniel Ellsberg, a former Harvard
+Most likely you’ll choose A again, but that’s illogical. In the first round, you assume that B contained fewer red balls and more black balls, so rationally you would have to opt for B this time around. Don’t worry, you’re not alone in this error, quite the opposite. This result is known as the Ellsberg paradox, named after Daniel Ellsberg, a former Harvard
 
 
 <a id="sec-060827"></a>
@@ -2638,13 +2736,15 @@ Either way, whoever hopes to think clearly must understand the difference betwee
 
 Why you go with the status quo. Default effect. In a restaurant the other day, I scanned the wine list in desperation. Iroule-l’y, Arcelevolu, Sousa-maniello.
 
-I’m far from an expert, but I could tell that a sommelier was trying to prove his worldliness with these selections. On the last page, I found redemption. Our French house wine, Reserve du patron Bourgogne, $52. I ordered it right away.
+I’m far from an expert, but. I could tell that a sommelier was trying to prove his worldliness with these selections. On the last page, I found redemption. Our French house wine, Reserve du patron Bourgogne, $52.
 
-It couldn’t be that bad, I reasoned. I’ve owned an iPhone for several years now. The gadget allows me to customize everything, data usage, app synchronization, phone encryption, even how loud I want the camera shutter to sound. How many of these have I set up so far?
+I ordered it right away. It couldn’t be that bad, I reasoned. I’ve owned an iPhone for several years now. The gadget allows me to customize everything, data usage, app synchronization, phone encryption, even how loud.
 
-You guessed it, not one. In my defense, I’m not technically challenged. Rather, I’m just another victim of the so-called default effect. The default setting is as warm and welcoming as a soft pillow, into which we happily collapse.
+I want the camera shutter to sound. How many of these have. I set up so far? You guessed it, not one.
 
-Just as I tend to stick with the house wine and factory cell phone settings, most people cling to the standard options.
+In my defense, I’m not technically challenged. Rather, I’m just another victim of the so-called default effect. The default setting is as warm and welcoming as a soft pillow, into which we happily collapse. Just as.
+
+I tend to stick with the house wine and factory cell phone settings, most people cling to the standard options.
 
 
 <a id="sec-061329"></a>
@@ -2660,7 +2760,7 @@ There is a shortage of organ donors. Only about 40% of people opt for it. Scient
 
 The default effect is at work even when no standard option is mentioned. In such cases we make our past the default setting, thereby prolonging and sanctifying the status quo. People crave what they know. Given the choice of trying something new or sticking to the tried and tested option, we tend to be highly conservative, even if a change would be beneficial.
 
-My bank, for example, charges an annual fee of $60 for mailing out account statements. I could save myself this amount if I downloaded the statements online.
+My bank, for example, charges an annual fee of $60 for mailing out account statements. I could save myself this amount if. I downloaded the statements online.
 
 However, though the pricey and paper-guzzling service has bothered me for years, I still can’t bring myself to get rid of it once and for all. So where does the status quo bias come from? In addition to sheer convenience, loss aversion plays a role. Recall that losses upset us twice as much as similar gains please us.
 
@@ -2668,17 +2768,17 @@ For this reason, tasks such as renegotiating existing contracts prove very diffi
 
 Maybe we live our lives according to some grand, hidden default idea, I suggested to a dinner companion, hoping to draw him into a deep philosophical discussion. Maybe it just needs a little time to develop, he said, after trying the raiser of du patron. 82. Why Last Chances Make Us Panic Fear of Regret Two stories. Paul owns shares in company A.
 
-During the year he considered selling them and buying shares in company B. In the end he didn’t. Today he knows that if he had done so, he would have been up $1,200. Second story.
+During the year he considered selling them and buying shares in company B. In the end he didn’t. Today he knows that if he had done so, he would have been up $1,200.
 
-George had shares in company B. During the year he sold them and bought shares in company A. Today he also knows that if he had stuck with B, he would have netted an extra $1,200. Who Feels More Regret Regret is the feeling of having made the wrong decision.
+Second, story. George had shares in company B. During the year he sold them and bought shares in company A. Today he also knows that if he had stuck with B, he would have netted an extra $1,200.
 
-You wish someone would give you a second chance. When asked who would feel worse, 8% of respondents said Paul, whereas 92% chose George. Why? Considered objectively, the situations are identical.
+Who Feels More Regret Regret is the feeling of having made the wrong decision. You wish someone would give you a second chance. When asked who would feel worse, 8% of respondents said Paul, whereas 92% chose George. Why?
 
-Both Paul and George were unlucky, picked the wrong stock, and were out of pocket for the exact same amount. The only difference, Paul already possessed the shares in A, whereas George went out and bought them. Paul was passive, George active. Paul embodies the majority.
+Considered objectively, the situations are identical. Both Paul and George were unlucky, picked the wrong stock, and were out of pocket for the exact same amount. The only difference, Paul already possessed the shares in A, whereas George went out and bought them. Paul was passive, George active.
 
-Most people leave their money lying where it is for years, and George represents the exception. It seems that whoever does not follow the crowd experiences more regret. It’s not always the one who acts who feels more regret. Sometimes choosing not to act can constitute an exception.
+Paul embodies the majority. Most people leave their money lying where it is for years, and George represents the exception. It seems that whoever does not follow the crowd experiences more regret. It’s not always the one who acts who feels more regret.
 
-An example. A venerable publishing house stands
+Sometimes choosing not to act can constitute an exception. An example. A venerable publishing house stands
 
 
 <a id="sec-061831"></a>
@@ -2732,31 +2832,33 @@ A book with an unusual fire engine red jacket makes it onto the bestseller list.
 
 Why money is not naked. House money effect. A windy fall day in the early 1980s, the wet leaves swirled about the sidewalk. Pushing my bike up the hill to school, I noticed a strange leaf at my feet.
 
-It was big and rust-brown, and only when I bent down did I realize it was a 500 Swiss franc bill. That was the equivalent of about $250 back then, an absolute fortune for a high school student. The money spent little time in my pocket. I soon bought myself a top-of-the-range bike with disc brakes and Shimano gears, one of the best models around.
+It was big and rust-brown, and only when. I bent down did. I realize it was a 500 Swiss franc bill. That was the equivalent of about $250 back then, an absolute fortune for a high school student.
 
-The funny thing was my old bike worked fine. Admittedly, I wasn’t completely broke back then. I had managed to save up a few hundred francs through mowing grass in the neighborhood.
+The money spent little time in my pocket. I soon bought myself a top-of-the-range bike with disc brakes and Shimano gears, one of the best models around. The funny thing was my old bike worked fine. Admittedly, I wasn’t completely broke back then.
 
-However, it never crossed my mind to spend this hard-earned money on something so unnecessary. The most I treated myself to was a trip to the movies every now and then. It was only upon reflection that I realized how irrational my behavior had been. Money is money, after all.
+I had managed to save up a few hundred francs through mowing grass in the neighborhood. However, it never crossed my mind to spend this hard-earned money on something so unnecessary. The most. I treated myself to was a trip to the movies every now and then.
 
-But we don’t see it that way. Depending on how we get it, we treat it differently. Money is not naked. It’s wrapped in an emotional shroud.
+It was only upon reflection that. I realized how irrational my behavior had been. Money is money, after all. But we don’t see it that way.
 
-Two questions. You’ve worked hard for a year. At the end of the 12 months, you have $20,000 more in your account than you had at the beginning. What do you do?
+Depending on how we get it, we treat it differently. Money is not naked. It’s wrapped in an emotional shroud. Two questions.
 
-A. Leave it sitting in the bank. B. Invest it.
+You’ve worked hard for a year. At the end of the 12 months, you have $20,000 more in your account than you had at the beginning. What do you do? A.
 
-C. Use it to make necessary improvements, such as renovating your moldy kitchen or replacing old tires. D. Treat yourself to a luxury cruise.
+Leave it sitting in the bank. B. Invest it. C.
 
-If you think like most people, you’ll opt for A, B, or C. Second question. You win $20,000 in the lottery. What do you do with it?
+Use it to make necessary improvements, such as renovating your moldy kitchen or replacing old tires. D. Treat yourself to a luxury cruise. If you think like most people, you’ll opt for A, B, or C.
 
-Choose from A, B, C, or D above. Most people now take C or D. And, of course, by doing so, they exhibit flawed thinking. You can count it any way you like. $20,000 is still $20,000.
+Second, question. You win $20,000 in the lottery. What do you do with it? Choose from A, B, C, or D above.
 
-We witness similar delusions in casinos. A friend places $1,000 on the roulette table and loses everything. When asked about this, he says, I didn’t really gamble away $1,000. I won all that earlier.
+Most people now take C or D. And, of course, by doing so, they exhibit flawed thinking. You can count it any way you like. $20,000 is still $20,000. We witness similar delusions in casinos.
 
-But it’s the same amount. Not for me. He laughs. We treat money that we win, discover, or inherit much more frivolously than hard-earned cash.
+A friend places $1,000 on the roulette table and loses everything. When asked about this, he says, I didn’t really gamble away $1,000. I won all that earlier. But it’s the same amount.
 
-The economist Richard Thaler calls this the house money effect. It leads us to take bigger risks, and for this reason, many lottery winners end up worse off after they’ve cashed in their winnings. That old platitude, win some, lose some, is a feeble attempt to downplay real losses. Thaler divided his students into two groups.
+Not for me. He laughs. We treat money that we win, discover, or inherit much more frivolously than hard-earned cash. The economist Richard Thaler calls this the house money effect.
 
-The first group learned they had won $30 and could choose to take part in the following coin toss. If it was Tails, they would win $9. If Heads, they would lose $9. 70 percent of students opted to risk it. The second group learned they had won
+It leads us to take bigger risks, and for this reason, many lottery winners end up worse off after they’ve cashed in their winnings. That old platitude, win some, lose some, is a feeble attempt to downplay real losses. Thaler divided his students into two groups. The first group learned they had won $30 and could choose to take part in the following coin toss.
+
+If it was Tails, they would win $9. If Heads, they would lose $9. 70 percent of students opted to risk it. The second group learned they had won
 
 
 <a id="sec-062838"></a>
@@ -2786,13 +2888,13 @@ The students who were forbidden to eat any cookies gave up on the math problem t
 
 This is a fundamental insight. Self-control is not available around the clock. It needs time to refuel. The good news?
 
-To achieve this, all you need to do is refill your blood sugar and kick back and relax. Though eating enough and giving yourself breaks is important, the next necessary condition is employing an array of tricks to keep you on the straight and narrow. This includes eliminating distractions. When I write a novel, I turn off my internet access.
+To achieve this, all you need to do is refill your blood sugar and kick back and relax. Though eating enough and giving yourself breaks is important, the next necessary condition is employing an array of tricks to keep you on the straight and narrow. This includes eliminating distractions. When.
 
-It’s just too enticing to go online when I reach a naughty part. The most effective trick, however, is to set deadlines. Psychologist Dan Ariely found that dates stipulated by external authorities, for example a teacher or the IRS, work best. Those deadlines will work only if the task is broken down step by step, with each part assigned its own due date.
+I write a novel, I turn off my internet access. It’s just too enticing to go online when. I reach a naughty part. The most effective trick, however, is to set deadlines.
 
-For this reason, nebulous New Year’s resolutions are doomed to fail. So get over yourself. Procrastination is irrational, but human. To fight it, use a combined approach.
+Psychologist Dan Ariely found that dates stipulated by external authorities, for example a teacher or the IRS, work best. Those deadlines will work only if the task is broken down step by step, with each part assigned its own due date. For this reason, nebulous New Year’s resolutions are doomed to fail. So get over yourself.
 
-This is how my neighbor managed to write her doctoral thesis in three months.
+Procrastination is irrational, but human. To fight it, use a combined approach. This is how my neighbor managed to write her doctoral thesis in three months.
 
 
 <a id="sec-063340"></a>
@@ -2808,45 +2910,45 @@ B. Their salaries stay the same, yours is too. C. Their average salaries are cut
 
 If you answered A, don’t worry, that’s perfectly normal. You’re just another victim of the green-eyed monster. Here’s a Russian fairy tale. A farmer finds a magic lamp, he rubs it, and out of thin air, a genie appears who promises to grant him one wish.
 
-The farmer thinks about this for a little while. Finally, he says, my neighbor has a cow, and I have none. I hope that his drops dead. As absurd as it sounds, you can probably identify with the farmer.
+The farmer thinks about this for a little while. Finally, he says, my neighbor has a cow, and. I have none. I hope that his drops dead.
 
-Admit it, a similar thought must have occurred to you at some point in your life. Even your colleague scores a big bonus, and you get a gift certificate. You feel N. V.
+As absurd as it sounds, you can probably identify with the farmer. Admit it, a similar thought must have occurred to you at some point in your life. Even your colleague scores a big bonus, and you get a gift certificate. You feel N.
 
-This creates a chain of irrational behavior. You refuse to help him any longer, sabotage his plans, perhaps even puncture the tires of his Porsche, and you secretly rejoice when he breaks his leg skiing. Of all the emotions, N. V. is the most idiotic.
+V. This creates a chain of irrational behavior. You refuse to help him any longer, sabotage his plans, perhaps even puncture the tires of his Porsche, and you secretly rejoice when he breaks his leg skiing. Of all the emotions, N.
 
-Why? Because it’s relatively easy to switch off. This is in contrast to anger, sadness, or fear. N.
+V. is the most idiotic. Why? Because it’s relatively easy to switch off. This is in contrast to anger, sadness, or fear.
 
-V. is the most stupid of vices, for there is no single advantage to be gained by it, writes Balzac. In short, N. V. is the most sincere type of flattery. Other than that, it’s a waste of time.
+N. V. is the most stupid of vices, for there is no single advantage to be gained by it, writes Balzac. In short, N. V. is the most sincere type of flattery.
 
-Many things spark N. V. Ownership, status, health, youth, talent, popularity, beauty. It’s often confused with jealousy because the physical reactions are identical.
+Other than that, it’s a waste of time. Many things spark N. V. Ownership, status, health, youth, talent, popularity, beauty.
 
-The difference? The subject of N. V. is a thing, status, money, health, etc. The subject of jealousy is the behavior of a third person. N.
+It’s often confused with jealousy because the physical reactions are identical. The difference? The subject of N. V. is a thing, status, money, health, etc.
 
-V. needs two people. Jealousy, on the other hand, requires three. Peter is jealous of Sam because the beautiful girl next door phones him instead. Paradoxically with N.
+The subject of jealousy is the behavior of a third person. N. V. needs two people. Jealousy, on the other hand, requires three.
 
-V., we direct resentments toward those who are most similar to us in age, career, and residence. We don’t N. V. businesspeople from the century before last. We don’t begrudge plants or animals.
+Peter is jealous of Sam because the beautiful girl next door phones him instead. Paradoxically with N. V., we direct resentments toward those who are most similar to us in age, career, and residence. We don’t N.
 
-We don’t N. V. millionaires on the other side of the globe, just those on the other side of the city. As a writer, I don’t N. V. musicians, managers, or dentists, but other writers.
+V. businesspeople from the century before last. We don’t begrudge plants or animals. We don’t N. V. millionaires on the other side of the globe, just those on the other side of the city.
 
-As a CEO, you N. V. other, bigger CEOs. As a supermodel, you N. V. more successful supermodels.
+As a writer, I don’t N. V. musicians, managers, or dentists, but other writers. As a CEO, you N. V. other, bigger CEOs.
 
-Aristotle knew this. Potters, N. V. potters. This brings us to a classic practical error.
+As a supermodel, you N. V. more successful supermodels. Aristotle knew this. Potters, N.
 
-Let’s say your financial success allows you to move from one of New York’s grittier neighborhoods to Manhattan’s Upper East Side. In the first few weeks, you enjoy being in the center of everything and how impressed your friends are with your new apartment and address. But soon you realize that apartments of completely different proportions surround you. You’ve traded in your old peer group for one that is much richer.
+V. potters. This brings us to a classic practical error. Let’s say your financial success allows you to move from one of New York’s grittier neighborhoods to Manhattan’s Upper East Side. In the first few weeks, you enjoy being in the center of everything and how impressed your friends are with your new apartment and address.
 
-Just start to bother you that haven’t bothered you before. N. V. and status anxiety are the consequences. How do you curb N.
+But soon you realize that apartments of completely different proportions surround you. You’ve traded in your old peer group for one that is much richer. Just start to bother you that haven’t bothered you before. N.
 
-V.? First, stop comparing yourself to others.
+V. and status anxiety are the consequences. How do you curb N. V.?
 
-Second, find your circle of competence and fill it in on your own. Create a niche where you are the best. It doesn’t matter how small your area of mastery is. The main thing is that you are king of the castle.
+First, stop comparing yourself to others. Second, find your circle of competence and fill it in on your own. Create a niche where you are the best. It doesn’t matter how small your area of mastery is.
 
-Like all emotions, N. V. has its origins in our evolutionary past. If the hominid from the cave next door took a bigger share of the mammoth, it meant less for the loser. N.
+The main thing is that you are king of the castle. Like all emotions, N. V. has its origins in our evolutionary past. If the hominid from the cave next door took a bigger share of the mammoth, it meant less for the loser.
 
-V. motivated us to do something about it. Less a fair hunter-gatherers disappeared from the gene pool. In extreme cases, they died of starvation, while others feasted. We are the offspring of the envious.
+N. V. motivated us to do something about it. Less a fair hunter-gatherers disappeared from the gene pool. In extreme cases, they died of starvation, while others feasted.
 
-But in today’s world, N. V. is no longer vital. If my neighbor buys himself a Porsche, it doesn’t mean that he has taken anything from me. When I find myself suffering pangs of N.
+We are the offspring of the envious. But in today’s world, N. V. is no longer vital. If my neighbor buys himself a Porsche, it doesn’t mean that he has taken anything from me.
 
-V., my wife reminds me, it’s okay to be envious, but only of the person you aspire to become.
+When. I find myself suffering pangs of N. V., my wife reminds me, it’s okay to be envious, but only of the person you aspire to become.
 
 
 <a id="sec-063843"></a>
@@ -2866,23 +2968,23 @@ After all, it’s better than nothing. However, in the 1980s, when economists be
 
 The ultimatum game is one of the clearest manifestations of the theory of mind. In short, we empathize with the other person.
 
-However, with one tiny change, it’s possible to almost eliminate this compassion. Put the players in separate rooms. When people can’t see their counterparts, or indeed when they have never seen them, it’s more difficult to simulate their feelings. The other person becomes an abstraction, and the share they are offered drops, on average, to below twenty percent. In another experiment, psychologist Paul Slovik asked people for donations.
+However, with one tiny change, it’s possible to almost eliminate this compassion. Put the players in separate rooms. When people can’t see their counterparts, or indeed when they have never seen them, it’s more difficult to simulate their feelings. The other person becomes an abstraction, and the share they are offered drops, on average, to below twenty percent.
 
-One group was shown a photo of Rokia from Malawi, an emaciated child with pleading eyes. Afterward, people donated an average of two dollars eighty-three cents to the charity, out of five dollars they were given to fill out a short survey. The second group was shown statistics about the famine in Malawi, including the fact that more than three million malnourished children were affected. The average donation dropped by fifty percent.
+In another experiment, psychologist Paul Slovik asked people for donations. One group was shown a photo of Rokia from Malawi, an emaciated child with pleading eyes. Afterward, people donated an average of two dollars eighty-three cents to the charity, out of five dollars they were given to fill out a short survey. The second group was shown statistics about the famine in Malawi, including the fact that more than three million malnourished children were affected.
 
-This is illogical. You would think that people’s generosity would grow if they knew the extent of the disaster. But we don’t function like that. Statistics don’t stir us.
+The average donation dropped by fifty percent. This is illogical. You would think that people’s generosity would grow if they knew the extent of the disaster. But we don’t function like that.
 
-People do. The media has long known that factual reports and bar charts do not entice readers. Hence the guideline, give the story a face. If a company features in the news, a picture of the CEO appears alongside, either grinning or grimacing, depending on the market.
+Statistics don’t stir us. People do. The media has long known that factual reports and bar charts do not entice readers. Hence the guideline, give the story a face.
 
-If a state makes the headlines, the president represents it. If an earthquake takes place, a victim becomes the face of the crisis. This obsession explains the success of a major cultural invention, the novel. This literary killer app projects personal and interpersonal conflicts onto a few individual destinies.
+If a company features in the news, a picture of the CEO appears alongside, either grinning or grimacing, depending on the market. If a state makes the headlines, the president represents it. If an earthquake takes place, a victim becomes the face of the crisis. This obsession explains the success of a major cultural invention, the novel.
 
-A scholar could have written a meaty dissertation about the methods of psychological torture in Puritan New England, but instead we still read Hawthorne’s The Scarlet Letter. In the Great Depression, in statistical form, this is just a long series of numbers. As a family drama, in Steinbeck’s The Grapes of Wrath, it’s unforgettable. In conclusion, be careful when you encounter human stories.
+This literary killer app projects personal and interpersonal conflicts onto a few individual destinies. A scholar could have written a meaty dissertation about the methods of psychological torture in Puritan New England, but instead we still read Hawthorne’s The Scarlet Letter. In the Great Depression, in statistical form, this is just a long series of numbers. As a family drama, in Steinbeck’s The Grapes of Wrath, it’s unforgettable.
 
-Ask for the facts and the statistical distribution behind them. You can still be moved by the story, but this way you can put it into the right context. If, however, you seek to move and motivate people for your own ends, make sure your tale is seasoned with names and faces. 88. You have no idea what you’re overlooking.
+In conclusion, be careful when you encounter human stories. Ask for the facts and the statistical distribution behind them. You can still be moved by the story, but this way you can put it into the right context. If, however, you seek to move and motivate people for your own ends, make sure your tale is seasoned with names and faces. 88.
 
-Illusion of attention. After heavy rains in the south of England, a river in a small village overflowed its banks. The police closed the ford, the shallow part of the river where vehicles cross, and diverted traffic. The crossing stayed closed for two weeks, but each day at least one car drove past the warning sign and into the rushing water.
+You have no idea what you’re overlooking. Illusion of attention. After heavy rains in the south of England, a river in a small village overflowed its banks. The police closed the ford, the shallow part of the river where vehicles cross, and diverted traffic.
 
-The drivers were so focused on their cars' navigation systems that they didn’t notice what was right in front of them. In the 1990s, Harvard psychologists Daniel Simons and Christopher Chabry filmed two teams
+The crossing stayed closed for two weeks, but each day at least one car drove past the warning sign and into the rushing water. The drivers were so focused on their cars' navigation systems that they didn’t notice what was right in front of them. In the 1990s, Harvard psychologists Daniel Simons and Christopher Chabry filmed two teams
 
 
 <a id="sec-064347"></a>
@@ -2892,17 +2994,17 @@ of students passing basketballs back and forth. One team wore black T-shirts, th
 
 In the video, viewers are asked to count how many times the players in white T-shirts pass the ball. Both teams move in circles, weaving in and out, passing back and forth.
 
-Suddenly in the middle of the video, something bizarre happens. A student dressed as a gorilla walks into the center of the room, pounds his chest, and promptly disappears again. At the end, you’re asked if you noticed anything unusual. Half the viewers shake their heads in astonishment, gorilla?
+Suddenly, in the middle of the video, something bizarre happens. A student dressed as a gorilla walks into the center of the room, pounds his chest, and promptly disappears again. At the end, you’re asked if you noticed anything unusual. Half the viewers shake their heads in astonishment, gorilla?
 
 What gorilla? The Monkey Business Test is considered one of the most famous experiments in psychology and demonstrates the so-called illusion of attention. We’re confident that we notice everything that takes place in front of us, but in reality, we often see only what we’re focusing on, in this case, the passes made by the team in white. Unexpected, unnoticed interruptions can be as large and conspicuous as a gorilla.
 
-The illusion of attention can be precarious. for example, when making a phone call while driving. Most of the time doing so poses no problems. The call does not negatively influence the straightforward task of keeping the car in the middle of the lane and braking when a car in front does. But as soon as an unanticipated event takes place, such as a child running across the street, your attention is too stretched to react in time. Studies show that drivers' reactions are equally slow when using a cell phone as when under the influence of alcohol or drugs.
+The illusion of attention can be precarious. for example, when making a phone call while driving. Most of the time doing so poses no problems. The call does not negatively influence the straightforward task of keeping the car in the middle of the lane and braking when a car in front does. But as soon as an unanticipated event takes place, such as a child running across the street, your attention is too stretched to react in time.
 
-Furthermore, it doesn’t matter whether you hold the phone with one hand, jam it between your shoulder and jaw, or use a hands-free kit. Your responsiveness to unexpected events is still compromised. Perhaps you know the expression, the elephant in the room. It refers to an obvious subject that nobody wants to discuss, a kind of taboo.
+Studies show that drivers' reactions are equally slow when using a cell phone as when under the influence of alcohol or drugs. Furthermore, it doesn’t matter whether you hold the phone with one hand, jam it between your shoulder and jaw, or use a hands-free kit. Your responsiveness to unexpected events is still compromised. Perhaps, you know the expression, the elephant in the room.
 
-In contrast, let’s define what the gorilla in the room is, a topic that is of the utmost importance and urgency, and that we absolutely need to address, but nobody knows about it. Take the case of Swiss Air, a company that was so fixated on expansion that it overlooked its evaporating liquidity and went bankrupt in 2001. Or the mismanagement in the Eastern Bloc that led to the fall of the Berlin Wall. Or the risks on banks' books that up until 2007, nobody paid any attention to.
+It refers to an obvious subject that nobody wants to discuss, a kind of taboo. In contrast, let’s define what the gorilla in the room is, a topic that is of the utmost importance and urgency, and that we absolutely need to address, but nobody knows about it. Take the case of Swiss Air, a company that was so fixated on expansion that it overlooked its evaporating liquidity and went bankrupt in 2001. Or the mismanagement in the Eastern Bloc that led to the fall of the Berlin Wall.
 
-Such gorillas stomp around right in front of us, and we barely spot them. It’s not the case that we miss every extraordinary event. The crux of the matter is that whatever we fail to notice remains unheeded.
+Or the risks on banks' books that up until 2007, nobody paid any attention to. Such gorillas stomp around right in front of us, and we barely spot them. It’s not the case that we miss every extraordinary event. The crux of the matter is that whatever we fail to notice remains unheeded.
 
 Therefore, we have no idea what we’re overlooking. This is exactly why we still cling to the dangerous illusion that we perceive everything of importance. Purge yourself of the illusion of attention every now and then. Confront all possible and seemingly impossible scenarios.
 
@@ -2918,11 +3020,11 @@ When they ask if you could boost sales by 30 percent while cutting costs by 30 p
 
 You know that if you give even semi-realistic answers, you’ll put yourself out of the race. Imagine you’re a journalist and have a great idea for a book. The issue is on everyone’s lips. You find a publisher who’s willing to pay a nice advance.
 
-However, he needs to know your timeline. He removes his glasses and looks at you. When can I expect the manuscript? Can you have it ready in six months?
+However, he needs to know your timeline. He removes his glasses and looks at you. When can. I expect the manuscript?
 
-You gulp. You’ve never written a book in under three years. Your answer? Consider it done.
+Can you have it ready in six months? You gulp. You’ve never written a book in under three years. Your answer?
 
-Of course you don’t want to lie, but you know that you won’t get the advance if you tell the truth. Once the contract is signed and the money is nestling in your bank account, you can
+Consider it done. Of course, you don’t want to lie, but you know that you won’t get the advance if you tell the truth. Once the contract is signed and the money is nestling in your bank account, you can
 
 
 <a id="sec-064848"></a>
@@ -2932,35 +3034,37 @@ always keep the publisher at bay for a while. You’re a writer. You’re great 
 
 The more at stake, the more exaggerated your assertions become. Strategic misrepresentation doesn’t work everywhere. If your ophthalmologist promises five times in a row to give you perfect vision, but after each procedure you see worse than before, you’ll stop taking him seriously at some point.
 
-However, when unique attempts are involved, strategic misrepresentation is worth a try. In interviews, for example, as we saw above, a single company isn’t going to hire you several times. It’s either a yes or no. Most vulnerable to strategic misrepresentation are megaprojects where, A, accountability is diffuse, for example, if the administration that commissioned the project is no longer in power, B, many businesses are involved, leading to mutual finger-pointing, or C, the end date is a few years down the road. No one knows more about large-scale projects than Oxford professor Bent Fleiberg.
+However, when unique attempts are involved, strategic misrepresentation is worth a try. In interviews, for example, as we saw above, a single company isn’t going to hire you several times. It’s either a yes or no. Most vulnerable to strategic misrepresentation are megaprojects where, A, accountability is diffuse, for example, if the administration that commissioned the project is no longer in power, B, many businesses are involved, leading to mutual finger-pointing, or C, the end date is a few years down the road.
 
-Why are cost and schedule overruns so frequent? Because it’s not the best offer overall that wins, it’s whichever one looks best on paper. Fleiberg calls this reverse Darwinism. Whoever produces the most hot air will be rewarded with the project.
+No one knows more about large-scale projects than Oxford professor Bent Fleiberg. Why are cost and schedule overruns so frequent? Because it’s not the best offer overall that wins, it’s whichever one looks best on paper. Fleiberg calls this reverse Darwinism.
 
-However, is strategic misrepresentation simply brazen deceit? Yes and no. Are women who wear makeup frauds? Are men who lease Porsches to signal financial prowess liars? Yes and no. Objectively they are, but the deceit is socially acceptable, so we don’t get worked up about it.
+Whoever produces the most hot air will be rewarded with the project. However, is strategic misrepresentation simply brazen deceit? Yes and no. Are women who wear makeup frauds?
 
-The same counts for strategic misrepresentation. In many cases, strategic misrepresentation is harmless.
+Are men who lease Porsches to signal financial prowess liars? Yes and no. Objectively they are, but the deceit is socially acceptable, so we don’t get worked up about it. The same counts for strategic misrepresentation.
 
-However, for the things that matter, such as your health or future employees, you must be on your guard. So if you’re dealing with a person, a first-rate candidate, an author, or an ophthalmologist, don’t go by what they claim. Look at their past performance. When it comes to projects, consider the timeline, benefits, and costs of similar projects, and grille anyone whose proposals are much more optimistic.
+In many cases, strategic misrepresentation is harmless. However, for the things that matter, such as your health or future employees, you must be on your guard. So if you’re dealing with a person, a first-rate candidate, an author, or an ophthalmologist, don’t go by what they claim. Look at their past performance.
 
-Ask an accountant to pick apart the plans mercilessly. Add a clause into the contract that stipulates harsh financial penalties for cost and schedule overruns, and, as an added safety measure, have this money transferred to a secure escrow account. Ninety. Where’s the off switch?
+When it comes to projects, consider the timeline, benefits, and costs of similar projects, and grille anyone whose proposals are much more optimistic. Ask an accountant to pick apart the plans mercilessly. Add a clause into the contract that stipulates harsh financial penalties for cost and schedule overruns, and, as an added safety measure, have this money transferred to a secure escrow account. Ninety.
 
-Overthinking. There was once an intelligent centipede. Sitting on the edge of a table, he looked over and saw a tasty grain of sugar across the room. Clever as he was, he started to weigh up the best route.
+Where’s the off switch? Overthinking. There was once an intelligent centipede. Sitting on the edge of a table, he looked over and saw a tasty grain of sugar across the room.
 
-Which table leg should he crawl down? Left or right? And which table leg should he crawl up? The next tasks were to decide which foot should take the first step, in which order the other should follow, and so on.
+Clever as he was, he started to weigh up the best route. Which table leg should he crawl down? Left or right? And which table leg should he crawl up?
 
-He was adept at mathematics, so he analyzed all the variance and selected the best path. Finally, he took the first step.
+The next tasks were to decide which foot should take the first step, in which order the other should follow, and so on. He was adept at mathematics, so he analyzed all the variance and selected the best path.
 
-However, still engrossed in calculation and contemplation, he got tangled up and stopped dead in his tracks to review his plan. In the end, he came no further and starved. The British Open Golf Tournament in 1999. French golfer Jean van de Velde played flawlessly until the final hole.
+Finally, he took the first step. However, still engrossed in calculation and contemplation, he got tangled up and stopped dead in his tracks to review his plan. In the end, he came no further and starved. The British Open Golf Tournament in 1999.
 
-With a three-shot lead, he could easily afford a double bogey, two over par, and still win. Child’s play, entry into the big leagues, was now only a matter of minutes away. All he needed to do was play it safe. But as van de Velde stepped up, beads of sweat began to form on his forehead.
+French golfer Jean van de Velde played flawlessly until the final hole. With a three-shot lead, he could easily afford a double bogey, two over par, and still win. Child’s play, entry into the big leagues, was now only a matter of minutes away. All he needed to do was play it safe.
 
-He teed off like a beginner. The ball sailed into the bushes, landing almost 20 feet from the hole. He became increasingly nervous. The next shots were no better.
+But as van de Velde stepped up, beads of sweat began to form on his forehead. He teed off like a beginner. The ball sailed into the bushes, landing almost 20 feet from the hole. He became increasingly nervous.
 
-He hit the ball into knee-high grass, then into the water. He took off his shoes, waded into the water, and for a minute contemplated shooting from the pond. But he decided to take the penalty. He then shot into the sand.
+The next shots were no better. He hit the ball into knee-high grass, then into the water. He took off his shoes, waded into the water, and for a minute contemplated shooting from the pond. But he decided to take the penalty.
 
-His body movement suddenly resembled those of a novice. Finally, he made it under the green and, after a seventh attempt, into the hole. Van de Velde lost the British Open and secured a place in sporting history with his now notorious triple bogey. It was the beginning of the end of his career.
+He then shot into the sand. His body movement suddenly resembled those of a novice.
 
-He celebrated an impressive comeback in 2005. In the 1980s, Consumer Reports asked experienced tasters to sample 45 different varieties of strawberry jelly. A few years later, psychology professors Timothy Wilson and Jonathan Schoeller repeated the experiment with students from the University of Washington.
+Finally, he made it under the green and, after a seventh attempt, into the hole. Van de Velde lost the British Open and secured a place in sporting history with his now notorious triple bogey. It was the beginning of the end of his career. He celebrated an impressive comeback in 2005.
+
+In the 1980s, Consumer Reports asked experienced tasters to sample 45 different varieties of strawberry jelly. A few years later, psychology professors Timothy Wilson and Jonathan Schoeller repeated the experiment with students from the University of Washington.
 
 
 <a id="sec-065349"></a>
@@ -2972,31 +3076,35 @@ The rankings turned out to be completely warped. Some of the best varieties ende
 
 But it’s not. Emotions form in the brain, just as crystal clear, rational thoughts do. They’re merely a different form of information processing, more primordial, but not necessarily an inferior variant.
 
-In fact, sometimes they provide the wiser counsel. This raises the question, when do you listen to your head and when do you heed your gut? A rule of thumb might be, if it’s something to do with practiced activities, such as motor skills—think of the centipede, van de Velde, or mastering a musical instrument, or questions you’ve answered a thousand times—think of Warren Buffett’s circle of competence—it’s better not to reflect to the last detail. It undermines your intuitive ability to solve problems. The same applies to decisions that our Stone Age ancestors faced, evaluating what was edible, who would make good friends, whom to trust.
+In fact, sometimes they provide the wiser counsel. This raises the question, when do you listen to your head and when do you heed your gut? A rule of thumb might be, if it’s something to do with practiced activities, such as motor skills—think of the centipede, van de Velde, or mastering a musical instrument, or questions you’ve answered a thousand times—think of Warren Buffett’s circle of competence—it’s better not to reflect to the last detail. It undermines your intuitive ability to solve problems.
 
-For such purposes, we have heuristics—mental shortcuts that are clearly superior to rational thought. With complex matters, though, such as investment decisions, sober reflection is indispensable. Evolution has not equipped us for such considerations, so logic trumps intuition. Ninety-one.
+The same applies to decisions that our Stone Age ancestors faced, evaluating what was edible, who would make good friends, whom to trust. For such purposes, we have heuristics—mental shortcuts that are clearly superior to rational thought. With complex matters, though, such as investment decisions, sober reflection is indispensable. Evolution has not equipped us for such considerations, so logic trumps intuition.
 
-Why you take on too much? Planning fallacy. Every morning you compile a to-do list. How often does it happen that everything is checked off by the end of the day?
+Ninety-one. Why you take on too much? Planning fallacy. Every morning you compile a to-do list.
 
-Always? Every other day? Maybe once a week? If you’re like most people, you’ll achieve this rare state once a month.
+How often does it happen that everything is checked off by the end of the day? Always? Every other day? Maybe once a week?
 
-In other words, you systematically take on too much. More than that, your plans are absurdly ambitious. Such a thing would be forgivable if you were a planning novice, but you’ve been compiling to-do lists for years, if not decades. Thus, you know your capabilities inside out, and it’s unlikely that you overestimate them afresh every day.
+If you’re like most people, you’ll achieve this rare state once a month. In other words, you systematically take on too much. More than that, your plans are absurdly ambitious. Such a thing would be forgivable if you were a planning novice, but you’ve been compiling to-do lists for years, if not decades.
 
-This is not facetiousness. In other areas, you learn from experience. So why is there no learning curve when it comes to making plans? Even though you realize that most of your previous endeavors were overly optimistic, you believe in all seriousness that today, the same workload, or more, is eminently doable.
+Thus, you know your capabilities inside out, and it’s unlikely that you overestimate them afresh every day. This is not facetiousness. In other areas, you learn from experience. So why is there no learning curve when it comes to making plans?
 
-Daniel Kahneman calls this the planning fallacy. In their last semesters, students generally have to rate theses. The Canadian psychologist Roger Bueller and his research team asked the following of their final year class. The students had to specify two submission dates.
+Even though you realize that most of your previous endeavors were overly optimistic, you believe in all seriousness that today, the same workload, or more, is eminently doable. Daniel Kahneman calls this the planning fallacy. In their last semesters, students generally have to rate theses. The Canadian psychologist Roger Bueller and his research team asked the following of their final year class.
 
-The first was a realistic deadline, and the second was a worst-case scenario date. The result? Only 30 percent of students made the realistic deadlines. On average, the students needed 50 percent more time than planned, and a full seven days more than their worst-case scenario date.
+The students had to specify two submission dates. The first was a realistic deadline, and the second was a worst-case scenario date. The result? Only 30 percent of students made the realistic deadlines.
 
-The planning fallacy is particularly evident when people work together, in business, science, and politics. Groups overestimate duration and benefits, and systematically underestimate costs and risks. The conch-shaped Sydney Opera House was planned in 1957. Completion was due in 1963 at a cost of $7 million.
+On average, the students needed 50 percent more time than planned, and a full seven days more than their worst-case scenario date. The planning fallacy is particularly evident when people work together, in business, science, and politics. Groups overestimate duration and benefits, and systematically underestimate costs and risks. The conch-shaped Sydney Opera House was planned in 1957.
 
-It finally opened its doors in 1973 after $102 million had been pumped in, 14 times the original estimate. So why are we not natural-born planners? The first reason? Wishful thinking.
+Completion was due in 1963 at a cost of $7 million. It finally opened its doors in 1973 after $102 million had been pumped in, 14 times the original estimate. So why are we not natural-born planners? The first reason?
 
-We want to be successful and achieve everything we take on. Second, we focus too much on the project and overlook outside influences. Unexpected events too often defeat our plans. This is true for our daily schedules, too.
+Wishful thinking. We want to be successful and achieve everything we take on.
 
-Your daughter swallows a fishbone. Your car battery gives up the ghost. An offer for a house lands on your desk and must be discussed urgently. There goes the plan.
+Second, we focus too much on the project and overlook outside influences. Unexpected events too often defeat our plans. This is true for our daily schedules, too. Your daughter swallows a fishbone.
 
-If you plan things even more minutely, would that be a solution? No. Step-by-step preparation amplifies the planning fallacy. It narrows your focus even more and thus distracts you even more from anticipating the unexpected. So what can you do? Shift your focus from internal things, such as your own project, to external factors like similar projects.
+Your car battery gives up the ghost. An offer for a house lands on your desk and must be discussed urgently. There goes the plan. If you plan things even more minutely, would that be a solution?
+
+No. Step-by-step preparation amplifies the planning fallacy. It narrows your focus even more and thus distracts you even more from anticipating the unexpected. So what can you do?
+
+Shift your focus from internal things, such as your own project, to external factors like similar projects.
 
 
 <a id="sec-065851"></a>
@@ -3080,31 +3188,33 @@ Why are there so few serial entrepreneurs, business people who start successful 
 
 they’re Steve Jobs and Richard Branson, but they represent a tiny minority. Serial entrepreneurs account for less than one percent of everyone who starts a company. Do they all retire to their private yachts after the first success, just like Microsoft co-founder Paul Allen did? Surely not.
 
-True business people possess too much get-up-and-go to lie on a beach chair for hours on end. Is it because they can’t let go and want to cuss at their firms until they turn 65? No. Most founders sell their shares within 10 years. Actually, you would assume that such self-starters who are blessed with talent, a good personal network, and a solid reputation would be well equipped to found numerous other startups. So why do they stop?
+True business people possess too much get-up-and-go to lie on a beach chair for hours on end. Is it because they can’t let go and want to cuss at their firms until they turn 65? No. Most founders sell their shares within 10 years.
 
-They didn’t stop. They just failed at succeeding. Only one answer makes sense. Luck plays a bigger role than skill does.
+Actually, you would assume that such self-starters who are blessed with talent, a good personal network, and a solid reputation would be well equipped to found numerous other startups. So why do they stop? They didn’t stop. They just failed at succeeding.
 
-No business person likes to hear this. When I first heard about the illusion of skill, my reaction was, what? My success was a fluke? At first, it sounds a little offensive, especially if you’ve worked hard to get there.
+Only one answer makes sense. Luck plays a bigger role than skill does. No business person likes to hear this. When.
 
-Let’s take a sober look at business success. How much of it comes down to luck? And how much is the fruit of hard work and distinct talent? The question is easily misunderstood.
+I first heard about the illusion of skill, my reaction was, what? My success was a fluke? At first, it sounds a little offensive, especially if you’ve worked hard to get there. Let’s take a sober look at business success.
 
-Of course, little is achieved without talent, and nothing is achieved without hard work. Unfortunately, neither skills nor toil and trouble are the key criteria for success. They are necessary, but not sufficient. How do we know this?
+How much of it comes down to luck? And how much is the fruit of hard work and distinct talent? The question is easily misunderstood. Of course, little is achieved without talent, and nothing is achieved without hard work.
 
-There’s a very simple test. When a person is successful for a long time, more than that, when they enjoy more success in the long run compared to less qualified people, then and only then is talent the essential element. This is not the case with company founders. Otherwise, the majority of successful entrepreneurs would, after the first achievement, continue to found and grow second, third, and fourth startups.
+Unfortunately, neither skills nor toil and trouble are the key criteria for success. They are necessary, but not sufficient. How do we know this? There’s a very simple test.
 
-What about corporate leaders? How important are they to the success of a company? Researchers have determined a set of traits deemed to be associated with a strong CEO. Management procedures, strategic brilliance in the past, and so on.
+When a person is successful for a long time, more than that, when they enjoy more success in the long run compared to less qualified people, then and only then is talent the essential element. This is not the case with company founders. Otherwise, the majority of successful entrepreneurs would, after the first achievement, continue to found and grow second, third, and fourth startups. What about corporate leaders?
 
-Then they measured the relationship between these behaviors, on the one hand, and the increase of the company’s values during the reign of these CEOs, on the other hand. The result? If you compare two companies at random, in 60% of cases, the stronger CEO leads the stronger company. In 40% of the cases, the weaker CEO leads the stronger company.
+How important are they to the success of a company? Researchers have determined a set of traits deemed to be associated with a strong CEO. Management procedures, strategic brilliance in the past, and so on. Then they measured the relationship between these behaviors, on the one hand, and the increase of the company’s values during the reign of these CEOs, on the other hand.
 
-This is only 10 percentage points more than no relationship at all. Kahneman said, it’s hard to imagine that people enthusiastically buy books written by business leaders who are, on average, only slightly better than Norm. Even Warren Buffett thinks nothing of CEO deification. A good management record is far more a function of what business boat you get into than it is of how effectively you row.
+The result? If you compare two companies at random, in 60% of cases, the stronger CEO leads the stronger company. In 40% of the cases, the weaker CEO leads the stronger company. This is only 10 percentage points more than no relationship at all.
 
-In certain areas, skill plays no role whatsoever. In his book, Thinking, Fast and Slow, Kahneman describes his visit to an asset management company. To brief him, they sent him a spreadsheet showing the performance of each investment advisor over the past eight years. From this, a ranking was assigned to each, number one, two, three, and so on in descending order.
+Kahneman said, it’s hard to imagine that people enthusiastically buy books written by business leaders who are, on average, only slightly better than Norm. Even Warren Buffett thinks nothing of CEO deification. A good management record is far more a function of what business boat you get into than it is of how effectively you row. In certain areas, skill plays no role whatsoever.
 
-This was compiled every year. Kahneman quickly calculated the relationship between the year’s rankings. Specifically, he calculated the correlation of the rankings between year one and year two, between year one and year three, year one and year four, up until year seven and year eight. The result?
+In his book, Thinking, Fast and Slow, Kahneman describes his visit to an asset management company. To brief him, they sent him a spreadsheet showing the performance of each investment advisor over the past eight years. From this, a ranking was assigned to each, number one, two, three, and so on in descending order. This was compiled every year.
 
-Pure coincidence. Sometimes the advisor was at the very top and sometimes the very bottom. If an advisor had a great year, this was neither bolstered by previous years nor carried into subsequent years. The correlation was zero.
+Kahneman quickly calculated the relationship between the year’s rankings. Specifically, he calculated the correlation of the rankings between year one and year two, between year one and year three, year one and year four, up until year seven and year eight. The result? Pure coincidence.
 
-And yet, the consultants pocketed bonuses for their performance. In other words, the company was rewarding luck rather than skill. In conclusion, certain people make a living from their abilities, such as pilots, plumbers, and lawyers. In other areas, skill is necessary but not critical, as with entrepreneurs and leaders.
+Sometimes the advisor was at the very top and sometimes the very bottom. If an advisor had a great year, this was neither bolstered by previous years nor carried into subsequent years. The correlation was zero. And yet, the consultants pocketed bonuses for their performance.
+
+In other words, the company was rewarding luck rather than skill. In conclusion, certain people make a living from their abilities, such as pilots, plumbers, and lawyers. In other areas, skill is necessary but not critical, as with entrepreneurs and leaders.
 
 Finally, chance is the deciding factor in a number of fields, such as in financial markets. Here, the illusion of skill pervades. So give plumbers due respect and chuckle at successful financial gestures. Ninety-five.
 
@@ -3122,31 +3232,33 @@ Series B is more difficult, right? Answer. None use the number six. What can you
 
 Absence is much harder to detect than presence. In other words, we place greater emphasis on what’s present than on what’s absent. Last week, while on a walk, it occurred to me that nothing hurt. It was an unexpected thought.
 
-I rarely experience pain anyway, but when I do, it’s very present. But the absence of pain, I rarely recognize. It was such a simple, obvious fact, it amazed me. For a moment, I was elated, until this little revelation slipped from my mind again.
+I rarely experience pain anyway, but when. I do, it’s very present. But the absence of pain, I rarely recognize. It was such a simple, obvious fact, it amazed me.
 
-At a classical recital, an orchestra performed Beethoven’s Ninth Symphony. A storm of enthusiasm gripped the concert hall. During the ode in the Fourth Movement, tears of joy could be seen here and there. How fortunate we are that this symphony exists, I thought.
+For a moment, I was elated, until this little revelation slipped from my mind again. At a classical recital, an orchestra performed Beethoven’s Ninth Symphony. A storm of enthusiasm gripped the concert hall. During the ode in the Fourth Movement, tears of joy could be seen here and there.
 
-But is that really true? Would we be less happy without the work? Probably not. Had the symphony never been composed, no one would miss it.
+How fortunate we are that this symphony exists, I thought. But is that really true? Would we be less happy without the work? Probably not.
 
-The director would receive no angry calls saying, please have this symphony written and performed immediately. In short, what exists means a lot more than what is missing. Science calls this the feature positive effect. Prevention campaigns utilize this well.
+Had the symphony never been composed, no one would miss it. The director would receive no angry calls saying, please have this symphony written and performed immediately. In short, what exists means a lot more than what is missing. Science calls this the feature positive effect.
 
-Smoking causes lung cancer is much more powerful than not smoking leads to a life free of lung cancer. Traders and other professionals who employ checklists are prone to the feature positive effect. Outstanding tax declarations are immediately obvious because they feature on their lists. What does not appear, however, is more artistic fraud, such as the goings-on at Enron and with Bernie Madoff’s Ponzi scheme.
+Prevention campaigns utilize this well. Smoking causes lung cancer is much more powerful than not smoking leads to a life free of lung cancer. Traders and other professionals who employ checklists are prone to the feature positive effect. Outstanding tax declarations are immediately obvious because they feature on their lists.
 
-Also absent are the undertakings of rogue traders, such as Nick Leeson and Jerome Courvial, to whom bearings and societé Général fell victim. Financial vagaries of this kind are not on any checklist. And they don’t have to be illegal. A mortgage bank will be on the lookout for credit risk due to a drop in the debtor’s income because this appears on its list.
+What does not appear, however, is more artistic fraud, such as the goings-on at Enron and with Bernie Madoff’s Ponzi scheme. Also absent are the undertakings of rogue traders, such as Nick Leeson and Jerome Courvial, to whom bearings and societé Général fell victim. Financial vagaries of this kind are not on any checklist. And they don’t have to be illegal.
 
-However, it will overlook the devaluation of property, say, through the construction of an incineration plant in the vicinity. Suppose you manufacture a dubious product, such as salad dressing with a high level of cholesterol. What do you do? On the label, you promote the 20 different vitamins in the dressing and omit the cholesterol level.
+A mortgage bank will be on the lookout for credit risk due to a drop in the debtor’s income because this appears on its list. However, it will overlook the devaluation of property, say, through the construction of an incineration plant in the vicinity. Suppose you manufacture a dubious product, such as salad dressing with a high level of cholesterol. What do you do?
 
-Consumers won’t notice its absence. And the positive present features will make sure that they feel safe and informed. In academia, we constantly encounter the feature positive effect. The confirmation of hypotheses leads to publications, and in exceptional cases, these are rewarded with Nobel Prizes.
+On the label, you promote the 20 different vitamins in the dressing and omit the cholesterol level. Consumers won’t notice its absence. And the positive present features will make sure that they feel safe and informed. In academia, we constantly encounter the feature positive effect.
 
-On the other hand, the falsification of a hypothesis is a lot harder to get published, and as far as I know, there’s never been a Nobel Prize awarded for this. However, such falsification is as scientifically valuable as confirmation. Another consequence of the effect is that we’re also much more open to positive advice — do X — than to negative suggestions. Forget about Y, no matter how useful the latter may be.
+The confirmation of hypotheses leads to publications, and in exceptional cases, these are rewarded with Nobel Prizes. On the other hand, the falsification of a hypothesis is a lot harder to get published, and as far as. I know, there’s never been a Nobel Prize awarded for this.
 
-In conclusion, we have problems perceiving non-events. We’re blind to what does not exist. We realize if there’s a war, but we don’t appreciate the absence of war during peacetime. If we’re healthy, we rarely think about being sick.
+However, such falsification is as scientifically valuable as confirmation. Another consequence of the effect is that we’re also much more open to positive advice — do X — than to negative suggestions. Forget about Y, no matter how useful the latter may be. In conclusion, we have problems perceiving non-events.
 
-Or if we get off the plane in Cancun, we don’t stop to notice that we didn’t crash. If we thought more frequently about absence, we might well be happier. But it’s tough mental work. The greatest philosophical question is, why does something — and not nothing — exist?
+We’re blind to what does not exist. We realize if there’s a war, but we don’t appreciate the absence of war during peacetime. If we’re healthy, we rarely think about being sick. Or if we get off the plane in Cancun, we don’t stop to notice that we didn’t crash.
 
-Don’t expect a quick answer. Rather, the question itself represents a useful instrument for combating the feature-positive effect. 96. Drawing the bullseye around the arrow. Cherry picking.
+If we thought more frequently about absence, we might well be happier. But it’s tough mental work. The greatest philosophical question is, why does something — and not nothing — exist? Don’t expect a quick answer.
 
-On their websites, hotels present themselves in the very best light. They carefully select each photo, and only beautiful, majestic images make the cut.
+Rather, the question itself represents a useful instrument for combating the feature-positive effect. 96. Drawing the bullseye around the arrow. Cherry picking. On their websites, hotels present themselves in the very best light.
+
+They carefully select each photo, and only beautiful, majestic images make the cut.
 
 
 <a id="sec-071913"></a>
@@ -3154,35 +3266,37 @@ On their websites, hotels present themselves in the very best light. They carefu
 
 Unflattering angles — dripping pipes and drab breakfast rooms — are swept under the tattered carpet. Of course, you know this is true. When you’re confronted by the shabby lobby for the first time, you simply shrug your shoulders and head to the registration desk. What the hotel did is called cherry picking, selecting and showcasing the most attractive features and hiding the rest.
 
-As with the hotel experience, you approach other things with the same muted expectations — brochures for cars, real estate, or law firms. You know how they work, and you don’t fall for them. However, you respond differently to the annual reports of companies, foundations, and government organizations. Here, you tend to expect objective depictions. You are mistaken.
+As with the hotel experience, you approach other things with the same muted expectations — brochures for cars, real estate, or law firms. You know how they work, and you don’t fall for them.
 
-These bodies also cherry pick. If goals are achieved, they’re talked up. If they falter, they’re not even mentioned. Suppose you’re the head of a department.
+However, you respond differently to the annual reports of companies, foundations, and government organizations. Here, you tend to expect objective depictions. You are mistaken. These bodies also cherry pick.
 
-The board invites you to present your team’s state of play. How do you tackle this? You devote most of your PowerPoint slides to elaborate on the team’s triumphs and throw in a token few to identify challenges. Any other unmet achievements you conveniently forget.
+If goals are achieved, they’re talked up. If they falter, they’re not even mentioned. Suppose you’re the head of a department. The board invites you to present your team’s state of play.
 
-Anecdotes are a particularly tricky sort of cherry picking. Imagine you’re the managing director of a company that manufactures some kind of technical device. A survey has revealed that the vast majority of customers cannot operate your gadget. It’s too complicated.
+How do you tackle this? You devote most of your PowerPoint slides to elaborate on the team’s triumphs and throw in a token few to identify challenges. Any other unmet achievements you conveniently forget. Anecdotes are a particularly tricky sort of cherry picking.
 
-Now the HR manager gives his two cents, proclaiming, My father-in-law picked it up yesterday and figured out how to work it right away. How much weight would you attach to this particular cherry? Right. Close to zero.
+Imagine you’re the managing director of a company that manufactures some kind of technical device. A survey has revealed that the vast majority of customers cannot operate your gadget. It’s too complicated. Now the HR manager gives his two cents, proclaiming, My father-in-law picked it up yesterday and figured out how to work it right away.
 
-To rebuff an anecdote is difficult because it’s a mini-story, and we know how vulnerable our brains are to those. To prevent this, cunning leaders train themselves throughout their careers to be hypersensitive to such anecdotes and to shoot them down as soon as they’re uttered. The more elevated or elite a field is, the more we fall for cherry picking. In Antifragile, Taleb describes how all areas of research, from philosophy to medicine to economics, brag about their results.
+How much weight would you attach to this particular cherry? Right. Close to zero. To rebuff an anecdote is difficult because it’s a mini-story, and we know how vulnerable our brains are to those.
 
-Like politicians, academia is well-equipped to tell us what it did for us, not what it did not. Hence, it shows how indispensable her methods are. Pure cherry picking. But our respect for academics is far too great for us to notice this.
+To prevent this, cunning leaders train themselves throughout their careers to be hypersensitive to such anecdotes and to shoot them down as soon as they’re uttered. The more elevated or elite a field is, the more we fall for cherry picking. In Antifragile, Taleb describes how all areas of research, from philosophy to medicine to economics, brag about their results. Like politicians, academia is well-equipped to tell us what it did for us, not what it did not.
 
-Or consider the medical profession. To tell people that they should not smoke is the greatest medical contribution of the past 60 years, superior to all the research and medical advances since the end of the Second World War. Physician Druin Burch confirms this in his book, Taking the Medicine. A few cherries, antibiotics for instance, distract us, and so drug researchers are celebrated while anti-smoking activists are not.
+Hence, it shows how indispensable her methods are. Pure cherry picking. But our respect for academics is far too great for us to notice this. Or consider the medical profession.
 
-Administrative departments in large companies glorify themselves like hoteliers do. They’re masters at showcasing all they’ve done, but they never communicate what they haven’t achieved for the company. What should you do? If you sit on the supervisory board of such an organization, ask about the leftover cherries, the failed projects, and missed goals.
+To tell people that they should not smoke is the greatest medical contribution of the past 60 years, superior to all the research and medical advances since the end of the Second World War. Physician Druin Burch confirms this in his book, Taking the Medicine. A few cherries, antibiotics for instance, distract us, and so drug researchers are celebrated while anti-smoking activists are not. Administrative departments in large companies glorify themselves like hoteliers do.
 
-You’ll learn a lot more from this than from the successes. It’s amazing how seldom such questions are asked.
+They’re masters at showcasing all they’ve done, but they never communicate what they haven’t achieved for the company. What should you do? If you sit on the supervisory board of such an organization, ask about the leftover cherries, the failed projects, and missed goals. You’ll learn a lot more from this than from the successes.
 
-Second, instead of employing a horde of financial controllers to calculate costs to the near ascent, double-check targets. You’ll be amazed to find that over time, the original goals have faded. These have been replaced, quietly and secretly, with self-set goals that are always attainable. If you hear of such targets, alarm bells should sound.
+It’s amazing how seldom such questions are asked. Second, instead of employing a horde of financial controllers to calculate costs to the near ascent, double-check targets. You’ll be amazed to find that over time, the original goals have faded. These have been replaced, quietly and secretly, with self-set goals that are always attainable.
 
-It’s the equivalent of shooting an arrow and drawing a bullseye around where it lands. Ninety-seven, the Stone Age Hunt for Scapegoats, Fallacy of the Single Cause. Chris Matthews is one of MSNBC’s top journalists. In his new show, so-called political experts are wheeled in one after the other and interviewed.
+If you hear of such targets, alarm bells should sound. It’s the equivalent of shooting an arrow and drawing a bullseye around where it lands. Ninety-seven, the Stone Age Hunt for Scapegoats, Fallacy of the Single Cause. Chris Matthews is one of MSNBC’s top journalists.
 
-I’ve never understood what a political expert is or why such a career is worthwhile. In 2003, the U. S. invasion of Iraq was the issue on everybody’s lips. More important than the experts' answers were Chris Matthews' questions. What is the motive behind the war?
+In his new show, so-called political experts are wheeled in one after the other and interviewed. I’ve never understood what a political expert is or why such a career is worthwhile. In 2003, the U. S. invasion of Iraq was the issue on everybody’s lips.
 
-I wanted to know whether 9-11 is the reason because a lot of people think it’s payback. Do you think that the weapons of mass destruction was the reason for this war? Why do you think we invaded Iraq? The real reason, not the sales pitch, and so on.
+More important than the experts' answers were Chris Matthews' questions. What is the motive behind the war? I wanted to know whether 9-11 is the reason because a lot of people think it’s payback. Do you think that the weapons of mass destruction was the reason for this war?
 
-I can’t abide questions like that anymore. They’re symptomatic of the most common of all mental errors, a mistake for which, strangely enough, there is no everyday term. For now, the awkward phrase, the fallacy of the single cause, will have to do. Five years later, in 2008, panic reigned in the financial markets.
+Why do you think we invaded Iraq? The real reason, not the sales pitch, and so on. I can’t abide questions like that anymore. They’re symptomatic of the most common of all mental errors, a mistake for which, strangely enough, there is no everyday term.
+
+For now, the awkward phrase, the fallacy of the single cause, will have to do. Five years later, in 2008, panic reigned in the financial markets.
 
 
 <a id="sec-072417"></a>
@@ -3224,21 +3338,21 @@ The banker vehemently insisted that every company should borrow at will, and of 
 <a id="sec-072917"></a>
 ### ⏱️ [07:29:17 - 07:34:21]
 
-not only on their equity, but also on their total capital. They were, in every respect, more successful than the independently financed firms. Then the penny dropped. Unprofitable companies don’t get corporate loans. Thus, they form part of the equity-only group.
+not only on their equity, but also on their total capital. They were, in every respect, more successful than the independently financed firms. Then the penny dropped. Unprofitable companies don’t get corporate loans.
 
-The other firms that make up this set have bigger cash cushions, stay afloat longer, and no matter how sickly they are, remain part of the study. On the other side, firms that have borrowed a lot go bankrupt more quickly. Once they cannot pay back the interest, the bank takes over and the companies are sold off, thus disappearing from the sample. The ones that remain in the debt group are relatively healthy, regardless of how much depth they have amassed on their balance sheets.
+Thus, they form part of the equity-only group. The other firms that make up this set have bigger cash cushions, stay afloat longer, and no matter how sickly they are, remain part of the study. On the other side, firms that have borrowed a lot go bankrupt more quickly. Once they cannot pay back the interest, the bank takes over and the companies are sold off, thus disappearing from the sample.
 
-If you’re thinking, OK, got it, watch out. The intention to treat error is not easy to recognize. A fictional example from medicine. A pharmaceutical company has developed a new drug to fight heart disease.
+The ones that remain in the debt group are relatively healthy, regardless of how much depth they have amassed on their balance sheets. If you’re thinking, OK, got it, watch out. The intention to treat error is not easy to recognize. A fictional example from medicine.
 
-A study proves that it significantly reduces patients' mortality rates. The data speaks for itself. Among patients who have taken the drug regularly, the five-year mortality rate is 15 percent. For those who have swallowed placebo pills, it’s about the same, indicating that the pill doesn’t work.
+A pharmaceutical company has developed a new drug to fight heart disease. A study proves that it significantly reduces patients' mortality rates. The data speaks for itself. Among patients who have taken the drug regularly, the five-year mortality rate is 15 percent.
 
-However, and this is crucial, the mortality rate of patients who have taken the drug at irregular intervals is 30 percent, twice as high. A big difference between regular and irregular intake. So the pill is a complete success. Or is it?
+For those who have swallowed placebo pills, it’s about the same, indicating that the pill doesn’t work. However, and this is crucial, the mortality rate of patients who have taken the drug at irregular intervals is 30 percent, twice as high. A big difference between regular and irregular intake. So the pill is a complete success.
 
-Here’s the snag. The pill is probably not the decisive factor. Rather, it’s the patient’s behavior. Perhaps patients discontinued the pill following severe side effects and thus landed in the irregular intake category.
+Or is it? Here’s the snag. The pill is probably not the decisive factor. Rather, it’s the patient’s behavior.
 
-Maybe they were so ill that there was no way to continue it on a regular basis. Either way, only relatively healthy patients remain in the regular group, which makes the drug look a lot more effective than it really is. The really sick patients, who for this very reason couldn’t take the drug on a regular basis, ended up populating the irregular intake group. In reputable studies, medical researchers evaluate the data of all patients who may originally intend to treat, hence the title.
+Perhaps, patients discontinued the pill following severe side effects and thus landed in the irregular intake category. Maybe they were so ill that there was no way to continue it on a regular basis. Either way, only relatively healthy patients remain in the regular group, which makes the drug look a lot more effective than it really is. The really sick patients, who for this very reason couldn’t take the drug on a regular basis, ended up populating the irregular intake group.
 
-It doesn’t matter if they take part in the trial or they drop out. Unfortunately, many studies flout this rule. Whether this is intentional or accidental remains to be seen.
+In reputable studies, medical researchers evaluate the data of all patients who may originally intend to treat, hence the title. It doesn’t matter if they take part in the trial or they drop out. Unfortunately, many studies flout this rule. Whether this is intentional or accidental remains to be seen.
 
 Therefore, be on your guard. Always check whether test subjects, drivers who end up in accidents, bankrupt companies, critically ill patients, have, for whatever reason, vanished from the sample. If so, you should file the study where it belongs. In the trash can.
 
@@ -3294,9 +3408,11 @@ Theologians were the first to tread the via negativa. We cannot say what God is,
 
 Eliminate the downside, the thinking errors, and the upside will take care of itself. This is all we need to know. As a novelist and company founder, I’ve fallen into a variety of traps. Fortunately, I was always able to free myself from them.
 
-Nowadays, when I hold presentations in front of doctors, CEOs, board members, investors, politicians, or government officials, I sense a kinship. I feel that we’re sitting in the same boat. After all, we’re all trying to row through life without getting swallowed up by the maelstroms. Still, many people are uneasy with the via negativa. It is counterintuitive.
+Nowadays, when. I hold presentations in front of doctors, CEOs, board members, investors, politicians, or government officials, I sense a kinship. I feel that we’re sitting in the same boat. After all, we’re all trying to row through life without getting swallowed up by the maelstroms.
 
-It is even countercultural, flying in the face of contemporary wisdom. But look around, and you’ll find plenty of examples of the via negativa at work. This is what the legendary investor Warren Buffett writes about himself and his partner, Charlie Munger. Charlie and I have not learned how to solve difficult business problems. What we have learned is to avoid them.
+Still, many people are uneasy with the via negativa. It is counterintuitive. It is even countercultural, flying in the face of contemporary wisdom. But look around, and you’ll find plenty of examples of the via negativa at work.
+
+This is what the legendary investor Warren Buffett writes about himself and his partner, Charlie Munger. Charlie and. I have not learned how to solve difficult business problems. What we have learned is to avoid them.
 
 Welcome to the via negativa. I’ve listed almost 100 thinking errors in this book without answering the question, what are thinking errors anyway?
 
@@ -3326,15 +3442,17 @@ That makes our mistakes predictable, and thus fixable to a degree, but only to a
 
 Why should our brains, of all things, experience lapse after lapse? Thinking is a biological phenomenon. Evolution has shaped it just as it has the forms of animals or the colors of flowers. Suppose we could go back 50,000 years, grab hold of an ancestor, and bring him back with us into the present.
 
-We send him to the hairdresser and put him in a Hugo Boss suit. Would he stand out on the street? No. Of course, he would have to learn English, how to drive, and how to operate a cell phone, but we had to learn those things, too. Biology has dispelled all doubt. Physically, and that includes cognitively, we are hunter-gatherers in Hugo Boss, or H&M, as the case may be.
+We send him to the hairdresser and put him in a Hugo Boss suit. Would he stand out on the street? No. Of course, he would have to learn English, how to drive, and how to operate a cell phone, but we had to learn those things, too.
 
-What has changed markedly since ancient times is the environment in which we live. Back then, things were simple and stable. We lived in small groups of about 50 people. There was no significant technological or social progress.
+Biology has dispelled all doubt. Physically, and that includes cognitively, we are hunter-gatherers in Hugo Boss, or H&M, as the case may be. What has changed markedly since ancient times is the environment in which we live. Back then, things were simple and stable.
 
-Only in the last 10,000 years did the world begin to transform dramatically with the development of crops, livestock, villages, cities, global trade, and financial markets. Since industrialization, little is left of the environment for which our brain is optimized. If you spend 15 minutes in a shopping mall, you’ll pass more people than our ancestors saw during their entire lifetimes. Whoever claims to know how the world will look in 10 years is made into a laughingstock less than a year after such a pronouncement.
+We lived in small groups of about 50 people. There was no significant technological or social progress. Only in the last 10,000 years did the world begin to transform dramatically with the development of crops, livestock, villages, cities, global trade, and financial markets. Since industrialization, little is left of the environment for which our brain is optimized.
 
-In the past 10,000 years, we’ve created a world that we no longer understand. Everything is more sophisticated, but also more complex and interdependent. The result is overwhelming material prosperity. But also lifestyle diseases, such as type 2 diabetes, lung cancer and depression, and errors in thinking.
+If you spend 15 minutes in a shopping mall, you’ll pass more people than our ancestors saw during their entire lifetimes. Whoever claims to know how the world will look in 10 years is made into a laughingstock less than a year after such a pronouncement. In the past 10,000 years, we’ve created a world that we no longer understand. Everything is more sophisticated, but also more complex and interdependent.
 
-If the complexity continues to rise, and it will, that much is certain, these errors will only increase and intensify. In our hunter-gatherer past, activity paid off more than reflection did. Lightning-fast reactions were vital, and long ruminations were ruinous. If your hunter-gatherer buddies suddenly bolted, it made sense to follow suit,
+The result is overwhelming material prosperity. But also lifestyle diseases, such as type 2 diabetes, lung cancer and depression, and errors in thinking. If the complexity continues to rise, and it will, that much is certain, these errors will only increase and intensify. In our hunter-gatherer past, activity paid off more than reflection did.
+
+Lightning-fast reactions were vital, and long ruminations were ruinous. If your hunter-gatherer buddies suddenly bolted, it made sense to follow suit,
 
 
 <a id="sec-074425"></a>
@@ -3366,13 +3484,15 @@ In short, we often decide intuitively and justify our choices later. Many decisi
 
 Instead, we think like lawyers, crafting the best possible justification for a predetermined conclusion. So forget about the left and right brain that semi-intelligent self-help books describe. Much more important is the difference between intuitive and rational thinking. Both have legitimate applications.
 
-The intuitive mind is swift, spontaneous, and energy-saving. Rational thinking is slow, demanding, and energy-guzzling, in the form of blood sugar. Nobody has described this better than the great Daniel Kahneman in Thinking, Fast and Slow. Since I started to collect cognitive errors, people often ask me how I managed to live an error-free life.
+The intuitive mind is swift, spontaneous, and energy-saving. Rational thinking is slow, demanding, and energy-guzzling, in the form of blood sugar. Nobody has described this better than the great Daniel Kahneman in Thinking, Fast and Slow. Since.
 
-The answer is, I don’t. In fact, I don’t even try. Just like everybody else, I make snap decisions by consulting not my thoughts, but my feelings. For the most part, I substitute the question, what do I think about this with, how do I feel about this?
+I started to collect cognitive errors, people often ask me how. I managed to live an error-free life. The answer is, I don’t.
 
-Quite frankly, anticipating and avoiding fallacies is a costly undertaking. To make things simple, I have set myself the following rules. In situations where the possible consequences are large, namely important personal or business decisions, I try to be as reasonable and rational as possible when choosing. I take out my list of errors and check them off one by one, just like a pilot does.
+In fact, I don’t even try. Just like everybody else, I make snap decisions by consulting not my thoughts, but my feelings. For the most part, I substitute the question, what do. I think about this with, how do.
 
-I’ve created a handy checklist decision tree, and I use it to examine important decisions with a fine-tooth comb. In situations where the consequences are small, namely regular or diet Pepsi, sparkling or flat water,
+I feel about this? Quite frankly, anticipating and avoiding fallacies is a costly undertaking. To make things simple, I have set myself the following rules. In situations where the possible consequences are large, namely important personal or business decisions, I try to be as reasonable and rational as possible when choosing.
+
+I take out my list of errors and check them off one by one, just like a pilot does. I’ve created a handy checklist decision tree, and. I use it to examine important decisions with a fine-tooth comb. In situations where the consequences are small, namely regular or diet Pepsi, sparkling or flat water,
 
 
 <a id="sec-074930"></a>
@@ -3382,11 +3502,13 @@ I forget about rational optimization and let my intuition take over. Thinking is
 
 Therefore, if the potential harm is small, don’t rack your brains. Such errors won’t do lasting damage. You’ll live better like this. Nature doesn’t seem to mind if our decisions are perfect or not, as long as we can maneuver ourselves through life, and as long as we’re ready to be rational when it comes to the crunch.
 
-And there’s one other area where I let my intuition take the lead. When I’m in my circle of competence. If you practice an instrument, you learn the notes and tell your fingers how to play them. Over time, you know the keys or the strings inside out.
+And there’s one other area where. I let my intuition take the lead. When. I’m in my circle of competence.
 
-You see a musical score and your hands play the notes almost automatically. Warren Buffett reads balance sheets like professional musicians read scores. This is his circle of competence, the field he intuitively understands and masters. So find out where your circle of competence is.
+If you practice an instrument, you learn the notes and tell your fingers how to play them. Over time, you know the keys or the strings inside out. You see a musical score and your hands play the notes almost automatically. Warren Buffett reads balance sheets like professional musicians read scores.
 
-Get a clear grasp of it. Hint, it’s smaller than you think. If you face a consequential decision outside that circle, apply the hard, slow, rational thinking. For everything else, give your intuition free rein.
+This is his circle of competence, the field he intuitively understands and masters. So find out where your circle of competence is. Get a clear grasp of it. Hint, it’s smaller than you think.
 
-This is Eric Conger. We hope you’ve enjoyed this unabridged production of The Art of Thinking Clearly by Rolf Dobelli. This program was produced by John Marshall Media, executive producer Karen Czakowski, text copyright 2013 by Rolf Dobelli, production copyright 2013 by Harper Collins Publishers, all rights reserved. Thank you for listening.
+If you face a consequential decision outside that circle, apply the hard, slow, rational thinking. For everything else, give your intuition free rein. This is Eric Conger. We hope you’ve enjoyed this unabridged production of The Art of Thinking.
+
+Clearly, by Rolf Dobelli. This program was produced by John Marshall Media, executive producer Karen Czakowski, text copyright 2013 by Rolf Dobelli, production copyright 2013 by Harper Collins Publishers, all rights reserved. Thank you for listening.
 

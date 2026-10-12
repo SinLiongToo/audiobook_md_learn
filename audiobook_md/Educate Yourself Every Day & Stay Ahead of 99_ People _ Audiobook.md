@@ -127,11 +127,13 @@ The difference between someone who is highly successful and someone who struggle
 
 And over time, the gap between these two people becomes massive. If you want to separate yourself from the average, you have to start using your 24 hours differently. And no, I’m not talking about spending five hours a day studying. That’s unrealistic for most people.
 
-What I’m talking about is being intentional with your time. The difference between those who succeed and those who stay stuck is not how much time they have, but how they use it. Most people waste hours every day on distractions, social media, pointless conversations, entertainment that does nothing for their future. Then they complain that they don’t have time to learn, to grow, to develop new skills.
+What. I’m talking about is being intentional with your time. The difference between those who succeed and those who stay stuck is not how much time they have, but how they use it. Most people waste hours every day on distractions, social media, pointless conversations, entertainment that does nothing for their future.
 
-But if you look at their daily habits, the truth is clear. They do have time. They just don’t use it wisely. The most successful people in the world have a rule.
+Then they complain that they don’t have time to learn, to grow, to develop new skills. But if you look at their daily habits, the truth is clear. They do have time. They just don’t use it wisely.
 
-They dedicate a portion of their day every single day to learning something new. It doesn’t matter how… busy they are. It doesn’t matter how many responsibilities they have. They know that if they stop learning, they stop growing, and if they stop growing, they get left behind.
+The most successful people in the world have a rule. They dedicate a portion of their day every single day to learning something new. It doesn’t matter how… busy they are. It doesn’t matter how many responsibilities they have.
+
+They know that if they stop learning, they stop growing, and if they stop growing, they get left behind.
 
 
 <a id="sec-001512"></a>
@@ -219,19 +221,21 @@ Because at the end of the day, success is not about who is the smartest, or who 
 
 The question is, are you willing to read the right way? Are you willing to not just consume information, but master it? Because if you are, then there is no limit to what you can achieve. You are surrounded by an opportunity that most people ignore.
 
-An opportunity that could completely change the way you think, the way you learn, and ultimately, the way you succeed. It’s not locked away in some expensive course. It’s not reserved for the ultra-rich or the highly educated. It’s something you already have access to, but you’re probably not using it to its full It’s your time.
+An opportunity that could completely change the way you think, the way you learn, and ultimately, the way you succeed. It’s not locked away in some expensive course. It’s not reserved for the ultra-rich or the highly educated. It’s something you already have access to, but you’re probably not using it to its full.
 
-More specifically, the hidden hours of your day. The hours when you’re commuting, when you’re doing chores, when you’re walking, exercising, or simply waiting for something. These are the moments when most people let their minds drift, wasting precious time on distractions, on pointless noise, on things that add nothing to their future. But the people who stay ahead, they turn these moments into their secret weapon.
+It’s your time. More specifically, the hidden hours of your day. The hours when you’re commuting, when you’re doing chores, when you’re walking, exercising, or simply waiting for something. These are the moments when most people let their minds drift, wasting precious time on distractions, on pointless noise, on things that add nothing to their future.
 
-They use these pockets of time to educate themselves, to sharpen their minds, to absorb powerful ideas that give them an edge in life. And one of the best ways to do this, podcasts and audiobooks. You have to understand something. The way people learn has changed.
+But the people who stay ahead, they turn these moments into their secret weapon. They use these pockets of time to educate themselves, to sharpen their minds, to absorb powerful ideas that give them an edge in life. And one of the best ways to do this, podcasts and audiobooks. You have to understand something.
 
-It’s no longer just about sitting down with a book or attending a class. We now live in a world where knowledge is everywhere, where you can access the insights of billionaires, the strategies of top performers, the mindset of the most successful people, all with the tap of a button. You can literally carry a world-class education in your pocket. And yet, most people still don’t take advantage of it.
+The way people learn has changed. It’s no longer just about sitting down with a book or attending a class. We now live in a world where knowledge is everywhere, where you can access the insights of billionaires, the strategies of top performers, the mindset of the most successful people, all with the tap of a button. You can literally carry a world-class education in your pocket.
 
-They waste hours scrolling through social media, watching meaningless content, listening to music that doesn’t add value to their lives. And then they wonder why they’re not growing, why they’re stuck, why nothing is changing. The reality is simple. If you are not intentionally feeding your mind with powerful knowledge, you are falling behind.
+And yet, most people still don’t take advantage of it. They waste hours scrolling through social media, watching meaningless content, listening to music that doesn’t add value to their lives. And then they wonder why they’re not growing, why they’re stuck, why nothing is changing. The reality is simple.
 
-Imagine this. Every single day, you wake up knowing that no matter where you go, no matter what you’re doing, you’re learning, you’re growing, you’re upgrading your thinking. While other people spend their morning listening to the same songs they’ve heard a hundred times, you’re absorbing life-changing insights from the greatest minds in history. While they waste time gossiping, you’re studying the habits of high achievers.
+If you are not intentionally feeding your mind with powerful knowledge, you are falling behind. Imagine this. Every single day, you wake up knowing that no matter where you go, no matter what you’re doing, you’re learning, you’re growing, you’re upgrading your thinking. While other people spend their morning listening to the same songs they’ve heard a hundred times, you’re absorbing life-changing insights from the greatest minds in history.
 
-While they sit in traffic complaining about their job, you’re learning the skills that will get you out of that job and into something better. This is the difference between those who stay stuck and those who rise. It’s not about intelligence, it’s not about luck, it’s about how you use your time. Now some people will say, I don’t have time to read books, I’m too busy to sit down and
+While they waste time gossiping, you’re studying the habits of high achievers. While they sit in traffic complaining about their job, you’re learning the skills that will get you out of that job and into something better. This is the difference between those who stay stuck and those who rise. It’s not about intelligence, it’s not about luck, it’s about how you use your time.
+
+Now some people will say, I don’t have time to read books, I’m too busy to sit down and
 
 
 <a id="sec-003027"></a>
@@ -253,19 +257,21 @@ You start seeing opportunities where others see obstacles. You start thinking st
 
 It’s not enough to just listen. Listening alone won’t change your life. Just like reading a book without applying it won’t make you smarter. The real impact comes when you take what you learn and actually use it.
 
-So every time you listen to a powerful podcast or an audiobook, don’t just let it go in one ear and out the other. Take notes. Write down key insights. Ask yourself, how can I use this today?
+So every time you listen to a powerful podcast or an audiobook, don’t just let it go in one ear and out the other. Take notes. Write down key insights. Ask yourself, how can.
 
-Because the difference between those who grow and those who stay the same is not just what they consume, it’s what they implement. Imagine if every single week you listen to just one audiobook, that’s 52 books a year. Do you know how much knowledge that is? Do you know how much wisdom you would have compared to the average person?
+I use this today? Because the difference between those who grow and those who stay the same is not just what they consume, it’s what they implement. Imagine if every single week you listen to just one audiobook, that’s 52 books a year. Do you know how much knowledge that is?
 
-Even if every morning, instead of listening to music or the news, you listen to 30 minutes of a life-changing podcast, that’s over 180 hours of learning every year without spending a single extra second of your time. If you do this consistently, within a year you will be unrecognizable. Your thinking will be sharper. Your skills will be stronger.
+Do you know how much wisdom you would have compared to the average person? Even if every morning, instead of listening to music or the news, you listen to 30 minutes of a life-changing podcast, that’s over 180 hours of learning every year without spending a single extra second of your time. If you do this consistently, within a year you will be unrecognizable. Your thinking will be sharper.
 
-Your perspective will be completely transformed. And that’s exactly why the people at the top stay at the top. They don’t just consume entertainment, they consume knowledge. They don’t just listen to noise, they listen to wisdom, they know that the mind is like a muscle.
+Your skills will be stronger. Your perspective will be completely transformed. And that’s exactly why the people at the top stay at the top. They don’t just consume entertainment, they consume knowledge.
 
-The more you train it, the stronger it gets. And the people who train their minds every single day, they become unstoppable. Right now you have a choice. You can keep doing what you’ve always done, wasting hours on distractions, letting your mind be filled with whatever the world throws at you.
+They don’t just listen to noise, they listen to wisdom, they know that the mind is like a muscle. The more you train it, the stronger it gets. And the people who train their minds every single day, they become unstoppable. Right now you have a choice.
 
-Or you can take control. You can decide that from this moment on. Every spare minute you have will be dedicated to growth. You can turn your daily routine into a learning machine.
+You can keep doing what you’ve always done, wasting hours on distractions, letting your mind be filled with whatever the world throws at you. Or you can take control. You can decide that from this moment on. Every spare minute you have will be dedicated to growth.
 
-You can make your car, your home, your gym, your commute, your personal university. And once you do that, you will never go back, because the results will speak for themselves. You will start thinking differently, moving differently, operating at a level that most people can’t even comprehend. The people who win in life are not the ones who have the most resources, they are the
+You can turn your daily routine into a learning machine. You can make your car, your home, your gym, your commute, your personal university. And once you do that, you will never go back, because the results will speak for themselves. You will start thinking differently, moving differently, operating at a level that most people can’t even comprehend.
+
+The people who win in life are not the ones who have the most resources, they are the
 
 
 <a id="sec-003528"></a>
@@ -319,11 +325,13 @@ At the end of the day, online learning is like a weapon. It can be the greatest 
 
 They don’t just learn, they implement. They don’t just plan, they execute. And if you make the decision today to stop passively consuming and start actively applying, your entire trajectory will change. You won’t just be another person who knows a lot, you’ll be one of the few who actually does something with it.
 
-Every single minute you spend watching, reading or studying without applying is time wasted. But every single minute you spend learning and immediately taking action is an investment in your future. So the next time you catch yourself stuck in another endless loop of tutorials, courses or motivational videos, stop. Ask yourself, what’s the one thing I can take from this and use right now?
+Every single minute you spend watching, reading or studying without applying is time wasted. But every single minute you spend learning and immediately taking action is an investment in your future. So the next time you catch yourself stuck in another endless loop of tutorials, courses or motivational videos, stop. Ask yourself, what’s the one thing.
 
-Then do it. Because the moment you shift from just learning to actually doing, that’s when everything in your life will start to transform.
+I can take from this and use right now? Then do it. Because the moment you shift from just learning to actually doing, that’s when everything in your life will start to transform.
 
-#### Chapter 6 The Five High Value Skills That Will Always Be In Demand Your success is directly tied to the skills you develop. In a world that’s changing faster than ever, the people who win are the ones who master high value skills, skills that will always be in demand, no matter how much technology advances or industries shift. If you want to stay ahead, you can’t rely on what you learned in school.
+#### Chapter 6 The Five High Value Skills. That Will Always Be.
+
+In Demand. Your success is directly tied to the skills you develop. In a world that’s changing faster than ever, the people who win are the ones who master high value skills, skills that will always be in demand, no matter how much technology advances or industries shift. If you want to stay ahead, you can’t rely on what you learned in school.
 
 You can’t stay ahead. it back and hope that your current knowledge will be enough. The world doesn’t reward people for what they used to know. It rewards those who can adapt, learn, and execute better than anyone else. Look around and you’ll see it happening everywhere.
 
@@ -347,19 +355,19 @@ Sales is everything. Whether you’re convincing someone to hire you, negotiatin
 
 If you can’t, you’ll always be dependent on someone else to give you opportunities. Then there’s problem solving. The people who rise to the top in any industry are the ones who can think critically, adapt to challenges, and come up with solutions when no one else can. Businesses don’t pay for people who just follow orders.
 
-They pay for people who can solve real problems. The better you are at analyzing situations, finding solutions, and making smart decisions, the more valuable you become. And in today’s world, digital skills are non-negotiable. AI, automation, and technology are changing everything. The people who understand how to leverage digital tools, analyze data, and use technology to their advantage will always be ahead.
+They pay for people who can solve real problems. The better you are at analyzing situations, finding solutions, and making smart decisions, the more valuable you become. And in today’s world, digital skills are non-negotiable. AI, automation, and technology are changing everything.
 
-Whether it’s coding, digital marketing, content creation, or data analysis, having strong digital skills means you’re future-proofing yourself. You don’t have to be an expert in everything, but you do need to be comfortable using technology to create value. Then there’s leadership, the ability to take initiative, inspire people, and make things happen. Leadership isn’t just for managers or CEOs.
+The people who understand how to leverage digital tools, analyze data, and use technology to their advantage will always be ahead. Whether it’s coding, digital marketing, content creation, or data analysis, having strong digital skills means you’re future-proofing yourself. You don’t have to be an expert in everything, but you do need to be comfortable using technology to create value. Then there’s leadership, the ability to take initiative, inspire people, and make things happen.
 
-If you can take responsibility, guide people, and make tough decisions, you become the kind of person that others want to follow. Leaders don’t wait for permission. They don’t sit around hoping for things to change. They take action.
+Leadership isn’t just for managers or CEOs. If you can take responsibility, guide people, and make tough decisions, you become the kind of person that others want to follow. Leaders don’t wait for permission. They don’t sit around hoping for things to change.
 
-They create opportunities. They bring out the best in themselves and the people around them. That’s why leadership is one of the most in-demand skills in every industry. So the question isn’t whether you should develop these skills.
+They take action. They create opportunities. They bring out the best in themselves and the people around them. That’s why leadership is one of the most in-demand skills in every industry.
 
-The question is, are you willing to put in the time and effort to master them? Because here’s the truth. Most people won’t. Most people will keep doing what’s comfortable.
+So the question isn’t whether you should develop these skills. The question is, are you willing to put in the time and effort to master them? Because here’s the truth. Most people won’t.
 
-They’ll keep telling themselves they don’t have time, that it’s too hard, or that they don’t know where to start. And that’s exactly why most people stay stuck. They never make the decision to level up. But if you’re serious about getting ahead, you need to do what others won’t.
+Most people will keep doing what’s comfortable. They’ll keep telling themselves they don’t have time, that it’s too hard, or that they don’t know where to start. And that’s exactly why most people stay stuck. They never make the decision to level up.
 
-You need to invest in yourself. You need to commit to learning something valuable every single day, and more importantly, applying it. The world rewards those who can bring value, and value comes from mastering skills that
+But if you’re serious about getting ahead, you need to do what others won’t. You need to invest in yourself. You need to commit to learning something valuable every single day, and more importantly, applying it. The world rewards those who can bring value, and value comes from mastering skills that
 
 
 <a id="sec-005034"></a>
@@ -421,31 +429,33 @@ What happens in those moments is that you’re consuming information but not let
 <a id="sec-010039"></a>
 ### ⏱️ [01:00:39 - 01:05:39]
 
-It’s about using what you learn in a practical, actionable way. Let’s take a minute to consider a simple truth. Learning without doing is pointless. When you listen to a podcast, read an article, or watch a tutorial, you need to ask yourself, how can I implement this today?
+It’s about using what you learn in a practical, actionable way. Let’s take a minute to consider a simple truth. Learning without doing is pointless. When you listen to a podcast, read an article, or watch a tutorial, you need to ask yourself, how can.
 
-The idea is to make every piece of knowledge actionable. When you learn a new skill or discover a new strategy, it shouldn’t just be a mental note to file away for later. The sooner you apply it, the more likely you are to internalize it and truly benefit from it. But wait until tomorrow, you’ll find that the energy you had for change has dissipated.
+I implement this today? The idea is to make every piece of knowledge actionable. When you learn a new skill or discover a new strategy, it shouldn’t just be a mental note to file away for later. The sooner you apply it, the more likely you are to internalize it and truly benefit from it.
 
-The key to real transformation is making use of knowledge as soon as it enters your brain. But how do you apply what you learn in a world where everything moves so fast, where distractions are endless, and where time always seems to slip away?
+But wait until tomorrow, you’ll find that the energy you had for change has dissipated. The key to real transformation is making use of knowledge as soon as it enters your brain. But how do you apply what you learn in a world where everything moves so fast, where distractions are endless, and where time always seems to slip away?
 
 First, it’s about shifting your mindset. You need to make a commitment to yourself that you won’t simply be a passive consumer of information, but an active participant in your own learning journey. This means embracing the idea of learning by doing. No more waiting for the perfect moment or perfect conditions to start applying what you know.
 
 The perfect moment is right now. The perfect conditions, they don’t exist. What exists is the power of your decision to act on the information you have today. Think about any time you’ve learned a new skill.
 
-Whether it was a technical skill like coding, a new language, or a creative endeavor like writing or painting, the moment you saw results was when you started doing it, not just thinking about it. Even if you make mistakes, even if things don’t turn out exactly as you planned, the key is that you’re learning in real time. Mistakes aren’t failures, they’re part of the process, they’re signs that you’re pushing yourself out of your comfort zone and testing new things. Every mistake is a step forward if you use it as a learning opportunity.
+Whether it was a technical skill like coding, a new language, or a creative endeavor like writing or painting, the moment you saw results was when you started doing it, not just thinking about it. Even if you make mistakes, even if things don’t turn out exactly as you planned, the key is that you’re learning in real time. Mistakes aren’t failures, they’re part of the process, they’re signs that you’re pushing yourself out of your comfort zone and testing new things.
 
-The worst thing you can do is nothing at all. This is where discipline comes in. It’s easy to get caught up in the excitement of learning and start consuming content endless easily, but without taking action, all that content is just mental clutter. To make the most of your learning, set aside time every day to apply something you’ve learned.
+Every mistake is a step forward if you use it as a learning opportunity. The worst thing you can do is nothing at all. This is where discipline comes in. It’s easy to get caught up in the excitement of learning and start consuming content endless easily, but without taking action, all that content is just mental clutter.
 
-It doesn’t have to be a massive project every time. It can be as simple as making one decision based on what you’ve learned or incorporating one new tactic into your daily routine. But whatever you do, make sure you’re doing something with the knowledge you’ve gained. When you apply what you’ve learned, you’re not just reinforcing your memory, you’re creating new neural pathways that make the knowledge stick and help it become a permanent part of who you are.
+To make the most of your learning, set aside time every day to apply something you’ve learned. It doesn’t have to be a massive project every time. It can be as simple as making one decision based on what you’ve learned or incorporating one new tactic into your daily routine. But whatever you do, make sure you’re doing something with the knowledge you’ve gained.
 
-Real growth happens when knowledge becomes behaviour. The true test of how much you’ve learned is whether you’ve integrated that learning into your actions, decisions and habits. We’re not meant to be passive consumers of information. We’re meant to be active creators, builders and doers.
+When you apply what you’ve learned, you’re not just reinforcing your memory, you’re creating new neural pathways that make the knowledge stick and help it become a permanent part of who you are. Real growth happens when knowledge becomes behaviour. The true test of how much you’ve learned is whether you’ve integrated that learning into your actions, decisions and habits. We’re not meant to be passive consumers of information.
 
-That’s how progress happens. If you can shift your mindset from passive consumption to active application, you’ll start seeing growth in ways you never thought possible. But this requires constant vigilance. You have to be aware of when you’re slipping into the trap of mindless consumption.
+We’re meant to be active creators, builders and doers. That’s how progress happens. If you can shift your mindset from passive consumption to active application, you’ll start seeing growth in ways you never thought possible. But this requires constant vigilance.
 
-It’s so easy to get lost in a never-ending loop of absorbing information, thinking that it will somehow make you smarter or more successful. But it’s not enough to just fill your brain with knowledge. You need to let that knowledge drive you to take action. If you want to level up, here’s what you need to do.
+You have to be aware of when you’re slipping into the trap of mindless consumption. It’s so easy to get lost in a never-ending loop of absorbing information, thinking that it will somehow make you smarter or more successful. But it’s not enough to just fill your brain with knowledge. You need to let that knowledge drive you to take action.
 
-Make a piece of knowledge you’ve learned today and apply it right away. It doesn’t matter if you’re trying to learn a new business strategy, improve your fitness or become better at managing your time. The application is what makes the knowledge real. So when you hear a new idea that excites you, don’t wait.
+If you want to level up, here’s what you need to do. Make a piece of knowledge you’ve learned today and apply it right away. It doesn’t matter if you’re trying to learn a new business strategy, improve your fitness or become better at managing your time. The application is what makes the knowledge real.
 
-Use it in the next hour. If you read a great tip for time management, implement it immediately. If you hear an inspiring story of success, think about how you can incorporate some of the same habits or strategies into your own life. The difference between the successful and the stagnant is often this one group consumes
+So when you hear a new idea that excites you, don’t wait. Use it in the next hour. If you read a great tip for time management, implement it immediately. If you hear an inspiring story of success, think about how you can incorporate some of the same habits or strategies into your own life.
+
+The difference between the successful and the stagnant is often this one group consumes
 
 
 <a id="sec-010539"></a>
@@ -461,49 +471,53 @@ Take what you know today and use it. And then when tomorrow comes, use what you�
 
 The world rewards those who take what they learn and use it to move forward. Are you ready to be one of those people?
 
-#### Chapter 9 The One Percent Notebook How to Retain and Use What You Learn The greatest obstacle between you and your success is not a lack of information. It’s not the tools, the strategies or even the goals you set. The true challenge is the ability to take everything you’re learning and keep it with you so you can actually use it to make the impact you want.
+#### Chapter 9 The One Percent Notebook. How to Retain and Use. What You Learn The greatest obstacle between you and your success is not a lack of information.
 
-Imagine you read a life-changing book or listen to a podcast that sparks a new idea. You’re excited, motivated and ready to take action. But then, a few days later, you can barely recall the key lessons. The energy fades and the ideas seem like distant memories.
+It’s not the tools, the strategies or even the goals you set. The true challenge is the ability to take everything you’re learning and keep it with you so you can actually use it to make the impact you want. Imagine you read a life-changing book or listen to a podcast that sparks a new idea. You’re excited, motivated and ready to take action.
 
-The difference between people who thrive and those who don’t is simple. It’s the ability to remember and use what they’ve learned. We all know that feeling. You read something inspiring or hear a quote that seems like it could change your life, but soon enough it slips away like water through your fingers.
+But then, a few days later, you can barely recall the key lessons. The energy fades and the ideas seem like distant memories. The difference between people who thrive and those who don’t is simple. It’s the ability to remember and use what they’ve learned.
 
-This is where having a powerful system to retain and use what you learn becomes crucial. You need something more than just the occasional aha moment. You need to turn that knowledge into a lasting part of your life, something you can apply every day, not just when you’re in the mood to think about it. The simple truth is this, your ability to remember and utilize knowledge determines how much progress you make in your life.
+We all know that feeling. You read something inspiring or hear a quote that seems like it could change your life, but soon enough it slips away like water through your fingers. This is where having a powerful system to retain and use what you learn becomes crucial. You need something more than just the occasional aha moment.
 
-And without a reliable system to retain what you learn, your growth will always be limited. This is why it’s time to create your own 1% notebook. This isn’t just about jotting down random notes in a diary. It’s a method, a strategy, designed to help you retain what you learn and apply it with precision.
+You need to turn that knowledge into a lasting part of your life, something you can apply every day, not just when you’re in the mood to think about it. The simple truth is this, your ability to remember and utilize knowledge determines how much progress you make in your life. And without a reliable system to retain what you learn, your growth will always be limited. This is why it’s time to create your own 1% notebook.
 
-You can’t just consume information passively and expect it to stay with you. You need a system to actively absorb it and process it. This notebook becomes your trusted companion, your personal knowledge vault. It’s where you capture the key ideas, the critical lessons, the quotes and strategies that can propel you forward.
+This isn’t just about jotting down random notes in a diary. It’s a method, a strategy, designed to help you retain what you learn and apply it with precision. You can’t just consume information passively and expect it to stay with you. You need a system to actively absorb it and process it.
 
-But here’s the catch, it’s not just about writing things down. It’s about making sure those notes are meaningful to you and more importantly usable. Here’s what most people do, they take notes, scribble down things they find interesting and think that’s enough. But in reality, if you’re just writing things down and never looking back at them, you’re missing the point entirely.
+This notebook becomes your trusted companion, your personal knowledge vault. It’s where you capture the key ideas, the critical lessons, the quotes and strategies that can propel you forward. But here’s the catch, it’s not just about writing things down. It’s about making sure those notes are meaningful to you and more importantly usable.
 
-The power of a notebook lies in its ability to be revisited, reflected on and connected to real life actions. This is how you lock knowledge into your memory and make it part of your everyday experience. The first step is to make sure your notes are actionable. What’s the point of writing something down if it’s not going to help you take the next step in your life?
+Here’s what most people do, they take notes, scribble down things they find interesting and think that’s enough. But in reality, if you’re just writing things down and never looking back at them, you’re missing the point entirely. The power of a notebook lies in its ability to be revisited, reflected on and connected to real life actions. This is how you lock knowledge into your memory and make it part of your everyday experience.
 
-Instead of just summarising what you’ve read or heard, ask yourself, how can I use this today? When you go through a book or listen to a podcast, it’s not enough to just think about
+The first step is to make sure your notes are actionable. What’s the point of writing something down if it’s not going to help you take the next step in your life? Instead of just summarising what you’ve read or heard, ask yourself, how can. I use this today?
+
+When you go through a book or listen to a podcast, it’s not enough to just think about
 
 
 <a id="sec-011041"></a>
 ### ⏱️ [01:10:41 - 01:15:46]
 
-how cool the ideas are. You need to challenge yourself, how can I apply this right now? When you’re taking notes, don’t just jot down words and phrases, write down how this information changes the way you think or how you can use it to solve a problem you’re facing. Connect the dots between the knowledge and the actions you can take.
+how cool the ideas are. You need to challenge yourself, how can. I apply this right now? When you’re taking notes, don’t just jot down words and phrases, write down how this information changes the way you think or how you can use it to solve a problem you’re facing.
 
-As you go through this process, you’ll notice something powerful happens, you stop seeing learning as a one-time event and start seeing it as an ongoing process. You begin to realise that every piece of information is part of a larger puzzle. And with your notebook you’ll have the pieces ready to fit together when the time comes. But retaining knowledge isn’t just about writing it down, it’s about review.
+Connect the dots between the knowledge and the actions you can take. As you go through this process, you’ll notice something powerful happens, you stop seeing learning as a one-time event and start seeing it as an ongoing process. You begin to realise that every piece of information is part of a larger puzzle. And with your notebook you’ll have the pieces ready to fit together when the time comes.
 
-Think of the way you learn a language, you don’t just learn a word once and then forget it. You revisit it over and over again until it becomes part of your vocabulary. The same goes for the knowledge you accumulate. Your 1% notebook is meant to be a tool for constant review.
+But retaining knowledge isn’t just about writing it down, it’s about review. Think of the way you learn a language, you don’t just learn a word once and then forget it. You revisit it over and over again until it becomes part of your vocabulary. The same goes for the knowledge you accumulate.
 
-At the end of each day, take a moment to look over your notes. Don’t just skim through them, reflect on them. Think about how you can apply each lesson. This process ensures that the knowledge isn’t just floating in your mind.
+Your 1% notebook is meant to be a tool for constant review. At the end of each day, take a moment to look over your notes. Don’t just skim through them, reflect on them. Think about how you can apply each lesson.
 
-It’s rooted deeply inside you, ready to be activated whenever you need it. The more you use this notebook, the more you’ll see how your thoughts begin to shift. The ideas you jot down will start to become habits and those habits will change your life. It’s not about learning more, it’s about learning better.
+This process ensures that the knowledge isn’t just floating in your mind. It’s rooted deeply inside you, ready to be activated whenever you need it. The more you use this notebook, the more you’ll see how your thoughts begin to shift. The ideas you jot down will start to become habits and those habits will change your life.
 
-Each note you take is like planting a seed. But just like any plant, you have to nurture it, give it attention and make sure it gets the light it needs to grow. As you continue this process, you’ll find that your ability to remember and use what you learn will grow exponentially. You’ll start applying the lessons from your notebook to solve real world challenges, making those ideas work for you.
+It’s not about learning more, it’s about learning better. Each note you take is like planting a seed. But just like any plant, you have to nurture it, give it attention and make sure it gets the light it needs to grow. As you continue this process, you’ll find that your ability to remember and use what you learn will grow exponentially.
 
-The real magic happens when you stop just learning and start truly internalizing knowledge. This isn’t about being a passive consumer anymore. This is about taking action on what you know and making that action a regular part of your life. The 1% Notebook is designed to be your constant companion in this journey.
+You’ll start applying the lessons from your notebook to solve real world challenges, making those ideas work for you. The real magic happens when you stop just learning and start truly internalizing knowledge. This isn’t about being a passive consumer anymore. This is about taking action on what you know and making that action a regular part of your life.
 
-It’s not just a place to write things down, it’s a tool to shape who you are, what you do, and how you think. Over time, you’ll notice that you don’t just know things, you live them. And that’s when everything starts to change. It doesn’t matter how many books you read or how many podcasts you listen to if you’re not using that knowledge to shape your life.
+The 1% Notebook is designed to be your constant companion in this journey. It’s not just a place to write things down, it’s a tool to shape who you are, what you do, and how you think. Over time, you’ll notice that you don’t just know things, you live them. And that’s when everything starts to change.
 
-That’s why the 1% Notebook isn’t just about retention, it’s about action. It’s about transforming knowledge into wisdom and wisdom into results. So every time you learn something, think to yourself, how can I take this one step further? How can I use this today, right now?
+It doesn’t matter how many books you read or how many podcasts you listen to if you’re not using that knowledge to shape your life. That’s why the 1% Notebook isn’t just about retention, it’s about action. It’s about transforming knowledge into wisdom and wisdom into results. So every time you learn something, think to yourself, how can.
 
-The more you do this, the more you’ll see that your learning isn’t just about gathering information, it’s about building a life of purpose, discipline, and real tangible results. At the end of the day, the most successful people aren’t the ones with the most knowledge, they’re the ones who know how to use what they learn. The 1% Notebook is your key to ensuring that the knowledge you accumulate doesn’t just slip away into the ether. It becomes your tool for action, reflection, and growth.
+I take this one step further? How can. I use this today, right now? The more you do this, the more you’ll see that your learning isn’t just about gathering information, it’s about building a life of purpose, discipline, and real tangible results.
 
-When you start using this system consistently, you’ll begin to notice a profound shift in your life. Your confidence will grow, your productivity will increase, and your results will speak for themselves. You’ll pick up that. notebook, start writing, start applying, and watch how your life transforms. The only question now is, are you ready to take what you’ve learned and turn it into the life you’ve always wanted?
+At the end of the day, the most successful people aren’t the ones with the most knowledge, they’re the ones who know how to use what they learn. The 1% Notebook is your key to ensuring that the knowledge you accumulate doesn’t just slip away into the ether. It becomes your tool for action, reflection, and growth. When you start using this system consistently, you’ll begin to notice a profound shift in your life.
+
+Your confidence will grow, your productivity will increase, and your results will speak for themselves. You’ll pick up that. notebook, start writing, start applying, and watch how your life transforms. The only question now is, are you ready to take what you’ve learned and turn it into the life you’ve always wanted?
 
 #### Chapter 10. Thinking Critically.
 
@@ -553,13 +567,13 @@ You have to actively choose to be skeptical, to dig deeper, and to ask the right
 
 It’s easy to get swept up in trends or opinions just because everyone else is doing it. But true growth happens when you stop listening to the opinions of the masses and start listening to your own voice. When you can think for yourself and evaluate information based on your own understanding, you’re no longer controlled by outside forces. You become the master of your own decisions, your own beliefs, and your own future.
 
-Critical thinking also helps you separate the truth from the hype. In today’s world, it’s easy to be misled by catchy headlines, flashy promises, or exaggerated claims. Whether it’s the latest miracle diet, an investment scheme that promises massive returns, or the newest trend in self improvement, there’s always something out there trying to grab your attention. But with critical thinking, you can learn to see beyond the marketing and evaluate whether these promises are actually worth your time and energy. And here’s the most powerful part of it all.
+Critical thinking also helps you separate the truth from the hype. In today’s world, it’s easy to be misled by catchy headlines, flashy promises, or exaggerated claims. Whether it’s the latest miracle diet, an investment scheme that promises massive returns, or the newest trend in self improvement, there’s always something out there trying to grab your attention. But with critical thinking, you can learn to see beyond the marketing and evaluate whether these promises are actually worth your time and energy.
 
-When you master critical thinking, you unlock your ability to learn from anything. You stop depending on one source or one viewpoint to guide you, and you start seeking out multiple perspectives. You develop the ability to learn from people, from books, from podcasts, from your own experiences, and you do so with a level of awareness that most people lack. This is the power of critical thinking.
+And here’s the most powerful part of it all. When you master critical thinking, you unlock your ability to learn from anything. You stop depending on one source or one viewpoint to guide you, and you start seeking out multiple perspectives. You develop the ability to learn from people, from books, from podcasts, from your own experiences, and you do so with a level of awareness that most people lack.
 
-It allows you to take in knowledge from everywhere, sift through it, and decide what’s worth applying to your life. You stop being a passive consumer of information, and you become an active participant in shaping your own future. Critical thinking is the ultimate skill you need to stay ahead of the game. It’s what separates those who succeed from those who get lost in the noise.
+This is the power of critical thinking. It allows you to take in knowledge from everywhere, sift through it, and decide what’s worth applying to your life. You stop being a passive consumer of information, and you become an active participant in shaping your own future. Critical thinking is the ultimate skill you need to stay ahead of the game.
 
-If you want to become someone who takes control of their life, someone who’s always one step ahead, you need to develop the habit of thinking critically about everything that comes your way. Stop accepting things at face value. Question everything, analyze it, and use your newfound insights to make better decisions. Once you master this skill, you’ll be able to navigate the world with confidence, clarity, and purpose.
+It’s what separates those who succeed from those who get lost in the noise. If you want to become someone who takes control of their life, someone who’s always one step ahead, you need to develop the habit of thinking critically about everything that comes your way. Stop accepting things at face value. Question everything, analyze it, and use your newfound insights to make better decisions.
 
-And that’s when you’ll truly be ahead of 99% of people.
+Once you master this skill, you’ll be able to navigate the world with confidence, clarity, and purpose. And that’s when you’ll truly be ahead of 99% of people.
 

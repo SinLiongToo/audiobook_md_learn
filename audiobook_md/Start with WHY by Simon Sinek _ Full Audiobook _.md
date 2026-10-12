@@ -104,57 +104,61 @@ Start with why. How great leaders inspire everyone to take action. By Simon Sine
 
 #### Part 1. Assume you know, on a cold January day, a 43-year-old man was sworn in as the chief executive of his country.
 
-By his side stood his predecessor, a famous general who, 15 years earlier, had commanded his nation’s armed forces in a war that resulted in the defeat of Germany. The young leader was raised in the Roman Catholic faith. He spent the next five hours watching parades in his honor and stayed up celebrating until three o’clock in the morning. You know who I’m describing, right?
+By his side stood his predecessor, a famous general who, 15 years earlier, had commanded his nation’s armed forces in a war that resulted in the defeat of Germany. The young leader was raised in the Roman Catholic faith. He spent the next five hours watching parades in his honor and stayed up celebrating until three o’clock in the morning. You know who.
 
-It’s January 30, 1933, and I’m describing Adolf Hitler and not, as most people would assume, John F. Kennedy. The point is, we make assumptions. We make assumptions about the world around us based on sometimes incomplete or false information.
+I’m describing, right? It’s January 30, 1933, and. I’m describing Adolf Hitler and not, as most people would assume, John F. Kennedy.
 
-In this case, the information I offered was incomplete. Many of you were convinced that I was describing John F. Kennedy until I added one minor little detail, the date. This is important because our behavior is affected by our assumptions or our perceived truths.
+The point is, we make assumptions. We make assumptions about the world around us based on sometimes incomplete or false information. In this case, the information. I offered was incomplete.
 
-We make decisions based on what we think we know. It wasn’t too long ago that the majority of believed the world was flat. This perceived truth-impacted behavior. During this period, there was very little exploration.
+Many of you were convinced that. I was describing John F. Kennedy until. I added one minor little detail, the date.
 
-People feared that if they traveled too far they might fall off the edge of the earth. So for the most part they stayed put. It wasn’t until that minor detail was revealed, the world is round, that behaviors changed on a massive scale. From this discovery, societies began to traverse the planet.
+This is important because our behavior is affected by our assumptions or our perceived truths. We make decisions based on what we think we know. It wasn’t too long ago that the majority of believed the world was flat. This perceived truth-impacted behavior.
 
-Trade routes were established, spices were traded. New ideas, like mathematics, were shared between societies which unleashed all kinds of innovations and advancements. The correction of a simple false assumption moved the human race forward. Now consider how organizations are formed and how decisions are made.
+During this period, there was very little exploration. People feared that if they traveled too far they might fall off the edge of the earth. So for the most part they stayed put. It wasn’t until that minor detail was revealed, the world is round, that behaviors changed on a massive scale.
 
-Do we really know why some organizations succeed and why others don’t, or do we just assume? No matter your definition of success, hitting a target stock price, making a certain amount of money, meeting a revenue or profit goal, getting a big promotion, starting your own company, feeding the poor, winning public office, how we go about achieving our goals is very similar. Some of us just wing it, but most of us try to at least gather some data so we can make educated decisions.
+From this discovery, societies began to traverse the planet. Trade routes were established, spices were traded. New ideas, like mathematics, were shared between societies which unleashed all kinds of innovations and advancements. The correction of a simple false assumption moved the human race forward.
+
+Now consider how organizations are formed and how decisions are made. Do we really know why some organizations succeed and why others don’t, or do we just assume? No matter your definition of success, hitting a target stock price, making a certain amount of money, meeting a revenue or profit goal, getting a big promotion, starting your own company, feeding the poor, winning public office, how we go about achieving our goals is very similar. Some of us just wing it, but most of us try to at least gather some data so we can make educated decisions.
 
 Sometimes this gathering process is formal, like conducting polls or market research. And sometimes it’s informal, like asking our friends and colleagues for advice or looking back on our own personal experience to provide some perspective. Regardless of the process or the goals, we all want to make educated decisions. More importantly, we all want to make the right decisions.
 
-As we all know, however, not all decisions work out to be the right ones, regardless of the amount of data we collect. Sometimes the impact of those wrong decisions is minor, and sometimes it can be catastrophic. Whatever the result, we make decisions based on a perception of the world that may not, in fact, be completely accurate. Just as so many were certain that I was describing John F.
+As we all know, however, not all decisions work out to be the right ones, regardless of the amount of data we collect. Sometimes the impact of those wrong decisions is minor, and sometimes it can be catastrophic. Whatever the result, we make decisions based on a perception of the world that may not, in fact, be completely accurate. Just as so many were certain that.
 
-Kennedy at the beginning of this section. You were certain you were right. You might even have bet money on it, a behavior based on an assumption. Certain, that is, until I offered that little detail of the date.
+I was describing John F. Kennedy at the beginning of this section. You were certain you were right. You might even have bet money on it, a behavior based on an assumption.
 
-Not only bad decisions are made on false assumptions. Sometimes when things go right, we think we know why, but do we really? That the result went the way you want it does not mean you can repeat it over and over. I have a friend who invests some of his own money.
+Certain, that is, until. I offered that little detail of the date. Not only bad decisions are made on false assumptions. Sometimes when things go right, we think we know why, but do we really?
 
-Whether he does well, it’s because of his brains and ability to pick the right stocks, at least according to him. But when he loses money, he always blames the market. I have no issue with either line of logic, but either his success and failure hinge upon his own prescience and blindness or they hinge upon good and bad luck. But it can’t be both.
+That the result went the way you want it does not mean you can repeat it over and over. I have a friend who invests some of his own money. Whether he does well, it’s because of his brains and ability to pick the right stocks, at least according to him. But when he loses money, he always blames the market.
 
-So how can we ensure that all our decisions will yield the best results for reasons that are fully within our control? Logic dictates that more information and data are key. And that’s exactly what we do. We read books, attend conferences, listen to podcasts and ask friends and colleagues, all with the purpose of finding out more so we can figure out what to do or how to act.
+I have no issue with either line of logic, but either his success and failure hinge upon his own prescience and blindness or they hinge upon good and bad luck. But it can’t be both. So how can we ensure that all our decisions will yield the best results for reasons that are fully within our control? Logic dictates that more information and data are key.
+
+And that’s exactly what we do. We read books, attend conferences, listen to podcasts and ask friends and colleagues, all with the purpose of finding out more so we can figure out what to do or how to act.
 
 
 <a id="sec-000501"></a>
 ### ⏱️ [00:05:01 - 00:10:02]
 
-The problem is, we’ve all been in situations in which we have all the data and get lots of good advice but things still don’t go quite right. Or maybe the impact lasted for only a short time, or something happened that we could not foresee. A quick note to all of you who correctly guessed Adolf Hitler at the beginning of the section, the details I gave are the same for both Hitler and John F. Kennedy, it could have been either.
+The problem is, we’ve all been in situations in which we have all the data and get lots of good advice but things still don’t go quite right. Or maybe the impact lasted for only a short time, or something happened that we could not foresee. A quick note to all of you who correctly guessed Adolf Hitler at the beginning of the section, the details. I gave are the same for both Hitler and John F.
 
-You have to be careful what you think you know. Assumptions, you see, even when based on sound research, can lead us astray. Intuitively we understand this. We understand that even with mountains of data and good advice, if things don’t go as expected, it’s probably because we missed one, sometimes small but vital detail.
+Kennedy, it could have been either. You have to be careful what you think you know. Assumptions, you see, even when based on sound research, can lead us astray. Intuitively we understand this.
 
-In these cases, we go back to all our sources, maybe seek out some new ones, and try to figure out what to do, and the whole process begins again. More data, however, doesn’t always help, especially if a flawed assumption set the whole process in motion in the first place. There are other factors that must be considered, factors that exist outside of our rational, analytical, information-hungry brains. There are times in which we had no data or we chose to ignore the advice or information at hand and just went with our gut and things worked out just fine, sometimes even better than expected.
+We understand that even with mountains of data and good advice, if things don’t go as expected, it’s probably because we missed one, sometimes small but vital detail. In these cases, we go back to all our sources, maybe seek out some new ones, and try to figure out what to do, and the whole process begins again. More data, however, doesn’t always help, especially if a flawed assumption set the whole process in motion in the first place. There are other factors that must be considered, factors that exist outside of our rational, analytical, information-hungry brains.
 
-This dance between gut and rational decision making pretty much covers how we conduct business and even live our lives. We can continue to slice and dice all the options in every direction, but at the end of all the good advice and all the compelling evidence, we left where we started, how to explain or decide a course of action that yields a desired effect that is repeatable. How can we have 20-24 sight? There is a wonderful story of a group of American car executives who went to Japan to see a Japanese assembly line.
+There are times in which we had no data or we chose to ignore the advice or information at hand and just went with our gut and things worked out just fine, sometimes even better than expected. This dance between gut and rational decision making pretty much covers how we conduct business and even live our lives. We can continue to slice and dice all the options in every direction, but at the end of all the good advice and all the compelling evidence, we left where we started, how to explain or decide a course of action that yields a desired effect that is repeatable.
 
-At the end of the line, the doors were put on the hinges, the same as in America. But something was missing. In the United States, a line worker would take a rubber mallet and tap the edges of the door to ensure that it fit perfectly. In Japan, that job didn’t seem to exist.
+How can we have 20-24 sight? There is a wonderful story of a group of American car executives who went to Japan to see a Japanese assembly line. At the end of the line, the doors were put on the hinges, the same as in America. But something was missing.
 
-Confused, the American auto executives asked at what point they made sure the door fit perfectly. Their Japanese guide looked at them and smiled sheepishly. We make sure it fits when we design it. In the Japanese auto plant, they didn’t examine the problem and accumulate data to figure out the best solution, they engineered the outcome they wanted from the beginning.
+In the United States, a line worker would take a rubber mallet and tap the edges of the door to ensure that it fit perfectly. In Japan, that job didn’t seem to exist. Confused, the American auto executives asked at what point they made sure the door fit perfectly. Their Japanese guide looked at them and smiled sheepishly.
 
-If they didn’t achieve their desired outcome, they understood it was because of a decision they made at the start of the process. At the end of the day, the doors on the American made and Japanese made cars appeared to fit when each rolled off the assembly line. Except the Japanese didn’t need to employ someone to hammer doors, nor did they need to buy any mallets. More importantly, the Japanese doors are likely to last longer and maybe even be more structurally sound in an accident.
+We make sure it fits when we design it. In the Japanese auto plant, they didn’t examine the problem and accumulate data to figure out the best solution, they engineered the outcome they wanted from the beginning. If they didn’t achieve their desired outcome, they understood it was because of a decision they made at the start of the process. At the end of the day, the doors on the American made and Japanese made cars appeared to fit when each rolled off the assembly line.
 
-All this for no other reason than they ensured the pieces fit from the start. What the American automakers did with their rubber mallets is a metaphor for how so many people and organizations lead. When faced with a result that doesn’t go according to plan, a series of perfectly effective short term tactics are used until the desired outcome is achieved. But how structurally sound are those solutions?
+Except the Japanese didn’t need to employ someone to hammer doors, nor did they need to buy any mallets. More importantly, the Japanese doors are likely to last longer and maybe even be more structurally sound in an accident. All this for no other reason than they ensured the pieces fit from the start. What the American automakers did with their rubber mallets is a metaphor for how so many people and organizations lead.
 
-So many organizations function in a world of tangible goals and the mallets to achieve them. The ones that achieve more, the ones that get more out of fewer people and fewer resources, the ones with an outsized amount of influence, however, build products and companies and even recruit people that all fit based on the original intention. Even though the outcome may look the same, great leaders understand the value in the things we cannot see. Every instruction we give, every course of action we set, every result we desire, starts with the same thing, a decision.
+When faced with a result that doesn’t go according to plan, a series of perfectly effective short term tactics are used until the desired outcome is achieved. But how structurally sound are those solutions? So many organizations function in a world of tangible goals and the mallets to achieve them. The ones that achieve more, the ones that get more out of fewer people and fewer resources, the ones with an outsized amount of influence, however, build products and companies and even recruit people that all fit based on the original intention.
 
-There are those who decide to manipulate the door to fit to achieve the desired result and there are those who start from somewhere very different. Though both courses of action may yield similar short term results, it is what we can’t see that makes long term success more predictable for only one. The one that understood why the doors need to fit by design and not by default. Carrots and sticks, manipulation versus inspiration.
+Even though the outcome may look the same, great leaders understand the value in the things we cannot see. Every instruction we give, every course of action we set, every result we desire, starts with the same thing, a decision. There are those who decide to manipulate the door to fit to achieve the desired result and there are those who start from somewhere very different. Though both courses of action may yield similar short term results, it is what we can’t see that makes long term success more predictable for only one.
 
-There’s barely a product or service on the market today that customers can’t buy from someone else for about the same price, about the same quality, about the same level of service and about the same features. If you truly have a first move as advantage, it’s probably lost in a matter of months.
+The one that understood why the doors need to fit by design and not by default. Carrots and sticks, manipulation versus inspiration. There’s barely a product or service on the market today that customers can’t buy from someone else for about the same price, about the same quality, about the same level of service and about the same features. If you truly have a first move as advantage, it’s probably lost in a matter of months.
 
 
 <a id="sec-001002"></a>
@@ -164,7 +168,7 @@ If you offer something truly novel, someone else will soon come up with somethin
 
 In other words, most companies have no clue why their customers are their customers. This is a fascinating realization. If companies don’t know why their customers are their customers, odds are good that they don’t know why their employees are their employees either. If most companies don’t really know why their customers are their customers or why their employees are their employees, then how do they know how to attract more employees and encourage loyalty among those they already have?
 
-The reality is, most businesses today are making decisions based on a set of incomplete or, worse, completely flawed assumptions about what’s driving their business. There are only two ways to influence human behavior, you can manipulate it or you can inspire it. When I mention manipulation, this is not necessarily pejorative, it’s a very common and fairly benign tactic.
+The reality is, most businesses today are making decisions based on a set of incomplete or, worse, completely flawed assumptions about what’s driving their business. There are only two ways to influence human behavior, you can manipulate it or you can inspire it. When. I mention manipulation, this is not necessarily pejorative, it’s a very common and fairly benign tactic.
 
 In fact, many of us have been doing it since we were young. I’ll be your best friend is the highly effective negotiating tactic employed by generations of children to obtain something they want from a peer. And as any child who has ever handed over candy hoping for a new best friend will tell you, it works. From business to politics, manipulations run rampant in all forms of sales and marketing.
 
@@ -194,9 +198,11 @@ Promotions General Motors had a bold goal. To lead the American automotive indus
 
 Chrysler and AMC. Before foreign automakers entered the field, GM dominated. New competition, as one would expect, made that goal harder to maintain. I don’t need to provide any data to explain how much has changed in the auto industry in 50 years.
 
-But General Motors held fast through most of the last century and maintained its prize dominance. Since 1990, however, Toyota’s share of the U. S. market has more than doubled. By 2007, Toyota’s share had climbed to 16.3 percent, from only 7.8 percent. During the same period, GM saw its U. S. market share drops dramatically from 35 percent in 1990 to 23.8 percent in 2007.
+But General Motors held fast through most of the last century and maintained its prize dominance. Since 1990, however, Toyota’s share of the U. S. market has more than doubled. By 2007, Toyota’s share had climbed to 16.3 percent, from only 7.8 percent.
 
-And in early 2008, the unthinkable happened – U. S. consumers bought more foreign-made automobiles than ones made in America. Since the 1990s, faced with this onslaught of competition from Japan, GM, and the other U. S. automakers have scrambled to offer incentives aimed at helping them hold onto their dwindling share. Heavily promoted with advertising, GM, for one, has offered cashback incentives of between $500 and $7,000 to customers who bought their cars and trucks. For a long time the promotions worked brilliantly.
+During the same period, GM saw its U. S. market share drops dramatically from 35 percent in 1990 to 23.8 percent in 2007. And in early 2008, the unthinkable happened – U. S. consumers bought more foreign-made automobiles than ones made in America.
+
+Since the 1990s, faced with this onslaught of competition from Japan, GM, and the other U. S. automakers have scrambled to offer incentives aimed at helping them hold onto their dwindling share. Heavily promoted with advertising, GM, for one, has offered cashback incentives of between $500 and $7,000 to customers who bought their cars and trucks. For a long time the promotions worked brilliantly.
 
 GM’s sales were on the rise again. But in the long term the incentives only helped to dramatically erode GM’s profit margins and put them in a deep hole. In 2007, GM lost $729 per vehicle, in large part due to incentives. Realizing that the model was unsustainable, GM announced it would reduce the amount of the cashback incentives it offered, and with that reduction, sales plummeted.
 
@@ -234,15 +240,15 @@ The idea is that if you don’t buy the product or service, something bad could 
 
 Reads the ad on the side of a truck for some company selling a home pollution inspection service. And, of course, the insurance industry would like to sell you term life insurance before it’s too late. If anyone has ever sold you anything with a warning to fear the consequences if you don’t buy it, they are using a proverbial gun to your head to help you see the value of choosing them over their competitor. Or perhaps it’s just a banana.
 
-But it works. Aspirations quitting smoking is the easiest thing I’ve ever done, said Mark Twain. I’ve done it hundreds of times. If fear motivates us to move away from something horrible, aspirational messages tempt us toward something desirable.
+But it works. Aspirations quitting smoking is the easiest thing. I’ve ever done, said Mark Twain. I’ve done it hundreds of times.
 
-Marketers often talk about the importance of being aspirational, offering someone something they desire to achieve and the ability to get there more easily with a particular product or service. Six steps to a happier life. Work those abs to your dream dress size. In six short weeks you can be rich.
+If fear motivates us to move away from something horrible, aspirational messages tempt us toward something desirable. Marketers often talk about the importance of being aspirational, offering someone something they desire to achieve and the ability to get there more easily with a particular product or service. Six steps to a happier life. Work those abs to your dream dress size.
 
-All these messages manipulate. They tempt us with the things we want to have or to be the person we wish we were. Though positive in nature, aspirational messages are most effective with those who lack discipline or have a nagging fear or insecurity that they don’t have the ability to achieve their dreams on their own, which, at various times for various reasons, is everyone. I always choke that you can get someone to buy a gym membership with an aspirational message, but to get them to go three days a week requires a bit of inspiration.
+In six short weeks you can be rich. All these messages manipulate. They tempt us with the things we want to have or to be the person we wish we were. Though positive in nature, aspirational messages are most effective with those who lack discipline or have a nagging fear or insecurity that they don’t have the ability to achieve their dreams on their own, which, at various times for various reasons, is everyone.
 
-Someone who lives a healthy lifestyle and is in a habit of exercising does not respond to six easy steps to losing weight. It’s those who don’t have the lifestyle that are most susceptible. It’s not news that a lot of people try diet after diet after diet in an attempt to get the body of their dreams. And no matter the regime they choose, each comes with the qualification that regular exercise and a balanced diet will help boost results.
+I always choke that you can get someone to buy a gym membership with an aspirational message, but to get them to go three days a week requires a bit of inspiration. Someone who lives a healthy lifestyle and is in a habit of exercising does not respond to six easy steps to losing weight. It’s those who don’t have the lifestyle that are most susceptible. It’s not news that a lot of people try diet after diet after diet in an attempt to get the body of their dreams.
 
-In other words, discipline. Gym memberships tend to rise about 12% every January, as people try to fulfill their new
+And no matter the regime they choose, each comes with the qualification that regular exercise and a balanced diet will help boost results. In other words, discipline. Gym memberships tend to rise about 12% every January, as people try to fulfill their new
 
 
 <a id="sec-002518"></a>
@@ -250,27 +256,29 @@ In other words, discipline. Gym memberships tend to rise about 12% every January
 
 year’s aspiration to live a healthier life. Yet only a fraction of those aspiring fitness buffs are still attending the gym by the end of the year. Aspirational messages can spur behavior, but for most, it won’t last. Aspirational messages are not only effective in the consumer market, they also work quite well in business-to-business transactions.
 
-Managers of companies, big and small, all want to do well, so they make decisions, hire consultants and implement systems to help them achieve that desired outcome. But all too often, it is not the systems that fail but the ability to maintain them. I can speak from personal experience here. I’ve implemented a lot of systems or practices over the years to help me achieve the success to which I aspire, only to find myself back to my old habits two weeks later.
+Managers of companies, big and small, all want to do well, so they make decisions, hire consultants and implement systems to help them achieve that desired outcome. But all too often, it is not the systems that fail but the ability to maintain them. I can speak from personal experience here. I’ve implemented a lot of systems or practices over the years to help me achieve the success to which.
 
-I aspire for a system that will help me avoid implementing systems to meet all my aspirations. But I probably wouldn’t be able to follow it for very long. This short-term response to long-term desires is alive and well in the corporate world also. A management consultant friend of mine was hired by a billion-dollar company to help it fulfill its goals and aspirations.
+I aspire, only to find myself back to my old habits two weeks later. I aspire for a system that will help me avoid implementing systems to meet all my aspirations. But. I probably wouldn’t be able to follow it for very long.
 
-The problem was, she explained, no matter the issue, the company’s managers were always drawn to the quicker, cheaper option over the better long-term solution. Just like the habitual dieter, they never have the time or money to do it right the first time, she said of her client, but they always have the time and money to do it again. Peer pressure 4 out of 5 dentists prefer Trident, touts the chewing gum advertisement in an attempt to get you to try their product.
+This short-term response to long-term desires is alive and well in the corporate world also. A management consultant friend of mine was hired by a billion-dollar company to help it fulfill its goals and aspirations. The problem was, she explained, no matter the issue, the company’s managers were always drawn to the quicker, cheaper option over the better long-term solution. Just like the habitual dieter, they never have the time or money to do it right the first time, she said of her client, but they always have the time and money to do it again.
 
-A double-blind study conducted at a top university concluded. Push is a late-night infomercial. If the product is good enough for professionals, it’s good enough for you, the advertising exon. With over a million satisfied customers and counting, teases another ad.
+Peer pressure 4 out of 5 dentists prefer Trident, touts the chewing gum advertisement in an attempt to get you to try their product. A double-blind study conducted at a top university concluded. Push is a late-night infomercial. If the product is good enough for professionals, it’s good enough for you, the advertising exon.
 
-These are all forms of peer pressure. When marketers report that a majority of a population or a group of experts prefers their product over another, they are attempting to sway the buyer to believing that whatever they are selling is better. The peer pressure works because we believe that the majority or the experts might know more than we do. Peer pressure works not because the majority or the experts are always right, but because we fear that we may be wrong.
+With over a million satisfied customers and counting, teases another ad. These are all forms of peer pressure. When marketers report that a majority of a population or a group of experts prefers their product over another, they are attempting to sway the buyer to believing that whatever they are selling is better. The peer pressure works because we believe that the majority or the experts might know more than we do.
 
-Celebrity endorsements are sometimes used to add peer pressure to the sales pitch. If he uses it, we’re supposed to think, it must be good. This makes sense when we hear Tiger Woods endorse Nike golf products or Titleist golf balls. Woods’s deal with Nike is actually credited for putting the company on the map in the golf world.
+Peer pressure works not because the majority or the experts are always right, but because we fear that we may be wrong. Celebrity endorsements are sometimes used to add peer pressure to the sales pitch. If he uses it, we’re supposed to think, it must be good. This makes sense when we hear Tiger Woods endorse Nike golf products or Titleist golf balls.
 
-But Tiger has also endorsed General Motors cars, management consulting services, credit cards, food and a Tag Heuer watch designed especially for the golfer. The watch, incidentally, can withstand a 5,000 grams shock, a level of shock more likely experienced by the golf ball than the golfer. But Tiger endorsed it, so it must be good. Celebrity endorsements are also used to appeal to our aspirations and our desires to be like them.
+Woods’s deal with Nike is actually credited for putting the company on the map in the golf world. But Tiger has also endorsed General Motors cars, management consulting services, credit cards, food and a Tag Heuer watch designed especially for the golfer. The watch, incidentally, can withstand a 5,000 grams shock, a level of shock more likely experienced by the golf ball than the golfer. But Tiger endorsed it, so it must be good.
 
-The most explicit example was Gatorade’s I Wanna Be Like Mike campaign, which tempted youngsters to grow up and be just like Michael Jordan if they drink Gatorade. With many other examples of celebrity endorsements, however, it is harder to see the connection. Sam Waterston of Law and Order fame, for example, sells online trading from TD Ameritrade. But for his celebrity, it’s uncertain what an actor famed for convicting homicidal maniacs does for the brand.
+Celebrity endorsements are also used to appeal to our aspirations and our desires to be like them. The most explicit example was Gatorade’s. I Wanna Be Like Mike campaign, which tempted youngsters to grow up and be just like Michael Jordan if they drink Gatorade. With many other examples of celebrity endorsements, however, it is harder to see the connection.
 
-I guess he’s trustworthy. Impressionable youth are not the only ones subject to peer pressure. Most of us have probably had an experience of being pressured by a salesman. Have you ever had a sales rep try to sell you some office solution by telling you that 70% of your competitors are using their service, so why aren’t you?
+Sam Waterston of Law and Order fame, for example, sells online trading from TD Ameritrade. But for his celebrity, it’s uncertain what an actor famed for convicting homicidal maniacs does for the brand. I guess he’s trustworthy. Impressionable youth are not the only ones subject to peer pressure.
 
-But what if 70% of your competitors are idiots? Or what if that 70% were given so much value added or offered such a low price that they couldn’t resist the opportunity? The practice is designed to do one thing and one thing only, to pressure you to buy. To make you feel you might be missing out on something or that everyone else knows but you.
+Most of us have probably had an experience of being pressured by a salesman. Have you ever had a sales rep try to sell you some office solution by telling you that 70% of your competitors are using their service, so why aren’t you? But what if 70% of your competitors are idiots? Or what if that 70% were given so much value added or offered such a low price that they couldn’t resist the opportunity?
 
-Better to go with the majority, right? To quote my mother, if your friends put their head in the oven, would you do that too? Sadly, if Michael Jordan or Tiger Woods was paid to do just that, it might actually start a trend. Novelty, aka innovation, in a major innovation
+The practice is designed to do one thing and one thing only, to pressure you to buy. To make you feel you might be missing out on something or that everyone else knows but you. Better to go with the majority, right? To quote my mother, if your friends put their head in the oven, would you do that too?
+
+Sadly, if Michael Jordan or Tiger Woods was paid to do just that, it might actually start a trend. Novelty, aka innovation, in a major innovation
 
 
 <a id="sec-003019"></a>
@@ -312,23 +320,23 @@ There is something else that Apple did that is vastly more significant. Apple is
 
 Then Apple showed up. They announced that they would tell the service provider what the phone would do, not the other way around. AT&T was the only one that agreed, thus earning the company the exclusive deal to offer the new technology. That’s the kind of shift that will impact the industry for many years and will extend far beyond a few years of stock boost for the shiny new product.
 
-Novel, huh? The price you pay for the money you make I cannot dispute that manipulations work. Every one of them can indeed help influence behavior and every one of them can help a company become quite successful. But there are trade-offs.
+Novel, huh? The price you pay for the money you make. I cannot dispute that manipulations work. Every one of them can indeed help influence behavior and every one of them can help a company become quite successful.
 
-Not a single one of them breeds loyalty. Over the course of time, they cost more and more. The gains are only short-term and they increase the level of stress for both the buyer and the seller. If you have exceptionally deep pockets or are looking to achieve only a short-term gain with no consideration for the long term, then these strategies and tactics are perfect.
+But there are trade-offs. Not a single one of them breeds loyalty. Over the course of time, they cost more and more. The gains are only short-term and they increase the level of stress for both the buyer and the seller.
 
-Beyond the business world, manipulations are the norm in politics today as well. Just as manipulations can drive a sale but not create loyalty, so too can they help a candidate get elected, but they don’t create a foundation for leadership. Leadership requires people to stick with you through thick and thin. Leadership is the ability to rally people not for a single event, but for years.
+If you have exceptionally deep pockets or are looking to achieve only a short-term gain with no consideration for the long term, then these strategies and tactics are perfect. Beyond the business world, manipulations are the norm in politics today as well. Just as manipulations can drive a sale but not create loyalty, so too can they help a candidate get elected, but they don’t create a foundation for leadership. Leadership requires people to stick with you through thick and thin.
 
-In business, leadership means that customers will continue to support your company even when you slip up. If manipulation is the only strategy, what happens the next time a purchase decision is required? What happens after the election is won. There is a big difference between repeat business and loyalty.
+Leadership is the ability to rally people not for a single event, but for years. In business, leadership means that customers will continue to support your company even when you slip up. If manipulation is the only strategy, what happens the next time a purchase decision is required? What happens after the election is won.
 
-Repeat business is when people do business with you multiple times. Loyalty is when people are willing to turn down a better product or a better price to continue doing business with you. Loyal customers often don’t even bother to research the competition or entertain other options. Loyalty is not easily won.
+There is a big difference between repeat business and loyalty. Repeat business is when people do business with you multiple times. Loyalty is when people are willing to turn down a better product or a better price to continue doing business with you. Loyal customers often don’t even bother to research the competition or entertain other options.
 
-Repeat business, however, is. All it takes is more manipulations. Manipulative techniques have become such a mainstay in American business today that it has become virtually impossible for some to kick the habit. Like any addiction, the drive is not to get sober, but to find the next fix faster and more frequently.
+Loyalty is not easily won. Repeat business, however, is. All it takes is more manipulations. Manipulative techniques have become such a mainstay in American business today that it has become virtually impossible for some to kick the habit.
 
-And as good as the short-term highs may feel, they have a deleterious impact on the long-term health of an organization. Addicted to the short-term results, business today has largely become a series of quick fixes added on one after another after another. The short-term tactics have become so sophisticated that an entire economy has developed to service the manipulations, equipped with statistics and quasi-science. Direct marketing companies, for example, offer calculations about which words will get the best results on each piece of direct mail they send out.
+Like any addiction, the drive is not to get sober, but to find the next fix faster and more frequently. And as good as the short-term highs may feel, they have a deleterious impact on the long-term health of an organization. Addicted to the short-term results, business today has largely become a series of quick fixes added on one after another after another. The short-term tactics have become so sophisticated that an entire economy has developed to service the manipulations, equipped with statistics and quasi-science.
 
-Those that offer mail-in rebates know the incentive works and they know that the higher the rebate, the more effective it is. They also know the cost that goes along with those rebates. To make them profitable, manufacturers rely on the breakage and slippage numbers staying above a certain threshold. Just like our trusted drug addict, whose behavior is reinforced by how good the short-term high feels, the temptation to make the qualifications of the rebate more obscure or cumbersome so as to reduce the number of qualified applicants can be overwhelming for some.
+Direct marketing companies, for example, offer calculations about which words will get the best results on each piece of direct mail they send out. Those that offer mail-in rebates know the incentive works and they know that the higher the rebate, the more effective it is. They also know the cost that goes along with those rebates. To make them profitable, manufacturers rely on the breakage and slippage numbers staying above a certain threshold.
 
-Samsung, the electronics giant, mastered the art of the kind of fine print that makes rebates so
+Just like our trusted drug addict, whose behavior is reinforced by how good the short-term high feels, the temptation to make the qualifications of the rebate more obscure or cumbersome so as to reduce the number of qualified applicants can be overwhelming for some. Samsung, the electronics giant, mastered the art of the kind of fine print that makes rebates so
 
 
 <a id="sec-004022"></a>
@@ -364,17 +372,19 @@ change in market conditions made them too expensive. When the oil crisis of 2008
 
 Though oil customers are less tempted by other offers and incentives, in good times the free flow of business makes it hard to recognize their value. It’s in the tough times that loyal customers matter most. Manipulations work, but they cost money. Lots of money.
 
-When the money is not as available to fund those tactics, not having a loyal following really hurts. After September 11, there were customers who sent checks to Southwest Airlines to show their support. One note that a company to check for $1,000 read, you’ve been so good to me over the years, in these hard times I wanted to say thank you by helping you out. The checks that Southwest Airlines received were certainly not enough to make any significant impact on the company’s bottom line, but they were symbolic of the feeling customers had for the brand.
+When the money is not as available to fund those tactics, not having a loyal following really hurts. After September 11, there were customers who sent checks to Southwest Airlines to show their support. One note that a company to check for $1,000 read, you’ve been so good to me over the years, in these hard times. I wanted to say thank you by helping you out.
 
-They had a sense of partnership. The loyal behavior of those who didn’t send money is almost impossible to measure, but its impact has been invaluable over the long term, helping Southwest to maintain its position as the most profitable airline in history. Knowing you have a loyal customer and employee base not only reduces costs, it provides massive peace of mind. Like loyal friends, you know your customers and employees will be there for you when you need them most.
+The checks that Southwest Airlines received were certainly not enough to make any significant impact on the company’s bottom line, but they were symbolic of the feeling customers had for the brand. They had a sense of partnership. The loyal behavior of those who didn’t send money is almost impossible to measure, but its impact has been invaluable over the long term, helping Southwest to maintain its position as the most profitable airline in history. Knowing you have a loyal customer and employee base not only reduces costs, it provides massive peace of mind.
 
-It is the feeling of we’re in this together, shared between customer and company, voter and candidate, boss and employee, that defines great leaders. In contrast, relying on manipulations creates massive stress for buyer and seller alike. For the buyer, it has become increasingly difficult to know which product, service, brand or company is best. I joke about the proliferation of toothpaste varieties and the difficulty of choosing the right one.
+Like loyal friends, you know your customers and employees will be there for you when you need them most. It is the feeling of we’re in this together, shared between customer and company, voter and candidate, boss and employee, that defines great leaders.
 
-But toothpaste is just a metaphor. Nearly every decision we’re asked to make every single day is like choosing toothpaste. Deciding what law firm to hire, college to attend, car to buy, company to work for, candidate to elect, there are just too many choices. All the advertising, promotions and pressure employed to tempt us one way or another, each attempting to push harder than the other to court us for our money or our support, ultimately yields one consistent result, stress.
+In contrast, relying on manipulations creates massive stress for buyer and seller alike. For the buyer, it has become increasingly difficult to know which product, service, brand or company is best. I joke about the proliferation of toothpaste varieties and the difficulty of choosing the right one. But toothpaste is just a metaphor.
 
-For the companies too, whose obligation it is to help us decide, their ability to do so has gotten more and more difficult. Every day, the competition is doing something new, something better. To constantly have to come up with a new promotion, a new guerrilla marketing tactic, a new feature to add, is hard work. Combined with the long-term effects of years of short-term decisions that have eroded profit margins, this raises stress levels inside organizations as well.
+Nearly every decision we’re asked to make every single day is like choosing toothpaste. Deciding what law firm to hire, college to attend, car to buy, company to work for, candidate to elect, there are just too many choices. All the advertising, promotions and pressure employed to tempt us one way or another, each attempting to push harder than the other to court us for our money or our support, ultimately yields one consistent result, stress. For the companies too, whose obligation it is to help us decide, their ability to do so has gotten more and more difficult.
 
-When manipulations are the norm, no one wins. It’s not an accident that doing business today, and being in the workforce today, is more stressful than it used to be. Peter Weibrow, in his book American Mania, When More is Not Enough, argues that many of the ills that we suffer from today have very little to do with the bad food we’re eating or the partially hydrogenated oils in our diet. Rather, Weibrow says, it’s the way that corporate America has developed that has increased our stress to levels so high we’re literally making ourselves sick because of it.
+Every day, the competition is doing something new, something better. To constantly have to come up with a new promotion, a new guerrilla marketing tactic, a new feature to add, is hard work. Combined with the long-term effects of years of short-term decisions that have eroded profit margins, this raises stress levels inside organizations as well. When manipulations are the norm, no one wins.
+
+It’s not an accident that doing business today, and being in the workforce today, is more stressful than it used to be. Peter Weibrow, in his book American Mania, When More is Not Enough, argues that many of the ills that we suffer from today have very little to do with the bad food we’re eating or the partially hydrogenated oils in our diet. Rather, Weibrow says, it’s the way that corporate America has developed that has increased our stress to levels so high we’re literally making ourselves sick because of it.
 
 Americans are suffering ulcers, depression, high blood pressure, anxiety, and cancer at record levels. According to Weibrow, all those promises of more, more, more are actually overloading the reward circuits of our brain. The short-term gains that drive business in America today are actually destroying our health. Just because it works doesn’t make it right the danger of manipulations is that they work.
 
@@ -394,19 +404,21 @@ Bankers weren’t the first to be swept up by their own success. American car ma
 
 But there is an alternative.
 
-#### Part 2 An Alternative Perspective The golden circle there are a few leaders who choose to inspire other than manipulate in order to motivate people. Whether individuals or organizations, every single one of these inspiring leaders thinks, acts and communicates exactly the same way. And it’s the complete opposite of the rest of us. Consciously or not, how they do it is by following a naturally occurring pattern that I call the golden circle.
+#### Part 2 An Alternative Perspective The golden circle there are a few leaders who choose to inspire other than manipulate in order to motivate people. Whether individuals or organizations, every single one of these inspiring leaders thinks, acts and communicates exactly the same way. And it’s the complete opposite of the rest of us. Consciously or not, how they do it is by following a naturally occurring pattern that.
 
-The concept of the golden circle was inspired by the golden ratio, a simple mathematical relationship that has fascinated mathematicians, biologists, architects, artists, musicians and naturists since the beginning of history. From the Egyptians to Pythagoras to Leonardo da Vinci, many have looked to the golden ratio to provide a mathematical formula for proportion and even beauty. It also supports the notion that there is more order in nature than we think, as in the symmetry of leaves and the geometric perfection of snowflakes. What I found so attractive about the golden ratio, however, was that it had so many applications in so many fields.
+I call the golden circle. The concept of the golden circle was inspired by the golden ratio, a simple mathematical relationship that has fascinated mathematicians, biologists, architects, artists, musicians and naturists since the beginning of history. From the Egyptians to Pythagoras to Leonardo da Vinci, many have looked to the golden ratio to provide a mathematical formula for proportion and even beauty. It also supports the notion that there is more order in nature than we think, as in the symmetry of leaves and the geometric perfection of snowflakes.
 
-And even more significantly, it offered a formula that could produce repeatable and predictable results in places where such results might have been assumed to be a random occurrence or luck. Even mother nature, for most people a symbol of unpredictability, exhibited more order than we previously acknowledged. Like the golden ratio, which offers evidence of order in the seeming disorder of nature, the golden circle finds order and predictability in a human behavior. Put simply, it helps us understand why we do what we do.
+What. I found so attractive about the golden ratio, however, was that it had so many applications in so many fields. And even more significantly, it offered a formula that could produce repeatable and predictable results in places where such results might have been assumed to be a random occurrence or luck. Even mother nature, for most people a symbol of unpredictability, exhibited more order than we previously acknowledged.
 
-The golden circle provides compelling evidence of how much more we can achieve if we remind ourselves to start everything we do by first asking why. The golden circle is an alternative perspective to existing assumptions about why some leaders and organizations have achieved such a disproportionate degree of influence. It offers clear insight as to how Apple is able to innovate in so many diverse industries and never lose its ability to do so. It explains why people tattoo Harley-Davidson logos on their bodies.
+Like the golden ratio, which offers evidence of order in the seeming disorder of nature, the golden circle finds order and predictability in a human behavior. Put simply, it helps us understand why we do what we do. The golden circle provides compelling evidence of how much more we can achieve if we remind ourselves to start everything we do by first asking why. The golden circle is an alternative perspective to existing assumptions about why some leaders and organizations have achieved such a disproportionate degree of influence.
 
-It provides a clearer understanding not just of how Southwest Airlines created the most profitable airline in history, but why the things it did worked. It even gives some clarity as to why people follow Dr. Martin Luther King Jr. in a movement that changed a nation and why we took up John F. Kennedy’s challenge to put a man on the moon even after he died. The golden circle shows how these leaders were able to inspire action instead of manipulating people to act.
+It offers clear insight as to how Apple is able to innovate in so many diverse industries and never lose its ability to do so. It explains why people tattoo Harley-Davidson logos on their bodies. It provides a clearer understanding not just of how Southwest Airlines created the most profitable airline in history, but why the things it did worked. It even gives some clarity as to why people follow Dr.
 
-This alternative perspective is not just useful for changing the world, there are practical applications for the ability to inspire, too. It can be used as a guide to vastly improving leadership, corporate culture, hiring, product development, sales, and marketing. It even explains loyalty and how to create enough momentum to turn an idea into a social movement. And it all starts from the inside out.
+Martin Luther King Jr. in a movement that changed a nation and why we took up John F. Kennedy’s challenge to put a man on the moon even after he died. The golden circle shows how these leaders were able to inspire action instead of manipulating people to act. This alternative perspective is not just useful for changing the world, there are practical applications for the ability to inspire, too.
 
-It all starts with why. Before we can explore its applications, let me first define the terms, starting from the outside of the circle and moving inward. What, every single company and organization on the planet knows what they do.
+It can be used as a guide to vastly improving leadership, corporate culture, hiring, product development, sales, and marketing. It even explains loyalty and how to create enough momentum to turn an idea into a social movement. And it all starts from the inside out. It all starts with why.
+
+Before we can explore its applications, let me first define the terms, starting from the outside of the circle and moving inward. What, every single company and organization on the planet knows what they do.
 
 
 <a id="sec-005526"></a>
@@ -416,29 +428,31 @@ This is true no matter how big or small, no matter what industry. Everyone is ea
 
 Whether you call them a differentiating value proposition, proprietary process or unique selling proposition, how’s are often given to explain how something is different or better. Not as obvious as what’s, many think these are the differentiating or motivating factors in a decision. It would be false to assume that’s all that is required. There is one missing detail, why, very few people or companies can clearly articulate why they do what they do.
 
-When I say why, I don’t mean to make money, that’s a result. By why I mean what is your purpose, cause or belief? Why does your company exist? Why do you get out of bed every morning?
+When. I say why, I don’t mean to make money, that’s a result. By why. I mean what is your purpose, cause or belief?
 
-And why should anyone care? When most organizations or people think, act or communicate they do so from the outside in, from what to why. And for good reason, they go from clearest thing to the fuzziest thing. We say what we do, we sometimes say how we do it, but we rarely say why we do what we do.
+Why does your company exist? Why do you get out of bed every morning? And why should anyone care? When most organizations or people think, act or communicate they do so from the outside in, from what to why.
 
-But not the inspired companies. Not the inspired leaders. Every single one of them, regardless of their size or their industry, thinks, acts and communicates from the inside out. I use Apple Incorporated, frequently as an example simply because they have broad recognition and their products are easy to grasp and compare to others.
+And for good reason, they go from clearest thing to the fuzziest thing. We say what we do, we sometimes say how we do it, but we rarely say why we do what we do. But not the inspired companies. Not the inspired leaders.
 
-What’s more, Apple’s success over time is not typical. Their ability to remain one of the most innovative companies year after year, combined with their uncanny ability to attract a cult like following, makes them a great example to demonstrate many of the principles of the golden circle. I’ll start with a simple marketing example. If Apple were like most other companies, a marketing message from them would move from the outside in of the golden circle.
+Every single one of them, regardless of their size or their industry, thinks, acts and communicates from the inside out. I use Apple Incorporated, frequently as an example simply because they have broad recognition and their products are easy to grasp and compare to others. What’s more, Apple’s success over time is not typical. Their ability to remain one of the most innovative companies year after year, combined with their uncanny ability to attract a cult like following, makes them a great example to demonstrate many of the principles of the golden circle.
 
-It would start with some statement of what the company does or makes, followed by how they think they are different or better than the competition, followed by some call to action. With that, the company would expect some behavior in return, in this case a purchase. A marketing message from Apple, if they were like everyone else, might sound like this, we make great computers. They’re beautifully designed, simple to use and user friendly.
+I’ll start with a simple marketing example. If Apple were like most other companies, a marketing message from them would move from the outside in of the golden circle. It would start with some statement of what the company does or makes, followed by how they think they are different or better than the competition, followed by some call to action. With that, the company would expect some behavior in return, in this case a purchase.
 
-Wanna buy one? It’s not a very compelling sales pitch, but that’s how most companies sell to us. This is the norm. First they start with what they do, here’s a new car.
+A marketing message from Apple, if they were like everyone else, might sound like this, we make great computers. They’re beautifully designed, simple to use and user friendly. Wanna buy one? It’s not a very compelling sales pitch, but that’s how most companies sell to us.
 
-Then they tell us how they do it or how they are better, it’s got leather seats, great gas mileage, and great financing. And then they make a call to action and expect a behavior. You see this pattern in business to consumer markets as well as business to business environments, as our law firm. Our lawyers went to the best schools and we represent the biggest clients.
+This is the norm. First, they start with what they do, here’s a new car. Then they tell us how they do it or how they are better, it’s got leather seats, great gas mileage, and great financing. And then they make a call to action and expect a behavior.
 
-Hire us. This pattern is also alive and well in politics, here’s the candidate, here are her views on taxes and immigration. See how’s she’s different? Vote for her.
+You see this pattern in business to consumer markets as well as business to business environments, as our law firm. Our lawyers went to the best schools and we represent the biggest clients. Hire us. This pattern is also alive and well in politics, here’s the candidate, here are her views on taxes and immigration.
 
-In every case, the communication is organized in an attempt to convince someone of a difference or superior value. But that is not what the inspiring leaders and organizations do. Every one of them, regardless of size or industry, thinks, acts and communicates from the inside out. Let’s look at the TAPL example again and rewrite the example in the order APL actually communicates.
+See how’s she’s different? Vote for her. In every case, the communication is organized in an attempt to convince someone of a difference or superior value. But that is not what the inspiring leaders and organizations do.
 
-This time, the example starts with why. Everything we do, we believe in challenging the status quo. We believe in thinking differently. The way we challenge the status quo is by making our products beautifully designed, simple to use and user friendly.
+Every one of them, regardless of size or industry, thinks, acts and communicates from the inside out. Let’s look at the TAPL example again and rewrite the example in the order APL actually communicates. This time, the example starts with why. Everything we do, we believe in challenging the status quo.
 
-And we happen to make great computers. One by one, it’s a completely different message. It actually feels different from the first one. We’re much more eager to buy a computer from Apple after reading the second version, and all I did was reverse. the order of the information.
+We believe in thinking differently. The way we challenge the status quo is by making our products beautifully designed, simple to use and user friendly. And we happen to make great computers. One by one, it’s a completely different message.
 
-There’s no trickery, no manipulation, no free stuff, no aspirational messages, no celebrities. Apple doesn’t simply reverse the order of information, their message starts with why, a purpose, cause or belief that has nothing to do with what they do. What they do, the products they make, from computers to small electronics, no longer serves as the reason to buy, they serve as
+It actually feels different from the first one. We’re much more eager to buy a computer from Apple after reading the second version, and all. I did was reverse. the order of the information. There’s no trickery, no manipulation, no free stuff, no aspirational messages, no celebrities.
+
+Apple doesn’t simply reverse the order of information, their message starts with why, a purpose, cause or belief that has nothing to do with what they do. What they do, the products they make, from computers to small electronics, no longer serves as the reason to buy, they serve as
 
 
 <a id="sec-010028"></a>
@@ -450,25 +464,27 @@ Simply copying what Apple does or how it does it won’t work. There is somethin
 
 Apple’s ability to design such innovative products so consistently and their ability to command such astounding loyalty for their products comes from more than simply what they do. The problem is, organizations use the tangible features and benefits to build a rational argument for why their company, product or idea is better than another. Sometimes those comparisons are made outright and sometimes analogies or metaphors are drawn, but the effect is the same. Companies try to sell us what they do, but we buy why they do it.
 
-This is what I mean when one say they communicate from the outside in, they lead with what and how. When communicating from the inside out, however, the whys offered as the reason to buy and the whats serve as the tangible proof of that belief. The things we can point to rationalize or explain the reasons we are drawn to one product, your idea over another. What companies do are external factors, but why they do it is something deeper.
+This is what. I mean when one say they communicate from the outside in, they lead with what and how. When communicating from the inside out, however, the whys offered as the reason to buy and the whats serve as the tangible proof of that belief. The things we can point to rationalize or explain the reasons we are drawn to one product, your idea over another.
 
-In practical terms, there is nothing special about Apple. It is just a company like any other. There is no real difference between Apple and any of its competitors, Dell, HP, Gateway, Toshiba. Pick one, it doesn’t matter.
+What companies do are external factors, but why they do it is something deeper. In practical terms, there is nothing special about Apple. It is just a company like any other. There is no real difference between Apple and any of its competitors, Dell, HP, Gateway, Toshiba.
 
-They are all corporate structures. That’s all a company is. It’s a structure. They all make computers.
+Pick one, it doesn’t matter. They are all corporate structures. That’s all a company is. It’s a structure.
 
-They all have some systems that work and some that don’t. They all have equal access to the same talent, the same resources, the same agencies, the same consultants and the same media. They all have some good managers, some good designers and smart engineers. They all make some products that work well and some that don’t.
+They all make computers. They all have some systems that work and some that don’t. They all have equal access to the same talent, the same resources, the same agencies, the same consultants and the same media. They all have some good managers, some good designers and smart engineers.
 
-Why, then, does Apple have such a disproportionate level of success? Why are they more innovative? Why are they consistently more profitable? And how did they manage to build such a cultish loyal following, something very few companies are ever able to achieve?
+They all make some products that work well and some that don’t. Why, then, does Apple have such a disproportionate level of success? Why are they more innovative? Why are they consistently more profitable?
 
-People don’t buy what you do, they buy why you do it. This is the reason Apple has earned a remarkable level of flexibility. People are obviously comfortable buying a computer from Apple. But people are also perfectly comfortable buying an MP3 player from them, or a cell phone or a DVR.
+And how did they manage to build such a cultish loyal following, something very few companies are ever able to achieve? People don’t buy what you do, they buy why you do it. This is the reason Apple has earned a remarkable level of flexibility. People are obviously comfortable buying a computer from Apple.
 
-Consumers and investors are completely at ease with Apple offering so many different products in so many different categories. It’s not what Apple does that distinguishes them. It is why they do it. Their products give life to their cause.
+But people are also perfectly comfortable buying an MP3 player from them, or a cell phone or a DVR. Consumers and investors are completely at ease with Apple offering so many different products in so many different categories. It’s not what Apple does that distinguishes them. It is why they do it.
 
-I’m not so foolhardy as to propose that their products don’t matter, of course they do. But it’s the reason they matter that is contrary to the conventional wisdom. Their products, unto themselves, are not the reason Apple is perceived as superior, their products, what Apple makes, serve as the tangible proof of what they believe. It is that clear correlation between what they do and why they do it that makes Apple stand out.
+Their products give life to their cause. I’m not so foolhardy as to propose that their products don’t matter, of course they do. But it’s the reason they matter that is contrary to the conventional wisdom. Their products, unto themselves, are not the reason Apple is perceived as superior, their products, what Apple makes, serve as the tangible proof of what they believe.
 
-This is the reason we perceive Apple as being authentic. Everything they do works to demonstrate their why, to challenge the status quo. Regardless of the products they make or industry in which they operate, it is always clear that Apple thinks different. When Apple first came out with the Macintosh, having an operating system based on a graphical user interface and not a complicated computer language challenged how computers worked at the time.
+It is that clear correlation between what they do and why they do it that makes Apple stand out. This is the reason we perceive Apple as being authentic. Everything they do works to demonstrate their why, to challenge the status quo. Regardless of the products they make or industry in which they operate, it is always clear that Apple thinks different.
 
-What’s more, where most technology companies saw their biggest marketing opportunity among businesses, Apple wanted to give an individual sitting at home the same power as any company. Apple’s why, to challenge the status quo and to empower the individual, is a pattern in that it repeats in all they say and do. It comes to life in their iPod and even more so in iTunes, a service that challenged the status quo of the music industry’s distribution model and was better suited to how individuals
+When Apple first came out with the Macintosh, having an operating system based on a graphical user interface and not a complicated computer language challenged how computers worked at the time. What’s more, where most technology companies saw their biggest marketing opportunity among businesses, Apple wanted to give an individual sitting at home the same power as any company. Apple’s why, to challenge the status quo and to empower the individual, is a pattern in that it repeats in all they say and do.
+
+It comes to life in their iPod and even more so in iTunes, a service that challenged the status quo of the music industry’s distribution model and was better suited to how individuals
 
 
 <a id="sec-010531"></a>
@@ -490,11 +506,11 @@ How many of us can say with certainty that, indeed, an iPod is actually better t
 
 People don’t buy what you do, they buy why you do it. And it is Apple’s clarity of why that gives them such a remarkable ability to innovate, often competing against companies seemingly more qualified than they, and succeed in industries outside their core business. The same cannot be said for companies with a foos 2y sense of why. When an organization defines itself by what it does, that’s all it will ever be able to do.
 
-Apple’s competitors, having defined themselves by their products or services, regardless of their differentiating value proposition, are not afforded the same freedom. Gateway, for example, started selling flat-screen TVs in 2003. Having made flat-screen monitors for years, they were every bit as qualified to make and sell TVs. But the company failed to make a credible name for itself among consumer electronics brands and gave up the business two years later to focus on its core business. Dell came out with Pters in 2002 and MP3 players in 2003, but lasted only a few years in each market.
+Apple’s competitors, having defined themselves by their products or services, regardless of their differentiating value proposition, are not afforded the same freedom. Gateway, for example, started selling flat-screen TVs in 2003. Having made flat-screen monitors for years, they were every bit as qualified to make and sell TVs. But the company failed to make a credible name for itself among consumer electronics brands and gave up the business two years later to focus on its core business.
 
-Dell makes good quality products and is fully qualified to produce these other technologies. The problem was they had defined themselves by what they did, they made computers, and it simply didn’t make sense to us to buy a PDA or MP3 player from them. It didn’t feel right. How many people do you think would stand online for six hours to buy a new cell phone from Dell, as they did for the release of Apple’s iPhone?
+Dell came out with Pters in 2002 and MP3 players in 2003, but lasted only a few years in each market. Dell makes good quality products and is fully qualified to produce these other technologies. The problem was they had defined themselves by what they did, they made computers, and it simply didn’t make sense to us to buy a PDA or MP3 player from them. It didn’t feel right.
 
-People couldn’t see Dell as anything more than a computer company. It just didn’t make sense. Poor sales quickly ended Dell’s desire to enter the small electronic goods market, instead they opted to focus on their core business.
+How many people do you think would stand online for six hours to buy a new cell phone from Dell, as they did for the release of Apple’s iPhone? People couldn’t see Dell as anything more than a computer company. It just didn’t make sense. Poor sales quickly ended Dell’s desire to enter the small electronic goods market, instead they opted to focus on their core business.
 
 
 <a id="sec-011035"></a>
@@ -520,9 +536,9 @@ They focus on what they do and how they do it without consideration of why, we l
 
 Companies and organizations with a clear sense of why never worry about it. They don’t think of themselves as being like anyone else and they don’t have to convince anyone of their value. They don’t need complex systems of carrots and sticks. They are different, and everyone knows it.
 
-They start with why in everything they say and do. There are other Those who still believe that Apple’s difference comes from its marketing ability. Apple sells a lifestyle, marketing professionals will tell you. Then how come these marketing professionals haven’t intentionally repeated Apple’s success and longevity for another company?
+They start with why in everything they say and do. There are other. Those who still believe that Apple’s difference comes from its marketing ability. Apple sells a lifestyle, marketing professionals will tell you.
 
-Calling it a lifestyle is a recognition that people who live a certain way choose to incorporate Apple into their lives. Apple didn’t invent the lifestyle, nor does it sell a lifestyle. Apple is simply one of the brands that those who live a certain lifestyle are drawn to those people use certain products or brands in the course of living in that lifestyle,
+Then how come these marketing professionals haven’t intentionally repeated Apple’s success and longevity for another company? Calling it a lifestyle is a recognition that people who live a certain way choose to incorporate Apple into their lives. Apple didn’t invent the lifestyle, nor does it sell a lifestyle. Apple is simply one of the brands that those who live a certain lifestyle are drawn to those people use certain products or brands in the course of living in that lifestyle,
 
 
 <a id="sec-011539"></a>
@@ -538,17 +554,19 @@ Is a Ferrari F430 sports car better than a Honda Odyssey minivan? It depends why
 
 However, if you’re looking for a great way to meet women, a Honda minivan is probably not better, depending on what kind of woman you’re looking to meet, I guess, I too shouldn’t make assumptions. Why the product exists must first be considered and why someone wants it must match. I could tell you about all the engineering marvels of the Honda Odyssey, some of which may actually be better than a Ferrari. It certainly gets better gas mileage.
 
-The odds are that I’m not going to convince someone who really wants that sports car to buy anything else. That some people are viscerally drawn to a Ferrari more than a Honda Odyssey says more about the person than the engineering of the product. The engineering, for example, would simply be one of the tangible points that a Ferrari lover could point out to prove how he feels about the car. The dogged defense of the superiority of the Ferrari from the person whose personality is predisposed to favor all the features and benefits of a Ferrari cannot be an objective conversation.
+The odds are that. I’m not going to convince someone who really wants that sports car to buy anything else. That some people are viscerally drawn to a Ferrari more than a Honda Odyssey says more about the person than the engineering of the product. The engineering, for example, would simply be one of the tangible points that a Ferrari lover could point out to prove how he feels about the car.
 
-Why do you think most people who buy Ferraris are willing to pay a premium to get it in red whereas most who buy Honda Odysseys probably don’t care much about the color at all? For all those who will try to convince you that Apple computers are just better, I cannot dispute a single claim. All I can offer is that most of the factors that they believe make them better meet their standard of what a computer should do. With that in mind, Macintoshes are, in practice, only better for those who believe what Apple believes.
+The dogged defense of the superiority of the Ferrari from the person whose personality is predisposed to favor all the features and benefits of a Ferrari cannot be an objective conversation. Why do you think most people who buy Ferraris are willing to pay a premium to get it in red whereas most who buy Honda Odysseys probably don’t care much about the color at all? For all those who will try to convince you that Apple computers are just better, I cannot dispute a single claim.
 
-Those people who share Apple’s why believe that Apple’s products are objectively better, and any attempt to convince them otherwise is pointless. Even with objective metrics in hand, the argument about which is better or which is worse without first establishing a common standard creates nothing more than debate. Loyalists for each brand will point to various features and benefits that matter to them, or don’t matter to them, in an attempt to convince the other that they are right. And that’s one of the primary reasons why so many companies feel the need to differentiate in the first place, based on the flawed assumption that only one group can be right.
+All. I can offer is that most of the factors that they believe make them better meet their standard of what a computer should do. With that in mind, Macintoshes are, in practice, only better for those who believe what Apple believes. Those people who share Apple’s why believe that Apple’s products are objectively better, and any attempt to convince them otherwise is pointless.
+
+Even with objective metrics in hand, the argument about which is better or which is worse without first establishing a common standard creates nothing more than debate. Loyalists for each brand will point to various features and benefits that matter to them, or don’t matter to them, in an attempt to convince the other that they are right. And that’s one of the primary reasons why so many companies feel the need to differentiate in the first place, based on the flawed assumption that only one group can be right.
 
 But what if both parties were right? What if an Apple was right for some people and a PC was right for others? It’s not a debate about better or worse anymore, it’s a discussion about different needs. And before the discussion can even happen, the why’s for each must be established first.
 
-A simple claim of better, even with the rational evidence to back it up, can create desire and even motivate a decision to buy, but it doesn’t create loyalty. If a customer feels inspired to buy a product, rather than manipulated, they will be able to verbalize the reasons why they think what they bought is better. Good quality and features matter, but they are not enough to produce the dogged loyalty that all the most inspiring leaders and companies are able to command. It is the cause that is represented by the company, brand, product or person that inspires loyalty.
+A simple claim of better, even with the rational evidence to back it up, can create desire and even motivate a decision to buy, but it doesn’t create loyalty. If a customer feels inspired to buy a product, rather than manipulated, they will be able to verbalize the reasons why they think what they bought is better. Good quality and features matter, but they are not enough to produce the dogged loyalty that all the most inspiring leaders and companies are able to command.
 
-Not the only way, just one way knowing your why is not the only way to be successful, but it is the only way to maintain a lasting success and have a greater blend of innovation and flexibility. When a why goes fuzzy, it becomes much more difficult to maintain the growth, loyalty and inspiration that help drive the original success. By difficult, I mean that manipulation rather than inspiration fast becomes the strategy
+It is the cause that is represented by the company, brand, product or person that inspires loyalty. Not the only way, just one way knowing your why is not the only way to be successful, but it is the only way to maintain a lasting success and have a greater blend of innovation and flexibility. When a why goes fuzzy, it becomes much more difficult to maintain the growth, loyalty and inspiration that help drive the original success. By difficult, I mean that manipulation rather than inspiration fast becomes the strategy
 
 
 <a id="sec-012040"></a>
@@ -558,27 +576,31 @@ of choice to motivate behavior. This is effective in the short term but comes at
 
 Having achieved such monumental success, even changing the landscape of America, remembering why stopped being important to them. Instead they became obsessed with what they did, they were in the railroad business. This narrowing of perspective influenced their decision making, they invested all their money in tracks and crows ties and engines. But at the beginning of the 20th century, a new technology was introduced, the airplane.
 
-And all those big railroad companies eventually went out of business. But if they had defined themselves as being in the mass transportation business, perhaps their behavior would have been different. Perhaps they would have seen opportunities that they otherwise missed. Perhaps they would own all the airlines today.
+And all those big railroad companies eventually went out of business. But if they had defined themselves as being in the mass transportation business, perhaps their behavior would have been different. Perhaps, they would have seen opportunities that they otherwise missed. Perhaps, they would own all the airlines today.
 
 The comparison raises the question of the long term survivability of so many other companies that have defined themselves and their industries by what they do. They have been doing it the same way for so long that their ability to compete against a new technology or see a new perspective becomes a daunting task. The story of the railroads has eerie similarities to the case of the music industry discussed earlier. This is another industry that has not done a good job of adjusting its business model to fit a behavioral change prompted by a new technology.
 
-But other industries whose business models evolved in a different time show similar cracks, the newspaper, publishing and television industries, to name but three. These are the current day railroads that are struggling to define their value while watching their customers turn to companies from other industries to serve their needs. Perhaps if music companies had a clearer sense of why, they would have seen the opportunity to invent the equivalent of iTunes instead of leaving it to a scrappy computer company. In all cases, going back to the original purpose, cause or belief will help these industries adapt.
+But other industries whose business models evolved in a different time show similar cracks, the newspaper, publishing and television industries, to name but three. These are the current day railroads that are struggling to define their value while watching their customers turn to companies from other industries to serve their needs. Perhaps, if music companies had a clearer sense of why, they would have seen the opportunity to invent the equivalent of iTunes instead of leaving it to a scrappy computer company.
 
-Instead of asking, what should we do to compete? The questions must be asked, why did we start doing what we are doing in the first place, and what can we do to bring our cause to life considering all the technologies and market opportunities available today. But don’t take my word for it. None of this is my opinion.
+In all cases, going back to the original purpose, cause or belief will help these industries adapt. Instead of asking, what should we do to compete? The questions must be asked, why did we start doing what we are doing in the first place, and what can we do to bring our cause to life considering all the technologies and market opportunities available today. But don’t take my word for it.
 
-It is all firmly grounded in the tenets of biology. This is not opinion, this is biology now, the star belly sneeches had bellies with stars. The plane belly sneeches had none upon thus. Those stars weren’t so big.
+None of this is my opinion. It is all firmly grounded in the tenets of biology. This is not opinion, this is biology now, the star belly sneeches had bellies with stars. The plane belly sneeches had none upon thus.
 
-They were really so small. You might think such a thing wouldn’t matter at all. Then, quickly, Sylvester McMonkium had been put together a very peculiar machine. And he said, you want stars like a star belly sneech?
+Those stars weren’t so big. They were really so small. You might think such a thing wouldn’t matter at all. Then, quickly, Sylvester McMonkium had been put together a very peculiar machine.
 
-My friends, you can have them for three dollars each. In his 1961 story about the sneeches, Dr. Seuss introduced us to two groups of sneeches, one with stars on their bellies and the other with none. The ones without stars wanted desperately to get stars so they could feel like they fit in. They were willing to go to extreme lengths and pay larger and larger sums of money simply to feel like they were part of a group.
+And he said, you want stars like a star belly sneech? My friends, you can have them for three dollars each. In his 1961 story about the sneeches, Dr. Seuss introduced us to two groups of sneeches, one with stars on their bellies and the other with none.
 
-But only Sylvester McMonkey McBean, the man whose machine puts stars upon thus, profited from the sneech’s desire to fit in. As with so many things, Dr. Seuss explained it best. The sneeches perfectly capture a very basic human need, the need to belong. Our need to belong is not rational, but it is a constant that exists across all people in all cultures.
+The ones without stars wanted desperately to get stars so they could feel like they fit in. They were willing to go to extreme lengths and pay larger and larger sums of money simply to feel like they were part of a group. But only Sylvester McMonkey McBean, the man whose machine puts stars upon thus, profited from the sneech’s desire to fit in. As with so many things, Dr.
 
-It is a feeling we get when those around us share our values and beliefs. When we feel like we belong we feel connected and we feel safe. As humans we crave the feeling and we seek it out. Sometimes our feeling of belonging is incidental.
+Seuss explained it best. The sneeches perfectly capture a very basic human need, the need to belong. Our need to belong is not rational, but it is a constant that exists across all people in all cultures. It is a feeling we get when those around us share our values and beliefs.
 
-We’re not friends with everyone from our hometown, but travel across the state, and you may meet someone from your hometown and you instantly have a connection with them. We’re not friends with everyone from our home state, but travel across the country, and you’ll feel a special bond with someone you meet who is from your home state. Go abroad and you’ll form instant bonds with other Americans you meet. I remember a trip I took to Australia.
+When we feel like we belong we feel connected and we feel safe. As humans we crave the feeling and we seek it out. Sometimes our feeling of belonging is incidental. We’re not friends with everyone from our hometown, but travel across the state, and you may meet someone from your hometown and you instantly have a connection with them.
 
-One day I was on a bus and heard an American accent. I turned and struck up a conversation. I immediately felt connected to them, we could speak the same language, understand the same slang. As a stranger in a strange city, for that brief moment, I felt like I belonged, and
+We’re not friends with everyone from our home state, but travel across the country, and you’ll feel a special bond with someone you meet who is from your home state. Go abroad and you’ll form instant bonds with other Americans you meet. I remember a trip. I took to Australia.
+
+One day. I was on a bus and heard an American accent. I turned and struck up a conversation. I immediately felt connected to them, we could speak the same language, understand the same slang.
+
+As a stranger in a strange city, for that brief moment, I felt like. I belonged, and
 
 
 <a id="sec-012544"></a>
@@ -586,27 +608,29 @@ One day I was on a bus and heard an American accent. I turned and struck up a co
 
 because of it, I trusted those strangers on the bus more than any other passengers. In fact, we spent time together later. No matter where we go, we trust those with whom we are able to perceive common values or beliefs. This is not opinion, this is biology our desire to feel like we belong is so powerful that we will go to great lengths, do irrational things and often spend money to get that feeling.
 
-Like the sneeches, we want to be around people and organizations who are like us and share our beliefs. When companies talk about what they do and how advanced their products are, they may have appeal, but they do not necessarily represent something to which we want to belong. But when a company clearly communicates their why, what they believe, and we believe what they believe, then we will sometimes go to extraordinary lengths to include those products or brands in our lives. This is not because they are better, but because they become markers or symbols of the values and beliefs we hold dear.
+Like the sneeches, we want to be around people and organizations who are like us and share our beliefs. When companies talk about what they do and how advanced their products are, they may have appeal, but they do not necessarily represent something to which we want to belong. But when a company clearly communicates their why, what they believe, and we believe what they believe, then we will sometimes go to extraordinary lengths to include those products or brands in our lives.
 
-Those products and brands make us feel like we belong and we feel a kinship with others who buy the same things. Fan clubs, started by customers, are often formed without any help from the company itself. These people form communities, in person or online, not just to share their love of a product with others, but to be in the company of people like them. Their decisions have nothing to do with the company or its products, they have everything to do with the individuals themselves.
+This is not because they are better, but because they become markers or symbols of the values and beliefs we hold dear. Those products and brands make us feel like we belong and we feel a kinship with others who buy the same things. Fan clubs, started by customers, are often formed without any help from the company itself. These people form communities, in person or online, not just to share their love of a product with others, but to be in the company of people like them.
 
-Our natural need to belong also makes us good at spotting things that don’t belong. It’s a sense we get. A feeling. Something deep inside us, something we can’t put into words, allows us to feel how some things just fit and some things just don’t.
+Their decisions have nothing to do with the company or its products, they have everything to do with the individuals themselves. Our natural need to belong also makes us good at spotting things that don’t belong. It’s a sense we get. A feeling.
 
-Dell’s selling MP3 players just doesn’t feel right because Dell defines itself as a computer company, so the only things that belong are computers. Apple defines itself as a company on a mission and so anything they do that fits that definition feels like it belongs. In 2004, they produced a promotional iPod in partnership with the iconoclastic Irish rock band U2. That makes sense.
+Something deep inside us, something we can’t put into words, allows us to feel how some things just fit and some things just don’t. Dell’s selling MP3 players just doesn’t feel right because Dell defines itself as a computer company, so the only things that belong are computers. Apple defines itself as a company on a mission and so anything they do that fits that definition feels like it belongs. In 2004, they produced a promotional iPod in partnership with the iconoclastic Irish rock band U2.
 
-They would never have produced a promotional iPod with Celine Dion, even though she’s sold vastly more records than U2 and may have a bigger audience. And Apple belong together because they share the same values and beliefs. They both push boundaries. It would not have made sense if Apple released a special iPod with Celine Dion.
+That makes sense. They would never have produced a promotional iPod with Celine Dion, even though she’s sold vastly more records than U2 and may have a bigger audience. And Apple belong together because they share the same values and beliefs. They both push boundaries.
 
-As big as her audience may be, the partnership just doesn’t align. Look no farther than Apple’s TV commercials I’m a Mac and I’m a PC for a perfect representation of who a Mac user needs to be to feel like they belong. In the commercial, the Mac user is a young guy, always in jeans and a T-shirt, always relaxed and always having a sense of humor poking fun at the system. The PC, as defined by Apple, is in a suit.
+It would not have made sense if Apple released a special iPod with Celine Dion. As big as her audience may be, the partnership just doesn’t align. Look no farther than Apple’s TV commercials. I’m a Mac and.
 
-Oldest doggie. To fit in with Mac, you have to be like Mac. Microsoft responded to Apple with its own I’m a PC campaign, which depicts people from all walks of life identifying themselves as PC. Microsoft included many more people in their ads, teachers, scientists, musicians and children.
+I’m a PC for a perfect representation of who a Mac user needs to be to feel like they belong. In the commercial, the Mac user is a young guy, always in jeans and a T-shirt, always relaxed and always having a sense of humor poking fun at the system. The PC, as defined by Apple, is in a suit. Oldest doggie.
+
+To fit in with Mac, you have to be like Mac. Microsoft responded to Apple with its own. I’m a PC campaign, which depicts people from all walks of life identifying themselves as PC. Microsoft included many more people in their ads, teachers, scientists, musicians and children.
 
 As one would expect from the company that supplies 95% of the computer operating systems, to belong to that crowd, you have to be everyone else. One is not better or worse, it depends on where you feel like you belong. Are you a rabble rouser or are you with the majority? We are drawn to leaders and organizations that are good at communicating what they believe.
 
 Their ability to make us feel like we belong, to make us feel special, safe and not alone is part of what gives them the ability to inspire us. Those whom we consider great leaders all have an ability to draw us close and to command our loyalty. And we feel a strong bond with those who are also drawn to the same leaders and organizations. Apple users feel a bond with each other.
 
-Harley riders are bonded to each other. Anyone who was drawn to hear Dr. Martin Luther King Jr. give his I Have a Dream speech, regardless of race, religion or sex, stood together in that crowd as brothers and sisters, bonded by their shared values and beliefs. They knew they belonged together because they could feel it in their gut. 60. This is not opinion, this is biology Gut decisions don’t happen in your stomach The principles of the golden circle are much more than a communications hierarchy.
+Harley riders are bonded to each other. Anyone who was drawn to hear Dr. Martin Luther King Jr. give his. I Have a Dream speech, regardless of race, religion or sex, stood together in that crowd as brothers and sisters, bonded by their shared values and beliefs.
 
-Its principles are deeply grounded in the evolution of human behavior.
+They knew they belonged together because they could feel it in their gut. 60. This is not opinion, this is biology Gut decisions don’t happen in your stomach The principles of the golden circle are much more than a communications hierarchy. Its principles are deeply grounded in the evolution of human behavior.
 
 
 <a id="sec-013044"></a>
@@ -644,31 +668,33 @@ The sales rep gives you all the rational differences and benefits, yet you are s
 
 Then you go to your friend’s house and see that he bought the other one. He goes on and on about how much he loves his TV.
 
-Suddenly you’re jealous, even though you still don’t know that his is any better than yours. You wonder, did I buy the wrong one? Companies that fail to communicate a sense of why force us to make decisions with only empirical evidence. This is why those decisions take more time, feel difficult or leave us uncertain.
+Suddenly, you’re jealous, even though you still don’t know that his is any better than yours. You wonder, did. I buy the wrong one? Companies that fail to communicate a sense of why force us to make decisions with only empirical evidence.
 
-Under these conditions manipulative strategies that exploit our desires, fears, doubts or fantasies work very well. We’re forced to make these less than inspiring decisions for one simple reason, companies don’t offer us anything else besides the facts and figures, features and benefits upon which to base our decisions. Companies don’t tell us why. People don’t buy what you do, they buy why you do it.
+This is why those decisions take more time, feel difficult or leave us uncertain. Under these conditions manipulative strategies that exploit our desires, fears, doubts or fantasies work very well. We’re forced to make these less than inspiring decisions for one simple reason, companies don’t offer us anything else besides the facts and figures, features and benefits upon which to base our decisions. Companies don’t tell us why.
 
-A failure to communicate why creates nothing but stress or doubt. In contrast, many people who are drawn to buy Macintosh computers or Harley-Davidson motorcycles, for example, don’t need to talk to anyone about which brand to choose. They feel the utmost confidence in their decision and the only question they ask is which Mac or which Harley. At that level, the rational features and benefits, facts and figures absolutely matter, but not to drive the decision to give money or loyalty to the company or brand.
+People don’t buy what you do, they buy why you do it. A failure to communicate why creates nothing but stress or doubt.
 
-That decision is already made. The tangible features are simply to help direct the choice of product that best fits our needs. In these cases, the decisions happened in the perfect inside out order. Those decisions started with why, the emotional component of the decision, and then the rational components allowed the buyer to verbalize or rationalize the reasons for their decision.
+In contrast, many people who are drawn to buy Macintosh computers or Harley-Davidson motorcycles, for example, don’t need to talk to anyone about which brand to choose. They feel the utmost confidence in their decision and the only question they ask is which Mac or which Harley. At that level, the rational features and benefits, facts and figures absolutely matter, but not to drive the decision to give money or loyalty to the company or brand. That decision is already made.
 
-This is what we mean when we talk about winning hearts and minds. The heart represents the limbic, feeling part of the brain, and the mind is the rational, language center. Most companies are quite adept at winning minds, all that requires is a comparison of all the features and benefits. Winning hearts, however, takes more work, arts, given the evidence of the natural order of decision making, I can’t help but wonder if the order of the expression hearts and minds is a coincidence.
+The tangible features are simply to help direct the choice of product that best fits our needs. In these cases, the decisions happened in the perfect inside out order. Those decisions started with why, the emotional component of the decision, and then the rational components allowed the buyer to verbalize or rationalize the reasons for their decision. This is what we mean when we talk about winning hearts and minds.
 
-Why does no one set out to win minds and hearts? The ability to win hearts before minds is not easy. It’s a delicate balance of art and science, another coincidental grammatical construction. Why is it that things are not a balance of science and art, but always art before science?
+The heart represents the limbic, feeling part of the brain, and the mind is the rational, language center. Most companies are quite adept at winning minds, all that requires is a comparison of all the features and benefits. Winning hearts, however, takes more work, arts, given the evidence of the natural order of decision making, I can’t help but wonder if the order of the expression hearts and minds is a coincidence. Why does no one set out to win minds and hearts?
 
-Perhaps it is a subtle clue our language-impaired limbic brain is sending us to help us see that the art of leading is about following your heart. Perhaps our brains are trying to tell us that why must come first. Absent a why, a decision is harder to make. And when in doubt we look to science, to data, to guide decisions.
+The ability to win hearts before minds is not easy. It’s a delicate balance of art and science, another coincidental grammatical construction. Why is it that things are not a balance of science and art, but always art before science? Perhaps, it is a subtle clue our language-impaired limbic brain is sending us to help us see that the art of leading is about following your heart.
 
-Studies will tell you that the reason they start with what they do or how they do it is because that’s what their customers asked for. Quality. Service. Price.
+Perhaps, our brains are trying to tell us that why must come first. Absent a why, a decision is harder to make. And when in doubt we look to science, to data, to guide decisions. Studies will tell you that the reason they start with what they do or how they do it is because that’s what their customers asked for.
 
-Features. That’s what the data reported. But for the fact that the part of the brain that controls decision making is different from the part of the brain that is able to report back that decision, it would be a perfectly valid conclusion to give people what they ask for. Unfortunately, there is more evidence that sales don’t significantly increase and bonds of loyalty are not formed simply when companies say or do everything their customers want.
+Quality. Service. Price. Features.
 
-Henry Ford summed it up best. If I had asked people what they wanted, he said, they would have said a faster horse. This is the genius of great leadership. Great leaders and great organizations are good at seeing what most of us can’t see.
+That’s what the data reported. But for the fact that the part of the brain that controls decision making is different from the part of the brain that is able to report back that decision, it would be a perfectly valid conclusion to give people what they ask for. Unfortunately, there is more evidence that sales don’t significantly increase and bonds of loyalty are not formed simply when companies say or do everything their customers want. Henry Ford summed it up best.
+
+If. I had asked people what they wanted, he said, they would have said a faster horse. This is the genius of great leadership. Great leaders and great organizations are good at seeing what most of us can’t see.
 
 They are good at giving us things we would never think of asking for. When the computer evolution was afoot, computer users couldn’t ask for a graphical user interface. But that’s what Apple gave us. In the face of expanding competition in the airline industry, most air travelers would never have thought to ask for less instead of more.
 
-But that’s 65. Start with why what Southwest did. And in the face of hard times and overwhelming odds, few would have asked their country, what can I do for you over what can you do for me? The very cause upon which John F.
+But that’s 65. Start with why what Southwest did. And in the face of hard times and overwhelming odds, few would have asked their country, what can. I do for you over what can you do for me?
 
-Kennedy introduced his presidency.
+The very cause upon which John F. Kennedy introduced his presidency.
 
 
 <a id="sec-014052"></a>
@@ -696,11 +722,11 @@ And having their clothes smell fresh and clean mattered much more than the nuanc
 
 They were stunned and perplexed when they learned that great engineering wasn’t enough. One by one, the German luxury carmakers begrudgingly added cup holders to their fine automobiles. It was a feature that mattered a great deal to communities. to minded Americans, but was rarely mentioned in any research about what factors influenced purchase decisions. I am not, for a moment, proposing that cup holders make people loyal to BMWs.
 
-All I am proposing is that even for rationally minded car buyers, there is more to decision making than meets the eye. Literally. The power of the limbic brain is astounding. It not only controls our gut decisions, but it can influence us to do things that seem illogical or irrational.
+All. I am proposing is that even for rationally minded car buyers, there is more to decision making than meets the eye. Literally. The power of the limbic brain is astounding.
 
-Leaving the safety of home to explore far away places. Crossing oceans to see what’s on the other side. Leaving a stable job to start a business out of your basement with no money in the bank. Many of us look at these decisions and say, that’s stupid, you’re crazy.
+It not only controls our gut decisions, but it can influence us to do things that seem illogical or irrational. Leaving the safety of home to explore far away places. Crossing oceans to see what’s on the other side. Leaving a stable job to start a business out of your basement with no money in the bank.
 
-You could lose everything.
+Many of us look at these decisions and say, that’s stupid, you’re crazy. You could lose everything.
 
 
 <a id="sec-014553"></a>
@@ -716,21 +742,23 @@ There is less software available for their operating system. They have fewer per
 
 But of course people do buy Macs. And some don’t just buy them, they love them, a feeling that comes straight from the heart. Or the limbic brain. We all know someone who is a die-hard Mac lover.
 
-Ask them why they love their Mac. They won’t tell you, well, I see myself as someone who likes to challenge the status quo, and it’s important for me to surround myself with the people, products and brands that prove to the outside world who I believe I am. Biologically, that’s what happened. But that decision was made in the part of the brain that controls behavior but not language.
+Ask them why they love their Mac. They won’t tell you, well, I see myself as someone who likes to challenge the status quo, and it’s important for me to surround myself with the people, products and brands that prove to the outside world who. I believe. I am.
 
-So they will provide a rationalization, it’s the user interface. It’s the simplicity. It’s the design. It’s the high quality.
+Biologically, that’s what happened. But that decision was made in the part of the brain that controls behavior but not language. So they will provide a rationalization, it’s the user interface. It’s the simplicity.
 
-They’re the best computers. I’m a creative person. In reality, their purchase decision and their loyalty are deeply personal. They don’t really care about Apple, it’s all about them.
+It’s the design. It’s the high quality. They’re the best computers. I’m a creative person.
 
-The same can even be said for the people who love to work at Apple. Even employees can’t put it into words. In their case, their job is one of the what’s to their why. They too are convinced it’s the quality of the products alone that is behind Apple’s success.
+In reality, their purchase decision and their loyalty are deeply personal. They don’t really care about Apple, it’s all about them. The same can even be said for the people who love to work at Apple. Even employees can’t put it into words.
 
-But deep inside, they all love being a part of something bigger than themselves. The most loyal Apple employees, like the most loyal Apple customers, all love a good revolution. A great raise and added benefits couldn’t convince a loyal Apple employee to work for Dell, and no amount of cashback incentives and rebates could convince a loyal Mac user to switch to a PC, many are already paying double the price. This is beyond rational.
+In their case, their job is one of the what’s to their why. They too are convinced it’s the quality of the products alone that is behind Apple’s success. But deep inside, they all love being a part of something bigger than themselves. The most loyal Apple employees, like the most loyal Apple customers, all love a good revolution.
 
-This is a belief. It’s no accident that the culture at Apple is often described as a cult. It’s more than just products, it’s a cause to support. It’s a matter of faith.
+A great raise and added benefits couldn’t convince a loyal Apple employee to work for Dell, and no amount of cashback incentives and rebates could convince a loyal Mac user to switch to a PC, many are already paying double the price. This is beyond rational. This is a belief. It’s no accident that the culture at Apple is often described as a cult.
 
-Remember the Honda and the Ferrari? Products are not just symbols of what the company believes, they also serve as symbols of what the loyal buyers believe. People with Apple laptop computers, for example, love opening them up while sitting in an airport. They are like that everyone knows they are using a Mac.
+It’s more than just products, it’s a cause to support. It’s a matter of faith. Remember the Honda and the Ferrari? Products are not just symbols of what the company believes, they also serve as symbols of what the loyal buyers believe.
 
-It’s an emblem, a symbol of who they are. That glowing Apple logo speaks to something about them and how they see the world. Does anyone notice when someone pops open the lid of their HP or Dell computer? No. Not even the people using the computers care. HP and Dell have a fuzzy sense of why, so their products and their brands don’t symbolize anything about the users.
+People with Apple laptop computers, for example, love opening them up while sitting in an airport. They are like that everyone knows they are using a Mac. It’s an emblem, a symbol of who they are. That glowing Apple logo speaks to something about them and how they see the world.
+
+Does anyone notice when someone pops open the lid of their HP or Dell computer? No. Not even the people using the computers care. HP and Dell have a fuzzy sense of why, so their products and their brands don’t symbolize anything about the users.
 
 To the Dell or HP user, their computer, no matter how fast or sleek, is not a symbol of a higher purpose, cause or belief. It’s just a computer.
 
@@ -744,27 +772,29 @@ And when that happens, manipulations that rely on pushing price, features, servi
 
 quality become the primary currency of differentiation. Clarity, discipline and consistency nature abhors a vacuum. In order to promote life, mother nature attempts to find balance whenever possible. When life is destroyed because of a forest fire, for example, nature will introduce new life to replace it.
 
-The existence of a food chain in any ecosystem, in which each animal exists as food for another, is a way of maintaining balance. The golden circle, grounded in natural principles of biology, obeys the need for balance as well. As I’ve discussed, when the why is absent, imbalance is produced and manipulations thrive. And when manipulations thrive, uncertainty increases for buyers, instability increases for sellers and stress increases for all.
+The existence of a food chain in any ecosystem, in which each animal exists as food for another, is a way of maintaining balance. The golden circle, grounded in natural principles of biology, obeys the need for balance as well. As. I’ve discussed, when the why is absent, imbalance is produced and manipulations thrive.
 
-Starting with why is just the beginning. There is still work to be done before a person or an organization earns the right or ability to inspire. For the golden circle to work, each of the pieces must be in balance and in the right order. Clarity of why it all starts with clarity.
+And when manipulations thrive, uncertainty increases for buyers, instability increases for sellers and stress increases for all. Starting with why is just the beginning. There is still work to be done before a person or an organization earns the right or ability to inspire. For the golden circle to work, each of the pieces must be in balance and in the right order.
 
-You have to know why you do what you do. If people don’t buy what you do, they buy why you do it, so it follows that if you don’t know why you do what you do, how will anyone else? If the leader of the organization can’t clearly articulate why the organization exists in terms beyond its products or services, then how does he expect the employees to know why to come to work? If a politician can’t articulate why she seeks public office beyond the standard to serve the people, the minimum rational standard for all politicians, then how will the voters know whom to follow?
+Clarity of why it all starts with clarity. You have to know why you do what you do. If people don’t buy what you do, they buy why you do it, so it follows that if you don’t know why you do what you do, how will anyone else? If the leader of the organization can’t clearly articulate why the organization exists in terms beyond its products or services, then how does he expect the employees to know why to come to work?
 
-Manipulations can motivate the outcome of an election, but they don’t help choose who should lead. To lead requires those who willingly follow. It requires those who believe in something bigger than a single issue. To inspire starts with the clarity of why.
+If a politician can’t articulate why she seeks public office beyond the standard to serve the people, the minimum rational standard for all politicians, then how will the voters know whom to follow? Manipulations can motivate the outcome of an election, but they don’t help choose who should lead. To lead requires those who willingly follow. It requires those who believe in something bigger than a single issue.
 
-Question of how once you know why you do what you do, the question is how will you do it? How’s are your values or principles that guide how to bring your cause to life? How we do things manifests in the systems and processes within an organization and the culture. Understanding how you do things and, more importantly, having the discipline to hold the organization and all its employees accountable to those guiding principles enhances an organization’s ability to work to its natural strengths.
+To inspire starts with the clarity of why. Question of how once you know why you do what you do, the question is how will you do it? How’s are your values or principles that guide how to bring your cause to life? How we do things manifests in the systems and processes within an organization and the culture.
 
-Understanding how gives greater ability, for example, to hire people or find partners who will naturally thrive when working with you. Ironically, the most important question with the most elusive answer, why do you do what you do, is actually quite simple and efficient to discover, and I’ll share it in later chapters. It’s the discipline to never veer from your cause, to hold yourself accountable to how you do things, that’s the hardest part. Making it even more difficult for ourselves, we remind ourselves of our values by writing them on the wall.
+Understanding how you do things and, more importantly, having the discipline to hold the organization and all its employees accountable to those guiding principles enhances an organization’s ability to work to its natural strengths. Understanding how gives greater ability, for example, to hire people or find partners who will naturally thrive when working with you. Ironically, the most important question with the most elusive answer, why do you do what you do, is actually quite simple and efficient to discover, and.
 
-As nouns. Integrity. Honesty. Innovation.
+I’ll share it in later chapters. It’s the discipline to never veer from your cause, to hold yourself accountable to how you do things, that’s the hardest part. Making it even more difficult for ourselves, we remind ourselves of our values by writing them on the wall. As nouns.
 
-Communication, for example. But nouns are not actionable. They are things. You can’t build systems or develop incentives around those things.
+Integrity. Honesty. Innovation. Communication, for example.
 
-It’s nearly impossible to hold people accountable to nouns. A little more innovation today if you would please, Bob. And if you have to write honesty on your wall to remind you to do it, then you probably have bigger problems anyway. For values or guiding principles to be truly effective they have to be verbs.
+But nouns are not actionable. They are things. You can’t build systems or develop incentives around those things. It’s nearly impossible to hold people accountable to nouns.
 
-It’s not integrity, it’s always do the right thing. It’s not innovation, it’s look at the problem from a different angle. Articulating our values as verbs gives us a clear idea. We have a clear idea of how to act in any situation.
+A little more innovation today if you would please, Bob. And if you have to write honesty on your wall to remind you to do it, then you probably have bigger problems anyway. For values or guiding principles to be truly effective they have to be verbs. It’s not integrity, it’s always do the right thing.
 
-We can hold each other accountable to them measure them or even build incentives around them. Telling people to have integrity doesn’t guarantee that their decisions will always keep customers or clients best interest in mind, telling them to always do the right thing does. I wonder what values Samsung had written on the wall when they developed that rebate that wasn’t applicable to people living in apartment buildings. The golden circle offers an explanation for long term success, but the inherent nature of doing things for the long term often includes investments or short term costs.
+It’s not innovation, it’s look at the problem from a different angle. Articulating our values as verbs gives us a clear idea. We have a clear idea of how to act in any situation. We can hold each other accountable to them measure them or even build incentives around them.
+
+Telling people to have integrity doesn’t guarantee that their decisions will always keep customers or clients best interest in mind, telling them to always do the right thing does. I wonder what values Samsung had written on the wall when they developed that rebate that wasn’t applicable to people living in apartment buildings. The golden circle offers an explanation for long term success, but the inherent nature of doing things for the long term often includes investments or short term costs.
 
 This is the reason the discipline to stay focused on the why and remain true to your values matters so much. Consistency of what everything you say and everything you do has to prove what you believe. A why is just a belief. That’s all it is.
 
@@ -786,53 +816,55 @@ They go out and do customer research and they ask the customers, what would we h
 
 What does a politician say when told to be more authentic? How does a leader act more authentically? Without a clear understanding of why, the instruction is completely useless. What authenticity means is that your golden circle is in balance.
 
-It means that everything you say and everything you do you actually believe. This goes for management as well as the employees. Only when that happens can the things you say and do be viewed as authentic. Apple believed that its original Apple computer and its Macintosh challenged the dominant IBM DOS platforms. Apple believes its iPod and iTunes products are challenging the status quo in the music industry.
+It means that everything you say and everything you do you actually believe. This goes for management as well as the employees. Only when that happens can the things you say and do be viewed as authentic. Apple believed that its original Apple computer and its Macintosh challenged the dominant IBM DOS platforms.
 
-And we all understand why Apple does what it does. It is because of that mutual understanding that we view those Apple products as authentic. Dell introduced MP3 players and Pters in an attempt to enter the small electronics business. We don’t know what Dell’s why is, we have no certainty about what the company believes or why it produced those products beyond self-gain and a desire to capitalize on a new market segment.
+Apple believes its iPod and iTunes products are challenging the status quo in the music industry. And we all understand why Apple does what it does. It is because of that mutual understanding that we view those Apple products as authentic. Dell introduced MP3 players and Pters in an attempt to enter the small electronics business.
 
-Those products are not authentic. It’s not that Dell couldn’t enter other markets, it certainly has the knowledge and ability to make good products, but its ability to do so without a clear understanding of why is what makes it much harder and much more expensive. Just producing high quality products and marketing them does not guarantee success. Authenticity cannot be achieved without clarity of why.
+We don’t know what Dell’s why is, we have no certainty about what the company believes or why it produced those products beyond self-gain and a desire to capitalize on a new market segment. Those products are not authentic. It’s not that Dell couldn’t enter other markets, it certainly has the knowledge and ability to make good products, but its ability to do so without a clear understanding of why is what makes it much harder and much more expensive.
 
-And authenticity matters. Ask the best salesman what it takes to be a great salesman. They will always tell you that it helps when you really believe in the product you’re selling. What does belief have to do with a sales job?
+Just producing high quality products and marketing them does not guarantee success. Authenticity cannot be achieved without clarity of why. And authenticity matters. Ask the best salesman what it takes to be a great salesman.
 
-Simple. When salesmen actually believe in the thing they are selling, then the words that come out of their mouths are authentic. When belief enters the equation, passion exudes from the salesman. It is this authenticity that produces the relationships upon which all the best sales organizations are based.
+They will always tell you that it helps when you really believe in the product you’re selling. What does belief have to do with a sales job? Simple. When salesmen actually believe in the thing they are selling, then the words that come out of their mouths are authentic.
 
-Relationships also build trust. And with trust comes loyalty. Absent a balanced golden circle means no authenticity, which means no strong relationships, which means no trust. And you’re back at square one selling on price, service, quality or features.
+When belief enters the equation, passion exudes from the salesman. It is this authenticity that produces the relationships upon which all the best sales organizations are based. Relationships also build trust. And with trust comes loyalty.
 
-You are back to being like everyone else. Worse, without that authenticity, companies resort to manipulation, pricing, promotions, peer pressure, fear, take your pick. Effective? Of course, but only for the short term.
+Absent a balanced golden circle means no authenticity, which means no strong relationships, which means no trust. And you’re back at square one selling on price, service, quality or features. You are back to being like everyone else. Worse, without that authenticity, companies resort to manipulation, pricing, promotions, peer pressure, fear, take your pick.
 
-Being authentic is not a requirement for success, but it is if you want that success to be a lasting success. Again, it goes back to why. Authenticity is when you say and do the things you actually believe. But if you don’t know either organization or the products exist on a level beyond what you do, then it is impossible to know if the things you say or do are consistent with 75.
+Effective? Of course, but only for the short term. Being authentic is not a requirement for success, but it is if you want that success to be a lasting success. Again, it goes back to why.
 
-Start with why your why.
+Authenticity is when you say and do the things you actually believe. But if you don’t know either organization or the products exist on a level beyond what you do, then it is impossible to know if the things you say or do are consistent with 75. Start with why your why.
 
 
 <a id="sec-020058"></a>
 ### ⏱️ [02:00:58 - 02:06:01]
 
-Without why, any attempt at authenticity will almost always be inauthentic. The right order after you have clarity of why, are disciplined and accountable to your own values and guiding principles, and are consistent in all you say and do. The final step is to keep it all in the right order. Just like that little Apple marketing example I used earlier, simply changing the order of the information, starting with why, changed the impact of the message.
+Without why, any attempt at authenticity will almost always be inauthentic. The right order after you have clarity of why, are disciplined and accountable to your own values and guiding principles, and are consistent in all you say and do. The final step is to keep it all in the right order. Just like that little Apple marketing example.
 
-The what’s are important, they provide the tangible proof of the why, but why must come first. The why provides the context for everything else. As you will see over and over in all the cases and examples in this book, whether in leadership, decision making or communication, starting with why has a profound and long lasting impact on the result. Starting with why is what inspires people to act.
+I used earlier, simply changing the order of the information, starting with why, changed the impact of the message. The what’s are important, they provide the tangible proof of the why, but why must come first. The why provides the context for everything else. As you will see over and over in all the cases and examples in this book, whether in leadership, decision making or communication, starting with why has a profound and long lasting impact on the result.
 
-If you don’t know why, you can’t know how Rollin King, a San Antonio businessman, hatched the idea to take what Pacific Southwest was doing in California and bring it to Texas, to start an airline that flew short haul flights between Dallas, Houston and San Antonio. He had recently gone through a long and messy divorce and turned to the one man he trusted to help him get his idea off the ground. His wild turkey drinking, chain smoking divorce lawyer, Herb Kelleher. In nearly every way, King and Kelleher were opposites, where King, a numbers guy, was notoriously gruff and awkward, while Kelleher was gregarious and likeable.
+Starting with why is what inspires people to act. If you don’t know why, you can’t know how Rollin King, a San Antonio businessman, hatched the idea to take what Pacific Southwest was doing in California and bring it to Texas, to start an airline that flew short haul flights between Dallas, Houston and San Antonio. He had recently gone through a long and messy divorce and turned to the one man he trusted to help him get his idea off the ground.
 
-At first Kelleher called King’s idea a dumb one, but by the end of the evening King had successfully inspired him with his vision and Kelleher agreed to consider coming on board. It would take four years, however, before Southwest 76. Clarity, discipline and consistency airlines would make its first flight from Dallas’s love field to Houston. Southwest did not invent the concept of a low-cost airline.
+His wild turkey drinking, chain smoking divorce lawyer, Herb Kelleher. In nearly every way, King and Kelleher were opposites, where King, a numbers guy, was notoriously gruff and awkward, while Kelleher was gregarious and likeable. At first Kelleher called King’s idea a dumb one, but by the end of the evening King had successfully inspired him with his vision and Kelleher agreed to consider coming on board. It would take four years, however, before Southwest 76.
 
-Pacific Southwest Airlines pioneered the industry, Southwest even copied their name. Southwest had no first move as advantage, Braniff International Airways, Texas International Airlines and Continental Airlines were already serving the Texas market, and none was eager to give up any ground. But Southwest was not built to be an airline. It was built to champion a cause.
+Clarity, discipline and consistency airlines would make its first flight from Dallas’s love field to Houston. Southwest did not invent the concept of a low-cost airline. Pacific Southwest Airlines pioneered the industry, Southwest even copied their name. Southwest had no first move as advantage, Braniff International Airways, Texas International Airlines and Continental Airlines were already serving the Texas market, and none was eager to give up any ground.
 
-They just happened to use an airline to do it. In the early 1970s, only 15% of the traveling population traveled by air. At that rate, the market was small enough to scare off most would-be competitors to the big airlines. But Southwest wasn’t interested in competing against everyone else for 15% of the traveling population.
+But Southwest was not built to be an airline. It was built to champion a cause. They just happened to use an airline to do it. In the early 1970s, only 15% of the traveling population traveled by air.
 
-Southwest cared about the other 85%. Back then, if you asked Southwest whom their competition was, they would have told you, we compete against the car and the buzz. But what they meant was, we’re the champion for the common man. That was why they started the airline.
+At that rate, the market was small enough to scare off most would-be competitors to the big airlines. But Southwest wasn’t interested in competing against everyone else for 15% of the traveling population. Southwest cared about the other 85%. Back then, if you asked Southwest whom their competition was, they would have told you, we compete against the car and the buzz.
 
-That was their cause, their purpose, their reason for existing. How they went about building their company was not a strategy developed by a high-priced management consultancy. It wasn’t a collection of best practices that they saw other companies doing. Their guiding principles and values stemmed directly from their why and were more common sense than anything else.
+But what they meant was, we’re the champion for the common man. That was why they started the airline. That was their cause, their purpose, their reason for existing. How they went about building their company was not a strategy developed by a high-priced management consultancy.
 
-In the 1970s, air travel was expensive, and if Southwest was going to be the champion for the common man, they had to be cheap. It was an imperative. And in a day and age when air travel was elitist, back then people wore ties on planes, as the champion for the common man, Southwest had to be fun. It was an imperative.
+It wasn’t a collection of best practices that they saw other companies doing. Their guiding principles and values stemmed directly from their why and were more common sense than anything else. In the 1970s, air travel was expensive, and if Southwest was going to be the champion for the common man, they had to be cheap. It was an imperative.
 
-In a time when air travel was complicated, with different prices depending on when you booked, Southwest had to be simple. If they were to be accessible to the other 85%, then simplicity was an imperative. At the time, Southwest had two price categories, nights slash weekends and daytime. That was it.
+And in a day and age when air travel was elitist, back then people wore ties on planes, as the champion for the common man, Southwest had to be fun. It was an imperative. In a time when air travel was complicated, with different prices depending on when you booked, Southwest had to be simple. If they were to be accessible to the other 85%, then simplicity was an imperative.
 
-Cheap, fun and simple. That’s how they did it. That’s how they were to champion the cause of the common man. They were to champ.
+At the time, Southwest had two price categories, nights slash weekends and daytime. That was it. Cheap, fun and simple. That’s how they did it.
 
-The result of their actions was made tangible in the things they said and did, their product, the people they hired, their culture and their marketing. You are now free to move about the country, they said in their advertising. That’s much more than a tagline. That’s a cause.
+That’s how they were to champion the cause of the common man. They were to champ. The result of their actions was made tangible in the things they said and did, their product, the people they hired, their culture and their marketing. You are now free to move about the country, they said in their advertising.
 
-And it’s a cause looking for followers. Those who could relate to Southwest, those who saw themselves as average Joes, now had an alternative to the big airlines. And those who believed what Southwest believed became fiercely loyal to the company.
+That’s much more than a tagline. That’s a cause. And it’s a cause looking for followers. Those who could relate to Southwest, those who saw themselves as average Joes, now had an alternative to the big airlines.
+
+And those who believed what Southwest believed became fiercely loyal to the company.
 
 
 <a id="sec-020601"></a>
@@ -874,63 +906,73 @@ do with the companies or the products we’re buying. When our decisions feel ri
 
 Doing business is like dating, I’d like to introduce you to our imaginary friend Brad. Brad is going on a date tonight. It’s a first date and he’s pretty excited. He thinks the woman he’s about to meet is really beautiful and that she makes a great prospect.
 
-Brad sits down for dinner and he starts talking. I am extremely rich. I have a big house and I drive a beautiful car. I know lots of famous people.
+Brad sits down for dinner and he starts talking. I am extremely rich. I have a big house and. I drive a beautiful car.
 
-I’m on TV all the time, which is good because I’m good looking. I’ve actually done pretty well for myself. The question is, does Brad get a second date? The way we communicate and the way we behave is all a matter of biology.
+I know lots of famous people. I’m on TV all the time, which is good because. I’m good looking. I’ve actually done pretty well for myself.
 
-That means we can make some comparisons between the things we do in our social lives and the things we do in our professional lives. After all, people are people. To learn how to apply. Why to a business situation, you needn’t look much farther than how we act on a date.
+The question is, does Brad get a second date? The way we communicate and the way we behave is all a matter of biology. That means we can make some comparisons between the things we do in our social lives and the things we do in our professional lives. After all, people are people.
 
-Because, in reality, there is no difference between sales and dating. In both circumstances, you sit across a table from someone and hope to say enough of the right things to close the deal. Of course, you could always opt for a manipulation or two, a fancy dinner, dropping hints of tickets that you have or whom you know. Depending on how badly you want to close the deal, you could tell them anything they want to hear.
+To learn how to apply. Why to a business situation, you needn’t look much farther than how we act on a date. Because, in reality, there is no difference between sales and dating. In both circumstances, you sit across a table from someone and hope to say enough of the right things to close the deal.
 
-Promise them the world and the odds are good that you will close the deal. Once. Maybe twice. With time, however, maintaining that relationship will cost more and more.
+Of course, you could always opt for a manipulation or two, a fancy dinner, dropping hints of tickets that you have or whom you know. Depending on how badly you want to close the deal, you could tell them anything they want to hear. Promise them the world and the odds are good that you will close the deal. Once.
 
-No matter the manipulations you choose, this is not the way to build a trusting relationship. In Brad’s case, it is obvious that the date did not go well. The odds are not good that he will get a second date, and he’s certainly not done a good job of laying down the foundation to build a relationship. Ironically, the woman’s initial interest may have been generated based on those elements.
+Maybe twice. With time, however, maintaining that relationship will cost more and more. No matter the manipulations you choose, this is not the way to build a trusting relationship. In Brad’s case, it is obvious that the date did not go well.
 
-She agreed to go on the date because her friends told her that Brad was good looking and that he had a good job and that he knew a lot of famous people. Even though all those things may be true, what’s don’t drive decision making, what’s should be used as proof of why, and the date plainly fell flat. Let’s send Brad out again, but this time he’s going to start with why. You know what I love about my life?
+The odds are not good that he will get a second date, and he’s certainly not done a good job of laying down the foundation to build a relationship. Ironically, the woman’s initial interest may have been generated based on those elements. She agreed to go on the date because her friends told her that Brad was good looking and that he had a good job and that he knew a lot of famous people. Even though all those things may be true, what’s don’t drive decision making, what’s should be used as proof of why, and the date plainly fell flat.
 
-He starts this time. I get to wake up every day to do something I love. I get to inspire people to do the things that inspire them. It’s the most wonderful thing in the world.
+Let’s send Brad out again, but this time he’s going to start with why. You know what. I love about my life? He starts this time.
 
-In fact, the best part is trying to figure out all the different ways I can do that. It really is amazing. And believe it or not, I’ve actually been able to make a lot of money from it. I bought a big house and a nice car.
+I get to wake up every day to do something. I love. I get to inspire people to do the things that inspire them. It’s the most wonderful thing in the world.
 
-I get to meet lots of famous people and I get to be on TV all the time, which is fun, because I’m good looking. I’m very lucky that I’m doing something that I love, I’ve actually been able to do pretty well because of it. This time the chances Brad will get a second date, assuming that whoever is sitting across from him believes what he believes, went up exponentially. More importantly, he’s also laying a good foundation for a relationship, one based on values and beliefs.
+In fact, the best part is trying to figure out all the different ways. I can do that. It really is amazing. And believe it or not, I’ve actually been able to make a lot of money from it.
 
-He said all the same things as on the first date, the only difference is he started with Y. and all the what’s, all the tangible benefits, served as proof of that why. Now consider how most companies do business. Someone sits down across a table from you, they’ve heard you’re a good prospect, and they start talking. Our company is extremely successful.
+I bought a big house and a nice car. I get to meet lots of famous people and. I get to be on TV all the time, which is fun, because. I’m good looking.
 
-We have beautiful offices, you should stop by and check them out sometime. We do business with all the biggest companies and brands. I’m sure you’ve seen our advertising. We’re actually doing pretty well.
+I’m very lucky that. I’m doing something that. I love, I’ve actually been able to do pretty well because of it. This time the chances Brad will get a second date, assuming that whoever is sitting across from him believes what he believes, went up exponentially.
 
-In business, like a bad date, many companies work so hard to prove their value without saying why they exist in the first place. You’ll have to do more than show your resume before someone finds you appealing, however. But that is exactly what companies do. They provide you with a long list of their experience, what they’ve done, whom they know, all with the idea that you will find them so desirable that you will have to drop everything to do business with them.
+More importantly, he’s also laying a good foundation for a relationship, one based on values and beliefs. He said all the same things as on the first date, the only difference is he started with Y. and all the what’s, all the tangible benefits, served as proof of that why. Now consider how most companies do business. Someone sits down across a table from you, they’ve heard you’re a good prospect, and they start talking.
 
-People are people and the biology of decision making is the same no matter whether it is a personal decision or a business decision.
+Our company is extremely successful. We have beautiful offices, you should stop by and check them out sometime. We do business with all the biggest companies and brands. I’m sure you’ve seen our advertising.
+
+We’re actually doing pretty well. In business, like a bad date, many companies work so hard to prove their value without saying why they exist in the first place. You’ll have to do more than show your resume before someone finds you appealing, however. But that is exactly what companies do.
+
+They provide you with a long list of their experience, what they’ve done, whom they know, all with the idea that you will find them so desirable that you will have to drop everything to do business with them. People are people and the biology of decision making is the same no matter whether it is a personal decision or a business decision.
 
 
 <a id="sec-021609"></a>
 ### ⏱️ [02:16:09 - 02:21:11]
 
-It’s obvious that in the dating scenario it was a bad date, so why would we expect it to be any different in the business scenario? Like on a date, it is exceedingly difficult to start building a trusting relationship with a potential customer or client by trying to convince them of all the rational features and benefits. Those things are important, but they serve only to give credibility to a sales pitch and allow buyers to rationalize their purchase decision. As with all decisions, people don’t buy what you do, they buy why you do it, and what you do serves as the tangible proof of why you do it.
+It’s obvious that in the dating scenario it was a bad date, so why would we expect it to be any different in the business scenario? Like on a date, it is exceedingly difficult to start building a trusting relationship with a potential customer or client by trying to convince them of all the rational features and benefits. Those things are important, but they serve only to give credibility to a sales pitch and allow buyers to rationalize their purchase decision.
 
-But unless you start with why, all people have to go on other rational benefits. And chances are you won’t get a second date. Here’s the alternative, you know what I love about our company, every single one of us comes to work every day to do something we love. We get to inspire people to do the things that inspire them.
+As with all decisions, people don’t buy what you do, they buy why you do it, and what you do serves as the tangible proof of why you do it. But unless you start with why, all people have to go on other rational benefits. And chances are you won’t get a second date. Here’s the alternative, you know what.
 
-It’s the most wonderful thing in the world. In fact, the fun part is trying to figure out all the different ways we can do that. It really is amazing. The best part is, it is also good for business.
+I love about our company, every single one of us comes to work every day to do something we love. We get to inspire people to do the things that inspire them. It’s the most wonderful thing in the world.
 
-We do really well. We have beautiful offices, you should stop by some time to see. We work with some of the biggest companies. I’m sure you’ve seen our ads.
+In fact, the fun part is trying to figure out all the different ways we can do that. It really is amazing. The best part is, it is also good for business. We do really well.
 
-We’re actually doing pretty well. Now, how certain are you that the second pitch was better than the first? Three degrees of certainty when we can only provide a rational basis for a decision, when we can only point to tangible elements or rational measurements, the highest level of confidence we can give is, I think this is the right decision. That would be biologically accurate because we’re activating the neocortex, the thinking part of our brain.
+We have beautiful offices, you should stop by some time to see. We work with some of the biggest companies. I’m sure you’ve seen our ads. We’re actually doing pretty well.
 
-At a neocortical level we can verbalize our thoughts. This is what’s happening when we spend all that time sifting through the pros and cons, listening to all the differences between plasma or LCD, Tel versus HP. When we make gut decisions, the highest level of confidence we can offer is, the decision feels right, even if it flies in the face of all the facts and figures. Again, this is biologically accurate, because gut decisions happen in the part of the brain that controls our emotions, not language.
+Now, how certain are you that the second pitch was better than the first? Three degrees of certainty when we can only provide a rational basis for a decision, when we can only point to tangible elements or rational measurements, the highest level of confidence we can give is, I think this is the right decision. That would be biologically accurate because we’re activating the neocortex, the thinking part of our brain. At a neocortical level we can verbalize our thoughts.
+
+This is what’s happening when we spend all that time sifting through the pros and cons, listening to all the differences between plasma or LCD, Tel versus HP. When we make gut decisions, the highest level of confidence we can offer is, the decision feels right, even if it flies in the face of all the facts and figures. Again, this is biologically accurate, because gut decisions happen in the part of the brain that controls our emotions, not language.
 
 Ask the most successful entrepreneurs and leaders what their secret is and invariably they all say the same thing, I trust my gut. The times things went wrong, they will tell you, I listened to what others were telling me, even though it didn’t feel right. I should have trusted my gut. It’s a good strategy, except it’s not scalable.
 
 The gut decision can only be made by a single person. It’s a perfectly good strategy for an individual or a small organization, but what happens when success necessitates that more people be able to make decisions that feel right? That’s when the power of Y can be fully realized. The ability to put a Y into words provides the emotional context for decisions.
 
-It offers greater confidence than I think it’s right. It’s more scalable than I feel it’s right. When you know your Y, the highest level of confidence you can offer is, I know it’s right. When you know the decision is right, not only does it feel right, but you can also rationalize it and easily put it into words.
+It offers greater confidence than. I think it’s right. It’s more scalable than. I feel it’s right.
 
-The decision is fully balanced. The rational what’s offer proof for the feeling of Y. If you can verbalize the feeling that drove the gut decision, if you can clearly state your Y, you’ll provide a clear context for those around you to understand why that decision was made. If the decision is consistent with the facts and figures, then those facts and figures serve to reinforce the decision, this is balance.
+When you know your Y, the highest level of confidence you can offer is, I know it’s right. When you know the decision is right, not only does it feel right, but you can also rationalize it and easily put it into words. The decision is fully balanced. The rational what’s offer proof for the feeling of Y.
 
-And if the decision flies in the face of all the facts and figures then it will highlight the other factors that need to be considered. It can turn a controversial decision from a debate into a discussion. My former business partner, for example, would get upset when I turned away business. I would tell him that a potential client didn’t feel right.
+If you can verbalize the feeling that drove the gut decision, if you can clearly state your Y, you’ll provide a clear context for those around you to understand why that decision was made. If the decision is consistent with the facts and figures, then those facts and figures serve to reinforce the decision, this is balance. And if the decision flies in the face of all the facts and figures then it will highlight the other factors that need to be considered.
 
-That would frustrate him to no end because the client’s money was as good as everyone else’s, he would tell me. He couldn’t understand the reason for my decision and, worse, I couldn’t explain it. It was just a feeling I had.
+It can turn a controversial decision from a debate into a discussion. My former business partner, for example, would get upset when. I turned away business. I would tell him that a potential client didn’t feel right.
 
-In contrast, these days I can easily explain why I’m in business, to inspire people to do the things that inspire them. If I were to make the same decision now for the same gut reason, there is no debate because everyone is clear why the decision was made. We turn away business because those potential clients don’t believe what we believe and they are not interested in anything to do with inspiring people.
+That would frustrate him to no end because the client’s money was as good as everyone else’s, he would tell me. He couldn’t understand the reason for my decision and, worse, I couldn’t explain it. It was just a feeling. I had.
+
+In contrast, these days. I can easily explain why. I’m in business, to inspire people to do the things that inspire them. If.
+
+I were to make the same decision now for the same gut reason, there is no debate because everyone is clear why the decision was made. We turn away business because those potential clients don’t believe what we believe and they are not interested in anything to do with inspiring people.
 
 
 <a id="sec-022111"></a>
@@ -942,25 +984,29 @@ When we are selective about doing business only with those who believe in our wh
 
 #### Part 3, Leaders Need a Following The emergence of trust to say that most of the company’s employees were embarrassed to work there was an understatement. It was no secret that the employees felt mistreated. And if a company mistreats their people, just watch how the employees treat their customers. Mud rolls down a hill, and if you’re the one standing at the bottom, you get hit with the full brunt.
 
-In a company, that’s usually the customer. Throughout the 1980s, this was life at Continental Airlines, the worst airline in the industry. I could see Continental’s biggest problem the second I walked in the door in February of 1994, Gordon Bethune wrote in From Worst to First, the chief executive’s first-hand account of Continental’s turnaround. It was a crummy place to work.
+In a company, that’s usually the customer. Throughout the 1980s, this was life at Continental Airlines, the worst airline in the industry. I could see Continental’s biggest problem the second. I walked in the door in February of 1994, Gordon Bethune wrote in.
 
-Employees were surly to customers, surly to each other, and ashamed of their company. And you can’t have a good product without people who like coming to work. It just can’t be done, he recounts. It just can’t.
+From Worst to First, the chief executive’s first-hand account of Continental’s turnaround. It was a crummy place to work. Employees were surly to customers, surly to each other, and ashamed of their company. And you can’t have a good product without people who like coming to work.
 
-Herb Kelleher, the head of Southwest for 20 years, was considered a heretic for positing the notion that it is a company’s responsibility to look after the employees first. Happy employees ensure happy customers, he said. And happy customers ensure happy shareholders, in that order. Fortunately, Bethune shared this heretical belief.
+It just can’t be done, he recounts. It just can’t. Herb Kelleher, the head of Southwest for 20 years, was considered a heretic for positing the notion that it is a company’s responsibility to look after the employees first. Happy employees ensure happy customers, he said.
 
-Some would argue that the reason Continental’s culture was so poisonous was that the company was struggling. They would tell you that it’s hard for executives to focus on anything other than survival when a company is facing hard times. Once we get profitable again, the logic went, then we will take a look at everything else. And without a doubt, throughout the 1980s and early 1990s, Continental struggled.
+And happy customers ensure happy shareholders, in that order. Fortunately, Bethune shared this heretical belief. Some would argue that the reason Continental’s culture was so poisonous was that the company was struggling. They would tell you that it’s hard for executives to focus on anything other than survival when a company is facing hard times.
 
-The company filed for Chapter 11 bankruptcy protection twice in 8 years, once in 1983 and again in 1991, and managed to go through 10 course in a decade. In 1994, the year Bethune took over as the newest CEO, the company had lost $600 million and ranked last in every measurable performance category. But all that didn’t last long once Bethune arrived. The very next year Continental made $250 million and was soon ranked as one of the best companies to work for in America.
+Once we get profitable again, the logic went, then we will take a look at everything else. And without a doubt, throughout the 1980s and early 1990s, Continental struggled. The company filed for.
 
-And while Bethune made significant changes to improve the operations, the greatest gains were in a performance category that is nearly impossible to measure – trust. Trust does not emerge simply because a seller makes a rational case why the customer should buy a product or service, or because an executive promises change. Trust is not a checklist. Fulfilling all your responsibilities does not create trust.
+#### Chapter 11 bankruptcy protection twice in 8 years, once in 1983 and again in 1991, and managed to go through 10 course in a decade.
 
-Trust is a feeling, not a rational experience. We trust some people and companies even when things go wrong, and we don’t trust others even though everything might have gone exactly as it should have. A completed checklist does not guarantee trust. Trust begins to emerge when we have a sense that another person or organization is driven by things other than their own self-gain.
+In 1994, the year Bethune took over as the newest CEO, the company had lost $600 million and ranked last in every measurable performance category. But all that didn’t last long once Bethune arrived. The very next year Continental made $250 million and was soon ranked as one of the best companies to work for in America. And while Bethune made significant changes to improve the operations, the greatest gains were in a performance category that is nearly impossible to measure – trust.
 
-With trust comes a sense of value, real value, not just value equated with money. Value, by definition, is the transference of trust. You can’t convince someone you have value, just as you can’t convince someone to trust you. You have to earn trust by communicating and demonstrating that you share the same values and beliefs.
+Trust does not emerge simply because a seller makes a rational case why the customer should buy a product or service, or because an executive promises change. Trust is not a checklist. Fulfilling all your responsibilities does not create trust. Trust is a feeling, not a rational experience.
 
-You have to talk about your why and prove it with what you do. Again, a why is just a belief, how’s are the actions we take to realize that belief, and what’s are the results of those actions? When all three are in balance, trust is built and value is perceived. This is what Bethune was able to do.
+We trust some people and companies even when things go wrong, and we don’t trust others even though everything might have gone exactly as it should have. A completed checklist does not guarantee trust. Trust begins to emerge when we have a sense that another person or organization is driven by things other than their own self-gain. With trust comes a sense of value, real value, not just value equated with money.
 
-There are many talented executives with the ability to manage operations, but great leadership is not based solely on great operational ability. Leading is not the same as being the leader. Being the leader means you hold the highest rank, either by earning it, good fortune or navigating internal politics. Leading, however, means that others willingly follow you, not because they have to, not because they are paid to, but because they want to.
+Value, by definition, is the transference of trust. You can’t convince someone you have value, just as you can’t convince someone to trust you. You have to earn trust by communicating and demonstrating that you share the same values and beliefs. You have to talk about your why and prove it with what you do.
+
+Again, a why is just a belief, how’s are the actions we take to realize that belief, and what’s are the results of those actions? When all three are in balance, trust is built and value is perceived. This is what Bethune was able to do. There are many talented executives with the ability to manage operations, but great leadership is not based solely on great operational ability.
+
+Leading is not the same as being the leader. Being the leader means you hold the highest rank, either by earning it, good fortune or navigating internal politics. Leading, however, means that others willingly follow you, not because they have to, not because they are paid to, but because they want to.
 
 
 <a id="sec-022616"></a>
@@ -974,23 +1020,23 @@ One story handed down was that Frank Lorenzo would not even drink a soda on a Co
 
 He understood that beyond the structure and systems a company is nothing more than a collection of people. You don’t lie to your own doctor, he says, and you can’t lie to your own employees. Bethune set out to change the culture by giving everyone something they could believe in. And what, specifically, did he give them to believe in that could turn the worst airline in the industry into the best airline in the industry with all the same people and all the same equipment?
 
-In college I had a roommate named Howard Juruchimovitz. Now an attorney in Chicago, Howard learned from an early age about a very simple human desire. Growing up in the suburbs of New York City, he played outfield on the worst team in the Little League. They lost nearly every game they played, and not by small margins either, they were regularly annihilated.
+In college. I had a roommate named Howard Juruchimovitz. Now an attorney in Chicago, Howard learned from an early age about a very simple human desire. Growing up in the suburbs of New York City, he played outfield on the worst team in the Little League.
 
-Their coach was a good man and wanted to instill a positive attitude in the young athletes. After one of their more embarrassing losses, the coach pulled the team together and reminded them, it doesn’t matter who wins or loses, what matters is how you play the game, loses, what. It was at this point that young Howard raised his hand and asked, then why do we keep score? Howard understood from a very young age the very human desire to win.
+They lost nearly every game they played, and not by small margins either, they were regularly annihilated. Their coach was a good man and wanted to instill a positive attitude in the young athletes. After one of their more embarrassing losses, the coach pulled the team together and reminded them, it doesn’t matter who wins or loses, what matters is how you play the game, loses, what. It was at this point that young Howard raised his hand and asked, then why do we keep score?
 
-No one likes to lose, and most healthy people live their life to win. The only variation is the score we use. For some it’s money, for others it’s fame or awards. For some it’s power, love, a family or spiritual fulfillment.
+Howard understood from a very young age the very human desire to win. No one likes to lose, and most healthy people live their life to win. The only variation is the score we use. For some it’s money, for others it’s fame or awards.
 
-The metric is relative, but the desire is the same. A billionaire doesn’t need to work. Money becomes a way to keep score, a relative account of how things are going. Even a billionaire who loses millions due to poor decisions can get depressed.
+For some it’s power, love, a family or spiritual fulfillment. The metric is relative, but the desire is the same. A billionaire doesn’t need to work. Money becomes a way to keep score, a relative account of how things are going.
 
-Although the money may have zero impact on his lifestyle, no one likes to lose. The drive to win is not, per se, a bad thing. Problems arise, however, when the metric becomes the only measure of success, when what you achieve is no longer tied to why you set out to achieve it in the first place. Bethune set out to prove to everyone at Continental that if they wanted to win, they could win.
+Even a billionaire who loses millions due to poor decisions can get depressed. Although the money may have zero impact on his lifestyle, no one likes to lose. The drive to win is not, per se, a bad thing. Problems arise, however, when the metric becomes the only measure of success, when what you achieve is no longer tied to why you set out to achieve it in the first place.
 
-And most of the employees stuck around to find out if he was right. There were a few exceptions. One executive who was once held up a plane because he was running late was asked to leave, as were 39 more of the top 60 executives who didn’t believe. No matter how experienced they were or what they brought to the table, they were asked to leave if they weren’t team players and weren’t able to adapt to the new culture that Bethune was trying to build.
+Bethune set out to prove to everyone at Continental that if they wanted to win, they could win. And most of the employees stuck around to find out if he was right. There were a few exceptions. One executive who was once held up a plane because he was running late was asked to leave, as were 39 more of the top 60 executives who didn’t believe.
 
-There was no room for those who didn’t believe in the new continental. Bethune knew that building a team to go out and win meant more than giving a few rara speeches and bonuses for the top brass if they hit certain revenue targets. He knew that if he wanted to build a real, lasting success, people had to win not for him, not for the shareholders and not even for the customer. For the success to last the employees of continental had to want to win for themselves.
+No matter how experienced they were or what they brought to the table, they were asked to leave if they weren’t team players and weren’t able to adapt to the new culture that Bethune was trying to build. There was no room for those who didn’t believe in the new continental. Bethune knew that building a team to go out and win meant more than giving a few rara speeches and bonuses for the top brass if they hit certain revenue targets.
 
-Everything he talked about was in terms of how it benefited the employees. Instead of telling them to keep the planes clean for customers, he pointed out something more obvious. Every day they came to work on a plane. The passengers left after their flight, but many of the flight attendants had to stay on for at least one more trip.
+He knew that if he wanted to build a real, lasting success, people had to win not for him, not for the shareholders and not even for the customer. For the success to last the employees of continental had to want to win for themselves. Everything he talked about was in terms of how it benefited the employees. Instead of telling them to keep the planes clean for customers, he pointed out something more obvious.
 
-It’s just nicer to come to work when the environment is cleaner. Bethune also got rid of all the security on the 20th floor.
+Every day they came to work on a plane. The passengers left after their flight, but many of the flight attendants had to stay on for at least one more trip. It’s just nicer to come to work when the environment is cleaner. Bethune also got rid of all the security on the 20th floor.
 
 
 <a id="sec-023119"></a>
@@ -1028,27 +1074,29 @@ And assuming they are good fits for what Americans believe and how they do thing
 <a id="sec-023621"></a>
 ### ⏱️ [02:36:21 - 02:41:23]
 
-will say of America, I love it here, or I love this country. This visceral reaction has less to do with America and more to do with them. It’s how they feel about their own opportunity and their own ability to thrive in a culture in which they feel like they belong versus the one they came from. And within the big Y that is America, it breaks down even further.
+will say of America, I love it here, or. I love this country. This visceral reaction has less to do with America and more to do with them. It’s how they feel about their own opportunity and their own ability to thrive in a culture in which they feel like they belong versus the one they came from.
 
-Some people are better fits in New York and some are better fits in Minneapolis. One culture is not better or worse than the other, they are just different. Many people dream of moving to New York, for example, attracted to the glamour or the perception of opportunity. They arrive with aspirations of making it big, but they fail to consider whether they will fit into the culture before they make their move.
+And within the big Y that is America, it breaks down even further. Some people are better fits in New York and some are better fits in Minneapolis. One culture is not better or worse than the other, they are just different. Many people dream of moving to New York, for example, attracted to the glamour or the perception of opportunity.
 
-Some make it. But so many don’t. Over and over, I’ve seen people come to New York with big hopes and dreams, but either couldn’t find the job they wanted or they found it but couldn’t take the pressure. They are not dumb or bad or poor workers.
+They arrive with aspirations of making it big, but they fail to consider whether they will fit into the culture before they make their move. Some make it. But so many don’t. Over and over, I’ve seen people come to New York with big hopes and dreams, but either couldn’t find the job they wanted or they found it but couldn’t take the pressure.
 
-They were just bad fits. They either stay in New York and exert more effort than they need to, hating their jobs and their lives, or they move. If they move to a city in which they are better fits, Chicago or San Francisco or somewhere else, they often end up much happier and more successful. New York is not rationally better than other cities, it’s just not right for everyone.
+They are not dumb or bad or poor workers. They were just bad fits. They either stay in New York and exert more effort than they need to, hating their jobs and their lives, or they move. If they move to a city in which they are better fits, Chicago or San Francisco or somewhere else, they often end up much happier and more successful.
 
-Like all cities, it’s only right for those who are good fits. The same can be said for any place that has a strong culture or recognisable personality. We do better in cultures in which we are good fits. We do better in places that reflect our own values and beliefs.
+New York is not rationally better than other cities, it’s just not right for everyone. Like all cities, it’s only right for those who are good fits. The same can be said for any place that has a strong culture or recognisable personality. We do better in cultures in which we are good fits.
 
-Just as the goal is not to do business with anyone who simply wants what you have, but to do business with people who believe what you believe, so too is it beneficial to live and work in a place where you will naturally thrive because your values and beliefs align with the values and beliefs of that culture. Now consider what a company is. A company is a culture. A group of people brought together around a common set of values and beliefs.
+We do better in places that reflect our own values and beliefs. Just as the goal is not to do business with anyone who simply wants what you have, but to do business with people who believe what you believe, so too is it beneficial to live and work in a place where you will naturally thrive because your values and beliefs align with the values and beliefs of that culture. Now consider what a company is. A company is a culture.
 
-It’s not products or services that bind a company together. It’s not size and might that make a company strong, it’s the culture, the strong sense of beliefs and values that everyone, from the CEO to the receptionist, all share. Although the logic follows, the goal is not to hire people who simply have a skill set you need, the goal is to hire people who believe what you believe. Finding the people who believe what you believe early in the 20th century, the English adventurer Ernest Shackleton set out to explore the Antarctic.
+A group of people brought together around a common set of values and beliefs. It’s not products or services that bind a company together. It’s not size and might that make a company strong, it’s the culture, the strong sense of beliefs and values that everyone, from the CEO to the receptionist, all share. Although the logic follows, the goal is not to hire people who simply have a skill set you need, the goal is to hire people who believe what you believe.
 
-Roald Amundsen, a Norwegian, had only just become the first explorer ever to reach the South Pole, leaving one remaining conquest, the crossing of the continent via the southernmost tip of the earth. The land part of the expedition would start at the frigid Weddell Sea, below South America, and travel 1,700 miles across the pole to the Ross Sea, below New Zealand. The cost, Shackleton estimated at the time, would be about $250,000. The crossing of the South Polar continent will be the biggest polar journey ever attempted, Shackleton told a reporter for the New York Times on December 29, 1913.
+Finding the people who believe what you believe early in the 20th century, the English adventurer Ernest Shackleton set out to explore the Antarctic. Roald Amundsen, a Norwegian, had only just become the first explorer ever to reach the South Pole, leaving one remaining conquest, the crossing of the continent via the southernmost tip of the earth. The land part of the expedition would start at the frigid Weddell Sea, below South America, and travel 1,700 miles across the pole to the Ross Sea, below New Zealand.
 
-The unknown fields in the world which are still unconquered are narrowing down, but there still remains this great work. On December 5, 1914, Shackleton and a crew of 27 men set out for the Weddell Sea on the Endurance, a 350-ton ship that had been constructed with funds from private donors, the British government and the Royal Geographical Society. By then, World War I was raging in Europe, and money was growing more scarce. Donations from English school children paid for the dog teams. But the crew of the Endurance would never reach the continent of Antarctica.
+The cost, Shackleton estimated at the time, would be about $250,000. The crossing of the South Polar continent will be the biggest polar journey ever attempted, Shackleton told a reporter for the New York Times on December 29, 1913. The unknown fields in the world which are still unconquered are narrowing down, but there still remains this great work. On December 5, 1914, Shackleton and a crew of 27 men set out for the Weddell Sea on the Endurance, a 350-ton ship that had been constructed with funds from private donors, the British government and the Royal Geographical Society.
 
-Just a few days out of South Georgia Island in the southern Atlantic, the ship encountered mile after mile of pack ice, and was soon trapped as winter moved in early and with fury. Ice closed in around the ship like an arm and in a piece of toffee, a crew member wrote. Shackleton and his crew were stranded in the Antarctic for 10 months as the Endurance drifted slowly north, until the pressure of the ice flows finally crushed the ship. On November 21, 1915, the crew watched as she sank in the frigid waters of the Weddell Sea.
+By then, World War. I was raging in Europe, and money was growing more scarce. Donations from English school children paid for the dog teams. But the crew of the Endurance would never reach the continent of Antarctica.
 
-Stranded on the ice, the crew of the Endurance boarded their three lifeboats and landed on tiny elephant island. There Shackleton left behind all but five of his men and embarked on a hazardous journey across 800 miles of rough seas to find help. Which, eventually, they did.
+Just a few days out of South Georgia Island in the southern Atlantic, the ship encountered mile after mile of pack ice, and was soon trapped as winter moved in early and with fury. Ice closed in around the ship like an arm and in a piece of toffee, a crew member wrote. Shackleton and his crew were stranded in the Antarctic for 10 months as the Endurance drifted slowly north, until the pressure of the ice flows finally crushed the ship.
+
+On November 21, 1915, the crew watched as she sank in the frigid waters of the Weddell Sea. Stranded on the ice, the crew of the Endurance boarded their three lifeboats and landed on tiny elephant island. There Shackleton left behind all but five of his men and embarked on a hazardous journey across 800 miles of rough seas to find help. Which, eventually, they did.
 
 
 <a id="sec-024123"></a>
@@ -1074,7 +1122,7 @@ When employees belong, they will guarantee your success. And they won’t be wor
 
 Their ability to find people who embody their cause makes it much easier for them to provide great service. As Herb Keller famously said, you don’t hire for skills, you hire for attitude. You can always teach skills. This is all fine and good, the problem is, which attitude?
 
-What if their attitude is not one that fits your culture? I love asking companies whom they like to hire, and one of the most common answers I am given is, we hire only passionate people. But how do you know if someone is passionate for interviewing, but not so passionate for working?
+What if their attitude is not one that fits your culture? I love asking companies whom they like to hire, and one of the most common answers. I am given is, we hire only passionate people. But how do you know if someone is passionate for interviewing, but not so passionate for working?
 
 The truth is, almost every person on the planet is passionate, we are just not all passionate for the same things. Starting with why when hiring dramatic increases your ability to attract those who are passionate for what you believe. Simply hiring people with a solid resume or great work ethic does not guarantee success. The best engineer at Apple, for example, would likely be miserable if he worked at Microsoft.
 
@@ -1090,19 +1138,21 @@ For years, Southwest didn’t have a complaints department, they didn’t need o
 
 figuring out why some people were such good fits and then developing systems to find more of them. In the 1970s, Southwest Airlines decided to put their flight attendants in hot pants and go-go boots as part of their uniforms, hey, it was the 1970s. It wasn’t their idea, Pacific Southwest, the California based airline after which Southwest modeled itself, did it first, Southwest simply copied them. Unlike Pacific Southwest, however, Southwest figured out something that would prove invaluable.
 
-They realized that when they recruited flight attendants, the only people who applied for the job were cheerleaders and major rats. That’s because they were the only people who didn’t mind wearing the new uniforms. Cheerleaders and major rats, however, fit in perfectly at Southwest. They didn’t just have a great attitude, their whole disposition was about cheering people on, spreading optimism, leading crowds to believe that we can win. They were perfect fits at a company that was the champion of the common man.
+They realized that when they recruited flight attendants, the only people who applied for the job were cheerleaders and major rats. That’s because they were the only people who didn’t mind wearing the new uniforms. Cheerleaders and major rats, however, fit in perfectly at Southwest. They didn’t just have a great attitude, their whole disposition was about cheering people on, spreading optimism, leading crowds to believe that we can win.
 
-Realizing this, Southwest started to recruit only cheerleaders and major rats. Great companies don’t hire skilled people and motivate them, they hire already motivated people and inspire them. People are either motivated or they are not. Unless you give motivated people something to believe in, something bigger than their job to work toward, they will motivate themselves to find a new job and you’ll be stuck with whoever’s left.
+They were perfect fits at a company that was the champion of the common man. Realizing this, Southwest started to recruit only cheerleaders and major rats. Great companies don’t hire skilled people and motivate them, they hire already motivated people and inspire them. People are either motivated or they are not.
 
-Give a MacCathhedral consider the story of two stonemasons. You walk up to the first stonemason and ask, do you like your job? He looks up at you and replies, I’ve been building this wall for as long as I can remember. The work is monotonous.
+Unless you give motivated people something to believe in, something bigger than their job to work toward, they will motivate themselves to find a new job and you’ll be stuck with whoever’s left. Give a MacCathhedral consider the story of two stonemasons. You walk up to the first stonemason and ask, do you like your job? He looks up at you and replies, I’ve been building this wall for as long as.
 
-I work in the scorching hot sun all day. The stones are heavy and lifting them day after day can be backbreaking. I’m not even sure if this project will be completed in my lifetime. But it’s a job.
+I can remember. The work is monotonous. I work in the scorching hot sun all day. The stones are heavy and lifting them day after day can be backbreaking.
 
-It pays the bills. You thank him for his time and walk on. About 30 feet away, you walk up to a second stonemason. You ask him the same question, do you like your job?
+I’m not even sure if this project will be completed in my lifetime. But it’s a job. It pays the bills. You thank him for his time and walk on.
 
-He looks up and replies, I love my job. I’m building a cathedral. Sure, I’ve been working on this wall for as long as I can remember, and yes, the work is sometimes monotonous. I work in the scorching hot sun all day.
+About 30 feet away, you walk up to a second stonemason. You ask him the same question, do you like your job? He looks up and replies, I love my job. I’m building a cathedral.
 
-The stones are heavy and lifting them day after day can be backbreaking. I’m not even sure if this project will be completed in my lifetime. But I’m building a cathedral. What these two stonemasons are doing is exactly the same.
+Sure, I’ve been working on this wall for as long as. I can remember, and yes, the work is sometimes monotonous. I work in the scorching hot sun all day. The stones are heavy and lifting them day after day can be backbreaking.
+
+I’m not even sure if this project will be completed in my lifetime. But. I’m building a cathedral. What these two stonemasons are doing is exactly the same.
 
 The difference is, one has a sense of purpose. He feels like he belongs. He comes to work to be a part of something bigger than the job he’s doing. Simply having a sense of why changes his entire view of his job.
 
@@ -1160,19 +1210,19 @@ Both had a strong work ethic. Both had keen scientific minds. What the Wright br
 
 One was motivated by the prospect of fame and wealth, the other by a belief. The Wright brothers excited the human spirit of those around them. Langley paid for talent to help him get rich and famous. The Wright brothers started with why.
 
-Further proof Langley was motivated by what? A few days after Orville and Wilbur took flight, Langley quit. He got out of the business. He could have said, that’s amazing, now I’m going to improve upon their technology.
+Further proof Langley was motivated by what? A few days after Orville and Wilbur took flight, Langley quit. He got out of the business. He could have said, that’s amazing, now.
 
-But he didn’t. He found the defeat humiliating, his own test flight had landed in the Potomac River, and the newspapers all made fun of him. He cared so much about what others thought of him, he was so preoccupied with becoming famous. He wasn’t first, so he simply quits.
+I’m going to improve upon their technology. But he didn’t. He found the defeat humiliating, his own test flight had landed in the Potomac River, and the newspapers all made fun of him. He cared so much about what others thought of him, he was so preoccupied with becoming famous.
 
-Innovation happens at the edges. Dream teams are not always so dreamy. Edges dream. When a team of experts comes together they often work for themselves and not for the good of the whole.
+He wasn’t first, so he simply quits. Innovation happens at the edges. Dream teams are not always so dreamy. Edges dream.
 
-This is what happens when companies feel the need to pay mega salaries to get the best talent. Those people are not necessarily showing up because they believe in your why, they are showing up for the money. A classic manipulation. Paying someone a lot of money and asking them to come up with great ideas ensures very little.
+When a team of experts comes together they often work for themselves and not for the good of the whole. This is what happens when companies feel the need to pay mega salaries to get the best talent. Those people are not necessarily showing up because they believe in your why, they are showing up for the money. A classic manipulation.
 
-However, pulling together a team of like-minded people and giving them a cause to pursue ensures a greater sense of teamwork and camaraderie. Langley pulled together a dream team and promised them riches. The Wright Brothers inspired a group of people to join them in pursuit of something bigger than each member of the team. Average companies give their people something to work on.
+Paying someone a lot of money and asking them to come up with great ideas ensures very little. However, pulling together a team of like-minded people and giving them a cause to pursue ensures a greater sense of teamwork and camaraderie. Langley pulled together a dream team and promised them riches. The Wright Brothers inspired a group of people to join them in pursuit of something bigger than each member of the team.
 
-In contrast, the most innovative organizations give their people something to work toward. The role of a leader is not to come up with all the great ideas. The role of a leader is to create an environment in which great ideas can happen. It is the people inside the company, those on the front lines, who are best qualified to find new ways of doing things.
+Average companies give their people something to work on. In contrast, the most innovative organizations give their people something to work toward. The role of a leader is not to come up with all the great ideas. The role of a leader is to create an environment in which great ideas can happen.
 
-The people who answer the phones and talk to customers, for example, can tell you more about the kinds of questions they get than can anyone sitting in an executive suite miles away. If the people inside a company are told to come to work and just do their job, that’s all they will do. If they are constantly reminded why the company was founded and told to always look for ways to bring that cause to life while performing their job, however, then they will do more than their job.
+It is the people inside the company, those on the front lines, who are best qualified to find new ways of doing things. The people who answer the phones and talk to customers, for example, can tell you more about the kinds of questions they get than can anyone sitting in an executive suite miles away. If the people inside a company are told to come to work and just do their job, that’s all they will do. If they are constantly reminded why the company was founded and told to always look for ways to bring that cause to life while performing their job, however, then they will do more than their job.
 
 Steve Jobs, for example, did not personally come up with the iPod or iTunes or the iPhone. Others inside the company did. Jobs gave people a filter, a context, a higher purpose around which to innovate, find existing status quo industries, those in which companies fight to protect their old-fashioned business models, and challenge them. Why Apple was founded, it is what Jobs and Wozni acted when they started the company, and it is what Apple’s people and products have done ever since.
 
@@ -1198,17 +1248,19 @@ In 1971, Southwest was running low on cash and needed to sell one of their aircr
 
 Whereas most other airline employees would have simply said it couldn’t be done, Southwest’s people rallied to figure out how to perform the unprecedented and seemingly impossible task. Today, their innovation is still paying dividends. Because of increased airport congestion and larger planes and cargo loads, Southwest now takes about 25 minutes to turn their planes around.
 
-However, if they were to try to keep the same schedule but had even 5 minutes to the turn around time, they would need an additional 18 planes in their fleet at a cost of nearly a billion dollars. Southwest’s remarkable ability to solve problems, Apple’s remarkable knack for innovation and the Wright Brothers' ability to develop a technology with the team they had were all possible for the same reason, they believed they could and they trusted their people to do it. The definition of trust founded by Sir Francis Baring in 1762, Baring’s bank was the oldest merchant bank in England.
+However, if they were to try to keep the same schedule but had even 5 minutes to the turn around time, they would need an additional 18 planes in their fleet at a cost of nearly a billion dollars. Southwest’s remarkable ability to solve problems, Apple’s remarkable knack for innovation and the Wright Brothers' ability to develop a technology with the team they had were all possible for the same reason, they believed they could and they trusted their people to do it.
 
-The bank, which survived the Napoleonic Wars, World War I and World War II, was unable to survive the predilection for risk of one self-proclaimed rogue trader. Nick Leeson single-handedly brought down Baring’s bank in 1995 by performing some unauthorized, extremely high-risk trades. Had the proverbial winds continued to blow in the right direction, Leeson would have made himself and the bank extremely rich and he would have been hailed as a hero. But such is the nature of unpredictable things like the weather and financial markets.
+The definition of trust founded by Sir Francis Baring in 1762, Baring’s bank was the oldest merchant bank in England. The bank, which survived the Napoleonic Wars, World War. I and World War II, was unable to survive the predilection for risk of one self-proclaimed rogue trader. Nick Leeson single-handedly brought down Baring’s bank in 1995 by performing some unauthorized, extremely high-risk trades.
 
-Few dispute that what Leeson was doing was anything more than gambling. And gambling is very different from calculated risk. Calculated risk accepts that there can be great loses, but steps are taken to either guard against or respond to an unlikely but possible outcome. Even though an emergency landing on water is unlikely, as the airlines tell us, they still provide us life jackets.
+Had the proverbial winds continued to blow in the right direction, Leeson would have made himself and the bank extremely rich and he would have been hailed as a hero. But such is the nature of unpredictable things like the weather and financial markets. Few dispute that what Leeson was doing was anything more than gambling. And gambling is very different from calculated risk.
 
-And if only for peace of mind, we’re glad they do. To do otherwise is a gamble few airlines would be willing to take, even though the actuarial tables are heavily weighted on their side. Leeson strangely held two positions at Baring’s, ostensibly serving as both a trader and his own supervisor, but that fact is not interesting given the subject matter. That one man had such a tolerance for risk that he could create so much damage is not very interesting either.
+Calculated risk accepts that there can be great loses, but steps are taken to either guard against or respond to an unlikely but possible outcome. Even though an emergency landing on water is unlikely, as the airlines tell us, they still provide us life jackets. And if only for peace of mind, we’re glad they do. To do otherwise is a gamble few airlines would be willing to take, even though the actuarial tables are heavily weighted on their side.
 
-Both of those are short-term factors. Both would have ended if Leeson had either left the company or changed jobs, or if Baring’s had assigned a new supervisor to oversee his operations. What is more interesting is the culture at the bank that could allow these conditions to exist in the first place. Baring’s had lost its way.
+Leeson strangely held two positions at Baring’s, ostensibly serving as both a trader and his own supervisor, but that fact is not interesting given the subject matter. That one man had such a tolerance for risk that he could create so much damage is not very interesting either. Both of those are short-term factors. Both would have ended if Leeson had either left the company or changed jobs, or if Baring’s had assigned a new supervisor to oversee his operations.
 
-The culture at Baring’s was no longer one in which people came to work inspired, motivated, yes, but not inspired. Manipulated by the promise of massive payouts for performance, for sure, but not inspired to work in the best interest of the whole. As Leeson reported in his own account of how he got away with such risky behavior for so
+What is more interesting is the culture at the bank that could allow these conditions to exist in the first place. Baring’s had lost its way. The culture at Baring’s was no longer one in which people came to work inspired, motivated, yes, but not inspired. Manipulated by the promise of massive payouts for performance, for sure, but not inspired to work in the best interest of the whole.
+
+As Leeson reported in his own account of how he got away with such risky behavior for so
 
 
 <a id="sec-030632"></a>
@@ -1278,17 +1330,19 @@ He looked up from his radar screen and saw the enemy engaging him. Break right. 
 
 On October 9, 1988, Brigadier General John R. Jumper was killed. Captain Robinson waited. There was an eerie calm.
 
-Before too long, Jumper stormed into the debriefing room at Nellis Air Force Base. You got me killed. He barked at Captain Robinson. Situated in the Nevada desert, Nellis is home to the Air Force Fighter Weapons School, and on that day, General John Jumper took a direct hit from a simulated missile from another U. S. Air Force jet playing the part of an enemy combatant.
+Before too long, Jumper stormed into the debriefing room at Nellis Air Force Base. You got me killed. He barked at Captain Robinson. Situated in the Nevada desert, Nellis is home to the Air Force Fighter Weapons School, and on that day, General John Jumper took a direct hit from a simulated missile from another U.
 
-Sir, it was not my fault, Captain Robinson replied calmly. Check the video. You’ll see. General Jumper, then the 57th Wing Commander, a graduate of the USAF Fighter Weapons School, and a former instructor at Nellis, routinely evaluated every detail of every training mission he flew.
+S. Air Force jet playing the part of an enemy combatant. Sir, it was not my fault, Captain Robinson replied calmly. Check the video.
 
-Pilots often relied on the video to learn from their exercises. The video didn’t lie. And it didn’t on that day either. It revealed that the error was indeed his, not Captain Robinson’s.
+You’ll see. General Jumper, then the 57th Wing Commander, a graduate of the USAF Fighter Weapons School, and a former instructor at Nellis, routinely evaluated every detail of every training mission he flew. Pilots often relied on the video to learn from their exercises. The video didn’t lie.
 
-It was a classic blunder. He had forgotten he was part of a team. He had forgotten that what made him so good at his job was not just his ability. Jumper was one of the best because there were others who were looking out for him.
+And it didn’t on that day either. It revealed that the error was indeed his, not Captain Robinson’s. It was a classic blunder. He had forgotten he was part of a team.
 
-A massive infrastructure of people he couldn’t see. Without question General Jumper had been given the best equipment, the best technology and the best training that money could buy. But it was the mechanics, the teachers, his fellow pilots, the culture of the Air Force and Captain Robinson who ensured that he could trust himself to get the job done. General Jumper forgot why he was so good and made a split second decision that cost him his life.
+He had forgotten that what made him so good at his job was not just his ability. Jumper was one of the best because there were others who were looking out for him. A massive infrastructure of people he couldn’t see. Without question General Jumper had been given the best equipment, the best technology and the best training that money could buy.
 
-But this is what training is for, to learn these lessons. Some 16 years after his lesson over the Nevada desert, General Jumper went on to big things. An hour retired 4-star General, he served as Chief of Staff of the U. S. Air Force from 2001 to 2005, the highest ranking uniformed office in the entire Air Force, responsible for the organization, training and equipping of nearly 700,000 active duty, guard, reserve and civilian forces serving in the United States and overseas. As a member of the Joint Chiefs of Staff, he, along with the other service chiefs, advised the Secretary of Defense, the National Security Council and the President.
+But it was the mechanics, the teachers, his fellow pilots, the culture of the Air Force and Captain Robinson who ensured that he could trust himself to get the job done. General Jumper forgot why he was so good and made a split second decision that cost him his life. But this is what training is for, to learn these lessons. Some 16 years after his lesson over the Nevada desert, General Jumper went on to big things.
+
+An hour retired 4-star General, he served as Chief of Staff of the U. S. Air Force from 2001 to 2005, the highest ranking uniformed office in the entire Air Force, responsible for the organization, training and equipping of nearly 700,000 active duty, guard, reserve and civilian forces serving in the United States and overseas. As a member of the Joint Chiefs of Staff, he, along with the other service chiefs, advised the Secretary of Defense, the National Security Council and the President.
 
 This is not, however, a story about General Jumper. It is a story about Lori Robinson. Now herself a brigadier general in the Air Force, she no longer has her face down a scope. There are no more buggies and bandits, the Air Force’s nicknames for the good guys and the bad guys, in her life.
 
@@ -1304,29 +1358,31 @@ Being hard to clear a path for others so that they can confidently go on to do b
 
 exactly the same thing. As a woman in the very masculine world of the military, she sets an example for how to lead. Great leadership is not about flexing and intimidation, great leaders, as General Robinson proves, lead with why. They embody a sense of purpose that inspires those around them.
 
-General Robinson was so trusted as a weapons controller that it was not unusual for pilots in training to request that she be assigned to them. The greatest compliment I ever got was when people would say, when I go to war, I want Laurie on the radio, she says. She is the first woman in the history of the Air Force to command the 552nd Air Control Wing out of Tinker Air Force Base, one of the largest wings in Air Combat Command, the wing that flies the AWACS Airborne Control Aircraft, the fleet of Boeing 707s with the huge rotating radar dishes on top.
+General Robinson was so trusted as a weapons controller that it was not unusual for pilots in training to request that she be assigned to them. The greatest compliment. I ever got was when people would say, when. I go to war, I want Laurie on the radio, she says.
 
-She is the first commander of a combat wing ever who didn’t come up through the pilot ranks. She was the first female weapons school instructor to teach at the Air Force Fighter Weapons School, where the Air Force trains all its top guns. There, she became the most celebrated teacher in the ranks, winning Best Teacher 7 classes in a row. She is the first female director of the Secretary of the Air Force and Chief of Staff of the Air Force Executive Action Group.
+She is the first woman in the history of the Air Force to command the 552nd Air Control Wing out of Tinker Air Force Base, one of the largest wings in Air Combat Command, the wing that flies the AWACS Airborne Control Aircraft, the fleet of Boeing 707s with the huge rotating radar dishes on top. She is the first commander of a combat wing ever who didn’t come up through the pilot ranks. She was the first female weapons school instructor to teach at the Air Force Fighter Weapons School, where the Air Force trains all its top guns.
 
-In 2000, the Chairman of the Joint Chiefs of Staff said of General Robinson, at the time still a captain, that she singularly influenced his ideas on airpower. And the list goes on. By any measure, General Laurie Robinson is a remarkable leader. Some in management positions operate as if they are in a tree of monkeys.
+There, she became the most celebrated teacher in the ranks, winning Best Teacher 7 classes in a row. She is the first female director of the Secretary of the Air Force and Chief of Staff of the Air Force Executive Action Group. In 2000, the Chairman of the Joint Chiefs of Staff said of General Robinson, at the time still a captain, that she singularly influenced his ideas on airpower. And the list goes on.
 
-They make sure that everyone at the top of the tree looking down sees only smiles. But all too often, those at the bottom looking up see only asses. Though great leaders like General Robinson are respected by those both above and below. Those in her command trust her implicitly because they know she’s committed to looking after them.
+By any measure, General Laurie Robinson is a remarkable leader. Some in management positions operate as if they are in a tree of monkeys. They make sure that everyone at the top of the tree looking down sees only smiles. But all too often, those at the bottom looking up see only asses.
 
-There’s nothing you can do that I can’t fix, she was often heard telling students at fighter weapons school. And those to whom she reports show remarkable deference to her. I don’t know how she gets away with half the stuff she does, say those who know her. More importantly, it is said with a grin and with respect.
+Though great leaders like General Robinson are respected by those both above and below. Those in her command trust her implicitly because they know she’s committed to looking after them. There’s nothing you can do that. I can’t fix, she was often heard telling students at fighter weapons school.
 
-General Robinson’s ability to lead developed not because she’s the smartest or the nicest. She’s a great leader because she understands that earning the trust of an organization doesn’t come from setting out to impress everyone, it comes from setting out to serve those who serve her. It is the invisible trust that gives a leader the following they need to get things done. And in Laurie Robinson’s case, things get done.
+And those to whom she reports show remarkable deference to her. I don’t know how she gets away with half the stuff she does, say those who know her. More importantly, it is said with a grin and with respect. General Robinson’s ability to lead developed not because she’s the smartest or the nicest.
 
-I use the military because it exaggerates the point. Trust matters. Trust comes from being a part of a culture or organization with a common set of values and beliefs. Trust is maintained when the values and beliefs are actively managed.
+She’s a great leader because she understands that earning the trust of an organization doesn’t come from setting out to impress everyone, it comes from setting out to serve those who serve her. It is the invisible trust that gives a leader the following they need to get things done. And in Laurie Robinson’s case, things get done. I use the military because it exaggerates the point.
 
-If companies do not actively work to keep their golden circle in balance, clarity, discipline and consistency, then trust starts to break down. A company, indeed any organization, must work actively to remind everyone why the company exists. Why it was founded in the first place. What it believes.
+Trust matters. Trust comes from being a part of a culture or organization with a common set of values and beliefs. Trust is maintained when the values and beliefs are actively managed. If companies do not actively work to keep their golden circle in balance, clarity, discipline and consistency, then trust starts to break down.
 
-They need to hold everyone in the company accountable to the values and guiding principles. It’s not enough to just write them on the wall, that’s passive. Bonuses and incentives must revolve around them. The company must serve those whom they wish to serve it.
+A company, indeed any organization, must work actively to remind everyone why the company exists. Why it was founded in the first place. What it believes. They need to hold everyone in the company accountable to the values and guiding principles.
 
-With balance, those who are good fits can trust that everyone is on board for the same reasons. It’s also the only way that each individual in the system can trust that others are acting to leave the organization in a better way than we found it, to quote General Robinson again. This is the root of passion. Passion comes from feeling like you are a part of something that you believe in, something bigger than yourself.
+It’s not enough to just write them on the wall, that’s passive. Bonuses and incentives must revolve around them. The company must serve those whom they wish to serve it. With balance, those who are good fits can trust that everyone is on board for the same reasons.
 
-If people do not trust that a company is organized to advance the why, then the passion is diluted. Without managed trust, people will show up to do their jobs and they will worry primarily about themselves. This is the root of office politics, people acting within the system for self-gain often at the expense of others, even the company. If the company doesn’t manage trust, then those working for it will not trust the company, and self-interest becomes the overwhelming motivation.
+It’s also the only way that each individual in the system can trust that others are acting to leave the organization in a better way than we found it, to quote General Robinson again. This is the root of passion. Passion comes from feeling like you are a part of something that you believe in, something bigger than yourself. If people do not trust that a company is organized to advance the why, then the passion is diluted.
 
-This may be good for the short term, but over time the organization will get weaker and weaker. Herb Kelleher, the visionary behind Southwest Airlines, understood this better than most.
+Without managed trust, people will show up to do their jobs and they will worry primarily about themselves. This is the root of office politics, people acting within the system for self-gain often at the expense of others, even the company. If the company doesn’t manage trust, then those working for it will not trust the company, and self-interest becomes the overwhelming motivation. This may be good for the short term, but over time the organization will get weaker and weaker.
+
+Herb Kelleher, the visionary behind Southwest Airlines, understood this better than most.
 
 
 <a id="sec-032641"></a>
@@ -1342,9 +1398,9 @@ It’s part of the fabric of strong cultures. But we don’t trust the judgment 
 
 The advancements of societies were based a great deal on the trust between those with a common set of values and beliefs. The feeling of trust is lodged squarely in the same place as the Y, the limbic brain, and it’s often powerful enough to trump empirical research, or at least see doubt. This is the reason why so many manipulations are effective, we believe that, for better or worse, others know more than we do. Clearly, four out of five dentists know more than us when choosing chewing gum, but what about the one holdout?
 
-What did he know that the others didn’t? Of course we trust the celebrity endorsement. Those celebs are rich and can use any product they want. It must be good if they are putting their reputation on the line to promote it, right?
+What did he know that the others didn’t? Of course, we trust the celebrity endorsement. Those celebs are rich and can use any product they want. It must be good if they are putting their reputation on the line to promote it, right?
 
-You probably answered that question in your head already. Clearly they are endorsing the product because they are getting paid to. But if celebrity endorsements didn’t work, companies wouldn’t use them. Or perhaps it’s the fear that they might work that fuels the million dollar wink and a smile that encourages us to choose one car over another or one lipstick over another.
+You probably answered that question in your head already. Clearly, they are endorsing the product because they are getting paid to. But if celebrity endorsements didn’t work, companies wouldn’t use them. Or perhaps it’s the fear that they might work that fuels the million dollar wink and a smile that encourages us to choose one car over another or one lipstick over another.
 
 The fact is, none of us is immune to the effect of someone we know or feel like we trust influencing our decisions. Celebrity endorsements are used with this concept in mind. By using a recognizable face or name, so the assumption goes, people will more likely trust the claims being made. The flaw in this assumption is that celebrity status alone may work to influence behavior, but at this level it’s just peer pressure.
 
@@ -1370,23 +1426,25 @@ Our intrepid new father walks up to his friend and proudly announces that, as a 
 
 Playing on his desires to be a good father, but also trusting his friend’s opinion, one of three things will happen. Our young father will either change his mind and buy a Mercedes, he will go forward with his original decision, but not without some doubt about whether he’s indeed doing the right thing, or he will go back to the drawing board to redo all his research in order to reassure himself of his decision. No matter how much irrational information he has at his fingertips, unless that decision also feels right, stress will go up and confidence will go down.
 
-However you slice it, the opinions of others matter. And the opinions of those we trust matter most. The question is and how should car companies talk to the father who bought the car? The question isn’t even how they caught the highly influential opinion of his friend, the car guy.
+However, you slice it, the opinions of others matter. And the opinions of those we trust matter most. The question is and how should car companies talk to the father who bought the car? The question isn’t even how they caught the highly influential opinion of his friend, the car guy.
 
-The concept of buyer and influencers isn’t a new one. The question is, how do you get enough of the influencers to talk about you so that you can make the system tip? How are tipping point tips? If I told you I knew of a company that invented an amazing new technology that will change the way we consume TV, would that pique your interest?
+The concept of buyer and influencers isn’t a new one. The question is, how do you get enough of the influencers to talk about you so that you can make the system tip? How are tipping point tips? If.
 
-Perhaps you’d be interested in buying their product or investing in their company. It gets better. They have the single best product available. Their quality is through the roof, way better than anything else on the market.
+I told you. I knew of a company that invented an amazing new technology that will change the way we consume TV, would that pique your interest? Perhaps, you’d be interested in buying their product or investing in their company. It gets better.
 
-And their PR efforts have so been remarkable, they’ve even become a household name. Interested? This is the case of Tevo. A company that seemed to have everything going for them but turned out to be a commercial and financial failure.
+They have the single best product available. Their quality is through the roof, way better than anything else on the market. And their PR efforts have so been remarkable, they’ve even become a household name. Interested?
 
-Since they seem to have the recipe for success, Tevo’s flop defied conventional wisdom. Their struggles, however, are easily understood if you consider that they thought what they did mattered more than why. They also ignored the law of diffusion of innovations. In 2000, Malcolm Gladwell created his own tipping point when he shared with us how tipping points happen in business and in society.
+This is the case of Tevo. A company that seemed to have everything going for them but turned out to be a commercial and financial failure. Since they seem to have the recipe for success, Tevo’s flop defied conventional wisdom. Their struggles, however, are easily understood if you consider that they thought what they did mattered more than why.
 
-In his aptly named book The Tipping Point, Gladwell identifies groups of necessary populations he calls connectors and influencers. With little doubt Gladwell’s ideas are spot on. But it still begs the question, why should an influencer tell anyone about you? Marketers are always trying to influence the influencers, but few really know how.
+They also ignored the law of diffusion of innovations. In 2000, Malcolm Gladwell created his own tipping point when he shared with us how tipping points happen in business and in society. In his aptly named book The Tipping Point, Gladwell identifies groups of necessary populations he calls connectors and influencers. With little doubt Gladwell’s ideas are spot on.
 
-We can’t dispute the tipping points happen and the conditions that Gladwell articulates are right, but can a tipping point happen intentionally? They can’t just be an accidental phenomenon. If they exist, then we should be able to design one, and if we can design one, we should be able to design one that lasts beyond the initial tip. It’s the difference between a fad and an idea that changes an industry or society forever.
+But it still begs the question, why should an influencer tell anyone about you? Marketers are always trying to influence the influencers, but few really know how. We can’t dispute the tipping points happen and the conditions that Gladwell articulates are right, but can a tipping point happen intentionally? They can’t just be an accidental phenomenon.
 
-In his 1962 book Diffusion of Innovations, Everett M. Rogers was the first to formally describe how innovations spread through society. Thirty years later, in his book Crossing the Chasm, Jeffrey Moore expanded on Rogers’s ideas to apply the principle to high-tech product marketing. But the law of diffusion of innovations explains much more than just the spread of innovation or technology.
+If they exist, then we should be able to design one, and if we can design one, we should be able to design one that lasts beyond the initial tip. It’s the difference between a fad and an idea that changes an industry or society forever. In his 1962 book Diffusion of Innovations, Everett M. Rogers was the first to formally describe how innovations spread through society.
 
-It explains the spread of ideas. If you don’t know the law, you’re likely already familiar with some of its terminology. Our population is broken into five segments that fall across a bell curve, innovators, early adopters, early majority, late majority and laggards. As the law states, the first 2.5 percent of the population are the innovators, and the next
+Thirty years later, in his book Crossing the Chasm, Jeffrey Moore expanded on Rogers’s ideas to apply the principle to high-tech product marketing. But the law of diffusion of innovations explains much more than just the spread of innovation or technology. It explains the spread of ideas. If you don’t know the law, you’re likely already familiar with some of its terminology.
+
+Our population is broken into five segments that fall across a bell curve, innovators, early adopters, early majority, late majority and laggards. As the law states, the first 2.5 percent of the population are the innovators, and the next
 
 
 <a id="sec-033642"></a>
@@ -1396,27 +1454,29 @@ It explains the spread of ideas. If you don’t know the law, you’re likely al
 
 They are early to recognize the value of new ideas and are quite willing to put up with imperfection because they can see the potential. Although quick to see the potential and willing to take risks to try new technologies or ideas, early adopters are not idea generators like the innovators. But both groups are similar, as Moore says, in that they rely heavily on their intuition. They trust their gut.
 
-Early adopters, like innovators but to a lesser degree, are willing to pay a premium or suffer some level of inconvenience to own a product or espouse an idea that feels right. Those on the left side of the diffusion curve are the ones who stood in line for six hours to be among the first to buy the iPhone, Apple’s entry into the mobile phone market, even though they could have walked into a store a week later and bought one without waiting. Their willingness to suffer an inconvenience or pay a premium had less to do with how great the product was and more to do with their own sense of who they are.
+Early adopters, like innovators but to a lesser degree, are willing to pay a premium or suffer some level of inconvenience to own a product or espouse an idea that feels right. Those on the left side of the diffusion curve are the ones who stood in line for six hours to be among the first to buy the iPhone, Apple’s entry into the mobile phone market, even though they could have walked into a store a week later and bought one without waiting.
 
-They wanted to be the first. These are also the personality types who bought flat screen TVs when they first came out even though they cost upwards of $40,000 and the technology was still far from perfect. My friend Nathan fits this profile. I walked around his house once and counted no fewer than 12 Bluetooth earpieces for his mobile phone lying around his house.
+Their willingness to suffer an inconvenience or pay a premium had less to do with how great the product was and more to do with their own sense of who they are. They wanted to be the first. These are also the personality types who bought flat screen TVs when they first came out even though they cost upwards of $40,000 and the technology was still far from perfect. My friend Nathan fits this profile.
 
-I asked him why he had so many. Did they all break? I queried. No, he replied, they came out with a new one.
+I walked around his house once and counted no fewer than 12 Bluetooth earpieces for his mobile phone lying around his house. I asked him why he had so many. Did they all break? I queried.
 
-There were also about five laptops, various models of BlackBerry smartphones and boxes of other gadgets lying about that never quite worked that well. Nathan is an early adopter. The next 34% of the population are the early majority, followed by the late majority, and finally the laggards on the far right side of the spectrum. Laggards are the ones who buy touch-tone phones only because they don’t make rotary phones anymore.
+No, he replied, they came out with a new one. There were also about five laptops, various models of BlackBerry smartphones and boxes of other gadgets lying about that never quite worked that well. Nathan is an early adopter. The next 34% of the population are the early majority, followed by the late majority, and finally the laggards on the far right side of the spectrum.
 
-The early and late majority are more practical minded. For them, rational factors matter more. The early majority is slightly more comfortable with new ideas or technologies, while the late majority is not. The farther right you go on the curve, the more you will encounter the clients and customers who may need what you have, but don’t necessarily believe what you believe.
+Laggards are the ones who buy touch-tone phones only because they don’t make rotary phones anymore. The early and late majority are more practical minded. For them, rational factors matter more. The early majority is slightly more comfortable with new ideas or technologies, while the late majority is not.
 
-As clients, they are the ones for whom, no matter how hard you work, it’s never enough. Everything usually boils down to price with them. They are rarely loyal. They rarely give referrals and sometimes you may even wonder out loud why you still do business with them.
+The farther right you go on the curve, the more you will encounter the clients and customers who may need what you have, but don’t necessarily believe what you believe. As clients, they are the ones for whom, no matter how hard you work, it’s never enough. Everything usually boils down to price with them. They are rarely loyal.
 
-They just don’t get it, our gut tells us. The importance of identifying this group is so that you can avoid doing business with them. Why invest good money and energy to go after people who, at the end of the day, will do business with you anyway if you meet their practical requirements but will never be loyal if you don’t? It’s not too hard to recognize where people fall on the spectrum once you’re in a relationship with them, the opportunity is to figure out which is which before you decide to work with them.
+They rarely give referrals and sometimes you may even wonder out loud why you still do business with them. They just don’t get it, our gut tells us. The importance of identifying this group is so that you can avoid doing business with them. Why invest good money and energy to go after people who, at the end of the day, will do business with you anyway if you meet their practical requirements but will never be loyal if you don’t?
 
-We all sit at different places on this spectrum depending on the product or idea. Most of us are fiercely loyal to certain products and ideas at various times and demonstrate left side of the curve behavior. And for other products or ideas we exhibit right side of the curve behavior. When we sit on one side of the spectrum, we often have a hard time understanding those on the other side because their behavior doesn’t make sense to us.
+It’s not too hard to recognize where people fall on the spectrum once you’re in a relationship with them, the opportunity is to figure out which is which before you decide to work with them. We all sit at different places on this spectrum depending on the product or idea. Most of us are fiercely loyal to certain products and ideas at various times and demonstrate left side of the curve behavior. And for other products or ideas we exhibit right side of the curve behavior.
 
-My sister is an early adopter when it comes to fashion trends, whereas I’m firmly in the late majority. It was only recently that I finally caved and bought a pair of overpriced designer blue jeans. I admit they look good, but I still think they aren’t worth the money and I can’t understand why my sister thinks they are.
+When we sit on one side of the spectrum, we often have a hard time understanding those on the other side because their behavior doesn’t make sense to us. My sister is an early adopter when it comes to fashion trends, whereas. I’m firmly in the late majority. It was only recently that.
 
-In contrast, I’m an early adopter for some technologies. I bought a blu-ray dvd player before they had perfected the technology. I paid about four or five times more for it compared to a regular dvd player. My sister can’t understand why I waste my money on all that useless stuff, as she puts it.
+I finally caved and bought a pair of overpriced designer blue jeans. I admit they look good, but. I still think they aren’t worth the money and. I can’t understand why my sister thinks they are.
 
-We will never see eye to eye on this stuff.
+In contrast, I’m an early adopter for some technologies. I bought a blu-ray dvd player before they had perfected the technology. I paid about four or five times more for it compared to a regular dvd player. My sister can’t understand why.
+
+I waste my money on all that useless stuff, as she puts it. We will never see eye to eye on this stuff.
 
 
 <a id="sec-034144"></a>
@@ -1490,23 +1550,23 @@ But despite the excitement among analysts and technophiles, sales were hugely di
 
 Meanwhile, Replay, whose backers included the founders of Netscape, failed to gain a following and instead became embroiled in a dispute with the television networks over the way it allowed viewers to skip ads. In 2000, the company adopted a new strategy and a few months later was sold to Sonic Blue, which later filed for bankruptcy. Analysts were stumped as to why the Tevo machines weren’t selling better. The company seemed to have everything going for it.
 
-After all, they had the recipe for success – a great quality product, money and ideal market conditions. In 2002, after Tevo had been on the market nearly three years, a headline in advertising age summed it up – best, more U. S. homes have outhouses than Tevo’s. At the time, there were 671,000 homes without houses in the United States, compared with 504,000 to 514,000 homes with Tevo. Not only were sales poor, but the company has not fared well for its shareholders either.
+After all, they had the recipe for success – a great quality product, money and ideal market conditions. In 2002, after Tevo had been on the market nearly three years, a headline in advertising age summed it up – best, more U. S. homes have outhouses than Tevo’s. At the time, there were 671,000 homes without houses in the United States, compared with 504,000 to 514,000 homes with Tevo.
 
-At the time of the initial public offering in the fall of 1999, Tevo stock traded at slightly over $40 per share. A few months later it hit its high at just over $50. The stock declined steadily for the rest of the year, and except for three short periods since 2001, it has never since traded over $10. If you apply the principles of the golden circle, the answer is clear – people don’t buy what you do, they buy why you do it, and Tevo attempted to convince consumers to buy by telling them only what the product did.
+Not only were sales poor, but the company has not fared well for its shareholders either. At the time of the initial public offering in the fall of 1999, Tevo stock traded at slightly over $40 per share. A few months later it hit its high at just over $50. The stock declined steadily for the rest of the year, and except for three short periods since 2001, it has never since traded over $10.
 
-Features and Rational Benefits The practical-minded, technophobic mass market’s response was predictable. I don’t understand it. I don’t need it. I don’t like it.
+If you apply the principles of the golden circle, the answer is clear – people don’t buy what you do, they buy why you do it, and Tevo attempted to convince consumers to buy by telling them only what the product did. Features and Rational Benefits The practical-minded, technophobic mass market’s response was predictable. I don’t understand it. I don’t need it.
 
-You’re scaring me. There were a small number of Tevo loyalists, probably about 10%, those who just got it, who didn’t need an explicit articulation of why. They exist to this day, but there were not enough of them to create the tipping point that Tevo needed and predicted. What Tevo should have done is talked about what they believed.
+I don’t like it. You’re scaring me. There were a small number of Tevo loyalists, probably about 10%, those who just got it, who didn’t need an explicit articulation of why. They exist to this day, but there were not enough of them to create the tipping point that Tevo needed and predicted.
 
-They should have talked about why the product was invented in the first place, and then ventured out to share their invention with the innovators and early adopters who believed what they believed. If they had started their sales pitch with why the product existed in the first place, the product itself would have become the proof of the higher cause, proof of why. If their golden circle was in balance, the outcome might have been quite different. Compare the original list of features and benefits with a revised version that starts with why, if you’re the kind of person who likes to have total control of every aspect of your life, boy do we have a product for you.
+What Tevo should have done is talked about what they believed. They should have talked about why the product was invented in the first place, and then ventured out to share their invention with the innovators and early adopters who believed what they believed. If they had started their sales pitch with why the product existed in the first place, the product itself would have become the proof of the higher cause, proof of why. If their golden circle was in balance, the outcome might have been quite different.
 
-It pauses live TV. Skips commercials. Rewinds live TV. Memorizes your viewing habits and records shows on your behalf without you needing to set it.
+Compare the original list of features and benefits with a revised version that starts with why, if you’re the kind of person who likes to have total control of every aspect of your life, boy do we have a product for you. It pauses live TV. Skips commercials. Rewinds live TV.
 
-In this version, all the features and rational benefits serve as tangible proof of why the product exists in the first place, not the reasons to buy, per se. The why is the belief that drives the decision, and what it does provides us a way to rationalize the appeal of the product. Confirming their failure to tap the right segment of the market, Tevo offered a very rational explanation of what was happening. While people get their hands on it, Rebecca Baer, a spokeswoman for Tevo, told the New York Times in 2000, they don’t understand why they need this.
+Memorizes your viewing habits and records shows on your behalf without you needing to set it. In this version, all the features and rational benefits serve as tangible proof of why the product exists in the first place, not the reasons to buy, per se. The why is the belief that drives the decision, and what it does provides us a way to rationalize the appeal of the product. Confirming their failure to tap the right segment of the market, Tevo offered a very rational explanation of what was happening.
 
-If this line of logic was true, then no new technology would ever take hold. A fact that is patently untrue. Though MS Baer was correct about the mass market’s failure to understand the value, it was Tevo’s failure to properly communicate and rally the left side of the bell curve to educate and encourage the adoption that was the reason so few people got their hands on it. Tevo did not start with why.
+While people get their hands on it, Rebecca Baer, a spokeswoman for Tevo, told the New York Times in 2000, they don’t understand why they need this. If this line of logic was true, then no new technology would ever take hold. A fact that is patently untrue. Though MS Baer was correct about the mass market’s failure to understand the value, it was Tevo’s failure to properly communicate and rally the left side of the bell curve to educate and encourage the adoption that was the reason so few people got their hands on it.
 
-They ignored the left side of the curve and completely failed to find the tipping point. And for those reasons, people didn’t get their hands on it, and the mass market didn’t buy it. Fast forward almost a decade.
+Tevo did not start with why. They ignored the left side of the curve and completely failed to find the tipping point. And for those reasons, people didn’t get their hands on it, and the mass market didn’t buy it. Fast forward almost a decade.
 
 
 <a id="sec-035648"></a>
@@ -1522,17 +1582,21 @@ Tevo is not the first to ignore these sound principles and won’t be the last. 
 
 When you start with why, those who believe what you believe are drawn to you for very personal reasons. It is those who share your values and beliefs, not the quality of your products, that will cause the system to tip. Your role in the process is to be crystal clear about what purpose, cause or belief you exist to champion, and to show how your products and services help advance that cause. Absent a why, new ideas and technologies quickly find themselves playing the price and feature game, a sure sign of an absence of why and a slide into commodity status.
 
-It is not the technology that failed, it was how the companies tried to sell it. Satellite radio has not displaced commercial radio in any meaningful way. Even when Sirius and XM merged, hoping the joint force of their companies would help change their luck, shares for the combined company sold for less than 50 cents apiece. And, last time I checked, XM was offering a discount, a promotion, free shipping and a claim of being America’s number one satellite radio service with over 170 channels to push their product.
+It is not the technology that failed, it was how the companies tried to sell it. Satellite radio has not displaced commercial radio in any meaningful way. Even when Sirius and XM merged, hoping the joint force of their companies would help change their luck, shares for the combined company sold for less than 50 cents apiece. And, last time.
 
-Give the people something to believe in on August 28, 1963. 250,000 people from across the country descended on the Mall in Washington, D. C., to hear Dr. Martin Luther King Jr. give his famous I Have a Dream speech. The organizers didn’t send out 250,000 invitations and there was no website to check the date. How did they get a quarter of a million people to show up on the right day at the right time?
+I checked, XM was offering a discount, a promotion, free shipping and a claim of being America’s number one satellite radio service with over 170 channels to push their product. Give the people something to believe in on August 28, 1963. 250,000 people from across the country descended on the Mall in Washington, D. C., to hear Dr. Martin Luther King Jr. give his famous.
 
-During the early 1960s, the country was torn apart by racial tensions. There were riots in dozens of cities in 1963 alone. America was a country scarred by inequality and segregation. How the civil rights movement lifted an idea that all men are created equal to become a movement with the power to change a country is grounded in the principles of the golden circle and the law of diffusion. Dr. King was not the only person alive during that time who knew what had to change to bring about civil rights in America.
+I Have a Dream speech. The organizers didn’t send out 250,000 invitations and there was no website to check the date. How did they get a quarter of a million people to show up on the right day at the right time? During the early 1960s, the country was torn apart by racial tensions.
 
-He had many ideas about what needed to happen, but so did others. And not all of his ideas were good. He was not a perfect man, he had his complexities. But Dr. King was absolute in his conviction.
+There were riots in dozens of cities in 1963 alone. America was a country scarred by inequality and segregation. How the civil rights movement lifted an idea that all men are created equal to become a movement with the power to change a country is grounded in the principles of the golden circle and the law of diffusion. Dr.
 
-He knew change had to happen in America. His clarity of why, his sense of purpose, gave him the strength and energy to continue his fight against often seemingly insurmountable odds. There were others like him who shared his vision of America, but many of them gave up after too many defeats. Defeat is painful.
+King was not the only person alive during that time who knew what had to change to bring about civil rights in America. He had many ideas about what needed to happen, but so did others. And not all of his ideas were good. He was not a perfect man, he had his complexities.
 
-And the ability to continue head on, day after day, takes something more than knowing what legislation needs to be passed. For civil rights to truly take hold in the country, its organizers had to rally everyone. They may have been able to pass legislation, but they needed more than that, they needed
+But Dr. King was absolute in his conviction. He knew change had to happen in America. His clarity of why, his sense of purpose, gave him the strength and energy to continue his fight against often seemingly insurmountable odds.
+
+There were others like him who shared his vision of America, but many of them gave up after too many defeats. Defeat is painful. And the ability to continue head on, day after day, takes something more than knowing what legislation needs to be passed. For civil rights to truly take hold in the country, its organizers had to rally everyone.
+
+They may have been able to pass legislation, but they needed more than that, they needed
 
 
 <a id="sec-040152"></a>
@@ -1540,31 +1604,41 @@ And the ability to continue head on, day after day, takes something more than kn
 
 to change a country. Only if they could rally a nation to join the cause, not because they had to, but because they wanted to, could any significant change endure. But no one person can affect lasting change alone. It would take others who believed what King believed.
 
-The details of how to achieve civil rights or what needed to be done were debatable, and different groups tried different strategies. Violence was employed by some, appeasement by others. Regardless of how or what was being done, there was one thing everyone had in common, why they were doing it. It was not just Martin Luther King’s unflappable conviction that was able to stir a population, but his ability to put his why into words. Dr. King had a gift.
+The details of how to achieve civil rights or what needed to be done were debatable, and different groups tried different strategies. Violence was employed by some, appeasement by others. Regardless of how or what was being done, there was one thing everyone had in common, why they were doing it. It was not just Martin Luther King’s unflappable conviction that was able to stir a population, but his ability to put his why into words.
 
-He talked about what he believed. And his words had the power to inspire, I believe. I believe. I believe.
+Dr. King had a gift. He talked about what he believed. And his words had the power to inspire, I believe.
 
-There are two types of laws, he shared, those that are just and those that are unjust. A just law, Dr. King expounded, is a man-made code that squares with the moral law. An unjust law is a code that is out of harmony with the moral law. Any law that uplifts the human personality is just.
+I believe. I believe. There are two types of laws, he shared, those that are just and those that are unjust. A just law, Dr.
 
-Any law that degrades human personality is unjust. All segregation statutes are unjust because segregation distorts the soul and damages the personality. His belief was bigger than the civil rights movement. It was about all of mankind and how we treat each other.
+King expounded, is a man-made code that squares with the moral law. An unjust law is a code that is out of harmony with the moral law. Any law that uplifts the human personality is just. Any law that degrades human personality is unjust.
 
-Of course, his why developed as a result of the time and place in which he was born and the color of his skin, but the civil rights movement served as the ideal platform for Dr. King to bring his why, his belief in equality, to life. People heard his beliefs and his words touched them deep inside. Those who believed what he believed took that cause and made it their own. And they told people what they believed.
+All segregation statutes are unjust because segregation distorts the soul and damages the personality. His belief was bigger than the civil rights movement. It was about all of mankind and how we treat each other. Of course, his why developed as a result of the time and place in which he was born and the color of his skin, but the civil rights movement served as the ideal platform for Dr.
 
-And those people told others what they believed. Some organized to get that belief out more efficiently. And in the summer of 1963, a quarter of a million people showed up to here drive. King deliver his I have a dream speech on the steps of the Lincoln Memorial.
+King to bring his why, his belief in equality, to life. People heard his beliefs and his words touched them deep inside. Those who believed what he believed took that cause and made it their own. And they told people what they believed.
 
-But how many people showed up for Dr. King? Zero. They showed up for themselves. It was what they believed.
+And those people told others what they believed. Some organized to get that belief out more efficiently. And in the summer of 1963, a quarter of a million people showed up to here drive. King deliver his.
 
-It was what they saw as an opportunity to help America become a better version of itself. It was they who wanted to live in a country that reflected their own values and beliefs that inspired them to get on a bus to travel for eight hours to stand in the Washington sun in the middle of August to hear Dr. King speak. Being in Washington was simply one of the things they did to prove what they believed. Showing up that day was one of the what’s to their own why.
+I have a dream speech on the steps of the Lincoln Memorial. But how many people showed up for Dr. King? Zero.
 
-This was a cause and it was their cause. Dr. King’s speech itself served as a visceral reminder of the belief shared by everyone who stood there listening. That speech was about what he believed, not how they were going to do it. He gave the I have a dream speech, not the I have a plan speech. It was a statement of purpose and not a comprehensive 12 point plan to achieving civil rights in America. Dr. King offered America a place to go, not a plan to follow.
+They showed up for themselves. It was what they believed. It was what they saw as an opportunity to help America become a better version of itself. It was they who wanted to live in a country that reflected their own values and beliefs that inspired them to get on a bus to travel for eight hours to stand in the Washington sun in the middle of August to hear Dr.
 
-The plan had its place, but not on the steps of the Lincoln Memorial. Dr. King’s articulation of his belief was something powerful enough to rally those who shared that belief even if they weren’t personally affected by the inequalities. Nearly a quarter of the people who came to the rally that day were white. This was a belief not about black America, this was a belief about a shared America. Dr. King was the leader of a cause. A cause for all those who believed what he believed regardless of skin color.
+King speak. Being in Washington was simply one of the things they did to prove what they believed. Showing up that day was one of the what’s to their own why. This was a cause and it was their cause.
 
-It wasn’t the details of his plans that turned him the right to lead. It was what he believed and his ability to communicate it clearly that people followed. In essence, he, like all great leaders, became the symbol of the belief. Dr. King came to personify the cause. To this day we build statues of him to keep that belief alive and tangible.
+Dr. King’s speech itself served as a visceral reminder of the belief shared by everyone who stood there listening. That speech was about what he believed, not how they were going to do it. He gave the.
 
-People followed him not because of his idea of a changed America. People followed him because of their idea of a changed America. The part of the brain that influences our behavior and decisions does not have the capacity for language. We have trouble saying clearly, in emotional terms, why we do what we do, and offer rationalizations that, though valid and true, are not powerful enough to inspire others.
+I have a dream speech, not the. I have a plan speech. It was a statement of purpose and not a comprehensive 12 point plan to achieving civil rights in America. Dr.
 
-So when asked why they showed up that day, people pointed to Dr. King and said simply, because I believe. More than anything else, what Martin Luther King Jr. gave us was clarity, a way to explain
+King offered America a place to go, not a plan to follow. The plan had its place, but not on the steps of the Lincoln Memorial. Dr. King’s articulation of his belief was something powerful enough to rally those who shared that belief even if they weren’t personally affected by the inequalities.
+
+Nearly a quarter of the people who came to the rally that day were white. This was a belief not about black America, this was a belief about a shared America. Dr. King was the leader of a cause.
+
+A cause for all those who believed what he believed regardless of skin color. It wasn’t the details of his plans that turned him the right to lead. It was what he believed and his ability to communicate it clearly that people followed. In essence, he, like all great leaders, became the symbol of the belief.
+
+Dr. King came to personify the cause. To this day we build statues of him to keep that belief alive and tangible. People followed him not because of his idea of a changed America.
+
+People followed him because of their idea of a changed America. The part of the brain that influences our behavior and decisions does not have the capacity for language. We have trouble saying clearly, in emotional terms, why we do what we do, and offer rationalizations that, though valid and true, are not powerful enough to inspire others. So when asked why they showed up that day, people pointed to Dr.
+
+King and said simply, because. I believe. More than anything else, what Martin Luther King Jr. gave us was clarity, a way to explain
 
 
 <a id="sec-040654"></a>
@@ -1618,11 +1692,15 @@ In fact, after 15 years in the industry he and a colleague by the name of Threym
 
 Though he’s not living out his childhood dream, he is passionate for something. It’s not what he does that gets him out of bed every morning. It’s why he does it. Our career paths are largely incidental.
 
-I never planned to be doing what I’m doing now. As a kid I wanted to be an aeronautical engineer, but in college I set my sights on becoming a criminal prosecutor. While I was in law school, however, I became disillusioned with the idea of being a lawyer. It just didn’t feel right.
+I never planned to be doing what. I’m doing now. As a kid. I wanted to be an aeronautical engineer, but in college.
 
-I was at law school in England, where the law is one of the last truly English professions, not wearing a pin-striped suit to an interview could hurt my chances of getting a job. This was not my cup of tea. I happened to be dating a young woman who was studying marketing at Syracuse University. She could see what inspired me and what frustrated me about the law and suggested I try my hand in the field.
+I set my sights on becoming a criminal prosecutor. While. I was in law school, however, I became disillusioned with the idea of being a lawyer. It just didn’t feel right.
 
-And wham-o, I’d gotten myself a new career in marketing. But that’s just one of the things I’ve done, it’s not my passion and it’s not how I define my life. My cause, to inspire people to do the things that inspire them, is why I get out of bed every day. The excitement is trying to find new ways, different what’s to bring my cause to life, of which this book is one.
+I was at law school in England, where the law is one of the last truly English professions, not wearing a pin-striped suit to an interview could hurt my chances of getting a job. This was not my cup of tea. I happened to be dating a young woman who was studying marketing at Syracuse University. She could see what inspired me and what frustrated me about the law and suggested.
+
+I try my hand in the field. And wham-o, I’d gotten myself a new career in marketing. But that’s just one of the things. I’ve done, it’s not my passion and it’s not how.
+
+I define my life. My cause, to inspire people to do the things that inspire them, is why. I get out of bed every day. The excitement is trying to find new ways, different what’s to bring my cause to life, of which this book is one.
 
 But know how regardless of what we do in our lives, our why, our driving purpose, cause or belief, never changes. If our golden circle is in balance, what we do is simply the tangible way we find to breathe life into that cause. Developing software was merely one of the things Bill Gates did to bring his cause to life. An airline gave Herb Kelleher the perfect outlet to spread his belief in freedom.
 
@@ -1640,23 +1718,31 @@ If it is to provide any real value in how to build a great organization in our v
 
 The cone represents a company or an organization, an inherently hierarchical and organized system. Sitting at the top of the system, representing the why, is a leader, in the case of a company, that’s usually the CEO, or at least we hope it is. The next level down, the how level, typically includes the senior executives who are inspired by the leader’s vision and know how to bring it to life. Don’t forget that a why is just a belief, hows are the actions we take to realize that belief and what’s are the results of those actions.
 
-No matter how charismatic or inspiring the leader is, if there are not people in the organization inspired to bring that vision to reality, to build an infrastructure with systems and processes, then at best, inefficiency reigns, and at worst, failure results. In this rendering the how level represents a person or a small group responsible for building the infrastructure that can make a why tangible. That may happen in marketing, operations, finance, human resources and all the other C-suite departments. Beneath that, at the what level, is where the rubber meets the road.
+No matter how charismatic or inspiring the leader is, if there are not people in the organization inspired to bring that vision to reality, to build an infrastructure with systems and processes, then at best, inefficiency reigns, and at worst, failure results. In this rendering the how level represents a person or a small group responsible for building the infrastructure that can make a why tangible. That may happen in marketing, operations, finance, human resources and all the other C-suite departments.
 
-It is at this level that the majority of the employees sit and where all the tangibles stuff actually happens. I have a dream, and he’s got the plan, drive. King said he had a dream, and he inspired people to make his dream their own. What Ralph Abernathy lent the movement, but know how was something else, he knew what it would take to realize that dream, and he showed people how to do it.
+Beneath that, at the what level, is where the rubber meets the road. It is at this level that the majority of the employees sit and where all the tangibles stuff actually happens. I have a dream, and he’s got the plan, drive. King said he had a dream, and he inspired people to make his dream their own.
 
-He gave the dream structure. Dr. King spoke about the philosophical implications of the movement, while Abernathy, Dr. King’s one-time mentor, long-time friend and financial secretary and treasurer of the Southern Christian Leadership Conference, would help people understand the specific steps they needed to take. Now, Abernathy would tell the audience following a rousing address by Dr. King, let me tell you what that means for tomorrow morning. Dr. Martin Luther King Jr. was the leader, but he didn’t change America alone. Though Dr. King inspired the movement, to actually move people requires organizing.
+What Ralph Abernathy lent the movement, but know how was something else, he knew what it would take to realize that dream, and he showed people how to do it. He gave the dream structure. Dr. King spoke about the philosophical implications of the movement, while Abernathy, Dr.
 
-As is the case with almost all great leaders, there were others around Dr. King who knew better how to do that. For every great leader, for every Y type, there is an inspired how type or group of how types who take the intangible cause and build the infrastructure that can give it life. That infrastructure is what actually makes any measurable change or success possible. The leader sits at the top of the cone, at the start, the point of why, while the how types sit below and are responsible for actually making things happen.
+King’s one-time mentor, long-time friend and financial secretary and treasurer of the Southern Christian Leadership Conference, would help people understand the specific steps they needed to take. Now, Abernathy would tell the audience following a rousing address by Dr. King, let me tell you what that means for tomorrow morning. Dr.
+
+Martin Luther King Jr. was the leader, but he didn’t change America alone. Though Dr. King inspired the movement, to actually move people requires organizing. As is the case with almost all great leaders, there were others around Dr.
+
+King who knew better how to do that. For every great leader, for every Y type, there is an inspired how type or group of how types who take the intangible cause and build the infrastructure that can give it life. That infrastructure is what actually makes any measurable change or success possible. The leader sits at the top of the cone, at the start, the point of why, while the how types sit below and are responsible for actually making things happen.
 
 The leader imagines the destination and the how types find the route to get there. A destination without a route leads to meandering and inefficiency, something a great many Y types will experience without the help of others to ground them. A route without a destination, however, may be efficient, but to what end? It’s all fine and good to know how to drive, but it’s more fulfilling when you have a place to go.
 
-For Dr. King, Ralph Abernathy was one of those he inspired and who knew how to make the cause actionable and tangible. Dr. King’s job was to interpret the ideology and theology of non-violence, said Abernathy. My job was more simple and down to earth. I would tell, people, don’t ride those buses. In every case of a great charismatic leader who ever achieved anything of significance, there was always a person or small group lurking in the shadows who knew how to take the vision and make it a reality. Dr. King had a dream.
+For Dr. King, Ralph Abernathy was one of those he inspired and who knew how to make the cause actionable and tangible. Dr. King’s job was to interpret the ideology and theology of non-violence, said Abernathy.
 
-But no matter how inspiring a dream may be, a dream that cannot come to life stays a dream. Dr. King dreamed of many of the same things as countless other African Americans who grew up in the pre-civil rights south. He spoke of many of the same themes. He felt the same outrage perpetrated by an unjust system. But it was King’s unflappable optimism and his words that inspired a population. Dr. King didn’t change America by himself.
+My job was more simple and down to earth. I would tell, people, don’t ride those buses. In every case of a great charismatic leader who ever achieved anything of significance, there was always a person or small group lurking in the shadows who knew how to take the vision and make it a reality. Dr.
 
-He wasn’t a legislator, for example, but legislation was created to give all people in the United States equal rights regardless of skin color. It wasn’t Dr. King who changed America, it was the movement of millions of others whom he inspired that changed the course of history. But how do you organize millions of people? Forget millions, how do you organize hundreds or tens of people?
+King had a dream. But no matter how inspiring a dream may be, a dream that cannot come to life stays a dream. Dr. King dreamed of many of the same things as countless other African Americans who grew up in the pre-civil rights south.
 
-The vision and charisma of the leader are enough to attract the innovators and the early adopters. Trusting their guts and their intuition, these people will make the greatest sacrifices to help see the vision become a reality.
+He spoke of many of the same themes. He felt the same outrage perpetrated by an unjust system. But it was King’s unflappable optimism and his words that inspired a population. Dr.
+
+King didn’t change America by himself. He wasn’t a legislator, for example, but legislation was created to give all people in the United States equal rights regardless of skin color. It wasn’t Dr. King who changed America, it was the movement of millions of others whom he inspired that changed the course of history.
+
+But how do you organize millions of people? Forget millions, how do you organize hundreds or tens of people? The vision and charisma of the leader are enough to attract the innovators and the early adopters. Trusting their guts and their intuition, these people will make the greatest sacrifices to help see the vision become a reality.
 
 
 <a id="sec-042203"></a>
@@ -1686,35 +1772,39 @@ Most people in the world are how types. Most people are quite functional in the 
 
 But why guys, for all their vision and imagination, often get the short end of the stick. Without someone inspired by their vision and the knowledge to make it a reality, most why types end up as starving visionaries, people with all the answers but never accomplishing much themselves. Although so many of them fancy themselves visionaries, in reality most successful entrepreneurs are how types. Ask an entrepreneur what they love about being an entrepreneur and most will tell you they love to build things.
 
-What they talk about building is a sure clue that they know how to get things done. A business is a structure, systems and processes that need to be assembled. It is the how types who are more adept at building those processes and systems. But most companies, no matter how well built, do not become billion dollar businesses or change the course of industries. To reach the billion dollar status, to alter the course of an industry, requires a very special and rare partnership between one who knows why and those who know how.
+What they talk about building is a sure clue that they know how to get things done. A business is a structure, systems and processes that need to be assembled. It is the how types who are more adept at building those processes and systems. But most companies, no matter how well built, do not become billion dollar businesses or change the course of industries.
+
+To reach the billion dollar status, to alter the course of an industry, requires a very special and rare partnership between one who knows why and those who know how.
 
 
 <a id="sec-042708"></a>
 ### ⏱️ [04:27:08 - 04:32:12]
 
-In nearly every case of a person or an organization that has gone on to inspire people and do great things, there exists this special partnership between why and how. Bill Gates, for example, may have been the visionary who imagined a world with a PC on every desk, but Paul Allen built the company. Herb Kelleher was able to personify and preach the cause of freedom, but it was Rollin King who came up with the idea for Southwest Airlines. Steve Jobs is the rebel’s evangelist, but Steve Wozniak is the engineer who made the Apple work.
+In nearly every case of a person or an organization that has gone on to inspire people and do great things, there exists this special partnership between why and how. Bill Gates, for example, may have been the visionary who imagined a world with a PC on every desk, but Paul Allen built the company. Herb Kelleher was able to personify and preach the cause of freedom, but it was Rollin King who came up with the idea for Southwest Airlines.
 
-Jobs had the vision, Woz had the goods. It is the partnership of a vision of the future and the talent to get it done that makes an organization great. This relationship starts to clarify the difference between a vision statement and a mission statement in an organization. The vision is the public statement of the founder’s intent, why the company exists.
+Steve Jobs is the rebel’s evangelist, but Steve Wozniak is the engineer who made the Apple work. Jobs had the vision, Woz had the goods. It is the partnership of a vision of the future and the talent to get it done that makes an organization great. This relationship starts to clarify the difference between a vision statement and a mission statement in an organization.
 
-It is literally the vision of a future that does not yet exist. The mission statement is a description of the route, the guiding principles, how the company intends to create that future. When both of those things are stated clearly, the why type and the how type are both certain about their roles in the partnership. Both are working together with clarity of purpose and a plan to get there.
+The vision is the public statement of the founder’s intent, why the company exists. It is literally the vision of a future that does not yet exist. The mission statement is a description of the route, the guiding principles, how the company intends to create that future. When both of those things are stated clearly, the why type and the how type are both certain about their roles in the partnership.
 
-For it to work, however, it requires more than a set of skills, it requires trust. As discussed at length in part 3, trusting relationships are invaluable for us to feel safe. Our ability to trust people or organizations allows us to take risks and feel supported in our efforts. And perhaps the most trusting relationship that exists is between the visionary and the builder, the why guy and the how guy.
+Both are working together with clarity of purpose and a plan to get there. For it to work, however, it requires more than a set of skills, it requires trust. As discussed at length in part 3, trusting relationships are invaluable for us to feel safe. Our ability to trust people or organizations allows us to take risks and feel supported in our efforts.
 
-In organizations able to inspire, the best chief executives are why types, people who wake up every day to lead a cause and not just run a company. In these organizations, the best chief financial officers and chief operating officers are high performing how types, those with the strength of ego to admit they are not visionaries themselves but are inspired by the leader’s vision and know how to build the structure that can bring it to life. The best how types generally do not want to be out front preaching the vision, they prefer to work behind the scenes to build the systems that can make the vision a reality.
+And perhaps the most trusting relationship that exists is between the visionary and the builder, the why guy and the how guy. In organizations able to inspire, the best chief executives are why types, people who wake up every day to lead a cause and not just run a company. In these organizations, the best chief financial officers and chief operating officers are high performing how types, those with the strength of ego to admit they are not visionaries themselves but are inspired by the leader’s vision and know how to build the structure that can bring it to life.
 
-It takes the combined skill and effort of both for great things to happen. It’s not an accident that these unions of why and how so often come from families or old friendships. A shared upbringing and life experience increases the probability of a shared set of values and beliefs. In the case of family or childhood friends, upbringing and common experiences are nearly exactly the same.
+The best how types generally do not want to be out front preaching the vision, they prefer to work behind the scenes to build the systems that can make the vision a reality. It takes the combined skill and effort of both for great things to happen. It’s not an accident that these unions of why and how so often come from families or old friendships. A shared upbringing and life experience increases the probability of a shared set of values and beliefs.
 
-That’s not an accident. Not to say you can’t find a good partner somewhere else. It’s just that growing up with somebody and having a common life experience increases the likelihood of a shared common worldview. Walt Disney and Roy Disney were brothers.
+In the case of family or childhood friends, upbringing and common experiences are nearly exactly the same. That’s not an accident. Not to say you can’t find a good partner somewhere else. It’s just that growing up with somebody and having a common life experience increases the likelihood of a shared common worldview.
 
-Bill Gates and Paul Allen went to high school together in Seattle. Herb Kelleher was Rollin King’s divorce attorney and old friend. Martin Luther King Jr. and Ralph Abernathy both preached in Birmingham, long before the civil rights movement took form. And Steve Jobs and Steve Wozniak were best friends in high school.
+Walt Disney and Roy Disney were brothers. Bill Gates and Paul Allen went to high school together in Seattle. Herb Kelleher was Rollin King’s divorce attorney and old friend. Martin Luther King Jr. and Ralph Abernathy both preached in Birmingham, long before the civil rights movement took form.
 
-The list goes on. To run or to lead for all the talented how types running today’s organizations, they can achieve success that will last their lifetimes, but they will spend their lifetimes running their companies. There are many ways to be successful and drive profits. Every number of manipulations, only some of which I’ve touched upon in this book, work quite well.
+And Steve Jobs and Steve Wozniak were best friends in high school. The list goes on. To run or to lead for all the talented how types running today’s organizations, they can achieve success that will last their lifetimes, but they will spend their lifetimes running their companies. There are many ways to be successful and drive profits.
 
-Even the ability to create a tipping point is possible without creating lasting change. It’s called a fad. But great organizations function exactly like any social movement. They inspire people to talk about a product or idea, include that product in the context of their lifestyle, share the idea or even find ways to advance the prosperity of the organization itself.
+Every number of manipulations, only some of which. I’ve touched upon in this book, work quite well. Even the ability to create a tipping point is possible without creating lasting change. It’s called a fad.
 
-Great organizations not only excite the human spirit, they inspire people to take part in helping to advance the cause without needing to pay them or incentivize them in any particular way. No cashback incentives or mail-in rebates required. People feel compelled to spread the word, not because they have to, but because they want to. They willingly take up arms to share the message that inspires them.
+But great organizations function exactly like any social movement. They inspire people to talk about a product or idea, include that product in the context of their lifestyle, share the idea or even find ways to advance the prosperity of the organization itself. Great organizations not only excite the human spirit, they inspire people to take part in helping to advance the cause without needing to pay them or incentivize them in any particular way. No cashback incentives or mail-in rebates required.
 
-And a megaphone that works after a three-month selection process, BCI finally chose a new ad agency to help develop a campaign to launch their new product line. Big Company Incorporated is a well-known brand operating in a fairly cluttered market space. As a manufacturer, their products are sold via a third-party sales force, often on the
+People feel compelled to spread the word, not because they have to, but because they want to. They willingly take up arms to share the message that inspires them. And a megaphone that works after a three-month selection process, BCI finally chose a new ad agency to help develop a campaign to launch their new product line. Big Company Incorporated is a well-known brand operating in a fairly cluttered market space.
+
+As a manufacturer, their products are sold via a third-party sales force, often on the
 
 
 <a id="sec-043212"></a>
@@ -1750,33 +1840,33 @@ For a message to have real impact, to affect behavior and seed loyalty, it needs
 <a id="sec-043716"></a>
 ### ⏱️ [04:37:16 - 04:42:16]
 
-Though there may be short term benefits without clarity, loud is nothing more than excessive volume. Or in business vernacular, clutter. And companies wonder why differentiation is such a challenge these days. Have you heard the volume coming from some of them?1 in contrast, what would have been the impact of Dr. King’s speech had he not had a microphone and loudspeakers?
+Though there may be short term benefits without clarity, loud is nothing more than excessive volume. Or in business vernacular, clutter. And companies wonder why differentiation is such a challenge these days. Have you heard the volume coming from some of them?1 in contrast, what would have been the impact of Dr.
 
-His vision would have been no less clear. His words would have been no less inspiring. He knew what he believed and he spoke with passion and charisma about that belief. But only the few people with front row seats would have been inspired by those words.
+King’s speech had he not had a microphone and loudspeakers? His vision would have been no less clear. His words would have been no less inspiring. He knew what he believed and he spoke with passion and charisma about that belief.
 
-A leader with a cause, whether it be an individual or an organization, must have a megaphone through which to deliver his message. And it must be clear and loud to work. Clarity of purpose, cause or belief is important, but it is equally important that people hear you. For a y to have the power to move people it must not only be clear, it must be amplified to reach enough people to tip the scale.
+But only the few people with front row seats would have been inspired by those words. A leader with a cause, whether it be an individual or an organization, must have a megaphone through which to deliver his message. And it must be clear and loud to work. Clarity of purpose, cause or belief is important, but it is equally important that people hear you.
 
-It’s no coincidence that the three-dimensional golden circle is a cone. It is, in practice, a megaphone. An organization effectively becomes the vessel through which a person with a clear purpose, cause or belief can speak to the outside world. But for a megaphone to work, clarity must come first.
+For a y to have the power to move people it must not only be clear, it must be amplified to reach enough people to tip the scale. It’s no coincidence that the three-dimensional golden circle is a cone. It is, in practice, a megaphone. An organization effectively becomes the vessel through which a person with a clear purpose, cause or belief can speak to the outside world.
 
-Without a clear message, what will you amplify? Say it only if you believe it Dr. King used his megaphone to rally throngs of people to follow him in pursuit of social justice. The Wright Brothers used their megaphone to rally their local community to help them build the technology that could change the world. Thousands of people heard John F.
+But for a megaphone to work, clarity must come first. Without a clear message, what will you amplify? Say it only if you believe it Dr. King used his megaphone to rally throngs of people to follow him in pursuit of social justice.
 
-Kennedy’s belief in service and rallied to put a man on the moon in less than a decade. The ability to excite and inspire people to go out of their way to contribute to something bigger than themselves is not unique to social causes. Any organization is capable of building a megaphone that can achieve a huge impact.
+The Wright Brothers used their megaphone to rally their local community to help them build the technology that could change the world. Thousands of people heard John F. Kennedy’s belief in service and rallied to put a man on the moon in less than a decade. The ability to excite and inspire people to go out of their way to contribute to something bigger than themselves is not unique to social causes.
 
-In fact, it is one of the defining factors that makes an organization great. Great organizations don’t just drive profits, they lead people, and they change the course of industries and sometimes our lives in the process. A clear sense of why sets expectations. When we don’t know an organization’s why, we don’t know what to expect, so we expect the minimum, price, quality, service, features, the commodity stuff.
+Any organization is capable of building a megaphone that can achieve a huge impact. In fact, it is one of the defining factors that makes an organization great. Great organizations don’t just drive profits, they lead people, and they change the course of industries and sometimes our lives in the process. A clear sense of why sets expectations.
 
-But when we do have a sense for the why, we expect more. For those not comfortable being held to a higher standard, I strongly advise against trying to learn your why or keeping your golden circle in balance. Higher standards are hard to maintain. It requires the discipline to constantly talk about and remind everyone why the organization exists in the first place.
+When we don’t know an organization’s why, we don’t know what to expect, so we expect the minimum, price, quality, service, features, the commodity stuff. But when we do have a sense for the why, we expect more. For those not comfortable being held to a higher standard, I strongly advise against trying to learn your why or keeping your golden circle in balance. Higher standards are hard to maintain.
 
-It requires that everyone in the organization be held accountable to how you do things, to your values and guiding principles. And it takes time and effort to ensure that everything you say and do is consistent with your why. But for those willing to put in the effort, there are some great advantages. Richard Branson first built Virgin Records into a multi-billion dollar retail music brand.
+It requires the discipline to constantly talk about and remind everyone why the organization exists in the first place. It requires that everyone in the organization be held accountable to how you do things, to your values and guiding principles. And it takes time and effort to ensure that everything you say and do is consistent with your why. But for those willing to put in the effort, there are some great advantages.
 
-Then he started a successful record label. Later he started an airline that is today considered one of the premier airlines in the world. He then started a soda brand, wedding planning company, insurance company and mobile phone service. And the list goes on.
+Richard Branson first built Virgin Records into a multi-billion dollar retail music brand. Then he started a successful record label. Later he started an airline that is today considered one of the premier airlines in the world. He then started a soda brand, wedding planning company, insurance company and mobile phone service.
 
-Likewise, Apple sells as computers, mobile phones, DVRs and MP3 players, and has replicated their capacity for innovation again and again. The ability of some companies not to just succeed but to repeat their successes due to the loyal followings they command, the throngs of people who root for their success. In the business world, they say Apple is a lifestyle brand. They underestimate Apple’s power.
+And the list goes on. Likewise, Apple sells as computers, mobile phones, DVRs and MP3 players, and has replicated their capacity for innovation again and again. The ability of some companies not to just succeed but to repeat their successes due to the loyal followings they command, the throngs of people who root for their success. In the business world, they say Apple is a lifestyle brand.
 
-Gucci is a lifestyle brand, Apple changes the course of industries. By any definition these few companies don’t function like corporate entities. They exist as social movements. Repeating greatness Ron Bruder is not a household name, but he is a great leader.
+They underestimate Apple’s power. Gucci is a lifestyle brand, Apple changes the course of industries. By any definition these few companies don’t function like corporate entities. They exist as social movements.
 
-In 1985, he stood at a crosswalk with his two daughters waiting for the light to change so they could cross the street. A perfect opportunity, he thought, to teach the young girls a valuable life lesson. He pointed across the street to the red glow of the do not walk signal and asked them what they thought that sign meant. It means we have to stand here, they replied.
+Repeating greatness Ron Bruder is not a household name, but he is a great leader. In 1985, he stood at a crosswalk with his two daughters waiting for the light to change so they could cross the street. A perfect opportunity, he thought, to teach the young girls a valuable life lesson. He pointed across the street to the red glow of the do not walk signal and asked them what they thought that sign meant.
 
-Are you sure? He asked rhetorically. How do you know it’s not telling us to run?
+It means we have to stand here, they replied. Are you sure? He asked rhetorically. How do you know it’s not telling us to run?
 
 
 <a id="sec-044216"></a>
@@ -1810,13 +1900,13 @@ He knows that success is a team sport he has a remarkable ability to attract tho
 <a id="sec-044718"></a>
 ### ⏱️ [04:47:18 - 04:52:22]
 
-believe what he believes. Talented people are drawn to him with one request, how can I help? Having defied accepted perspectives and revolutionized more than one industry, Bruder has now set his sights on a bigger challenge, world peace. He founded the Education for Employment Foundation, the megaphone that would help him do it.
+believe what he believes. Talented people are drawn to him with one request, how can. I help? Having defied accepted perspectives and revolutionized more than one industry, Bruder has now set his sights on a bigger challenge, world peace.
 
-The F Foundation is making significant headway in helping young men and women in the Middle East to significantly alter the course of their lives and indeed the course of the region’s of their lives. Just as he taught his daughters at the crosswalk that there is always an alternative route, he brings an alternative perspective to the problems in Middle East. Like of all Bruder’s past successes, the F Foundation will drive businesses and do tremendous amounts of good in the process. Bruder doesn’t run companies, he leads movements.
+He founded the Education for Employment Foundation, the megaphone that would help him do it. The F Foundation is making significant headway in helping young men and women in the Middle East to significantly alter the course of their lives and indeed the course of the region’s of their lives. Just as he taught his daughters at the crosswalk that there is always an alternative route, he brings an alternative perspective to the problems in Middle East. Like of all Bruder’s past successes, the F Foundation will drive businesses and do tremendous amounts of good in the process.
 
-All movements are personal it started on September 11, 2001. Like so many of us, Bruder turned his attention to the Middle East after the attacks to ask why something like that could happen. He understood that if such an event could happen once, it could happen again, and for the lives of his own daughters he wanted to find a way to prevent that. 166. Status but why, but know how in the course of trying to figure out what he could do.
+Bruder doesn’t run companies, he leads movements. All movements are personal it started on September 11, 2001. Like so many of us, Bruder turned his attention to the Middle East after the attacks to ask why something like that could happen. He understood that if such an event could happen once, it could happen again, and for the lives of his own daughters he wanted to find a way to prevent that. 166.
 
-He made a remarkable discovery that went much deeper than protecting his daughters or even the prevention of terrorism in the United States. In America, he realized, the vast majority of young people wake up in the morning with a feeling that there is opportunity for them in the future. Regardless of the economy, most young boys and girls who grow up in the United States have an inherent sense of optimism that they can achieve something if they want to, to live the American dream.
+Status but why, but know how in the course of trying to figure out what he could do. He made a remarkable discovery that went much deeper than protecting his daughters or even the prevention of terrorism in the United States. In America, he realized, the vast majority of young people wake up in the morning with a feeling that there is opportunity for them in the future. Regardless of the economy, most young boys and girls who grow up in the United States have an inherent sense of optimism that they can achieve something if they want to, to live the American dream.
 
 A young boy growing up in Gaza or a young girl living in Yemen does not wake up every day with the same feeling. Even if they have the desire, the same optimism is not there. It is too easy to point and say that the culture is different. That is not actionable.
 
@@ -1872,57 +1962,57 @@ This organized system sits atop another system, the marketplace. The marketplace
 
 This system is inherently chaotic and disorganized. The only contact that the organized system has with the disorganized system is at the base, at the what level? Having an organization says and does communicates the leaders vision to the outside world. All the products and services that the company sells, all the marketing and advertising, all the contact with the world outside communicate this.
 
-If people don’t buy what you do, they buy why you do it, and if all the things happening at the what level do not clearly represent why the company exists, then the ability to inspire is severely complicated. When a company is small, this is not an issue because the founder has plenty of direct contact with the outside world. Trusted how types may be in short supply and the founder opts to make a majority of the big decisions. The founder or leader actually goes out and talks to customers, sells the product and hires most if not all the employees.
+If people don’t buy what you do, they buy why you do it, and if all the things happening at the what level do not clearly represent why the company exists, then the ability to inspire is severely complicated. When a company is small, this is not an issue because the founder has plenty of direct contact with the outside world. Trusted how types may be in short supply and the founder opts to make a majority of the big decisions.
 
-As the company grows, however, systems and processes are added and other people will join. The cause embodied by an individual slowly morphs into a structured organization and the cone starts to take shape. As it grows, the leaders role changes. He will no longer be the loudest part of the megaphone, he will become the source of the message that is to flow through the megaphone.
+The founder or leader actually goes out and talks to customers, sells the product and hires most if not all the employees. As the company grows, however, systems and processes are added and other people will join. The cause embodied by an individual slowly morphs into a structured organization and the cone starts to take shape. As it grows, the leaders role changes.
 
-When a company is small, it revolves around the personality of the founder. There is no debate that the founders personality is the personality of the company. Why then do we think things change just because a company is successful? What’s the difference between Steve Jobs the man and Apple the company?
+He will no longer be the loudest part of the megaphone, he will become the source of the message that is to flow through the megaphone. When a company is small, it revolves around the personality of the founder. There is no debate that the founders personality is the personality of the company. Why then do we think things change just because a company is successful?
 
-Nothing. What’s the difference between Sir Richard Branson’s personality and Virgin’s personality? Nothing. As a company grows, the CEO’s job is to personify the why.
+What’s the difference between Steve Jobs the man and Apple the company? Nothing. What’s the difference between Sir Richard Branson’s personality and Virgin’s personality? Nothing.
 
-To ooze of it. To talk about it. To preach it. To be a symbol of what the company believes.
+As a company grows, the CEO’s job is to personify the why. To ooze of it. To talk about it. To preach it.
 
-They are the intention and what the company says and does is their voice. Like Martin Luther King and his social movement, the leader’s job is no longer to close all the deals, it is to inspire, close all. As the organization grows, the leader becomes physically removed, farther and farther away from what the company does, and even farther away from the outside market. I love asking course what their biggest priority is, and, depending on their size or structure, I generally g- yet one of two answers, customers or shareholders.
+To be a symbol of what the company believes. They are the intention and what the company says and does is their voice. Like Martin Luther King and his social movement, the leader’s job is no longer to close all the deals, it is to inspire, close all. As the organization grows, the leader becomes physically removed, farther and farther away from what the company does, and even farther away from the outside market.
 
-Sadly, there aren’t many course of companies of any reasonable size who have daily contact with customers anymore. And customers and shareholders alike both exist outside the organization in the chaotic world of the marketplace. Just as the cone demonstrates, the CEO’s job, the leader’s responsibility, is not to focus on the outside market, it’s to focus on the layer directly beneath, how? The leader must ensure that there are people on the team who believe what they believe and know how to build it.
+I love asking course what their biggest priority is, and, depending on their size or structure, I generally g- yet one of two answers, customers or shareholders. Sadly, there aren’t many course of companies of any reasonable size who have daily contact with customers anymore. And customers and shareholders alike both exist outside the organization in the chaotic world of the marketplace. Just as the cone demonstrates, the CEO’s job, the leader’s responsibility, is not to focus on the outside market, it’s to focus on the layer directly beneath, how?
 
-The how-types are responsible for understanding why and must come to work every day to develop the systems and hire the people who are ultimately responsible for bringing the why to life. The general employees are responsible for demonstrating the why to the outside world in whatever the company says and does. The challenge is that they are able to do it clearly. Remember the biology of the golden circle.
+The leader must ensure that there are people on the team who believe what they believe and know how to build it. The how-types are responsible for understanding why and must come to work every day to develop the systems and hire the people who are ultimately responsible for bringing the why to life. The general employees are responsible for demonstrating the why to the outside world in whatever the company says and does. The challenge is that they are able to do it clearly.
 
-The why exists in the part of the brain that controls feelings and decision making but not language. What’s exist in the part of the brain that controls rational thought and language. Comparing the biology of the brain to the three-dimensional rendering of the golden circle reveals a profound insight. The leader sitting at the top of the organization is the inspiration, the symbol of the reason we do what we do.
+Remember the biology of the golden circle. The why exists in the part of the brain that controls feelings and decision making but not language. What’s exist in the part of the brain that controls rational thought and language. Comparing the biology of the brain to the three-dimensional rendering of the golden circle reveals a profound insight.
 
-They represent the emotional limbic brain. What the company says and does represents the rational thought and language of the neocortex. Just as it is hard for people to speak their feelings, like someone trying to explain why they love their spouse, it is equally hard for an organization to explain its why. The part of the brain that controls feelings and the part that controls language are not the same.
+The leader sitting at the top of the organization is the inspiration, the symbol of the reason we do what we do. They represent the emotional limbic brain. What the company says and does represents the rational thought and language of the neocortex. Just as it is hard for people to speak their feelings, like someone trying to explain why they love their spouse, it is equally hard for an organization to explain its why.
 
-Given that the cone is simply a three-dimensional rendering of the golden circle, which is firmly grounded in the biology of human decision making, the logic follows that organizations of any size will struggle to clearly communicate their why. Translated into business terms this means that trying to communicate your differentiating value proposition is really hard. Put bluntly, the struggle that so many companies have to differentiate or communicate their true value to the outside world is not a business problem, it’s a biology problem.
+The part of the brain that controls feelings and the part that controls language are not the same. Given that the cone is simply a three-dimensional rendering of the golden circle, which is firmly grounded in the biology of human decision making, the logic follows that organizations of any size will struggle to clearly communicate their why. Translated into business terms this means that trying to communicate your differentiating value proposition is really hard. Put bluntly, the struggle that so many companies have to differentiate or communicate their true value to the outside world is not a business problem, it’s a biology problem.
 
 
 <a id="sec-050225"></a>
 ### ⏱️ [05:02:25 - 05:07:31]
 
-And just like a person struggling to put her emotions into words, we rely on metaphors, imagery and analogies in an attempt to communicate how we feel. Upsent the proper language to share our deep emotions, our purpose, cause or belief, we tell stories. We use symbols. We create tangible things for those who believe what we believe to point to and say, that’s why I’m inspired.
+And just like a person struggling to put her emotions into words, we rely on metaphors, imagery and analogies in an attempt to communicate how we feel. Upsent the proper language to share our deep emotions, our purpose, cause or belief, we tell stories. We use symbols. We create tangible things for those who believe what we believe to point to and say, that’s why.
 
-If done properly, that’s what marketing, branding and products and services become, a way for organizations to communicate to the outside world. Communicate clearly and you shall be understood. Communication is not about speaking, it’s about listening Martin Luther King Jr., a person who would become a symbol of the entire civil rights movement, chose to deliver his famous I Have Zero Dream speech in front of another symbol, the Lincoln Memorial, like King, Lincoln stands, or in the case of the memorial, sits, as a symbol of the American value of freedom for all.
+I’m inspired. If done properly, that’s what marketing, branding and products and services become, a way for organizations to communicate to the outside world. Communicate clearly and you shall be understood. Communication is not about speaking, it’s about listening Martin Luther King Jr., a person who would become a symbol of the entire civil rights movement, chose to deliver his famous.
 
-Great societies understand the importance of symbols as a way of reinforcing their values, of capturing their beliefs. Dictators understand the importance of symbols all too well. But in their case, the symbols are usually of them and not of a larger belief. Symbols help us make tangible that which is intangible.
+I Have Zero Dream speech in front of another symbol, the Lincoln Memorial, like King, Lincoln stands, or in the case of the memorial, sits, as a symbol of the American value of freedom for all. Great societies understand the importance of symbols as a way of reinforcing their values, of capturing their beliefs. Dictators understand the importance of symbols all too well. But in their case, the symbols are usually of them and not of a larger belief.
 
-And the only reason symbols have meaning is because we infuse them with meaning. That meaning lives in our minds, not in the item itself. Only when the purpose, cause or belief is clear can a symbol command great power. The flag, for example, is nothing more than a symbol of our nation’s values and beliefs.
+Symbols help us make tangible that which is intangible. And the only reason symbols have meaning is because we infuse them with meaning. That meaning lives in our minds, not in the item itself. Only when the purpose, cause or belief is clear can a symbol command great power.
 
-And we follow the flag into battle. That’s some serious power. Ever notice the patch of the American flag on a soldier’s right arm? It’s backward.
+The flag, for example, is nothing more than a symbol of our nation’s values and beliefs. And we follow the flag into battle. That’s some serious power. Ever notice the patch of the American flag on a soldier’s right arm?
 
-There was no mistake made, it’s like that on purpose. A flag flying on a staff, as an army was rushing into battle, would appear backward if viewed from the right side, to put it the other way around on the right shoulder would appeal as if the soldier were in retreat. Our flag is infused with so much meaning that some have tried to pass laws banning its desecration. It’s not the material out of which the flag is sown that these patriots aim to protect.
+It’s backward. There was no mistake made, it’s like that on purpose. A flag flying on a staff, as an army was rushing into battle, would appear backward if viewed from the right side, to put it the other way around on the right shoulder would appeal as if the soldier were in retreat. Our flag is infused with so much meaning that some have tried to pass laws banning its desecration.
 
-The laws they propose have nothing to do with the destruction of property. Their goal is to protect them meaning the symbol represents, the why. The laws they drafted tried to protect the intangible set of values and beliefs by protecting the symbol of those values and beliefs. Though the laws have been struck down by the Supreme Court, they have spurred contentious and emotionally charged debates.
+It’s not the material out of which the flag is sown that these patriots aim to protect. The laws they propose have nothing to do with the destruction of property. Their goal is to protect them meaning the symbol represents, the why. The laws they drafted tried to protect the intangible set of values and beliefs by protecting the symbol of those values and beliefs.
 
-They pit our desire for freedom of expression with our desire to protect a symbol of that freedom. Ronald Reagan, the great communicator, knew all too well the power of symbols. In 1982, he was the first president to invite a hero to sit in the balcony of the House Chamber during the State of the Union address, a tradition that has continued every year since. A man who exuded optimism, Reagan knew the value of symbolizing the values of America instead of just talking about them.
+Though the laws have been struck down by the Supreme Court, they have spurred contentious and emotionally charged debates. They pit our desire for freedom of expression with our desire to protect a symbol of that freedom. Ronald Reagan, the great communicator, knew all too well the power of symbols. In 1982, he was the first president to invite a hero to sit in the balcony of the House Chamber during the State of the Union address, a tradition that has continued every year since.
 
-His guest, who sat with the first lady, was Lenny Scutnik, a government employee who had dived into the Icy Potomac just days before to save a woman who had fallen from a helicopter that was attempting to rescue her after an Air Florida plane crashed into the river. Reagan was trying to make a point, that words are hollow, but deeds and values are deep. After he told Scutnik’s story he waxed, don’t let anyone tell you that America’s best days are behind her, that the American spirit has been vanquished.
+A man who exuded optimism, Reagan knew the value of symbolizing the values of America instead of just talking about them. His guest, who sat with the first lady, was Lenny Scutnik, a government employee who had dived into the Icy Potomac just days before to save a woman who had fallen from a helicopter that was attempting to rescue her after an Air Florida plane crashed into the river. Reagan was trying to make a point, that words are hollow, but deeds and values are deep.
 
-We’ve seen it triumph too often in our lives to stop believing in it now. Scutnik became Reagan’s symbol of courage. Most companies have logos, but few have been able to convert those logos into meaningful symbols. Because most companies are bad at communicating what they believe, so it follows that most 180.
+After he told Scutnik’s story he waxed, don’t let anyone tell you that America’s best days are behind her, that the American spirit has been vanquished. We’ve seen it triumph too often in our lives to stop believing in it now. Scutnik became Reagan’s symbol of courage. Most companies have logos, but few have been able to convert those logos into meaningful symbols.
 
-Communication is not about speaking, its listening logos are devoid of any meaning. At best they serve as icons to identify a company and its products. A symbol cannot have any deep meaning until we know why it exists in terms bigger than simply to identify the company. Without clarity of why, a logo is just a logo.
+Because most companies are bad at communicating what they believe, so it follows that most 180. Communication is not about speaking, its listening logos are devoid of any meaning. At best they serve as icons to identify a company and its products. A symbol cannot have any deep meaning until we know why it exists in terms bigger than simply to identify the company.
 
-To say that a logo stands for quality, service, innovation and the like only reinforces its status as just a logo. These qualities are about the company and not about the cause. Don’t forget the dictators. They understand the power of symbols, except the symbols are often of them.
+Without clarity of why, a logo is just a logo. To say that a logo stands for quality, service, innovation and the like only reinforces its status as just a logo. These qualities are about the company and not about the cause. Don’t forget the dictators.
 
-Likewise, so many companies act like dictators, it’s all about them and what they want.
+They understand the power of symbols, except the symbols are often of them. Likewise, so many companies act like dictators, it’s all about them and what they want.
 
 
 <a id="sec-050731"></a>
@@ -1940,19 +2030,19 @@ The reason is simple. After years of Harley being crystal clear about what they 
 
 They have no idea about some management shake up the week before. That symbol is no longer about Harley. The logo embodies an entire value set, their own. The symbol is no longer about Harley, it’s about them.
 
-Randy Fowler, a former US Marine and now General Manager of a Harley Davidson dealership in California, proudly sports a large Harley tattoo on his left arm. It symbolizes who I am, he says. Mostly, it says I’m an American. Customer and company are now one and the same.
+Randy Fowler, a former US Marine and now General Manager of a Harley Davidson dealership in California, proudly sports a large Harley tattoo on his left arm. It symbolizes who. I am, he says. Mostly, it says.
 
-The meaning of Harley Davidson has value in people’s lives because, for those who believe in Harley’s why, it helps them express the meaning of their own lives. Because of Harley’s clarity, discipline and consistency, most will know what that symbol means, even if you don’t subscribe to it yourself. That’s the reason why when someone walks into a bar with a big Harley logo on his arm we take a step back and give him a wide berth. The symbol has become so meaningful, in fact, the 12% of Harley Davidson revenues are strictly from merchandising.
+I’m an American. Customer and company are now one and the same. The meaning of Harley Davidson has value in people’s lives because, for those who believe in Harley’s why, it helps them express the meaning of their own lives. Because of Harley’s clarity, discipline and consistency, most will know what that symbol means, even if you don’t subscribe to it yourself.
 
-That’s remarkable. It’s not just logos, however, that can serve as symbols. Symbols are any tangible representation of a clear set of values and beliefs. An ink-stained finger for Iraqis was a symbol of a new beginning.
+That’s the reason why when someone walks into a bar with a big Harley logo on his arm we take a step back and give him a wide berth. The symbol has become so meaningful, in fact, the 12% of Harley Davidson revenues are strictly from merchandising. That’s remarkable. It’s not just logos, however, that can serve as symbols.
 
-A London double-decker bus or a cowboy hat, both are symbols of national cultures. But national symbols are easy because most nations have a clear sense of culture that has been reinforced and repeated for generations. It is not a company or organization that decides what its symbols mean, it is the group outside the megaphone, in the chaotic marketplace, who decide. If, based on the communication is not about speaking, it’s listening things they see and hear, the outsiders can clearly and consistently report what an organization believes, then, and only then, can a symbol start to take on meaning.
+Symbols are any tangible representation of a clear set of values and beliefs. An ink-stained finger for Iraqis was a symbol of a new beginning. A London double-decker bus or a cowboy hat, both are symbols of national cultures. But national symbols are easy because most nations have a clear sense of culture that has been reinforced and repeated for generations.
 
-It is the truest test of how effective a megaphone has been produced, when clarity is able to filter all the way through the organization and come to life in everything that comes out of it. Go back to Apple’s 1984 commercial at the beginning of chapter 9. For those who have seen it, does it make you think about Apple and its products or do you simply like the sentiment? Or the line think different, does it speak to you?
+It is not a company or organization that decides what its symbols mean, it is the group outside the megaphone, in the chaotic marketplace, who decide. If, based on the communication is not about speaking, it’s listening things they see and hear, the outsiders can clearly and consistently report what an organization believes, then, and only then, can a symbol start to take on meaning. It is the truest test of how effective a megaphone has been produced, when clarity is able to filter all the way through the organization and come to life in everything that comes out of it.
 
-If you’re a Mac customer, you probably loved this commercial, it may even give you goosebumps when you watch it, a surefire test that the Y is connecting with you on a visceral or limbic level. In fact, this commercial, after you learned it was from Apple, may have reinforced your decision to buy a Mac, whether for the first time or the tenth time. This commercial, like all Apple’s advertising, is one of the things Apple has said or done that reinforces what they believe.
+Go back to Apple’s 1984 commercial at the beginning of chapter 9. For those who have seen it, does it make you think about Apple and its products or do you simply like the sentiment? Or the line think different, does it speak to you? If you’re a Mac customer, you probably loved this commercial, it may even give you goosebumps when you watch it, a surefire test that the Y is connecting with you on a visceral or limbic level.
 
-It is every bit consistent with the clear belief we know they embody. And if the commercial speaks to you and you’re not an Apple lover, odds are you still like
+In fact, this commercial, after you learned it was from Apple, may have reinforced your decision to buy a Mac, whether for the first time or the tenth time. This commercial, like all Apple’s advertising, is one of the things Apple has said or done that reinforces what they believe. It is every bit consistent with the clear belief we know they embody. And if the commercial speaks to you and you’re not an Apple lover, odds are you still like
 
 
 <a id="sec-051233"></a>
@@ -1960,19 +2050,21 @@ It is every bit consistent with the clear belief we know they embody. And if the
 
 the idea of thinking differently. The message of that ad is one of the things Apple does to tell their story. It is one of the what’s to their why. It is a symbol.
 
-It is for these reasons that we say of a piece of advertising, it really speaks to me. It’s not really speaking to you, it’s speaking to the millions of people who saw the ad. When we say that something like that speaks to me, what we’re really saying is, through all this clutter and noise, I can hear that. I can hear it and I will listen.
+It is for these reasons that we say of a piece of advertising, it really speaks to me. It’s not really speaking to you, it’s speaking to the millions of people who saw the ad. When we say that something like that speaks to me, what we’re really saying is, through all this clutter and noise, I can hear that. I can hear it and.
 
-This is what it means for a message that comes out of the megaphone to resonate. Everything that comes out of the base of the megaphone serves as a way for an organization to articulate what it believes. What a company says and does are the means by which the company speaks. Too many companies put a disproportionate amount of weight on their products or services simply because those are the things that bring in the money.
+I will listen. This is what it means for a message that comes out of the megaphone to resonate. Everything that comes out of the base of the megaphone serves as a way for an organization to articulate what it believes. What a company says and does are the means by which the company speaks.
 
-But there are many more things at the base of the megaphone that play an equal role in speaking to the outside world. Though products may drive sales, they alone cannot create loyalty.
+Too many companies put a disproportionate amount of weight on their products or services simply because those are the things that bring in the money. But there are many more things at the base of the megaphone that play an equal role in speaking to the outside world. Though products may drive sales, they alone cannot create loyalty.
 
-In fact, a company can create loyalty among people who aren’t even customers. I spoke favorably of Apple long before I bought one. And I spoke disparagingly of a certain PC brand even though I’d been buying their products for years. Apple’s clarity, discipline and consistency, their ability to build a megaphone, not a company, that is clear and loud, is what has given them the ability to command such loyalty, given they are accused of having a cult-like following.
+In fact, a company can create loyalty among people who aren’t even customers. I spoke favorably of Apple long before. I bought one. And.
 
-Those inside the company are often accused of following the cult of Steve. All of these compliments or insults are indications that others have taken on the cause and made it their own. That experts describe their products and marketing as a lifestyle reinforces that people who love Apple products are using what Apple does to demonstrate their own personal identity. We call it lifestyle marketing because people have integrated commercial products into the style of their lives.
+I spoke disparagingly of a certain PC brand even though. I’d been buying their products for years. Apple’s clarity, discipline and consistency, their ability to build a megaphone, not a company, that is clear and loud, is what has given them the ability to command such loyalty, given they are accused of having a cult-like following. Those inside the company are often accused of following the cult of Steve.
 
-Apple, with great efficiency, built a perfectly clear megaphone, leveraged the law of diffusion and invited others to help spread the gospel. Not for the company, for themselves. Even their promotions and partnerships serve as tangents. tangible proof of what they believe. In 2003 and 2004, Apple ran a promotion for iTunes with Pepsi, the Kohler branded as the choice of the next generation.
+All of these compliments or insults are indications that others have taken on the cause and made it their own. That experts describe their products and marketing as a lifestyle reinforces that people who love Apple products are using what Apple does to demonstrate their own personal identity. We call it lifestyle marketing because people have integrated commercial products into the style of their lives. Apple, with great efficiency, built a perfectly clear megaphone, leveraged the law of diffusion and invited others to help spread the gospel.
 
-It made sense that Apple would do a deal with Pepsi, the primary challenger to Coca-Cola, the status quo. Everything Apple does, everything they say and do, serves as tangible proof of what they believe. The reason I use Apple so extensively throughout this book is that Apple is so disciplined in how they do things and so consistent in what they do that, love them or hate them, we all have a sense of their why. We know what they believe.
+Not for the company, for themselves. Even their promotions and partnerships serve as tangents. tangible proof of what they believe. In 2003 and 2004, Apple ran a promotion for iTunes with Pepsi, the Kohler branded as the choice of the next generation. It made sense that Apple would do a deal with Pepsi, the primary challenger to Coca-Cola, the status quo.
+
+Everything Apple does, everything they say and do, serves as tangible proof of what they believe. The reason. I use Apple so extensively throughout this book is that Apple is so disciplined in how they do things and so consistent in what they do that, love them or hate them, we all have a sense of their why. We know what they believe.
 
 Most of us didn’t read books about them. We don’t personally know Steve Jobs. We haven’t spent time roaming the halls of Apple’s headquarters to get to know their culture. The clarity we have for what Apple believes comes from one place and one place only, Apple.
 
@@ -1980,7 +2072,7 @@ People don’t buy what you do, they buy why you do it, and Apple says and does 
 
 We attend conferences, read books, talk to friends and colleagues to get their input and advice, and sometimes we are also the dispensers of advice. We are in pursuit of understanding the best practices of others to help guide us. But it is a flawed assumption that what works for one organization will work for another. Even if the industries, sizes and market conditions are the same, the notion that if it’s good for them, it’s good for us is simply not true, for them.
 
-I know of a company with an amazing culture. When asked, the employees say they love that all the conference rooms have ping pong tables in them. Does that mean that if you were to put ping pong tables in all your conference rooms your culture would improve? Of course not.
+I know of a company with an amazing culture. When asked, the employees say they love that all the conference rooms have ping pong tables in them. Does that mean that if you were to put ping pong tables in all your conference rooms your culture would improve? Of course, not.
 
 But this is an example of best practices. The idea that copying what or how things are done at high performing organizations will inherently work for you is just not true. Like the Ferrari and the Honda, what is good for company is not necessarily good for another. Put simply, best practices are not always best.
 
@@ -1990,15 +2082,17 @@ But this is an example of best practices. The idea that copying what or how thin
 
 It is not just what or how you do things that matters, what matters more is that what and how you do things is consistent with your why. Only then will your practices indeed be best. There is nothing inherently wrong with looking to others to learn what, they do, the challenge is knowing what practices or advice to follow. Fortunately, there is a simple test you can apply to find out exactly what and how is right for you.
 
-It’s a simple metaphor called the Celery Test. Imagine you go to a dinner party and somebody comes up to you and says, you know what you need in your organization? M&Ms. If you’re not using M&Ms in your business, you’re leaving money on the table. Somebody else comes up to you and says, you know what you need?
+It’s a simple metaphor called the Celery Test. Imagine you go to a dinner party and somebody comes up to you and says, you know what you need in your organization? M&Ms. If you’re not using M&Ms in your business, you’re leaving money on the table.
 
-Rice milk. The data shows that all the people are buying rice milk these days. You should be selling rice milk in this economy. While you’re standing over the punch bowl, yet another person offers some sage advice.
+Somebody else comes up to you and says, you know what you need? Rice milk. The data shows that all the people are buying rice milk these days. You should be selling rice milk in this economy.
 
-Oreo cookies, he says. We made millions from implementing Oreo cookies in our organization. You’ve got to do it. Still somebody else comes up to you and says, Celery.
+While you’re standing over the punch bowl, yet another person offers some sage advice. Oreo cookies, he says. We made millions from implementing Oreo cookies in our organization. You’ve got to do it.
 
-You’ve got to get into Celery. You get all this great advice from all these highly accomplished people. Some of them are in the same industry. Some of them are more successful than you.
+Still somebody else comes up to you and says, Celery. You’ve got to get into Celery. You get all this great advice from all these highly accomplished people. Some of them are in the same industry.
 
-Some of them have offered similar advice to others with great success. Now, what do you do? You go to the supermarket and you buy celery, rice milk, Oreos and M&Ms. You spend a lot of time at the supermarket walking the aisles. You spend a lot of money because you buy everything.
+Some of them are more successful than you. Some of them have offered similar advice to others with great success.
+
+Now, what do you do? You go to the supermarket and you buy celery, rice milk, Oreos and M&Ms. You spend a lot of time at the supermarket walking the aisles. You spend a lot of money because you buy everything.
 
 But you may or may not get any value from some or all of these products, there are no guarantees. Worse, if your budget constrained, you had to whittle down your choices again. And then which do you choose? But one thing’s for sure, when you’re standing in line at the supermarket with all of these items in your arms, your celery, rice milk, Oreos and M&Ms, nobody can see what you believe.
 
@@ -2008,21 +2102,25 @@ You’ll get all the same good advice from all the same people, the only differe
 
 Filtering your decisions through your why, you spend less time at the supermarket and you spend less money, so there’s an efficiency advantage also. You’re guaranteed to get value out of all the products you bought. And, most importantly, when you’re standing in line with your products in your arms, everybody can see what you believe. With only celery and rice milk it’s obvious to people walking by what you believe.
 
-I can see that you believe in looking after your health, they may say to you. I feel the same way vertical bar I have a question for you. Congratulations! You just attracted customer, an employee, a partner or a referral simply by making the right decisions.
+I can see that you believe in looking after your health, they may say to you. I feel the same way vertical bar. I have a question for you. Congratulations!
 
-Simply ensuring that what you do proves what you believe makes it easy for those who believe what you believe to find you. You have successfully communicated your why based on what you do. This is an idealistic concept and in the real world that level of discipline is not always possible. I understand that sometimes we have to make short term decisions to pay bills or get some short term advantage.
+You just attracted customer, an employee, a partner or a referral simply by making the right decisions. Simply ensuring that what you do proves what you believe makes it easy for those who believe what you believe to find you. You have successfully communicated your why based on what you do. This is an idealistic concept and in the real world that level of discipline is not always possible.
 
-That’s fine. The celery test still applies. If you want a piece of chocolate cake, go right ahead. The difference is, when you start with why, you know full well that the chocolate cake is a short term decision that doesn’t fit with your beliefs.
+I understand that sometimes we have to make short term decisions to pay bills or get some short term advantage. That’s fine. The celery test still applies. If you want a piece of chocolate cake, go right ahead.
 
-You’re under no illusions. You know you are only doing it for the short term sugar rush and you’ll have to work a little harder to get it out of your system. It’s astounding the number of businesses I see that view an opportunity as the one that’s going to set them on a path to glory, only to have it blow up or slowly deflate over time. Semi colon they see the chocolate cake and can’t resist.
+The difference is, when you start with why, you know full well that the chocolate cake is a short term decision that doesn’t fit with your beliefs. You’re under no illusions. You know you are only doing it for the short term sugar rush and you’ll have to work a little harder to get it out of your system. It’s astounding the number of businesses.
 
-Starting with why not only helps you know which is the right advice for you to follow, but also to know which decisions will put you out of balance. You can, certainly make those decisions if you need to, but don’t make too. Many of them, otherwise over time, no one will know what you, believe.
+I see that view an opportunity as the one that’s going to set them on a path to glory, only to have it blow up or slowly deflate over time. Semi colon they see the chocolate cake and can’t resist. Starting with why not only helps you know which is the right advice for you to follow, but also to know which decisions will put you out of balance. You can, certainly make those decisions if you need to, but don’t make too.
+
+Many of them, otherwise over time, no one will know what you, believe.
 
 
 <a id="sec-052239"></a>
 ### ⏱️ [05:22:39 - 05:27:44]
 
-But here’s the best part, believe. As soon as I told you the why, you knew that we were going to buy only celery and rice milk even before you read it. As soon as I gave you the filter, as soon as I said the why, you knew exactly what decisions to make before I said so. That’s called scale.
+But here’s the best part, believe. As soon as. I told you the why, you knew that we were going to buy only celery and rice milk even before you read it. As soon as.
+
+I gave you the filter, as soon as. I said the why, you knew exactly what decisions to make before. I said so. That’s called scale.
 
 With AY clearly stated in an organization, anyone within the organization can make a decision as clearly and as accurately as the founder. AY provides the clear filter for decision making. Any decisions, hiring, partnerships, strategies and tactics, should all pass the celery test. The more celery you use, the more trust you earn.
 
@@ -2130,17 +2228,19 @@ Being successful vs. feeling successful Every year a group of high-performing en
 
 Every year 40-50 business owners spend 4 days listening, from early in the morning until well into the evening. An assortment of guest speakers is invited to present their thinking and ideas, and then there are discussions led by some of the attendees. I had the honor of attending the gathering of titans as a guest a few years ago. I expected it to be another group of entrepreneurs getting together to talk shop.
 
-I expected to hear discussions and presentations about maximizing profits and improving systems. But what I witnessed was profoundly different. In fact, it was the complete opposite. On the first day, someone asked the group how many of them had achieved their financial goals. About 80% of the hands went up.
+I expected to hear discussions and presentations about maximizing profits and improving systems. But what. I witnessed was profoundly different.
 
-I thought that alone was quite impressive. But it was the answer to the next question that was so profound. With their hands still in the air, the group was then asked, how many of you fed successful? And 80% of the hands went down.
+In fact, it was the complete opposite. On the first day, someone asked the group how many of them had achieved their financial goals. About 80% of the hands went up. I thought that alone was quite impressive.
 
-Here was a room full of some of America’s brightest entrepreneurs, many of them multimillionaires, some of whom don’t need to work anymore if they don’t want to, yet most of them still didn’t feel like they had succeeded. In fact, many of them reported that they’d lost something since they started their businesses. They reminisced about the days when they didn’t have any money and were working out of their basements, trying to get things going. They longed for the feeling they used to have.
+But it was the answer to the next question that was so profound. With their hands still in the air, the group was then asked, how many of you fed successful? And 80% of the hands went down. Here was a room full of some of America’s brightest entrepreneurs, many of them multimillionaires, some of whom don’t need to work anymore if they don’t want to, yet most of them still didn’t feel like they had succeeded.
 
-These amazing entrepreneurs were at a point in their lives where they realized that their businesses were about much more than selling stuff or making money. They realized the deep personal connection that existed between what they do and why they were doing it. This group of entrepreneurs gathered to discuss matters of why, and at times it was quite intense. Unlike the typical type of personality entrepreneurs, the titans were not there to prove anything to each other.
+In fact, many of them reported that they’d lost something since they started their businesses. They reminisced about the days when they didn’t have any money and were working out of their basements, trying to get things going. They longed for the feeling they used to have. These amazing entrepreneurs were at a point in their lives where they realized that their businesses were about much more than selling stuff or making money.
 
-There was a feeling of immense trust rather than ruthless competition. And because of this feeling, every member of the group was willing to express vulnerability that they probably rarely let show the rest of the year. Over the course of the event, every person in the room would shed a tear or two at least once. It doesn’t interest me to write about the idea that money doesn’t buy happiness, or in this case, the feeling of success.
+They realized the deep personal connection that existed between what they do and why they were doing it. This group of entrepreneurs gathered to discuss matters of why, and at times it was quite intense. Unlike the typical type of personality entrepreneurs, the titans were not there to prove anything to each other. There was a feeling of immense trust rather than ruthless competition.
 
-This is neither profound nor a new idea. What does interest me, however, is the transition that these entrepreneurs went through. As their companies grew, and they became more and more successful, what changed? It is easy to see what they gained over the course of their careers, we can easily count the money, the size of the office, the number of employees, the size of their homes, market
+And because of this feeling, every member of the group was willing to express vulnerability that they probably rarely let show the rest of the year. Over the course of the event, every person in the room would shed a tear or two at least once. It doesn’t interest me to write about the idea that money doesn’t buy happiness, or in this case, the feeling of success. This is neither profound nor a new idea.
+
+What does interest me, however, is the transition that these entrepreneurs went through. As their companies grew, and they became more and more successful, what changed? It is easy to see what they gained over the course of their careers, we can easily count the money, the size of the office, the number of employees, the size of their homes, market
 
 
 <a id="sec-054256"></a>
@@ -2148,21 +2248,21 @@ This is neither profound nor a new idea. What does interest me, however, is the 
 
 share and the number of press clippings. But the thing they had lost is much harder to identify. As their tangible success grew, something more elusive started to dissipate. Every single one of these successful business owners knew what they did.
 
-They knew how they did it. But for many, they no longer knew why. Achievement vs. Success for some people, there is an irony to success. Many people who achieve great success don’t always feel it.
+They knew how they did it. But for many, they no longer knew why. Achievement vs. Success for some people, there is an irony to success.
 
-Some who achieve fame talk about the loneliness that often goes with it. Success because success and achievement are not the same thing, yet too often we mistake one for the other. Achievement is something you reach or attain, like a goal. It is something tangible, clearly defined and measurable.
+Many people who achieve great success don’t always feel it. Some who achieve fame talk about the loneliness that often goes with it. Success because success and achievement are not the same thing, yet too often we mistake one for the other. Achievement is something you reach or attain, like a goal.
 
-Success, in contrast, is a feeling or a state of being. She feels successful. She is successful, we say, using the verb to be to suggest this state of being. While we can easily lay down a path to reach a goal, laying down a path to reach that intangible feeling of success is more elusive.
+It is something tangible, clearly defined and measurable. Success, in contrast, is a feeling or a state of being. She feels successful. She is successful, we say, using the verb to be to suggest this state of being.
 
-In my vernacular, achievement comes when you pursue and attain what you want. Success comes when you are clear in pursuit of why you want it. The former is motivated by tangible factors while the latter by something deeper in the brain, where we lack the capacity to put those feelings into words. Success comes when we wake up every day in that never-ending pursuit of why we do what we do.
+While we can easily lay down a path to reach a goal, laying down a path to reach that intangible feeling of success is more elusive. In my vernacular, achievement comes when you pursue and attain what you want. Success comes when you are clear in pursuit of why you want it. The former is motivated by tangible factors while the latter by something deeper in the brain, where we lack the capacity to put those feelings into words.
 
-Our achievements, what we do, serve as the milestones to indicate we are on the right path. It is not an either slash or, we need both. A wise man once said, money can’t buy happiness, but it pays for the yacht to pull alongside it. There is great truth in this statement.
+Success comes when we wake up every day in that never-ending pursuit of why we do what we do. Our achievements, what we do, serve as the milestones to indicate we are on the right path. It is not an either slash or, we need both. A wise man once said, money can’t buy happiness, but it pays for the yacht to pull alongside it.
 
-The yacht represents achievement, it is easily seen and, with the right plan, complete The thing we pull alongside represents that hard-to-define feeling of success. Obviously, this is much harder to see and attain. They are distinct concepts, and sometimes they go together and sometimes they don’t. More importantly, some people, while in pursuit of success, simply mistake what they achieve as the final destination.
+There is great truth in this statement. The yacht represents achievement, it is easily seen and, with the right plan, complete The thing we pull alongside represents that hard-to-define feeling of success. Obviously, this is much harder to see and attain. They are distinct concepts, and sometimes they go together and sometimes they don’t.
 
-This is the reason they never feel satisfied no matter how big their yacht is, no matter how much they achieve. The false assumption we often make is that if we simply achieve more, the feeling of success will follow. But it rarely does. In the course of building a business or a career, we become more confident in what we do.
+More importantly, some people, while in pursuit of success, simply mistake what they achieve as the final destination. This is the reason they never feel satisfied no matter how big their yacht is, no matter how much they achieve. The false assumption we often make is that if we simply achieve more, the feeling of success will follow. But it rarely does.
 
-We become greater experts in how to do it. With each achievement, the tangible measurements of success and the feeling of progress increase. Life is good.
+In the course of building a business or a career, we become more confident in what we do. We become greater experts in how to do it. With each achievement, the tangible measurements of success and the feeling of progress increase. Life is good.
 
 However, for most of us, somewhere in the journey we forget why we set out on the journey in the first place. Somewhere in the course of all those achievements an inevitable split happens. This is true for individuals and organizations alike. What the endicott entrepreneurs experienced as individuals was the same transition that Walmart and other big companies either have gone through or are going through.
 
@@ -2190,21 +2290,21 @@ Y. without the house, passion without structure, has a very high probability of 
 
 They knew how to build the systems and processes to see their companies grow. They are among the statistical 10% of small businesses that didn’t fail in their first three years.
 
-In fact, many of them went on to do quite well. Their challenge was different. Passion may need structure to survive, but for structure to grow, it needs passion. This is what I witnessed at the gathering of titans, I saw a room full of people with passion enough to start businesses, and with knowledge enough to build the systems and structures to survive and even do very well.
+In fact, many of them went on to do quite well. Their challenge was different. Passion may need structure to survive, but for structure to grow, it needs passion. This is what.
 
-But having spent so many years focused on converting a vision into a viable business, many started to fixate on what the organization did or how to do it. Pouring over financial or some other easily measured result, and fixating on how they were to achieve those tangible results, they stopped focusing on why they started the business in the first place. This is also what has happened at Walmart. A company obsessed with serving the community became obsessed with achieving its goals.
+I witnessed at the gathering of titans, I saw a room full of people with passion enough to start businesses, and with knowledge enough to build the systems and structures to survive and even do very well. But having spent so many years focused on converting a vision into a viable business, many started to fixate on what the organization did or how to do it. Pouring over financial or some other easily measured result, and fixating on how they were to achieve those tangible results, they stopped focusing on why they started the business in the first place.
 
-Like Walmart, the endicott entrepreneurs used to think, act and communicate from the inside out of the golden circle, five from Y to what. But as they grew more successful, the process reversed. What now comes first and all their systems and processes are in pursuit of those tangible results. The reason the change happened is simple, they suffered a split and their why went fuzzy.
+This is also what has happened at Walmart. A company obsessed with serving the community became obsessed with achieving its goals. Like Walmart, the endicott entrepreneurs used to think, act and communicate from the inside out of the golden circle, five from Y to what. But as they grew more successful, the process reversed.
 
-The single greatest challenge any organization will face is success. When the company is small, the founder will rely on his gut to make all the major decisions. From marketing to product, from strategy to tactics, hiring and firing, the decisions the founder makes will, if he trusts his gut, feel right. But as the organization grows, as it becomes more successful, it becomes physically impossible for one person to make every major decision.
+What now comes first and all their systems and processes are in pursuit of those tangible results. The reason the change happened is simple, they suffered a split and their why went fuzzy. The single greatest challenge any organization will face is success. When the company is small, the founder will rely on his gut to make all the major decisions.
 
-Not only must others be trusted and relied upon to make big decisions, but those people will also start making hiring choices. And slowly but surely, as the megaphone grows, the clarity of why starts to dilute. Whereas gut was the filter for early decisions, rational cases and empirical data often serve as the sole basis for later decisions. For all organizations that go through the split, they are no longer inspired by a course greater than themselves.
+From marketing to product, from strategy to tactics, hiring and firing, the decisions the founder makes will, if he trusts his gut, feel right. But as the organization grows, as it becomes more successful, it becomes physically impossible for one person to make every major decision. Not only must others be trusted and relied upon to make big decisions, but those people will also start making hiring choices. And slowly but surely, as the megaphone grows, the clarity of why starts to dilute.
 
-They simply come to work, manage systems and work to reach certain preset goals. There is no longer a cathedral to build. The passion is gone and inspiration is at a minimum. At that point, for most who show up every day what they do is just a job.
+Whereas gut was the filter for early decisions, rational cases and empirical data often serve as the sole basis for later decisions. For all organizations that go through the split, they are no longer inspired by a course greater than themselves. They simply come to work, manage systems and work to reach certain preset goals. There is no longer a cathedral to build.
 
-If this is how the people on the inside feel, imagine how those on the outside feel. It is no wonder that manipulations start to dominate not only how the company sells its wares, but even how they retain employees. Bonuses, promotions and other enticements, even instilling fear in people, become the only way to hold on to talent. That’s hardly inspiring.
+The passion is gone and inspiration is at a minimum. At that point, for most who show up every day what they do is just a job. If this is how the people on the inside feel, imagine how those on the outside feel. It is no wonder that manipulations start to dominate not only how the company sells its wares, but even how they retain employees.
 
-This diagram depicts the life of an organization. The top line represents the growth of what the organization does.
+Bonuses, promotions and other enticements, even instilling fear in people, become the only way to hold on to talent. That’s hardly inspiring. This diagram depicts the life of an organization. The top line represents the growth of what the organization does.
 
 
 <a id="sec-055259"></a>
@@ -2222,13 +2322,13 @@ In most small businesses all the employees are all crammed into the same room an
 
 The school bus test is a simple metaphor. If a founder or leader of an organization were to be hit by a school bus, would the organization continue to thrive at the same pace without them at the helm? So many organizations are built on the force of a single personality that their departure can cause significant disruption. The question is and if it happens, all founders eventually leave or die, it’s just a question of when and how prepared the organization is for the inevitable departure.
 
-The challenge isn’t to cling to the leader, it’s to find effective ways to keep the founding vision alive forever. To pass the school bus test, for an organization to continue to inspire and lead beyond the lifetime of its founder, the founders why must be extracted and integrated into the culture of the company. What’s more, a strong succession plan should aim to find a leader inspired by the founding cause and ready to lead it into the next generation. Future leaders and employees alike must be inspired by something bigger than the force of personality of the founder and must see beyond profit and shareholder value alone.
+The challenge isn’t to cling to the leader, it’s to find effective ways to keep the founding vision alive forever. To pass the school bus test, for an organization to continue to inspire and lead beyond the lifetime of its founder, the founders why must be extracted and integrated into the culture of the company. What’s more, a strong succession plan should aim to find a leader inspired by the founding cause and ready to lead it into the next generation.
 
-Microsoft has experienced a split, but is not so far down the line that it can’t be put back on track. There was a time not too long ago that people at Microsoft showed up at work every day to change the world. And they did. What Microsoft achieved, putting a PC on every desk, dramatically changed the way we live.
+Future leaders and employees alike must be inspired by something bigger than the force of personality of the founder and must see beyond profit and shareholder value alone. Microsoft has experienced a split, but is not so far down the line that it can’t be put back on track. There was a time not too long ago that people at Microsoft showed up at work every day to change the world. And they did.
 
-But then there why went fuzzy. Few people at the company today are instructed to do everything they can to help people be more productive so that they can achieve their greatest potential. Instead, Microsoft became just a software company. If you visit Microsoft’s headquarters in Redmond, Washington, you will find that although their why has gone fuzzy, it is not lost.
+What Microsoft achieved, putting a PC on every desk, dramatically changed the way we live. But then there why went fuzzy. Few people at the company today are instructed to do everything they can to help people be more productive so that they can achieve their greatest potential. Instead, Microsoft became just a software company.
 
-That sense of a cause, that desire to change the world again, is still there, but it has become unfocused, wrapped up in how and what they do. Microsoft has a remarkable opportunity to clarify their why and regain the inspiration that took them to where they are today. If they do not, if all they do is manage the what and continue to ignore the why, they will end up looking like American Online, a company so far past the split that their why is indeed lost.
+If you visit Microsoft’s headquarters in Redmond, Washington, you will find that although their why has gone fuzzy, it is not lost. That sense of a cause, that desire to change the world again, is still there, but it has become unfocused, wrapped up in how and what they do. Microsoft has a remarkable opportunity to clarify their why and regain the inspiration that took them to where they are today. If they do not, if all they do is manage the what and continue to ignore the why, they will end up looking like American Online, a company so far past the split that their why is indeed lost.
 
 There is barely a hint of the original why left anymore. America Online used to inspire. Like Google today, it was the hot company to work for. People clamored to move to Virginia to work for this amazing company that was changing the rules of business.
 
@@ -2240,37 +2340,39 @@ And it was true that, like all inspiring companies, AOL set in motion changes th
 
 They inspired a nation to get online. Their cause was clear and their decisions were governed by their why. Their goal was to get more people online, even if their decisions in pursuit of that goal wreaked havoc on their business in the short term. With their why in focus, AOL pulled ahead of their competition by deciding to change from hourly pricing for internet access to unlimited monthly pricing, a decision that created so much traffic it shut down their servers.
 
-Given the impact, the decision was neither practical nor rational, but it was the right choice to help bring their cause to life. That their systems shut down with the additional traffic only pushed them to work harder to cope with it, to ensure that America could, in fact, get and stay online. In those days, having an AOL email address was a point of pride, a sign of being one of those who was a part of the internet revolution. These days, still having an AOL email address is a symbol of having been left behind.
+Given the impact, the decision was neither practical nor rational, but it was the right choice to help bring their cause to life. That their systems shut down with the additional traffic only pushed them to work harder to cope with it, to ensure that America could, in fact, get and stay online. In those days, having an AOL email address was a point of pride, a sign of being one of those who was a part of the internet revolution.
 
-That the meaning of something as simple as at AOL. com has changed so dramatically is additional proof that the company’s cause has long since departed. Absent a clear why, size and momentum are all AOL has to keep them going. The company is not inspiring anymore, not to those who work there and not to those on the outside. We don’t talk about them like we used to and we certainly don’t feel the same way about them either.
+These days, still having an AOL email address is a symbol of having been left behind. That the meaning of something as simple as at AOL. com has changed so dramatically is additional proof that the company’s cause has long since departed. Absent a clear why, size and momentum are all AOL has to keep them going. The company is not inspiring anymore, not to those who work there and not to those on the outside.
 
-We don’t compare them to Google or Facebook or any of the other industry changing companies of today. Like a massive freight train with brakes applied, it will still take miles for this train to come to a complete stop. It’s simple physics. At best AOL’s size will help them putter along, but without a more compelling purpose, cause or belief, the company is simply a collection of stuff.
+We don’t talk about them like we used to and we certainly don’t feel the same way about them either. We don’t compare them to Google or Facebook or any of the other industry changing companies of today. Like a massive freight train with brakes applied, it will still take miles for this train to come to a complete stop. It’s simple physics.
 
-It will probably end up being chopped up and sold off for scrap, technology or customers, which is a sad reality considering how inspiring AOL used to be. It is not a coincidence that successful entrepreneurs long for the early days. It is no accident that big companies talk about a return to basics. What they are alluding to is a time before the split.
+At best AOL’s size will help them putter along, but without a more compelling purpose, cause or belief, the company is simply a collection of stuff. It will probably end up being chopped up and sold off for scrap, technology or customers, which is a sad reality considering how inspiring AOL used to be. It is not a coincidence that successful entrepreneurs long for the early days. It is no accident that big companies talk about a return to basics.
 
-And they would be right. They do indeed need to return to a time when what they did was in perfect parallel to why they did it. If they continue down the path of focusing on their growth of what at the expense of why, more volume and less clarity, their ability to thrive and inspire for years to come is dubious at best. Spire for companies like Walmart, Microsoft, Starbucks, The Gap, Dell and so many others that used to be special have all gone through a split.
+What they are alluding to is a time before the split. And they would be right. They do indeed need to return to a time when what they did was in perfect parallel to why they did it. If they continue down the path of focusing on their growth of what at the expense of why, more volume and less clarity, their ability to thrive and inspire for years to come is dubious at best.
 
-If they cannot recapture their why and re-inspire those inside and outside their organization, every one of them will end up looking more like AOL than the companies they were. What gets measured, gets done in the fall of her freshman year in college, Christina Harbridge set out to find a part-time job. Intrigued by the prospect of working in the antiques business, she answered a newspaper ad in Sacramento to do office work for a collector. Harbridge soon found out, however, that the job was filing papers for a collections agent, and even then she wasn’t entirely sure what that meant.
+Spire for companies like Walmart, Microsoft, Starbucks, The Gap, Dell and so many others that used to be special have all gone through a split. If they cannot recapture their why and re-inspire those inside and outside their organization, every one of them will end up looking more like AOL than the companies they were. What gets measured, gets done in the fall of her freshman year in college, Christina Harbridge set out to find a part-time job. Intrigued by the prospect of working in the antiques business, she answered a newspaper ad in Sacramento to do office work for a collector.
 
-The collections office consisted of a huge room with dozens of phone stations, each staffed by a debt collector making call after call to a long list of businesses and individuals who owed money. The setup of the room meant there was no privacy, everyone could hear everyone else’s calls. Harbridge was immediately taken by the harshness of the tone that all the collectors used with those from whom they aimed to collect unpaid debts. They would hunt them, and practically threaten them, she said.
+Harbridge soon found out, however, that the job was filing papers for a collections agent, and even then she wasn’t entirely sure what that meant. The collections office consisted of a huge room with dozens of phone stations, each staffed by a debt collector making call after call to a long list of businesses and individuals who owed money. The setup of the room meant there was no privacy, everyone could hear everyone else’s calls. Harbridge was immediately taken by the harshness of the tone that all the collectors used with those from whom they aimed to collect unpaid debts.
 
-They would do anything it took to get information from them. Harbridge recognized that the owner of the company and collectors were all kind, gracious people. They helped each other out, listened to each other’s problems and even joined together sponsor a homeless family during the holidays. But when they wait on the phone to collect a debt, these same people turned passive-aggressive, rude and often mean.
+They would hunt them, and practically threaten them, she said. They would do anything it took to get information from them. Harbridge recognized that the owner of the company and collectors were all kind, gracious people. They helped each other out, listened to each other’s problems and even joined together sponsor a homeless family during the holidays.
 
-It’s not because they were bad people, it’s because they were incentivized to be that way. Their officious behavior made perfect sense. What gets measured gets done, as well-known sales coach Jack Daly says. And two, the world of debt collecting, the callers were given bonuses beyond how much money they collected.
+But when they wait on the phone to collect a debt, these same people turned passive-aggressive, rude and often mean. It’s not because they were bad people, it’s because they were incentivized to be that way. Their officious behavior made perfect sense. What gets measured gets done, as well-known sales coach Jack Daly says.
 
-This has resulted in any industry that threatens, badgers, hounds and provokes. It did take long until Harbridge found herself adopting the same attitude whenever she talked with debtors. I began treating people on the phone the way everybody else in the office
+And two, the world of debt collecting, the callers were given bonuses beyond how much money they collected. This has resulted in any industry that threatens, badgers, hounds and provokes. It did take long until Harbridge found herself adopting the same attitude whenever she talked with debtors. I began treating people on the phone the way everybody else in the office
 
 
 <a id="sec-060304"></a>
 ### ⏱️ [06:03:04 - 06:08:05]
 
-treated them, she sale feeling like what she was doing was completely out of balance with her why, her bridge decided there had to be another way to go in my head that I was going to start an agency that collected by being nice, she said. People in the collections business though Harbridge naive, if not crazy. And maybe she was, crazy. In 1993, Harbridge moved to San Francisco and started her own collections firm, Bridgeport Financial, steeped in the belief that agents would have more success treating people with respect that badgering them.
+treated them, she sale feeling like what she was doing was completely out of balance with her why, her bridge decided there had to be another way to go in my head that. I was going to start an agency that collected by being nice, she said. People in the collections business though Harbridge naive, if not crazy. And maybe she was, crazy.
 
-Harbridge built her company on her why, that everyone has a story and everyone deserves to be listened to her approach was to have her agents try to establish rapport with the debtor on the other end of the phone in the course of a three-minute conversation. The goal was to learn everything they could about the person’s circumstances, did they have the means to par the debt? Would they honor a payment plan? Was the reason for the failure to pay reflective of a short-term situation?
+In 1993, Harbridge moved to San Francisco and started her own collections firm, Bridgeport Financial, steeped in the belief that agents would have more success treating people with respect that badgering them. Harbridge built her company on her why, that everyone has a story and everyone deserves to be listened to her approach was to have her agents try to establish rapport with the debtor on the other end of the phone in the course of a three-minute conversation. The goal was to learn everything they could about the person’s circumstances, did they have the means to par the debt?
 
-We would get people to tell us the truth, she said. Sure, we had a legal department, but we tried to avoid using it. Harbridge knew, however, that no matter her intentions, if she measured the results the same was as others, the same awful behavior would result. So she came with an entirely new way to incentivize her people.
+Would they honor a payment plan? Was the reason for the failure to pay reflective of a short-term situation? We would get people to tell us the truth, she said. Sure, we had a legal department, but we tried to avoid using it.
 
-She found a way to measure why. At Bridgeport Financial, bonuses were not given for the amount of money that was collected, they were given based on how many thank you cards her agents sent out. This is harder than it sounds. Sending out a card thanking someone for the time they spent talking on the phone requires a few things.
+Harbridge knew, however, that no matter her intentions, if she measured the results the same was as others, the same awful behavior would result. So she came with an entirely new way to incentivize her people. She found a way to measure why. At Bridgeport Financial, bonuses were not given for the amount of money that was collected, they were given based on how many thank you cards her agents sent out.
+
+This is harder than it sounds. Sending out a card thanking someone for the time they spent talking on the phone requires a few things.
 
 First, Harbridge had to hire people who believed what she believed. She had to hire good fits. If her employees didn’t believe that everyone deserves to be listened to, it wouldn’t work. Only good fit hires would be capable of creating an environment on the telephone that would actually warrant sending a thank you card, even though the purpose of the call was to ask for money.
 
@@ -2324,27 +2426,27 @@ Though we are drawn to Apple’s well-deserved reputation for innovation and cha
 
 an amazing potential, what happens now that he’s gone? Gates himself has always held that he receives a disproportionate amount of attention for his role at Microsoft, much of it, of course, due to his exceptional wealth. Like all inspired leaders, he recognizes that his role is to lead the cause, but it is others who will be physically responsible for bringing that cause to life. Martin Luther King Jr. could not have changed America walking across a bridge in Selma, Alabama, with five prominent civil rights leaders.
 
-It took the thousands of people marching behind them to spur change. Gates recognizes the need for people to produce real change, but he neglected to remember that any effective movement, social or business, needs a leader to march in the front, preaching the vision and reminding people why they showed up in the first place. Though King needed to cross the bridge from Selma on his march to Montgomery, it was what it meant to cross the bridge that mattered. Likewise in business, though profit and shareholder value are valid and essential destinations, they do not inspire people to come to work.
+It took the thousands of people marching behind them to spur change. Gates recognizes the need for people to produce real change, but he neglected to remember that any effective movement, social or business, needs a leader to march in the front, preaching the vision and reminding people why they showed up in the first place. Though King needed to cross the bridge from Selma on his march to Montgomery, it was what it meant to cross the bridge that mattered.
 
-Although Microsoft went through the split years ago, changing from a company that intended to change the world into a company that makes software, having Gates hanging around helped Microsoft maintain at least a loose sense of why they existed. With Gates gone, Microsoft does not have sufficient systems to measure and preach their why anymore. This is an issue that will have an exponential impact as time passes. Such a departure as Gates is is not without precedent among companies with equally visionary leaders.
+Likewise in business, though profit and shareholder value are valid and essential destinations, they do not inspire people to come to work. Although Microsoft went through the split years ago, changing from a company that intended to change the world into a company that makes software, having Gates hanging around helped Microsoft maintain at least a loose sense of why they existed. With Gates gone, Microsoft does not have sufficient systems to measure and preach their why anymore. This is an issue that will have an exponential impact as time passes.
 
-Steve Jobs, the physical embodiment of the rabble-rousing revolutionary, a man who also personifies his company’s Y, left Apple in 1985 after a legendary power struggle with Apple’s president, John Scully, and the Apple board of directors. The impact on Apple was profound. Originally hired by Jobs in 1983, Scully was a perfectly capable executive with a proven track record. He know what to do and how to do things.
+Such a departure as Gates is is not without precedent among companies with equally visionary leaders. Steve Jobs, the physical embodiment of the rabble-rousing revolutionary, a man who also personifies his company’s Y, left Apple in 1985 after a legendary power struggle with Apple’s president, John Scully, and the Apple board of directors. The impact on Apple was profound. Originally hired by Jobs in 1983, Scully was a perfectly capable executive with a proven track record.
 
-He was considered one of the most talented marketing executives around, having risen quickly through the ranks of PepsiGo. At Pepsi, he created the wildly successful Pepsi Challenge taste test advertising campaign, leading Pepsi to overtake Coca-Cola for the first time. But the problem was, Scully was a bad fit at Apple. He ran the company as a business and was not there to lead the cause.
+He know what to do and how to do things. He was considered one of the most talented marketing executives around, having risen quickly through the ranks of PepsiGo. At Pepsi, he created the wildly successful Pepsi Challenge taste test advertising campaign, leading Pepsi to overtake Coca-Cola for the first time. But the problem was, Scully was a bad fit at Apple.
 
-It is worth considering how such a bad fit as Scully even got the job at Apple in the first place. Simple, he was manipulated. Scully did not approach Jobs and ask to be a part of Apple’s cause. The way the real story unfolded made the fallout almost predictably Jobs knew he needed help.
+He ran the company as a business and was not there to lead the cause. It is worth considering how such a bad fit as Scully even got the job at Apple in the first place. Simple, he was manipulated. Scully did not approach Jobs and ask to be a part of Apple’s cause.
 
-He knew he needed a how guy to help him scale his vision. He approached Scully, a man with a solid R-pound some 6, and said, do you want to sell sugar water your whole life or do you want to change the world? Staying off Scully’s ego aspirations and fears, Jobs completed a perfectly executed manipulation. And with it, Jobs was ousted from his own company a ten years later.
+The way the real story unfolded made the fallout almost predictably Jobs knew he needed help. He knew he needed a how guy to help him scale his vision. He approached Scully, a man with a solid R-pound some 6, and said, do you want to sell sugar water your whole life or do you want to change the world? Staying off Scully’s ego aspirations and fears, Jobs completed a perfectly executed manipulation.
 
-Apple thrived on Steve Jobs’s fumes for a few years as businesses started buying up Macintoshs and software developers continued to create new software. But it wouldn’t be long until the company would begin to falter. Apple just wasn’t what it used to be. It had gone through the split and ignored it.
+And with it, Jobs was ousted from his own company a ten years later. Apple thrived on Steve Jobs’s fumes for a few years as businesses started buying up Macintoshs and software developers continued to create new software. But it wouldn’t be long until the company would begin to falter. Apple just wasn’t what it used to be.
 
-The Y was getting fuzzier and fuzzier with each passing year. The inspiration was gone. Literally. With a capable executive like Scully running the business, there was no one to lead the cause.
+It had gone through the split and ignored it. The Y was getting fuzzier and fuzzier with each passing year. The inspiration was gone. Literally.
 
-New products would be less revolutionary and more evolutionary, reported Fortune magazine at the time, some people might even call them dull. Weary of Apple’s right brain ways, Scully reorganized the company repeatedly, each time trying to get back what Apple clearly had lost. He brought in a new executive staff to help. But all they were doing was trying to manage how the company worked when it was the Y that needed attention.
+With a capable executive like Scully running the business, there was no one to lead the cause. New products would be less revolutionary and more evolutionary, reported Fortune magazine at the time, some people might even call them dull. Weary of Apple’s right brain ways, Scully reorganized the company repeatedly, each time trying to get back what Apple clearly had lost. He brought in a new executive staff to help.
 
-Needless to say, morale was dismal. It wasn’t until Jobs returned in 1997 that everyone inside and outside the company was reminded why Apple existed. With clarity back, the company quickly re-established its power for innovation, for thinking different and, once again, for redefining industries. With Jobs at the helm again, the culture for challenging the status quo, for empowering the individual, returned.
+But all they were doing was trying to manage how the company worked when it was the Y that needed attention. Needless to say, morale was dismal. It wasn’t until Jobs returned in 1997 that everyone inside and outside the company was reminded why Apple existed. With clarity back, the company quickly re-established its power for innovation, for thinking different and, once again, for redefining industries.
 
-Every decision was filtered through the Y, and it worked.
+With Jobs at the helm again, the culture for challenging the status quo, for empowering the individual, returned. Every decision was filtered through the Y, and it worked.
 
 
 <a id="sec-061810"></a>
@@ -2358,19 +2460,21 @@ The result is diminished morale, mass exodus, poor performance and a slow and st
 
 Unfortunately, it was a cause that he too forgot, and then didn’t communicate well enough before he stepped down as CEO of Dell Corporation. In July 2004. After the company started to weaken, customer service, for one, plummeted, he came back in less than three years. Michael Dell recognized that without him present to keep energy focused on the reason Dell Corporation was founded, the company became more obsessed with what at the expense of why.
 
-The company was too focused on the short term, and the balance of priorities was way too leaning toward things that deliver short term results, that was the major root cause, Dell told The New York Times in September 2007. The company had in fact become so dysfunctional that some managers were compelled to falsify earnings reports between 2003 and 2006 in order to meet sales targets, suggesting a corporate culture that put undue pressure on managers to meet bottom line targets. In the meantime, the company had missed significant market shifts, most notably the potential of the consumer market, and lost its edge with component suppliers as well.
+The company was too focused on the short term, and the balance of priorities was way too leaning toward things that deliver short term results, that was the major root cause, Dell told The New York Times in September 2007. The company had in fact become so dysfunctional that some managers were compelled to falsify earnings reports between 2003 and 2006 in order to meet sales targets, suggesting a corporate culture that put undue pressure on managers to meet bottom line targets.
 
-And in 2006, Hewlett-Packard swept past Dell as the largest seller of pieces worldwide. Dell had gone through the split and failed to recognize the reason it wasn’t the company it used to be. Starbucks is another good example. In 2000, Howard Schultz resigned as CEO of Starbucks, and for the first time in its history and despite 50 million customers per week, the company started to crack.
+In the meantime, the company had missed significant market shifts, most notably the potential of the consumer market, and lost its edge with component suppliers as well. And in 2006, Hewlett-Packard swept past Dell as the largest seller of pieces worldwide. Dell had gone through the split and failed to recognize the reason it wasn’t the company it used to be. Starbucks is another good example.
 
-If you look back at the history of Starbucks, it thrived not because of its coffee but because of the experience it offered to customers. It was Schultz who brought that why to the company when he arrived in 1982, 10 years after Gordon Boker, Jerry Baldwin and Zev Segal first started selling coffee beans in Seattle. In the early days it was about the coffee. Schultz, frustrated that the founders of Starbucks couldn’t see the larger vision, set out to put the company on a new course, the course that ultimately turned Starbucks into the company we know today.
+In 2000, Howard Schultz resigned as CEO of Starbucks, and for the first time in its history and despite 50 million customers per week, the company started to crack. If you look back at the history of Starbucks, it thrived not because of its coffee but because of the experience it offered to customers. It was Schultz who brought that why to the company when he arrived in 1982, 10 years after Gordon Boker, Jerry Baldwin and Zev Segal first started selling coffee beans in Seattle.
 
-Schultz had been in Ahmed of the Espresso Bars of Italy, and it was his vision of building a comfortable environment between work and home, the third space, as he called it, that allowed Starbucks to single-handedly create a coffee shop culture in the United States that had until then only existed on college campuses. That was the time when Starbucks stood for something. It reflected an underlying belief about the world. It was that idea that people bought, not the coffee.
+In the early days it was about the coffee. Schultz, frustrated that the founders of Starbucks couldn’t see the larger vision, set out to put the company on a new course, the course that ultimately turned Starbucks into the company we know today. Schultz had been in Ahmed of the Espresso Bars of Italy, and it was his vision of building a comfortable environment between work and home, the third space, as he called it, that allowed Starbucks to single-handedly create a coffee shop culture in the United States that had until then only existed on college campuses.
 
-And it was inspiring. But Starbucks, like so many before it, went through the inevitable split. They, too, forgot about why the company was founded and started focusing on the results and the products. There was a time when Starbucks offered the option to sip your coffee out of a ceramic cup and eat your Danish off a ceramic plate.
+That was the time when Starbucks stood for something. It reflected an underlying belief about the world. It was that idea that people bought, not the coffee. And it was inspiring.
 
-Two perfect details that helped bring the company’s belief to life in the place between work and home. That ceramic crockery is expensive to maintain and Starbucks did away with it, favoring the more efficient paper cups. Though it saved money, it came at a cost, the erosion of trust. Nothing says to a customer we love you, now get out like a paper cup.
+But Starbucks, like so many before it, went through the inevitable split. They, too, forgot about why the company was founded and started focusing on the results and the products. There was a time when Starbucks offered the option to sip your coffee out of a ceramic cup and eat your Danish off a ceramic plate. Two perfect details that helped bring the company’s belief to life in the place between work and home.
 
-It was no longer about the third space. It had become about the coffee. Starbucks’s why was going fuzzy. Thankfully, Joltz was there, the physical embodiment of the why, to remind people of
+That ceramic crockery is expensive to maintain and Starbucks did away with it, favoring the more efficient paper cups. Though it saved money, it came at a cost, the erosion of trust. Nothing says to a customer we love you, now get out like a paper cup. It was no longer about the third space.
+
+It had become about the coffee. Starbucks’s why was going fuzzy. Thankfully, Joltz was there, the physical embodiment of the why, to remind people of
 
 
 <a id="sec-062314"></a>
@@ -2378,25 +2482,27 @@ It was no longer about the third space. It had become about the coffee. Starbuck
 
 the higher cause. But in 2000 he left, and things got worse. The company had grown from fewer than 1,000 stores to 13,000 in only 10 years. Eight years and two cores later, the company was dangerously overextended just as it was facing an onslaught of competition from McDonald’s, Dunkin' Donuts and other unexpected places.
 
-In a now famous memo that Joltz wrote to his successor, Jim Donald, just months before returning to take the helm, he implored Donald to make the changes necessary to evoke the heritage, the tradition and the passion that we all have for the true Starbucks experience. The reason the company was floundering was not that it grew too fast, but that Joltz had not properly infused his why into the organization so that the organization could manage the why without him. In early 2008, Joltz replaced Donald with a leader who could better steer the company back to a time before the split, himself.
+In a now famous memo that Joltz wrote to his successor, Jim Donald, just months before returning to take the helm, he implored Donald to make the changes necessary to evoke the heritage, the tradition and the passion that we all have for the true Starbucks experience. The reason the company was floundering was not that it grew too fast, but that Joltz had not properly infused his why into the organization so that the organization could manage the why without him.
 
-None of these executives are considered God’s gift to management. Steve Jobs is paranoia, for example, is well documented, and Bill Gates is socially awkward. Their companies are thousands of people deep and they alone can’t pull all the strings or push all the buttons to make everything work properly. They rely on the brains and the management skills of teams of people to help them build their megaphones.
+In early 2008, Joltz replaced Donald with a leader who could better steer the company back to a time before the split, himself. None of these executives are considered God’s gift to management. Steve Jobs is paranoia, for example, is well documented, and Bill Gates is socially awkward. Their companies are thousands of people deep and they alone can’t pull all the strings or push all the buttons to make everything work properly.
 
-They rely on people who share their cores. In this respect, they are no different from other executives. But what they all have in common, something that not all cores possess, is that they physically embody the cores around which they build their companies. Their physical presence reminds every executive and every employee why they show up to work.
+They rely on the brains and the management skills of teams of people to help them build their megaphones. They rely on people who share their cores. In this respect, they are no different from other executives. But what they all have in common, something that not all cores possess, is that they physically embody the cores around which they build their companies.
 
-Not simply, they inspire. Yet, like Bill Gates, these inspired leaders have all failed to properly articulate their cores in words that others could rally around in their absence. Failing to put the movement into hard words leaves them as the only ones who can lead the movement. What happens when Jobs or Dell or Schultz leave again?
+Their physical presence reminds every executive and every employee why they show up to work. Not simply, they inspire. Yet, like Bill Gates, these inspired leaders have all failed to properly articulate their cores in words that others could rally around in their absence. Failing to put the movement into hard words leaves them as the only ones who can lead the movement.
 
-For companies of any size, success is the greatest challenge. As Microsoft grew, Gates stopped talking about what he believed and how he was going to change the world and started talking about what the company was doing. Microsoft changed. Founded as a company that believed in making people more productive so they could achieve their highest potential, Microsoft became a company that simply made software products.
+What happens when Jobs or Dell or Schultz leave again? For companies of any size, success is the greatest challenge. As Microsoft grew, Gates stopped talking about what he believed and how he was going to change the world and started talking about what the company was doing. Microsoft changed.
 
-Such a seemingly subtle change affects behaviors. It alters decisions. And it impacts how a company structures itself for the future. Though Microsoft had changed since its founding, the impact was never as dramatic because at least Bill Gates was there, the physical embodiment of the cores that inspired his executives and employees.
+Founded as a company that believed in making people more productive so they could achieve their highest potential, Microsoft became a company that simply made software products. Such a seemingly subtle change affects behaviors. It alters decisions. And it impacts how a company structures itself for the future.
 
-Microsoft is just one of the tangible things Gates has done in his life to bring his cores to life. The company is one of the what’s to his why. And now he’s off to do something else that also embodies his cores, to use the Gates foundation to help people around the world wake up every day to overcome obstacles so they too can have an opportunity achieve their potential. The only difference is he’s not doing it with software anymore.
+Though Microsoft had changed since its founding, the impact was never as dramatic because at least Bill Gates was there, the physical embodiment of the cores that inspired his executives and employees. Microsoft is just one of the tangible things Gates has done in his life to bring his cores to life. The company is one of the what’s to his why. And now he’s off to do something else that also embodies his cores, to use the Gates foundation to help people around the world wake up every day to overcome obstacles so they too can have an opportunity achieve their potential.
 
-Steve Ballmer, a smart man by all accounts, does not physically embody Gates’s vision of the world. He has the image of a powerful executive who sees numbers, competitors and markets. He is a man with a gift for managing the what line. Like John Sculley at Apple, Jim Donald at Starbucks and Kevin Rollins at Dell, all the cores who replaced the visionary founders or executives, Ballmer might be the perfect man to work alongside a visionary, but is he the perfect man to replace one?
+The only difference is he’s not doing it with software anymore. Steve Ballmer, a smart man by all accounts, does not physically embody Gates’s vision of the world. He has the image of a powerful executive who sees numbers, competitors and markets. He is a man with a gift for managing the what line.
 
-The entire culture of all these companies was built around one man’s vision. The only succession plan that will work is to find a CEO who believes in and wants to continue to lead that movement, not replace it with their own vision of the future. Ballmer knows how to rally the company, but can he inspire it? Successful succession is more than selecting someone with an appropriate skill set, it’s about finding someone who is in lockstep with the original cores around which the company was founded.
+Like John Sculley at Apple, Jim Donald at Starbucks and Kevin Rollins at Dell, all the cores who replaced the visionary founders or executives, Ballmer might be the perfect man to work alongside a visionary, but is he the perfect man to replace one? The entire culture of all these companies was built around one man’s vision. The only succession plan that will work is to find a CEO who believes in and wants to continue to lead that movement, not replace it with their own vision of the future.
 
-Great second or third cores don’t take the helm to implement their own vision of the future, they pick up the original banner and lead the company into the next generation. That’s why we call it succession, not replacement. There is a continuity of vision. One of the reasons Southwest Airlines has been so good at succession is because its cores is so ingrained in its culture, and the cores who took over from Herb Kelleher also embodied the cores.
+Ballmer knows how to rally the company, but can he inspire it? Successful succession is more than selecting someone with an appropriate skill set, it’s about finding someone who is in lockstep with the original cores around which the company was founded. Great second or third cores don’t take the helm to implement their own vision of the future, they pick up the original banner and lead the company into the next generation. That’s why we call it succession, not replacement.
+
+There is a continuity of vision. One of the reasons Southwest Airlines has been so good at succession is because its cores is so ingrained in its culture, and the cores who took over from Herb Kelleher also embodied the cores.
 
 
 <a id="sec-062816"></a>
@@ -2406,57 +2512,61 @@ Howard Putnam was the first president of Southwest after Kelleher. Though he was
 
 Putnam leaned back in his chair and noticed that Kelleher had slipped his shoes off under the desk. More significantly, Putnam noticed the hole in one of Kelleher’s socks. It was at that point that Putnam felt he was the right man for the job. He loved that Kelleher was just like everyone else.
 
-He too had holes in his socks. Although Putnam felt Southwest was right for him, how do we know if he was right for Southwest? I had a chance to spend half a day with Putnam to talk. At one point in the afternoon I suggested we take a break and grab a Starbucks.
+He too had holes in his socks. Although Putnam felt Southwest was right for him, how do we know if he was right for Southwest? I had a chance to spend half a day with Putnam to talk. At one point in the afternoon.
 
-The mere suggestion incensed him. I’m not going to Starbucks. He cracked. I’m not paying $5 for a cup of coffee.
+I suggested we take a break and grab a Starbucks. The mere suggestion incensed him. I’m not going to Starbucks. He cracked.
 
-And what the heck is a Frappuccino anyway? It was at that point I realized how perfect a fit Putnam was for Southwest. He was an everyman. A Dunkin' Donuts guy.
+I’m not paying $5 for a cup of coffee. And what the heck is a Frappuccino anyway? It was at that point. I realized how perfect a fit Putnam was for Southwest.
 
-He was a perfect man to take the torch from Kelleher and charge forward. Southwest inspired him. In the case of Howard Putnam, Kelleher hired somebody who could represent the cause, not reinvent it. Today it has become so acculturated there that it’s almost automatic.
+He was an everyman. A Dunkin' Donuts guy. He was a perfect man to take the torch from Kelleher and charge forward. Southwest inspired him.
 
-The same could be said for Colleen Barrett, who became president of Southwest in 2001, some 30 years after she was working as Kelleher’s secretary. in his San Antonio law firm. By 2001, the company had nearly 30,000 employees and a fleet of 344 planes. By the time she took over, Barrett says that running the company had become a very collective effort. Keller has stopped his day-to-day involvement in the company, but left a corporate culture so strong that his presence in the hallways was no longer needed.
+In the case of Howard Putnam, Kelleher hired somebody who could represent the cause, not reinvent it. Today it has become so acculturated there that it’s almost automatic. The same could be said for Colleen Barrett, who became president of Southwest in 2001, some 30 years after she was working as Kelleher’s secretary. in his San Antonio law firm. By 2001, the company had nearly 30,000 employees and a fleet of 344 planes.
 
-The physical person had largely been replaced by the folklore of Keller. But it is the folklore that has helped keep the Y alive. Barrett freely admits she’s not the smartest executive out there. She is self-deprecating in her personal assessment, in fact.
+By the time she took over, Barrett says that running the company had become a very collective effort. Keller has stopped his day-to-day involvement in the company, but left a corporate culture so strong that his presence in the hallways was no longer needed. The physical person had largely been replaced by the folklore of Keller. But it is the folklore that has helped keep the Y alive.
 
-But as the leader of the company, being the smartest was not her job. Her job was to lead the cause, to personify the values and remind everyone why they are there. The good news is, it will be easy to know if a successor is carrying the right torch. Simply apply the salary test and see if what the company is saying and doing makes sense.
+Barrett freely admits she’s not the smartest executive out there. She is self-deprecating in her personal assessment, in fact. But as the leader of the company, being the smartest was not her job. Her job was to lead the cause, to personify the values and remind everyone why they are there.
 
-Test whether what they are doing effectively proves why they were founded. If we can’t easily assess a company’s Y simply from looking at their products, services, marketing and public statements, then odds are high that they don’t know what it is either. If they did, so would we. When the Y goes, what is all you will have left on April 5, 1992, at approximately 8 in the morning, Walmutt lost its Y.
+The good news is, it will be easy to know if a successor is carrying the right torch. Simply apply the salary test and see if what the company is saying and doing makes sense. Test whether what they are doing effectively proves why they were founded. If we can’t easily assess a company’s Y simply from looking at their products, services, marketing and public statements, then odds are high that they don’t know what it is either.
 
-On that day, Sam Walton, Walmutt’s inspired leader, the man who embodied the cause around which he built the world’s largest retailer, died in the University of Arkansas Medical Science Hospital in Little Rock of Bone Marrow Cancer. Soon after, Walton’s oldest son, S. Robeson Walton, who succeeded his father as chairman of the company, gave a public statement. No changes are expected in the corporate direction, control or policy, he said.
+If they did, so would we. When the Y goes, what is all you will have left on April 5, 1992, at approximately 8 in the morning, Walmutt lost its Y. On that day, Sam Walton, Walmutt’s inspired leader, the man who embodied the cause around which he built the world’s largest retailer, died in the University of Arkansas Medical Science Hospital in Little Rock of Bone Marrow Cancer. Soon after, Walton’s oldest son, S.
 
-Sadly for Walmart employees, customers and shareholders, that is not what happened. Sam Walton was the embodiment of the everyman. Though he was named the richest man in America by Forbes magazine in 1985, a title he held until he died, he never understood the importance others placed on money. Certainly, Walton was a competitor, and money was a good yardstick of success.
+Robeson Walton, who succeeded his father as chairman of the company, gave a public statement. No changes are expected in the corporate direction, control or policy, he said. Sadly for Walmart employees, customers and shareholders, that is not what happened. Sam Walton was the embodiment of the everyman.
 
-But that’s not what gave Walton or those who worked at Walmart the feeling of success. It was people Walton valued above all else. People. Look after people and people will look after you was his belief, and everything Walton and Walmart did proved it.
+Though he was named the richest man in America by Forbes magazine in 1985, a title he held until he died, he never understood the importance others placed on money. Certainly, Walton was a competitor, and money was a good yardstick of success. But that’s not what gave Walton or those who worked at Walmart the feeling of success. It was people Walton valued above all else.
 
-In the early days, for example, Walton insisted on showing up for work on Saturdays out of fairness to his store employees who had to work weekends. He remembered birthdays and anniversaries and even that a cashier’s mother had just undergone gallbladder surgery. He chastised his executives for driving expensive cars and resisted using a corporate jet for many years. If the average American didn’t have those
+People. Look after people and people will look after you was his belief, and everything Walton and Walmart did proved it. In the early days, for example, Walton insisted on showing up for work on Saturdays out of fairness to his store employees who had to work weekends. He remembered birthdays and anniversaries and even that a cashier’s mother had just undergone gallbladder surgery.
+
+He chastised his executives for driving expensive cars and resisted using a corporate jet for many years. If the average American didn’t have those
 
 
 <a id="sec-063316"></a>
 ### ⏱️ [06:33:16 - 06:38:16]
 
-things, then neither should those who are supposed to be their champions. 226. Split happens Walmart never went through a split under Walton’s command, because Walton never forgot where he came from. I still can’t believe it was news that I get my hair cut at the barbershop. Where else would I get it cut?
+things, then neither should those who are supposed to be their champions. 226. Split happens Walmart never went through a split under Walton’s command, because Walton never forgot where he came from. I still can’t believe it was news that. I get my hair cut at the barbershop.
 
-He said. Why do I drive a pickup truck? What am I supposed to haul my dogs around in, a Rolls-Royce? Often seen wearing his signature tweed jacket and a trucker’s cap, Walton was the embodiment of those he aimed to serve, the average Joe American.
+Where else would. I get it cut? He said. Why do.
+
+I drive a pickup truck? What am. I supposed to haul my dogs around in, a Rolls-Royce? Often seen wearing his signature tweed jacket and a trucker’s cap, Walton was the embodiment of those he aimed to serve, the average Joe American.
 
 With a company so beloved by employees, customers and communities, Walton made only one major blunder. He didn’t put his cause into clear enough words so that others could continue to lead the cause after he died. It’s not entirely his fault. The part of the brain that controls the Y doesn’t control language.
 
 So, like so many, the best Walton could articulate was how to bring his cause to life. He talked about making products cheap to make things more affordable to the average working American. He talked about building stores in rural communities so that the backbone of America’s workforce didn’t have to travel to the urban centers. It all made sense.
 
-All his decisions passed the celery test. It was the Y upon which the company was built, however, that was left unsaid. Walton was involved in the company until just before his death, when his ailing health prevented him from participating any longer. Like all organizations with founder leaders whose physical presence helps keep the Y alive, his continued involvement I vertical bar J the company had reminded everyone why they came to work every day.
+All his decisions passed the celery test. It was the Y upon which the company was built, however, that was left unsaid. Walton was involved in the company until just before his death, when his ailing health prevented him from participating any longer. Like all organizations with founder leaders whose physical presence helps keep the Y alive, his continued involvement.
 
-He inspired everyone around him. Just as Apple ran oj the fumes of Steve Jobs for a few years after he left the company before significant cracks started to show, so did Walmart remember Sam Walton and his wife for a short time after he died. But as the Y started to get fuzzier and fuzzier, the company changed direction. From then on, there would be a new motivation at DH less than company, and it was something that Walton himself cautioned against, chasing money.
+I vertical bar J the company had reminded everyone why they came to work every day. He inspired everyone around him. Just as Apple ran oj the fumes of Steve Jobs for a few years after he left the company before significant cracks started to show, so did Walmart remember Sam Walton and his wife for a short time after he died. But as the Y started to get fuzzier and fuzzier, the company changed direction.
 
-Costco was co-founded in 1983 by Y type Jim Sinigal and How type Jeffrey Brotman. Sinigal learned about discount retailing from Sol Price, the same person from whom Sam Walton admitted to borrowing much of what he knew about the business. And, like Walton, Sinigal believes in people first. We’re going to be a company that’s on a first-name basis with everyone, he said in an interview on ABC’s news magazine show 2020.
+From then on, there would be a new motivation at DH less than company, and it was something that Walton himself cautioned against, chasing money. Costco was co-founded in 1983 by Y type Jim Sinigal and. How type Jeffrey Brotman. Sinigal learned about discount retailing from Sol Price, the same person from whom Sam Walton admitted to borrowing much of what he knew about the business.
 
-Following the same formula as other inspiring leaders, Costco believes in looking after its employees first. Historically, they have paid their people about 40% more than those who work at Sam’s Club, the Valmar Town discount warehouse. And Costco offers above-average benefits, including health coverage for more than 90% of their employees. As a result, their turnover is consistently five times lower than Sam’s Club.
+And, like Walton, Sinigal believes in people first. We’re going to be a company that’s on a first-name basis with everyone, he said in an interview on ABC’s news magazine show 2020. Following the same formula as other inspiring leaders, Costco believes in looking after its employees first. Historically, they have paid their people about 40% more than those who work at Sam’s Club, the Valmar Town discount warehouse.
 
-Like all companies built around a cause, Costco has relied on their megaphone to help them grow. They don’t have a PR department and they don’t spend money on advertising. The law of diffusion is all that Costco needed to get the word out. Imagine that you have 120,000 loyal ambassadors out there who are constantly saying good things about you, quips Sinigal, recognizing the value of trust and loyalty of his employees over advertising and PR.
+And Costco offers above-average benefits, including health coverage for more than 90% of their employees. As a result, their turnover is consistently five times lower than Sam’s Club. Like all companies built around a cause, Costco has relied on their megaphone to help them grow. They don’t have a PR department and they don’t spend money on advertising.
 
-For years, Wall Street analysts criticized Costco’s strategy of spending so much on their people instead of on cutting costs to boost margins and help share value. Wall Street would prefer the company to focus on what they did at the expense of why they did it. A Deutsche Bank analyst told Fortune magazine, Costco continues to be a company that is better at serving the club member and employee than the shareholder. Fortunately, Sinigal trusts his gut more than he trusts Wall Street analysts.
+The law of diffusion is all that Costco needed to get the word out. Imagine that you have 120,000 loyal ambassadors out there who are constantly saying good things about you, quips Sinigal, recognizing the value of trust and loyalty of his employees over advertising and PR. For years, Wall Street analysts criticized Costco’s strategy of spending so much on their people instead of on cutting costs to boost margins and help share value. Wall Street would prefer the company to focus on what they did at the expense of why they did it.
 
-Wall Street is in the business of making money between now and next Tuesday, he said in the 2020 interview. We’re in the business of building an organization, an institution that we hope will be here 50 years from now. And paying good wages and keeping people working with you is very good business. The amazing insight in all of this is not just how inspiring Sinigal is, but that almost everything he says and does echoes Sam Walton.
+A Deutsche Bank analyst told Fortune magazine, Costco continues to be a company that is better at serving the club member and employee than the shareholder. Fortunately, Sinigal trusts his gut more than he trusts Wall Street analysts. Wall Street is in the business of making money between now and next Tuesday, he said in the 2020 interview. We’re in the business of building an organization, an institution that we hope will be here 50 years from now.
 
-Walmart got as big as it did doing the exact same thing, focusing on why and ensuring
+And paying good wages and keeping people working with you is very good business. The amazing insight in all of this is not just how inspiring Sinigal is, but that almost everything he says and does echoes Sam Walton. Walmart got as big as it did doing the exact same thing, focusing on why and ensuring
 
 
 <a id="sec-063816"></a>
@@ -2478,39 +2588,41 @@ It’s one of the main things wrong with American business today. Three more cou
 
 Duke, who took over as CEO in early 2009. Duke’s goal is to restore the luster and the clarity of Walmart’s why. And to do it, he started by paying himself an annual salary of $5.43 million.
 
-#### Part 6, Discover Why. The Origins of a Why.
+#### Part 6, Discover. Why.
 
-It started in Vietnam War era Northern California, where anti-government ideals and disdain for large centers of power and rampant. Two young men saw the power of government and corporations as the enemy, not because they were big, per se, but because they squashed the spirit of the individual. They imagined a world in which an individual had a voice. They imagined a time when an individual could successfully stand up to incumbent power, old assumptions and status quo thoughts and successfully challenge them.
+The Origins of a. Why. It started in Vietnam War era Northern California, where anti-government ideals and disdain for large centers of power and rampant. Two young men saw the power of government and corporations as the enemy, not because they were big, per se, but because they squashed the spirit of the individual.
 
-Even redirect them. They hung out with hippy types who shared their beliefs, but they saw a different way to change the world that didn’t require protesting or engaging in anything illegal. Steve Wozniak and Steve Jobs came of age in this time. Not only was the revolutionary spirit running high in Northern California, but it was also the time and place of the computer revolution.
+They imagined a world in which an individual had a voice. They imagined a time when an individual could successfully stand up to incumbent power, old assumptions and status quo thoughts and successfully challenge them. Even redirect them. They hung out with hippy types who shared their beliefs, but they saw a different way to change the world that didn’t require protesting or engaging in anything illegal.
 
-And in this technology they saw the opportunity to start their own revolution. The Apple gave an individual the power to do the same things as any company, Wozniak recounts. For the first time ever, one person could take on a corporation simply because they had the
+Steve Wozniak and Steve Jobs came of age in this time. Not only was the revolutionary spirit running high in Northern California, but it was also the time and place of the computer revolution. And in this technology they saw the opportunity to start their own revolution. The Apple gave an individual the power to do the same things as any company, Wozniak recounts.
+
+For the first time ever, one person could take on a corporation simply because they had the
 
 
 <a id="sec-064320"></a>
 ### ⏱️ [06:43:20 - 06:48:24]
 
-ability to use the technology. Wozniak engineered the Apple I and later the Apple II to be simple enough for people to harness the power of the technology. Jobs knew how to sell it. Thus was born Apple Computer.
+ability to use the technology. Wozniak engineered the Apple. I and later the Apple II to be simple enough for people to harness the power of the technology. Jobs knew how to sell it.
 
-A company with a purpose, to give the individual to power to stand up to established power. To empower the dreamers and the idealists to challenge the status quo and succeed. But their cause, their why, started long before Apple was born. In 1971, working out of Wozniak’s storm room at UC Berkeley the two Steves made something they called the Blue Box.
+Thus was born Apple Computer. A company with a purpose, to give the individual to power to stand up to established power. To empower the dreamers and the idealists to challenge the status quo and succeed. But their cause, their why, started long before Apple was born.
 
-Their little device hacked the phone system to give people the ability to avoid paying long distance rates on their phone bills. Apple computers didn’t exist yet, but Jobs and Woz were already challenging a big brother type power, in this case Marbell, American telephony and telegraph, the monopoly phone company. Technically, what the Blue Box did was illegal, and with no desire to challenge power, by breaking the law, Jobs and Woz never actually used the device themselves. But they liked the idea of giving other individuals the ability to avoid having to play by the rules of monopolistic forced a theme that would repeat many more times in Apple’s future.
+In 1971, working out of Wozniak’s storm room at UC Berkeley the two Steves made something they called the Blue Box. Their little device hacked the phone system to give people the ability to avoid paying long distance rates on their phone bills. Apple computers didn’t exist yet, but Jobs and Woz were already challenging a big brother type power, in this case Marbell, American telephony and telegraph, the monopoly phone company. Technically, what the Blue Box did was illegal, and with no desire to challenge power, by breaking the law, Jobs and Woz never actually used the device themselves.
 
-On April 1, 1976, they repeated their pattern again. They took on the giants of the computer industry, most notably big blue IBM. Before the Apple, computing still meant using a punch card to give instructions to a huge mainframe squirreled away in a computer. center somewhere. IBM targeted their technology to corporations and not, as Apple intended as a tool for individuals to target, corporations.
+But they liked the idea of giving other individuals the ability to avoid having to play by the rules of monopolistic forced a theme that would repeat many more times in Apple’s future. On April 1, 1976, they repeated their pattern again. They took on the giants of the computer industry, most notably big blue IBM. Before the Apple, computing still meant using a punch card to give instructions to a huge mainframe squirreled away in a computer. center somewhere.
 
-With clarity of purpose and amazing discipline, Apple Computer’s success seemed to follow the law of diffusion almost by design. In its first year in business, the company sold $1 million worth of computers to those who believed what they believed. By year two, they had sold $10 million worth. By their third year in business they were a $100 million company, and they attained billion dollar status within only six years.
+IBM targeted their technology to corporations and not, as Apple intended as a tool for individuals to target, corporations. With clarity of purpose and amazing discipline, Apple Computer’s success seemed to follow the law of diffusion almost by design. In its first year in business, the company sold $1 million worth of computers to those who believed what they believed. By year two, they had sold $10 million worth.
 
-Already a household name, in 1984 Apple launched the Macintosh with their famed 1984 commercial that aired during the Super Bowl. Directed by Ridley Scott, famed director of cult classics like Blade Runner, the commercial also changed the course of the advertising industry. The first Super Bowl commercial, it ushered in the annual tradition of big-budget, cinematic Super Bowl advertising. With the Macintosh, Apple once again changed the tradition of how things were done.
+By their third year in business they were a $100 million company, and they attained billion dollar status within only six years. Already a household name, in 1984 Apple launched the Macintosh with their famed 1984 commercial that aired during the Super Bowl. Directed by Ridley Scott, famed director of cult classics like Blade Runner, the commercial also changed the course of the advertising industry. The first Super Bowl commercial, it ushered in the annual tradition of big-budget, cinematic Super Bowl advertising.
 
-They challenged the standard of Microsoft’s DOS, the standard operating system used by most personal computers at the time. The Macintosh was the first mass-market computer to use a graphical user interface and a mouse, allowing people to simply point and click rather than input code. Ironically, it was Microsoft that took Apple’s concept to the masses with Windows, Gates’s version of the graphical user interface. Apple’s ability to ignite revolutions and Microsoft’s ability to take ideas to the mass market perfectly illustrate the why of each company and indeed their respective founders.
+With the Macintosh, Apple once again changed the tradition of how things were done. They challenged the standard of Microsoft’s DOS, the standard operating system used by most personal computers at the time. The Macintosh was the first mass-market computer to use a graphical user interface and a mouse, allowing people to simply point and click rather than input code. Ironically, it was Microsoft that took Apple’s concept to the masses with Windows, Gates’s version of the graphical user interface.
 
-Jobs has always been about challenge and Gates has always been about getting to the most people. Apple would continue to challenge with other products that followed the same pattern. Recent examples include the iPod and, more significantly, iTunes. With these technologies, Apple challenged the status quo business model of the music industry, an industry so distracted trying to protect its intellectual property and their outdated business model that it was busy suing 13-year-old music pirates while Apple redefined the online music market.
+Apple’s ability to ignite revolutions and Microsoft’s ability to take ideas to the mass market perfectly illustrate the why of each company and indeed their respective founders. Jobs has always been about challenge and Gates has always been about getting to the most people. Apple would continue to challenge with other products that followed the same pattern. Recent examples include the iPod and, more significantly, iTunes.
 
-The pattern repeated again when Apple introduced the iPhone. The status quo dictated that the cellular providers and not the phone manufacturer decide the features and capabilities of the actual phones. T-Mobile, Verizon Wireless, and Sprint, for example, tell Motorola, LG, and Nokia what to do. Apple changed all that when they announced that, with the iPhone, they would be telling the provider what the phone would do.
+With these technologies, Apple challenged the status quo business model of the music industry, an industry so distracted trying to protect its intellectual property and their outdated business model that it was busy suing 13-year-old music pirates while Apple redefined the online music market. The pattern repeated again when Apple introduced the iPhone. The status quo dictated that the cellular providers and not the phone manufacturer decide the features and capabilities of the actual phones. T-Mobile, Verizon Wireless, and Sprint, for example, tell Motorola, LG, and Nokia what to do.
 
-Ironically the company that Apple challenged with their blue box decades before, this time around exhibited classic early adopter behavior. AT&T was the only one to agree to this new model, and so another revolution was ignited. Apple’s keen aptitude for innovation is born out of its why and, save for the years jobs was missing, it has never changed since the company was founded. Industries holding onto legacy business models should be forewarned, you could be next.
+Apple changed all that when they announced that, with the iPhone, they would be telling the provider what the phone would do. Ironically the company that Apple challenged with their blue box decades before, this time around exhibited classic early adopter behavior. AT&T was the only one to agree to this new model, and so another revolution was ignited. Apple’s keen aptitude for innovation is born out of its why and, save for the years jobs was missing, it has never changed since the company was founded.
 
-If Apple stays true to
+Industries holding onto legacy business models should be forewarned, you could be next. If Apple stays true to
 
 
 <a id="sec-064824"></a>
@@ -2530,15 +2642,17 @@ The diehards inside the company are said to be a part of the cult of Steve. Thei
 
 They all fancy a good revolution. Just because Apple’s why is so clear does not mean everyone is, drawn to it. Some people like them and some don’t. Some people embrace them and some are repelled by them.
 
-But it cannot be denied, they stand for something. The law of diffusion says that only 2.5% of the population has an innovator mentality, they are a group of people willing to trust their intuition and take greater risks than others. Perhaps it is no coincidence that Microsoft Windows sits on 96% of the world’s computers whereas Apple maintains about 2.5%. Most people don’t want to challenge the status quo.
+But it cannot be denied, they stand for something. The law of diffusion says that only 2.5% of the population has an innovator mentality, they are a group of people willing to trust their intuition and take greater risks than others. Perhaps, it is no coincidence that Microsoft Windows sits on 96% of the world’s computers whereas Apple maintains about 2.5%. Most people don’t want to challenge the status quo.
 
 Though Apple employees will tell you the company’s success lies in its products, the fact is that a lot of companies make quality products. And though Apple’s employees may still insist that their products are better, it depends on the standard by which you are judging them. Apple’s products are indeed best for those who relate to Apple’s why. It is Apple’s belief that comes through in all they think, say and do that makes them who they are.
 
-They are so effective at it, they are able to clearly identify their own products simply by preceding the product name with the letter I. But they don’t just own the letter, they own the word I. They are a company that champions the creative spirit of the individual, and their products, services and marketing simply prove it. The why comes from looking back conservative estimates put the numbers at 3 to 1.
+They are so effective at it, they are able to clearly identify their own products simply by preceding the product name with the letter. I. But they don’t just own the letter, they own the word. I.
 
-But some historians have said the English army was outnumbered by 6 to 1. Regardless of which estimates you choose to believe, the prospects for Henry V, King of England, did not look good. It was late October in the year 1415 and the English army stood ready to do battle against a much bigger French force at a gin court in northern France. But the numbers were just one of Henry’s problems. The English army had marched over 250 miles, taking them nearly three weeks, and had lost nearly 40% of their original numbers to sickness.
+They are a company that champions the creative spirit of the individual, and their products, services and marketing simply prove it. The why comes from looking back conservative estimates put the numbers at 3 to 1. But some historians have said the English army was outnumbered by 6 to 1. Regardless of which estimates you choose to believe, the prospects for Henry V, King of England, did not look good.
 
-The French, in stark contrast, were better rested and in much better spirits. The better trained and more experienced French were also excited at the prospect of exacting their revenge on the English to make up for the humiliation of previous defeats. And to top it all off, the French were vastly better equipped, the English were lightly armoured, but whatever protection they did have was no match for the superior weight of the French armour, but anyone who knows their medieval European history already knows the outcome of the battle of a gin court.
+It was late October in the year 1415 and the English army stood ready to do battle against a much bigger French force at a gin court in northern France. But the numbers were just one of Henry’s problems. The English army had marched over 250 miles, taking them nearly three weeks, and had lost nearly 40% of their original numbers to sickness. The French, in stark contrast, were better rested and in much better spirits.
+
+The better trained and more experienced French were also excited at the prospect of exacting their revenge on the English to make up for the humiliation of previous defeats. And to top it all off, the French were vastly better equipped, the English were lightly armoured, but whatever protection they did have was no match for the superior weight of the French armour, but anyone who knows their medieval European history already knows the outcome of the battle of a gin court.
 
 Despite the overwhelming odds, the English won. The English had one vital piece of technology that was able to confound the French and start a chain of events that would ultimately result in a French defeat. The English had the long bow, a weapon with a
 
@@ -2558,107 +2672,145 @@ It is born out of the upbringing and life experience of an individual or small g
 
 Gaining clarity of why, ironically, is not the hard part. It is the discipline to trust one’s gut, to stay true to one’s purpose, cause or beliefs. Remaining completely in balance and authentic is the most difficult part. The few that are able to build a megaphone, and not just a company, around their cause are the ones who earn the ability to inspire.
 
-In doing so, they harness a power to move people that few can even imagine. Learning the why of a company or an organization or understanding the why of any social movement always starts with one thing, you. I am a failure there are three months indelibly printed in my memory, September to December 2005. This was when I hit rock bottom.
+In doing so, they harness a power to move people that few can even imagine. Learning the why of a company or an organization or understanding the why of any social movement always starts with one thing, you. I am a failure there are three months indelibly printed in my memory, September to December 2005. This was when.
 
-I started my business in February 2002 and it was incredibly exciting. I was full of piss and vinegar, as my grandfather would say. From an early age, my goal was to start my own business. It was the American dream, and I was living it.
+I hit rock bottom. I started my business in February 2002 and it was incredibly exciting. I was full of piss and vinegar, as my grandfather would say. From an early age, my goal was to start my own business.
 
-My whole feeling of self worth came from the fact that I did it, I took the plunge, and it felt amazing. If anyone ever asked me what I did, I would pose like George Reeves from the old Superman TV series. I would put my hands on my hips, stick out my chest, stand at an angle and with my head raised high I declare, I am an entrepreneur. What I did was how I defined myself, and it felt good.
+It was the American dream, and. I was living it. My whole feeling of self worth came from the fact that. I did it, I took the plunge, and it felt amazing.
 
-I wasn’t like Superman, I was Superman. As anyone who starts a business knows, it is a fantastic race. There is a statistic that hangs over your head, over 90% of all new businesses fail in the first three years. For anyone with even a bit of a competitive spirit in them, especially for someone who defines himself or herself as an entrepreneur, hands on hips, chest out, standing at a slight angle, these overwhelming odds of failure are not intimidating, they only add fuel to the fire.
+If anyone ever asked me what. I did, I would pose like George Reeves from the old Superman TV series. I would put my hands on my hips, stick out my chest, stand at an angle and with my head raised high. I declare, I am an entrepreneur.
+
+What. I did was how. I defined myself, and it felt good. I wasn’t like Superman, I was Superman.
+
+As anyone who starts a business knows, it is a fantastic race. There is a statistic that hangs over your head, over 90% of all new businesses fail in the first three years. For anyone with even a bit of a competitive spirit in them, especially for someone who defines himself or herself as an entrepreneur, hands on hips, chest out, standing at a slight angle, these overwhelming odds of failure are not intimidating, they only add fuel to the fire.
 
 The foolishness of thinking that you’re a part of the small minority of those who actually will make it past three years and defy the odds is part of what makes entrepreneurs who they are, driven by passion and completely irrational. After year one, we celebrated. We hadn’t gone out of business. We were beating the odds.
 
 We were living the dream. Two years passed. Then three years. I’m still not sure how we did it, we never properly implemented any good systems and processes.
 
-But to heck with it, we’d beaten the odds. I had achieved my goal and that’s all that mattered. I was now a proud member of a very small group of people who could say, with statistical proof, that I was an American small business owner. The fourth year would prove to be very different.
+But to heck with it, we’d beaten the odds. I had achieved my goal and that’s all that mattered. I was now a proud member of a very small group of people who could say, with statistical proof, that. I was an American small business owner.
 
-The novelty of
+The fourth year would prove to be very different. The novelty of
 
 
 <a id="sec-065826"></a>
 ### ⏱️ [06:58:26 - 07:03:28]
 
-being an entrepreneur had worn off. I no longer stood like George Reeves. When asked what I did, I would now tell people that I did positioning and strategy consulting. It was much less exciting and it certainly didn’t feel like a big race anymore.
+being an entrepreneur had worn off. I no longer stood like George Reeves. When asked what. I did, I would now tell people that.
 
-It was no longer a passionate pursuit, it was just a business. And the reality was that the business did not look that rosy. We were never a runaway success. We made a living, but not much more.
+I did positioning and strategy consulting. It was much less exciting and it certainly didn’t feel like a big race anymore. It was no longer a passionate pursuit, it was just a business. And the reality was that the business did not look that rosy.
 
-We had some fortune 500 clients and we did good work. I was crystal clear on what we did. And I could tell you how we were different, how we did it. Like everyone else in the game, I would try to convince prospective clients how we did it, how we were better, how our way was unique.
+We were never a runaway success. We made a living, but not much more. We had some fortune 500 clients and we did good work. I was crystal clear on what we did.
 
-And it was hard work. The truth is, we beat the odds because of my energy, not because of my business acumen, but I didn’t have the energy to sustain that strategy for the rest of my life. I was aware enough to know that we needed better systems and processes if the business was to sustain itself. I was incredibly demoralized.
+And. I could tell you how we were different, how we did it. Like everyone else in the game, I would try to convince prospective clients how we did it, how we were better, how our way was unique. And it was hard work.
 
-Intellectually, I could tell you what I needed to do, I just couldn’t do it. By September 2005 I was the closest I’ve ever been to, if I wasn’t already, completely depressed. My whole life I’d been a pretty happy-go-lucky guy, so just being unhappy was bad enough. But this was worse.
+The truth is, we beat the odds because of my energy, not because of my business acumen, but. I didn’t have the energy to sustain that strategy for the rest of my life. I was aware enough to know that we needed better systems and processes if the business was to sustain itself. I was incredibly demoralized.
 
-The depression made me paranoid. I was convinced I was going to go out of business. I was convinced I was going to be evicted from my apartment. I was certain anyone who worked for me didn’t like me and that my clients knew I was a fraud.
+Intellectually, I could tell you what. I needed to do, I just couldn’t do it. By September 2005. I was the closest.
 
-I thought everyone I met was smarter than me. I thought everyone I met was better than me. Any energy I had left to sustain the business now went into propping myself up and pretending that I was doing well. If things were to change, I knew I needed to learn to implement more structure before everything crashed.
+I’ve ever been to, if. I wasn’t already, completely depressed. My whole life. I’d been a pretty happy-go-lucky guy, so just being unhappy was bad enough.
 
-I attended conferences, read books and asked successful friends for advice on how to do it. It was all good advice, but I couldn’t hear it. No matter what I was told, all I could hear was that I was doing everything wrong. Trying to fix the problem didn’t make me feel better, it made me feel worse.
+But this was worse. The depression made me paranoid. I was convinced. I was going to go out of business.
 
-I felt more helpless. I started having desperate thoughts, thoughts that for an entrepreneur are almost worse than suicide, I thought about getting a job. Anything. Anything that would stop the feeling of falling I had almost every day.
+I was convinced. I was going to be evicted from my apartment. I was certain anyone who worked for me didn’t like me and that my clients knew. I was a fraud.
 
-I remember visiting the family of my future brother-in-law for Thanksgiving that year. I sat on the couch in the living room of his mother’s house, people were talking to me, but I never heard a word. If I was asked questions, I replied only in platitudes. I didn’t really desire or even have the ability to make conversation anymore.
+I thought everyone. I met was smarter than me. I thought everyone. I met was better than me.
 
-It was then that I realized the truth. Statistics notwithstanding, I was a failure. As an anthropology major in college and a strategy guy in the marketing and advertising world, I had always been curious about why people do the things they do. Here in my career I started becoming curious about these same themes in the real world, in my case, corporate marketing.
+Any energy. I had left to sustain the business now went into propping myself up and pretending that. I was doing well. If things were to change, I knew.
 
-There is an old saying in the industry that 50% of all marketing works, the problem is, which 50%? I was always astounded that so many companies would operate with such a level of uncertainty. Why would anyone want to leave the success of something that costs so much, with so much at stake to the flip of a coin? I was convinced that if some marketing worked, it was possible to figure out why.
+I needed to learn to implement more structure before everything crashed. I attended conferences, read books and asked successful friends for advice on how to do it. It was all good advice, but. I couldn’t hear it.
 
-All companies have equal resources have equal access to the same agencies, the same talent, and the same media, so why does some marketing work and some doesn’t? Working in an ad agency I’d seen it all the time. With conditions relatively equal, the same team could develop a campaign that would be hugely successful one year, then develop something the next year that would do nothing. Instead of focusing on the stuff that didn’t work, I chose to focus on the stuff that worked to find out what it all had in common.
+No matter what. I was told, all. I could hear was that. I was doing everything wrong.
 
-The good news for me was there was not much to study. How has Apple been able to so consistently outmarket their competition over and over and over? What did Harley Davidson do so well that they were able to create a following of people so loyal that they would tattoo a corporate logo on their bodies? Why did people love Southwest Airlines so much, they aren’t really that special?
+Trying to fix the problem didn’t make me feel better, it made me feel worse. I felt more helpless. I started having desperate thoughts, thoughts that for an entrepreneur are almost worse than suicide, I thought about getting a job. Anything.
 
-Are they? In an attempt to codify why these worked, I developed a simple concept I called the
+Anything that would stop the feeling of falling. I had almost every day. I remember visiting the family of my future brother-in-law for Thanksgiving that year. I sat on the couch in the living room of his mother’s house, people were talking to me, but.
+
+I never heard a word. If. I was asked questions, I replied only in platitudes. I didn’t really desire or even have the ability to make conversation anymore.
+
+It was then that. I realized the truth. Statistics notwithstanding, I was a failure. As an anthropology major in college and a strategy guy in the marketing and advertising world, I had always been curious about why people do the things they do.
+
+Here in my career. I started becoming curious about these same themes in the real world, in my case, corporate marketing. There is an old saying in the industry that 50% of all marketing works, the problem is, which 50%? I was always astounded that so many companies would operate with such a level of uncertainty.
+
+Why would anyone want to leave the success of something that costs so much, with so much at stake to the flip of a coin? I was convinced that if some marketing worked, it was possible to figure out why. All companies have equal resources have equal access to the same agencies, the same talent, and the same media, so why does some marketing work and some doesn’t? Working in an ad agency.
+
+I’d seen it all the time. With conditions relatively equal, the same team could develop a campaign that would be hugely successful one year, then develop something the next year that would do nothing. Instead of focusing on the stuff that didn’t work, I chose to focus on the stuff that worked to find out what it all had in common. The good news for me was there was not much to study.
+
+How has Apple been able to so consistently outmarket their competition over and over and over? What did Harley Davidson do so well that they were able to create a following of people so loyal that they would tattoo a corporate logo on their bodies? Why did people love Southwest Airlines so much, they aren’t really that special? Are they?
+
+In an attempt to codify why these worked, I developed a simple concept. I called the
 
 
 <a id="sec-070328"></a>
 ### ⏱️ [07:03:28 - 07:08:29]
 
-golden circle. But my little theory sat buried in my computer files. It was a little pet project with no real application, just something I found interesting. It would be months later that I met a woman at an event who took an interest in my perspectives in marketing.
+golden circle. But my little theory sat buried in my computer files. It was a little pet project with no real application, just something. I found interesting.
 
-Victoria Duffy Hopper grew up in an academic family and also has a lifelong fascination with human behavior. She was the first to tell me about the limbic brain and the neocortex. My curiosity peaked by what she was telling me, I started reading about the biology of the brain, and it was then that I made the real discovery. The biology of human behavior and the golden circle overlapped perfectly.
+It would be months later that. I met a woman at an event who took an interest in my perspectives in marketing. Victoria Duffy Hopper grew up in an academic family and also has a lifelong fascination with human behavior. She was the first to tell me about the limbic brain and the neocortex.
 
-While I was trying to understand why some marketing worked and some didn’t, I had tripped over something vastly more profound. I discovered why people do what they do. It was then that I realized what was the real cause of my stress. The problem wasn’t that I didn’t know what to do or how to do it, the problem was I had forgotten why.
+My curiosity peaked by what she was telling me, I started reading about the biology of the brain, and it was then that. I made the real discovery. The biology of human behavior and the golden circle overlapped perfectly. While.
 
-I had gone through what I now know is a split, and I needed to rediscover my why. To inspire people to do the things that inspire them Henry Ford said, if you think you can or you think you can’t, you’re right. He was a brilliant why guy who changed the way industry works. A man who embodied all the characteristics of a great leader, who understood the importance of perspective.
+I was trying to understand why some marketing worked and some didn’t, I had tripped over something vastly more profound. I discovered why people do what they do. It was then that. I realized what was the real cause of my stress.
 
-I wasn’t any dumber than I was when I started my business, probably the opposite, in fact. What I had lost was perspective. I knew what I was doing, but I had forgotten why. There is a difference between running with all your heart with your eyes closed and running with your all your heart with your eyes wide open.
+The problem wasn’t that. I didn’t know what to do or how to do it, the problem was. I had forgotten why. I had gone through what.
 
-For three years, my heart had pounded but my eyes had been closed. I had passion and energy, but I lacked focus and direction. I needed to remember what inspired my passion. I became obsessed with the concept of why.
+I now know is a split, and. I needed to rediscover my why. To inspire people to do the things that inspire them Henry Ford said, if you think you can or you think you can’t, you’re right. He was a brilliant why guy who changed the way industry works.
 
-I was consumed by the idea of it. It was all I talked about. When I looked back to my upbringing, I discovered a remarkable theme. Whether among friends, at school or professionally, I was always the eternal optimist.
+A man who embodied all the characteristics of a great leader, who understood the importance of perspective. I wasn’t any dumber than. I was when. I started my business, probably the opposite, in fact.
 
-I was the one who inspired everyone to believe they could do whatever they wanted. This pattern is my why. To inspire. It didn’t matter if I was doing it in marketing or consulting.
+What. I had lost was perspective. I knew what. I was doing, but.
 
-It didn’t matter what types of companies I worked with or in which industries I worked. To inspire people to do the things that inspired them, so that, together, we can change the world. That’s the path to which my life and my work is now completely devoted. Henry Ford would have been proud of me.
+I had forgotten why. There is a difference between running with all your heart with your eyes closed and running with your all your heart with your eyes wide open. For three years, my heart had pounded but my eyes had been closed. I had passion and energy, but.
 
-After months of thinking I couldn’t, now I knew I could. I made myself a guinea pig for the concept. If the reason I hit rock bottom was because my golden circle was out of balance, then I needed to get it back in balance. If it was important to start with why, then I would start with why in everything I did.
+I lacked focus and direction. I needed to remember what inspired my passion. I became obsessed with the concept of why. I was consumed by the idea of it.
 
-There is not a single concept in this book that I don’t practice. I stand at the mouth of my megaphone and I talk about the why to anyone who will listen. Those early adopters who hear my cause see me as a tool in their arsenal to achieve their own why. And they introduced me to others whom they believed I could inspire.
+It was all. I talked about. When. I looked back to my upbringing, I discovered a remarkable theme.
 
-And so the law of diffusion started to do its job. Though the golden circle and the concept of why was working for me, I wanted to show it to others. I had a decision to make, do I try to patent it, protect it and use it to make lots of money, or do I give it away? This decision was to be my first salary test.
+Whether among friends, at school or professionally, I was always the eternal optimist. I was the one who inspired everyone to believe they could do whatever they wanted. This pattern is my why. To inspire.
 
-My why is to inspire people to do the things that inspire them, and if I am to be authentic to that cause there was only one decision to make, to give it away, to talk about it, to share it. There would never be any secret sauce or special formula for which only I knew the ingredients. The vision is to have every person and every organization know their why and use it to benefit all they do. So that’s what I’m doing, and I’m relying entirely on the concept of why and the naturally occurring pattern that is the golden circle to help me get there.
+It didn’t matter if. I was doing it in marketing or consulting. It didn’t matter what types of companies. I worked with or in which industries.
 
-The experiment started to work. Prior to starting with why, I had been invited to give one public speech in my life. Now I get between 30 and 40 invitations per year, from all sorts of audiences, all over the world, to speak about the golden circle. I speak to audiences of entrepreneurs, large corporations, non-profits, in politics and government.
+I worked. To inspire people to do the things that inspired them, so that, together, we can change the world. That’s the path to which my life and my work is now completely devoted. Henry Ford would have been proud of me.
 
-I’ve spoken at the Pentagon to the Chief of Staff and the Secretary of the Air Force.
+After months of thinking. I couldn’t, now. I knew. I could.
+
+I made myself a guinea pig for the concept. If the reason. I hit rock bottom was because my golden circle was out of balance, then. I needed to get it back in balance.
+
+If it was important to start with why, then. I would start with why in everything. I did. There is not a single concept in this book that.
+
+I don’t practice. I stand at the mouth of my megaphone and. I talk about the why to anyone who will listen. Those early adopters who hear my cause see me as a tool in their arsenal to achieve their own why.
+
+And they introduced me to others whom they believed. I could inspire. And so the law of diffusion started to do its job. Though the golden circle and the concept of why was working for me, I wanted to show it to others.
+
+I had a decision to make, do. I try to patent it, protect it and use it to make lots of money, or do. I give it away? This decision was to be my first salary test.
+
+My why is to inspire people to do the things that inspire them, and if. I am to be authentic to that cause there was only one decision to make, to give it away, to talk about it, to share it. There would never be any secret sauce or special formula for which only. I knew the ingredients.
+
+The vision is to have every person and every organization know their why and use it to benefit all they do. So that’s what. I’m doing, and. I’m relying entirely on the concept of why and the naturally occurring pattern that is the golden circle to help me get there.
+
+The experiment started to work. Prior to starting with why, I had been invited to give one public speech in my life. Now. I get between 30 and 40 invitations per year, from all sorts of audiences, all over the world, to speak about the golden circle.
+
+I speak to audiences of entrepreneurs, large corporations, non-profits, in politics and government. I’ve spoken at the Pentagon to the Chief of Staff and the Secretary of the Air Force.
 
 
 <a id="sec-070829"></a>
 ### ⏱️ [07:08:29 - 07:13:31]
 
-Prior to the golden circle, I didn’t even know anyone in the military. Prior to starting with why, I had never been on television, in fewer than two years I started getting regular invitations to appear on MSNBC. I’ve worked with members of Congress, having never done any government or political work prior to starting with why. I am the same person.
+Prior to the golden circle, I didn’t even know anyone in the military. Prior to starting with why, I had never been on television, in fewer than two years. I started getting regular invitations to appear on MSNBC. I’ve worked with members of Congress, having never done any government or political work prior to starting with why.
 
-I know the same things I did before. The only difference is, now I start with why. Like Gordon Bethune who turned around Continental with the same people and the same equipment, I was able to turn things around with the things I already knew and did. I’m not better connected than everyone else.
+I am the same person. I know the same things. I did before. The only difference is, now.
 
-I don’t have a better work ethic. I don’t have an Ivy League education and my grades in college were average. The funniest part is, I still don’t know how to build a business. The only thing that I do that most people don’t is I learned how to start with why.
+I start with why. Like Gordon Bethune who turned around Continental with the same people and the same equipment, I was able to turn things around with the things. I already knew and did. I’m not better connected than everyone else.
 
-If you follow your why, then others will follow you bang. The gun fires and the race is on. The runners take off across the field. It rained the day before and the ground is still damp.
+I don’t have a better work ethic. I don’t have an Ivy League education and my grades in college were average. The funniest part is, I still don’t know how to build a business. The only thing that.
 
-The temperature is cool. It is a perfect day for running. The line of runners quickly forms a pack. Like a school of fish they come together as one.
+I do that most people don’t is. I learned how to start with why. If you follow your why, then others will follow you bang. The gun fires and the race is on.
 
-They move as one. The pack sets a pace to maximize their energy for the whole race. As with any race, in a short period of time the stronger ones will start to pull ahead and the weaker ones will start to fall behind. But not Benkoman.
+The runners take off across the field. It rained the day before and the ground is still damp. The temperature is cool. It is a perfect day for running.
 
-Ben was left behind as soon as the starter gun sounded. Ben’s not the fastest runner on the team.
+The line of runners quickly forms a pack. Like a school of fish they come together as one. They move as one. The pack sets a pace to maximize their energy for the whole race.
+
+As with any race, in a short period of time the stronger ones will start to pull ahead and the weaker ones will start to fall behind. But not Benkoman. Ben was left behind as soon as the starter gun sounded. Ben’s not the fastest runner on the team.
 
 In fact, he’s the slowest. He has never won a single race the entire time he’s been on the Hannah High School cross-country track team. Ben, a UC, has cerebral palsy. Cerebral palsy, a condition often caused by complications at birth, affects someone’s movement and balance.
 
@@ -2704,39 +2856,43 @@ All organizations start with why, but only the great ones keep their why clear y
 
 We replied, no idea. What if the next time someone pushes, well… What makes you better than your competition? We replied, we’re not better than them in all cases.
 
-And what if the next time someone asks, well why should I do business with you then? We answer with confidence, because the work we’re doing now is better than the work we were doing six months ago. And the work we’ll be doing six months from now will be better than the work we’re doing today. Because we wake up every day with a sense of why we come to work.
+And what if the next time someone asks, well why should. I do business with you then? We answer with confidence, because the work we’re doing now is better than the work we were doing six months ago. And the work we’ll be doing six months from now will be better than the work we’re doing today.
 
-We come to work to inspire people to do the things that inspire them. Are we better than our competition? If you believe what we believe and you believe that the things we do can help you, then we’re better. If you don’t believe what we believe and you don’t believe the things we can do will help you, then we’re not better.
+Because we wake up every day with a sense of why we come to work. We come to work to inspire people to do the things that inspire them. Are we better than our competition? If you believe what we believe and you believe that the things we do can help you, then we’re better.
 
-Our goal is to find customers who believe what we believe and work together so that we can all succeed. We’re looking for people to stand shoulder to shoulder with us in pursuit of the same goal. We’re not interested in sitting across a table from each other in pursuit of a sweeter deal. And here are the things we’re doing to advance our cause.
+If you don’t believe what we believe and you don’t believe the things we can do will help you, then we’re not better. Our goal is to find customers who believe what we believe and work together so that we can all succeed. We’re looking for people to stand shoulder to shoulder with us in pursuit of the same goal. We’re not interested in sitting across a table from each other in pursuit of a sweeter deal.
 
-And then the details of how and what you do follow. But this time, it started with why. Imagine if every organization started with why. Decisions would be simpler.
+And here are the things we’re doing to advance our cause. And then the details of how and what you do follow. But this time, it started with why. Imagine if every organization started with why.
 
-Loyalties would be greater. Trust would be a common currency. If our leaders were diligent about starting with why, optimism would reign and innovation would thrive. As this book illustrates, there is precedence for this standard.
+Decisions would be simpler. Loyalties would be greater. Trust would be a common currency. If our leaders were diligent about starting with why, optimism would reign and innovation would thrive.
 
-No matter the size of the organization, no matter the industry, no matter the product or the service, if we all take some responsibility to start with why and inspire others to do the same, then, together, we can change the world. And that’s pretty inspiring. If this book inspired you, please pass it on to someone you want to inspire. There is nothing that brings me more joy and happiness in this world than waking up every day with a clear sense of why, to inspire people to do the things that inspire them.
+As this book illustrates, there is precedence for this standard. No matter the size of the organization, no matter the industry, no matter the product or the service, if we all take some responsibility to start with why and inspire others to do the same, then, together, we can change the world. And that’s pretty inspiring. If this book inspired you, please pass it on to someone you want to inspire.
 
-It is a simple thing to do when surrounded by so many amazing people to inspire me. There are countless people who believed in me and helped me over the years. I’d like to thank those who helped me build a piece of my megaphone with this book. Amy Hertz was the first to insist that I write it and introduced me to my incredible agent, Richard Byan.
+There is nothing that brings me more joy and happiness in this world than waking up every day with a clear sense of why, to inspire people to do the things that inspire them. It is a simple thing to do when surrounded by so many amazing people to inspire me. There are countless people who believed in me and helped me over the years. I’d like to thank those who helped me build a piece of my megaphone with this book.
 
-Richard believes in doing good things in the world and has made it his business to make authors out of those who have a positive message to share. His patience and counsel have been invaluable. To Russ Edelman who was such a nice guy to introduce me to his editor, Jeffrey Crambs, who, in turn, took a bet on me and let me push him to do things differently. To Adrian Zakheim, who willingly challenges convention and is leading the evolution of the publishing industry.
+Amy Hertz was the first to insist that. I write it and introduced me to my incredible agent, Richard Byan. Richard believes in doing good things in the world and has made it his business to make authors out of those who have a positive message to share. His patience and counsel have been invaluable.
 
-Thank you to Mark Rubin, who sees the colors I can see and in whose basement I started writing, to Tom and Alicia Ripma, in whose home I continued writing, and to Delta Airlines, for being so good to me while I wrote so much at 35,000 feet. To Julia Hurley, who made sure everything was right. To the whole team at Portfolio, who worked so hard to bring this book to life. And, most.
+To Russ Edelman who was such a nice guy to introduce me to his editor, Jeffrey Crambs, who, in turn, took a bet on me and let me push him to do things differently. To Adrian Zakheim, who willingly challenges convention and is leading the evolution of the publishing industry. Thank you to Mark Rubin, who sees the colors. I can see and in whose basement.
 
-Acknowledgements portently, to Lori Flynn, who so passionately devoted herself
+I started writing, to Tom and Alicia Ripma, in whose home. I continued writing, and to Delta Airlines, for being so good to me while. I wrote so much at 35,000 feet. To Julia Hurley, who made sure everything was right.
+
+To the whole team at Portfolio, who worked so hard to bring this book to life. And, most. Acknowledgements portently, to Lori Flynn, who so passionately devoted herself
 
 
 <a id="sec-071834"></a>
 ### ⏱️ [07:18:34 - 07:21:23]
 
-and her family, to help me tell this story. I have had the great honor and privilege of meeting some wonderful people who have inspired me in a way that is hard to quantify. Ron Bruder has changed the way I see the world. Brick.
+and her family, to help me tell this story. I have had the great honor and privilege of meeting some wonderful people who have inspired me in a way that is hard to quantify. Ron Bruder has changed the way. I see the world.
 
-General Laurie Robinson has shown me what the humility of brick leadership looks like. Kim Harrison, who lives her way, to appreciate all good things around her, and works tirelessly to see to it that good ideas and people are appreciated. She taught me what a true partnership looks and feels like. And to those who’s shared what they know to help bring the Y to life, I am truly grateful for your time and energy.
+Brick. General Laurie Robinson has shown me what the humility of brick leadership looks like. Kim Harrison, who lives her way, to appreciate all good things around her, and works tirelessly to see to it that good ideas and people are appreciated. She taught me what a true partnership looks and feels like.
 
-Colleen Barrett, Gordon Bethune, Penn Komen, Randy Fowler, Christina Harprich, Dwayne Honor 6, Howard Cheruschimovitz, Guy Kawasaki, Howard Putnam, James Tobin, Ocacia Salati, Jeff Sumter, Cole. cruiser Will Spark and Steve Wozniak. Long before there was even an idea of the book, there were all the people and early adopters who wanted to learn about the Y and use the golden circle to help build their organizations. This forward thinking group were willing to embrace a new idea and were essential to helping me figure out many of the details and nuances of the concept.
+And to those who’s shared what they know to help bring the Y to life, I am truly grateful for your time and energy. Colleen Barrett, Gordon Bethune, Penn Komen, Randy Fowler, Christina Harprich, Dwayne Honor 6, Howard Cheruschimovitz, Guy Kawasaki, Howard Putnam, James Tobin, Ocacia Salati, Jeff Sumter, Cole. cruiser Will Spark and Steve Wozniak. Long before there was even an idea of the book, there were all the people and early adopters who wanted to learn about the Y and use the golden circle to help build their organizations.
 
-Thank you to Jeffrey Jukofsky, Jen Podmore, Paul Guy, Cal Shah, Victor D’Olivaria, Ben Rossner, Christopher Bates, Victor Chan, Kenta Bartschnick, Richard Baltimore, Rick Zimmerman, Russ Natos, Missy Shorey, Morris Stemp, Gabe Solomon, Eddie Esses and Elizabeth Hare, who saw the value of the Y in building the most valuable organization of all, her family. Thank you to Fran Biedemann Groves, who is not only an early adopter, but who went out of her way to embrace her Y in all aspects of her life and to encourage others to learn their Y, too.
+This forward thinking group were willing to embrace a new idea and were essential to helping me figure out many of the details and nuances of the concept. Thank you to Jeffrey Jukofsky, Jen Podmore, Paul Guy, Cal Shah, Victor D’Olivaria, Ben Rossner, Christopher Bates, Victor Chan, Kenta Bartschnick, Richard Baltimore, Rick Zimmerman, Russ Natos, Missy Shorey, Morris Stemp, Gabe Solomon, Eddie Esses and Elizabeth Hare, who saw the value of the Y in building the most valuable organization of all, her family.
 
-Thank you to Congresswoman Stephanie Hurseth Sandlin, Congressman Paul Hodes, and Congresswoman Allison Schwartz, who gave me so much and continue to give back to others with such passion. Over the years there were those who gave me a break and helped advance my cause. I am immensely grateful to all the brilliant people and candid conversations that inspired so many of the ideas that became the golden circle and all its parts. Thank you to Kendra Coppie, who helped me out of the hole in late 2005 and to Mark Levy, who pointed me in the right direction.
+Thank you to Fran Biedemann Groves, who is not only an early adopter, but who went out of her way to embrace her Y in all aspects of her life and to encourage others to learn their Y, too. Thank you to Congresswoman Stephanie Hurseth Sandlin, Congressman Paul Hodes, and Congresswoman Allison Schwartz, who gave me so much and continue to give back to others with such passion. Over the years there were those who gave me a break and helped advance my cause.
 
-Thanks to Peter Weibrow, who saw a problem in America and helped me to understand the neuro-science of it all. Kurt Gunn, whose brilliant storytelling mind inspired the split. Every conversation with Brian Collins illuminated something new.
+I am immensely grateful to all the brilliant people and candid conversations that inspired so many of the ideas that became the golden circle and all its parts. Thank you to Kendra Coppie, who helped me out of the hole in late 2005 and to Mark Levy, who pointed me in the right direction. Thanks to Peter Weibrow, who saw a problem in America and helped me to understand the neuro-science of it all. Kurt Gunn, whose brilliant storytelling mind inspired the split.
+
+Every conversation with Brian Collins illuminated something new.
 

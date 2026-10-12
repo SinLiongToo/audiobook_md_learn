@@ -50,25 +50,25 @@
 
 summary of the theory came when he mentioned in an interview that the purpose of the margin of safety is to render the forecast unnecessary. It’s hard to overstate how much power lies in that simple statement. Margin of safety, you can also call it room for error or redundancy, is the only effective way to safely navigate a world that is governed by odds, not certainties. And almost everything related to money exists in that kind of world.
 
-Forecasting with precision is hard. This is obvious to the card counter, because no one could possibly know where a particular card lies in a shuffle deck. It’s less obvious to someone asking, what will the average annual return of the stock market be over the next 10 years, or on what date will I be able to retire? But they are fundamentally the same.
+Forecasting with precision is hard. This is obvious to the card counter, because no one could possibly know where a particular card lies in a shuffle deck. It’s less obvious to someone asking, what will the average annual return of the stock market be over the next 10 years, or on what date will. I be able to retire?
 
-The best we can do is think about odds. Graham’s margin of safety is a simple suggestion that we don’t need to view the world in front of us as black or white, predictable or a crapshoot. The gray area, pursuing things where a range of potential outcomes are acceptable, is the smart way to proceed. But people underestimate the need for room for error in almost everything they do that involves money.
+But they are fundamentally the same. The best we can do is think about odds. Graham’s margin of safety is a simple suggestion that we don’t need to view the world in front of us as black or white, predictable or a crapshoot. The gray area, pursuing things where a range of potential outcomes are acceptable, is the smart way to proceed.
 
-Stock analysts give their client price targets, not price ranges. Economic forecasters predict things with precise figures, rarely broad probabilities. The pundit who speaks in unshakable certainties will gain a larger following than the one who says, we can’t know for sure, and speaks in probabilities. We do this in all kinds of financial endeavors, especially those related to our own decisions.
+But people underestimate the need for room for error in almost everything they do that involves money. Stock analysts give their client price targets, not price ranges. Economic forecasters predict things with precise figures, rarely broad probabilities. The pundit who speaks in unshakable certainties will gain a larger following than the one who says, we can’t know for sure, and speaks in probabilities.
 
-Harvard psychologist Max Bazerman once showed that when analyzing other people’s home renovation plans, most people estimate the project will run between 25% and 50% over budget. But when it comes to their own projects, people estimate that renovations will be completed on time and at budget. Oh, the eventual disappointment. Two things cause us to avoid room for error.
+We do this in all kinds of financial endeavors, especially those related to our own decisions. Harvard psychologist Max Bazerman once showed that when analyzing other people’s home renovation plans, most people estimate the project will run between 25% and 50% over budget. But when it comes to their own projects, people estimate that renovations will be completed on time and at budget. Oh, the eventual disappointment.
 
-One is the idea that somebody must know what the future holds, driven by the uncomfortable feeling that comes from admitting the opposite. The second is that you’re therefore doing yourself harm by not taking actions that fully exploit an accurate view of the future, coming true. But room for error is underappreciated and misunderstood. It’s often viewed as a conservative hedge, used by those who don’t take much risk or aren’t confident in their views.
+Two things cause us to avoid room for error. One is the idea that somebody must know what the future holds, driven by the uncomfortable feeling that comes from admitting the opposite. The second is that you’re therefore doing yourself harm by not taking actions that fully exploit an accurate view of the future, coming true. But room for error is underappreciated and misunderstood.
 
-But when used appropriately, it’s quite the opposite. Room for error lets you endure a range of potential outcomes, and entrance lets you stick around long enough to let the odds of benefiting from a low probability outcome fall in your favor. The biggest gains occur infrequently, either because they don’t happen often or because they take time to compound. So the person with enough room for error in part of their strategy, cash to let them endure hardship in another stocks, has an edge over the person who gets wiped out, game over, insert more tokens when they’re wrong.
+It’s often viewed as a conservative hedge, used by those who don’t take much risk or aren’t confident in their views. But when used appropriately, it’s quite the opposite. Room for error lets you endure a range of potential outcomes, and entrance lets you stick around long enough to let the odds of benefiting from a low probability outcome fall in your favor. The biggest gains occur infrequently, either because they don’t happen often or because they take time to compound.
 
-Bill Gates understood this well. When Microsoft was a young company, he said he came up with this incredibly conservative approach that I wanted to have enough money in the bank to pay a year’s worth of payroll, even if we didn’t get any payments coming in. Warren Buffett expressed a similar idea when he told Berkshire Hathaway, shareholders in 2008, I have pledged to you, the rating agencies and myself, to always run Berkshire with more than ample cash. When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.
+So the person with enough room for error in part of their strategy, cash to let them endure hardship in another stocks, has an edge over the person who gets wiped out, game over, insert more tokens when they’re wrong. Bill Gates understood this well. When Microsoft was a young company, he said he came up with this incredibly conservative approach that. I wanted to have enough money in the bank to pay a year’s worth of payroll, even if we didn’t get any payments coming in.
 
-There are a few specific places for investors to think about room for error. One is volatility. Can you survive your assets declining by 30%? On a spreadsheet, maybe yes.
+Warren Buffett expressed a similar idea when he told Berkshire Hathaway, shareholders in 2008, I have pledged to you, the rating agencies and myself, to always run Berkshire with more than ample cash. When forced to choose, I will not trade even a night’s sleep for the chance of extra profits. There are a few specific places for investors to think about room for error. One is volatility.
 
-In terms of actually paying your bills and staying cash flow positive. But what about mentally? It is easy to underestimate what a 30% decline does to your psyche. Your confidence may become shot at the very moment opportunity is as its highest.
+Can you survive your assets declining by 30%? On a spreadsheet, maybe yes. In terms of actually paying your bills and staying cash flow positive. But what about mentally?
 
-You or your spouse may decide
+It is easy to underestimate what a 30% decline does to your psyche. Your confidence may become shot at the very moment opportunity is as its highest. You or your spouse may decide
 
 
 <a id="sec-000506"></a>
@@ -82,23 +82,25 @@ You can use those return assumptions to back into the amount of money you’ll n
 
 So, the returns you actually earn are less than the market average? What if you need to cash out your retirement accounts in your 30s to pay for a medical mishap? The answer to those what-ifs is you won’t be able to retire like you once predicted, which can be a disaster. The solution is simple.
 
-Use room for error when estimating your future returns. This is more art than science. For my own investments, which I’ll describe more in chapter 20, I assume the future returns I’ll earn in my lifetime will be one-third lower than the historic average. So, I save more than I would if I assume the future will resemble the past.
+Use room for error when estimating your future returns. This is more art than science. For my own investments, which. I’ll describe more in chapter 20, I assume the future returns.
+
+I’ll earn in my lifetime will be one-third lower than the historic average. So, I save more than. I would if. I assume the future will resemble the past.
 
 It’s my margin of safety. The future may be worse than one-third lower than the past, but no margins of safety offers a 100% guarantee. A one-third buffer is enough to allow me to sleep well at night, and if the future does resemble the past, I’ll be pleasantly surprised. The best way to achieve felicity is to aim low, says Charlie Munger.
 
-Wonderful. An important cousin of room for error is what I call optimism bias in risk-taking, or Russian roulette should statistically work. Syndrome. An attachment to favorable odds when the downside is unacceptable in any circumstances.
+Wonderful. An important cousin of room for error is what. I call optimism bias in risk-taking, or Russian roulette should statistically work. Syndrome.
 
-Nassim Taleb says, you can be risk-loving and yet completely averse to ruin, and indeed, you should. The idea is that you have to take risk to get ahead, but no risk that can wipe you out is ever worth taking. The odds are in your favor when playing Russian Roulette. But the downside is not worth the potential upside.
+An attachment to favorable odds when the downside is unacceptable in any circumstances. Nassim Taleb says, you can be risk-loving and yet completely averse to ruin, and indeed, you should. The idea is that you have to take risk to get ahead, but no risk that can wipe you out is ever worth taking. The odds are in your favor when playing Russian Roulette.
 
-There is no margin of safety that can compensate for the risk. Same with money. The odds of many lucrative things are in your favor. Real estate prices go up most years, and during most years, you will get a paycheck every other week.
+But the downside is not worth the potential upside. There is no margin of safety that can compensate for the risk. Same with money. The odds of many lucrative things are in your favor.
 
-But if something has 95% odds of being right, the 5% odds of being wrong means you will almost certainly experience the downside at some point in your life. And if the cost of the downside is ruined, the upside the other 95% of the time likely isn’t worth the risk, no matter how appealing it looks. Leverage is the devil here. Leverage, taking on debt to make your money go further, pushes routine risks into something capable of producing ruin.
+Real estate prices go up most years, and during most years, you will get a paycheck every other week. But if something has 95% odds of being right, the 5% odds of being wrong means you will almost certainly experience the downside at some point in your life. And if the cost of the downside is ruined, the upside the other 95% of the time likely isn’t worth the risk, no matter how appealing it looks. Leverage is the devil here.
 
-The danger is that rational optimism most of the time makes the odds of ruin some of the time. The result we systematically underestimate risk. Housing prices fell 30% last decade. A few companies defaulted on their debt.
+Leverage, taking on debt to make your money go further, pushes routine risks into something capable of producing ruin. The danger is that rational optimism most of the time makes the odds of ruin some of the time. The result we systematically underestimate risk. Housing prices fell 30% last decade.
 
-That’s capitalism. It happens. But those with high leverage had a double wipeout. Not only were they left broke, but being wiped out erased every opportunity to get back in the game at the very moment opportunity was ripe.
+A few companies defaulted on their debt. That’s capitalism. It happens. But those with high leverage had a double wipeout.
 
-A homeowner, wiped out in 2009, had no chance of taking advantage of cheap mortgage rates in 2010. Lehman Brothers had no chance of
+Not only were they left broke, but being wiped out erased every opportunity to get back in the game at the very moment opportunity was ripe. A homeowner, wiped out in 2009, had no chance of taking advantage of cheap mortgage rates in 2010. Lehman Brothers had no chance of
 
 
 <a id="sec-001012"></a>
@@ -106,29 +108,29 @@ A homeowner, wiped out in 2009, had no chance of taking advantage of cheap mortg
 
 investing in cheap debt in 2009. They were done. To get around this, I think of my own money as barbelled. I take risks with one portion and am terrified with the other.
 
-This is not inconsistent, but the psychology of money would lead you to believe that it is. I just want to ensure I can remain standing long enough for my risks to pay off. You have to survive to succeed. To repeat a point we’ve made a few times in this book, the ability to do what you want, when you want, for as long as you want, has an infinite ROI.
+This is not inconsistent, but the psychology of money would lead you to believe that it is. I just want to ensure. I can remain standing long enough for my risks to pay off. You have to survive to succeed.
 
-Room for error does more than just widen the target around what you think might happen. It also helps protect you from things you would never imagine, which can be the most troublesome events we face. The Battle of Stalingrad during World War II was the largest battle in history. With it came equally staggering stories of how people dealt with risk.
+To repeat a point we’ve made a few times in this book, the ability to do what you want, when you want, for as long as you want, has an infinite ROI. Room for error does more than just widen the target around what you think might happen. It also helps protect you from things you would never imagine, which can be the most troublesome events we face. The Battle of Stalingrad during World War II was the largest battle in history.
 
-One came in late 1942, when a German tank unit sat in reserve on grasslands outside the city. When tanks were desperately needed on the front lines, something happened that surprised everyone. Almost none of them worked. Out of 104 tanks in the unit, fewer than 20 were operable.
+With it came equally staggering stories of how people dealt with risk. One came in late 1942, when a German tank unit sat in reserve on grasslands outside the city. When tanks were desperately needed on the front lines, something happened that surprised everyone. Almost none of them worked.
 
-Engineers quickly found the issue. Historian William Craig writes, during the weeks of inactivity behind the front lines, field mice had nested inside the vehicles and eaten away insulation covering the electrical systems. The Germans had the most sophisticated equipment in the world, yet there they were, defeated by mice. You can imagine their disbelief. This almost certainly never crossed their minds.
+Out of 104 tanks in the unit, fewer than 20 were operable. Engineers quickly found the issue. Historian William Craig writes, during the weeks of inactivity behind the front lines, field mice had nested inside the vehicles and eaten away insulation covering the electrical systems. The Germans had the most sophisticated equipment in the world, yet there they were, defeated by mice.
 
-What kind of tank designer thinks about mouse protection? Not a reasonable one, and not one who studied tank history. But these kinds of things happen all the time. You can plan for every risk except the things that are too crazy to cross your mind.
+You can imagine their disbelief. This almost certainly never crossed their minds. What kind of tank designer thinks about mouse protection? Not a reasonable one, and not one who studied tank history.
 
-And those crazy things can do the most harm, because they happen more often than you think, and you have no plan for how to deal with them. In 2006, Warren Buffett announced a search for his eventual replacement. He said he needed someone genetically programmed to recognize and avoid serious risks, including those never before encountered. I have seen the skill at work with startups, my firm.
+But these kinds of things happen all the time. You can plan for every risk except the things that are too crazy to cross your mind. And those crazy things can do the most harm, because they happen more often than you think, and you have no plan for how to deal with them. In 2006, Warren Buffett announced a search for his eventual replacement.
 
-Collaborative fund has backed. Ask a founder to list the biggest risks they face. And the usual suspects are mentioned. But beyond the predictable struggles of running a startup, here are a few issues we’ve dealt with among our portfolio companies.
+He said he needed someone genetically programmed to recognize and avoid serious risks, including those never before encountered. I have seen the skill at work with startups, my firm. Collaborative fund has backed. Ask a founder to list the biggest risks they face.
 
-Water pipes broke, flooding and ruining a company’s office. A company’s office was broken into three times. A company was kicked out of its manufacturing plant. A store was shut down after a customer called the health department, because she didn’t like that another customer brought a dog inside.
+And the usual suspects are mentioned. But beyond the predictable struggles of running a startup, here are a few issues we’ve dealt with among our portfolio companies. Water pipes broke, flooding and ruining a company’s office. A company’s office was broken into three times.
 
-A CEO’s email was spoofed in the middle of a fund rise that required all of his attention. A founder had a mental breakdown. Several of these events were existential to the company’s future. But none were foreseeable, because none had previously happened to the CEO’s dealing with these problems, or anyone else they knew for that matter.
+A company was kicked out of its manufacturing plant. A store was shut down after a customer called the health department, because she didn’t like that another customer brought a dog inside. A CEO’s email was spoofed in the middle of a fund rise that required all of his attention. A founder had a mental breakdown.
 
-It was uncharted territory. Avoiding these kinds of unknown risks is almost by definition impossible. You can’t prepare for what you can envision. If there is one way to guard against their damage, it’s avoiding single points of failure.
+Several of these events were existential to the company’s future. But none were foreseeable, because none had previously happened to the CEO’s dealing with these problems, or anyone else they knew for that matter. It was uncharted territory. Avoiding these kinds of unknown risks is almost by definition impossible.
 
-A good rule of thumb for a lot of things in life is that everything that can break will eventually break. So, if many things rely on one thing working, and that thing breaks, you’re counting the days to catastrophe. That’s a single point of failure. Some people are remarkably good at avoiding single points of failure. simple points of failure.
+You can’t prepare for what you can envision. If there is one way to guard against their damage, it’s avoiding single points of failure. A good rule of thumb for a lot of things in life is that everything that can break will eventually break. So, if many things rely on one thing working, and that thing breaks, you’re counting the days to catastrophe.
 
-Most critical systems on airplanes have backups, and the backups often have backups. Modern jets have four redundant electrical systems.
+That’s a single point of failure. Some people are remarkably good at avoiding single points of failure. simple points of failure. Most critical systems on airplanes have backups, and the backups often have backups. Modern jets have four redundant electrical systems.
 
 
 <a id="sec-001513"></a>
@@ -138,29 +140,31 @@ You can fly with one engine and technically land with none, as every jet must be
 
 The trick that often goes overlooked, even by the wealthiest, is what we saw in chapter 10, realizing that you don’t need a specific reason to save. It’s fine to save for a car, or a home, or for retirement, but it’s equally important to save for things you can’t possibly predict or even comprehend. The financial equivalent of field mice. Predicting what you’ll use your savings for assumes you live in a world where you know exactly what your future expenses will be, which no one does.
 
-I save a lot, and I have no idea what I’ll use the savings for in the future. Few financial plans that only prepare for known risks have enough margin of safety to survive the real world.
+I save a lot, and. I have no idea what. I’ll use the savings for in the future. Few financial plans that only prepare for known risks have enough margin of safety to survive the real world.
 
 In fact, the most important part of every plan is planning on your plan, not going according to plan. Now let me show you how this applies to you. The psychology of money.
 
-#### Chapter 14 You’ll change. Long-term planning is harder than it seems, because people’s goals and desires change over time.
+#### Chapter 14. You’ll change.
 
-I grew up with a friend who came from neither privilege nor natural intellect, but was the hardest working guy I knew. These people have a lot to teach, because they have an unfiltered understanding of every inch of the road to success. His life’s mission and dream as a teenager was to be a doctor. To say the odds were stacked against him is being charitable.
+Long-term planning is harder than it seems, because people’s goals and desires change over time. I grew up with a friend who came from neither privilege nor natural intellect, but was the hardest working guy. I knew. These people have a lot to teach, because they have an unfiltered understanding of every inch of the road to success.
 
-No reasonable person at the time would consider it a possibility. But he pushed, and a decade older than his classmates, he eventually became a doctor. How much fulfillment comes from starting from nothing, bulldozing your way to the top of medical school, and achieving one of the most noble professions against all odds? I spoke to him a few years ago.
+His life’s mission and dream as a teenager was to be a doctor. To say the odds were stacked against him is being charitable. No reasonable person at the time would consider it a possibility. But he pushed, and a decade older than his classmates, he eventually became a doctor.
 
-The conversation went like this. Me. Long time no talk. How you doing?
+How much fulfillment comes from starting from nothing, bulldozing your way to the top of medical school, and achieving one of the most noble professions against all odds? I spoke to him a few years ago. The conversation went like this. Me.
 
-Him. Awful career. Me. Haha.
+Long time no talk. How you doing? Him. Awful career.
 
-Well. Him. Awful career, man. This went on for ten minutes.
+Me. Haha. Well. Him.
 
-The stress and hours had worn him into the ground. He seemed as disappointed in where he is today, as he was driven toward where he wanted to be fifteen years ago. An underpinning of psychology is that people are poor forecasters of their future selves. Imagining a goal is easy and fun.
+Awful career, man. This went on for ten minutes. The stress and hours had worn him into the ground. He seemed as disappointed in where he is today, as he was driven toward where he wanted to be fifteen years ago.
 
-Imagining a goal in the context of the realistic life stresses that grow with competitive pursuits is something entirely different. This has a big impact on our ability to plan for future financial goals. Every five-year-old boy wants to drive a tractor when they grow up. Few jobs look better in the eyes of a young boy whose idea of a good job begins and ends with vroom vroom beep beep big tractor here I come.
+An underpinning of psychology is that people are poor forecasters of their future selves. Imagining a goal is easy and fun. Imagining a goal in the context of the realistic life stresses that grow with competitive pursuits is something entirely different. This has a big impact on our ability to plan for future financial goals.
 
-Then many grow up and realize that driving a tractor maybe isn’t the best career. Maybe they want something more prestigious or lucrative. So as a teenager, they dream of being a lawyer. Now they think, they know, their plan is set.
+Every five-year-old boy wants to drive a tractor when they grow up. Few jobs look better in the eyes of a young boy whose idea of a good job begins and ends with vroom vroom beep beep big tractor here. I come. Then many grow up and realize that driving a tractor maybe isn’t the best career.
 
-Law school and its costs, here we come. Then as a lawyer, they face such long working hours that they rarely see their families. So perhaps they take a lower paying job with flexible hours. Then they realize that childcare is so expensive that it consumes most of their paycheck and they opt to be a stay-at-home parent.
+Maybe they want something more prestigious or lucrative. So as a teenager, they dream of being a lawyer. Now they think, they know, their plan is set. Law school and its costs, here we come.
+
+Then as a lawyer, they face such long working hours that they rarely see their families. So perhaps they take a lower paying job with flexible hours. Then they realize that childcare is so expensive that it consumes most of their paycheck and they opt to be a stay-at-home parent.
 
 
 <a id="sec-002013"></a>
@@ -172,21 +176,21 @@ Few likely regret their education, of course. But we should acknowledge that a n
 
 It’s another to admit that you, yourself, don’t know today what you will even want in the future. And the truth is, few of us do. It’s hard to make enduring long-term decisions when your view of what you will want in the future is likely to shift. The end-of-history illusion is what psychologists call the tendency for people to be keenly aware of how much they’ve changed in the past, but to underestimate how much their personalities, desires, and goals are likely to change in the future.
 
-Harvard psychologist Daniel Gilbert once said, “At every stage of our lives, we make decisions that’ll profoundly influence the lives of the people we are going to become.” And then, when we become those people, we are not always thrilled with the decisions we made. So young people pay good money to get tattoos removed that teenagers paid good money to get. Middle-aged people rush to divorce people who young adults rush to marry. Older adults work hard to lose what middle-aged adults work hard to gain.
+Harvard psychologist Daniel Gilbert once said, “At every stage of our lives, we make decisions that’ll profoundly influence the lives of the people we are going to become.”. And then, when we become those people, we are not always thrilled with the decisions we made. So young people pay good money to get tattoos removed that teenagers paid good money to get. Middle-aged people rush to divorce people who young adults rush to marry.
 
-On and on and on. All of us, he said, are walking around with an illusion. An illusion that history, our personal history, has just come to an end. That we have just recently become the people that we were always meant to be, and will be for the rest of our lives.
+Older adults work hard to lose what middle-aged adults work hard to gain. On and on and on. All of us, he said, are walking around with an illusion. An illusion that history, our personal history, has just come to an end.
 
-We tend to never learn this lesson. Gilbert’s research shows people from age 18 to 68 underestimate how much they will change in the future. You can see how this can impact a long-term financial plan. Charlie Munger says the first rule of compounding is to never interrupt it unnecessarily.
+That we have just recently become the people that we were always meant to be, and will be for the rest of our lives. We tend to never learn this lesson. Gilbert’s research shows people from age 18 to 68 underestimate how much they will change in the future. You can see how this can impact a long-term financial plan.
 
-But how do you not interrupt a money plan? Careers, investments, spending, budgeting, whatever. When what you want out of life changes. It’s hard.
+Charlie Munger says the first rule of compounding is to never interrupt it unnecessarily. But how do you not interrupt a money plan? Careers, investments, spending, budgeting, whatever. When what you want out of life changes.
 
-Part of the reason people like Ronald Reed, the wealthy janitor we met earlier in the book, and Warren Buffett become so successful is because they kept doing the same thing for decades on end. Letting compounding run wild. But many of us evolved so much over a lifetime that we don’t want to keep doing the same thing for decades on end. Or anything close to it.
+It’s hard. Part of the reason people like Ronald Reed, the wealthy janitor we met earlier in the book, and Warren Buffett become so successful is because they kept doing the same thing for decades on end. Letting compounding run wild. But many of us evolved so much over a lifetime that we don’t want to keep doing the same thing for decades on end.
 
-So rather than one 80-something year lifespan, our money has perhaps four distinct 20-year blocks. I know young people who purposefully live austere lives with little income, and they are perfectly happy with it. Then there are those who work their tails off to pay for a life of luxury, and they are perfectly happy with that. Both have risks.
+Or anything close to it. So rather than one 80-something year lifespan, our money has perhaps four distinct 20-year blocks. I know young people who purposefully live austere lives with little income, and they are perfectly happy with it. Then there are those who work their tails off to pay for a life of luxury, and they are perfectly happy with that.
 
-The former risks being unprepared to raise a family or fund retirement. The latter risks regret that you spent your youthful and healthy years in a cubicle. There is no easy solution to this problem. Tell a five-year-old boy he should be a lawyer instead of a tractor driver, and he will disagree with every cell in his body.
+Both have risks. The former risks being unprepared to raise a family or fund retirement. The latter risks regret that you spent your youthful and healthy years in a cubicle. There is no easy solution to this problem.
 
-But there are two things to keep in mind when making what you think are long-term decisions. We should avoid the extreme ends of financial planning. Assuming you will be happy with a very low income, or choosing to work endless hours in pursuit of a high one, increases the odds that you will one day find yourself at a point
+Tell a five-year-old boy he should be a lawyer instead of a tractor driver, and he will disagree with every cell in his body. But there are two things to keep in mind when making what you think are long-term decisions. We should avoid the extreme ends of financial planning. Assuming you will be happy with a very low income, or choosing to work endless hours in pursuit of a high one, increases the odds that you will one day find yourself at a point
 
 
 <a id="sec-002515"></a>
@@ -198,21 +202,23 @@ Regrets are especially painful when you abandon a previous plan and feel like yo
 
 And when you consider our tendency to change, who we are over time, balance at every point in your life becomes a strategy to avoid future regret and encourage entrance. Aiming, at every point in your working life, to have moderate annual savings, moderate free time, no more than a moderate commute, and at least moderate time with your family, increases the odds of being able to stick with a plan and avoid regret than if any one of those things fall to the extreme sides of the spectrum.
 
-We should also come to accept the reality of changing our minds. Some of the most miserable workers I’ve met are people who stay loyal to a career only because it’s the field they picked when deciding on a college major at age 18. When you accept the end of history illusion, you realize that the odds of picking a job, when you’re not old enough to drink, that you will still enjoy, when you’re old enough to qualify for Social Security, are low. The trick is to accept the reality of change and move on as soon as possible.
+We should also come to accept the reality of changing our minds. Some of the most miserable workers. I’ve met are people who stay loyal to a career only because it’s the field they picked when deciding on a college major at age 18. When you accept the end of history illusion, you realize that the odds of picking a job, when you’re not old enough to drink, that you will still enjoy, when you’re old enough to qualify for Social Security, are low.
 
-Jason Zweig, the Wall Street Journal investment columnist, worked with psychologist Daniel Kahneman on writing Kahneman’s book, Thinking Fast and Slow. Zweig once told a story about a personality quirk of Kahneman’s that served him well. Nothing amazed me more about Danny than his ability to detonate what we had just done. Zweig wrote, he and Kahneman could work endlessly on a chapter, but…
+The trick is to accept the reality of change and move on as soon as possible. Jason Zweig, the Wall Street Journal investment columnist, worked with psychologist Daniel Kahneman on writing Kahneman’s book, Thinking Fast and Slow. Zweig once told a story about a personality quirk of Kahneman’s that served him well. Nothing amazed me more about Danny than his ability to detonate what we had just done.
 
-The next thing you know, Kahneman sends a version so utterly transformed that it is unrecognizable. It begins differently, it ends differently, it incorporates anecdotes and evidence you never would have thought of. It draws on research that you have never heard of. When I asked Danny how he could start again, as if we had never written an earlier draft, Zweig continued, he said the words I’ve never forgotten, I have no sunk costs.
+Zweig wrote, he and Kahneman could work endlessly on a chapter, but… The next thing you know, Kahneman sends a version so utterly transformed that it is unrecognizable. It begins differently, it ends differently, it incorporates anecdotes and evidence you never would have thought of. It draws on research that you have never heard of.
 
-Sunk costs, anchoring decisions to past efforts that can’t be refunded, are a devil in a world where people change over time. They make our future selves prisoners to our past, different slaves. It’s the equivalent of a stranger making major life decisions for you. Embracing the idea that financial goals made when you are a different person should be abandoned without mercy versus put on life support and dragged on can be a good strategy to minimize future regret.
+When. I asked Danny how he could start again, as if we had never written an earlier draft, Zweig continued, he said the words. I’ve never forgotten, I have no sunk costs. Sunk costs, anchoring decisions to past efforts that can’t be refunded, are a devil in a world where people change over time.
 
-The quicker it’s done, the sooner you can get back to compounding. Next, let’s talk about compounding’s price of admission. The psychology of money.
+They make our future selves prisoners to our past, different slaves. It’s the equivalent of a stranger making major life decisions for you. Embracing the idea that financial goals made when you are a different person should be abandoned without mercy versus put on life support and dragged on can be a good strategy to minimize future regret. The quicker it’s done, the sooner you can get back to compounding.
 
-#### Chapter 15 Nothing’s free. Everything has a price, but not all prices appear on labels.
+Next, let’s talk about compounding’s price of admission. The psychology of money.
 
-Everything has a price. And the key to a lot of things with money is just figuring out what the price is and being willing to pay it. The problem is that the price of a lot of things is not obvious until you’ve experienced them first hand. When the bill is overdue.
+#### Chapter 15 Nothing’s free. Everything has a price, but not all prices appear on labels. Everything has a price.
 
-General Electric was the largest company in the world in 2004, worth a third of a trillion dollars. It had. had either been first or second each year for the previous decade, capitalism’s shining example of corporate aristocracy. Then everything fell to pieces. The 2008 financial crisis sent GE’s financing division, which supplied more than half the
+And the key to a lot of things with money is just figuring out what the price is and being willing to pay it. The problem is that the price of a lot of things is not obvious until you’ve experienced them first hand. When the bill is overdue. General Electric was the largest company in the world in 2004, worth a third of a trillion dollars.
+
+It had. had either been first or second each year for the previous decade, capitalism’s shining example of corporate aristocracy. Then everything fell to pieces. The 2008 financial crisis sent GE’s financing division, which supplied more than half the
 
 
 <a id="sec-003018"></a>
@@ -232,7 +238,7 @@ Like everything else worthwhile, successful investing demands a price, but its c
 
 It costs $30,000. You have three options, one, pay $30,000 for it, two, find a cheaper used one, or three, steal it. In this case, 99% of people know to avoid the third option, because the consequences of stealing a car outweigh the upside. But say you want to earn an 11% annual return over the next 30 years so you can retire in peace.
 
-Does this reward come free? Of course not. The world is never that nice. There’s a price tag, a bill that must be paid.
+Does this reward come free? Of course, not. The world is never that nice. There’s a price tag, a bill that must be paid.
 
 In this case, it’s a never-ending ton from the market, which gives big returns and takes them away just as fast, including dividends that Dow Jones Industrial Average returned about 11% per year from 1950 to 2019, which is great. But the price of success during this period was dreadfully high. The shaded lines in the chart show when it was at least 5% below its previous all-time high. This is the price of market returns, the fee.
 
@@ -276,21 +282,27 @@ It’s not a price tag, you can see. So when the bill comes due, it doesn’t fe
 
 You’re supposed to make decisions that primped and avoid fines. Traffic fines and IRS fines mean you did something wrong and deserve to be punished. The natural response for anyone who watches their wealth decline and views that drop as a fine is to avoid future fines. It sounds trivial, but thinking of market volatility as a fee rather than a fine is an important part of developing the kind of mindset that lets you stick around long enough for investing gains to work in your favor.
 
-Few investors have the disposition to say, I’m actually fine if I lose 20% of my money. This is doubly true for new investors who have never experienced a 20% decline. But if you view volatility as a fee, things look different. Disneyland tickets cost $100.
+Few investors have the disposition to say, I’m actually fine if. I lose 20% of my money. This is doubly true for new investors who have never experienced a 20% decline. But if you view volatility as a fee, things look different.
 
-But you get an awesome day with your kids you’ll never forget. Last year, more than 18 million people thought that fee was worth paying. Few felt the $100 was a punishment or a fine. The worthwhile trade-off of fees is obvious when it’s clear you’re paying one.
+Disneyland tickets cost $100. But you get an awesome day with your kids you’ll never forget. Last year, more than 18 million people thought that fee was worth paying. Few felt the $100 was a punishment or a fine.
 
-Same with investing, where volatility is almost always a fee, not a fine. Market returns are never free and never will be. They demand you pay a price, like any other product. You’re not forced to pay this fee, just like you’re not forced to go to Disneyland.
+The worthwhile trade-off of fees is obvious when it’s clear you’re paying one. Same with investing, where volatility is almost always a fee, not a fine. Market returns are never free and never will be. They demand you pay a price, like any other product.
 
-You can go to the local county fair where tickets might be $10 or stay home for free. You might still have a good time, but you’ll usually get what you pay for. Same with markets, the volatility or uncertainty fee, the price of returns, is the cost of admission to get returns greater than low-fee parks like cash and bonds. The trick is convincing yourself that the market’s fee is worth it.
+You’re not forced to pay this fee, just like you’re not forced to go to Disneyland. You can go to the local county fair where tickets might be $10 or stay home for free. You might still have a good time, but you’ll usually get what you pay for. Same with markets, the volatility or uncertainty fee, the price of returns, is the cost of admission to get returns greater than low-fee parks like cash and bonds.
 
-That’s the only way to properly deal with volatility and uncertainty, not just putting up with it, but realizing that it’s an admission fee worth paying. There’s no guarantee that it will be. Sometimes it rains at Disneyland. But if you view the admission fee as a fine, you will never enjoy the magic.
+The trick is convincing yourself that the market’s fee is worth it. That’s the only way to properly deal with volatility and uncertainty, not just putting up with it, but realizing that it’s an admission fee worth paying. There’s no guarantee that it will be. Sometimes it rains at Disneyland.
 
-Find the price, then pay it. The Psychology of Money Chapter 16 You and Me Beware taking financial cues from people playing a different game than you are. The implosion of the dot-com bubble in the early 2000s reduced household wealth by $6.2 trillion. The end of the housing bubble cut away more than $8 trillion.
+But if you view the admission fee as a fine, you will never enjoy the magic. Find the price, then pay it. The Psychology of Money.
 
-It’s hard to overstate how socially devastating financial bubbles can be. They ruin lives. Why do these things happen? And why do they keep happening?
+#### Chapter 16.
 
-Why can’t we learn our lessons? The common answer here is that people are greedy, and greed is an indelible feature of human nature. That may be true, and it’s a good enough answer for most. But remember from Chapter 1, no one is crazy.
+You and Me Beware taking financial cues from people playing a different game than you are. The implosion of the dot-com bubble in the early 2000s reduced household wealth by $6.2 trillion. The end of the housing bubble cut away more than $8 trillion. It’s hard to overstate how socially devastating financial bubbles can be.
+
+They ruin lives. Why do these things happen? And why do they keep happening? Why can’t we learn our lessons?
+
+The common answer here is that people are greedy, and greed is an indelible feature of human nature. That may be true, and it’s a good enough answer for most. But remember from.
+
+#### Chapter 1, no one is crazy.
 
 People make financial decisions they regret, and they often do so with scarce information. information, and without logic. But the decisions made sense to them when they were made. Blaming bubbles on greed and stopping there misses important lessons about how and why people rationalize what in hindsight look like greedy decisions. Part of why bubbles are hard to learn from is that they are not like cancer, where a biopsy gives us a clear warning and diagnosis.
 
@@ -330,21 +342,23 @@ The change spurred investors to chase performance, rushing to buy the funds at t
 
 It’s hard to justify paying $700,000 for a two-bedroom Florida-tracked home to raise your family in for the next 10 years, but it makes perfect sense if you plan on flipping the home in a few months into a market with rising prices to make a quick profit, which is exactly what many people were doing during the bubble. Data from ATOM, a company that tracks real estate transactions, shows the number of houses in America that sold more than once in a 12-month period.
 
-They were flipped, rose five-fold during the bubble, from $2,000 in the first quarter of $2,000 to over $100,000 in the first quarter of 2004. Flipping plunged after the bubble to less than $40,000 per quarter, where it’s roughly remained since. Do you think these flippers cared about long-term price to rent ratios, or whether the prices they paid were backed up by long-term income growth? Of course not.
+They were flipped, rose five-fold during the bubble, from $2,000 in the first quarter of $2,000 to over $100,000 in the first quarter of 2004. Flipping plunged after the bubble to less than $40,000 per quarter, where it’s roughly remained since. Do you think these flippers cared about long-term price to rent ratios, or whether the prices they paid were backed up by long-term income growth? Of course, not.
 
 Those numbers weren’t relevant to their game. The only thing that mattered to flippers was that the price of the home would be more next month than it was this month, and for many years, it was. You can say a lot about these investors. You can call them speculators.
 
-You can call them irresponsible. You can shake your head at their willingness to take huge risks. But I don’t think you can call all of them irrational. The formation of bubbles isn’t so much about people irrationally participating in long-term investing.
+You can call them irresponsible. You can shake your head at their willingness to take huge risks. But. I don’t think you can call all of them irrational.
 
-They’re about people somewhat rationally moving toward short-term trading to capture momentum that had been feeding on itself. What do you expect people to do when momentum creates a big short-term return potential? Sit and watch patiently? Never.
+The formation of bubbles isn’t so much about people irrationally participating in long-term investing. They’re about people somewhat rationally moving toward short-term trading to capture momentum that had been feeding on itself. What do you expect people to do when momentum creates a big short-term return potential? Sit and watch patiently?
 
-That’s not how the world works. Profits will always be chased. And short-term traders operate in an area where the rules governing long-term investing, particularly around valuation, are ignored, because they’re irrelevant to the game being played. And that’s where things get interesting, and where the problems begin.
+Never. That’s not how the world works. Profits will always be chased. And short-term traders operate in an area where the rules governing long-term investing, particularly around valuation, are ignored, because they’re irrelevant to the game being played.
 
-Bubbles do their damage when long-term investors playing one game start taking their cues from those short-term traders playing another. Cisco’s stock rose 300% in 1999 to $60 per share. At that price, the company was valued at $600 billion, which is insane. You actually thought it was worth that much.
+And that’s where things get interesting, and where the problems begin. Bubbles do their damage when long-term investors playing one game start taking their cues from those short-term traders playing another. Cisco’s stock rose 300% in 1999 to $60 per share. At that price, the company was valued at $600 billion, which is insane.
 
-The day traders were just having their fun. Economist Burton Malkiel once pointed out that Cisco’s implied growth rate at that valuation mean it would become larger than the entire U. S. economy within 20 years. But if you were a long-term investor in 1999, $60 was the only price available to buy. And many people were buying it at that price.
+You actually thought it was worth that much. The day traders were just having their fun. Economist Burton Malkiel once pointed out that Cisco’s implied growth rate at that valuation mean it would become larger than the entire U. S. economy within 20 years.
 
-So you may have looked around and said to yourself, wow, maybe these other investors know something I don’t. Maybe you went along with it. You even felt smart about it. What you don’t realize is that the traders who were setting the marginal price of the stock were playing a different game than you were. $60 a share was a reasonable price for the traders because they planned on selling the
+But if you were a long-term investor in 1999, $60 was the only price available to buy. And many people were buying it at that price. So you may have looked around and said to yourself, wow, maybe these other investors know something. I don’t.
+
+Maybe you went along with it. You even felt smart about it. What you don’t realize is that the traders who were setting the marginal price of the stock were playing a different game than you were. $60 a share was a reasonable price for the traders because they planned on selling the
 
 
 <a id="sec-005532"></a>
@@ -360,21 +374,23 @@ A hedge fund manager trying to shore up your books before the quarter ends? Are 
 
 Because an anchor of psychology is not realizing that rational people can see the world through a different lens than your own. Rising prices persuade all investors in ways the best marketers envy. They are a drug that can turn value-conscious investors into dewy-eyed optimists, detached from their own reality by the actions of someone playing a different game than they are. Being swayed by people playing a different game can also throw off how you think you’re supposed to spend your money.
 
-So much consumer spending, particularly in developed countries, is socially driven, subtly influenced by people you admire and done because you subtly want people to admire you. But while we can see how much money other people spend on cars, homes, clothes and vacations, we don’t get to see their goals, worries and aspirations. A young lawyer aiming to be a partner at a prestigious law firm might need to maintain an appearance that I, a writer who can work in sweatpants, have no need for.
+So much consumer spending, particularly in developed countries, is socially driven, subtly influenced by people you admire and done because you subtly want people to admire you. But while we can see how much money other people spend on cars, homes, clothes and vacations, we don’t get to see their goals, worries and aspirations. A young lawyer aiming to be a partner at a prestigious law firm might need to maintain an appearance that. I, a writer who can work in sweatpants, have no need for.
 
-But when his purchases set my own expectations, I’m wandering down a path of potential disappointment because I’m spending the money without the career boost he’s getting. We might not even have different styles. We’re just playing a different game. It took me years to figure this out.
+But when his purchases set my own expectations, I’m wandering down a path of potential disappointment because. I’m spending the money without the career boost he’s getting. We might not even have different styles. We’re just playing a different game.
 
-A takeaway here is that few things matter more with money than understanding your own time horizon and not being persuaded by the actions and behaviors of people playing different games than you are. The main thing I can recommend is going out of your way to identify what game you’re playing. It’s surprising how few of us do. We call everyone investing money, investors, like their basketball players, all playing the same game with the same rules.
+It took me years to figure this out. A takeaway here is that few things matter more with money than understanding your own time horizon and not being persuaded by the actions and behaviors of people playing different games than you are. The main thing. I can recommend is going out of your way to identify what game you’re playing.
 
-When you realize how wrong the notion is, you see how vital it is to simply identify what game you’re playing. How I invest my own money is detailed in chapter 20, but years ago, I wrote out, I am a passive investor optimistic in the world’s ability to generate real economic growth, and I’m confident that over the next 30 years, that growth will accrue to my investments. This might seem quaint, but once you write that mission statement down, you’ll realize everything that’s unrelated to it.
+It’s surprising how few of us do. We call everyone investing money, investors, like their basketball players, all playing the same game with the same rules. When you realize how wrong the notion is, you see how vital it is to simply identify what game you’re playing. How.
 
-What the market did this year, or whether we’ll have a recession next year, is part of a game I’m not playing. So I don’t pay attention to it, and am in no danger of being persuaded by it. Next, let’s talk about pessimism.
+I invest my own money is detailed in chapter 20, but years ago, I wrote out, I am a passive investor optimistic in the world’s ability to generate real economic growth, and. I’m confident that over the next 30 years, that growth will accrue to my investments. This might seem quaint, but once you write that mission statement down, you’ll realize everything that’s unrelated to it. What the market did this year, or whether we’ll have a recession next year, is part of a game.
+
+I’m not playing. So. I don’t pay attention to it, and am in no danger of being persuaded by it. Next, let’s talk about pessimism.
 
 #### THE PSYCHOLOGY OF MONEY.
 
-#### Chapter 17 The Seduction of Pessimism Optimism sounds like a sales pitch. Pessimism sounds like someone trying to help you.
+#### Chapter 17 The Seduction of Pessimism Optimism sounds like a sales pitch.
 
-For reasons I’ve never understood, people like to hear that the world is going to hell. Historian Dyrdae McCloskey.
+Pessimism sounds like someone trying to help you. For reasons. I’ve never understood, people like to hear that the world is going to hell. Historian Dyrdae McCloskey.
 
 
 <a id="sec-010035"></a>
@@ -392,15 +408,17 @@ Now we can discuss optimism’s more compelling sibling. Pessimism. December 29t
 
 The global financial system was on day-to-day life support. Unemployment was surging. As things looked like, they couldn’t get worse. The Wall Street Journal published a story arguing that we hadn’t seen anything yet.
 
-It ran a front-page article on the outlook of a Russian professor named Igor Panarin whose economic views rival the flair of science fiction writers. The journal wrote, Around the end of June 2010, or early July, Panarin says, the U. S. will break into six pieces. With Alaska reverting to Russian control, California will form the nucleus of what he calls the Californian Republic and will be part of China or under Chinese influence. Texas will be the heart of the Texas Republic, a cluster of states that will go to Mexico or fall under Mexican influence.
+It ran a front-page article on the outlook of a Russian professor named Igor Panarin whose economic views rival the flair of science fiction writers. The journal wrote, Around the end of June 2010, or early July, Panarin says, the U. S. will break into six pieces. With Alaska reverting to Russian control, California will form the nucleus of what he calls the Californian Republic and will be part of China or under Chinese influence.
 
-Washington D. C. and New York will be part of an Atlantic America that may join the European Union. Canada will grab a group of northern states, Professor Panarin calls the Central North American Republic. Hawaii, he suggests, will be a protectorate of Japan or China, and Alaska will be subsumed into Russia.
+Texas will be the heart of the Texas Republic, a cluster of states that will go to Mexico or fall under Mexican influence. Washington D. C. and New York will be part of an Atlantic America that may join the European Union. Canada will grab a group of northern states, Professor Panarin calls the Central North American Republic.
 
-This was not the ramblings of a backroom blog or tinfoil hat newsletter, this was on the front page of the most prestigious financial newspaper in the world. It is fine to be pessimistic about the economy, it’s even okay to be apocalyptic. History is full of examples of countries experiencing not just recessions but disintegrations. The interesting thing about Panarin-type stories is that their polar opposites, forecasts of outrageous optimism, are rarely taken as seriously as prophets of doom.
+Hawaii, he suggests, will be a protectorate of Japan or China, and Alaska will be subsumed into Russia. This was not the ramblings of a backroom blog or tinfoil hat newsletter, this was on the front page of the most prestigious financial newspaper in the world. It is fine to be pessimistic about the economy, it’s even okay to be apocalyptic. History is full of examples of countries experiencing not just recessions but disintegrations.
 
-Take Japan in the late 1940s. The nation was gutted by defeat from World War II in every way, economically, industrially, culturally, socially. A brutal winner in 1946 caused a famine that limited food to less than 800 calories per person per day.
+The interesting thing about Panarin-type stories is that their polar opposites, forecasts of outrageous optimism, are rarely taken as seriously as prophets of doom. Take Japan in the late 1940s. The nation was gutted by defeat from World War II in every way, economically, industrially, culturally, socially. A brutal winner in 1946 caused a famine that limited food to less than 800 calories per person per day.
 
-Imagine if a Japanese academic had written a newspaper article during this time that said, “Chin up, everyone.” Even in our lifetime our economy will grow to almost 15 times the size it was before the end of the war. Our life expectancy will nearly double, our stock market will produce returns like any country in history has rarely seen. We will go more than 40 years without ever seeing unemployment top 6%. We will become a world leader in electronic innovation and corporate management systems. Before long, we will be so rich that we’ll own some of the most prized real estate in
+Imagine if a Japanese academic had written a newspaper article during this time that said, “Chin up, everyone.”. Even in our lifetime our economy will grow to almost 15 times the size it was before the end of the war. Our life expectancy will nearly double, our stock market will produce returns like any country in history has rarely seen. We will go more than 40 years without ever seeing unemployment top 6%.
+
+We will become a world leader in electronic innovation and corporate management systems. Before long, we will be so rich that we’ll own some of the most prized real estate in
 
 
 <a id="sec-010536"></a>
@@ -410,19 +428,21 @@ the United States. Americans, by the way, will be our closest ally and will try 
 
 Pessimism just sounds smarter and more plausible than optimism. Tell someone that everything will be great and they’re likely to either shrug you off or offer a skeptical eye. Tell someone they’re in danger and you have their undivided attention. If a smart person tells me they have a stock pick that’s going to rise tenfold in the next year, I’ll immediately write them off as full of nonsense.
 
-If someone who’s full of nonsense tells me that a stock I own is about to collapse because it’s an accounting fraud, I will clear my calendar and listen to their every word. Say we’ll have a big recession and newspapers will call you. Say we’re headed for average growth and no one particularly cares. Say we’re nearing the next Great Depression and you’ll get on TV.
+If someone who’s full of nonsense tells me that a stock. I own is about to collapse because it’s an accounting fraud, I will clear my calendar and listen to their every word. Say we’ll have a big recession and newspapers will call you. Say we’re headed for average growth and no one particularly cares.
 
-But mention that good times are ahead, or markets have room to run, or that a company has huge potential and a common reaction from commentators and spectators alike is that you’re either a salesman or comically aloof of risks. The investing newsletter industry has known this for years and is now populated by profits of doom despite operating in an environment where the stocks market has gone up seventeen thousand fold in the last century, including dividends. This is true beyond finance. Matt Ridley wrote in his book The Rational Optimist, A constant drumbeat of pessimism usually drowns out any triumphalist song.
+Say we’re nearing the next Great Depression and you’ll get on TV. But mention that good times are ahead, or markets have room to run, or that a company has huge potential and a common reaction from commentators and spectators alike is that you’re either a salesman or comically aloof of risks. The investing newsletter industry has known this for years and is now populated by profits of doom despite operating in an environment where the stocks market has gone up seventeen thousand fold in the last century, including dividends.
 
-If you say the world has been getting better, you may get away with being called naive and insensitive. If you say the world is going to go on getting better, you’re considered embarrassingly mad. If, on the other hand, you say catastrophe is imminent, you may expect a Mac Arthur Genius Award or even the Nobel Peace Prize. In my own adult lifetime, the fashionable reasons for pessimism changed.
+This is true beyond finance. Matt Ridley wrote in his book The Rational Optimist, A constant drumbeat of pessimism usually drowns out any triumphalist song. If you say the world has been getting better, you may get away with being called naive and insensitive. If you say the world is going to go on getting better, you’re considered embarrassingly mad.
 
-But the pessimism was constant. Every group of people I ask thinks the world is more frightening, more violent, and more hopeless and chart more dramatic than it really is. Hans Rosling wrote in his book Factfulness, When you realize how much progress humans can make during a lifetime and everything from economic growth to medical breakthroughs to stock market gains to social equality, you would think optimism would gain more attention than pessimism. And yet, the intellectual allure of pessimism has been known for ages.
+If, on the other hand, you say catastrophe is imminent, you may expect a Mac Arthur Genius Award or even the Nobel Peace Prize. In my own adult lifetime, the fashionable reasons for pessimism changed. But the pessimism was constant. Every group of people.
 
-John Stuart Mill wrote in the 1840s, I have observed that not the man who hopes when others despair, but the man who despairs when others hope, is admired by a large class of persons as a sage. The question is, why? And how does it impact how we think about money? Let’s repeat the premise that no one is crazy.
+I ask thinks the world is more frightening, more violent, and more hopeless and chart more dramatic than it really is. Hans Rosling wrote in his book Factfulness, When you realize how much progress humans can make during a lifetime and everything from economic growth to medical breakthroughs to stock market gains to social equality, you would think optimism would gain more attention than pessimism. And yet, the intellectual allure of pessimism has been known for ages. John Stuart Mill wrote in the 1840s, I have observed that not the man who hopes when others despair, but the man who despairs when others hope, is admired by a large class of persons as a sage.
 
-There are valid reasons why pessimism is seductive when dealing with money. It just helps to know what they are to ensure we don’t take them too far. Part of it is instinctual and unavoidable. Kahneman says the asymmetric aversion to loss in an evolutionary shield.
+The question is, why? And how does it impact how we think about money? Let’s repeat the premise that no one is crazy. There are valid reasons why pessimism is seductive when dealing with money.
 
-He writes, When directly compared or weighted against each other, losses loom larger in the gains. This asymmetry between the power of positive and negative expectations or experiences has an evolutionary history. Organisms that treat threats as more urgent than opportunities have a better chance to survive and reproduce. But a few other things make financial pessimism easy, common, and more persuasive than optimism.
+It just helps to know what they are to ensure we don’t take them too far. Part of it is instinctual and unavoidable. Kahneman says the asymmetric aversion to loss in an evolutionary shield. He writes, When directly compared or weighted against each other, losses loom larger in the gains.
+
+This asymmetry between the power of positive and negative expectations or experiences has an evolutionary history. Organisms that treat threats as more urgent than opportunities have a better chance to survive and reproduce. But a few other things make financial pessimism easy, common, and more persuasive than optimism.
 
 
 <a id="sec-011041"></a>
@@ -492,9 +512,9 @@ And in careers, where reputations take a lifetime to build, and a single email t
 
 In 2004, The New York Times interviewed Stephen Hawking, the scientist whose incurable motor neuron disease left him paralyzed and unable to talk at age 21. Through his computer, Hawking told the interviewer how excited he was to sell books to lay people. Are you always this cheerful? The Times asked.
 
-My expectations were reduced to zero when I was 21. Expecting since then has been a bonus, he replied. Expecting things to be great means a best-case scenario that feels flat. Pessimism reduces expectations, narrowing the gap between possible outcomes and outcomes you feel great about.
+My expectations were reduced to zero when. I was 21. Expecting since then has been a bonus, he replied. Expecting things to be great means a best-case scenario that feels flat.
 
-Maybe that’s why it’s so seductive. Expecting things to be bad is the best way to be pleasantly surprised when they’re which, ironically, is something to be optimistic about.
+Pessimism reduces expectations, narrowing the gap between possible outcomes and outcomes you feel great about. Maybe that’s why it’s so seductive. Expecting things to be bad is the best way to be pleasantly surprised when they’re which, ironically, is something to be optimistic about.
 
 Now, a short story about stories.
 
@@ -534,23 +554,23 @@ In 2009, we inflicted narrative damage on ourselves, and it was vicious. It’s 
 
 They’re the fuel that can let the tangible parts of the economy work, or the break that holds our capabilities back. At the personal level, there are two things to keep in mind about a story-driven world when managing your money. Number one, the more you want something to be true, the more likely you are to believe a story that overestimates the odds of it being true. What was the happiest day of your life?
 
-The documentary, How to Live Forever, asks that innocent question to a centenarian who offered an amazing response. Armistice Day, she said, referring to the 1980s agreement that ended World War I. Why? the producer asks, because we knew there would be no more wars ever again, she says. World War II began 21 years later, killing 75 million people.
+The documentary, How to Live Forever, asks that innocent question to a centenarian who offered an amazing response. Armistice Day, she said, referring to the 1980s agreement that ended World War. I. Why? the producer asks, because we knew there would be no more wars ever again, she says.
 
-There are many things in life that we think are true because we desperately want them to be true. I call these things appealing fictions. They have a big impact on how we think about money, particularly investments and the economy. An appealing fiction happens when you are smart, you want to find solutions, but face a combination of limited control and high stakes.
+World War II began 21 years later, killing 75 million people. There are many things in life that we think are true because we desperately want them to be true. I call these things appealing fictions. They have a big impact on how we think about money, particularly investments and the economy.
 
-They are extremely powerful. They can make you believe just about anything. Take a short example. Ali Hajjaji’s son was sick.
+An appealing fiction happens when you are smart, you want to find solutions, but face a combination of limited control and high stakes. They are extremely powerful. They can make you believe just about anything. Take a short example.
 
-Elders in his Yemeni village proposed a folk remedy, shoved the tip off a burning stick through his son’s chest to drain the sickness from his body. After the procedure, Hajjaji told the New York Times, when you have no money and your son is sick, you’ll believe anything. Medicine predates useful medicine by thousands of years. Before the scientific method and the discovery of germs, there was blood-letting, starvation therapy, cutting holes in your body to let the evils out, and other treatments that did nothing but hasten your demise.
+Ali Hajjaji’s son was sick. Elders in his Yemeni village proposed a folk remedy, shoved the tip off a burning stick through his son’s chest to drain the sickness from his body. After the procedure, Hajjaji told the New York Times, when you have no money and your son is sick, you’ll believe anything. Medicine predates useful medicine by thousands of years.
 
-It seems crazy. But if you desperately need a solution and a good one isn’t known or readily available to you, the path of least resistance is toward Hajjaji’s reasoning, willing to believe anything. Not just try anything, but believe it. Chronicling the Great Plague of London, Daniel Diffoe wrote in 1722, The people were more addicted to prophecies in astrological conjurations, dreams, and old wives' tales than ever they were before or since.
+Before the scientific method and the discovery of germs, there was blood-letting, starvation therapy, cutting holes in your body to let the evils out, and other treatments that did nothing but hasten your demise. It seems crazy. But if you desperately need a solution and a good one isn’t known or readily available to you, the path of least resistance is toward Hajjaji’s reasoning, willing to believe anything. Not just try anything, but believe it.
 
-Almanacs frightened them terribly. The posts of houses and corners of streets were plastered over with doctor’s bills and papers of ignorant fellows, quacking and inviting people to come to them for remedies, which was generally set off with such flourishes as these, infallible preventive bills against the plague, never-failing preservatives against the infection, severing cordials against the corruption of the air. The plague killed a quarter of Londoners in eighteen months. You’ll believe just about anything when the stakes are that high.
+Chronicling the Great Plague of London, Daniel Diffoe wrote in 1722, The people were more addicted to prophecies in astrological conjurations, dreams, and old wives' tales than ever they were before or since. Almanacs frightened them terribly. The posts of houses and corners of streets were plastered over with doctor’s bills and papers of ignorant fellows, quacking and inviting people to come to them for remedies, which was generally set off with such flourishes as these, infallible preventive bills against the plague, never-failing preservatives against the infection, severing cordials against the corruption of the air.
 
-Now think about how the same set of limited information and high stakes impact our financial decisions. Why do people listen to TV investment commentary that has little track record of success, partly because the stakes are so high in investing? Get a few stock picks right and you can become rich without much effort. If there’s a one-person chance that someone’s prediction will come true and it coming true will change your life, it’s not crazy to pay attention, just in case.
+The plague killed a quarter of Londoners in eighteen months. You’ll believe just about anything when the stakes are that high. Now think about how the same set of limited information and high stakes impact our financial decisions. Why do people listen to TV investment commentary that has little track record of success, partly because the stakes are so high in investing?
 
-And there are so many financial opinions that once you pick a strategy or side, you become invested in them both financially and mentally. If you want a certain stock to rise tenfold, that’s your tribe. If you think a certain economic policy will spark hyperinflation, that’s your side. These may be low-probability bids.
+Get a few stock picks right and you can become rich without much effort. If there’s a one-person chance that someone’s prediction will come true and it coming true will change your life, it’s not crazy to pay attention, just in case. And there are so many financial opinions that once you pick a strategy or side, you become invested in them both financially and mentally. If you want a certain stock to rise tenfold, that’s your tribe.
 
-The problem is that viewers can or don’t calibrate low odds like a one-person chance. Many default to a firm belief that what they want to be true is unequivocally true, but they’re only doing that because the possibility of a huge outcome exists.
+If you think a certain economic policy will spark hyperinflation, that’s your side. These may be low-probability bids. The problem is that viewers can or don’t calibrate low odds like a one-person chance. Many default to a firm belief that what they want to be true is unequivocally true, but they’re only doing that because the possibility of a huge outcome exists.
 
 
 <a id="sec-013555"></a>
@@ -572,9 +592,9 @@ Others are easy targets for criticism. But all of us do this to some extent. And
 
 Every blip, every anecdote will look like a sign that doom has arrived. Maybe not because it has, but because you want it to. Incentives are a powerful motivator, and we should always remember how they influence our own financial goals and outlooks. It can be overstated.
 
-There is no greater force in finance than room for error, and the higher the stakes, the wider it should be. 2. Everyone has an incomplete view of the world, but we form a complete narrative to fill in the gaps. My daughter is about a year old as I write this. She is curious about everything and learns so fast.
+There is no greater force in finance than room for error, and the higher the stakes, the wider it should be. 2. Everyone has an incomplete view of the world, but we form a complete narrative to fill in the gaps. My daughter is about a year old as. I write this.
 
-But sometimes, I think about all the stuff she can’t comprehend. She has no idea why her dad goes to work every morning. The concept of bills, budgets, careers, promotions, and saving for retirement are completely foreign to her.
+She is curious about everything and learns so fast. But sometimes, I think about all the stuff she can’t comprehend. She has no idea why her dad goes to work every morning. The concept of bills, budgets, careers, promotions, and saving for retirement are completely foreign to her.
 
 
 <a id="sec-014055"></a>
@@ -582,25 +602,31 @@ But sometimes, I think about all the stuff she can’t comprehend. She has no id
 
 Imagine trying to explain the Federal Reserve, credit derivatives, or NAFDA to her, impossible. But her world isn’t dark. She does not wander around in confusion. Even at a year old, she’s written her own internal narrative of how everything works, blankets keep you warm, mum snuggles keep you safe, and dates taste good.
 
-Everything she comes across fits into one of a few dozen mental models she’s learned. When I go to work, she doesn’t stop in confusion, wondering what salaries and bills are. She has a crystal-clear explanation of the situation. Dad isn’t playing with me, and I wanted him to play with me, so I’m sad.
+Everything she comes across fits into one of a few dozen mental models she’s learned. When. I go to work, she doesn’t stop in confusion, wondering what salaries and bills are. She has a crystal-clear explanation of the situation.
 
-Even though she knows little, she doesn’t realize it, because she tells herself a coherent story about what’s going on, based on the little she does know. All of us, no matter our age, do the same thing. Just like my daughter, I don’t know what I don’t know, so I’m just as susceptible to explaining the world through the limited set of mental models I have at my disposal. Like her, I look for the most understandable causes in everything I come across, and like her, I’m wrong about a lot of them, because I know a lot less about how the world works than I think I do.
+Dad isn’t playing with me, and. I wanted him to play with me, so. I’m sad. Even though she knows little, she doesn’t realize it, because she tells herself a coherent story about what’s going on, based on the little she does know.
 
-This is true for the most fact-based of subjects. Take history. It’s just the recounting of stuff that already happened. It should be clear and objective.
+All of us, no matter our age, do the same thing. Just like my daughter, I don’t know what. I don’t know, so. I’m just as susceptible to explaining the world through the limited set of mental models.
 
-But a B. H. little heart writes in the book, Why don’t we learn from history? History cannot be interpreted without the aid of imagination and intuition. The sheer quantity of evidence is so overwhelming that selection is inevitable.
+I have at my disposal. Like her, I look for the most understandable causes in everything. I come across, and like her, I’m wrong about a lot of them, because. I know a lot less about how the world works than.
 
-Where there is selection, there is art. Those who read history tend to look for what proves them right and confirms their personal opinions. They defend loyalties. They read with a purpose to affirm or to attack.
+I think. I do. This is true for the most fact-based of subjects. Take history.
 
-They resist inconvenient truth since everyone wants to be on the side of the angels. Just as we start wars, to end all wars. Daniel Kahneman once told me about the stories people tell themselves to make sense of the past.
+It’s just the recounting of stuff that already happened. It should be clear and objective. But a B. H. little heart writes in the book, Why don’t we learn from history?
 
-He said, “Hintzeit, the ability to explain the past, gives us the illusion that the world is understandable.” It gives us the illusion that the world makes sense, even when it doesn’t make sense. That’s a big deal in producing mistakes in many fields. Most people, when confronted with something they don’t understand, do not realize they don’t understand it, because they are able to come up with an explanation that makes sense based on their own unique perspective and experiences in the world, however limited those experiences are.
+History cannot be interpreted without the aid of imagination and intuition. The sheer quantity of evidence is so overwhelming that selection is inevitable. Where there is selection, there is art. Those who read history tend to look for what proves them right and confirms their personal opinions.
 
-We all want the complicated world we live in to make sense. So we tell ourselves stories to fill in the gaps of what are effectively blind spots. What these stories do to us financially can be both fascinating and terrifying. When I’m blind to parts of how the world works, I might completely misunderstand why the stock market is behaving like it is.
+They defend loyalties. They read with a purpose to affirm or to attack. They resist inconvenient truth since everyone wants to be on the side of the angels. Just as we start wars, to end all wars.
 
-In a way that gives me too much confidence in my ability to know what it is. it might do next. Part of the reason for casting the stock market and the economy is so hard is because you are the only person in the world who thinks the world operates the way you do. When you make decisions for reasons that I can’t even comprehend, I might follow you blindly into a decision that’s right for you and disastrous to me. This, as we saw in chapter 16, is how bubbles form.
+Daniel Kahneman once told me about the stories people tell themselves to make sense of the past. He said, “Hintzeit, the ability to explain the past, gives us the illusion that the world is understandable.”. It gives us the illusion that the world makes sense, even when it doesn’t make sense. That’s a big deal in producing mistakes in many fields.
 
-Coming to terms with how much you don’t know means coming to terms with how much of what happens in the world is out of your control, and that can be hard to accept. Think about market forecasts, we are very, very bad at them. I once calculated that if you just assume that the market goes up every year by its historic average, your accuracy is better than if you follow the average annual forecasts
+Most people, when confronted with something they don’t understand, do not realize they don’t understand it, because they are able to come up with an explanation that makes sense based on their own unique perspective and experiences in the world, however limited those experiences are. We all want the complicated world we live in to make sense. So we tell ourselves stories to fill in the gaps of what are effectively blind spots. What these stories do to us financially can be both fascinating and terrifying.
+
+When. I’m blind to parts of how the world works, I might completely misunderstand why the stock market is behaving like it is. In a way that gives me too much confidence in my ability to know what it is. it might do next. Part of the reason for casting the stock market and the economy is so hard is because you are the only person in the world who thinks the world operates the way you do.
+
+When you make decisions for reasons that. I can’t even comprehend, I might follow you blindly into a decision that’s right for you and disastrous to me. This, as we saw in chapter 16, is how bubbles form. Coming to terms with how much you don’t know means coming to terms with how much of what happens in the world is out of your control, and that can be hard to accept.
+
+Think about market forecasts, we are very, very bad at them. I once calculated that if you just assume that the market goes up every year by its historic average, your accuracy is better than if you follow the average annual forecasts
 
 
 <a id="sec-014601"></a>
@@ -616,13 +642,13 @@ It was a 3 billion mile trip that took 9 and a half years. According to NASA, th
 
 That’s like forecasting a trip from New York to Boston and being accurate to within four millionths of a second. But astrophysics is a field of precision. But astrophysics is a field of precision. It isn’t impacted by the vagaries of human behavior and emotions, like finance is.
 
-Business, economics, and investing are fields of uncertainty, overwhelmingly driven by decisions that can easily be explained with clean formulas, like a trip to Pluto can. But we desperately want it to be like a trip to Pluto, because the idea of a NASA engineer being in 99.99998 percent control of an outcome is beautiful and comforting. It’s so comforting that we’re tempered to tell ourselves stories about how much control we have in other parts of our life, like money. Canimon once laid out the path these stories take.
+Business, economics, and investing are fields of uncertainty, overwhelmingly driven by decisions that can easily be explained with clean formulas, like a trip to Pluto can. But we desperately want it to be like a trip to Pluto, because the idea of a NASA engineer being in 99.99998 percent control of an outcome is beautiful and comforting. It’s so comforting that we’re tempered to tell ourselves stories about how much control we have in other parts of our life, like money.
 
-In planning, we focus on what we want to do and can do, neglecting the plans and skills of others whose decisions might affect our outcomes. Both in explaining the past and in predicting the future, we focus on the casual role of skill and neglect the role of luck. We focus on what we know and neglect what we do not know, which makes us overly confident in our beliefs. He described how this impacts businesses.
+Canimon once laid out the path these stories take. In planning, we focus on what we want to do and can do, neglecting the plans and skills of others whose decisions might affect our outcomes. Both in explaining the past and in predicting the future, we focus on the casual role of skill and neglect the role of luck. We focus on what we know and neglect what we do not know, which makes us overly confident in our beliefs.
 
-I have had several occasions to ask founders and participants in innovative startups a question. To what extent will the outcome of your effort depend on what you do in your firm? This is evidently an easy question. The answer comes quickly and it has never been less than 80 percent.
+He described how this impacts businesses. I have had several occasions to ask founders and participants in innovative startups a question. To what extent will the outcome of your effort depend on what you do in your firm? This is evidently an easy question.
 
-Even when they are not sure they will succeed, these bold people think their fate is almost entirely in their own hands. They’re surely wrong. The outcome of a startup depends as much on the achievements of its competitors and on changes in the market as on its own efforts.
+The answer comes quickly and it has never been less than 80 percent. Even when they are not sure they will succeed, these bold people think their fate is almost entirely in their own hands. They’re surely wrong. The outcome of a startup depends as much on the achievements of its competitors and on changes in the market as on its own efforts.
 
 However, entrepreneurs naturally focus on what they know best, their plans and actions, and the most immediate threats and opportunities, such as the availability of funding. They know less about their competitors and therefore find it natural to imagine a future in which the competition plays little part. We all do this to some extent. And like my daughter, it doesn’t bother us a bit.
 
@@ -644,47 +670,51 @@ His dentist put him under crude anesthesia to ease the pain. When Clarence awoke
 
 His wife sued the dentist, but not because the surgery went awry. Every surgery risked death in 1931. Clarence, she said, never consented to the procedures in the first place, and wouldn’t if you were asked. The case wove through courts, but went nowhere.
 
-Consent between doctor and patient wasn’t black and white in 1931. One court summed up the idea that doctors require freedom to make the best medical decisions. Without such, we could not enjoy the advancement of science. For most of history, the ethos of medicine was that the doctor’s job was to fix the patient, and what the patient thought about the doctor’s treatment plans wasn’t relevant. Dr. J.
+Consent between doctor and patient wasn’t black and white in 1931. One court summed up the idea that doctors require freedom to make the best medical decisions. Without such, we could not enjoy the advancement of science. For most of history, the ethos of medicine was that the doctor’s job was to fix the patient, and what the patient thought about the doctor’s treatment plans wasn’t relevant.
 
-Katz wrote about the philosophy in his book, The Silent World Between Doctor and Patient. Doctors felt that, in order to accomplish that objective, they were obligated to attend to their patient’s physical and emotional needs, and to do so on their own authority, without consulting with their patients about the decisions that needed to be made. The idea that patients may also be entitled to sharing the burdens of decisions with their doctors was never part of the ethos of medicine. This wasn’t ego or malice.
+Dr. J. Katz wrote about the philosophy in his book, The Silent World Between Doctor and Patient. Doctors felt that, in order to accomplish that objective, they were obligated to attend to their patient’s physical and emotional needs, and to do so on their own authority, without consulting with their patients about the decisions that needed to be made.
 
-It was a belief in two points. One, every patient wants to be cured. Two, there is a universal and right way to cure them. Not requiring patient consent in treatment plans makes sense if you believe in those two points.
+The idea that patients may also be entitled to sharing the burdens of decisions with their doctors was never part of the ethos of medicine. This wasn’t ego or malice. It was a belief in two points. One, every patient wants to be cured.
 
-But that’s not how medicine works. In the last 50 years, medical school subtly shifted teaching away from treating disease and toward treating patients. That meant laying out the options of treatment plans, and then letting the patient decide the best path forward. This trend was partly driven by patient protection laws, partly by Katz’s influential book, which argued that patients have widely different views about what’s worth it in medicine, so their beliefs have to be taken into consideration.
+Two, there is a universal and right way to cure them. Not requiring patient consent in treatment plans makes sense if you believe in those two points. But that’s not how medicine works. In the last 50 years, medical school subtly shifted teaching away from treating disease and toward treating patients.
 
-That’s road. It is dangerous nonsense to assert that, in the practice of their art and science, physicians can rely on their benevolent intentions, their abilities to judge what is the right thing to do. It is not that easy. Medicine is a complex profession, and the interactions between physicians and patients are also complex.
+That meant laying out the options of treatment plans, and then letting the patient decide the best path forward. This trend was partly driven by patient protection laws, partly by Katz’s influential book, which argued that patients have widely different views about what’s worth it in medicine, so their beliefs have to be taken into consideration. That’s road. It is dangerous nonsense to assert that, in the practice of their art and science, physicians can rely on their benevolent intentions, their abilities to judge what is the right thing to do.
 
-The last line is important. Medicine is a complex profession, and the interactions between physicians and patients are also complex. You know what profession is the same. Financial advice.
+It is not that easy. Medicine is a complex profession, and the interactions between physicians and patients are also complex. The last line is important. Medicine is a complex profession, and the interactions between physicians and patients are also complex.
 
-I can’t tell you what to do with your money because I don’t know you. I don’t know what you want.
+You know what profession is the same. Financial advice. I can’t tell you what to do with your money because. I don’t know you.
+
+I don’t know what you want.
 
 
 <a id="sec-015603"></a>
 ### ⏱️ [01:56:03 - 02:01:03]
 
-I don’t know when you want it. I don’t know why you want it. So I’m not going to tell you what to do with your money. I don’t want to treat you like a dentist treated Clarence Hughes, but doctors and dentists aren’t useless, obviously.
+I don’t know when you want it. I don’t know why you want it. So. I’m not going to tell you what to do with your money.
 
-They have knowledge. They know the odds. They know what tends to work, even if patients come to different conclusions about what kind of treatment is the right for them. Financial advisors are the same.
+I don’t want to treat you like a dentist treated Clarence Hughes, but doctors and dentists aren’t useless, obviously. They have knowledge. They know the odds. They know what tends to work, even if patients come to different conclusions about what kind of treatment is the right for them.
 
-There are universal treats and money, even if people come to different conclusions about how they want to apply those truths to their own finances. With that caveat in place, let’s look at a few short recommendations that can help you make better decisions with your money. Go out of your way to find humility when things are going right and forgiveness or compassion when they go wrong. Because it’s never as good or as bad as it looks, the world is big and complex.
+Financial advisors are the same. There are universal treats and money, even if people come to different conclusions about how they want to apply those truths to their own finances. With that caveat in place, let’s look at a few short recommendations that can help you make better decisions with your money. Go out of your way to find humility when things are going right and forgiveness or compassion when they go wrong.
 
-Luck and risk are both real and hard to identify. Do so when judging both yourself and others. Respect the power of luck and risk, and you’ll have a better chance of focusing on things you can actually control. You’ll also have a better chance of finding the right role models.
+Because it’s never as good or as bad as it looks, the world is big and complex. Luck and risk are both real and hard to identify. Do so when judging both yourself and others. Respect the power of luck and risk, and you’ll have a better chance of focusing on things you can actually control.
 
-Less ego, more wealth. Saving money is the gap between your ego and your income, and wealth is what you don’t see. So, wealth is created by suppressing what you could buy today in order to have more stuff or more options in the future. No matter how much you earn, you will never build wealth unless you can put a lid on how much fun you can have with your money right now, today.
+You’ll also have a better chance of finding the right role models. Less ego, more wealth. Saving money is the gap between your ego and your income, and wealth is what you don’t see. So, wealth is created by suppressing what you could buy today in order to have more stuff or more options in the future.
 
-Add your money in a way that helps you sleep at night. That’s different from saying you should aim to earn the highest returns or save a specific percentage of your income. Some people won’t sleep well unless they’re earning the highest returns. Others will only get a good rest if they’re conservatively invested, to each their own.
+No matter how much you earn, you will never build wealth unless you can put a lid on how much fun you can have with your money right now, today. Add your money in a way that helps you sleep at night. That’s different from saying you should aim to earn the highest returns or save a specific percentage of your income. Some people won’t sleep well unless they’re earning the highest returns.
 
-But the foundation of, does this help me sleep at night, is the best universal guidepost for all financial decisions. If you want to do better as an investor, the single most powerful thing you can do is increase your time horizon. Time is the most powerful force in investing. It makes little things grow big, and big mistakes fade away.
+Others will only get a good rest if they’re conservatively invested, to each their own. But the foundation of, does this help me sleep at night, is the best universal guidepost for all financial decisions. If you want to do better as an investor, the single most powerful thing you can do is increase your time horizon. Time is the most powerful force in investing.
 
-It can neutralize luck in risk, but it pushes results closer towards what people deserve. Become okay with a lot of things going wrong. You can be wrong half the time and still make a fortune, because a small minority of things account for the majority of outcomes. No matter what you’re doing with your money, you should be comfortable with a lot of stuff not working.
+It makes little things grow big, and big mistakes fade away. It can neutralize luck in risk, but it pushes results closer towards what people deserve. Become okay with a lot of things going wrong. You can be wrong half the time and still make a fortune, because a small minority of things account for the majority of outcomes.
 
-That’s just how the world is. So you should always measure how you’ve done by looking at your full portfolio, rather than individual investments. It is fine to have a large chunk of poor investments and a few outstanding ones. That’s usually the best case scenario.
+No matter what you’re doing with your money, you should be comfortable with a lot of stuff not working. That’s just how the world is. So you should always measure how you’ve done by looking at your full portfolio, rather than individual investments. It is fine to have a large chunk of poor investments and a few outstanding ones.
 
-Judging how you’ve done by focusing on individual investments makes winners look more brilliant than they were, and losers appear more regrettable than they should. Use money to gain control over your time. Because not having control over your time is the best case scenario. of your time is such a powerful and universal drag on happiness. The ability to do what you want, when you want, with who you want, for as long as you want pays the highest dividend that exists in finance.
+That’s usually the best case scenario. Judging how you’ve done by focusing on individual investments makes winners look more brilliant than they were, and losers appear more regrettable than they should. Use money to gain control over your time. Because not having control over your time is the best case scenario. of your time is such a powerful and universal drag on happiness.
 
-Be nicer and less flashy. No one is impressed with your position as much as you are. You might think you want a fancy car or a nice watch, but what you probably want is respect and admiration, and you are more likely to gain those things through kindness and humility than horsepower and chrome. Save.
+The ability to do what you want, when you want, with who you want, for as long as you want pays the highest dividend that exists in finance. Be nicer and less flashy. No one is impressed with your position as much as you are. You might think you want a fancy car or a nice watch, but what you probably want is respect and admiration, and you are more likely to gain those things through kindness and humility than horsepower and chrome.
 
-Just save. You don’t need a specific reason to save. It’s great to save for a car or a down payment or a medical emergency, but saving for things that are impossible to predict or define is one of the best reasons to save. Everyone’s life is a continuous chain of surprises.
+Save. Just save. You don’t need a specific reason to save. It’s great to save for a car or a down payment or a medical emergency, but saving for things that are impossible to predict or define is one of the best reasons to save.
+
+Everyone’s life is a continuous chain of surprises.
 
 
 <a id="sec-020103"></a>
@@ -704,13 +734,13 @@ Smart, informed, and reasonable people can disagree in finance because people ha
 
 What do you own and why? And what stocks do you think are cheap or what economy is about to have a recession? Just show me what you do with your own money. I love this question because it highlights what can often be a mile-wide gap between what makes sense, which is what people suggest you do, and what feels right to them, which is what they actually do.
 
-Half of all U. S. mutual fund portfolio managers do not invest a cent of their own money in their funds, according to Morningstar. This might seem atrocious, and surely this statistic uncovers some hypocrisy. But this kind of stuff is more common than you think. Ken Moray, a professor of medicine at USC, wrote an essay in 2011 titled, How Doctors Die, that showed the degree to which doctors choose different end-of-life treatments for themselves than they recommend for their patients.
+Half of all U. S. mutual fund portfolio managers do not invest a cent of their own money in their funds, according to Morningstar. This might seem atrocious, and surely this statistic uncovers some hypocrisy. But this kind of stuff is more common than you think.
 
-“'Doctors don’t die like the rest of us,' he wrote. ”'What’s unusual about them is not how much treatment they get compared to most Americans, but how little. For all the time they spend fending off the deaths of others, they tend to be fairly serene when faced with death themselves. They know exactly what is going to happen, they know the choices, and they generally have access to any sort of medical care they could want, but they go gently. A doctor may throw the kitchen sink at her patient’s cancer but choose palliative care for herself.
+Ken Moray, a professor of medicine at USC, wrote an essay in 2011 titled, How Doctors Die, that showed the degree to which doctors choose different end-of-life treatments for themselves than they recommend for their patients. “'Doctors don’t die like the rest of us,' he wrote. ”'What’s unusual about them is not how much treatment they get compared to most Americans, but how little. For all the time they spend fending off the deaths of others, they tend to be fairly serene when faced with death themselves.
 
-The difference between what someone suggests you do and what they do for themselves isn’t always a bad thing. It just underscores that, when dealing with complicated and emotional issues that affect you and your family, there is no one right answer. There is no universal truth. There is only what works for you and your family, checking the boxes you want checked in a way that leaves you comfortable and sleeping well at night.
+They know exactly what is going to happen, they know the choices, and they generally have access to any sort of medical care they could want, but they go gently. A doctor may throw the kitchen sink at her patient’s cancer but choose palliative care for herself. The difference between what someone suggests you do and what they do for themselves isn’t always a bad thing. It just underscores that, when dealing with complicated and emotional issues that affect you and your family, there is no one right answer.
 
-There are basic principles that must be adhered to. This is true in finance and in medicine, but important financial decisions are not made
+There is no universal truth. There is only what works for you and your family, checking the boxes you want checked in a way that leaves you comfortable and sleeping well at night. There are basic principles that must be adhered to. This is true in finance and in medicine, but important financial decisions are not made
 
 
 <a id="sec-020608"></a>
@@ -718,111 +748,125 @@ There are basic principles that must be adhered to. This is true in finance and 
 
 in spreadsheets or in textbooks, they are made at the dinner table. They often aren’t made with the intention of maximizing returns, but minimizing the chance of disappointing a spouse or child. Those kinds of things are difficult to summarize in charts or formulas, and they vary widely from person to person. What works for one person may not work for another.
 
-You have to find what works for you. Here’s what works for me.
+You have to find what works for you. Here’s what works for me. How.
 
-How My Family Thinks About Savings Charlie Munger once said, “I did not intend to get rich, I just wanted to get independent.” We can leave aside rich, but independence has always been my personal financial goal. Chasing the highest returns or leveraging my assets to live the most luxurious life has little interest to me. Both look like games people do to impress their friends, and both have hidden risks. I mostly just want to wake up every day, knowing my family and I can do whatever we want to do on our own terms. Every financial decision we make revolves around that goal.
+My Family Thinks About Savings Charlie Munger once said, “I did not intend to get rich, I just wanted to get independent.”. We can leave aside rich, but independence has always been my personal financial goal. Chasing the highest returns or leveraging my assets to live the most luxurious life has little interest to me. Both look like games people do to impress their friends, and both have hidden risks.
 
-My parents lived their adult years in two stages, dirt poor and moderately well off. My father became a doctor when he was 40 and already had three kids. Earning a doctor’s salary did not offset the frugal mentality that is forced when supporting three hungry kids while in medical school, and my parents spent the good years living well below their means with a high savings rate. This gave them a degree of independence.
+I mostly just want to wake up every day, knowing my family and. I can do whatever we want to do on our own terms. Every financial decision we make revolves around that goal. My parents lived their adult years in two stages, dirt poor and moderately well off.
 
-My father was an emergency room doctor, one of the highest-risk professions I can imagine, and one that requires a painful toggling of circadian rhythms between night and day shifts. For two decades, he decided he’d had enough. So he stopped, just quit, moved on to the next phase of his life. That stuck with me.
+My father became a doctor when he was 40 and already had three kids. Earning a doctor’s salary did not offset the frugal mentality that is forced when supporting three hungry kids while in medical school, and my parents spent the good years living well below their means with a high savings rate. This gave them a degree of independence. My father was an emergency room doctor, one of the highest-risk professions.
+
+I can imagine, and one that requires a painful toggling of circadian rhythms between night and day shifts. For two decades, he decided he’d had enough. So he stopped, just quit, moved on to the next phase of his life. That stuck with me.
 
 Being able to wake up one morning and change what you’re doing, on your own terms, whenever you’re ready, seems like the grandmother of all financial goals. And dependence, to me, doesn’t mean you’ll stop working. It means you only do the work you like, with people you like, at the times you want, for as long as you want. And achieving some level of independence does not rely on earning a doctor’s income.
 
-It’s mostly a matter of keeping your expectations in check and living below your means. Independence at any income level is driven by your savings rate, and past a certain level of income, your savings rate is driven by your ability to keep your lifestyle expectations from running away. My wife and I met in college and moved in with each other years before we got married. After school, we both had entry-level jobs with entry-level pay and settled into a moderate lifestyle.
+It’s mostly a matter of keeping your expectations in check and living below your means. Independence at any income level is driven by your savings rate, and past a certain level of income, your savings rate is driven by your ability to keep your lifestyle expectations from running away. My wife and. I met in college and moved in with each other years before we got married.
 
-All lifestyles exist on a spectrum, and what is decent to one person can feel like royalty or poverty to another. But at our incomes, we got what we considered a decent apartment, a decent car, decent clothes, decent food. Comfortable, but nothing close to fancy. Despite more than a decade of rising incomes, myself in finance, my wife in healthcare, we’ve more or less stayed at that lifestyle ever since.
+After school, we both had entry-level jobs with entry-level pay and settled into a moderate lifestyle. All lifestyles exist on a spectrum, and what is decent to one person can feel like royalty or poverty to another. But at our incomes, we got what we considered a decent apartment, a decent car, decent clothes, decent food. Comfortable, but nothing close to fancy.
 
-That’s pushed our savings rate continuously higher. Virtually every dollar of raise has accrued to savings. Our independence fund, we now live considerably below our means, which tells you little about our income and more about our decision to maintain a lifestyle that we established in our 20s. If there’s a part of our household financial plan I’m proud of, it’s that we got the goalpost of lifestyle desires to stop moving at a young age.
+Despite more than a decade of rising incomes, myself in finance, my wife in healthcare, we’ve more or less stayed at that lifestyle ever since. That’s pushed our savings rate continuously higher. Virtually every dollar of raise has accrued to savings. Our independence fund, we now live considerably below our means, which tells you little about our income and more about our decision to maintain a lifestyle that we established in our 20s.
 
-Our savings rate is fairly high, but we rarely feel like we’re repressively frugal because our aspirations for more stuff haven’t moved much. It’s not that our aspirations are nonexistent. We like nice stuff and live comfortably. We just got the goalpost to stop moving.
+If there’s a part of our household financial plan. I’m proud of, it’s that we got the goalpost of lifestyle desires to stop moving at a young age. Our savings rate is fairly high, but we rarely feel like we’re repressively frugal because our aspirations for more stuff haven’t moved much. It’s not that our aspirations are nonexistent.
 
-This would not work for everyone, and it only works for us because we both agree to it equally.
+We like nice stuff and live comfortably. We just got the goalpost to stop moving. This would not work for everyone, and it only works for us because we both agree to it equally.
 
 
 <a id="sec-021115"></a>
 ### ⏱️ [02:11:15 - 02:16:17]
 
-Neither of us are compromising for the other. Most of what we get pleasure from, going for walks, reading, podcasts, costs little. So we rarely feel like we’re missing out. On the rare occasion when I question our savings rate, I think of the independence my parents earned from years of high savings, and I quickly come back.
+Neither of us are compromising for the other. Most of what we get pleasure from, going for walks, reading, podcasts, costs little. So we rarely feel like we’re missing out. On the rare occasion when.
 
-Independence is our top goal. A secondary benefit of maintaining a lifestyle below what you can afford is avoiding the psychological treadmill of keeping up with the Joneses. Comfortably living below what you can afford, without much desire for more, removes a tremendous amount of social pressure that many people in the modern first world subject themselves to. Nassim Taleb explained, true success is exiting some rat race to modulate one’s activities for peace of mind.
+I question our savings rate, I think of the independence my parents earned from years of high savings, and. I quickly come back. Independence is our top goal. A secondary benefit of maintaining a lifestyle below what you can afford is avoiding the psychological treadmill of keeping up with the Joneses.
 
-I like that. We’re so far committed to the independence camp that we’ve done things that make little sense on paper. We own our house without a mortgage, which is the worst financial decision we’ve ever made, but the best money decision we’ve ever made. Mortgage interest rates were absurdly low when we bought our house.
+Comfortably living below what you can afford, without much desire for more, removes a tremendous amount of social pressure that many people in the modern first world subject themselves to. Nassim Taleb explained, true success is exiting some rat race to modulate one’s activities for peace of mind. I like that. We’re so far committed to the independence camp that we’ve done things that make little sense on paper.
 
-Any rational advisor would recommend taking advantage of cheap money and investing extra savings in higher return assets like stocks. But our goal isn’t to be coldly rational, just psychologically reasonable. The independent feeling I get from owning our house outright far exceeds the known financial gain I get from leveraging our assets with a cheap mortgage. Eliminating the monthly payment feels better than maximizing the long-term value of our assets.
+We own our house without a mortgage, which is the worst financial decision we’ve ever made, but the best money decision we’ve ever made. Mortgage interest rates were absurdly low when we bought our house. Any rational advisor would recommend taking advantage of cheap money and investing extra savings in higher return assets like stocks. But our goal isn’t to be coldly rational, just psychologically reasonable.
+
+The independent feeling. I get from owning our house outright far exceeds the known financial gain. I get from leveraging our assets with a cheap mortgage. Eliminating the monthly payment feels better than maximizing the long-term value of our assets.
 
 It makes me feel independent. I don’t try to defend this decision to those pointing out its flaws or those who would never do the same. On paper, it’s defenseless. But it works for us.
 
 We like it. That’s what matters. Good decisions aren’t always rational. At some point, you have to choose between being happy or being right.
 
-We also keep a higher percentage of our assets in cash than most financial advisors would recommend, something around 20% of our assets outside the value of our house. This is also close to indefensible on paper. And I’m not recommending it to others. It’s just what works for us.
+We also keep a higher percentage of our assets in cash than most financial advisors would recommend, something around 20% of our assets outside the value of our house. This is also close to indefensible on paper. And. I’m not recommending it to others.
 
-We do it because cash is the oxygen of independence, and more importantly, we never want to be forced to sell the stocks we own. We want the probability of facing a huge expense and needing to liquidate stocks to cover it to be as close to zero as possible. Perhaps we just have a lower risk tolerance than others. But everything I’ve learned about personal finance tells me that everyone, without exception, will eventually face a huge expense they did not expect.
+It’s just what works for us. We do it because cash is the oxygen of independence, and more importantly, we never want to be forced to sell the stocks we own. We want the probability of facing a huge expense and needing to liquidate stocks to cover it to be as close to zero as possible. Perhaps, we just have a lower risk tolerance than others.
 
-And they don’t plan for these expenses specifically because they did not expect them. The few people who know the details of our finances ask, what are you saving for? A house? A boat?
+But everything. I’ve learned about personal finance tells me that everyone, without exception, will eventually face a huge expense they did not expect. And they don’t plan for these expenses specifically because they did not expect them. The few people who know the details of our finances ask, what are you saving for?
 
-A new car? No, none of those. I’m saving for a world where curve balls are more common than we expect. Not being forced to sell stocks to cover an expense also means we’re increasing the odds of letting the stocks we own compound for the longest period of time.
+A house? A boat? A new car? No, none of those.
 
-Charlie Munger put it well, the first rule of compounding is to never interrupt it unnecessarily. How My Family Thinks About Investing I started my career as a stock picker. At the time, we only owned individual stocks, mostly large companies like Berkshire Hathaway and Procter & Gamble, mixed with smaller stocks I considered deep value investments. Go back to my twenties, and at any given point, I held something like 25 individual stocks.
+I’m saving for a world where curve balls are more common than we expect. Not being forced to sell stocks to cover an expense also means we’re increasing the odds of letting the stocks we own compound for the longest period of time. Charlie Munger put it well, the first rule of compounding is to never interrupt it unnecessarily. How.
 
-I don’t know how I did as a stock picker. Did I beat the market? I’m not sure. Like most who try, I didn’t keep a good score.
+My Family Thinks About Investing. I started my career as a stock picker. At the time, we only owned individual stocks, mostly large companies like Berkshire Hathaway and Procter & Gamble, mixed with smaller stocks. I considered deep value investments.
 
-Either way, I’ve shifted my views, and now every stock we own is a low-cost index fund. I don’t have anything against actively picking stocks,
+Go back to my twenties, and at any given point, I held something like 25 individual stocks. I don’t know how. I did as a stock picker. Did.
+
+I beat the market? I’m not sure. Like most who try, I didn’t keep a good score. Either way, I’ve shifted my views, and now every stock we own is a low-cost index fund.
+
+I don’t have anything against actively picking stocks,
 
 
 <a id="sec-021617"></a>
 ### ⏱️ [02:16:17 - 02:21:25]
 
-either on your own or through giving your money to an active fund manager. I think some people can outperform the market averages. It’s just very hard, and harder than most people think. If I had to summarize my views on investing, it’s this.
+either on your own or through giving your money to an active fund manager. I think some people can outperform the market averages. It’s just very hard, and harder than most people think. If.
 
-Every investor should pick a strategy that has the highest odds of successfully meeting their goals, and I think for most investors, dollar-cost averaging into a low-cost index fund will provide the highest odds of long-term success. That doesn’t mean index investing will always work. It doesn’t mean it’s for everyone, and it doesn’t mean active stock picking is doomed to fail. In general, this industry has become too entrenched on one side or the other, particularly those vehemently against active investing.
+I had to summarize my views on investing, it’s this. Every investor should pick a strategy that has the highest odds of successfully meeting their goals, and. I think for most investors, dollar-cost averaging into a low-cost index fund will provide the highest odds of long-term success. That doesn’t mean index investing will always work.
 
-Beating the market should be hard. The odds of success should be low. If they weren’t, everyone would do it, and if everyone did it, there would be no opportunity. So, no one should be surprised that the majority of those trying to beat the market failed to do so.
+It doesn’t mean it’s for everyone, and it doesn’t mean active stock picking is doomed to fail. In general, this industry has become too entrenched on one side or the other, particularly those vehemently against active investing. Beating the market should be hard. The odds of success should be low.
 
-The statistics show 85% of large-cap active managers didn’t beat the S&P 500 over the decade ending 2019. I know people who think it’s insane to try to beat the market but encourage their kids to reach for the stars and try to become professional athletes, to each their own. Life is about playing the odds, and we all think about odds a little differently. Over the years, I came around to the view that we’ll have a high chance of meeting all of our family’s financial goals if we consistently invest money into a low-cost index fund for decades on end, leaving the money alone to compound.
+If they weren’t, everyone would do it, and if everyone did it, there would be no opportunity. So, no one should be surprised that the majority of those trying to beat the market failed to do so. The statistics show 85% of large-cap active managers didn’t beat the S&P 500 over the decade ending 2019. I know people who think it’s insane to try to beat the market but encourage their kids to reach for the stars and try to become professional athletes, to each their own.
 
-A lot of this view comes from our lifestyle of frugal spending. If you can meet all your goals, without having to take the added risk that comes from trying to outperform the market, then what’s the point of even trying? I can afford to not be the greatest investor in the world, but I can afford to be a bad one. When I think of it that way, the choice to buy the index and hold on is a no-brainer for us.
+Life is about playing the odds, and we all think about odds a little differently. Over the years, I came around to the view that we’ll have a high chance of meeting all of our family’s financial goals if we consistently invest money into a low-cost index fund for decades on end, leaving the money alone to compound. A lot of this view comes from our lifestyle of frugal spending. If you can meet all your goals, without having to take the added risk that comes from trying to outperform the market, then what’s the point of even trying?
 
-I know not everyone will agree with that logic, especially my friends whose job is to beat the market. I respect what they do, but this is what works for us. We invest money from every paycheck into these index funds, a combination of U. S. and international stocks. There’s no set goal.
+I can afford to not be the greatest investor in the world, but. I can afford to be a bad one. When. I think of it that way, the choice to buy the index and hold on is a no-brainer for us.
 
-It’s just whatever is left over after we spend. We max out our retirement accounts in the same funds and contribute to our kids 529 college savings plans. And that’s about it. Effectively, all of our net worth is a house, a checking account, and some vanguard index funds.
+I know not everyone will agree with that logic, especially my friends whose job is to beat the market. I respect what they do, but this is what works for us. We invest money from every paycheck into these index funds, a combination of U. S. and international stocks.
 
-It doesn’t need to be more complicated than that for us. I like it simple. One of my deeply held investing beliefs is that there is little correlation between investment effort and investment results. The reason is because the world is driven by tales.
+There’s no set goal. It’s just whatever is left over after we spend. We max out our retirement accounts in the same funds and contribute to our kids 529 college savings plans. And that’s about it.
 
-A few variables account for the majority of returns. No matter how hard you try at investing, you won’t do well if you miss the two or three things that move the needle in your strategy. The reverse is true. Simple investment strategies can work great as long as they capture the few things that are important to that strategy’s success.
+Effectively, all of our net worth is a house, a checking account, and some vanguard index funds. It doesn’t need to be more complicated than that for us. I like it simple. One of my deeply held investing beliefs is that there is little correlation between investment effort and investment results.
 
-My investment strategy doesn’t rely on picking the right sector or timing the next recession. It relies on a high savings rate, patience, and optimism that the global economy will create value over the next several decades. I spend virtually all of my investing effort thinking about those three things, especially the first two, which I can control. I’ve changed my investment strategy in the past, so, of course, there’s a chance I’ll change it in the future.
+The reason is because the world is driven by tales. A few variables account for the majority of returns. No matter how hard you try at investing, you won’t do well if you miss the two or three things that move the needle in your strategy. The reverse is true.
 
-No matter how we save or invest, I’m sure we’ll always have the goal of independence and will always do whatever maximizes for sleeping well at night. We think it’s the ultimate goal, the mastery of the psychology of money, but to each their own. No one is crazy. The psychology of money,
+Simple investment strategies can work great as long as they capture the few things that are important to that strategy’s success. My investment strategy doesn’t rely on picking the right sector or timing the next recession. It relies on a high savings rate, patience, and optimism that the global economy will create value over the next several decades. I spend virtually all of my investing effort thinking about those three things, especially the first two, which.
+
+I can control. I’ve changed my investment strategy in the past, so, of course, there’s a chance. I’ll change it in the future. No matter how we save or invest, I’m sure we’ll always have the goal of independence and will always do whatever maximizes for sleeping well at night.
+
+We think it’s the ultimate goal, the mastery of the psychology of money, but to each their own. No one is crazy. The psychology of money,
 
 
 <a id="sec-022125"></a>
 ### ⏱️ [02:21:25 - 02:26:29]
 
-postscript, a brief history of why the U. S. consumer thinks the way they do. To understand the psychology of the modern consumer and to grasp where they might be heading next, you have to know how they got here. How we all got here. If you fell asleep in 1945 and woke up in 2020, you would not recognize the world around you.
+postscript, a brief history of why the U. S. consumer thinks the way they do. To understand the psychology of the modern consumer and to grasp where they might be heading next, you have to know how they got here. How we all got here.
 
-The amount of economic growth that took place during that period is virtually unprecedented. If you saw the level of wealth in New York and San Francisco, you’d be shocked. If you compared it to the poverty of Detroit, you’d be shocked. If you saw the price of homes, college tuition, and health care, you’d be shocked.
+If you fell asleep in 1945 and woke up in 2020, you would not recognize the world around you. The amount of economic growth that took place during that period is virtually unprecedented. If you saw the level of wealth in New York and San Francisco, you’d be shocked. If you compared it to the poverty of Detroit, you’d be shocked.
 
-If you saw how average Americans think about savings and spending in general, you’d be shocked. And if you tried to think of a reasonable narrative of how it all happened, my guess is you’d be totally wrong, because it isn’t intuitive and it wasn’t foreseeable. What happened in America since the end of World War II is the story of the American consumer. It’s a story that helps explain why people think about money the way they do today.
+If you saw the price of homes, college tuition, and health care, you’d be shocked. If you saw how average Americans think about savings and spending in general, you’d be shocked. And if you tried to think of a reasonable narrative of how it all happened, my guess is you’d be totally wrong, because it isn’t intuitive and it wasn’t foreseeable. What happened in America since the end of World War II is the story of the American consumer.
 
-The short story is this. Things were very uncertain. Then they were very good. Then pretty bad.
+It’s a story that helps explain why people think about money the way they do today. The short story is this. Things were very uncertain. Then they were very good.
 
-Then really good. Then really bad. And now here we are. And there is, I think, a narrative that links all those events together.
+Then pretty bad. Then really good. Then really bad. And now here we are.
 
-Not a detailed account, but a story of how things fit together. Since this is an attempt to link the big events together, it leaves out many details of what happened during this period. I’m likely to agree with anyone who points out what I’ve missed. The goal here is not to describe every play.
+And there is, I think, a narrative that links all those events together. Not a detailed account, but a story of how things fit together. Since this is an attempt to link the big events together, it leaves out many details of what happened during this period. I’m likely to agree with anyone who points out what.
 
-It’s to look at how one game influenced the next. Here’s how the modern consumer got here. 1. August 1945 World War II ends Japan’s surrendering was the happiest day in American history, the New York Times wrote. But there’s the saying, history is just one damn thing after another.
+I’ve missed. The goal here is not to describe every play. It’s to look at how one game influenced the next. Here’s how the modern consumer got here. 1.
 
-The joy of the war ending was quickly met with the question, what happens now? 16 million Americans, 11% of the population, served in the war. About 8 million were overseas at the end. Their average age was 23. Within 18 months, all but 1.5 million of them would be home and out of uniform.
+August 1945 World War II ends Japan’s surrendering was the happiest day in American history, the New York Times wrote. But there’s the saying, history is just one damn thing after another. The joy of the war ending was quickly met with the question, what happens now? 16 million Americans, 11% of the population, served in the war. About 8 million were overseas at the end.
 
-And then what? What were they going to do next? Where were they going to work? Where were they going to live?
+Their average age was 23. Within 18 months, all but 1.5 million of them would be home and out of uniform. And then what? What were they going to do next?
 
-Those were the most important questions of the day, for two reasons. One, no one knew the answers. Two, if they couldn’t be answered quickly, the most likely scenario, in the eyes of many economists, was that the economy would slip back into the depths of the Great Depression. Three forces had built up during the war. 1.
+Where were they going to work? Where were they going to live? Those were the most important questions of the day, for two reasons. One, no one knew the answers.
 
-Housing construction ground to a halt, as virtually all production capacity was shifted to building war supplies. Fewer than 12,000 homes per month were built in 1943, equivalent to less than one new home per American city. Returning soldiers faced a severe housing shortage. 2. The specific jobs created during the war, building ships, tanks, and planes, were very suddenly not necessary after it.
+Two, if they couldn’t be answered quickly, the most likely scenario, in the eyes of many economists, was that the economy would slip back into the depths of the Great Depression. Three forces had built up during the war. 1. Housing construction ground to a halt, as virtually all production capacity was shifted to building war supplies. Fewer than 12,000 homes per month were built in 1943, equivalent to less than one new home per American city.
 
-Stopping with the speed and magnitude rarely seen in private business. It was unclear where soldiers could work. 3. The marriage rate spiked during and immediately after the war. Soldiers didn’t want to return to their mother’s basement.
+Returning soldiers faced a severe housing shortage. 2. The specific jobs created during the war, building ships, tanks, and planes, were very suddenly not necessary after it. Stopping with the speed and magnitude rarely seen in private business. It was unclear where soldiers could work. 3.
 
-They wanted to start a family, in their own house, with a good job right away. This worried policymakers, especially since the Great Depression was still a recent memory, having ended just five years prior. In 1946, the Council of Economic Advisors delivered a report to President Truman warning of a full-scale depression sometime in the next one to four years. They wrote in a separate 1947 memo summarizing a meeting with Truman.
+The marriage rate spiked during and immediately after the war. Soldiers didn’t want to return to their mother’s basement. They wanted to start a family, in their own house, with a good job right away. This worried policymakers, especially since the Great Depression was still a recent memory, having ended just five years prior.
+
+In 1946, the Council of Economic Advisors delivered a report to President Truman warning of a full-scale depression sometime in the next one to four years. They wrote in a separate 1947 memo summarizing a meeting with Truman.
 
 
 <a id="sec-022629"></a>
@@ -866,11 +910,11 @@ By 1950, total consumer expenditures, together with residential construction, am
 
 The defining characteristic of economics in the 1950s is that the country got rich by making the poor less poor. Average wages doubled from 1940 to 1948, then doubled again by 1963. And those gains focused on those who had been left behind for a decade before. The gap between rich and poor narrowed by an extraordinary amount.
 
-Lewis Allen wrote in 1955, The enormous lead of the well-to-do and the economic race has been considerably reduced. It is the industrial workers who, as a group, have done best, people such as a steelworker’s family, who used to live on two thousand five hundred dollars, and now are getting four thousand five hundred dollars, or the highly skilled machine tool operator’s family, who used to have three thousand dollars, and now can spend an annual five thousand five hundred dollars or more. As for the top one percent, the really well-to-do and the rich, whom we might classify very roughly indeed as a sixteen thousand dollar and overgroup, their share of the total national income after taxes had come down by 1945 from thirteen percent to seven percent.
+Lewis Allen wrote in 1955, The enormous lead of the well-to-do and the economic race has been considerably reduced. It is the industrial workers who, as a group, have done best, people such as a steelworker’s family, who used to live on two thousand five hundred dollars, and now are getting four thousand five hundred dollars, or the highly skilled machine tool operator’s family, who used to have three thousand dollars, and now can spend an annual five thousand five hundred dollars or more.
 
-This was not a short-term trend. Real income for the bottom twenty percent of wage earners grew by a nearly identical amount as a top five percent from 1950 to 1980. The equality went beyond wages. Women held jobs outside the home in record numbers.
+As for the top one percent, the really well-to-do and the rich, whom we might classify very roughly indeed as a sixteen thousand dollar and overgroup, their share of the total national income after taxes had come down by 1945 from thirteen percent to seven percent. This was not a short-term trend. Real income for the bottom twenty percent of wage earners grew by a nearly identical amount as a top five percent from 1950 to 1980. The equality went beyond wages.
 
-Their labor force participation rate went from thirty-one percent after the war to thirty-seven
+Women held jobs outside the home in record numbers. Their labor force participation rate went from thirty-one percent after the war to thirty-seven
 
 
 <a id="sec-023637"></a>
@@ -878,25 +922,25 @@ Their labor force participation rate went from thirty-one percent after the war 
 
 percent by 1955 and to forty percent by 1965. Minorities gained two.
 
-After the 1945 inauguration, Eleanor Roosevelt wrote about an African-American reporter who told her, “Do you realize what twelve years have done?” If at the 1933 reception a number of colored people had gone down the line and mixed with everyone else in the way they did today, every paper in the country would have reported it. We do not even think it is news, and none of us will mention it. Women and minority rights were still a fraction of what they are today.
+After the 1945 inauguration, Eleanor Roosevelt wrote about an African-American reporter who told her, “Do you realize what twelve years have done?”. If at the 1933 reception a number of colored people had gone down the line and mixed with everyone else in the way they did today, every paper in the country would have reported it. We do not even think it is news, and none of us will mention it. Women and minority rights were still a fraction of what they are today.
 
 But the progress toward equality in the late forties and fifties was extraordinary. The leveling out of classes meant a leveling out of styles. Normal people drove chivvies. Rich people drove Cadillacs.
 
-TV and radio equalized the entertainment and culture people enjoyed regardless of class. Male-order Cadillacs equalized the clothes people wore and the goods they bought regardless of where they lived. Harper’s Magazine noted in 1957, The rich man smokes the same sort of cigarettes as the poor man, lives with the same sort of razor, uses same sort of telephone, vacuum cleaner, radio, and TV set, has the same sort of lighten and heating equipment in his house, and so on indefinitely. The differences between his automobile and the poor man’s are minor.
+TV and radio equalized the entertainment and culture people enjoyed regardless of class. Male-order Cadillacs equalized the clothes people wore and the goods they bought regardless of where they lived. Harper’s Magazine noted in 1957, The rich man smokes the same sort of cigarettes as the poor man, lives with the same sort of razor, uses same sort of telephone, vacuum cleaner, radio, and TV set, has the same sort of lighten and heating equipment in his house, and so on indefinitely.
 
-Essentially they have similar engines, similar fittings. In the early years of the century, there was a hierarchy of automobiles. Paul Graham wrote in 2016 about what something as simple as their only being three TV stations did to equalize culture. It’s difficult to imagine now, but every night tens of millions of families would sit down together in front of their TV set watching the same show at the same time as their next door neighbors.
+The differences between his automobile and the poor man’s are minor. Essentially they have similar engines, similar fittings. In the early years of the century, there was a hierarchy of automobiles. Paul Graham wrote in 2016 about what something as simple as their only being three TV stations did to equalize culture.
 
-What happens now with the super bowel used to happen every night. We were literally in sync. This was important. People measured their well-being against their peers, and for most of the 1945 to 1980 period, people had a lot of what looked like peers to compare themselves to.
+It’s difficult to imagine now, but every night tens of millions of families would sit down together in front of their TV set watching the same show at the same time as their next door neighbors. What happens now with the super bowel used to happen every night. We were literally in sync. This was important.
 
-Many people, most people, lived lives that were either equal or at least fathomable to those around them. The idea that people’s lives equalized as much as their incomes is an important point of the story we’ll come back to. Number five, debt rose tremendously, but so did incomes. So the impact wasn’t a big deal.
+People measured their well-being against their peers, and for most of the 1945 to 1980 period, people had a lot of what looked like peers to compare themselves to. Many people, most people, lived lives that were either equal or at least fathomable to those around them. The idea that people’s lives equalized as much as their incomes is an important point of the story we’ll come back to. Number five, debt rose tremendously, but so did incomes.
 
-Household debt increased fivefold from 1947 to 1957 due to the combination of the new consumption culture, new debt products, and interest rates subsidized by government programs and held low by the Federal Reserve. But income growth was so strong during this period that the impact on households wasn’t severe. And household debt was so low to begin with after the war. The Great Depression wiped out a lot of it, and household spending was so curtailed during the war that debt accumulation was restricted.
+So the impact wasn’t a big deal. Household debt increased fivefold from 1947 to 1957 due to the combination of the new consumption culture, new debt products, and interest rates subsidized by government programs and held low by the Federal Reserve. But income growth was so strong during this period that the impact on households wasn’t severe. And household debt was so low to begin with after the war.
 
-So the growth in household debt to income from 1947 to 1957 was manageable. Household debt to income today is just over 100%. Even after rising in the 1950s, 1960s, and 1970s, it stayed below 60%. Driving a lot of this debt boom was a surge in homeownership.
+The Great Depression wiped out a lot of it, and household spending was so curtailed during the war that debt accumulation was restricted. So the growth in household debt to income from 1947 to 1957 was manageable. Household debt to income today is just over 100%. Even after rising in the 1950s, 1960s, and 1970s, it stayed below 60%.
 
-The homeownership rate in 1900 was 47%. It stayed right about there for the next four decades. Then it took off, hitting 53% by 1945 and 62% by 1970. A substantial portion of the population was now using debt that previous generations would not, could not, have accessed.
+Driving a lot of this debt boom was a surge in homeownership. The homeownership rate in 1900 was 47%. It stayed right about there for the next four decades. Then it took off, hitting 53% by 1945 and 62% by 1970.
 
-And they were mostly okay with it. David Halberstam writes in his book The Fifties,
+A substantial portion of the population was now using debt that previous generations would not, could not, have accessed. And they were mostly okay with it. David Halberstam writes in his book The Fifties,
 
 
 <a id="sec-024137"></a>
@@ -972,15 +1016,15 @@ where your neighbors next door and a few miles down the road live a life that’
 
 They want it back. The details of their shouting are different. But they’re all shouting, at least in part, because stuff isn’t working for them within the context of the post-war expectation that stuff should work roughly the same for roughly everyone. You can scoff at linking the rise of Trump to income inequality alone, and you should.
 
-These things are always layers of complexity deep, but it’s a key part of what drives people to think, I don’t live in the world I expected. That pisses me off. So, screw this, and screw you. I’m going to fight for something totally different, because this, whatever it is, isn’t working.
+These things are always layers of complexity deep, but it’s a key part of what drives people to think, I don’t live in the world. I expected. That pisses me off. So, screw this, and screw you.
 
-Take that mentality and raise it to the power of Facebook, Instagram, and cable news, where people are more keenly aware of how other people lived than ever before. It’s gasoline on a flame. Benedict even says, That’s a big shift from the post-war economy, where the range of economic opinions were smaller, both because the actual range of outcomes was lower and because it wasn’t as easy to see and learn what other people thought and how they lived. I’m not pessimistic.
+I’m going to fight for something totally different, because this, whatever it is, isn’t working. Take that mentality and raise it to the power of Facebook, Instagram, and cable news, where people are more keenly aware of how other people lived than ever before. It’s gasoline on a flame. Benedict even says, That’s a big shift from the post-war economy, where the range of economic opinions were smaller, both because the actual range of outcomes was lower and because it wasn’t as easy to see and learn what other people thought and how they lived.
 
-Economics is a story of cycles. Things come, things go. The unemployment rate is now the lowest it’s been in decades. Wages are now actually growing faster for lower-income workers than the rich.
+I’m not pessimistic. Economics is a story of cycles. Things come, things go. The unemployment rate is now the lowest it’s been in decades.
 
-College costs, by and large, stopped growing once grants are factored in. If everyone studied advances in healthcare, communication, transportation, and civil rights since the glorious 1950s, my guess is most wouldn’t want to go back. But a central theme of the story is that expectations move slower than reality on the ground. That was true when people clung to 1950s expectations as the economy changed over the next thirty-five years.
+Wages are now actually growing faster for lower-income workers than the rich. College costs, by and large, stopped growing once grants are factored in. If everyone studied advances in healthcare, communication, transportation, and civil rights since the glorious 1950s, my guess is most wouldn’t want to go back. But a central theme of the story is that expectations move slower than reality on the ground.
 
-And even if a middle-class boom began today, expectations that the… are stacked against everyone, but those at the top may stick around. So the era of, this isn’t working, may stick around. And the era of, we need something radically new, right now, whatever it is, may stick around. Which, in any way, is part of what starts events that led to things like World War II, where this story began.
+That was true when people clung to 1950s expectations as the economy changed over the next thirty-five years. And even if a middle-class boom began today, expectations that the… are stacked against everyone, but those at the top may stick around. So the era of, this isn’t working, may stick around. And the era of, we need something radically new, right now, whatever it is, may stick around.
 
-History is just one damn thing after another.
+Which, in any way, is part of what starts events that led to things like World War II, where this story began. History is just one damn thing after another.
 

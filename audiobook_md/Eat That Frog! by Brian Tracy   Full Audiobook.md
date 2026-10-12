@@ -44,27 +44,33 @@
 <a id="sec-000000"></a>
 ### ⏱️ [00:00:00 - 00:05:04]
 
-Hello, I’m Brian Tracy and welcome to Eat That Frog, the most popular time management book in history, in 42 languages. This is the preface, so let’s begin. Thank you for picking up this book. I hope these ideas help you as much as they have helped me and thousands of others.
+Hello, I’m Brian Tracy and welcome to Eat. That Frog, the most popular time management book in history, in 42 languages. This is the preface, so let’s begin. Thank you for picking up this book.
 
-In fact, I hope this book changes your life forever. There’s never enough time to do everything you have to do. You are literally swamped with work and personal responsibilities, endless emails, social media, projects, stacks of magazines to read, and piles of books you intend to get to one of these days as soon as you get caught up. But the fact is that you are never going to get caught up.
+I hope these ideas help you as much as they have helped me and thousands of others. In fact, I hope this book changes your life forever. There’s never enough time to do everything you have to do. You are literally swamped with work and personal responsibilities, endless emails, social media, projects, stacks of magazines to read, and piles of books you intend to get to one of these days as soon as you get caught up.
 
-You will never get on top of your tasks. You will never get far enough ahead to be able to get to all those emails, books, magazines, and leisure time activities that you dream of. And forget about solving your time management problems by becoming more productive. No matter how many personal productivity techniques you master, there will always be more to do than you can ever accomplish in the time that you have available to you, no matter how much it is.
+But the fact is that you are never going to get caught up. You will never get on top of your tasks. You will never get far enough ahead to be able to get to all those emails, books, magazines, and leisure time activities that you dream of. And forget about solving your time management problems by becoming more productive.
 
-You can get control of your time and your life only by changing the way you think, work, and deal with the never-ending river of responsibilities that flows over you each day. You can get control of your tasks and activities only to the degree that you stop doing some things and start spending more time on the few activities that can really make a difference in your life. I have studied time management for more than forty years. I have immersed myself in the works of Peter Drucker, Alec McKenzie, Alan Lakin, Stephen Covey, and many, many others.
+No matter how many personal productivity techniques you master, there will always be more to do than you can ever accomplish in the time that you have available to you, no matter how much it is. You can get control of your time and your life only by changing the way you think, work, and deal with the never-ending river of responsibilities that flows over you each day. You can get control of your tasks and activities only to the degree that you stop doing some things and start spending more time on the few activities that can really make a difference in your life.
 
-I have read hundreds of books and thousands of articles on personal efficiency and effectiveness. This book is the result. Each time I came across a good idea, I tried it out in my own work and personal life. If it worked, I incorporated it into my talks and my seminars and taught it to others.
+I have studied time management for more than forty years. I have immersed myself in the works of Peter Drucker, Alec McKenzie, Alan Lakin, Stephen Covey, and many, many others. I have read hundreds of books and thousands of articles on personal efficiency and effectiveness. This book is the result.
 
-Galileo once wrote, You cannot teach a man anything, you can only help him find it within himself. Depending upon your level of knowledge and experiences, these ideas may sound familiar. This book will bring them to a higher level of awareness. When you learn and apply these methods and techniques over and over until they become habits, you will alter the course of your life in a very positive way.
+Each time. I came across a good idea, I tried it out in my own work and personal life. If it worked, I incorporated it into my talks and my seminars and taught it to others. Galileo once wrote, You cannot teach a man anything, you can only help him find it within himself.
 
-Learning from Successful People Let me tell you something about myself and the origins of this little book. I started off in life with few advantages, aside from a curious mind. I did poorly in school and left without graduating. I worked at laboring jobs for several years.
+Depending upon your level of knowledge and experiences, these ideas may sound familiar. This book will bring them to a higher level of awareness. When you learn and apply these methods and techniques over and over until they become habits, you will alter the course of your life in a very positive way. Learning from Successful People Let me tell you something about myself and the origins of this little book.
 
-My future did not appear promising. As a young man, I got a job on a tramp freighter and went off to see the world. For eight years I traveled and worked and then traveled some more, eventually visiting more than eighty countries on five continents. When I could no longer find a laboring job, I got into sales, knocking on doors, working on straight commission.
+I started off in life with few advantages, aside from a curious mind. I did poorly in school and left without graduating. I worked at laboring jobs for several years. My future did not appear promising.
 
-I struggled from sale to sale until I began looking around me and asking, Why is it that other people are doing better than I am? Then I did something that changed my life. I began to ask successful people what they were doing that enabled them to be more productive and earn more money than me. And they told me.
+As a young man, I got a job on a tramp freighter and went off to see the world. For eight years. I traveled and worked and then traveled some more, eventually visiting more than eighty countries on five continents. When.
 
-And I did what they advised me to do, and my sales went up. Eventually I became so successful that I was made a sales manager. As a sales manager, I used the same strategy. I asked successful managers what they did to achieve such great results.
+I could no longer find a laboring job, I got into sales, knocking on doors, working on straight commission. I struggled from sale to sale until. I began looking around me and asking, Why is it that other people are doing better than. I am?
 
-And when they told me, I did it myself. In no time at all, I began to get the same results they did. This process of learning and applying what I had learned changed my life. I am still amazed at how simple and obvious it is.
+Then. I did something that changed my life. I began to ask successful people what they were doing that enabled them to be more productive and earn more money than me. And they told me.
+
+And. I did what they advised me to do, and my sales went up. Eventually. I became so successful that.
+
+I was made a sales manager. As a sales manager, I used the same strategy. I asked successful managers what they did to achieve such great results. And when they told me, I did it myself.
+
+In no time at all, I began to get the same results they did. This process of learning and applying what. I had learned changed my life. I am still amazed at how simple and obvious it is.
 
 Just find out what other successful people do and do the same things until you get the same results. Learn from the experts. Wow, what an idea. Success is predictable.
 
@@ -74,31 +80,33 @@ Simply put, some people are doing better than others because they do things diff
 <a id="sec-000504"></a>
 ### ⏱️ [00:05:04 - 00:10:07]
 
-actually were better than me. What I learned was that this is not necessarily true. They were just doing things differently and what they had learned to do within reason I could learn as well. This was a revelation to me.
+actually were better than me. What. I learned was that this is not necessarily true. They were just doing things differently and what they had learned to do within reason.
 
-I was both amazed and excited with this discovery. I still am. I realized that I could change my life and achieve almost any goal I could set if I just found out what others were doing in that area and then did it myself until I got the same results they were getting. Within one year of starting in sales, I was a top salesman.
+I could learn as well. This was a revelation to me. I was both amazed and excited with this discovery. I still am.
 
-A year later, I was made a manager. Within three years, I became a vice president in charge of a 95-person sales force in six countries. I was 25 years old. Over the years, I’ve worked in 22 different jobs, started and built several companies, earned a business degree from a major university, learned to speak French, German, and Spanish, and been a speaker, trainer, or consultant for more than a thousand companies.
+I realized that. I could change my life and achieve almost any goal. I could set if. I just found out what others were doing in that area and then did it myself until.
 
-I currently give talks and seminars to more than 250,000 people each year with audiences as large as 20,000 people. A simple truth. Throughout my career, I have discovered and rediscovered a simple truth. The ability to concentrate single-mindedly on your most important task, to do it well, and to finish it completely, is the key to great success, achievement, respect, status, and happiness in life.
+I got the same results they were getting. Within one year of starting in sales, I was a top salesman. A year later, I was made a manager. Within three years, I became a vice president in charge of a 95-person sales force in six countries.
 
-This key insight is the heart and soul of this book. This book is written to show you how to get ahead more rapidly in your career and to simultaneously enrich your personal life. These pages contain the 21 most powerful principles on personal effectiveness I have ever discovered. These methods, techniques, and strategies are practical, proven, and fast acting.
+I was 25 years old. Over the years, I’ve worked in 22 different jobs, started and built several companies, earned a business degree from a major university, learned to speak French, German, and Spanish, and been a speaker, trainer, or consultant for more than a thousand companies. I currently give talks and seminars to more than 250,000 people each year with audiences as large as 20,000 people. A simple truth.
 
-In the interest of time, I do not dwell on the various psychological or emotional explanations for procrastination or poor time management. There are no lengthy departures into theory or research. What you will learn are specific actions you can take immediately to get better, faster results in your work and to increase your happiness. Every idea in this book is focused on increasing your overall levels of productivity, performance, and output, and on making you more valuable in whatever you do.
+Throughout my career, I have discovered and rediscovered a simple truth. The ability to concentrate single-mindedly on your most important task, to do it well, and to finish it completely, is the key to great success, achievement, respect, status, and happiness in life. This key insight is the heart and soul of this book. This book is written to show you how to get ahead more rapidly in your career and to simultaneously enrich your personal life.
 
-You can apply many of these ideas to your personal life as well. Each of these 21 methods and techniques is complete in itself. All are necessary. One strategy might be effective in one situation, and another might apply to another task.
+These pages contain the 21 most powerful principles on personal effectiveness. I have ever discovered. These methods, techniques, and strategies are practical, proven, and fast acting. In the interest of time, I do not dwell on the various psychological or emotional explanations for procrastination or poor time management.
 
-Altogether, these 21 ideas represent a smorgasbord of personal effectiveness techniques that you can use at any time in any order or sequence that makes sense to you at that moment. The key to success is action. These principles work about to bring about fast, predictable improvements in performance and results. The faster you learn and apply them, the faster you will move ahead in your career, guaranteed.
+There are no lengthy departures into theory or research. What you will learn are specific actions you can take immediately to get better, faster results in your work and to increase your happiness. Every idea in this book is focused on increasing your overall levels of productivity, performance, and output, and on making you more valuable in whatever you do. You can apply many of these ideas to your personal life as well.
 
-There will be no limit to what you can accomplish when you learn how to eat that frog. Introduction. Eat that frog. This is a wonderful time to be alive.
+Each of these 21 methods and techniques is complete in itself. All are necessary. One strategy might be effective in one situation, and another might apply to another task. Altogether, these 21 ideas represent a smorgasbord of personal effectiveness techniques that you can use at any time in any order or sequence that makes sense to you at that moment.
 
-There have never been more possibilities and opportunities for you to achieve more of your goals than exist today. As perhaps never before in human history, you are actually drowning in options.
+The key to success is action. These principles work about to bring about fast, predictable improvements in performance and results. The faster you learn and apply them, the faster you will move ahead in your career, guaranteed. There will be no limit to what you can accomplish when you learn how to eat that frog.
 
-In fact, there are so many good things that you can do that your ability to decide among them may be the critical determinant of what you accomplish in life. If you’re like most people today, you are overwhelmed with too much to do and too little time. As you struggle to get caught up, new tasks and responsibilities just keep rolling in like the waves of the ocean. Because of this, you will never be able to do everything you have to do.
+Introduction. Eat that frog. This is a wonderful time to be alive. There have never been more possibilities and opportunities for you to achieve more of your goals than exist today.
 
-You will never be caught up. You will always be behind in some of your tasks and responsibilities and probably in many of them. The need to be selective. For this reason and perhaps more than ever before, your ability to select your most important task at each moment and then to get started on that task and to get it done both quickly and well will probably have more of an impact on your success than any other quality or skill that you can develop.
+As perhaps never before in human history, you are actually drowning in options. In fact, there are so many good things that you can do that your ability to decide among them may be the critical determinant of what you accomplish in life. If you’re like most people today, you are overwhelmed with too much to do and too little time. As you struggle to get caught up, new tasks and responsibilities just keep rolling in like the waves of the ocean.
 
-An average person who develops the habit of setting clear priorities and getting important tasks completed quickly will run circles around a genius who talks a lot and makes wonderful plans but who gets very little done.
+Because of this, you will never be able to do everything you have to do. You will never be caught up. You will always be behind in some of your tasks and responsibilities and probably in many of them. The need to be selective.
+
+For this reason and perhaps more than ever before, your ability to select your most important task at each moment and then to get started on that task and to get it done both quickly and well will probably have more of an impact on your success than any other quality or skill that you can develop. An average person who develops the habit of setting clear priorities and getting important tasks completed quickly will run circles around a genius who talks a lot and makes wonderful plans but who gets very little done.
 
 
 <a id="sec-001007"></a>
@@ -186,9 +194,9 @@ Goals are the fuel in the furnace of achievement. The bigger your goals and the 
 
 Every morning when you begin, take action on the most important task you can accomplish to achieve your most important goal at the moment. Now, here are some exercises for you. Number one, take a clean sheet of paper right now and make a list of 10 goals you want to accomplish in the next year. Write your goals as though a year has already passed and they are now a reality.
 
-Using the present tense positive voice and first person singular so that they are immediately accepted by your subconscious mind. For example, you could write, I earn x number of dollars per year by this date, or I weigh x number of pounds by this date, or I drive such and such a car by this date. Number two, review your list of 10 goals and select the one goal that if you achieved it would have the greatest positive impact on your life. Whatever that goal is, write it on a separate sheet of paper, set a deadline, make a plan, take action on your plan, and then do something every single day that moves you toward that goal.
+Using the present tense positive voice and first person singular so that they are immediately accepted by your subconscious mind. For example, you could write, I earn x number of dollars per year by this date, or. I weigh x number of pounds by this date, or. I drive such and such a car by this date.
 
-This exercise alone could change your
+Number two, review your list of 10 goals and select the one goal that if you achieved it would have the greatest positive impact on your life. Whatever that goal is, write it on a separate sheet of paper, set a deadline, make a plan, take action on your plan, and then do something every single day that moves you toward that goal. This exercise alone could change your
 
 
 <a id="sec-002519"></a>
@@ -198,17 +206,19 @@ life. Chapter two, plan every day in advance. Alvin Lakin, the time management e
 
 And the answer is, of course, one bite at a time. How do you eat your biggest ugliest frog? The same way. You break it down into specific step-by-step activities and then you start on the first one.
 
-Your mind, your ability to think, plan, and decide is your most powerful tool for overcoming procrastination and increasing your productivity. Your ability to set goals, make plans, and take action on them determines the course of your life. The very act of thinking and planning unlocks your mental powers, triggers your creativity, and increases your mental and physical energies. Conversely, as Alec McKenzie wrote, taking action without thinking things through is a prime source of problems. Your ability to make good plans before you act is a measure of your overall competence.
+Your mind, your ability to think, plan, and decide is your most powerful tool for overcoming procrastination and increasing your productivity. Your ability to set goals, make plans, and take action on them determines the course of your life. The very act of thinking and planning unlocks your mental powers, triggers your creativity, and increases your mental and physical energies. Conversely, as Alec McKenzie wrote, taking action without thinking things through is a prime source of problems.
 
-The better the plan you have, the easier it is for you to overcome procrastination, to get started, to eat your frog, and then to keep going. Increase Your Return on Energy One of your top goals at work should be to get the highest possible return on your investment of your mental, emotional, and physical energy. The good news is that every minute spent in planning saves as many as 10 minutes in execution. It takes only about 10 to 12 minutes for you to plan your day, but this small investment of time will save you up to two hours, 100 to 120 minutes, in wasted time and diffused effort throughout the day.
+Your ability to make good plans before you act is a measure of your overall competence. The better the plan you have, the easier it is for you to overcome procrastination, to get started, to eat your frog, and then to keep going. Increase. Your Return on Energy One of your top goals at work should be to get the highest possible return on your investment of your mental, emotional, and physical energy.
 
-You may have heard of the 6-P formula. It says, proper prior planning prevents poor performance. When you consider how helpful planning can be in increasing your productivity and performance, it’s amazing how few people practice it every single day, and planning is really quite simple to do. All you need is a piece of paper and a pen.
+The good news is that every minute spent in planning saves as many as 10 minutes in execution. It takes only about 10 to 12 minutes for you to plan your day, but this small investment of time will save you up to two hours, 100 to 120 minutes, in wasted time and diffused effort throughout the day. You may have heard of the 6-P formula. It says, proper prior planning prevents poor performance.
 
-The most sophisticated outlook system, computer app, or time planner is based on the same principle. It’s based on your sitting down and making a list of everything you have to do before you begin. Two extra hours per day Always work from a list. When something new comes up, add it to the list before you do it.
+When you consider how helpful planning can be in increasing your productivity and performance, it’s amazing how few people practice it every single day, and planning is really quite simple to do. All you need is a piece of paper and a pen. The most sophisticated outlook system, computer app, or time planner is based on the same principle. It’s based on your sitting down and making a list of everything you have to do before you begin.
 
-You can increase your productivity and output by 25% or more, about two hours a day, from the first day that you begin to work consistently from a list. Make your list the night before for the work day ahead. Move everything that you have not yet accomplished onto your work list for the coming day, and then add everything that you have to do the next day. When you make your list the night before, your subconscious mind will work on your list all night long while you sleep.
+Two extra hours per day Always work from a list. When something new comes up, add it to the list before you do it. You can increase your productivity and output by 25% or more, about two hours a day, from the first day that you begin to work consistently from a list. Make your list the night before for the work day ahead.
 
-Often you will wake up with great ideas and insights that you can use to get your job done faster and better than you had initially thought. The more time you take to make written lists of everything you have to do, in advance, the more effective and efficient you will be. Different lists for different purposes. You need different lists for different purposes.
+Move everything that you have not yet accomplished onto your work list for the coming day, and then add everything that you have to do the next day. When you make your list the night before, your subconscious mind will work on your list all night long while you sleep. Often you will wake up with great ideas and insights that you can use to get your job done faster and better than you had initially thought. The more time you take to make written lists of everything you have to do, in advance, the more effective and efficient you will be.
+
+Different lists for different purposes. You need different lists for different purposes.
 
 First, you should create a master list on which you write down everything that you want to do sometime in the future. This is the place where you capture every idea and every new task or responsibility that comes up. You can sort out the items later.
 
@@ -224,25 +234,27 @@ It generates a feeling of success and forward motion. Seeing yourself working pr
 <a id="sec-003019"></a>
 ### ⏱️ [00:30:19 - 00:35:20]
 
-It raises your self-esteem and self-respect. Steady, visible progress propels you forward and helps you overcome procrastination. Planning a Project When you have a project of any kind, begin by making a list of every step that you will have to complete to finish the project from beginning to end. Organize the steps by priority, what is most important, and sequence which tasks you must complete in order.
+It raises your self-esteem and self-respect. Steady, visible progress propels you forward and helps you overcome procrastination. Planning a Project. When you have a project of any kind, begin by making a list of every step that you will have to complete to finish the project from beginning to end.
 
-Lay out the project in front of you on paper or on a computer-based project planner so that you can see every step and task. Then go to work on one task at a time. You will be amazed at how much you get done in this way. As you work through your list, you will feel more and more effective and powerful.
+Organize the steps by priority, what is most important, and sequence which tasks you must complete in order. Lay out the project in front of you on paper or on a computer-based project planner so that you can see every step and task. Then go to work on one task at a time. You will be amazed at how much you get done in this way.
 
-You will feel more in control of your life. You will be naturally motivated to do even more. You will think better and more creatively, and you will get more and better insights that enable you to do your work even faster. As you work steadily through your lists, you will develop a sense of positive, forward momentum that enables you to overcome procrastination.
+As you work through your list, you will feel more and more effective and powerful. You will feel more in control of your life. You will be naturally motivated to do even more. You will think better and more creatively, and you will get more and better insights that enable you to do your work even faster.
 
-This feeling of progress gives you more energy and keeps you going throughout the day. One of the most important rules of personal effectiveness is the 10-90 rule. This rule says that the first 10% of time that you spend planning and organizing your work before you begin will save you as much as 90% of the time in getting the job done once you get started. You only have to try this rule once to prove it to yourself.
+As you work steadily through your lists, you will develop a sense of positive, forward momentum that enables you to overcome procrastination. This feeling of progress gives you more energy and keeps you going throughout the day. One of the most important rules of personal effectiveness is the 10-90 rule. This rule says that the first 10% of time that you spend planning and organizing your work before you begin will save you as much as 90% of the time in getting the job done once you get started.
 
-When you plan each day in advance, you will find it much easier to get going and to keep going. The work will go faster and smoother than ever before. You will feel more powerful and competent. You will get more done faster than you thought possible.
+You only have to try this rule once to prove it to yourself. When you plan each day in advance, you will find it much easier to get going and to keep going. The work will go faster and smoother than ever before. You will feel more powerful and competent.
 
-Eventually, you will become unstoppable. So here’s two exercises for you. Number one, begin today to plan every day, week, and month in advance. Take a notepad or sheet of paper or use your smartphone and make a list of everything you have to do in the next 24 hours.
+You will get more done faster than you thought possible. Eventually, you will become unstoppable. So here’s two exercises for you. Number one, begin today to plan every day, week, and month in advance.
 
-Add to your list as new items come up. Make a list of all your projects, the big multi-task jobs that are important to your future. Two, lay out all your major goals, projects, and tasks by priority, what is most important and by sequence, what has to be done first, what comes second, and so forth. Start with the end in mind and work backwards.
+Take a notepad or sheet of paper or use your smartphone and make a list of everything you have to do in the next 24 hours. Add to your list as new items come up. Make a list of all your projects, the big multi-task jobs that are important to your future. Two, lay out all your major goals, projects, and tasks by priority, what is most important and by sequence, what has to be done first, what comes second, and so forth.
 
-Think on paper. Always work from a list. You will be amazed at how much more productive you become and how much easier it is to eat your frog. Number three, apply the 80-20 rule to everything.
+Start with the end in mind and work backwards. Think on paper. Always work from a list. You will be amazed at how much more productive you become and how much easier it is to eat your frog.
 
-Johann Wolfgang von Goethe, one of the greatest thinkers in history, wrote, we always have time enough if we will but use it aright. The 80-20 rule is one of the most helpful of all concepts of time and life management. It’s also called the Pareto principle after the Italian economist Vofredo Pareto, who first wrote about it in 1895. Pareto noticed that people in his society seemed to divide naturally into what he called the vital few, the top 20% in terms of money and influence, and the trivial many, the bottom 80%.
+Number three, apply the 80-20 rule to everything. Johann Wolfgang von Goethe, one of the greatest thinkers in history, wrote, we always have time enough if we will but use it aright. The 80-20 rule is one of the most helpful of all concepts of time and life management. It’s also called the Pareto principle after the Italian economist Vofredo Pareto, who first wrote about it in 1895.
 
-He later discovered that virtually all economic activity was subject to this principle as well. For example, this principle says that 20% of your activities will account for 80% of your results, 20% of your customers will account for 80% of your sales, 20% of your products or services will account for 80% of your profits, 20% of your tasks will account for 80% of the value of what you do and so on. This means that if you have a list of 10 items to do, two of those items will turn out to be worth much more than the other 8 items put together.
+Pareto noticed that people in his society seemed to divide naturally into what he called the vital few, the top 20% in terms of money and influence, and the trivial many, the bottom 80%. He later discovered that virtually all economic activity was subject to this principle as well.
+
+For example, this principle says that 20% of your activities will account for 80% of your results, 20% of your customers will account for 80% of your sales, 20% of your products or services will account for 80% of your profits, 20% of your tasks will account for 80% of the value of what you do and so on. This means that if you have a list of 10 items to do, two of those items will turn out to be worth much more than the other 8 items put together.
 
 Number of tasks versus importance of tasks. Here’s an interesting discovery. Each of the 10 tasks may take the same amount of time to accomplish, but one or two of those tasks will contribute 5 or 10 times the value of any of the others. Often, a single task can be worth more than all the other 9 items put together.
 
@@ -274,9 +286,9 @@ Now, here are two tasks for you. Number one, make a list of all the key goals, a
 
 Chapter four, consider the consequences. Every great man has become great. Every successful man has succeeded in proportion as he has confined his powers to one particular channel. Those were wise words by Orison Sweatt Marden.
 
-The mark of the superior thinker is his or her ability to accurately predict the consequences of doing or not doing something. The potential consequences of any task or activity are the key determinants of how important a task really is to you and your company. This way of evaluating the significance of a task is how you determine what your next frog really is. Dr. Edward Banfield of Harvard University, after more than 50 years of research, concluded that a long-time perspective is the most accurate single predictor of upward social and economic mobility in America.
+The mark of the superior thinker is his or her ability to accurately predict the consequences of doing or not doing something. The potential consequences of any task or activity are the key determinants of how important a task really is to you and your company. This way of evaluating the significance of a task is how you determine what your next frog really is. Dr.
 
-A long-time perspective turns out to be more important than family background, education, race, intelligence, connections, or virtually any other single factor in determining your
+Edward Banfield of Harvard University, after more than 50 years of research, concluded that a long-time perspective is the most accurate single predictor of upward social and economic mobility in America. A long-time perspective turns out to be more important than family background, education, race, intelligence, connections, or virtually any other single factor in determining your
 
 
 <a id="sec-004022"></a>
@@ -310,29 +322,31 @@ When you’re running out of time and know the consequences of not completing a 
 
 Rule. There will never be enough time to do everything you have to do. The average person in business today, especially a manager in the age of cutbacks, is working at 110% to 130% of capacity, and the jobs and responsibilities just keep piling up. We all have stacks of reading materials we still have to go through.
 
-Many people have hundreds of hours of reading and projects backlogged at home and at the office. What this means is that, as I’ve said over and over, that you’ll never be caught up. Get that wishful idea out of your mind. All you can hope for is to be on top of your most important responsibilities.
+Many people have hundreds of hours of reading and projects backlogged at home and at the office. What this means is that, as. I’ve said over and over, that you’ll never be caught up. Get that wishful idea out of your mind.
 
-The others will just have to wait. Deadlines are an excuse. Many people say that they work better under the pressure of deadlines. Unfortunately, years of research indicate that this is seldom true.
+All you can hope for is to be on top of your most important responsibilities. The others will just have to wait. Deadlines are an excuse. Many people say that they work better under the pressure of deadlines.
 
-Under the pressure of deadlines, often self-created through procrastination, people suffer greater stress, make more mistakes, and have to redo more tasks than under any other conditions. Often, the mistakes that people make when working under tight deadlines lead to defects and cost overruns that cause substantial financial losses in the long term. Sometimes a job actually takes much longer to complete when people rush to get it done at the last minute and then have to redo it. It’s much better to plan your time carefully in advance and then build in a sizable buffer to compensate for unexpected delays and diversions.
+Unfortunately, years of research indicate that this is seldom true. Under the pressure of deadlines, often self-created through procrastination, people suffer greater stress, make more mistakes, and have to redo more tasks than under any other conditions. Often, the mistakes that people make when working under tight deadlines lead to defects and cost overruns that cause substantial financial losses in the long term. Sometimes a job actually takes much longer to complete when people rush to get it done at the last minute and then have to redo it.
 
-However much time you think a task will take, add on another 20% or more as insurance. Or make a game of getting the job done well in advance of the deadline. You’ll be amazed at how much more relaxed you are and how much better a job you do when you’re on top of your most important tasks. Three questions for maximum productivity.
+It’s much better to plan your time carefully in advance and then build in a sizable buffer to compensate for unexpected delays and diversions. However, much time you think a task will take, add on another 20% or more as insurance. Or make a game of getting the job done well in advance of the deadline. You’ll be amazed at how much more relaxed you are and how much better a job you do when you’re on top of your most important tasks.
 
-You can use three questions on a regular basis to keep yourself focused on completing your most important tasks on schedule. The first question is, what are my highest value activities? Put another way, what are the biggest frogs that you have to eat to make the greatest contribution to your organization, to your family, to your life in general? This is one of the most important questions you can ever ask and answer.
+Three questions for maximum productivity. You can use three questions on a regular basis to keep yourself focused on completing your most important tasks on schedule. The first question is, what are my highest value activities? Put another way, what are the biggest frogs that you have to eat to make the greatest contribution to your organization, to your family, to your life in general?
 
-What are your highest value activities? First think this through for yourself, then ask your boss, ask your co-workers and subordinates, ask your friends and family. Like focusing the lens of a camera, you must be crystal clear about your highest value activities before you begin work. The second question you can ask continually is, what can I and only I do that have done well will make a real difference?
+This is one of the most important questions you can ever ask and answer. What are your highest value activities?
 
-This question came from the late Peter Drucker, the management guru. It’s one of the most important of all questions for achieving personal effectiveness. What can you and only you do that have done well can make a real difference? This is something that only you can do.
+First, think this through for yourself, then ask your boss, ask your co-workers and subordinates, ask your friends and family. Like focusing the lens of a camera, you must be crystal clear about your highest value activities before you begin work. The second question you can ask continually is, what can. I and only.
 
-If you don’t do it, it won’t be done by someone else. But if you do do it, and you do it well, it can make a real difference to your life and your career. What is this particular frog for you? Every hour of every day you can ask yourself this question and come up with a specific answer.
+I do that have done well will make a real difference? This question came from the late Peter Drucker, the management guru. It’s one of the most important of all questions for achieving personal effectiveness. What can you and only you do that have done well can make a real difference?
 
-Your job is to be clear about the answer and then to start and work on this task before anything else. The third question you can ask is, what is the most valuable use of my time right now?
+This is something that only you can do. If you don’t do it, it won’t be done by someone else. But if you do do it, and you do it well, it can make a real difference to your life and your career. What is this particular frog for you?
+
+Every hour of every day you can ask yourself this question and come up with a specific answer. Your job is to be clear about the answer and then to start and work on this task before anything else. The third question you can ask is, what is the most valuable use of my time right now?
 
 In other words, what is my biggest frog of all at this moment? This is the core question of time management. Answering this question correctly is the key to overcoming procrastination and becoming a highly productive person. Every hour of every day, one task represents the most valuable use of your time at that moment.
 
 Your job is to ask yourself this question over and over again and to always be working on the answer to it, whatever it is. Do first things first and second things not at all. As good as said, the things that matter most must never be at the mercy of the things that matter least. The more accurate your answers are to these three questions, the easier it will be for you to set clear priorities, to overcome procrastination, and to get started on that one activity that represents the most valuable use of your time right now.
 
-So here are two questions for you. Number one, review your list of tasks, activities, and projects regularly. Continue to ask yourself, which one project or activity, if I did it in an excellent and timely fashion, would have the greatest positive consequences in my work or personal life.
+So here are two questions for you. Number one, review your list of tasks, activities, and projects regularly. Continue to ask yourself, which one project or activity, if. I did it in an excellent and timely fashion, would have the greatest positive consequences in my work or personal life.
 
 
 <a id="sec-005033"></a>
@@ -346,19 +360,21 @@ The fact is that you can’t do everything that you have to do. You have to proc
 
 Everyone procrastinates. The difference between high performance and low performance is largely determined by what they choose to procrastinate on. Since you must procrastinate anyway, decide today to procrastinate on low value activities. Decide to procrastinate on, outsource, delegate and eliminate those activities that don’t make much of a contribution to your life in any case.
 
-Get rid of the tadpoles and focus on the frogs. Priorities versus posteriorities Here is a key point. To set proper priorities, you must set posteriorities as well. A priority is something that you do more of and sooner, while a posteriority is something that you do less of and later, if at all.
+Get rid of the tadpoles and focus on the frogs. Priorities versus posteriorities. Here is a key point. To set proper priorities, you must set posteriorities as well.
 
-Rule. You can only get your time and your life under control to the degree to which you discontinue lower value activities. One of the most powerful of all words in time management is the word no. Say it politely. Say it clearly so that there are no misunderstandings.
+A priority is something that you do more of and sooner, while a posteriority is something that you do less of and later, if at all. Rule. You can only get your time and your life under control to the degree to which you discontinue lower value activities. One of the most powerful of all words in time management is the word no.
 
-Say it regularly as a normal part of your time management vocabulary. Warren Buffett, one of the richest men in the world, was once asked his secret of success. He replied, simple, I just say no to everything that is not absolutely vital to me at the moment. Say no to anything that is not a high-value use of your time and your life.
+Say it politely. Say it clearly so that there are no misunderstandings. Say it regularly as a normal part of your time management vocabulary. Warren Buffett, one of the richest men in the world, was once asked his secret of success.
 
-Say no graciously, but firmly, to avoid agreeing to something against your will. Say it early and say it often. Remember that you have no spare time. As we say, your dance card is full.
+He replied, simple, I just say no to everything that is not absolutely vital to me at the moment. Say no to anything that is not a high-value use of your time and your life. Say no graciously, but firmly, to avoid agreeing to something against your will. Say it early and say it often.
 
-For you to do something new, you must complete or stop doing something old. Getting in requires getting out. Picking up means putting down. Creative procrastination is the art of thoughtfully and deliberately deciding upon the exact things that you are not going to do right now, if ever.
+Remember that you have no spare time. As we say, your dance card is full. For you to do something new, you must complete or stop doing something old. Getting in requires getting out.
 
-Procrastinate on purpose. Most people engage in unconscious procrastination. They procrastinate without thinking about it. As a result, they procrastinate on the big, valuable, important tasks that can have significant long-term consequences in their lives and careers.
+Picking up means putting down. Creative procrastination is the art of thoughtfully and deliberately deciding upon the exact things that you are not going to do right now, if ever. Procrastinate on purpose. Most people engage in unconscious procrastination.
 
-You must avoid this common tendency at all costs. Your job is to deliberately procrastinate on tasks that are of low value so that you have more time for tasks that can make a big difference in your life and work. Continue to review your duties and responsibilities to identify time-consuming tasks and activities that you can abandon with no real loss. This is an ongoing responsibility for you that never ends.
+They procrastinate without thinking about it. As a result, they procrastinate on the big, valuable, important tasks that can have significant long-term consequences in their lives and careers. You must avoid this common tendency at all costs. Your job is to deliberately procrastinate on tasks that are of low value so that you have more time for tasks that can make a big difference in your life and work.
+
+Continue to review your duties and responsibilities to identify time-consuming tasks and activities that you can abandon with no real loss. This is an ongoing responsibility for you that never ends.
 
 For example, a friend of mine was an avid golfer when he was single. He liked to golf three or four times a week, three or four hours each time. Over a period of years he started a business, got married and had two children, but he still played golf three to four times a week until he finally realized that his time on the golf course was causing him enormous stress at home and at the office. Only by abandoning most of his golf games could he get his life back under control.
 
@@ -372,25 +388,25 @@ Cut down on television watching and internet surfing and instead spend the time 
 
 Begin today to practice creative procrastination. Set posteriorities whenever and wherever you can. This decision alone can enable you to get your time and your life completely under control. Here are two more exercises for you.
 
-Number one, practice zero-based thinking in every part of your life. Ask yourself continually, if I were not doing this already, knowing what I now know, would I start doing it again today? If it is something that you would not start again today, knowing what you now know, it is a prime candidate for abandonment or creative procrastination. Number two, examine each of your personal and work activities and evaluate it based on your current situation.
+Number one, practice zero-based thinking in every part of your life. Ask yourself continually, if. I were not doing this already, knowing what. I now know, would.
 
-Select at least one activity to abandon immediately or at least deliberately put off until your more important goals have been achieved. Chapter six, use the A, B, C, D, E method continually. William Matthews wrote, the first law of success is concentration, to bend all the energies to one point and to go directly to that point, looking neither to the right nor to the left. The more thought you invest in planning and setting priorities before you begin, the more important things you will do and the faster you will get them done once you get started.
+I start doing it again today? If it is something that you would not start again today, knowing what you now know, it is a prime candidate for abandonment or creative procrastination. Number two, examine each of your personal and work activities and evaluate it based on your current situation. Select at least one activity to abandon immediately or at least deliberately put off until your more important goals have been achieved.
 
-The more important and valuable a task is to you, the more likely you will be motivated to overcome procrastination and launch yourself into the job. The A, B, C, D, E method is a powerful priority setting technique that you can use every single day. This technique is so simple and effective that it can, all by itself, make you one of the most efficient and effective people in your field. Think on paper.
+Chapter six, use the A, B, C, D, E method continually. William Matthews wrote, the first law of success is concentration, to bend all the energies to one point and to go directly to that point, looking neither to the right nor to the left. The more thought you invest in planning and setting priorities before you begin, the more important things you will do and the faster you will get them done once you get started. The more important and valuable a task is to you, the more likely you will be motivated to overcome procrastination and launch yourself into the job.
 
-The power of this technique lies in its simplicity. Here’s how it works. You start with a list of everything you have to do for the coming day. Think on paper.
+The A, B, C, D, E method is a powerful priority setting technique that you can use every single day. This technique is so simple and effective that it can, all by itself, make you one of the most efficient and effective people in your field. Think on paper. The power of this technique lies in its simplicity.
 
-The power of this technique lies in its simplicity. Here’s how it works. You start with a list of everything you have to do for the coming day. Think on paper.
+Here’s how it works. You start with a list of everything you have to do for the coming day. Think on paper. The power of this technique lies in its simplicity.
 
-You then place an A, B, C, D or E next to each item on your list before you begin the first task. An A item is defined as something that is very important, something that you must do. This is a task that will have serious positive or negative consequences if you do it or fail to do it, like visiting a key customer or finishing a report that your boss needs for an upcoming board meeting. These items are the frogs of your life.
+Here’s how it works. You start with a list of everything you have to do for the coming day. Think on paper. You then place an A, B, C, D or E next to each item on your list before you begin the first task.
 
-If you have more than one A task, you prioritize these tasks by writing A1, A2, A3 and so on in front of each item. Your A1 task is your biggest, ugliest frog of all. Shoulds versus Musts A B item is defined as a task that you should do, but it has only mild consequences. These are the tadpoles of your work life.
+An A item is defined as something that is very important, something that you must do. This is a task that will have serious positive or negative consequences if you do it or fail to do it, like visiting a key customer or finishing a report that your boss needs for an upcoming board meeting. These items are the frogs of your life. If you have more than one A task, you prioritize these tasks by writing A1, A2, A3 and so on in front of each item.
 
-This means that someone may be unhappy or inconvenienced if you don’t do one of these tasks, but is nowhere as important as an A task. Returning an unimportant telephone message or reviewing your email would be a B task or even lower. The rule is that you should never do a B task when an A task is left undone. You should never be distracted by a tadpole when a big frog is sitting there waiting to be eaten.
+Your A1 task is your biggest, ugliest frog of all. Shoulds versus Musts A B item is defined as a task that you should do, but it has only mild consequences. These are the tadpoles of your work life. This means that someone may be unhappy or inconvenienced if you don’t do one of these tasks, but is nowhere as important as an A task.
 
-A C task is defined as something that would be nice to do but for which there are no consequences at all, whether you do it or not. C tasks include phoning a friend, having coffee or lunch with a coworker, and completing some personal business during work hours. These sorts of activities have no effect at all on your work life. A D task is defined as something you can delegate to someone else.
+Returning an unimportant telephone message or reviewing your email would be a B task or even lower. The rule is that you should never do a B task when an A task is left undone. You should never be distracted by a tadpole when a big frog is sitting there waiting to be eaten. A C task is defined as something that would be nice to do but for which there are no consequences at all, whether you do it or not.
 
-The rule is that you should delegate everything that someone else can do so that you can free
+C tasks include phoning a friend, having coffee or lunch with a coworker, and completing some personal business during work hours. These sorts of activities have no effect at all on your work life. A D task is defined as something you can delegate to someone else. The rule is that you should delegate everything that someone else can do so that you can free
 
 
 <a id="sec-010038"></a>
@@ -406,15 +422,15 @@ There are two exercises for you. Number one, review your work list right now and
 
 Two, practice this A B C D E method every day for the next month, on every work or project list before you begin. After a month, you will have developed the habit of setting and working on your highest priority tasks and your future will be assured. Chapter seven, focus on key result areas. Norman Vincent Peale once said, when every physical and mental resource is focused, one’s power to solve a problem multiplies tremendously.
 
-Why am I on the payroll? This is one of the most important questions you can ever ask and answer over and over again throughout your career. As it happens, most people are not sure exactly why they are on the payroll, but if you’re not crystal clear about why you are on the payroll and what results you’ve been hired to accomplish, it’s very hard for you to perform at your best, get paid more and get promoted faster. In simple terms, you have been hired to get specific results.
+Why am. I on the payroll? This is one of the most important questions you can ever ask and answer over and over again throughout your career. As it happens, most people are not sure exactly why they are on the payroll, but if you’re not crystal clear about why you are on the payroll and what results you’ve been hired to accomplish, it’s very hard for you to perform at your best, get paid more and get promoted faster.
 
-A wage or a salary is a payment for a specific quality and quantity of work that can be combined with the work of others to create a product or service that customers are willing to pay for. Your job can be broken down into about five to seven key result areas, sell them more. These represent the results that you absolutely, positively have to get to fulfill your responsibilities and make your maximum contribution to your organization. A key result area is defined as something for which you are completely responsible.
+In simple terms, you have been hired to get specific results. A wage or a salary is a payment for a specific quality and quantity of work that can be combined with the work of others to create a product or service that customers are willing to pay for. Your job can be broken down into about five to seven key result areas, sell them more. These represent the results that you absolutely, positively have to get to fulfill your responsibilities and make your maximum contribution to your organization.
 
-If you don’t do it, it doesn’t get done. A key result area is an activity that is under your control. It produces an output that becomes an input or a contributing factor to the work of others. Key result areas are similar to the vital functions of the body, such as those indicated by blood pressure, heart rate, respiratory region, brainwave activity.
+A key result area is defined as something for which you are completely responsible. If you don’t do it, it doesn’t get done. A key result area is an activity that is under your control. It produces an output that becomes an input or a contributing factor to the work of others.
 
-An absence of any one of these vital functions leads to the death of the organism. By the same token, your failure to perform in a critical result area of your work can lead to the end of your job as well. The big seven in management and sales. The key result areas of management are planning, organizing, staffing, delegating, supervising, measuring, and reporting.
+Key result areas are similar to the vital functions of the body, such as those indicated by blood pressure, heart rate, respiratory region, brainwave activity. An absence of any one of these vital functions leads to the death of the organism. By the same token, your failure to perform in a critical result area of your work can lead to the end of your job as well. The big seven in management and sales.
 
-These are the areas in which a manager must get results to be successful in his or her area of responsibility. A weakness in any one of these areas can lead to underachievement and failure as a manager. The key result areas of sales are prospecting, building rapport and trust, identifying needs, presenting persuasively, answering objections, closing the sale, and getting resales and
+The key result areas of management are planning, organizing, staffing, delegating, supervising, measuring, and reporting. These are the areas in which a manager must get results to be successful in his or her area of responsibility. A weakness in any one of these areas can lead to underachievement and failure as a manager. The key result areas of sales are prospecting, building rapport and trust, identifying needs, presenting persuasively, answering objections, closing the sale, and getting resales and
 
 
 <a id="sec-010543"></a>
@@ -440,13 +456,13 @@ Poor performance produces procrastination. One of the major reasons for procrast
 
 The fact is that everybody has both strengths and weaknesses. Refuse to rationalize, justify, or defend your areas of weakness. Instead, identify them clearly. Set a goal and make a plan to become very good in each of those areas.
 
-Just think, you may be only one critical skill away from top performance at your job. The Great Question Here’s one of the greatest questions you will ever ask and answer. That one skill, if I developed and did it in an excellent fashion, would have the greatest positive impact on my career. You should use this question to guide your career for the rest of your life.
+Just think, you may be only one critical skill away from top performance at your job. The Great Question. Here’s one of the greatest questions you will ever ask and answer. That one skill, if.
 
-Look into yourself for the answer you probably already know what it is. Ask your boss this question. Ask your co-workers. Ask your friends and your family.
+I developed and did it in an excellent fashion, would have the greatest positive impact on my career. You should use this question to guide your career for the rest of your life. Look into yourself for the answer you probably already know what it is. Ask your boss this question.
 
-Whatever the answer is, go to work to bring up your performance in this area. The good news is that all business skills are learnable. If anyone else is excellent in that particular key result area, this is proof that you can become excellent as well, if you decide to. One of the fastest and best ways to stop procrastinating and get more things done faster is for you to become absolutely excellent in your key result areas.
+Ask your co-workers. Ask your friends and your family. Whatever the answer is, go to work to bring up your performance in this area. The good news is that all business skills are learnable.
 
-This can be as important as anything else you do in your life or career.
+If anyone else is excellent in that particular key result area, this is proof that you can become excellent as well, if you decide to. One of the fastest and best ways to stop procrastinating and get more things done faster is for you to become absolutely excellent in your key result areas. This can be as important as anything else you do in your life or career.
 
 
 <a id="sec-011049"></a>
@@ -462,29 +478,39 @@ Never stop improving. This decision alone can change your life. Number eight, ap
 
 This is one of the great time management principles of all. Three core tasks that you perform contain most of the value that you contribute to your business or organization. Your ability to accurately identify these three key tasks and then to focus on them most of the time is essential for you to perform at your best. Let me tell you a true story.
 
-Three months after her first full-day coaching session with me in San Diego, Cynthia told the group a story. She said, when I came here ninety days ago, you claimed that you would show me how to double my income and my time off within twelve months. This sounded completely unrealistic, but I was willing to give it a try. On the very first day, you asked me to write down a list of everything that I did over the course of a week or a month.
+Three months after her first full-day coaching session with me in San Diego, Cynthia told the group a story. She said, when. I came here ninety days ago, you claimed that you would show me how to double my income and my time off within twelve months. This sounded completely unrealistic, but.
 
-I came up with seventeen tasks that I was responsible for. My problem was that I was completely overwhelmed with work. I was working ten to twelve hours per day, six days per week, and not spending enough time with my husband and my two young children, but I didn’t see any way out. I had been working for eight years for a fast-growing entrepreneurial company in the high-tech area, but there always seemed to be an overwhelming amount of work to do and never enough time.
+I was willing to give it a try. On the very first day, you asked me to write down a list of everything that. I did over the course of a week or a month. I came up with seventeen tasks that.
 
-One thing all day long. She continued with her story. Once I had made this list, you told me to ask this question. If you could only do one thing on this list all day long, which one task would contribute the greatest value to your company?
+I was responsible for. My problem was that. I was completely overwhelmed with work. I was working ten to twelve hours per day, six days per week, and not spending enough time with my husband and my two young children, but.
 
-Once I had identified that task, which was quite easy, I put a circle around that number. You then asked, if you could only do one more task on your list of key tasks, what would be the second activity that contributes the very most value to your company? Once I had identified the second most important task, you asked me the same question with regard to the third most important task. You then said something that shocked me at the time.
+I didn’t see any way out. I had been working for eight years for a fast-growing entrepreneurial company in the high-tech area, but there always seemed to be an overwhelming amount of work to do and never enough time. One thing all day long. She continued with her story.
 
-You said that fully ninety percent of the value that you contribute to your company is contained in those three tasks, whatever they are. Anything else you do is either a support task or a complementary task that could probably be delegated, downsized, outsourced, or eliminated. Take immediate action. Cynthia continued with her story.
+Once. I had made this list, you told me to ask this question. If you could only do one thing on this list all day long, which one task would contribute the greatest value to your company? Once.
 
-As I looked at the three tasks, I realized that these were the three things that I did that contributed the most value to my company. This was on a Friday. On Monday morning at ten o’clock, I met with my boss and explained what I had discovered. I said that I needed his help in delegating and outsourcing all my work except those three key tasks.
+I had identified that task, which was quite easy, I put a circle around that number. You then asked, if you could only do one more task on your list of key tasks, what would be the second activity that contributes the very most value to your company? Once. I had identified the second most important task, you asked me the same question with regard to the third most important task.
 
-I felt that if I could work on those three tasks exclusively all day long, I could more than double my contribution to the company. Then I told him that if I doubled my contribution, I would like to be paid twice as much. She said my boss was completely silent. He looked at my list of key tasks. tasks, look back up at me, and look at the list again.
+You then said something that shocked me at the time. You said that fully ninety percent of the value that you contribute to your company is contained in those three tasks, whatever they are. Anything else you do is either a support task or a complementary task that could probably be delegated, downsized, outsourced, or eliminated. Take immediate action.
+
+Cynthia continued with her story. As. I looked at the three tasks, I realized that these were the three things that. I did that contributed the most value to my company.
+
+This was on a Friday. On Monday morning at ten o’clock, I met with my boss and explained what. I had discovered. I said that.
+
+I needed his help in delegating and outsourcing all my work except those three key tasks. I felt that if. I could work on those three tasks exclusively all day long, I could more than double my contribution to the company. Then.
+
+I told him that if. I doubled my contribution, I would like to be paid twice as much. She said my boss was completely silent. He looked at my list of key tasks. tasks, look back up at me, and look at the list again.
 
 He then said, you’re right. These are the three most important things that you do in this company, and the three things that you do best. I will help you to delegate and outsource all these minor tasks to free you up to work full time on these three key tasks. And if you double your contribution, I will pay you twice as much.
 
-Cynthia concluded her story by saying, he did, and then I did, and then he did. He helped me to delegate and assign all my minor tasks so I could concentrate on my top three jobs. As a result, I doubled my output over the next 30 days, and he doubled my income. I have been working very hard for more than eight years, and I doubled my income in just
+Cynthia concluded her story by saying, he did, and then. I did, and then he did. He helped me to delegate and assign all my minor tasks so. I could concentrate on my top three jobs.
+
+As a result, I doubled my output over the next 30 days, and he doubled my income. I have been working very hard for more than eight years, and. I doubled my income in just
 
 
 <a id="sec-011552"></a>
 ### ⏱️ [01:15:52 - 01:20:56]
 
-one month by focusing all my time and energy on my three key tasks. Not only that, but instead of working 10 and 12 hour days, I work from 8 o’clock to 5 o’clock and spend time in the evenings and on the weekends with my husband and my children. Focusing on my key tasks has transformed my life. Perhaps the most important word in the world of work is contribution.
+one month by focusing all my time and energy on my three key tasks. Not only that, but instead of working 10 and 12 hour days, I work from 8 o’clock to 5 o’clock and spend time in the evenings and on the weekends with my husband and my children. Focusing on my key tasks has transformed my life. Perhaps, the most important word in the world of work is contribution.
 
 Your rewards, both financial and emotional, will always be in direct proportion to your results, to the value of your contribution. If you want to increase your rewards, you must focus on increasing the value of what you do. You must dedicate yourself to contributing more results to your company. And three key tasks always contribute the most.
 
@@ -500,13 +526,15 @@ Number four, what are your three most important health goals right now? Number f
 
 When you force yourself to ask and answer each of these questions in 30 seconds or less, you will be amazed at the answers. Whatever your answers, they will usually be an accurate snapshot of your true situation in life at the moment. These answers will tell you what is really important to you. While you are setting goals and priorities, getting organized, concentrating single-mindedly on one task at a time and disciplining yourself to complete your most important tasks, you must never forget that your ultimate goal is to live a long, happy and healthy life.
 
-Time management is a means to an end. The main reason to develop time management skills is so that you can complete everything that’s really important in your work and free up more and more time to do the things in your personal life that give you the greatest happiness and satisfaction. Fully 85% of your happiness in life will come from happy relationships with other people, especially those closest to you, as well as the members of your family. The critical determinant of the quality of your relationships is the amount of time that you spend face-to-face with the people you love and who love you in return.
+Time management is a means to an end. The main reason to develop time management skills is so that you can complete everything that’s really important in your work and free up more and more time to do the things in your personal life that give you the greatest happiness and satisfaction. Fully 85% of your happiness in life will come from happy relationships with other people, especially those closest to you, as well as the members of your family.
 
-The purpose of time management of eating that frog and getting more done in less time is to enable you to spend more face-time with the people you care about, doing the things that give you the greatest amount of joy in life. Rule, it is the quality of time at work that counts and the quantity of time at home that matters. Work all the time you work. To keep your life in balance, you should resolve to work all the time you work.
+The critical determinant of the quality of your relationships is the amount of time that you spend face-to-face with the people you love and who love you in return. The purpose of time management of eating that frog and getting more done in less time is to enable you to spend more face-time with the people you care about, doing the things that give you the greatest amount of joy in life. Rule, it is the quality of time at work that counts and the quantity of time at home that matters.
 
-When you go to work, put your head down and work the whole time. Start a little earlier, stay a little later and work a little harder. Don’t waste time. Every minute that you spend in idle chit-chat with coworkers or playing with your email is time taken away from the work that you must accomplish if you want to do well at your job.
+Work all the time you work. To keep your life in balance, you should resolve to work all the time you work. When you go to work, put your head down and work the whole time. Start a little earlier, stay a little later and work a little harder.
 
-Even worse, time that you waste at work often has to be taken away from your family. You have to either stay late or take work home and work in the evenings. By not working effectively and efficiently during your work day, you create unnecessary
+Don’t waste time. Every minute that you spend in idle chit-chat with coworkers or playing with your email is time taken away from the work that you must accomplish if you want to do well at your job. Even worse, time that you waste at work often has to be taken away from your family. You have to either stay late or take work home and work in the evenings.
+
+By not working effectively and efficiently during your work day, you create unnecessary
 
 
 <a id="sec-012056"></a>
@@ -514,31 +542,33 @@ Even worse, time that you waste at work often has to be taken away from your fam
 
 stress and deprive the members of your family of the very best person that you can possibly be. Balance is not optional. One of the most famous sayings of the ancient Greeks is moderation in all things. You need balance between your work and your personal life.
 
-You need to set priorities at work and concentrate on your most valuable tasks. At the same time, you must never lose sight of the fact that the reason for working efficiently is so that you can enjoy a higher quality of life at home with your family. Sometimes people come up to me and ask, how do I achieve balance between my work and my home life? I ask them in return, how often does a tightrope walker balance when on the high wire?
+You need to set priorities at work and concentrate on your most valuable tasks. At the same time, you must never lose sight of the fact that the reason for working efficiently is so that you can enjoy a higher quality of life at home with your family. Sometimes people come up to me and ask, how do. I achieve balance between my work and my home life?
 
-After a few seconds of thinking, they almost always say, all the time. I say, that’s the same situation with balance between work and home life. You have to do it all the time. You never reach a point where you have attained it perfectly.
+I ask them in return, how often does a tightrope walker balance when on the high wire? After a few seconds of thinking, they almost always say, all the time. I say, that’s the same situation with balance between work and home life. You have to do it all the time.
 
-You have to work at it. Your goal should be to perform at your very best at work, to get the very most done and enjoy the very highest level of rewards possible for you in your career. Simultaneously, you must always remember to smell the roses along the way. Never lose sight of the real reasons why you work as hard as you do and why you are so determined to accomplish the very most with the time that you invest.
+You never reach a point where you have attained it perfectly. You have to work at it. Your goal should be to perform at your very best at work, to get the very most done and enjoy the very highest level of rewards possible for you in your career. Simultaneously, you must always remember to smell the roses along the way.
 
-The more time you spend face to face with the people you love, the happier you will be. Now, here are two exercises for you. Number one, determine the three most important tasks that you do in your work. Ask yourself, if I could only do one thing all day long, which one task would contribute the greatest value to my career?
+Never lose sight of the real reasons why you work as hard as you do and why you are so determined to accomplish the very most with the time that you invest. The more time you spend face to face with the people you love, the happier you will be.
+
+Now, here are two exercises for you. Number one, determine the three most important tasks that you do in your work. Ask yourself, if. I could only do one thing all day long, which one task would contribute the greatest value to my career?
 
 Do this exercise two more times. Once you have developed your big three, concentrate on them single-mindedly all day long. Number two, identify your three most important goals in each area of your life. Organize them by priority.
 
 Make plans for their accomplishment and work on your plans every single day. You will be amazed at what you achieve in the months and years ahead.
 
-#### Chapter 9. Prepare Thoroughly Before You Begin James T. McKay once wrote, No matter what the level of your ability, you have more potential than you can ever develop in a lifetime.
+#### Chapter 9. Prepare Thoroughly. Before You Begin James T.
 
-One of the best ways for you to overcome procrastination and get more things done faster is to have everything you need at hand before you begin. When you are fully prepared, you are like a cocked gun or an archer with an arrow pulled back taut in the bow. You will be amazed at what you can achieve in the months and years ahead. You just need one small mental push to get started on your highest value tasks.
+McKay once wrote, No matter what the level of your ability, you have more potential than you can ever develop in a lifetime. One of the best ways for you to overcome procrastination and get more things done faster is to have everything you need at hand before you begin. When you are fully prepared, you are like a cocked gun or an archer with an arrow pulled back taut in the bow. You will be amazed at what you can achieve in the months and years ahead.
 
-This is like getting everything ready to prepare a complete meal. You set all the ingredients out on the counter in front of you and then begin putting the meal together one step at a time. Begin by clearing off your desk or workspace so that you have only one task in front of you. If necessary, put everything else on the floor or on a table behind you.
+You just need one small mental push to get started on your highest value tasks. This is like getting everything ready to prepare a complete meal. You set all the ingredients out on the counter in front of you and then begin putting the meal together one step at a time. Begin by clearing off your desk or workspace so that you have only one task in front of you.
 
-Set all the information, reports, details, papers and work materials that you will require to complete the job. Have them at hand so that you can reach them without getting up or moving around. Be sure that you have all the writing materials, login information, access codes, email, addresses and everything else you need to start working and continue working until the job is done. Set up your work area so that it is comfortable, attractive and conducive to working for long periods.
+If necessary, put everything else on the floor or on a table behind you. Set all the information, reports, details, papers and work materials that you will require to complete the job. Have them at hand so that you can reach them without getting up or moving around. Be sure that you have all the writing materials, login information, access codes, email, addresses and everything else you need to start working and continue working until the job is done.
 
-Finally, make sure that you have a comfortable chair that supports your back and allows your feet to rest flat on the floor. Create a comfortable workspace. The most productive people take the time to create a work area where they enjoy spending time. The cleaner and neater you organize your work area before you begin, the easier it will be for you to get started and keep going.
+Set up your work area so that it is comfortable, attractive and conducive to working for long periods. Finally, make sure that you have a comfortable chair that supports your back and allows your feet to rest flat on the floor. Create a comfortable workspace. The most productive people take the time to create a work area where they enjoy spending time.
 
-When everything is laid out neatly and in sequence, you will feel much more like getting on with the job. It’s amazing how many books never get written, how many degrees never get completed, how many life-changing tasks never get started because people fail to take the first step of preparing everything in advance. Launch toward your dreams. Once you have completed your preparations, it’s essential that you launch immediately toward your goals. Get started.
+The cleaner and neater you organize your work area before you begin, the easier it will be for you to get started and keep going. When everything is laid out neatly and in sequence, you will feel much more like getting on with the job. It’s amazing how many books never get written, how many degrees never get completed, how many life-changing tasks never get started because people fail to take the first step of preparing everything in advance. Launch toward your dreams.
 
-Do the first thing, whatever it is. My personal rule is get it 80% right and then correct it later.
+Once you have completed your preparations, it’s essential that you launch immediately toward your goals. Get started. Do the first thing, whatever it is. My personal rule is get it 80% right and then correct it later.
 
 
 <a id="sec-012558"></a>
@@ -576,7 +606,7 @@ a time. Here are two exercises for you. Number one, select any goal, task or pro
 
 Sometimes all you need to do to get started is to sit down and complete one item on the list and then do one more and so on. You will be amazed at what you eventually accomplish.
 
-#### Chapter 11 Upgrade Your Key Skills The only certain means of success, according to Og Vandino, is to render more and better service than is expected of you, no matter what your task may be. Creating your skills is one of the most important personal productivity principles of all.
+#### Chapter 11 Upgrade. Your Key Skills The only certain means of success, according to Og Vandino, is to render more and better service than is expected of you, no matter what your task may be. Creating your skills is one of the most important personal productivity principles of all.
 
 Learn what you need to learn so that you can do your work in an excellent fashion. The better you become at eating a particular type of frog, the more likely you are to just plunge in and get it done. A major reason for procrastination is a feeling of inadequacy, a lack of confidence or an inability in a key result area of a task. Getting weak or deficient in a key area is enough to discourage you from starting the job at all.
 
@@ -586,21 +616,23 @@ Personal and professional development is one of the best time savers that there 
 
 One piece of information or one additional skill can make an enormous difference in your ability to do the job well. Identify the most important things you do and then make a plan to continually upgrade your skills in those areas. Rule, continuous learning is the minimum requirement for success in any field. Use to allow a weakness or a lack of ability in any area to hold you back.
 
-Everything is learnable, and what others have learned, you can learn as well. When I began to write my first book, I was discouraged because I could only use the hunt and peck method of typing. I soon realized that I had to learn to touch type if ever I was going to write and rewrite a 300 page book. So I bought a touch typing program from my computer and practiced for 20 to 30 minutes every day for 3 months.
+Everything is learnable, and what others have learned, you can learn as well. When. I began to write my first book, I was discouraged because. I could only use the hunt and peck method of typing.
 
-By the end of that time, I was typing 40 to 50 words per minute. With this additional skill, I have been able to write more than 80 books that have now been published all over the world. The best news is that you can learn whatever skills you need to be more productive and more effective. You can become a touch typist if necessary.
+I soon realized that. I had to learn to touch type if ever. I was going to write and rewrite a 300 page book. So.
 
-You can become proficient with a computer. You can become a terrific negotiator or a super salesperson. You can learn to speak in public. You can learn to write effectively and well.
+I bought a touch typing program from my computer and practiced for 20 to 30 minutes every day for 3 months. By the end of that time, I was typing 40 to 50 words per minute. With this additional skill, I have been able to write more than 80 books that have now been published all over the world. The best news is that you can learn whatever skills you need to be more productive and more effective.
 
-These are all skills that you can acquire as soon as you decide to and make them a priority. Three steps to mastery.
+You can become a touch typist if necessary. You can become proficient with a computer. You can become a terrific negotiator or a super salesperson. You can learn to speak in public.
+
+You can learn to write effectively and well. These are all skills that you can acquire as soon as you decide to and make them a priority. Three steps to mastery.
 
 First, read in your field for at least one hour every day. Get up a little earlier in the morning and read for 30 to 60 minutes in a book or magazine that contains information that can help you to be more effective and productive at what you do.
 
 Second, take every course and seminar available on the key skills that can help you. Attend the conventions and business meetings of your profession or occupation. Go to the sessions and workshops. Sit up front and take notes.
 
-Purchase the audio recordings of the programs. Dedicate yourself to becoming one of the most knowledgeable and competent people in your field. Third, listen to audio programs in your car. The average car owner sits behind the wheel 500 to 1000 hours each year while driving from place to place. Turn driving time into learning time.
+Purchase the audio recordings of the programs. Dedicate yourself to becoming one of the most knowledgeable and competent people in your field. Third, listen to audio programs in your car. The average car owner sits behind the wheel 500 to 1000 hours each year while driving from place to place.
 
-You can become one of the smartest, most capable and highest paid people in your field simply by listening to educational audio programs as you drive from place to place. The more you learn and know, the more confident and motivated you feel.
+Turn driving time into learning time. You can become one of the smartest, most capable and highest paid people in your field simply by listening to educational audio programs as you drive from place to place. The more you learn and know, the more confident and motivated you feel.
 
 
 <a id="sec-013606"></a>
@@ -640,19 +672,21 @@ Only 20% are on the outside in the form of competition, markets, governments, or
 
 Sometimes a single negative perception or objection on the part of your customers can be slowing down the entire sales process. Sometimes the absence of a single feature can be holding back the growth of sales of a product or service line. Look into your company honestly. Look within your boss, your coworkers, and members of your staff to see if there is a key weakness that is holding you or the company back, acting as a break on the achievement of your key goals.
 
-Look into yourself. Successful people always begin the analysis of constraints by asking the question, what is it in me that is holding me back? They accept complete responsibility for their lives and look to themselves for both the cause and cure of their problems. In your own life, you must have the honesty to look deeply into yourself for the limiting factor or limiting skill that sets the speed at which you achieve your personal goals. Keep asking, what sets the speed at which I get the results I want?
+Look into yourself. Successful people always begin the analysis of constraints by asking the question, what is it in me that is holding me back? They accept complete responsibility for their lives and look to themselves for both the cause and cure of their problems. In your own life, you must have the honesty to look deeply into yourself for the limiting factor or limiting skill that sets the speed at which you achieve your personal goals.
 
-Strive for accuracy. The definition of the constraint determines the strategy that you will use to alleviate it. The failure to identify the correct constraint or the identification of the wrong constraint can lead you off in the wrong direction. You can end up solving the wrong problem.
+Keep asking, what sets the speed at which. I get the results. I want? Strive for accuracy.
 
-A major corporation, client of mine, was experiencing declining sales. The corporation’s leaders concluded that the major constraint was the quality of the sales force and the sales management. They therefore spent an enormous amount of money reorganizing the management and retraining the salespeople. They later found that the primary reason that sales were down was a mistake made by an accountant who had accidentally priced their products too high relative to their competition in the marketplace.
+The definition of the constraint determines the strategy that you will use to alleviate it. The failure to identify the correct constraint or the identification of the wrong constraint can lead you off in the wrong direction. You can end up solving the wrong problem. A major corporation, client of mine, was experiencing declining sales.
 
-Once the corporation re-lamped its pricing and made it more competitive, its sales went back up and it returned to profitability. Behind every constraint or choke point, once it is located and alleviated or solved successfully, you will find another constraint or limiting factor. Whether you’re trying to get to work on time in the morning or build a successful career, there are always limiting factors and bottlenecks that set the speed of your progress. Your job is to find them and to focus your energies on alleviating them as quickly as possible.
+The corporation’s leaders concluded that the major constraint was the quality of the sales force and the sales management. They therefore spent an enormous amount of money reorganizing the management and retraining the salespeople. They later found that the primary reason that sales were down was a mistake made by an accountant who had accidentally priced their products too high relative to their competition in the marketplace. Once the corporation re-lamped its pricing and made it more competitive, its sales went back up and it returned to profitability.
 
-Starting off your day with the removal of a key bottleneck or constraint fills you with energy and personal power. It propels you into following through and completing the job, often alleviating a key constraint or limiting factor is the most important frog you could eat at that moment. Here are two exercises for you. Number one, identify your most important goal in life today.
+Behind every constraint or choke point, once it is located and alleviated or solved successfully, you will find another constraint or limiting factor. Whether you’re trying to get to work on time in the morning or build a successful career, there are always limiting factors and bottlenecks that set the speed of your progress. Your job is to find them and to focus your energies on alleviating them as quickly as possible. Starting off your day with the removal of a key bottleneck or constraint fills you with energy and personal power.
 
-What is it? What one goal, if you achieved it, would have the greatest positive effect on your life? What one career accomplishment would have the greatest positive impact on your work life? Number two, determine the one constraint, internal or external, that sets the speed at which you accomplish this goal.
+It propels you into following through and completing the job, often alleviating a key constraint or limiting factor is the most important frog you could eat at that moment. Here are two exercises for you. Number one, identify your most important goal in life today. What is it?
 
-Ask, why haven’t I reached it already? What is it in me that is holding me back? Whatever your answers, take action immediately, do something, do anything, but get started.
+What one goal, if you achieved it, would have the greatest positive effect on your life? What one career accomplishment would have the greatest positive impact on your work life? Number two, determine the one constraint, internal or external, that sets the speed at which you accomplish this goal. Ask, why haven’t.
+
+I reached it already? What is it in me that is holding me back? Whatever your answers, take action immediately, do something, do anything, but get started.
 
 #### Chapter 13, Put the Pressure on Yourself Thomas Edison wrote, the first requisite for success is the ability to apply your physical and mental energies to one problem. incessantly, without growing weary. The world is full of people who are waiting for someone to come along and motivate them to be the kind of people they wish they could be.
 
@@ -698,9 +732,9 @@ When people ask you how you are, always tell them, I feel terrific, I feel terri
 <a id="sec-015109"></a>
 ### ⏱️ [01:51:09 - 01:56:11]
 
-of the human freedoms is to choose one’s attitude in any given set of circumstances. Refuse to complain about your problems. Keep them to yourself. As speaker humorist Ed Forman says, you should never share your problems with others, because 80% of people don’t care about them anyway, and the other 20% are kind of glad that you’ve got them in the first place. Develop a positive mental attitude.
+of the human freedoms is to choose one’s attitude in any given set of circumstances. Refuse to complain about your problems. Keep them to yourself. As speaker humorist Ed Forman says, you should never share your problems with others, because 80% of people don’t care about them anyway, and the other 20% are kind of glad that you’ve got them in the first place.
 
-In Martin Seligman’s 22-year study at the University of Pennsylvania, summarized in his book, Learned Optimism, he determined that optimism is the most important quality you can develop for personal and professional success and happiness. Optimistic people seem to be more effective in almost every area of life. It turns out that optimists have four special behaviors, all learned through practice and repetition.
+Develop a positive mental attitude. In Martin Seligman’s 22-year study at the University of Pennsylvania, summarized in his book, Learned Optimism, he determined that optimism is the most important quality you can develop for personal and professional success and happiness. Optimistic people seem to be more effective in almost every area of life. It turns out that optimists have four special behaviors, all learned through practice and repetition.
 
 First, optimists look for the good in every situation. No matter what goes wrong, they always look for something good or beneficial, and not surprisingly they always seem to find it.
 
@@ -732,19 +766,21 @@ one study, and about eighty-five times a day according to another study, which f
 
 All the executives bowed their heads. When the grace was over, the luncheon began.
 
-However, at my table, four or five of the eight people seemed to have been greatly affected by the prayer. They kept their heads down and their hands on their laps even when the food was served. They seemed to be lost in deep thought over the profound questions of the day talked about in the grace. Then I realized that they were not praying at all.
+However, at my table, four or five of the eight people seemed to have been greatly affected by the prayer. They kept their heads down and their hands on their laps even when the food was served. They seemed to be lost in deep thought over the profound questions of the day talked about in the grace. Then.
 
-They were all intensely focused on their smartphones, sending and receiving emails, typing like frantic teenagers playing video games. They were all lost to the world around them, drowning in a deep sink full of information exchange. Take back your time. One of my clients found himself bound and chained to his computer, receiving and responding to emails several hours each day.
+I realized that they were not praying at all. They were all intensely focused on their smartphones, sending and receiving emails, typing like frantic teenagers playing video games. They were all lost to the world around them, drowning in a deep sink full of information exchange. Take back your time.
 
-The more time he spent at his computer, the fewer of his other important tasks he was able to get done. The stress caused by these undone tasks, building up like an avalanche overhang, started to affect his personality, his health and his sleeping habits. We taught him about the 80-20 rule and how it applied to emails. He then deleted and unsubscribed from the 80 percent of his emails that had little or no value.
+One of my clients found himself bound and chained to his computer, receiving and responding to emails several hours each day. The more time he spent at his computer, the fewer of his other important tasks he was able to get done. The stress caused by these undone tasks, building up like an avalanche overhang, started to affect his personality, his health and his sleeping habits. We taught him about the 80-20 rule and how it applied to emails.
 
-Of the remaining 20 percent, only 4 percent required immediate responses. The other 16 percent could be transferred to an action folder to be worked on later. Refuse to be a slave. Understand yourself from your computer.
+He then deleted and unsubscribed from the 80 percent of his emails that had little or no value. Of the remaining 20 percent, only 4 percent required immediate responses. The other 16 percent could be transferred to an action folder to be worked on later. Refuse to be a slave.
 
-Unsubscribe from all unwanted newsletters or emails of any kind. Set up an autoresponder that says, I checked my email only twice per day. I will reply as soon as possible. If this is an emergency, phone this number.
+Understand yourself from your computer. Unsubscribe from all unwanted newsletters or emails of any kind. Set up an autoresponder that says, I checked my email only twice per day. I will reply as soon as possible.
 
-A journalist for Fortune magazine once wrote that when he arrived back at the office after a two-week European vacation, he had more than 700 emails waiting for him. He realized it would take him a week to get through them all before starting on important projects. So, for the first time in his life, he took a deep breath and punched the delete all button, erasing those 700 emails forever. He then got busy with the projects that were really important to him and his company.
+If this is an emergency, phone this number. A journalist for Fortune magazine once wrote that when he arrived back at the office after a two-week European vacation, he had more than 700 emails waiting for him. He realized it would take him a week to get through them all before starting on important projects. So, for the first time in his life, he took a deep breath and punched the delete all button, erasing those 700 emails forever.
 
-His explanation was simple. He said, “I realize that just because someone sends me an email, it does not mean that they own a piece of my life.” Although not many people would delete their entire inbox, you can definitely delete and ignore more emails than you do right now. Empower yourself to remove all emails that don’t relate to important goals and relationships. Someone will tell you.
+He then got busy with the projects that were really important to him and his company. His explanation was simple.
+
+He said, “I realize that just because someone sends me an email, it does not mean that they own a piece of my life.”. Although not many people would delete their entire inbox, you can definitely delete and ignore more emails than you do right now. Empower yourself to remove all emails that don’t relate to important goals and relationships. Someone will tell you.
 
 People often ask me at my seminars, but don’t you have to stay plugged into technology to keep current with the news. I tell them, if it’s really important, someone will tell you. Many people unplug from the news and, surprisingly enough, they remain well-informed on most important subjects. You should do the same.
 
@@ -752,13 +788,13 @@ Here are two exercises for you. Number one, resolve today to create zones of sil
 
 Nothing. Love to unplug from technology for one full day each day. week. By the end of your digital detox, your mind will be calm and clear. When your metal batteries have time to recharge, you will be much more effective at eating frogs.
 
-#### Chapter 16 Technology is a Wonderful Servant But as Melinda Gates said, technology is just a tool.
+#### Chapter 16 Technology is a Wonderful Servant.
 
-You must discipline yourself to treat technology as a servant, not as a master. The purpose of technology is to make your life smoother and easier, not to create complexity, confusion, and stress. Usually, to get more done of higher value, you have to stop doing things of lower value. Keep asking yourself, what’s important here?
+But as Melinda Gates said, technology is just a tool. You must discipline yourself to treat technology as a servant, not as a master. The purpose of technology is to make your life smoother and easier, not to create complexity, confusion, and stress. Usually, to get more done of higher value, you have to stop doing things of lower value.
 
-What is most important for you to accomplish at work? What is important in your personal life? If you could only do one or two of the activities available to you, which ones would they be? Use your technological tools to readily remind yourself of what is most important and protect yourself from what is least important.
+Keep asking yourself, what’s important here? What is most important for you to accomplish at work? What is important in your personal life? If you could only do one or two of the activities available to you, which ones would they be?
 
-Technology can be a simple way to get control of your communications, your time, and even your emotions. Take control
+Use your technological tools to readily remind yourself of what is most important and protect yourself from what is least important. Technology can be a simple way to get control of your communications, your time, and even your emotions. Take control
 
 
 <a id="sec-020116"></a>
@@ -806,15 +842,17 @@ Jiddu Krishnamurti wrote, all of life is the study of attention. Where your atte
 
 Current research proves that continuously responding and reacting to emails, telephone calls and texts and instant messages has a negative effect on your brain. Shortening your attention span and making it difficult if not impossible for you to complete the tasks upon which your future and your success depend. Developing an addiction. When you check your email first thing in the morning or when you respond to the bell or other sound that indicates an incoming email or message, your brain releases a tiny shot of dopamine.
 
-This shot gives you a pleasant buzz. It stimulates your curiosity and causes you to react and respond immediately. You instantly forget whatever else you were doing and turn your full attention to the new message. Like the sounds of bells ringing when you win while playing a slot machine, the sound of the email or instant message triggers the reaction of, what did I win?
+This shot gives you a pleasant buzz. It stimulates your curiosity and causes you to react and respond immediately. You instantly forget whatever else you were doing and turn your full attention to the new message. Like the sounds of bells ringing when you win while playing a slot machine, the sound of the email or instant message triggers the reaction of, what did.
 
-You immediately stop your work to find out what your prize is. When you start your day with a few shots of dopamine triggered by your email or instant message bell going off, you find it extremely difficult to pay close attention to your important tasks for the rest of the day. You are addicted. The multitasking illusion.
+I win? You immediately stop your work to find out what your prize is. When you start your day with a few shots of dopamine triggered by your email or instant message bell going off, you find it extremely difficult to pay close attention to your important tasks for the rest of the day. You are addicted.
 
-Some people believe that they can engage in multitasking, going back and forth between emails and important tasks. But people can focus only on one thing at a time. What they are really doing is called task shifting. They are shifting their attention back and forth like swinging a searchlight from one object to another.
+The multitasking illusion. Some people believe that they can engage in multitasking, going back and forth between emails and important tasks. But people can focus only on one thing at a time. What they are really doing is called task shifting.
 
-After an internet interruption, it takes about 17 minutes for you to shift your total attention back to your task and continue working. This is precisely why so many people today are working harder and harder, shifting from email interruptions to work and back again, all day long and getting less and less accomplished. They also make more mistakes. The proven solutions.
+They are shifting their attention back and forth like swinging a searchlight from one object to another. After an internet interruption, it takes about 17 minutes for you to shift your total attention back to your task and continue working. This is precisely why so many people today are working harder and harder, shifting from email interruptions to work and back again, all day long and getting less and less accomplished. They also make more mistakes.
 
-The solutions are simple and are being adopted by the most productive people in every industry. First, don’t check your email in the morning and trigger the all-day dopamine addiction. Leave your devices off.
+The proven solutions. The solutions are simple and are being adopted by the most productive people in every industry.
+
+First, don’t check your email in the morning and trigger the all-day dopamine addiction. Leave your devices off.
 
 Second, if you must check your email for any reason, get in and out fast and then get back to work. Turn off the sound on your computer and put your phone on vibrate. Stop the stimulations that trigger the flow of dopamine and which lead to continuous interruptions.
 
@@ -844,17 +882,17 @@ With this method, you lay out the task in detail, writing down every step in ord
 
 Soon, you will find yourself working through the job one part at a time, and before you know it, the job will be completed. Develop a compulsion to closure. An important point to remember is that you have deep within you an urge to completion, or what is often referred to as a compulsion to closure. This means that you actually feel happier and more powerful when you start and complete a task of any kind.
 
-You satisfy a deep subconscious need to bring finality to a job or project. This sense of completion, or closure, motivates you to start the next task or project, and then to persist toward final completion. This act of completion triggers the release of endorphins in your brain, as I mentioned earlier. And the bigger the task you start and complete, the better and more elated you feel.
+You satisfy a deep subconscious need to bring finality to a job or project. This sense of completion, or closure, motivates you to start the next task or project, and then to persist toward final completion. This act of completion triggers the release of endorphins in your brain, as. I mentioned earlier.
 
-The bigger the frog you eat, the greater the surge of personal power and energy that you experience. When you start and finish a small piece of a task, you feel motivated to start and finish another part, and then another, and so on. Each small step forward energizes you. You soon develop an inner drive that motivates you to carry through to completion.
+And the bigger the task you start and complete, the better and more elated you feel. The bigger the frog you eat, the greater the surge of personal power and energy that you experience. When you start and finish a small piece of a task, you feel motivated to start and finish another part, and then another, and so on. Each small step forward energizes you.
 
-Swiss cheese your tasks. Another technique you can use to overcome procrastination is called the Swiss cheese method of working. You use this technique to get yourself into gear by resolving to punch a hole in the task, like a hole in a block of Swiss cheese. You Swiss cheese a task when you resolve to work for a specific time period on that task.
+You soon develop an inner drive that motivates you to carry through to completion. Swiss cheese your tasks. Another technique you can use to overcome procrastination is called the Swiss cheese method of working. You use this technique to get yourself into gear by resolving to punch a hole in the task, like a hole in a block of Swiss cheese.
 
-This may be as little as five or ten minutes, after which you will stop and do something else. You will take just one bite of your frog and then rest or do something else. The power of this method is similar to that of the salami slice method. Once you start working, you develop a sense of forward momentum and a feeling of accomplishment.
+You Swiss cheese a task when you resolve to work for a specific time period on that task. This may be as little as five or ten minutes, after which you will stop and do something else. You will take just one bite of your frog and then rest or do something else. The power of this method is similar to that of the salami slice method.
 
-You become energized and enthusiastic. You feel yourself internally motivated and propelled to keep going until the task is complete. You should try the salami slice or the Swiss cheese method on any task that seems overwhelming when you approach it for the first time. You will be amazed at how helpful each technique is in overcoming procrastination.
+Once you start working, you develop a sense of forward momentum and a feeling of accomplishment. You become energized and enthusiastic. You feel yourself internally motivated and propelled to keep going until the task is complete. You should try the salami slice or the Swiss cheese method on any task that seems overwhelming when you approach it for the first time.
 
-I have several friends who have become best-selling authors by simply resolving to write one page or even one paragraph per day until the book was completed. And you can do the same.
+You will be amazed at how helpful each technique is in overcoming procrastination. I have several friends who have become best-selling authors by simply resolving to write one page or even one paragraph per day until the book was completed. And you can do the same.
 
 Now, here are two exercises for you. Number one, put the salami slice or Swiss cheese technique into action immediately to
 
@@ -866,21 +904,23 @@ get started on a large, complex, multi-task job that you’ve been putting off. 
 
 Try it today.
 
-#### Chapter 19, Create Large Chunks of Time Nito Cabane wrote, Nothing can add more power to your life than concentrating all of your energies on a limited set of targets. Most of the really important work you do requires large chunks of unbroken time to complete. Your ability to carve out and use these blocks of high-value, highly productive time is central to your ability to make a significant contribution to your work and to your life. Successful salespeople set aside a specific time period each day to phone prospects.
+#### Chapter 19, Create Large Chunks of Time Nito Cabane wrote, Nothing can add more power to your life than concentrating all of your energies on a limited set of targets. Most of the really important work you do requires large chunks of unbroken time to complete. Your ability to carve out and use these blocks of high-value, highly productive time is central to your ability to make a significant contribution to your work and to your life.
 
-Rather than procrastinating or delaying on a task that they don’t particularly like, they resolve that they will phone for one solid hour, between 10 a.m. and 11 a.m., for example, and they then discipline themselves to follow through on their resolution. Many business executives set aside a specific time each day to call customers directly to get feedback, to return phone calls, or to answer correspondence. Some people allocate specific 30-60 minute time periods each day for exercise. Many people read great books, 15 minutes each night before retiring.
+Successful salespeople set aside a specific time period each day to phone prospects. Rather than procrastinating or delaying on a task that they don’t particularly like, they resolve that they will phone for one solid hour, between 10 a.m. and 11 a.m., for example, and they then discipline themselves to follow through on their resolution. Many business executives set aside a specific time each day to call customers directly to get feedback, to return phone calls, or to answer correspondence.
 
-In this way, over time, they eventually read dozens, even hundreds, of the best books ever written. Scheduled Blocks of Time The key to the success of this method of working in specific time segments is for you to plan your day in advance and schedule a fixed time period for a particular activity or task. Make work appointments with yourself and then discipline yourself to keep them. Set aside 30-60 and 90 minute time segments that you use to work on and complete important tasks.
+Some people allocate specific 30-60 minute time periods each day for exercise. Many people read great books, 15 minutes each night before retiring. In this way, over time, they eventually read dozens, even hundreds, of the best books ever written. Scheduled Blocks of Time The key to the success of this method of working in specific time segments is for you to plan your day in advance and schedule a fixed time period for a particular activity or task.
 
-Many highly productive people schedule specific activities in pre-planned time slots all day long. These people build their work lives around accomplishing key tasks one at a time. As a result, they become more and more productive and eventually produce two times, three times, and five times as much as the average person. Use a Time Planner A time planner broken down by day, hour, and minute and organized in advance can be one of the most powerful personal productivity tools of all.
+Make work appointments with yourself and then discipline yourself to keep them. Set aside 30-60 and 90 minute time segments that you use to work on and complete important tasks. Many highly productive people schedule specific activities in pre-planned time slots all day long. These people build their work lives around accomplishing key tasks one at a time.
 
-It enables you to see where you can consolidate and create blocks of time for concentrated work. During these working times, turn off the telephone, eliminate all distractions, and work non-stop. One of the best work habits of all is to get up early and work at home in the morning for two to three hours. You can get three times as much work done at home without interruptions as you ever could in a busy office where you’re surrounded by people and bombarded by phone calls and emails.
+As a result, they become more and more productive and eventually produce two times, three times, and five times as much as the average person. Use a Time Planner A time planner broken down by day, hour, and minute and organized in advance can be one of the most powerful personal productivity tools of all. It enables you to see where you can consolidate and create blocks of time for concentrated work. During these working times, turn off the telephone, eliminate all distractions, and work non-stop.
 
-Make every minute count. When you fly on business, you can create your office in the air by planning your work thoroughly before you depart. When the plane takes off, you can work non-stop for the entire flight. You’ll be amazed at how much work you can go through when you work steadily in an airplane without interruptions.
+One of the best work habits of all is to get up early and work at home in the morning for two to three hours. You can get three times as much work done at home without interruptions as you ever could in a busy office where you’re surrounded by people and bombarded by phone calls and emails. Make every minute count. When you fly on business, you can create your office in the air by planning your work thoroughly before you depart.
 
-One of the keys to high levels of performance and productivity is to make every minute count. Use travel and transition times, what are often called gifts of time, to complete small chunks of larger tasks. Now here are two exercises for you. Number one, think continually of different ways that you can save, schedule, and consolidate large chunks of time.
+When the plane takes off, you can work non-stop for the entire flight. You’ll be amazed at how much work you can go through when you work steadily in an airplane without interruptions. One of the keys to high levels of performance and productivity is to make every minute count. Use travel and transition times, what are often called gifts of time, to complete small chunks of larger tasks.
 
-Use these times to work on important tasks with the most significant long-term consequences. Number two, make every minute count. Work
+Now here are two exercises for you. Number one, think continually of different ways that you can save, schedule, and consolidate large chunks of time. Use these times to work on important tasks with the most significant long-term consequences. Number two, make every minute count.
+
+Work
 
 
 <a id="sec-022130"></a>
@@ -890,7 +930,7 @@ steadily and continuously without diversion or distraction by planning and prepa
 
 #### Chapter 20, develop a sense of urgency. Napoleon Hill wrote, Do not wait. The time will never be just right.
 
-Start where you stand and work with whatever tools you have at your command, and better tools will be found as you go along. Perhaps the most outwardly identifiable quality of high-performing men and women is action orientation. They are in a hurry to get their key tasks completed. Highly productive people take the time to think, plan and set priorities.
+Start where you stand and work with whatever tools you have at your command, and better tools will be found as you go along. Perhaps, the most outwardly identifiable quality of high-performing men and women is action orientation. They are in a hurry to get their key tasks completed. Highly productive people take the time to think, plan and set priorities.
 
 They then launch quickly and strongly toward their goals and objectives. They work steadily, smoothly and continuously. As a result, they seem to power through enormous amounts of work in the same amount of time that the average person spends socializing, wasting time, and working on low-value activities. Getting into flow.
 

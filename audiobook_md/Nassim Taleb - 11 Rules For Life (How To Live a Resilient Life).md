@@ -20,15 +20,17 @@ The ancient Greeks' definition of success was to have had a heroic death, but as
 
 That’s success. That’s honor. It can be helping the local municipality, for example, I’m given a hint here, or the more micro, the less abstract the better. So success requires absence of fragility.
 
-I’ve seen billionaires terrified of journalists, wealthy people who felt crushed because their brother-in-law got very rich, academics with Nobel who were scared of comments on a web. The higher you go, the worse the fall. For almost all people I’ve met, external, not internal, success came with an increase in fragility and a heightened state of insecurity. The worst are those former something types with four-page CV, who after leaving office and addicted to the attention of servile bureaucrats, find themselves discarded.
+I’ve seen billionaires terrified of journalists, wealthy people who felt crushed because their brother-in-law got very rich, academics with Nobel who were scared of comments on a web. The higher you go, the worse the fall. For almost all people. I’ve met, external, not internal, success came with an increase in fragility and a heightened state of insecurity.
 
-It’s as if you went home one evening to discover that someone suddenly un-emptied your house of all this furniture. Self-respect, on the other hand, is robust. That’s the approach of the Stoic school. So I’ve seen robust people in my village immune who were proud of being, you know, local citizens, you know, liked by the community.
+The worst are those former something types with four-page CV, who after leaving office and addicted to the attention of servile bureaucrats, find themselves discarded. It’s as if you went home one evening to discover that someone suddenly un-emptied your house of all this furniture. Self-respect, on the other hand, is robust. That’s the approach of the Stoic school.
 
-They wake up happy and go to bed happy. Or Russian mathematicians who during the difficult post-Soviet period were proud of making $200 a month and did work that was appreciated by 20 people and considered that showing was decorations or accepting awards, that was a sign of weakness and a lack of confidence in one’s own contribution. And believe it or not, some wealthy people are robust, but you just don’t hear about them because they’re not socialized. They live next door and they drink, do not read newspapers.
+So. I’ve seen robust people in my village immune who were proud of being, you know, local citizens, you know, liked by the community. They wake up happy and go to bed happy. Or Russian mathematicians who during the difficult post-Soviet period were proud of making $200 a month and did work that was appreciated by 20 people and considered that showing was decorations or accepting awards, that was a sign of weakness and a lack of confidence in one’s own contribution.
 
-Do not follow the news in any way or form. To be convinced, go to the library and try to read last year’s newspaper, okay, and that will convince you. Second thing, if something is nonsense, you say it and you say it out loud. You’ll be harmed a little bit, but it’ll be anti-fagile.
+And believe it or not, some wealthy people are robust, but you just don’t hear about them because they’re not socialized. They live next door and they drink, do not read newspapers. Do not follow the news in any way or form. To be convinced, go to the library and try to read last year’s newspaper, okay, and that will convince you.
 
-In the long run, people who need to trust you will trust you. When I was still an obscure author, I walked out of the studio, Bloomberg Radio, because the interviewers, they were saying nonsense. So I just walked out. People told me, you’ll never have any coverage by Bloomberg ever again.
+Second, thing, if something is nonsense, you say it and you say it out loud. You’ll be harmed a little bit, but it’ll be anti-fagile. In the long run, people who need to trust you will trust you. When.
+
+I was still an obscure author, I walked out of the studio, Bloomberg Radio, because the interviewers, they were saying nonsense. So. I just walked out. People told me, you’ll never have any coverage by Bloomberg ever again.
 
 I said, okay, two years later, they had a cover story on me, okay. So if you see nonsense, say it and say it loud. Treat the doorman with a lot of respect, okay, more than if you were the boss. The boss can go down, not the doorman.
 
@@ -38,39 +40,47 @@ If something is boring, avoid it, except, of course, taxes and visits to your mo
 <a id="sec-000504"></a>
 ### ⏱️ [00:05:04 - 00:09:19]
 
-you know, and making things balanced. No. It was that you cannot walk away from risks you’ve created for others. You should own your risks. That’s the idea of Hammurabi’s Code. You cannot have civilized society unless those who create risks aren’t also aware of that risk.
+you know, and making things balanced. No. It was that you cannot walk away from risks you’ve created for others. You should own your risks.
 
-But let’s first look at it from a moral standpoint, okay. You’ve heard the golden rule, do unto others what you want them to do to you, which I, in fact, I find a little intrusive because say I like raw lebanese meat, lebanese kimbi. I’m not going to force you to eat it, all right. So there’s actually, and say I’m a bureaucrat and like this kind of stuff, I don’t enforce you.
+That’s the idea of Hammurabi’s Code. You cannot have civilized society unless those who create risks aren’t also aware of that risk. But let’s first look at it from a moral standpoint, okay. You’ve heard the golden rule, do unto others what you want them to do to you, which.
 
-There is a much more robust silver rule. Don’t do to others what you don’t want them to do to you. And effectively, you can have civilization without the silver rule. People ask me, what should I be doing?
+I, in fact, I find a little intrusive because say. I like raw lebanese meat, lebanese kimbi. I’m not going to force you to eat it, all right. So there’s actually, and say.
 
-Okay. I’m 20 and, you know, I’m going to go somewhere. Start a business. Take risks now.
+I’m a bureaucrat and like this kind of stuff, I don’t enforce you. There is a much more robust silver rule. Don’t do to others what you don’t want them to do to you. And effectively, you can have civilization without the silver rule.
 
-Because everybody wants to work for a GMO to improve the world. As you end up like the UN offices, manufacturing problems. So you hire more staff who fly a business class and have an apartment in Geneva, that kind of stuff. Start a business because we’re tired of people who want to work for NGOs, okay. Start a business, create jobs for others, okay.
+People ask me, what should. I be doing? Okay. I’m 20 and, you know, I’m going to go somewhere.
 
-And do not rent seek. Do not be in rent seeking. Have some skin in the game. Just like, you know, your grandparents probably, one of your grandfathers was at age 18, disembarking in Normandy.
+Start a business. Take risks now. Because everybody wants to work for a GMO to improve the world. As you end up like the UN offices, manufacturing problems.
 
-They took a lot of risk these kids, 18-year-old. Okay. Take some risks. Start a business.
+So you hire more staff who fly a business class and have an apartment in Geneva, that kind of stuff. Start a business because we’re tired of people who want to work for NGOs, okay. Start a business, create jobs for others, okay. And do not rent seek.
 
-Thanks. Because of you, I started doing deadlifting. Yes. So skin in the game.
+Do not be in rent seeking. Have some skin in the game. Just like, you know, your grandparents probably, one of your grandfathers was at age 18, disembarking in Normandy. They took a lot of risk these kids, 18-year-old.
 
-Let me tell you something about deadlifting. I was, no, I was, I had this motto, skin in the game, that you should never tell people what they should be doing. You should tell them what you’re doing, okay. And I had the back injury when I was writing anti-fragile, about seven years ago.
+Okay. Take some risks. Start a business. Thanks.
 
-And I cured it by deadlifting. So, and then I started discovering the value of intense heavy weight on humans, like the bones, stuff like that. And the reason I talk about my own deadlifting is only to say that I have skin in the game. I’m telling you, I had the injuries of a deadlifter.
+Because of you, I started doing deadlifting. Yes. So skin in the game. Let me tell you something about deadlifting.
 
-I’m telling you, so I bear the risk of my advice. I always liked Nassim Taleb’s framing on this, where he said, with my family, I’m a communist. With my close friends, I’m a socialist. You know, at my state level politics, I’m a Democrat.
+I was, no, I was, I had this motto, skin in the game, that you should never tell people what they should be doing. You should tell them what you’re doing, okay. And. I had the back injury when.
 
-At, you know, higher levels, I’m a Republican. And at the federal level, I’m a libertarian, right? So basically, the larger the group of people you have massed together, who have different interests, the less trust there is, the more cheating there is, the better the incentives have to be aligned, the better the system has to work, the more you go towards capitalism. The smaller the group you’re in, you’re in a kibbutz, you’re in your commune, you’re in your house, you’re in your tribe, by all means, be a socialist, with my aunts, with my brother, with my cousins, with my uncles, with my mom, with my family, I’m a socialist.
+I was writing anti-fragile, about seven years ago. And. I cured it by deadlifting. So, and then.
+
+I started discovering the value of intense heavy weight on humans, like the bones, stuff like that. And the reason. I talk about my own deadlifting is only to say that. I have skin in the game.
+
+I’m telling you, I had the injuries of a deadlifter. I’m telling you, so. I bear the risk of my advice. I always liked Nassim Taleb’s framing on this, where he said, with my family, I’m a communist.
+
+With my close friends, I’m a socialist. You know, at my state level politics, I’m a Democrat. At, you know, higher levels, I’m a Republican. And at the federal level, I’m a libertarian, right?
+
+So basically, the larger the group of people you have massed together, who have different interests, the less trust there is, the more cheating there is, the better the incentives have to be aligned, the better the system has to work, the more you go towards capitalism. The smaller the group you’re in, you’re in a kibbutz, you’re in your commune, you’re in your house, you’re in your tribe, by all means, be a socialist, with my aunts, with my brother, with my cousins, with my uncles, with my mom, with my family, I’m a socialist.
 
 That’s the right way to live a loving, happy, integrated life. But when you’re dealing with strangers, I mean, you want to be a real socialist? Great. Open all your doors and windows tomorrow.
 
-Please, everybody, come take what you want. See how that works out. And there are a lot of rules in my book. So I am going to end up with no-no’s, the things to avoid completely.
+Please, everybody, come take what you want. See how that works out. And there are a lot of rules in my book. So.
 
-Muscles without strength. Friendship without trust. Opinion without risk. Change without aesthetics.
+I am going to end up with no-no’s, the things to avoid completely. Muscles without strength. Friendship without trust. Opinion without risk.
 
-Age without values. Food without nourishment. Power without fairness. Facts without rigor.
+Change without aesthetics. Age without values. Food without nourishment. Power without fairness.
 
-Degrees without a tradition. Militarism without fortitude. Progress without civilization. Complication without depth.
+Facts without rigor. Degrees without a tradition. Militarism without fortitude. Progress without civilization.
 
-Fluency without content. And most of all, religion without tolerance. Thank you.
+Complication without depth. Fluency without content. And most of all, religion without tolerance. Thank you.
 

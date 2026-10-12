@@ -104,33 +104,55 @@
 <a id="sec-000000"></a>
 ### ⏱️ [00:00:00 - 00:05:04]
 
-Macmillan audio presents talk like Ted the nine public speaking secrets of the world’s top minds by Carmine Gallo Read for you by Carmine Gallo Fred Berman and Kathleen McInerney introduction Ideas are the currency of the 21st century I’m a learning machine, and this is the place to learn Tony Robbins Ted 2006 Ideas are the currency of the 21st century Some people are exceptionally good at presenting their ideas their skill elevates their stature and influence in today’s society There’s nothing more inspiring than a bold idea delivered by a great speaker ideas Effectively packaged and delivered can change the world So wouldn’t it be amazing to identify the exact techniques shared by the world’s greatest Communicators to watch them deliver jaw-dropping presentations and to apply their secrets to wow your audiences Now you can thanks to a world-famous conference that posts its best presentations for free on the internet Ted which stands for technology? education design a scientific analysis of hundreds of Ted presentations direct interviews with Ted’s most popular speakers and my Personal insights gleaned from years of coaching inspiring leaders of the world’s most admired brands Talk like Ted is for anyone who wants to speak with more confidence and authority It’s for anyone who delivers presentations sells products and services or leads people who need to be inspired if You have ideas worth sharing the techniques in this book will help you craft and deliver those ideas far more persuasively than you’ve ever imagined in March 2012 civil rights attorney Brian Stevenson delivered a talk to 1,000 people Attending the annual Ted conference in Long Beach, California He received the longest standing ovation in Ted history and his presentation has been viewed nearly 2 million times online For 18 minutes Stevenson held the audience spellbound by appealing to their heads and their hearts the combination worked Stevenson told me that the attendees that they donated a combined 1 million dollars to his nonprofit the equal justice initiative That’s over $55,000 for each minute he spoke Stevenson did not deliver a PowerPoint presentation He offered no visuals no slides.
+Macmillan audio presents talk like Ted the nine public speaking secrets of the world’s top minds by Carmine Gallo Read for you by Carmine Gallo Fred Berman and Kathleen McInerney introduction Ideas are the currency of the 21st century. I’m a learning machine, and this is the place to learn Tony Robbins Ted 2006 Ideas are the currency of the 21st century Some people are exceptionally good at presenting their ideas their skill elevates their stature and influence in today’s society.
 
-No props the power of his narrative carried the day Some popular Ted speakers prefer to use PowerPoint to reinforce the impact of their narrative in March 2011 Professor David Christian launched a movement to teach big history in schools after delivering a riveting 18-minute Ted talk backed by visually engaging slides and intriguing graphics Big history teaches students how the world evolved and its place in the universe Christian’s presentation which covers 13 billion years of history in 18 minutes has been viewed more than 1 million times Christian and Stevenson have seemingly different presentation styles and you’ll hear from both of them in this book One tell stories the other delivers mountains of data with image rich slides Yet both are captivating entertaining and inspiring because they share nine secrets They understand the science and the art of persuasion after analyzing more than 500 Ted presentations more than a hundred and fifty hours and speaking directly to successful Ted speakers I’ve discovered that the most popular Ted presentations share nine common elements I’ve interviewed some of the world’s leading neuroscientists Psychologists and communication experts to gain a better understanding of why the principles that underlie these elements work as well as they do Best of all when you learn the secrets these communicators share You can adopt them to stand out in your very next pitch or presentation These are techniques.
+There’s nothing more inspiring than a bold idea delivered by a great speaker ideas Effectively packaged and delivered can change the world. So wouldn’t it be amazing to identify the exact techniques shared by the world’s greatest Communicators to watch them deliver jaw-dropping presentations and to apply their secrets to wow your audiences. Now you can thanks to a world-famous conference that posts its best presentations for free on the internet Ted which stands for technology? education design a scientific analysis of hundreds of Ted presentations direct interviews with Ted’s most popular speakers and my Personal insights gleaned from years of coaching inspiring leaders of the world’s most admired brands Talk like Ted is for anyone who wants to speak with more confidence and authority.
 
-I’ve used for years to coach CEOs Entrepreneurs and leaders who have invented products or run companies that touch your life every day
+It’s for anyone who delivers presentations sells products and services or leads people who need to be inspired if. You have ideas worth sharing the techniques in this book will help you craft and deliver those ideas far more persuasively than you’ve ever imagined in March 2012 civil rights attorney Brian Stevenson delivered a talk to 1,000 people Attending the annual Ted conference in Long Beach, California. He received the longest standing ovation in Ted history and his presentation has been viewed nearly 2 million times online.
+
+For 18 minutes Stevenson held the audience spellbound by appealing to their heads and their hearts the combination worked Stevenson told me that the attendees that they donated a combined 1 million dollars to his nonprofit the equal justice initiative. That’s over $55,000 for each minute he spoke Stevenson did not deliver a PowerPoint presentation. He offered no visuals no slides. No props the power of his narrative carried the day Some popular Ted speakers prefer to use PowerPoint to reinforce the impact of their narrative in March 2011 Professor David Christian launched a movement to teach big history in schools after delivering a riveting 18-minute Ted talk backed by visually engaging slides and intriguing graphics Big history teaches students how the world evolved and its place in the universe Christian’s presentation which covers 13 billion years of history in 18 minutes has been viewed more than 1 million times Christian and Stevenson have seemingly different presentation styles and you’ll hear from both of them in this book One tell stories the other delivers mountains of data with image rich slides Yet both are captivating entertaining and inspiring because they share nine secrets.
+
+They understand the science and the art of persuasion after analyzing more than 500 Ted presentations more than a hundred and fifty hours and speaking directly to successful Ted speakers. I’ve discovered that the most popular Ted presentations share nine common elements. I’ve interviewed some of the world’s leading neuroscientists Psychologists and communication experts to gain a better understanding of why the principles that underlie these elements work as well as they do Best of all when you learn the secrets these communicators share.
+
+You can adopt them to stand out in your very next pitch or presentation. These are techniques. I’ve used for years to coach CEOs Entrepreneurs and leaders who have invented products or run companies that touch your life every day
 
 
 <a id="sec-000504"></a>
 ### ⏱️ [00:05:04 - 00:10:05]
 
-While you may never speak at an actual Ted conference if you want to succeed in business You’d better be able to deliver a Ted worthy presentation It represents a bold fresh contemporary and compelling style that will help you win over your audience ideas worth spreading Richard Saul Wurman created the TED conference in 1984 as a one-time event Six years later. It was reinvented as a four-day conference in Monterey, California for $475 attendees could watch a variety of lectures on topics covering technology education and design Ted Technology magazine publisher Chris Anderson purchased the conference in 2001 and Relocated it to Long Beach, California in 2009 in 2014 the TED conference begins a run in Vancouver, Canada reflecting its growing international appeal Until 2005 Ted was a once-a-year event four days 50 speakers 18-minute presentations in that year Anderson added a sister conference called Ted global to reach an international audience In 2009 the organization began granting licenses to third parties who could organize their own community level TEDx events Within three years more than 16,000 talks have been delivered at TEDx events around the world today There are five TEDx events organized every day in more than a hundred and thirty countries Despite the astonishing growth in the conference business Ted speakers were introduced to a much larger global audience through the launch of TED.com in June 2006 The site posted six talks to test the market Six months later the site only had about 40 presentations Yet had attracted more than 3 million views The world was and still is clearly hungry for great ideas presented in an engaging way on November 13 2012 Ted.com presentations had reached 1 billion views And now they’re viewed at the rate of 1.5 million times per day the videos are translated in up to 90 languages and 17 new viewings of Ted presentations start every second of every day According to Chris Anderson, it used to be 800 people getting together once a year Now it’s about a million people a day watching TED talks online When we first put up a few of the talks as an experiment We got such an impassioned response that we decided to flip the organization on its head and think of ourselves Not so much as a conference But as ideas worth spreading and building a big website around it The conference is still the engine, but the website is the amplifier that takes the ideas to the world The first six TED talks posted online are considered classics among fans who affectionately call themselves Ted Stirs the speakers included Al Gore Sir Ken Robinson and Tony Robbins Some of these speakers use traditional presentation slides others did not but they all delivered talks that were emotional novel and memorable Today Ted has become such an influential platform Famous actors and musicians make a beeline to the TED stage when they have ideas to share a few days after accepting the Oscar for best picture Argo director Ben Affleck appeared at Ted in Long Beach to talk about his work in the Congo earlier in the week you to singer Bono delivered a presentation on the success of Anti-poverty campaigns around the world when celebrities want to be taken seriously.
+While you may never speak at an actual Ted conference if you want to succeed in business. You’d better be able to deliver a Ted worthy presentation. It represents a bold fresh contemporary and compelling style that will help you win over your audience ideas worth spreading Richard Saul Wurman created the TED conference in 1984 as a one-time event Six years later. It was reinvented as a four-day conference in Monterey, California for $475 attendees could watch a variety of lectures on topics covering technology education and design Ted Technology magazine publisher Chris Anderson purchased the conference in 2001 and Relocated it to Long Beach, California in 2009 in 2014 the TED conference begins a run in Vancouver, Canada reflecting its growing international appeal Until 2005 Ted was a once-a-year event four days 50 speakers 18-minute presentations in that year Anderson added a sister conference called Ted global to reach an international audience.
 
-They hit the TED stage Facebook COO Cheryl Sandberg wrote her bestseller lean in after her TED presentation on the subject of women in the workplace went viral on TED.com Ted presentations change the way people see the world and our springboards to launch movements in the areas of art design business education health science technology and global issues documentary filmmaker Daphne Zuniga attended the 2006 conference She described it as a gathering where the world’s top entrepreneurs designers scientists and artists Present astonishing new ideas in what can only be described as a Cirque du Soleil for the mind There’s no event like it.
+In 2009 the organization began granting licenses to third parties who could organize their own community level TEDx events Within three years more than 16,000 talks have been delivered at TEDx events around the world today. There are five TEDx events organized every day in more than a hundred and thirty countries Despite the astonishing growth in the conference business Ted speakers were introduced to a much larger global audience through the launch of TED.com in June 2006 The site posted six talks to test the market Six months later the site only had about 40 presentations Yet had attracted more than 3 million views The world was and still is clearly hungry for great ideas presented in an engaging way on November 13 2012 Ted.com presentations had reached 1 billion views.
 
-She said it’s four days of learning passion and inspiration
+And now they’re viewed at the rate of 1.5 million times per day the videos are translated in up to 90 languages and 17 new viewings of Ted presentations start every second of every day According to Chris Anderson, it used to be 800 people getting together once a year. Now it’s about a million people a day watching TED talks online. When we first put up a few of the talks as an experiment. We got such an impassioned response that we decided to flip the organization on its head and think of ourselves Not so much as a conference.
+
+But as ideas worth spreading and building a big website around it The conference is still the engine, but the website is the amplifier that takes the ideas to the world The first six TED talks posted online are considered classics among fans who affectionately call themselves Ted Stirs the speakers included Al Gore Sir Ken Robinson and Tony Robbins Some of these speakers use traditional presentation slides others did not but they all delivered talks that were emotional novel and memorable Today Ted has become such an influential platform Famous actors and musicians make a beeline to the TED stage when they have ideas to share a few days after accepting the Oscar for best picture Argo director Ben Affleck appeared at Ted in Long Beach to talk about his work in the Congo earlier in the week you to singer Bono delivered a presentation on the success of Anti-poverty campaigns around the world when celebrities want to be taken seriously.
+
+They hit the TED stage Facebook COO Cheryl Sandberg wrote her bestseller lean in after her TED presentation on the subject of women in the workplace went viral on TED.com Ted presentations change the way people see the world and our springboards to launch movements in the areas of art design business education health science technology and global issues documentary filmmaker Daphne Zuniga attended the 2006 conference. She described it as a gathering where the world’s top entrepreneurs designers scientists and artists Present astonishing new ideas in what can only be described as a Cirque du Soleil for the mind.
+
+There’s no event like it. She said it’s four days of learning passion and inspiration
 
 
 <a id="sec-001005"></a>
 ### ⏱️ [00:10:05 - 00:15:05]
 
-Stimulating intellectually, but I never thought the ideas I heard would move my heart as well Oprah Winfrey once put it even more succinctly Ted is where brilliant people go to hear other brilliant people share ideas the presentation secrets of Steve Jobs I’m in a unique position to analyze Ted presentations I wrote a book titled the presentation secrets of Steve Jobs which went on to become an international bestseller Famous CEOs are known to have adopted the principles revealed in the book and hundreds of thousands of professionals around the world are using the method to transform their presentations I was flattered by the attention But I wanted to reassure readers that the techniques I explored in presentation secrets were not exclusive to Steve Jobs The Apple co-founder and technology visionary just happened to be very good at putting them all together The techniques were very Ted like In the book I make the point that Steve Jobs is famous commencement speech at Stanford University in 2005 was a magnificent illustration of his ability to captivate an audience Ironically, the commencement speech is one of the most popular videos on ted.com While it’s not officially a Ted talk it contains the same elements as the best Ted presentations and has been viewed more than 15 million times Here’s what Steve Jobs told the graduates Your time is limited.
+Stimulating intellectually, but. I never thought the ideas. I heard would move my heart as well Oprah Winfrey once put it even more succinctly Ted is where brilliant people go to hear other brilliant people share ideas the presentation secrets of Steve Jobs. I’m in a unique position to analyze Ted presentations.
 
-So don’t waste it living someone else’s life Don’t be trapped by dogma, which is living with the results of other people’s thinking Don’t let the noise of others opinions drown out your inner voice and most important have the courage to follow your heart and intuition They somehow already know what you truly want to become Jobs’s words spoke directly to the type of people who are moved by Ted presentations. They’re seekers They’re eager to learn they’re discontent with the status quo They’re looking for inspiring and innovative ideas that move the world forward with Steve Jobs You learn the techniques from one master in talk like Ted you get them all Dale Carnegie for the 21st century Talk like Ted digs far deeper into the science of communication than almost any book on the market today It introduces you to men and women scientists authors educators environmentalist and famous leaders who prepare and deliver the talk of their lives every one of the more than 1500 Presentations available for free on the Ted website can teach you something about public speaking When I first started thinking about writing a book on the public speaking secrets of Ted talks I thought of it as the Dale Carnegie for the 21st century You see Carnegie wrote the first mass market public speaking and self-help book in 1915 It was called the art of public speaking Carnegie’s intuition was impeccable.
+I wrote a book titled the presentation secrets of Steve Jobs which went on to become an international bestseller Famous CEOs are known to have adopted the principles revealed in the book and hundreds of thousands of professionals around the world are using the method to transform their presentations. I was flattered by the attention. But I wanted to reassure readers that the techniques. I explored in presentation secrets were not exclusive to Steve Jobs The Apple co-founder and technology visionary just happened to be very good at putting them all together The techniques were very Ted like.
 
-He recommended that speakers keep their talks short He said stories were powerful ways of connecting emotionally with your audience He suggested the use of rhetorical devices such as metaphors and analogies Three quarters of a century before PowerPoint was invented Carnegie was talking about using visual aids He understood the importance of enthusiasm practice and a strong delivery to move people Everything Carnegie recommended in 1915 remains the foundation of effective communication to this day While Carnegie had the right idea. He did not have the tools available today Scientists using MRI machines can scan people’s brains to see exactly What areas are being activated when a subject performs a specific task such as speaking or listening to somebody else?
+In the book. I make the point that Steve Jobs is famous commencement speech at Stanford University in 2005 was a magnificent illustration of his ability to captivate an audience Ironically, the commencement speech is one of the most popular videos on ted.com. While it’s not officially a Ted talk it contains the same elements as the best Ted presentations and has been viewed more than 15 million times. Here’s what Steve Jobs told the graduates.
 
-This technology and other tools of modern science have led to an avalanche of studies in the area of communication The secrets revealed in this book are supported by the latest science from the best minds on the planet and they work Is passion contagious? You’ll find out Can telling stories actually sink your mind with that of the person listening to you? You’ll discover the answer Why does an 18 minute presentation trump a 60 minute one? And why did video of Bill Gates releasing mosquitoes into an audience go viral?
+Your time is limited. So don’t waste it living someone else’s life Don’t be trapped by dogma, which is living with the results of other people’s thinking Don’t let the noise of others opinions drown out your inner voice and most important have the courage to follow your heart and intuition. They somehow already know what you truly want to become Jobs’s words spoke directly to the type of people who are moved by Ted presentations. They’re seekers.
+
+They’re eager to learn they’re discontent with the status quo. They’re looking for inspiring and innovative ideas that move the world forward with Steve Jobs. You learn the techniques from one master in talk like Ted you get them all Dale Carnegie for the 21st century Talk like Ted digs far deeper into the science of communication than almost any book on the market today. It introduces you to men and women scientists authors educators environmentalist and famous leaders who prepare and deliver the talk of their lives every one of the more than 1500 Presentations available for free on the Ted website can teach you something about public speaking.
+
+When I first started thinking about writing a book on the public speaking secrets of Ted talks. I thought of it as the Dale Carnegie for the 21st century. You see Carnegie wrote the first mass market public speaking and self-help book in 1915. It was called the art of public speaking Carnegie’s intuition was impeccable.
+
+He recommended that speakers keep their talks short. He said stories were powerful ways of connecting emotionally with your audience. He suggested the use of rhetorical devices such as metaphors and analogies Three quarters of a century before PowerPoint was invented Carnegie was talking about using visual aids. He understood the importance of enthusiasm practice and a strong delivery to move people Everything Carnegie recommended in 1915 remains the foundation of effective communication to this day.
+
+While Carnegie had the right idea. He did not have the tools available today Scientists using MRI machines can scan people’s brains to see exactly. What areas are being activated when a subject performs a specific task such as speaking or listening to somebody else? This technology and other tools of modern science have led to an avalanche of studies in the area of communication The secrets revealed in this book are supported by the latest science from the best minds on the planet and they work Is passion contagious?
+
+You’ll find out Can telling stories actually sink your mind with that of the person listening to you? You’ll discover the answer. Why does an 18 minute presentation trump a 60 minute one? And why did video of Bill Gates releasing mosquitoes into an audience go viral?
 
 You’ll learn the answer to those questions, too Carnegie also lacked the most powerful tool that we can use to learn the art of public speaking,
 
@@ -144,17 +166,17 @@ The most popular TED speakers give presentations that stand out in a sea of idea
 
 It will teach you how to incorporate the elements that all inspiring presentations share, and it will show you how to reimagine the way you see yourself as a leader and a communicator. Remember, if you can’t inspire anyone else with your ideas, it won’t matter how great those ideas are. Ideas are only as good as the actions that follow the communication of those ideas. Talk like TED is divided into three parts, each revealing three components of an inspiring presentation.
 
-The most engaging presentations are emotional, they touch my heart, novel, they teach me something new, and memorable, they present content in ways I’ll never forget, emotional. Great communicators reach your head and touch your heart. Most people who deliver a presentation forget the heart part. In chapter one, you’ll learn how to unleash the master within by identifying what it is that you are truly passionate about.
+The most engaging presentations are emotional, they touch my heart, novel, they teach me something new, and memorable, they present content in ways. I’ll never forget, emotional. Great communicators reach your head and touch your heart. Most people who deliver a presentation forget the heart part.
 
-You will hear about research, never published in the popular press, that explains why passion is the key to mastering a skill like public speaking. Chapter two teaches you how to master the art of storytelling and why stories help your listeners get emotionally attached to your topic. You’ll learn about new research that shows how stories actually sink your mind to those of your audience, allowing you to create far deeper and much more meaningful connections than you’ve ever experienced. In chapter three, you will learn how TED presenters exhibit body language and verbal delivery that is genuine and natural, almost as if they’re having a conversation instead of addressing a large audience.
+In chapter one, you’ll learn how to unleash the master within by identifying what it is that you are truly passionate about. You will hear about research, never published in the popular press, that explains why passion is the key to mastering a skill like public speaking. Chapter two teaches you how to master the art of storytelling and why stories help your listeners get emotionally attached to your topic. You’ll learn about new research that shows how stories actually sink your mind to those of your audience, allowing you to create far deeper and much more meaningful connections than you’ve ever experienced.
 
-You’ll also meet speakers who have spent 200 hours rehearsing a presentation, and you’ll learn how they practiced. You will learn techniques to make your presence and delivery much more comfortable and impactful. Novel. According to the neuroscientist I’ve interviewed, novelty is the single most effective way to capture a person’s attention.
+In chapter three, you will learn how TED presenters exhibit body language and verbal delivery that is genuine and natural, almost as if they’re having a conversation instead of addressing a large audience. You’ll also meet speakers who have spent 200 hours rehearsing a presentation, and you’ll learn how they practiced. You will learn techniques to make your presence and delivery much more comfortable and impactful. Novel.
 
-YouTube Trends Manager Kevin Oloka told a TED audience that in a world where two days of video get uploaded every minute, only that which is truly unique and unexpected can stand out. The brain cannot ignore novelty, and after you adopt the techniques in this section, your listeners will not be able to ignore you. In chapter four, we’ll explore how the greatest TED presenters engage their audiences with new information or a unique approach to an area of study. Chapter five is about delivering jaw-dropping moments, highlighting those speakers who carefully, consciously design and deliver wow moments their audiences are still talking about years later.
+According to the neuroscientist. I’ve interviewed, novelty is the single most effective way to capture a person’s attention. YouTube Trends Manager Kevin Oloka told a TED audience that in a world where two days of video get uploaded every minute, only that which is truly unique and unexpected can stand out. The brain cannot ignore novelty, and after you adopt the techniques in this section, your listeners will not be able to ignore you.
 
-Chapter six addresses the sensitive but important element of genuine humor, when to use it, how to use it, and how to be funny without telling a joke. Humor is unique to each presenter, and it must be incorporated into your personal style of presenting. Memorable. You may have novel ideas, but if your audience cannot recall what you said, those ideas don’t matter.
+In chapter four, we’ll explore how the greatest TED presenters engage their audiences with new information or a unique approach to an area of study. Chapter five is about delivering jaw-dropping moments, highlighting those speakers who carefully, consciously design and deliver wow moments their audiences are still talking about years later. Chapter six addresses the sensitive but important element of genuine humor, when to use it, how to use it, and how to be funny without telling a joke. Humor is unique to each presenter, and it must be incorporated into your personal style of presenting.
 
-In chapter seven, I explore why the 18-minute TED presentation is the ideal length of time to get your point across, and yes, there is science to back it up. Chapter eight covers the importance of creating vivid, multi-sensory experiences,
+Memorable. You may have novel ideas, but if your audience cannot recall what you said, those ideas don’t matter. In chapter seven, I explore why the 18-minute TED presentation is the ideal length of time to get your point across, and yes, there is science to back it up. Chapter eight covers the importance of creating vivid, multi-sensory experiences,
 
 
 <a id="sec-002007"></a>
@@ -190,31 +212,31 @@ As a child, Mullins had no input into that decision, but as she grew up, she ref
 <a id="sec-002510"></a>
 ### ⏱️ [00:25:10 - 00:30:11]
 
-that prosthetic limbs would give her superpowers that others could only dream of. Mullins redefines what it means to be disabled. As she told comedian and talk show host Stephen Colbert, many actresses have more prosthetic material in their breasts than she does in her whole body, and we don’t call half of Hollywood disabled. Mullins tapped her superpower, her prosthetic limbs, to run track for an NCAA Division I program at Georgetown University.
+that prosthetic limbs would give her superpowers that others could only dream of. Mullins redefines what it means to be disabled. As she told comedian and talk show host Stephen Colbert, many actresses have more prosthetic material in their breasts than she does in her whole body, and we don’t call half of Hollywood disabled. Mullins tapped her superpower, her prosthetic limbs, to run track for an NCAA Division.
 
-She broke three world records in track and field at the 1996 Paralympics. She became a fashion model and an actress and landed a spot on People magazine’s annual list of the 50 most beautiful people. In 2009, the 5'8 Mullins stood on the TED stage at 6'1", the height she chose for the occasion. Mullins picks different legs to suit the event.
+I program at Georgetown University. She broke three world records in track and field at the 1996 Paralympics. She became a fashion model and an actress and landed a spot on People magazine’s annual list of the 50 most beautiful people. In 2009, the 5'8 Mullins stood on the TED stage at 6'1", the height she chose for the occasion.
 
-She uses more functional limbs for walking the streets of Manhattan and more fashionable ones for fancy parties. Mullins believed her TED appearance began a conversation that profoundly changed the way society looks at people with disabilities. Innovators, designers, and artists outside the traditional prosthetic medical community were inspired to see how creative and lifelike they could make legs. Ted literally was the launch pad to the next decade of my life’s exploration.
+Mullins picks different legs to suit the event. She uses more functional limbs for walking the streets of Manhattan and more fashionable ones for fancy parties. Mullins believed her TED appearance began a conversation that profoundly changed the way society looks at people with disabilities. Innovators, designers, and artists outside the traditional prosthetic medical community were inspired to see how creative and lifelike they could make legs.
 
-It is no longer a conversation about overcoming deficiency. It’s a conversation about potential. A prosthetic limb doesn’t represent the need to replace loss anymore. So people that society once considered to be disabled can now become the architects of their own identities and, indeed, continue to change those identities by designing their bodies from a place of empowerment.
+Ted literally was the launch pad to the next decade of my life’s exploration. It is no longer a conversation about overcoming deficiency. It’s a conversation about potential. A prosthetic limb doesn’t represent the need to replace loss anymore.
 
-It is our humanity and all the potential within it that makes us beautiful. Mullins' determination made her a world-class athlete, but her passion won the hearts of the TED audience. Secret number one, unleash the master within. Dig deep to identify your unique and meaningful connection to your presentation topic.
+So people that society once considered to be disabled can now become the architects of their own identities and, indeed, continue to change those identities by designing their bodies from a place of empowerment. It is our humanity and all the potential within it that makes us beautiful. Mullins' determination made her a world-class athlete, but her passion won the hearts of the TED audience. Secret number one, unleash the master within.
 
-Passion leads to mastery, and your presentation is nothing without it. But keep in mind that what fires you up might not be the obvious. Amy Mullins is not passionate about prosthetics. She’s passionate about unleashing human potential.
+Dig deep to identify your unique and meaningful connection to your presentation topic. Passion leads to mastery, and your presentation is nothing without it. But keep in mind that what fires you up might not be the obvious. Amy Mullins is not passionate about prosthetics.
 
-Why it works. Science shows that passion is contagious, literally. You cannot inspire others unless you’re inspired yourself. You stand a much greater chance of persuading and inspiring your listeners if you express an enthusiastic, passionate, and meaningful connection to the topic.
+She’s passionate about unleashing human potential. Why it works. Science shows that passion is contagious, literally. You cannot inspire others unless you’re inspired yourself.
 
-In October 2012, Cameron Russell told a TEDx audience, looks aren’t everything. Cliché? Yes, if it had been delivered by anyone else. Russell, however, is a successful fashion model.
+You stand a much greater chance of persuading and inspiring your listeners if you express an enthusiastic, passionate, and meaningful connection to the topic. In October 2012, Cameron Russell told a TEDx audience, looks aren’t everything. Cliché? Yes, if it had been delivered by anyone else.
 
-Within 30 seconds of taking the stage, Russell changed her outfit. She covered her revealing, tight-fitting black dress with a wrap-around skirt, replaced her 8-inch heels with very plain shoes, and pulled a turtleneck sweater over her head. Why did I just do that? She asked the audience.
+Russell, however, is a successful fashion model. Within 30 seconds of taking the stage, Russell changed her outfit. She covered her revealing, tight-fitting black dress with a wrap-around skirt, replaced her 8-inch heels with very plain shoes, and pulled a turtleneck sweater over her head. Why did.
 
-Because image is powerful. But also, image is superficial. I just totally transformed what you thought of me in six seconds. Russell explained that she’s an underwear model, who has walked runaways for Victoria’s Secret and has appeared on the covers of fashion magazines.
+I just do that? She asked the audience. Because image is powerful. But also, image is superficial.
 
-While Russell acknowledges that modeling has been good to her and paid for college, she’s also keenly aware that she, won the genetic lottery. Russell showed the audience a series of before and after photos. The before photos revealed what she looked like earlier in the day of a photo shoot. The after photos displayed the final advertisement.
+I just totally transformed what you thought of me in six seconds. Russell explained that she’s an underwear model, who has walked runaways for Victoria’s Secret and has appeared on the covers of fashion magazines. While Russell acknowledges that modeling has been good to her and paid for college, she’s also keenly aware that she, won the genetic lottery. Russell showed the audience a series of before and after photos.
 
-Of course, the two photographs did not look at all alike. In one photo, Russell, who was just 16 years old at the time, was seductively posed with a young man whose hand was placed in the back pocket of her jeans. Russell had never even had a boyfriend at the time of the shoot. Here’s what she said. by a group of professionals, by hair stylists and makeup artists and photographers and stylists and all of their assistants and pre-production and post-production.
+The before photos revealed what she looked like earlier in the day of a photo shoot. The after photos displayed the final advertisement. Of course, the two photographs did not look at all alike. In one photo, Russell, who was just 16 years old at the time, was seductively posed with a young man whose hand was placed in the back pocket of her jeans.
 
-They build this.
+Russell had never even had a boyfriend at the time of the shoot. Here’s what she said. by a group of professionals, by hair stylists and makeup artists and photographers and stylists and all of their assistants and pre-production and post-production. They build this.
 
 
 <a id="sec-003011"></a>
@@ -236,15 +258,19 @@ Feeling bored and restless, our minds shut off and we become increasingly passiv
 
 In any language, on any continent, in every country, those speakers who genuinely express their passion and enthusiasm for the topic are the ones who stand apart as inspiring leaders. They’re the ones with whom customers want to conduct business. For years, I started with the same question during my coaching sessions with a client. What are you passionate about?
 
-In the early stage of building a story, I don’t care about the product as much as I care about why the speaker is fired up about the product or the service. Howard Schultz, the founder of Starbucks, once told me he wasn’t passionate about coffee as much as he was passionate about building a third place between work and home, a place where employees would be treated with respect and offer exceptional customer service. You see, coffee is the product, but Starbucks is in the business of customer service.
+In the early stage of building a story, I don’t care about the product as much as. I care about why the speaker is fired up about the product or the service. Howard Schultz, the founder of Starbucks, once told me he wasn’t passionate about coffee as much as he was passionate about building a third place between work and home, a place where employees would be treated with respect and offer exceptional customer service. You see, coffee is the product, but Starbucks is in the business of customer service.
 
-Tony Hsieh, the founder of online retailer Zappos, is not passionate about shoes. He told me he’s passionate about, quote, delivering happiness. The questions he asks himself are, how do I make my employees happy? How do I make my customers happy?
+Tony Hsieh, the founder of online retailer Zappos, is not passionate about shoes. He told me he’s passionate about, quote, delivering happiness. The questions he asks himself are, how do. I make my employees happy?
 
-The questions you ask will lead to a very different set of results. Asking yourself what’s my product isn’t nearly as effective as asking yourself, what business am I really in? What am I truly passionate about? Tony Hsieh is so passionate about customer service and employee engagement, he’s a sought-after speaker at events and conferences around the world.
+How do. I make my customers happy? The questions you ask will lead to a very different set of results. Asking yourself what’s my product isn’t nearly as effective as asking yourself, what business am.
 
-Since many speakers are bone dry because they have no passionate attachment to the topic, watching an enthusiastic speaker is as refreshing as drinking ice-cold water in the desert. What Makes Your Heart Sing Recently, I’ve started to change the question I ask of my executive clients who want to become better communicators. In his last major public presentation, Steve Jobs said, it’s the intersection of technology and liberal arts that makes our hearts sing. So now I’ve replaced, what are you passionate about with, what makes your heart sing?
+I really in? What am. I truly passionate about? Tony Hsieh is so passionate about customer service and employee engagement, he’s a sought-after speaker at events and conferences around the world.
 
-The answer to the second question is even more profound and exciting than the former. For example, I worked with a client in the agribusiness community of California.
+Since many speakers are bone dry because they have no passionate attachment to the topic, watching an enthusiastic speaker is as refreshing as drinking ice-cold water in the desert. What Makes. Your Heart Sing Recently, I’ve started to change the question. I ask of my executive clients who want to become better communicators.
+
+In his last major public presentation, Steve Jobs said, it’s the intersection of technology and liberal arts that makes our hearts sing. So now. I’ve replaced, what are you passionate about with, what makes your heart sing? The answer to the second question is even more profound and exciting than the former.
+
+For example, I worked with a client in the agribusiness community of California.
 
 
 <a id="sec-003516"></a>
@@ -268,39 +294,49 @@ He’s not just pleased with his life, he’s really, really happy. Scientifical
 
 The study was conducted on hundreds of people who practiced meditation and they were rated on a happiness scale. Ricard didn’t just score above average, the researchers could not find anything like it in the neuroscience literature. Ricard isn’t all that happy about being labeled the happiest man in the world. He said, in truth, anyone can find happiness if he or she looks for it in the right place.
 
-Ricard’s presentation, The Habits of Happiness, attracted more than 2 million views on TED.com. I believe Ricard’s presentation was well received because he radiates the joy of someone who is deeply committed to his topic. Indeed, Ricard told me, these ideas are dear to me, not only because they brought me a lot of fulfillment, but because I’m convinced they can bring some good to society. I am passionate to show that altruism and compassion are not luxuries, but essential needs to answer the challenges of our modern world.
+Ricard’s presentation, The Habits of Happiness, attracted more than 2 million views on TED.com. I believe Ricard’s presentation was well received because he radiates the joy of someone who is deeply committed to his topic. Indeed, Ricard told me, these ideas are dear to me, not only because they brought me a lot of fulfillment, but because. I’m convinced they can bring some good to society.
 
-So whenever I’m asked to join a conference, I’m glad to do so, and to be able to share my ideas. Successful speakers, like Ricard, can’t wait to share their ideas. They have charisma, and charisma is directly associated with how much passion the speaker has for his or her content. Charismatic speakers radiate joy and passion, the joy of sharing their experience and passion for how their ideas, products, or services will benefit their audiences.
+I am passionate to show that altruism and compassion are not luxuries, but essential needs to answer the challenges of our modern world. So whenever. I’m asked to join a conference, I’m glad to do so, and to be able to share my ideas. Successful speakers, like Ricard, can’t wait to share their ideas.
 
-According to Ricard, the best way to communicate with anyone is to first check the quality of your motivation. Is my motivation selfish or altruistic? Is my benevolence aimed at just a few, or at the greater number, for their short term or their long term? Once we have a clear motivation, then communication flows easily.
+They have charisma, and charisma is directly associated with how much passion the speaker has for his or her content. Charismatic speakers radiate joy and passion, the joy of sharing their experience and passion for how their ideas, products, or services will benefit their audiences. According to Ricard, the best way to communicate with anyone is to first check the quality of your motivation. Is my motivation selfish or altruistic?
 
-Amazingly, if your motivation is to share your passion with your audience, it’s likely that you’ll feel less nervous about speaking in public, or delivering that all-important presentation in front of your boss. I asked Ricard how he remains calm and relaxed in front of large audiences. Ricard believes that anyone can talk him or herself into feeling joy, bliss, and happiness when they choose to do so. It all comes down to your motivation.
+Is my benevolence aimed at just a few, or at the greater number, for their short term or their long term? Once we have a clear motivation, then communication flows easily. Amazingly, if your motivation is to share your passion with your audience, it’s likely that you’ll feel less nervous about speaking in public, or delivering that all-important presentation in front of your boss. I asked Ricard how he remains calm and relaxed in front of large audiences.
+
+Ricard believes that anyone can talk him or herself into feeling joy, bliss, and happiness when they choose to do so. It all comes down to your motivation.
 
 
 <a id="sec-004017"></a>
 ### ⏱️ [00:40:17 - 00:45:17]
 
-If your only goal is to make a sale or to elevate your stature, you might fail to connect with your audience, and you’ll place a lot of pressure on yourself. If, however, your goal is more altruistic, giving your audience information to help them lead better lives, you’ll make a deeper connection and feel more comfortable in your role. Ricard said to me, I am very happy to share ideas, but as an individual, I have nothing to lose or to gain. I don’t care about my image, I have no business deal to cut.
+If your only goal is to make a sale or to elevate your stature, you might fail to connect with your audience, and you’ll place a lot of pressure on yourself. If, however, your goal is more altruistic, giving your audience information to help them lead better lives, you’ll make a deeper connection and feel more comfortable in your role. Ricard said to me, I am very happy to share ideas, but as an individual, I have nothing to lose or to gain.
 
-And I’m not trying to impress anyone, I am just full of joy to be able to say a few words about the fact that we vastly underestimate the power of transforming the mind. Why you will fail to have a great career. If you’re not happy and passionate about the work you do, you might fail to have a great career. And if you’re not having a great time at a great career, it will be harder for you to generate enthusiasm through your presentations.
+I don’t care about my image, I have no business deal to cut. And. I’m not trying to impress anyone, I am just full of joy to be able to say a few words about the fact that we vastly underestimate the power of transforming the mind. Why you will fail to have a great career.
 
-That’s why career, happiness, and the ability to inspire people are all connected. The topic of success consumes the University of Waterloo economics professor Larry Smith. Smith is frustrated with today’s college students. He’s upset because most college students will pursue careers for the wrong reasons, money, status, etc. According to Smith, those students will fail to have great careers.
+If you’re not happy and passionate about the work you do, you might fail to have a great career. And if you’re not having a great time at a great career, it will be harder for you to generate enthusiasm through your presentations. That’s why career, happiness, and the ability to inspire people are all connected. The topic of success consumes the University of Waterloo economics professor Larry Smith.
 
-The only way to have a great career, says Smith, is to do what you love. Smith channeled his frustration into an inspiring, passionate, and humorous TEDx lecture. It was titled, Why you will fail to have a great career. I spoke to Smith about the popularity of his TED presentation, which at the time had been seen more than two million times.
+Smith is frustrated with today’s college students. He’s upset because most college students will pursue careers for the wrong reasons, money, status, etc. According to Smith, those students will fail to have great careers. The only way to have a great career, says Smith, is to do what you love.
 
-The reaction surprised him. Smith agreed to do the talk at the request of his students. Since his classes are usually three hours long, he took it as a personal challenge to distill his ideas into 18 minutes. It was hugely popular because the audience got to see a speaker with unbridled passion and a sense of urgency that made his presentation riveting.
+Smith channeled his frustration into an inspiring, passionate, and humorous TEDx lecture. It was titled, Why you will fail to have a great career. I spoke to Smith about the popularity of his TED presentation, which at the time had been seen more than two million times. The reaction surprised him.
 
-Smith’s presentation was essentially 30 years of pent-up frustration reaching a boiling point. Smith told me, wasted talent is a waste I cannot stand. My students want to create technology. I want them to create really kick-ass technology.
+Smith agreed to do the talk at the request of his students. Since his classes are usually three hours long, he took it as a personal challenge to distill his ideas into 18 minutes. It was hugely popular because the audience got to see a speaker with unbridled passion and a sense of urgency that made his presentation riveting. Smith’s presentation was essentially 30 years of pent-up frustration reaching a boiling point.
+
+Smith told me, wasted talent is a waste. I cannot stand. My students want to create technology. I want them to create really kick-ass technology.
 
 I want them to be passionate about what they’re doing. Smith’s premise is simple. There are plenty of bad jobs, he says, those high-stress, blood-sucking, soul-destroying jobs. And then there are great jobs, but very few in between.
 
 Smith says most people will fail to land a great job or enjoy a great career because they’re afraid to follow their passion. Smith says, no matter how many people tell you that if you want a great career, pursue your passion, pursue your dreams, you’ll decide not to do it. Excuses, he says, are holding people back. Smith’s advice, find and use your passion and you’ll have a great career.
 
-Don’t do it, and you won’t. Smith was one of the most inspiring Ted presenters I’ve met, though I have to admit I’m a little biased. I’ve been preaching the same gospel since the day I changed my plan to go to law school and instead pursued a career in journalism. At first, I didn’t earn nearly as much as I would have in the legal profession, and I certainly had some doubts about my chosen career path.
+Don’t do it, and you won’t. Smith was one of the most inspiring Ted presenters. I’ve met, though. I have to admit.
 
-Following your passion takes courage, especially if you don’t see the results as quickly as you like. My life today is vastly different than it was in those early years, and I enjoy sharing my ideas with audiences around the world. Best of all, I don’t feel as though I work. Writing these words, reading this audiobook, watching these presentations, studying the science behind them, interviewing famous speakers, and sharing their ideas with you, that’s a joyful experience for me.
+I’m a little biased. I’ve been preaching the same gospel since the day. I changed my plan to go to law school and instead pursued a career in journalism. At first, I didn’t earn nearly as much as.
 
-Above all, I’ve learned that those who are joyful about their work often make the best public speakers. Oprah Winfrey once said, you’ve got to follow your path. You’ve got to figure out what it is you love, who you really are, and have the courage to do that. I believe the only courage anybody ever needs is the courage to follow your own dreams. Now back to Larry Smith.
+I would have in the legal profession, and. I certainly had some doubts about my chosen career path. Following your passion takes courage, especially if you don’t see the results as quickly as you like. My life today is vastly different than it was in those early years, and.
+
+I enjoy sharing my ideas with audiences around the world. Best of all, I don’t feel as though. I work. Writing these words, reading this audiobook, watching these presentations, studying the science behind them, interviewing famous speakers, and sharing their ideas with you, that’s a joyful experience for me.
+
+Above all, I’ve learned that those who are joyful about their work often make the best public speakers. Oprah Winfrey once said, you’ve got to follow your path. You’ve got to figure out what it is you love, who you really are, and have the courage to do that. I believe the only courage anybody ever needs is the courage to follow your own dreams.
+
+Now back to Larry Smith.
 
 
 <a id="sec-004517"></a>
@@ -324,9 +360,9 @@ Before we can create and deliver more passionate presentations, we do need to un
 
 But passion does much more. According to Cardin, entrepreneurial passion catalyzes full-blown emotional experiences, complete with engagement of brain and body responses. Cardin began her research by developing a definition of entrepreneurial passion. The common definition of passion simply did not lend itself to academic studies and measurement.
 
-Passion is defined as strong, amorous feelings or sexual desire, not exactly the kind of passion Cardin was interested in pursuing as an academic study. Yet passion is thrown around constantly as a critical component of success, and I would argue is a critical element of all inspiring presentations. And what exactly does it mean to have a passion for something, and more important, how can people harness their passion to improve their odds of success in life, business and public speaking? Cardin’s challenge was to identify what passion means, what it does, and how to measure it.
+Passion is defined as strong, amorous feelings or sexual desire, not exactly the kind of passion Cardin was interested in pursuing as an academic study. Yet passion is thrown around constantly as a critical component of success, and. I would argue is a critical element of all inspiring presentations. And what exactly does it mean to have a passion for something, and more important, how can people harness their passion to improve their odds of success in life, business and public speaking?
 
-Academically, if you can’t measure something, you cannot quantify what it actually does.
+Cardin’s challenge was to identify what passion means, what it does, and how to measure it. Academically, if you can’t measure something, you cannot quantify what it actually does.
 
 
 <a id="sec-005021"></a>
@@ -340,23 +376,25 @@ Cardin’s analysis helps us explain why the most popular TED speakers connect w
 
 Her experience defined her, and it defines her work. According to TED.com, Carter’s confidence, energy, and intensely emotional delivery make her talks a force of nature. For Majora Carter, raising the hopes of those who have lost hope is core to who she is. Entrepreneurship is core to Sir Richard Branson’s identity.
 
-In 2007, Branson told a TED audience, “… companies are all about finding the right people, inspiring those people, and drawing out the best in people. I just love learning, and I’m incredibly inquisitive, and I love taking on the status quo and trying to turn it upside down.” Building companies like Virgin Atlantic that challenge the status quo is core to who Richard Branson is. I spent a day with Richard Branson in April of 2013. I had been invited to accompany him on the inaugural flight of Virgin America’s new route from Los Angeles to Las Vegas.
+In 2007, Branson told a TED audience, “… companies are all about finding the right people, inspiring those people, and drawing out the best in people. I just love learning, and. I’m incredibly inquisitive, and. I love taking on the status quo and trying to turn it upside down.” Building companies like Virgin Atlantic that challenge the status quo is core to who Richard Branson is.
 
-On the ground and in the air, Branson was all smiles, as he enthusiastically talked about customer service and how it makes the difference in the success of his brand. Branson and Carter are engaged in activities that are intensely associated with their role identities in a profoundly meaningful way. And it’s that passion that plays a critical role in their career success and their success as communicators. According to Carter, people who are genuinely passionate about their topic make better speakers.
+I spent a day with Richard Branson in April of 2013. I had been invited to accompany him on the inaugural flight of Virgin America’s new route from Los Angeles to Las Vegas. On the ground and in the air, Branson was all smiles, as he enthusiastically talked about customer service and how it makes the difference in the success of his brand. Branson and Carter are engaged in activities that are intensely associated with their role identities in a profoundly meaningful way.
 
-They inspire their audiences in ways that non-passionate low-energy people fail to do. When you’re passionate about something, you can’t help yourself from thinking about it, acting on it, and talking about it with other people. Carter says that investors, customers, and other stakeholders are smart consumers. They know when a person is displaying genuine passion and when a person is just faking it.
+And it’s that passion that plays a critical role in their career success and their success as communicators. According to Carter, people who are genuinely passionate about their topic make better speakers. They inspire their audiences in ways that non-passionate low-energy people fail to do. When you’re passionate about something, you can’t help yourself from thinking about it, acting on it, and talking about it with other people.
 
-It’s very difficult, nearly impossible, to electrify an audience without feeling an intense, meaningful connection to the topic of your presentation. Passion Why It Works The next step for Cardin was to identify why passion matters. She found that passion leads to important behaviors and outcomes. Cardin, along with dozens of other scientists in the field, has discovered that passionate business leaders are more creative.
+Carter says that investors, customers, and other stakeholders are smart consumers. They know when a person is displaying genuine passion and when a person is just faking it. It’s very difficult, nearly impossible, to electrify an audience without feeling an intense, meaningful connection to the topic of your presentation. Passion.
 
-They set higher goals, exhibit greater persistence, and record better company performance. Cardin and her colleagues also found a direct correlation between a presenter’s perceived passion and the likelihood that investors will fund his or her ideas. The researchers performed a remarkable experiment and published their results in the September 2012 issue of the Journal of Business Venturing. They set out to understand the role that passion plays in investor decision making.
+Why It Works The next step for Cardin was to identify why passion matters. She found that passion leads to important behaviors and outcomes. Cardin, along with dozens of other scientists in the field, has discovered that passionate business leaders are more creative. They set higher goals, exhibit greater persistence, and record better company performance.
 
-The business pitch is one of the most critical presentations in business. Without funding, most ventures would never get off the ground. Companies like Google and Apple would never have changed our lives if it had not been for charismatic, passionate leaders who grabbed the attention of investors.
+Cardin and her colleagues also found a direct correlation between a presenter’s perceived passion and the likelihood that investors will fund his or her ideas. The researchers performed a remarkable experiment and published their results in the September 2012 issue of the Journal of Business Venturing. They set out to understand the role that passion plays in investor decision making. The business pitch is one of the most critical presentations in business.
+
+Without funding, most ventures would never get off the ground. Companies like Google and Apple would never have changed our lives if it had not been for charismatic, passionate leaders who grabbed the attention of investors.
 
 
 <a id="sec-005525"></a>
 ### ⏱️ [00:55:25 - 01:00:27]
 
-Is passion the only criteria onto which Apple and Google investors base their funding decisions? Of course not. Did the perceived passion of the founders, Steve Jobs, Steve Wozniak, Sergey Brin, Larry Page, did their perceived passion play a role in the investor’s ultimate funding decision? It certainly did.
+Is passion the only criteria onto which Apple and Google investors base their funding decisions? Of course, not. Did the perceived passion of the founders, Steve Jobs, Steve Wozniak, Sergey Brin, Larry Page, did their perceived passion play a role in the investor’s ultimate funding decision? It certainly did.
 
 The setting for Cardin study was one of the largest angel investor organizations in America. Tech Coast Angels, based in Orange County, California. Since 1997, the group of individual investors has invested more than $100 million in nearly 170 companies. The sample involved investors who did not invest as a group.
 
@@ -368,35 +406,51 @@ Entrepreneurs base their judgment of the entrepreneur’s potential on 13 criter
 
 Perceived passion involves enthusiasm and excitement, and is distinct from how prepared or committed an entrepreneur may be to their venture. Perceived passion does appear to matter to equity investors. Cardin’s research is essential for helping us understand why some TED presentations become internet sensations, and more important, how to unleash our own public speaking potential. Cardin told me, you know the old adage we tell college students that they never listen to, do what you love?
 
-Well, it’s true. If you’re starting a company in an area that you think will make you rich, but you don’t enjoy that product, industry, or anything about it, that’s a mistake. Cardin believes it’s also a mistake to believe that you can influence and inspire others by speaking about a topic that you do not love, a topic that is not core to your identity, a front row seat to her own stroke. Few TED speakers have as deep an emotional connection to their topic as neuro anatomist Jill Bolte Taylor, Dr. Jill.
+Well, it’s true. If you’re starting a company in an area that you think will make you rich, but you don’t enjoy that product, industry, or anything about it, that’s a mistake. Cardin believes it’s also a mistake to believe that you can influence and inspire others by speaking about a topic that you do not love, a topic that is not core to your identity, a front row seat to her own stroke. Few TED speakers have as deep an emotional connection to their topic as neuro anatomist Jill Bolte Taylor, Dr.
 
-She’s a national spokesperson for the Harvard Brain Tissue Resource Center, which partly explains why her presentation is one of the most popular TED talks of all time. One morning, Dr. Jill awoke to a pounding pain behind her left eye, the kind of sharp jolt you might feel with an ice cream headache. If only it had been as innocuous as a bite of ice cream. The headache got worse. Dr. Jill lost her balance and soon re- realized her right arm was completely paralyzed.
+Jill. She’s a national spokesperson for the Harvard Brain Tissue Resource Center, which partly explains why her presentation is one of the most popular TED talks of all time. One morning, Dr. Jill awoke to a pounding pain behind her left eye, the kind of sharp jolt you might feel with an ice cream headache.
 
-A blood vessel had ruptured in her head. She was having a stroke. The vessels in the left side of her brain were literally exploding. Dr. Jill considered the stroke a stroke of luck. You see, Dr. Jill is a neuroanatomist, specializing in the postmortem investigation of the human brain as it relates to severe mental illness.
+If only it had been as innocuous as a bite of ice cream. The headache got worse. Dr. Jill lost her balance and soon re- realized her right arm was completely paralyzed.
+
+A blood vessel had ruptured in her head. She was having a stroke. The vessels in the left side of her brain were literally exploding. Dr.
+
+Jill considered the stroke a stroke of luck. You see, Dr. Jill is a neuroanatomist, specializing in the postmortem investigation of the human brain as it relates to severe mental illness.
 
 
 <a id="sec-010027"></a>
 ### ⏱️ [01:00:27 - 01:05:29]
 
-In March 2008, Dr. Jill told a TED audience, Oh my gosh, I realized I’m having a stroke. I’m having a stroke. The next thing my brain says to me is, Wow, this is so cool. How many brain scientists have the opportunity to study their own brain from the inside out? Dr. Jill’s stroke transformed her physically and spiritually.
+In March 2008, Dr. Jill told a TED audience, Oh my gosh, I realized. I’m having a stroke. I’m having a stroke.
 
-The stroke was severe, leaving her unable to speak or move. It took years of rehabilitation before she was able to recover even partially. She did not give the TED presentation until eight years after her stroke. Dr. Jill’s spiritual awakening was profound. She connected to the world and to others in a way that she had never experienced in her left brain world, where she saw herself as a separate from the wider universe.
+The next thing my brain says to me is, Wow, this is so cool. How many brain scientists have the opportunity to study their own brain from the inside out? Dr. Jill’s stroke transformed her physically and spiritually.
 
-Without the chatter of her left brain and her inability to feel where her body began and ended, her spirit soared free. She said she felt part of an expansive universe. In short, she had reached Nirvana. Dr. Jill remembered thinking there is no way I would ever be able to squeeze the enormousness of myself back into this tiny little body. Dr. Jill’s stroke changed her life, as did her TED presentation titled My Stroke of Insight. The presentation was based on her book of the same title published in 2008.
+The stroke was severe, leaving her unable to speak or move. It took years of rehabilitation before she was able to recover even partially. She did not give the TED presentation until eight years after her stroke. Dr.
 
-It’s been viewed more than 10 million times. As a direct result of the presentation, Dr. Jill was chosen as one of Time magazine’s 100 most influential people for 2008. In January 2013, Dr. Jill explained the transformative impact of the presentation for a blog on the Huffington Post. Within weeks of delivering that TED talk in 2008, my life changed, and the repercussions still resonate loudly in my world.
+Jill’s spiritual awakening was profound. She connected to the world and to others in a way that she had never experienced in her left brain world, where she saw herself as a separate from the wider universe. Without the chatter of her left brain and her inability to feel where her body began and ended, her spirit soared free. She said she felt part of an expansive universe.
 
-My book, My Stroke of Insight, has been translated into 30 languages. Time, an Oprah’s soul series, came calling. I’ve traveled to Europe, Asia, South America, Canada. I’ve crisscrossed the states.
+In short, she had reached Nirvana. Dr. Jill remembered thinking there is no way. I would ever be able to squeeze the enormousness of myself back into this tiny little body.
 
-And in February 2012, I took a trip to Antarctica with Vice President Al Gore, 20 scientists, and 125 global leaders who care deeply about the climate. Dr. Jill had a great career, as Larry Smith would say, because she discovered and pursued her life’s calling well before the traumatic event that would make her an inspiring speaker. Dr. Jill became a brain scientist because her brother had been diagnosed with schizophrenia. She said, as a sister, and later as a scientist, I wanted to understand why is it that I can take my dreams, I can connect them to reality, and I can make my dreams come true.
+Dr. Jill’s stroke changed her life, as did her TED presentation titled. My Stroke of Insight. The presentation was based on her book of the same title published in 2008.
 
-What is it about my brother’s brain and his schizophrenia that he cannot connect his dreams to a common and shared reality so they instead become delusion? I spoke to Dr. Jill about her presentation style, how she builds her story, practices it and delivers it. Dr. Jill’s advice to educators and communicators, tell a story and express your passion. She said, when I was at Harvard, I was the one winning the awards. I wasn’t winning the awards because my science was better than anybody else’s.
+It’s been viewed more than 10 million times. As a direct result of the presentation, Dr. Jill was chosen as one of Time magazine’s 100 most influential people for 2008. In January 2013, Dr.
 
-I was winning the awards because I could tell a story that was interesting and fascinating and it was mine down to the detail. Dr. Jill’s deep connection with her topic cannot be separated from her riveting ability to communicate with passion and ultimately change the way her listeners see the world. If you find your topic fascinating and interesting and wonderful, it’s more than likely your audience will too. Your brain never stops growing. Thanks to the study of neuroplasticity, scientists are finding that the brain actually grows and changes throughout your life.
+Jill explained the transformative impact of the presentation for a blog on the Huffington Post. Within weeks of delivering that TED talk in 2008, my life changed, and the repercussions still resonate loudly in my world. My book, My Stroke of Insight, has been translated into 30 languages. Time, an Oprah’s soul series, came calling.
 
-The intense repetition of a task creates new, stronger neural pathways. As a person becomes an expert in a particular area, music, sports, public speaking, the areas of the brain associated with those skills actually grow. We all get better at what we do if we do it repeatedly according to Dr. Pascal Michelin, an adjunct professor at a Washington University in St. Louis.
+I’ve traveled to Europe, Asia, South America, Canada. I’ve crisscrossed the states. And in February 2012, I took a trip to Antarctica with Vice President Al Gore, 20 scientists, and 125 global leaders who care deeply about the climate. Dr.
 
-Michelin told me about research
+Jill had a great career, as Larry Smith would say, because she discovered and pursued her life’s calling well before the traumatic event that would make her an inspiring speaker. Dr. Jill became a brain scientist because her brother had been diagnosed with schizophrenia. She said, as a sister, and later as a scientist, I wanted to understand why is it that.
+
+I can take my dreams, I can connect them to reality, and. I can make my dreams come true. What is it about my brother’s brain and his schizophrenia that he cannot connect his dreams to a common and shared reality so they instead become delusion? I spoke to Dr.
+
+Jill about her presentation style, how she builds her story, practices it and delivers it. Dr. Jill’s advice to educators and communicators, tell a story and express your passion. She said, when.
+
+I was at Harvard, I was the one winning the awards. I wasn’t winning the awards because my science was better than anybody else’s. I was winning the awards because. I could tell a story that was interesting and fascinating and it was mine down to the detail.
+
+Dr. Jill’s deep connection with her topic cannot be separated from her riveting ability to communicate with passion and ultimately change the way her listeners see the world. If you find your topic fascinating and interesting and wonderful, it’s more than likely your audience will too. Your brain never stops growing.
+
+Thanks to the study of neuroplasticity, scientists are finding that the brain actually grows and changes throughout your life. The intense repetition of a task creates new, stronger neural pathways. As a person becomes an expert in a particular area, music, sports, public speaking, the areas of the brain associated with those skills actually grow. We all get better at what we do if we do it repeatedly according to Dr.
+
+Pascal Michelin, an adjunct professor at a Washington University in St. Louis. Michelin told me about research
 
 
 <a id="sec-010529"></a>
@@ -410,19 +464,21 @@ The more you speak in public, the more the actual structure of the brain changes
 
 Psychologist Howard Friedman studies the most elusive of qualities, charisma, a concept closely tied with passion. In The Longevity Project, Friedman reveals the astonishing results of a groundbreaking study on the subject.
 
-First, Friedman devised a questionnaire meant to categorize low charisma individuals and high charisma people. The survey includes questions such as, when I hear great music, my body automatically starts moving to the beat, or at parties, I’m the center of attention, and I’m passionate about the job I do. The respondents had a range of options from not very true to very true. The average score was 71 points.
+First, Friedman devised a questionnaire meant to categorize low charisma individuals and high charisma people. The survey includes questions such as, when. I hear great music, my body automatically starts moving to the beat, or at parties, I’m the center of attention, and. I’m passionate about the job.
 
-The study separated magnetic personalities from the wallflowers. Friedman calls it the effective communications test, or ACT, intended to measure how well people can send their feelings to others. But Friedman took it one step further. Friedman shows dozens of people who scored very high on the test and others who scored very low.
+I do. The respondents had a range of options from not very true to very true. The average score was 71 points. The study separated magnetic personalities from the wallflowers.
 
-He then gave them a questionnaire and asked them how they felt at the moment. High scores and low scores were then placed in a room together. They sat in the room for two minutes and could not speak to one another. After the time was up, they were asked to fill out another questionnaire to gauge their mood.
+Friedman calls it the effective communications test, or ACT, intended to measure how well people can send their feelings to others. But Friedman took it one step further. Friedman shows dozens of people who scored very high on the test and others who scored very low. He then gave them a questionnaire and asked them how they felt at the moment.
 
-Without saying a word, the highly charismatic individuals were able to affect the mood of the low charismatics. If the highly charismatic person was happy, the low charismatic would report being happier too. It did not, however, work the other way around. Charismatic people smiled more and had more energy in their nonverbal body language.
+High scores and low scores were then placed in a room together. They sat in the room for two minutes and could not speak to one another. After the time was up, they were asked to fill out another questionnaire to gauge their mood. Without saying a word, the highly charismatic individuals were able to affect the mood of the low charismatics.
 
-They exuded joy and passion. Friedman’s study showed that passion does indeed rub off on other people. People who did not communicate emotionally, they had a little eye contact, they sat stiffly, they did not use hand gestures. Those people were not nearly as capable of influencing and persuading others as did the high charismatics.
+If the highly charismatic person was happy, the low charismatic would report being happier too. It did not, however, work the other way around. Charismatic people smiled more and had more energy in their nonverbal body language. They exuded joy and passion.
 
-Passion is contagious, literally. Ralph Waldo Emerson once said, nothing great has ever been achieved without enthusiasm. Research professors at the University of Minnesota and at Michigan State University have proved Emerson right. The business school professors conducted four separate studies with hundreds of participants to measure charisma, positive emotions, and what they call mood contagion.
+Friedman’s study showed that passion does indeed rub off on other people. People who did not communicate emotionally, they had a little eye contact, they sat stiffly, they did not use hand gestures. Those people were not nearly as capable of influencing and persuading others as did the high charismatics. Passion is contagious, literally.
 
-The researchers found that, quote, individuals who are rated high on charisma tend to express more positive emotions in their written and spoken communications. Positive emotions include passion, enthusiasm, excitement, and optimism. The researchers also
+Ralph Waldo Emerson once said, nothing great has ever been achieved without enthusiasm. Research professors at the University of Minnesota and at Michigan State University have proved Emerson right. The business school professors conducted four separate studies with hundreds of participants to measure charisma, positive emotions, and what they call mood contagion. The researchers found that, quote, individuals who are rated high on charisma tend to express more positive emotions in their written and spoken communications.
+
+Positive emotions include passion, enthusiasm, excitement, and optimism. The researchers also
 
 
 <a id="sec-011034"></a>
@@ -432,29 +488,33 @@ discovered that positive emotions are contagious, lifting the moods of everyone 
 
 Happiness creates success. The most popular TED speakers reflect the truth of that aphorism. How you think, the confidence you have in your expertise, the passion you have for your topic directly impacts your presence as a communicator. Thoughts change your brain chemistry, shaping what you say and how you say it.
 
-When you’re passionate about your topic, obsessively so, the energy and enthusiasm you display will rub off on your listeners. Don’t be afraid to express yourself, your authentic self. If you’re inspired like Dr. Jill, share it. If you’re frustrated like Larry Smith, say so.
+When you’re passionate about your topic, obsessively so, the energy and enthusiasm you display will rub off on your listeners. Don’t be afraid to express yourself, your authentic self. If you’re inspired like Dr. Jill, share it.
 
-If you’re happy like Matthew Ricard, express it. Ted Note. Invite passionate people into your life. Starbucks founder Howard Schultz once told me, when you’re surrounded by people who share a collective passion around a common purpose, anything is possible.
+If you’re frustrated like Larry Smith, say so. If you’re happy like Matthew Ricard, express it. Ted Note. Invite passionate people into your life.
 
-Identifying your passion is one step, but you must share it, express it and talk about what motivates you with the colleagues, clients and other people in your life. Most important, link yourself with others who share your passion. Leaders use passion as a hiring criteria. Richard Branson hires people with a virgin attitude.
+Starbucks founder Howard Schultz once told me, when you’re surrounded by people who share a collective passion around a common purpose, anything is possible. Identifying your passion is one step, but you must share it, express it and talk about what motivates you with the colleagues, clients and other people in your life. Most important, link yourself with others who share your passion. Leaders use passion as a hiring criteria.
 
-They smile a lot. They’re positive. They’re enthusiastic. As a result, they are better communicators.
+Richard Branson hires people with a virgin attitude. They smile a lot. They’re positive. They’re enthusiastic.
 
-It’s not enough to be passionate yourself. You must also surround yourself with people who are passionate about your organization and the field in which they’re working. Your ultimate success as a leader and a communicator will depend on it. 500 Tedsters can’t be wrong. Richard St.
+As a result, they are better communicators. It’s not enough to be passionate yourself. You must also surround yourself with people who are passionate about your organization and the field in which they’re working. Your ultimate success as a leader and a communicator will depend on it. 500 Tedsters can’t be wrong.
 
-John was on a plane on his way to a TED conference when a teenager sitting next to him, curious about his work, asked, what really leads to success? St. John did not have a good answer, but he had a good idea. He would ask the successful leaders attending and speaking at the TED conference.
+Richard St. John was on a plane on his way to a TED conference when a teenager sitting next to him, curious about his work, asked, what really leads to success? St. John did not have a good answer, but he had a good idea.
 
-He interviewed 500 Tedsters over the next decade, and he uncovered the traits that made them ultra successful. St. John revealed his findings in a three-minute presentation at TED Monterey in 2005. In a presentation now viewed more than four million times, St.
+He would ask the successful leaders attending and speaking at the TED conference. He interviewed 500 Tedsters over the next decade, and he uncovered the traits that made them ultra successful. St. John revealed his findings in a three-minute presentation at TED Monterey in 2005.
 
-John delivered the eight secrets of success. The number one secret? You got it. Passion.
+In a presentation now viewed more than four million times, St. John delivered the eight secrets of success. The number one secret? You got it.
 
-St. John said, “Tedsters do it for love.” They don’t do it for money. In his book by the same title, St. John writes about Amy Mullins, who I opened this chapter with.
+Passion. St.
 
-He says Passion has enabled Amy Mullins to set running records, even though she’s missing two essential limbs for running, legs. She’s well-named since Amy comes from the French word love, and it’s a big reason for her success on the track and in life. No wonder, she says, if it’s your passion, then inevitably you’ll succeed. Want to help someone?
+John said, “Tedsters do it for love.”. They don’t do it for money. In his book by the same title, St. John writes about Amy Mullins, who.
 
-Shut up and listen. Dr. Ernesto Ceroli, founder of the Ceroli Institute and a world-renowned economic development expert, learned the hard way that we is a more powerful word than I. Ceroli, who got a start in sustainable development by doing aid work in Africa in the early 1970s, told a TEDx audience in 2012, that what many experts knew about sustainable development had turned out to be wrong. At the age of 21, he worked for an Italian NGO, and he said every single project we set up in Africa failed.
+I opened this chapter with. He says Passion has enabled Amy Mullins to set running records, even though she’s missing two essential limbs for running, legs. She’s well-named since Amy comes from the French word love, and it’s a big reason for her success on the track and in life. No wonder, she says, if it’s your passion, then inevitably you’ll succeed.
 
-Soroli’s first project was to teach villagers in southern Zambia to grow tomatoes. Everything in Africa grew beautifully. We had these magnificent tomatoes, we were telling the Zambians, look how easy agriculture is. When the tomatoes were nice and ripe and red overnight,
+Want to help someone? Shut up and listen. Dr. Ernesto Ceroli, founder of the Ceroli Institute and a world-renowned economic development expert, learned the hard way that we is a more powerful word than.
+
+I. Ceroli, who got a start in sustainable development by doing aid work in Africa in the early 1970s, told a TEDx audience in 2012, that what many experts knew about sustainable development had turned out to be wrong. At the age of 21, he worked for an Italian NGO, and he said every single project we set up in Africa failed. Soroli’s first project was to teach villagers in southern Zambia to grow tomatoes.
+
+Everything in Africa grew beautifully. We had these magnificent tomatoes, we were telling the Zambians, look how easy agriculture is. When the tomatoes were nice and ripe and red overnight,
 
 
 <a id="sec-011536"></a>
@@ -474,17 +534,17 @@ It is our experience that the very best executives are the ones who are the most
 
 I can teach you how to design a gorgeous PowerPoint slide. I can even teach you how to use your voice and your body more effectively. Effective stories, slides, and body language are important components of a persuasive presentation. Yet they mean little if the speaker is not passionate about his or her topic.
 
-The first step to inspiring others is to make sure you’re inspired yourself. The simplest way to identify that which you are truly passionate about is to ask yourself the question I raised earlier in this chapter. What makes my heart sing? Once you discover that which makes your heart sing, the stories you tell, the slides you use, and the way you deliver your content will come to life.
+The first step to inspiring others is to make sure you’re inspired yourself. The simplest way to identify that which you are truly passionate about is to ask yourself the question. I raised earlier in this chapter. What makes my heart sing?
 
-You’ll connect with people more profoundly than you ever thought possible. You will have the confidence to share what you’ve learned as a true master. That’s when you’ll be ready to give the talk of your life. Chapter two, master the art of storytelling.
+Once you discover that which makes your heart sing, the stories you tell, the slides you use, and the way you deliver your content will come to life. You’ll connect with people more profoundly than you ever thought possible. You will have the confidence to share what you’ve learned as a true master. That’s when you’ll be ready to give the talk of your life.
 
-Stories are just data with a soul. Brene Brown, TEDx Houston, 2010. Bryan Stevenson’s grandmother was the end of every argument in the family’s household. She was also the beginning of a lot of arguments.
+Chapter two, master the art of storytelling. Stories are just data with a soul. Brene Brown, TEDx Houston, 2010. Bryan Stevenson’s grandmother was the end of every argument in the family’s household.
 
-Above all, she taught Stevenson about the power of identity. Stevenson is a civil rights attorney and the executive director of the Equal Justice Initiative, a nonprofit group that provides legal representation to poor defendants who have been denied fair treatment in the criminal justice system. Stevenson won a landmark Supreme Court case that barred states from imposing mandatory life sentences without parole on juveniles convicted of a felony. The justices ruled five to four that such sentences were unconstitutional, violating the Eighth Amendment ban on cruel and unusual punishment.
+She was also the beginning of a lot of arguments. Above all, she taught Stevenson about the power of identity. Stevenson is a civil rights attorney and the executive director of the Equal Justice Initiative, a nonprofit group that provides legal representation to poor defendants who have been denied fair treatment in the criminal justice system. Stevenson won a landmark Supreme Court case that barred states from imposing mandatory life sentences without parole on juveniles convicted of a felony.
 
-In September of 2011, the Roosevelt Institute awarded Stevenson a Freedom Medal for his work in the area of social justice. A representative from the TED conference was in the audience and asked Stevenson to give a presentation at the March 2012 event in Long Beach. Stevenson told me he didn’t know much about TED at the time, and he was inclined to turn down the invitation because he had two Supreme Court cases to argue at the end of March. His staff went ballistic and told Stevenson he had to speak at TED.
+The justices ruled five to four that such sentences were unconstitutional, violating the Eighth Amendment ban on cruel and unusual punishment. In September of 2011, the Roosevelt Institute awarded Stevenson a Freedom Medal for his work in the area of social justice. A representative from the TED conference was in the audience and asked Stevenson to give a presentation at the March 2012 event in Long Beach. Stevenson told me he didn’t know much about TED at the time, and he was inclined to turn down the invitation because he had two Supreme Court cases to argue at the end of March.
 
-Stevenson is glad he did. The TED audience was so inspired by Stevenson’s presentation, they donated a combined one million dollars to his nonprofit. Over the course of 18 minutes, Stevenson held the audience spellbound as he told stories of
+His staff went ballistic and told Stevenson he had to speak at TED. Stevenson is glad he did. The TED audience was so inspired by Stevenson’s presentation, they donated a combined one million dollars to his nonprofit. Over the course of 18 minutes, Stevenson held the audience spellbound as he told stories of
 
 
 <a id="sec-012037"></a>
@@ -492,25 +552,39 @@ Stevenson is glad he did. The TED audience was so inspired by Stevenson’s pres
 
 several people who had influenced his life. His grandmother, Rosa Parks, and a janitor. Stevenson began with a story about his grandmother’s parents who were born into slavery, and the experience of how slavery shaped the way she saw the world. She had 10 children, and it was difficult for Stevenson to find time with her.
 
-One day, when Stevenson was eight or nine, his grandmother walked across the room, took him by the hand and said, “Come on, Brian, you and I are going to talk.” Stevenson said he would never forget the discussion that happened next. She sat me down and she looked at me and she said, “I want you to know I’ve been watching you.” And she said, “I think you’re special.” She said, “I think you can do anything you want to do.” I will never forget it.
+One day, when Stevenson was eight or nine, his grandmother walked across the room, took him by the hand and said, “Come on, Brian, you and. I are going to talk.” Stevenson said he would never forget the discussion that happened next.
 
-And then she said, “I just need you to promise me three things, Brian.” I said, “Okay, Mama.” She said, the first thing I want you to promise me is that you’ll always love your mom. She said, that’s my baby girl and you have to promise me now you’ll always take care of her. Well, I adored my mom.
+She sat me down and she looked at me and she said, “I want you to know. I’ve been watching you.”.
 
-So I said, “Yes, Mama, I’ll do that.” Then she said, the second thing I want you to promise me is that you’ll always do the right thing, even when the right thing is the hard thing. And I thought about it and I said, “Yes, Mama, I’ll do that.” Then finally, she said, the third thing I want you to promise me is that you’ll never drink alcohol. Well, I was nine years old.
+And she said, “I think you’re special.”. She said, “I think you can do anything you want to do.”. I will never forget it.
 
-So I said, “Yes, Mama, I’ll do that.” A few years later, Stevenson was in the backwoods near his house with two of his siblings. And they insisted that he take a sip of beer. Stevenson pushed back and said he didn’t feel right about it. And then my brother started staring at me.
+And then she said, “I just need you to promise me three things, Brian.”. I said, “Okay, Mama.”. She said, the first thing. I want you to promise me is that you’ll always love your mom.
 
-He said, “What’s wrong with you?” Have some beer. Then he looked at me real hard and he said, “Oh, I hope you’re not still hung up on that conversation Mama had with you.” And when I asked him what he was talking about said, “Oh, Mama tells all the grandkids that they’re special.” The crowd cracks up. I was devastated. The crowd laughs even harder.
+She said, that’s my baby girl and you have to promise me now you’ll always take care of her. Well, I adored my mom. So.
 
-I’m going to tell you something. I probably shouldn’t. I know this might be broadcast broadly, but I’m 52 years old. And I’m going to admit to you that I’ve never had a drop of alcohol.
+I said, “Yes, Mama, I’ll do that.”. Then she said, the second thing. I want you to promise me is that you’ll always do the right thing, even when the right thing is the hard thing. And.
 
-I don’t say that because I think that’s virtuous. I say that because there is power and identity. When we create the right kind of identity, we can say things to the world around us that they don’t actually believe makes sense. We can get them to do things that they don’t think they can do.
+I thought about it and. I said, “Yes, Mama, I’ll do that.”. Then finally, she said, the third thing. I want you to promise me is that you’ll never drink alcohol.
 
-The audience, most of whom have been laughing at Stevenson story about his grandmother suddenly grew silent as they took in his words. He was reaching their minds, but he could only do that after he had touched their hearts. Secret number to master the art of storytelling. Tell stories to reach people’s hearts and minds.
+Well, I was nine years old. So.
 
-Why it works. Brian Stevenson, the speaker who earned the longest standing ovation in Ted history, spent 65% of his presentation telling stories. Brain scans reveal that stories stimulate and engage the human brain, helping the speaker connect with the audience and making it much more likely that the audience will agree with the speaker’s point of view. Break down the wall with stories.
+I said, “Yes, Mama, I’ll do that.” A few years later, Stevenson was in the backwoods near his house with two of his siblings. And they insisted that he take a sip of beer. Stevenson pushed back and said he didn’t feel right about it. And then my brother started staring at me.
 
-Stevenson spoke for five minutes before he introduced his first statistic about how many people are incarcerated in U. S. prisons and the percentage of those who are poor and or African American. Data supported his thesis, but a story took up the first one third of his presentation. It wasn’t just any story either. Stevenson purposely chose to tell a story that made it easy for his audience to connect with him on a personal and emotional level.
+He said, “What’s wrong with you?” Have some beer. Then he looked at me real hard and he said, “Oh, I hope you’re not still hung up on that conversation Mama had with you.”. And when.
+
+I asked him what he was talking about said, “Oh, Mama tells all the grandkids that they’re special.” The crowd cracks up. I was devastated. The crowd laughs even harder. I’m going to tell you something.
+
+I probably shouldn’t. I know this might be broadcast broadly, but. I’m 52 years old. And.
+
+I’m going to admit to you that. I’ve never had a drop of alcohol. I don’t say that because. I think that’s virtuous.
+
+I say that because there is power and identity. When we create the right kind of identity, we can say things to the world around us that they don’t actually believe makes sense. We can get them to do things that they don’t think they can do. The audience, most of whom have been laughing at Stevenson story about his grandmother suddenly grew silent as they took in his words.
+
+He was reaching their minds, but he could only do that after he had touched their hearts. Secret number to master the art of storytelling. Tell stories to reach people’s hearts and minds. Why it works.
+
+Brian Stevenson, the speaker who earned the longest standing ovation in Ted history, spent 65% of his presentation telling stories. Brain scans reveal that stories stimulate and engage the human brain, helping the speaker connect with the audience and making it much more likely that the audience will agree with the speaker’s point of view. Break down the wall with stories. Stevenson spoke for five minutes before he introduced his first statistic about how many people are incarcerated in U.
+
+S. prisons and the percentage of those who are poor and or African American. Data supported his thesis, but a story took up the first one third of his presentation. It wasn’t just any story either. Stevenson purposely chose to tell a story that made it easy for his audience to connect with him on a personal and emotional level.
 
 I had a conversation with Stevenson and here’s what he told me. You have to get folks to trust you. If you start with something too esoteric and disconnected from the lives of everyday people, it’s harder for people to engage. I often talk about family members because most of us have family members that we have a relationship to.
 
@@ -522,15 +596,17 @@ I talk about kids and the people who are vulnerable or struggling. All of those 
 
 him and the people he needs to persuade. Stevenson says he tells stories to engage judges jurors and other decision makers who are inclined to disagree with his perspective. Stevenson has discovered that narrative is the most powerful way to break down resistance. Stevenson’s TED talk is a brilliant example of storytelling because he connects each story to the central theme of identity.
 
-His last story involved a janitor whom he had met briefly on a way to a court appointment. Once inside the court the conversation between Stevenson and the judge got especially heated. Stevenson picks up the story. Out of the corner of my eye I could see this janitor pacing back and forth.
+His last story involved a janitor whom he had met briefly on a way to a court appointment. Once inside the court the conversation between Stevenson and the judge got especially heated. Stevenson picks up the story. Out of the corner of my eye.
 
-He kept pacing back and forth and finally this older black man with his very worried look on his face came into the courtroom and sat down behind me almost at council table. About 10 minutes later the judge said we would take a break and during the break there was a deputy sheriff who was offended that the janitor had come into court and this deputy jumped up and he ran over to this older black man he said Jimmy what are you doing in this courtroom and this older black man stood up and he looked at that deputy and he looked at me and he said I came into this courtroom to tell this young man keep your eyes on the prize hold on.
+I could see this janitor pacing back and forth. He kept pacing back and forth and finally this older black man with his very worried look on his face came into the courtroom and sat down behind me almost at council table. About 10 minutes later the judge said we would take a break and during the break there was a deputy sheriff who was offended that the janitor had come into court and this deputy jumped up and he ran over to this older black man he said Jimmy what are you doing in this courtroom and this older black man stood up and he looked at that deputy and he looked at me and he said.
 
-Stevenson concluded the presentation by telling the TED audience that they cannot be fully evolved human beings until they care about human rights and basic dignity. He said our visions of technology and design and entertainment and creativity have to be married with visions of humanity, compassion and justice and more than anything for those of you who share that I’ve simply come to tell you to keep your eyes on the prize hold on. Stevenson’s audience rose to their feet because his stories had connected with them he had touched their souls.
+I came into this courtroom to tell this young man keep your eyes on the prize hold on. Stevenson concluded the presentation by telling the TED audience that they cannot be fully evolved human beings until they care about human rights and basic dignity. He said our visions of technology and design and entertainment and creativity have to be married with visions of humanity, compassion and justice and more than anything for those of you who share that. I’ve simply come to tell you to keep your eyes on the prize hold on.
 
-When I spoke with Stevenson I said Brian your subject is sensitive it’s controversial it’s complex how much of your success do you owe to the effective communication of your story? Stevenson answered almost all of it there are so many presumptions that will condemn the clients I care about so my task is to overcome the narratives that have evolved almost all of what we’re trying to do turns on effective communication you need data facts and analysis to challenge people but you also need narrative to get people comfortable enough to care about the community you’re advocating for your audience needs to be willing to go with you on a journey.
+Stevenson’s audience rose to their feet because his stories had connected with them he had touched their souls. When. I spoke with Stevenson. I said Brian your subject is sensitive it’s controversial it’s complex how much of your success do you owe to the effective communication of your story?
 
-In my interview with Stevenson he validated the core concept in my communication coaching storytelling is the ultimate tool of persuasion brands as well as individuals who tell stories and I mean emotional and genuine stories connect with their customers and audiences in far deeper and far more meaningful ways than do their competitors. Stevenson’s observation should give you confidence too many business professionals are intimidated to tell personal stories especially in a powerpoint presentation if the content contains data charts and graphs but if Stevenson a speaker who successfully argues cases in front of Supreme Court justices can find power in stories then the rest of us should take a cue from his experience.
+Stevenson answered almost all of it there are so many presumptions that will condemn the clients. I care about so my task is to overcome the narratives that have evolved almost all of what we’re trying to do turns on effective communication you need data facts and analysis to challenge people but you also need narrative to get people comfortable enough to care about the community you’re advocating for your audience needs to be willing to go with you on a journey.
+
+In my interview with Stevenson he validated the core concept in my communication coaching storytelling is the ultimate tool of persuasion brands as well as individuals who tell stories and. I mean emotional and genuine stories connect with their customers and audiences in far deeper and far more meaningful ways than do their competitors. Stevenson’s observation should give you confidence too many business professionals are intimidated to tell personal stories especially in a powerpoint presentation if the content contains data charts and graphs but if Stevenson a speaker who successfully argues cases in front of Supreme Court justices can find power in stories then the rest of us should take a cue from his experience.
 
 Ben Affleck director’s notes actor director Ben Affleck considers Stevenson’s presentation among his favorite Ted talks. Affleck has seen many presentations lectures and talks about social justice yet it was Stevenson’s conversation and remember it was more of a conversation than a formal presentation but it was the conversation that left an indelible impression on Affleck. Affleck said human rights lawyer Bryan Stevenson shares some hard truths America’s justice system. These issues, which are wrapped up in America’s unexamined history, are rarely talked about with this level of candor, insight, and persuasiveness.
 
@@ -542,31 +618,33 @@ Ethos, logos, and pathos. Ethos is credibility. We tend to agree
 <a id="sec-013038"></a>
 ### ⏱️ [01:30:38 - 01:35:42]
 
-with people whom we respect for their achievements, their title, experience, etc. Logos, logic, is the means of persuasion through logic, data, statistics. Pathos is the act of appealing to emotion. Brian Stevenson’s presentation contained 4,057 words. I analyzed the words, I analyzed each and every word, and I assigned them into three categories.
+with people whom we respect for their achievements, their title, experience, etc. Logos, logic, is the means of persuasion through logic, data, statistics. Pathos is the act of appealing to emotion. Brian Stevenson’s presentation contained 4,057 words.
 
-If Stevenson talked about his work in prisons, I placed that sentence or that paragraph in the category ethos. When Stevenson delivered statistics, I added those sentences to the category logos. If Stevenson told a story, I placed the content under pathos. Ethos made up only 10% of Stevenson’s content, and logos only 25%.
+I analyzed the words, I analyzed each and every word, and. I assigned them into three categories. If Stevenson talked about his work in prisons, I placed that sentence or that paragraph in the category ethos. When Stevenson delivered statistics, I added those sentences to the category logos.
 
-Pathos made up a full 65% of Stevenson’s talk. Remarkably, Stevenson’s talk has been voted one of the most persuasive on TED.com. Now remember, to persuade is defined as influencing someone to act by appealing to reason. Emotion does not even appear in the definition, yet without the emotional impact of stories, Stevenson’s talk would have failed to have the influence it had.
+If Stevenson told a story, I placed the content under pathos. Ethos made up only 10% of Stevenson’s content, and logos only 25%. Pathos made up a full 65% of Stevenson’s talk. Remarkably, Stevenson’s talk has been voted one of the most persuasive on TED.com.
 
-You simply cannot persuade through logic alone. Who says so? Some of the most logical minds in the world. Ted Note.
+Now remember, to persuade is defined as influencing someone to act by appealing to reason. Emotion does not even appear in the definition, yet without the emotional impact of stories, Stevenson’s talk would have failed to have the influence it had. You simply cannot persuade through logic alone. Who says so?
 
-How do you use Aristotle’s components of persuasion? Take one of your recent presentations and categorize the content into one of the three categories we just covered. Ethos, which is credibility, logos, evidence and data, and pathos, emotional appeal, storytelling. How does your pathos stack up against the rest?
+Some of the most logical minds in the world. Ted Note. How do you use Aristotle’s components of persuasion? Take one of your recent presentations and categorize the content into one of the three categories we just covered.
 
-If your emotional appeal is minimal, you might want to rethink your content before you give this presentation again. Add more stories, anecdotes, and personal insights. Your brain on stories. Dale Carnegie believed in the power of stories to inspire audiences.
+Ethos, which is credibility, logos, evidence and data, and pathos, emotional appeal, storytelling. How does your pathos stack up against the rest? If your emotional appeal is minimal, you might want to rethink your content before you give this presentation again. Add more stories, anecdotes, and personal insights.
 
-Carnegie once said, “The great truths of the world have often been couched in fascinating stories.” The ideas I stand for are not mine. I borrowed them from Socrates. I swiped them from Chesterfield. I stole them from Jesus, and I put them in a book.
+Your brain on stories. Dale Carnegie believed in the power of stories to inspire audiences.
 
-If you don’t like their rules, whose would you use? In the same way, many of the ideas that you’re listening to do not belong to me. They do not belong to Ted. They do not belong to the awe-inspiring speakers who gave these presentations.
+Carnegie once said, “The great truths of the world have often been couched in fascinating stories.” The ideas. I stand for are not mine. I borrowed them from Socrates. I swiped them from Chesterfield.
 
-These techniques work because they’re based on how the human mind works, how it processes and recalls information, and how that information gets stamped into our brains. Carnegie based his advice on intuition. Today we have brain scans to prove him right. Scientists using MRI images have studied brain activity by tracking changes in blood flow.
+I stole them from Jesus, and. I put them in a book. If you don’t like their rules, whose would you use? In the same way, many of the ideas that you’re listening to do not belong to me.
 
-In the last 10 years, we’ve learned more about the human brain than in all of the combined years humans have been on Earth. And much of that research has direct implications for those who seek to excel in the area of public speaking and communication. Stories plant ideas and emotions into a listener’s brain. In a darkened conference room on the campus of Princeton University, somebody is watching a Charlie Chaplin movie to give the rest of us a deeper insight into how the brain processes information.
+They do not belong to Ted. They do not belong to the awe-inspiring speakers who gave these presentations. These techniques work because they’re based on how the human mind works, how it processes and recalls information, and how that information gets stamped into our brains. Carnegie based his advice on intuition.
 
-Uri Hasson, assistant professor of psychology at Princeton, is the psychologist conducting the experiment for the Princeton Neuroscience Institute. Hasson’s experiments include activities such as watching movies or listening to stories, while his subjects are connected to MRI machines to study their brain waves. Hasson wants to learn how the brain processes complex information. Hasson and his colleagues have discovered that personal stories actually cause the brains of both storyteller and listener to sync up.
+Today we have brain scans to prove him right. Scientists using MRI images have studied brain activity by tracking changes in blood flow. In the last 10 years, we’ve learned more about the human brain than in all of the combined years humans have been on Earth. And much of that research has direct implications for those who seek to excel in the area of public speaking and communication.
 
-A sync up is my term. Hasson calls it brain-to-brain coupling. Hasson and his colleagues recorded the brain activity of a speaker telling unrehearsed stories. Next, they measured the brain activity of the person listening to the story and asked the listener to fill out a detailed questionnaire to measure comprehension.
+Stories plant ideas and emotions into a listener’s brain. In a darkened conference room on the campus of Princeton University, somebody is watching a Charlie Chaplin movie to give the rest of us a deeper insight into how the brain processes information. Uri Hasson, assistant professor of psychology at Princeton, is the psychologist conducting the experiment for the Princeton Neuroscience Institute. Hasson’s experiments include activities such as watching movies or listening to stories, while his subjects are connected to MRI machines to study their brain waves.
 
-The results are among the
+Hasson wants to learn how the brain processes complex information. Hasson and his colleagues have discovered that personal stories actually cause the brains of both storyteller and listener to sync up. A sync up is my term. Hasson calls it brain-to-brain coupling.
+
+Hasson and his colleagues recorded the brain activity of a speaker telling unrehearsed stories. Next, they measured the brain activity of the person listening to the story and asked the listener to fill out a detailed questionnaire to measure comprehension. The results are among the
 
 
 <a id="sec-013542"></a>
@@ -586,19 +664,27 @@ They use the whole brain and activate language, sensory, visual, and motor areas
 
 In June 2010, Brené Brown delivered a talk she called the power of vulnerability. As a research professor at the University of Houston, Brown studies vulnerability, courage, authenticity, and shame. It’s a pretty big subject area to squeeze into 18 minutes, yet Brown did it so well. Her presentation has been viewed more than 7 million times.
 
-Brown began her presentation with a short anecdote. A couple of years ago, an event planner called me because I was going to do a speaking event, and she called and she said, “I’m really struggling with how to write about you on the little flyer.” And I thought, well, what’s the struggle? And she said, well, I saw you speak and I’m going to call you a researcher, I think. But I’m afraid if I call you a researcher, no one will come because they’ll think you’re boring and irrelevant.
+Brown began her presentation with a short anecdote. A couple of years ago, an event planner called me because.
 
-And I was like, okay. And she said, but the thing I liked about your talk is you’re a storyteller. So I think what I’ll do is just call you a storyteller. Brown said the insecure part of her was hesitant to adopt the title because she was a serious academic researcher.
+I was going to do a speaking event, and she called and she said, “I’m really struggling with how to write about you on the little flyer.”. And I thought, well, what’s the struggle? And she said, well, I saw you speak and. I’m going to call you a researcher, I think.
+
+But. I’m afraid if. I call you a researcher, no one will come because they’ll think you’re boring and irrelevant. And.
+
+I was like, okay. And she said, but the thing. I liked about your talk is you’re a storyteller. So.
+
+I think what. I’ll do is just call you a storyteller. Brown said the insecure part of her was hesitant to adopt the title because she was a serious academic researcher.
 
 However, she eventually warmed to the idea. She said, you know, I’m a storyteller. I’m a qualitative researcher. I collect stories.
 
-That’s what I do. Maybe stories are just data with a soul. And maybe I’m just a storyteller. As Brown suggests, we’re all storytellers.
+That’s what. I do. Maybe stories are just data with a soul. And maybe.
 
-You’re telling stories every day. In a business presentation, you’re telling the story behind your campaign, company or product. In a job interview, you’re telling the story behind your personal brand. In a marketing pitch, you’re telling the story about your idea.
+I’m just a storyteller. As Brown suggests, we’re all storytellers. You’re telling stories every day. In a business presentation, you’re telling the story behind your campaign, company or product.
 
-Yes, we’re all storytellers and we’re telling stories in business each and every day. I’ll never forget the one time I received a severe reprimand from one of my professors at the Medill School of Journalism at Northwestern. I had returned from an assignment empty-handed. There was no story, I told my instructor.
+In a job interview, you’re telling the story behind your personal brand. In a marketing pitch, you’re telling the story about your idea. Yes, we’re all storytellers and we’re telling stories in business each and every day. I’ll never forget the one time.
 
-He got so angry, I thought he would blow a blood vessel in his forehead. There’s always a story, he yelled. I always recall that encounter when I hear someone say, I
+I received a severe reprimand from one of my professors at the Medill School of Journalism at Northwestern. I had returned from an assignment empty-handed. There was no story, I told my instructor. He got so angry, I thought he would blow a blood vessel in his forehead.
+
+There’s always a story, he yelled. I always recall that encounter when. I hear someone say, I
 
 
 <a id="sec-014046"></a>
@@ -610,7 +696,7 @@ We all love stories. We’re born for them. Stories affirm who we are. We all wa
 
 It can cross the barriers of time, past, present, and future and allow us to experience the similarities between ourselves and through others, real and imagined. Andrew Stanton, writer of Toy Story, TED February 2012. Three simple, effective types of stories. Inspiring communicators and the best TED presenters stick to one of three types of stories.
 
-The first are personal stories that relate directly to the theme of the conversation. Second are stories about other people who have learned a lesson the audience can relate to. Third are stories involving the success or failure of products or brands. Personal stories.
+The first are personal stories that relate directly to the theme of the conversation. Second, are stories about other people who have learned a lesson the audience can relate to. Third, are stories involving the success or failure of products or brands. Personal stories.
 
 Stories are central to who we are. The most popular TED presentations start with a personal story. Recall the touching stories Bryan Stevenson told about his grandmother and the janitor who gave him that energizing piece of advice. Keep your eyes on the prize.
 
@@ -628,9 +714,11 @@ If you’re like most people and Airely’s nurses, you’d assume it’s better
 
 Well, Airely left the hospital three years later. 70 percent of his body had been burned. And he entered Tel Aviv University. There he examined the question of how to take bandages off burn patients. And here’s what he said.
 
-What I learned was that the nurses were wrong. Here were wonderful people. with good intentions and plenty of experience, and nevertheless they were getting things wrong predictably all the time. It turns out that because we do not encode duration in the way we encode intensity, I would have had less pain if the duration would have been longer and the intensity was lower. Heirley also uses a very effective storytelling technique, something called unexpectedness.
+What. I learned was that the nurses were wrong. Here were wonderful people. with good intentions and plenty of experience, and nevertheless they were getting things wrong predictably all the time. It turns out that because we do not encode duration in the way we encode intensity, I would have had less pain if the duration would have been longer and the intensity was lower.
 
-In the book Made to Stick, Dan and Chip Heath reveal several elements of a sticky idea, an idea that people remember. According to the Heaths, the most basic way to get someone’s attention is this, break a pattern. That means curiosity and mystery are powerful ways to get our attention. For evidence,
+Heirley also uses a very effective storytelling technique, something called unexpectedness. In the book Made to Stick, Dan and Chip Heath reveal several elements of a sticky idea, an idea that people remember. According to the Heaths, the most basic way to get someone’s attention is this, break a pattern. That means curiosity and mystery are powerful ways to get our attention.
+
+For evidence,
 
 
 <a id="sec-014549"></a>
@@ -642,15 +730,17 @@ To take away the pain, we need to fill the knowledge gap. We sit patiently throu
 
 Tell personal stories, but choose those stories carefully. A personal experience that led to an unexpected result often makes for an especially compelling story. Mom’s Personal Fiscal Cliff. Personal stories grab attention in nearly every communications format.
 
-Presentations, social media, television interviews. I began my journalism career in 1989, the last year Ronald Reagan was in office. Reagan was called the great communicator because he could wrap his message in a story. When I left day-to-day journalism to begin my own communications practice, I remember the quality that gave Reagan his charisma, his ability to tell a story.
+Presentations, social media, television interviews. I began my journalism career in 1989, the last year Ronald Reagan was in office. Reagan was called the great communicator because he could wrap his message in a story. When.
 
-Today I give CEOs and politicians the same advice. If you want to be quoted, tell a story, and the more personal the better. It works nearly every time.
+I left day-to-day journalism to begin my own communications practice, I remember the quality that gave Reagan his charisma, his ability to tell a story. Today. I give CEOs and politicians the same advice. If you want to be quoted, tell a story, and the more personal the better.
 
-For example, in December 2012 the US media was obsessed about the fiscal cliff. A combination of automatic spending cuts and tax increases that would have gone into effect had lawmakers failed to reach a budget deal. A new member of Congress called me about one hour before a scheduled television interview, and he wanted to run some messages by me. All I heard were talking points, so I politely suggested he tell stories instead.
+It works nearly every time. For example, in December 2012 the US media was obsessed about the fiscal cliff. A combination of automatic spending cuts and tax increases that would have gone into effect had lawmakers failed to reach a budget deal. A new member of Congress called me about one hour before a scheduled television interview, and he wanted to run some messages by me.
 
-We decided he should tell a story about his own mother, a nurse, and how the fiscal cliff would impact her. The congressman told a story, the reporter aired the story, and the politician used it for every one of his subsequent interviews. Sometimes the congressman was successful in getting his talking points across. Other times he wasn’t as successful.
+All. I heard were talking points, so. I politely suggested he tell stories instead. We decided he should tell a story about his own mother, a nurse, and how the fiscal cliff would impact her.
 
-His mother, however, always made the cut. People love stories. Business professionals rarely tell personal stories, which is one reason why they make such an impact when they do. Today when I coach CEOs for press interviews or major presentations, I always encourage them to incorporate a personal story.
+The congressman told a story, the reporter aired the story, and the politician used it for every one of his subsequent interviews. Sometimes the congressman was successful in getting his talking points across. Other times he wasn’t as successful. His mother, however, always made the cut.
+
+People love stories. Business professionals rarely tell personal stories, which is one reason why they make such an impact when they do. Today when. I coach CEOs for press interviews or major presentations, I always encourage them to incorporate a personal story.
 
 Reporters and bloggers who cover the event include the story nearly every time. Look, no technique is 100% guaranteed, but telling personal stories comes close. Stories about other people. Sir Ken Robinson, a PhD and thought leader in the area of creativity and innovation and education and business, says schools kill creativity.
 
@@ -682,15 +772,17 @@ He then followed with a short anecdote about a friend of his. Seems as though th
 
 Two years later, a senior vice president retired, and Joel Osteen’s friend got the promotion he deserved. According to Osteen, his position now is many levels higher than the old supervisor position. You might be in a no right now, but favor is coming. Healing is coming.
 
-Promotion is coming. Say to yourself, I’m not going to get stuck in a no. I know a yes is coming. Do you hear what Osteen is doing? He’s establishing pathos with his audience first.
+Promotion is coming. Say to yourself, I’m not going to get stuck in a no. I know a yes is coming. Do you hear what Osteen is doing?
 
-Then he turns to logos where he shares statistics with his audience. He said that 90% of all first businesses fail. 90% of all second businesses succeed, yet 80% of business owners never try a second time. According to Osteen, they fail to realize that they were a few knows away from seeing their business succeed. Osteen follows the statistics with more stories.
+He’s establishing pathos with his audience first. Then he turns to logos where he shares statistics with his audience. He said that 90% of all first businesses fail. 90% of all second businesses succeed, yet 80% of business owners never try a second time. According to Osteen, they fail to realize that they were a few knows away from seeing their business succeed.
 
-The stories include characters, biblical figures, people who attended Lakewood services, even historical personalities. For example, Albert Einstein, who failed 2,000 times. Osteen tells other stories about his own mother who was seated in the front row. Osteen told another story about a friend with a reasonably successful small business.
+Osteen follows the statistics with more stories. The stories include characters, biblical figures, people who attended Lakewood services, even historical personalities.
 
-The friend wanted to expand and went to the bank he had been doing business with for years. He had a business plan and proven results. The bank turned him down. A second bank turned him down.
+For example, Albert Einstein, who failed 2,000 times. Osteen tells other stories about his own mother who was seated in the front row. Osteen told another story about a friend with a reasonably successful small business. The friend wanted to expand and went to the bank he had been doing business with for years.
 
-According to Osteen, 10 banks, 20 banks turned him down. You think he’d get the message? 30 banks turned him down. Then another one, 31 banks said no. Then bank number 32 came along and said, we like your idea. We’ll take a chance on you.
+He had a business plan and proven results. The bank turned him down. A second bank turned him down. According to Osteen, 10 banks, 20 banks turned him down.
+
+You think he’d get the message? 30 banks turned him down. Then another one, 31 banks said no. Then bank number 32 came along and said, we like your idea. We’ll take a chance on you.
 
 According to
 
@@ -704,11 +796,15 @@ They’re masters at creating empathy. Empathy is the capacity to recognize and 
 
 Some famous neuroscientists believe we’re actually hardwired for empathy. It’s the social glue that holds society together. In a presentation, you can create empathy by talking about yourself or someone else. The truthful inside story of almost any man’s life, if told modestly and without offending egotism, is most entertaining.
 
-It is almost surefire speech material. Dale Carnegie. Stories about brand success. When I give a keynote presentation, I tell personal stories.
+It is almost surefire speech material. Dale Carnegie. Stories about brand success. When.
 
-Stories about other individuals whom I know personally or I’ve interviewed or maybe I’ve read about, and I also tell stories about brands that have successfully leveraged the business strategy I’m discussing. I’m always looking for stories for my columns and presentations, and I find them everywhere. I walked onto a Virgin America plane, talked to pilots, and was surprised to learn that they actually monitor the Twitter feed. That led to a story about how brands can use social media to have conversations with their customers.
+I give a keynote presentation, I tell personal stories. Stories about other individuals whom. I know personally or. I’ve interviewed or maybe.
 
-When I stayed at a Ritz-Carlton, I asked a waiter why he had given me a free appetizer. He said, “I’m empowered to deliver a great customer experience.” Well, that led to several stories on employee engagement and customer service. I walked into an Apple Store and discovered that employees are trained to walk a customer through five steps that either lead to a sale or promote brand loyalty. That experience led not only to a story, I wrote an entire book about it.
+I’ve read about, and. I also tell stories about brands that have successfully leveraged the business strategy. I’m discussing. I’m always looking for stories for my columns and presentations, and.
+
+I find them everywhere. I walked onto a Virgin America plane, talked to pilots, and was surprised to learn that they actually monitor the Twitter feed. That led to a story about how brands can use social media to have conversations with their customers. When.
+
+I stayed at a Ritz-Carlton, I asked a waiter why he had given me a free appetizer. He said, “I’m empowered to deliver a great customer experience.” Well, that led to several stories on employee engagement and customer service. I walked into an Apple Store and discovered that employees are trained to walk a customer through five steps that either lead to a sale or promote brand loyalty. That experience led not only to a story, I wrote an entire book about it.
 
 Brand stories are everywhere. Popular blogger and TED speaker Seth Godin always tells brand stories and he does so brilliantly. In February of 2003, Godin taught a TED audience how to get their ideas to spread. The video became a hit and has attracted more than 1.5 million views.
 
@@ -744,43 +840,43 @@ The why and the what. Why did he invent it and what’s the benefit of it? Stori
 
 I grew up in Limpopo in a little town called Motetema. Water and electricity supply are as unpredictable as the weather, and growing up in these tough situations at the age of 17, I was relaxing with a couple of friends of mine in winter and we were sunbathing. The Limpopo sun gets really hot in winter. As we were sunbathing, my best friend next to me says, man, why doesn’t somebody invent something that you can just put on your skin and then you don’t have to bathe?
 
-As I sat, I thought, man, I would buy that. Marichon went home, conducted research, and found shocking statistics. He learned that over 2.5 billion people in the world do not have proper access to sanitation, 5 million of whom are in South Africa. Several diseases thrive in these environments.
+As. I sat, I thought, man, I would buy that. Marichon went home, conducted research, and found shocking statistics. He learned that over 2.5 billion people in the world do not have proper access to sanitation, 5 million of whom are in South Africa.
 
-For example, Trokoma blinds 8 million people every year. According to Marichon, the shocking part about it is that all you have to do to prevent being infected with Trokoma is to wash your face. With nothing but a cell phone and very limited access to the internet, Marichon did the research and he wrote a 40-page business plan. Four years later, he received a patent and Dry Bath was born.
+Several diseases thrive in these environments. For example, Trokoma blinds 8 million people every year. According to Marichon, the shocking part about it is that all you have to do to prevent being infected with Trokoma is to wash your face. With nothing but a cell phone and very limited access to the internet, Marichon did the research and he wrote a 40-page business plan.
 
-Its value proposition is this. Dry Bath is a rich man’s convenience and a poor man’s lifesaver. Every brand, every product has a story. Find it and tell it.
+Four years later, he received a patent and Dry Bath was born. Its value proposition is this. Dry Bath is a rich man’s convenience and a poor man’s lifesaver. Every brand, every product has a story.
 
-What is a story? Jonah Sacks offers this definition in his book Winning the Story Wars. Stories are a particular type of human communication designed to persuade an audience of a storyteller’s worldview. The storyteller does this by placing characters, real or fictional, onto a stage and showing what happens to these characters over a period of time.
+Find it and tell it. What is a story? Jonah Sacks offers this definition in his book Winning the Story Wars. Stories are a particular type of human communication designed to persuade an audience of a storyteller’s worldview.
 
-Each character pursues some type of goal in accordance with his or her values, facing difficulty along the way and either succeeds or fails according to the storyteller’s view of how the world works. Sacks believes that in the battlefield of ideas, marketers have a secret weapon, a well-told story. Sacks says that contemporary audiences are so bombarded by messages that they’re more
+The storyteller does this by placing characters, real or fictional, onto a stage and showing what happens to these characters over a period of time. Each character pursues some type of goal in accordance with his or her values, facing difficulty along the way and either succeeds or fails according to the storyteller’s view of how the world works. Sacks believes that in the battlefield of ideas, marketers have a secret weapon, a well-told story. Sacks says that contemporary audiences are so bombarded by messages that they’re more
 
 
 <a id="sec-020554"></a>
 ### ⏱️ [02:05:54 - 02:10:55]
 
-resistant and more skeptical than at any other time in history. However, he says, these same audiences, when inspired, are willing and able to spread their favorite messages, creating a massive viral effect for those who win their love. Gladwell, Happiness, and Spaghetti Sauce At the Monterey Ted Conference of February 2004, the tipping point author, Malcolm Gladwell, told a simple story about Howard Moskowitz, a man who had become famous for reinventing spaghetti sauce. The title of the presentation was Choice, Happiness, and Spaghetti Sauce.
+resistant and more skeptical than at any other time in history. However, he says, these same audiences, when inspired, are willing and able to spread their favorite messages, creating a massive viral effect for those who win their love. Gladwell, Happiness, and Spaghetti Sauce. At the Monterey Ted Conference of February 2004, the tipping point author, Malcolm Gladwell, told a simple story about Howard Moskowitz, a man who had become famous for reinventing spaghetti sauce.
 
-The story went like this. Campbell Soup approached Moskowitz to help the company make a spaghetti sauce that would compete against Ragu, the dominant sauce of the 70s and 80s. Campbell’s made Prago. It seems as though Prago was struggling despite being a higher quality product.
+The title of the presentation was Choice, Happiness, and Spaghetti Sauce. The story went like this. Campbell Soup approached Moskowitz to help the company make a spaghetti sauce that would compete against Ragu, the dominant sauce of the 70s and 80s. Campbell’s made Prago.
 
-Moskowitz worked with the company to create 45 varieties of spaghetti sauce. He brought them on the road to have average consumers taste test each one. In his presentation, Malcolm Gladwell picks up the story. If you sit down and you analyze all this data on spaghetti sauce, you realize that all Americans fall into one of three groups.
+It seems as though Prago was struggling despite being a higher quality product. Moskowitz worked with the company to create 45 varieties of spaghetti sauce. He brought them on the road to have average consumers taste test each one. In his presentation, Malcolm Gladwell picks up the story.
 
-There are people who like their spaghetti sauce plain. There are people who like their spaghetti sauce spicy. And there are people who like it extra chunky. And of those three facts, the third one was the most significant because at the time in the early 1980s, if you went to a supermarket, you would not find extra chunky spaghetti sauce.
+If you sit down and you analyze all this data on spaghetti sauce, you realize that all Americans fall into one of three groups. There are people who like their spaghetti sauce plain. There are people who like their spaghetti sauce spicy. And there are people who like it extra chunky.
 
-And Prago turned to Howard and they said, you’re telling me that one third of Americans crave extra chunky spaghetti sauce and yet no one is servicing their needs? And he said yes. And Prago then went back and completely reformulated their spaghetti sauce and came out with a line of extra chunky that immediately and completely took over the spaghetti sauce business in this country. And over the next 10 years, they made $600 million off their line of extra chunky sauces.
+And of those three facts, the third one was the most significant because at the time in the early 1980s, if you went to a supermarket, you would not find extra chunky spaghetti sauce. And Prago turned to Howard and they said, you’re telling me that one third of Americans crave extra chunky spaghetti sauce and yet no one is servicing their needs? And he said yes. And Prago then went back and completely reformulated their spaghetti sauce and came out with a line of extra chunky that immediately and completely took over the spaghetti sauce business in this country.
 
-The entire food industry took notice of Moskowitz’s analysis. That’s why we have 14 different kinds of mustards and 71 different kinds of olive oil, according to Gladwell. Ragu even hired Moskowitz and today we have 36 varieties of Ragu spaghetti sauce. Gladwell told a Moskowitz story in 10 minutes.
+And over the next 10 years, they made $600 million off their line of extra chunky sauces. The entire food industry took notice of Moskowitz’s analysis. That’s why we have 14 different kinds of mustards and 71 different kinds of olive oil, according to Gladwell. Ragu even hired Moskowitz and today we have 36 varieties of Ragu spaghetti sauce.
 
-He spent the remaining seven minutes offering the lessons the story teaches us. For example, people don’t know what they want. And if they do, they have a hard time articulating what they truly desire. Assumption number one in the food industry used to be that the way to find out what people want to eat, what will make people happy is to ask them.
+Gladwell told a Moskowitz story in 10 minutes. He spent the remaining seven minutes offering the lessons the story teaches us.
 
-And for years and years and years and years, Ragu and Prago would have focus groups and they would sit all you people down and they would say, what do you want in a spaghetti sauce? And for all those years, 20, 30 years, through all those focus group sessions, no one ever said they wanted extra chunky, even though at least a third of them deep in their hearts actually did. Gladwell ended his presentation with what he called the most beautiful lesson of all.
+For example, people don’t know what they want. And if they do, they have a hard time articulating what they truly desire. Assumption number one in the food industry used to be that the way to find out what people want to eat, what will make people happy is to ask them. And for years and years and years and years, Ragu and Prago would have focus groups and they would sit all you people down and they would say, what do you want in a spaghetti sauce?
 
-In embracing the diversity of human beings, we will find a sure way to true happiness. Gladwell succeeds because he combines a hero story about a particular individual with a successful brand story. Your audience wants someone or something to cheer for. They want to be inspired.
+And for all those years, 20, 30 years, through all those focus group sessions, no one ever said they wanted extra chunky, even though at least a third of them deep in their hearts actually did. Gladwell ended his presentation with what he called the most beautiful lesson of all. In embracing the diversity of human beings, we will find a sure way to true happiness. Gladwell succeeds because he combines a hero story about a particular individual with a successful brand story.
 
-Give them a hero. Captivate their imagination with stories about yourself, other people, or successful brands. Ted Note. What story can you include?
+Your audience wants someone or something to cheer for. They want to be inspired. Give them a hero. Captivate their imagination with stories about yourself, other people, or successful brands.
 
-Think about a story, either personal, about somebody else, or related to a brand that you can include in your communications or in your next presentation. If you already do this, then you are one step closer to being a Tedworthy communicator. In a business presentation, telling stories is the virtual equivalent of taking people on a field trip to help them experience the content at a much more profound level. Lead with stories and succeed in business.
+Ted Note. What story can you include? Think about a story, either personal, about somebody else, or related to a brand that you can include in your communications or in your next presentation. If you already do this, then you are one step closer to being a Tedworthy communicator.
 
-A well-told story gives leaders a strong advantage in today’s increasingly competitive marketplace. A powerful narrative can persuade customers, employees, investors, and stakeholders that
+In a business presentation, telling stories is the virtual equivalent of taking people on a field trip to help them experience the content at a much more profound level. Lead with stories and succeed in business. A well-told story gives leaders a strong advantage in today’s increasingly competitive marketplace. A powerful narrative can persuade customers, employees, investors, and stakeholders that
 
 
 <a id="sec-021055"></a>
@@ -798,11 +894,13 @@ You have to reach their hearts as well as their minds. And this is what storytel
 
 Magic Johnson and his business partner, Ken Lombard, visited Goober in his office, and the first thing Lombard said was, close your eyes, we’re going to tell you a story about a foreign country. Goober thought it was a little unorthodox, but he went along with it and shut his eyes. Lombard continued, this is a land with a strong customer base, great location, and qualified investors. You know how to build theaters in Europe, Asia, and South America.
 
-You know how to invest in foreign countries that have different languages, different cultures, and different problems. What you do, Peter, is find a partner in the country who speaks the language, who knows the culture, and handles local problems. Is that right? Goober nodded in agreement, as his eyes remained shut. But what if I told you a Promised Land exists that already speaks English, craves movies, has plenty of available real estate, and no competition? The Promised Land is only six miles from here.
+You know how to invest in foreign countries that have different languages, different cultures, and different problems. What you do, Peter, is find a partner in the country who speaks the language, who knows the culture, and handles local problems. Is that right? Goober nodded in agreement, as his eyes remained shut.
 
-Lombard and Magic Johnson were pitching Goober on building movie theaters in underserved urban communities. Lombard and Johnson cast themselves as the heroes of the narrative, the characters who could help Goober navigate the waters to reach the Promised Land. In the first four weeks of opening, the first Magic Johnson Theatre was one of the top five highest-grossing theaters in the Sony chain. Goober reminded me that storytelling should be part of every discussion that’s intended to persuade a listener to back your idea, whether it’s a formal presentation or casual conversation.
+But what if. I told you a Promised Land exists that already speaks English, craves movies, has plenty of available real estate, and no competition? The Promised Land is only six miles from here. Lombard and Magic Johnson were pitching Goober on building movie theaters in underserved urban communities.
 
-Goober says that as he looks back at his 40 decades in business, his ability to persuade customers, employees, shareholders, and partners through storytelling has been his single biggest competitive advantage. The Power of Words Avoid overused buzzwords and cliches. Marketers love words like leading, solutions, ecosystem. These words are empty, they’re meaningless, and they are used so often they have lost whatever punch they may have once had.
+Lombard and Johnson cast themselves as the heroes of the narrative, the characters who could help Goober navigate the waters to reach the Promised Land. In the first four weeks of opening, the first Magic Johnson Theatre was one of the top five highest-grossing theaters in the Sony chain. Goober reminded me that storytelling should be part of every discussion that’s intended to persuade a listener to back your idea, whether it’s a formal presentation or casual conversation. Goober says that as he looks back at his 40 decades in business, his ability to persuade customers, employees, shareholders, and partners through storytelling has been his single biggest competitive advantage.
+
+The Power of Words Avoid overused buzzwords and cliches. Marketers love words like leading, solutions, ecosystem. These words are empty, they’re meaningless, and they are used so often they have lost whatever punch they may have once had.
 
 
 <a id="sec-021601"></a>
@@ -810,53 +908,57 @@ Goober says that as he looks back at his 40 decades in business, his ability to 
 
 Overused metaphors, too, can also be boring. According to a study featured in the New York Times, the way the brain handles metaphors has received extensive study. Some scientists have contended that figures of speech, like a rough day, are so familiar they’re treated simply as words and no more. When you tell a story, by all means, use metaphors, use analogies, use vivid language, but eliminate cliches, buzzwords, and jargon.
 
-Your audience will tune out phrases they have heard a million times. Meet David and Susan When Toshiba Medical Systems introduced a revolutionary new CT scan, I met with a group of executives to help them shape the story for its global launch. The three-dimensional views of the heart and the brain that the machine displayed were impressive, but how can we give an equally impressive presentation without drowning the audience in mind-numbing data? We told a story.
+Your audience will tune out phrases they have heard a million times. Meet David and Susan. When Toshiba Medical Systems introduced a revolutionary new CT scan, I met with a group of executives to help them shape the story for its global launch. The three-dimensional views of the heart and the brain that the machine displayed were impressive, but how can we give an equally impressive presentation without drowning the audience in mind-numbing data?
 
-At the press conference, we introduced David and Susan, two people who really didn’t exist, but who did for the purpose of the launch. The presentation demonstrated how this new piece of medical equipment could dramatically cut down the time it took for doctors to make an accurate diagnosis, thereby saving the lives of our two characters. We even gave David and Susan names, faces, and offered detailed information about their lives. We wanted the audience to see themselves, or their loved ones, in the faces presented on the screen.
+We told a story. At the press conference, we introduced David and Susan, two people who really didn’t exist, but who did for the purpose of the launch. The presentation demonstrated how this new piece of medical equipment could dramatically cut down the time it took for doctors to make an accurate diagnosis, thereby saving the lives of our two characters. We even gave David and Susan names, faces, and offered detailed information about their lives.
 
-Physicians attending the conference later told the speakers that the David and Susan part of the presentation was their favorite sequence, because it delivered information and made an emotional connection at the same time. That’s what a powerful story can do. You don’t have to be launching a revolutionary product like the iPhone or a $2 million piece of medical equipment to tell a good story. During a job interview, tell a personal story about your success managing a team or executing a difficult project.
+We wanted the audience to see themselves, or their loved ones, in the faces presented on the screen. Physicians attending the conference later told the speakers that the David and Susan part of the presentation was their favorite sequence, because it delivered information and made an emotional connection at the same time. That’s what a powerful story can do. You don’t have to be launching a revolutionary product like the iPhone or a $2 million piece of medical equipment to tell a good story.
 
-In a new business pitch, share a story about how your product helped a client increase sales despite the economic downturn. Or during a product launch, tell a personal story behind the product’s inception. You might be surprised at how many people remember the stories you tell. Give me one character I can root for.
+During a job interview, tell a personal story about your success managing a team or executing a difficult project. In a new business pitch, share a story about how your product helped a client increase sales despite the economic downturn. Or during a product launch, tell a personal story behind the product’s inception. You might be surprised at how many people remember the stories you tell.
 
-The 20th century American writer, Kurt Vonnegut, was considered a masterful storyteller. A video clip surfaced on the Internet that showed Vonnegut explaining the shape of popular stories. Successful stories, those that connect emotionally with most people, have simple shapes. To illustrate, he drew two lines on a graph.
+Give me one character. I can root for. The 20th century American writer, Kurt Vonnegut, was considered a masterful storyteller. A video clip surfaced on the Internet that showed Vonnegut explaining the shape of popular stories.
 
-On the Y axis, he wrote I for ill fortune and G for good fortune. In the middle, he drew one more line, called the B and the E axis, beginning and end. He called the first story shape man in a hole. Somebody gets into trouble and gets out of it again.
+Successful stories, those that connect emotionally with most people, have simple shapes. To illustrate, he drew two lines on a graph. On the Y axis, he wrote. I for ill fortune and G for good fortune.
 
-People love that story, he said. They never get sick of it. The second story shape was called boy gets girl. The story begins with an average person on an average day and something good happening to that person.
+In the middle, he drew one more line, called the B and the E axis, beginning and end. He called the first story shape man in a hole. Somebody gets into trouble and gets out of it again. People love that story, he said.
 
-Of course, the person comes close to losing the good fortune but gets it back to end the story happily. People love that one, Vonnegut said. He then said the last story shape was the most popular in Western civilization. Every time it’s retold, someone makes another million dollars.
+They never get sick of it. The second story shape was called boy gets girl. The story begins with an average person on an average day and something good happening to that person. Of course, the person comes close to losing the good fortune but gets it back to end the story happily.
 
-You’re welcome to it, Vonnegut said with a smile. If you want to grip your audience, the story needs to start at the bottom of the GI axis with terrible misfortune. Vonnegut said let’s start with a little girl. Her mother has died.
+People love that one, Vonnegut said. He then said the last story shape was the most popular in Western civilization. Every time it’s retold, someone makes another million dollars. You’re welcome to it, Vonnegut said with a smile.
 
-Her father has remarried a vile-tempered ugly woman with two nasty daughters. Have you heard of it? The audience roars with laughter as they see that Vonnegut is beginning to outline the Cinderella story arc. He goes on.
+If you want to grip your audience, the story needs to start at the bottom of the GI axis with terrible misfortune. Vonnegut said let’s start with a little girl. Her mother has died. Her father has remarried a vile-tempered ugly woman with two nasty daughters.
 
-There’s a party at the palace that night and she can’t go. After the fairy godmother helps her get ready for the party and she meets a prince, the protagonist stumbles again. Slightly below the GI line but not all the way to the bottom again. As the story continues, the shoe fits, she marries the prince and achieves off-the-scale happiness.
+Have you heard of it? The audience roars with laughter as they see that Vonnegut is beginning to outline the Cinderella story arc. He goes on. There’s a party at the palace that night and she can’t go.
+
+After the fairy godmother helps her get ready for the party and she meets a prince, the protagonist stumbles again. Slightly below the GI line but not all the way to the bottom again. As the story continues, the shoe fits, she marries the prince and achieves off-the-scale happiness.
 
 
 <a id="sec-022103"></a>
 ### ⏱️ [02:21:03 - 02:26:06]
 
-So Vonnegut has some writing advice. Give the reader at least one character he or she can root for. I had Vonnegut’s storytelling table in mind when I worked with an executive for Chase, a major U. S. bank, to help him prepare the content for a keynote presentation he was asked to give for the United Way. He had personally benefited from United Way programs, but the story he had intended to tell was about his company’s commitment to the organization and how much his employees had contributed.
+So Vonnegut has some writing advice. Give the reader at least one character he or she can root for. I had Vonnegut’s storytelling table in mind when. I worked with an executive for Chase, a major U.
 
-His early slides were also laden with charts and figures. Good information, but not very emotional. Let’s forget the slides for a moment. Tell me about your personal connection to the United Way, I said.
+S. bank, to help him prepare the content for a keynote presentation he was asked to give for the United Way. He had personally benefited from United Way programs, but the story he had intended to tell was about his company’s commitment to the organization and how much his employees had contributed. His early slides were also laden with charts and figures. Good information, but not very emotional.
 
-What he said next caught me by surprise. I was two years old when my father abandoned the entire family. I was four years old when my mom remarried, and that’s when I learned the definition of abuse. My first vivid memory was my mother lying in a pile of glass and my stepfather standing over her, threatening to cut her throat if she did not do exactly what he said.
+Let’s forget the slides for a moment. Tell me about your personal connection to the United Way, I said. What he said next caught me by surprise. I was two years old when my father abandoned the entire family.
 
-I remember thinking, where is my father and why is he allowing this man to do this to us? The executive went on to tell me how he grew into a very angry young man. At the age of 25, he enrolled in the United Way and credited the program for teaching him how to take control of his attitude and for putting him on the right path. It also taught him how to become a great father.
+I was four years old when my mom remarried, and that’s when. I learned the definition of abuse. My first vivid memory was my mother lying in a pile of glass and my stepfather standing over her, threatening to cut her throat if she did not do exactly what he said. I remember thinking, where is my father and why is he allowing this man to do this to us?
 
-He said to me, I’m proud of the man I’ve become. I’m proud of what they taught me. After the goosebumps subsided, I encouraged the executive to throw out his existing PowerPoint and open with stories and photographs. That’s exactly what he did, showing a black and white photograph of his biological father holding him and his brother.
+The executive went on to tell me how he grew into a very angry young man. At the age of 25, he enrolled in the United Way and credited the program for teaching him how to take control of his attitude and for putting him on the right path. It also taught him how to become a great father. He said to me, I’m proud of the man.
+
+I’ve become. I’m proud of what they taught me. After the goosebumps subsided, I encouraged the executive to throw out his existing PowerPoint and open with stories and photographs. That’s exactly what he did, showing a black and white photograph of his biological father holding him and his brother.
 
 He showed pictures of his mother, followed by current photographs of him and his family, the man he had become. This executive received a standing ovation from his audience. He brought many to tears. And after he repeated the presentation for an internal audience, it elicited the largest employee contribution of any division within his bank.
 
-The United Way presentation I just described is an extreme example. I’m not asking you to reveal all the skeletons in your family’s closet. I am urging you, however, to embrace a personal story that has meaning to you and to your topic. Own the story and share it.
+The United Way presentation. I just described is an extreme example. I’m not asking you to reveal all the skeletons in your family’s closet. I am urging you, however, to embrace a personal story that has meaning to you and to your topic.
 
-A Story with a 2,700% Return SignificantObjects.com is a website dedicated to the power of story. Significant Objects was a social and anthropological experience devised by Rob Walker and Joshua Glenn. The two researchers started with a hypothesis. A writer can invent a story about an object, investing the object with subjective significance that raises its objective value.
+Own the story and share it. A Story with a 2,700% Return SignificantObjects.com is a website dedicated to the power of story. Significant Objects was a social and anthropological experience devised by Rob Walker and Joshua Glenn. The two researchers started with a hypothesis.
 
-The researchers curated objects from thrift stores and garage sales. The objects would cost no more than a buck or two. The second phase of the experiment saw a writer create a short fictional story about the object. In the third step, the object was auctioned on eBay.
+A writer can invent a story about an object, investing the object with subjective significance that raises its objective value. The researchers curated objects from thrift stores and garage sales. The objects would cost no more than a buck or two. The second phase of the experiment saw a writer create a short fictional story about the object.
 
-The researchers purchased $128.74 worth of objects. The thrift store junk sold for a total of $3,612.51. The men had discovered that narrative could invest ordinary objects with extraordinary significance. A story had raised the average product’s price by 2,700%.
+In the third step, the object was auctioned on eBay. The researchers purchased $128.74 worth of objects. The thrift store junk sold for a total of $3,612.51. The men had discovered that narrative could invest ordinary objects with extraordinary significance.
 
-For example, a fake banana cost $0.25 and sold on eBay for $76 after a story about it was added. A tiny miniature turkey dinner was acquired for free and sold for $30 after a creative story was written about it. According to the Significant Objects website, stories are such a powerful driver of emotional value that their effect on any given object’s subjective value can actually be measured objectively. 10-Note Introduce Heroes and Villains Whether it’s a movie or a novel, every great story has a hero and a villain.
+A story had raised the average product’s price by 2,700%. For example, a fake banana cost $0.25 and sold on eBay for $76 after a story about it was added. A tiny miniature turkey dinner was acquired for free and sold for $30 after a creative story was written about it. According to the Significant Objects website, stories are such a powerful driver of emotional value that their effect on any given object’s subjective value can actually be measured objectively. 10-Note Introduce Heroes and Villains Whether it’s a movie or a novel, every great story has a hero and a villain.
 
 A strong business presentation has the same cast of characters. A spokesperson reveals a challenge, a villain, facing a business or industry. The protagonist, the brand hero, rises to meet the challenge.
 
@@ -870,25 +972,27 @@ When TED invites people to speak at its annual conference, it sends out a stone 
 
 In Allende’s 2007 TED talk, she revealed a recipe for great characters. Nice people with common sense do not make interesting characters. They only make good former spouses, she said. Passion lives here.
 
-Heart is what drives us and determines our fate. That is what I need for my characters in my books, a passionate heart. I need Mavericks, dissidents, adventurers, outsiders, and rebels who ask questions, bend the rules, and take risks. People like all of you in this room.
+Heart is what drives us and determines our fate. That is what. I need for my characters in my books, a passionate heart. I need Mavericks, dissidents, adventurers, outsiders, and rebels who ask questions, bend the rules, and take risks.
 
-Secret number two, master the art of storytelling. Great speakers are indeed Mavericks, adventurers, and rule-bending rebels who take risks. They tell stories to express their passion for the subject and to connect with their audiences. Ideas are the currency of the 21st century, and stories facilitate the exchange of that currency.
+People like all of you in this room. Secret number two, master the art of storytelling. Great speakers are indeed Mavericks, adventurers, and rule-bending rebels who take risks. They tell stories to express their passion for the subject and to connect with their audiences.
 
-Stories illustrate, illuminate, and inspire.
+Ideas are the currency of the 21st century, and stories facilitate the exchange of that currency. Stories illustrate, illuminate, and inspire.
 
-#### Chapter 3 Have a Conversation Don’t fake it till you make it. Fake it till you become it. Amy Cuddy, Professor, Harvard Business School. It takes practice to appear natural.
+#### Chapter 3 Have a Conversation Don’t fake it till you make it. Fake it till you become it. Amy Cuddy, Professor, Harvard Business School.
 
-Just ask Amanda Palmer, who stole the show at TED 2013. Palmer’s presentation, The Art of Asking, received more than one million views within days of being posted on TED.com. The week after her presentation, Palmer wrote a lengthy post on her blog thanking the many people who had helped her to craft, rehearse, and deliver the talk of her life. It really did take a village to build a TED talk.
+It takes practice to appear natural. Just ask Amanda Palmer, who stole the show at TED 2013. Palmer’s presentation, The Art of Asking, received more than one million views within days of being posted on TED.com. The week after her presentation, Palmer wrote a lengthy post on her blog thanking the many people who had helped her to craft, rehearse, and deliver the talk of her life.
 
-The post also confirms that giving a presentation that truly moves people takes hard work. Secret number three, have a conversation. Practice relentlessly and internalize your content so that you can deliver the presentation as comfortably as having a conversation with a close friend. Why it works True persuasion occurs only after you’ve built an emotional rapport with your listeners and you’ve gained their trust.
+It really did take a village to build a TED talk. The post also confirms that giving a presentation that truly moves people takes hard work. Secret number three, have a conversation. Practice relentlessly and internalize your content so that you can deliver the presentation as comfortably as having a conversation with a close friend.
 
-If your voice, gestures, and body language are incongruent with your words, your listeners will distrust your message. It’s the equivalent of having a Ferrari, your magnificent story, without knowing how to drive it. The Art of Asking and Practicing Amanda Palmer delivered the most talked about presentation at TED 2013. Palmer is the first to admit that her punk rock, indie, cabaret music isn’t for everybody, but regardless of whether… you’d like her music, we can all learn something from her approach to public speaking.
+Why it works True persuasion occurs only after you’ve built an emotional rapport with your listeners and you’ve gained their trust. If your voice, gestures, and body language are incongruent with your words, your listeners will distrust your message. It’s the equivalent of having a Ferrari, your magnificent story, without knowing how to drive it. The Art of Asking and Practicing Amanda Palmer delivered the most talked about presentation at TED 2013.
 
-Palmer is a performance artist and a musician. You would think she’d be comfortable giving a short presentation. The fact that she is a performer explains why she spent countless hours over a period of four months to get it just right.
+Palmer is the first to admit that her punk rock, indie, cabaret music isn’t for everybody, but regardless of whether… you’d like her music, we can all learn something from her approach to public speaking. Palmer is a performance artist and a musician. You would think she’d be comfortable giving a short presentation. The fact that she is a performer explains why she spent countless hours over a period of four months to get it just right.
 
-She said, “I slaved over the talk, writing and writing and rewriting and timing and retiming and tweaking and trying to fit the perfect sets of information into 12 short minutes.” In Palmer’s 30-page blog post on the making of her TED presentation, she thanked 105 people for their input and credits them for her success. In fact, Palmer’s first mentor was science musician Thomas Dolby, who helps TED with their music programming. Be totally authentic, he suggested. Authenticity doesn’t happen naturally.
+She said, “I slaved over the talk, writing and writing and rewriting and timing and retiming and tweaking and trying to fit the perfect sets of information into 12 short minutes.”. In Palmer’s 30-page blog post on the making of her TED presentation, she thanked 105 people for their input and credits them for her success.
 
-That’s right, authenticity does not happen naturally. How can that be? After all, if you
+In fact, Palmer’s first mentor was science musician Thomas Dolby, who helps TED with their music programming. Be totally authentic, he suggested. Authenticity doesn’t happen naturally. That’s right, authenticity does not happen naturally.
+
+How can that be? After all, if you
 
 
 <a id="sec-023108"></a>
@@ -896,31 +1000,35 @@ That’s right, authenticity does not happen naturally. How can that be? After a
 
 are authentic, then wouldn’t it make sense just to speak from your heart with no practice at all? Not necessarily. An authentic presentation requires hours of work, digging deeper into your soul than you ever have, choosing the right words that best represent the way you feel about your topic, delivering those words for maximum impact and making sure that your nonverbal communication, your gestures, facial expressions and body language are consistent with your message. If you don’t practice having a conversation, you’ll be thinking about a million other things instead of being focused on your story and making an emotional connection with your listener.
 
-You’ll be thinking, did I build an animation on this slide? What’s the next slide? Why isn’t my clicker working? What story did I plan to tell next?
+You’ll be thinking, did. I build an animation on this slide? What’s the next slide? Why isn’t my clicker working?
 
-Your expressions and body language will reflect your uncertainty. Have you ever studied dancing? A person is taught to count steps at first. They even talk themselves through the steps.
+What story did. I plan to tell next? Your expressions and body language will reflect your uncertainty. Have you ever studied dancing?
 
-Only after hours and hours of practice do they look effortless. The same rule applies to a presentation. It took Palmer months of hard work to make it look easy. After meeting with Dolby, Palmer continued her journey to presentation excellence.
+A person is taught to count steps at first. They even talk themselves through the steps. Only after hours and hours of practice do they look effortless. The same rule applies to a presentation.
 
-Here are three steps Palmer took to craft and deliver the presentation of her life. Step number one, help with planning. Palmer has maintained a popular blog for years. She literally crowdsourced her topic by asking readers for their suggestions.
+It took Palmer months of hard work to make it look easy. After meeting with Dolby, Palmer continued her journey to presentation excellence. Here are three steps Palmer took to craft and deliver the presentation of her life. Step number one, help with planning.
 
-Ask for help from the people who know you best on a blog, Twitter or among family, friends and colleagues. All too often you’re simply too close to the content. You might be immersed in the details when the audience might need to see the big picture first. You might assume that the audience knows exactly what you’re talking about when they really could use a simpler explanation.
+Palmer has maintained a popular blog for years. She literally crowdsourced her topic by asking readers for their suggestions. Ask for help from the people who know you best on a blog, Twitter or among family, friends and colleagues. All too often you’re simply too close to the content.
 
-Research like this is pivotal to making a connection with your audience. Step number two, early feedback. Palmer read her talk out loud and the first people who heard it were bored. She was losing them.
+You might be immersed in the details when the audience might need to see the big picture first. You might assume that the audience knows exactly what you’re talking about when they really could use a simpler explanation. Research like this is pivotal to making a connection with your audience. Step number two, early feedback.
 
-Her old theater director and mentor from high school gave her some brutal feedback on the early draft. Palmer reached out to another Ted speaker and blogger Seth Godin who said stay vulnerable. Asking for and receiving early feedback was just the beginning. Dozens of friends, experts, bloggers and speakers read the content of her presentation or brainstormed ideas on how Palmer could bring her topic to life.
+Palmer read her talk out loud and the first people who heard it were bored. She was losing them. Her old theater director and mentor from high school gave her some brutal feedback on the early draft. Palmer reached out to another Ted speaker and blogger Seth Godin who said stay vulnerable.
 
-Palmer even approached a girl sitting alone at a bar and asked, can I tell you a story? The greatest business presentations I’ve ever seen have required hundreds of hours of work crafting the narrative and the storyline behind the product or company. One 20-minute product launch at Apple consumed 250 hours of total time. That included the work of presentation designers, technical specialists and marketing professionals as well as the executives who delivered the final presentation.
+Asking for and receiving early feedback was just the beginning. Dozens of friends, experts, bloggers and speakers read the content of her presentation or brainstormed ideas on how Palmer could bring her topic to life. Palmer even approached a girl sitting alone at a bar and asked, can. I tell you a story?
+
+The greatest business presentations. I’ve ever seen have required hundreds of hours of work crafting the narrative and the storyline behind the product or company. One 20-minute product launch at Apple consumed 250 hours of total time. That included the work of presentation designers, technical specialists and marketing professionals as well as the executives who delivered the final presentation.
 
 Ten note, practice in front of people record it and watch it back. Ask friends and colleagues to watch your presentation and to give you open, honest feedback. Use a recording device too. Set up a smartphone on a tripod or buy a dedicated video camera.
 
-However you choose to do it, record yourself. It doesn’t have to be professional broadcast quality. Unless you decide to show it to somebody else, nobody’s going to see it except you. You might be surprised at what you catch.
+However, you choose to do it, record yourself. It doesn’t have to be professional broadcast quality. Unless you decide to show it to somebody else, nobody’s going to see it except you. You might be surprised at what you catch.
 
-Vocal fillers like alms and ahs, distracting hand motions like scratching your nose or flipping your hair, lack of eye contact, etc. Pay careful attention to the pace of your speech and ask others for their opinions. Is it too fast? Too slow? The video camera is the single best tool to improve your public speaking ability.
+Vocal fillers like alms and ahs, distracting hand motions like scratching your nose or flipping your hair, lack of eye contact, etc. Pay careful attention to the pace of your speech and ask others for their opinions. Is it too fast? Too slow?
 
-Step three, rehearse, rehearse and rehearse. On her blog, Palmer posted a photograph of about two dozen people at a potluck style dinner in someone’s living room watching her perform the TED talk. Among the people she invited, friends, musicians, engineers, a yoga teacher, a venture capitalist, a photographer and a psychology professor. This is brilliant.
+The video camera is the single best tool to improve your public speaking ability. Step three, rehearse, rehearse and rehearse. On her blog, Palmer posted a photograph of about two dozen people at a potluck style dinner in someone’s living room watching her perform the TED talk. Among the people she invited, friends, musicians, engineers, a yoga teacher, a venture capitalist, a photographer and a psychology professor.
 
-Creativity thrives in diverse views. Palmer took every opportunity to practice in front of people. A few days after the potluck, she delivered the same presentation to a group of students at a fine art school in Boston. The teacher had invited Palmer to speak to the class on a topic
+This is brilliant. Creativity thrives in diverse views. Palmer took every opportunity to practice in front of people. A few days after the potluck, she delivered the same presentation to a group of students at a fine art school in Boston.
+
+The teacher had invited Palmer to speak to the class on a topic
 
 
 <a id="sec-023609"></a>
@@ -932,21 +1040,23 @@ Three days ahead of the talk, Palmer sketched the outline of the presentation on
 
 Once she arrived in Long Beach, she had a friend listen to her presentation over Skype. She also performed the presentation twice for the TED team, once on Skype and once on stage for the dress rehearsal. Palmer’s talk was titled The Art of Asking. It could have been titled The Art of Connecting because that’s what Palmer did.
 
-A winning presentation, like Palmer’s, does not happen without hours and hours of practice and a huge amount of input. Palmer said, if I had done this alone, it probably would not have been a good talk. All these people made it a brilliant talk. Steve Jobs and the 10,000 Hour Rule It’s a well-known theory that it takes 10,000 hours of practice to master a particular skill, playing a piano, shooting baskets, hitting a tennis ball, etc. I strongly believe it applies to the skill of public speaking, too.
+A winning presentation, like Palmer’s, does not happen without hours and hours of practice and a huge amount of input. Palmer said, if. I had done this alone, it probably would not have been a good talk. All these people made it a brilliant talk.
 
-A lot of people tell me they’ll never be as polished as Steve Jobs or other great business speakers because they’re simply not good at it. Well, neither was Steve Jobs at one point. He worked at it. A video of Steve Jobs' first television interview in the mid-1970s appeared on YouTube.
+Steve Jobs and the 10,000 Hour. Rule It’s a well-known theory that it takes 10,000 hours of practice to master a particular skill, playing a piano, shooting baskets, hitting a tennis ball, etc. I strongly believe it applies to the skill of public speaking, too. A lot of people tell me they’ll never be as polished as Steve Jobs or other great business speakers because they’re simply not good at it.
 
-It showed him in the chair before the interview began. He was visibly nervous before the interview. He even asked for directions to the bathroom because he thought he’d be sick. I’m not kidding, he said emphatically.
+Well, neither was Steve Jobs at one point. He worked at it. A video of Steve Jobs' first television interview in the mid-1970s appeared on YouTube. It showed him in the chair before the interview began.
 
-In his early presentations, including the 1984 launch of Macintosh, Jobs was still pretty stiff, holding on to the lectern and reading from prepared notes. He got better every year.
+He was visibly nervous before the interview. He even asked for directions to the bathroom because he thought he’d be sick. I’m not kidding, he said emphatically. In his early presentations, including the 1984 launch of Macintosh, Jobs was still pretty stiff, holding on to the lectern and reading from prepared notes.
 
-In fact, every decade saw a significant improvement in his style and delivery. Jobs built a reputation for practicing relentlessly for a presentation, many, many hours over many, many weeks. Eventually, Jobs was considered among the most charismatic business leaders on the world stage. What many people fail to realize is that Jobs made it look effortless because he worked at it.
+He got better every year. In fact, every decade saw a significant improvement in his style and delivery. Jobs built a reputation for practicing relentlessly for a presentation, many, many hours over many, many weeks. Eventually, Jobs was considered among the most charismatic business leaders on the world stage.
 
-When I work with spokespeople who want to improve their body language and delivery, I preach the importance of what I call the three P’s. Passion, practice, presence, so that they can learn to deliver their presentations in a genuine, conversational way. The first step requires the spokesperson to identify what she is passionate about and how it connects to her message. The next step is to practice, practice, practice.
+What many people fail to realize is that Jobs made it look effortless because he worked at it. When. I work with spokespeople who want to improve their body language and delivery, I preach the importance of what. I call the three P’s.
 
-Only until these first two needs have been met will true presence come to the surface. Palmer is passionate about the topic because it’s core to her identity. She practiced for hours and, as a result, she commanded the stage. Nobody is born with a PowerPoint clicker in their hands.
+Passion, practice, presence, so that they can learn to deliver their presentations in a genuine, conversational way. The first step requires the spokesperson to identify what she is passionate about and how it connects to her message. The next step is to practice, practice, practice. Only until these first two needs have been met will true presence come to the surface.
 
-People are generally not born with the innate ability to distill the essence of a story in a short amount of time, to visualize it, to bring it to life, and to speak comfortably about it without a lot of practice. Yet, I can’t tell you how many times I hear, Carmine, public speaking doesn’t come naturally to me like it does to other people. Well, I’ve got news for you. It doesn’t come naturally to those people either.
+Palmer is passionate about the topic because it’s core to her identity. She practiced for hours and, as a result, she commanded the stage. Nobody is born with a PowerPoint clicker in their hands. People are generally not born with the innate ability to distill the essence of a story in a short amount of time, to visualize it, to bring it to life, and to speak comfortably about it without a lot of practice.
+
+Yet, I can’t tell you how many times. I hear, Carmine, public speaking doesn’t come naturally to me like it does to other people. Well, I’ve got news for you. It doesn’t come naturally to those people either.
 
 Put in the time. Your ideas are worth the effort. If your goal is to deliver a memorable presentation that will leave your audience in awe, then you must practice. During your practice sessions, you must pay attention to how you sound, your verbal delivery, and how you look body language.
 
@@ -958,25 +1068,29 @@ Let’s examine both components of a winning package. How to say it so people li
 
 Volume, loudness or softness. Pitch, high or low inflections. Pauses, short pauses to punch keywords. When you read printed text, it would be natural to use a highlighter to emphasize an important word or phrase.
 
-The verbal equivalent of a highlighter is to raise or lower the volume of your voice, to change the speed at which you deliver the words, and or to set aside the keyword or phrase with a pause before or after voicing it. Each of these four elements is important, and I’ll give you examples of each one in this chapter. But if you don’t have the rate of your speech correct, nothing else matters. The ideal pace of public speaking.
+The verbal equivalent of a highlighter is to raise or lower the volume of your voice, to change the speed at which you deliver the words, and or to set aside the keyword or phrase with a pause before or after voicing it. Each of these four elements is important, and. I’ll give you examples of each one in this chapter. But if you don’t have the rate of your speech correct, nothing else matters.
 
-Studies show that 150 to 160 words per minute is the ideal rate of speech for audiobooks. It seems to be the rate at which most listeners can comfortably hear, absorb, and recall the information. Having read my own audiobooks, I can tell you that the ideal pace of dictation is slightly slower than the rate of speech in normal conversation. When I was asked to read my first audiobook, The Presentation Secrets of Steve Jobs, I remember sitting in a sound production studio in Berkeley for four days, carefully reading every sentence of the book, in between frequent sips of warm tea and honey.
+The ideal pace of public speaking. Studies show that 150 to 160 words per minute is the ideal rate of speech for audiobooks. It seems to be the rate at which most listeners can comfortably hear, absorb, and recall the information. Having read my own audiobooks, I can tell you that the ideal pace of dictation is slightly slower than the rate of speech in normal conversation.
 
-The publisher had assigned a professional voice coach to help me with the dictation. According to the vocal coach, my biggest problem was that I was speaking too fast. But I’m speaking the way I always talk in casual conversations, I said. This isn’t a casual conversation, the vocal coach said.
+When. I was asked to read my first audiobook, The Presentation Secrets of Steve Jobs, I remember sitting in a sound production studio in Berkeley for four days, carefully reading every sentence of the book, in between frequent sips of warm tea and honey. The publisher had assigned a professional voice coach to help me with the dictation. According to the vocal coach, my biggest problem was that.
 
-Audiobooks should be read at a slightly slower pace, because people are listening to it, often in their cars, and they don’t have the added sensory input of seeing your lips move and your facial expressions. People who make money as voiceover artists and who read books professionally say that audiobooks should be read at a slightly slower rate of speech than face-to-face conversations. So it stands to reason that if an audiobook is read at 150 words per minute, then the ideal rate of speech for an in-person presentation would be slightly faster, because of the added sensory inputs of hand gestures, eye contact, and facial expressions.
+I was speaking too fast. But. I’m speaking the way. I always talk in casual conversations, I said.
 
-I tested this theory by examining the vocal pacing of Bryan Stevenson, the civil rights attorney you met earlier. As you’ll recall, Stevenson is a speaker who has successfully argued cases in front of the U. S. Supreme Court. After reviewing hundreds of TED presentations, as well as thousands of other presentations in my career, I’m convinced that Stevenson has the most comfortable pacing of any public speaker I’ve seen. He’s not reading to you, he’s having a conversation with you.
+This isn’t a casual conversation, the vocal coach said. Audiobooks should be read at a slightly slower pace, because people are listening to it, often in their cars, and they don’t have the added sensory input of seeing your lips move and your facial expressions. People who make money as voiceover artists and who read books professionally say that audiobooks should be read at a slightly slower rate of speech than face-to-face conversations. So it stands to reason that if an audiobook is read at 150 words per minute, then the ideal rate of speech for an in-person presentation would be slightly faster, because of the added sensory inputs of hand gestures, eye contact, and facial expressions.
 
-When I asked Stevenson about his speaking style, he told me that he likes to sound like he’s talking to a friend over dinner. If my theory was correct that a great presenter speaks slightly faster than the ideal audiobook rate of 150 words per minute, then Stevenson should reflect it. Sure enough, in his now famous TED Talk, Stevenson speaks at the slightly faster pace of 190 words per minute. I wanted to test the theory further.
+I tested this theory by examining the vocal pacing of Bryan Stevenson, the civil rights attorney you met earlier. As you’ll recall, Stevenson is a speaker who has successfully argued cases in front of the U. S. Supreme Court.
 
-If Stevenson reflects the Goldilocks zone of public presentations, not too fast and not too slow, a super high-energy motivational speaker should speak much, much faster than Stevenson. So I’d motivational guru Tony Robbins, who gave a TED Talk in 2006. In that talk, Robbins spoke at 240 words per minute. That’s fast.
+After reviewing hundreds of TED presentations, as well as thousands of other presentations in my career, I’m convinced that Stevenson has the most comfortable pacing of any public speaker. I’ve seen. He’s not reading to you, he’s having a conversation with you. When.
 
-For comparison, an auctioneer speaks at 250 words per minute. Now, that speed works really effectively for Robbins, who leaps on stage, waves his arms wildly, jumps up and down. He’s there to pump you up. The audience expects ultra-high energy from his delivery in both nonverbal body language and his verbal pacing.
+I asked Stevenson about his speaking style, he told me that he likes to sound like he’s talking to a friend over dinner. If my theory was correct that a great presenter speaks slightly faster than the ideal audiobook rate of 150 words per minute, then Stevenson should reflect it. Sure enough, in his now famous TED Talk, Stevenson speaks at the slightly faster pace of 190 words per minute. I wanted to test the theory further.
 
-If the theory holds, a person on the opposite end of Robbins on the vocal pacing spectrum should speak much, much more slowly than an audiobook. To test the theory, I analyzed the rate of speech of Henry Kissinger, secretary of state in the Richard Nixon administration. Kissinger was brilliant, but hardly considered a charismatic public speaker. He even mocked his own reputation when he said, power is the ultimate aphrodisiac.
+If Stevenson reflects the Goldilocks zone of public presentations, not too fast and not too slow, a super high-energy motivational speaker should speak much, much faster than Stevenson. So. I’d motivational guru Tony Robbins, who gave a TED Talk in 2006. In that talk, Robbins spoke at 240 words per minute.
 
-Kissinger spoke very, very slowly.
+That’s fast. For comparison, an auctioneer speaks at 250 words per minute.
+
+Now, that speed works really effectively for Robbins, who leaps on stage, waves his arms wildly, jumps up and down. He’s there to pump you up. The audience expects ultra-high energy from his delivery in both nonverbal body language and his verbal pacing. If the theory holds, a person on the opposite end of Robbins on the vocal pacing spectrum should speak much, much more slowly than an audiobook.
+
+To test the theory, I analyzed the rate of speech of Henry Kissinger, secretary of state in the Richard Nixon administration. Kissinger was brilliant, but hardly considered a charismatic public speaker. He even mocked his own reputation when he said, power is the ultimate aphrodisiac. Kissinger spoke very, very slowly.
 
 
 <a id="sec-024612"></a>
@@ -986,49 +1100,63 @@ And he spoke in a monotone that if you were not glued to his every word, it migh
 
 Recall popular TED presenter, Sir Ken Robinson. He delivered his TED talk in 3,200 words. Dr. Jill Bolte-Taylor delivered hers in about 2,700 words, not too far off.
 
-Finally, what about Bryan Stevenson, the man who I believe has the most naturally conversational delivery? Stevenson’s popular talk, We Need to Talk About an Injustice, contains 4,000 words. On closer inspection, however, I discovered that he bent the rule slightly and talked for 21 minutes. The total number of words in his first 18 minutes were 3,373.
+Finally, what about Bryan Stevenson, the man who. I believe has the most naturally conversational delivery? Stevenson’s popular talk, We Need to Talk About an Injustice, contains 4,000 words. On closer inspection, however, I discovered that he bent the rule slightly and talked for 21 minutes.
 
-I’m not suggesting that you begin counting the number of words in your presentations. Yes, if you’d like to try it once, fine. It’s more important that you pay attention to how you speak in everyday conversation and how it changes during your presentation. Most people slow down their rate of speech when they give a presentation, and that makes their verbal delivery sound unnatural.
+The total number of words in his first 18 minutes were 3,373. I’m not suggesting that you begin counting the number of words in your presentations. Yes, if you’d like to try it once, fine. It’s more important that you pay attention to how you speak in everyday conversation and how it changes during your presentation.
 
-So don’t deliver a presentation. Have a conversation instead. TED Note Speak in a conversational tone. Watch Bryan Stevenson’s TED talk.
+Most people slow down their rate of speech when they give a presentation, and that makes their verbal delivery sound unnatural. So don’t deliver a presentation. Have a conversation instead. TED Note Speak in a conversational tone.
 
-Listen to how he tells his three stories. He sounds like he’s shooting the breeze with you. It’s natural, conversational, and very authentic. When you practice your presentation, you’ll be inclined to slow the rate of your speech as you advance slides, or you try to remember the points that you’d like to make.
+Watch Bryan Stevenson’s TED talk. Listen to how he tells his three stories. He sounds like he’s shooting the breeze with you. It’s natural, conversational, and very authentic.
 
-Once you’ve internalized the content, however, try to match the pace of your verbal delivery with your natural conversation style. Lisa Christine Punches Keywords For two years, Lisa Christine has been visiting the far parts of the world to photograph one of the most atrocious crimes against humanity, slavery. Christine is a photographer, and she lets her photos tell the story. During her TEDx talk, Christine directed the audience’s focus to her slides, but she decorated the photographs on those slides with her vocal intensity.
+When you practice your presentation, you’ll be inclined to slow the rate of your speech as you advance slides, or you try to remember the points that you’d like to make. Once you’ve internalized the content, however, try to match the pace of your verbal delivery with your natural conversation style. Lisa Christine Punches Keywords. For two years, Lisa Christine has been visiting the far parts of the world to photograph one of the most atrocious crimes against humanity, slavery.
 
-In the following section of her TEDx presentation, she slowed the pace of the delivery, enunciating every word clearly, and she punched key words. Let me give you an example. Today’s slavery is about commerce, so the goods that enslaved people produce have value, but the people producing them are disposable. Slavery exists everywhere, nearly in the world, and yet it is illegal everywhere in the world.
+Christine is a photographer, and she lets her photos tell the story. During her TEDx talk, Christine directed the audience’s focus to her slides, but she decorated the photographs on those slides with her vocal intensity. In the following section of her TEDx presentation, she slowed the pace of the delivery, enunciating every word clearly, and she punched key words. Let me give you an example.
 
-So do you see how she punches those key words for emphasis? Christine is passionate about her topic. She talks about the moment she learned about slavery during a conference when she met someone working to eradicate slavery around the world. She did not use many gestures during her presentation, but she would close her eyes and slow down the delivery of her talk.
+Today’s slavery is about commerce, so the goods that enslaved people produce have value, but the people producing them are disposable. Slavery exists everywhere, nearly in the world, and yet it is illegal everywhere in the world. So do you see how she punches those key words for emphasis? Christine is passionate about her topic.
 
-It went like this. After we finished talking, I felt so horrible and honestly ashamed at my own lack of knowledge of this atrocity in my own lifetime, and I thought, if I don’t know how many other people don’t know, it started burning a hole in my stomach. Lisa Christine’s vocal delivery, her powerful vocal delivery, supported the compelling images on her slides. Dr. Jill acts out a story. How you say something leaves as deep an impression on the listener as what you say, but many of us neglect this all-important skill.
+She talks about the moment she learned about slavery during a conference when she met someone working to eradicate slavery around the world. She did not use many gestures during her presentation, but she would close her eyes and slow down the delivery of her talk. It went like this. After we finished talking, I felt so horrible and honestly ashamed at my own lack of knowledge of this atrocity in my own lifetime, and.
 
-At TEDx Youth Indianapolis, Dr. Jill brought her prop, which is a real human brain, on stage to talk to an audience of teenagers and young adults about why they feel out of control during puberty and during their teen years. Once they understood their neurocircuitry, they would be better equipped to handle the inevitable mood swings and inexplicable feelings and emotions they have. Dr. Jill’s presentation is one of the best science talks I have ever seen.
+I thought, if. I don’t know how many other people don’t know, it started burning a hole in my stomach. Lisa Christine’s vocal delivery, her powerful vocal delivery, supported the compelling images on her slides. Dr.
+
+Jill acts out a story. How you say something leaves as deep an impression on the listener as what you say, but many of us neglect this all-important skill. At TEDx Youth Indianapolis, Dr. Jill brought her prop, which is a real human brain, on stage to talk to an audience of teenagers and young adults about why they feel out of control during puberty and during their teen years.
+
+Once they understood their neurocircuitry, they would be better equipped to handle the inevitable mood swings and inexplicable feelings and emotions they have. Dr. Jill’s presentation is one of the best science talks. I have ever seen.
 
 
 <a id="sec-025116"></a>
 ### ⏱️ [02:51:16 - 02:56:19]
 
-If all educators made science as interesting as Dr. Jill does, I’m sure more kids would be excited about pursuing careers in science and math. Dr. Jill opened her presentation speaking at that Goldilocks pace that I mentioned earlier, 165 words per minute, not too fast and not too slow. She is an accomplished and perceptive speaker. She knows that her verbal delivery must match the content of her narrative. Speaking at the same pace for the entire presentation would surely have bored her audience, no matter how compelling the content.
+If all educators made science as interesting as Dr. Jill does, I’m sure more kids would be excited about pursuing careers in science and math. Dr. Jill opened her presentation speaking at that Goldilocks pace that.
 
-Her goal was to inform and entertain. Dr. Jill reached a point in her presentation when she discussed the changes to the human brain during puberty, the time when teenagers literally lose half their minds, as she said. But what does losing your mind sound like? What would it look like? As Dr. Jill’s gestures got more erratic and expansive, her voice grew louder, her pace of delivery picked up substantially.
+I mentioned earlier, 165 words per minute, not too fast and not too slow. She is an accomplished and perceptive speaker. She knows that her verbal delivery must match the content of her narrative. Speaking at the same pace for the entire presentation would surely have bored her audience, no matter how compelling the content.
 
-She was now speaking at the pace of 220 words per minute. And here’s how it sounded.
+Her goal was to inform and entertain. Dr. Jill reached a point in her presentation when she discussed the changes to the human brain during puberty, the time when teenagers literally lose half their minds, as she said. But what does losing your mind sound like?
 
-First, major physical growth spurt. When we go through a major physical growth spurt, our entire body changes. Our amygdala is on a little bit of alert, a little bit of alert. It’s very interesting, but it’s a little bit of alert.
+What would it look like? As Dr. Jill’s gestures got more erratic and expansive, her voice grew louder, her pace of delivery picked up substantially. She was now speaking at the pace of 220 words per minute.
 
-What’s going on? What’s going on? And then on top of that, our hormonal systems are starting to flow through our body. And with that, they are going to come all kinds of mood swings and all kinds of interesting behaviors.
+And here’s how it sounded. First, major physical growth spurt. When we go through a major physical growth spurt, our entire body changes. Our amygdala is on a little bit of alert, a little bit of alert.
 
-And then on top of that, there’s going to be what we call a pruning back, a pruning back of 50% of all the synaptic connections inside our brains. We are literally losing half our minds. Do you see how Dr. Jill’s pace of delivery, that faster pace of delivery, actually supported the narrative? You see, great speakers act out a story.
+It’s very interesting, but it’s a little bit of alert. What’s going on? What’s going on? And then on top of that, our hormonal systems are starting to flow through our body.
 
-They embody their words through their delivery, through their body language. While Dr. Jill rehearses her presentation, she chooses words that best communicate her key messages. But she also practices the most effective way of delivering those words. You see, teenagers aren’t crazy, according to Dr. Jill.
+And with that, they are going to come all kinds of mood swings and all kinds of interesting behaviors. And then on top of that, there’s going to be what we call a pruning back, a pruning back of 50% of all the synaptic connections inside our brains. We are literally losing half our minds. Do you see how Dr.
 
-Instead, there are actual biological reasons for their spontaneous and aggressive behavior. So Dr. Jill’s advice to teens and parents, survive until you’re 25, when your adult brain is formed. It’s an important message, and she hopes that millions of teenagers and students will view her presentation, which is now online at YouTube. Dr. Jill knows that she cannot reach the people who need to hear the message if she delivers it poorly. Dr. Jill’s presentations seem natural, authentic, animated, and above all, conversational. Conversational delivery takes practice.
+Jill’s pace of delivery, that faster pace of delivery, actually supported the narrative? You see, great speakers act out a story. They embody their words through their delivery, through their body language. While Dr.
 
-She rehearsed her presentation not once, twice, or even 20 times. She rehearsed it 200 times. Here’s how Dr. Jill created her popular presentation. Dr. Jill’s Indianapolis presentation was conceived in Cancun. She was in a creative state of mind as she walked the beach with a notepad.
+Jill rehearses her presentation, she chooses words that best communicate her key messages. But she also practices the most effective way of delivering those words. You see, teenagers aren’t crazy, according to Dr. Jill.
 
-She wrote down everything that came to mind, just free-flowing words and ideas, and she read what she had written out loud, to feel how the words and sounds worked together. She did not edit anything. She simply wrote down everything that she thought her audience, in this case teens and parents, needed to know about the subject. When Dr. Jill arrived back at her hotel room, she typed out the notes she had written in longhand.
+Instead, there are actual biological reasons for their spontaneous and aggressive behavior. So Dr. Jill’s advice to teens and parents, survive until you’re 25, when your adult brain is formed. It’s an important message, and she hopes that millions of teenagers and students will view her presentation, which is now online at YouTube.
 
-Back home, after her vacation, she had 25 single-spaced pages. Her next step involved condensing that material into five major points, her five key messages. Dr. Jill’s final step was to figure out how to deliver the key messages to be visual, interesting, and entertaining. And we’ll talk a little bit more about the visual display of information in a few chapters. But notice that Dr. Jill weighs the entertainment component of her presentation as equally as she does the others.
+Dr. Jill knows that she cannot reach the people who need to hear the message if she delivers it poorly. Dr. Jill’s presentations seem natural, authentic, animated, and above all, conversational.
+
+Conversational delivery takes practice. She rehearsed her presentation not once, twice, or even 20 times. She rehearsed it 200 times. Here’s how Dr.
+
+Jill created her popular presentation. Dr. Jill’s Indianapolis presentation was conceived in Cancun. She was in a creative state of mind as she walked the beach with a notepad.
+
+She wrote down everything that came to mind, just free-flowing words and ideas, and she read what she had written out loud, to feel how the words and sounds worked together. She did not edit anything. She simply wrote down everything that she thought her audience, in this case teens and parents, needed to know about the subject. When Dr.
+
+Jill arrived back at her hotel room, she typed out the notes she had written in longhand. Back home, after her vacation, she had 25 single-spaced pages. Her next step involved condensing that material into five major points, her five key messages. Dr.
+
+Jill’s final step was to figure out how to deliver the key messages to be visual, interesting, and entertaining. And we’ll talk a little bit more about the visual display of information in a few chapters. But notice that Dr. Jill weighs the entertainment component of her presentation as equally as she does the others.
 
 The problem with most technical or scientific discussions is that the presenters fail to make their content visual, interesting, and entertaining. The people who do all three stand out. They get noticed and inspire positive changes in behavior.
 
@@ -1040,29 +1168,31 @@ Vocal delivery and nonverbal communication both matter, and they matter a lot. B
 <a id="sec-025619"></a>
 ### ⏱️ [02:56:19 - 03:01:22]
 
-and 93% is conveyed nonverbally. Perhaps you’ve heard that statistic before. If you have, it’s wrong. Several years ago, I spoke to the UCLA professor behind that statistic, Albert Mirabian.
+and 93% is conveyed nonverbally. Perhaps, you’ve heard that statistic before. If you have, it’s wrong. Several years ago, I spoke to the UCLA professor behind that statistic, Albert Mirabian.
 
 Mirabian, who is now retired, conducted very limited studies in the 1960s in the area of interpersonal communication. He simply found that when people expressed a message of emotional content, that message could be misconstrued if the speaker’s tone and body language were not congruent or consistent with the message. It makes sense. But Mirabian says the data have been completely taken out of context.
 
-In fact, he cringes every time he hears that grossly misleading statistic. That said, “I’m quite confident that vocal delivery and body language do make up a majority of a message’s impact.” I don’t use Mirabian’s research to back my statement because, as he said, it’s wrong. It doesn’t apply. Instead, I’ll cite more thorough and proven research from the area of behavioral analysis.
+In fact, he cringes every time he hears that grossly misleading statistic. That said, “I’m quite confident that vocal delivery and body language do make up a majority of a message’s impact.”. I don’t use Mirabian’s research to back my statement because, as he said, it’s wrong. It doesn’t apply.
 
-The same data professional interrogators use to determine whether one is lying or telling the truth. Telling the truth about lying. Morgan Wright is an 18-year veteran of law enforcement. He is trained CIA, FBI, and NSA agents in behavior analysis, interviewing, and interrogation techniques.
+Instead, I’ll cite more thorough and proven research from the area of behavioral analysis. The same data professional interrogators use to determine whether one is lying or telling the truth. Telling the truth about lying. Morgan Wright is an 18-year veteran of law enforcement.
 
-According to Morgan Wright, body language makes a world of difference. It helps identify the difference between deception and truthfulness. According to Wright, the NSA, which stands for National Security Agency, conducted a study using 300 criminal cases where the outcomes were known. In one experiment, interviewers were asked to identify whether a suspect was telling the truth only by listening to the audio recording of the interrogation.
+He is trained CIA, FBI, and NSA agents in behavior analysis, interviewing, and interrogation techniques. According to Morgan Wright, body language makes a world of difference. It helps identify the difference between deception and truthfulness. According to Wright, the NSA, which stands for National Security Agency, conducted a study using 300 criminal cases where the outcomes were known.
 
-In the second group, interviewers saw the video of the suspect being questioned, but they did not hear the audio. The third group saw and heard the interview. And a fourth group had access to everything, video, audio, and case file. The group that had access only to the audio portion of the interrogation had a 55% success rate.
+In one experiment, interviewers were asked to identify whether a suspect was telling the truth only by listening to the audio recording of the interrogation. In the second group, interviewers saw the video of the suspect being questioned, but they did not hear the audio. The third group saw and heard the interview. And a fourth group had access to everything, video, audio, and case file.
 
-That means verbal behavior, what the suspect said, the tone in which he delivered the information, was only 55% accurate in determining whether a suspect was lying or telling the truth. The group who could not hear the audio and only had the suspect’s body language on video actually did better. They were accurate 65% of the time. Those who had the advantage of hearing and seeing the suspect had an 85% success rate, while those who had the background case file, along with the video and audio, correctly assess truthful versus deceptive behavior in 93% of the cases.
+The group that had access only to the audio portion of the interrogation had a 55% success rate. That means verbal behavior, what the suspect said, the tone in which he delivered the information, was only 55% accurate in determining whether a suspect was lying or telling the truth. The group who could not hear the audio and only had the suspect’s body language on video actually did better. They were accurate 65% of the time.
 
-That’s more accurate than a polygraph test. Morgan Wright told me, When I watch someone give a presentation, I evaluate them the same way I did during interrogations. When you’re delivering information that you do not believe in, or you’re lying about it, you manifest the same behaviors as suspects in criminal or espionage cases who are lying to officers and agents. Wright has some advice for communicators.
+Those who had the advantage of hearing and seeing the suspect had an 85% success rate, while those who had the background case file, along with the video and audio, correctly assess truthful versus deceptive behavior in 93% of the cases. That’s more accurate than a polygraph test. Morgan Wright told me, When. I watch someone give a presentation, I evaluate them the same way.
 
-Believe in what you’re saying. If you don’t believe what you’re saying, Your movements will be awkward and not natural. No amount of training, unless you’re a trained agent or psychopath, will allow you to break that incongruence between your words and your actions. If you don’t believe in the message, you cannot force your body to act as though you do believe in the message.
+I did during interrogations. When you’re delivering information that you do not believe in, or you’re lying about it, you manifest the same behaviors as suspects in criminal or espionage cases who are lying to officers and agents. Wright has some advice for communicators. Believe in what you’re saying.
 
-According to Wright, truthful and confident people have a command presence. They have the look of authority, and that look begins with what people wear and how they carry themselves. The FBI conducted a study on prisoners who had shot or attacked police officers. Before deciding to engage the officer, the prisoners evaluated how easy it would be to take down the officer simply by the way the officers were dressed.
+If you don’t believe what you’re saying, Your movements will be awkward and not natural. No amount of training, unless you’re a trained agent or psychopath, will allow you to break that incongruence between your words and your actions. If you don’t believe in the message, you cannot force your body to act as though you do believe in the message. According to Wright, truthful and confident people have a command presence.
 
-Were they sloppy or sharp? And how the officers carried themselves? Were they slouching, or do they stand straight and tall? According to Wright, as an officer, you can invite trouble if you slouch, avoid eye contact, use vague, imprecise language, and are generally sloppy in your attire.
+They have the look of authority, and that look begins with what people wear and how they carry themselves. The FBI conducted a study on prisoners who had shot or attacked police officers. Before deciding to engage the officer, the prisoners evaluated how easy it would be to take down the officer simply by the way the officers were dressed. Were they sloppy or sharp?
 
-Of course, there’s a big difference between delivering a presentation and approaching a suspect. In the latter, poor vocal tone and body language could get you killed. But it reinforces the point that people are making judgments about you all the time, based
+And how the officers carried themselves? Were they slouching, or do they stand straight and tall? According to Wright, as an officer, you can invite trouble if you slouch, avoid eye contact, use vague, imprecise language, and are generally sloppy in your attire. Of course, there’s a big difference between delivering a presentation and approaching a suspect.
+
+In the latter, poor vocal tone and body language could get you killed. But it reinforces the point that people are making judgments about you all the time, based
 
 
 <a id="sec-030122"></a>
@@ -1072,29 +1202,31 @@ largely on the way you walk, talk, and look. Great leaders have an air of confid
 
 They are typically dressed a little better than everyone else. Their shoes are polished, their clothes pressed, they make stronger eye contact, they have a firm handshake, they speak concisely and precisely. They don’t get flustered, they remain calm. They use open gestures, palms up, open, hands apart.
 
-Their voices project because they’re speaking from their diaphragms. They walk, talk, and look like inspiring leaders. Several years ago, I had the opportunity to meet Commander Matt Eversman. He teaches leadership at Johns Hopkins University. He led troops into battle in Mogadishu, Somalia in 1993.
+Their voices project because they’re speaking from their diaphragms. They walk, talk, and look like inspiring leaders. Several years ago, I had the opportunity to meet Commander Matt Eversman. He teaches leadership at Johns Hopkins University.
 
-In fact, the battle was turned into a book and a movie of the same name, Black Hawk Down. One thing that struck me immediately was that Eversman had presence, loads of it. What role does body language play in the development of a leader, I asked Eversman. He said, great leaders have an air of confidence.
+He led troops into battle in Mogadishu, Somalia in 1993. In fact, the battle was turned into a book and a movie of the same name, Black Hawk Down. One thing that struck me immediately was that Eversman had presence, loads of it. What role does body language play in the development of a leader, I asked Eversman.
 
-Subordinates need to look up to somebody who is still standing strong, like an oak, regardless of events around them. You need to convey a feeling that you will always be in control, despite the circumstances, even if you do not have an immediate solution. Someone who doesn’t lose focus, doesn’t cower, doesn’t waffle. The air of confidence must come out.
+He said, great leaders have an air of confidence. Subordinates need to look up to somebody who is still standing strong, like an oak, regardless of events around them. You need to convey a feeling that you will always be in control, despite the circumstances, even if you do not have an immediate solution. Someone who doesn’t lose focus, doesn’t cower, doesn’t waffle.
 
-Do you have that air of confidence on the corporate battlefield? Great communicators do. A leader who fails to instill confidence among his subordinates during hundreds of everyday actions will lose the loyalty of his troops when it really counts. You might never see a TED stage, but you’re selling yourself all the time.
+The air of confidence must come out. Do you have that air of confidence on the corporate battlefield? Great communicators do. A leader who fails to instill confidence among his subordinates during hundreds of everyday actions will lose the loyalty of his troops when it really counts.
 
-If you’re an entrepreneur pitching investors or a software vendor pitching yourself in a trade show booth, you’re giving a presentation. If you’re a job candidate pitching yourself to a recruiter or a CEO pitching a new product to customers, you’re giving a presentation. A TED Talk can be the presentation of a lifetime for many people, but your daily business presentations are often just as important for your career and your company. Successful TED presenters have strong body language, and so should you.
+You might never see a TED stage, but you’re selling yourself all the time. If you’re an entrepreneur pitching investors or a software vendor pitching yourself in a trade show booth, you’re giving a presentation. If you’re a job candidate pitching yourself to a recruiter or a CEO pitching a new product to customers, you’re giving a presentation. A TED Talk can be the presentation of a lifetime for many people, but your daily business presentations are often just as important for your career and your company.
 
-Talk, walk, and look like a leader. Colin Powell is a very thoughtful leader. His thinking process is rigorous and structured, much like his background as an Army general and U. S. Secretary of State from 2001 to 2005. When Powell is on television sitting across the desk from an interviewer, he usually begins with his hands folded in front of him on the desk.
+Successful TED presenters have strong body language, and so should you. Talk, walk, and look like a leader. Colin Powell is a very thoughtful leader. His thinking process is rigorous and structured, much like his background as an Army general and U.
 
-He doesn’t stay that way for long. Within seconds, he’s using gestures that compliment his message. Researchers have found that rigorous thinkers cannot easily stop using gestures, even when they try to keep their hands folded. Using gestures actually frees up their mental capacities.
+S. Secretary of State from 2001 to 2005. When Powell is on television sitting across the desk from an interviewer, he usually begins with his hands folded in front of him on the desk. He doesn’t stay that way for long.
 
-Complex thinkers use complex gestures. Powell uses gestures frequently in television interviews and presentations. In October 2012, Powell delivered a very heartfelt TED presentation on the topic of kids and why they need structure for a good start in life. Powell began his presentation as he does his television interviews with both hands together.
+Within seconds, he’s using gestures that compliment his message. Researchers have found that rigorous thinkers cannot easily stop using gestures, even when they try to keep their hands folded. Using gestures actually frees up their mental capacities. Complex thinkers use complex gestures.
 
-Again, it didn’t last long. Within 10 seconds, his hands came apart, and they did not touch each other for another 17 minutes. Powell has command presence. He walks, talks, and looks like a leader.
+Powell uses gestures frequently in television interviews and presentations. In October 2012, Powell delivered a very heartfelt TED presentation on the topic of kids and why they need structure for a good start in life. Powell began his presentation as he does his television interviews with both hands together. Again, it didn’t last long.
 
-He also trains people, soldiers, and young adults to do the same. When Powell talks to a group of students and asks them questions, he’ll ask the student to walk up to the front of the class, stand at attention like a soldier, arms straight at their sides, eyes up, looking straight ahead, and speaking loudly. The kids have fun with it, but something inside of them changes. They feel different, more confident, ready to take on a challenge.
+Within 10 seconds, his hands came apart, and they did not touch each other for another 17 minutes. Powell has command presence. He walks, talks, and looks like a leader. He also trains people, soldiers, and young adults to do the same.
 
-The way you carry yourself actually changes the way you feel when you’re delivering a presentation. Here’s a quote from Colin Powell in his book, It Worked for Me. I have been a professional speaker for most of my adult life. From my first day in my first unit as an army officer, I had to speak to and teach troops.
+When Powell talks to a group of students and asks them questions, he’ll ask the student to walk up to the front of the class, stand at attention like a soldier, arms straight at their sides, eyes up, looking straight ahead, and speaking loudly. The kids have fun with it, but something inside of them changes. They feel different, more confident, ready to take on a challenge. The way you carry yourself actually changes the way you feel when you’re delivering a presentation.
 
-Over time, I learned how to reach them, how to make the subject interesting, and how to persuade them that they had an interest in learning what I was teaching.
+Here’s a quote from Colin Powell in his book, It Worked for Me. I have been a professional speaker for most of my adult life. From my first day in my first unit as an army officer, I had to speak to and teach troops. Over time, I learned how to reach them, how to make the subject interesting, and how to persuade them that they had an interest in learning what.
+
+I was teaching.
 
 
 <a id="sec-030623"></a>
@@ -1106,17 +1238,21 @@ The world’s most charismatic business professionals have great body language, 
 
 If so, you have command presence. If you want to make a positive impression in your next meeting, sales pitch, or job interview, pay attention to what your body is saying. Walk, talk, and look like a leader who people want to follow. The gist on gestures.
 
-Are gestures necessary? Well, the short answer is yes, they are. Studies have shown that complex thinkers use complex gestures, and that gestures actually give the audience confidence in the speaker. Dr. David McNeil says it’s all in the hands. The University of Chicago researcher is one of the foremost authority in the area of hand gestures.
+Are gestures necessary? Well, the short answer is yes, they are. Studies have shown that complex thinkers use complex gestures, and that gestures actually give the audience confidence in the speaker. Dr.
 
-McNeil has empirical evidence proving that gestures, thinking, and language are connected. I spoke to Dr. McNeil, and I can confidently say that the most popular TED speakers reinforce his conclusion. Disciplined, rigorous, intelligent, and confident, those type of speakers use hand gestures as a window to their thought process. Soon after I spoke to Dr. McNeil, I had the opportunity to watch Cisco CEO John Chambers in person.
+David McNeil says it’s all in the hands. The University of Chicago researcher is one of the foremost authority in the area of hand gestures. McNeil has empirical evidence proving that gestures, thinking, and language are connected. I spoke to Dr.
 
-He’s an astonishing and charismatic presenter who works the room like a preacher walking off stage and into the audience. He uses his voice masterfully, speeding up or slowing down the pace, raising and lowering his voice, punching key words and phrases. Chambers is considered one of the most intelligent and visionary executives in high technology, and he is said to have a prodigious memory. As McNeil observed, complex thinkers have complex gestures, and Chambers, being a complex thinker, uses large, expansive hand gestures to punctuate nearly every sentence.
+McNeil, and. I can confidently say that the most popular TED speakers reinforce his conclusion. Disciplined, rigorous, intelligent, and confident, those type of speakers use hand gestures as a window to their thought process. Soon after.
 
-Based on my conversation with McNeil and my own experience working with global leaders on their communication skills, here are four tips that you can use today to improve the way you use your hands. Tip number one, use gestures. Don’t be afraid to use your hands in the first place. The simplest fix for a stiff presentation is to pull your hands out of your pockets.
+I spoke to Dr. McNeil, I had the opportunity to watch Cisco CEO John Chambers in person. He’s an astonishing and charismatic presenter who works the room like a preacher walking off stage and into the audience. He uses his voice masterfully, speeding up or slowing down the pace, raising and lowering his voice, punching key words and phrases.
 
-Use your hands. Don’t keep your hands bound when you present. They want to be free. Tip number two, use gestures sparingly.
+Chambers is considered one of the most intelligent and visionary executives in high technology, and he is said to have a prodigious memory. As McNeil observed, complex thinkers have complex gestures, and Chambers, being a complex thinker, uses large, expansive hand gestures to punctuate nearly every sentence. Based on my conversation with McNeil and my own experience working with global leaders on their communication skills, here are four tips that you can use today to improve the way you use your hands.
 
-Now that I’ve told you to use gestures, be careful not to go overboard. Your gestures should be natural. If you try to imitate someone else, you’ll look like a Saturday Night Live caricature of a bad politician. Avoid canned gestures.
+Tip number one, use gestures. Don’t be afraid to use your hands in the first place. The simplest fix for a stiff presentation is to pull your hands out of your pockets. Use your hands.
+
+Don’t keep your hands bound when you present. They want to be free. Tip number two, use gestures sparingly. Now that.
+
+I’ve told you to use gestures, be careful not to go overboard. Your gestures should be natural. If you try to imitate someone else, you’ll look like a Saturday Night Live caricature of a bad politician. Avoid canned gestures.
 
 Don’t think too hard about what gestures to use. Let your story guide your gestures. Tip number three, use gestures at key moments. Save your most expansive gestures for those key moments in the presentation.
 
@@ -1144,15 +1280,17 @@ She’s selling something much more important than chocolates, of course, but as
 
 Those who filled out a mock job application were told to either sit straight or slouch. Those who sat straight as they filled out the form reviewed themselves far more favorably than the slouchers. So when you practice your presentation, stand tall. It’ll give you confidence for the real thing.
 
-Three easy fixes for common body language problems. Two of the leaders I work with initially think about how they talk, walk, and look until they see themselves on video. Once they do, most realize they need a lot more work. work to look natural and conversational. Fortunately, the problems are easy to identify and easy to fix. Here are three common problems that I see among leaders who give presentations.
+Three easy fixes for common body language problems. Two of the leaders. I work with initially think about how they talk, walk, and look until they see themselves on video. Once they do, most realize they need a lot more work. work to look natural and conversational.
 
-Correcting these issues will help you develop command presence, whether you’re interviewing for a job, pitching your idea, delivering a sales presentation, occupying the corner office, or running a small business. Fidgeting, Tapping, and Jiggling. These are annoying habits that many of us exhibit during our presentations and conversations. Fidgeting makes you look unsure, nervous, and unprepared.
+Fortunately, the problems are easy to identify and easy to fix. Here are three common problems that. I see among leaders who give presentations. Correcting these issues will help you develop command presence, whether you’re interviewing for a job, pitching your idea, delivering a sales presentation, occupying the corner office, or running a small business.
 
-Mannerism, such as tapping your fingers on the table or playing with your pens, serve no purpose. Recently, I watched an author who had written a book on leadership discuss his project. He jingle the coins in his pocket during his entire talk. Drove me nuts and everybody else, too.
+Fidgeting, Tapping, and Jiggling. These are annoying habits that many of us exhibit during our presentations and conversations. Fidgeting makes you look unsure, nervous, and unprepared. Mannerism, such as tapping your fingers on the table or playing with your pens, serve no purpose.
 
-He didn’t sell many books that day and he certainly didn’t score points for leadership. The quick fix. Move with purpose. Use an inexpensive video camera or your smartphone to record yourself delivering the first five minutes of your presentation and then play it back.
+Recently, I watched an author who had written a book on leadership discuss his project. He jingle the coins in his pocket during his entire talk. Drove me nuts and everybody else, too. He didn’t sell many books that day and he certainly didn’t score points for leadership.
 
-Watch yourself. Write down all the mannerisms that serve no useful purpose, such as rubbing your nose or tapping your fingers or jiggling coins. Simply seeing yourself in action makes you
+The quick fix. Move with purpose. Use an inexpensive video camera or your smartphone to record yourself delivering the first five minutes of your presentation and then play it back. Watch yourself.
+
+Write down all the mannerisms that serve no useful purpose, such as rubbing your nose or tapping your fingers or jiggling coins. Simply seeing yourself in action makes you
 
 
 <a id="sec-031625"></a>
@@ -1194,31 +1332,35 @@ I
 <a id="sec-032130"></a>
 ### ⏱️ [03:21:30 - 03:26:35]
 
-can’t tell you how many leaders I work with who get very nervous before public presentations and these are people at the top of their professions often worth hundreds of millions of dollars. The secret is not to eliminate nerves but to manage them. Amy Cuddy offers a solution for nervous speakers. Fake it till you make it.
+can’t tell you how many leaders. I work with who get very nervous before public presentations and these are people at the top of their professions often worth hundreds of millions of dollars. The secret is not to eliminate nerves but to manage them. Amy Cuddy offers a solution for nervous speakers.
 
-Cuddy was identified as a gifted child and her intelligence gave her an identity in her early formative years. When she was 19 years old Cuddy was thrown from a car and she sustained a head injury. She was taken out of college and told she would not be returning. According to Cuddy, I really struggled with this and I have to say having your identity taken from you, your core identity and for me it was being smart.
+Fake it till you make it. Cuddy was identified as a gifted child and her intelligence gave her an identity in her early formative years. When she was 19 years old Cuddy was thrown from a car and she sustained a head injury. She was taken out of college and told she would not be returning.
 
-Having that taken from you there’s nothing that leaves you feeling more powerless than that. So I felt entirely powerless. Cuddy worked hard, re-entered college and graduated four years later than the majority of her peers. She continued her education at Princeton thanks to an advisor who had a lot of faith in Cuddy’s ability.
+According to Cuddy, I really struggled with this and. I have to say having your identity taken from you, your core identity and for me it was being smart. Having that taken from you there’s nothing that leaves you feeling more powerless than that. So.
 
-Cuddy did not believe in herself though. She felt like an imposter. The night before her first year talk, Cuddy called her advisor in and said she was quitting the graduate program. You are not quitting.
+I felt entirely powerless. Cuddy worked hard, re-entered college and graduated four years later than the majority of her peers. She continued her education at Princeton thanks to an advisor who had a lot of faith in Cuddy’s ability. Cuddy did not believe in herself though.
 
-I took a gamble on you, her advisor responded. You are going to stay and this is what you’re going to do. You’re going to fake it. You’re going to do every talk that you ever get asked to do.
+She felt like an imposter. The night before her first year talk, Cuddy called her advisor in and said she was quitting the graduate program. You are not quitting. I took a gamble on you, her advisor responded.
 
-You’re just going to do it and do it and do it even if you’re terrified and just paralyzed and having an out-of-body experience until you have that moment where you say oh my gosh I’m doing it. I’ve become this. I am actually doing this and that’s what Cuddy did. She faked it until she believed it.
+You are going to stay and this is what you’re going to do. You’re going to fake it. You’re going to do every talk that you ever get asked to do. You’re just going to do it and do it and do it even if you’re terrified and just paralyzed and having an out-of-body experience until you have that moment where you say oh my gosh.
+
+I’m doing it. I’ve become this. I am actually doing this and that’s what Cuddy did. She faked it until she believed it.
 
 Her advice, fake it till you become it. How Tony Robbins gets into a peak presentation state. Motivational speaker Tony Robbins has enough energy to keep 4,000 people engaged for 50 hours over four days. He was featured in an Oprah Winfrey special and Robbins demonstrated his pre-speaking ritual which involves incantations, affirmation and movement.
 
 Lots and lots of movement. This makes sense since one of Robbins core teachings is that energized movement can change your state of mind. So Robbins gets himself in the zone for about 10 minutes prior to taking the stage. He jumps up and down, spins around, pumps his fists, stands with his arms outstretched, even bounces on a trampoline.
 
-It’s not enough to rehearse the words. Before you’re on some physical preparation will boost your energy level and make a huge impact on the way your audience perceives you. Of course it’s not necessary to go to the extreme that Tony Robbins does and frankly you would look a bit foolish jumping on a trampoline before your next sales pitch. But it’s important to adopt some sort of physical pre-presentation ritual since movement and energy are so intimately connected.
+It’s not enough to rehearse the words. Before you’re on some physical preparation will boost your energy level and make a huge impact on the way your audience perceives you. Of course, it’s not necessary to go to the extreme that Tony Robbins does and frankly you would look a bit foolish jumping on a trampoline before your next sales pitch. But it’s important to adopt some sort of physical pre-presentation ritual since movement and energy are so intimately connected.
 
 Your strength as a speaker comes from within. Professional cross-country skier Janine Shepherd was involved in an accident that ended her career. A truck hit her as she was on a training ride. Shepherd broke her neck and back in six places.
 
 She broke five ribs and suffered a severe head injury. At TED 2012 she told the audience that a broken body isn’t a broken person. Due to the severity of her injuries Shepherd used her body and her stage props creatively to have a conversation with the audience. She placed five chairs on the stage and each chair gave her an opportunity to sit but also acted as a metaphor for each chapter of her life after the accident.
 
-At the end of the conversation Shepherd stood up as she delivered the remaining few minutes talking about her new career as an aerobatic flying instructor and she said my real strength never came from my body. Who I am is unchanged. The pilot light inside of me was still alive. Secret number three have a conversation.
+At the end of the conversation Shepherd stood up as she delivered the remaining few minutes talking about her new career as an aerobatic flying instructor and she said my real strength never came from my body. Who. I am is unchanged. The pilot light inside of me was still alive.
 
-Shepherd has a point. While she uses her body effectively to tell her story her strength comes from the inside. Your delivery and gestures mastered through hours and hours of practice will enhance your overall message. But remember without passion and practice your
+Secret number three have a conversation. Shepherd has a point. While she uses her body effectively to tell her story her strength comes from the inside. Your delivery and gestures mastered through hours and hours of practice will enhance your overall message.
+
+But remember without passion and practice your
 
 
 <a id="sec-032635"></a>
@@ -1226,11 +1368,13 @@ Shepherd has a point. While she uses her body effectively to tell her story her 
 
 presence will be severely diminished. Your strength as a speaker comes from the inside. Part two. Novel.
 
-Novelty recognition is a hardwired survival tool all humans share. Our brains are trained to look for something brilliant and new. Something that stands out. Something that looks delicious. Dr. A.
+Novelty recognition is a hardwired survival tool all humans share. Our brains are trained to look for something brilliant and new. Something that stands out. Something that looks delicious.
 
-K. Pradeep author the buying brain. Chapter four. Teach me something new.
+Dr. A. K. Pradeep author the buying brain.
 
-Everything I’m going to present to you was not in my textbooks when I went to school. Titanic Explorer Robert Ballard Ted 2008. Deep Sea Explorer Robert Ballard took a Ted audience on a 17-minute trip to explore the 72% of the planet that’s under the ocean because as he said it’s really naive to think the Easter bunny put all the resources on the continents. Ballard loves the rush of exploration especially pursuing mysteries that push human limits.
+Chapter four. Teach me something new. Everything. I’m going to present to you was not in my textbooks when.
+
+I went to school. Titanic Explorer Robert Ballard Ted 2008. Deep Sea Explorer Robert Ballard took a Ted audience on a 17-minute trip to explore the 72% of the planet that’s under the ocean because as he said it’s really naive to think the Easter bunny put all the resources on the continents. Ballard loves the rush of exploration especially pursuing mysteries that push human limits.
 
 He also loves challenges and he told me that he enjoyed Ted because he was going up against the best in storytelling. Ballard is one of the bravest explorers of our time. In 1985 about 1,000 miles east of Boston Ballard a Naval Intelligence Officer at the time discovered the wreck of RMS Titanic two and a half miles below the surface of the Atlantic. The Titanic discovery is Ballard’s most famous expedition but he’s conducting more than 120 undersea explorations to learn something new about the substance that makes up most of our world.
 
@@ -1254,17 +1398,19 @@ It jolts them out of their preconceived notions, and quickly gives them a new wa
 
 Curiosity is the most important thing you own, James Cameron told a TED audience in February 2010. He said imagination is a force that can actually manifest a reality. Cameron revealed things his audience did not expect from the director of such blockbusters as Terminator, Titanic, and Avatar. He talked a little about movie making, and a lot about creativity, exploration, innovation, and leadership.
 
-Exploring the oceans ignited Cameron’s imagination from the age of 15, when he became certified as a diver. He explained that when he made Titanic, he pitched it to the studios as Romeo and Juliet on a ship. Then however, had an ulterior motive. What I wanted to do was I wanted to dive to the real wreck of Titanic.
+Exploring the oceans ignited Cameron’s imagination from the age of 15, when he became certified as a diver. He explained that when he made Titanic, he pitched it to the studios as Romeo and Juliet on a ship. Then however, had an ulterior motive. What.
 
-And that’s why I made the movie. And that’s the truth.
+I wanted to do was. I wanted to dive to the real wreck of Titanic. And that’s why. I made the movie.
 
-Now, the studio didn’t know that, but I convinced them. I said, we’re going to dive to the wreck. We’re going to film it for real. We’ll be using it in the opening of the film.
+And that’s the truth. Now, the studio didn’t know that, but. I convinced them. I said, we’re going to dive to the wreck.
 
-It will be really important. It’ll be a great marketing hook. And I talked them into funding an expedition. Sounds crazy.
+We’re going to film it for real. We’ll be using it in the opening of the film. It will be really important. It’ll be a great marketing hook.
 
-But this goes back to that theme about your imagination creating a reality. Because we actually created a reality where six months later, I find myself in a Russian submersible, two and a half miles down to the North Atlantic, looking at the real Titanic through a viewport. Not a movie, not HD, for real. I’m a fan of Cameron’s movies, especially Titanic.
+And. I talked them into funding an expedition. Sounds crazy. But this goes back to that theme about your imagination creating a reality.
 
-Yes, I still shed a tear when a rose throws the Hope Diamond overboard, and the theme song begins to play. I’m a sucker for those movies. Although I know a lot about the plot of the movie, Cameron taught me something new, wrapped in an interesting anecdote that carried a profound lesson for anyone seeking to explore the full range of his or her potential. And by doing so, he inspired me and he inspired his audience and gave them a reason to listen to the rest of the presentation.
+Because we actually created a reality where six months later, I find myself in a Russian submersible, two and a half miles down to the North Atlantic, looking at the real Titanic through a viewport. Not a movie, not HD, for real. I’m a fan of Cameron’s movies, especially Titanic. Yes, I still shed a tear when a rose throws the Hope Diamond overboard, and the theme song begins to play.
+
+I’m a sucker for those movies. Although. I know a lot about the plot of the movie, Cameron taught me something new, wrapped in an interesting anecdote that carried a profound lesson for anyone seeking to explore the full range of his or her potential. And by doing so, he inspired me and he inspired his audience and gave them a reason to listen to the rest of the presentation.
 
 The director had hooked his audience, just as he did the film studio. People are natural explorers. Like Cameron, most of us have this insatiable desire to seek, to learn, to discover. As it turns out, it’s the way we’re wired.
 
@@ -1288,25 +1434,27 @@ use in their daily lives, you’ll hook them, too. In my communication work with
 
 For example, Intel introduced a technology called TurboBoost. Here’s the technical definition. It enables the processor to run above its base operating frequency via dynamic control of the CPU’s clock rate. Did you get it?
 
-The definition probably means nothing to you, and most likely would not inspire you to run out to buy a new laptop or a new computer with Intel inside. But what if I said something like this? Intel’s exclusive TurboBoost technology makes note of what you’re doing on your computer, playing games or watching videos, and it adjusts the performance to give you a boost when you need it and to scale it back when you don’t. That extends the battery life of your notebook.
+The definition probably means nothing to you, and most likely would not inspire you to run out to buy a new laptop or a new computer with Intel inside. But what if. I said something like this? Intel’s exclusive TurboBoost technology makes note of what you’re doing on your computer, playing games or watching videos, and it adjusts the performance to give you a boost when you need it and to scale it back when you don’t.
 
-I hope you agree this second description is better because it teaches you something new, and it does so by demonstrating how the product improves your life. And that’s why the description worked. Every time an Intel spokesperson used the latter description, connecting the technology to our daily lives, he or she was quoted in the press. Rarely, if ever, did a reporter or blogger use the actual technical definition.
+That extends the battery life of your notebook. I hope you agree this second description is better because it teaches you something new, and it does so by demonstrating how the product improves your life. And that’s why the description worked. Every time an Intel spokesperson used the latter description, connecting the technology to our daily lives, he or she was quoted in the press.
 
-Your brain’s natural save button. Martha Burns is an adjunct professor at Northwestern who believes neuroscience is helping educators to become better teachers. Her insights also explain why we get a buzz out of learning. Learning something new activates the same reward areas of the brain as do drugs and gambling.
+Rarely, if ever, did a reporter or blogger use the actual technical definition. Your brain’s natural save button. Martha Burns is an adjunct professor at Northwestern who believes neuroscience is helping educators to become better teachers. Her insights also explain why we get a buzz out of learning.
 
-According to Burns, a big part of the answer as to why some of your students hold on to information you teach and others do not has to do with a little chemical in the brain that has to be present for a child or an adult to retain information. That chemical is called dopamine. Dopamine is a powerful chemical. A new relationship can trigger a dose of it.
+Learning something new activates the same reward areas of the brain as do drugs and gambling. According to Burns, a big part of the answer as to why some of your students hold on to information you teach and others do not has to do with a little chemical in the brain that has to be present for a child or an adult to retain information. That chemical is called dopamine. Dopamine is a powerful chemical.
 
-And it does subside after a while, which is why counselors recommend finding ways to keep the spice alive after several years of marriage. Advancing to the next level of a video game can trigger dopamine, as can hearing the clanging of coins in a slot machine or even a hit of cocaine. Drugs and gambling are artificial triggers and lead to serious consequences. Isn’t there a less harmful means of achieving that mental high?
+A new relationship can trigger a dose of it. And it does subside after a while, which is why counselors recommend finding ways to keep the spice alive after several years of marriage. Advancing to the next level of a video game can trigger dopamine, as can hearing the clanging of coins in a slot machine or even a hit of cocaine. Drugs and gambling are artificial triggers and lead to serious consequences.
 
-There sure is. According to Burns, dopamine is also released when people learn something new and exciting. Isn’t that a healthier way to feel good? According to Burns, for many of your students and many of us as adults, learning about new things is an adventure and very rewarding.
+Isn’t there a less harmful means of achieving that mental high? There sure is. According to Burns, dopamine is also released when people learn something new and exciting. Isn’t that a healthier way to feel good?
 
-And dopamine levels increase in the brain to help us retain that new information. I like to refer to dopamine as the save button in the brain. When dopamine is present during an event or experience, we remember it. When it is absent, nothing seems to stick.
+According to Burns, for many of your students and many of us as adults, learning about new things is an adventure and very rewarding. And dopamine levels increase in the brain to help us retain that new information. I like to refer to dopamine as the save button in the brain. When dopamine is present during an event or experience, we remember it.
 
-The next logical question is, how do you increase dopamine? How would we do that in a presentation? Well, according to Burns, the answer is remarkably simple and straightforward. Make the information new and exciting.
+When it is absent, nothing seems to stick. The next logical question is, how do you increase dopamine? How would we do that in a presentation? Well, according to Burns, the answer is remarkably simple and straightforward.
 
-For example, Burns says the best teachers are always thinking of new ways of delivering information. That’s why you love it when your school has new textbooks. The novelty allows you to teach the information in a new way, which generates enthusiasm on your part and for the students. Increase novelty in a classroom and you increase the dopamine levels of your students.
+Make the information new and exciting. For example, Burns says the best teachers are always thinking of new ways of delivering information. That’s why you love it when your school has new textbooks. The novelty allows you to teach the information in a new way, which generates enthusiasm on your part and for the students.
 
-Dopamine can be addictive. Your goal as a teacher is to get your students addicted to learning. Dopamine is addictive. Well, now I know why I’m on a high when I hear stirring words of inspiration or encouragement.
+Increase novelty in a classroom and you increase the dopamine levels of your students. Dopamine can be addictive. Your goal as a teacher is to get your students addicted to learning. Dopamine is addictive.
+
+Well, now. I know why. I’m on a high when. I hear stirring words of inspiration or encouragement.
 
 For several years, I accompanied my brother and several friends for a full day of lectures in the town of Bakersfield, California. It was called the Bakersfield Business Conference, held once a year. The tickets were expensive. The trip was long, but the speakers made every dollar and every minute well worth it.
 
@@ -1318,7 +1466,9 @@ Others were less familiar, but they were all chosen for their ability to teach t
 <a id="sec-034140"></a>
 ### ⏱️ [03:41:40 - 03:46:46]
 
-something new, a novel, a fresh way of looking at an old problem. As I made the long five-hour drive home at the end of each conference, I felt like I could take on the world. I was addicted to learning something new. Learning is one addiction I don’t mind admitting to.
+something new, a novel, a fresh way of looking at an old problem. As. I made the long five-hour drive home at the end of each conference, I felt like. I could take on the world.
+
+I was addicted to learning something new. Learning is one addiction. I don’t mind admitting to.
 
 In fact, I celebrate it. Let’s talk about new and novel statistics and data. Sometimes the data you present might not be earth-shaking or entirely unfamiliar to the audience, but that doesn’t mean you cannot deliver it in a fresh way. I was preparing executives at SanDisk for their annual Investor Day.
 
@@ -1330,13 +1480,15 @@ So this executive decided to make it more personal and inject emotion into his t
 
 He also enjoys taking panoramic landscape photographs, and he displayed several of the photos he had taken. He told the analysts that panoramic photos require 10 times more storage capacity than a traditional photo, in his words, 10 times more opportunity for SanDisk. By their very nature, financial presentations must include charts, graphs, and tables. But that doesn’t mean you should not present the information in a way that jars your audience out of their preconceived notion of how the material will be presented.
 
-The executive I just featured used very personal stories to bring the data alive, and he connected the stories back to the theme of his presentation. Each of the eight people who spoke that day structured their presentations in exactly the same way, either revealing something entirely new that the investors did not know, or familiar information repackaged in an unfamiliar way. When asked to rate the quality of the presentations on a five-point scale, from poor to excellent, nearly 100% of the respondents said the presentations were either very good or excellent, making the event among the best corporate update the investors had seen all year.
+The executive. I just featured used very personal stories to bring the data alive, and he connected the stories back to the theme of his presentation. Each of the eight people who spoke that day structured their presentations in exactly the same way, either revealing something entirely new that the investors did not know, or familiar information repackaged in an unfamiliar way. When asked to rate the quality of the presentations on a five-point scale, from poor to excellent, nearly 100% of the respondents said the presentations were either very good or excellent, making the event among the best corporate update the investors had seen all year.
 
 An introvert steps out of her shell. Introvert Susan Cain stepped out of her shell to teach millions of TED viewers something new about the power of solitude. TED celebrates the world’s top minds who give the presentation of their lives, yet TED speaker Susan Cain argues there is zero correlation between the best talker and having the best ideas. With that one statement, Cain forced many in the audience that day to question their perception that outgoing, social, and talkative people have a corner on ideas.
 
 Cain said some of our most transformative leaders in history have been introverts. In a society that encourages brainstorming, group dynamics, crowdsourcing, and other collaborative systems, Cain makes a persuasive argument that solitude is a crucial ingredient for creativity to flourish. According to Cain, the more freedom that we give introverts to be themselves, the more likely that they are to come up with their own unique solutions to these problems. Cain’s book, Quiet, became a bestseller, and her TED Talk has been viewed more than four million times.
 
-Cain said, introverts, the world needs you, and it needs the things you carry, so I wish you the best of all possible journeys and the courage to speak softly. Cain is a successful public speaker because she forces us to look at the world differently. In my own journalism career, and later as an executive communication coach, I lost count of how many times I heard people say, my topic is boring, or what I do is not that interesting.
+Cain said, introverts, the world needs you, and it needs the things you carry, so. I wish you the best of all possible journeys and the courage to speak softly. Cain is a successful public speaker because she forces us to look at the world differently. In my own journalism career, and later as an executive communication coach, I lost count of how many times.
+
+I heard people say, my topic is boring, or what. I do is not that interesting.
 
 
 <a id="sec-034646"></a>
@@ -1350,19 +1502,19 @@ As chairman and CEO of the investment firm Revolution, Case is open to fresh ins
 
 You might be delivering a presentation to a wealthy venture capitalist, or someone who you perceive to be smarter than you in a particular field. Make no mistake, the smarter they are, the wealthier they are, the more likely they are to be persuaded if you give them a new lens through which to see the world. I recall speaking to one of the early Google investors at the famous investment firm Sequoia Capital. He told me that when the Google guys, Sergey Brin and Larry Page, walked into the office, they offered a one-sentence pitch that changed this investor’s perspective.
 
-Google, they said, provides access to the world’s information in one click. Now that proceeding sentence could very well be the most lucrative 10 words in corporate history. Google was not the world’s first search engine, but it was a better system because it ranked sites based on relevance, not just on search terms. Investors had seen a number of entrepreneurs pitch their search technologies, and at least one was exploring a similar strategy. But the Google guys pitched their company more effectively, and they won early funding that helped launch the brand.
+Google, they said, provides access to the world’s information in one click. Now that proceeding sentence could very well be the most lucrative 10 words in corporate history. Google was not the world’s first search engine, but it was a better system because it ranked sites based on relevance, not just on search terms. Investors had seen a number of entrepreneurs pitch their search technologies, and at least one was exploring a similar strategy.
 
-Explore outside your field. You’ll become a more interesting person if you’re interested in learning and sharing ideas from fields that are much different from your own. Great innovators connect ideas from different fields. When I wrote the Apple Experience about the Apple retail store, I learned that Apple executives had visited the Ritz-Carlton to learn more about customer service.
+But the Google guys pitched their company more effectively, and they won early funding that helped launch the brand. Explore outside your field. You’ll become a more interesting person if you’re interested in learning and sharing ideas from fields that are much different from your own. Great innovators connect ideas from different fields.
 
-In turn, many other brands outside of technology have studied the Apple Store to improve their own customer experience. Great innovators apply ideas from fields other than their own. I knew an executive with a large public relations company who won a major account with a redevelopment agency tasked with a project of securing federal dollars to help New Orleans recover after Hurricane Katrina. At the time, I worked in a different division for the same PR firm.
+When. I wrote the Apple Experience about the Apple retail store, I learned that Apple executives had visited the Ritz-Carlton to learn more about customer service. In turn, many other brands outside of technology have studied the Apple Store to improve their own customer experience. Great innovators apply ideas from fields other than their own.
 
-As a former vice president of media training for this firm, I had sat through plenty of new business meetings where the group discusses how to pitch a prospect. Usually these meetings are set in the most uncreative of environments imaginable. Gray, drab, conference rooms, darkened, of course, so everyone can see the dry PowerPoint slides. This one executive, however, knew better than to confine his pitch team to a conference room for two days and hope for creative ideas to emerge.
+I knew an executive with a large public relations company who won a major account with a redevelopment agency tasked with a project of securing federal dollars to help New Orleans recover after Hurricane Katrina. At the time, I worked in a different division for the same PR firm. As a former vice president of media training for this firm, I had sat through plenty of new business meetings where the group discusses how to pitch a prospect. Usually these meetings are set in the most uncreative of environments imaginable.
 
-Instead, he and his team toured the Lower Ninth Ward, the hardest hit area of New Orleans after the hurricane. The executive’s team was so moved by the poverty and suffering that they saw, they decided it was best to ditch the PowerPoint and speak from their hearts. Each member of the team spoke with no slides and no notes. Instead, they spoke about what they had seen and why they wanted to play a role in the rebuilding effort.
+Gray, drab, conference rooms, darkened, of course, so everyone can see the dry PowerPoint slides. This one executive, however, knew better than to confine his pitch team to a conference room for two days and hope for creative ideas to emerge. Instead, he and his team toured the Lower Ninth Ward, the hardest hit area of New Orleans after the hurricane. The executive’s team was so moved by the poverty and suffering that they saw, they decided it was best to ditch the PowerPoint and speak from their hearts.
 
-It was almost as if they entered the pitch with mud still on their feet. This team did get the account, and later one of the decision-makers said they had won the account by the time they had left the room. Only through seeing your own world through a fresh lens will you be able to give your audience a new way of looking at their world. Ten note, bombard the brain with new experiences.
+Each member of the team spoke with no slides and no notes. Instead, they spoke about what they had seen and why they wanted to play a role in the rebuilding effort. It was almost as if they entered the pitch with mud still on their feet. This team did get the account, and later one of the decision-makers said they had won the account by the time they had left the room.
 
-Combining novel concepts into your presentation does require some creativity and a new way of looking at the world. One technique to jump-start your creativity is to embrace new experiences.
+Only through seeing your own world through a fresh lens will you be able to give your audience a new way of looking at their world. Ten note, bombard the brain with new experiences. Combining novel concepts into your presentation does require some creativity and a new way of looking at the world. One technique to jump-start your creativity is to embrace new experiences.
 
 
 <a id="sec-035151"></a>
@@ -1374,19 +1526,19 @@ Experience new events, people, and places. Most important, incorporate those new
 
 When Fast Company asked fame interviewer Charlie Rose his opinion on what makes a great conversation, he said, “They take you on a ride, on a journey, they grab you, and you hear the sense of rhythm and it goes and it builds.” Ultimately, it may even take you to ideas you’d never considered, to places that allow you to reinvent yourself or your business. Great conversations or presentations take you to ideas you’d never considered. Today’s social media climate is a cacophony of ideas.
 
-Mostly ones that are cliched, hackneyed, trite, and overused. How many times have you heard an athlete or a CEO say, there is no I in team? How many times have you heard a consultant suggest great leaders listen? How many times have you heard marriage counselors recommend better communication is the secret to a long and happy marriage?
+Mostly ones that are cliched, hackneyed, trite, and overused. How many times have you heard an athlete or a CEO say, there is no. I in team? How many times have you heard a consultant suggest great leaders listen?
 
-There’s truth to all these observations, but when you’ve heard admonitions packaged and delivered the same way time and time again, they lose their punch. They lose their ability to get you to think differently. They lose their ability to inspire. When the marriage counselor John Gray wrote men are from Mars, women are from Venus, it made you think.
+How many times have you heard marriage counselors recommend better communication is the secret to a long and happy marriage? There’s truth to all these observations, but when you’ve heard admonitions packaged and delivered the same way time and time again, they lose their punch. They lose their ability to get you to think differently. They lose their ability to inspire.
 
-It was intriguing. It was different. It contained some old information and some new packaged in a way that made the content fresh and novel. It also saved a lot of marriages, but it would not have stood a chance if it had not been remarkable.
+When the marriage counselor John Gray wrote men are from Mars, women are from Venus, it made you think. It was intriguing. It was different. It contained some old information and some new packaged in a way that made the content fresh and novel.
 
-Are you remarkable? Seth Godin is a popular blogger and a marketer who has made a career out of delivering smart ideas differently. He told a TED audience in February 2003 that in a society with too many choices and too little time, our natural inclination is to ignore most of it. My parable here is you’re driving down the road and you see a cow and you keep driving because you’ve seen cows before.
+It also saved a lot of marriages, but it would not have stood a chance if it had not been remarkable. Are you remarkable? Seth Godin is a popular blogger and a marketer who has made a career out of delivering smart ideas differently. He told a TED audience in February 2003 that in a society with too many choices and too little time, our natural inclination is to ignore most of it.
 
-Cows are invisible. Cows are boring. Who’s going to stop and pull over and say, Oh, look, a cow? Nobody.
+My parable here is you’re driving down the road and you see a cow and you keep driving because you’ve seen cows before. Cows are invisible. Cows are boring. Who’s going to stop and pull over and say, Oh, look, a cow?
 
-But if the cow was purple, you notice it for a while. I mean, if all cows were purple, you’d get bored with those two. The thing that’s going to decide what gets talked about, what gets done, what gets changed, what gets purchased, what gets built is, is it remarkable? And remarkable is a really cool word because we think it just means neat, but it also means worth making a remark about.
+Nobody. But if the cow was purple, you notice it for a while. I mean, if all cows were purple, you’d get bored with those two. The thing that’s going to decide what gets talked about, what gets done, what gets changed, what gets purchased, what gets built is, is it remarkable?
 
-Seth Godin went on to publish a book titled Purple Cow in the same year as his TED talk. Godin’s point, one that he has mastered himself, is that delivering the same tired information in the same boring way as everyone else will fail to get you noticed. You’ll have a brown cow instead of a purple cow, put a little different spin on your content to give it a hook, as we call it in journalism, and your listeners will be far more receptive to your message.
+And remarkable is a really cool word because we think it just means neat, but it also means worth making a remark about. Seth Godin went on to publish a book titled Purple Cow in the same year as his TED talk. Godin’s point, one that he has mastered himself, is that delivering the same tired information in the same boring way as everyone else will fail to get you noticed. You’ll have a brown cow instead of a purple cow, put a little different spin on your content to give it a hook, as we call it in journalism, and your listeners will be far more receptive to your message.
 
 The brain is a lazy piece of meat, according to neuroscientist Gregory Burns. In order to force the brain to see things differently, you must find new and novel ways to help the brain perceive information differently. According to Burns, the brain must be provided with something that it has never before processed to force it out of its predictable perceptions. This thirst for knowledge, the craving to force the brain out of predictable perceptions is why Eddie Rama captivated a TEDx audience with his solution to curb corruption and to reduce crime in his native Albania.
 
@@ -1406,21 +1558,23 @@ Why? They have posted more policemen here? Come on, man, said the shopkeeper, wh
 
 There are colors, streetlights, new pavement with no potholes. There are trees, so it’s beautiful. It’s safe. Rama’s passion for art, along with his natural curiosity, allowed him to solve a problem most people thought would never be solved.
 
-Rama did exactly what Gregory Burns recommends. He perceived the information differently. Audiences of any type, speaking any language, love to hear about new and novel ways to solve old problems. After all, we’re wired for it. Some speakers take a defeatist attitude.
+Rama did exactly what Gregory Burns recommends. He perceived the information differently. Audiences of any type, speaking any language, love to hear about new and novel ways to solve old problems. After all, we’re wired for it.
 
-They don’t think they have anything new to teach people. Sure they do. They all do. We all have unique stories to tell.
+Some speakers take a defeatist attitude. They don’t think they have anything new to teach people. Sure they do. They all do.
 
-You might not have the same experiences as the speakers you just heard about, but you have stories just as interesting and just as valuable in your journey of discovery. Pay attention to the stories of your life. If they teach you something new and something valuable, there’s a good chance other people will want to hear about it. Sex sells, even at TED.
+We all have unique stories to tell. You might not have the same experiences as the speakers you just heard about, but you have stories just as interesting and just as valuable in your journey of discovery. Pay attention to the stories of your life. If they teach you something new and something valuable, there’s a good chance other people will want to hear about it.
 
-Speakers have a ravenous appetite for knowledge in a variety of categories. Sex is no exception. Some speakers have raised intriguing answers, or at least the promise of an answer, to intimate topics. In February 2009, science journalist Mary Roach revealed the 10 things you did not know about orgasm.
+Sex sells, even at TED. Speakers have a ravenous appetite for knowledge in a variety of categories. Sex is no exception. Some speakers have raised intriguing answers, or at least the promise of an answer, to intimate topics.
 
-She received three million views. Helen Fisher attracted 2.5 million views with her presentation titled, Why We Love, Why We Cheat. At TED Med in April, 2012, Diane Kelly revealed what people don’t know about the male sex organ. Jenny McCarthy talked about what we don’t know about marriage.
+In February 2009, science journalist Mary Roach revealed the 10 things you did not know about orgasm. She received three million views. Helen Fisher attracted 2.5 million views with her presentation titled, Why. We Love, Why.
 
-And Amy Lockwood educated a TED audience on what we don’t know about distributing condoms to reduce HIV in Africa. It seems as though when it comes to sex, people are more curious about what they don’t know than they are about what they know for sure. TED gives your brain a constant workout. Dr. James Flynn, political studies professor at the University of Otago in New Zealand believes the world’s population is getting smarter. And not just a little smarter, but much, much smarter.
+We Cheat. At TED Med in April, 2012, Diane Kelly revealed what people don’t know about the male sex organ. Jenny McCarthy talked about what we don’t know about marriage. And Amy Lockwood educated a TED audience on what we don’t know about distributing condoms to reduce HIV in Africa.
 
-His theory is so widely accepted in academic circles, it’s been named the Flynn Effect. Flynn describes it this way. If you compare people today of 18 years of age with people who were 18 years old, 10, 20, 30, 40, 50 years ago, the present 18-year-olds will get much higher scores on IQ tests. Flynn discovered that IQ scores rose for each generation, not just in a few places, but in all countries in which IQ data were available.
+It seems as though when it comes to sex, people are more curious about what they don’t know than they are about what they know for sure. TED gives your brain a constant workout. Dr. James Flynn, political studies professor at the University of Otago in New Zealand believes the world’s population is getting smarter.
 
-Discussions of the Flynn Effect do not necessarily focus on the finding, but on the reasons behind it. The most logical and accepted answer seems to be greater access to education. People in most countries are spending more time
+And not just a little smarter, but much, much smarter. His theory is so widely accepted in academic circles, it’s been named the Flynn Effect. Flynn describes it this way. If you compare people today of 18 years of age with people who were 18 years old, 10, 20, 30, 40, 50 years ago, the present 18-year-olds will get much higher scores on IQ tests.
+
+Flynn discovered that IQ scores rose for each generation, not just in a few places, but in all countries in which IQ data were available. Discussions of the Flynn Effect do not necessarily focus on the finding, but on the reasons behind it. The most logical and accepted answer seems to be greater access to education. People in most countries are spending more time
 
 
 <a id="sec-040153"></a>
@@ -1432,23 +1586,25 @@ That’s an extraordinary number of views if you consider the fact that the 18-m
 
 The speakers simply haven’t learned to talk like TED. They haven’t learned that the brain loves novelty. What TED celebrates is the gift of the human imagination. Sir Ken Robinson, TED, 2006.
 
-The Twitter-friendly headline. In July 2009, the bestselling author of Drive, Daniel Pink, unraveled the puzzle of motivation in a TED presentation that has been viewed over five million times. When I asked Pink to describe his talk, he could do it in one sentence, and here’s what he said. The set of motivators we rely on doesn’t work nearly as well as we think.
+The Twitter-friendly headline. In July 2009, the bestselling author of Drive, Daniel Pink, unraveled the puzzle of motivation in a TED presentation that has been viewed over five million times. When. I asked Pink to describe his talk, he could do it in one sentence, and here’s what he said.
 
-The preceding sentence is comprised of 74 characters, easily conforming to the restrictions of a Twitter post, which has a maximum character count of 140. If you cannot explain your big idea in 140 characters or less, keep working on the message. The discipline brings clarity to your presentation, and it helps your audience recall the one big idea you’re trying to teach them. Before he became an author and a public speaker, Pink spent his career as a speechwriter, thinking about words and crafting words for political leaders.
+The set of motivators we rely on doesn’t work nearly as well as we think. The preceding sentence is comprised of 74 characters, easily conforming to the restrictions of a Twitter post, which has a maximum character count of 140. If you cannot explain your big idea in 140 characters or less, keep working on the message. The discipline brings clarity to your presentation, and it helps your audience recall the one big idea you’re trying to teach them.
 
-Daniel Pink says, before presentation, I ask myself, what’s the one thing I want people to take away? After someone listens to your presentation, the real test is when they leave and somebody asks, what did that person talk about? I want to be good enough that they have a clear answer to that question. The answer, according to Pink, is not an accumulation of little things, but one big idea.
+Before he became an author and a public speaker, Pink spent his career as a speechwriter, thinking about words and crafting words for political leaders. Daniel Pink says, before presentation, I ask myself, what’s the one thing. I want people to take away? After someone listens to your presentation, the real test is when they leave and somebody asks, what did that person talk about?
 
-According to Pink, executives and experts tend to get lost in the weeds and are not always able to see things with a beginner’s mind and from the audience’s perspective. It’s not easy to get lost in the weeds in 140 characters. The first step to giving a Ted worthy presentation is to ask yourself, what is the one thing I want my audience to know? Make sure that it easily fits within a Twitter post, what I call a Twitter friendly headline.
+I want to be good enough that they have a clear answer to that question. The answer, according to Pink, is not an accumulation of little things, but one big idea. According to Pink, executives and experts tend to get lost in the weeds and are not always able to see things with a beginner’s mind and from the audience’s perspective. It’s not easy to get lost in the weeds in 140 characters.
+
+The first step to giving a Ted worthy presentation is to ask yourself, what is the one thing. I want my audience to know? Make sure that it easily fits within a Twitter post, what. I call a Twitter friendly headline.
 
 Remarkably, after reviewing the topics of every one of the more than 1,500 publicly available Ted presentations on Ted.com, I could not find one, not one, that was over 140 characters. Here are some sample topics from the most viewed presentations on Ted.com. Notice how each promises to teach you something new and does so in well under 140 characters. Schools Kill Creativity by Sir Ken Robinson.
 
 How Great Leaders Inspire Action by Simon Sinek. Your Elusive Creative Genius by Elizabeth Gilbert. The Surprising Science of Happiness by Dan Gilbert. The Power of Introverts by Susan Cain.
 
-Eight Secrets of Success by Richard St. John. How to Live Before You Die by Steve Jobs. The Twitter headline works for two reasons.
+Eight Secrets of Success by Richard St. John. How to Live. Before You Die by Steve Jobs.
 
-One, it’s a great discipline, forcing you to identify and to clarify the one key message you want your audience to remember. And two, it makes it easier for your audience to process the content. Cognitive research has demonstrated that our brains need to see the big picture before details. John Medina once explained it to me this way.
+The Twitter headline works for two reasons. One, it’s a great discipline, forcing you to identify and to clarify the one key message you want your audience to remember. And two, it makes it easier for your audience to process the content. Cognitive research has demonstrated that our brains need to see the big picture before details.
 
-Carmine, when primitive man ran into a tiger, he did not ask, how many teeth does the tiger have? Instead he asked, will it eat me? Your audience needs to see the big picture
+John Medina once explained it to me this way. Carmine, when primitive man ran into a tiger, he did not ask, how many teeth does the tiger have? Instead he asked, will it eat me? Your audience needs to see the big picture
 
 
 <a id="sec-040655"></a>
@@ -1456,31 +1612,31 @@ Carmine, when primitive man ran into a tiger, he did not ask, how many teeth doe
 
 before learning the details. If you can’t explain your product or your idea in 140 characters, keep working at it until you can. According to TED curator Chris Anderson, remarkable ideas come from every area of knowledge. Every so often it makes sense to emerge from the deep trenches we spend our working lives digging to step out and see the big picture and how the trenches interconnect.
 
-It’s very inspiring. You might have one of those remarkable ideas, but it’s imperative that you show your audience the big picture or as Chris Anderson said, how the trenches interconnect. Ten note, create a Twitter friendly headline. As you craft your next presentation, ask yourself, what is the one thing I want my audience to know about my company, product, service or idea?
+It’s very inspiring. You might have one of those remarkable ideas, but it’s imperative that you show your audience the big picture or as Chris Anderson said, how the trenches interconnect. Ten note, create a Twitter friendly headline. As you craft your next presentation, ask yourself, what is the one thing.
 
-Remember to make your headline specific and clear. Oftentimes my clients create really a tagline instead of a headline. Because it still doesn’t tell me the one thing I need to know. From a well-crafted headline, I should be able to identify what the product, service or cause is, as well as what makes it different or unique.
+I want my audience to know about my company, product, service or idea? Remember to make your headline specific and clear. Oftentimes my clients create really a tagline instead of a headline. Because it still doesn’t tell me the one thing.
 
-Make sure your headline fits within the 140 character limit of a Twitter post. It’s not only a good exercise, it’s essential for marketing these days. Twitter is such a powerful platform for marketers. It’s critical to create a tweetable description that can be easily remembered and easily shared across social networks.
+I need to know. From a well-crafted headline, I should be able to identify what the product, service or cause is, as well as what makes it different or unique. Make sure your headline fits within the 140 character limit of a Twitter post. It’s not only a good exercise, it’s essential for marketing these days.
 
-We’re exploration addicts. According to his Twitter profile, Ben Saunders drags heavy things around cold places. He was the youngest man to ski solo to the North Pole. Saunders is an adventure, an Arctic explorer.
+Twitter is such a powerful platform for marketers. It’s critical to create a tweetable description that can be easily remembered and easily shared across social networks. We’re exploration addicts. According to his Twitter profile, Ben Saunders drags heavy things around cold places.
 
-For 10 weeks, he dragged 400 pounds of food, supplies and a computer for blogging. It wasn’t unusual for the temperature to sink to 50 degrees below zero. At times, Saunders was the only human within 5 million square miles. Why did he do it?
+He was the youngest man to ski solo to the North Pole. Saunders is an adventure, an Arctic explorer. For 10 weeks, he dragged 400 pounds of food, supplies and a computer for blogging. It wasn’t unusual for the temperature to sink to 50 degrees below zero.
 
-There was little to gain, no maps to be drawn, no gold or coal to source, no food to be found. Exploration fed his addiction. According to Saunders, I think polar expeditions are perhaps not that far removed from having a crack habit. In my experience, there’s something addictive about tasting life at the very edge of what’s humanly possible.
+At times, Saunders was the only human within 5 million square miles. Why did he do it? There was little to gain, no maps to be drawn, no gold or coal to source, no food to be found. Exploration fed his addiction.
 
-Keep in mind that your audience is made up of people who are naturally wired to explore. According to Saunders, people don’t just want to watch and wonder, they want to experience, to engage, to endeavor. That’s where the real meat of life is to be found. Saunders suggests that inspiration and growth come from stepping away from what’s comfortable.
+According to Saunders, I think polar expeditions are perhaps not that far removed from having a crack habit. In my experience, there’s something addictive about tasting life at the very edge of what’s humanly possible. Keep in mind that your audience is made up of people who are naturally wired to explore. According to Saunders, people don’t just want to watch and wonder, they want to experience, to engage, to endeavor.
 
-He says, in life, we all have tempest to ride and poles to walk to. And I think, metaphorically speaking, we could all benefit from getting outside the house a little more often. If only we could sum up the courage. TED.com videos allow you to metaphorically step out of the house and to take these journeys of exploration with the world’s top minds.
+That’s where the real meat of life is to be found. Saunders suggests that inspiration and growth come from stepping away from what’s comfortable. He says, in life, we all have tempest to ride and poles to walk to. And.
 
-Open the door, take a look outside. You’ll discover a world of magnificent presentations that will help you improve your public speaking skills and give you the tools to be a more successful person in any of your life’s roles. Secret number four, teach me something new. Reveal information that’s completely new to your audience is packaged differently or offers a fresh and novel way to solve an old problem.
+I think, metaphorically speaking, we could all benefit from getting outside the house a little more often. If only we could sum up the courage. TED.com videos allow you to metaphorically step out of the house and to take these journeys of exploration with the world’s top minds. Open the door, take a look outside.
 
-TEDx speaker and designer, Oliver Humberty, once said, every superhero has an origin story. So do you. Don’t follow someone else’s. Create your own masterpiece.
+You’ll discover a world of magnificent presentations that will help you improve your public speaking skills and give you the tools to be a more successful person in any of your life’s roles. Secret number four, teach me something new. Reveal information that’s completely new to your audience is packaged differently or offers a fresh and novel way to solve an old problem. TEDx speaker and designer, Oliver Humberty, once said, every superhero has an origin story.
 
-I find that most communicators are far more creative than they give themselves credit for. When they’re encouraged to unleash their creativity and to take an innovative approach to presenting their ideas, they rise to the challenge. Chapter five, deliver jaw-dropping moments. Thou shalt not simply trot out thy usual shtick.
+So do you. Don’t follow someone else’s. Create your own masterpiece. I find that most communicators are far more creative than they give themselves credit for.
 
-TED.commandment. NBC News anchor, Brian Williams, covers war, politics, and the economy. He does not cover presentations. Why should he?
+When they’re encouraged to unleash their creativity and to take an innovative approach to presenting their ideas, they rise to the challenge. Chapter five, deliver jaw-dropping moments. Thou shalt not simply trot out thy usual shtick. TED.commandment.
 
-There are millions of PowerPoints delivered every day.
+NBC News anchor, Brian Williams, covers war, politics, and the economy. He does not cover presentations. Why should he? There are millions of PowerPoints delivered every day.
 
 
 <a id="sec-041155"></a>
@@ -1492,11 +1648,11 @@ He needs to engage audiences. Remember, the brain does not pay attention to bori
 
 Here’s what Brian Williams said the night of Bill Gates' TED presentation. Bill Gates, the billionaire founder of Microsoft, wanted to make a point when he appeared at a conference of some of the biggest leaders of the tech industry.
 
-While on stage, he opened up a glass jar and said, “Malaria is spread by mosquitoes.” I brought some here. I’ll let them roam around. There is no reason only poor people should be infected. We’re told the audience just sat there stunned.
+While on stage, he opened up a glass jar and said, “Malaria is spread by mosquitoes.”. I brought some here. I’ll let them roam around. There is no reason only poor people should be infected.
 
-Any of us would be. Moments later, he let them off the hook, letting the audience know the mosquitoes he brought were malaria-free, but he did it to prove a point and point taken. Gates and his wife, Melinda, have dedicated their lives and their fortune to a lot of different charitable causes, including the eradication of malaria in poor countries in Africa and Asia, where there are up to 500 million new cases every year. I know this might come as a shock, but television news reports often get things wrong.
+We’re told the audience just sat there stunned. Any of us would be. Moments later, he let them off the hook, letting the audience know the mosquitoes he brought were malaria-free, but he did it to prove a point and point taken. Gates and his wife, Melinda, have dedicated their lives and their fortune to a lot of different charitable causes, including the eradication of malaria in poor countries in Africa and Asia, where there are up to 500 million new cases every year.
 
-They did in the Williams piece. Gates did not say that there’s no reason only poor people should be infected.
+I know this might come as a shock, but television news reports often get things wrong. They did in the Williams piece. Gates did not say that there’s no reason only poor people should be infected.
 
 In fact, he said, malaria is, of course, transmitted by mosquitoes. I brought some here, just so you can experience this. We’ll let them roam around the auditorium a bit. There’s no reason only poor people should have the experience.
 
@@ -1520,23 +1676,23 @@ Gates’s water cooler moment still gets noticed and discussed and shared even f
 <a id="sec-041659"></a>
 ### ⏱️ [04:16:59 - 04:22:01]
 
-I’m not suggesting that you bring a jar of mosquitoes to your next presentation. But I am suggesting that you think about your content and identify the most important points you need to make. Then find a novel and memorable way to communicate those messages. Sometimes you need to surprise your audience in order to get them to care.
+I’m not suggesting that you bring a jar of mosquitoes to your next presentation. But. I am suggesting that you think about your content and identify the most important points you need to make. Then find a novel and memorable way to communicate those messages.
 
-What’s the first thing you do when creating a PowerPoint presentation? If you’re like many people, you’ll say, open PowerPoint. Wrong answer, you should plan the story first. Just as a movie director storyboards the scenes before he begins shooting, you should create the story before you open the tool.
+Sometimes you need to surprise your audience in order to get them to care. What’s the first thing you do when creating a PowerPoint presentation? If you’re like many people, you’ll say, open PowerPoint. Wrong answer, you should plan the story first.
 
-You’ll have plenty of time to design pretty slides once the story is complete. But if the story itself is boring, you’ve lost your audience before you’ve spoken a word. I like to tap into several senses when planning the story. Seeing, touching, feeling.
+Just as a movie director storyboards the scenes before he begins shooting, you should create the story before you open the tool. You’ll have plenty of time to design pretty slides once the story is complete. But if the story itself is boring, you’ve lost your audience before you’ve spoken a word. I like to tap into several senses when planning the story.
 
-Stand up and go to a white board, pick up a pen and a yellow legal pad. Use a drawing application on a tablet or even think while taking a walk. Anything that engages several areas of your brain. Above all, regardless of the software you use, and many of you use PowerPoint or Apple Keynote or Prezi.
+Seeing, touching, feeling. Stand up and go to a white board, pick up a pen and a yellow legal pad. Use a drawing application on a tablet or even think while taking a walk. Anything that engages several areas of your brain.
 
-Regardless of the software, don’t open the tool as your first step. Your presentation will be uninteresting and uninspired if you do. PowerPoint gets a bad rap, but it’s not a bad tool. It can and is often used to create stunning presentations.
+Above all, regardless of the software you use, and many of you use PowerPoint or Apple Keynote or Prezi. Regardless of the software, don’t open the tool as your first step. Your presentation will be uninteresting and uninspired if you do. PowerPoint gets a bad rap, but it’s not a bad tool.
 
-But if you don’t have the story in the first place, your gorgeous slides won’t matter. Every memorable story, film, presentation has one scene or one event that everybody remembers because it’s so impactful. It’s such a well-known psychological device, researchers even have a term for it. Unleash an emotionally charged event.
+It can and is often used to create stunning presentations. But if you don’t have the story in the first place, your gorgeous slides won’t matter. Every memorable story, film, presentation has one scene or one event that everybody remembers because it’s so impactful. It’s such a well-known psychological device, researchers even have a term for it.
 
-When Gates unleashed his swarm of mosquitoes, he hooked his audience precisely because it was shocking, unexpected, and different. It’s what brain researchers call an emotionally charged event. As with every technique in this audio book, it works because your brain is wired for it. According to molecular scientist John Medina, an emotionally charged event is the best process kind of external stimulus ever measured.
+Unleash an emotionally charged event. When Gates unleashed his swarm of mosquitoes, he hooked his audience precisely because it was shocking, unexpected, and different. It’s what brain researchers call an emotionally charged event. As with every technique in this audio book, it works because your brain is wired for it.
 
-Emotionally charged events persist longer in our memories and are recalled with greater accuracy than neutral memories. Medina says it all has to do with the amygdala, which is located in the prefrontal cortex of our brains. He says the amygdala is chock full of the neurotransmitter dopamine. And it uses dopamine the way an office assistant uses post-it notes.
+According to molecular scientist John Medina, an emotionally charged event is the best process kind of external stimulus ever measured. Emotionally charged events persist longer in our memories and are recalled with greater accuracy than neutral memories. Medina says it all has to do with the amygdala, which is located in the prefrontal cortex of our brains. He says the amygdala is chock full of the neurotransmitter dopamine.
 
-When the brain detects an emotionally charged event, the amygdala releases dopamine into the system. Because dopamine greatly aids memory and information processing, you could say the post-it note reads, remember this. Getting the brain to put a chemical post-it note on a given piece of information means that information is going to be more robustly processed.
+And it uses dopamine the way an office assistant uses post-it notes. When the brain detects an emotionally charged event, the amygdala releases dopamine into the system. Because dopamine greatly aids memory and information processing, you could say the post-it note reads, remember this. Getting the brain to put a chemical post-it note on a given piece of information means that information is going to be more robustly processed.
 
 In other words, you’re more likely to remember events that arouse your emotions than events that elicit what’s called a neutral response. Some scientists refer to such events as flash bulb memories. As it turns out, there is a reason why you remember where you were on September 11th of 2001, but you forget where you put your keys in the morning. And understanding that difference can help you create more memorable, jaw-dropping presentations.
 
@@ -1562,43 +1718,51 @@ She said, it’s as if the event is burned more vividly into our perceptual awar
 
 And here’s what Todd said. If you connect to an audience’s emotional responses, then they will perceive the information more vividly, be less distracted, and will be more likely to remember it. Use very concrete and meaningful examples to illustrate abstract points. Use images skillfully, whether they be beautiful, surprising, or disgusting.
 
-The brain was not meant to process abstract concepts. Earlier, I told you about my experience preparing executives at Toshiba America Medical Systems. They were creating a presentation to introduce a new CAT scan. They told me that the machine was, quote, the first dynamic high volume CT that utilizes 320 ultra high resolution detector rows to image an entire organ in a single gantry rotation. Well, after I picked my jaw up from the floor, I asked them, that’s way too abstract.
+The brain was not meant to process abstract concepts. Earlier, I told you about my experience preparing executives at Toshiba America Medical Systems. They were creating a presentation to introduce a new CAT scan. They told me that the machine was, quote, the first dynamic high volume CT that utilizes 320 ultra high resolution detector rows to image an entire organ in a single gantry rotation.
 
-Can you make it more concrete? Tell me why I should care about this new medical device. And here’s what they said. Carmine, if you enter the hospital, having suffered a stroke or a heart attack, doctors will be able to make a much more accurate diagnosis in far less time, and that could save your life.
+Well, after. I picked my jaw up from the floor, I asked them, that’s way too abstract. Can you make it more concrete? Tell me why.
 
-Let’s put it this way. Our product could mean the difference between going home and living a full life, or never recognizing your family again. The clearest message requires specific, tangible explanations. You cannot wow your audience if they don’t understand you.
+I should care about this new medical device. And here’s what they said. Carmine, if you enter the hospital, having suffered a stroke or a heart attack, doctors will be able to make a much more accurate diagnosis in far less time, and that could save your life. Let’s put it this way.
 
-The ickiest presentation. Recall neuroanatomist Dr. Jill, whose TED Talk has had more than 10 million views. It was also the ickiest presentation. If you have a weak stomach, you might want to avoid watching Dr. Jill’s presentation.
+Our product could mean the difference between going home and living a full life, or never recognizing your family again. The clearest message requires specific, tangible explanations. You cannot wow your audience if they don’t understand you. The ickiest presentation.
 
-If you’re brave enough, you’ll see a real human brain with a 17 inch spinal cord attached to it. Two minutes into Dr. Jill’s presentation, she said this.
+Recall neuroanatomist Dr. Jill, whose TED Talk has had more than 10 million views. It was also the ickiest presentation. If you have a weak stomach, you might want to avoid watching Dr.
+
+Jill’s presentation. If you’re brave enough, you’ll see a real human brain with a 17 inch spinal cord attached to it. Two minutes into Dr. Jill’s presentation, she said this.
 
 
 <a id="sec-042701"></a>
 ### ⏱️ [04:27:01 - 04:32:05]
 
-If you’ve ever seen a human brain, it’s obvious that the two hemispheres are completely separate from one another. And I have brought for you a real human brain. So this is a real human brain. With that, she turned to an assistant carrying a tray with, you got it, a brain. Dr. Jill put on her gloves, picked up the brain and let the brain stem and spinal cord sort of flop over the tray.
+If you’ve ever seen a human brain, it’s obvious that the two hemispheres are completely separate from one another. And. I have brought for you a real human brain. So this is a real human brain.
 
-The vocal expressions of disgust were audible for the audience. And then Dr. Jill said, this is the front of the brain, the back of the brain with the spinal cord hanging down, and this is how it would be positioned inside of my head. And she said that as she held up the organ for everyone to see. Dr. Jill explained how the sides of the brain are positioned and how they communicate what roles they play. During this time, many people in the audience squirmed.
+With that, she turned to an assistant carrying a tray with, you got it, a brain. Dr. Jill put on her gloves, picked up the brain and let the brain stem and spinal cord sort of flop over the tray. The vocal expressions of disgust were audible for the audience.
 
-They shuffled uncomfortably and pinched their lips in disgust. But if you look carefully at their facial expressions, you’ll find something remarkable. People were leaning in, literally on the edge of their seats. Some people had their hands over their mouths.
+And then Dr. Jill said, this is the front of the brain, the back of the brain with the spinal cord hanging down, and this is how it would be positioned inside of my head. And she said that as she held up the organ for everyone to see. Dr.
 
-Others placed their index finger on the cheek, completely immersed in the presentation. In other words, they were deeply, deeply involved, disgusted perhaps, but emotionally aroused and engaged, really paying attention. If teachers gave icky presentations, emotionally charged presentations, students would retain more of what they learn in high school and college. Dr. Jill trotted out her real human brain prop again in 2013 for a presentation for TEDxYouth. In 16 minutes, Dr. Jill gave the teenagers in her audience one of the most profound and memorable presentations they’re likely to ever see in school.
+Jill explained how the sides of the brain are positioned and how they communicate what roles they play. During this time, many people in the audience squirmed. They shuffled uncomfortably and pinched their lips in disgust. But if you look carefully at their facial expressions, you’ll find something remarkable.
 
-So back to the original point made earlier in this chapter. Why do you remember the details about an event such as 9-11, but you tend to misplace your keys? Why do we remember Dr. Jill’s demonstration or Bill Gates' mosquitoes? But we forget 99% of PowerPoint presentations.
+People were leaning in, literally on the edge of their seats. Some people had their hands over their mouths. Others placed their index finger on the cheek, completely immersed in the presentation.
 
-The brain is wired to recall emotionally vivid events and to ignore the ordinary, the mundane. If you want to stand out in a sea of mediocre presentations, you must take emotional charge of your audience. The brain remembers the emotional components of an experience better than any other aspect. John Medina, author, brain rules.
+In other words, they were deeply, deeply involved, disgusted perhaps, but emotionally aroused and engaged, really paying attention. If teachers gave icky presentations, emotionally charged presentations, students would retain more of what they learn in high school and college. Dr. Jill trotted out her real human brain prop again in 2013 for a presentation for TEDxYouth.
 
-The undisputed king of wow. Steve Jobs was the king of the emotionally charged event, the wow moment. In every presentation, he informed, educated, and entertained. Jobs transformed. a presentation into a spectacle worthy of a Broadway show.
+In 16 minutes, Dr. Jill gave the teenagers in her audience one of the most profound and memorable presentations they’re likely to ever see in school. So back to the original point made earlier in this chapter. Why do you remember the details about an event such as 9-11, but you tend to misplace your keys?
 
-His presentations had heroes, villains, props, characters, and that one memorable showstopper when you knew the price of admission was well worth it. Years before PowerPoint or keynote software were even invented, and even years before TED exploded on the scene, Steve Jobs was doing TED-like presentations that kept the audience on the edge of their seats. In 1984, more than 2,500 employees, analysts, and media filled the Flint Center at De Anza College for a product launch that would revolutionize everything about the way we use computers, Macintosh.
+Why do we remember Dr. Jill’s demonstration or Bill Gates' mosquitoes? But we forget 99% of PowerPoint presentations. The brain is wired to recall emotionally vivid events and to ignore the ordinary, the mundane.
 
-The 16-minute product launch also stands the test of time as one of the most dramatic presentations ever delivered by a corporate titan. First, Steve Jobs described the power and the features of the new computer along with pictures. He said all of this power fits into the box that is one-third the size and weight of an IBM PC.
+If you want to stand out in a sea of mediocre presentations, you must take emotional charge of your audience. The brain remembers the emotional components of an experience better than any other aspect. John Medina, author, brain rules. The undisputed king of wow.
 
-Now, most presenters would have wrapped up telling the audience when the product will go on sale, what its price point would be. Instead, Jobs wowed the crowd with one extra unexpected surprise. You’ve just seen pictures of Macintosh. Now I’d like to show you Macintosh in person.
+Steve Jobs was the king of the emotionally charged event, the wow moment. In every presentation, he informed, educated, and entertained. Jobs transformed. a presentation into a spectacle worthy of a Broadway show. His presentations had heroes, villains, props, characters, and that one memorable showstopper when you knew the price of admission was well worth it.
 
-All of the images you are about to see on the large screen are being generated by what’s in that bag. And with that, Jobs walked over to a small table in the middle of the stage. A black canvas bag was the only item in the middle of the table. Slowly, and without saying a word for nearly one minute, Jobs lifted the Macintosh from the bag, placed it on the table, reached into his pocket, pulled out a floppy disk, carefully inserted the disk into the computer, and walked away.
+Years before PowerPoint or keynote software were even invented, and even years before TED exploded on the scene, Steve Jobs was doing TED-like presentations that kept the audience on the edge of their seats. In 1984, more than 2,500 employees, analysts, and media filled the Flint Center at De Anza College for a product launch that would revolutionize everything about the way we use computers, Macintosh. The 16-minute product launch also stands the test of time as one of the most dramatic presentations ever delivered by a corporate titan.
 
-The lights dimmed, the chariots of fire theme began to play,
+First, Steve Jobs described the power and the features of the new computer along with pictures. He said all of this power fits into the box that is one-third the size and weight of an IBM PC.
+
+Now, most presenters would have wrapped up telling the audience when the product will go on sale, what its price point would be. Instead, Jobs wowed the crowd with one extra unexpected surprise. You’ve just seen pictures of Macintosh. Now.
+
+I’d like to show you Macintosh in person. All of the images you are about to see on the large screen are being generated by what’s in that bag. And with that, Jobs walked over to a small table in the middle of the stage. A black canvas bag was the only item in the middle of the table.
+
+Slowly, and without saying a word for nearly one minute, Jobs lifted the Macintosh from the bag, placed it on the table, reached into his pocket, pulled out a floppy disk, carefully inserted the disk into the computer, and walked away. The lights dimmed, the chariots of fire theme began to play,
 
 
 <a id="sec-043205"></a>
@@ -1608,33 +1772,39 @@ and a series of images filled the screen, fonts and art that had never been seen
 
 He had one more wow moment to pull on the audience. Jobs said that he would let Macintosh speak for itself for the first time. On cue, Macintosh spoke in a digitized voice, and here’s what the computer said. Hello, I am Macintosh.
 
-It sure is great to get out of that bag. Unaccustomed as I am to public speaking, I’d like to share with you a maxim I thought of the first time I met an IBM mainframe. Never trust a computer you can’t lift. The video from the event has been viewed well over three million times on YouTube.
+It sure is great to get out of that bag. Unaccustomed as. I am to public speaking, I’d like to share with you a maxim. I thought of the first time.
 
-It was a profound moment, unexpected and unique. An emotionally charged event that left an indelible stamp on the audience in the room that day, and on millions who have watched it since. The 1984 Macintosh presentation was far from being the only dramatic presentation Steve Jobs ever gave. Fortunately for presenters everywhere, he continued to refine his style, and to deliver wow moments with every major product announcement.
+I met an IBM mainframe. Never trust a computer you can’t lift. The video from the event has been viewed well over three million times on YouTube. It was a profound moment, unexpected and unique.
 
-Most of them captured forever on YouTube. Here are just a few examples of how Steve Jobs built wow moments into his presentation. As I talk through these examples, maybe they’ll give you some ideas too. We see genius.
+An emotionally charged event that left an indelible stamp on the audience in the room that day, and on millions who have watched it since. The 1984 Macintosh presentation was far from being the only dramatic presentation Steve Jobs ever gave. Fortunately for presenters everywhere, he continued to refine his style, and to deliver wow moments with every major product announcement. Most of them captured forever on YouTube.
 
-In 1997, Steve Jobs returned to Apple after a 12-year absence. With about two minutes left in his first public presentation since his return, Jobs slowed the rate of his speech, lowered his voice and said, “I think you always had to be a little different to buy an Apple computer.” I think the people that do buy them are the creative spirits in the world. They are the people that are not out just to get a job done. They are out to change the world.
+Here are just a few examples of how Steve Jobs built wow moments into his presentation. As. I talk through these examples, maybe they’ll give you some ideas too. We see genius.
 
-They are out to change the world using whatever great tools they can get. And we make tools for those kind of people. A lot of times, people think they’re crazy. But in that craziness, we see genius.
+In 1997, Steve Jobs returned to Apple after a 12-year absence. With about two minutes left in his first public presentation since his return, Jobs slowed the rate of his speech, lowered his voice and said, “I think you always had to be a little different to buy an Apple computer.”. I think the people that do buy them are the creative spirits in the world. They are the people that are not out just to get a job done.
 
-And those are the people we’re making tools for. A showstopper can be that simple. It can be as simple as speaking to the audience from your heart. No slides, no props, no video, just you.
+They are out to change the world. They are out to change the world using whatever great tools they can get. And we make tools for those kind of people. A lot of times, people think they’re crazy.
 
-If you’ll recall from Chapter 1, it’s often as easy as filling in the rest of this sentence. What makes my heart sing is… One thousand songs in your pocket. In 2001, Apple introduced the iPod.
+But in that craziness, we see genius. And those are the people we’re making tools for. A showstopper can be that simple. It can be as simple as speaking to the audience from your heart.
 
-The MP3 music player was not the first portable player on the market. Do you remember the Sony Walkman? The MP3 did transfer music, faster though, from a computer. But that wasn’t the wow moment.
+No slides, no props, no video, just you. If you’ll recall from.
 
-Jobs had decided to focus on the size of the device as his showstopper. He turned to the audience and asked, “What’s so special about the iPod?” Well, it’s ultra-portable. iPod is the size of a deck of cards. That’s tiny. It’s also lighter than most of the cell phones you have in your pocket.
+#### Chapter 1, it’s often as easy as filling in the rest of this sentence.
 
-But we didn’t stop there. This amazing little device holds one thousand songs and goes right in my pocket. I happen to have one as a matter of fact. And with that, Jobs reached into the pocket of his jeans and pulled out the first device that could store one thousand songs and fit into your pocket.
+What makes my heart sing is… One thousand songs in your pocket. In 2001, Apple introduced the iPod. The MP3 music player was not the first portable player on the market.
 
-Jobs was a genius at using statistics as showstoppers as well. Apple executives continued to do the same thing. They introduced statistics in such a novel way the stats themselves become memorable. Introducing the iPad Mini for the first time, Apple Vice President of Marketing Phil Schiller said the tablet is 7.2 millimeters thin.
+Do you remember the Sony Walkman? The MP3 did transfer music, faster though, from a computer. But that wasn’t the wow moment. Jobs had decided to focus on the size of the device as his showstopper.
 
-That’s about a quarter thinner than a fourth generation iPad. But Schiller knew the statistics alone would not be memorable, so he chose a novel way of representing the data. He said to put it in a context, it’s as thin as a pencil. And just as he said it, a pencil appeared next to the iPad Mini on Schiller’s slide.
+He turned to the audience and asked, “What’s so special about the iPod?” Well, it’s ultra-portable. iPod is the size of a deck of cards. That’s tiny. It’s also lighter than most of the cell phones you have in your pocket. But we didn’t stop there.
 
-He then said it weighs just.68 pounds. That’s over 50 percent lighter than the previous iPad. In context, it’s as light as a pad of paper. We were going to say a book, but books are much heavier.
+This amazing little device holds one thousand songs and goes right in my pocket. I happen to have one as a matter of fact. And with that, Jobs reached into the pocket of his jeans and pulled out the first device that could store one thousand songs and fit into your pocket. Jobs was a genius at using statistics as showstoppers as well.
 
-I’ve talked to bloggers who covered that particular Apple event. Most people do not remember the exact specs of the first iPad Mini,
+Apple executives continued to do the same thing. They introduced statistics in such a novel way the stats themselves become memorable. Introducing the iPad Mini for the first time, Apple Vice President of Marketing Phil Schiller said the tablet is 7.2 millimeters thin. That’s about a quarter thinner than a fourth generation iPad.
+
+But Schiller knew the statistics alone would not be memorable, so he chose a novel way of representing the data. He said to put it in a context, it’s as thin as a pencil. And just as he said it, a pencil appeared next to the iPad Mini on Schiller’s slide. He then said it weighs just.68 pounds.
+
+That’s over 50 percent lighter than the previous iPad. In context, it’s as light as a pad of paper. We were going to say a book, but books are much heavier. I’ve talked to bloggers who covered that particular Apple event.
+
+Most people do not remember the exact specs of the first iPad Mini,
 
 
 <a id="sec-043709"></a>
@@ -1658,7 +1828,9 @@ It repels liquids and stays dry. At TED 2013, he demonstrated his new technology
 
 As the paint dripped down and off the board, letters began to appear. The giant capital letters were coded with Ultra Everdrive. Slowly the audience saw T, followed by an E and finally the D to spell TED. The audience cheered, rose to their feet.
 
-Shaw had created a memorable demo that uniquely connected with the conference and its audience. It certainly would be a demo they would always remember. When I worked with a group of nuclear scientists at one of America’s top labs run by the U. S. Department of Energy, I learned two things about nuclear science.
+Shaw had created a memorable demo that uniquely connected with the conference and its audience. It certainly would be a demo they would always remember. When. I worked with a group of nuclear scientists at one of America’s top labs run by the U.
+
+S. Department of Energy, I learned two things about nuclear science.
 
 First, nothing is more complicated than nuclear technology. So don’t ever make the excuse that your content is too complex or technical to be explained simply.
 
@@ -1668,7 +1840,7 @@ One example was a bomb that could be remotely guided into a room filled with bad
 
 During the presentation, they would point to the floor and they would say, everyone standing within X feet would be eliminated. They never told me how many feet.
 
-Now, those of you beyond the second row of tape would survive without a scratch. I wasn’t in the room when the presentation was delivered, but I’m sure the lawmakers in that room experienced a jaw-dropping moment. Suffice it to say, they received their funding.
+Now, those of you beyond the second row of tape would survive without a scratch. I wasn’t in the room when the presentation was delivered, but. I’m sure the lawmakers in that room experienced a jaw-dropping moment. Suffice it to say, they received their funding.
 
 
 <a id="sec-044210"></a>
@@ -1690,17 +1862,19 @@ If you compare NASA’s annual budget to explore the heavens, that one-year budg
 
 Fifteen of you are psychopaths. John Ronson. I work with many executives to help them craft their stories. Delivering statistics in new and novel ways can often result in jaw-dropping moments.
 
-I recall a meeting with an executive who represented the strawberry industry in California. He’s the same executive I talked about in Chapter 1. realize that strawberries are a really important crop to their state. Even people who live in the counties where strawberries are grown don’t understand it. A full 90% of all strawberries consumed in the United States are grown in California.
+I recall a meeting with an executive who represented the strawberry industry in California. He’s the same executive. I talked about in.
 
-Importantly, strawberries enrich the communities where they are grown. In my conversation with this particular executive, I learned that strawberries make up only 0.5% of California’s farmland, yet create 10% of all the agricultural jobs in the entire state. I learned that the payroll taxes paid in one California county alone were equivalent to the combined salaries of all elementary school teachers in the county, and that the average strawberry farm worker made more than the average retail store employee. These statistics were intended to explain the importance of the industry to the California economy, but the raw numbers themselves would have lost punch without context.
+#### Chapter 1. realize that strawberries are a really important crop to their state.
 
-The stats themselves were not new to this particular executive, but they were to the majority of people he had to influence, and those included consumers, press, retail buyers, and partners. 10-Note. Stats can rock. Something occurs when you reach a person’s heart and head, logic and emotion. You’ll need evidence, data, and statistics to back up your argument.
+Even people who live in the counties where strawberries are grown don’t understand it. A full 90% of all strawberries consumed in the United States are grown in California. Importantly, strawberries enrich the communities where they are grown. In my conversation with this particular executive, I learned that strawberries make up only 0.5% of California’s farmland, yet create 10% of all the agricultural jobs in the entire state.
 
-Make numbers meaningful, memorable, and jaw-dropping by placing them into a context the audience can relate to. A statistic does not have to be boring. My advice? Never leave data dangling.
+I learned that the payroll taxes paid in one California county alone were equivalent to the combined salaries of all elementary school teachers in the county, and that the average strawberry farm worker made more than the average retail store employee. These statistics were intended to explain the importance of the industry to the California economy, but the raw numbers themselves would have lost punch without context. The stats themselves were not new to this particular executive, but they were to the majority of people he had to influence, and those included consumers, press, retail buyers, and partners. 10-Note.
 
-Context matters. If your presentation has a number or a data point that is groundbreaking or paramount, think about how you might package it and make it appealing to the listener. It lists the help of somebody else on your team. Sometimes it takes a brainstorm to package stats in the best, most memorable way.
+Stats can rock. Something occurs when you reach a person’s heart and head, logic and emotion. You’ll need evidence, data, and statistics to back up your argument. Make numbers meaningful, memorable, and jaw-dropping by placing them into a context the audience can relate to.
 
-Pictures, images, and videos.
+A statistic does not have to be boring. My advice? Never leave data dangling. Context matters.
+
+If your presentation has a number or a data point that is groundbreaking or paramount, think about how you might package it and make it appealing to the listener. It lists the help of somebody else on your team. Sometimes it takes a brainstorm to package stats in the best, most memorable way. Pictures, images, and videos.
 
 
 <a id="sec-044710"></a>
@@ -1708,57 +1882,69 @@ Pictures, images, and videos.
 
 Raghava Keke is an artist who uses brainwaves to manipulate his art in real time. As he spoke to his TED audience, Raghava was wearing a biofeedback headset that recorded his brain activity. The headset was connected to a computer, on which he was displaying the images. The audience saw a photo of an old woman’s face that Raghava affectionately called Mona Lisa 2.0.
 
-The borders of the slide revealed his brain activity. In the live demo, Raghava said that not only could the audience see his mental state, attentive, meditative, focused, but he could actually project his mental state onto the woman’s face. When I am calm, she is calm. When I am stressed, she is stressed, he said.
+The borders of the slide revealed his brain activity. In the live demo, Raghava said that not only could the audience see his mental state, attentive, meditative, focused, but he could actually project his mental state onto the woman’s face. When. I am calm, she is calm.
 
-Sure enough, when his brainwaves or mental state changed, so did the woman’s smile. Her frown grew more intense before turning up into a smile. You see, visuals have punch, an evocative slide, a funny or insightful video clip, a thrilling demonstration. All are novel elements that could really move the needle with your audience.
+When. I am stressed, she is stressed, he said. Sure enough, when his brainwaves or mental state changed, so did the woman’s smile. Her frown grew more intense before turning up into a smile.
 
-Memorable Headlines Stewart Brand is a futurist who presented a bold prediction to the TED 2013 audience in Long Beach. Biotech is accelerating four times faster than digital technology, he said. In Brand’s opinion, that means we can bring extinct animals back to life. We will get woolly mammoths back, he said.
+You see, visuals have punch, an evocative slide, a funny or insightful video clip, a thrilling demonstration. All are novel elements that could really move the needle with your audience. Memorable Headlines Stewart Brand is a futurist who presented a bold prediction to the TED 2013 audience in Long Beach. Biotech is accelerating four times faster than digital technology, he said.
 
-We will get woolly mammoths back. In media training, we call that a soundbite, a short, provocative, repeatable phrase that is likely to be retweeted, posted on Facebook, and repeated in the news cycle. At this point in my career, I know a soundbite when I hear it. Sure enough, Brand’s prediction did blow up on social media networks, including Twitter, thanks to a retweet from the National Geographic Channel.
+In Brand’s opinion, that means we can bring extinct animals back to life. We will get woolly mammoths back, he said. We will get woolly mammoths back. In media training, we call that a soundbite, a short, provocative, repeatable phrase that is likely to be retweeted, posted on Facebook, and repeated in the news cycle.
 
-When I started training executives to appear in the media, the soundbite was critical to getting the story across in newspapers and on television news. Today’s social media makes the soundbite even more important. The key to being a great spokesperson is also to craft a succinct message that conveys your big idea. When people share quotes via Twitter, Facebook, LinkedIn, and other social networks, it’s even more important that you feed those platforms with catchy, repeatable quotes.
+At this point in my career, I know a soundbite when. I hear it. Sure enough, Brand’s prediction did blow up on social media networks, including Twitter, thanks to a retweet from the National Geographic Channel. When.
 
-The soundbite is so important that TED has a site and a Twitter handle dedicated to the best quotes from its speakers. Here are some of the more popular quotes. If you’re not prepared to be wrong, you’ll never come up with anything original. Sir Ken Robinson There’s zero correlation between being the best talker and having the best ideas.
+I started training executives to appear in the media, the soundbite was critical to getting the story across in newspapers and on television news. Today’s social media makes the soundbite even more important. The key to being a great spokesperson is also to craft a succinct message that conveys your big idea. When people share quotes via Twitter, Facebook, LinkedIn, and other social networks, it’s even more important that you feed those platforms with catchy, repeatable quotes.
 
-Susan Cain Don’t fake it till you make it, fake it till you become it. Amy Cuddy Behind most Afghan girls who succeed is a father who recognizes that her success is his success. Shabana Rasik Others are the musical notes with which the symphony of the universe is written. Adam Spencer If you’d like to hear more quotes, you can visit ted.com slash quotes, and there you will read more than 2,000 quotes from speakers.
+The soundbite is so important that TED has a site and a Twitter handle dedicated to the best quotes from its speakers. Here are some of the more popular quotes. If you’re not prepared to be wrong, you’ll never come up with anything original. Sir Ken Robinson.
 
-You can search all the quotes, the top quotes, or browse by category. Repeatable quotes are so important in spreading the message that TED actually attempts to find the most memorable quotes of a talk to hook viewers. Hook people. Craft and deliver repeatable quotes.
+There’s zero correlation between being the best talker and having the best ideas. Susan Cain Don’t fake it till you make it, fake it till you become it. Amy Cuddy Behind most Afghan girls who succeed is a father who recognizes that her success is his success. Shabana Rasik Others are the musical notes with which the symphony of the universe is written.
 
-Your ideas deserve to be remembered. Personal stories I dedicated a whole chapter to storytelling earlier, but it’s impossible not to discuss stories here again because personal stories often become the jaw-dropping moment in a presentation. Freeman Hrabowski tells stories to attract publicity for his cause. Hrabowski is the chancellor for the University of Maryland at Baltimore.
+Adam Spencer. If you’d like to hear more quotes, you can visit ted.com slash quotes, and there you will read more than 2,000 quotes from speakers. You can search all the quotes, the top quotes, or browse by category. Repeatable quotes are so important in spreading the message that TED actually attempts to find the most memorable quotes of a talk to hook viewers.
 
-He’s been featured on 60 Minutes and was named one of Time Magazine’s most influential people for his work to inspire more minority and low-income students in a graduate school for science and engineering. In February 2013, Hrabowski mesmerized a TED audience with stories. His stories showcasing his students as well as stories of his own personal transformation.
+Hook people. Craft and deliver repeatable quotes. Your ideas deserve to be remembered. Personal stories.
+
+I dedicated a whole chapter to storytelling earlier, but it’s impossible not to discuss stories here again because personal stories often become the jaw-dropping moment in a presentation. Freeman Hrabowski tells stories to attract publicity for his cause. Hrabowski is the chancellor for the University of Maryland at Baltimore. He’s been featured on 60 Minutes and was named one of Time Magazine’s most influential people for his work to inspire more minority and low-income students in a graduate school for science and engineering.
+
+In February 2013, Hrabowski mesmerized a TED audience with stories. His stories showcasing his students as well as stories of his own personal transformation.
 
 
 <a id="sec-045211"></a>
 ### ⏱️ [04:52:11 - 04:57:11]
 
-He began with a story about a transformational experience in his life at the age of 12. One week in church, I didn’t really want to be there, I heard this man say, if we can get children to participate in this peaceful demonstration here in Birmingham, we can show America that even children know the difference between right and wrong and that children really do want to get the best possible education. I looked up and said, who is that man? They told me it was Dr. Martin Luther King.
+He began with a story about a transformational experience in his life at the age of 12. One week in church, I didn’t really want to be there, I heard this man say, if we can get children to participate in this peaceful demonstration here in Birmingham, we can show America that even children know the difference between right and wrong and that children really do want to get the best possible education. I looked up and said, who is that man?
 
-I said to my parents, I want to go, and they said, absolutely not. We had a rough go of it. Somehow, I said, you guys are like hypocrites. You make me go to this, make me listen.
+They told me it was Dr. Martin Luther King. I said to my parents, I want to go, and they said, absolutely not. We had a rough go of it.
 
-The man wants me to go, and now you say no. They thought about it all night. They literally cried and prayed and thought, will we let our 12-year-old participate in this march? He’ll probably have to go to jail. They decided to let me.
+Somehow, I said, you guys are like hypocrites. You make me go to this, make me listen. The man wants me to go, and now you say no. They thought about it all night.
 
-While I was there in jail, Dr. King came in and said, what you children do this day will have an impact on children who have not been born. Great communicators are good storytellers. Stories create impact moments. Not only do they make an emotional impact, as we learned in Chapter 2, well-told stories that reinforce your theme will draw in your audience.
+They literally cried and prayed and thought, will we let our 12-year-old participate in this march? He’ll probably have to go to jail. They decided to let me. While.
+
+I was there in jail, Dr. King came in and said, what you children do this day will have an impact on children who have not been born. Great communicators are good storytellers. Stories create impact moments.
+
+Not only do they make an emotional impact, as we learned in.
+
+#### Chapter 2, well-told stories that reinforce your theme will draw in your audience.
 
 I always challenge executives to let their guard down, to break down the barrier between themselves and the audience, and to teach us something about themselves that will help their audiences see them in a different light. The stories they tell are often very emotional. I worked with one woman who had a leading role at one of the world’s largest and most admired technology companies, Intel. She grew up poor in an African-American home of six children.
 
 That little girl fell in love with science and math and became an engineer. The story did not end there. All of her five siblings became successful engineers as well. By the time this Intel engineer had finished her story, her colleagues in the room were left in tears, and they were truly inspired by this new information.
 
-The story was not new to her, but it was to the rest of us, ending on a high note. While I was writing this book, I took a break, and I accompanied my wife to a concert by the pot musician, Pink. I liked some of Pink’s songs and expected an okay performance, in other words, the usual shtick. But like a great Ted presentation, Pink did not trot out the usual pop music show.
+The story was not new to her, but it was to the rest of us, ending on a high note. While. I was writing this book, I took a break, and. I accompanied my wife to a concert by the pot musician, Pink.
 
-Near the end of the concert, Pink, dressed in a gold bodysuit, jumped into a harness that propelled her high into the air like Tinkerbell, carried her across the entire length of the sold-out arena. Perches were stationed around the arena, where Pink would land for a few moments, closer to fans. Then she would get pulled away to zip across the stadium while belting out one of her anthems. A reviewer for the Hollywood Reporter called it the Showstopper. The reviewer said, it was beginning to seem just like another pop show with song and dance routines.
+I liked some of Pink’s songs and expected an okay performance, in other words, the usual shtick. But like a great Ted presentation, Pink did not trot out the usual pop music show. Near the end of the concert, Pink, dressed in a gold bodysuit, jumped into a harness that propelled her high into the air like Tinkerbell, carried her across the entire length of the sold-out arena. Perches were stationed around the arena, where Pink would land for a few moments, closer to fans.
 
-But she pulled out all the stops with the encore of So What. The stunt was so mind-blowing that most of the crowd attempted to capture it on their camera phones while others watched in amazement. Pink’s mind-blowing moment in the show was designed to leave the artist and the audience on a high note. Everybody needs a Showstopper.
+Then she would get pulled away to zip across the stadium while belting out one of her anthems. A reviewer for the Hollywood Reporter called it the Showstopper. The reviewer said, it was beginning to seem just like another pop show with song and dance routines. But she pulled out all the stops with the encore of.
+
+So What. The stunt was so mind-blowing that most of the crowd attempted to capture it on their camera phones while others watched in amazement. Pink’s mind-blowing moment in the show was designed to leave the artist and the audience on a high note. Everybody needs a Showstopper.
 
 Musicians do it, actors, performers of all type. And that includes presenters and public speakers. The Showstopper seals the deal and permanently brands the message in our minds. As we’ve discussed, a Showstopper might be something as simple as a short personal story.
 
-I was in a conference room with a business development officer of one of the world’s leading energy companies. The staff and I had created a narrative for his presentation at the annual global meeting of internal employees. He had solid information about the past year’s results and a positive message about the future. We structured the story so that it was concise, clear and memorable.
+I was in a conference room with a business development officer of one of the world’s leading energy companies. The staff and. I had created a narrative for his presentation at the annual global meeting of internal employees. He had solid information about the past year’s results and a positive message about the future.
 
-But it was missing something. It was missing the jaw-dropping moment. I turned to the executive and said, why are you really passionate about this company? Let us cite your talking points and your PowerPoint.
+We structured the story so that it was concise, clear and memorable. But it was missing something. It was missing the jaw-dropping moment. I turned to the executive and said, why are you really passionate about this company?
 
-Just tell me from the heart. What happened next offered an astonishing lesson in developing an emotionally charged event. The executive paused. He thought about it, reached into his pocket and pulled his business card from the wallet.
+Let us cite your talking points and your PowerPoint. Just tell me from the heart. What happened next offered an astonishing lesson in developing an emotionally charged event. The executive paused.
 
-Carmine, this card gets me an audience with prime ministers and presidents.
+He thought about it, reached into his pocket and pulled his business card from the wallet. Carmine, this card gets me an audience with prime ministers and presidents.
 
 
 <a id="sec-045711"></a>
@@ -1768,23 +1954,25 @@ It opens the door, but it’s our commitment to protecting their most precious r
 
 I’ve never been more proud to work for any organization in my life. We all looked at each other from across the table and we were all a little uncomfortable because the executive was clearly moved and so were we. After a short pause, I quietly said, have you ever said that in a public presentation? No, I haven’t, he said.
 
-Well, you will now. The executive delivered his presentation to thousands of employees and he concluded it by taking the card out of his wallet and repeating the exact same thing he had told us in the conference room. Now I didn’t think he would get emotional again when he delivered it publicly, but he did. But the employees saw a different side to their leader.
+Well, you will now. The executive delivered his presentation to thousands of employees and he concluded it by taking the card out of his wallet and repeating the exact same thing he had told us in the conference room. Now. I didn’t think he would get emotional again when he delivered it publicly, but he did.
 
-They gave him a standing ovation. Some employees could be seen wiping tears from their eyes and at least one person approached the executive and said, “I’ve never been more proud to work for this organization.” Several weeks later, we reviewed the surveys employees had been asked to fill out. They gave this particular executive the highest marks of any leader in the company’s long history. Now he designs a showstopper in every presentation.
+But the employees saw a different side to their leader. They gave him a standing ovation.
 
-It’s usually a story, but it could also be a video, a demonstration, a surprise guest, or simply a personal anecdote. All tactics get results. Secret number five, delivered jaw dropping moments. Every performer has at least one jaw dropping moment, an emotionally charged event that your audience members will be talking about the next day.
+Some employees could be seen wiping tears from their eyes and at least one person approached the executive and said, “I’ve never been more proud to work for this organization.” Several weeks later, we reviewed the surveys employees had been asked to fill out. They gave this particular executive the highest marks of any leader in the company’s long history. Now he designs a showstopper in every presentation. It’s usually a story, but it could also be a video, a demonstration, a surprise guest, or simply a personal anecdote.
 
-Every presentation needs one. Get one and use it. Your presentation content will make a better impact if it can be stamped onto the minds of your listeners. Chapter six, lighten up.
+All tactics get results. Secret number five, delivered jaw dropping moments. Every performer has at least one jaw dropping moment, an emotionally charged event that your audience members will be talking about the next day. Every presentation needs one.
 
-Over the past century, a sense of humor has become a highly prized personality characteristic. Rod A. Martin, psychologist. The most popular TED Talk ever is an unlikely winner, Sir Ken Robinson, on why schools kill creativity.
+Get one and use it. Your presentation content will make a better impact if it can be stamped onto the minds of your listeners. Chapter six, lighten up. Over the past century, a sense of humor has become a highly prized personality characteristic.
 
-I mentioned earlier that his presentation is the most popular TED Talk ever. But how could his 18 minute talk about educational reform possibly attract more than 15 million views? People who are far more famous than Robinson have given speeches uploaded to YouTube, Conan O’Brien, Stephen Colbert, J. K.
+Rod A. Martin, psychologist. The most popular TED Talk ever is an unlikely winner, Sir Ken Robinson, on why schools kill creativity. I mentioned earlier that his presentation is the most popular TED Talk ever.
 
-Rowling, Oprah Winfrey. Yet none of their videos comes close to matching Robinson’s popularity. Robinson’s video went viral because our brains cannot ignore novelty. The brain also loves humor.
+But how could his 18 minute talk about educational reform possibly attract more than 15 million views? People who are far more famous than Robinson have given speeches uploaded to YouTube, Conan O’Brien, Stephen Colbert, J. K. Rowling, Oprah Winfrey.
 
-Combine humor and novelty, and you’ve got presentation gold. Robinson used a novel approach to discuss an old problem. The problem, how to teach our kids better. The novelty, humor.
+Yet none of their videos comes close to matching Robinson’s popularity. Robinson’s video went viral because our brains cannot ignore novelty. The brain also loves humor. Combine humor and novelty, and you’ve got presentation gold.
 
-Robinson opened his talk with this. If you’re at a dinner party and you say you work in education, actually, you’re not often at dinner parties if you work in education. The laughter started immediately, and it did not let up, as Robinson followed his observation about working in education with another funny insight. He said, but if you are asked to a party, and somebody says, what do you do, and you say you work in education, you can see the blood run from their face.
+Robinson used a novel approach to discuss an old problem. The problem, how to teach our kids better. The novelty, humor. Robinson opened his talk with this.
+
+If you’re at a dinner party and you say you work in education, actually, you’re not often at dinner parties if you work in education. The laughter started immediately, and it did not let up, as Robinson followed his observation about working in education with another funny insight. He said, but if you are asked to a party, and somebody says, what do you do, and you say you work in education, you can see the blood run from their face.
 
 They’re like, oh my God, why me? My one night out all week. Secret number six, lighten up. Don’t take yourself or your topic too seriously.
 
@@ -1798,7 +1986,7 @@ into a narrative that drove home his main theme. America’s educational system 
 
 She was six, and she was at the back drawing, and the teacher said this little girl hardly ever paid attention, and in this drawing lesson, she did. The teacher was fascinated, and she went over to her and she said, what are you drawing?
 
-And the girl said, “I’m drawing a picture of God.” And the teacher said, but nobody knows what God looks like. And the girl said, they will in a minute. I lived in Stratford on Avon until about five years ago.
+And the girl said, “I’m drawing a picture of God.”. And the teacher said, but nobody knows what God looks like. And the girl said, they will in a minute. I lived in Stratford on Avon until about five years ago.
 
 In fact, we moved from Stratford to Los Angeles. So you can imagine what a seamless transition that was. Actually, we lived in a place called Snitterfield just outside Stratford, which is where Shakespeare’s father was born. Are you struck by a new thought?
 
@@ -1808,23 +1996,27 @@ Shakespeare being seven? I never thought of it. I mean, he was seven at some poi
 
 How annoying would that be? Being sent to bed by his dad, you know, to Shakespeare. Go to bed now and put that pencil down and stop speaking like that. It’s confusing everybody.
 
-Anyway, we moved from Stratford to Los Angeles, and I just want to say a word about the transition, actually. My son didn’t want to come. I’ve got two kids. He’s 21 now.
+Anyway, we moved from Stratford to Los Angeles, and. I just want to say a word about the transition, actually. My son didn’t want to come. I’ve got two kids.
 
-My daughter’s 16. He didn’t want to come to Los Angeles. He loved it, but he had a girlfriend in England. This was the love of his life, Sarah.
+He’s 21 now. My daughter’s 16. He didn’t want to come to Los Angeles. He loved it, but he had a girlfriend in England.
 
-He’d known her for a month. Mind you, they’d had their fourth anniversary because it’s a long time when you’re 16.
+This was the love of his life, Sarah. He’d known her for a month. Mind you, they’d had their fourth anniversary because it’s a long time when you’re 16.
 
-Anyway, he was really upset on the plane, and he said, “I’ll never find another girl like Sarah.” And we were rather pleased about that, frankly, because she was the main reason we were leaving the country. I like university professors, but, you know, we shouldn’t hold them up as the high watermark of all human achievement. They’re just a form of life. But they’re rather curious, and I say this out of affection for them.
+Anyway, he was really upset on the plane, and he said, “I’ll never find another girl like Sarah.”. And we were rather pleased about that, frankly, because she was the main reason we were leaving the country. I like university professors, but, you know, we shouldn’t hold them up as the high watermark of all human achievement. They’re just a form of life.
 
-They’re something curious about professors, in my experience. Not all of them, but typically. They live in their heads. They live up there and slightly to one side.
+But they’re rather curious, and. I say this out of affection for them. They’re something curious about professors, in my experience. Not all of them, but typically.
 
-They’re disembodied, you know, in a kind of literal way. They look upon their body as a form of transport for their heads, don’t they? It’s a way of getting their head to meetings. Robinson received a prolonged standing ovation.
+They live in their heads. They live up there and slightly to one side. They’re disembodied, you know, in a kind of literal way. They look upon their body as a form of transport for their heads, don’t they?
 
-He inspired a live audience of 1200 people that included billionaires, philanthropists, scientists, thinkers, and influencers. He inspired millions of others online. I study inspiring communicators, who they are, how they do it, and how the rest of us can be inspiring too. If Robinson had relied simply on content, few people would have paid attention to his presentation, because facts and literal content by themselves are unemotional.
+It’s a way of getting their head to meetings. Robinson received a prolonged standing ovation. He inspired a live audience of 1200 people that included billionaires, philanthropists, scientists, thinkers, and influencers. He inspired millions of others online.
 
-As we know from Chapter 5, statistics too are boring, unless they are wrapped in an emotionally appealing package. When a skilled communicator can bring statistics alive, data has the power to move us, to inspire us, and call us to action. Humor plays a key role in the playbooks of the world’s most inspiring public speakers. Humor worked for Robinson.
+I study inspiring communicators, who they are, how they do it, and how the rest of us can be inspiring too. If Robinson had relied simply on content, few people would have paid attention to his presentation, because facts and literal content by themselves are unemotional. As we know from.
 
-It’ll work for you too. But you must learn to incorporate humor creatively and naturally. Repeating tired, or worse, crass, dirty jokes won’t get you very far.
+#### Chapter 5, statistics too are boring, unless they are wrapped in an emotionally appealing package.
+
+When a skilled communicator can bring statistics alive, data has the power to move us, to inspire us, and call us to action. Humor plays a key role in the playbooks of the world’s most inspiring public speakers. Humor worked for Robinson. It’ll work for you too.
+
+But you must learn to incorporate humor creatively and naturally. Repeating tired, or worse, crass, dirty jokes won’t get you very far.
 
 In fact, it might turn off your audience. The most popular TED speakers do not tell jokes. That’s right. Unless you’re a professional comedian, jokes are not authentic.
 
@@ -1842,11 +2034,13 @@ ended his pitch with a tasteless joke about women. Sexist jokes are not acceptab
 
 It distracted his audience from the otherwise very strong story he had told about the product. A comedian, like Chris Rock, can get away with jokes about the sexes. He gets paid handsomely to do it, and his audiences expect it. Your audiences do not expect you to be Chris Rock, so don’t try to be.
 
-The brain loves humor. Dr. A. K. Pradeep is the founder of Neurofocus, a Berkeley-based research company that uses neurological research to determine why consumers watch and buy what they do. In his book, The Buying Brain, Pradeep says, at their emotional core, the brains of modern humans are remarkably alike.
+The brain loves humor. Dr. A. K.
 
-Humor, it seems, is one of those tools the brain is hardwired to react to, and it’s key to making a message new and novel. When I met Pradeep at his research facility, I learned that his experiments validate the existing research that brief, clear, and interesting conversations are much more likely to resonate with listeners and are more likely to be remembered and acted upon. But how do you make your messages interesting? According to Pradeep, use humor to make a novel.
+Pradeep is the founder of Neurofocus, a Berkeley-based research company that uses neurological research to determine why consumers watch and buy what they do. In his book, The Buying Brain, Pradeep says, at their emotional core, the brains of modern humans are remarkably alike. Humor, it seems, is one of those tools the brain is hardwired to react to, and it’s key to making a message new and novel. When.
 
-The brain loves it, he said. The University of Western Ontario psychology professor Rod A. Martin says people use humor to reinforce their status in a group hierarchy.
+I met Pradeep at his research facility, I learned that his experiments validate the existing research that brief, clear, and interesting conversations are much more likely to resonate with listeners and are more likely to be remembered and acted upon. But how do you make your messages interesting? According to Pradeep, use humor to make a novel. The brain loves it, he said.
+
+The University of Western Ontario psychology professor Rod A. Martin says people use humor to reinforce their status in a group hierarchy.
 
 For example, you are more likely to crack jokes and amuse others in a group in which you are the leader, or you have a position of dominance than in a group in which you have a lower status or less power than others. Martin wrote a book called The Psychology of Humor, and he argues that humor is used as an ingratiation tactic. It makes it easier to be accepted in a group. This explains why so many famous comedians have experienced difficult childhoods or have gone through a period when they felt like outcasts.
 
@@ -1870,23 +2064,27 @@ Humor, used skillfully, greases the management wheels. It reduces hostility, def
 
 All the executives took part in a two-hour interview on the topic of leadership performance. Two observers categorized the content of the interviews, and they took note of humorous references. Humor that included put-downs of others were coded as negative, while humor used to point out funny things or absurdities was coded as positive. According to Sala, the executives who had been ranked as outstanding used humor more than twice as often as average executives, a mean of 17.8 times per hour, compared with 7.5 times per hour.
 
-When I looked at the executives' compensation for the year, I found that the size of their bonuses correlated positively with their use of humor during the interviews. In other words, the funnier the executives were, the bigger the bonuses. Sala points out that being merely funny was not the key ingredient, but rather it reflected the important success component of emotional intelligence. According to Sala, in my studies, outstanding executives used all types of humor more than average executives did, though they favored positive or neutral humor.
+When. I looked at the executives' compensation for the year, I found that the size of their bonuses correlated positively with their use of humor during the interviews.
 
-But the point is not that more humor is always good or that positive humor is always better than negative humor. In business as in life, the key to the effective use of humor is how it’s deployed. Don’t try to be funny. But do pay close retention to how you use humor, how others respond to your humor, and the messages you send.
+In other words, the funnier the executives were, the bigger the bonuses. Sala points out that being merely funny was not the key ingredient, but rather it reflected the important success component of emotional intelligence. According to Sala, in my studies, outstanding executives used all types of humor more than average executives did, though they favored positive or neutral humor. But the point is not that more humor is always good or that positive humor is always better than negative humor.
 
-It’s all in the telling. If it’s all in the telling, how do you say something funny in a presentation? The first step sounds counterintuitive, but I assure you it’s critical. Don’t try to be funny.
+In business as in life, the key to the effective use of humor is how it’s deployed. Don’t try to be funny. But do pay close retention to how you use humor, how others respond to your humor, and the messages you send. It’s all in the telling.
+
+If it’s all in the telling, how do you say something funny in a presentation? The first step sounds counterintuitive, but. I assure you it’s critical. Don’t try to be funny.
 
 Avoid telling jokes. The moment you start telling the joke about the blonde, or you know the one about the rabbi and the priest, you’re dead. Jokes work only for professional comedians at the top of their game. You’re not Jerry Seinfeld.
 
 When Seinfeld is working on a new act, he says two-thirds of his jokes are garbage, and they largely bomb with his audience. Seinfeld works on jokes for years before he gets it just right. In a video for the New York Times website, Seinfeld deconstructed the anatomy of a joke, and he did it in great detail. He said he had been working on a pop-tart joke for two years.
 
-Here’s what he said about it. It’s a long time to spend on something that means absolutely nothing, but that’s what I do, and that’s what people want me to do. Then he deconstructed the joke he had been working on. The video shows Seinfeld saying, I like the first line to be funny right away.
+Here’s what he said about it. It’s a long time to spend on something that means absolutely nothing, but that’s what. I do, and that’s what people want me to do. Then he deconstructed the joke he had been working on.
 
-When I was a kid and they invented the pop-tart, the back of my head blew right off. That got the joke started. A specific part of my head blew right off, not just my head. So for the next five minutes, Seinfeld dissected each component, every sentence of the rest of the joke.
+The video shows Seinfeld saying, I like the first line to be funny right away. When. I was a kid and they invented the pop-tart, the back of my head blew right off. That got the joke started.
 
-If a sentence is too long, he’ll shave off words or count syllables to get it just right. The video of Jerry Seinfeld deconstructing a joke is a really fascinating insight into a brilliant comedian’s mind. It taught me two things. One, comedy is hard work.
+A specific part of my head blew right off, not just my head. So for the next five minutes, Seinfeld dissected each component, every sentence of the rest of the joke. If a sentence is too long, he’ll shave off words or count syllables to get it just right. The video of Jerry Seinfeld deconstructing a joke is a really fascinating insight into a brilliant comedian’s mind.
 
-And two, the humor we use in presentations and how we deliver that humor should be carefully crafted and considered. How can you be funny without telling jokes? I would be rich if I got paid every time a client told me, I’m not funny.
+It taught me two things. One, comedy is hard work. And two, the humor we use in presentations and how we deliver that humor should be carefully crafted and considered. How can you be funny without telling jokes?
+
+I would be rich if. I got paid every time a client told me, I’m not funny.
 
 
 <a id="sec-051719"></a>
@@ -1894,49 +2092,55 @@ And two, the humor we use in presentations and how we deliver that humor should 
 
 Well, you don’t have to be funny to be humorous. You just have to be willing to do your homework to make your presentation more entertaining. Here are five ways to add just the right amount of humor to your presentation without spending two years developing a joke. Number one, anecdotes, observations, and personal stories.
 
-Most TED presenters who elicit laughs from the audience tend to relate anecdotal information about themselves or the people they know, observations about the world or even personal stories. If something happened to you and you found the humor in it, there is a good chance others will too. Most of Sir Ken Robinson’s humor was in the form of anecdotes and stories about himself, his wife, his son, etc. This is the type of humor that works best in most business presentations. Anecdotes and observations are short stories or examples that are intended not to elicit a huge laugh, but rather just to put a smile on people’s face and to endear the speaker to his or her audience.
+Most TED presenters who elicit laughs from the audience tend to relate anecdotal information about themselves or the people they know, observations about the world or even personal stories. If something happened to you and you found the humor in it, there is a good chance others will too. Most of Sir Ken Robinson’s humor was in the form of anecdotes and stories about himself, his wife, his son, etc. This is the type of humor that works best in most business presentations.
 
-For example, at TED 2013, Dan Pallotta, the founder of the AIDS Rides, made this observation about his role. I also happen to be gay. Being gay and fathering triplets is by far the most socially innovative, socially entrepreneurial thing I have ever done. Dr. Jill Bolte-Taylor generated a big laugh when she made a joke about herself, recounting the moment when she actually experienced a stroke. If you’ll recall her earlier statement, I realized, oh my gosh, I’m having a stroke.
+Anecdotes and observations are short stories or examples that are intended not to elicit a huge laugh, but rather just to put a smile on people’s face and to endear the speaker to his or her audience. For example, at TED 2013, Dan Pallotta, the founder of the AIDS Rides, made this observation about his role. I also happen to be gay. Being gay and fathering triplets is by far the most socially innovative, socially entrepreneurial thing.
 
-I’m having a stroke. The next thing my brain says to me is, wow, this is cool. How many brain scientists have the opportunity to study their own brain from the inside out? With a comedian’s perfect timing, Dr. Jill followed it up with this sentence.
+I have ever done. Dr. Jill Bolte-Taylor generated a big laugh when she made a joke about herself, recounting the moment when she actually experienced a stroke. If you’ll recall her earlier statement, I realized, oh my gosh, I’m having a stroke.
 
-Then it crosses my mind, but I’m a very busy woman. I don’t have time for a stroke. Starting a presentation with observational humor is the way to go. Don’t go for the big laugh right out of the gate.
+I’m having a stroke. The next thing my brain says to me is, wow, this is cool. How many brain scientists have the opportunity to study their own brain from the inside out? With a comedian’s perfect timing, Dr.
 
-You might get the big laugh later, but if you work too hard to draw it out as soon as you step on stage or launch your presentation, you might bomb. And while there’s never a good time to bomb, you may never recover if it happens too early. Ted Note. Remember what worked.
+Jill followed it up with this sentence. Then it crosses my mind, but. I’m a very busy woman. I don’t have time for a stroke.
 
-Think back to anecdotes, stories, observations, or insights that have made you or your colleagues smile in the past. If they work there and are appropriate to your presentation, weave them into your narrative and practice telling it. Number two, analogies and metaphors. An analogy is a comparison that points out the similarities between two different things.
+Starting a presentation with observational humor is the way to go. Don’t go for the big laugh right out of the gate. You might get the big laugh later, but if you work too hard to draw it out as soon as you step on stage or launch your presentation, you might bomb. And while there’s never a good time to bomb, you may never recover if it happens too early.
 
-It’s an excellent rhetorical technique that helps to explain complex topics. In my work with Intel, we use the classic technology analogy that a semiconductor, a computer chip, is like the brain of your computer. When Intel launched its first dual-core chip, we simply said it’s like having two brains in one computer. I recall working with the head of storage computing at the same company, and she said by 2020, the world will have 40 zettabytes of data.
+Ted Note. Remember what worked. Think back to anecdotes, stories, observations, or insights that have made you or your colleagues smile in the past. If they work there and are appropriate to your presentation, weave them into your narrative and practice telling it.
 
-That’s 57 times more data than every grain of sand in the world. Carmine, where the heck are we going to store all that information? By comparing data and sand, the storage expert put the enormous statistic into perspective, and she had fun delivering it. I advised her to start her presentations that way.
+Number two, analogies and metaphors. An analogy is a comparison that points out the similarities between two different things. It’s an excellent rhetorical technique that helps to explain complex topics. In my work with Intel, we use the classic technology analogy that a semiconductor, a computer chip, is like the brain of your computer.
 
-She did so and they were very well received by both her internal and external audiences. You see, you can’t tell someone to be funny or to tell a joke. If you ask them to do something on stage that they typically don’t do in everyday conversation, you’re setting them up for failure. Often, making a simple analogy can bring a smile to your listener.
+When Intel launched its first dual-core chip, we simply said it’s like having two brains in one computer. I recall working with the head of storage computing at the same company, and she said by 2020, the world will have 40 zettabytes of data. That’s 57 times more data than every grain of sand in the world. Carmine, where the heck are we going to store all that information?
 
-Many popular TED presenters provoke laughter by using analogies. Here are a few examples. Chris Anderson asked me if I could put the last 25 years of anti-poverty campaigning into 10 minutes for TED. That’s an Englishman asking an Irishman to be succinct.
+By comparing data and sand, the storage expert put the enormous statistic into perspective, and she had fun delivering it. I advised her to start her presentations that way. She did so and they were very well received by both her internal and external audiences. You see, you can’t tell someone to be funny or to tell a joke.
 
-Bono. If you hear an expert talking about the internet and saying it does this or it will do that, you should treat it with the same skepticism that you might treat the comments of an economist about the economy or a weatherman about the weather. Danny Hillis, inventor, TED 2013
+If you ask them to do something on stage that they typically don’t do in everyday conversation, you’re setting them up for failure. Often, making a simple analogy can bring a smile to your listener. Many popular TED presenters provoke laughter by using analogies. Here are a few examples.
+
+Chris Anderson asked me if. I could put the last 25 years of anti-poverty campaigning into 10 minutes for TED. That’s an Englishman asking an Irishman to be succinct. Bono.
+
+If you hear an expert talking about the internet and saying it does this or it will do that, you should treat it with the same skepticism that you might treat the comments of an economist about the economy or a weatherman about the weather. Danny Hillis, inventor, TED 2013
 
 
 <a id="sec-052223"></a>
 ### ⏱️ [05:22:23 - 05:27:24]
 
-Trying to run Congress without human relationships is like trying to run a car without motor oil. Should we be surprised when the whole thing freezes up? Jonathan Haidt, social psychologist, TED 2012 If Americans want to live the American dream, they should go to Denmark. Richard Wilkinson, professor, TED Global, 2011 3.
+Trying to run Congress without human relationships is like trying to run a car without motor oil. Should we be surprised when the whole thing freezes up? Jonathan Haidt, social psychologist, TED 2012. If Americans want to live the American dream, they should go to Denmark.
 
-Quotes An easy way to get a laugh without being a comedian or telling a joke is to quote somebody else who said something funny. The quotes can be from famous people, anonymous people, or family and friends. TED speakers do this all the time.
+Richard Wilkinson, professor, TED Global, 2011 3. Quotes An easy way to get a laugh without being a comedian or telling a joke is to quote somebody else who said something funny. The quotes can be from famous people, anonymous people, or family and friends. TED speakers do this all the time.
 
-For example, Carmen Agraditi quoted her mother who said, “I gave up shame with pantyhose.” They’re too binding. Some speakers quote others and add one pithy observation to highlight the humor in the statement. Economist Rory Bremner once said, in 2006 the head of the American Mortgage Bankers Association said, as we can clearly see, no seismic occurrence is about to overwhelm the U. S. economy. Now there’s a man on top of his job.
+For example, Carmen Agraditi quoted her mother who said, “I gave up shame with pantyhose.”. They’re too binding. Some speakers quote others and add one pithy observation to highlight the humor in the statement. Economist Rory Bremner once said, in 2006 the head of the American Mortgage Bankers Association said, as we can clearly see, no seismic occurrence is about to overwhelm the U.
 
-At TED 2013, Columbia University linguist John McQuarter taught the audience something new, by providing a novel lens through which to view the 22 million text messages sent every day. The quarter argues that instead of lamenting the abbreviated language that defines teenage texting, we should look at it as a linguistic miracle in the evolution of spoken language. McQuarter showed a series of five slides, each of which had a quote from someone who criticized the way young people were speaking. In this case the quotes themselves weren’t funny, but the way McQuarter used the slides to make his point made the audience laugh.
+S. economy. Now there’s a man on top of his job. At TED 2013, Columbia University linguist John McQuarter taught the audience something new, by providing a novel lens through which to view the 22 million text messages sent every day. The quarter argues that instead of lamenting the abbreviated language that defines teenage texting, we should look at it as a linguistic miracle in the evolution of spoken language.
 
-He began with a quote from an English professor in 1956. Many do not know the alphabet or multiplication table and cannot write grammatically. The audience didn’t laugh nor did McQuarter expect them to, but he advanced to the second slide, which had a 1917 quote from a Connecticut schoolteacher. Every high school is in despair because his pupils are so ignorant of the merest rudiments.
+McQuarter showed a series of five slides, each of which had a quote from someone who criticized the way young people were speaking. In this case the quotes themselves weren’t funny, but the way McQuarter used the slides to make his point made the audience laugh. He began with a quote from an English professor in 1956. Many do not know the alphabet or multiplication table and cannot write grammatically.
 
-No laughter yet. You can go further back, McQuarter said. On his third slide, he showed a quote by a Harvard president, Charles Eliot, in 1871. Bad spelling, incorrectness, as well as inelegance of expression and writing, are far from rare among young men of 18, otherwise well prepared for college studies.
+The audience didn’t laugh nor did McQuarter expect them to, but he advanced to the second slide, which had a 1917 quote from a Connecticut schoolteacher. Every high school is in despair because his pupils are so ignorant of the merest rudiments. No laughter yet. You can go further back, McQuarter said.
 
-The audience by this point had started to get it and some began to laugh. McQuarter continued, showing earlier and earlier quotes until he reached a quote from 63 A. D., a man saddened about the way people were speaking Latin, upset about the language that ultimately became French. After several quotes, the audience understood the premise and they were laughing at both the quotes and themselves for not seeing the evolution of language from the quarter’s perspective.
+On his third slide, he showed a quote by a Harvard president, Charles Eliot, in 1871. Bad spelling, incorrectness, as well as inelegance of expression and writing, are far from rare among young men of 18, otherwise well prepared for college studies. The audience by this point had started to get it and some began to laugh. McQuarter continued, showing earlier and earlier quotes until he reached a quote from 63 A.
 
-People always complain about the way young people are using language, but as McQuarter says, the world keeps spinning. Creatively adding quotes to your presentation breaks up the slides rather nicely and it gives your audience a mental break. Try to avoid quotes that are common and overused and don’t just visit a quote library on the internet, randomly pulling a quote from a category. Really think about the humor and the quotes you use.
+D., a man saddened about the way people were speaking Latin, upset about the language that ultimately became French. After several quotes, the audience understood the premise and they were laughing at both the quotes and themselves for not seeing the evolution of language from the quarter’s perspective. People always complain about the way young people are using language, but as McQuarter says, the world keeps spinning. Creatively adding quotes to your presentation breaks up the slides rather nicely and it gives your audience a mental break.
 
-Make sure they’re relevant. When I give keynote speeches at an association or a corporate conference, I often use quotes from association members. Or their founders or CEOs of the companies I’m speaking to. The quotes draw a laugh and help me connect with my audience.
+Try to avoid quotes that are common and overused and don’t just visit a quote library on the internet, randomly pulling a quote from a category. Really think about the humor and the quotes you use. Make sure they’re relevant. When.
+
+I give keynote speeches at an association or a corporate conference, I often use quotes from association members. Or their founders or CEOs of the companies. I’m speaking to. The quotes draw a laugh and help me connect with my audience.
 
 Building in good quotes requires some homework. Grabbing a famous quote would be easier, but not nearly as effective or creative. Do your homework. Number four, video.
 
@@ -1954,53 +2158,61 @@ He brings in a goat, orders a pizza for delivery in the store, even hires a smal
 
 The videos always draw a good laugh, and best of all, I don’t have to play the comedian. I let others do it for me. Number five, photos. When you think back to your favorite college class, there’s a good chance the professor you most enjoyed injected a fair amount of humor into his or her presentations.
 
-If I had to guess, economics was probably not the class that comes to mind for most people, when they’re asked about their most humorous professors. They didn’t have economist and TED speaker Juan Enriquez as a teacher. If they had, they would have enjoyed going to class. Enriquez has given four TED talks, and takes the complexity out of economics by adding humor, usually in the form of photographs.
+If. I had to guess, economics was probably not the class that comes to mind for most people, when they’re asked about their most humorous professors. They didn’t have economist and TED speaker Juan Enriquez as a teacher. If they had, they would have enjoyed going to class.
 
-His subjects are complex, and humor makes the topics easier to grasp, because the photos place the topic in a context that everyone can understand. At TED 2009, Enriquez opened his talk by saying, There is a great big elephant in the room called the economy. So let’s start talking about that. I wanted to give you a current picture of the economy.
+Enriquez has given four TED talks, and takes the complexity out of economics by adding humor, usually in the form of photographs. His subjects are complex, and humor makes the topics easier to grasp, because the photos place the topic in a context that everyone can understand. At TED 2009, Enriquez opened his talk by saying, There is a great big elephant in the room called the economy. So let’s start talking about that.
 
-The picture was a slide titled, The Economy. The rest of the slide was black. In the year 2009, America was at the depths of a recession, so no further explanation was needed. The black slide said it all, and elicited a strong laugh from the audience right out of the gate.
+I wanted to give you a current picture of the economy. The picture was a slide titled, The Economy. The rest of the slide was black. In the year 2009, America was at the depths of a recession, so no further explanation was needed.
 
-Regarding the economy, Enriquez continued. There’s a couple of really big problems that are sitting out there. One is leverage, and the problem with leverage is it makes the U. S. financial system look like this. Enriquez advanced to a slide showing a photograph of people in a pool.
+The black slide said it all, and elicited a strong laugh from the audience right out of the gate. Regarding the economy, Enriquez continued. There’s a couple of really big problems that are sitting out there. One is leverage, and the problem with leverage is it makes the U.
 
-They were laughing as the radio sat on a small table in the middle of the water. Its power cord running through the water plugged into an electrical socket that dangled over the edge of the pool. Again, Enriquez did not have to explain the slide. The photo acted as a metaphor for the problem of borrowing money against assets.
+S. financial system look like this. Enriquez advanced to a slide showing a photograph of people in a pool. They were laughing as the radio sat on a small table in the middle of the water. Its power cord running through the water plugged into an electrical socket that dangled over the edge of the pool.
 
-It’s all fun and games while the money rolls in, but its consequences could prove deadly. Showing another series of photographs, Enriquez said, the government, meanwhile, has been acting like Santa Claus. We all love Santa Claus, right? At this point, Enriquez shows a stock photo of what appears to be a typical shopping mall Santa Claus.
+Again, Enriquez did not have to explain the slide. The photo acted as a metaphor for the problem of borrowing money against assets. It’s all fun and games while the money rolls in, but its consequences could prove deadly. Showing another series of photographs, Enriquez said, the government, meanwhile, has been acting like Santa Claus.
 
-He continues, but the problem with Santa Claus is, if you look at the mandatory spending of what these folks have been doing and promising folks, entitlements, now that the bills come due, it turns out Santa isn’t quite as cute. The next slide shows a heavy man with a white beard sitting on a golf cart, naked, with his privates blocked out. The audience roars with laughter because they get the point. We love government money if we get it, but we cringe when the results of government spending are exposed.
+We all love Santa Claus, right? At this point, Enriquez shows a stock photo of what appears to be a typical shopping mall Santa Claus. He continues, but the problem with Santa Claus is, if you look at the mandatory spending of what these folks have been doing and promising folks, entitlements, now that the bills come due, it turns out Santa isn’t quite as cute. The next slide shows a heavy man with a white beard sitting on a golf cart, naked, with his privates blocked out.
 
-Americans work on jokes with different audiences to see what resonates. And I, too, use photos and stories in the same way. In one section of my keynote presentation about customer service and communication, I use a series of photographs from the Ritz-Carlton. Now the story, the narrative, goes like this.
+The audience roars with laughter because they get the point. We love government money if we get it, but we cringe when the results of government spending are exposed. Americans work on jokes with different audiences to see what resonates. And.
 
-When employees are empowered to do what’s right for the customer, magical things happen. A family stayed at the Ritz-Carlton Amelia Island. When they got home, they realized they had left the little boy’s beloved stuffed animal, Joshi, in the room.
+I, too, use photos and stories in the same way. In one section of my keynote presentation about customer service and communication, I use a series of photographs from the Ritz-Carlton. Now the story, the narrative, goes like this. When employees are empowered to do what’s right for the customer, magical things happen.
+
+A family stayed at the Ritz-Carlton Amelia Island. When they got home, they realized they had left the little boy’s beloved stuffed animal, Joshi, in the room.
 
 
 <a id="sec-053225"></a>
 ### ⏱️ [05:32:25 - 05:37:27]
 
-The dad called the hotel. The staff found the toy in the room and offered to mail it. Can you do me a favor, said the boy’s father. Can you take a picture of it so I can show my son that Joshi is okay?
+The dad called the hotel. The staff found the toy in the room and offered to mail it. Can you do me a favor, said the boy’s father. Can you take a picture of it so.
 
-The staff did one better. They sent several photographs showing Joshi enjoying the resort. Here’s Joshi near the pool, Joshi on the beach, Joshi in a golf cart, and Joshi getting a facial. If you simply heard my story, you might appreciate the customer service involved, but it wouldn’t necessarily make you laugh.
+I can show my son that Joshi is okay? The staff did one better. They sent several photographs showing Joshi enjoying the resort. Here’s Joshi near the pool, Joshi on the beach, Joshi in a golf cart, and Joshi getting a facial.
 
-I assure you the photographs are hilarious. Seeing a stuffed animal lying on a massage bed with cucumbers on its eyes while somebody massages its shoulders, that’s funny stuff. The humor helps people remember the photos, but more important, the picture reinforces my key message. Great employees create memorable moments for their customers.
+If you simply heard my story, you might appreciate the customer service involved, but it wouldn’t necessarily make you laugh. I assure you the photographs are hilarious. Seeing a stuffed animal lying on a massage bed with cucumbers on its eyes while somebody massages its shoulders, that’s funny stuff. The humor helps people remember the photos, but more important, the picture reinforces my key message.
 
-Remember, in the Ritz Carlton example, the photos get the laugh. I’m not trying to make the audience laugh by forcing a joke on them. It’s natural. It’s authentic humor.
+Great employees create memorable moments for their customers. Remember, in the Ritz Carlton example, the photos get the laugh. I’m not trying to make the audience laugh by forcing a joke on them. It’s natural.
 
-I’m not trying to be something or somebody I’m not. You may have no hope of making it on the comedy circuit, but that should not stop you from delivering a presentation that’s informative and entertaining. Slide a note. Lighten up your presentation with video and photos.
+It’s authentic humor. I’m not trying to be something or somebody. I’m not. You may have no hope of making it on the comedy circuit, but that should not stop you from delivering a presentation that’s informative and entertaining.
 
-Most PowerPoint presentations are dreadful because they have so little, if any, emotional impact. Incorporate a humorous photograph or a video clip to lighten the mood. I use each of these five techniques in my own presentations. I was never the guy who told jokes.
+Slide a note. Lighten up your presentation with video and photos. Most PowerPoint presentations are dreadful because they have so little, if any, emotional impact. Incorporate a humorous photograph or a video clip to lighten the mood.
 
-I love comedy, enjoy watching stand-up comedians, but I rarely remember or even tell jokes. Yet I laugh easily and often, and I find the humor in just about every situation. My wife and I laugh a lot. As I developed as a speaker, I realized I did not have to make the audience laugh.
+I use each of these five techniques in my own presentations. I was never the guy who told jokes. I love comedy, enjoy watching stand-up comedians, but. I rarely remember or even tell jokes.
 
-All I had to do was reveal the humor in a situation. You don’t have to go for a big laugh all the time. But you should try to elicit at least a smile. There’s this mental delight that’s followed by the physical response of laughter, which, not coincidentally, releases endorphins in the brain.
+Yet. I laugh easily and often, and. I find the humor in just about every situation. My wife and.
 
-And just like that, you’ve been seduced into a different way of looking at something because the endorphins have brought down your defenses. This is the exact opposite of the way that anger and fear and panic, all of the flight or fight responses operate. Flight or fight releases adrenaline, which throws up our walls sky high. And the comedy comes along, dealing with a lot of the same areas where our defenses are the strongest, race, religion, politics, sexuality.
+I laugh a lot. As. I developed as a speaker, I realized. I did not have to make the audience laugh.
 
-Only by approaching them through humor instead of adrenaline, we get endorphins, and the alchemy of laughter turns our walls into windows, revealing a fresh and unexpected point of view. Chris Bliss, TEDx. Let’s talk poop. Always try to inject some humor when you’re trying to help people wrap their heads around a complex subject, especially if they are new to the topic or they have a low level of understanding about it.
+All. I had to do was reveal the humor in a situation. You don’t have to go for a big laugh all the time. But you should try to elicit at least a smile.
 
-Humor is also a useful tool to deflect controversy or to relieve your audience from traumatic events. You might remember millions of people tuning into Saturday Night Live after 9-11 to get some relief from the constant barrage of horrifying images that were ubiquitous on television. When a comedian Will Ferrell appeared in one of the first skits with nothing but an American flag-colored thong that showed his butt cheeks, the world knew it was okay to laugh again, not to forget, but to give our brains a mental break from the trauma.
+There’s this mental delight that’s followed by the physical response of laughter, which, not coincidentally, releases endorphins in the brain. And just like that, you’ve been seduced into a different way of looking at something because the endorphins have brought down your defenses. This is the exact opposite of the way that anger and fear and panic, all of the flight or fight responses operate. Flight or fight releases adrenaline, which throws up our walls sky high.
 
-Rose George sees the humor in poop. One day, the UK-based journalist went to the bathroom, and she asked herself, where does all this stuff go? As a journalist, she was intrigued to find an answer. For the next 10 years, she dug herself deeper into the world of sanitation, so to speak, writing articles and a book on the topic of how proper sanitation saves lives in third world countries.
+And the comedy comes along, dealing with a lot of the same areas where our defenses are the strongest, race, religion, politics, sexuality. Only by approaching them through humor instead of adrenaline, we get endorphins, and the alchemy of laughter turns our walls into windows, revealing a fresh and unexpected point of view. Chris Bliss, TEDx. Let’s talk poop.
 
-George takes her topic seriously, but she doesn’t take herself too seriously, and she realizes that her audience needs a mental break from some of the heartbreaking images she displays on the screen. Her combination of humor and seriousness won the hearts and, yes, the minds of the TED 2013 audience. George is smart enough to know that open defecation is not exactly a pleasant topic.
+Always try to inject some humor when you’re trying to help people wrap their heads around a complex subject, especially if they are new to the topic or they have a low level of understanding about it. Humor is also a useful tool to deflect controversy or to relieve your audience from traumatic events. You might remember millions of people tuning into Saturday Night Live after 9-11 to get some relief from the constant barrage of horrifying images that were ubiquitous on television.
+
+When a comedian Will Ferrell appeared in one of the first skits with nothing but an American flag-colored thong that showed his butt cheeks, the world knew it was okay to laugh again, not to forget, but to give our brains a mental break from the trauma. Rose George sees the humor in poop.
+
+One day, the UK-based journalist went to the bathroom, and she asked herself, where does all this stuff go? As a journalist, she was intrigued to find an answer. For the next 10 years, she dug herself deeper into the world of sanitation, so to speak, writing articles and a book on the topic of how proper sanitation saves lives in third world countries. George takes her topic seriously, but she doesn’t take herself too seriously, and she realizes that her audience needs a mental break from some of the heartbreaking images she displays on the screen.
+
+Her combination of humor and seriousness won the hearts and, yes, the minds of the TED 2013 audience. George is smart enough to know that open defecation is not exactly a pleasant topic.
 
 
 <a id="sec-053727"></a>
@@ -2024,13 +2236,13 @@ Don’t take your topic too seriously or yourself. The famous theoretical physic
 
 His wit makes audiences feel more comfortable around him. In 2003, Jim Carrey was promoting the film Dumb and Dumber. While he was being interviewed on Conan O’Brien’s show, Carrey got a phone call from Hawking, and the two launched into a comedy skit. When asked about it later, Hawking said he had done it because it sounded like fun.
 
-He doesn’t take himself too seriously. The reason why I bring up Hawking is because he brings his humor to public presentations. He knows his listeners' brains will turn to mush if they work too hard to understand his theories. So his levity adds a much-needed laugh to the discourse.
+He doesn’t take himself too seriously. The reason why. I bring up Hawking is because he brings his humor to public presentations. He knows his listeners' brains will turn to mush if they work too hard to understand his theories.
 
-In February 2008, Hawking appeared on a TED stage to discuss the big question, where did we come from? How did the universe come into being? Are we alone in the universe? Is there alien life out there?
+So his levity adds a much-needed laugh to the discourse. In February 2008, Hawking appeared on a TED stage to discuss the big question, where did we come from? How did the universe come into being? Are we alone in the universe?
 
-What is the future of the human race? Pretty heavy stuff. Among the theories he debunks, being visited by aliens. We don’t seem to have been visited by aliens.
+Is there alien life out there? What is the future of the human race? Pretty heavy stuff. Among the theories he debunks, being visited by aliens.
 
-I am discounting the reports of UFOs. Why would they appear only to cranks and weirdos? If there is a government conspiracy to suppress the reports and keep for itself the scientific knowledge the aliens bring, it seems to have been a singularly ineffective policy so far.
+We don’t seem to have been visited by aliens. I am discounting the reports of UFOs. Why would they appear only to cranks and weirdos? If there is a government conspiracy to suppress the reports and keep for itself the scientific knowledge the aliens bring, it seems to have been a singularly ineffective policy so far.
 
 Furthermore, despite an extensive search by the SETI project, we haven’t heard any alien television quiz shows. This probably indicates that there are no alien civilizations at our stage of development within a radius of a few hundred light years. Issuing an insurance policy against abduction by aliens seems a pretty safe bet. Secret number six, lighten up.
 
@@ -2046,39 +2258,47 @@ If you feel good, you’ll deliver a better presentation. And that’s something
 
 Otherwise, you’ll just knuckle under, and things that might have been memorable will be lost. Francis Ford Coppola. Chapter seven, stick to the 18-minute rule. I’m both challenged and excited.
 
-My excitement is I get to give something back. My challenge is the shortest seminar I usually do is 50 hours. Tony Robbins, TED, 2006. The University of Waterloo economics professor, Larry Smith, gives three-hour lectures.
+My excitement is. I get to give something back. My challenge is the shortest seminar. I usually do is 50 hours.
 
-In November 2011, he gave a 15-minute talk for a TEDx audience. He had no idea it would be viewed nearly 1.5 million times. Smith told me, it was a personal challenge to condense my content into 18 minutes. I think my students asked me to do it because they thought it would kill me.
+Tony Robbins, TED, 2006. The University of Waterloo economics professor, Larry Smith, gives three-hour lectures. In November 2011, he gave a 15-minute talk for a TEDx audience. He had no idea it would be viewed nearly 1.5 million times.
 
-Why do you think the 18-minute rule works so well, I asked Dr. Smith. Thinking is hard work. In 18 minutes, you can make a powerful argument and attract people’s attention. Yes, thinking is hard work.
+Smith told me, it was a personal challenge to condense my content into 18 minutes. I think my students asked me to do it because they thought it would kill me. Why do you think the 18-minute rule works so well, I asked Dr. Smith.
 
-And that’s why the 18-minute rule is critical to the transfer of ideas. A TED presentation must not exceed 18 minutes in length. It’s a fundamental rule that applies to all TED speakers. It doesn’t matter if you’re Larry Smith, Bill Gates, or Tony Robbins. 18 minutes is all you get.
+Thinking is hard work. In 18 minutes, you can make a powerful argument and attract people’s attention. Yes, thinking is hard work. And that’s why the 18-minute rule is critical to the transfer of ideas.
 
-Secret number seven, stick to the 18-minute rule. 18 minutes is the ideal length of time for a presentation. If you must create one that’s longer, build in soft breaks. stories, videos, demonstrations, every ten minutes. Why it works. Researchers have discovered that cognitive backlog, too much information, prevents the successful transmission of ideas.
+A TED presentation must not exceed 18 minutes in length. It’s a fundamental rule that applies to all TED speakers. It doesn’t matter if you’re Larry Smith, Bill Gates, or Tony Robbins. 18 minutes is all you get. Secret number seven, stick to the 18-minute rule. 18 minutes is the ideal length of time for a presentation.
 
-Catacorader Chris Anderson Explaited Best. Eighteen minutes is long enough to be serious and short enough to hold people’s attention. It turns out that this length also works incredibly well online. It’s the length of a coffee break.
+If you must create one that’s longer, build in soft breaks. stories, videos, demonstrations, every ten minutes. Why it works. Researchers have discovered that cognitive backlog, too much information, prevents the successful transmission of ideas. Catacorader Chris Anderson Explaited Best.
 
-So, you watch a great talk and forward the link to two or three people. It can go viral very easily. The eighteen-minute length also works much like the way Twitter forces people to be disciplined in what they write. By forcing speakers who are used to going on for forty-five minutes to bring it down to eighteen, you get them to really think about what they want to say.
+Eighteen minutes is long enough to be serious and short enough to hold people’s attention. It turns out that this length also works incredibly well online. It’s the length of a coffee break. So, you watch a great talk and forward the link to two or three people.
 
-What is the key point they want to communicate? It has a clarifying effect. It brings discipline. Listening is draining. Dr. Paul King at Texas Christian University has been an influential scholar in the field of communication studies for thirty years.
+It can go viral very easily. The eighteen-minute length also works much like the way Twitter forces people to be disciplined in what they write. By forcing speakers who are used to going on for forty-five minutes to bring it down to eighteen, you get them to really think about what they want to say. What is the key point they want to communicate?
 
-I spoke to King about his research into state anxiety in listening performance. Most of us believe that anxiety impacts only the person giving the speech or presentation. Dr. King has discovered that audience members feel anxiety too. We studied research participants, college students, who listen to information knowing that they will be asked questions about it afterwards. As time went on, their state anxiety levels just went up and up and up until after they took the test.
+It has a clarifying effect. It brings discipline. Listening is draining. Dr.
 
-Then their anxiety level dropped off, King said. According to King, the accumulation of information results in cognitive backlog, which, like piling on weights, makes the mental load heavier and heavier. As more and more stuff that you need to remember piles on, it creates greater and greater pressure. Pretty soon you’re going to drop it all.
+Paul King at Texas Christian University has been an influential scholar in the field of communication studies for thirty years. I spoke to King about his research into state anxiety in listening performance. Most of us believe that anxiety impacts only the person giving the speech or presentation. Dr.
 
-King says that cognitive processing, things like thinking, speaking, listening, those are physically demanding activities. King once said, “I was on the debate team in high school.” I also played basketball. I was able to run up and down the court all day long. I reached the finals of my first debate tournament and I had a series of three debates.
+King has discovered that audience members feel anxiety too. We studied research participants, college students, who listen to information knowing that they will be asked questions about it afterwards. As time went on, their state anxiety levels just went up and up and up until after they took the test. Then their anxiety level dropped off, King said.
+
+According to King, the accumulation of information results in cognitive backlog, which, like piling on weights, makes the mental load heavier and heavier. As more and more stuff that you need to remember piles on, it creates greater and greater pressure. Pretty soon you’re going to drop it all. King says that cognitive processing, things like thinking, speaking, listening, those are physically demanding activities.
+
+King once said, “I was on the debate team in high school.”. I also played basketball. I was able to run up and down the court all day long. I reached the finals of my first debate tournament and.
+
+I had a series of three debates.
 
 
 <a id="sec-054731"></a>
 ### ⏱️ [05:47:31 - 05:52:35]
 
-After I finished, I could hardly move. I climbed into an old yellow school bus, fell asleep, and didn’t wake up until I reached home. That was strange for me. If you’re really concentrating, critically listening, that’s a physically exhausting experience.
+After. I finished, I could hardly move. I climbed into an old yellow school bus, fell asleep, and didn’t wake up until. I reached home.
 
-Listening as an audience member is more draining than we give it credit for. King says that listening is an exhausting activity because the learner is continually adding material to be remembered, retrieved later. This is what he means by cognitive backlog. Simply put, the longer the task or the more information that is delivered, the greater the cognitive load.
+That was strange for me. If you’re really concentrating, critically listening, that’s a physically exhausting experience. Listening as an audience member is more draining than we give it credit for. King says that listening is an exhausting activity because the learner is continually adding material to be remembered, retrieved later.
 
-Listening to a five-minute presentation produces a relatively small amount of cognitive backlog. An 18-minute presentation produces a little more, while a 60-minute presentation produces so much backlog that you risk seriously upsetting your audience unless you create a very engaging presentation with soft breaks, stories, videos, demonstrations, and other speakers. The longer the presentation, the more the listener has to organize, to comprehend, and to remember. That burden increases with the listener’s anxiety.
+This is what he means by cognitive backlog. Simply put, the longer the task or the more information that is delivered, the greater the cognitive load. Listening to a five-minute presentation produces a relatively small amount of cognitive backlog. An 18-minute presentation produces a little more, while a 60-minute presentation produces so much backlog that you risk seriously upsetting your audience unless you create a very engaging presentation with soft breaks, stories, videos, demonstrations, and other speakers.
 
-They become increasingly frustrated, even angry. King says the bulk of his current research into memory processing suggests that it is better to study content on two or three occasions for a short period of time instead of spending an entire evening cramming. What I’m suggesting, says Dr. King, is that once you make a point, if you just beat the point to death, you’re not really helping people to process it better and to store the content away in long-term memory. King applies the results to his graduate class on research methods.
+The longer the presentation, the more the listener has to organize, to comprehend, and to remember. That burden increases with the listener’s anxiety. They become increasingly frustrated, even angry. King says the bulk of his current research into memory processing suggests that it is better to study content on two or three occasions for a short period of time instead of spending an entire evening cramming.
+
+What. I’m suggesting, says Dr. King, is that once you make a point, if you just beat the point to death, you’re not really helping people to process it better and to store the content away in long-term memory. King applies the results to his graduate class on research methods.
 
 If given a choice, most graduate students would rather attend a single, three-hour class than three 50-minute classes. When King taught his class once a week, he found that the students returned for the next class, having lost most of the information they had learned the week before. King discovered that the better practice was to schedule the same content on three separate occasions, such as Monday, Wednesday, and Friday. King said that despite objections, when he made the class mandatory across three shorter segments, his students scored better and exhibited a better retention of the complex material.
 
@@ -2104,25 +2324,25 @@ That’s why an 18-minute presentation works so well. It leads your audience wit
 
 It doesn’t happen. Instead, they head to the nearest pizza joint or beer hall to commiserate about their shared misfortune and a change of the subject. Eighteen minutes is thought-provoking. Three hours is mind-numbing.
 
-I’ve spent considerable time in this chapter explaining the science behind the 18-minute rule. I feel as though I really need to. Keeping presentations on the shorter side elicits the strongest reaction for many of the CEOs and the business professionals who I’ve worked with. I often hear the lament, but Carmine, we have too much information to deliver.
+I’ve spent considerable time in this chapter explaining the science behind the 18-minute rule. I feel as though. I really need to. Keeping presentations on the shorter side elicits the strongest reaction for many of the CEOs and the business professionals who.
 
-Once people understand the science and the logic behind the 18-minute rule and the concept of soft breaks, they’re much more willing to consider shortening their presentations. Once they do, they find their creative juices are unleashed. You see, creativity thrives under constraints. Creativity thrives under constraints.
+I’ve worked with. I often hear the lament, but Carmine, we have too much information to deliver. Once people understand the science and the logic behind the 18-minute rule and the concept of soft breaks, they’re much more willing to consider shortening their presentations. Once they do, they find their creative juices are unleashed.
 
-Events are key to a creative presentation. I’m often asked, how long should my presentation be? I believe the Goldilocks zone is a very TED-like 18 to 20 minutes. It’s not too short and not too long.
+You see, creativity thrives under constraints. Creativity thrives under constraints. Events are key to a creative presentation. I’m often asked, how long should my presentation be?
 
-It’s just the right amount of time in which to persuade your audience. If it’s shorter, some members of your audience, especially investors, clients, and customers, might not feel as though they received enough information. Many longer, however, and you risk losing the attention of your audience. I often use John F.
+I believe the Goldilocks zone is a very TED-like 18 to 20 minutes. It’s not too short and not too long. It’s just the right amount of time in which to persuade your audience. If it’s shorter, some members of your audience, especially investors, clients, and customers, might not feel as though they received enough information.
 
-Kennedy’s inaugural speech as a guide to presentation length. Since Kennedy inspired the nation in a 15-minute speech, you should be able to pitch your product or idea in the same amount of time.
+Many longer, however, and you risk losing the attention of your audience. I often use John F. Kennedy’s inaugural speech as a guide to presentation length. Since Kennedy inspired the nation in a 15-minute speech, you should be able to pitch your product or idea in the same amount of time.
 
-Kennedy instructed speechwriter Ted Sorensen to keep it brief because he said, “I don’t want people to think I’m a win-back.” The result was one of the shortest inaugural addresses up to that point in history, 1,355 words. Kennedy realized that capturing the imagination of his audience required a strong delivery, carefully crafted sentences, and a reasonably short speech. The average length of a presidential inaugural speech is 2,300 words. Kennedy’s inaugural speech is an excellent example of a short, inspiring message.
+Kennedy instructed speechwriter Ted Sorensen to keep it brief because he said, “I don’t want people to think. I’m a win-back.” The result was one of the shortest inaugural addresses up to that point in history, 1,355 words. Kennedy realized that capturing the imagination of his audience required a strong delivery, carefully crafted sentences, and a reasonably short speech. The average length of a presidential inaugural speech is 2,300 words.
 
-A more instructive example is an influential, though lesser-known speech that Kennedy gave at Rice University on September 12, 1962. It was there that Kennedy outlined his vision to explore the moon. When Kennedy challenged America to go to the moon by the end of the decade, he galvanized the collective imagination of millions of Americans, as well as thousands of its top scientists. It was one of the most important speeches in American history.
+Kennedy’s inaugural speech is an excellent example of a short, inspiring message. A more instructive example is an influential, though lesser-known speech that Kennedy gave at Rice University on September 12, 1962. It was there that Kennedy outlined his vision to explore the moon. When Kennedy challenged America to go to the moon by the end of the decade, he galvanized the collective imagination of millions of Americans, as well as thousands of its top scientists.
 
-At 17 minutes and 40 seconds, Kennedy’s speech would have made the ultimate TED Talk. Some people might argue, I have too much to say, I can’t possibly deliver all that information in 20 minutes. Try to do it anyway. Your presentation will be far more impactful and creative simply by going through the exercise.
+It was one of the most important speeches in American history. At 17 minutes and 40 seconds, Kennedy’s speech would have made the ultimate TED Talk. Some people might argue, I have too much to say, I can’t possibly deliver all that information in 20 minutes. Try to do it anyway.
 
-In his book, The Laws of Subtraction, Matthew May explains the science behind it. According to May, creativity thrives under intelligent constraints. May persuasively argues that by establishing a boundary or limit to your presentation, you provide a focus and a framework for creativity to flourish. According to May, recent studies offer evidence that, contrary to popular belief, the main event of the imagination, creativity, does not require unrestrained freedom.
+Your presentation will be far more impactful and creative simply by going through the exercise. In his book, The Laws of Subtraction, Matthew May explains the science behind it. According to May, creativity thrives under intelligent constraints. May persuasively argues that by establishing a boundary or limit to your presentation, you provide a focus and a framework for creativity to flourish.
 
-Rather, it relies on limits and obstacles. May believes that the law of subtraction positively impacts nearly every aspect of our lives, not just presentation design and public speaking.
+According to May, recent studies offer evidence that, contrary to popular belief, the main event of the imagination, creativity, does not require unrestrained freedom. Rather, it relies on limits and obstacles. May believes that the law of subtraction positively impacts nearly every aspect of our lives, not just presentation design and public speaking.
 
 
 <a id="sec-055738"></a>
@@ -2132,23 +2352,27 @@ What isn’t there often trumps what is. When you remove just the right thing in
 
 If you look deeper, however, you will find that some of the most inspiring art forms, whose sonatas, religious paintings, are fraught with constraints. Marissa Meyer, Yahoo CEO. TED Talks have been viewed more than one billion times, proving that a constrained presentation is often more inspiring, creative, and engaging than longer meandering presentations that are boring, confusing, and convoluted. THE HISTORY OF THE WORLD IN 18 MINUTES A simple explanation of a complex topic gives the audience confidence in the speaker’s mastery of the subject.
 
-Albert Einstein once said, if you can’t explain it simply, you don’t understand it well enough. Einstein would have been proud of David Christian, who, in March 2011, narrated the complete History of the Universe for a TED audience and took all of 18 minutes to do it, 17 minutes and 40 seconds to be exact. Christian told me that he teaches a World History course that examines the entire history of the universe, from the Big Bang 13 billion years ago to today. The Big History course is offered by the teaching company in a series of 48 half-hour lectures.
+Albert Einstein once said, if you can’t explain it simply, you don’t understand it well enough. Einstein would have been proud of David Christian, who, in March 2011, narrated the complete History of the Universe for a TED audience and took all of 18 minutes to do it, 17 minutes and 40 seconds to be exact. Christian told me that he teaches a World History course that examines the entire history of the universe, from the Big Bang 13 billion years ago to today.
 
-Christian’s deep understanding of the subject helped him condense the content into just the right amount of time to grab the audience’s attention and inspire them to take better care of our fragile planet. Christian told me, I’ve been teaching Big History now for over 20 years, so I have a pretty good feel for the story, and that means I can tell it in many different versions. E. F.
+The Big History course is offered by the teaching company in a series of 48 half-hour lectures. Christian’s deep understanding of the subject helped him condense the content into just the right amount of time to grab the audience’s attention and inspire them to take better care of our fragile planet. Christian told me, I’ve been teaching Big History now for over 20 years, so. I have a pretty good feel for the story, and that means.
 
-Schumacher, economist and author of Small is Beautiful once said, any intelligent fool can make things bigger, more complex. It takes a touch of gee- genius, and a lot of courage, to move in the opposite direction. Courage is the key word. It takes courage to keep things simple.
+I can tell it in many different versions. E. F. Schumacher, economist and author of Small is Beautiful once said, any intelligent fool can make things bigger, more complex.
 
-It takes courage to put one picture on a PowerPoint slide, instead of filling it with tiny text that most people in the audience will never be able to read. It takes courage to reduce the number of slides in a presentation. It takes courage to speak for 18 minutes, instead of rambling on for much longer. Leonardo da Vinci once said, simplicity is the ultimate sophistication.
+It takes a touch of gee- genius, and a lot of courage, to move in the opposite direction. Courage is the key word. It takes courage to keep things simple. It takes courage to put one picture on a PowerPoint slide, instead of filling it with tiny text that most people in the audience will never be able to read.
 
-Be sophisticated. Keep your presentations and pitches short and simple. Our life is frittered away by detail. Simplify, simplify.
+It takes courage to reduce the number of slides in a presentation. It takes courage to speak for 18 minutes, instead of rambling on for much longer. Leonardo da Vinci once said, simplicity is the ultimate sophistication. Be sophisticated.
 
-Henry David Thoreau. The Rule of Three. All the science behind the importance of keeping things concise, it’s all very interesting. But it doesn’t mean very much unless you can apply it to improve the impact of your pitch or presentation.
+Keep your presentations and pitches short and simple. Our life is frittered away by detail. Simplify, simplify. Henry David Thoreau.
 
-So how do you condense all of your knowledge into an 18 minute presentation? Understanding the Rule of Three might help. The Rule of Three simply means that people can remember three pieces of information really, really well. Add more items and retention falls off considerably.
+The. Rule of Three. All the science behind the importance of keeping things concise, it’s all very interesting. But it doesn’t mean very much unless you can apply it to improve the impact of your pitch or presentation.
 
-It’s one of the most powerful concepts in writing and communication. I’ve used the Rule of Three very successfully with communicators in nearly every industry. It works for me every time. And it works for some of the most popular Ted Talks.
+So how do you condense all of your knowledge into an 18 minute presentation? Understanding the. Rule of Three might help. The.
 
-Neil Pazricha’s blog covers a lot of ground. It’s dedicated to 1,000 awesome things, such as snow falling on Christmas, or your birthday landing on a weekend, or someone naming their kid after you, etc. The simple blog idea landed Pazricha a book deal, 25,000 Twitter followers, and a Ted X talk in Toronto that has now attracted more than 1 million views. In his presentation, Pazricha did not attempt to cover all 1,000 things that make life worth living. Instead, he focused on three secrets, all starting with the letter A.
+Rule of Three simply means that people can remember three pieces of information really, really well. Add more items and retention falls off considerably. It’s one of the most powerful concepts in writing and communication. I’ve used the.
+
+Rule of Three very successfully with communicators in nearly every industry. It works for me every time. And it works for some of the most popular Ted Talks. Neil Pazricha’s blog covers a lot of ground.
+
+It’s dedicated to 1,000 awesome things, such as snow falling on Christmas, or your birthday landing on a weekend, or someone naming their kid after you, etc. The simple blog idea landed Pazricha a book deal, 25,000 Twitter followers, and a Ted X talk in Toronto that has now attracted more than 1 million views. In his presentation, Pazricha did not attempt to cover all 1,000 things that make life worth living. Instead, he focused on three secrets, all starting with the letter A.
 
 Three secrets deleting a life that’s truly rewarding. He titled the presentation, The Three A’s of Awesome, The Three A’s of Awesome. In an intensely personal talk, Pazricha told a story about his life in 2008. It wasn’t going well.
 
@@ -2156,25 +2380,27 @@ Three secrets deleting a life that’s truly rewarding. He titled the presentati
 <a id="sec-060238"></a>
 ### ⏱️ [06:02:38 - 06:07:41]
 
-His wife sat him down one day and said, “I don’t love you anymore.” There was the most heartbreaking thing he had ever heard, until a month later when he got more bad news. He said, my friend Chris, who had been battling mental illness for some time, took his own life. As the dark clouds began circling him, Pazricha logged onto a computer and started a tiny website to force himself to think about positive things. The exercise put him in a better mood, but he didn’t think anything of it because 50,000 blogs are started every day.
+His wife sat him down one day and said, “I don’t love you anymore.”. There was the most heartbreaking thing he had ever heard, until a month later when he got more bad news. He said, my friend Chris, who had been battling mental illness for some time, took his own life. As the dark clouds began circling him, Pazricha logged onto a computer and started a tiny website to force himself to think about positive things.
 
-At his blog, 1000awesomethings.com quickly became popular, and one day Pazricha received a call from someone who said, you’ve just received the best blog in the world award. That sounds totally fake, Pazricha said, as his audience laughed. It wasn’t fake. He accepted a Webby award for best blog.
+The exercise put him in a better mood, but he didn’t think anything of it because 50,000 blogs are started every day. At his blog, 1000awesomethings.com quickly became popular, and one day Pazricha received a call from someone who said, you’ve just received the best blog in the world award. That sounds totally fake, Pazricha said, as his audience laughed. It wasn’t fake.
 
-When he returned to Toronto, 10 literary agents were eager to represent him. The book he eventually wrote, The Book of Awesome, hit the bestseller list for 20 straight weeks. The three A’s of awesome that Pazricha shared with the TEDx audience on that day were attitude, awareness, authenticity. He spoke briefly about each one.
+He accepted a Webby award for best blog. When he returned to Toronto, 10 literary agents were eager to represent him. The book he eventually wrote, The Book of Awesome, hit the bestseller list for 20 straight weeks. The three A’s of awesome that Pazricha shared with the TEDx audience on that day were attitude, awareness, authenticity.
 
-On attitude, Pazricha said, we’re all going to have bumps in the road, but we have two choices on how to face them. According to Pazricha, one, you can swirl and twirl and gloom and doom forever, or two, you can grieve and then face the future with newly sober eyes. Having a great attitude is about choosing option number two. And choosing, no matter how difficult it is, no matter what pain hits you, choosing to move forward and move on and take baby steps into the future.
+He spoke briefly about each one. On attitude, Pazricha said, we’re all going to have bumps in the road, but we have two choices on how to face them. According to Pazricha, one, you can swirl and twirl and gloom and doom forever, or two, you can grieve and then face the future with newly sober eyes. Having a great attitude is about choosing option number two.
 
-On his second point, awareness. Pazricha encouraged his listeners to embrace their inner three-year-old. And here’s what he said, that three-year-old boy is still part of you. That three-year-old girl is still part of you.
+And choosing, no matter how difficult it is, no matter what pain hits you, choosing to move forward and move on and take baby steps into the future. On his second point, awareness. Pazricha encouraged his listeners to embrace their inner three-year-old. And here’s what he said, that three-year-old boy is still part of you.
 
-They’re in there. And being aware is just about remembering that you saw everything you’ve seen for the first time once too. On authenticity, Pazricha said, it’s just about being you and about being cool with that. And I think when you’re authentic, you end up following your heart and you put yourself in places and situations and in conversations that you love and that you enjoy.
+That three-year-old girl is still part of you. They’re in there. And being aware is just about remembering that you saw everything you’ve seen for the first time once too. On authenticity, Pazricha said, it’s just about being you and about being cool with that.
 
-You meet people that you like talking to. You go to places you’ve dreamt about, and you end up following your heart and feeling very fulfilled. The magical number seven, plus or minus two, Pazricha intuitively understood and leveraged this powerful communication technique, the rule of three. Simply put, the human mind can only consume about three chunks of information in short term or what’s called working memory.
+And. I think when you’re authentic, you end up following your heart and you put yourself in places and situations and in conversations that you love and that you enjoy. You meet people that you like talking to. You go to places you’ve dreamt about, and you end up following your heart and feeling very fulfilled.
 
-As more and more items are added to the list, the average person retains less and less. Four items are a bit harder to remember than three. Five items are even harder. Once the number of items on a list hits eight, most people have little chance of remembering the entire sequence.
+The magical number seven, plus or minus two, Pazricha intuitively understood and leveraged this powerful communication technique, the rule of three. Simply put, the human mind can only consume about three chunks of information in short term or what’s called working memory. As more and more items are added to the list, the average person retains less and less. Four items are a bit harder to remember than three.
 
-In 1956, Bell Labs reached out to Harvard professor George Miller, who published a classic paper titled, The Magical Number Seven, Plus or Minus Two. Miller found that most people have a hard time remembering more than about seven pieces of new information. Now you know why phone numbers are seven digits. Contemporary scientists, however, have put the number of items we can easily recall in short term memory closer to three or four chunks of information.
+Five items are even harder. Once the number of items on a list hits eight, most people have little chance of remembering the entire sequence. In 1956, Bell Labs reached out to Harvard professor George Miller, who published a classic paper titled, The Magical Number Seven, Plus or Minus Two. Miller found that most people have a hard time remembering more than about seven pieces of new information.
 
-Think about it. When someone leaves a phone number on a voice message, you’re likely to recall the number by chunking the number into two parts, one section made up of three digits, the other comprising the remaining four digits. The rule of three pervades our daily lives. Every July 4th, America celebrates the three inalienable rights voiced in the U. S. Declaration of Independence, life, liberty, and the pursuit of happiness.
+Now you know why phone numbers are seven digits. Contemporary scientists, however, have put the number of items we can easily recall in short term memory closer to three or four chunks of information. Think about it. When someone leaves a phone number on a voice message, you’re likely to recall the number by chunking the number into two parts, one section made up of three digits, the other comprising the remaining four digits.
+
+The rule of three pervades our daily lives. Every July 4th, America celebrates the three inalienable rights voiced in the U. S. Declaration of Independence, life, liberty, and the pursuit of happiness.
 
 Life, liberty, and happiness might very well be the three most important words in American history. The words are so eloquent, so impactful that they warrant their own Wikipedia page. According to Wikipedia, some consider the phrase one of the most well-crafted influential sentences in the history of the English language. Those three words inspired other countries, most notably France, to seek its own freedoms from oppression and to delineate the rights of its citizens into groups of three.
 
@@ -2190,11 +2416,15 @@ In literature, you’ll find three little pigs, three musketeers, and three wish
 
 At the dinner table, you’ll find three pieces of cutlery, spoon, knife, fork. The flag of the United States has three colors, as do the flags of the United Kingdom, France, Italy, Argentina, the Russian Federation, Nepal, and many others. There are three medals in the Olympics. Three wise men appeared with three gifts for baby Jesus.
 
-Jesus himself is part of the Holy Trinity, the Father, Son, and the Holy Spirit. The rule of three helped get U. S. President Barack Obama elected. Yes, we can, voters chanted. Some of the world’s most famous brands are ING, UPS, IBM, SAP, CNN, and the BBC.
+Jesus himself is part of the Holy Trinity, the Father, Son, and the Holy Spirit. The rule of three helped get U. S. President Barack Obama elected.
 
-Three is everywhere. In writing and speaking, three is more satisfying than any other number. It’s no accident that threes are all around us. It worked for Jefferson.
+Yes, we can, voters chanted. Some of the world’s most famous brands are ING, UPS, IBM, SAP, CNN, and the BBC. Three is everywhere. In writing and speaking, three is more satisfying than any other number.
 
-It worked for the world’s greatest writers, and it works for many TED speakers. Dr. Jill, who delivered the second most popular presentation in TED history, divided her talk, stroke of insight, into three parts, each lasting six minutes. By doing so, the presentation was easier for her to remember and to deliver, and it made the presentation easier for the audience to follow. Here are some other examples of the rule of three in TED presentations, TED Talkers who talk in threes. You’ll recall Kevin Oloka from Chapter 6, the YouTube Trends Manager who gets paid to watch videos.
+It’s no accident that threes are all around us. It worked for Jefferson. It worked for the world’s greatest writers, and it works for many TED speakers. Dr.
+
+Jill, who delivered the second most popular presentation in TED history, divided her talk, stroke of insight, into three parts, each lasting six minutes. By doing so, the presentation was easier for her to remember and to deliver, and it made the presentation easier for the audience to follow. Here are some other examples of the rule of three in TED presentations, TED Talkers who talk in threes. You’ll recall Kevin Oloka from.
+
+#### Chapter 6, the YouTube Trends Manager who gets paid to watch videos.
 
 Actually, he studies the viral nature of popular videos. Oloka says 48 hours of video are uploaded to YouTube every minute, and only a tiny percentage go viral, generating millions of views in a short period of time. So how does it happen? Three things, according to Oloka, tastemakers, communities of participation, and unexpectedness.
 
@@ -2206,9 +2436,9 @@ Rick Elias talked about the three things he learned when his plane crashed. Miko
 
 It’s called TED in Three Minutes. It features snack-sized nuggets of inspiration from people like Ariana Huffington, the New York Times tech columnist David Pogue, and Terry Moore, who gave the first-ever three-minute TED Talk and showed the audience a better way to tie their shoes. The Shoe Talk has been viewed more than one and a half million times. People want to be taught something new, and they don’t want to wait too long to learn it.
 
-The Three-Story Structure In the spirit of the Rule of Three, many effective TED presenters and TED-worthy presenters use three stories as the outline for their presentations. One example, followed by a detailed explanation of how to create an outline of your own. Three Stories of Eco-Entrepreneurship Majora Carter says she likes to create an environment where all dreams can thrive. Carter has built a reputation as an expert in green infrastructure and how it can revitalize inner cities like the South Bronx, South Chicago, or New Orleans' Ninth Ward.
+The Three-Story Structure. In the spirit of the. Rule of Three, many effective TED presenters and TED-worthy presenters use three stories as the outline for their presentations. One example, followed by a detailed explanation of how to create an outline of your own.
 
-Carter’s 2006 TED Talk, titled Greening the Ghetto, was one of the first TED Talks to be posted online. Four years later, Carter was invited to give a TEDx Midwest presentation on the topic of
+Three Stories of Eco-Entrepreneurship Majora Carter says she likes to create an environment where all dreams can thrive. Carter has built a reputation as an expert in green infrastructure and how it can revitalize inner cities like the South Bronx, South Chicago, or New Orleans' Ninth Ward. Carter’s 2006 TED Talk, titled Greening the Ghetto, was one of the first TED Talks to be posted online. Four years later, Carter was invited to give a TEDx Midwest presentation on the topic of
 
 
 <a id="sec-061245"></a>
@@ -2220,23 +2450,23 @@ She hired seemingly unemployable men and women, many of whom had prison records 
 
 Lipkis linked trees, people, and technology to create a more livable city. The protagonist in Carter’s final story was a coal miner’s daughter, not Loretta Lynn but Judy Bonds, who introduced wind energy as a power source for her hometown in West Virginia. As Carter explained Bonds' plan, she paused and delivered the bad news. A few months ago, Judy was diagnosed with stage three lung cancer, and it has since moved to her bones and her brain.
 
-And I just find it so bizarre that she’s suffering from the same thing that she tried so hard to protect people from. But her dream of coal river mountain wind is her legacy, and she might not get to see that mountaintop, but rather than writing some kind of manifesto or something, she’s leaving behind a business plan to make it happen. Carter tied the three stories together with a central theme. They all understand how to productively channel dollars through our local economies to meet existing market demands, to reduce social problems, and to prevent new problems in the future.
+And. I just find it so bizarre that she’s suffering from the same thing that she tried so hard to protect people from. But her dream of coal river mountain wind is her legacy, and she might not get to see that mountaintop, but rather than writing some kind of manifesto or something, she’s leaving behind a business plan to make it happen. Carter tied the three stories together with a central theme.
 
-Three stories, three examples, three lessons that reinforce Carter’s theme. Build a message map in three easy steps. Forbes column, How to Pitch Anything in 15 Seconds. I introduced readers to an effective tool called a message map.
+They all understand how to productively channel dollars through our local economies to meet existing market demands, to reduce social problems, and to prevent new problems in the future. Three stories, three examples, three lessons that reinforce Carter’s theme. Build a message map in three easy steps. Forbes column, How to Pitch Anything in 15 Seconds.
 
-It’s perfect for a pitch or a presentation. The technique helps to keep your content clear and concise, but it doesn’t work unless you understand the rule of three. A message map is the visual display of your idea on one page. It’s a powerful tool that should be a part of your communication arsenal.
+I introduced readers to an effective tool called a message map. It’s perfect for a pitch or a presentation. The technique helps to keep your content clear and concise, but it doesn’t work unless you understand the rule of three. A message map is the visual display of your idea on one page.
 
-Using a message map can help you pitch anything, a product, a service, a company, an idea, in as little as 15 seconds, or it can help you shape the framework for a longer 18-minute presentation. Here is the three-step process for using a message map to build a winning pitch. For this exercise, you’ll need a notepad, a Word document, a PowerPoint slide, or even a simple whiteboard. Step one, create a Twitter-friendly headline.
+It’s a powerful tool that should be a part of your communication arsenal. Using a message map can help you pitch anything, a product, a service, a company, an idea, in as little as 15 seconds, or it can help you shape the framework for a longer 18-minute presentation. Here is the three-step process for using a message map to build a winning pitch. For this exercise, you’ll need a notepad, a Word document, a PowerPoint slide, or even a simple whiteboard.
 
-As you’ll recall from chapter four, the headline is the one single overarching message that you want your customers to know at the end of your presentation. Ask yourself, what is the single most important thing I want my listener to know about my product, my service, my brand, my idea?
+Step one, create a Twitter-friendly headline. As you’ll recall from chapter four, the headline is the one single overarching message that you want your customers to know at the end of your presentation. Ask yourself, what is the single most important thing. I want my listener to know about my product, my service, my brand, my idea?
 
 Now, draw a circle at the top of the message map and insert the answer to that question. That’s your headline. Remember, make sure that headline fits in a Twitter post, no more than 140 characters. If you can’t explain your product or your idea in 140 characters or less, go back to the drawing board.
 
-Step two, support the headline with three key messages. As we discussed earlier in the chapter, the human mind can process only about three pieces of information in short-term memory. When you’re designing a presentation outline, include the three supporting messages that support the overall theme. You’ll recall that Dr. Jill divided her popular TED Talk, My Stroke of Insight, into three sections that lasted six minutes each.
+Step two, support the headline with three key messages. As we discussed earlier in the chapter, the human mind can process only about three pieces of information in short-term memory. When you’re designing a presentation outline, include the three supporting messages that support the overall theme. You’ll recall that Dr.
 
-Here are the three sections. Part one, the circuitry of the brain, part two, the day of the stroke, and part three, the insight that she gained from the experience and what it offered about life, the world, and her place in it. Step three, reinforce the three messages with stories, statistics, and examples. Add bullet points to each of the three supporting messages.
+Jill divided her popular TED Talk, My Stroke of Insight, into three sections that lasted six minutes each. Here are the three sections. Part one, the circuitry of the brain, part two, the day of the stroke, and part three, the insight that she gained from the experience and what it offered about life, the world, and her place in it. Step three, reinforce the three messages with stories, statistics, and examples.
 
-You don’t have to write out the entire story. Instead, write a few words that will prompt you to deliver the story.
+Add bullet points to each of the three supporting messages. You don’t have to write out the entire story. Instead, write a few words that will prompt you to deliver the story.
 
 
 <a id="sec-061749"></a>
@@ -2250,11 +2480,13 @@ It’s one of the most effective and valuable communication tools you’ll ever 
 
 It’s critical to avoid overloading your audience. Remember, constrained presentations require more creativity.
 
-In other words, what isn’t there makes what is there even stronger. Number eight, paint a mental picture with multi-sensory experiences. It is better to present an explanation in words and pictures than solely in words. Dr. Richard Mayer, psychologist, University of California, Santa Barbara. Water isn’t emotionally vivid, unless you don’t have it.
+In other words, what isn’t there makes what is there even stronger. Number eight, paint a mental picture with multi-sensory experiences. It is better to present an explanation in words and pictures than solely in words. Dr.
 
-Then it becomes the only thing you ever think about. Michael Prichard was inspired to invent a portable water filtration system after the events of the Indian Ocean tsunami of 2004 at Hurricane Katrina in 2005. In those events, people died or became seriously ill because they lacked safe drinking water. Prichard invented the portable life saver filter, which turns filthy water into drinkable water.
+Richard Mayer, psychologist, University of California, Santa Barbara. Water isn’t emotionally vivid, unless you don’t have it. Then it becomes the only thing you ever think about. Michael Prichard was inspired to invent a portable water filtration system after the events of the Indian Ocean tsunami of 2004 at Hurricane Katrina in 2005.
 
-In 2009, Prichard delivered a TED presentation about his invention. It’s been viewed more than three million times, garnering attention any entrepreneur would envy. Prichard opens the presentation with a photograph of a little boy dressed in rags scooping up rancid dirty water from a muddy field. And he says, now I see you’ve all been enjoying the water that’s been provided for you here at the conference over the past couple of days, and I’m sure you’ll feel that it’s from a safe source.
+In those events, people died or became seriously ill because they lacked safe drinking water. Prichard invented the portable life saver filter, which turns filthy water into drinkable water. In 2009, Prichard delivered a TED presentation about his invention. It’s been viewed more than three million times, garnering attention any entrepreneur would envy.
+
+Prichard opens the presentation with a photograph of a little boy dressed in rags scooping up rancid dirty water from a muddy field. And he says, now. I see you’ve all been enjoying the water that’s been provided for you here at the conference over the past couple of days, and. I’m sure you’ll feel that it’s from a safe source.
 
 But what if it isn’t? What if it was from a source like this? Then statistics would actually say that half of you would now be suffering from diarrhea. Prichard had grabbed the attention of the audience right out of the gate.
 
@@ -2262,11 +2494,13 @@ Remember we talked about that jaw dropping moment. And he did so with a simple y
 
 He walks up to a fish tank, filled about three quarters with water he took from the nearby river Thames. It’s mostly clear and only slightly murky. And here’s what he said. I got to thinking, you know, if we were in the middle of a flood zone in Bangladesh, the water wouldn’t look like this.
 
-So I’ve gone and got some stuff to add into it. And with that, Prichard begins adding more water, water from his pond, from a sewage runoff and in an act that really turned up the emotional vividness of the demonstration, he called it a gift from a friend’s rabbit. Prichard used his device to scoop up some of the water from the fish tank, gave it a few pumps and poured clean, safe drinking water into a glass. He drank it, as did Ted Curator, Chris Anderson, who was seated near the stage.
+So. I’ve gone and got some stuff to add into it. And with that, Prichard begins adding more water, water from his pond, from a sewage runoff and in an act that really turned up the emotional vividness of the demonstration, he called it a gift from a friend’s rabbit. Prichard used his device to scoop up some of the water from the fish tank, gave it a few pumps and poured clean, safe drinking water into a glass.
 
-The entire demonstration lasted no more than three minutes. Prichard’s presentation consisted of photographs, statistics, and demonstration. It wasn’t one thing that made his presentation especially memorable, it was all three. Secret number eight, paint a mental picture with multi-sensory experiences.
+He drank it, as did Ted Curator, Chris Anderson, who was seated near the stage. The entire demonstration lasted no more than three minutes. Prichard’s presentation consisted of photographs, statistics, and demonstration. It wasn’t one thing that made his presentation especially memorable, it was all three.
 
-Deliver presentation with components that touch more than one of the senses, sight, sound, touch, taste, and smell. Why it works. Remember, the brain does not pay attention to boring things. It’s nearly impossible to be bored if you’re exposed to mesmerizing images, captivating videos, intriguing props, beautiful words, and more than one voice bringing the story
+Secret number eight, paint a mental picture with multi-sensory experiences. Deliver presentation with components that touch more than one of the senses, sight, sound, touch, taste, and smell. Why it works. Remember, the brain does not pay attention to boring things.
+
+It’s nearly impossible to be bored if you’re exposed to mesmerizing images, captivating videos, intriguing props, beautiful words, and more than one voice bringing the story
 
 
 <a id="sec-062250"></a>
@@ -2274,81 +2508,93 @@ Deliver presentation with components that touch more than one of the senses, sig
 
 to life. Nobody is going to ask you to build multi-sensory elements into your presentation, but once they experience it, they’ll love every minute of it. The brain craves multi-sensory experiences. Your audience might not be able to explain why they love your presentation.
 
-It’ll be your little secret. Multimedia experiences enhance learning. Several years ago, I had a conversation with Dr. Richard Mayer, a professor of psychology at UC Santa Barbara, and the principal proponent of what’s called multimedia learning. In a study titled A Cognitive Theory of Multimedia Learning, Mayer suggests that it’s far more effective to explain concepts using multiple methods of sensory inputs, such as auditory, visual, and kinesthetic.
+It’ll be your little secret. Multimedia experiences enhance learning. Several years ago, I had a conversation with Dr. Richard Mayer, a professor of psychology at UC Santa Barbara, and the principal proponent of what’s called multimedia learning.
 
-Mayer is convinced that one of the most important areas of study in cognitive psychology is the understanding of how multimedia can foster student learning. In Mayer’s experiments, students who were exposed to multi-sensory environments, text, pictures, animation, and video, always, not sometimes always, had much more accurate recall of the information than those students who only heard or who only read the information. Mayer said the principal should not be surprising. When the brain is allowed to build two mental representations of an explanation, a verbal model and a visual model, the mental connections are not just a little stronger, they are much much stronger.
+In a study titled A Cognitive Theory of Multimedia Learning, Mayer suggests that it’s far more effective to explain concepts using multiple methods of sensory inputs, such as auditory, visual, and kinesthetic. Mayer is convinced that one of the most important areas of study in cognitive psychology is the understanding of how multimedia can foster student learning. In Mayer’s experiments, students who were exposed to multi-sensory environments, text, pictures, animation, and video, always, not sometimes always, had much more accurate recall of the information than those students who only heard or who only read the information.
 
-Add in a sense of touch, and you’ve really got a winner. The differences between two types of learning, auditory and visual, were even more striking when the audience, the people learning the information, lacked prior knowledge of the material. Students who had a high prior knowledge of the content can generate their own mental images while simply listening or reading. Think about the most important presentations you deliver.
+Mayer said the principal should not be surprising. When the brain is allowed to build two mental representations of an explanation, a verbal model and a visual model, the mental connections are not just a little stronger, they are much much stronger. Add in a sense of touch, and you’ve really got a winner. The differences between two types of learning, auditory and visual, were even more striking when the audience, the people learning the information, lacked prior knowledge of the material.
 
-They’re probably given to people with low prior knowledge of information. For example, pitching a new idea, product, company, or campaign, explaining new rules, processes, or guidelines, teaching students on the first day of a class, training employees or salespeople on new tools or customer service initiatives, selling a product to a customer who’s never heard or used it, launching a unique revolutionary product or service, asking an investor for money to grow your company. In each of these cases, a multi-sensory experience often leads to the best results.
+Students who had a high prior knowledge of the content can generate their own mental images while simply listening or reading. Think about the most important presentations you deliver. They’re probably given to people with low prior knowledge of information.
 
-These audiences are made up of human beings who might be skeptical and hard to persuade, but they are not immune to the psychology that drives our behavior. We respond to visual, auditory, and tactile stimulation. Great public speakers know this, and they build presentations around one of the senses predominantly, but they incorporate at least one or two others, sight, sound, touch, smell, and taste. Smell and taste are harder to incorporate in a presentation for obvious reasons, but Pritchard offers an example of how to stimulate both senses without physically touching the audience.
+For example, pitching a new idea, product, company, or campaign, explaining new rules, processes, or guidelines, teaching students on the first day of a class, training employees or salespeople on new tools or customer service initiatives, selling a product to a customer who’s never heard or used it, launching a unique revolutionary product or service, asking an investor for money to grow your company. In each of these cases, a multi-sensory experience often leads to the best results. These audiences are made up of human beings who might be skeptical and hard to persuade, but they are not immune to the psychology that drives our behavior.
 
-If a person imagines how water smells or tastes, it triggers the same areas of the brain as if the person had actually ingested the water. So with smell and taste out of the way, let’s focus on the other senses, sight, sound, and touch. See it. In presentation slides, use pictures instead of text whenever possible.
+We respond to visual, auditory, and tactile stimulation. Great public speakers know this, and they build presentations around one of the senses predominantly, but they incorporate at least one or two others, sight, sound, touch, smell, and taste. Smell and taste are harder to incorporate in a presentation for obvious reasons, but Pritchard offers an example of how to stimulate both senses without physically touching the audience. If a person imagines how water smells or tastes, it triggers the same areas of the brain as if the person had actually ingested the water.
 
-Your audience is far more likely to recall information when it’s delivered in a combination of pictures and text rather than text alone. Because vision trumps all of the other senses, I devote a large portion of this chapter to the technique of making your presentation more visual. Taking your audience on a journey with the pictures you paint is part art and part science. You must think creatively about transferring your ideas to visually engaging images.
+So with smell and taste out of the way, let’s focus on the other senses, sight, sound, and touch. See it. In presentation slides, use pictures instead of text whenever possible. Your audience is far more likely to recall information when it’s delivered in a combination of pictures and text rather than text alone.
 
-For 30 years, the world’s best minds have captivated TED audiences around the world with powerful, captivating, inspiring, and memorable images. That’s how they get their ideas to spread. Al Gore’s multimedia presentation ignites the climate change movement. Former U. S. Vice President Al Gore won the Nobel Peace Prize in 2007 for his work on global warming.
+Because vision trumps all of the other senses, I devote a large portion of this chapter to the technique of making your presentation more visual. Taking your audience on a journey with the pictures you paint is part art and part science. You must think creatively about transferring your ideas to visually engaging images. For 30 years, the world’s best minds have captivated TED audiences around the world with powerful, captivating, inspiring, and memorable images.
 
-Gore was the highlight of the TED conference in Monterey the preceding year, where he displayed some of the same slides he had made famous in the Academy Award-winning documentary An Inconvenient Truth. When Al Gore won the Nobel Peace Prize, the TED online community asked TEDsters, who had
+That’s how they get their ideas to spread. Al Gore’s multimedia presentation ignites the climate change movement. Former U. S.
+
+Vice President Al Gore won the Nobel Peace Prize in 2007 for his work on global warming. Gore was the highlight of the TED conference in Monterey the preceding year, where he displayed some of the same slides he had made famous in the Academy Award-winning documentary An Inconvenient Truth. When Al Gore won the Nobel Peace Prize, the TED online community asked TEDsters, who had
 
 
 <a id="sec-062755"></a>
 ### ⏱️ [06:27:55 - 06:32:56]
 
-seen Gore’s presentation at the conference, how that presentation had impacted them or changed their lives. Here are some of the responses. Al Gore’s talk at TED opened my eyes to what I needed to do for my grandchildren’s generation, and I now consider the impact we have on our Earth in every venture we undertake. Howard Morgan, Venture Capitalist.
+seen Gore’s presentation at the conference, how that presentation had impacted them or changed their lives. Here are some of the responses. Al Gore’s talk at TED opened my eyes to what. I needed to do for my grandchildren’s generation, and.
 
-Gore’s TED presentation on the climate crisis was at once riveting and inspiring. His passion was so evident, it prompted me to share the talk with our children, and our eldest, Charlie, now 11, has become a one-man global warming marketing machine. Charlie has created his own PowerPoint presentation, which he shares with virtually everyone he meets. Jeff Levy, CEO.
+I now consider the impact we have on our Earth in every venture we undertake. Howard Morgan, Venture Capitalist. Gore’s TED presentation on the climate crisis was at once riveting and inspiring. His passion was so evident, it prompted me to share the talk with our children, and our eldest, Charlie, now 11, has become a one-man global warming marketing machine.
 
-Al Gore’s talk at TED 2006 was a turning point in my life. David S. Rose, Angel Investor. These are just a few of the remarks from people who have been inspired after watching Gore’s presentation on the threat of global warming, its causes, and what people can do about it.
+Charlie has created his own PowerPoint presentation, which he shares with virtually everyone he meets. Jeff Levy, CEO. Al Gore’s talk at TED 2006 was a turning point in my life. David S.
 
-Al Gore’s slideshow, designed with keynote presentation software, is an astonishing example of how the visual display of information has the power to inspire action. The TED audience assembled in Monterey in February 2006 got a preview of the slides that would appear in a movie a few months later. The story behind An Inconvenient Truth begins two years earlier. On May 27, 2004, during a New York City appearance after the premiere of the film The Day After Tomorrow, Gore gave an abbreviated 10-minute version of his presentation at a town hall meeting about climate change.
+Rose, Angel Investor. These are just a few of the remarks from people who have been inspired after watching Gore’s presentation on the threat of global warming, its causes, and what people can do about it. Al Gore’s slideshow, designed with keynote presentation software, is an astonishing example of how the visual display of information has the power to inspire action. The TED audience assembled in Monterey in February 2006 got a preview of the slides that would appear in a movie a few months later.
 
-Producer Lori David was in the audience. I had never seen him before, and I was floored, she said. As soon as the evening’s program concluded, I asked him to let me present his full briefing to leaders and friends in the audience. New York and Los Angeles.
+The story behind An Inconvenient Truth begins two years earlier. On May 27, 2004, during a New York City appearance after the premiere of the film The Day. After Tomorrow, Gore gave an abbreviated 10-minute version of his presentation at a town hall meeting about climate change. Producer Lori David was in the audience.
 
-I would do all the organizing if he would commit to the dates. Gore’s presentation was the most powerful and clear explanation of global warming I had ever seen, and it became my mission to get everyone I knew to see it too. Think about what Lori David said, the most powerful and clear explanation she had ever seen. If Gore had not used slides to visualize the topic of global warming, he would have stood little chance of inspiring Lori David to make a movie based on it.
+I had never seen him before, and. I was floored, she said. As soon as the evening’s program concluded, I asked him to let me present his full briefing to leaders and friends in the audience. New York and Los Angeles.
 
-David was inspired because she had experienced a multimedia event that looked more like a movie than a typical presentation. If Gore had simply read the text with no supporting visuals, few people would have been inspired or intrigued. His ideas would have been lost or, at best, relegated to a very small group of individuals who were exceptionally engaged in the topic. The visual display of complex information made the topic clear and easy to grasp.
+I would do all the organizing if he would commit to the dates. Gore’s presentation was the most powerful and clear explanation of global warming. I had ever seen, and it became my mission to get everyone. I knew to see it too.
 
-Gore understands that complex material requires a simple explanation, and more pictures to help the audience understand the concepts. Now, remember Titanic explorer Robert Ballard, who I talked about in Chapter 4? His 2008 TED presentation contained 57 slides, and guess what? There were no words on any slide.
+Think about what Lori David said, the most powerful and clear explanation she had ever seen. If Gore had not used slides to visualize the topic of global warming, he would have stood little chance of inspiring Lori David to make a movie based on it. David was inspired because she had experienced a multimedia event that looked more like a movie than a typical presentation. If Gore had simply read the text with no supporting visuals, few people would have been inspired or intrigued.
 
-He showed photographs and images and artist renderings of the fascinating undersea worlds he had discovered, but no text. I asked him, why? Why no text on your slides? Ballard told me, because I’m storytelling, not lecturing.
+His ideas would have been lost or, at best, relegated to a very small group of individuals who were exceptionally engaged in the topic. The visual display of complex information made the topic clear and easy to grasp. Gore understands that complex material requires a simple explanation, and more pictures to help the audience understand the concepts.
 
-Presentation design expert and author of Resonate, Nancy Duarte, created the slides for Al Gore’s global warming presentation. I know Nancy very well, and we share an aesthetic for slide design and a philosophy of how presentations can truly transform the world. According to Duarte, a single idea can start a groundswell. It can be a flashpoint for a movement, and it can actually rewrite our future.
+Now, remember Titanic explorer Robert Ballard, who. I talked about in.
 
-But an idea is powerless if it stays inside of you. If you communicate an idea in a way that resonates, change will happen. The end of PowerPoint as we know it. TED represents the end of PowerPoint as we know it.
+#### Chapter 4?
 
-Since we’re all sick of death by PowerPoint, it’s time to kill it permanently. Let me be clear. I’m not advocating the end of PowerPoint as a tool, but the end of traditional PowerPoint design, cluttered with text and bullet points. The average PowerPoint slide has 40 words.
+His 2008 TED presentation contained 57 slides, and guess what? There were no words on any slide. He showed photographs and images and artist renderings of the fascinating undersea worlds he had discovered, but no text. I asked him, why?
 
-It’s nearly impossible to find one slide
+Why no text on your slides? Ballard told me, because. I’m storytelling, not lecturing. Presentation design expert and author of Resonate, Nancy Duarte, created the slides for Al Gore’s global warming presentation.
+
+I know Nancy very well, and we share an aesthetic for slide design and a philosophy of how presentations can truly transform the world. According to Duarte, a single idea can start a groundswell. It can be a flashpoint for a movement, and it can actually rewrite our future. But an idea is powerless if it stays inside of you.
+
+If you communicate an idea in a way that resonates, change will happen. The end of PowerPoint as we know it. TED represents the end of PowerPoint as we know it. Since we’re all sick of death by PowerPoint, it’s time to kill it permanently.
+
+Let me be clear. I’m not advocating the end of PowerPoint as a tool, but the end of traditional PowerPoint design, cluttered with text and bullet points. The average PowerPoint slide has 40 words. It’s nearly impossible to find one slide
 
 
 <a id="sec-063256"></a>
 ### ⏱️ [06:32:56 - 06:37:57]
 
-in a TED presentation that contains anywhere near 40 words, and these presentations are considered among the best in the world. Brené Brown is a research professor at the University of Houston’s Graduate College of Social Work. Her presentation that I introduced earlier, The Power of Vulnerability, has been viewed more than 7 million times. Brown did not get the memo that the average PowerPoint slide has 40 words, and it’s a good thing she didn’t.
+in a TED presentation that contains anywhere near 40 words, and these presentations are considered among the best in the world. Brené Brown is a research professor at the University of Houston’s Graduate College of Social Work. Her presentation that. I introduced earlier, The Power of Vulnerability, has been viewed more than 7 million times.
 
-Cluttered slides detract from the message. Brown slides complimented the narrative. How? She used images to replace words whenever possible.
+Brown did not get the memo that the average PowerPoint slide has 40 words, and it’s a good thing she didn’t. Cluttered slides detract from the message. Brown slides complimented the narrative. How?
 
-As a result, it took Brown 25 slides before she hit 40 words, the number of words on a single PowerPoint slide in most presentations. For example, Brown started her presentation with a personal history of her experience as a doctoral student. Her first research professor would tell her, if you can’t measure it, it doesn’t exist. For the next two minutes, as she spoke, Brown’s audience saw only that sentence, the quote from her professor.
+She used images to replace words whenever possible. As a result, it took Brown 25 slides before she hit 40 words, the number of words on a single PowerPoint slide in most presentations.
 
-That’s all they saw on the screen. She followed the slide with a picture of a baby’s fingers in the hands of a mother as she spoke about her study into interpersonal connections. Brown scored points with the audience by using her slides as a backdrop to her story, and not as a replacement for the story that she delivered verbally. Viewers were captivated by Brown’s message, content, and story structure.
+For example, Brown started her presentation with a personal history of her experience as a doctoral student. Her first research professor would tell her, if you can’t measure it, it doesn’t exist. For the next two minutes, as she spoke, Brown’s audience saw only that sentence, the quote from her professor. That’s all they saw on the screen.
 
-If Brown had forced them to read wordy slides as she spoke, the message would have been lost. Why? Because the brain cannot multitask as well as you think it does. Multitasking is a myth.
+She followed the slide with a picture of a baby’s fingers in the hands of a mother as she spoke about her study into interpersonal connections. Brown scored points with the audience by using her slides as a backdrop to her story, and not as a replacement for the story that she delivered verbally. Viewers were captivated by Brown’s message, content, and story structure. If Brown had forced them to read wordy slides as she spoke, the message would have been lost.
 
-According to Professor John Medina, who I’ve mentioned earlier, multitasking, when it comes to paying attention, is a myth. Medina acknowledges that the brain does multitask at some level. After all, you can walk and talk at the same time. But when it comes to the brain’s ability to pay attention to a lecture, conversation, or presentation, it is simply incapable of paying equal attention to multiple items. According to Medina, to put it bluntly, research shows that we can’t multitask.
+Why? Because the brain cannot multitask as well as you think it does. Multitasking is a myth. According to Professor John Medina, who.
 
-We are biologically incapable of processing attention-rich inputs simultaneously. Think about it. Aren’t we adding an impossible load on our audience when we ask them to listen intently to our words, and read a lengthy PowerPoint slide at the same time? It’s impossible for them to do both.
+I’ve mentioned earlier, multitasking, when it comes to paying attention, is a myth. Medina acknowledges that the brain does multitask at some level. After all, you can walk and talk at the same time. But when it comes to the brain’s ability to pay attention to a lecture, conversation, or presentation, it is simply incapable of paying equal attention to multiple items.
 
-So how do you engage the audience, make an emotional connection with them, and get them to pay attention without being distracted? Once again, neuroscience has the answer. It’s called the picture superiority effect. Pictures are superior.
+According to Medina, to put it bluntly, research shows that we can’t multitask. We are biologically incapable of processing attention-rich inputs simultaneously. Think about it. Aren’t we adding an impossible load on our audience when we ask them to listen intently to our words, and read a lengthy PowerPoint slide at the same time?
 
-Scientists have produced a mountain of evidence showing that concepts presented as pictures instead of words are more likely to be recalled. Put simply, visuals matter. A lot. If you hear information, you are likely to remember about ten percent of that information three days later.
+It’s impossible for them to do both. So how do you engage the audience, make an emotional connection with them, and get them to pay attention without being distracted? Once again, neuroscience has the answer. It’s called the picture superiority effect.
 
-Add a picture, however, and your recall rate will soar to 65 percent. To put that into context, a picture will help you remember six times more information than listening to the words alone. According to Medina, human PSE, picture superiority effect, is truly Olympian. Tests performed years ago showed that people could remember more than 2,500 pictures with at least 90 percent accuracy several days after exposure, even though the subject saw those pictures for only ten seconds.
+Pictures are superior. Scientists have produced a mountain of evidence showing that concepts presented as pictures instead of words are more likely to be recalled. Put simply, visuals matter. A lot.
 
-Accuracy rates a year later still hovered around 63 percent. Sprinkle throughout these experiments were comparisons with other forms of communication, usually text or oral presentation. The usual result was that PSE demolishes them both, and it still does. Our brains are wired to process visual information, pictures, very differently than text and sound.
+If you hear information, you are likely to remember about ten percent of that information three days later. Add a picture, however, and your recall rate will soar to 65 percent. To put that into context, a picture will help you remember six times more information than listening to the words alone. According to Medina, human PSE, picture superiority effect, is truly Olympian.
 
-Scientists call the effect multimodal learning. Pictures are processed in several channels instead of one, giving the brain a far deeper and meaningful encoding experience. The University of Western Ontario psychology professor, Alan Pavio, was the first to introduce a dual coding theory. According to his theory, visual and verbal information are stored
+Tests performed years ago showed that people could remember more than 2,500 pictures with at least 90 percent accuracy several days after exposure, even though the subject saw those pictures for only ten seconds. Accuracy rates a year later still hovered around 63 percent. Sprinkle throughout these experiments were comparisons with other forms of communication, usually text or oral presentation. The usual result was that PSE demolishes them both, and it still does.
+
+Our brains are wired to process visual information, pictures, very differently than text and sound. Scientists call the effect multimodal learning. Pictures are processed in several channels instead of one, giving the brain a far deeper and meaningful encoding experience. The University of Western Ontario psychology professor, Alan Pavio, was the first to introduce a dual coding theory.
+
+According to his theory, visual and verbal information are stored
 
 
 <a id="sec-063757"></a>
@@ -2356,7 +2602,9 @@ Scientists call the effect multimodal learning. Pictures are processed in severa
 
 separately in our memory. They can be stored as images, words, or both. Concepts that are learned in picture form are encoded as both visual and verbal. Words are encoded only verbally.
 
-In other words, pictures are more richly stamped on our brains, and easier to recall. For example, if I ask you to remember the word dog, your brain will register it as a verbal code. If I show you a picture of a dog, and I ask you to remember the word dog, the concept will be recorded visually and verbally, significantly increasing the chance that you will recall the concept.
+In other words, pictures are more richly stamped on our brains, and easier to recall. For example, if. I ask you to remember the word dog, your brain will register it as a verbal code. If.
+
+I show you a picture of a dog, and. I ask you to remember the word dog, the concept will be recorded visually and verbally, significantly increasing the chance that you will recall the concept.
 
 Now, dogs are familiar, and if you’re familiar with a concept, it increases your ability to recall it later. If, however, you are unfamiliar with the material, much like the presentation of new information, as you would hear in a TED style presentation, storing the concept as pictures and words is much more effective. MRI studies have confirmed Pavio’s theory. Today we know that students who learn through pictures and words recall the information more vividly than those students who learn only through text.
 
@@ -2364,23 +2612,23 @@ Researchers also use the term multimedia principle. Retention is improved throug
 
 Since Bill Gates left Microsoft to dedicate his efforts to philanthropy, he’s been thinking about how to communicate complex topics simply. Gates tackles topics ranging from cutting carbon emissions to reforming education to helping the poorest two billion people, mostly children, live better lives. Those are complex problems with complex solutions. What’s not complex are Gates’s slides.
 
-They are models of clarity and picture superiority. At TED 2010, Gates gave the very popular presentation titled innovating to zero. U2's lead singer Bono said the presentation gave him hope and it ranked among his all-time favorite TED talks. Remember when I said the average PowerPoint slide has 40 words?
+They are models of clarity and picture superiority. At TED 2010, Gates gave the very popular presentation titled innovating to zero. U2's lead singer Bono said the presentation gave him hope and it ranked among his all-time favorite TED talks. Remember when.
 
-It took Gates 15 slides to reach 40 words. Instead of words, he showed photos and images. Gates’s first slide showed a photograph of poor children in a small African village. He said energy and climate are extremely important to these people.
+I said the average PowerPoint slide has 40 words? It took Gates 15 slides to reach 40 words. Instead of words, he showed photos and images. Gates’s first slide showed a photograph of poor children in a small African village.
 
-In fact, more important than to anyone else on the planet. The climate getting worse means that many years their crops won’t grow. There will be too much rain, not enough rain. Things will change in ways that their fragile environment simply cannot support and that leads to starvation.
+He said energy and climate are extremely important to these people. In fact, more important than to anyone else on the planet. The climate getting worse means that many years their crops won’t grow. There will be too much rain, not enough rain.
 
-It leads to uncertainty. It leads to unrest. So the climate changes will be terrible for them. Gates is remarkable at making complex content easy to grasp.
+Things will change in ways that their fragile environment simply cannot support and that leads to starvation. It leads to uncertainty. It leads to unrest. So the climate changes will be terrible for them.
 
-He explained global warming in seven seconds and used a very straightforward visual to do it. According to Gates, CO2 gets emitted. That leads to a temperature increase and that temperature increase leads to some very negative effects. Bill Gates’s slide was remarkably simple and visual.
+Gates is remarkable at making complex content easy to grasp. He explained global warming in seven seconds and used a very straightforward visual to do it. According to Gates, CO2 gets emitted. That leads to a temperature increase and that temperature increase leads to some very negative effects.
 
-It showed a parched earth, clouds and a simple formula. CO2 leads to temperature increase, leads to negative effects. If you’d like to see all of the slides, visit TED.com and search for the presentation titled innovating to zero. The scrambled egg video that launched a global movement.
+Bill Gates’s slide was remarkably simple and visual. It showed a parched earth, clouds and a simple formula. CO2 leads to temperature increase, leads to negative effects. If you’d like to see all of the slides, visit TED.com and search for the presentation titled innovating to zero.
 
-You’ll recall that one of Bill Gates’s favorite presentations on TED.com is David Christians, the history of our world in 18 minutes. Christian’s presentation plays on the senses, especially the visual sense. In the first two and a half minutes of Christian’s presentation, there’s no text on any of his slides. Christian walked on stage and said, first a video.
+The scrambled egg video that launched a global movement. You’ll recall that one of Bill Gates’s favorite presentations on TED.com is David Christians, the history of our world in 18 minutes. Christian’s presentation plays on the senses, especially the visual sense. In the first two and a half minutes of Christian’s presentation, there’s no text on any of his slides.
 
-The audience then saw a video of what appeared to be an egg being scrambled. It soon became clear that the video was actually in reverse, showing the egg being unscrambled, the yolk and the white coming back together and heading upward into the eggshell. Christian told the audience that the video should make them uneasy because it’s not natural. The universe doesn’t work that way.
+Christian walked on stage and said, first a video. The audience then saw a video of what appeared to be an egg being scrambled. It soon became clear that the video was actually in reverse, showing the egg being unscrambled, the yolk and the white coming back together and heading upward into the eggshell. Christian told the audience that the video should make them uneasy because it’s not natural.
 
-A scrambled egg is mush. An egg is a beautiful sophisticated thing that can create even more sophisticated things such as chickens. And we know in our heart of hearts that the universe does
+The universe doesn’t work that way. A scrambled egg is mush. An egg is a beautiful sophisticated thing that can create even more sophisticated things such as chickens. And we know in our heart of hearts that the universe does
 
 
 <a id="sec-064300"></a>
@@ -2394,47 +2642,51 @@ Use visuals to enhance words, not duplicate. TED commandment. Bono gets a rise o
 
 That’s exactly what U2's lead singer Bono did when he delivered the data showing the progress that mankind has made in reducing extreme poverty, defined as $1.25 a day. He said, the number of people living and backbreaking, soul-crushing, extreme poverty has declined from 43 percent of the world’s population in 1990 to 33 percent by 2000 and 21 percent by 2010. If you live on less than $1.25 a day, this is not just data, it’s everything. This rapid transition is a road out of despair and into hope.
 
-If current trends continue, the amount of people living on $1.25 a day gets to zero by 2030. For number the zero zone is the erogenous zone. Bono said this as the audience laughed and applauded. Bono’s slides were professionally designed, which I would recommend for anyone who has a mission critical presentation, especially one intended to be delivered to several audiences or important enough to attract new customers or investments.
+If current trends continue, the amount of people living on $1.25 a day gets to zero by 2030. For number the zero zone is the erogenous zone. Bono said this as the audience laughed and applauded. Bono’s slides were professionally designed, which.
 
-Watch Bono’s performance on TED.com. Pay attention to the one technique that is common to all good presentation design. One theme per slide. When presenters delivered data, they often bombard the audience with an avalanche of numbers and charts, all in one view.
+I would recommend for anyone who has a mission critical presentation, especially one intended to be delivered to several audiences or important enough to attract new customers or investments. Watch Bono’s performance on TED.com. Pay attention to the one technique that is common to all good presentation design. One theme per slide.
 
-Every time Bono delivered a statistic, the number, and that number only appeared on the slide. Bono advanced one slide per data point. When he said that extreme poverty had been halved since the year 2000, the slide simply read extreme poverty halved. This technique of making numbers and data visually appealing is effective at getting your listeners to notice and to care about the impressive statistics behind your content.
+When presenters delivered data, they often bombard the audience with an avalanche of numbers and charts, all in one view. Every time Bono delivered a statistic, the number, and that number only appeared on the slide. Bono advanced one slide per data point. When he said that extreme poverty had been halved since the year 2000, the slide simply read extreme poverty halved.
 
-Bono continued with a litany of numbers that show life is getting better for many of the world’s poor people. Now listen carefully to the next portion of Bono’s presentation. Since the year 2000, there are eight million more AIDS patients getting life-saving drugs. Malaria.
+This technique of making numbers and data visually appealing is effective at getting your listeners to notice and to care about the impressive statistics behind your content. Bono continued with a litany of numbers that show life is getting better for many of the world’s poor people. Now listen carefully to the next portion of Bono’s presentation. Since the year 2000, there are eight million more AIDS patients getting life-saving drugs.
 
-There are eight countries in Sub-Saharan Africa that have their death rates cut by 75%. For kids under five, child mortality is down by 2.85 million deaths. That’s a rate of 7,256 children’s lives saved each day. Wow, have you read anything anywhere in the last week that is remotely as important as that number?
+Malaria. There are eight countries in Sub-Saharan Africa that have their death rates cut by 75%. For kids under five, child mortality is down by 2.85 million deaths. That’s a rate of 7,256 children’s lives saved each day.
 
-Now that’s what Bono said. If you just listen to that paragraph and you had done nothing more, neuroscience tells us you might remember about 10% of that information if I ask you to recall it three days from now. Add a picture, however, and your attention goes up to 65%. So that’s exactly what Bono did.
+Wow, have you read anything anywhere in the last week that is remotely as important as that number? Now that’s what Bono said. If you just listen to that paragraph and you had done nothing more, neuroscience tells us you might remember about 10% of that information if. I ask you to recall it three days from now.
 
-He verbally communicated the content and used multimedia, mostly in the form of visuals, to reinforce the data. Bono’s multimedia presentation included charts, graphs, photographs. No matter how cleanly presented your charts are, a person’s eyes are going to gloss over slides that show chart after chart after chart. So Bono added stories and photographs to break up the slides and to give the eyes a rest.
+Add a picture, however, and your attention goes up to 65%. So that’s exactly what Bono did. He verbally communicated the content and used multimedia, mostly in the form of visuals, to reinforce the data. Bono’s multimedia presentation included charts, graphs, photographs.
 
-He also brought the data to life by including personal stories of those lives behind the data. For example, he told this story. 7,000 kids a day have their lives saved. Here’s two of them, Michael and Benedicta. They are alive today thanks in large part to
+No matter how cleanly presented your charts are, a person’s eyes are going to gloss over slides that show chart after chart after chart. So Bono added stories and photographs to break up the slides and to give the eyes a rest. He also brought the data to life by including personal stories of those lives behind the data.
+
+For example, he told this story. 7,000 kids a day have their lives saved. Here’s two of them, Michael and Benedicta. They are alive today thanks in large part to
 
 
 <a id="sec-064805"></a>
 ### ⏱️ [06:48:05 - 06:53:07]
 
-their nurse, Dr. Patricia Asamoah and the Global Fund. Bono at that point showed two slides as he delivered those sentences. The first was a close-up picture of two smiling children, Michael and Benedicta. The second showed a photo of Dr. Asamoah in what appeared to be a small village.
+their nurse, Dr. Patricia Asamoah and the Global Fund. Bono at that point showed two slides as he delivered those sentences. The first was a close-up picture of two smiling children, Michael and Benedicta.
 
-And this is the way you want to deliver data. Deliver one statistic per slide, followed by a photograph or image to give the brain a break from the monotony of the graphs, tables, and charts. Although Bono’s stories were stimulating to hear, the real impact of this presentation lies with his skillful use of visuals. 32,000 Barbie dolls. Photographer Chris Jordan plays with Barbie dolls.
+The second showed a photo of Dr. Asamoah in what appeared to be a small village. And this is the way you want to deliver data. Deliver one statistic per slide, followed by a photograph or image to give the brain a break from the monotony of the graphs, tables, and charts.
 
-In February 2008, Jordan showed the TED audience a photograph he had taken with about 50 Barbie dolls placed in circular patterns. Jordan advanced to a second photograph, a larger view of the first, that showed many thousands of Barbie dolls. If you didn’t know they were Barbie dolls, you would think the photo was of a beautiful floral painting. The third and final photograph of the series pulled out even further and revealed a silhouette of a woman’s breasts.
+Although Bono’s stories were stimulating to hear, the real impact of this presentation lies with his skillful use of visuals. 32,000 Barbie dolls. Photographer Chris Jordan plays with Barbie dolls. In February 2008, Jordan showed the TED audience a photograph he had taken with about 50 Barbie dolls placed in circular patterns. Jordan advanced to a second photograph, a larger view of the first, that showed many thousands of Barbie dolls.
 
-And here’s what Jordan said. As you get all the way back, you see 32,000 Barbie dolls, which represents the number of breast augmentation surgeries performed in the U. S. each month. The vast majority of those are on women under the age of 21. It’s rapidly becoming the most popular high school graduation gift given to young girls about to go off to college.
+If you didn’t know they were Barbie dolls, you would think the photo was of a beautiful floral painting. The third and final photograph of the series pulled out even further and revealed a silhouette of a woman’s breasts. And here’s what Jordan said. As you get all the way back, you see 32,000 Barbie dolls, which represents the number of breast augmentation surgeries performed in the U.
 
-Jordan is another master of packaging data in visually appealing ways. In another art piece, Jordan wanted to visualize the number of people who die each year from cigarette smoking. The first photograph showed a close-up of cigarette boxes stacked on top of one another. As Jordan pulled back, the next photographs revealed the big picture.
+S. each month. The vast majority of those are on women under the age of 21. It’s rapidly becoming the most popular high school graduation gift given to young girls about to go off to college. Jordan is another master of packaging data in visually appealing ways.
 
-He had recreated Vincent van Gogh’s 1886 masterpiece, Skull of a Skeleton with a Burning Cigarette, with thousands of cigarette packets. Jordan believes that it’s difficult for the average person to make meaning out of enormous statistics, yet these statistics reveal some very troubling issues in our society, issues that can evoke a more visceral response from people when visually and creatively presented. Very much in the way Bono gets a rise out of data, Jordan believes that by feeling big numbers, we can do something about it.
+In another art piece, Jordan wanted to visualize the number of people who die each year from cigarette smoking. The first photograph showed a close-up of cigarette boxes stacked on top of one another. As Jordan pulled back, the next photographs revealed the big picture. He had recreated Vincent van Gogh’s 1886 masterpiece, Skull of a Skeleton with a Burning Cigarette, with thousands of cigarette packets.
 
-He said, “I have this fear that we’re not feeling enough as a culture right now.” There’s this kind of anesthesia in America. We’ve lost our sense of outrage, our anger, and our grief about what’s going on in our culture right now, what’s going on in our country, the atrocities that are being committed in our names around the world. They’ve gone missing. These feelings have gone missing.
+Jordan believes that it’s difficult for the average person to make meaning out of enormous statistics, yet these statistics reveal some very troubling issues in our society, issues that can evoke a more visceral response from people when visually and creatively presented. Very much in the way Bono gets a rise out of data, Jordan believes that by feeling big numbers, we can do something about it.
 
-Jordan’s presentation is a profound example of transforming dry statistics, some of which we’ve all heard numerous times, and adding a multimedia element in the form of visuals to bring the data alive. The visuals reinforce each point and help us to feel the emotion behind the numbers. The great poet Maya Angelou once said, people will forget what you said, people will forget what you did, but people will never forget how you made them feel. Don’t think just about what you want people to know.
+He said, “I have this fear that we’re not feeling enough as a culture right now.”. There’s this kind of anesthesia in America. We’ve lost our sense of outrage, our anger, and our grief about what’s going on in our culture right now, what’s going on in our country, the atrocities that are being committed in our names around the world. They’ve gone missing.
 
-Think about how you want them to feel, how LinkedIn simplified its marketing PowerPoint. Nine months before LinkedIn went public, its vice president of marketing at the time, invited me to give a workshop to 130 of his sales and marketing staff. He wasn’t happy with his team’s existing PowerPoint slides. It overcomplicated things, he said.
+These feelings have gone missing. Jordan’s presentation is a profound example of transforming dry statistics, some of which we’ve all heard numerous times, and adding a multimedia element in the form of visuals to bring the data alive. The visuals reinforce each point and help us to feel the emotion behind the numbers. The great poet Maya Angelou once said, people will forget what you said, people will forget what you did, but people will never forget how you made them feel.
 
-The executive encouraged his team to incorporate some of the concepts from my previous books into a new and more compelling slide deck to encourage enterprise-level customers to advertise and to begin recruiting on LinkedIn. They tossed out the existing PowerPoint deck entirely and transitioned to more TED-like slides with little text, no bullet points, and plenty of photographs and visuals. If a statistic needed to be highlighted, the data point was the only number on the slide and it was accompanied by a photograph of the LinkedIn site or some other relevant image.
+Don’t think just about what you want people to know. Think about how you want them to feel, how LinkedIn simplified its marketing PowerPoint. Nine months before LinkedIn went public, its vice president of marketing at the time, invited me to give a workshop to 130 of his sales and marketing staff. He wasn’t happy with his team’s existing PowerPoint slides.
 
-One key idea that I stressed with the team was the need to paint a picture for their audience with the images they show and the words they used to describe
+It overcomplicated things, he said. The executive encouraged his team to incorporate some of the concepts from my previous books into a new and more compelling slide deck to encourage enterprise-level customers to advertise and to begin recruiting on LinkedIn. They tossed out the existing PowerPoint deck entirely and transitioned to more TED-like slides with little text, no bullet points, and plenty of photographs and visuals. If a statistic needed to be highlighted, the data point was the only number on the slide and it was accompanied by a photograph of the LinkedIn site or some other relevant image.
+
+One key idea that. I stressed with the team was the need to paint a picture for their audience with the images they show and the words they used to describe
 
 
 <a id="sec-065307"></a>
@@ -2454,31 +2706,37 @@ Text and bullet points are the least memorable way of transferring information t
 
 Hear it. While vision is our predominant sense, we recall information much better when multiple senses are stimulated at the same time. Our auditory sense is very powerful. How you say something, pitch, rate, volume, intensity, articulation, all of that can touch your listener’s soul. 150 feet down and illegal mind shaft.
 
-For more than 25 years, Lisa Christine has traveled the most hidden parts of the world to capture the beauty and to expose the hardships of indigenous peoples. Let’s revisit her TEDx talk to focus on how she used her words to reach her audience. The audience sat silent, transfixed, as Christine took them on a visual journey with photographs as their guide. The first two minutes of Christine’s talk is the most gripping opener I’ve ever seen in a presentation.
+For more than 25 years, Lisa Christine has traveled the most hidden parts of the world to capture the beauty and to expose the hardships of indigenous peoples. Let’s revisit her TEDx talk to focus on how she used her words to reach her audience. The audience sat silent, transfixed, as Christine took them on a visual journey with photographs as their guide. The first two minutes of Christine’s talk is the most gripping opener.
 
-There’s no text on the slides, as we’ve discussed, just photographs. There’s a compelling narrative and a carefully crafted delivery. Although her photographs tapped into her audience’s visual sense, it was how she used her voice that sealed the deal. The impact you can make by stimulating your listeners auditory sense can be just as powerful as using visuals.
+I’ve ever seen in a presentation. There’s no text on the slides, as we’ve discussed, just photographs. There’s a compelling narrative and a carefully crafted delivery. Although her photographs tapped into her audience’s visual sense, it was how she used her voice that sealed the deal.
 
-Painting pictures with words. Christine’s presentation was extraordinary because the power of her words matched her show-stopping photographs. Listen to Christine’s evocative description of her visit to Brick Kilns in India. This strange and awesome sight was like walking into ancient Egypt or Dante’s Inferno. Enveloped in temperatures of 130 degrees, men, women, children, entire families, in fact, were cloaked in a heavy blanket of dust while mechanically stacking bricks on their head up to 18 at a time and carrying them from the scorching kilns to trucks hundreds of yards away.
+The impact you can make by stimulating your listeners auditory sense can be just as powerful as using visuals. Painting pictures with words. Christine’s presentation was extraordinary because the power of her words matched her show-stopping photographs. Listen to Christine’s evocative description of her visit to Brick Kilns in India.
 
-Deadened by monotony and exhaustion, they work silently, doing this task over and over for 16 or 17 hours a day. There were no breaks for food, no water breaks, and the severe dehydration made urinating pretty much inconsequential. So pervasive was the heat and the dust that my camera became too hot to even touch and ceased working. Every 20 minutes I’d have to run back
+This strange and awesome sight was like walking into ancient Egypt or Dante’s Inferno. Enveloped in temperatures of 130 degrees, men, women, children, entire families, in fact, were cloaked in a heavy blanket of dust while mechanically stacking bricks on their head up to 18 at a time and carrying them from the scorching kilns to trucks hundreds of yards away. Deadened by monotony and exhaustion, they work silently, doing this task over and over for 16 or 17 hours a day.
+
+There were no breaks for food, no water breaks, and the severe dehydration made urinating pretty much inconsequential. So pervasive was the heat and the dust that my camera became too hot to even touch and ceased working. Every 20 minutes. I’d have to run back
 
 
 <a id="sec-065807"></a>
 ### ⏱️ [06:58:07 - 07:03:07]
 
-to our cruiser to clean out my gear and run it under an air conditioner to revive it. And as I sat there, I thought, my camera is getting far better treatment than these people. Christine is doing something Dr. Pascal Michelin calls creating a visual imprint on a person’s mind. Neuroscientists have found that the visual cortex of your brain cannot tell the difference between what’s real and what’s imagined.
+to our cruiser to clean out my gear and run it under an air conditioner to revive it. And as. I sat there, I thought, my camera is getting far better treatment than these people. Christine is doing something Dr.
 
-If you can think of something vividly, really imagine it. The same areas are activated as if you were actually seen the event. That’s why metaphors, analogies, and rich imagery are powerful ways to paint a picture in a mind’s eye, in some cases even more effective than an actual image. To boost your memory, transform verbal information to visual information as much as possible, according to Michelin.
+Pascal Michelin calls creating a visual imprint on a person’s mind. Neuroscientists have found that the visual cortex of your brain cannot tell the difference between what’s real and what’s imagined. If you can think of something vividly, really imagine it. The same areas are activated as if you were actually seen the event.
 
-You can do it with visual aids or how you talk. The examples you use to paint pictures in someone’s head. Pascal recommends that communicators use concrete examples as much as possible. Simply put, the brain is not designed to grasp abstractions.
+That’s why metaphors, analogies, and rich imagery are powerful ways to paint a picture in a mind’s eye, in some cases even more effective than an actual image. To boost your memory, transform verbal information to visual information as much as possible, according to Michelin. You can do it with visual aids or how you talk. The examples you use to paint pictures in someone’s head.
 
-Even in sales pitches, use concrete examples to put your clients in a situation they can picture with their mind’s eye. This is much more effective than using abstract words to describe your sales strategy. Painting a mental picture with no pictures at all. The brain can’t tell the difference between what it actually sees and what it imagines.
+Pascal recommends that communicators use concrete examples as much as possible. Simply put, the brain is not designed to grasp abstractions. Even in sales pitches, use concrete examples to put your clients in a situation they can picture with their mind’s eye. This is much more effective than using abstract words to describe your sales strategy.
 
-Janine Shepard, the injured cross-country skier we talked about in chapter 3, painted a picture for her TEDx audience and did not show a single slide or photograph to do it. As she tells the… story, Shepard was a member of the Australian ski team, preparing for the Winter Olympics when she took a bike ride that changed her life. By using evocative and descriptive words, she took her audience along on that bike path. As we made our way up towards the spectacular blue mountains of West Sydney, it was the perfect autumn day.
+Painting a mental picture with no pictures at all. The brain can’t tell the difference between what it actually sees and what it imagines. Janine Shepard, the injured cross-country skier we talked about in chapter 3, painted a picture for her TEDx audience and did not show a single slide or photograph to do it. As she tells the… story, Shepard was a member of the Australian ski team, preparing for the Winter Olympics when she took a bike ride that changed her life.
 
-Sunshine, the smell of eucalyptus, and a dream. Life was good. We’d been on our bikes for around five and a half hours when we got to the part of the ride that I loved. And that was the hills, because I loved the hills.
+By using evocative and descriptive words, she took her audience along on that bike path. As we made our way up towards the spectacular blue mountains of West Sydney, it was the perfect autumn day. Sunshine, the smell of eucalyptus, and a dream. Life was good.
 
-And I got up off the seat of my bike, and I started pumping my legs. And as I sucked in the cold mountain air, I could feel it burning my lungs. And I looked up to see the sun shining in my face. And then everything went black.
+We’d been on our bikes for around five and a half hours when we got to the part of the ride that. I loved. And that was the hills, because. I loved the hills.
+
+And. I got up off the seat of my bike, and. I started pumping my legs. And as.
+
+I sucked in the cold mountain air, I could feel it burning my lungs. And. I looked up to see the sun shining in my face. And then everything went black.
 
 A utility truck had hit Shepard. She was badly injured, airlifted to a spinal unit in Sydney, and was rendered a partial paraplegic. In the rest of her presentation, she talked about the long road to recovery, connecting her narrative to the theme, her theme being, You are not your body. Determined to prove her doctor’s wrong, Shepard found a new dream to pursue, flying.
 
@@ -2488,11 +2746,11 @@ The person had been fighting an ailment for 19 years. The person wrote, it has b
 
 Imagine a songwriter has a way with words. The auditory sense can be stimulated by the rhetorical devices you use to deliver your words.
 
-For example, Martin Luther King’s I Have a Dream speech is one of the most famous and quoted speeches in contemporary history. King did not use PowerPoint, Prezi, or Apple Keynote. Instead, he painted images with his words, images that have stuck with us for half a century. King used a public speaking device called anaphora, repeating the same word or words at the beginning of successive sentences.
+For example, Martin Luther King’s. I Have a Dream speech is one of the most famous and quoted speeches in contemporary history. King did not use PowerPoint, Prezi, or Apple Keynote. Instead, he painted images with his words, images that have stuck with us for half a century.
 
-I Have a Dream is repeated in eight successive sentences. In addition to the charts, animation, and photographs in his presentation, U2's Bono also used anaphora very effectively to add more stimulation to the senses. Here are two examples. The first one.
+King used a public speaking device called anaphora, repeating the same word or words at the beginning of successive sentences. I Have a Dream is repeated in eight successive sentences. In addition to the charts, animation, and photographs in his presentation, U2's Bono also used anaphora very effectively to add more stimulation to the senses. Here are two examples.
 
-Facts, like people, want to be free. And when they’re free, liberty is around the corner, even for the poorest of the poor. Facts that can challenge
+The first one. Facts, like people, want to be free. And when they’re free, liberty is around the corner, even for the poorest of the poor. Facts that can challenge
 
 
 <a id="sec-070307"></a>
@@ -2504,19 +2762,25 @@ I’m thinking of Weil Gonem. He set up one of the Facebook groups behind Tahrir
 
 We are going to win because we don’t understand politics. We are going to win because we don’t play their dirty games. We are going to win because we don’t have a party political agenda. We are going to win because the tears that come from our eyes actually come from our hearts.
 
-We are going to win because we dream dreams and we are willing to stand up for those dreams. Weil is right. We are going to win if we stand up as one because the power of the people is so much stronger than the people in power. It’s important to note that when he delivered the last paragraph I just read, Bono did not show any slides. He wanted the audience to focus on the auditory sense, his words.
+We are going to win because we dream dreams and we are willing to stand up for those dreams. Weil is right. We are going to win if we stand up as one because the power of the people is so much stronger than the people in power. It’s important to note that when he delivered the last paragraph.
 
-Tears filled Bono’s eyes as he spoke, reflecting his deep emotional attachment to the words. Powerful, well-crafted words have a way of stirring deep emotions in all of us. A slide would have detracted from the moment. Bono received thunderous applause and a standing ovation from the TED audience.
+I just read, Bono did not show any slides. He wanted the audience to focus on the auditory sense, his words. Tears filled Bono’s eyes as he spoke, reflecting his deep emotional attachment to the words. Powerful, well-crafted words have a way of stirring deep emotions in all of us.
 
-It’s no wonder he aroused their senses with his words. Three people and a computer amplify one man’s voice. In March 2011, film critic Roger Ebert, who had lost his voice to cancer and eventually his life in April of 2013, spoke to a TED audience of more than one thousand people. He said, these are my words, but this is not my voice.
+A slide would have detracted from the moment. Bono received thunderous applause and a standing ovation from the TED audience. It’s no wonder he aroused their senses with his words. Three people and a computer amplify one man’s voice.
 
-This is Alex, the best computer voice I’ve ever been able to find, which comes as standard equipment on every Macintosh. The audience heard those words from a digitized voice, as Ebert sat in a chair with a Mac on his lap. As a film critic with decades of experience in front of the camera, as well as deep knowledge of the craft of movie making, Ebert knew how difficult it is to hold an audience’s attention, and so he came prepared with a trick up his sleeve, a multi-sensory auditory experience.
+In March 2011, film critic Roger Ebert, who had lost his voice to cancer and eventually his life in April of 2013, spoke to a TED audience of more than one thousand people. He said, these are my words, but this is not my voice. This is Alex, the best computer voice. I’ve ever been able to find, which comes as standard equipment on every Macintosh.
 
-The audience had been listening to Ebert speak through the digitized voice for about one minute, when he said, “I have found that listening to a computer voice for any great length of time can be monotonous, so I’ve decided to recruit some of my TED friends to read my words aloud for me.” Three others shared the stage with Ebert, and they all sat in chairs alongside him. They included his wife Chaz, Dean Ornish, and John Hunter. It’s a very moving 18 minutes, especially as it shows the deep love and affection between Ebert and his wife.
+The audience heard those words from a digitized voice, as Ebert sat in a chair with a Mac on his lap. As a film critic with decades of experience in front of the camera, as well as deep knowledge of the craft of movie making, Ebert knew how difficult it is to hold an audience’s attention, and so he came prepared with a trick up his sleeve, a multi-sensory auditory experience.
+
+The audience had been listening to Ebert speak through the digitized voice for about one minute, when he said, “I have found that listening to a computer voice for any great length of time can be monotonous, so. I’ve decided to recruit some of my TED friends to read my words aloud for me.” Three others shared the stage with Ebert, and they all sat in chairs alongside him. They included his wife Chaz, Dean Ornish, and John Hunter. It’s a very moving 18 minutes, especially as it shows the deep love and affection between Ebert and his wife.
 
 The story of how Ebert remade his voice is interesting, but Ebert was absolutely right. Listening to a digitized voice for 18 minutes would get monotonous, so he chose not one but four others, including the computer, to speak for him. Multi-sensory includes multiple voices. I find it ironic that Ebert said, listening to a digitized voice is monotonous, since many speakers speak in a monotone and are far less animated than Ebert’s computer-generated voice.
 
-In Chapter 7, I said an 18 or 20-minute presentation always trumps a 60-minute one. The majority of my keynote speeches last about an hour, so am I being hypocritical? Not at all. Like Ebert did, I share the stage.
+In.
+
+#### Chapter 7, I said an 18 or 20-minute presentation always trumps a 60-minute one.
+
+The majority of my keynote speeches last about an hour, so am. I being hypocritical? Not at all. Like Ebert did, I share the stage.
 
 In my presentations, I introduce multiple voices, often through video clips of inspiring leaders. Video gives me the opportunity to engage two senses at once, visual and auditory. Feel it. The holy grail of a presentation is to transport the audience to another place.
 
@@ -2526,27 +2790,33 @@ The visual display of information helps them to see it, but if the audience cann
 <a id="sec-070810"></a>
 ### ⏱️ [07:08:10 - 07:13:16]
 
-the scene. A musician gets a standing ovation without playing a note. You might recall punk rocker Amanda Palmer from Chapter 3. I mentioned that Palmer’s TED 2013 video received more than 1 million views, within one week of being posted online.
+the scene. A musician gets a standing ovation without playing a note. You might recall punk rocker Amanda Palmer from.
 
-Palmer’s theme was simple and straightforward. Don’t make people pay for music. Since digital content is already available and shareable, Palmer suggests artists should ask for support directly from their fans. Most of the people who watch her presentation probably never have experienced life on the streets as a struggling musician, but Palmer takes them there.
+#### Chapter 3.
 
-Without saying a word, Palmer walked on stage and placed a milk crate on the floor. She stepped on the crate, draped a veil across her left arm, and held out a flower in her right hand. She slowly took in two deep breaths, posed motionless for several seconds, and spoke. So I didn’t always make my living from music.
+I mentioned that Palmer’s TED 2013 video received more than 1 million views, within one week of being posted online. Palmer’s theme was simple and straightforward. Don’t make people pay for music. Since digital content is already available and shareable, Palmer suggests artists should ask for support directly from their fans.
 
-For about five years after graduating from an upstanding liberal arts university, this was my day job. I was a self-employed living statue called the Eight Foot Bride, and I love telling people I did this for a job because everybody always wants to know, who are these freaks in real life? Hello? I painted myself white one day, stood on a box, put a hat or a can at my feet, and when someone came by and dropped in money, I handed them a flower and some intense eye contact.
+Most of the people who watch her presentation probably never have experienced life on the streets as a struggling musician, but Palmer takes them there. Without saying a word, Palmer walked on stage and placed a milk crate on the floor. She stepped on the crate, draped a veil across her left arm, and held out a flower in her right hand. She slowly took in two deep breaths, posed motionless for several seconds, and spoke.
 
-And if they didn’t take the flower, I threw in a gesture of sadness and longing as they walked away. Palmer delivered the first three minutes of her presentation while standing on the crate, reliving her experiences and the people who gave her money. I had no idea how perfect a real education I was getting for the music business on this box. Eventually, her band did earn enough money and she quit being a street performer.
+So. I didn’t always make my living from music. For about five years after graduating from an upstanding liberal arts university, this was my day job. I was a self-employed living statue called the Eight Foot Bride, and.
 
-As soon as Palmer told the audience that she had quit being that statue, she walked off the box. So the box remains on stage as Palmer delivers the rest of her presentation, its presence acting as a metaphor for her narrative. I decide I’m just going to give away my music for free online whenever possible. I’m going to encourage downloading, sharing, but I’m going to ask for help because I saw it work on the street.
+I love telling people. I did this for a job because everybody always wants to know, who are these freaks in real life? Hello? I painted myself white one day, stood on a box, put a hat or a can at my feet, and when someone came by and dropped in money, I handed them a flower and some intense eye contact.
 
-My music career has been spent trying to encounter people on the internet the way I could on the box. So blogging and tweeting, not just about my tour dates and my new video, but about our work and our art and our fears and our hangovers, our mistakes, and how we see each other. And I think when we really see each other, we want to help each other. Palmer concluded her presentation with this challenge.
+And if they didn’t take the flower, I threw in a gesture of sadness and longing as they walked away. Palmer delivered the first three minutes of her presentation while standing on the crate, reliving her experiences and the people who gave her money. I had no idea how perfect a real education. I was getting for the music business on this box.
 
-I think people have been obsessed with the wrong question, which is how do we make people pay for music? What if we started asking, how do you let people pay for music? As she said thank you, Palmer pulled out the flower that she had used to open her presentation. She extended the flower to her listeners with an outstretched hand and threw it into the audience.
+Eventually, her band did earn enough money and she quit being a street performer. As soon as Palmer told the audience that she had quit being that statue, she walked off the box. So the box remains on stage as Palmer delivers the rest of her presentation, its presence acting as a metaphor for her narrative. I decide.
 
-The audience jumped to its feet for a sustained 15-second standing ovation. Palmer, the musician, had given the performance of her life and hadn’t played a note. The TED.com page, where Palmer’s video had been posted, received more than 500 comments in one week. A woman named Jodi Murray commented, I’m disappointed in my own skeptical inner voice, wanting to dislike this talk, but in the end it was not possible to.
+I’m just going to give away my music for free online whenever possible. I’m going to encourage downloading, sharing, but. I’m going to ask for help because. I saw it work on the street.
 
-Amazing presentation and example of such beautiful ideas realized. Can you recall ever seeing an amazing business presentation with beautifully realized ideas? They don’t happen very often in corporate boardrooms, do they? Yet Amanda Palmer was delivering a business case for giving songs away for free, a very controversial subject in the music industry, and she did it in a way that her listeners could really feel and experience it, feeling the pain of slow downloads.
+My music career has been spent trying to encounter people on the internet the way. I could on the box. So blogging and tweeting, not just about my tour dates and my new video, but about our work and our art and our fears and our hangovers, our mistakes, and how we see each other. And.
 
-Palmer stood on a prop, a milk crate, to help people feel the pain of being a struggling musician. Props and demonstrations are very useful multi-sensory tools to help the audience tangibly grasp your idea and the problem it solves.
+I think when we really see each other, we want to help each other. Palmer concluded her presentation with this challenge. I think people have been obsessed with the wrong question, which is how do we make people pay for music? What if we started asking, how do you let people pay for music?
+
+As she said thank you, Palmer pulled out the flower that she had used to open her presentation. She extended the flower to her listeners with an outstretched hand and threw it into the audience. The audience jumped to its feet for a sustained 15-second standing ovation. Palmer, the musician, had given the performance of her life and hadn’t played a note.
+
+The TED.com page, where Palmer’s video had been posted, received more than 500 comments in one week. A woman named Jodi Murray commented, I’m disappointed in my own skeptical inner voice, wanting to dislike this talk, but in the end it was not possible to. Amazing presentation and example of such beautiful ideas realized. Can you recall ever seeing an amazing business presentation with beautifully realized ideas?
+
+They don’t happen very often in corporate boardrooms, do they? Yet Amanda Palmer was delivering a business case for giving songs away for free, a very controversial subject in the music industry, and she did it in a way that her listeners could really feel and experience it, feeling the pain of slow downloads. Palmer stood on a prop, a milk crate, to help people feel the pain of being a struggling musician. Props and demonstrations are very useful multi-sensory tools to help the audience tangibly grasp your idea and the problem it solves.
 
 For example, I worked with tech company executives to introduce an extremely fast USB drive for
 
@@ -2560,13 +2830,19 @@ He pulled the new product, a USB drive, from his pocket, plugged it into the com
 
 Without saying a word, the executive in the audience watched as the transfer happened. They waited, and waited, and waited. More than 40 seconds later the transfer was complete. The speaker concluded, not all USB drives are created equal.
 
-If this particular executive had talked through that demonstration, time would have gone faster for the people in the audience. Instead, he was silent, which drew out the pain of slow downloads. The Feather and the Blowtorch I’m a pediatrician and an anesthesiologist, so I put children to sleep for a living. And I’m an academic, so I put audiences to sleep for free.
+If this particular executive had talked through that demonstration, time would have gone faster for the people in the audience. Instead, he was silent, which drew out the pain of slow downloads. The Feather and the Blowtorch. I’m a pediatrician and an anesthesiologist, so.
 
-That’s how Dr. Elliot Crane, who runs the pain management service at Packard Children’s Hospital at Stanford, opened his TED presentation in 2011. Pain is usually a symptom of something wrong, but for some children, the pain never goes away and it becomes the disease. Crane explained that before he would show the TED audience how this type of pain happens and how it’s treated, he wanted to show them how it feels. Imagine that I’m stroking your arm with this feather.
+I put children to sleep for a living. And. I’m an academic, so. I put audiences to sleep for free.
 
-Now, I want you to imagine that I’m stroking it with this blowtorch. What does it have to do with chronic pain? Imagine what your life would be like if I were to stroke it with this feather, but your brain was telling you that this blowtorch is what you were feeling. That is my experience with patients with chronic pain.
+That’s how Dr. Elliot Crane, who runs the pain management service at Packard Children’s Hospital at Stanford, opened his TED presentation in 2011. Pain is usually a symptom of something wrong, but for some children, the pain never goes away and it becomes the disease. Crane explained that before he would show the TED audience how this type of pain happens and how it’s treated, he wanted to show them how it feels.
 
-Imagine something even worse. Imagine I was stroking your child’s arm with this feather and your brain was telling them they were feeling this hot torch. The kinesthetic sense, touch, is sometimes difficult to incorporate into a presentation if the topic is about an idea or, in Crane’s case, a medical condition instead of a physical product, but as Crane demonstrates, it can be done with a little imagination. Once he put down the blowtorch, Crane transitioned to the visual sense and he showed a photograph of one of his patients, a 16-year-old aspiring dancer who had sprained her wrist and after it healed, she continued to live with excruciating pain in the injured arm.
+Imagine that. I’m stroking your arm with this feather.
+
+Now, I want you to imagine that. I’m stroking it with this blowtorch. What does it have to do with chronic pain? Imagine what your life would be like if.
+
+I were to stroke it with this feather, but your brain was telling you that this blowtorch is what you were feeling. That is my experience with patients with chronic pain. Imagine something even worse. Imagine.
+
+I was stroking your child’s arm with this feather and your brain was telling them they were feeling this hot torch. The kinesthetic sense, touch, is sometimes difficult to incorporate into a presentation if the topic is about an idea or, in Crane’s case, a medical condition instead of a physical product, but as Crane demonstrates, it can be done with a little imagination. Once he put down the blowtorch, Crane transitioned to the visual sense and he showed a photograph of one of his patients, a 16-year-old aspiring dancer who had sprained her wrist and after it healed, she continued to live with excruciating pain in the injured arm.
 
 Chandler had allodynia. It’s a medical condition whereby the slightest touch causes indescribable burning pain. Medical conferences are infamous for having some of the dullest presentations of any event, and it’s not just my opinion. Ask any doctor.
 
@@ -2584,97 +2860,119 @@ The audience saw a photo of a beautifully wrapped Tiffany blue box.
 
 And Kramer said, imagine if you will a gift. I’d like for you to picture it in your mind. It’s not too big about the size of a golf ball. So envision what it looks like all wrapped up.
 
-But before I show you what’s inside, I will tell you it’s going to do incredible things for you. It will bring all of your family together. You will feel loved and appreciated like never before and reconnect with friends and acquaintances you haven’t heard from in years. Adoration and admiration will overwhelm you.
+But before. I show you what’s inside, I will tell you it’s going to do incredible things for you. It will bring all of your family together. You will feel loved and appreciated like never before and reconnect with friends and acquaintances you haven’t heard from in years.
 
-It will recalibrate what’s most important in your life. Kramer drew out the story of the gift before revealing the startling conclusion. By now I know you’re dying to know what it is and where you can get one. Does Amazon carry it?
+Adoration and admiration will overwhelm you. It will recalibrate what’s most important in your life. Kramer drew out the story of the gift before revealing the startling conclusion. By now.
 
-Does it have the Apple logo on it? Is there a waiting list? Not likely. This gift came to me about five months ago.
+I know you’re dying to know what it is and where you can get one. Does Amazon carry it? Does it have the Apple logo on it? Is there a waiting list?
 
-It looked more like this when it was all wrapped up. Not quite so pretty. This photo of a red plastic bag with the word biohazard written on it. And this.
+Not likely. This gift came to me about five months ago. It looked more like this when it was all wrapped up. Not quite so pretty.
 
-And then this. Photos of the x-ray showing my tumor and the long scar on the back of my head where the doctors had removed it. It was a rare gem, a brain tumor, hemangioblastoma, a gift that keeps on giving. The contrast between the lovely Tiffany box at the beginning of Kramer’s presentation and the unpleasant photos at the end create a striking sensory experience for Kramer’s audience.
+This photo of a red plastic bag with the word biohazard written on it. And this. And then this. Photos of the x-ray showing my tumor and the long scar on the back of my head where the doctors had removed it.
 
-Kramer ended her presentation with a positive message and a lesson from the event that nearly took her life. And while I’m okay now, I wouldn’t wish this gift for you. I’m not sure you’d want it, but I wouldn’t change my experience. It profoundly altered my life in ways I didn’t expect, in all the ways I just shared with you.
+It was a rare gem, a brain tumor, hemangioblastoma, a gift that keeps on giving. The contrast between the lovely Tiffany box at the beginning of Kramer’s presentation and the unpleasant photos at the end create a striking sensory experience for Kramer’s audience. Kramer ended her presentation with a positive message and a lesson from the event that nearly took her life. And while.
 
-So the next time you’re faced with something that’s unexpected, unwanted, and uncertain, consider that it just may be a gift. Part number eight, paint a mental picture with multi-sensory experiences. What Kramer did took courage, and that’s why you don’t see great presentations every day. It takes courage to make your story so simple a seventh grader can understand it.
+I’m okay now, I wouldn’t wish this gift for you. I’m not sure you’d want it, but. I wouldn’t change my experience. It profoundly altered my life in ways.
 
-It takes courage to build a slide with one word on it as Bono did. It takes courage to show photographs instead of filling your slides with bullet points and text. It takes courage to pull out a feather and a blowtorch, as Dr. Crane did, without feeling silly. Metaphorically, it takes courage to stand on a milk crate for three minutes, as Amanda Palmer did.
+I didn’t expect, in all the ways. I just shared with you. So the next time you’re faced with something that’s unexpected, unwanted, and uncertain, consider that it just may be a gift. Part number eight, paint a mental picture with multi-sensory experiences.
 
-Courage stands out. Courage gets noticed. Courage wins hearts and minds. Courage is what you need to deliver the talk of your life.
+What Kramer did took courage, and that’s why you don’t see great presentations every day. It takes courage to make your story so simple a seventh grader can understand it. It takes courage to build a slide with one word on it as Bono did. It takes courage to show photographs instead of filling your slides with bullet points and text.
 
-I know you have courage. Find it. Celebrate it. Revel in it.
+It takes courage to pull out a feather and a blowtorch, as Dr. Crane did, without feeling silly. Metaphorically, it takes courage to stand on a milk crate for three minutes, as Amanda Palmer did. Courage stands out.
 
-Public speaking will transform your life and the lives of the people who listen to you. You have ideas that were meant to be seen, felt, and heard. Use your voice to astonish people, inspire them, and to change the world. Chapter nine, stay in your lane.
+Courage gets noticed. Courage wins hearts and minds. Courage is what you need to deliver the talk of your life. I know you have courage.
 
-I don’t think of work as work and play as play. It’s all living, Sir Richard Branson. In December 2010, Facebook Chief Operating Officer Sheryl Sandberg was waiting offstage to address a TED audience. She said, the day before, I had dropped my daughter off at preschool and told her I was flying off to the East Coast so I wouldn’t see her that night.
+Find it. Celebrate it. Revel in it. Public speaking will transform your life and the lives of the people who listen to you.
 
-She clung to my leg and begged me not to leave. I couldn’t shake that image and, at the last minute, asked Pat if I should add it to my speech. Absolutely, tell that story, said Pat. She was referring to the Paley Center CEO.
+You have ideas that were meant to be seen, felt, and heard. Use your voice to astonish people, inspire them, and to change the world. Chapter nine, stay in your lane. I don’t think of work as work and play as play.
 
-Sandberg realized that she could help other women only by being honest about her own challenges and feelings. She said, “I took a deep breath and stepped onstage.” I tried to be authentic and shared my truth. I announced to the room, and basically everyone on the internet, that I fall very short of doing it all. It felt really good not just to admit this to myself, but to share it with others.
+It’s all living, Sir Richard Branson. In December 2010, Facebook Chief Operating Officer Sheryl Sandberg was waiting offstage to address a TED audience. She said, the day before, I had dropped my daughter off at preschool and told her. I was flying off to the East Coast so.
 
-Secret number nine, stay in your lane. Be authentic, open, and transparent. Why it works. Most people can spot a phony.
+I wouldn’t see her that night. She clung to my leg and begged me not to leave. I couldn’t shake that image and, at the last minute, asked Pat if. I should add it to my speech.
+
+Absolutely, tell that story, said Pat. She was referring to the Paley Center CEO. Sandberg realized that she could help other women only by being honest about her own challenges and feelings.
+
+She said, “I took a deep breath and stepped onstage.”. I tried to be authentic and shared my truth. I announced to the room, and basically everyone on the internet, that. I fall very short of doing it all.
+
+It felt really good not just to admit this to myself, but to share it with others. Secret number nine, stay in your lane. Be authentic, open, and transparent. Why it works.
+
+Most people can spot a phony.
 
 
 <a id="sec-072320"></a>
 ### ⏱️ [07:23:20 - 07:28:24]
 
-If you try to be something or someone you’re not, you’ll fail to gain the trust of your audience. Public speaking is considered an art form. I hope this book has demonstrated that the artful element of persuasion is backed by credible science. Now I would like you to set aside the techniques and the science and speak from the heart.
+If you try to be something or someone you’re not, you’ll fail to gain the trust of your audience. Public speaking is considered an art form. I hope this book has demonstrated that the artful element of persuasion is backed by credible science. Now.
 
-That’s right. Everything we have just discussed will be meaningless if you’re putting on an act. You can learn from others and how they achieve success in public speaking, but you’ll never make a lasting impression on people unless you leave your own mark. I remember listening to Oprah Winfrey.
+I would like you to set aside the techniques and the science and speak from the heart. That’s right. Everything we have just discussed will be meaningless if you’re putting on an act. You can learn from others and how they achieve success in public speaking, but you’ll never make a lasting impression on people unless you leave your own mark.
 
-She responded to a young woman in the audience who had said that she wanted to be the next Oprah. No, you don’t, Oprah said. Oprah explained that people should identify what lane they should be in and try to stay in that lane. She said that successful people identify their life’s core purpose and relentlessly follow that purpose to become the best representation of themselves that they can become.
+I remember listening to Oprah Winfrey. She responded to a young woman in the audience who had said that she wanted to be the next Oprah. No, you don’t, Oprah said. Oprah explained that people should identify what lane they should be in and try to stay in that lane.
 
-It takes courage to stay in your lane. As Dr. Jill was crafting her now famous stroke of insight presentation, she had a decision to make. Although the first 12 minutes of her presentation were engrossing, there was nothing vulnerable or personal about it. Dr. Jill actually told me she needed a conclusion that, quote, would bust it out to the universe. One week before her TED talk, Dr. Jill’s best friend told her the presentation didn’t work.
+She said that successful people identify their life’s core purpose and relentlessly follow that purpose to become the best representation of themselves that they can become. It takes courage to stay in your lane. As Dr. Jill was crafting her now famous stroke of insight presentation, she had a decision to make.
 
-Jill, she said, you take us to this incredibly vulnerable space and you take us on this journey. We go with you. We’re wide open. We’re all yours.
+Although the first 12 minutes of her presentation were engrossing, there was nothing vulnerable or personal about it. Dr. Jill actually told me she needed a conclusion that, quote, would bust it out to the universe. One week before her TED talk, Dr.
 
-And then you’re going to teach us about a stroke. You should hold the space. Holding the space meant being vulnerable, expressing the raw emotion of the stroke and what it taught her. Dr. Jill got the message and changed the conclusion of her presentation just one week before the TED conference. Here is how she ended the presentation.
+Jill’s best friend told her the presentation didn’t work. Jill, she said, you take us to this incredibly vulnerable space and you take us on this journey. We go with you. We’re wide open.
 
-My spirit soared free, like a great whale gliding through the sea of silent euphoria. Nirvana. I found Nirvana. And if I have found Nirvana and I’m still alive, then everyone who is alive can find Nirvana.
+We’re all yours. And then you’re going to teach us about a stroke. You should hold the space. Holding the space meant being vulnerable, expressing the raw emotion of the stroke and what it taught her.
 
-And I pictured a world filled with beautiful, peaceful, compassionate, loving people who knew that they could come to this space at any time. Then I realized what a tremendous gift this experience could be, what a stroke of insight this could be to how we live our lives. Most scientists wouldn’t dare go to the place where Dr. Jill took her audience. Even if their spirit soared free like a gliding whale, they wouldn’t tell anyone about it. Dr. Jill realized that the story of her spiritual transformation had a lot more meaning than the story of a stroke.
+Dr. Jill got the message and changed the conclusion of her presentation just one week before the TED conference. Here is how she ended the presentation. My spirit soared free, like a great whale gliding through the sea of silent euphoria.
 
-When her left hemisphere shut down, the ego part of her brain, she experienced a spiritual enlightenment. She no longer felt separate from the universe, but a part of it. She informed the audience and educated them about stroke. But if she had ended there, it would have made a good presentation, no doubt about it.
+Nirvana. I found Nirvana. And if. I have found Nirvana and.
 
-But Dr. Jill took it one step further. She inspired and enlightened. The presentation went from good to remarkable. It took courage for Dr. Jill to stay in her lane, but it made all the difference.
+I’m still alive, then everyone who is alive can find Nirvana. And. I pictured a world filled with beautiful, peaceful, compassionate, loving people who knew that they could come to this space at any time. Then.
 
-On an episode of ABC’s Grey’s Anatomy, the character of Dr. Callie Torres was preparing to give a TED talk. Torres, an orthopedic surgeon, wasn’t happy with the presentation she had prepared because it seemed boring compared to what she had seen on the TED stage. Who wants to hear about cartilage, she said. Due to the mayhem in the hospital, Callie missed her flight to TED, and she thought she was off the hook from giving a presentation.
+I realized what a tremendous gift this experience could be, what a stroke of insight this could be to how we live our lives. Most scientists wouldn’t dare go to the place where Dr. Jill took her audience. Even if their spirit soared free like a gliding whale, they wouldn’t tell anyone about it.
 
-But at the last minute, her colleagues set up a remote satellite feed so that Callie could still deliver her presentation to a live audience. You can do that on a hit TV show. Callie sat down visibly nervous, and she had a stack of note cards by her side. A doctor next to her said, just talk, Callie.
+Dr. Jill realized that the story of her spiritual transformation had a lot more meaning than the story of a stroke. When her left hemisphere shut down, the ego part of her brain, she experienced a spiritual enlightenment. She no longer felt separate from the universe, but a part of it.
 
-Just be who you are. The doctor was instructing Callie to stay in her lane. Callie set the notes aside, took a deep breath, and said, hi, I’m Dr. Callie Torres, and
+She informed the audience and educated them about stroke. But if she had ended there, it would have made a good presentation, no doubt about it. But Dr. Jill took it one step further.
+
+She inspired and enlightened. The presentation went from good to remarkable. It took courage for Dr. Jill to stay in her lane, but it made all the difference.
+
+On an episode of ABC’s Grey’s Anatomy, the character of Dr. Callie Torres was preparing to give a TED talk. Torres, an orthopedic surgeon, wasn’t happy with the presentation she had prepared because it seemed boring compared to what she had seen on the TED stage. Who wants to hear about cartilage, she said.
+
+Due to the mayhem in the hospital, Callie missed her flight to TED, and she thought she was off the hook from giving a presentation. But at the last minute, her colleagues set up a remote satellite feed so that Callie could still deliver her presentation to a live audience. You can do that on a hit TV show. Callie sat down visibly nervous, and she had a stack of note cards by her side.
+
+A doctor next to her said, just talk, Callie. Just be who you are. The doctor was instructing Callie to stay in her lane. Callie set the notes aside, took a deep breath, and said, hi, I’m Dr.
+
+Callie Torres, and
 
 
 <a id="sec-072824"></a>
 ### ⏱️ [07:28:24 - 07:33:25]
 
-I’ve had a pretty bad year. I was almost killed in a car wreck. An accident claimed the life of my best friend and father and my child. I’m an orthopedic surgeon by trade, and I work with cartilage, so I’ve spent a lot of time thinking about what holds us together when things fall apart.
+I’ve had a pretty bad year. I was almost killed in a car wreck. An accident claimed the life of my best friend and father and my child. I’m an orthopedic surgeon by trade, and.
 
-Although Grey’s Anatomy is a fictional medical drama, it strikes me that when the writers of the show wanted to build a storyline around TED, they realized the real magic of a memorable TED presentation relies on the speaker setting aside her notes and speaking from the heart, letting her audience get a peek of her soul. Screenwriters or storytellers, they intuitively understand that the magic of TED lies much deeper than the topic of a presentation. An inspiring speaker should move his or her listeners to think differently about their lives, careers, or businesses.
+I work with cartilage, so. I’ve spent a lot of time thinking about what holds us together when things fall apart. Although Grey’s Anatomy is a fictional medical drama, it strikes me that when the writers of the show wanted to build a storyline around TED, they realized the real magic of a memorable TED presentation relies on the speaker setting aside her notes and speaking from the heart, letting her audience get a peek of her soul. Screenwriters or storytellers, they intuitively understand that the magic of TED lies much deeper than the topic of a presentation.
 
-A great speaker makes you want to be a better person. I chose the Richard Branson quote that opens this chapter, because I think many speakers separate their true selves from the persona they show to others. Branson, whom I’ve met and I’ve interviewed more than once, doesn’t put on an act. He’s real.
+An inspiring speaker should move his or her listeners to think differently about their lives, careers, or businesses. A great speaker makes you want to be a better person. I chose the Richard Branson quote that opens this chapter, because. I think many speakers separate their true selves from the persona they show to others.
 
-He’s the same person on and off camera. Work is not separate from play, and play is not separate from work. It’s all living, as Branson says. Many executives who I meet act and speak one way in the privacy of our conversation.
+Branson, whom. I’ve met and. I’ve interviewed more than once, doesn’t put on an act. He’s real.
 
-And they sound completely different when they deliver a presentation. They act, look, and sound like two different people. They’re not comfortable in their lane. They want to be somebody else.
+He’s the same person on and off camera. Work is not separate from play, and play is not separate from work. It’s all living, as Branson says. Many executives who.
 
-I can’t tell you how many times I have met leaders who are passionate, humorous, enthusiastic, inspiring, only to discover that the minute they get on stage, they become soulless, stiff, boring, humorless. When I ask why, some respond, because I’m giving a presentation. Please keep this in mind. When you deliver a presentation, your goal should not be to deliver a presentation.
+I meet act and speak one way in the privacy of our conversation. And they sound completely different when they deliver a presentation. They act, look, and sound like two different people. They’re not comfortable in their lane.
+
+They want to be somebody else. I can’t tell you how many times. I have met leaders who are passionate, humorous, enthusiastic, inspiring, only to discover that the minute they get on stage, they become soulless, stiff, boring, humorless. When.
+
+I ask why, some respond, because. I’m giving a presentation. Please keep this in mind. When you deliver a presentation, your goal should not be to deliver a presentation.
 
 It should be to inspire your audience, to move them, to encourage them to dream bigger. You cannot move people if they don’t think you’re real. You’ll never convince your audience of anything if they don’t trust, admire, and genuinely like you. 10-Note. Present your content to a different audience.
 
-One way I help clients to be more authentic when they are on is to have them present their content to a friend or spouse before they present it to the intended audience. They are more likely to let some of their real self come out when delivering the information to someone they have a relationship with than to a group of listeners they do not necessarily have that close connection with. In Sheryl Sandberg’s talk, Why We Have Too Few Women Leaders, she says that women often underestimate their abilities in the workplace.
+One way. I help clients to be more authentic when they are on is to have them present their content to a friend or spouse before they present it to the intended audience. They are more likely to let some of their real self come out when delivering the information to someone they have a relationship with than to a group of listeners they do not necessarily have that close connection with. In Sheryl Sandberg’s talk, Why.
 
-I would argue the same lack of confidence affects many people, men and women, when it comes to their ability to give inspiring presentations. I’ve heard all the excuses. I’m shy. I’m not good at public speaking.
+We Have Too Few Women Leaders, she says that women often underestimate their abilities in the workplace. I would argue the same lack of confidence affects many people, men and women, when it comes to their ability to give inspiring presentations. I’ve heard all the excuses. I’m shy.
 
-I get nervous. Women’s made fun of me in elementary school. My content is too complicated. All of these reasons, or a variation of them, may very well explain why you’re not confident about giving a presentation, but in no way should they define your potential as a public speaker.
+I’m not good at public speaking. I get nervous. Women’s made fun of me in elementary school. My content is too complicated.
 
-I can assure you that many people, even great communicators, are really insecure about their public speaking ability. The internationally famous pastor, Joel Osteen, said he was scared to death before he gave his first sermon in October of 1999. Ten years later, he hit a home run, preaching to a sold-out crowd at the new Yankee Stadium. It took him ten years and hundreds of sermons to master the craft of public speaking.
+All of these reasons, or a variation of them, may very well explain why you’re not confident about giving a presentation, but in no way should they define your potential as a public speaker. I can assure you that many people, even great communicators, are really insecure about their public speaking ability. The internationally famous pastor, Joel Osteen, said he was scared to death before he gave his first sermon in October of 1999. Ten years later, he hit a home run, preaching to a sold-out crowd at the new Yankee Stadium.
 
-But today, Joel Osteen is considered one of the more inspirational spiritual leaders in the world. Richard Branson said he nearly got sick when he was asked to speak early in his career. He said, my mind went blank when I took the microphone. I mumbled incoherently for a bit before leaving the podium.
+It took him ten years and hundreds of sermons to master the craft of public speaking. But today, Joel Osteen is considered one of the more inspirational spiritual leaders in the world. Richard Branson said he nearly got sick when he was asked to speak early in his career. He said, my mind went blank when.
 
-It was one of the most embarrassing moments of my life, and my face glowed red as the Virgin logo. Branson committed himself to becoming a better speaker, and he did so by practicing relentlessly. Good speakers aren’t just lucky or talented. They work hard.
+I took the microphone. I mumbled incoherently for a bit before leaving the podium. It was one of the most embarrassing moments of my life, and my face glowed red as the Virgin logo. Branson committed himself to becoming a better speaker, and he did so by practicing relentlessly.
 
-Branson also learned to be himself, to be authentic.
+Good speakers aren’t just lucky or talented. They work hard. Branson also learned to be himself, to be authentic.
 
 
 <a id="sec-073325"></a>
@@ -2688,19 +2986,21 @@ I lost my nerve, he said. At the age of 21, Buffett started his career in the se
 
 Buffett revealed this early insecurity in an interview for a website aimed at helping young women find their career success. The host asked Buffett, what habits did you cultivate in your 20s and 30s that you see as a foundation of success? Buffett answered, you’ve got to be able to communicate in life. And it’s enormously important.
 
-Schools to some extent underemphasize that. If you can’t communicate and talk to other people and get your ideas across, you’re giving up your potential. Very prestigious business schools often fall short when it comes to making communication skills a vital part of their programs. I’ve lost count at how many brilliant MBAs I’ve coached at large companies who often tell me we don’t get this stuff in school, but it’s so important for what we do. Ten note, put in time.
+Schools to some extent underemphasize that. If you can’t communicate and talk to other people and get your ideas across, you’re giving up your potential. Very prestigious business schools often fall short when it comes to making communication skills a vital part of their programs. I’ve lost count at how many brilliant MBAs.
 
-Do you remember locking your car door when you left this morning? You may not remember it, but of course you did. You need to practice communicating your content every day at every opportunity so that the mechanics of giving a presentation do not monopolize your attention and focus. You don’t want to be the dancer counting the steps out loud.
+I’ve coached at large companies who often tell me we don’t get this stuff in school, but it’s so important for what we do. Ten note, put in time. Do you remember locking your car door when you left this morning? You may not remember it, but of course you did.
 
-Repetition frees your mind to tell your story in a way that is interesting, dynamic, and most importantly, authentic. I’ve worked with corporate leaders who are worth millions of dollars and run some of the world’s largest brands representing products and services that touch your life every day. Many have privately admitted to me that they are not confident about public speaking. My job is to bring out their confidence so that they can captivate their audiences.
+You need to practice communicating your content every day at every opportunity so that the mechanics of giving a presentation do not monopolize your attention and focus. You don’t want to be the dancer counting the steps out loud. Repetition frees your mind to tell your story in a way that is interesting, dynamic, and most importantly, authentic. I’ve worked with corporate leaders who are worth millions of dollars and run some of the world’s largest brands representing products and services that touch your life every day.
 
-I do so by helping them identify their lane and why they’re passionate about that lane. Then, once we craft, visualize, and rehearse the presentation, it’s time to let go. And as Branson suggested, speak from the heart. This approach has never failed.
+Many have privately admitted to me that they are not confident about public speaking. My job is to bring out their confidence so that they can captivate their audiences. I do so by helping them identify their lane and why they’re passionate about that lane. Then, once we craft, visualize, and rehearse the presentation, it’s time to let go.
 
-Secret number nine, stay in your lane. The next time you deliver a presentation, you’ll be compared to TED speakers. Your audience will be aware that there is a fresh, bold style of delivering information, a style that lifts their spirits, fills their souls, and inspires them to think differently about the world and their role in it. Today, people around the globe have viewed TED presentations more than one billion times online.
+And as Branson suggested, speak from the heart. This approach has never failed. Secret number nine, stay in your lane. The next time you deliver a presentation, you’ll be compared to TED speakers.
 
-Even the TED presenters themselves are getting better and better every year, an observation that TED curator Chris Anderson made at TED 2013. The TED style permeates much of our popular culture. When former president Bill Clinton appeared on Stephen Colbert’s show on Comedy Central, Colbert suggested that Clinton combine his conference, the Clinton Global Initiative, with TED, and they call it Bill and TED’s Excellent Initiative. It got the biggest laugh of the interview, but the joke would have bombed had the audience not known about TED or the type of presentations it’s known for.
+Your audience will be aware that there is a fresh, bold style of delivering information, a style that lifts their spirits, fills their souls, and inspires them to think differently about the world and their role in it. Today, people around the globe have viewed TED presentations more than one billion times online. Even the TED presenters themselves are getting better and better every year, an observation that TED curator Chris Anderson made at TED 2013. The TED style permeates much of our popular culture.
 
-While the TED style is infusing our culture, each person must find his or her own passion about the topic in order to make an authentic connection with the audience. Above all, do not try to be Tony Robbins, Dr. Jill, Bono, Sheryl Sandberg, Richard Branson, or any of the other people you’ve been hearing about. They have carved out a lane for themselves, and they drive it exceptionally well. Stay in your lane.
+When former president Bill Clinton appeared on Stephen Colbert’s show on Comedy Central, Colbert suggested that Clinton combine his conference, the Clinton Global Initiative, with TED, and they call it Bill and TED’s Excellent Initiative. It got the biggest laugh of the interview, but the joke would have bombed had the audience not known about TED or the type of presentations it’s known for. While the TED style is infusing our culture, each person must find his or her own passion about the topic in order to make an authentic connection with the audience.
+
+Above all, do not try to be Tony Robbins, Dr. Jill, Bono, Sheryl Sandberg, Richard Branson, or any of the other people you’ve been hearing about. They have carved out a lane for themselves, and they drive it exceptionally well. Stay in your lane.
 
 Hold the space. Be true to your authentic self, the best representation of yourself that you can possibly
 
@@ -2718,7 +3018,9 @@ I’m boring. If these are the types of phrases that you repeat to yourself day 
 
 Remember, your ideas are the currency of the 21st century. Your ideas will change the direction of your life, and potentially change the world. Don’t let anything, including negative labels, stand in your way.
 
-At the end of my interview with Ted Speaker Larry Smith, he said, “I wish you success with your book.” You see, Smith does not say good luck, because luck has little to do with success. You don’t need luck to be an inspiring speaker. You need examples, techniques, passion, and a lot of practice. You also need courage, the courage to follow your passion, articulate your ideas simply, and express what makes your heart sing.
+At the end of my interview with Ted Speaker Larry Smith, he said, “I wish you success with your book.”. You see, Smith does not say good luck, because luck has little to do with success. You don’t need luck to be an inspiring speaker. You need examples, techniques, passion, and a lot of practice.
 
-Let’s continue this conversation. Follow me on Twitter, at Carmine Gallo, or visit my website, carminegallo.com. I’d like to hear from you. Join you success, Carmine.
+You also need courage, the courage to follow your passion, articulate your ideas simply, and express what makes your heart sing. Let’s continue this conversation. Follow me on Twitter, at Carmine Gallo, or visit my website, carminegallo.com. I’d like to hear from you.
+
+Join you success, Carmine.
 

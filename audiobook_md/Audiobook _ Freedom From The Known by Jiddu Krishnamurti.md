@@ -62,21 +62,23 @@
 <a id="sec-000000"></a>
 ### ⏱️ [00:00:00 - 00:05:01]
 
-Man’s search, the tortured mind, the traditional approach, the trap of respectability, the human being and the individual, the battle of existence, the basic nature of man, responsibility, truth, self-transformation, dissipation of energy, freedom from authority. Man has throughout the ages been seeking something beyond himself, beyond material welfare, something we call truth, or God, or reality, a timeless state, something that cannot be disturbed by circumstances, by thought, or by human corruption. Man has always asked the question, what is it all about? Has life any meaning at all?
+Man’s search, the tortured mind, the traditional approach, the trap of respectability, the human being and the individual, the battle of existence, the basic nature of man, responsibility, truth, self-transformation, dissipation of energy, freedom from authority. Man has throughout the ages been seeking something beyond himself, beyond material welfare, something we call truth, or God, or reality, a timeless state, something that cannot be disturbed by circumstances, by thought, or by human corruption. Man has always asked the question, what is it all about?
 
-He sees the enormous confusion of life, the brutalities, the revolts, the wars, the endless divisions of religion, ideology and nationality, and with a sense of deep abiding frustration he asks, what is one to do? What is this thing we call living? Is there anything beyond it? And not finding this nameless thing of a thousand names which he has always sought, he has cultivated faith, faith in a saviour or an ideal, and faith invariably breeds violence.
+Has life any meaning at all? He sees the enormous confusion of life, the brutalities, the revolts, the wars, the endless divisions of religion, ideology and nationality, and with a sense of deep abiding frustration he asks, what is one to do? What is this thing we call living? Is there anything beyond it?
 
-In this constant battle which we call living, we try to set a code of conduct according to a society in which we are brought up, whether it be a communist society or a so-called free society, we accept a standard of behaviour as part of our tradition as Hindus or Muslims or Christians or whatever we happen to be. We look to someone to tell us what is right or wrong behaviour, what is right or wrong thought, and in following this pattern our conduct and our thinking become mechanical, our response is automatic.
+And not finding this nameless thing of a thousand names which he has always sought, he has cultivated faith, faith in a saviour or an ideal, and faith invariably breeds violence. In this constant battle which we call living, we try to set a code of conduct according to a society in which we are brought up, whether it be a communist society or a so-called free society, we accept a standard of behaviour as part of our tradition as Hindus or Muslims or Christians or whatever we happen to be.
 
-We can observe this very easily in ourselves. For centuries we have been spoon-fed by our teachers, by our authorities, by our books, our saints. We say, tell me all about it. What lies beyond the hills and the mountains and the earth?
+We look to someone to tell us what is right or wrong behaviour, what is right or wrong thought, and in following this pattern our conduct and our thinking become mechanical, our response is automatic. We can observe this very easily in ourselves. For centuries we have been spoon-fed by our teachers, by our authorities, by our books, our saints. We say, tell me all about it.
 
-And we are satisfied with their descriptions, which means that we live on words and our life is shallow and empty. We are second-hand people. We have lived on what we have been told, either guided by our inclinations, our tendencies, or compelled to accept by circumstances and environment. We are the result of all kinds of influences and there is nothing new in us, nothing that we have discovered for ourselves, nothing original, pristine, clear.
+What lies beyond the hills and the mountains and the earth? And we are satisfied with their descriptions, which means that we live on words and our life is shallow and empty. We are second-hand people. We have lived on what we have been told, either guided by our inclinations, our tendencies, or compelled to accept by circumstances and environment.
 
-Throughout theological history we have been assured by religious leaders that if we perform certain rituals, repeat certain prayers or mantras, conform to certain patterns, suppress our desires, control our thoughts, sublimate our passions, limit our appetites and refrain from sexual indulgence, we shall, after sufficient torture of the mind and body, find something beyond this little life. And that is what millions of so-called religious people have done throughout the ages, either in isolation, going off into the desert or into the mountains or a cave or wandering from village to village with a begging bowl, or in a group, joining a monastery, forcing their minds to conform to an established pattern.
+We are the result of all kinds of influences and there is nothing new in us, nothing that we have discovered for ourselves, nothing original, pristine, clear. Throughout theological history we have been assured by religious leaders that if we perform certain rituals, repeat certain prayers or mantras, conform to certain patterns, suppress our desires, control our thoughts, sublimate our passions, limit our appetites and refrain from sexual indulgence, we shall, after sufficient torture of the mind and body, find something beyond this little life.
 
-But a tortured mind, a broken mind, a mind which wants to escape from all turmoil, which has denied the outer world and been made dull through discipline and conformity, such a mind, however long it seeks, will find only according to its own distortion. So to discover whether there actually is or is not something beyond this anxious, guilty, fearful, competitive existence, it seems to me that one must have a completely different approach altogether. The traditional approach is from the periphery inwards, and through time, practice and renunciation, gradually to come upon that inner flower, that inner beauty and love.
+And that is what millions of so-called religious people have done throughout the ages, either in isolation, going off into the desert or into the mountains or a cave or wandering from village to village with a begging bowl, or in a group, joining a monastery, forcing their minds to conform to an established pattern. But a tortured mind, a broken mind, a mind which wants to escape from all turmoil, which has denied the outer world and been made dull through discipline and conformity, such a mind, however long it seeks, will find only according to its own distortion.
 
-In fact to do everything to make oneself narrow, petty and shoddy, peel off little by little, take time, tomorrow will do, next life will do, and when at last one comes to the centre, one finds there is nothing there, because one’s mind has been made incapable, dull and insensitive. Having observed this process, one asks oneself, is there not a different approach altogether? That is, is it not possible to explode from the centre?
+So to discover whether there actually is or is not something beyond this anxious, guilty, fearful, competitive existence, it seems to me that one must have a completely different approach altogether. The traditional approach is from the periphery inwards, and through time, practice and renunciation, gradually to come upon that inner flower, that inner beauty and love.
+
+In fact, to do everything to make oneself narrow, petty and shoddy, peel off little by little, take time, tomorrow will do, next life will do, and when at last one comes to the centre, one finds there is nothing there, because one’s mind has been made incapable, dull and insensitive. Having observed this process, one asks oneself, is there not a different approach altogether? That is, is it not possible to explode from the centre?
 
 
 <a id="sec-000501"></a>
@@ -114,15 +116,15 @@ All outward forms of change brought about by wars, revolutions, reformations, la
 
 It can only happen, I think, if each one of us recognizes the central fact that we as individuals, as human beings, in whatever part of the world we happen to live, or whatever culture we happen to belong to, are totally responsible for the whole state of the world. We are each one of us responsible for every war, because of the aggressiveness of our own lives, because of our nationalism, our selfishness, our gods, our prejudices, our ideals, all of which divide us.
 
-And only when we realize, not intellectually, but actually, as actually as we would recognize that we are hungry or in pain, that you and I are responsible for all this existing chaos, for all the misery throughout the entire world because we have contributed to it in our daily lives and are part of this monstrous society with its wars, divisions, its ugliness, brutality and greed, only then will we act. But what can a human being do, what can you and I do, to create a completely different society?
+And only when we realize, not intellectually, but actually, as actually as we would recognize that we are hungry or in pain, that you and. I are responsible for all this existing chaos, for all the misery throughout the entire world because we have contributed to it in our daily lives and are part of this monstrous society with its wars, divisions, its ugliness, brutality and greed, only then will we act. But what can a human being do, what can you and.
 
-We are asking ourselves a very serious question. Is there anything to be done at all? What can we do? Will somebody tell us?
+I do, to create a completely different society? We are asking ourselves a very serious question. Is there anything to be done at all? What can we do?
 
-People have told us, the so-called spiritual leaders who are supposed to understand these things better than we do, have told us by trying to twist and mould us into a new pattern, and that hasn’t led us very far. Sophisticated and learned men have told us, and that has led us no further. We have been told that all paths lead to truth. We have been told that all paths lead to truth.
+Will somebody tell us? People have told us, the so-called spiritual leaders who are supposed to understand these things better than we do, have told us by trying to twist and mould us into a new pattern, and that hasn’t led us very far. Sophisticated and learned men have told us, and that has led us no further. We have been told that all paths lead to truth.
 
-You have your path as a Hindu, you have your path as a Hindu, and someone else has his path as a Christian, and another as a Muslim. And they all meet at the same door, which is, when you look at it, so obviously absurd. Truth has no path, and that is the beauty of truth. It is living.
+We have been told that all paths lead to truth. You have your path as a Hindu, you have your path as a Hindu, and someone else has his path as a Christian, and another as a Muslim. And they all meet at the same door, which is, when you look at it, so obviously absurd. Truth has no path, and that is the beauty of truth.
 
-A dead thing has a path to it because it is static, but when you see that truth is something living, moving, which has no resting place, which is in no temple, mosque or church, which no religion, no teacher, no philosopher, nobody can lead you to, then you will also see that this living thing is what you actually are. Your anger, your brutality, your violence, your despair, the agony and sorrow you live in. In the understanding of all this is the truth, and you can understand it only if you know how to look at those things in your life.
+It is living. A dead thing has a path to it because it is static, but when you see that truth is something living, moving, which has no resting place, which is in no temple, mosque or church, which no religion, no teacher, no philosopher, nobody can lead you to, then you will also see that this living thing is what you actually are. Your anger, your brutality, your violence, your despair, the agony and sorrow you live in. In the understanding of all this is the truth, and you can understand it only if you know how to look at those things in your life.
 
 And you cannot look through an ideology. screen of words, through hopes and fears. So you see that you cannot depend upon anybody.
 
@@ -132,11 +134,13 @@ And you cannot look through an ideology. screen of words, through hopes and fear
 
 There is no guide, no teacher, no authority. There is only you, your relationship with others and with the world. There is nothing else. When you realize this, it either brings great despair, from which comes cynicism and bitterness.
 
-Or, in facing the fact that you and nobody else are responsible for the world and for yourself, for what you think, what you feel, how you act, all self-pity goes. Normally we thrive on blaming others, which is a form of self-pity. Can you and I, then, bring about in ourselves without any outside influence, without any persuasion, without any fear of punishment? Can we bring about, in the very essence of our being, a total revolution, a psychological mutation, so that we are no longer brutal, violent, competitive, anxious, fearful, greedy, envious, and all the rest of the manifestations of our nature which have built up the rotten society in which we live our daily lives?
+Or, in facing the fact that you and nobody else are responsible for the world and for yourself, for what you think, what you feel, how you act, all self-pity goes. Normally we thrive on blaming others, which is a form of self-pity. Can you and. I, then, bring about in ourselves without any outside influence, without any persuasion, without any fear of punishment?
 
-It is important to understand, from the very beginning, that I am not formulating any philosophy or any theological structure of ideas or theological concepts. It seems to me that all ideologies are utterly idiotic. What is important is not a philosophy of life, but to observe what is actually taking place in our daily life, inwardly and outwardly. If you observe very closely what is taking place and examine it, you will see that it is based on an intellectual conception, and the intellect is not the whole field of existence.
+Can we bring about, in the very essence of our being, a total revolution, a psychological mutation, so that we are no longer brutal, violent, competitive, anxious, fearful, greedy, envious, and all the rest of the manifestations of our nature which have built up the rotten society in which we live our daily lives? It is important to understand, from the very beginning, that. I am not formulating any philosophy or any theological structure of ideas or theological concepts. It seems to me that all ideologies are utterly idiotic.
 
-It is a fragment, and a fragment, however cleverly put together, however ancient and traditional, is still a small part of existence, whereas we have to deal with the totality of life. And when we look at what is taking place in the world, we begin to understand that there is no outer and inner process, there is only one unitary process. It is a whole, total movement, the inner movement expressing itself as the outer, and the outer reacting again on the inner. To be able to look at this seems to me all that is needed, because if we know how to look, then the whole thing becomes very clear.
+What is important is not a philosophy of life, but to observe what is actually taking place in our daily life, inwardly and outwardly. If you observe very closely what is taking place and examine it, you will see that it is based on an intellectual conception, and the intellect is not the whole field of existence. It is a fragment, and a fragment, however cleverly put together, however ancient and traditional, is still a small part of existence, whereas we have to deal with the totality of life.
+
+And when we look at what is taking place in the world, we begin to understand that there is no outer and inner process, there is only one unitary process. It is a whole, total movement, the inner movement expressing itself as the outer, and the outer reacting again on the inner. To be able to look at this seems to me all that is needed, because if we know how to look, then the whole thing becomes very clear.
 
 And to look needs no philosophy, no teacher. Nobody need tell you how to look. You just look. Can you then, seeing this whole picture, seeing it not verbally but actually, can you easily, spontaneously transform yourself?
 
@@ -144,11 +148,11 @@ That is the real issue. Is it possible to bring about a complete revolution in t
 
 You may say, I don’t want to change, and most people don’t, especially those who are fairly secure socially and economically or who hold dogmatic beliefs and are content to accept themselves and things as they are or in a slightly modified form. With those people we are not concerned. Or you may say more subtly, well, it’s too difficult, it’s not for me. In which case you will already have blocked yourself.
 
-In which case you will already have blocked yourself. You will have ceased to inquire, and it will be no use going any further. Or else you may say, I see the necessity for a fundamental inward change in myself, but how am I to bring it about? Please, please show me the way.
+In which case you will already have blocked yourself. You will have ceased to inquire, and it will be no use going any further. Or else you may say, I see the necessity for a fundamental inward change in myself, but how am. I to bring it about?
 
-Help me towards it. If you say that, then what you are concerned with is not change itself. You are not really interested in a fundamental revolution. You are merely searching for a method, a system, to bring about change.
+Please, please show me the way. Help me towards it. If you say that, then what you are concerned with is not change itself. You are not really interested in a fundamental revolution.
 
-If I were foolish enough to give you a system, and if you were foolish
+You are merely searching for a method, a system, to bring about change. If. I were foolish enough to give you a system, and if you were foolish
 
 
 <a id="sec-002015"></a>
@@ -160,19 +164,21 @@ You have your own particular inclinations, tendencies and pressures which confli
 
 A man who says, I want to change, tell me how to, seems very earnest, very serious, but he is not. He wants an authority whom he hopes will bring about order in himself. But can authority ever bring about inward order? Order imposed from without must always breed disorder.
 
-You may see the truth of this intellectually, but can you actually apply it so that your mind no longer projects any authority, the authority of a book, a teacher, a wife or husband, a parent, a friend, or of society? Because we have always functioned within the pattern of a formula, the formula becomes the ideology and the authority. But the moment you really see that the question how can I change, sets up a new authority, you have finished with authority forever. Let us state it again clearly.
+You may see the truth of this intellectually, but can you actually apply it so that your mind no longer projects any authority, the authority of a book, a teacher, a wife or husband, a parent, a friend, or of society? Because we have always functioned within the pattern of a formula, the formula becomes the ideology and the authority. But the moment you really see that the question how can. I change, sets up a new authority, you have finished with authority forever.
 
-I see that I must change completely from the roots of my being. I can no longer depend on any tradition, because tradition has brought about this colossal laziness, acceptance and obedience. I cannot possibly look to another to help me change. Not to any teacher, any God, any belief, any system, any outside pressure or influence.
+Let us state it again clearly. I see that. I must change completely from the roots of my being. I can no longer depend on any tradition, because tradition has brought about this colossal laziness, acceptance and obedience.
 
-What then takes place? First of all, can you reject all authority? If you can, it means you are no longer afraid. Then what happens?
+I cannot possibly look to another to help me change. Not to any teacher, any God, any belief, any system, any outside pressure or influence. What then takes place?
 
-When you reject something false, which you have been carrying about with you for generations, when you throw off a burden of any kind, what takes place? You have more energy, haven’t you? You have more capacity, more drive, greater intensity and vitality. If you do not feel this, then you have not thrown off the burden.
+First, of all, can you reject all authority? If you can, it means you are no longer afraid. Then what happens? When you reject something false, which you have been carrying about with you for generations, when you throw off a burden of any kind, what takes place?
 
-You have not discarded the dead weight of authority. But when you have thrown it off, and have this energy in which there is no fear at all, no fear of making a mistake, no fear of doing it right or wrong, then is not that energy itself the mutation? We need a tremendous amount of energy and we dissipate it through fear. But when there is this energy which comes from throwing off every form of fear, that energy itself produces the radical inward revolution.
+You have more energy, haven’t you? You have more capacity, more drive, greater intensity and vitality. If you do not feel this, then you have not thrown off the burden. You have not discarded the dead weight of authority.
 
-You do not have to do a thing about it. So you are left with yourself, and that is the actual state for a man who is very serious about all this. And as you are no longer looking to anybody or anything for help, you are already free to discover. And when there is freedom, there is energy.
+But when you have thrown it off, and have this energy in which there is no fear at all, no fear of making a mistake, no fear of doing it right or wrong, then is not that energy itself the mutation? We need a tremendous amount of energy and we dissipate it through fear. But when there is this energy which comes from throwing off every form of fear, that energy itself produces the radical inward revolution. You do not have to do a thing about it.
 
-And when there is freedom, it can never do anything wrong. Freedom is entirely different from revolt. There is no such thing as doing right or wrong when there is freedom. You are free, and from that center, you act.
+So you are left with yourself, and that is the actual state for a man who is very serious about all this. And as you are no longer looking to anybody or anything for help, you are already free to discover. And when there is freedom, there is energy. And when there is freedom, it can never do anything wrong.
+
+Freedom is entirely different from revolt. There is no such thing as doing right or wrong when there is freedom. You are free, and from that center, you act.
 
 
 <a id="sec-002519"></a>
@@ -190,11 +196,13 @@ And to take such a journey, we must travel light. We cannot be burdened with opi
 
 Forget all you have ever thought about yourself. We are going to start as if we knew nothing. It rained last night heavily, and now the skies are beginning to clear. It is a new, fresh day.
 
-Let us meet that fresh day as if it were the only day. Let us start on our journey together with all the remembrance of yesterday left behind, and begin to understand ourselves for the first time. Learning about ourselves, simplicity and humility, conditioning. If you think it is important to know about yourself only because I or someone else has told you it is important, then I am afraid all communication between us comes to an end.
+Let us meet that fresh day as if it were the only day. Let us start on our journey together with all the remembrance of yesterday left behind, and begin to understand ourselves for the first time. Learning about ourselves, simplicity and humility, conditioning. If you think it is important to know about yourself only because.
 
-But if we agree that it is vital that we understand ourselves completely, then you and I have quite a different relationship. Then we can explore together with a happy, careful and intelligent enquiry. I do not demand your faith. I am not setting myself up as an authority, I have nothing to teach you, no new philosophy, no new system, no new path to reality.
+I or someone else has told you it is important, then. I am afraid all communication between us comes to an end. But if we agree that it is vital that we understand ourselves completely, then you and. I have quite a different relationship.
 
-There is no path to reality any more than to truth. All authority of any
+Then we can explore together with a happy, careful and intelligent enquiry. I do not demand your faith. I am not setting myself up as an authority, I have nothing to teach you, no new philosophy, no new system, no new path to reality. There is no path to reality any more than to truth.
+
+All authority of any
 
 
 <a id="sec-003019"></a>
@@ -208,13 +216,17 @@ A petty, shoddy, second-hand entity. Face the fact, look at it. Do not run away 
 
 In inquiring into ourselves, we are not isolating ourselves from the rest of the world. It is not an unhealthy process. Man throughout the world is caught up in the same daily problems as ourselves. So in inquiring into ourselves, we are not being in the least neurotic, because there is no difference between the individual and the collective.
 
-That is an actual fact. I have created the world as I am. So don’t let us get lost in this battle between the part and the whole. I must become aware of the total field of my own self, which is the consciousness of the individual and of society.
+That is an actual fact. I have created the world as. I am. So don’t let us get lost in this battle between the part and the whole.
 
-It is only then when the mind goes beyond this individual and social consciousness that I can become a light to myself that never goes out. Now where do we begin to understand ourselves? Here am I and how am I to study myself, observe myself, see what is actually taking place inside myself. I can observe myself only in relationship because all life is relationship.
+I must become aware of the total field of my own self, which is the consciousness of the individual and of society. It is only then when the mind goes beyond this individual and social consciousness that. I can become a light to myself that never goes out. Now where do we begin to understand ourselves?
+
+Here am. I and how am. I to study myself, observe myself, see what is actually taking place inside myself. I can observe myself only in relationship because all life is relationship.
 
 It is no use sitting in a corner meditating about myself. I cannot exist by myself. I exist only in relationship to people, things and ideas. And in studying my relationship to outward things and people, as well as to inward things, I begin to understand myself.
 
-Every other form of understanding is merely an abstraction and I cannot study myself in abstraction. I am not an abstract entity. Therefore I have to study myself in actuality as I am, not as I wish to be. Understanding is not an intellectual process.
+Every other form of understanding is merely an abstraction and. I cannot study myself in abstraction. I am not an abstract entity. Therefore.
+
+I have to study myself in actuality as. I am, not as. I wish to be. Understanding is not an intellectual process.
 
 Acquiring knowledge about yourself and learning about yourself are two different things. For the knowledge you accumulate about yourself is always of the past and a mind that is burdened with the past is a sorrowful mind. Learning about yourself is not like learning a language or a technology or a science. Then you obviously have to accumulate and remember.
 
@@ -242,11 +254,11 @@ Then we do not observe what is. We look only at the projections we have made of 
 
 Because our minds are very complex, we have lost the quality of simplicity. I don’t mean simplicity in clothes or food, wearing only a loincloth or breaking a record fasting or any of that immature nonsense the saints cultivate. But the simplicity that can look directly at things without fear, that can look at ourselves as we actually are without any distortion, to say when we lie, we lie, not cover it up or run away from it. Also, in order to understand ourselves, we need a great deal of humility.
 
-If you start by saying, I know myself, you have already stopped learning about yourself. Or if you say, there is nothing much to learn about myself because I am just a bundle of memories, ideas, experiences and traditions, then you have also stopped learning about yourself. The moment you have that quality of innocence and humility, the moment you have a conclusion or start examining from knowledge, you are finished. For then you are translating every living thing in terms of the old.
+If you start by saying, I know myself, you have already stopped learning about yourself. Or if you say, there is nothing much to learn about myself because. I am just a bundle of memories, ideas, experiences and traditions, then you have also stopped learning about yourself. The moment you have that quality of innocence and humility, the moment you have a conclusion or start examining from knowledge, you are finished.
 
-Whereas if you have no foothold, if there is no certainty, no achievement, there is freedom to look, to achieve. And when you look with freedom, it is always new. A confident man is a dead human being. But how can we be free to look and learn when our minds from the moment we are born to the moment we die are shaped by a particular culture in the narrow pattern of the me?
+For then you are translating every living thing in terms of the old. Whereas if you have no foothold, if there is no certainty, no achievement, there is freedom to look, to achieve. And when you look with freedom, it is always new. A confident man is a dead human being.
 
-For centuries we have been conditioned by nationality, caste, class, tradition, religion, language, education, literature, art, custom, convention,
+But how can we be free to look and learn when our minds from the moment we are born to the moment we die are shaped by a particular culture in the narrow pattern of the me? For centuries we have been conditioned by nationality, caste, class, tradition, religion, language, education, literature, art, custom, convention,
 
 
 <a id="sec-004030"></a>
@@ -254,23 +266,25 @@ For centuries we have been conditioned by nationality, caste, class, tradition, 
 
 propaganda of all kinds, economic pressure, the food we eat, the climate we live in, our family, our friends, our experiences, every influence you can think of, and therefore our responses to every problem are conditioned. Are you aware that you are conditioned? That is the first thing to ask yourself, not how to be free of your conditioning. You may never be free of it, and if you say, I’m mother trap of another form of conditioning.
 
-So are you aware that you are conditioned? Do you know that even when you look at a tree and say that is an oak tree, or that is a banyan tree, the naming of the tree, which is botanical knowledge, has so conditioned your mind that the word comes between you and actually seeing the tree. To come in contact with the tree, you have to put your hand on it, and the word will not help you to touch it. How do you know you are conditioned?
+So are you aware that you are conditioned? Do you know that even when you look at a tree and say that is an oak tree, or that is a banyan tree, the naming of the tree, which is botanical knowledge, has so conditioned your mind that the word comes between you and actually seeing the tree. To come in contact with the tree, you have to put your hand on it, and the word will not help you to touch it.
 
-What tells you? What tells you you are hungry? Not as a theory, but as an actual fact of hunger. In the same way, how do you discover the actual fact that you are conditioned?
+How do you know you are conditioned? What tells you? What tells you you are hungry? Not as a theory, but as an actual fact of hunger.
 
-Isn’t it by your reaction to a problem, a challenge? You respond to every challenge according to your conditioning and your conditioning being inadequate will always react inadequately. When you become aware of it, does this conditioning of race, religion and culture bring a sense of imprisonment? Take only one form of conditioning, nationality.
+In the same way, how do you discover the actual fact that you are conditioned? Isn’t it by your reaction to a problem, a challenge? You respond to every challenge according to your conditioning and your conditioning being inadequate will always react inadequately. When you become aware of it, does this conditioning of race, religion and culture bring a sense of imprisonment?
 
-Become seriously, completely aware of it and see whether you enjoy it or rebel against it, and if you rebel against it, whether you want to break through all conditioning. If you are satisfied with your conditioning, you will obviously do nothing about it, but if you are not satisfied, when you become aware of it, you will realize that you never do anything about it, never, and therefore you are always living in the past with the dead. You will be able to see for yourself how you are conditioned only when there is a conflict in the continuity of pleasure or the avoidance of pain.
+Take only one form of conditioning, nationality. Become seriously, completely aware of it and see whether you enjoy it or rebel against it, and if you rebel against it, whether you want to break through all conditioning. If you are satisfied with your conditioning, you will obviously do nothing about it, but if you are not satisfied, when you become aware of it, you will realize that you never do anything about it, never, and therefore you are always living in the past with the dead.
 
-If everything is perfectly happy around you, your wife loves you, you love her, you have a nice house, nice children and plenty of money, then you are not aware of your conditioning at all. But when there is a disturbance, when your wife looks at someone else, or you lose your money, or are threatened with war or any other pain or anxiety, then you know you are conditioned. When you struggle against any kind of disturbance or defend yourself against any outer or inner threat, then you know you are conditioned.
+You will be able to see for yourself how you are conditioned only when there is a conflict in the continuity of pleasure or the avoidance of pain. If everything is perfectly happy around you, your wife loves you, you love her, you have a nice house, nice children and plenty of money, then you are not aware of your conditioning at all. But when there is a disturbance, when your wife looks at someone else, or you lose your money, or are threatened with war or any other pain or anxiety, then you know you are conditioned.
 
-And as most of us are disturbed most of the time, either superficially or deeply, that very disturbance indicates that we are conditioned. So long as the animal is petted, he reacts nicely, but the moment he is antagonized, the whole violence of his nature comes out. We are disturbed about life, politics, the economic situation, the horror, the brutality, the sorrow in the world as well as in ourselves, and from that we realize how terribly narrowly conditioned we are. And what shall we do?
+When you struggle against any kind of disturbance or defend yourself against any outer or inner threat, then you know you are conditioned. And as most of us are disturbed most of the time, either superficially or deeply, that very disturbance indicates that we are conditioned. So long as the animal is petted, he reacts nicely, but the moment he is antagonized, the whole violence of his nature comes out. We are disturbed about life, politics, the economic situation, the horror, the brutality, the sorrow in the world as well as in ourselves, and from that we realize how terribly narrowly conditioned we are.
 
-Accept that disturbance and live with it as most of us do? Get used to it as one gets used to living with a backache? Put up with it? There is a tendency in all of us to put up with things, to get used to them, to blame them on circumstances.
+And what shall we do? Accept that disturbance and live with it as most of us do? Get used to it as one gets used to living with a backache? Put up with it?
 
-Ah, if things were right, I would be different, we say. Or, give me the opportunity and I will fulfill myself. Or, I am crushed by the injustice of it all, always blaming our disturbances on others or on our own. environment or on the economic situation. If one gets used to disturbance, it means that one’s mind has become dull.
+There is a tendency in all of us to put up with things, to get used to them, to blame them on circumstances. Ah, if things were right, I would be different, we say. Or, give me the opportunity and. I will fulfill myself.
 
-Just as one can get so used to beauty around one that one no longer notices it, one gets indifferent, hard and callous, and one’s mind becomes duller and duller. If we do not get used to it, we try to escape from it by taking some kind of drug. Joining a political group, going to a football match or to a temple or church
+Or, I am crushed by the injustice of it all, always blaming our disturbances on others or on our own. environment or on the economic situation. If one gets used to disturbance, it means that one’s mind has become dull. Just as one can get so used to beauty around one that one no longer notices it, one gets indifferent, hard and callous, and one’s mind becomes duller and duller. If we do not get used to it, we try to escape from it by taking some kind of drug.
+
+Joining a political group, going to a football match or to a temple or church
 
 
 <a id="sec-004533"></a>
@@ -294,11 +308,11 @@ Consciousness. The totality of life. Awareness. When you become aware of your co
 
 Consciousness is the total field in which thought functions and relationships exist. All motives, intentions, desires, pleasures, fears, inspirations, longings, hopes, sorrows, joys, are in that field. But we have come to divide this consciousness into the active and the dormant, the upper and lower levels. That is, all the daily thoughts, feelings and activities on the surface and below them, the so-called subconscious.
 
-The things which we are not familiar, which express themselves occasionally through certain intimations, intuitions and dreams. We are occupied with one little corner of consciousness which is most of our life. The rest, which we call the subconscious, with all its motives, its fears, its racial and inherited qualities, we do not even know how to get into. Now I am asking you, is there such a thing as the subconscious at all? We use that word very freely.
+The things which we are not familiar, which express themselves occasionally through certain intimations, intuitions and dreams. We are occupied with one little corner of consciousness which is most of our life. The rest, which we call the subconscious, with all its motives, its fears, its racial and inherited qualities, we do not even know how to get into. Now.
 
-We have accepted that there is such a thing and all the phrases and jargon of the analysts and psychologists have seeped into the language. But is there such a thing? And why is it that we give such extraordinary importance to it? It seems to me that it is as trivial and stupid as the conscious mind, as narrow, bigoted, conditioned, anxious and tawdry.
+I am asking you, is there such a thing as the subconscious at all? We use that word very freely. We have accepted that there is such a thing and all the phrases and jargon of the analysts and psychologists have seeped into the language. But is there such a thing?
 
-So is it possible to be totally aware of the whole field of consciousness and not
+And why is it that we give such extraordinary importance to it? It seems to me that it is as trivial and stupid as the conscious mind, as narrow, bigoted, conditioned, anxious and tawdry. So is it possible to be totally aware of the whole field of consciousness and not
 
 
 <a id="sec-005034"></a>
@@ -318,15 +332,17 @@ Now can you do that? Most of us cannot, because most of us have never approached
 
 You will attend with complete self-abandonment. And then there is no room for fear, no room for contradiction, and therefore no conflict. Attention is not the same thing as concentration. Concentration is exclusion.
 
-Attention, which is total awareness, excludes nothing. It seems to me that most of us are not aware, not only of what we are talking about, but of our environment, the colours around us, the people, the shape of the trees, the clouds, the movement of water. Perhaps it is because we are so concerned with ourselves, with our own petty little problems, our own ideas, our own pleasures, pursuits and ambitions, that we are not objectively aware. And yet we talk a great deal about awareness.
+Attention, which is total awareness, excludes nothing. It seems to me that most of us are not aware, not only of what we are talking about, but of our environment, the colours around us, the people, the shape of the trees, the clouds, the movement of water. Perhaps, it is because we are so concerned with ourselves, with our own petty little problems, our own ideas, our own pleasures, pursuits and ambitions, that we are not objectively aware. And yet we talk a great deal about awareness.
 
-Once in India I was travelling in a car. There was a chauffeur driving and I was sitting beside him. There were three gentlemen behind discussing awareness very intently and asking me questions about awareness. And unfortunately at that moment the driver was looking somewhere else and he ran over a goat.
+Once in India. I was travelling in a car. There was a chauffeur driving and. I was sitting beside him.
 
-And the three gentlemen were still discussing awareness, totally unaware that they had run over a goat. When this lack of attention was pointed out to those gentlemen who were trying to be aware, it was a great surprise to them. And with most of us it is the same. We are not aware of outward things or of inward things.
+There were three gentlemen behind discussing awareness very intently and asking me questions about awareness. And unfortunately at that moment the driver was looking somewhere else and he ran over a goat. And the three gentlemen were still discussing awareness, totally unaware that they had run over a goat. When this lack of attention was pointed out to those gentlemen who were trying to be aware, it was a great surprise to them.
 
-If you want to understand the beauty of a bird, a fly or a leaf, or a person with all his complexities, you have to give your whole attention, which is awareness. And you can give your whole attention only when you care, which means that you really love to understand. Then you give your whole heart and mind to find out. Such awareness is like living with a snake in the room.
+And with most of us it is the same. We are not aware of outward things or of inward things. If you want to understand the beauty of a bird, a fly or a leaf, or a person with all his complexities, you have to give your whole attention, which is awareness. And you can give your whole attention only when you care, which means that you really love to understand.
 
-You watch its every movement. You are very very sensitive to the slightest sound it makes. Such a state of
+Then you give your whole heart and mind to find out. Such awareness is like living with a snake in the room. You watch its every movement. You are very very sensitive to the slightest sound it makes.
+
+Such a state of
 
 
 <a id="sec-005534"></a>
@@ -334,25 +350,33 @@ You watch its every movement. You are very very sensitive to the slightest sound
 
 attention is total energy. In such awareness the totality of yourself is revealed in an instant. When you have looked at yourself so deeply you can go much deeper. When we use the word deeper we are not being comparative.
 
-We think in comparisons, deep and shallow, happy and unhappy. We are always measuring, comparing. Now is there such a state as the shallow and the deep in oneself? When I say my mind is shallow, petty, narrow, limited, how do I know all these things?
+We think in comparisons, deep and shallow, happy and unhappy. We are always measuring, comparing. Now is there such a state as the shallow and the deep in oneself? When.
 
-Because I have compared my mind with your mind, which is brighter, has more capacity, is more intelligent and alert. Do I know my pettiness without comparison? When I am hungry I do not compare that hunger with yesterday’s hunger. Yesterday’s hunger is an idea, a memory.
+I say my mind is shallow, petty, narrow, limited, how do. I know all these things? Because. I have compared my mind with your mind, which is brighter, has more capacity, is more intelligent and alert.
 
-If I am all the time measuring myself against you, struggling to be like you, then I am denying what I am myself. Therefore I am creating an illusion. When I have understood that comparison in any form leads only to greater illusion and greater misery, just as when I analyze myself, add to my knowledge of myself bit by bit or identify myself with something outside myself, whether it be the state, a saviour or an ideology, when I understand that all such processes lead only to greater conformity and therefore greater conflict, when I see all this I put it completely away.
+Do. I know my pettiness without comparison? When. I am hungry.
 
-Then my mind is no longer seeking. It is very important to understand this. Then my mind is no longer groping, searching, questioning. This does not mean that my mind is satisfied with things as they are, but such a mind has no illusion.
+I do not compare that hunger with yesterday’s hunger. Yesterday’s hunger is an idea, a memory. If. I am all the time measuring myself against you, struggling to be like you, then.
 
-Such a mind can then move in a totally different dimension. The dimension in which we usually live, the life of every day which is pain, pleasure and fear, has conditioned the mind, limited the nature of the mind, and when that pain, pleasure and fear have gone, which does not mean that you no longer have joy, joy is something entirely different from pleasure. Then the mind functions in a different dimension in which there is no conflict, no sense of otherness. Verbally we can only go so far.
+I am denying what. I am myself. Therefore. I am creating an illusion.
 
-What lies beyond cannot be put into words because the word is not the thing. Up to now we can describe, explain, but no words or explanations can open the door. What will open the door is daily awareness and attention. Awareness of how we speak, what we say, how we walk, what we think.
+When. I have understood that comparison in any form leads only to greater illusion and greater misery, just as when. I analyze myself, add to my knowledge of myself bit by bit or identify myself with something outside myself, whether it be the state, a saviour or an ideology, when. I understand that all such processes lead only to greater conformity and therefore greater conflict, when.
 
-It is like cleaning a room and keeping it in order. Keeping the room in order is important in one sense, but totally unimportant in another. There must be order in the room, but order will not open the door or the window. What will open the door is not your volition or desire.
+I see all this. I put it completely away. Then my mind is no longer seeking. It is very important to understand this.
 
-You cannot possibly invite the other. All that you can do is to keep the room in order, which is to be virtuous for itself, not for what it will bring. To be sane, rational, orderly. Then perhaps, if you are lucky, the window will open and the breeze will come in.
+Then my mind is no longer groping, searching, questioning. This does not mean that my mind is satisfied with things as they are, but such a mind has no illusion. Such a mind can then move in a totally different dimension. The dimension in which we usually live, the life of every day which is pain, pleasure and fear, has conditioned the mind, limited the nature of the mind, and when that pain, pleasure and fear have gone, which does not mean that you no longer have joy, joy is something entirely different from pleasure.
 
-Or it may not. It depends on the state of your mind, and that state of mind can be understood only by yourself, by watching it and never trying to shape it, never taking sides, never opposing, never agreeing, never justifying, never condemning, never judging. Which means watching it without any choice. And out of this choiceless awareness, perhaps the door will open, and you will know what that dimension is in which there is no con- conflict and no time.
+Then the mind functions in a different dimension in which there is no conflict, no sense of otherness. Verbally we can only go so far. What lies beyond cannot be put into words because the word is not the thing. Up to now we can describe, explain, but no words or explanations can open the door.
 
-Pursuit of pleasure, desire, perversion by thought, memory, joy. We said in the last chapter that joy was something entirely different from pleasure. So let us find out what is involved in pleasure and whether it is at all possible to live in a world that does not contain pleasure but a tremendous sense of joy, of bliss. We are
+What will open the door is daily awareness and attention. Awareness of how we speak, what we say, how we walk, what we think. It is like cleaning a room and keeping it in order. Keeping the room in order is important in one sense, but totally unimportant in another.
+
+There must be order in the room, but order will not open the door or the window. What will open the door is not your volition or desire. You cannot possibly invite the other. All that you can do is to keep the room in order, which is to be virtuous for itself, not for what it will bring.
+
+To be sane, rational, orderly. Then perhaps, if you are lucky, the window will open and the breeze will come in. Or it may not. It depends on the state of your mind, and that state of mind can be understood only by yourself, by watching it and never trying to shape it, never taking sides, never opposing, never agreeing, never justifying, never condemning, never judging.
+
+Which means watching it without any choice. And out of this choiceless awareness, perhaps the door will open, and you will know what that dimension is in which there is no con- conflict and no time. Pursuit of pleasure, desire, perversion by thought, memory, joy. We said in the last chapter that joy was something entirely different from pleasure.
+
+So let us find out what is involved in pleasure and whether it is at all possible to live in a world that does not contain pleasure but a tremendous sense of joy, of bliss. We are
 
 
 <a id="sec-010034"></a>
@@ -370,17 +394,21 @@ But if we pursue it, let us do so with our eyes open, knowing that a mind that i
 
 Why is it we sacrifice and suffer on the thin thread of pleasure? What is pleasure and how does it come into being? I wonder if any of you have asked yourself these questions and followed the answers to the very end. Pleasure comes into being through four stages, perception, sensation, contact and desire.
 
-I see a beautiful motor car, say, then I get a sensation, a reaction from looking at it. Then I touch it or imagine touching it, and then there is the desire to own and show myself off in it. Or I see a lovely cloud, or a mountain clear against the sky, or a leaf that has just come in springtime, or a deep valley full of loveliness and splendor, or a glorious sunset, or a beautiful face, intelligent, alive, not self-conscious and therefore no longer beautiful.
+I see a beautiful motor car, say, then. I get a sensation, a reaction from looking at it. Then. I touch it or imagine touching it, and then there is the desire to own and show myself off in it.
 
-I look at these things with intense delight, and as I observe them there is no observer, but only sheer beauty like love. For a moment I am absent with all my problems, anxieties and miseries. There is only that marvelous thing. I can look at it with joy, and the next moment forget it, or else the mind steps in and then the problem begins.
+Or. I see a lovely cloud, or a mountain clear against the sky, or a leaf that has just come in springtime, or a deep valley full of loveliness and splendor, or a glorious sunset, or a beautiful face, intelligent, alive, not self-conscious and therefore no longer beautiful. I look at these things with intense delight, and as. I observe them there is no observer, but only sheer beauty like love.
 
-My mind thinks over what it has seen and thinks how beautiful it was. I tell myself I should like to see it again many times. Thought begins to compare, judge and say, I must have it again tomorrow. The continuity of an experience that has given delight for a second is sustained by thought.
+For a moment. I am absent with all my problems, anxieties and miseries. There is only that marvelous thing. I can look at it with joy, and the next moment forget it, or else the mind steps in and then the problem begins.
 
-It is the same with sexual desire or any other form of desire. There is nothing wrong with desire. To react is perfectly normal. If you stick a pin in me, I shall react unless I am paralyzed.
+My mind thinks over what it has seen and thinks how beautiful it was. I tell myself. I should like to see it again many times. Thought begins to compare, judge and say, I must have it again tomorrow.
 
-But then thought steps in and chews over the delight and turns it into pleasure. Thought wants to repeat the experience. And the more you repeat, the more mechanical it becomes. The more you think about it, the more strength thought gives to pleasure.
+The continuity of an experience that has given delight for a second is sustained by thought. It is the same with sexual desire or any other form of desire. There is nothing wrong with desire. To react is perfectly normal.
 
-So thought creates and sustains pleasure through desire and gives it continuity, and therefore the natural reaction of desire to any beautiful thing is perverted by thought. Thought turns it into a memory, and memory is then nourished by thinking about it over and over again. Of course, memory has a place
+If you stick a pin in me, I shall react unless. I am paralyzed. But then thought steps in and chews over the delight and turns it into pleasure. Thought wants to repeat the experience.
+
+And the more you repeat, the more mechanical it becomes. The more you think about it, the more strength thought gives to pleasure. So thought creates and sustains pleasure through desire and gives it continuity, and therefore the natural reaction of desire to any beautiful thing is perverted by thought. Thought turns it into a memory, and memory is then nourished by thinking about it over and over again.
+
+Of course, memory has a place
 
 
 <a id="sec-010535"></a>
@@ -392,55 +420,55 @@ Have you ever noticed that when you respond to something totally, with all your 
 
 Anything that is the result of memory is old and therefore never free. There is no such thing as freedom of thought, it is sheer nonsense. Thought is never new, for thought is the response of memory, experience, knowledge. Thought, because it is old, makes this thing which you have looked at with delight and felt tremendously for the moment old.
 
-From the old you derive pleasure, never from the new. There is no time in the new. So if you can look at all things without allowing pleasure to creep in, at a face, a bird, the color of a sari, the beauty of a sheet of water shimmering in the sun, or anything that gives delight, if you can look at it without wanting the experience to be repeated, then there will be no pain, no fear, and therefore tremendous joy. It is the struggle to repeat and perpetuate pleasure which turns it into pain.
+From the old you derive pleasure, never from the new. There is no time in the new. So if you can look at all things without allowing pleasure to creep in, at a face, a bird, the color of a sari, the beauty of a sheet of water shimmering in the sun, or anything that gives delight, if you can look at it without wanting the experience to be repeated, then there will be no pain, no fear, and therefore tremendous joy.
 
-Watch it in yourself. The very demand for the repetition of pleasure brings about pain, because it is not the same as it was yesterday. You struggle to achieve the same delight, not only to your aesthetic sense, but the same inward quality of the mind. And you are hurt and disappointed because it is denied to you.
+It is the struggle to repeat and perpetuate pleasure which turns it into pain. Watch it in yourself. The very demand for the repetition of pleasure brings about pain, because it is not the same as it was yesterday. You struggle to achieve the same delight, not only to your aesthetic sense, but the same inward quality of the mind.
 
-Have you observed what happens to you when you are denied a little pleasure? When you don’t get what you want, you become anxious, envious, hateful. Have you noticed when you have been denied the pleasure of drinking or smoking or sex or whatever it is? Have you noticed what battles you go through?
+And you are hurt and disappointed because it is denied to you. Have you observed what happens to you when you are denied a little pleasure? When you don’t get what you want, you become anxious, envious, hateful. Have you noticed when you have been denied the pleasure of drinking or smoking or sex or whatever it is?
 
-And all that is a form of fear, isn’t it? You are afraid of not getting what you want, or of losing what you have. When some particular faith or ideology which you have held for years is shaken or torn away from you by logic or life, aren’t you afraid of standing alone? That belief has for years given you satisfaction and pleasure.
+Have you noticed what battles you go through? And all that is a form of fear, isn’t it? You are afraid of not getting what you want, or of losing what you have. When some particular faith or ideology which you have held for years is shaken or torn away from you by logic or life, aren’t you afraid of standing alone?
 
-And when it is taken away, you are left stranded, empty. And the fear remains until you find another form of pleasure, another belief. It seems to me so simple, and because it is so simple, we refuse to see its simplicity. We like to complicate everything.
+That belief has for years given you satisfaction and pleasure. And when it is taken away, you are left stranded, empty. And the fear remains until you find another form of pleasure, another belief. It seems to me so simple, and because it is so simple, we refuse to see its simplicity.
 
-When your wife turns away from you, aren’t you jealous? Aren’t you angry? Don’t you hate the man who has attracted her? And what is all that but fear of losing something which has given you a great deal of pleasure, a companionship, a certain quality of assurance, and the satisfaction of possession?
+We like to complicate everything. When your wife turns away from you, aren’t you jealous? Aren’t you angry? Don’t you hate the man who has attracted her?
 
-So if you understand that where there is a search for pleasure there must be pain, live that way if you want to, but don’t just slip into it. If you want to end pleasure though, which is to end pain, you must be totally attentive to the whole structure of pleasure, not cut it out as monks and sannyasis do, never looking at a woman because they think it is a sin and thereby destroying the vitality of their understanding. But seeing the whole meaning and significance of pleasure, then you will have tremendous joy in life.
+And what is all that but fear of losing something which has given you a great deal of pleasure, a companionship, a certain quality of assurance, and the satisfaction of possession? So if you understand that where there is a search for pleasure there must be pain, live that way if you want to, but don’t just slip into it. If you want to end pleasure though, which is to end pain, you must be totally attentive to the whole structure of pleasure, not cut it out as monks and sannyasis do, never looking at a woman because they think it is a sin and thereby destroying the vitality of their understanding.
 
-You cannot think about joy. Joy is an immediate thing, and by thinking about it you turn it into pleasure. Living in the present is the instant perception of beauty and the great delight in it without seeking pleasure from it. Self-concern.
+But seeing the whole meaning and significance of pleasure, then you will have tremendous joy in life. You cannot think about joy. Joy is an immediate thing, and by thinking about it you turn it into pleasure. Living in the present is the instant perception of beauty and the great delight in it without seeking pleasure from it.
 
-Craving for position. Fears and total fear. Fragmentation of thought. Ending of fear.
+Self-concern. Craving for position. Fears and total fear. Fragmentation of thought.
 
-Before we go any further, I would like to ask you what is your fundamental, lasting interest in life? Putting all oblique answers aside and dealing with this question directly and honestly. What would you answer? Do you know?
+Ending of fear. Before we go any further, I would like to ask you what is your fundamental, lasting interest in life? Putting all oblique answers aside and dealing with this question directly and honestly. What would you answer?
 
-Isn’t it yourself? Anyway,
+Do you know? Isn’t it yourself? Anyway,
 
 
 <a id="sec-011039"></a>
 ### ⏱️ [01:10:39 - 01:15:39]
 
-that is what most of us would say if we answered truthfully. I am interested in my progress, my job, my family, the little corner in which I live, in getting a better position for myself, more prestige, more power, more domination over others, and so on. I think it would be logical, wouldn’t it, to admit to ourselves that that is what most of us are primarily interested in. Me, first.
+that is what most of us would say if we answered truthfully. I am interested in my progress, my job, my family, the little corner in which. I live, in getting a better position for myself, more prestige, more power, more domination over others, and so on. I think it would be logical, wouldn’t it, to admit to ourselves that that is what most of us are primarily interested in.
 
-Some of us would say that it is wrong to be primarily interested in ourselves, but what is wrong about it except that we seldom decently, honestly admit it? If we do, we are rather ashamed of it. So there it is. One is fundamentally interested in oneself and for various ideological or traditional reasons one thinks it is wrong.
+Me, first. Some of us would say that it is wrong to be primarily interested in ourselves, but what is wrong about it except that we seldom decently, honestly admit it? If we do, we are rather ashamed of it. So there it is.
 
-But what one thinks is irrelevant. Why introduce the factor of its being wrong? That is an idea, a concept. What is a fact is that one is fundamentally and lastingly interested in oneself.
+One is fundamentally interested in oneself and for various ideological or traditional reasons one thinks it is wrong. But what one thinks is irrelevant. Why introduce the factor of its being wrong? That is an idea, a concept.
 
-You may say that it is more satisfactory to help another than to think about yourself. What is the difference? It is still self-concerned. If it gives you greater satisfaction to help others, you are concerned about what will give you greater satisfaction.
+What is a fact is that one is fundamentally and lastingly interested in oneself. You may say that it is more satisfactory to help another than to think about yourself. What is the difference? It is still self-concerned.
 
-Why bring any ideological concept into it? Why this double thinking? Why not say what I really want is satisfaction, whether in sex or in helping others, or in becoming a great saint, scientist or politician. It is the same process, isn’t it?
+If it gives you greater satisfaction to help others, you are concerned about what will give you greater satisfaction. Why bring any ideological concept into it? Why this double thinking? Why not say what.
 
-Satisfaction in all sorts of ways, subtle and obvious, is what we want. When we say we want freedom, we want it because we think it may be wonderfully satisfying. And the ultimate satisfaction, of course, is this peculiar idea of self-realization. What we are really seeking is a satisfaction in which there is no dissatisfaction at all.
+I really want is satisfaction, whether in sex or in helping others, or in becoming a great saint, scientist or politician. It is the same process, isn’t it? Satisfaction in all sorts of ways, subtle and obvious, is what we want. When we say we want freedom, we want it because we think it may be wonderfully satisfying.
 
-Most of us crave the satisfaction of having a position in society because we are afraid of being a nobody. Society is so constructed that a citizen who has a position of respect is treated with great courtesy, whereas a man who has no position is kicked around. Everyone in the world wants a position, whether in society, in the family, or to sit on the right hand of God. And this position must be recognized by others, otherwise it is no position at all.
+And the ultimate satisfaction, of course, is this peculiar idea of self-realization. What we are really seeking is a satisfaction in which there is no dissatisfaction at all. Most of us crave the satisfaction of having a position in society because we are afraid of being a nobody. Society is so constructed that a citizen who has a position of respect is treated with great courtesy, whereas a man who has no position is kicked around.
 
-We must always sit on the platform. Inwardly we are whirlpools of misery and mischief, and therefore to be regarded outwardly as a great figure is very gratifying. This craving for position, for prestige, for power, to be recognized by society as being outstanding in some way, is a wish to dominate others, and this wish to dominate is a form of aggression. The saint who seeks a position in regard to his saintliness is as aggressive as the chicken pecking in the farmyard.
+Everyone in the world wants a position, whether in society, in the family, or to sit on the right hand of God. And this position must be recognized by others, otherwise it is no position at all. We must always sit on the platform. Inwardly we are whirlpools of misery and mischief, and therefore to be regarded outwardly as a great figure is very gratifying.
 
-And what is the cause of this aggressiveness? It is fear, isn’t it? Fear is one of the greatest problems in life. A mind that is caught in fear lives in confusion, in conflict, and therefore must be violent, distorted, and aggressive.
+This craving for position, for prestige, for power, to be recognized by society as being outstanding in some way, is a wish to dominate others, and this wish to dominate is a form of aggression. The saint who seeks a position in regard to his saintliness is as aggressive as the chicken pecking in the farmyard. And what is the cause of this aggressiveness? It is fear, isn’t it?
 
-It dare not move away from its own patterns of thinking, and this breeds hypocrisy. Until we are free from fear, climb the highest mountain, invent every kind of God, we will always remain in darkness. Living in such a corrupt, stupid society as we do, with the competitive education we receive which engenders fear, we are all burdened with fears of some kind, and fear is a dreadful thing which warps, twists, and dulls our days. There is physical fear, but that is a response we have inherited from the animals.
+Fear is one of the greatest problems in life. A mind that is caught in fear lives in confusion, in conflict, and therefore must be violent, distorted, and aggressive. It dare not move away from its own patterns of thinking, and this breeds hypocrisy. Until we are free from fear, climb the highest mountain, invent every kind of God, we will always remain in darkness.
 
-It is psychological fears we are concerned with here. For when we We understand the deep-rooted psychological fears we will be able to meet the animal fears, whereas to be concerned with the animal fears first will never help us to understand the psychological fears. We are all afraid about something. There is no fear in abstraction, it is always in relation to something.
+Living in such a corrupt, stupid society as we do, with the competitive education we receive which engenders fear, we are all burdened with fears of some kind, and fear is a dreadful thing which warps, twists, and dulls our days. There is physical fear, but that is a response we have inherited from the animals. It is psychological fears we are concerned with here. For when we.
 
-Do you know your own fears, fear of losing your job, of not having enough food or money, or what your neighbors or the public think about you, or not being a success of losing your position in society, of being despised or ridiculed, fear of pain and disease, of
+We understand the deep-rooted psychological fears we will be able to meet the animal fears, whereas to be concerned with the animal fears first will never help us to understand the psychological fears. We are all afraid about something. There is no fear in abstraction, it is always in relation to something. Do you know your own fears, fear of losing your job, of not having enough food or money, or what your neighbors or the public think about you, or not being a success of losing your position in society, of being despised or ridiculed, fear of pain and disease, of
 
 
 <a id="sec-011539"></a>
@@ -450,13 +478,19 @@ domination, of never knowing what love is or of not being loved, of losing your 
 
 Or invent ideas and images to cover them? But to run away from fear is only to increase it. One of the major causes of fear is that we do not want to face ourselves as we are. So, as well as the fears themselves, we have to examine the network of escapes we have developed to rid ourselves of them.
 
-If the mind in which is included the brain tries to overcome fear, to suppress it, discipline it, control it, translate it into terms of something else, there is friction, there is conflict and that conflict is a waste of energy. The first thing to ask ourselves then is what is fear and how does it arise? What do we mean by the word fear itself? I am asking myself what is fear, not what I am afraid of?
+If the mind in which is included the brain tries to overcome fear, to suppress it, discipline it, control it, translate it into terms of something else, there is friction, there is conflict and that conflict is a waste of energy. The first thing to ask ourselves then is what is fear and how does it arise? What do we mean by the word fear itself? I am asking myself what is fear, not what.
 
-I lead a certain kind of life, I think in a certain pattern, I have certain beliefs and dogmas and I don’t want those patterns of existence to be disturbed because I have my roots in them. I don’t want them to be disturbed because the disturbance produces a state of unknowing and I dislike that. If I am torn away from everything I know and believe, I want to be reasonably certain of the state of things to which I am going. So the brain cells have created a pattern and those brain cells refuse to create another pattern which may be uncertain.
+I am afraid of? I lead a certain kind of life, I think in a certain pattern, I have certain beliefs and dogmas and. I don’t want those patterns of existence to be disturbed because. I have my roots in them.
 
-The movement from certainty to uncertainty is what I call fear. At the actual moment as I am sitting here I am not afraid, I am not afraid in the present. Nothing is happening to me, nobody is threatening me or taking anything away from me. But beyond the actual moment there is a deeper layer in the mind which is consciously or unconsciously thinking of what might happen in the future or worrying that something from the past may overtake me.
+I don’t want them to be disturbed because the disturbance produces a state of unknowing and. I dislike that. If. I am torn away from everything.
 
-So I am afraid of the past and of the future. So I am afraid of the past and of the future. I have divided time into the past and the future. Thought steps in, says be careful it does not happen again or be prepared for the future.
+I know and believe, I want to be reasonably certain of the state of things to which. I am going. So the brain cells have created a pattern and those brain cells refuse to create another pattern which may be uncertain. The movement from certainty to uncertainty is what.
+
+I call fear. At the actual moment as. I am sitting here. I am not afraid, I am not afraid in the present.
+
+Nothing is happening to me, nobody is threatening me or taking anything away from me. But beyond the actual moment there is a deeper layer in the mind which is consciously or unconsciously thinking of what might happen in the future or worrying that something from the past may overtake me. So. I am afraid of the past and of the future.
+
+So. I am afraid of the past and of the future. I have divided time into the past and the future. Thought steps in, says be careful it does not happen again or be prepared for the future.
 
 The future may be dangerous for you, you have got something now but you may lose it, you may die tomorrow, your wife may run away, you may lose your job, you may never become famous, you may be lonely, you want to be quite sure of tomorrow. Now take your own particular form of fear, look at it, watch your reactions to it. Can you look at it without any movement of escape, justification, condemnation or suppression? Can you look at that fear without the word which causes the fear?
 
@@ -474,23 +508,25 @@ The actual fact is that you are well but the experience which has remained in th
 
 So we see that thought engenders one kind of fear but is there fear at all apart from that? Is fear always the result of thought and if it is, is there any other form of fear? We are afraid of death that is something that is going to happen tomorrow or the day after tomorrow in time. There is a distance between actuality and what will be.
 
-Now thought has experienced this state by observing death it says I am going to die. Thought creates the fear of death and if it doesn’t is there any fear at all? Is fear the result of thought? If it is, thought being always old, fear is always old.
+Now thought has experienced this state by observing death it says. I am going to die. Thought creates the fear of death and if it doesn’t is there any fear at all? Is fear the result of thought?
 
-As we have said, there is no new thought. If we recognize it, it is already old. So what we are afraid of is the repetition of the old, the thought of what has been projecting into the future. Therefore thought is responsible for fear.
+If it is, thought being always old, fear is always old. As we have said, there is no new thought. If we recognize it, it is already old. So what we are afraid of is the repetition of the old, the thought of what has been projecting into the future.
 
-This is so, you can see it for yourself. When you are confronted with something immediately, there is no fear. It is only when thought comes in that there is fear. Therefore our question now is, is it possible for the mind to live completely, totally in the present?
+Therefore, thought is responsible for fear. This is so, you can see it for yourself. When you are confronted with something immediately, there is no fear. It is only when thought comes in that there is fear.
 
-It is only such a mind that has no fear but to understand this you have to understand the structure of thought, memory and time. And in understanding it, understanding not intellectually, not verbally but actually with your heart, your mind, your guts, you will be free from fear. Then the mind can use thought without creating fear. Thought like memory is of course necessary for daily living.
+Therefore, our question now is, is it possible for the mind to live completely, totally in the present? It is only such a mind that has no fear but to understand this you have to understand the structure of thought, memory and time. And in understanding it, understanding not intellectually, not verbally but actually with your heart, your mind, your guts, you will be free from fear. Then the mind can use thought without creating fear.
 
-It is the only instrument we have for communication, working at our jobs and so forth. Thought is the response to memory. Memory which has been accumulated through experience, knowledge, tradition, time. And from this background of memory we react, and this reaction is thinking.
+Thought like memory is of course necessary for daily living. It is the only instrument we have for communication, working at our jobs and so forth. Thought is the response to memory. Memory which has been accumulated through experience, knowledge, tradition, time.
 
-So thought is essential at certain levels, but when thought projects itself psychologically as the future and the past, creating fear as well as pleasure, the mind is made dull and therefore inaction is inevitable. So I ask myself, why, why, why do I think about the future and the past in terms of pleasure and pain, knowing that such thought creates fear? Isn’t it possible for thought psychologically to stop, for otherwise fear will never end? One of the functions of thought is to be occupied all the time with something.
+And from this background of memory we react, and this reaction is thinking. So thought is essential at certain levels, but when thought projects itself psychologically as the future and the past, creating fear as well as pleasure, the mind is made dull and therefore inaction is inevitable. So. I ask myself, why, why, why do.
 
-Most of us want to have our minds continually occupied so that we are prevented from seeing ourselves as we actually are. We are afraid to be empty. We are afraid to look at our fears. Consciously you can be aware of your fears, but at the deeper levels of your mind, are you aware of them?
+I think about the future and the past in terms of pleasure and pain, knowing that such thought creates fear? Isn’t it possible for thought psychologically to stop, for otherwise fear will never end? One of the functions of thought is to be occupied all the time with something. Most of us want to have our minds continually occupied so that we are prevented from seeing ourselves as we actually are.
 
-And how are you going to find out the fears that are hidden, secret? Is fear to be divided into the conscious and the subconscious? This is a very important question. The specialist, the psychologist, the analyst have divided fear into deep and superficial layers.
+We are afraid to be empty. We are afraid to look at our fears. Consciously you can be aware of your fears, but at the deeper levels of your mind, are you aware of them? And how are you going to find out the fears that are hidden, secret?
 
-But if you follow what the psychologist says, or what I say, you are misunderstanding our theories, our dogmas, our knowledge. You are not understanding yourself. You cannot understand yourself according to Freud or Jung, or according to me. Other people’s theories have no importance whatever.
+Is fear to be divided into the conscious and the subconscious? This is a very important question. The specialist, the psychologist, the analyst have divided fear into deep and superficial layers. But if you follow what the psychologist says, or what.
+
+I say, you are misunderstanding our theories, our dogmas, our knowledge. You are not understanding yourself. You cannot understand yourself according to Freud or Jung, or according to me. Other people’s theories have no importance whatever.
 
 It is of yourself that you must ask the question, is fear to be divided into the conscious and subconscious? Or is there only fear which you translate into different forms? There is only one desire. There is only desire.
 
@@ -504,31 +540,33 @@ When you realize that fear cannot be divided, you will see that you have put awa
 
 How can you look at it without the fragmentation which the mind has cultivated? There is only total fear. But how can the mind which thinks in fragments observe this total picture? Can it?
 
-We have lived a life of fragmentation and can look at that total fear only through the fragmentary process of thought. The whole process of the machinery of thinking is to break up everything into fragments. I love you and I hate you. You are my enemy.
+We have lived a life of fragmentation and can look at that total fear only through the fragmentary process of thought. The whole process of the machinery of thinking is to break up everything into fragments. I love you and. I hate you.
 
-You are my friend. My peculiar idiosyncrasies and inclinations. My job. My position.
+You are my enemy. You are my friend. My peculiar idiosyncrasies and inclinations. My job.
 
-My prestige. My wife. My child. My country and your country.
+My position. My prestige. My wife. My child.
 
-My God and your God. All that is the fragmentation of thought. And this thought looks at the total state of fear, or tries to look at it, and reduces it to fragments.
+My country and your country. My God and your God. All that is the fragmentation of thought. And this thought looks at the total state of fear, or tries to look at it, and reduces it to fragments.
 
 Therefore, we see that the mind can look at this total fear only when there is no movement of thought. Can you watch fear without any inclusion? Without any interference of the knowledge you have accumulated about it? If you cannot, then what you are watching is the past, not fear.
 
-If you can, then you are watching fear for the first time without the interference of the past. You can watch only when the mind is very quiet, just as you can listen to what someone is saying only when your mind is not chattering with itself, carrying on a dialogue with itself about its own problems and anxieties. Can you in the same way look at your fear without trying to resolve it, without bringing in its opposite, courage? Actually look at it and not try to escape from it?
+If you can, then you are watching fear for the first time without the interference of the past. You can watch only when the mind is very quiet, just as you can listen to what someone is saying only when your mind is not chattering with itself, carrying on a dialogue with itself about its own problems and anxieties. Can you in the same way look at your fear without trying to resolve it, without bringing in its opposite, courage?
 
-When you say, I must control it, I must get rid of it, I must understand it, you are trying to escape from it. You can observe a cloud or a tree or the movement of a river with a fairly quiet mind because they are not very important to you. But to watch yourself is far more difficult, because there the demands are so practical, the reactions so quick. So when you are directly in contact with fear or despair, loneliness or jealousy, or any other ugly state of mind, can you look at it so completely that your mind is quiet enough to see it?
+Actually look at it and not try to escape from it? When you say, I must control it, I must get rid of it, I must understand it, you are trying to escape from it. You can observe a cloud or a tree or the movement of a river with a fairly quiet mind because they are not very important to you. But to watch yourself is far more difficult, because there the demands are so practical, the reactions so quick.
 
-Can the mind perceive fear and not the different forms of fear, perceive total fear, not what you are afraid of? If you look merely at the details of fear or try to deal with your fears one by one, you will never come to the central issue, which is to learn to live with fear. To live with a living thing such as fear requires a mind and heart that are extraordinarily subtle, that have no conclusion and can therefore follow every movement of fear.
+So when you are directly in contact with fear or despair, loneliness or jealousy, or any other ugly state of mind, can you look at it so completely that your mind is quiet enough to see it? Can the mind perceive fear and not the different forms of fear, perceive total fear, not what you are afraid of? If you look merely at the details of fear or try to deal with your fears one by one, you will never come to the central issue, which is to learn to live with fear.
 
-Then if you observe and live with it, and this does not take a whole day, it can take a minute or a second to know the whole nature of fear, if you live with it so completely you inevitably ask, who is the entity who is living with fear? Who is it who is observing fear, watching all the movements of the various forms of fear, as well as being aware of the central fact of fear? Is the observer a dead entity, a static being who has accumulated a lot of knowledge and information about himself, and is it that dead thing who is observing and living with the movement of fear?
+To live with a living thing such as fear requires a mind and heart that are extraordinarily subtle, that have no conclusion and can therefore follow every movement of fear. Then if you observe and live with it, and this does not take a whole day, it can take a minute or a second to know the whole nature of fear, if you live with it so completely you inevitably ask, who is the entity who is living with fear?
 
-Is the observer the past, or is he a living thing? What is your answer? Do not answer me, answer yourself. Are you the observer a dead entity watching a living thing, or are you a living thing watching a living thing?
+Who is it who is observing fear, watching all the movements of the various forms of fear, as well as being aware of the central fact of fear? Is the observer a dead entity, a static being who has accumulated a lot of knowledge and information about himself, and is it that dead thing who is observing and living with the movement of fear? Is the observer the past, or is he a living thing? What is your answer?
 
-Because in the observer the two states exist. The observer is the censor who does not want fear. The observer is the totality of all his experiences about fear. So the abse- observer is separate from that thing he calls fear.
+Do not answer me, answer yourself. Are you the observer a dead entity watching a living thing, or are you a living thing watching a living thing? Because in the observer the two states exist. The observer is the censor who does not want fear.
 
-There is a space between them. He is forever trying to overcome it or escape from it, and hence this constant battle between himself and fear, this battle which is such a waste of energy. As you watch, you learn that the observer is merely a bundle of ideas and memories without any validity or substance. But that fear is an actuality, and that you are trying to understand a fact with an abstraction which of course you cannot do.
+The observer is the totality of all his experiences about fear. So the abse- observer is separate from that thing he calls fear. There is a space between them. He is forever trying to overcome it or escape from it, and hence this constant battle between himself and fear, this battle which is such a waste of energy.
 
-But in fact is the observer who says, I am afraid. Any different from the thing observed which is fear? The observer is fear, and when that
+As you watch, you learn that the observer is merely a bundle of ideas and memories without any validity or substance. But that fear is an actuality, and that you are trying to understand a fact with an abstraction which of course you cannot do. But in fact is the observer who says, I am afraid. Any different from the thing observed which is fear?
+
+The observer is fear, and when that
 
 
 <a id="sec-013046"></a>
@@ -538,73 +576,91 @@ is realized there is no longer any dissipation of energy in the effort to get ri
 
 Fear, pleasure, sorrow, thought and violence are all interrelated. Most of us take pleasure in violence, in disliking somebody, hating a particular race or group of people, having antagonistic feelings towards others. But in a state of mind in which all violence has come to an end, there is a joy which is very different from the pleasure of violence with its conflicts, hatreds and fears. Can we go to the very root of violence and be free from it?
 
-Otherwise we shall live everlastingly in battle with each other. If that is the way you want to live, and apparently most people do, then carry on. If you say, well I am sorry violence can never end, then you and I have no means of communication. You have blocked yourself.
+Otherwise we shall live everlastingly in battle with each other. If that is the way you want to live, and apparently most people do, then carry on. If you say, well. I am sorry violence can never end, then you and.
 
-But if you say there might be a different way of living, then we shall be able to communicate with each other. So let us consider together, those of us who can communicate, whether it is at all possible totally to end every form of violence in ourselves and still live in this monstrously brutal world. I think it is possible. I don’t want to have a breath of hate, jealousy, anxiety or fear in me.
+I have no means of communication. You have blocked yourself. But if you say there might be a different way of living, then we shall be able to communicate with each other. So let us consider together, those of us who can communicate, whether it is at all possible totally to end every form of violence in ourselves and still live in this monstrously brutal world.
 
-I want to live completely at peace. Which doesn’t mean that I want to die. I want to live on this marvelous earth, so full, so rich, so beautiful. I want to look at the trees, flowers, rivers, meadows, women, boys and girls, and at the same time live completely at peace with myself and with the world.
+I think it is possible. I don’t want to have a breath of hate, jealousy, anxiety or fear in me. I want to live completely at peace. Which doesn’t mean that.
 
-What can I do? If we know how to look at violence, not only outwardly in society, the wars, the riots, the national antagonisms and class conflicts, but also in ourselves, then perhaps we shall be able to go beyond it. Here is a very complex problem. For centuries upon centuries, man has been violent.
+I want to die. I want to live on this marvelous earth, so full, so rich, so beautiful. I want to look at the trees, flowers, rivers, meadows, women, boys and girls, and at the same time live completely at peace with myself and with the world. What can.
+
+I do? If we know how to look at violence, not only outwardly in society, the wars, the riots, the national antagonisms and class conflicts, but also in ourselves, then perhaps we shall be able to go beyond it. Here is a very complex problem. For centuries upon centuries, man has been violent.
 
 Religions have tried to tame him throughout the world and none of them have succeeded. So if we are going into the question we must, it seems to me, be at least very serious about it because it will lead us into quite a different domain. But if we want merely to play with the problem for intellectual entertainment, we shall not get very far. You may feel that you yourself are very serious about the problem, but that as long as so many other people in the world are not serious and are not prepared to do anything about it, what is the good of your doing anything?
 
-I don’t care whether they take it seriously or not. I take it seriously, that is enough. I am not my brother’s keeper. I myself as a human being feel very strongly about this question of violence and I will see to it that in myself I am not violent.
+I don’t care whether they take it seriously or not. I take it seriously, that is enough. I am not my brother’s keeper. I myself as a human being feel very strongly about this question of violence and.
 
-But I cannot tell you or anybody else, don’t be violent. It has no meaning, unless you yourself want it. So if you yourself really want to understand this problem of violence, let us continue on our journey of exploration together. Is this problem of violence out there or here?
+I will see to it that in myself. I am not violent. But. I cannot tell you or anybody else, don’t be violent.
 
-Do you want to solve the problem in the outside world? Or are you questioning violence itself as it is in you? If you are free of violence in yourself, the question arises. How am I to live in a world full of violence, acquisitiveness, greed, envy, brutality?
+It has no meaning, unless you yourself want it. So if you yourself really want to understand this problem of violence, let us continue on our journey of exploration together. Is this problem of violence out there or here? Do you want to solve the problem in the outside world?
 
-Will I not be destroyed? That is the inevitable question which is invariably asked. When you ask such a question, it seems to me you are not actually living peacefully. If you live peacefully, you will have no problem at all.
+Or are you questioning violence itself as it is in you? If you are free of violence in yourself, the question arises. How am. I to live in a world full of violence, acquisitiveness, greed, envy, brutality?
 
-You may be imprisoned because you refuse to join the army, or shot because you refuse to fight. But that is not a problem. You will be shot. It is extraordinarily important to understand this.
+Will. I not be destroyed? That is the inevitable question which is invariably asked. When you ask such a question, it seems to me you are not actually living peacefully.
 
-We are trying to understand violence as a fact, not as an idea, as a fact which exists in the human being, and the human being is myself. And to go into the problem
+If you live peacefully, you will have no problem at all. You may be imprisoned because you refuse to join the army, or shot because you refuse to fight. But that is not a problem. You will be shot.
+
+It is extraordinarily important to understand this. We are trying to understand violence as a fact, not as an idea, as a fact which exists in the human being, and the human being is myself. And to go into the problem
 
 
 <a id="sec-013552"></a>
 ### ⏱️ [01:35:52 - 01:40:53]
 
-I must be completely vulnerable, open to it. I must expose myself to myself, not necessarily expose myself to you, because you may not be interested. But I must be in a state of mind that demands to see this thing right to the end, and at no point stops and says I will go no further. Now it must be obvious to me that I am a violent human being.
+I must be completely vulnerable, open to it. I must expose myself to myself, not necessarily expose myself to you, because you may not be interested. But. I must be in a state of mind that demands to see this thing right to the end, and at no point stops and says.
 
-I have experienced violence in anger, violence in my sexual demands, violence in hatred, creating enmity, violence in jealousy and so on. I have experienced it, I have known it, and I say to myself, I want to understand this whole problem not just one fragment of it expressed in war, but this aggression in man which also exists in the animals and of which I am apart. Violence is not merely killing another. It is violence when we use a sharp word, when we make a gesture to brush away a person, when we obey because there is fear.
+I will go no further. Now it must be obvious to me that. I am a violent human being. I have experienced violence in anger, violence in my sexual demands, violence in hatred, creating enmity, violence in jealousy and so on.
 
-So violence isn’t merely organised butchery in the name of God, in the name of society or country. Violence is much more subtle, much deeper, and we are enquiring into the very depths of violence. When you call yourself an Indian or a Muslim or a Christian or a European or anything else, you are being violent. Do you see why it is violent?
+I have experienced it, I have known it, and. I say to myself, I want to understand this whole problem not just one fragment of it expressed in war, but this aggression in man which also exists in the animals and of which. I am apart. Violence is not merely killing another.
 
-Because you are separating yourself from the rest of mankind. When you separate yourself by belief, by nationality, by tradition, it breeds violence. So a man who is seeking to understand violence does not belong to any country, to any religion, to any political party or partial system. He is concerned with the total understanding of mankind.
+It is violence when we use a sharp word, when we make a gesture to brush away a person, when we obey because there is fear. So violence isn’t merely organised butchery in the name of God, in the name of society or country. Violence is much more subtle, much deeper, and we are enquiring into the very depths of violence. When you call yourself an Indian or a Muslim or a Christian or a European or anything else, you are being violent.
 
-Now there are two primary schools of thought with regard to violence. One which says, violence is innate in man and the other which says violence is the result of the social and cultural heritage in which man lives. We are not concerned with which school we belong to. It is of no importance.
+Do you see why it is violent? Because you are separating yourself from the rest of mankind. When you separate yourself by belief, by nationality, by tradition, it breeds violence. So a man who is seeking to understand violence does not belong to any country, to any religion, to any political party or partial system.
 
-What is important is the fact that we are violent, not the reason for it. One of the most common expressions of violence is anger. When my wife or sister is attacked I say, I am righteously angry. When my country is attacked by ideas, my principles, my way of life, I am righteously angry.
+He is concerned with the total understanding of mankind. Now there are two primary schools of thought with regard to violence. One which says, violence is innate in man and the other which says violence is the result of the social and cultural heritage in which man lives. We are not concerned with which school we belong to.
 
-I am also angry when my habits are attacked or my petty little opinions. When you tread on my toes or insult me I get angry or if you run away with my wife I get jealous. That jealousy is called righteous because she is my property and all this anger is morally justified. But to kill for my country is also justified.
+It is of no importance. What is important is the fact that we are violent, not the reason for it. One of the most common expressions of violence is anger. When my wife or sister is attacked.
+
+I say, I am righteously angry. When my country is attacked by ideas, my principles, my way of life, I am righteously angry. I am also angry when my habits are attacked or my petty little opinions. When you tread on my toes or insult me.
+
+I get angry or if you run away with my wife. I get jealous. That jealousy is called righteous because she is my property and all this anger is morally justified. But to kill for my country is also justified.
 
 So when we are talking about anger which is a part of violence, do we look at anger in terms of righteous and unrighteous anger according to our own inclinations and environmental drive? Or do we see only anger? Is there righteous anger ever? Or is there only anger?
 
-There is no good influence or bad influence, only influence. But when you are influenced by something which doesn’t suit me, I call it an evil influence. The moment you protect your family, your country, a bit of colored rag called a flag, a belief, an idea, a dogma, the thing that you demand or that you hold, that very protection indicates anger. So you can look at anger without any explanation or justification, without saying I must protect my goods, or I was right to be angry, or how stupid of me to be angry.
+There is no good influence or bad influence, only influence. But when you are influenced by something which doesn’t suit me, I call it an evil influence. The moment you protect your family, your country, a bit of colored rag called a flag, a belief, an idea, a dogma, the thing that you demand or that you hold, that very protection indicates anger. So you can look at anger without any explanation or justification, without saying.
 
-Can you look at anger as if it was something by itself? Can you look at it completely objectively, which means neither defending it nor condemning it? Can you? Can I look at you if I am antagonistic to you, or if I am thinking what a marvelous person you are?
+I must protect my goods, or. I was right to be angry, or how stupid of me to be angry. Can you look at anger as if it was something by itself? Can you look at it completely objectively, which means neither defending it nor condemning it?
 
-I can see you only when I look at you with a certain care in which neither of these things is involved. Now can I look at anger in the same way? Which means that I am vulnerable to the problem. I do not resist it.
+Can you? Can. I look at you if. I am antagonistic to you, or if.
 
-I am watching this extraordinary phenomenon without any reaction to it. It is very difficult to look at anger dispassionately because it is a part of me. But that is what I am trying to do. Here I am, a violent human being, whether I am black, brown, white or purple.
+I am thinking what a marvelous person you are? I can see you only when. I look at you with a certain care in which neither of these things is involved. Now can.
 
-I am not concerned with whether I have inherited this violence or whether society has produced
+I look at anger in the same way? Which means that. I am vulnerable to the problem. I do not resist it.
+
+I am watching this extraordinary phenomenon without any reaction to it. It is very difficult to look at anger dispassionately because it is a part of me. But that is what. I am trying to do.
+
+Here. I am, a violent human being, whether. I am black, brown, white or purple. I am not concerned with whether.
+
+I have inherited this violence or whether society has produced
 
 
 <a id="sec-014053"></a>
 ### ⏱️ [01:40:53 - 01:45:55]
 
-it in me. All I am concerned with is whether it is at all possible to be free from it. To be free from violence means everything to me. It is more important to me than sex, food, position.
+it in me. All. I am concerned with is whether it is at all possible to be free from it. To be free from violence means everything to me.
 
-For this thing is corrupting me. It is destroying me and destroying the world. And I want to understand it. I want to be beyond it.
+It is more important to me than sex, food, position. For this thing is corrupting me. It is destroying me and destroying the world. And.
 
-I feel responsible for all this anger and violence in the world. I feel responsible. It isn’t just a lot of words. But I say to myself, I can do something only if I am beyond anger myself, beyond violence, beyond nationality.
+I want to understand it. I want to be beyond it. I feel responsible for all this anger and violence in the world. I feel responsible.
 
-And this feeling I have that I must understand the violence in myself brings tremendous vitality and passion to find out. But to be beyond violence, I cannot suppress it. I cannot deny it. I cannot say, well, it is a part of me and that’s that.
+It isn’t just a lot of words. But. I say to myself, I can do something only if. I am beyond anger myself, beyond violence, beyond nationality.
 
-Or I don’t want it. I have to look at it. I have to study it. I must become very intimate with it and I cannot become intimate with it if I condemn it or justify it.
+And this feeling. I have that. I must understand the violence in myself brings tremendous vitality and passion to find out. But to be beyond violence, I cannot suppress it.
 
-We do condemn it though. We do justify it.
+I cannot deny it. I cannot say, well, it is a part of me and that’s that. Or. I don’t want it.
+
+I have to look at it. I have to study it. I must become very intimate with it and. I cannot become intimate with it if.
+
+I condemn it or justify it. We do condemn it though. We do justify it.
 
 Therefore, I am saying, stop for the time being condemning it or justifying it. Now, if you want to stop violence, if you want to stop wars, how much vitality, how much of yourself do you give to it? Isn’t it important to you that your children are killed, that your sons go into the army where they are bullied and butchered? Don’t you care?
 
@@ -616,15 +672,17 @@ I point out to you that you cannot look at anger nor at violence with eyes that 
 
 You have to learn why you are not objective, why you condemn or justify. You have to learn that you condemn and justify because it is part of the social structure you live in. Your conditioning as a German or an Indian or a Negro or an American or whatever you happen to have been born, with all the dulling of the mind that this conditioning results in. To learn, to discover something fundamental, you must have the capacity to go deeply.
 
-If you have a blunt instrument, a dull instrument, you cannot go deeply. So what we are doing is sharpening the instrument, which is the mind, the mind which has been made dull by all this justifying and condemning. You can penetrate deeply only if your mind is as sharp as a needle and as strong as a diamond. It is no good just sitting back and asking, how am I to get such a mind?
+If you have a blunt instrument, a dull instrument, you cannot go deeply. So what we are doing is sharpening the instrument, which is the mind, the mind which has been made dull by all this justifying and condemning. You can penetrate deeply only if your mind is as sharp as a needle and as strong as a diamond. It is no good just sitting back and asking, how am.
 
-You have to want it as you want your next meal. And to have it, you must see that what makes your mind dull and stupid is the sense of invulnerability which has built walls around itself, which is part of this condemnation and justification. If the mind can be rid of that, then you can look, study, penetrate and perhaps come to a state that is totally aware of the whole problem. So let us come back to the central issue.
+I to get such a mind? You have to want it as you want your next meal. And to have it, you must see that what makes your mind dull and stupid is the sense of invulnerability which has built walls around itself, which is part of this condemnation and justification. If the mind can be rid of that, then you can look, study, penetrate and perhaps come to a state that is totally aware of the whole problem.
 
-Is it possible to eradicate violence in ourselves? Is it a form of violence to say, you haven’t changed, why haven’t you? I am not doing that. It doesn’t mean a thing to me to convince you of anything.
+So let us come back to the central issue. Is it possible to eradicate violence in ourselves? Is it a form of violence to say, you haven’t changed, why haven’t you? I am not doing that.
 
-It is your life, not my life. The way you live is your affair. I am asking whether it is possible for a human being living psychologically in any society to clear violence from himself inwardly. If it is, the very process will produce a different way of living in this world.
+It doesn’t mean a thing to me to convince you of anything. It is your life, not my life. The way you live is your affair. I am asking whether it is possible for a human being living psychologically in any society to clear violence from himself inwardly.
 
-Most of us have accepted violence as a way of life. Two dreadful wars have taught us nothing except to build more and more barriers between human beings. That is, between you and me. But for those of us who want to be rid of violence,
+If it is, the very process will produce a different way of living in this world. Most of us have accepted violence as a way of life. Two dreadful wars have taught us nothing except to build more and more barriers between human beings. That is, between you and me.
+
+But for those of us who want to be rid of violence,
 
 
 <a id="sec-014555"></a>
@@ -632,27 +690,27 @@ Most of us have accepted violence as a way of life. Two dreadful wars have taugh
 
 how is it to be done? I do not think anything is going to be achieved through analysis, either by ourselves or by a professional. We might be able to modify ourselves slightly, live a little more quietly with a little more affection. But in itself it will not give total perception.
 
-But I must know how to analyze, which means that in the process of analysis my mind becomes extraordinarily sharp, and it is that quality of sharpness, of attention, of seriousness, which will give total perception. One hasn’t the eyes to see the whole thing at a glance. This clarity of the eye is possible only if one can see the details, then jump. Some of us, in order to rid ourselves of violence, have used a concept, an ideal, called non-violence.
+But. I must know how to analyze, which means that in the process of analysis my mind becomes extraordinarily sharp, and it is that quality of sharpness, of attention, of seriousness, which will give total perception. One hasn’t the eyes to see the whole thing at a glance. This clarity of the eye is possible only if one can see the details, then jump.
 
-And we think by having an ideal of the opposite to violence, non-violence, we can get rid of the fact, the actual. But we cannot. We have had ideals without number. All the sacred books are full of them.
+Some of us, in order to rid ourselves of violence, have used a concept, an ideal, called non-violence. And we think by having an ideal of the opposite to violence, non-violence, we can get rid of the fact, the actual. But we cannot. We have had ideals without number.
 
-Yet we are still violent. So why not deal with violence itself and forget the word altogether? If you want to understand the actual, you must give your whole attention, all your energy to it. That attention and energy are distracted when you create a fictitious, ideal world.
+All the sacred books are full of them. Yet we are still violent. So why not deal with violence itself and forget the word altogether? If you want to understand the actual, you must give your whole attention, all your energy to it.
 
-So can you completely banish the ideal? The man who is really serious, with the urge to find out what truth is, what love is, has no concept at all. He lives only in what is. To investigate the fact of your own anger, you must pass no judgment on it.
+That attention and energy are distracted when you create a fictitious, ideal world. So can you completely banish the ideal? The man who is really serious, with the urge to find out what truth is, what love is, has no concept at all. He lives only in what is.
 
-For the moment you conceive of its opposite, you condemn it, and therefore you cannot see it as it is. When you say you dislike or hate someone, that is a fact, although it sounds terrible. If you look at it, go into it completely, it ceases. But if you say, I must not hate, I must have love in my heart, then you are living in a hypocritical world with double standards.
+To investigate the fact of your own anger, you must pass no judgment on it. For the moment you conceive of its opposite, you condemn it, and therefore you cannot see it as it is. When you say you dislike or hate someone, that is a fact, although it sounds terrible. If you look at it, go into it completely, it ceases.
 
-To live completely, fully, in the moment, is to live with what is, the actual, without any sense of condemnation or justification. Then you understand it so totally that you are finished with it. When you see clearly, the problem is solved. But can you see the face of violence clearly, not only outside you, but inside you, which means you are totally free from violence because you have not admitted ideology through which to get rid of it?
+But if you say, I must not hate, I must have love in my heart, then you are living in a hypocritical world with double standards. To live completely, fully, in the moment, is to live with what is, the actual, without any sense of condemnation or justification. Then you understand it so totally that you are finished with it. When you see clearly, the problem is solved.
 
-This requires very deep meditation, not just a verbal agreement or disagreement. You have now read a series of statements, but have you really understood your conditioned mind, your way of life, the whole structure of the society in which you live, prevent you from looking at a fact and being entirely free from it immediately? You say, I will think about it. I will consider whether it is possible to be free from violence or not.
+But can you see the face of violence clearly, not only outside you, but inside you, which means you are totally free from violence because you have not admitted ideology through which to get rid of it? This requires very deep meditation, not just a verbal agreement or disagreement. You have now read a series of statements, but have you really understood your conditioned mind, your way of life, the whole structure of the society in which you live, prevent you from looking at a fact and being entirely free from it immediately?
 
-I will try to be free. That is one of the most dreadful statements you can make. I will try. There is no trying, no doing your best.
+You say, I will think about it. I will consider whether it is possible to be free from violence or not. I will try to be free. That is one of the most dreadful statements you can make.
 
-Either you do it or you don’t do it. You are admitting time while the house is burning. The house is burning as a result of the violence throughout the world and in yourself, and you say, let me think about it. Which ideology is best to put out the fire?
+I will try. There is no trying, no doing your best. Either you do it or you don’t do it. You are admitting time while the house is burning.
 
-When the house is on fire, do you argue about the color of the hair of the man who brings the water? When the house is on fire, do you argue about the color of the hair of the man who brings the water? Relationship, conflict, society, poverty, drugs, dependence, comparison, desire, ideals, hypocrisy. The cessation of violence, which we have just been considering, does not necessarily mean a state of mind which is at peace with itself and therefore at peace in all its relationships.
+The house is burning as a result of the violence throughout the world and in yourself, and you say, let me think about it. Which ideology is best to put out the fire? When the house is on fire, do you argue about the color of the hair of the man who brings the water? When the house is on fire, do you argue about the color of the hair of the man who brings the water?
 
-Relationship between human beings is based on the image-forming defensive mechanism. In all our relationships, each one of us builds an image about the other,
+Relationship, conflict, society, poverty, drugs, dependence, comparison, desire, ideals, hypocrisy. The cessation of violence, which we have just been considering, does not necessarily mean a state of mind which is at peace with itself and therefore at peace in all its relationships. Relationship between human beings is based on the image-forming defensive mechanism. In all our relationships, each one of us builds an image about the other,
 
 
 <a id="sec-015059"></a>
@@ -660,21 +718,21 @@ Relationship between human beings is based on the image-forming defensive mechan
 
 and these two images have relationship, not the human beings themselves. The wife has an image about the husband, perhaps not consciously, but nevertheless it is there, and the husband has an image about the wife. One has an image about one’s country and about oneself, and we are always strengthening these images by adding more and more to them. And it is these images which have relationship, the actual relationship between two human beings or between many human beings completely ends when there is the formation of images.
 
-Relationship based on these images can obviously never bring about peace in the relationship because the images are fictitious and one cannot live in an abstraction. And yet that is what we are all doing, living in ideas, in theories, in symbols, in images which we have created about ourselves and others and which are not realities at all. All our relationships, whether they be with property, ideas or people, are based essentially on this image-forming and hence there is always conflict. How is it possible then to be completely at peace within ourselves and in all our relationships with others?
+Relationship based on these images can obviously never bring about peace in the relationship because the images are fictitious and one cannot live in an abstraction. And yet that is what we are all doing, living in ideas, in theories, in symbols, in images which we have created about ourselves and others and which are not realities at all. All our relationships, whether they be with property, ideas or people, are based essentially on this image-forming and hence there is always conflict.
 
-After all, life is a movement in relationship, otherwise there is no life at all. And if that life is based on an abstraction, an idea or a speculative assumption, then such abstract living must inevitably bring about a relationship which becomes a battlefield. So is it at all possible for man to live a completely orderly inward life without any form of compulsion, imitation, suppression or sublimation? Can he bring about such order within himself that it is a living quality not held within the framework of ideas, an inward tranquility which knows no disturbance at any moment, not in some fantastic mythical abstract world but in the daily life of the home and the office?
+How is it possible then to be completely at peace within ourselves and in all our relationships with others? After all, life is a movement in relationship, otherwise there is no life at all. And if that life is based on an abstraction, an idea or a speculative assumption, then such abstract living must inevitably bring about a relationship which becomes a battlefield. So is it at all possible for man to live a completely orderly inward life without any form of compulsion, imitation, suppression or sublimation?
 
-I think we should go into this question very carefully because there is not one spot in our consciousness untouched by conflict. In all our relationships, whether with the most intimate person or with a neighbour or with society, this conflict exists. Conflict being contradiction, a state of division, separation, a duality. Observing ourselves and our relationship to society, we see that at all levels of our being there is conflict, minor or major conflict, which brings about very superficial responses or devastating results.
+Can he bring about such order within himself that it is a living quality not held within the framework of ideas, an inward tranquility which knows no disturbance at any moment, not in some fantastic mythical abstract world but in the daily life of the home and the office? I think we should go into this question very carefully because there is not one spot in our consciousness untouched by conflict. In all our relationships, whether with the most intimate person or with a neighbour or with society, this conflict exists.
 
-Man has accepted conflict as an innate part of daily existence because he has accepted competition, jealousy, greed, acquisitiveness and aggression as a natural way of life. When we accept such a way of life, we accept the structure of society as it is and live within the pattern of respectability. And that is what most of us are caught in, because most of us want to be terribly respectable. When we examine our own minds and hearts, the way we think, the way we feel and how we act in our daily lives, we observe that as long as we conform to the pattern of society, life must be a battlefield.
+Conflict being contradiction, a state of division, separation, a duality. Observing ourselves and our relationship to society, we see that at all levels of our being there is conflict, minor or major conflict, which brings about very superficial responses or devastating results. Man has accepted conflict as an innate part of daily existence because he has accepted competition, jealousy, greed, acquisitiveness and aggression as a natural way of life. When we accept such a way of life, we accept the structure of society as it is and live within the pattern of respectability.
 
-If we do not accept it and no religious person can possibly accept such a society, then we will be completely free from the psychological structure of society. Most of us are rich with the things of society. What society has created in us and what we have created in ourselves are greed, envy, anger, hate, jealousy, anxiety, and with all these we are very rich. The various religions throughout the world have preached poverty.
+And that is what most of us are caught in, because most of us want to be terribly respectable. When we examine our own minds and hearts, the way we think, the way we feel and how we act in our daily lives, we observe that as long as we conform to the pattern of society, life must be a battlefield. If we do not accept it and no religious person can possibly accept such a society, then we will be completely free from the psychological structure of society.
 
-The monk assumes a robe, changes his name, shaves his head, enters a cell and takes a vow of poverty and chastity. In the East he has one loincloth, one robe, one meal a day, and we all respect such poverty. But those men who have assumed the robe of poverty are still inwardly, psychologically rich with the things of society because they are still seeking position and prestige. They belong to this order or that order, this religion or that religion.
+Most of us are rich with the things of society. What society has created in us and what we have created in ourselves are greed, envy, anger, hate, jealousy, anxiety, and with all these we are very rich. The various religions throughout the world have preached poverty. The monk assumes a robe, changes his name, shaves his head, enters a cell and takes a vow of poverty and chastity.
 
-They still live in the divisions of a culture, a tradition. That is not poverty. Poverty is to be completely free of society. Though one may have a few more clothes, a few more meals, good God who cares?
+In the East he has one loincloth, one robe, one meal a day, and we all respect such poverty. But those men who have assumed the robe of poverty are still inwardly, psychologically rich with the things of society because they are still seeking position and prestige. They belong to this order or that order, this religion or that religion. They still live in the divisions of a culture, a tradition.
 
-But
+That is not poverty. Poverty is to be completely free of society. Though one may have a few more clothes, a few more meals, good God who cares? But
 
 
 <a id="sec-015605"></a>
@@ -686,69 +744,83 @@ Such a life is a benediction not to be found in any church or any temple. How is
 
 On the contrary, we shall become dynamic, vital, full of energy. To understand and to be free of any problem, we need a great deal of passionate and sustained energy. Not only physical and intellectual energy, but an energy that is not dependent on any motive, any psychological stimulus or drug. If we are dependent on any stimulus, that very stimulus makes the mind dull and insensitive.
 
-By taking some form of drug, we may find enough energy temporarily to see things very clearly, but we revert to our former state and therefore become dependent on that drug more and more. So all stimulation, whether of the church or of alcohol or of drugs or of the written or spoken word will inevitably bring about dependence, and that dependence prevents us from seeing clearly for ourselves and therefore from having vital energy. We all unfortunately depend psychologically on something. Why do we depend?
+By taking some form of drug, we may find enough energy temporarily to see things very clearly, but we revert to our former state and therefore become dependent on that drug more and more. So all stimulation, whether of the church or of alcohol or of drugs or of the written or spoken word will inevitably bring about dependence, and that dependence prevents us from seeing clearly for ourselves and therefore from having vital energy. We all unfortunately depend psychologically on something.
 
-Why is there this urge to depend? We are taking this journey together. You are not waiting for me to tell you the causes of your dependence. If we inquire together, we will both discover, and therefore that discovery will be your own, and hence, being yours, it will give you vitality.
+Why do we depend? Why is there this urge to depend? We are taking this journey together. You are not waiting for me to tell you the causes of your dependence.
 
-I discover for myself that I depend on something, an audience say, which will stimulate me. I derive from that audience, from addressing a large group of people, a kind of energy. And therefore I depend on that audience, on those people, whether they agree or disagree. The more they disagree, the more vitality they give me.
+If we inquire together, we will both discover, and therefore that discovery will be your own, and hence, being yours, it will give you vitality. I discover for myself that. I depend on something, an audience say, which will stimulate me. I derive from that audience, from addressing a large group of people, a kind of energy.
 
-If they agree, it becomes a very shallow, empty thing. So I discover that I need an audience because it is a very stimulating thing to address people. Now why? Why do I depend?
+And therefore. I depend on that audience, on those people, whether they agree or disagree. The more they disagree, the more vitality they give me. If they agree, it becomes a very shallow, empty thing.
 
-Because in myself I am shallow. In myself I have nothing. In myself I have no source which is always full and rich, vital, moving, living. So I depend.
+So. I discover that. I need an audience because it is a very stimulating thing to address people. Now why?
 
-I have discovered the cause. But will the discovery of the cause free me from being dependent? The discovery of the cause is merely intellectual, so obviously it does not free the mind from its dependency. The mere intellectual acceptance of an idea, or the emotional acquiescence of an ideology, cannot free the mind from being dependent on something which will give it stimulation. mind from dependence is seeing the whole structure and nature of stimulation and dependence, and how that dependence makes the mind stupid, dull and inactive.
+Why do. I depend? Because in myself. I am shallow.
 
-So I must inquire what it means to see totally. As long as I am looking at life from a particular point of view or from a particular experience I have cherished or from some particular knowledge I have gathered, which is my background, which is the me, I cannot see totally. I have discovered intellectually, verbally, through analysis, the cause of my dependence. But whatever thought investigates must inevitably be fragmentary, so I can see the totality of something only when thought does not interfere.
+In myself. I have nothing. In myself. I have no source which is always full and rich, vital, moving, living.
 
-Then I see the fact of my dependence. I see actually what is. I see it without any like or dislike. I do not want to get rid of that dependence or to be free from the cause of it.
+So. I depend. I have discovered the cause. But will the discovery of the cause free me from being dependent?
 
-I observe it and when there is observation of this kind I see the whole picture, not
+The discovery of the cause is merely intellectual, so obviously it does not free the mind from its dependency. The mere intellectual acceptance of an idea, or the emotional acquiescence of an ideology, cannot free the mind from being dependent on something which will give it stimulation. mind from dependence is seeing the whole structure and nature of stimulation and dependence, and how that dependence makes the mind stupid, dull and inactive. So. I must inquire what it means to see totally.
+
+As long as. I am looking at life from a particular point of view or from a particular experience. I have cherished or from some particular knowledge. I have gathered, which is my background, which is the me, I cannot see totally.
+
+I have discovered intellectually, verbally, through analysis, the cause of my dependence. But whatever thought investigates must inevitably be fragmentary, so. I can see the totality of something only when thought does not interfere. Then.
+
+I see the fact of my dependence. I see actually what is. I see it without any like or dislike. I do not want to get rid of that dependence or to be free from the cause of it.
+
+I observe it and when there is observation of this kind. I see the whole picture, not
 
 
 <a id="sec-020107"></a>
 ### ⏱️ [02:01:07 - 02:06:12]
 
-a fragment of the picture, and when the mind sees the whole picture there is freedom. Now I have discovered that there is a dissipation of energy when there is fragmentation. I have found the very source of the dissipation of energy. You may think there is no waste of energy if you imitate, if you accept authority, if you depend on the priest, the ritual, the dogma, the party, the party or on some ideology.
+a fragment of the picture, and when the mind sees the whole picture there is freedom. Now. I have discovered that there is a dissipation of energy when there is fragmentation. I have found the very source of the dissipation of energy.
 
-But the following and acceptance of an ideology, whether it is good or bad, whether it is holy or unholy, is a fragmentary activity and therefore a cause of conflict. And conflict will inevitably arise as long as there is a division between what should be and what is. And any conflict is a dissipation of energy. If you put the question to yourself, how am I to be free from conflict, you are creating another problem and hence you are increasing conflict, whereas if you just see it as a fact, see it as you would see some concrete object, clearly, directly, then you will understand essentially the truth of a life in which there is no conflict at all.
+You may think there is no waste of energy if you imitate, if you accept authority, if you depend on the priest, the ritual, the dogma, the party, the party or on some ideology. But the following and acceptance of an ideology, whether it is good or bad, whether it is holy or unholy, is a fragmentary activity and therefore a cause of conflict. And conflict will inevitably arise as long as there is a division between what should be and what is.
 
-Let us put it another way, we are always comparing what we are with what we should be. This should be is a projection of what we think we ought to be. Contradiction exists when there is comparison, not only with something or some body, but with what you were yesterday and hence there is conflict between what has been and what is. There is what is only when there is no comparison at all and to live with what is is to be peaceful.
+And any conflict is a dissipation of energy. If you put the question to yourself, how am. I to be free from conflict, you are creating another problem and hence you are increasing conflict, whereas if you just see it as a fact, see it as you would see some concrete object, clearly, directly, then you will understand essentially the truth of a life in which there is no conflict at all. Let us put it another way, we are always comparing what we are with what we should be.
 
-Then you can give your whole attention without any distraction to what is within yourself, whether it be despair, ugliness, brutality, fear, anxiety, loneliness and live with it completely, then there is no contradiction and hence no conflict. But all the time we are comparing ourselves with those who are richer or more brilliant, more intellectual, more affectionate, more famous, more this and more that, the more plays an extraordinarily important part in our lives. This measuring ourselves all the time against something or someone is one of the primary causes of conflict.
+This should be is a projection of what we think we ought to be. Contradiction exists when there is comparison, not only with something or some body, but with what you were yesterday and hence there is conflict between what has been and what is. There is what is only when there is no comparison at all and to live with what is is to be peaceful. Then you can give your whole attention without any distraction to what is within yourself, whether it be despair, ugliness, brutality, fear, anxiety, loneliness and live with it completely, then there is no contradiction and hence no conflict.
 
-Now why is there any comparison at all? Why do you compare yourself with another? This comparison has been taught from childhood, in every school A is compared with B and A destroys himself in order to be like B. When you do not compare at all, when there is no ideal, no opposite, no factor of duality, when you no longer struggle to be different from what you are, what has happened to your mind?
+But all the time we are comparing ourselves with those who are richer or more brilliant, more intellectual, more affectionate, more famous, more this and more that, the more plays an extraordinarily important part in our lives. This measuring ourselves all the time against something or someone is one of the primary causes of conflict. Now why is there any comparison at all? Why do you compare yourself with another?
 
-Your mind has ceased to create the opposite and has become highly intelligent, highly sensitive, capable of immense passion, because effort is a dissipation of passion, passion which is vital energy and you cannot do anything without passion. If you do not compare yourself with another, you will be what you are. Through comparison you hope to evolve, to grow, to become more intelligent, more beautiful. But will you?
+This comparison has been taught from childhood, in every school A is compared with B and A destroys himself in order to be like B. When you do not compare at all, when there is no ideal, no opposite, no factor of duality, when you no longer struggle to be different from what you are, what has happened to your mind? Your mind has ceased to create the opposite and has become highly intelligent, highly sensitive, capable of immense passion, because effort is a dissipation of passion, passion which is vital energy and you cannot do anything without passion.
 
-The fact is what you are, and by comparing you are fragmenting the fact which is a waste of energy. To see what you actually are without any comparison gives you tremendous energy to look. When you can look at yourself without comparison you are beyond comparison, which does not mean that the mind is stagnant with contentment. So we see in essence how the mind wastes energy which is so necessary to understand the totality of life.
+If you do not compare yourself with another, you will be what you are. Through comparison you hope to evolve, to grow, to become more intelligent, more beautiful. But will you? The fact is what you are, and by comparing you are fragmenting the fact which is a waste of energy.
 
-I don’t want to know with whom I am in conflict. I don’t want to know the peripheral conflicts of my being. What I want to know is why conflict should exist at all. When I put that question to myself I see a fundamental issue which has nothing to do with peripheral conflicts and their solutions.
+To see what you actually are without any comparison gives you tremendous energy to look. When you can look at yourself without comparison you are beyond comparison, which does not mean that the mind is stagnant with contentment. So we see in essence how the mind wastes energy which is so necessary to understand the totality of life. I don’t want to know with whom.
 
-I am concerned with a central issue, and I see, perhaps you see also, that the very nature of desire, if not properly understood, must inevitably lead to conflict. Desire is always in contradiction. I desire contradictory things, which doesn’t mean that I must destroy desire, suppress, control or sublimate it. I simply see that desire itself is contradictory.
+I am in conflict. I don’t want to know the peripheral conflicts of my being. What. I want to know is why conflict should exist at all.
 
-It is not the objects of desire, but the very nature of desire which is contradictory – desire
+When. I put that question to myself. I see a fundamental issue which has nothing to do with peripheral conflicts and their solutions. I am concerned with a central issue, and.
+
+I see, perhaps you see also, that the very nature of desire, if not properly understood, must inevitably lead to conflict. Desire is always in contradiction. I desire contradictory things, which doesn’t mean that. I must destroy desire, suppress, control or sublimate it.
+
+I simply see that desire itself is contradictory. It is not the objects of desire, but the very nature of desire which is contradictory – desire
 
 
 <a id="sec-020612"></a>
 ### ⏱️ [02:06:12 - 02:11:14]
 
-before I can understand conflict. In ourselves we are in a state of contradiction, and that state of contradiction is brought about by desire – desire being the pursuit of pleasure and the avoidance of pain which we have already been into. So we see desire as the root of all contradiction, wanting something and not wanting it – a dual activity. When we do something pleasurable there is no effort involved at all, is there?
+before. I can understand conflict. In ourselves we are in a state of contradiction, and that state of contradiction is brought about by desire – desire being the pursuit of pleasure and the avoidance of pain which we have already been into. So we see desire as the root of all contradiction, wanting something and not wanting it – a dual activity.
 
-But pleasure brings pain, and then there is a struggle to avoid the pain, and that again is a dissipation of energy. Why do we have duality at all? There is of course duality in nature, man and woman, light and shade, night and day. But inwardly, psychologically, why do we have duality?
+When we do something pleasurable there is no effort involved at all, is there? But pleasure brings pain, and then there is a struggle to avoid the pain, and that again is a dissipation of energy. Why do we have duality at all? There is of course duality in nature, man and woman, light and shade, night and day.
 
-Please think this out with me, don’t wait for me to tell you. You have to exercise your own mind to find out. My words are merely a mirror in which to observe yourself. Why do we have this psychological duality?
+But inwardly, psychologically, why do we have duality? Please think this out with me, don’t wait for me to tell you. You have to exercise your own mind to find out. My words are merely a mirror in which to observe yourself.
 
-Is it that we have been brought up to always compare what is with what should be? We have been conditioned in what is right and what is wrong, what is good and what is bad, what is moral and what is immoral. Has this duality come into being because we believe that thinking about the opposite of violence, the opposite of envy, of jealousy, of meanness, will help us to get rid of these things? Do we use the opposite as a lever to get rid of what is?
+Why do we have this psychological duality? Is it that we have been brought up to always compare what is with what should be? We have been conditioned in what is right and what is wrong, what is good and what is bad, what is moral and what is immoral. Has this duality come into being because we believe that thinking about the opposite of violence, the opposite of envy, of jealousy, of meanness, will help us to get rid of these things?
 
-Or is it an escape from the actual? Do you use the opposite as a means of avoiding the actual, which you don’t know how to deal with? Or is it because you have been told by thousands of years of propaganda that you must have an ideal, the opposite of what is, in order to cope with the present? When you have an ideal, you think it helps you to get rid of what is, but it never does.
+Do we use the opposite as a lever to get rid of what is? Or is it an escape from the actual? Do you use the opposite as a means of avoiding the actual, which you don’t know how to deal with? Or is it because you have been told by thousands of years of propaganda that you must have an ideal, the opposite of what is, in order to cope with the present?
 
-You may preach non-violence for the rest of your life and all the time be sowing the seeds of violence. You have a concept of what you should be and how you should act, and all the time you are in fact acting quite differently. So you see that principles, beliefs and ideals must inevitably lead to hypocrisy and a dishonest life. It is the ideal that creates the opposite to what is.
+When you have an ideal, you think it helps you to get rid of what is, but it never does. You may preach non-violence for the rest of your life and all the time be sowing the seeds of violence. You have a concept of what you should be and how you should act, and all the time you are in fact acting quite differently. So you see that principles, beliefs and ideals must inevitably lead to hypocrisy and a dishonest life.
 
-So if you know how to be with what is, then the opposite is not necessary. Trying to become like somebody else, or like your ideal, is one of the main causes of contradiction, confusion and conflict. A mind that is confused, whatever it does, at any level, will remain confused. Any action born of confusion leads to further confusion.
+It is the ideal that creates the opposite to what is. So if you know how to be with what is, then the opposite is not necessary. Trying to become like somebody else, or like your ideal, is one of the main causes of contradiction, confusion and conflict. A mind that is confused, whatever it does, at any level, will remain confused.
 
-I see this very clearly. I see it as clearly as I see an immediate physical danger. So what happens? I cease to act in terms of confusion any more.
+Any action born of confusion leads to further confusion. I see this very clearly. I see it as clearly as. I see an immediate physical danger.
 
-Therefore inaction is complete action, freedom, revolt, solitude, innocence, living with ourselves as we are. None of the agonies of suppression, nor the brutal discipline of conforming to a pattern, has led to truth. To come upon truth, the mind must be completely free, without a spot of distortion. But first let us ask ourselves if we really want to be free.
+So what happens? I cease to act in terms of confusion any more.
+
+Therefore, inaction is complete action, freedom, revolt, solitude, innocence, living with ourselves as we are. None of the agonies of suppression, nor the brutal discipline of conforming to a pattern, has led to truth. To come upon truth, the mind must be completely free, without a spot of distortion. But first let us ask ourselves if we really want to be free.
 
 When we talk of freedom, are we talking of complete freedom, or of freedom from some inconvenient or unpleasant or undesirable thing? We would like to be free from painful and ugly memories and unhappy experiences, but keep our pleasurable, satisfying ideologies, formulas and relationships. But to keep the one without the other is impossible, for as we have seen pleasure is inseparable from pain. So it is for each one of us to decide whether or not we want to be completely free.
 
@@ -786,27 +858,27 @@ living with it. If you live by a river, after a few days you do not hear the sou
 
 You must care for it as you would care for a newly planted tree, protect it against the sun, against the storm. You must care for it, not condemn it or justify it.
 
-Therefore, you begin to love it. When you care for it, you are beginning to love it. It is not that you love being envious or anxious, as so many people do, but rather that you care for watching. So can you, can you and I, live with what we actually are, knowing ourselves to be dull, envious, fearful, believing we have tremendous affection when we have not, getting easily hurt, easily flattered and bored?
+Therefore, you begin to love it. When you care for it, you are beginning to love it. It is not that you love being envious or anxious, as so many people do, but rather that you care for watching. So can you, can you and.
 
-Can we live with all that, neither accepting it nor denying it, without becoming morbid, depressed or related? Now let us ask ourselves a further question. Is this freedom, this solitude, this coming into contact with the whole structure of what we are in ourselves, is it to become upon through time? That is freedom to be achieved through a gradual process?
+I, live with what we actually are, knowing ourselves to be dull, envious, fearful, believing we have tremendous affection when we have not, getting easily hurt, easily flattered and bored? Can we live with all that, neither accepting it nor denying it, without becoming morbid, depressed or related? Now let us ask ourselves a further question. Is this freedom, this solitude, this coming into contact with the whole structure of what we are in ourselves, is it to become upon through time?
 
-Obviously not, because as soon as you introduce time you are enslaving yourself more and more. You cannot become free gradually. It is not a matter of time. The next question is, can you become conscious of that freedom?
+That is freedom to be achieved through a gradual process? Obviously, not, because as soon as you introduce time you are enslaving yourself more and more. You cannot become free gradually. It is not a matter of time.
 
-If you say, I am free, then you are not free. It is like a man saying, I am happy. The moment he says, I am happy, he is living in a memory of something that has gone. Freedom can only come about naturally, not through wishing, wanting, longing.
+The next question is, can you become conscious of that freedom? If you say, I am free, then you are not free. It is like a man saying, I am happy. The moment he says, I am happy, he is living in a memory of something that has gone.
 
-Nor will you find it by creating an image of what you think it is. To come upon it, the mind has to learn to look at life, which is a vast movement, without the bondage of time. For freedom lies beyond the field of consciousness, sorrow, death. I am tempted to repeat a story about a great disciple going to God and demanding to be taught truth.
+Freedom can only come about naturally, not through wishing, wanting, longing. Nor will you find it by creating an image of what you think it is. To come upon it, the mind has to learn to look at life, which is a vast movement, without the bondage of time. For freedom lies beyond the field of consciousness, sorrow, death.
 
-This poor God says, my friend, it is such a hot day, please get me a glass of water. So the disciple goes out and knocks on the door of the first house he comes to and a beautiful young lady opens the door. The disciple falls in love with her and they marry and have several children. Then one day it begins to rain and keeps on raining, raining, raining.
+I am tempted to repeat a story about a great disciple going to God and demanding to be taught truth. This poor God says, my friend, it is such a hot day, please get me a glass of water. So the disciple goes out and knocks on the door of the first house he comes to and a beautiful young lady opens the door. The disciple falls in love with her and they marry and have several children.
 
-The torrents are swollen, the streets are full, the houses are being washed away. The disciple holds on to his wife and carries his children on his shoulders and as he is being swept away he calls out, Lord, please save me, and the Lord says, where is that glass of water I asked for? It is a rather good story because most of us think in terms of time. Man lives by time.
+Then one day it begins to rain and keeps on raining, raining, raining. The torrents are swollen, the streets are full, the houses are being washed away. The disciple holds on to his wife and carries his children on his shoulders and as he is being swept away he calls out, Lord, please save me, and the Lord says, where is that glass of water. I asked for?
 
-Inventing the future has been his favorite game of escape. We think that changes in ourselves can come about in time, that order in ourselves can be built up little by little, added to day by day. But time doesn’t bring order or peace, so we must stop thinking in terms of gradualness. This means that there is no tomorrow for us to be peaceful in.
+It is a rather good story because most of us think in terms of time. Man lives by time. Inventing the future has been his favorite game of escape. We think that changes in ourselves can come about in time, that order in ourselves can be built up little by little, added to day by day.
 
-We have to be orderly on the instant. When there is real danger, time disappears, doesn’t it? There is immediate action, but we do not see the danger of many of our problems and therefore we invent time as a means of overcoming them. Time is a deceiver as it doesn’t do a thing to help us bring about a change in ourselves.
+But time doesn’t bring order or peace, so we must stop thinking in terms of gradualness. This means that there is no tomorrow for us to be peaceful in. We have to be orderly on the instant. When there is real danger, time disappears, doesn’t it?
 
-Time is a movement which man has divided into past, present and future, and as long as he divides it he will always be in conflict. Is learning a matter of time? We have not learnt after all these thousands of years that there is a better way to live than by hating and killing each other. The problem of time is a very important one to understand if we are to resolve this life which we have helped to make as monstrous and meaningless as it is.
+There is immediate action, but we do not see the danger of many of our problems and therefore we invent time as a means of overcoming them. Time is a deceiver as it doesn’t do a thing to help us bring about a change in ourselves. Time is a movement which man has divided into past, present and future, and as long as he divides it he will always be in conflict. Is learning a matter of time?
 
-The first thing to understand is that we can look at time only with that freshness and
+We have not learnt after all these thousands of years that there is a better way to live than by hating and killing each other. The problem of time is a very important one to understand if we are to resolve this life which we have helped to make as monstrous and meaningless as it is. The first thing to understand is that we can look at time only with that freshness and
 
 
 <a id="sec-022116"></a>
@@ -814,55 +886,57 @@ The first thing to understand is that we can look at time only with that freshne
 
 innocency of mind which we have already been into. We are confused about our many problems and lost in that confusion. Now if one is lost in a wood, what is the first thing one does? One stops, doesn’t one?
 
-One stops and looks round. But the more we are confused and lost in life, the more we chase around. Searching, asking, demanding, begging. So the first thing, if I may suggest it, is that you completely stop inwardly.
+One stops and looks round. But the more we are confused and lost in life, the more we chase around. Searching, asking, demanding, begging. So the first thing, if.
 
-And when you do stop inwardly, psychologically, your mind becomes very peaceful, very clear. And you can really look at this question of time. Problems exist only in time, that is when we meet an issue incompletely. This incomplete coming together with the issue creates the problem.
+I may suggest it, is that you completely stop inwardly. And when you do stop inwardly, psychologically, your mind becomes very peaceful, very clear. And you can really look at this question of time. Problems exist only in time, that is when we meet an issue incompletely.
 
-When we meet a challenge partially, fragmentarily, or try to escape from it, that is when we meet it without complete attention, we bring about a problem. And the problem continues as long as we continue to give it incomplete attention. So long as we hope to solve it one of these days. Do you know what time is?
+This incomplete coming together with the issue creates the problem. When we meet a challenge partially, fragmentarily, or try to escape from it, that is when we meet it without complete attention, we bring about a problem. And the problem continues as long as we continue to give it incomplete attention. So long as we hope to solve it one of these days.
 
-Not by the watch, not chronological time, but psychological time? It is the interval between idea and action. An idea is for self-protection, obviously. It is the idea of being secure.
+Do you know what time is? Not by the watch, not chronological time, but psychological time? It is the interval between idea and action. An idea is for self-protection, obviously.
 
-Action is always immediate. It is not of the past or of the future. To act must always be in the present. But action is so dangerous, so uncertain, that we conform to an idea which we hope will give us a certain safety.
+It is the idea of being secure. Action is always immediate. It is not of the past or of the future. To act must always be in the present.
 
-Do look at this in yourself. You have an idea of what is right or wrong, or an ideological concept about yourself and society. And according to that idea, you are going to act. Therefore the action is in conformity with that idea, approximating to the idea.
+But action is so dangerous, so uncertain, that we conform to an idea which we hope will give us a certain safety. Do look at this in yourself. You have an idea of what is right or wrong, or an ideological concept about yourself and society. And according to that idea, you are going to act.
 
-And hence there is always conflict. There is the idea, the interval and action. And in that interval is the whole field of time. That interval is essentially thought.
+Therefore, the action is in conformity with that idea, approximating to the idea. And hence there is always conflict. There is the idea, the interval and action. And in that interval is the whole field of time.
 
-When you think you will be happy tomorrow, then you have an image of yourself achieving a certain result in time. Thought, through observation, through desire, and the continuity of that desire sustained by further thought says, tomorrow I shall be happy, tomorrow I shall have success, tomorrow the world will be a beautiful place. So thought creates that interval which is time. Now we are asking, can we put a stop to time?
+That interval is essentially thought. When you think you will be happy tomorrow, then you have an image of yourself achieving a certain result in time. Thought, through observation, through desire, and the continuity of that desire sustained by further thought says, tomorrow. I shall be happy, tomorrow.
 
-Can we live so completely that there is no tomorrow for thought to think about? Because time is sorrow. That is, yesterday or a thousand yesterdays ago, you loved. Or you had a companion who has gone.
+I shall have success, tomorrow the world will be a beautiful place. So thought creates that interval which is time. Now we are asking, can we put a stop to time? Can we live so completely that there is no tomorrow for thought to think about?
 
-And that memory remains, and you are thinking about that pleasure and that pain. You are looking back, wishing, hoping, regretting. So thought, going over it again and again, breeds this thing we call sorrow, and gives continuity to time. So long as there is this interval of time, which has been bred by thought, there must be sorrow.
+Because time is sorrow. That is, yesterday or a thousand yesterdays ago, you loved. Or you had a companion who has gone. And that memory remains, and you are thinking about that pleasure and that pain.
 
-There must be continuity of fear. So one asks oneself, can this interval come to an end? If you say, will it ever end, then it is already an idea. Something you want to achieve, and therefore you have an interval and you are caught again.
+You are looking back, wishing, hoping, regretting. So thought, going over it again and again, breeds this thing we call sorrow, and gives continuity to time. So long as there is this interval of time, which has been bred by thought, there must be sorrow. There must be continuity of fear.
 
-Now take the question of death, which is an immense problem to most people. You know death, there it is walking every day by your side. Is it possible to meet it so completely that you do not make a problem of it at all? In order to meet it in such a way, all belief, all hope, all fear about it must come to an end.
+So one asks oneself, can this interval come to an end? If you say, will it ever end, then it is already an idea. Something you want to achieve, and therefore you have an interval and you are caught again. Now take the question of death, which is an immense problem to most people.
 
-Otherwise you are meeting this extraordinary thing with a conclusion, an image, with a premeditated anxiety, and therefore you are meeting it with time. Time is the interval between the observer and the observed. That is the observer, you, is afraid to meet this thing called death. You don’t know what it means.
+You know death, there it is walking every day by your side. Is it possible to meet it so completely that you do not make a problem of it at all? In order to meet it in such a way, all belief, all hope, all fear about it must come to an end. Otherwise you are meeting this extraordinary thing with a conclusion, an image, with a premeditated anxiety, and therefore you are meeting it with time.
 
-You have all kinds of hopes and theories about it, you believe in reincarnation or resurrection, or in something called the soul, the atman, a spiritual entity which is timeless and which you call by different names. Now have you found out for yourself whether there is a soul, or is it an idea that has been handed down to you? Is there something permanent, continuous, which is beyond thought?
+Time is the interval between the observer and the observed. That is the observer, you, is afraid to meet this thing called death. You don’t know what it means. You have all kinds of hopes and theories about it, you believe in reincarnation or resurrection, or in something called the soul, the atman, a spiritual entity which is timeless and which you call by different names.
+
+Now have you found out for yourself whether there is a soul, or is it an idea that has been handed down to you? Is there something permanent, continuous, which is beyond thought?
 
 
 <a id="sec-022619"></a>
 ### ⏱️ [02:26:19 - 02:31:23]
 
-If thought can think about it, it is within the field of thought and therefore it cannot be permanent because there is nothing permanent within the field of thought. To discover that nothing is permanent is of tremendous importance for only then is the mind free, then you can look, and in that there is great joy. You cannot be frightened of the unknown because you do not know what the unknown is and so there is nothing to be frightened of. Death is a word, and it is the word, the image, that creates fear.
+If thought can think about it, it is within the field of thought and therefore it cannot be permanent because there is nothing permanent within the field of thought. To discover that nothing is permanent is of tremendous importance for only then is the mind free, then you can look, and in that there is great joy. You cannot be frightened of the unknown because you do not know what the unknown is and so there is nothing to be frightened of.
 
-So can you look at death without the image of death? As long as the image exists from which springs thought, thought must always create fear. Then you either rationalize your fear of death and build a resistance against the inevitable, or you invent innumerable beliefs to protect you from the fear of death. Hence there is a gap between you and the thing of which you are afraid.
+Death is a word, and it is the word, the image, that creates fear. So can you look at death without the image of death? As long as the image exists from which springs thought, thought must always create fear. Then you either rationalize your fear of death and build a resistance against the inevitable, or you invent innumerable beliefs to protect you from the fear of death.
 
-In this time-space interval there must be conflict, which is fear, anxiety and self-pity. Thought which breeds the fear of death says, let’s postpone it, let’s avoid it, keep it as far away as possible. Let’s not think about it. But you are thinking about it.
+Hence there is a gap between you and the thing of which you are afraid. In this time-space interval there must be conflict, which is fear, anxiety and self-pity. Thought which breeds the fear of death says, let’s postpone it, let’s avoid it, keep it as far away as possible. Let’s not think about it.
 
-When you say, I won’t think about it, you have already thought out how to avoid it. You are frightened of death because you have postponed it. We have separated living from dying, and the interval between the living and the dying is fear. That interval, that time, is created by fear.
+But you are thinking about it. When you say, I won’t think about it, you have already thought out how to avoid it. You are frightened of death because you have postponed it. We have separated living from dying, and the interval between the living and the dying is fear.
 
-Living is our daily torture, daily insult, sorrow and confusion, with occasional opening of a window over enchanted seas. That is what we call living, and we are afraid to die, which is to end this misery. We would rather cling to the known than face the unknown. The known being our house, our furniture, our family, our character, our work, our knowledge, our fame, our loneliness, our gods, that little thing that moves around incessantly within itself with its own limited pattern of embittered existence.
+That interval, that time, is created by fear. Living is our daily torture, daily insult, sorrow and confusion, with occasional opening of a window over enchanted seas. That is what we call living, and we are afraid to die, which is to end this misery. We would rather cling to the known than face the unknown.
 
-We think that living is always in the present, and that dying is something that awaits us at a distant time. But we have never questioned whether this battle of everyday life is living at all. We want to know the truth about reincarnation. We want proof of the survival of the soul.
+The known being our house, our furniture, our family, our character, our work, our knowledge, our fame, our loneliness, our gods, that little thing that moves around incessantly within itself with its own limited pattern of embittered existence. We think that living is always in the present, and that dying is something that awaits us at a distant time. But we have never questioned whether this battle of everyday life is living at all. We want to know the truth about reincarnation.
 
-We listen to the assertion of clairvoyance and to the conclusions of psychical research, but we never ask, never, how to live, to live with delight, with enchantment, with beauty every day. We have accepted life as it is, with all its agony and despair, and have got used to it, and think of death as something to be carefully avoided. Our death is extraordinarily like life when we know how to live. You cannot live without dying.
+We want proof of the survival of the soul. We listen to the assertion of clairvoyance and to the conclusions of psychical research, but we never ask, never, how to live, to live with delight, with enchantment, with beauty every day. We have accepted life as it is, with all its agony and despair, and have got used to it, and think of death as something to be carefully avoided. Our death is extraordinarily like life when we know how to live.
 
-You cannot live if you do not die psychologically every minute. This is not an intellectual paradox. To live completely holy every day as if it were a new loveliness. there must be dying to everything of yesterday. Otherwise, you live mechanically, and a mechanical mind can never know what love is, or what freedom is.
+You cannot live without dying. You cannot live if you do not die psychologically every minute. This is not an intellectual paradox. To live completely holy every day as if it were a new loveliness. there must be dying to everything of yesterday.
 
-Most of us are frightened of dying because we don’t know what it means to live. We don’t know how to live.
+Otherwise, you live mechanically, and a mechanical mind can never know what love is, or what freedom is. Most of us are frightened of dying because we don’t know what it means to live. We don’t know how to live.
 
 Therefore, we don’t know how to die. As long as we are frightened of life, we shall be frightened of death. The man who is not frightened of life is not frightened of being completely insecure, for he understands that inwardly, psychologically, there is no security. When there is no security, there is an endless movement, and then life and death are the same.
 
@@ -880,25 +954,27 @@ And then you are living. Love. The demand to be safe in relationship inevitably 
 
 Have you ever found security in any of your relationships? Have you? Most of us want the security of loving and being loved. But is there love when each one of us is seeking his own security, his own particular path?
 
-We are not loved because we don’t know how to love. What is love? The word is so loaded and corrupted that I hardly like to use it. Everybody talks of love.
+We are not loved because we don’t know how to love. What is love? The word is so loaded and corrupted that. I hardly like to use it.
 
-Every magazine and newspaper and every missionary talks everlastingly of love. I love my country. I love my king. I love some book.
+Everybody talks of love. Every magazine and newspaper and every missionary talks everlastingly of love. I love my country. I love my king.
 
-I love that mountain. I love pleasure. I love my wife. I love God.
+I love some book. I love that mountain. I love pleasure. I love my wife.
 
-Is love an idea? If it is, it can be cultivated, nourished, cherished, pushed around, twisted in any way you like. When you say you love God, what does it mean? It means that you love a projection of your own imagination, a projection of yourself clothed in certain forms of respectability according to what you think is noble and holy.
+I love God. Is love an idea? If it is, it can be cultivated, nourished, cherished, pushed around, twisted in any way you like. When you say you love God, what does it mean?
 
-So to say I love God is absolute nonsense. When you worship God, you are worshipping yourself, and that is not love. Because we cannot solve this human thing called love, we run away into abstractions. Love may be the ultimate solution to all man’s difficulties, problems, and travails.
+It means that you love a projection of your own imagination, a projection of yourself clothed in certain forms of respectability according to what you think is noble and holy. So to say. I love God is absolute nonsense. When you worship God, you are worshipping yourself, and that is not love.
 
-So how are we going to find out what love is? By merely defining it, the Church has defined it one way, society another, and there are all sorts of deviations and perversions. Adoring someone, sleeping with someone, the emotional exchange, the companionship. Is that what we mean by love?
+Because we cannot solve this human thing called love, we run away into abstractions. Love may be the ultimate solution to all man’s difficulties, problems, and travails. So how are we going to find out what love is? By merely defining it, the Church has defined it one way, society another, and there are all sorts of deviations and perversions.
 
-That has been the norm, and it has become so tremendously personal, sensuous, and limited, that religions have declared that love is something much more than this. In what they call human love, they see there is pleasure, competition, jealousy, the desire to possess, to hold, to control, and to interfere with another’s thinking. Knowing the complexity of all this, they say there must be another kind of love, divine, beautiful, untouched, uncorrupted. Throughout the world, so-called holy men have maintained that to look at a woman is something totally wrong.
+Adoring someone, sleeping with someone, the emotional exchange, the companionship. Is that what we mean by love? That has been the norm, and it has become so tremendously personal, sensuous, and limited, that religions have declared that love is something much more than this. In what they call human love, they see there is pleasure, competition, jealousy, the desire to possess, to hold, to control, and to interfere with another’s thinking.
 
-They say you cannot come near to God if you indulge in sex. Therefore, they push it aside, although they are eaten up with it. But by denying sexuality, they put out their eyes and cut out their tongues, for they deny the whole beauty of the earth. They have starved their hearts and minds.
+Knowing the complexity of all this, they say there must be another kind of love, divine, beautiful, untouched, uncorrupted. Throughout the world, so-called holy men have maintained that to look at a woman is something totally wrong. They say you cannot come near to God if you indulge in sex.
 
-They are dehydrated human beings. They have banished beauty because beauty is associated with a woman. Can love be divided into the sacred and the profane, the human and the divine, or is there only love? Is love of the one and not of the many?
+Therefore, they push it aside, although they are eaten up with it. But by denying sexuality, they put out their eyes and cut out their tongues, for they deny the whole beauty of the earth. They have starved their hearts and minds. They are dehydrated human beings.
 
-If I say, I love you. Does that exclude the love of the other? Is love personal or impersonal, moral or immoral, family or non-family? If you love mankind, can you love the particular?
+They have banished beauty because beauty is associated with a woman. Can love be divided into the sacred and the profane, the human and the divine, or is there only love? Is love of the one and not of the many? If.
+
+I say, I love you. Does that exclude the love of the other? Is love personal or impersonal, moral or immoral, family or non-family? If you love mankind, can you love the particular?
 
 Is love sentiment? Is love emotion? Is love
 
@@ -908,31 +984,35 @@ Is love sentiment? Is love emotion? Is love
 
 pleasure and desire? All these questions indicate, don’t they, that we have ideas about love, ideas about what it should or should not be, a pattern or a code developed by the culture in which we live. So to go into the question of what love is, we must first free it from the encrustation of centuries, put away all ideals and ideologies of what it should or should not be, to divide anything into what should be and what is, is the most deceptive way of dealing with life.
 
-Now how am I going to find out what this flame is which we call love? Not how to express it to another, but what it means in itself? I will first reject what the church, what society, what my parents and friends, what every person and every book has said about it, because I want to find out for myself what it is. Here is an enormous problem that involves the whole of mankind.
+Now how am. I going to find out what this flame is which we call love? Not how to express it to another, but what it means in itself? I will first reject what the church, what society, what my parents and friends, what every person and every book has said about it, because.
 
-There have been a thousand ways of defining it and I myself am caught in some pattern or other according to what I like or enjoy at the moment. So shouldn’t I, in order to understand it, first free myself from my own inclinations and prejudices? I am confused, torn by my own desires, so I say to myself, first clear up your own confusion. Perhaps you may be able to discover what love is through what it is not.
+I want to find out for myself what it is. Here is an enormous problem that involves the whole of mankind. There have been a thousand ways of defining it and. I myself am caught in some pattern or other according to what.
 
-The government says, go and kill for the love of your country. Is that love? Religion says, give up sex for the love of God. Is that love?
+I like or enjoy at the moment. So shouldn’t. I, in order to understand it, first free myself from my own inclinations and prejudices? I am confused, torn by my own desires, so.
 
-Is love desire? Don’t say no. For most of us it is. Desire with pleasure, the pleasure that is derived through the senses, through sexual attachment and fulfillment. I am not against sex, but see what is involved in it.
+I say to myself, first clear up your own confusion. Perhaps, you may be able to discover what love is through what it is not. The government says, go and kill for the love of your country. Is that love?
 
-What sex gives you momentarily, is the total abandonment of yourself. Then you are back again with your turmoil. So you want a repetition over and over again of that state which there is no worry, no problem, no self. You say you love your wife.
+Religion says, give up sex for the love of God. Is that love? Is love desire? Don’t say no.
 
-In that love is involved sexual pleasure, the pleasure of having someone in your house to look after your children, to cook. You depend on her. She has given you her body, her emotions, her encouragement, a certain feeling of security and well-being. Then she turns away from you.
+For most of us it is. Desire with pleasure, the pleasure that is derived through the senses, through sexual attachment and fulfillment. I am not against sex, but see what is involved in it. What sex gives you momentarily, is the total abandonment of yourself.
 
-She gets bored or goes off with someone else and your whole emotional balance is destroyed. And this disturbance, which you don’t like, is called jealousy. There is pain in it, anxiety, hate and violence. So what you are really saying is, as long as you belong to me, I love you, but the moment you don’t, I begin to hate you.
+Then you are back again with your turmoil. So you want a repetition over and over again of that state which there is no worry, no problem, no self. You say you love your wife. In that love is involved sexual pleasure, the pleasure of having someone in your house to look after your children, to cook.
 
-As long as I can rely on you to satisfy my demands, sexual and otherwise, I love you, but the moment you cease to supply what I want, I don’t like you. So there is antagonism between you, there is separation, and when you feel separate from another, there is no love. But if you can live with your wife without creating all these contradictory states, these endless quarrels in yourself, then perhaps, perhaps, you will know what love is. Then you are completely free and so is she.
+You depend on her. She has given you her body, her emotions, her encouragement, a certain feeling of security and well-being. Then she turns away from you. She gets bored or goes off with someone else and your whole emotional balance is destroyed.
 
-Whereas if you depend on her for all your pleasure, you are a slave to her. So when one loves, there must be freedom, not only from the other person, but from oneself. This belonging to another, being psychologically nourished by another, depending on another, in all this there must always be anxiety, fear, jealousy, guilt, and so long as there is fear, there is no love. A mind ridden with sorrow will never know what love is.
+And this disturbance, which you don’t like, is called jealousy. There is pain in it, anxiety, hate and violence. So what you are really saying is, as long as you belong to me, I love you, but the moment you don’t, I begin to hate you. As long as.
 
-Sentimentality and emotionalism have nothing whatsoever to do with love. And so love is not to do with pleasure and desire. Love is not the product of thought which is the past. Love cannot possibly cultivate love.
+I can rely on you to satisfy my demands, sexual and otherwise, I love you, but the moment you cease to supply what. I want, I don’t like you. So there is antagonism between you, there is separation, and when you feel separate from another, there is no love. But if you can live with your wife without creating all these contradictory states, these endless quarrels in yourself, then perhaps, perhaps, you will know what love is.
 
-Love is not hedged about and caught in jealousy. For jealousy is of the past. Love is always present. It is not, I will love, or I have loved.
+Then you are completely free and so is she. Whereas if you depend on her for all your pleasure, you are a slave to her. So when one loves, there must be freedom, not only from the other person, but from oneself. This belonging to another, being psychologically nourished by another, depending on another, in all this there must always be anxiety, fear, jealousy, guilt, and so long as there is fear, there is no love.
 
-If you know love, you will not follow anybody. Love does not obey. When you love, there is neither respect nor disrespect. Don’t you know what it means really to love somebody?
+A mind ridden with sorrow will never know what love is. Sentimentality and emotionalism have nothing whatsoever to do with love. And so love is not to do with pleasure and desire. Love is not the product of thought which is the past.
 
-To love without hate, without jealousy, without
+Love cannot possibly cultivate love. Love is not hedged about and caught in jealousy. For jealousy is of the past. Love is always present.
+
+It is not, I will love, or. I have loved. If you know love, you will not follow anybody. Love does not obey.
+
+When you love, there is neither respect nor disrespect. Don’t you know what it means really to love somebody? To love without hate, without jealousy, without
 
 
 <a id="sec-024131"></a>
@@ -958,13 +1038,15 @@ If you cry out of self-pity, your tears have no meaning because you are concerne
 
 Apparently you are crying because your heart is touched, but it is not touched for him. It is only touched by self-pity, and self-pity makes you hard, encloses you, makes you dull and stupid. When you cry for yourself, is it love? Crying because you are lonely, because you have been left, because you are no longer powerful, complaining of your lot, your environment, always you in tears.
 
-If you understand this, which means to come in contact with it as directly as you would touch a tree, or a pillar, or a hand, Then you will see that sorrow is self-created. Sorrow is created by thought. Sorrow is the outcome of time. I had my brother three years ago, now he is dead, now I am lonely, aching.
+If you understand this, which means to come in contact with it as directly as you would touch a tree, or a pillar, or a hand, Then you will see that sorrow is self-created. Sorrow is created by thought. Sorrow is the outcome of time. I had my brother three years ago, now he is dead, now.
 
-There is no one to whom I can look for comfort or companionship, and it brings tears to my eyes. You can see all this happening inside yourself if you watch it. You can see it fully, completely in one glance, not take analytical time over it. You can see in a moment the whole structure and nature of this shoddy little thing called me.
+I am lonely, aching. There is no one to whom. I can look for comfort or companionship, and it brings tears to my eyes. You can see all this happening inside yourself if you watch it.
 
-My tears, my family, my nation, my belief, my religion. All that ugliness, it is all inside you. When you see it with your heart, not with your mind, when you see it from the very bottom of your heart, then you have the key that will end sorrow. Sorrow and love cannot go together, but in the Christian world they have idealized suffering, put it on a cross and worshipped it, implying that you can never escape from suffering, except through that one particular door, and this is the whole structure of an exploiting religious society.
+You can see it fully, completely in one glance, not take analytical time over it. You can see in a moment the whole structure and nature of this shoddy little thing called me. My tears, my family, my nation, my belief, my religion. All that ugliness, it is all inside you.
 
-So when you ask what love is, you may be too frightened to see the answer. It may mean complete upheaval. It may break up the family. You may discover that you do not
+When you see it with your heart, not with your mind, when you see it from the very bottom of your heart, then you have the key that will end sorrow. Sorrow and love cannot go together, but in the Christian world they have idealized suffering, put it on a cross and worshipped it, implying that you can never escape from suffering, except through that one particular door, and this is the whole structure of an exploiting religious society. So when you ask what love is, you may be too frightened to see the answer.
+
+It may mean complete upheaval. It may break up the family. You may discover that you do not
 
 
 <a id="sec-024634"></a>
@@ -976,53 +1058,53 @@ But if you still want to find out, you will see that fear is not love, dependenc
 
 If you have not got love, not just in little drops but in abundance, if you are not filled with it, the world will go to disaster. You know intellectually that the unity of mankind is essential and that love is the only way. But who is going to teach you how to love? Will any authority, any method, any system tell you how to love?
 
-If anyone tells you it is not love, can you say I will practice love? I will sit down day after day and think about it. I will practice being kind and gentle and force myself to pay attention to others. Do you mean to say that you can discipline yourself to love?
+If anyone tells you it is not love, can you say. I will practice love? I will sit down day after day and think about it. I will practice being kind and gentle and force myself to pay attention to others.
 
-Exercise the will to love. When you exercise discipline and will to love, love goes out of the window. By practicing some method or system of loving, you may become extraordinarily clever or more kindly or get into a state of non-violence, but that has nothing whatsoever to do with love. In this torn desert world, there is no love because pleasure and desire play the greatest roles.
+Do you mean to say that you can discipline yourself to love? Exercise the will to love. When you exercise discipline and will to love, love goes out of the window. By practicing some method or system of loving, you may become extraordinarily clever or more kindly or get into a state of non-violence, but that has nothing whatsoever to do with love.
 
-Yet without love, your daily life has no meaning. And you cannot have love if there is no beauty. Beauty is not something you see, not a beautiful tree, a beautiful picture, a beautiful building or a beautiful woman. There is beauty only when your heart and mind know what love is.
+In this torn desert world, there is no love because pleasure and desire play the greatest roles. Yet without love, your daily life has no meaning. And you cannot have love if there is no beauty. Beauty is not something you see, not a beautiful tree, a beautiful picture, a beautiful building or a beautiful woman.
 
-Without love and that sense of beauty, there is no virtue, and you know very well that do what you will, improve society, feed the poor, you will only be creating more mischief. For without love, there is only ugliness and poverty in your own heart and mind. But when there is love and beauty, whatever you do is right, whatever you do is in order. If you know how to love, then you can do what you like because it will solve all other problems. So we reach the point, can the mind come upon love without discipline, without thought, without enforcement, without any book, any teacher or leader?
+There is beauty only when your heart and mind know what love is. Without love and that sense of beauty, there is no virtue, and you know very well that do what you will, improve society, feed the poor, you will only be creating more mischief. For without love, there is only ugliness and poverty in your own heart and mind. But when there is love and beauty, whatever you do is right, whatever you do is in order.
 
-Come upon it as one comes upon a lovely sunset? It seems to me that one thing is absolutely necessary and that is passion without motive. Passion that is not the result of some commitment or attachment, passion that is not lust. A man who does not know what passion is will never know love, because love can only come into being only when there is total self-abandonment.
+If you know how to love, then you can do what you like because it will solve all other problems. So we reach the point, can the mind come upon love without discipline, without thought, without enforcement, without any book, any teacher or leader? Come upon it as one comes upon a lovely sunset? It seems to me that one thing is absolutely necessary and that is passion without motive.
 
-A mind that is seeking is not a passionate mind, and to come upon love without seeking is the only way to find it. To come upon it unknowingly and not as the result of any effort or experience. Such a love, you will find, is not of time. Such a love is both personal and impersonal.
+Passion that is not the result of some commitment or attachment, passion that is not lust. A man who does not know what passion is will never know love, because love can only come into being only when there is total self-abandonment. A mind that is seeking is not a passionate mind, and to come upon love without seeking is the only way to find it. To come upon it unknowingly and not as the result of any effort or experience.
 
-It is both the one and the many. Like a flower that has perfume, you can smell it or pass it by. That flower is for everybody, expand it for the one who takes trouble to be extremely and look at it with delight, with delight. Whether one is very near and is very near or very far away or very far away is the same to the flower.
+Such a love, you will find, is not of time. Such a love is both personal and impersonal. It is both the one and the many. Like a flower that has perfume, you can smell it or pass it by.
 
-It is the same to the flower that because it is full of that perfume, it is sharing it with everybody. Love is something that is new, fresh, alive. It has no yesterday and no tomorrow. It is beyond the turmoil of thought.
+That flower is for everybody, expand it for the one who takes trouble to be extremely and look at it with delight, with delight. Whether one is very near and is very near or very far away or very far away is the same to the flower. It is the same to the flower that because it is full of that perfume, it is sharing it with everybody. Love is something that is new, fresh, alive.
 
-It is only the innocent mind which knows what love is, and the innocent mind can live in the world which is not innocent. To find this extraordinary thing which man has
+It has no yesterday and no tomorrow. It is beyond the turmoil of thought. It is only the innocent mind which knows what love is, and the innocent mind can live in the world which is not innocent. To find this extraordinary thing which man has
 
 
 <a id="sec-025138"></a>
 ### ⏱️ [02:51:38 - 02:56:40]
 
-sought endlessly through sacrifice, through worship, through relationship, through sex, through every form of pleasure and pain, is only possible when thought comes to understand itself and comes naturally to an end. Then love has no opposite. Then love has no conflict. You may ask, if I find such a love, what happens to my wife, my children, my family?
+sought endlessly through sacrifice, through worship, through relationship, through sex, through every form of pleasure and pain, is only possible when thought comes to understand itself and comes naturally to an end. Then love has no opposite. Then love has no conflict. You may ask, if.
 
-They must have security. When you put such a question, you have never been outside the field of thought, the field of consciousness. When once you have been outside that field, you will never ask such a question because then you will know what love is in which there is no thought and therefore no time. You may read this mesmerized and enchanted, but actually to go beyond thought and time, which means going beyond sorrow, is to be aware that there is a different dimension called love.
+I find such a love, what happens to my wife, my children, my family? They must have security. When you put such a question, you have never been outside the field of thought, the field of consciousness. When once you have been outside that field, you will never ask such a question because then you will know what love is in which there is no thought and therefore no time.
 
-But you don’t know how to come to this extraordinary thought. So what do you do? If you don’t know what to do, you do nothing, don’t you? Absolutely nothing.
+You may read this mesmerized and enchanted, but actually to go beyond thought and time, which means going beyond sorrow, is to be aware that there is a different dimension called love. But you don’t know how to come to this extraordinary thought. So what do you do? If you don’t know what to do, you do nothing, don’t you?
 
-Then inwardly you are completely silent. Do you understand what that means? It means that you are not seeking, not wanting, not pursuing. There is no center at all.
+Absolutely nothing. Then inwardly you are completely silent. Do you understand what that means? It means that you are not seeking, not wanting, not pursuing.
 
-Then there is love. To look and to listen, art, beauty, austerity, images, problems, space. A guarantee for the rest of their lives of continuous emotional satisfaction. We have been inquiring into the nature of love and have come to a point, I think, which needs much greater penetration, a much greater awareness of the issue.
+There is no center at all. Then there is love. To look and to listen, art, beauty, austerity, images, problems, space. A guarantee for the rest of their lives of continuous emotional satisfaction.
 
-We have discovered that for most people, love means comfort, security, a guarantee for the rest of their lives of continuous emotional satisfaction. Then someone like me comes along and says, is that really love? And questions you and asks you to look inside yourself. And you try not to look because it is very disturbing.
+We have been inquiring into the nature of love and have come to a point, I think, which needs much greater penetration, a much greater awareness of the issue. We have discovered that for most people, love means comfort, security, a guarantee for the rest of their lives of continuous emotional satisfaction. Then someone like me comes along and says, is that really love? And questions you and asks you to look inside yourself.
 
-You would rather discuss the soul or the political or economic situation. But when you are driven into a corner to look, you realize that what you have always thought of love is not love at all. It is a mutual gratification, a mutual exploitation. When I say love has no tomorrow and no yesterday, or when there is no center, then there is love.
+And you try not to look because it is very disturbing. You would rather discuss the soul or the political or economic situation. But when you are driven into a corner to look, you realize that what you have always thought of love is not love at all. It is a mutual gratification, a mutual exploitation.
 
-It has reality for me, but not for you. You may quote it and make it into a formula, but that has no validity. You have to see it for yourself. But to do so, there must be freedom to look.
+When. I say love has no tomorrow and no yesterday, or when there is no center, then there is love. It has reality for me, but not for you. You may quote it and make it into a formula, but that has no validity.
 
-Freedom from all condemnation, all judgment, all agreeing or disagreeing. Now to look is one of the most difficult things in life. Or to listen. To look and listen are the same.
+You have to see it for yourself. But to do so, there must be freedom to look. Freedom from all condemnation, all judgment, all agreeing or disagreeing. Now to look is one of the most difficult things in life.
 
-If your eyes are blinded with your worries, you cannot see the beauty of the sunset. Most of us have lost touch with nature. Civilization is tending more and more towards large cities. We are becoming more and more an urban people, living in crowded apartments and having very little space even to look at the sky of an evening and morning.
+Or to listen. To look and listen are the same. If your eyes are blinded with your worries, you cannot see the beauty of the sunset. Most of us have lost touch with nature.
 
-And therefore we are losing touch with a great deal of beauty. I don’t know if you have noticed how few of us look at a sunrise or a sunset or the moonlight or the reflection of light on water. Having lost touch with nature, we naturally tend to develop intellectual capacities. We read a great many books, go to a great many museums and concerts, watch television and have many other entertainments.
+Civilization is tending more and more towards large cities. We are becoming more and more an urban people, living in crowded apartments and having very little space even to look at the sky of an evening and morning. And therefore we are losing touch with a great deal of beauty. I don’t know if you have noticed how few of us look at a sunrise or a sunset or the moonlight or the reflection of light on water.
 
-We quote endlessly from other people’s ideas and think and talk a great deal about art. Why is it that we depend so much upon art? Is it a form of escape, of stimulation? If you are directly in contact with nature, if you watch the movement of a bird on the wing, see the beauty of every movement of the sky, watch the shadows on the hills or the beauty on the face of another, do you think you will want to go to any museum to look at any picture?
+Having lost touch with nature, we naturally tend to develop intellectual capacities. We read a great many books, go to a great many museums and concerts, watch television and have many other entertainments. We quote endlessly from other people’s ideas and think and talk a great deal about art. Why is it that we depend so much upon art?
 
-Perhaps it is because you do not know how to look at all the things about you that you resort to some form
+Is it a form of escape, of stimulation? If you are directly in contact with nature, if you watch the movement of a bird on the wing, see the beauty of every movement of the sky, watch the shadows on the hills or the beauty on the face of another, do you think you will want to go to any museum to look at any picture? Perhaps, it is because you do not know how to look at all the things about you that you resort to some form
 
 
 <a id="sec-025640"></a>
@@ -1036,9 +1118,11 @@ Have you ever experimented with looking at an objective thing like a tree withou
 
 There is only attention. It is when there is inattention that there is the observer and the observed. When you are looking at something with complete attention, there is no space for a conception, a formula or a memory. This is important to understand because we are going into something which requires very careful investigation.
 
-It is only a mind that looks at a tree or the stars or the sparkling waters of a river with complete self-abandonment that knows what beauty is. And when we are actually seeing, we are in a state of love. We generally know beauty through comparison or through what man has put together which means that we attribute beauty to some object. I see what I consider to be a beautiful building and by that beauty I appreciate because of my knowledge of architecture and by comparing it with other buildings I have seen.
+It is only a mind that looks at a tree or the stars or the sparkling waters of a river with complete self-abandonment that knows what beauty is. And when we are actually seeing, we are in a state of love. We generally know beauty through comparison or through what man has put together which means that we attribute beauty to some object. I see what.
 
-But now I am asking myself, is there a beauty without object? When there is an observer who is the censor, the experiencer, the thinker, there is no beauty because beauty is something external, something the observer looks at and judges. But when there is no observer, and this demands a great deal of meditation, of inquiry, then there is beauty without the object. Beauty lies in the total abandonment of the observer and the observed and there can be self-abandonment only when there is total austerity.
+I consider to be a beautiful building and by that beauty. I appreciate because of my knowledge of architecture and by comparing it with other buildings. I have seen. But now.
+
+I am asking myself, is there a beauty without object? When there is an observer who is the censor, the experiencer, the thinker, there is no beauty because beauty is something external, something the observer looks at and judges. But when there is no observer, and this demands a great deal of meditation, of inquiry, then there is beauty without the object. Beauty lies in the total abandonment of the observer and the observed and there can be self-abandonment only when there is total austerity.
 
 Not the austerity of the priest with its harshness, its sanctions, rules, and obedience, not austerity and clothes, ideas, food and behaviour, but the austerity of being totally simple, which is complete humility. Then there is no achieving, no ladder to climb, there is only the first step and the first step is the everlasting step. Say you are walking by yourself or with somebody and you have stopped talking. You are surrounded by nature and there is no dog barking, no noise of a car passing or even the flutter of a bird.
 
@@ -1046,29 +1130,33 @@ You are completely silent and nature around you is also wholly silent. In that s
 
 When you love, is there an observer? There is an observer only when love is desire and pleasure. When desire and pleasure are not associated with love, then love is intense. It is, like beauty, something totally new every day.
 
-As I have said, it has no yesterday and no tomorrow. It is only when we see, without any preconception, any image that we are able to be in direct contact with anything in life. All our relationships are really imaginary, that is, based on an
+As. I have said, it has no yesterday and no tomorrow. It is only when we see, without any preconception, any image that we are able to be in direct contact with anything in life. All our relationships are really imaginary, that is, based on an
 
 
 <a id="sec-030143"></a>
 ### ⏱️ [03:01:43 - 03:06:45]
 
-image formed by thought. If I have an image about you and you have an image about me, naturally we don’t see each other at all as we actually are. What we see is the images which we have formed about each other, which prevent us from being in contact and that is why our relationships go wrong. When I say I know you, I mean I knew you yesterday.
+image formed by thought. If. I have an image about you and you have an image about me, naturally we don’t see each other at all as we actually are. What we see is the images which we have formed about each other, which prevent us from being in contact and that is why our relationships go wrong.
 
-I do not know you actually now. All I know is my image of you. That image is put together by what you have said in praise of me or to insult me. What you have done to me is put together by all the memories I have of you and your image of me is put together in the same way and it is those images which have relationship and which prevent us from really communing with each other.
+When. I say. I know you, I mean. I knew you yesterday.
 
-Two people who have lived together for a long time have an image of each other which prevents them from really being in a relationship. If we understand relationship, we can cooperate, but cooperation cannot possibly exist through images, through symbols, through ideological conceptions. Only when we understand the true relationship between each other is there a possibility of love, and love is denied when we have images.
+I do not know you actually now. All. I know is my image of you. That image is put together by what you have said in praise of me or to insult me.
 
-Therefore, it is important to understand, not intellectually but actually in your daily life, how you have built images about your wife, your husband, your neighbour, your child, your country, your leaders, your politicians, your gods. You have nothing but images. These images create the space between you and what you observe, and in that space there is conflict. So what we are going to find out now together is whether it is possible to be free of the space we create, not only outside ourselves, but in ourselves, the space which divides people in all their relationships.
+What you have done to me is put together by all the memories. I have of you and your image of me is put together in the same way and it is those images which have relationship and which prevent us from really communing with each other. Two people who have lived together for a long time have an image of each other which prevents them from really being in a relationship. If we understand relationship, we can cooperate, but cooperation cannot possibly exist through images, through symbols, through ideological conceptions.
 
-Now the very attention you give to a problem is the energy that solves that problem. When you give your complete attention, I mean with everything in you, there is no observer at all. There is only the state of attention which is total energy, and that total energy is the highest form of intelligence. Naturally, that state of mind must be completely silent, and that silence, that stillness, comes when there is total attention, not disciplined stillness.
+Only when we understand the true relationship between each other is there a possibility of love, and love is denied when we have images. Therefore, it is important to understand, not intellectually but actually in your daily life, how you have built images about your wife, your husband, your neighbour, your child, your country, your leaders, your politicians, your gods. You have nothing but images. These images create the space between you and what you observe, and in that space there is conflict.
 
-That total silence in which there is neither the observer nor the thing observed is the highest form of a religious mind, but what takes place in that state cannot be put into words, because what is said in words is not the fact. To find out for yourself, you have to go through it. Every problem is related to every other problem, so that if you can solve one problem completely, it does not matter what it is, it does not matter what it is, you will see that you are able to meet all other problems easily and resolve them.
+So what we are going to find out now together is whether it is possible to be free of the space we create, not only outside ourselves, but in ourselves, the space which divides people in all their relationships. Now the very attention you give to a problem is the energy that solves that problem. When you give your complete attention, I mean with everything in you, there is no observer at all. There is only the state of attention which is total energy, and that total energy is the highest form of intelligence.
+
+Naturally, that state of mind must be completely silent, and that silence, that stillness, comes when there is total attention, not disciplined stillness. That total silence in which there is neither the observer nor the thing observed is the highest form of a religious mind, but what takes place in that state cannot be put into words, because what is said in words is not the fact. To find out for yourself, you have to go through it. Every problem is related to every other problem, so that if you can solve one problem completely, it does not matter what it is, it does not matter what it is, you will see that you are able to meet all other problems easily and resolve them.
 
 We are talking of course of psychological problems. We have already seen that a problem exists only in time, that is when we meet the issue completely. So not only must we be aware of the nature and structure of the problem and see it completely, but meet it as it arises and resolve it immediately so that it does not take root in your mind. If one allows a problem to endure for a month or a day, or even for a few minutes, it distorts the mind.
 
 If one allows a problem to endure for a month or a day, or even for a few minutes, it distorts the mind. So it is passable to meet a problem immediately without any distortion and be immediately, completely free of it and not allow a memory, a scratch on the mind to remain. So is it passable to meet a problem immediately without any distortion and be immediately, completely free of it and not allow a memory, a scratch on the mind to remain?
 
-These memories are the images we carry about with us and it is these images which meet this extraordinary thing called life and therefore there is a contradiction and hence conflict. Life is very real, life is not an abstraction and when you meet it with images there are problems. Is it passable to meet every issue without this space-time interval, without the gap between oneself and the thing of which one is afraid? It is passable only when the observer has no continuity. The observer who
+These memories are the images we carry about with us and it is these images which meet this extraordinary thing called life and therefore there is a contradiction and hence conflict. Life is very real, life is not an abstraction and when you meet it with images there are problems. Is it passable to meet every issue without this space-time interval, without the gap between oneself and the thing of which one is afraid? It is passable only when the observer has no continuity.
+
+The observer who
 
 
 <a id="sec-030645"></a>
@@ -1084,7 +1172,9 @@ So it is up to you. There is no leader, there is no teacher, there is nobody to 
 
 Please go on with me a little further. It may be rather complex, rather subtle, but please go on with it.
 
-Now, when I build an image about you or about anything, I am able to watch that image, so there is the image and the observer of that image. I see someone say with a red shirt on and my immediate reaction is that I like it or that I don’t like it. The like or dislike is the result of my culture, my training, my associations, my inclinations, my acquired and inherited characteristics. It is from that centre that I observe and make my judgement and thus the observer is separate from the thing he observes.
+Now, when. I build an image about you or about anything, I am able to watch that image, so there is the image and the observer of that image. I see someone say with a red shirt on and my immediate reaction is that. I like it or that.
+
+I don’t like it. The like or dislike is the result of my culture, my training, my associations, my inclinations, my acquired and inherited characteristics. It is from that centre that. I observe and make my judgement and thus the observer is separate from the thing he observes.
 
 But the observer is aware of more than one image. He creates thousands of images. But is the observer different from these images? Isn’t he just another image?
 
@@ -1092,7 +1182,9 @@ He is always adding to and subtracting from what he is. He is a living thing all
 
 So the observer is both the past and the present and tomorrow is waiting and that is also a part of him. He is half alive and half dead and with this death and life he is looking, with the dead and living leaf. And in that state of mind which is within the field of time you, the observer, look at fear, at jealousy, at war, at the family, that ugly enclosed entity called the family and try to solve the problem of the thing observed which is the challenge, the new.
 
-You are always translating the new in terms of the old and therefore are everlastingly in conflict. One image as the observer observes dozens of other images around himself and inside himself and he says, I like this image, I am going to keep it or I don’t like that image so I will get rid of it. But the observer himself has been put together by the various images which have come
+You are always translating the new in terms of the old and therefore are everlastingly in conflict. One image as the observer observes dozens of other images around himself and inside himself and he says, I like this image, I am going to keep it or. I don’t like that image so. I will get rid of it.
+
+But the observer himself has been put together by the various images which have come
 
 
 <a id="sec-031149"></a>
@@ -1114,9 +1206,11 @@ He did not identify himself with the tree, but he was the tree. This means that 
 
 Any movement on the part of the observer, if he has not realised that the observer is the observed, creates another series of images, and again he is caught in them. But what takes place when the observer is aware that the observer is the observed? Go slowly, go very slowly, because it is a very complex thing we are going into now. What takes place?
 
-The observer does not act at all. The observer has always said, “I must do something about these images, I must suppress them or give them a different shape.” He is always active in regard to the observed, acting and reacting passionately or casually, and this action of like and dislike on the part of the observer is called positive action. I like, therefore I must hold. I dislike, therefore I must get rid of.
+The observer does not act at all. The observer has always said, “I must do something about these images, I must suppress them or give them a different shape.”. He is always active in regard to the observed, acting and reacting passionately or casually, and this action of like and dislike on the part of the observer is called positive action. I like, therefore.
 
-But when the observer realises that the thing about which he is acting is himself, then there is no conflict between himself and the image. He is that. He is not separate from that. When
+I must hold. I dislike, therefore. I must get rid of. But when the observer realises that the thing about which he is acting is himself, then there is no conflict between himself and the image.
+
+He is that. He is not separate from that. When
 
 
 <a id="sec-031655"></a>
@@ -1130,21 +1224,21 @@ It is not bound to any central issue or to any image. And from that intensity of
 
 Ideas and action, challenge, matter, the beginning of thought. Let us now go into the question of what is thinking. The significance of that thought which must be exercised with care, logic and sanity for our daily work and that which has no significance at all. Unless we know the two kinds, we cannot possibly understand something deeper which thought cannot touch.
 
-So let us try to understand this whole complex structure of what is thinking, what is memory, how thought originates, how thought conditions all our actions and in understanding all this we shall perhaps come across something which thought has never discovered, which thought cannot open the door to. Why has thought become so important in all our lives? Thought being ideas, being the response to the accumulated memories in the brain cells. Perhaps many of you have not even asked such a question before or if you have you may have said it’s of very little importance.
+So let us try to understand this whole complex structure of what is thinking, what is memory, how thought originates, how thought conditions all our actions and in understanding all this we shall perhaps come across something which thought has never discovered, which thought cannot open the door to. Why has thought become so important in all our lives? Thought being ideas, being the response to the accumulated memories in the brain cells. Perhaps, many of you have not even asked such a question before or if you have you may have said it’s of very little importance.
 
-What is important is emotion. But I don’t see how you can separate the two. If thought doesn’t give continuity to feeling, feeling dies very quickly. So why in our daily lives, in our grinding, boring, frightened lives, has thought taken on such an inordinate importance?
+What is important is emotion. But. I don’t see how you can separate the two. If thought doesn’t give continuity to feeling, feeling dies very quickly.
 
-Ask yourself as I am asking myself, why is one a slave to thought, cunning, clever thought, which can organize, which can start things, which has invented so much, bred so many wars, created so much fear, so much anxiety, which is forever creating images and chasing its own tail. Thought, which has enjoyed the pleasure of yesterday and given that pleasure continuity in the present and also in the future. Thought, which is always active, chattering, moving, constructing, taking away, adding, supposing. Ideas have become far more important to us than action.
+So why in our daily lives, in our grinding, boring, frightened lives, has thought taken on such an inordinate importance? Ask yourself as. I am asking myself, why is one a slave to thought, cunning, clever thought, which can organize, which can start things, which has invented so much, bred so many wars, created so much fear, so much anxiety, which is forever creating images and chasing its own tail. Thought, which has enjoyed the pleasure of yesterday and given that pleasure continuity in the present and also in the future.
 
-Ideas so cleverly expressed in books by the intellectuals in every field. The more cunning, the more subtle those ideas are, the more we worship them and the books that contain them. We are those books. We are those ideas.
+Thought, which is always active, chattering, moving, constructing, taking away, adding, supposing. Ideas have become far more important to us than action. Ideas so cleverly expressed in books by the intellectuals in every field. The more cunning, the more subtle those ideas are, the more we worship them and the books that contain them.
 
-So heavily conditioned are we by them. We are forever discussing ideas and ideals and dialectically offering opinions. Every religion has its dogma, its formula, its own scaffold to reach the gods. And when inquiring into the beginning of thought, we are questioning the importance of this whole edifice of ideas.
+We are those books. We are those ideas. So heavily conditioned are we by them. We are forever discussing ideas and ideals and dialectically offering opinions.
 
-We have separated ideas from action because ideas are always of the past and action is always the present. That is, living is always the present. We are afraid of living and therefore the past, as ideas, has become so important to us. It is really extraordinarily interesting to watch the operation of one’s own thinking just to observe how one thinks, where that reaction we call thinking springs from.
+Every religion has its dogma, its formula, its own scaffold to reach the gods. And when inquiring into the beginning of thought, we are questioning the importance of this whole edifice of ideas. We have separated ideas from action because ideas are always of the past and action is always the present. That is, living is always the present.
 
-Obviously from memory. Is there a beginning to thought at all? If there is, can we find out its beginning? That is the beginning of memory, because if we had no memory, we would have no thought.
+We are afraid of living and therefore the past, as ideas, has become so important to us. It is really extraordinarily interesting to watch the operation of one’s own thinking just to observe how one thinks, where that reaction we call thinking springs from. Obviously, from memory. Is there a beginning to thought at all?
 
-We have seen how thought sustains and gives continuity to a pleasure that we had yesterday and how thought also sustains the reverse of pleasure, which is fear and pain. So the experiencer, who is the thinker, is the pleasure and the pain and also the entity who gives
+If there is, can we find out its beginning? That is the beginning of memory, because if we had no memory, we would have no thought. We have seen how thought sustains and gives continuity to a pleasure that we had yesterday and how thought also sustains the reverse of pleasure, which is fear and pain. So the experiencer, who is the thinker, is the pleasure and the pain and also the entity who gives
 
 
 <a id="sec-032157"></a>
@@ -1160,17 +1254,17 @@ Thought is so cunning, so clever, that it distorts everything for its own conven
 
 But there is also the desire for peace, the desire to be kind and gentle. This is what is going on all the time in our lives. Thought not only breeds this duality in us, this contradiction. But it also accumulates the innumerable memories we have had of pleasure and pain, and from these memories it is reborn.
 
-So thought is the past. Thought is always old, as I have already said. As every challenge is met in terms of the past, a challenge being always new, our meeting of the challenge will always be totally inadequate, hence contradiction, conflict and all the misery and sorrow we are heir to. Our little brain is in conflict whatever it does.
+So thought is the past. Thought is always old, as. I have already said. As every challenge is met in terms of the past, a challenge being always new, our meeting of the challenge will always be totally inadequate, hence contradiction, conflict and all the misery and sorrow we are heir to.
 
-Whether it aspires, imitates, conforms, suppresses, sublimates, takes drugs to expand itself, whatever it does, it is in the state of conflict and will produce conflict. Those who think a great deal are very materialistic because thought is matter. Thought is matter as much as the floor, the wall, the telephone are matter. Energy functioning in a pattern becomes matter.
+Our little brain is in conflict whatever it does. Whether it aspires, imitates, conforms, suppresses, sublimates, takes drugs to expand itself, whatever it does, it is in the state of conflict and will produce conflict. Those who think a great deal are very materialistic because thought is matter. Thought is matter as much as the floor, the wall, the telephone are matter.
 
-There is energy and there is matter, that is all life is. We may think thought is not matter, but it is. Thought is matter as an ideology. Where there is energy it becomes matter.
+Energy functioning in a pattern becomes matter. There is energy and there is matter, that is all life is. We may think thought is not matter, but it is. Thought is matter as an ideology.
 
-Matter and thought are interrelated. The one cannot exist without the other and the more harmony there is between the two, the more balance, the more active the brain cells are. Thought has set up this pattern of pleasure, pain, fear and has been functioning inside it for thousands of years and cannot break the pattern because it has created it. A new fact cannot be seen by thought.
+Where there is energy it becomes matter. Matter and thought are interrelated. The one cannot exist without the other and the more harmony there is between the two, the more balance, the more active the brain cells are. Thought has set up this pattern of pleasure, pain, fear and has been functioning inside it for thousands of years and cannot break the pattern because it has created it.
 
-It can be understood later by thought, verbally, but the understanding of a new fact is not reality to thought. Thought can never solve any psychological problem, however clever, however cunning, however erudite. Whether the structure thought creates through science, through an electronic brain, through compulsion or necessity, thought is never new and therefore it can never answer any tremendous question. The old brain cannot solve the enormous problem of living.
+A new fact cannot be seen by thought. It can be understood later by thought, verbally, but the understanding of a new fact is not reality to thought. Thought can never solve any psychological problem, however clever, however cunning, however erudite. Whether the structure thought creates through science, through an electronic brain, through compulsion or necessity, thought is never new and therefore it can never answer any tremendous question.
 
-Thought is crooked because it can invent anything and see things that are not there. It can perform the most extraordinary tricks and therefore it cannot be depended upon. But if you understand the whole structure of how you think, why you think, the words you use, the way you behave in your daily life, the way you talk to people, the way you treat people, the way you walk, the way you eat, if you are aware of all these things, then your mind will not deceive you.
+The old brain cannot solve the enormous problem of living. Thought is crooked because it can invent anything and see things that are not there. It can perform the most extraordinary tricks and therefore it cannot be depended upon. But if you understand the whole structure of how you think, why you think, the words you use, the way you behave in your daily life, the way you talk to people, the way you treat people, the way you walk, the way you eat, if you are aware of all these things, then your mind will not deceive you.
 
 Then there is nothing to be deceived. The mind then is not something that demands, that subjugates, it becomes extraordinarily quiet, pliable, sensitive, alone. And in that state there is no deception whatsoever. Have you ever noticed that when you are in a state of complete attention, the observer, the thinker, the centre, the me comes to an end?
 
@@ -1192,15 +1286,15 @@ This is not a philosophical or mystical affair. We are dealing with actual facts
 
 Even when we are alone, our lives are crowded by so many influences, so much knowledge, so many memories of so many experiences, so much anxiety, misery and conflict that our minds become duller and duller, more and more insensitive, functioning in a monotonous routine. Are we ever alone, or are we carrying with us all the burdens of yesterday?“ There’s a rather nice story of two monks walking from one village to another, and they come upon a girl sitting on the bank of a river crying.
 
-And one of the monks goes up to her and says, ”'Sister, what are you crying about?' She says, “'You see that house over there across the river. I came over this morning early and had no trouble wading across, but now the river has swollen and I can’t get back.
+And one of the monks goes up to her and says, ”'Sister, what are you crying about?' She says, “'You see that house over there across the river. I came over this morning early and had no trouble wading across, but now the river has swollen and. I can’t get back.
 
 There is no boat.'” “'Oh,' says the monk, ”'that is no problem at all.' And he picks her up and carries her across the river and leaves her on the other side. And the two monks go on together.“ After a couple of hours, the other monk says, ”'Brother, we have taken a vow never to touch a woman. What you have done is a terrible sin.
 
-Don’t you have pleasure, a great sensation, in touching a woman?' And the other monk replies, “'I left her behind two hours ago. You are still carrying her, aren’t you?'” That is what we do. We carry our burdens all the time. We never die to them.
+Don’t you have pleasure, a great sensation, in touching a woman?' And the other monk replies, “'I left her behind two hours ago. You are still carrying her, aren’t you?'”. That is what we do. We carry our burdens all the time.
 
-We never leave them behind. It is only when we give complete attention to a problem and solve it immediately, never carrying it over to the next day, the next minute, that there is solitude. Even if we live in a crowded house or are in a bus, we have solitude. And that solitude indicates a fresh mind, an innocent mind.
+We never die to them. We never leave them behind. It is only when we give complete attention to a problem and solve it immediately, never carrying it over to the next day, the next minute, that there is solitude. Even if we live in a crowded house or are in a bus, we have solitude.
 
-To have inward solitude in space is very important because it implies freedom to be, to go, to function, to fly. After all, goodness can only flower in space just as virtue can flower only when there is freedom. We may have political freedom, but inwardly we are not free and therefore there is no
+And that solitude indicates a fresh mind, an innocent mind. To have inward solitude in space is very important because it implies freedom to be, to go, to function, to fly. After all, goodness can only flower in space just as virtue can flower only when there is freedom. We may have political freedom, but inwardly we are not free and therefore there is no
 
 
 <a id="sec-033201"></a>
@@ -1208,23 +1302,25 @@ To have inward solitude in space is very important because it implies freedom to
 
 space. No virtue, no quality that is worthwhile can function or grow without this vast space within oneself. And space and silence are necessary because it is only when the mind is alone, uninfluenced, untrained, not held by infinite varieties of experience that it can come upon something totally new. One can see directly that it is only when the mind is silent that there is a possibility of clarity.
 
-The whole purpose of meditation in the East is to bring about such a state of mind, that is to control thought, which is the same as constantly repeating a prayer to quieten the mind, and in that state hoping to understand one’s problems. But unless one lays the foundation, which is to be free from fear, free from sorrow, anxiety, and all the traps one lays for oneself, I do not see how it is possible for a mind to be actually quiet. This is one of the most difficult things to communicate.
+The whole purpose of meditation in the East is to bring about such a state of mind, that is to control thought, which is the same as constantly repeating a prayer to quieten the mind, and in that state hoping to understand one’s problems. But unless one lays the foundation, which is to be free from fear, free from sorrow, anxiety, and all the traps one lays for oneself, I do not see how it is possible for a mind to be actually quiet.
 
-Communication between us implies, doesn’t it, that not only must you understand the words I am using, but that we must both, you and I, be intense at the same time. Not a moment later or a moment sooner, and capable of meeting each other on the same level. And such communication is not possible when you are interpreting what you are reading according to your own knowledge, pleasure, or opinions, or when you are making a tremendous effort to comprehend. It seems to me that one of the greatest stumbling blocks in life is this constant struggle to reach, to achieve, to acquire.
+This is one of the most difficult things to communicate. Communication between us implies, doesn’t it, that not only must you understand the words. I am using, but that we must both, you and. I, be intense at the same time.
 
-We are trained from childhood to acquire and to achieve. The very brain cells themselves create and demand this pattern of achievement in order to have physical security. But psychological security is not within the field of achievement. We demand security in all our relationships, attitudes, and activities.
+Not a moment later or a moment sooner, and capable of meeting each other on the same level. And such communication is not possible when you are interpreting what you are reading according to your own knowledge, pleasure, or opinions, or when you are making a tremendous effort to comprehend. It seems to me that one of the greatest stumbling blocks in life is this constant struggle to reach, to achieve, to acquire. We are trained from childhood to acquire and to achieve.
 
-But as we have seen, there is actually no such thing as security. To find out for yourself that there is no form of security in any relationship, to realize that psychologically there is nothing permanent, gives a totally different approach to life. It is essential, of course, to have outward security, shelter, clothing, food. But that outward security is destroyed by the demand for psychological security.
+The very brain cells themselves create and demand this pattern of achievement in order to have physical security. But psychological security is not within the field of achievement. We demand security in all our relationships, attitudes, and activities. But as we have seen, there is actually no such thing as security.
 
-Peace and silence are necessary to go beyond the limitations of consciousness. But how can a mind which is so endlessly active in its self-interest be quiet? One can discipline it, control it, shape it, but such torture does not make the mind quiet. Obviously the mere pursuit of the ideal of having a quiet mind is valueless because the more you force it, the more narrow and stagnant it becomes.
+To find out for yourself that there is no form of security in any relationship, to realize that psychologically there is nothing permanent, gives a totally different approach to life. It is essential, of course, to have outward security, shelter, clothing, food. But that outward security is destroyed by the demand for psychological security. Peace and silence are necessary to go beyond the limitations of consciousness.
 
-Control in any form, like suppression, produces only conflict, so control and outward discipline are not the way, nor has an undisciplined life any value. Most of our lives are outwardly disciplined by the demands of society, by the family, by our own suffering, by our own experience, by conforming to certain ideological law or factual patterns. And that form of discipline is the most deadening thing. Discipline must be without control, without suppression, without any form of fear.
+But how can a mind which is so endlessly active in its self-interest be quiet? One can discipline it, control it, shape it, but such torture does not make the mind quiet. Obviously, the mere pursuit of the ideal of having a quiet mind is valueless because the more you force it, the more narrow and stagnant it becomes. Control in any form, like suppression, produces only conflict, so control and outward discipline are not the way, nor has an undisciplined life any value.
 
-How is this discipline to come about? It is not discipline first and then freedom. Freedom is at the very beginning, not at the end. To understand this freedom, which is freedom from the conformity of discipline, is discipline itself.
+Most of our lives are outwardly disciplined by the demands of society, by the family, by our own suffering, by our own experience, by conforming to certain ideological law or factual patterns. And that form of discipline is the most deadening thing. Discipline must be without control, without suppression, without any form of fear. How is this discipline to come about?
 
-The very act of learning is discipline. After all, the root meaning of the word discipline is to learn. The very act of learning becomes clarity. To understand the whole nature and structure of control, suppression and indulgence demands attention.
+It is not discipline first and then freedom. Freedom is at the very beginning, not at the end. To understand this freedom, which is freedom from the conformity of discipline, is discipline itself. The very act of learning is discipline.
 
-You don’t have to impose discipline in order to study it, but the very act of studying brings about its own discipline in which there is no suppression. In order to deny authority, we are talking of psychological authority, not the law. To deny the authority of all religious organizations, traditions and experience, one has to see why one normally obeys, actually study it. And to study it, there must be freedom from condemnation, justification, opinion or acceptance.
+After all, the root meaning of the word discipline is to learn. The very act of learning becomes clarity. To understand the whole nature and structure of control, suppression and indulgence demands attention. You don’t have to impose discipline in order to study it, but the very act of studying brings about its own discipline in which there is no suppression.
+
+In order to deny authority, we are talking of psychological authority, not the law. To deny the authority of all religious organizations, traditions and experience, one has to see why one normally obeys, actually study it. And to study it, there must be freedom from condemnation, justification, opinion or acceptance.
 
 
 <a id="sec-033701"></a>
@@ -1276,35 +1372,39 @@ To seek further experience through expansion of consciousness, as is being done 
 
 If there were no conflicts within ourselves, no changes, no disturbances, we would all be fast asleep. So challenges are necessary for most of us. We think that without them our minds will become stupid and heavy, and therefore we depend on a challenge, an experience, to give us more excitement, more intensity, to make our minds sharper, but in fact this dependence on challenges and experiences to keep us awake only makes our minds duller. It doesn’t really keep us awake at all.
 
-So I ask myself, is it possible to keep awake totally, not peripherally at a few points of my being, but totally awake without any challenge or any experience? This implies a great sensitivity, both physical and psychological. It means I have to be free of all demands, for the moment I demand I will experience,
+So. I ask myself, is it possible to keep awake totally, not peripherally at a few points of my being, but totally awake without any challenge or any experience? This implies a great sensitivity, both physical and psychological. It means.
+
+I have to be free of all demands, for the moment. I demand. I will experience,
 
 
 <a id="sec-034707"></a>
 ### ⏱️ [03:47:07 - 03:52:12]
 
-and to be free of demand and satisfaction necessitates investigation into myself and an understanding of the whole nature of demand. Demand is born out of duality. I am unhappy and I must be happy. In that very demand that I must be happy is unhappiness.
+and to be free of demand and satisfaction necessitates investigation into myself and an understanding of the whole nature of demand. Demand is born out of duality. I am unhappy and. I must be happy.
 
-When one makes an effort to be good, in that very goodness is its opposite evil. Everything affirmed contains its own opposite, and effort to overcome strengthens that against which it strives. When you demand an experience of truth or reality, that very demand is born out of your discontent with what is, and therefore the demand creates the opposite. And in the opposite there is what has been.
+In that very demand that. I must be happy is unhappiness. When one makes an effort to be good, in that very goodness is its opposite evil. Everything affirmed contains its own opposite, and effort to overcome strengthens that against which it strives.
 
-So one must be free of this incessant demand, otherwise there will be no end to the corridor of duality. This means knowing yourself so completely that the mind is no longer seeking. Such a mind does not demand experience, it cannot ask for a challenge or know a challenge, it does not say I am asleep, or I am awake, it is completely what it is. Only the frustrated, narrow, shallow mind, the conditioned mind, is always seeking the more.
+When you demand an experience of truth or reality, that very demand is born out of your discontent with what is, and therefore the demand creates the opposite. And in the opposite there is what has been. So one must be free of this incessant demand, otherwise there will be no end to the corridor of duality. This means knowing yourself so completely that the mind is no longer seeking.
+
+Such a mind does not demand experience, it cannot ask for a challenge or know a challenge, it does not say. I am asleep, or. I am awake, it is completely what it is. Only the frustrated, narrow, shallow mind, the conditioned mind, is always seeking the more.
 
 Is it possible then to live in this world without the more, without this everlasting comparison? Surely it is, but one has to find out for oneself. Meditation into this whole question is meditation. That word has been used both in the East and the West in a most unfortunate way.
 
-There are different schools of meditation, different methods and systems. There are systems which say, watch the movement of your big toe, watch it, watch it, watch it. There are other systems which advocate sitting in a certain posture, breathing regularly, or practicing awareness. All this is utterly mechanical. Another method gives you a certain word and tells you that if you go on repeating it, you will have some extraordinary transcendental experience.
+There are different schools of meditation, different methods and systems. There are systems which say, watch the movement of your big toe, watch it, watch it, watch it. There are other systems which advocate sitting in a certain posture, breathing regularly, or practicing awareness. All this is utterly mechanical.
 
-This is sheer nonsense. It is a form of self-hypnosis. By repeating Amen or Om or Coca-Cola indefinitely, you will obviously have a certain experience because by repetition the mind becomes quiet. It is a well-known phenomenon which has been practiced for thousands of years in India.
+Another method gives you a certain word and tells you that if you go on repeating it, you will have some extraordinary transcendental experience. This is sheer nonsense. It is a form of self-hypnosis. By repeating Amen or Om or Coca-Cola indefinitely, you will obviously have a certain experience because by repetition the mind becomes quiet.
 
-Mantra Yoga it is called. By repetition you can induce the mind to be gentle and soft, but it is still a petty shoddy little mind. You might as well put a piece of stick you have picked up in the garden on the mantelpiece and give it a flower every day. In a month you will be worshipping it and not to put a flower in front of it will become a sin.
+It is a well-known phenomenon which has been practiced for thousands of years in India. Mantra Yoga it is called. By repetition you can induce the mind to be gentle and soft, but it is still a petty shoddy little mind. You might as well put a piece of stick you have picked up in the garden on the mantelpiece and give it a flower every day.
 
-Meditation is not following any system. It is not constant repetition and imitation. Meditation is not concentration. It is one of the favorite gambits of some teachers of meditation to insist on their pupils learning concentration.
+In a month you will be worshipping it and not to put a flower in front of it will become a sin. Meditation is not following any system. It is not constant repetition and imitation. Meditation is not concentration.
 
-That is, fixing the mind on one thought and driving out all other thoughts. This is the most stupid ugly thing which any schoolboy can do because he is forced to. It means that all the time you are having a battle between the insistence that you must concentrate on the one hand and your mind on the other which wanders away to all sorts of things. Whereas you should be attentive to every movement of the mind wherever it wanders.
+It is one of the favorite gambits of some teachers of meditation to insist on their pupils learning concentration. That is, fixing the mind on one thought and driving out all other thoughts. This is the most stupid ugly thing which any schoolboy can do because he is forced to. It means that all the time you are having a battle between the insistence that you must concentrate on the one hand and your mind on the other which wanders away to all sorts of things.
 
-Wherever your mind wanders off it means you are interested in something else. Meditation is astonishingly alert to meditation as the understanding is the intensity of the technology life form of which every form of fragmentation has ceased. Meditation is not control of thought. It is control.
+Whereas you should be attentive to every movement of the mind wherever it wanders. Wherever your mind wanders off it means you are interested in something else. Meditation is astonishingly alert to meditation as the understanding is the intensity of the technology life form of which every form of fragmentation has ceased. Meditation is not control of thought.
 
-When thought is controlled it breeds conflict in the mind at the start but when you understand the structure and origin of thought which we have already been into then thought will not interfere. That very understanding of the structure of thinking is its own discipline which is meditation. Meditation is to be aware of every thought and of every feeling, never to say it is right or wrong but just to watch it and move with it. In that watching you begin to understand the whole movement of thought and feeling.
+It is control. When thought is controlled it breeds conflict in the mind at the start but when you understand the structure and origin of thought which we have already been into then thought will not interfere. That very understanding of the structure of thinking is its own discipline which is meditation. Meditation is to be aware of every thought and of every feeling, never to say it is right or wrong but just to watch it and move with it.
 
-And out of this awareness comes silence. Silence put together by thought is stagnation, is dead. But the silence that comes when thought has understood its own beginning, the nature of itself, understood how all thought is never free but always old.
+In that watching you begin to understand the whole movement of thought and feeling. And out of this awareness comes silence. Silence put together by thought is stagnation, is dead. But the silence that comes when thought has understood its own beginning, the nature of itself, understood how all thought is never free but always old.
 
 
 <a id="sec-035212"></a>
@@ -1324,11 +1424,11 @@ What we need is something totally new, a revolution, a mutation in the psyche it
 
 Let us ask ourselves again, now that we have come to understand ourselves better, is it possible for a human being living an ordinary everyday life in this brutal, violent, ruthless world, a world which is becoming more and more efficient and therefore more and more ruthless? Is it possible for him to bring about a revolution not only in his outward relationships but in the whole field of his thinking, feeling, acting and reacting? Every day we see or read of appalling things happening in the world as the result of violence in man.
 
-You may say, I can’t do anything about it, or how can I influence the world? I think you can tremendously influence the world. If in yourself you are not violent, if you lead actually every day a peaceful life, a life which is not competitive, ambitious, envious, a life which does not create enmity, then all fires can become ablaze. We have reduced the world to its present state of chaos by our self-centered activity, by our prejudices, our hatreds, our nationalism.
+You may say, I can’t do anything about it, or how can. I influence the world? I think you can tremendously influence the world. If in yourself you are not violent, if you lead actually every day a peaceful life, a life which is not competitive, ambitious, envious, a life which does not create enmity, then all fires can become ablaze.
 
-And when we say we cannot do anything about it, we are accepting disorder in ourselves as inevitable. We have splintered the world into fragments, and if we ourselves are broken, fragmented, our relationship with the world will also be broken. But if when we act, we act totally, then our relationship with the world undergoes a tremendous revolution. After all, any movement which is worthwhile, any action which has deep significance, must begin with each one of us.
+We have reduced the world to its present state of chaos by our self-centered activity, by our prejudices, our hatreds, our nationalism. And when we say we cannot do anything about it, we are accepting disorder in ourselves as inevitable. We have splintered the world into fragments, and if we ourselves are broken, fragmented, our relationship with the world will also be broken. But if when we act, we act totally, then our relationship with the world undergoes a tremendous revolution.
 
-I must change first, I must see what is the nature and structure of my relationship with the world, and in the very seeing is the doing, therefore I, as a human being living
+After all, any movement which is worthwhile, any action which has deep significance, must begin with each one of us. I must change first, I must see what is the nature and structure of my relationship with the world, and in the very seeing is the doing, therefore. I, as a human being living
 
 
 <a id="sec-035714"></a>
@@ -1336,23 +1436,25 @@ I must change first, I must see what is the nature and structure of my relations
 
 in the world, bring about a different quality, and that quality, it seems to me, is the quality of a religious mind. The religious mind is something entirely different from the mind that believes in religion. You cannot be religious and yet be a Hindu, a Muslim, a Christian, a Buddhist. A religious mind does not seek at all, it cannot experiment with truth.
 
-Truth is not something dictated by your pleasure or pain, or by your conditioning as a Hindu or whatever religion you belong to. The religious mind is a state of mind in which there is no fear, and therefore no belief whatsoever but only what is, what actually is. In the religious mind there is that state of silence we have already examined which is not produced by thought, but is the outcome of awareness, which is meditation when the meditator is entirely absent. In that silence there is a state of energy in which there is no conflict.
+Truth is not something dictated by your pleasure or pain, or by your conditioning as a Hindu or whatever religion you belong to. The religious mind is a state of mind in which there is no fear, and therefore no belief whatsoever but only what is, what actually is. In the religious mind there is that state of silence we have already examined which is not produced by thought, but is the outcome of awareness, which is meditation when the meditator is entirely absent.
 
-Energy is action and movement, all action is movement and all action is energy. All desire is energy, all feeling is energy, all thought is energy, all living is energy, all life is energy. If that energy is allowed to flow without any contradiction, without any friction, without any conflict, then that energy is boundless, endless. When there is no friction there are no frontiers to energy.
+In that silence there is a state of energy in which there is no conflict. Energy is action and movement, all action is movement and all action is energy. All desire is energy, all feeling is energy, all thought is energy, all living is energy, all life is energy. If that energy is allowed to flow without any contradiction, without any friction, without any conflict, then that energy is boundless, endless.
 
-It is friction which gives energy limitations. So having once seen this, why is it that the human being always brings friction into energy? Why does he create friction in this movement we call life? Is pure energy, energy without limitation, just an idea to him?
+When there is no friction there are no frontiers to energy. It is friction which gives energy limitations. So having once seen this, why is it that the human being always brings friction into energy? Why does he create friction in this movement we call life?
 
-Does it have no reality? We need energy not only to bring about a total revolution in ourselves, but also in order to investigate, to look, to act. And as long as there is friction of any kind in any of our relationships, whether between husband and wife, between man and man, between one community and another, or one country and another, or one ideology and another, if there is any inward friction or any outward conflict of any form, however subtle it may be, there is a waste of energy.
+Is pure energy, energy without limitation, just an idea to him? Does it have no reality? We need energy not only to bring about a total revolution in ourselves, but also in order to investigate, to look, to act. And as long as there is friction of any kind in any of our relationships, whether between husband and wife, between man and man, between one community and another, or one country and another, or one ideology and another, if there is any inward friction or any outward conflict of any form, however subtle it may be, there is a waste of energy.
 
-As long as there is a time interval between the observer and the observed. it creates friction and therefore there is a waste of energy. That energy is gathered to its highest point when the observer is the observed in which there is no time interval at all. Then there will be energy without motive and it will find its own channel of action because then the I does not exist. We need a tremendous amount of energy to understand the confusion in which we live and the feeling I must understand brings about the vitality to find out but finding out searching implies time and as we have seen gradually to uncondition the mind is not the way.
+As long as there is a time interval between the observer and the observed. it creates friction and therefore there is a waste of energy. That energy is gathered to its highest point when the observer is the observed in which there is no time interval at all. Then there will be energy without motive and it will find its own channel of action because then the. I does not exist.
 
-Time is not the way. Whether we are old or young it is now that the whole process of life can be brought into a different dimension. Seeking the opposite of what we are is not the way either nor is the artificial discipline imposed by a system, a teacher, a philosopher or priest. All that is so very childish.
+We need a tremendous amount of energy to understand the confusion in which we live and the feeling. I must understand brings about the vitality to find out but finding out searching implies time and as we have seen gradually to uncondition the mind is not the way. Time is not the way. Whether we are old or young it is now that the whole process of life can be brought into a different dimension.
 
-When we realize this we ask ourselves is it possible to break through this heavy conditioning of centuries immediately and not enter into another conditioning to be free so that the mind can be all together new, sensitive, alive, aware, intense, capable. That is our problem. There is no other problem because when the mind is made new it can tackle any problem. That is the only question we have to ask ourselves.
+Seeking the opposite of what we are is not the way either nor is the artificial discipline imposed by a system, a teacher, a philosopher or priest. All that is so very childish. When we realize this we ask ourselves is it possible to break through this heavy conditioning of centuries immediately and not enter into another conditioning to be free so that the mind can be all together new, sensitive, alive, aware, intense, capable. That is our problem.
 
-But we do not ask. We want to be told. One of the most curious things in the structure of our psyche is that we all want to be told because we are the result of the propaganda of 10,000 years. We want to have our thinking confirmed and corroborated by another whereas to ask a question is to ask it of yourself.
+There is no other problem because when the mind is made new it can tackle any problem. That is the only question we have to ask ourselves. But we do not ask. We want to be told.
 
-What I say has very little value. You will forget it the moment you shut this book or you will remember and repeat certain phrases or you will compare what you have read here with some other book. But you will not face your own life and that is all that matters. Your life, yourself, your pettiness, your shallowness, your
+One of the most curious things in the structure of our psyche is that we all want to be told because we are the result of the propaganda of 10,000 years. We want to have our thinking confirmed and corroborated by another whereas to ask a question is to ask it of yourself. What. I say has very little value.
+
+You will forget it the moment you shut this book or you will remember and repeat certain phrases or you will compare what you have read here with some other book. But you will not face your own life and that is all that matters. Your life, yourself, your pettiness, your shallowness, your
 
 
 <a id="sec-040217"></a>
@@ -1364,19 +1466,21 @@ When you know yourself as you are then you understand the whole structure of man
 
 If you have any ideals, beliefs or principles you cannot possibly look at yourself directly. So can you be completely negative, completely quiet, neither thinking nor afraid and yet be extraordinarily, passionately alive? That state of mind which is no longer capable of striving is the true religious mind and in that state of mind you may come upon this thing called truth or reality or bliss or God or beauty or love. Please understand that very simple fact.
 
-It cannot be invited, it cannot be sought after because the mind is too silly, too small, your emotions are too shoddy, your way of life too confused for that enormity, that immense something to be invited into your little house, your little corner of living which has been trampled and spat upon. You cannot invite it. To invite it you must know it and you cannot know it. It doesn’t matter who says it, the moment he says I know he does not know.
+It cannot be invited, it cannot be sought after because the mind is too silly, too small, your emotions are too shoddy, your way of life too confused for that enormity, that immense something to be invited into your little house, your little corner of living which has been trampled and spat upon. You cannot invite it. To invite it you must know it and you cannot know it. It doesn’t matter who says it, the moment he says.
 
-The moment you say you have found it you have not found it. If you say you have experienced it you have never experienced it. Those are all ways of exploiting another man, your friend or your enemy. One asks oneself then whether it is possible to come upon this thing without inviting, without waiting, without seeking or exploring, just for it to happen like a cool breeze that comes in when you leave the window open.
+I know he does not know. The moment you say you have found it you have not found it. If you say you have experienced it you have never experienced it. Those are all ways of exploiting another man, your friend or your enemy.
 
-One asks oneself then whether it is possible to come upon this thing without inviting, without waiting, without seeking or exploring, just for it to happen like a cool breeze that comes in when you leave the window open. You cannot invite the wind but you must leave the window open which doesn’t mean that you are in a state of waiting. That is another form of deception. It doesn’t mean you must open yourself to receive.
+One asks oneself then whether it is possible to come upon this thing without inviting, without waiting, without seeking or exploring, just for it to happen like a cool breeze that comes in when you leave the window open. One asks oneself then whether it is possible to come upon this thing without inviting, without waiting, without seeking or exploring, just for it to happen like a cool breeze that comes in when you leave the window open. You cannot invite the wind but you must leave the window open which doesn’t mean that you are in a state of waiting.
 
-That is another kind of thought. Haven’t you ever asked yourself why it is that human beings lack this thing? They beget children, they have sex, tenderness, a quality of sharing something together in companionship, in friendship, in fellowship. But this thing, why is it they haven’t got it?
+That is another form of deception. It doesn’t mean you must open yourself to receive. That is another kind of thought. Haven’t you ever asked yourself why it is that human beings lack this thing?
 
-Have you ever wondered lazily on occasion when you are walking by yourself in a filthy street or sitting in a bus or are on holiday by the seaside or walking in a wood with a lot of birds, trees, streams and wild animals? Hasn’t it ever come upon you to ask why it is that man who has lived for millions and millions of years has not got this thing, this extraordinary unfading flower? Why is it that you, as a human being, who are so capable, so clever, so cunning, so competitive, who have such marvellous technology, who go to the skies and under the earth and beneath the sea and invent extraordinary electronic brains, why is it you haven’t got this one thing which matters?
+They beget children, they have sex, tenderness, a quality of sharing something together in companionship, in friendship, in fellowship. But this thing, why is it they haven’t got it? Have you ever wondered lazily on occasion when you are walking by yourself in a filthy street or sitting in a bus or are on holiday by the seaside or walking in a wood with a lot of birds, trees, streams and wild animals? Hasn’t it ever come upon you to ask why it is that man who has lived for millions and millions of years has not got this thing, this extraordinary unfading flower?
 
-I don’t know whether you have ever seriously faced this issue of why your heart is empty. What would your answer be if you put the question to yourself, your direct answer without any equivocation or cunningness? Your answer would be in accordance with your intensity in asking the question and the urgency of it, but you are neither intense nor urgent and that is because you haven’t got energy, energy being passion and you cannot find any truth without passion. Passion with a fury behind it, passion in which there is no hidden want.
+Why is it that you, as a human being, who are so capable, so clever, so cunning, so competitive, who have such marvellous technology, who go to the skies and under the earth and beneath the sea and invent extraordinary electronic brains, why is it you haven’t got this one thing which matters? I don’t know whether you have ever seriously faced this issue of why your heart is empty. What would your answer be if you put the question to yourself, your direct answer without any equivocation or cunningness?
 
-Passion is a rather frightening thing because if you have passion you don’t know where it will take you. So is fear perhaps the reason why you have not got the energy of that passion to find out for yourself why this quality of love is missing in you, why there is not this flame in your heart? If you have examined your own mind and heart very closely you will know why you haven’t got it. If you are passionate
+Your answer would be in accordance with your intensity in asking the question and the urgency of it, but you are neither intense nor urgent and that is because you haven’t got energy, energy being passion and you cannot find any truth without passion. Passion with a fury behind it, passion in which there is no hidden want. Passion is a rather frightening thing because if you have passion you don’t know where it will take you. So is fear perhaps the reason why you have not got the energy of that passion to find out for yourself why this quality of love is missing in you, why there is not this flame in your heart?
+
+If you have examined your own mind and heart very closely you will know why you haven’t got it. If you are passionate
 
 
 <a id="sec-040719"></a>

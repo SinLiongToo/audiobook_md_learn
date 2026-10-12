@@ -64,51 +64,63 @@
 
 #### Chapter 1. The compound effect in action. Do you know that expression, slow and steady wins the race? Ever heard the story of the tortoise in the hair?
 
-Ladies and gentlemen, I’m the tortoise. Give me enough time, and I will beat virtually anybody, anytime, in any competition. Why? Not because I’m the best or the smartest or the fastest.
+Ladies and gentlemen, I’m the tortoise. Give me enough time, and. I will beat virtually anybody, anytime, in any competition. Why?
 
-I’ll win because of the positive habits I’ve developed, and because of the consistency I use in applying those habits. I’m the world’s biggest believer in consistency. I’m living proof that it’s the ultimate key to success, yet it’s one of the biggest pitfalls for people struggling to achieve. Most people don’t know how to sustain it.
+Not because. I’m the best or the smartest or the fastest. I’ll win because of the positive habits. I’ve developed, and because of the consistency.
 
-I do. I have my father to thank for that. In essence, he was my first coach for igniting the power of the compound effect. My parents divorced when I was 18 months old, and my dad raised me as a single father.
+I use in applying those habits. I’m the world’s biggest believer in consistency. I’m living proof that it’s the ultimate key to success, yet it’s one of the biggest pitfalls for people struggling to achieve. Most people don’t know how to sustain it.
 
-He wasn’t exactly the soft, nurturing type. He was a former university football coach, and he hard-wired me for achievement. Thanks to dad, wake-up calls were at six o’clock every morning. Not by a loving tap on the shoulder or even the sound of a radio alarm.
+I do. I have my father to thank for that. In essence, he was my first coach for igniting the power of the compound effect. My parents divorced when.
 
-No, I was awakened each morning by the repetitious pile driving sound of iron pounding on the concrete floor of our garage, situated next to my bedroom. It was like waking up twelve feet from a construction zone. He’d painted a huge, no-pain, no-gain, sign on the wall of the garage, which he stared at while he did countless old-school strongman dead lifts, power cleans, lunges, and squats. Rain, sleet, or shine.
+I was 18 months old, and my dad raised me as a single father. He wasn’t exactly the soft, nurturing type. He was a former university football coach, and he hard-wired me for achievement. Thanks to dad, wake-up calls were at six o’clock every morning.
 
-Dad was out there in his shorts and tattered sweatshirt. He never missed a day. You could set your watch by his routine. I had more chores than a housekeeper and gardener put together.
+Not by a loving tap on the shoulder or even the sound of a radio alarm. No, I was awakened each morning by the repetitious pile driving sound of iron pounding on the concrete floor of our garage, situated next to my bedroom. It was like waking up twelve feet from a construction zone. He’d painted a huge, no-pain, no-gain, sign on the wall of the garage, which he stared at while he did countless old-school strongman dead lifts, power cleans, lunges, and squats.
 
-Upon returning from school, there was always a list of instructions to greet me. Pull weeds, rake leaves, sweep the garage, dust, vacuum, do the dishes, you name it. And getting behind in school wasn’t tolerated. That’s just the way it was.
+Rain, sleet, or shine. Dad was out there in his shorts and tattered sweatshirt. He never missed a day. You could set your watch by his routine.
 
-Dad was the original, no excuses, guy. We weren’t ever allowed to stay home from school sick, unless we were actually puking, bleeding, or, showing bone. The term, showing bone, came from his coaching days. His players knew they weren’t allowed to come out of the game unless they were seriously injured.
+I had more chores than a housekeeper and gardener put together. Upon returning from school, there was always a list of instructions to greet me. Pull weeds, rake leaves, sweep the garage, dust, vacuum, do the dishes, you name it. And getting behind in school wasn’t tolerated.
 
-One time his quarterback asked to be pulled out of the game. Dad said, not unless you’re showing bone. The quarterback pulled back his shoulder pads, and sure enough, his collarbone was showing. Only then was he allowed to come off the field.
+That’s just the way it was. Dad was the original, no excuses, guy. We weren’t ever allowed to stay home from school sick, unless we were actually puking, bleeding, or, showing bone. The term, showing bone, came from his coaching days.
 
-One of Dad’s core philosophies was, it doesn’t matter how smart you are or aren’t. You need to make up in hard work what you lack in experience, skill, intelligence, or innate ability. If your competitor is smarter, more talented, or experienced, you just need to work three or four times as hard. You can still beat them.
+His players knew they weren’t allowed to come out of the game unless they were seriously injured. One time his quarterback asked to be pulled out of the game. Dad said, not unless you’re showing bone. The quarterback pulled back his shoulder pads, and sure enough, his collarbone was showing.
 
-No matter what the challenge, he taught me to make up in hard work for wherever I might be disadvantaged. Miss free throws at the game? Do 1,000 free throws every day for a month. Not good at dribbling with your left hand?
+Only then was he allowed to come off the field. One of Dad’s core philosophies was, it doesn’t matter how smart you are or aren’t. You need to make up in hard work what you lack in experience, skill, intelligence, or innate ability. If your competitor is smarter, more talented, or experienced, you just need to work three or four times as hard.
 
-Tie your right hand behind your back and dribble three hours a day. Behind in your math? Hunker down, hire a tutor, and work like hell all summer until you get it. No excuses.
+You can still beat them. No matter what the challenge, he taught me to make up in hard work for wherever. I might be disadvantaged. Miss free throws at the game?
 
-If you aren’t good at something, work harder, work smarter. He walked his talk, too. Dad went from being a football coach to a top salesperson. From there he became the boss, and ultimately, went on to own his own company.
+Do 1,000 free throws every day for a month. Not good at dribbling with your left hand? Tie your right hand behind your back and dribble three hours a day. Behind in your math?
 
-But I wasn’t given loads of instruction. From the beginning, Dad let us figure it out. He was all about taking personal responsibility. He didn’t hammer on us every night about homework, we just had to show up with the results.
+Hunker down, hire a tutor, and work like hell all summer until you get it. No excuses. If you aren’t good at something, work harder, work smarter. He walked his talk, too.
 
-And, when you did, you were celebrated. If we got good grades, Dad took us to Prings, an ice cream parlor where you could get these king banana splits, six scoops of ice cream and all the fixings. Many times my siblings didn’t fare as well in school, so they didn’t get to go. Getting to go was a big deal, so you worked your butt off to win the trip.
+Dad went from being a football coach to a top salesperson. From there he became the boss, and ultimately, went on to own his own company. But. I wasn’t given loads of instruction.
 
-Dad’s discipline served as an example for me. Dad was my idol, and I wanted him to be proud of me. I also lived in fear of disappointing him. One of his philosophies as, be the guy who says, no. It’s no great achievement to go along with the crowd.
+From the beginning, Dad let us figure it out. He was all about taking personal responsibility. He didn’t hammer on us every night about homework, we just had to show up with the results. And, when you did, you were celebrated.
 
-Be the unusual guy, the extraordinary guy. That’s why I never did drugs, he never harped on me about it, but I didn’t want to be that guy who just went along because everyone else was doing it. And I didn’t want to let
+If we got good grades, Dad took us to Prings, an ice cream parlor where you could get these king banana splits, six scoops of ice cream and all the fixings. Many times my siblings didn’t fare as well in school, so they didn’t get to go. Getting to go was a big deal, so you worked your butt off to win the trip. Dad’s discipline served as an example for me.
+
+Dad was my idol, and. I wanted him to be proud of me. I also lived in fear of disappointing him. One of his philosophies as, be the guy who says, no.
+
+It’s no great achievement to go along with the crowd. Be the unusual guy, the extraordinary guy. That’s why. I never did drugs, he never harped on me about it, but.
+
+I didn’t want to be that guy who just went along because everyone else was doing it. And. I didn’t want to let
 
 
 <a id="sec-000502"></a>
 ### ⏱️ [00:05:02 - 00:10:07]
 
-Dad down. Thanks to Dad, by age 12, I’d mastered a schedule worthy of the most efficient CEO. Sometimes I griped and moaned, I was a kid, but even then I secretly liked knowing that I had an edge over my classmates. Dad gave me a serious head start on the discipline and mentality it takes to be dedicated and responsible, to achieve whatever I set out to achieve.
+Dad down. Thanks to Dad, by age 12, I’d mastered a schedule worthy of the most efficient CEO. Sometimes. I griped and moaned, I was a kid, but even then.
 
-It’s no accident that the tagline of success magazine is, what achievers read. Today, Dad and I joke about what an addictive overachiever he trained me to be. At 18, I was making a six-figure income in my own business. By age 20, I owned my own home in an upscale neighborhood.
+I secretly liked knowing that. I had an edge over my classmates. Dad gave me a serious head start on the discipline and mentality it takes to be dedicated and responsible, to achieve whatever. I set out to achieve.
 
-By age 24, my income grew to more than $1 million a year, and by age 27, I was officially a self-made millionaire with a business that brought in more than $50 million in revenue. That just about brings us to the present day, because I’m not yet 40, but I have enough money and assets to last my family the rest of my life. There are lots of ways to screw up a kid, Dad says. At least my way was a pretty good one, you seem to have done pretty well.
+It’s no accident that the tagline of success magazine is, what achievers read. Today, Dad and. I joke about what an addictive overachiever he trained me to be. At 18, I was making a six-figure income in my own business.
 
-So, while I admit that I’ve had to practice sitting on my hands and being present in the moment, or chilling out peacefully in a beach chair from time to time, without taking a pile of business books or self-improvement CDs with me, I’m grateful for the success skills I learned from my Dad, and my other mentors along the way. The compound effect reveals the, secret, behind my success. I’m a true believer in the compound effect because Dad made sure that I lived it, each and every day, until I couldn’t live any other way if I tried.
+By age 20, I owned my own home in an upscale neighborhood. By age 24, my income grew to more than $1 million a year, and by age 27, I was officially a self-made millionaire with a business that brought in more than $50 million in revenue. That just about brings us to the present day, because. I’m not yet 40, but.
+
+I have enough money and assets to last my family the rest of my life. There are lots of ways to screw up a kid, Dad says. At least my way was a pretty good one, you seem to have done pretty well. So, while.
+
+I admit that. I’ve had to practice sitting on my hands and being present in the moment, or chilling out peacefully in a beach chair from time to time, without taking a pile of business books or self-improvement CDs with me, I’m grateful for the success skills. I learned from my Dad, and my other mentors along the way. The compound effect reveals the, secret, behind my success.
+
+I’m a true believer in the compound effect because Dad made sure that. I lived it, each and every day, until. I couldn’t live any other way if. I tried.
 
 But if you’re like most people, you’re not a true believer. There are lots of perfectly understandable reasons why. You haven’t had the same coaching and example showing you what to do. You haven’t experienced the payoff of the compound effect.
 
@@ -116,19 +128,19 @@ As a society, we have been deceived. We’ve been hypnotized by commercial marke
 
 Let’s examine these hurdles one by one. You haven’t experienced the payoff of the compound effect. The compound effect is the principle of reaping huge rewards from a series of small, smart choices. What’s most interesting about this process to me is that, even though the results are massive, the steps, in the moment, don’t feel significant.
 
-Whether you’re using this strategy for improving your health, relationships, finances, or anything else for that matter, the changes are so subtle, they’re almost imperceptible. These small changes offer little or no immediate result, no big win, no obvious I told you set payoff. So why bother? Most people get tripped up by the simplicity of the compound effect.
+Whether you’re using this strategy for improving your health, relationships, finances, or anything else for that matter, the changes are so subtle, they’re almost imperceptible. These small changes offer little or no immediate result, no big win, no obvious. I told you set payoff. So why bother?
 
-For instance, they quit after the eighth day of running because they’re still overweight. Or, they stop practicing the piano after six months because they haven’t mastered anything other than, chopsticks. Or, they stop making contributions to their IRA after a few years because they could use the cash, and it doesn’t seem to be adding up to much anyway. What they don’t realize is that these small, seemingly insignificant steps completed consistently over time will create a radical difference.
+Most people get tripped up by the simplicity of the compound effect. For instance, they quit after the eighth day of running because they’re still overweight. Or, they stop practicing the piano after six months because they haven’t mastered anything other than, chopsticks. Or, they stop making contributions to their IRA after a few years because they could use the cash, and it doesn’t seem to be adding up to much anyway.
 
-Let me give you a few detailed examples. Small, smart choices plus consistency plus time equals radical difference. The magic penny. If you were given a choice between taking $3 million in cash this very instant and a single penny that doubles in value every day for 31 days, which would you choose?
+What they don’t realize is that these small, seemingly insignificant steps completed consistently over time will create a radical difference. Let me give you a few detailed examples. Small, smart choices plus consistency plus time equals radical difference. The magic penny.
 
-If you’ve heard this before, you know the penny gambit is the choice you should make. You know it’s the course that will lead to greater wealth. Yet why is it so hard to believe choosing the penny will result in more money in the end? Because it takes so much longer to see the payoff.
+If you were given a choice between taking $3 million in cash this very instant and a single penny that doubles in value every day for 31 days, which would you choose? If you’ve heard this before, you know the penny gambit is the choice you should make. You know it’s the course that will lead to greater wealth. Yet why is it so hard to believe choosing the penny will result in more money in the end?
 
-Let’s take a closer look. Let’s say you take the cold, hard cash and your friend goes the penny route. On day five, your friend has 16 cents. You, however, have $3 million.
+Because it takes so much longer to see the payoff. Let’s take a closer look. Let’s say you take the cold, hard cash and your friend goes the penny route. On day five, your friend has 16 cents.
 
-On day 10, it’s $5.12 versus your big bucks. How do you think your friend is feeling about her decision? You’re spending your millions, enjoying the heck out of it, and loving your choice. After 20 full days, with only 11 days left, Penny Lane has only $5,243.
+You, however, have $3 million. On day 10, it’s $5.12 versus your big bucks. How do you think your friend is feeling about her decision? You’re spending your millions, enjoying the heck out of it, and loving your choice.
 
-How is she feeling about herself at this point? For all her sacrifice and positive behavior, she has barely more than $5,000. You, however,
+After 20 full days, with only 11 days left, Penny Lane has only $5,243. How is she feeling about herself at this point? For all her sacrifice and positive behavior, she has barely more than $5,000. You, however,
 
 
 <a id="sec-001007"></a>
@@ -144,25 +156,25 @@ Three friends. Let’s take three buddies who all grew up together. They live in
 
 They’re all married and have average health and body weight, plus a little bit of that dreaded ''marriage flam''. Friend number one. Let’s call him Larry, plods a long-doing as he’s always done. He’s happy, or so he thinks, but complains occasionally that nothing ever changes.
 
-Friend number two, Scott, starts making some small, seemingly inconsequential, positive changes. He begins reading 10 pages of a good book per day and listening to 30 minutes of something instructional or inspirational on his commute to work. Scott wants to see changes in his life, but doesn’t want to make a fuss over it. He recently read an interview with Dr. Mehmet Oz in Success magazine and chose one idea from the article to implement in his life.
+Friend number two, Scott, starts making some small, seemingly inconsequential, positive changes. He begins reading 10 pages of a good book per day and listening to 30 minutes of something instructional or inspirational on his commute to work. Scott wants to see changes in his life, but doesn’t want to make a fuss over it. He recently read an interview with Dr.
 
-He’s going to cut 125 calories from his diet every day. No big deal. We’re talking maybe a cup of cereal less, trading that can of soda for a bottle of seltzer, switching from mayo to mustard on his sandwich. Doable.
+Mehmet Oz in Success magazine and chose one idea from the article to implement in his life. He’s going to cut 125 calories from his diet every day. No big deal. We’re talking maybe a cup of cereal less, trading that can of soda for a bottle of seltzer, switching from mayo to mustard on his sandwich.
 
-He’s also started walking a couple thousand extra steps per day, less than a mile. No grand acts of bravery or effort. Stuff anyone could do. But Scott is determined to stick with these choices, knowing that even though they’re simple, he could also easily be tempted to abandon them.
+Doable. He’s also started walking a couple thousand extra steps per day, less than a mile. No grand acts of bravery or effort. Stuff anyone could do.
 
-Friend number three, Brad, makes a few poor choices. He recently bought a new big screen TV so he can watch more of his favorite programs. He’s been trying out the recipes he’s seen on the food channel. The cheesy casseroles and desserts are his favorites. Oh, and he installed a bar in his family room and added one alcoholic drink per week to his diet.
+But Scott is determined to stick with these choices, knowing that even though they’re simple, he could also easily be tempted to abandon them. Friend number three, Brad, makes a few poor choices. He recently bought a new big screen TV so he can watch more of his favorite programs. He’s been trying out the recipes he’s seen on the food channel.
 
-Nothing crazy. Brad just wants to have a little more fun. At the end of five months, no perceivable differences exist among Larry, Scott, or Brad. Scott continues to read a little bit every night and listen to audios during his commute.
+The cheesy casseroles and desserts are his favorites. Oh, and he installed a bar in his family room and added one alcoholic drink per week to his diet. Nothing crazy. Brad just wants to have a little more fun.
 
-Brad is enjoying life and doing less. Larry keeps doing as he always has. Even though each man has his own pattern of behavior, five months isn’t long enough to see any real decline or improvement in their situations.
+At the end of five months, no perceivable differences exist among Larry, Scott, or Brad. Scott continues to read a little bit every night and listen to audios during his commute. Brad is enjoying life and doing less. Larry keeps doing as he always has.
 
-In fact, if you charted the three men’s weights, you’d see a rounding error of zero. They’d look exactly equal. At the end of 10 months, we still can’t see noticeable changes in any of their lives. It’s not until we get to the end of the 18th month that the slightest differences are measurable in these three friends' appearances.
+Even though each man has his own pattern of behavior, five months isn’t long enough to see any real decline or improvement in their situations. In fact, if you charted the three men’s weights, you’d see a rounding error of zero. They’d look exactly equal. At the end of 10 months, we still can’t see noticeable changes in any of their lives.
 
-But at about month 25, we start seeing really measurable, visible differences. At month 27, we see an expansive difference. And, by month 31, the change is startling. Brad is now fat while Scott is trim.
+It’s not until we get to the end of the 18th month that the slightest differences are measurable in these three friends' appearances. But at about month 25, we start seeing really measurable, visible differences. At month 27, we see an expansive difference. And, by month 31, the change is startling.
 
-By simply cutting 125 calories a day, in 31 months, Scott has lost 33 pounds. 31 months equals 940 days. 940 days by 125 calories per day equals 117,500 calories. 117,500 calories divided by 3,500 calories per pound equals 33.5 pounds. Brad ate only 125 more calories more a day in that same time frame, and gained 33.5 pounds. Now he weighs 67 pounds more than Scott, but the differences are more significant than weigh- 8. Scott’s invested almost 1,000 hours reading good books and listening to self-improvement audios.
+Brad is now fat while Scott is trim. By simply cutting 125 calories a day, in 31 months, Scott has lost 33 pounds. 31 months equals 940 days. 940 days by 125 calories per day equals 117,500 calories. 117,500 calories divided by 3,500 calories per pound equals 33.5 pounds. Brad ate only 125 more calories more a day in that same time frame, and gained 33.5 pounds. Now he weighs 67 pounds more than Scott, but the differences are more significant than weigh- 8.
 
-By putting his newly gained knowledge into practice, he’s earned a promotion and a raise.
+Scott’s invested almost 1,000 hours reading good books and listening to self-improvement audios. By putting his newly gained knowledge into practice, he’s earned a promotion and a raise.
 
 
 <a id="sec-001512"></a>
@@ -190,7 +202,7 @@ During his distance, Brad’s wife starts to complain, then becomes needy. When 
 
 Men start flirting with her, which makes her feel desirable again. She would never cheat on Brad, but he has a feeling something’s wrong. Instead of seeing that his poor choices and behaviors are at the root of their problems, he finds fault with his wife. Believing that the other person is wrong rather than looking inside and doing the work necessary to clean up your mess is basic psychology 101 stuff.
 
-In Brad’s case, he doesn’t know to look inside, they don’t offer self-improvement or relationship advice on Top Chef or his favorite crime shows. However, the thought may have occurred to him that, if he had read the personal development books his buddy Scott read, he might have learned about ways to change negative habits. Unfortunately for Brad, the small choices he made on a daily basis created a ripple that wreaked havoc on every area of his life. Of course, all that calorie counting and intellectual stimulation has had the opposite effect with Scott, who’s now reaping the bounty of positive results.
+In Brad’s case, he doesn’t know to look inside, they don’t offer self-improvement or relationship advice on Top Chef or his favorite crime shows. However, the thought may have occurred to him that, if he had read the personal development books his buddy Scott read, he might have learned about ways to change negative habits. Unfortunately, for Brad, the small choices he made on a daily basis created a ripple that wreaked havoc on every area of his life. Of course, all that calorie counting and intellectual stimulation has had the opposite effect with Scott, who’s now reaping the bounty of positive results.
 
 In The Slight Edge, Jeff Olson, another Jim Rahn protege, describes this as the repeating of simple daily disciplines versus the simple errors in judgment. It’s that simple. With enough time and consistency, the outcomes become visible. Better yet, they’re totally predictable.
 
@@ -240,35 +252,37 @@ No, too. That the results, the life, and the lifestyle of your dreams can be you
 
 Fig. two the compound effect is always working. You can choose to make it work for you, or you can ignore it and experience the negative effects of this powerful principle. It doesn’t matter where you are on this graph. Starting today, you can decide to make simple, positive changes and allow the compound effect to take you where you want to go.
 
-Have I made my point? Good. Join me in the next chapter, where we will focus on the one thing that controls your life. Every victory or defeat, triumph, or failure has started with this.
+Have. I made my point? Good. Join me in the next chapter, where we will focus on the one thing that controls your life.
 
-Everything you have or don’t have in your life right now has been because of this. Learn to change this, and you can change your life. Let’s discover what this is. Put the compound effect to work for you.
+Every victory or defeat, triumph, or failure has started with this. Everything you have or don’t have in your life right now has been because of this. Learn to change this, and you can change your life. Let’s discover what this is.
 
-Summary action steps. Write out a few excuses you might be clinging to, e.g., not smart enough, no experience, wrong upbringing, don’t have the education, etc. Decide to make up in hard work and personal development to outcompete anyone, including your old self. Be Scott. Write out the half-dozen small, seemingly inconsequential steps you can take every day that can take your life in a completely new and positive direction.
+Put the compound effect to work for you. Summary action steps. Write out a few excuses you might be clinging to, e.g., not smart enough, no experience, wrong upbringing, don’t have the education, etc. Decide to make up in hard work and personal development to outcompete anyone, including your old self.
 
-Don’t be Brad. Write down the small, seemingly inconsequential actions you can stop doing that might be compounding your results downward. List a few areas, skills, or outcomes where you have you been most successful in the past. Consider whether you could be taking those for granted and are not continuing to improve, and are therefore in jeopardy of having that complacency lead to future failure.
+Be Scott. Write out the half-dozen small, seemingly inconsequential steps you can take every day that can take your life in a completely new and positive direction. Don’t be Brad. Write down the small, seemingly inconsequential actions you can stop doing that might be compounding your results downward.
 
-Consider, too, choices. We all come into this world the same, naked, scared, and ignorant. After that grand entrance, the life we end up with is simply an accumulation of all the choices we make. Our choices can be our best friend or our worst enemy.
+List a few areas, skills, or outcomes where you have you been most successful in the past. Consider whether you could be taking those for granted and are not continuing to improve, and are therefore in jeopardy of having that complacency lead to future failure. Consider, too, choices. We all come into this world the same, naked, scared, and ignorant.
 
-They can deliver us to our goals or send us orbiting into a galaxy far, far away. Think about it. Everything in your life exists because you first made a choice about something. Choices are at the root of every one of your results.
+After that grand entrance, the life we end up with is simply an accumulation of all the choices we make. Our choices can be our best friend or our worst enemy. They can deliver us to our goals or send us orbiting into a galaxy far, far away. Think about it.
 
-Each choice starts a behavior that over time becomes a habit. Choose poorly, and you just might find yourself back at the drawing board, forced to make new, often harder choices. Don’t choose at all, and you’ve made the choice to be the passive receiver of whatever comes your way. In essence, you make your choices, and then your choices make you.
+Everything in your life exists because you first made a choice about something. Choices are at the root of every one of your results. Each choice starts a behavior that over time becomes a habit. Choose poorly, and you just might find yourself back at the drawing board, forced to make new, often harder choices.
 
-Every decision, no matter how slight, alters the trajectory of your life, whether or not to go to college, whom to marry, to have that last drink before you drive, to indulge in gossip or stay silent, to make your choice. Take one more prospecting call or call it a day, to say I love you or not. Every choice has an impact on the compound effect of your life. This chapter is about becoming aware of and making choices that support the expansion of your life.
+Don’t choose at all, and you’ve made the choice to be the passive receiver of whatever comes your way. In essence, you make your choices, and then your choices make you. Every decision, no matter how slight, alters the trajectory of your life, whether or not to go to college, whom to marry, to have that last drink before you drive, to indulge in gossip or stay silent, to make your choice. Take one more prospecting call or call it a day, to say.
 
-Sounds complicated, but you’ll be amazed by its simplicity.
+I love you or not. Every choice has an impact on the compound effect of your life. This chapter is about becoming aware of and making choices that support the expansion of your life. Sounds complicated, but you’ll be amazed by its simplicity.
 
 
 <a id="sec-003019"></a>
 ### ⏱️ [00:30:19 - 00:35:23]
 
-No longer will 99% of your choices be unconscious. No more will most of your daily routines and traditions come as a reaction to your programming. You’ll ask yourself, and be able to answer, how many of my behaviors have I not voted on? What am I doing that I didn’t consciously choose to do, yet continue to do every day?
+No longer will 99% of your choices be unconscious. No more will most of your daily routines and traditions come as a reaction to your programming. You’ll ask yourself, and be able to answer, how many of my behaviors have. I not voted on?
 
-By employing the same idiot-proof strategies of use to catapult my own life and career, strengthened by the compound effect, you’ll be able to loosen the mysterious grip of the things that are unwinding your life and pulling you in the wrong direction. You’ll be able to hit the pause button before stumbling into idiot territory. You’ll experience the ease of making decisions that lead to behaviors and habits that support you, every time. Your biggest challenge isn’t that you’ve intentionally been making bad choices.
+What am. I doing that. I didn’t consciously choose to do, yet continue to do every day? By employing the same idiot-proof strategies of use to catapult my own life and career, strengthened by the compound effect, you’ll be able to loosen the mysterious grip of the things that are unwinding your life and pulling you in the wrong direction.
 
-Heck, that would be easy to fix. Your biggest challenge is that you’ve been sleepwalking through your choices. Half the time, you’re not even aware you’re making them. Our choices are often shaped by our culture and upbringing.
+You’ll be able to hit the pause button before stumbling into idiot territory. You’ll experience the ease of making decisions that lead to behaviors and habits that support you, every time. Your biggest challenge isn’t that you’ve intentionally been making bad choices. Heck, that would be easy to fix.
 
-They can be so entwined in our routine behaviors and habits that they seem beyond our control. For instance, have you ever been going about your business, enjoying your life, when all of sudden you made a stupid choice or series of small choices that ultimately sabotage your hard work and momentum, all for no apparent reason? You didn’t intend to sabotage yourself, but by not thinking about your decisions, weighing the risks and potential outcomes, you found yourself facing unintended consequences. Nobody intends to become obese, go through bankruptcy, or get a divorce, but often, if not always, those consequences are the result of a series of small, poor choices.
+Your biggest challenge is that you’ve been sleepwalking through your choices. Half the time, you’re not even aware you’re making them. Our choices are often shaped by our culture and upbringing. They can be so entwined in our routine behaviors and habits that they seem beyond our control.
+
+For instance, have you ever been going about your business, enjoying your life, when all of sudden you made a stupid choice or series of small choices that ultimately sabotage your hard work and momentum, all for no apparent reason? You didn’t intend to sabotage yourself, but by not thinking about your decisions, weighing the risks and potential outcomes, you found yourself facing unintended consequences. Nobody intends to become obese, go through bankruptcy, or get a divorce, but often, if not always, those consequences are the result of a series of small, poor choices.
 
 Elephants don’t bite. Have you ever been bitten by an elephant? How about a mosquito? It’s the little things in life that will bite you.
 
@@ -286,37 +300,47 @@ And as long as you’re making choices unconsciously, you can’t consciously ch
 
 I’m not getting ahead because of my lame boss. I would have gotten that promotion if it hadn’t been for that backstabbing co-worker. I’m always in a bad mood because my kids are driving me crazy. We’re particularly gifted in the finger-pointing department when it comes to our romantic relationships, you know, where the other person is the one who needs to change.
 
-A few years back, a friend of mine was complaining about his wife. From my observation, she was a terrific lady, and he was lucky to have her. I told him as much, but he continued to point out all the ways she was responsible for his unhappiness. That’s when I shared an experience that had literally changed my marriage.
+A few years back, a friend of mine was complaining about his wife. From my observation, she was a terrific lady, and he was lucky to have her. I told him as much, but he continued to point out all the ways she was responsible for his unhappiness. That’s when.
 
-One Thanksgiving, I decided to keep a Thanksgiving journal for my wife.
+I shared an experience that had literally changed my marriage. One Thanksgiving, I decided to keep a Thanksgiving journal for my wife.
 
 
 <a id="sec-003523"></a>
 ### ⏱️ [00:35:23 - 00:40:24]
 
-Every day for an entire year I logged at least one thing I appreciated about her. The way she interacted with her friends, how she cared for our dogs, the fresh bed she prepared, a succulent meal she whipped up, or the beautiful way she styled her hair that day, whatever. I looked for the things my wife was doing that touched me, or revealed attributes, characteristics, or qualities I appreciated. I wrote them all down secretly for the entire year.
+Every day for an entire year. I logged at least one thing. I appreciated about her. The way she interacted with her friends, how she cared for our dogs, the fresh bed she prepared, a succulent meal she whipped up, or the beautiful way she styled her hair that day, whatever.
 
-By the end of that year, I’d filled an entire journal. When I gave it to her the following Thanksgiving, she cried, calling it the best gift she’d ever received. Even better than the BMW I’d given her for her birthday. The funny thing was that the person most affected by this gift was me.
+I looked for the things my wife was doing that touched me, or revealed attributes, characteristics, or qualities. I appreciated. I wrote them all down secretly for the entire year. By the end of that year, I’d filled an entire journal.
 
-All that journaling forced me to focus on my wife’s positive aspects. I was consciously looking for all the things she was doing, right? That heartfelt focus overwhelmed anything I might have otherwise complained about. I fell deeply in love with her all over again, maybe even more than ever, as I was seeing subtleties in her nature and behavior instead of her more obvious qualities.
+When. I gave it to her the following Thanksgiving, she cried, calling it the best gift she’d ever received. Even better than the BMW I’d given her for her birthday. The funny thing was that the person most affected by this gift was me.
 
-My appreciation, gratitude, and intention to find the best in her was something I held in my heart and eyes each day. This caused me to show up differently in my marriage, which, of course, made her respond differently to me. Soon, I had even more things to write in my Thanksgiving journal. As a result of choosing to take a mere five minutes every day or so to document all the reasons why I was grateful for her, we experienced one of the best years of our marriage, and it’s only gotten better.
+All that journaling forced me to focus on my wife’s positive aspects. I was consciously looking for all the things she was doing, right? That heartfelt focus overwhelmed anything. I might have otherwise complained about.
 
-After I shared my experience, my friend decided to keep a Thanksgiving journal about his wife. Within the first few months, he completely turned around his marriage. Trying to look for and focus on his wife’s positive qualities changed his view of her, which changed how he interacted with her. As a result, she made different choices about the way she responded to him.
+I fell deeply in love with her all over again, maybe even more than ever, as. I was seeing subtleties in her nature and behavior instead of her more obvious qualities. My appreciation, gratitude, and intention to find the best in her was something. I held in my heart and eyes each day.
 
-The cycle perpetuated, or, shall we say, compounded. Use the Gratitude Assessment Sheet on page 166 to bolster your abundant mindset, or download at www.thecompoundeffect.com slash free-owning 100%. We are all self-made men and women, but only the successful take credit for it. I was eighteen when I was introduced to the idea of personal responsibility at a seminar, and the concept completely transformed my life.
+This caused me to show up differently in my marriage, which, of course, made her respond differently to me. Soon, I had even more things to write in my Thanksgiving journal. As a result of choosing to take a mere five minutes every day or so to document all the reasons why. I was grateful for her, we experienced one of the best years of our marriage, and it’s only gotten better.
 
-If you threw out the rest of this book and only practiced this one concept, within two to three years the changes in your life would be so great, your friends and family would have difficulty remembering the ''old you''. In that seminar I attended at eighteen, the speaker asked, ''What percentage of shared responsibility do you have in making a relationship work? I was a teenager, so wise in the ways of true love. Of course I had all the answers.
+After. I shared my experience, my friend decided to keep a Thanksgiving journal about his wife. Within the first few months, he completely turned around his marriage. Trying to look for and focus on his wife’s positive qualities changed his view of her, which changed how he interacted with her.
+
+As a result, she made different choices about the way she responded to him. The cycle perpetuated, or, shall we say, compounded. Use the Gratitude Assessment Sheet on page 166 to bolster your abundant mindset, or download at www.thecompoundeffect.com slash free-owning 100%. We are all self-made men and women, but only the successful take credit for it.
+
+I was eighteen when. I was introduced to the idea of personal responsibility at a seminar, and the concept completely transformed my life. If you threw out the rest of this book and only practiced this one concept, within two to three years the changes in your life would be so great, your friends and family would have difficulty remembering the ''old you''. In that seminar.
+
+I attended at eighteen, the speaker asked, ''What percentage of shared responsibility do you have in making a relationship work? I was a teenager, so wise in the ways of true love. Of course. I had all the answers.
 
 Fifty, fifty, I blurted out. It was so obvious, both people must be willing to share the responsibility evenly or someone’s getting ripped off. Fifty-one, forty-nine, yelled someone else, arguing that you’d have to be willing to do more than the other person. Aren’t relationships built on self-sacrifice and generosity?
 
 Eighty, twenty, yelled another. The instructor turned to the easel and wrote one hundred over zero on the paper in big black letters. You have to be willing to give one hundred percent with zero expectation of receiving anything in return, he said. Maybe when you’re willing to take one hundred percent responsibility for making the relationship work will it work?
 
-Otherwise, a relationship left to chance will always be vulnerable to disaster. Whoa! This wasn’t what I was expecting. But I quickly understood how this concept could transform every area of my life.
+Otherwise, a relationship left to chance will always be vulnerable to disaster. Whoa! This wasn’t what. I was expecting.
 
-If I always took one hundred percent responsibility for everything I experienced, completely owning all of my choices and all the ways I responded to whatever happened to me, I held the power. Everything was up to me. I was responsible for everything I did, didn’t do, or how I responded to what was done to me. I know you think you take responsibility for your life.
+But. I quickly understood how this concept could transform every area of my life. If. I always took one hundred percent responsibility for everything.
 
-I’ve yet to ask anybody who doesn’t say, of course, I take responsibility for my life. But then you look at how most people operate in the world. There’s a lot of finger-pointing, victimhood, blaming, and expecting someone else or the government to solve their problems. If you’ve ever blamed traffic for being late, or decided you were in a bad mood because of something your kid, spouse, or coworker did, you’re not taking one hundred percent personal responsibility. You arrived late because the printer was busy?
+I experienced, completely owning all of my choices and all the ways. I responded to whatever happened to me, I held the power. Everything was up to me. I was responsible for everything.
+
+I did, didn’t do, or how. I responded to what was done to me. I know you think you take responsibility for your life. I’ve yet to ask anybody who doesn’t say, of course, I take responsibility for my life.
+
+But then you look at how most people operate in the world. There’s a lot of finger-pointing, victimhood, blaming, and expecting someone else or the government to solve their problems. If you’ve ever blamed traffic for being late, or decided you were in a bad mood because of something your kid, spouse, or coworker did, you’re not taking one hundred percent personal responsibility. You arrived late because the printer was busy?
 
 Maybe you shouldn’t have waited until the last minute? Coworker messed up the presentation?
 
@@ -334,15 +358,17 @@ Maybe you believe you’re simply unlucky. But really, that’s just another exc
 
 Here’s the thing about luck. We’re all lucky. If you were on the right side of the dirt, have your health, and a little food in your cupboard, you are incredibly lucky. Everyone has the opportunity to be, lucky, because beyond having the basics of health and sustenance, luck simply comes down to a series of choices.
 
-When I asked Richard Branson if he felt luck played a part in his success, he answered, Yes, of course, we are all lucky. If you live in a free society, you are lucky. Luck surrounds us every day. We are constantly having lucky things happen to us, whether you recognize it or not.
+When. I asked Richard Branson if he felt luck played a part in his success, he answered, Yes, of course, we are all lucky. If you live in a free society, you are lucky. Luck surrounds us every day.
 
-I have not been any more lucky or unlucky than anyone else. The difference is when luck came my way, I took advantage of it. Ah, spoken like a man knighted with wisdom. While we’re on the topic, it’s my belief that the old adage we often hear, luck is when opportunity meets preparation, isn’t enough.
+We are constantly having lucky things happen to us, whether you recognize it or not. I have not been any more lucky or unlucky than anyone else. The difference is when luck came my way, I took advantage of it. Ah, spoken like a man knighted with wisdom.
 
-I believe there are two other critical components to, luck, the, complete, formula for getting lucky, preparation, personal growth, plus attitude, belief, mindset, plus opportunity, a good thing coming your way, plus action, doing something about it, equals luck preparation. By consistently improving and preparing yourself, your skills, knowledge, expertise, relationships, and resources, you have the wherewithal to take advantage of great opportunities when they arise, when luck, strikes. Then, you can be like Arnold Palmer, who told Success magazine in February of 2009, it’s a funny thing.
+While we’re on the topic, it’s my belief that the old adage we often hear, luck is when opportunity meets preparation, isn’t enough. I believe there are two other critical components to, luck, the, complete, formula for getting lucky, preparation, personal growth, plus attitude, belief, mindset, plus opportunity, a good thing coming your way, plus action, doing something about it, equals luck preparation. By consistently improving and preparing yourself, your skills, knowledge, expertise, relationships, and resources, you have the wherewithal to take advantage of great opportunities when they arise, when luck, strikes.
 
-The more I practice, the luckier I get. Attitude. This is where luck evades most people, and where Sir Richard is spot on with his belief that luck is all around us. It’s simply a matter of seeing situations, conversations, and circumstances as fortuitous.
+Then, you can be like Arnold Palmer, who told Success magazine in February of 2009, it’s a funny thing. The more. I practice, the luckier. I get.
 
-You cannot see what you don’t look for, and you cannot look for what you don’t believe in. Opportunity. It’s possible to make your own luck, but the luck I’m talking about here isn’t planned forever, or it comes faster or differently than expected. In this stage of the formula, luck isn’t forced.
+Attitude. This is where luck evades most people, and where Sir Richard is spot on with his belief that luck is all around us. It’s simply a matter of seeing situations, conversations, and circumstances as fortuitous. You cannot see what you don’t look for, and you cannot look for what you don’t believe in.
+
+Opportunity. It’s possible to make your own luck, but the luck. I’m talking about here isn’t planned forever, or it comes faster or differently than expected. In this stage of the formula, luck isn’t forced.
 
 It’s a natural occurrence, and it often shows up seemingly of its own accord. Action. This is where you come in.
 
@@ -352,23 +378,29 @@ Exactly. You’ve never heard of him. That’s because he failed to take action 
 
 Countless people have more disadvantages and greater obstacles than you, and yet they’re wealthier and more fulfilled. Luck is an equal opportunity distributor. Lady luck shines on all, but rather than having your umbrella overhead, you’ve got to have your face to the sky. When it comes down to it, it’s all you, baby.
 
-There’s no other way around it. The high price of tuition at UHK, University of Hard Knox. Nearly a decade ago I was asked to be a partner in a new startup venture. I invested a considerable sum of money into the deal and worked tirelessly on it for nearly two years before finding out that my partner had mismanaged and squandered all the cash.
+There’s no other way around it. The high price of tuition at UHK, University of Hard Knox. Nearly a decade ago. I was asked to be a partner in a new startup venture.
 
-I lost more than $330,000. I didn’t try to sue him, in fact, I lent him more money later for a personal situation. The bottom line was the loss was my fault. I had agreed to be his partner without doing enough due diligence on his background and
+I invested a considerable sum of money into the deal and worked tirelessly on it for nearly two years before finding out that my partner had mismanaged and squandered all the cash. I lost more than $330,000. I didn’t try to sue him, in fact, I lent him more money later for a personal situation. The bottom line was the loss was my fault.
+
+I had agreed to be his partner without doing enough due diligence on his background and
 
 
 <a id="sec-004528"></a>
 ### ⏱️ [00:45:28 - 00:50:31]
 
-personal character. During our time in business, I wasn’t inspecting what I was expecting. I could justify it by saying I trusted him, but the truth was I was guilty of being lazy by not watching the finances more diligently. Not only had I made the choice to start this relationship in business, but I’d also made many choices to ignore obvious red flags and warning signs.
+personal character. During our time in business, I wasn’t inspecting what. I was expecting. I could justify it by saying.
 
-Because I chose to not be completely responsible for the business, in the end, I was responsible for the results. When I learned of the wrongdoings, I chose not to lose any more time fighting it. Instead, I licked my wounds, learned my lesson, and moved on. In hindsight, I’d make the same choice to pick up and move on again today.
+I trusted him, but the truth was. I was guilty of being lazy by not watching the finances more diligently. Not only had. I made the choice to start this relationship in business, but.
 
-I now challenge you to do the same. No matter what has happened to you, take complete responsibility for it, good or bad, victory or defeat. Own it. Mentor Jim Rahn said, the day you graduate from childhood to adulthood is the day you take full responsibility for your life.
+I’d also made many choices to ignore obvious red flags and warning signs. Because. I chose to not be completely responsible for the business, in the end, I was responsible for the results. When.
 
-Today is graduation day. From this day forward, choose to be 100% responsible for your life. Eliminate all of your excuses. Embrace the fact that you are freed by your choices, as long as you assume personal responsibility for them.
+I learned of the wrongdoings, I chose not to lose any more time fighting it. Instead, I licked my wounds, learned my lesson, and moved on. In hindsight, I’d make the same choice to pick up and move on again today. I now challenge you to do the same.
 
-It’s time to make the choice to take control. Your secret weapon, your scorecard. I’m about to walk you through one of the single greatest strategies of ever used in my personal development. This strategy helps me take control of the choices I make throughout the day, causing everything else to fall into place, and leading to behaviors and actions that shepherd my habits into line like dutiful, loyal minions.
+No matter what has happened to you, take complete responsibility for it, good or bad, victory or defeat. Own it. Mentor Jim Rahn said, the day you graduate from childhood to adulthood is the day you take full responsibility for your life. Today is graduation day.
+
+From this day forward, choose to be 100% responsible for your life. Eliminate all of your excuses. Embrace the fact that you are freed by your choices, as long as you assume personal responsibility for them. It’s time to make the choice to take control.
+
+Your secret weapon, your scorecard. I’m about to walk you through one of the single greatest strategies of ever used in my personal development. This strategy helps me take control of the choices. I make throughout the day, causing everything else to fall into place, and leading to behaviors and actions that shepherd my habits into line like dutiful, loyal minions.
 
 Right this moment, pick an area of your life where you most want to be successful. Do you want more money in the bank, a trimmer waistline? The strength to compete in an iron man event? A better relationship with your spouse or kids?
 
@@ -380,21 +412,23 @@ If you’ve decided you want to lose weight, you’re going to track everything 
 
 Every day. Without fail. No excuses, no exceptions. As if big brother’s watching you.
 
-As if my dad and I will come and make you do a hundred push-ups every time you miss. Doesn’t sound like much, I know. Bring things down on a little piece of paper. But tracking my progress and missteps is the one of the reasons of accumulated the success I have.
+As if my dad and. I will come and make you do a hundred push-ups every time you miss. Doesn’t sound like much, I know. Bring things down on a little piece of paper.
 
-The process forces you to be conscious of your decisions. But as Jim Rahn would say, what’s simple to do is also simple not to do. The magic is not in the complexity of the task. The magic is in the doing of simple things repeatedly and long enough to ignite the miracle of the compound effect.
+But tracking my progress and missteps is the one of the reasons of accumulated the success. I have. The process forces you to be conscious of your decisions. But as Jim Rahn would say, what’s simple to do is also simple not to do.
 
-So, beware of neglecting the simple things that make the big things in your life possible. The biggest difference between successful people and unsuccessful people is that successful people are willing to do what unsuccessful people are not. Remember that, it will come in handy many times throughout life when faced with a difficult, tedious, or tough choice. Money Trap.
+The magic is not in the complexity of the task. The magic is in the doing of simple things repeatedly and long enough to ignite the miracle of the compound effect. So, beware of neglecting the simple things that make the big things in your life possible. The biggest difference between successful people and unsuccessful people is that successful people are willing to do what unsuccessful people are not.
 
-I learned the power of tracking the hard way, after I’d acted like a colossal idiot about my finances. Back in my early 20s, when I was making a lot of money selling real estate, I met with my accountant. You owe well over $100,000 in taxes, he said. What?
+Remember that, it will come in handy many times throughout life when faced with a difficult, tedious, or tough choice. Money Trap. I learned the power of tracking the hard way, after. I’d acted like a colossal idiot about my finances.
+
+Back in my early 20s, when. I was making a lot of money selling real estate, I met with my accountant. You owe well over $100,000 in taxes, he said. What?
 
 I said. I don’t have that kind of cash just lying around. Why not? He asked.
 
-You collected several times that. Certainly you set aside the taxes that would be due on that money. Evidently I didn’t, I said. Where did the money go?
+You collected several times that. Certainly you set aside the taxes that would be due on that money. Evidently. I didn’t, I said.
 
-He asked. I don’t know, I said, a sobering confession, for sure. The money had passed through my hands like water, and I hadn’t even noticed. Then my accountant did me a great favor.
+Where did the money go? He asked. I don’t know, I said, a sobering confession, for sure. The money had passed through my hands like water, and.
 
-Son, he said, looking me dead in the eyes, you’ve got to get a grip.
+I hadn’t even noticed. Then my accountant did me a great favor. Son, he said, looking me dead in the eyes, you’ve got to get a grip.
 
 
 <a id="sec-005031"></a>
@@ -404,35 +438,43 @@ I’ve seen this a hundred times before. You’re spending money like a drunken 
 
 You are now seriously in the hole. You have to earn more money that you’ll owe additional taxes on just to pay for your back taxes. Continue this, and you’ll dig your financial grave with your own wallet. I immediately got the message.
 
-Here’s what my accountant had me do. Carry a small notepad in my back pocket, and write down every single cent I spent for 30 days. Whether it was a thousand dollars for a new suit or 50 cents for air to fill up my tires, it all had to go down on the notepad. Wow.
+Here’s what my accountant had me do. Carry a small notepad in my back pocket, and write down every single cent. I spent for 30 days. Whether it was a thousand dollars for a new suit or 50 cents for air to fill up my tires, it all had to go down on the notepad.
 
-This brought an instantaneous awareness of the many unconscious choices I was making that resulted in money pouring out of my pockets. Because I had to log everything, I resisted buying some things, just so I didn’t have to take out the notepad and write it in the dang book. Keeping a money log for 30 days straight cemented a new awareness in me, and created a completely new set of choices and disciplines around my spending. And, since awareness and positive behaviors compound, I found myself being more proactive with money in general, putting away more for retirement, finding areas to save where there was clear waste, and enjoying the fun quotient of money, play money, all the more.
+Wow. This brought an instantaneous awareness of the many unconscious choices. I was making that resulted in money pouring out of my pockets. Because.
 
-When I did consider shelling out for entertainment, I did so only after a long pause. This tracking exercise changed my awareness of how I related to my money. It worked so well, in fact, that I’ve used it many times to change other behaviors. Tracking is my go-to transformation model for everything that ails me.
+I had to log everything, I resisted buying some things, just so. I didn’t have to take out the notepad and write it in the dang book. Keeping a money log for 30 days straight cemented a new awareness in me, and created a completely new set of choices and disciplines around my spending. And, since awareness and positive behaviors compound, I found myself being more proactive with money in general, putting away more for retirement, finding areas to save where there was clear waste, and enjoying the fun quotient of money, play money, all the more.
 
-Over the years I’ve tracked what I eat and drink, how much I exercise, how much time I spend improving a skill, my number of sales calls, even the improvement of my relationships with family, friends, or my spouse. The results have been no less profound than my money tracking wake-up call. When buying this book, you’re basically paying me for my opinion, my guidance. This is where I’m going to become a hard ass and insist you track your behaviors for at least one whole week.
+When. I did consider shelling out for entertainment, I did so only after a long pause. This tracking exercise changed my awareness of how. I related to my money.
+
+It worked so well, in fact, that. I’ve used it many times to change other behaviors. Tracking is my go-to transformation model for everything that ails me. Over the years.
+
+I’ve tracked what. I eat and drink, how much. I exercise, how much time. I spend improving a skill, my number of sales calls, even the improvement of my relationships with family, friends, or my spouse.
+
+The results have been no less profound than my money tracking wake-up call. When buying this book, you’re basically paying me for my opinion, my guidance. This is where. I’m going to become a hard ass and insist you track your behaviors for at least one whole week.
 
 This book isn’t designed to entertain you, it is designed to help you get results. To get results, you have to take some action. You may have heard about tracking before.
 
-In fact, you’ve probably done your own version of this exercise. But I also bet you aren’t doing it now, right? How do I know? Because your life isn’t working as successfully as you’d like.
+In fact, you’ve probably done your own version of this exercise. But. I also bet you aren’t doing it now, right? How do.
 
-You’ve gotten derailed. Tracking is the way to get it back on track. Do you know how the casinos make so much money in Vegas? Because they track every table, every winner, every hour.
+I know? Because your life isn’t working as successfully as you’d like. You’ve gotten derailed. Tracking is the way to get it back on track.
 
-Why do Olympic trainers get paid top dollar? Because they track every workout, every calorie, and every micronutrient for their athletes. All winners are trackers. Right now I want you to track your life with the same intention, to bring your goals within sight.
+Do you know how the casinos make so much money in Vegas? Because they track every table, every winner, every hour. Why do Olympic trainers get paid top dollar? Because they track every workout, every calorie, and every micronutrient for their athletes.
 
-Tracking is a simple exercise. It works because it brings moment to moment awareness to the actions you take in the area of your life you want to improve. You’ll be surprised at what you will observe about your behavior. You cannot manage or improve something until you measure it.
+All winners are trackers. Right now. I want you to track your life with the same intention, to bring your goals within sight. Tracking is a simple exercise.
 
-Likewise, you can’t make the most of who you are, your talents and resources and capabilities, until you are aware of and accountable for your actions. Every professional athlete and his or her coach track each performance down to the smallest minutiae. Pitchers know their stats on every pitch in their repertoire. Golfers have even more metrics on their swings.
+It works because it brings moment to moment awareness to the actions you take in the area of your life you want to improve. You’ll be surprised at what you will observe about your behavior. You cannot manage or improve something until you measure it. Likewise, you can’t make the most of who you are, your talents and resources and capabilities, until you are aware of and accountable for your actions.
 
-Professional athletes know how to adjust their performances based on what they’ve tracked. They pay attention to what they record and make changes accordingly, because they know when their stats improve they win more games and earn more in endorsement deals. At any given moment, I want you to know exactly how well you’re doing. I’m asking you to track yourself as if you’re a valuable commodity.
+Every professional athlete and his or her coach track each performance down to the smallest minutiae. Pitchers know their stats on every pitch in their repertoire. Golfers have even more metrics on their swings. Professional athletes know how to adjust their performances based on what they’ve tracked.
 
-Because you are. Want that idiot-proof system we talked about earlier? This is it. So, regardless of whether you think you’re aware of your habits or not, believe me, you’re not.
+They pay attention to what they record and make changes accordingly, because they know when their stats improve they win more games and earn more in endorsement deals. At any given moment, I want you to know exactly how well you’re doing. I’m asking you to track yourself as if you’re a valuable commodity. Because you are.
 
-I’m asking you to start tracking. Doing so will revolutionize your life, and ultimately, your lifestyle. Keep it slow and easy. Don’t panic.
+Want that idiot-proof system we talked about earlier? This is it. So, regardless of whether you think you’re aware of your habits or not, believe me, you’re not. I’m asking you to start tracking.
 
-We’re starting off with an easy, breezy tempo. Just track one habit for one week. Pick the habit that has the greatest control over you. That’s where you’ll start.
+Doing so will revolutionize your life, and ultimately, your lifestyle. Keep it slow and easy. Don’t panic. We’re starting off with an easy, breezy tempo.
 
-Once you begin reaping the rewards of the compound effect, you’ll naturally want to introduce this practice into other areas of your life. In other words, you’ll choose to choose tracking. Let’s say the category you choose is getting your eating under control because you want to lose weight.
+Just track one habit for one week. Pick the habit that has the greatest control over you. That’s where you’ll start. Once you begin reaping the rewards of the compound effect, you’ll naturally want to introduce this practice into other areas of your life.
+
+In other words, you’ll choose to choose tracking. Let’s say the category you choose is getting your eating under control because you want to lose weight.
 
 
 <a id="sec-005531"></a>
@@ -440,11 +482,11 @@ Once you begin reaping the rewards of the compound effect, you’ll naturally wa
 
 Your task is to write down everything you put in your mouth, from the steak, potatoes, and salad you have at dinner, to those many tiny choices during the day. That handful of pretzels in the break room, that second slice of cheese on your sandwich, that fun-sized candy bar, that sample at Costco, those extra sips of wine after the host tops off your glass. Don’t forget the beverages. They all add up, but unless tracked, they’re easy to dismiss or forget because they seem so small.
 
-Again, merely writing these things down sounds simple, and it is, but only when you do it. That’s why I’m asking that you commit to choosing a category and a start date, now, before you turn this page. I am going to start tracking, blank, on, blank. Date per month per year.
+Again, merely writing these things down sounds simple, and it is, but only when you do it. That’s why. I’m asking that you commit to choosing a category and a start date, now, before you turn this page. I am going to start tracking, blank, on, blank.
 
-What will the tracking look like? It will be thorough, as in organized, and relentless, as in constant. Each day you’ll start with the date at the top of a fresh page, and start keeping track. What happens after the first week of tracking?
+Date per month per year. What will the tracking look like? It will be thorough, as in organized, and relentless, as in constant. Each day you’ll start with the date at the top of a fresh page, and start keeping track.
 
-You’ll probably be in shock. You’ll be astonished at how those calories, pennies, minutes have been escaping you. You never even knew that they were there, let alone that they’d vanished.
+What happens after the first week of tracking? You’ll probably be in shock. You’ll be astonished at how those calories, pennies, minutes have been escaping you. You never even knew that they were there, let alone that they’d vanished.
 
 Now, keep going. You’re going to track in this one area for three weeks. Maybe you’re already groaning. You just don’t want to do it.
 
@@ -452,11 +494,13 @@ But trust me, you’ll be so blown away by the results after one week you’ll s
 
 It’s not an exact science, but it’s a good benchmark, and it has worked for me. So, ideally, I want you to stick with your choice to track your behaviors for 21 days. If you refuse, I’m not going to lose anything, heck, it’s not my waistline, cardiovascular health, bank balance, or relationship you’re messing with. But, seriously, you’re reading this book because you want to change your life, right?
 
-And I promised you it was going to take slow, steady work, didn’t I? This one action isn’t easy, but it’s simple and doable. So do it. Promise yourself to start.
+And. I promised you it was going to take slow, steady work, didn’t. I? This one action isn’t easy, but it’s simple and doable.
 
-Today. For the next three weeks, choose to carry around your own small notepad, or large one, if that’s more enticing, and write every single thing down in your category. What happens in three weeks? You move from the shock that follows the first week to the happy surprise of seeing how merely becoming conscious of your actions begins to shape them.
+So do it. Promise yourself to start. Today. For the next three weeks, choose to carry around your own small notepad, or large one, if that’s more enticing, and write every single thing down in your category.
 
-You’ll find yourself asking, do I really want that candy bar? I’m gonna have to haul out my notebook and write it down, and I’ll feel a little sheepish. That’s 200 calories saved right there. Turn down that candy bar every day, and in a little more than two weeks, you’ll have already lost a pound.
+What happens in three weeks? You move from the shock that follows the first week to the happy surprise of seeing how merely becoming conscious of your actions begins to shape them. You’ll find yourself asking, do. I really want that candy bar?
+
+I’m gonna have to haul out my notebook and write it down, and. I’ll feel a little sheepish. That’s 200 calories saved right there. Turn down that candy bar every day, and in a little more than two weeks, you’ll have already lost a pound.
 
 You’ll start adding up that $4 coffee on the way to work and realize, holy cow, I’ve just spent 60 bucks on coffee in three weeks. Hey, that’s a thousand bucks a year. Or, compounded, that’s $51,833.79 in 20 years. How much do you really need to stop for coffee?
 
@@ -478,13 +522,13 @@ When you track with this awareness, you’ll find yourself showing up in your li
 
 You’re aware and conscious and making better choices. All from a little notebook and pen. Simply amazing, isn’t it? The unsung, unseen hero.
 
-Once you start tracking your life, your attention will be focused on the smallest things you’re doing right, as well as the smallest things you’re doing wrong. And when you choose to make even the smallest course corrections consistently, over time, you’ll begin to see amazing results. But don’t expect immediate fanfare. When I say, small, course corrections, I’m talking truly invisible.
+Once you start tracking your life, your attention will be focused on the smallest things you’re doing right, as well as the smallest things you’re doing wrong. And when you choose to make even the smallest course corrections consistently, over time, you’ll begin to see amazing results. But don’t expect immediate fanfare. When.
 
-Disciplines are no one’s going to notice them anytime soon. There will be no applause. No one’s going to send you a congratulations card or a trophy for these disciplines. And yet, eventually, their compounding effect will result in an exceptional payoff.
+I say, small, course corrections, I’m talking truly invisible. Disciplines are no one’s going to notice them anytime soon. There will be no applause. No one’s going to send you a congratulations card or a trophy for these disciplines.
 
-It’s the littlest disciplines that pay off over time, the effort and preparation for the great triumph that happened when no one was looking. And yet the results are exceptional. A horse wins by a nose, but gets 10 times the prize money. Is the horse 10 times faster?
+And yet, eventually, their compounding effect will result in an exceptional payoff. It’s the littlest disciplines that pay off over time, the effort and preparation for the great triumph that happened when no one was looking. And yet the results are exceptional. A horse wins by a nose, but gets 10 times the prize money.
 
-No, just a little bit better. But it was those extra laps around the track, the extra discipline in the horse’s nutrition, or the extra work by the jockey that made the results a slight bit better with compounded rewards. After hundreds of tournaments played and thousands of strokes tallied, the difference between the number one ranked golfer and the number 10 golfer is an average of only 1.9 strokes, but the difference in prize money is five times, over $10 million versus $2 million.
+Is the horse 10 times faster? No, just a little bit better. But it was those extra laps around the track, the extra discipline in the horse’s nutrition, or the extra work by the jockey that made the results a slight bit better with compounded rewards. After hundreds of tournaments played and thousands of strokes tallied, the difference between the number one ranked golfer and the number 10 golfer is an average of only 1.9 strokes, but the difference in prize money is five times, over $10 million versus $2 million.
 
 The number one golfer isn’t five times better, not even 50% or even 10% better. In fact, the difference between his average score is only 2.7% better. Yet, the results are five times greater. See figure 4.
 
@@ -494,33 +538,35 @@ That’s the power of little things adding up. It’s not the big things that ad
 
 Let me give you a few more ways tracking small changes can result in huge payoffs. Take a walk. I was mentoring a CEO of a sizable company doing more than $100 million in sales annually. Phil was an entrepreneur and founder of the company.
 
-The company was doing fine, but I detected a lack of engagement, trust, and enthusiasm in the culture of his organization. I wasn’t too surprised. It turns out that Phil hadn’t been in parts of his own building for more than five years. He’d never spoken personally to more than 80% of his staff.
+The company was doing fine, but. I detected a lack of engagement, trust, and enthusiasm in the culture of his organization. I wasn’t too surprised. It turns out that Phil hadn’t been in parts of his own building for more than five years.
 
-He basically lived in a bubble with his management team. I asked Phil to track just one change, three times a week, he had to step outside of his office and walk around the building. His goal was to seek out at least three people whom he saw doing things right or had heard good things about and give them some personal acknowledgment of his appreciation. This one small change in his behavior took less than an hour a week, but had massive effects over time.
+He’d never spoken personally to more than 80% of his staff. He basically lived in a bubble with his management team. I asked Phil to track just one change, three times a week, he had to step outside of his office and walk around the building. His goal was to seek out at least three people whom he saw doing things right or had heard good things about and give them some personal acknowledgment of his appreciation.
 
-The employees Phil took the time to recognize began to go the extra mile and work harder to earn his greater appreciation. Other employees started to perform better, observing that great effort was recognized and appreciated. The ripple effect of their new attitude transferred to their customer interactions, improving the customer’s experience with the company, increasing repeat and referral business, which increased everyone’s pride. That simple change over the period of 18 months did a complete 180 on the company culture.
+This one small change in his behavior took less than an hour a week, but had massive effects over time. The employees Phil took the time to recognize began to go the extra mile and work harder to earn his greater appreciation. Other employees started to perform better, observing that great effort was recognized and appreciated. The ripple effect of their new attitude transferred to their customer interactions, improving the customer’s experience with the company, increasing repeat and referral business, which increased everyone’s pride.
 
-That profits grew by more than 30% during that time, utilizing the same staff and zero
+That simple change over the period of 18 months did a complete 180 on the company culture. That profits grew by more than 30% during that time, utilizing the same staff and zero
 
 
 <a id="sec-010536"></a>
 ### ⏱️ [01:05:36 - 01:10:37]
 
-additional investment in marketing. All because Phil committed to one small, seemingly insignificant step done consistently over time. Money Tree. 12 years ago I had a wonderful assistant, Kathleen. She earned $40,000 a year at the time.
+additional investment in marketing. All because Phil committed to one small, seemingly insignificant step done consistently over time. Money Tree. 12 years ago. I had a wonderful assistant, Kathleen.
 
-She was tasked to manage the registration table situated at the back of the room during one of my lectures on entrepreneurship and wealth building. The next week she came into my office. I heard you talk about saving 10% of everything you earn, she told me. That sounds nice, but there is no way I could do that.
+She earned $40,000 a year at the time. She was tasked to manage the registration table situated at the back of the room during one of my lectures on entrepreneurship and wealth building. The next week she came into my office. I heard you talk about saving 10% of everything you earn, she told me.
 
-It’s totally unrealistic. She proceeded to tell me about all her bills and financial obligations. After she wrote them all out, it was obvious there really wasn’t any money left over at the end of the month. I need a raise, she said.
+That sounds nice, but there is no way. I could do that. It’s totally unrealistic. She proceeded to tell me about all her bills and financial obligations.
 
-All do better than that, I told her. I’m going to teach you how to become wealthy. It wasn’t the answer she was looking for, but she agreed. I taught Kathleen how to track her spending, and she began to carry her notebook.
+After she wrote them all out, it was obvious there really wasn’t any money left over at the end of the month. I need a raise, she said. All do better than that, I told her. I’m going to teach you how to become wealthy.
 
-I told her to open a separate savings account with only $33, just 1% of her existing monthly income. I then showed her how to live on $33 less the next month, bring in her own lunch just one day a week instead of going downstairs to the deli and ordering a sandwich, chips, and a drink. The next month I had her save only 2%, $67. She saved the additional $33 by changing her cable subscription service.
+It wasn’t the answer she was looking for, but she agreed. I taught Kathleen how to track her spending, and she began to carry her notebook. I told her to open a separate savings account with only $33, just 1% of her existing monthly income. I then showed her how to live on $33 less the next month, bring in her own lunch just one day a week instead of going downstairs to the deli and ordering a sandwich, chips, and a drink.
 
-The next month we went up to 3%. We cancelled her subscription to People magazine. It was time to study her own life, and instead of going to Starbucks twice a week, I told Kathleen to buy the Starbucks Beans and other fancy fixings and make her own coffee in the office, she grew to like that even better, me too. By the end of the year, Kathleen was saving 10% of every dollar she earned without noticing a significant impact on her lifestyle.
+The next month. I had her save only 2%, $67. She saved the additional $33 by changing her cable subscription service. The next month we went up to 3%.
 
-She was amazed. That one discipline also had a ripple effect on many other disciplines in her life. She calculated what she spent on mind-numbing entertainment and began investing that money on personal growth instead. After feeding her mind with several hundred hours of inspirational and instructional content, her creativity started to soar.
+We cancelled her subscription to People magazine. It was time to study her own life, and instead of going to Starbucks twice a week, I told Kathleen to buy the Starbucks Beans and other fancy fixings and make her own coffee in the office, she grew to like that even better, me too. By the end of the year, Kathleen was saving 10% of every dollar she earned without noticing a significant impact on her lifestyle. She was amazed.
 
-She brought me several ideas on how we could make and save more money in our organization. She presented me with a plan that she would implement in her spare time, if I promised to reward her with 10% of all the money-saving strategies and 15% of all the new revenue strategies that proved profitable. By the end of the second year, she was earning more than $100,000 a year, on the same $40,000 base salary. Kathleen eventually started her own independent contract service business that took off.
+That one discipline also had a ripple effect on many other disciplines in her life. She calculated what she spent on mind-numbing entertainment and began investing that money on personal growth instead. After feeding her mind with several hundred hours of inspirational and instructional content, her creativity started to soar. She brought me several ideas on how we could make and save more money in our organization.
+
+She presented me with a plan that she would implement in her spare time, if. I promised to reward her with 10% of all the money-saving strategies and 15% of all the new revenue strategies that proved profitable. By the end of the second year, she was earning more than $100,000 a year, on the same $40,000 base salary. Kathleen eventually started her own independent contract service business that took off.
 
 I ran into Kathleen at an airport two years ago. She now earns more than a quarter of a million dollars a year and has saved and created more than one million dollars in assets, she’s a millionaire. All starting from the choice to take one small step and start saving $33 a month. Time is of the essence.
 
@@ -548,27 +594,33 @@ Do it each day of the week, and you’ll improve by half a percent each week, tr
 
 Is that amazing? You don’t have to put in 1000% more effort or work 1000% more hours. Just one-tenth of one percent improvement each day. That’s it.
 
-Success is a, half, marathon. Beverly was a salesperson for an educational software company for which I was doing a turnaround.
+Success is a, half, marathon. Beverly was a salesperson for an educational software company for which. I was doing a turnaround.
 
 One day she told me about her friend who was running a half marathon the upcoming weekend. I could never do such a thing, Beverly, who was significantly overweight, assured me. I get winded going up a single flight of stairs. If you want to, you can choose to do what your friend is doing, I told her.
 
-She balked, saying, there’s absolutely no way. My first step was to help Beverly find her motivation. So, Beverly, why would you want to run the half marathon? Well, my 20-year high school reunion is coming up next summer, and I want to look fabulous.
+She balked, saying, there’s absolutely no way. My first step was to help Beverly find her motivation. So, Beverly, why would you want to run the half marathon? Well, my 20-year high school reunion is coming up next summer, and.
 
-But I’ve gained so much weight since I had my second child five years ago. I don’t know how I can do it. Bingo. Now we had a motivating goal.
+I want to look fabulous. But. I’ve gained so much weight since. I had my second child five years ago.
 
-But I proceeded with caution. If you’ve ever tried to lose weight, you probably know the drill. Buy an expensive gym membership, drop a fortune on personal trainers, new equipment, spiffy new workout clothes, and great athletic footwear. Work out vigorously for a week or so and then turn your elliptical machine into a clothes-drying rack, ditch the gym, and let your sneakers mold in the corner.
+I don’t know how. I can do it. Bingo. Now we had a motivating goal.
 
-I wanted to try a better way with Beverly. I knew that if I could get her to choose just one new habit, she’d get hooked, and all the other behaviors would naturally fall into line. I asked Beverly to drive her car around the block and map out a one-mile loop from her house. Then, I told her to walk the loop three times over a period of two weeks.
+But. I proceeded with caution. If you’ve ever tried to lose weight, you probably know the drill. Buy an expensive gym membership, drop a fortune on personal trainers, new equipment, spiffy new workout clothes, and great athletic footwear.
 
-Notice that I didn’t ask her to start by running the mile. Instead, I started with something, a small, easy task that required no major stretch. Then I had her walk the loop three times in one week for an additional two weeks. Each day she made the choice to continue on.
+Work out vigorously for a week or so and then turn your elliptical machine into a clothes-drying rack, ditch the gym, and let your sneakers mold in the corner. I wanted to try a better way with Beverly. I knew that if. I could get her to choose just one new habit, she’d get hooked, and all the other behaviors would naturally fall into line.
 
-Next I told Beverly to start a slow jog, only as far as she felt comfortable. As soon as she started feeling breathless, she was to stop and continue walking. I asked her to do this until she could run one-fourth, then one-half, and then three-quarters of that mile. It took three more weeks, nine outings, before she could jog a full mile.
+I asked Beverly to drive her car around the block and map out a one-mile loop from her house. Then, I told her to walk the loop three times over a period of two weeks. Notice that. I didn’t ask her to start by running the mile.
 
-After a total of seven weeks, she was jogging the whole loop. That might seem like a long time for such a short victory, right? After all, half of a marathon is 13.1 miles. One mile is nothing.
+Instead, I started with something, a small, easy task that required no major stretch. Then. I had her walk the loop three times in one week for an additional two weeks. Each day she made the choice to continue on.
 
-What was something, however, was that Beverly was beginning to see how her choice to get fit for the reunion. Her wide power, as I’ll soon explain, was fueling her new health habits. The compound effect had been set in motion and was starting its miraculous process. I then asked Beverly to increase her distance an eighth of a mile each outing, an almost unnoticeable length, maybe only 300 steps further.
+Next. I told Beverly to start a slow jog, only as far as she felt comfortable. As soon as she started feeling breathless, she was to stop and continue walking. I asked her to do this until she could run one-fourth, then one-half, and then three-quarters of that mile.
 
-Within six months, she was running nine miles without any discomfort at all. In nine months, she was running 13.5 miles regularly, more than the distance of a half-marathon, as part of her running routine. More exciting, though, was what happened in other areas of her
+It took three more weeks, nine outings, before she could jog a full mile. After a total of seven weeks, she was jogging the whole loop. That might seem like a long time for such a short victory, right? After all, half of a marathon is 13.1 miles.
+
+One mile is nothing. What was something, however, was that Beverly was beginning to see how her choice to get fit for the reunion. Her wide power, as. I’ll soon explain, was fueling her new health habits.
+
+The compound effect had been set in motion and was starting its miraculous process. I then asked Beverly to increase her distance an eighth of a mile each outing, an almost unnoticeable length, maybe only 300 steps further. Within six months, she was running nine miles without any discomfort at all. In nine months, she was running 13.5 miles regularly, more than the distance of a half-marathon, as part of her running routine.
+
+More exciting, though, was what happened in other areas of her
 
 
 <a id="sec-011539"></a>
@@ -580,27 +632,29 @@ Her sales performance doubled during the same period, which was great for me. As
 
 She noticed she no longer had time to hang out with her, Debbie Downer, friends, who still gathered together after work for greasy appetizers and drinks. She made new, healthy, friends in a running club she joined, which led to a whole host of additional positive choices, behaviors, and habits. Following that first conversation in my office and Beverly’s decision to find her Y Power and commit to a series of small steps, she lost more than 40 pounds, becoming a walking and running billboard for fit and empowered women.
 
-Today, Beverly runs full marathons. Your life is the product of your moment-to-moment choices. In our success CD, May 2010, TV’s biggest loser fitness trainer Jillian Michaels shared with me a powerful childhood story. When I was a kid, my mom would have these elaborate Easter egg hunts for me.
+Today, Beverly runs full marathons. Your life is the product of your moment-to-moment choices. In our success CD, May 2010, TV’s biggest loser fitness trainer Jillian Michaels shared with me a powerful childhood story. When.
 
-I would run around the house, and when I would get close to a hidden egg, she’d say, oh you’re warm. You know, you get closer to it, oh, you’re on fire. And then you move away from the egg and she’d go, oh, you’re cold, you’re freezing. I teach contestants that, on a moment-to-moment basis, I need them to think about their happiness and their ultimate goal is being warm, how every choice and every decision they make in the moment is getting them closer to that ultimate goal.
+I was a kid, my mom would have these elaborate Easter egg hunts for me. I would run around the house, and when. I would get close to a hidden egg, she’d say, oh you’re warm. You know, you get closer to it, oh, you’re on fire.
 
-Since your outcomes are all a result of your moment-to-moment choices, you have incredible power to change your life by changing those choices. Step by step, day by day, your choices will shape your actions until they become habits, where practice makes them permanent. Losing is a habit, so is winning. Now let’s work on permanently instilling winning habits into your life.
+And then you move away from the egg and she’d go, oh, you’re cold, you’re freezing. I teach contestants that, on a moment-to-moment basis, I need them to think about their happiness and their ultimate goal is being warm, how every choice and every decision they make in the moment is getting them closer to that ultimate goal. Since your outcomes are all a result of your moment-to-moment choices, you have incredible power to change your life by changing those choices.
 
-Eliminate sabotaging habits and instill the needed positive habits, and you can take your life in any direction you desire, to the heights of your greatest imagination. Let me show you how. Put the compound effect to work for you. Summary action steps.
+Step by step, day by day, your choices will shape your actions until they become habits, where practice makes them permanent. Losing is a habit, so is winning. Now let’s work on permanently instilling winning habits into your life. Eliminate sabotaging habits and instill the needed positive habits, and you can take your life in any direction you desire, to the heights of your greatest imagination.
 
-What area, person, or circumstance in your life do you struggle with the most? Start journaling all the aspects of that situation that you are grateful for. Keep a record of everything that reinforces and expands your gratitude in that area. Where in your life are you not taking 100% responsibility for the success or failure of your present condition?
+Let me show you how. Put the compound effect to work for you. Summary action steps. What area, person, or circumstance in your life do you struggle with the most?
 
-Write down three things you have done in the past that have messed things up. List three things you should have done but didn’t. Write out three things that happened to you but you responded poorly. Write down three things you can start doing right now to take back responsibility for the outcomes of your life.
+Start journaling all the aspects of that situation that you are grateful for. Keep a record of everything that reinforces and expands your gratitude in that area. Where in your life are you not taking 100% responsibility for the success or failure of your present condition? Write down three things you have done in the past that have messed things up.
 
-Start tracking at least one behavior in one area of your life you’d like to change and improve, e.g., money, nutrition, fitness, recognizing others, parenting, any area.
+List three things you should have done but didn’t. Write out three things that happened to you but you responded poorly. Write down three things you can start doing right now to take back responsibility for the outcomes of your life. Start tracking at least one behavior in one area of your life you’d like to change and improve, e.g., money, nutrition, fitness, recognizing others, parenting, any area.
 
-#### Chapter 3. Habits. A wise teacher was taking a stroll through the forest with a young pupil and stopped before a tiny tree. Pull up that sapling.
+#### Chapter 3.
 
-The teacher instructed his pupil, pointing to a sprout just coming up from the earth. The youngster pulled it up easily with his fingers. Now pull up that one, said the teacher, indicating a more established sapling that had grown to about knee-high to the boy. With little effort, the lad yanked and the tree came up, roots and all.
+Habits. A wise teacher was taking a stroll through the forest with a young pupil and stopped before a tiny tree. Pull up that sapling. The teacher instructed his pupil, pointing to a sprout just coming up from the earth.
 
-And now, this one, said the teacher, nodding toward a more well-developed evergreen that was as tall as the young pupil. With great effort, throwing all his weight and strength into the task, using sticks and stone he found to pry up the stubborn roots, the boy finally got the tree loose.
+The youngster pulled it up easily with his fingers. Now pull up that one, said the teacher, indicating a more established sapling that had grown to about knee-high to the boy. With little effort, the lad yanked and the tree came up, roots and all. And now, this one, said the teacher, nodding toward a more well-developed evergreen that was as tall as the young pupil.
 
-Now, the wise one said, “I’d like you to pull this one up.” The young boy followed the teacher’s gaze, which fell upon a mighty oak so tall the boy could scarcely see the top. Knowing the great struggle he just had pulling up the much smaller tree, he simply told his teacher, I am sorry, but I can’t. My son, you have just demonstrated the power that habits will have over your life. The teacher exclaimed, the older they are, the bigger they get, the deeper the roots grow, and the harder they are to uproot.
+With great effort, throwing all his weight and strength into the task, using sticks and stone he found to pry up the stubborn roots, the boy finally got the tree loose. Now, the wise one said, “I’d like you to pull this one up.” The young boy followed the teacher’s gaze, which fell upon a mighty oak so tall the boy could scarcely see the top. Knowing the great struggle he just had pulling up the much smaller tree, he simply told his teacher, I am sorry, but.
+
+I can’t. My son, you have just demonstrated the power that habits will have over your life. The teacher exclaimed, the older they are, the bigger they get, the deeper the roots grow, and the harder they are to uproot.
 
 
 <a id="sec-012039"></a>
@@ -612,29 +666,31 @@ It appears that he’s going somewhere very important. A man standing along the 
 
 This is the story of most people’s lives. They’re riding the horse of their habits, with no idea where they’re headed. It’s time to take control of the reins, and move your life in the direction of where you really want to go. If you’ve been living on autopilot and allowing your habits to run you, I want you to understand why.
 
-And I want you to let yourself off the hook. After all, you’re in good company. Psychological studies reveal that 95% of everything we feel, think, do, and achieve as a result of a learned habit. We’re born with instincts, of course, but no habits at all.
+And. I want you to let yourself off the hook. After all, you’re in good company. Psychological studies reveal that 95% of everything we feel, think, do, and achieve as a result of a learned habit.
 
-We develop them over time. Beginning in childhood, we learned a series of conditioned responses that led us to react automatically, as in, without thinking, to most situations. In your day-to-day life, living, automatically, has its definite positives. If you had to consciously think about every step of each ordinary task, making breakfast, driving the kids to school, getting to work, and so on, your life would grind to a halt.
+We’re born with instincts, of course, but no habits at all. We develop them over time. Beginning in childhood, we learned a series of conditioned responses that led us to react automatically, as in, without thinking, to most situations. In your day-to-day life, living, automatically, has its definite positives.
 
-You probably brush your teeth twice a day on autopilot. There’s no big philosophical debate. You just do it. You strap on your seat belt the minute your butt hits the seat.
+If you had to consciously think about every step of each ordinary task, making breakfast, driving the kids to school, getting to work, and so on, your life would grind to a halt. You probably brush your teeth twice a day on autopilot. There’s no big philosophical debate. You just do it.
 
-No second thoughts. Our habits and routines allow us to use minimal conscious energy for everyday tasks. They help keep us sane and enable us to handle most situations reasonably well. And because we don’t have to think about the mundane, we can focus our mental energy on more creative and enriching thoughts.
+You strap on your seat belt the minute your butt hits the seat. No second thoughts. Our habits and routines allow us to use minimal conscious energy for everyday tasks. They help keep us sane and enable us to handle most situations reasonably well.
 
-Habits can be helpful, as long as they’re good habits, that is. If you eat healthfully, you’ve likely built healthy habits around the food you buy and what you order at restaurants. If you’re fit, it’s probably because you work out regularly. If you’re successful in a sales job, it’s probably because your habits of mental preparation and positive self-talk enable you to stay optimistic in the face of rejection.
+And because we don’t have to think about the mundane, we can focus our mental energy on more creative and enriching thoughts. Habits can be helpful, as long as they’re good habits, that is. If you eat healthfully, you’ve likely built healthy habits around the food you buy and what you order at restaurants. If you’re fit, it’s probably because you work out regularly.
 
-I’ve met and worked with many great achievers, CEOs, and, superstars, and I can tell you they all share one common trait, they all have good habits. That’s not to say they don’t have bad habits, they do. But not many. A daily routine built on good habits is the difference that separates the most successful amongst us from everyone else.
+If you’re successful in a sales job, it’s probably because your habits of mental preparation and positive self-talk enable you to stay optimistic in the face of rejection. I’ve met and worked with many great achievers, CEOs, and, superstars, and. I can tell you they all share one common trait, they all have good habits. That’s not to say they don’t have bad habits, they do.
 
-And doesn’t that make sense? From what we’ve already discussed, you know successful people aren’t necessarily more intelligent or more talented than anyone else. But their habits take them in the direction of becoming more informed, more knowledgeable, more competent, better skilled, and better prepared. My dad used Larry Bird as an example to teach me about habits when I was a kid.
+But not many. A daily routine built on good habits is the difference that separates the most successful amongst us from everyone else. And doesn’t that make sense? From what we’ve already discussed, you know successful people aren’t necessarily more intelligent or more talented than anyone else.
 
-Larry Legend, is known as one of the greatest professional basketball players. But he wasn’t known for being the most athletically talented player. Nobody would have described Larry as, graceful, on the basketball court. Yet, despite his limited natural athletic ability, he led the Boston Celtics to three world championships and remains one of the best players of all time.
+But their habits take them in the direction of becoming more informed, more knowledgeable, more competent, better skilled, and better prepared. My dad used Larry Bird as an example to teach me about habits when. I was a kid. Larry Legend, is known as one of the greatest professional basketball players.
 
-How did he do it? It was Larry’s habits, his relentless dedication to practice and to improve his game. Bird was one of the most consistent free-throw shooters in the history of the NBA. Growing up, his habit was to practice 500 free-throw shots every morning before school.
+But he wasn’t known for being the most athletically talented player. Nobody would have described Larry as, graceful, on the basketball court. Yet, despite his limited natural athletic ability, he led the Boston Celtics to three world championships and remains one of the best players of all time. How did he do it?
 
-With that kind of discipline, Larry made the most of his God-given talents and kicked the butts of some of the most, gifted, players on the court. Like Larry Bird, you can condition your automatic and unconscious responses to be those of a developed champion. This chapter is about choosing to make up for what you lack in innate ability with discipline, hard work, and good habits. It’s about becoming a creature of champion habits.
+It was Larry’s habits, his relentless dedication to practice and to improve his game. Bird was one of the most consistent free-throw shooters in the history of the NBA. Growing up, his habit was to practice 500 free-throw shots every morning before school. With that kind of discipline, Larry made the most of his God-given talents and kicked the butts of some of the most, gifted, players on the court.
 
-With enough practice and repetition, any behavior, good or bad, becomes automatic over time. That means that even though we develop most of our habits unconsciously, by modeling our parents, responding to environmental or cultural associations, or creating coping mechanisms, we can consciously decide to change them. It stands to reason that since you learned every habit you have, you can also unlearn the ones that aren’t serving you well. Ready?
+Like Larry Bird, you can condition your automatic and unconscious responses to be those of a developed champion. This chapter is about choosing to make up for what you lack in innate ability with discipline, hard work, and good habits. It’s about becoming a creature of champion habits. With enough practice and repetition, any behavior, good or bad, becomes automatic over time.
 
-Here goes. Start by thinking your way out of the
+That means that even though we develop most of our habits unconsciously, by modeling our parents, responding to environmental or cultural associations, or creating coping mechanisms, we can consciously decide to change them. It stands to reason that since you learned every habit you have, you can also unlearn the ones that aren’t serving you well. Ready? Here goes.
+
+Start by thinking your way out of the
 
 
 <a id="sec-012542"></a>
@@ -648,23 +704,23 @@ If your next puff of a cigarette instantly mutated your face into that of a weat
 
 Indulging in our bad habits doesn’t seem to have any negative effects at all in the moment. You don’t have that heart attack, your face doesn’t shrivel up, you’re not standing in the unemployment line, and your thighs aren’t thunderous. But that doesn’t mean you haven’t activated the compound effect. It’s time to wake up and realize that the habits you indulge in could be compounding your life into repeated disaster.
 
-The slightest adjustments to your daily routines can dramatically alter the outcomes in your life. Again, I’m not talking about quantum leaps of change or a complete overhaul of your personality, character, and life. Supersmall, seemingly inconsequential adjustments can and will revolutionize everything. The best illustration I can give you to emphasize the power of small adjustments is that of a plane traveling from Los Angeles to New York City.
+The slightest adjustments to your daily routines can dramatically alter the outcomes in your life. Again, I’m not talking about quantum leaps of change or a complete overhaul of your personality, character, and life. Supersmall, seemingly inconsequential adjustments can and will revolutionize everything. The best illustration.
 
-If the nose of the plane is pointed only 1% off course, almost an invisible adjustment when the plane’s sitting on the tarmac in Los Angeles, it will ultimately end up about 150 miles off course, arriving either upstate in Albany or in Dover, Delaware. Such is the case for your habits. A single poor habit, which doesn’t look like much in the moment, can ultimately lead you miles off course from the direction of your goals and the life you desire. See Figure 6.
+I can give you to emphasize the power of small adjustments is that of a plane traveling from Los Angeles to New York City. If the nose of the plane is pointed only 1% off course, almost an invisible adjustment when the plane’s sitting on the tarmac in Los Angeles, it will ultimately end up about 150 miles off course, arriving either upstate in Albany or in Dover, Delaware. Such is the case for your habits. A single poor habit, which doesn’t look like much in the moment, can ultimately lead you miles off course from the direction of your goals and the life you desire.
 
-Most people drift through life without devoting much conscious energy to figuring out specifically what they want and what they need to do to take themselves there. I want to show you how to ignite your passion and help you aim your unstoppable creative power in the direction of your heart’s dreams and desires. Uprooting bad habits that have grown into mighty oaks is going to be arduous and difficult. To see the process through will require something greater than even the most relentless determination.
+See Figure 6. Most people drift through life without devoting much conscious energy to figuring out specifically what they want and what they need to do to take themselves there. I want to show you how to ignite your passion and help you aim your unstoppable creative power in the direction of your heart’s dreams and desires. Uprooting bad habits that have grown into mighty oaks is going to be arduous and difficult.
 
-Willpower alone won’t cut it. The power of small adjustments, a 1% change in course results in being 150 miles off course. Finding your mojo, your why power. Assuming willpower is what you need to change your habits as akin to trying to keep a hungry grizzly bear out of your picnic basket by covering it with a napkin.
+To see the process through will require something greater than even the most relentless determination. Willpower alone won’t cut it. The power of small adjustments, a 1% change in course results in being 150 miles off course. Finding your mojo, your why power.
 
-To fight the bear of your bad habits, you need something stronger. When you’re having trouble doing the hard work of achieving your goals, it’s common to believe you simply lack willpower. I disagree. It’s not enough to choose to be successful.
+Assuming willpower is what you need to change your habits as akin to trying to keep a hungry grizzly bear out of your picnic basket by covering it with a napkin. To fight the bear of your bad habits, you need something stronger. When you’re having trouble doing the hard work of achieving your goals, it’s common to believe you simply lack willpower. I disagree.
 
-What’s going to keep you consistent with the new positive choices you need to make? What’s going to stop you from falling back into your mindless bad habits? What’s going to be different this time versus the times you’ve tried and failed before? As soon as you get the slightest bit uncomfortable, you’re going to be tempted to slide back into your old, comfortable routine.
+It’s not enough to choose to be successful. What’s going to keep you consistent with the new positive choices you need to make? What’s going to stop you from falling back into your mindless bad habits? What’s going to be different this time versus the times you’ve tried and failed before?
 
-You’ve tried willpower, before and it’s failed you. You’ve set resolutions and you’ve let them go. You thought you were going to lose all that weight last time. You thought you’d make all those sales calls last year.
+As soon as you get the slightest bit uncomfortable, you’re going to be tempted to slide back into your old, comfortable routine. You’ve tried willpower, before and it’s failed you. You’ve set resolutions and you’ve let them go. You thought you were going to lose all that weight last time.
 
-Let’s, stop the insanity, and do something different so you can get different and better results. Forget about willpower. It’s time for why power. Your choices are only meaningful when you connect them to your desires and dreams. The wisest and most motivating choices are the ones aligned with that which you identify as your purpose, your core self, and your highest values.
+You thought you’d make all those sales calls last year. Let’s, stop the insanity, and do something different so you can get different and better results. Forget about willpower. It’s time for why power.
 
-You’ve got to want something, and know why you want it, or you’ll end up giving up too easily. So, what is your why?
+Your choices are only meaningful when you connect them to your desires and dreams. The wisest and most motivating choices are the ones aligned with that which you identify as your purpose, your core self, and your highest values. You’ve got to want something, and know why you want it, or you’ll end up giving up too easily. So, what is your why?
 
 
 <a id="sec-013043"></a>
@@ -672,31 +728,35 @@ You’ve got to want something, and know why you want it, or you’ll end up giv
 
 You’ve got to have a reason if you want to make significant improvements to your life. And to make you want to make the necessary changes, your why must be something that is fantastically motivating, to you. You’ve got to want to get up and go, go, go, go, go, for years. So, what is it that moves you the most?
 
-Identifying your why is critical. What motivates you is the ignition to your passion, the source for your enthusiasm, and the fuel of your persistence. This is so important that I made it the focus of another book, Living Your Best Year Ever, a proven system for achieving big goals, Success Books, 2011. You must know your why, why everything’s possible.
+Identifying your why is critical. What motivates you is the ignition to your passion, the source for your enthusiasm, and the fuel of your persistence. This is so important that. I made it the focus of another book, Living.
 
-The power of your why is what gets you to stick through the grueling, mundane, and laborious. All of the hows will be meaningless until your whys are powerful enough. Until you’ve set your desire and motivation in place, you’ll abandon any new path you seek to better your life. If your why power, your desire, isn’t great enough, if the fortitude of your commitment isn’t powerful enough, you’ll end up like every other person who makes a new year’s resolution and gives up too quickly and reverts to sleepwalking through poor choices.
+Your Best Year Ever, a proven system for achieving big goals, Success Books, 2011. You must know your why, why everything’s possible. The power of your why is what gets you to stick through the grueling, mundane, and laborious. All of the hows will be meaningless until your whys are powerful enough.
 
-Let me give you an analogy to help bring it home. If I were to put a 10-inch-wide, 30-foot-long plank on the ground and say, if you walk the length of the plank, I’ll give you $20, would you do it? Of course, it’s an easy 20 bucks. But what if I took that same plank and made a rooftop bridge, between two 100-story buildings?
+Until you’ve set your desire and motivation in place, you’ll abandon any new path you seek to better your life. If your why power, your desire, isn’t great enough, if the fortitude of your commitment isn’t powerful enough, you’ll end up like every other person who makes a new year’s resolution and gives up too quickly and reverts to sleepwalking through poor choices. Let me give you an analogy to help bring it home. If.
+
+I were to put a 10-inch-wide, 30-foot-long plank on the ground and say, if you walk the length of the plank, I’ll give you $20, would you do it? Of course, it’s an easy 20 bucks. But what if. I took that same plank and made a rooftop bridge, between two 100-story buildings?
 
 That same $20 for walking the 30-foot plank no longer looks desirable or even possible, does it? You’d look at me and say, not on your life. See Figure 7.
 
-However, if your child was on the opposite building, and that building was on fire, would you walk the length of the plank to save him? Without question and immediately, you’d do it, $20 or not. Is your why power great enough? Why is it that the first time I asked you to cross that sky high plank, you said no way, yet, the second time you wouldn’t hesitate?
+However, if your child was on the opposite building, and that building was on fire, would you walk the length of the plank to save him? Without question and immediately, you’d do it, $20 or not. Is your why power great enough? Why is it that the first time.
 
-The risks and the dangers are the same. What changed? Your why changed? Your reason for wanting to do it.
+I asked you to cross that sky high plank, you said no way, yet, the second time you wouldn’t hesitate? The risks and the dangers are the same. What changed? Your why changed?
 
-You see, when the reason is big enough, you will be willing to perform almost anyhow. To truly ignite your creative potential and inner drive, you have to look beyond the motivation of monetary and material goals. It’s not that those motivations are bad, in fact, they’re great. I’m a connoisseur of nice things.
+Your reason for wanting to do it. You see, when the reason is big enough, you will be willing to perform almost anyhow. To truly ignite your creative potential and inner drive, you have to look beyond the motivation of monetary and material goals. It’s not that those motivations are bad, in fact, they’re great.
 
-But material stuff can’t really recruit your heart, soul, and guts into the fight. That passion has to come from a deeper place. And, even if you acquire the shiny objects, you won’t capture the real prize, happiness and fulfillment.
+I’m a connoisseur of nice things. But material stuff can’t really recruit your heart, soul, and guts into the fight. That passion has to come from a deeper place. And, even if you acquire the shiny objects, you won’t capture the real prize, happiness and fulfillment.
 
-In my interview with peak performance expert Anthony Robbins, Success, January 2009, he said, “I have seen business moguls achieve their ultimate goals, but still live in frustration, worry, and fear.” What’s preventing these successful people from being happy? The answer is they have focused only on achievement and not fulfillment. Extraordinary accomplishment does not guarantee extraordinary joy, happiness, love, and a sense of meaning. These two skill sets feed off each other, and makes me believe that success without fulfillment is failure.
+In my interview with peak performance expert Anthony Robbins, Success, January 2009, he said, “I have seen business moguls achieve their ultimate goals, but still live in frustration, worry, and fear.”. What’s preventing these successful people from being happy? The answer is they have focused only on achievement and not fulfillment. Extraordinary accomplishment does not guarantee extraordinary joy, happiness, love, and a sense of meaning.
 
-Well said. That’s why it’s not enough to choose to be successful. You have to dig deeper than that to find your core motivation, to activate your superpower. Your Y power.
+These two skill sets feed off each other, and makes me believe that success without fulfillment is failure. Well said. That’s why it’s not enough to choose to be successful. You have to dig deeper than that to find your core motivation, to activate your superpower.
 
-Core motivation. The access point to your Y power is through your core values, which define both who you are and what you stand for. Your core values are your internal compass, your guiding beacon, your personal GPS. They act as the filter through which you run all of life’s demands, requests, and temptations, making sure they’re leading you toward your intended destination.
+Your Y power. Core motivation. The access point to your Y power is through your core values, which define both who you are and what you stand for. Your core values are your internal compass, your guiding beacon, your personal GPS.
 
-Getting your core values defined and properly calibrated is one of the most important steps in redirecting your life toward your grandest vision. If you haven’t already clearly defined your values, you may find yourself making choices that conflict with what you want. If, for example, honesty is a big thing for you, but you hang out with liars, there’s a conflict. When your actions conflict with your values, you’ll end up unhappy, frustrated, and despondent.
+They act as the filter through which you run all of life’s demands, requests, and temptations, making sure they’re leading you toward your intended destination. Getting your core values defined and properly calibrated is one of the most important steps in redirecting your life toward your grandest vision. If you haven’t already clearly defined your values, you may find yourself making choices that conflict with what you want. If, for example, honesty is a big thing for you, but you hang out with liars, there’s a conflict.
 
-In fact, psychologists tell us that nothing creates more stress than when our actions and behaviors aren’t congruent with our values. Defining your core values also helps make life simpler and more efficient. Design-making is also easier when you are certain of your core values. When faced with a choice, ask yourself, does this align with my core values?
+When your actions conflict with your values, you’ll end up unhappy, frustrated, and despondent. In fact, psychologists tell us that nothing creates more stress than when our actions and behaviors aren’t congruent with our values. Defining your core values also helps make life simpler and more efficient. Design-making is also easier when you are certain of your core values.
+
+When faced with a choice, ask yourself, does this align with my core values?
 
 
 <a id="sec-013544"></a>
@@ -706,47 +766,53 @@ If it does, do it. If not, don’t, and don’t look back. All fretting and inde
 
 People are either motivated by something they want or something they don’t want. Love is a powerfully motivating force. But so is hate. Contrary to social correctness, it can be good to hate.
 
-Hate disease, hate injustice, hate ignorance, hate complacency, and so on. Sometimes identifying an enemy lights your fire. Some of my greatest motivation, determination, and dogged persistence came when I had an enemy to fight. In history, the most transformational stories and political revolutions came about as a result of fighting an enemy.
+Hate disease, hate injustice, hate ignorance, hate complacency, and so on. Sometimes identifying an enemy lights your fire. Some of my greatest motivation, determination, and dogged persistence came when. I had an enemy to fight.
 
-David had Goliath. Russia had the British. Luke had Darth Vader. Rocky had Apollo Creed.
+In history, the most transformational stories and political revolutions came about as a result of fighting an enemy. David had Goliath. Russia had the British. Luke had Darth Vader.
 
-Twenty-somethings have, the man. Rush Limbaugh has the liberals. Lance Armstrong has cancer. Apple has Microsoft.
+Rocky had Apollo Creed. Twenty-somethings have, the man. Rush Limbaugh has the liberals. Lance Armstrong has cancer.
 
-Microsoft has Apple. We could go on and on, but you get the point. Enemies give us a reason to stand tall with courage. Having to fight challenges your skills, your character, and your resolve.
+Apple has Microsoft. Microsoft has Apple. We could go on and on, but you get the point. Enemies give us a reason to stand tall with courage.
 
-It forces you to assess and exercise your talents and abilities. Without a motivating fight, we can become fat and lazy, we lose our strength and purpose. Some of my mentorship clients worry that their Y power derives from less than noble goals. They feel guilty for wanting to prove the naysayers wrong, or wanting to get back at the person who said they’d never amount to anything, or beat the competition, or finally one up a sibling who always dominated them.
+Having to fight challenges your skills, your character, and your resolve. It forces you to assess and exercise your talents and abilities. Without a motivating fight, we can become fat and lazy, we lose our strength and purpose. Some of my mentorship clients worry that their Y power derives from less than noble goals.
 
-But, really, it doesn’t matter what the motivation is, as long as it is legal and moral, you don’t have to be motivated for great humanitarian reasons. What matters is that you feel fully motivated. Sometimes that motivation can help you use a powerfully negative emotion or experience to create an even more powerful and successful end. This is certainly true of one of history’s most celebrated football coaches, Pete Carroll.
+They feel guilty for wanting to prove the naysayers wrong, or wanting to get back at the person who said they’d never amount to anything, or beat the competition, or finally one up a sibling who always dominated them. But, really, it doesn’t matter what the motivation is, as long as it is legal and moral, you don’t have to be motivated for great humanitarian reasons. What matters is that you feel fully motivated. Sometimes that motivation can help you use a powerfully negative emotion or experience to create an even more powerful and successful end.
 
-When we featured Carroll in Success magazine in September of 2008, he explained his early motivation like this, When I grew up, I was a little dink. I couldn’t do much because I was just too small. It took me a couple years to get in a place where I could be competitive. All that time, I was living with the fact that I was much better and I needed to fight to prove it.
+This is certainly true of one of history’s most celebrated football coaches, Pete Carroll. When we featured Carroll in Success magazine in September of 2008, he explained his early motivation like this, When. I grew up, I was a little dink. I couldn’t do much because.
 
-I was frustrated because I knew I could be special. Carroll’s need to fight ultimately brought out his greatness. Our March 2010 issue of Success magazine featured an interview with acclaimed actor Anthony Hopkins. I was surprised to learn that his extraordinary talent and determination blossomed from anger.
+I was just too small. It took me a couple years to get in a place where. I could be competitive. All that time, I was living with the fact that.
 
-Hopkins admitted to being a horrible student, burdened with dyslexia and attention deficit hyperactivity disorder before such diagnoses existed. He was shackled with the label, Problem Child. I was a source of worry for my parents, Hopkins revealed. I had no apparent future because schooling and education were important, but I didn’t seem to have the ability to grasp what was being taught to me.
+I was much better and. I needed to fight to prove it. I was frustrated because. I knew.
 
-My cousins were all brilliant. I felt resentful and rejected by a whole society and was very depressed. Hopkins harnessed his anger. At first it propelled him to fight to achieve success outside of academics or athletics.
+I could be special. Carroll’s need to fight ultimately brought out his greatness. Our March 2010 issue of Success magazine featured an interview with acclaimed actor Anthony Hopkins. I was surprised to learn that his extraordinary talent and determination blossomed from anger.
 
-He discovered he had a glimmer of talent in acting. So, he used his anger toward the belittling labels he’d been given to fuel his commitment to the craft of acting. Today, Hopkins is considered one of the greatest actors alive. As a result of the fame and fortune he’s acquired, Hopkins has been able to help countless people in the fight to recover from substance abuse, in addition to supporting important environmental work.
+Hopkins admitted to being a horrible student, burdened with dyslexia and attention deficit hyperactivity disorder before such diagnoses existed. He was shackled with the label, Problem Child. I was a source of worry for my parents, Hopkins revealed. I had no apparent future because schooling and education were important, but.
 
-Though, initially, it wasn’t grounded in a ''noble'' cause, his fight was clearly worthwhile. We can all make powerful choices. We can all take back control by not blaming chance, fate, or anyone else for our outcomes. It’s within our ability to cause everything to change.
+I didn’t seem to have the ability to grasp what was being taught to me. My cousins were all brilliant. I felt resentful and rejected by a whole society and was very depressed. Hopkins harnessed his anger.
 
-Rather than letting past hurtful experiences sap our energy and sabotage our success, we can use them to fuel positive, constructive change. Goals. As I mentioned before, the compound effect is always working, and it will always take you somewhere. The question is, where?
+At first it propelled him to fight to achieve success outside of academics or athletics. He discovered he had a glimmer of talent in acting. So, he used his anger toward the belittling labels he’d been given to fuel his commitment to the craft of acting. Today, Hopkins is considered one of the greatest actors alive.
 
-You can harness this relentless force and have it carry you to new heights. But you must know where you want to go. What goals, dreams, and destinations do you desire? When I attended the funeral of Paul J.
+As a result of the fame and fortune he’s acquired, Hopkins has been able to help countless people in the fight to recover from substance abuse, in addition to supporting important environmental work. Though, initially, it wasn’t grounded in a ''noble'' cause, his fight was clearly worthwhile. We can all make powerful choices. We can all take back control by not blaming chance, fate, or anyone else for our outcomes.
 
-Meyer, another mentor of mine, I was reminded of the richness and diversity of his life. He achieved, experienced, and contributed more than dozens of people combined.
+It’s within our ability to cause everything to change. Rather than letting past hurtful experiences sap our energy and sabotage our success, we can use them to fuel positive, constructive change. Goals. As.
+
+I mentioned before, the compound effect is always working, and it will always take you somewhere. The question is, where? You can harness this relentless force and have it carry you to new heights. But you must know where you want to go.
+
+What goals, dreams, and destinations do you desire? When. I attended the funeral of Paul J. Meyer, another mentor of mine, I was reminded of the richness and diversity of his life.
+
+He achieved, experienced, and contributed more than dozens of people combined.
 
 
 <a id="sec-014045"></a>
 ### ⏱️ [01:40:45 - 01:45:48]
 
-His obituary made me reassess the quantity and size of the goals I set for myself. If Paul were here, he would tell us, if you are not making the progress that you would like to make and are capable of making, it is simply because your goals are not clearly defined. One of Paul’s most memorable quotes reminds us of the importance of goals, whatever you vividly imagine, ardently desire, sincerely believe, and enthusiastically act upon. Must inevitably come to pass.
+His obituary made me reassess the quantity and size of the goals. I set for myself. If Paul were here, he would tell us, if you are not making the progress that you would like to make and are capable of making, it is simply because your goals are not clearly defined. One of Paul’s most memorable quotes reminds us of the importance of goals, whatever you vividly imagine, ardently desire, sincerely believe, and enthusiastically act upon.
 
-The one skill most responsible for the abundance in my life is learning how to effectively set and achieve goals. Something almost magical happens when you organize and focus your creative power on a well-defined target. I’ve seen this time and again. The highest achievers in the world have all succeeded because they mapped out their visions.
+Must inevitably come to pass. The one skill most responsible for the abundance in my life is learning how to effectively set and achieve goals. Something almost magical happens when you organize and focus your creative power on a well-defined target. I’ve seen this time and again.
 
-The person who has a clear, compelling, and white-hot burning why will always defeat even the best of the best at doing the how. How goal-setting actually works, the mystery, secret, revealed. You only see, experience, and get what you look for. If you don’t know what to look for, you certainly won’t get it.
+The highest achievers in the world have all succeeded because they mapped out their visions. The person who has a clear, compelling, and white-hot burning why will always defeat even the best of the best at doing the how. How goal-setting actually works, the mystery, secret, revealed. You only see, experience, and get what you look for.
 
-By our very nature, we are goal-seeking creatures. Our brain is always trying to align our outer world with what we’re seeing and expecting in our inner world. So, when you instruct your brain to look for the things you want, you will begin to see them.
+If you don’t know what to look for, you certainly won’t get it. By our very nature, we are goal-seeking creatures. Our brain is always trying to align our outer world with what we’re seeing and expecting in our inner world. So, when you instruct your brain to look for the things you want, you will begin to see them.
 
 In fact, the object of your desire has probably always existed around you, but your mind and eyes weren’t open to, seeing, it. In reality, this is how the law of attraction really works. It is not the mysterious, esoteric voodoo it sometimes sounds like. It’s far simpler and more practical than that.
 
@@ -756,7 +822,7 @@ You are truly, attracting, it into your life. It wasn’t there before or access
 
 It’s, in fact, quite logical. Now, with this new perception, whatever your mind is thinking internally is what it will focus on and all of a sudden, see, within that 99.9% of remaining space. Here’s a well-worn example, because it’s so true, in shopping for or buying a new car, you suddenly start to see that model and make everywhere, right? It seems like there are tons of them on the streets all of a sudden when they weren’t there yesterday.
 
-But is that realistic? Of course not. They were there all along, but you weren’t paying attention to them. Thus, they didn’t really, exist, to you until you gave them your attention.
+But is that realistic? Of course, not. They were there all along, but you weren’t paying attention to them. Thus, they didn’t really, exist, to you until you gave them your attention.
 
 When you define your goals, you give your brain something new to look for and focus on. It’s as if you’re giving your mind a new set of eyes from which to see all the people, circumstances, conversations, resources, ideas, and creativity surrounding you. With this new perspective, and inner itinerary, your mind proceeds to match up on the outside what you want most on the inside, your goal. It’s that simple.
 
@@ -772,33 +838,41 @@ When most people set out to achieve new goals, they ask, okay, I have my goal, n
 <a id="sec-014548"></a>
 ### ⏱️ [01:45:48 - 01:50:49]
 
-I need to do to get it? It’s not a bad question, but it’s not the first question that needs to be addressed either. The question we should be asking ourselves is, who do I need to become? You probably know some people who seem to do all the right things, but still don’t produce the results they want, right?
+I need to do to get it? It’s not a bad question, but it’s not the first question that needs to be addressed either. The question we should be asking ourselves is, who do. I need to become?
 
-Why not? One thing Jim Rahn taught me is, if you want to have more, you have to become more. Success is not something you pursue. What you pursue will elude you, it can be like trying to chase butterflies.
+You probably know some people who seem to do all the right things, but still don’t produce the results they want, right? Why not? One thing Jim Rahn taught me is, if you want to have more, you have to become more. Success is not something you pursue.
 
-Success is something you attract by the person you become. When I understood that philosophy, wow, it revolutionized my life and personal growth. When I was single and ready to find my mate and get married, I made a long list of traits I desired in the perfect woman, for me. I filled more than 40 pages of a journal, front and back, describing her in great detail, her personality, character, key attributes, attitudes, and philosophies about life, even what kind of family she’d come from, including her culture and physical makeup, down to the texture of her hair.
+What you pursue will elude you, it can be like trying to chase butterflies. Success is something you attract by the person you become. When. I understood that philosophy, wow, it revolutionized my life and personal growth.
 
-I wrote in depth what our life would be like and what we’d do together. If I had then asked, what do I have to do to find and get this girl? I might still be on that butterfly chase. Instead, I looked back at the list and considered whether or not I embodied those same attributes myself.
+When. I was single and ready to find my mate and get married, I made a long list of traits. I desired in the perfect woman, for me. I filled more than 40 pages of a journal, front and back, describing her in great detail, her personality, character, key attributes, attitudes, and philosophies about life, even what kind of family she’d come from, including her culture and physical makeup, down to the texture of her hair.
 
-Did I have the very qualities I was expecting in her? I asked myself, what kind of a man would a woman like this be looking for? Who do I need to become to be attractive to a woman of this substance? I filled 40 more pages describing all the attributes, qualities, behaviors, attitudes, and characteristics I needed to become myself.
+I wrote in depth what our life would be like and what we’d do together. If. I had then asked, what do. I have to do to find and get this girl?
 
-Then I went to work on becoming and achieving those qualities. Guess what? It worked. As if she were peeled off the pages of my journal and appeared in front of me, my wife, Georgia, is exactly what I described and asked for, in almost eerie detail.
+I might still be on that butterfly chase. Instead, I looked back at the list and considered whether or not. I embodied those same attributes myself. Did.
 
-The key was my getting clear on who I’d have to be to attract and keep a woman of her quality, and then doing the work to achieve that. Behave yourself. Alright, let’s map out your process for achieving the goals you’ve decided upon. This is the doing process, or, in some cases, the stop doing process.
+I have the very qualities. I was expecting in her? I asked myself, what kind of a man would a woman like this be looking for? Who do.
 
-What stands between you and your goal is your behavior. Do you need to stop doing anything so the compound effect isn’t taking you into a downward spiral? Similarly, what do you need to start doing to change your trajectory so that it’s headed in the most beneficial direction?
+I need to become to be attractive to a woman of this substance? I filled 40 more pages describing all the attributes, qualities, behaviors, attitudes, and characteristics. I needed to become myself. Then.
 
-In other words, what habits and behaviors do you need to subtract from and add to your life? Your life comes down to this formula. That’s why it’s imperative to figure out which behaviors are blocking the path that leads to your goal, and which behaviors will help you accomplish your goal. You may think you’ve got a handle on all your bad habits, but I bet good money you’re wrong.
+I went to work on becoming and achieving those qualities. Guess what? It worked. As if she were peeled off the pages of my journal and appeared in front of me, my wife, Georgia, is exactly what.
 
-Again, that’s why tracking is so effective. I mean, honestly, do you know how many hours of TV you really watch every day? How many hours do you spend tuned to news channels or keeping up with the goals and accomplishments of others on the sports or style networks? Do you know how many cans of soda you drink?
+I described and asked for, in almost eerie detail. The key was my getting clear on who. I’d have to be to attract and keep a woman of her quality, and then doing the work to achieve that. Behave yourself.
 
-Or how many hours you spend doing non-essential ''work'' on the computer, Facebook, reading online gossip, etc.? As I emphasized in the previous chapter, your first job is to become aware of how you’re behaving. Where have you fallen asleep on the job and developed an unconscious bad habit that’s leaving you astray? Not long ago, a successful executive with whom I serve on a nonprofit board hired me to mentor him on improving his productivity.
+Alright, let’s map out your process for achieving the goals you’ve decided upon. This is the doing process, or, in some cases, the stop doing process. What stands between you and your goal is your behavior. Do you need to stop doing anything so the compound effect isn’t taking you into a downward spiral?
 
-He was doing well, but knew he could optimize his time and output further with some coaching. I had him track his activities for a week, and I noticed something I see too often. He spent an incredible amount of time reviewing the news, 45 minutes in the morning reading the newspaper, another 30 minutes listening to news on his morning commute, and an equal amount of time tuning in again on his drive back home. During his workday, he’d check Yahoo News several times, spending at least 20 minutes in total.
+Similarly, what do you need to start doing to change your trajectory so that it’s headed in the most beneficial direction? In other words, what habits and behaviors do you need to subtract from and add to your life? Your life comes down to this formula. That’s why it’s imperative to figure out which behaviors are blocking the path that leads to your goal, and which behaviors will help you accomplish your goal.
 
-When he got home, he’d catch the last 15 minutes of the local news while greeting his family. Then he’d catch up on 30 minutes of sports news and 30 minutes of the 10 o’clock news before going to bed. In total, he was spending 3.5 hours with the news each day. This man wasn’t an economist or a commodities trader, or in any profession that lived or died by the latest news.
+You may think you’ve got a handle on all your bad habits, but. I bet good money you’re wrong. Again, that’s why tracking is so effective. I mean, honestly, do you know how many hours of TV you really watch every day?
 
-The time he spent with the paper and news programs on radio and TV greatly exceeded what he needed to be a knowledgeable voter and contributing member of society, or even to enhance his own personal interests.
+How many hours do you spend tuned to news channels or keeping up with the goals and accomplishments of others on the sports or style networks? Do you know how many cans of soda you drink? Or how many hours you spend doing non-essential ''work'' on the computer, Facebook, reading online gossip, etc.? As.
+
+I emphasized in the previous chapter, your first job is to become aware of how you’re behaving. Where have you fallen asleep on the job and developed an unconscious bad habit that’s leaving you astray? Not long ago, a successful executive with whom. I serve on a nonprofit board hired me to mentor him on improving his productivity.
+
+He was doing well, but knew he could optimize his time and output further with some coaching. I had him track his activities for a week, and. I noticed something. I see too often.
+
+He spent an incredible amount of time reviewing the news, 45 minutes in the morning reading the newspaper, another 30 minutes listening to news on his morning commute, and an equal amount of time tuning in again on his drive back home. During his workday, he’d check Yahoo News several times, spending at least 20 minutes in total. When he got home, he’d catch the last 15 minutes of the local news while greeting his family. Then he’d catch up on 30 minutes of sports news and 30 minutes of the 10 o’clock news before going to bed.
+
+In total, he was spending 3.5 hours with the news each day. This man wasn’t an economist or a commodities trader, or in any profession that lived or died by the latest news. The time he spent with the paper and news programs on radio and TV greatly exceeded what he needed to be a knowledgeable voter and contributing member of society, or even to enhance his own personal interests.
 
 
 <a id="sec-015049"></a>
@@ -822,7 +896,7 @@ Five strategies for eliminating bad habits. Your habits are learned, therefore, 
 
 And for that, you need a new game plan. The following are my all-time favorite game changers. 1. Identify your triggers. Look at your list of bad habits.
 
-For each one you’ve written down, identify what triggers it. Figure out what I call, the big fours, the, who, the, what, the, where, and the, when, underlying each bad behavior.
+For each one you’ve written down, identify what triggers it. Figure out what. I call, the big fours, the, who, the, what, the, where, and the, when, underlying each bad behavior.
 
 For example, are you more likely to drink too much when you’re with certain people? Is there a particular time of day when you just have to have something sweet? What emotions tend to provoke your worst habits, stress, fatigue, anger, nervousness, boredom? When do you experience those emotions?
 
@@ -830,9 +904,9 @@ Who are you with? Where are you? Or what are you doing? What situations prompt y
 
 Take a closer look at your routines. What do you typically say when you wake up? When you’re on a coffee or lunch break? When you’ve gotten home from a long day?
 
-Again, get out your notebook or use the Bad Habit Killer worksheet here, which you can also download for free at www.thecompoundeffect.com slash free closing parenthesis and write down your triggers. This simple action alone increases your awareness exponentially, but, of course, this isn’t the whole enchilada, because as we’ve discussed, increasing your awareness of a bad habit isn’t enough to break it. 2. Clean House. Get to scrubbing, and I mean this literally and figuratively.
+Again, get out your notebook or use the Bad Habit Killer worksheet here, which you can also download for free at www.thecompoundeffect.com slash free closing parenthesis and write down your triggers. This simple action alone increases your awareness exponentially, but, of course, this isn’t the whole enchilada, because as we’ve discussed, increasing your awareness of a bad habit isn’t enough to break it. 2. Clean House. Get to scrubbing, and.
 
-If you want to stop drinking alcohol, remove every drop of it from your house, and your vacation house, if you have one. Get rid of the glasses, any fancy utensils or do-dads you use when you drink, and those decorative olives, too.
+I mean this literally and figuratively. If you want to stop drinking alcohol, remove every drop of it from your house, and your vacation house, if you have one. Get rid of the glasses, any fancy utensils or do-dads you use when you drink, and those decorative olives, too.
 
 
 <a id="sec-015552"></a>
@@ -842,59 +916,69 @@ If you want to stop drinking coffee, heave the coffee maker, and give that bag o
 
 Trust me, everyone in your family is better off without it. Don’t bring it into the house, period. Get rid of whatever enables your bad habits. 3. Swap it.
 
-Look again at your list of bad habits. How can you alter them so that they’re not as harmful? Can you replace them with healthier habits or drop-kick them altogether? As in, for good, anyone who knows me knows that I love something sweet after a meal.
+Look again at your list of bad habits. How can you alter them so that they’re not as harmful? Can you replace them with healthier habits or drop-kick them altogether? As in, for good, anyone who knows me knows that.
 
-If there is ice cream in the house, the something sweet turns into a triple-scoop banana split with all the fixings, 1,255 calories. Instead, I replace that bad habit with two Hershey’s Kisses, 50 calories. I’m still able to satisfy the sweet tooth without having to spend the extra hour on the treadmill just to get back to even. My sister-in-law started a habit of eating crunchy and salty junk food when she watched TV.
+I love something sweet after a meal. If there is ice cream in the house, the something sweet turns into a triple-scoop banana split with all the fixings, 1,255 calories. Instead, I replace that bad habit with two Hershey’s Kisses, 50 calories. I’m still able to satisfy the sweet tooth without having to spend the extra hour on the treadmill just to get back to even.
 
-She’d crunch through a whole bag of tortilla chips with little actual awareness. Then she realized that what she really enjoyed was the crunchy sensation in her mouth. She decided to replace her bad habit with crunching on carrot and celery sticks, and raw broccoli spears. She got the same joyful sensation, and her FDA recommended vegetable servings at the same time.
+My sister-in-law started a habit of eating crunchy and salty junk food when she watched TV. She’d crunch through a whole bag of tortilla chips with little actual awareness. Then she realized that what she really enjoyed was the crunchy sensation in her mouth. She decided to replace her bad habit with crunching on carrot and celery sticks, and raw broccoli spears.
 
-A guy who used to work for me had a habit of drinking 8 to 10 Diet Cokes a day, that’s a bad habit. I suggested he replace them with low-sodium, carbonated water, adding fresh lemon, lime, or oranges. He did this for about a month before realizing he didn’t need the carbonation at all, and switched to just plain water. Play with this, and see what behaviors you can replace, delete, or swap out. 4.
+She got the same joyful sensation, and her FDA recommended vegetable servings at the same time. A guy who used to work for me had a habit of drinking 8 to 10 Diet Cokes a day, that’s a bad habit. I suggested he replace them with low-sodium, carbonated water, adding fresh lemon, lime, or oranges. He did this for about a month before realizing he didn’t need the carbonation at all, and switched to just plain water.
 
-Ease In I live near the Pacific Ocean. Whenever I get in the water, I get my ankles acclimated first, then walk in up to my knees, then it’s my waist and chest, before taking the plunge. Some people just run and dive in and get it over with, good for them. Not me.
+Play with this, and see what behaviors you can replace, delete, or swap out. 4. Ease. In I live near the Pacific Ocean. Whenever.
 
-I like to ease my way in, probably residual trauma from my childhood, as you’ll see in the next strategy. For some of your long-standing and deep-rooted habits, it may be more effective to take small steps to ease into unwinding them. You may have spent decades repeating, cementing, and fortifying those habits, so it can be wise to give yourself some time to unravel them, one step at a time. A few years, ago my wife’s doctor required she cut out caffeine from her diet for several months.
+I get in the water, I get my ankles acclimated first, then walk in up to my knees, then it’s my waist and chest, before taking the plunge. Some people just run and dive in and get it over with, good for them. Not me. I like to ease my way in, probably residual trauma from my childhood, as you’ll see in the next strategy.
 
-We both love our coffee, so if she was going to have to suffer, I decided it was only fair that we do it together. We first went to 50, 50-50% decaffeinated and 50% regular for a week. Then 100% decaf for another week. Then Earl Grey decaf tea for a week, followed by decaf green tea.
+For some of your long-standing and deep-rooted habits, it may be more effective to take small steps to ease into unwinding them. You may have spent decades repeating, cementing, and fortifying those habits, so it can be wise to give yourself some time to unravel them, one step at a time. A few years, ago my wife’s doctor required she cut out caffeine from her diet for several months. We both love our coffee, so if she was going to have to suffer, I decided it was only fair that we do it together.
 
-It took us a month to get there, but we didn’t suffer even a moment of caffeine withdrawal, no headaches, no sleepiness, no brain fog, no nothing. However, if we had gone cold turkey, well, I shiver at the thought. 5. Or jump in. Not everyone is wired the same way.
+We first went to 50, 50-50% decaffeinated and 50% regular for a week. Then 100% decaf for another week. Then Earl Grey decaf tea for a week, followed by decaf green tea. It took us a month to get there, but we didn’t suffer even a moment of caffeine withdrawal, no headaches, no sleepiness, no brain fog, no nothing.
 
-Some researchers have found that it can be paradoxically easier for people to make lifestyle changes if they change a great many bad habits at once. For example, pioneering cardiologist Dr. Dean Ornish found he could reverse people’s advanced heart disease, without medication or surgery, with dramatic lifestyle changes. He discovered they often found it easier to say goodbye to almost all their bad habits at once. He enrolled them in a training session where he substituted a very low-fat diet for their fat and cholesterol-rich fare.
+However, if we had gone cold turkey, well, I shiver at the thought. 5. Or jump in. Not everyone is wired the same way. Some researchers have found that it can be paradoxically easier for people to make lifestyle changes if they change a great many bad habits at once.
 
-The program included exercise, getting them off their couches and walking or jogging, as well as stress reduction techniques, and other heart-healthy habits. Amazingly, in less than a month, these patients learned to let go of a lifetime of bad habits and embrace new ones, and they went on to experience dramatic health benefits after a year as a result. Personally, I find this to be the exception, not the rule, but you’ll have to figure out the strategy that works best for you. When I was a kid, my family camped at a little-known spot called Lake Rollins.
+For example, pioneering cardiologist Dr. Dean Ornish found he could reverse people’s advanced heart disease, without medication or surgery, with dramatic lifestyle changes. He discovered they often found it easier to say goodbye to almost all their bad habits at once. He enrolled them in a training session where he substituted a very low-fat diet for their fat and cholesterol-rich fare.
+
+The program included exercise, getting them off their couches and walking or jogging, as well as stress reduction techniques, and other heart-healthy habits. Amazingly, in less than a month, these patients learned to let go of a lifetime of bad habits and embrace new ones, and they went on to experience dramatic health benefits after a year as a result. Personally, I find this to be the exception, not the rule, but you’ll have to figure out the strategy that works best for you.
+
+When. I was a kid, my family camped at a little-known spot called Lake Rollins.
 
 
 <a id="sec-020057"></a>
 ### ⏱️ [02:00:57 - 02:06:02]
 
-The lake, situated not far from the Sierras in northern California, is fed from glaciers that melt from atop the mountains of Lake Tahoe. The water’s ridiculously cold. Every day we were there, my dad insisted that I water-ski in the polar pond. All day I would be quietly anxious about the dreaded call to go in.
+The lake, situated not far from the Sierras in northern California, is fed from glaciers that melt from atop the mountains of Lake Tahoe. The water’s ridiculously cold. Every day we were there, my dad insisted that. I water-ski in the polar pond.
 
-I loved to water-ski, I just hated getting in the water. A slight conflict of interest, because of course, there was no separating one from the other. Dad made sure that I never missed my turn, sometimes by actually physically throwing me in. After a dozen or so excruciating seconds of near-hypothermia, I always found the water refreshing and rejuvenating.
+All day. I would be quietly anxious about the dreaded call to go in. I loved to water-ski, I just hated getting in the water. A slight conflict of interest, because of course, there was no separating one from the other.
 
-My anticipation of getting in the water was actually worse than the reality of just jumping in. Once my body acclimated, water-skiing was a blast, and, yet, I went through this cycle of dread and relief each and every time. That experience isn’t unlike that of suddenly dropping or changing a bad habit. For a short while it can feel excruciating, or at least quite uncomfortable.
+Dad made sure that. I never missed my turn, sometimes by actually physically throwing me in. After a dozen or so excruciating seconds of near-hypothermia, I always found the water refreshing and rejuvenating. My anticipation of getting in the water was actually worse than the reality of just jumping in.
 
-But just as the body adjusts to a changing environment through a process called homeostasis, we have a similar homeostatic ability to adjust to unfamiliar behavior changes. And usually, we can regulate ourselves physiologically and psychologically to the new circumstances quite quickly. Sometimes waiting in just won’t do, sometimes you really do have to jump in. I want you to ask yourself now, where can I start slow and hold myself accountable?
+Once my body acclimated, water-skiing was a blast, and, yet, I went through this cycle of dread and relief each and every time. That experience isn’t unlike that of suddenly dropping or changing a bad habit. For a short while it can feel excruciating, or at least quite uncomfortable. But just as the body adjusts to a changing environment through a process called homeostasis, we have a similar homeostatic ability to adjust to unfamiliar behavior changes.
 
-And, where do I need to take that bigger leap? Where have I been avoiding pain or discomfort, when I know deep down that I’ll adapt in no time if I just go for it? One of my former partners has a brother who was a beer-guzzling, bar-brawling, life of the party alcoholic. He drank at lunch, with dinner, after dinner, and all weekend long.
+And usually, we can regulate ourselves physiologically and psychologically to the new circumstances quite quickly. Sometimes waiting in just won’t do, sometimes you really do have to jump in. I want you to ask yourself now, where can. I start slow and hold myself accountable?
 
-One day he was at a wedding for a former college roommate when he saw his friend’s brother, who was ten years older than both of them, but looked ten years younger. He watched the man dance, laugh, and play during the wedding, exuding a vitality he hadn’t felt in many years. He made a decision on the spot that he would never touch a drop of alcohol again. Club turkey, that was it, never again.
+And, where do. I need to take that bigger leap? Where have. I been avoiding pain or discomfort, when.
 
-And he hasn’t in more than six years. When it comes to changing bad habits at home, I’m a toe-dipper. But in my professional life, I find that taking the big plunge is far more effective. Whether committing to a new business or dealing with potential new clients, partners, or investors, toe-dipping usually doesn’t cut it.
+I know deep down that. I’ll adapt in no time if. I just go for it? One of my former partners has a brother who was a beer-guzzling, bar-brawling, life of the party alcoholic.
 
-Each time, I think of Lake Rollins and know it will be painful at first, but I remember that within little time, it will be exhilarating, and well worth the temporary discomfort. Run a vice check. I’m not suggesting you cut out every, bad, thing in your life. Most everything is good in moderation.
+He drank at lunch, with dinner, after dinner, and all weekend long. One day he was at a wedding for a former college roommate when he saw his friend’s brother, who was ten years older than both of them, but looked ten years younger. He watched the man dance, laugh, and play during the wedding, exuding a vitality he hadn’t felt in many years. He made a decision on the spot that he would never touch a drop of alcohol again.
 
-But, how can you tell whether a bad habit is becoming the boss of you? I believe in testing my vices. Every so often I go on a, vice fast. I pick one vice, and check to be sure I’m still the alpha dog in our relationship.
+Club turkey, that was it, never again. And he hasn’t in more than six years. When it comes to changing bad habits at home, I’m a toe-dipper. But in my professional life, I find that taking the big plunge is far more effective.
 
-My vices are coffee, ice cream, wine, and movies. I already told you about my ice cream obsession. When it comes to wine, I want to be sure I’m enjoying a glass and celebrating the day, not drowning a bad mood. About every three months, I pick one vice and abstain for 30 days.
+Whether committing to a new business or dealing with potential new clients, partners, or investors, toe-dipping usually doesn’t cut it. Each time, I think of Lake Rollins and know it will be painful at first, but. I remember that within little time, it will be exhilarating, and well worth the temporary discomfort. Run a vice check.
 
-This probably stems from my Catholic Lent upbringing. I love proving to myself that I’m still in charge. Try this yourself. Pick a vice, something you do in moderation, but you know doesn’t contribute to your highest good, and take yourself on a 30-day wagon run.
+I’m not suggesting you cut out every, bad, thing in your life. Most everything is good in moderation. But, how can you tell whether a bad habit is becoming the boss of you? I believe in testing my vices.
 
-If you find it seriously difficult to abstain for those 30 days, you may have found a habit worth cutting out of your life. Game changers. Six techniques for installing good habits. Now that we have helped you eliminate the bad habits that are taking you in the wrong direction, we need to create new choices, behaviors, and ultimately habits that will finally take you in the direction of your grandest desires.
+Every so often. I go on a, vice fast. I pick one vice, and check to be sure. I’m still the alpha dog in our relationship.
 
-Eliminating a bad habit means removing something from your routine. Installing a new, more productive habit requires an entirely different skill set. You’re planting the tree, watering it, fertilizing it, and making sure it’s properly rooted. Doing so takes effort, time, and practice.
+My vices are coffee, ice cream, wine, and movies. I already told you about my ice cream obsession. When it comes to wine, I want to be sure. I’m enjoying a glass and celebrating the day, not drowning a bad mood.
 
-Here are my favorite techniques for putting good habits in place. Leadership expert John C. Maxwell said, you will never change your life until you change something you do daily. The secret of your success is found in your daily routine.
+About every three months, I pick one vice and abstain for 30 days. This probably stems from my Catholic Lent upbringing. I love proving to myself that. I’m still in charge.
 
-According to research, it takes 300 instances of positive reinforcement to turn a new habit
+Try this yourself. Pick a vice, something you do in moderation, but you know doesn’t contribute to your highest good, and take yourself on a 30-day wagon run. If you find it seriously difficult to abstain for those 30 days, you may have found a habit worth cutting out of your life. Game changers.
+
+Six techniques for installing good habits. Now that we have helped you eliminate the bad habits that are taking you in the wrong direction, we need to create new choices, behaviors, and ultimately habits that will finally take you in the direction of your grandest desires. Eliminating a bad habit means removing something from your routine. Installing a new, more productive habit requires an entirely different skill set.
+
+You’re planting the tree, watering it, fertilizing it, and making sure it’s properly rooted. Doing so takes effort, time, and practice. Here are my favorite techniques for putting good habits in place. Leadership expert John C.
+
+Maxwell said, you will never change your life until you change something you do daily. The secret of your success is found in your daily routine. According to research, it takes 300 instances of positive reinforcement to turn a new habit
 
 
 <a id="sec-020602"></a>
@@ -908,25 +992,27 @@ The key is staying aware. If you really want to maintain a good habit, make sure
 
 If you join a gym that’s 30 miles away, you won’t go. If you’re a night owl but the gym closes at 6 p.m., it won’t work for you. Your gym must be close and convenient, and fit into your schedule. If you want to lose weight and eat healthier, make sure your fridge and pantry are stocked with healthy options.
 
-Want to make sure you don’t binge on vending machine snacks when you get midday hunger pangs? Keep nuts and healthy snacks in your desk drawer. The easiest thing to grab when you’re hungry is empty carbs. One strategy I use is to have protein on hand.
+Want to make sure you don’t binge on vending machine snacks when you get midday hunger pangs? Keep nuts and healthy snacks in your desk drawer. The easiest thing to grab when you’re hungry is empty carbs. One strategy.
 
-I cook up a bunch of chicken on Sunday, and package it and have it ready for the week. One of my most distracting and destructive habits is my email addiction. Seriously, this is no laughing matter. I can lose hours of focus every day with the massive amounts of email flooding my inbox if I’m not vigilant about staying organized and focused.
+I use is to have protein on hand. I cook up a bunch of chicken on Sunday, and package it and have it ready for the week. One of my most distracting and destructive habits is my email addiction. Seriously, this is no laughing matter.
 
-To set up the discipline of my new habit of only checking email three times a day, I turned off all alarms, all automatic receive functions, and shut the program down when I’m not in one of those three windows of allocated time. I have to build the walls around that time vortex, lest I keep falling in all day. 2. Think addition, not subtraction. When I interviewed Montel Williams for success, he told me about the strict diet he maintains because of the disease that afflicts him, multiple sclerosis.
+I can lose hours of focus every day with the massive amounts of email flooding my inbox if. I’m not vigilant about staying organized and focused. To set up the discipline of my new habit of only checking email three times a day, I turned off all alarms, all automatic receive functions, and shut the program down when. I’m not in one of those three windows of allocated time.
 
-Montel has adopted something called, the add-in principle, and I think it’s a wildly effective tool for anyone with any goal. It’s not so much what you attempt to take out of your diet, he explained to me. It’s what you put in instead. This has become his analogy for life.
+I have to build the walls around that time vortex, lest. I keep falling in all day. 2. Think addition, not subtraction. When.
 
-Instead of thinking that he has to deprive himself, or take something out of his diet, e.g., I can’t eat a hamburger, chocolate, or dairy, he thinks about what he can have instead, e.g., today I’m going to have a salad and steamed vegetables and fresh figs. He fills his focus and his belly with what he can have, so he no longer has attention or hunger for what he can’t. Instead of focusing on what he has to sacrifice, Montel thinks about what he gets to, add-in.
+I interviewed Montel Williams for success, he told me about the strict diet he maintains because of the disease that afflicts him, multiple sclerosis. Montel has adopted something called, the add-in principle, and. I think it’s a wildly effective tool for anyone with any goal. It’s not so much what you attempt to take out of your diet, he explained to me.
 
-The result is a lot more powerful. A friend of mine wanted to break his bad habit of wasting too much time watching TV. To help out, I asked him what he’d like to do with 3 hours of free time if he had it. He said he would play with his kids more.
+It’s what you put in instead. This has become his analogy for life. Instead of thinking that he has to deprive himself, or take something out of his diet, e.g., I can’t eat a hamburger, chocolate, or dairy, he thinks about what he can have instead, e.g., today. I’m going to have a salad and steamed vegetables and fresh figs.
 
-I also asked him to pick a hobby he’d always wanted to explore. His choice was photography. A total techie, he went out and got all this high-tech editing equipment, which he happily toted along on more family outings so he could take great photos of his kids. Then he’d spend hours in the evening editing and putting together slideshows and photo albums for the whole family to enjoy.
+He fills his focus and his belly with what he can have, so he no longer has attention or hunger for what he can’t. Instead of focusing on what he has to sacrifice, Montel thinks about what he gets to, add-in. The result is a lot more powerful. A friend of mine wanted to break his bad habit of wasting too much time watching TV.
 
-They ended up spending time together, laughing and remembering how much fun they’d had. Because he was so focused on his kids and photography, he no longer had the time nor the desire to sit around and watch TV at night. He realized he’d been zoning out on it because it was an easy mental escape from his workday. By replacing TV viewing with his new habit of playing games with his kids and working on his photography hobby he discovered passions with far more power and far bigger payoffs.
+To help out, I asked him what he’d like to do with 3 hours of free time if he had it. He said he would play with his kids more. I also asked him to pick a hobby he’d always wanted to explore. His choice was photography.
 
-What can you choose to, add-in, so you can enrich your life experience? 3. Go for a PDA, public display of accountability. Picture any public official taking the oath of office. I do solemnly swear.
+A total techie, he went out and got all this high-tech editing equipment, which he happily toted along on more family outings so he could take great photos of his kids. Then he’d spend hours in the evening editing and putting together slideshows and photo albums for the whole family to enjoy. They ended up spending time together, laughing and remembering how much fun they’d had. Because he was so focused on his kids and photography, he no longer had the time nor the desire to sit around and watch TV at night.
 
-And then comes the speech on how she’ll turn her campaign promises into boots on the ground realities. Once she puts it out there on the public record, she knows that she’ll be held responsible for any action that rolls back on her promises and praised for any progress toward her goals.
+He realized he’d been zoning out on it because it was an easy mental escape from his workday. By replacing TV viewing with his new habit of playing games with his kids and working on his photography hobby he discovered passions with far more power and far bigger payoffs. What can you choose to, add-in, so you can enrich your life experience? 3. Go for a PDA, public display of accountability.
+
+Picture any public official taking the oath of office. I do solemnly swear. And then comes the speech on how she’ll turn her campaign promises into boots on the ground realities. Once she puts it out there on the public record, she knows that she’ll be held responsible for any action that rolls back on her promises and praised for any progress toward her goals.
 
 
 <a id="sec-021104"></a>
@@ -940,59 +1026,63 @@ She just smoked her last cigarette. I then placed a huge wall calendar on the ou
 
 Zelda didn’t want to quit on that chart, quit on her co-workers, or quit on herself. But she did quit smoking. Tell your family, tell your friends, tell Facebook and Twitter. Get the word out that there’s a new sheriff in town, and you’re in charge. 4.
 
-Find a success buddy. There are few things as powerful as two people locked arm and arm marching toward the same goal. To up your chances of success, get a success buddy, someone who’ll keep you accountable as you cement your new habit while you return the favor. I, for example, have what I call a, peak performance partner.
+Find a success buddy. There are few things as powerful as two people locked arm and arm marching toward the same goal. To up your chances of success, get a success buddy, someone who’ll keep you accountable as you cement your new habit while you return the favor. I, for example, have what.
 
-Every Friday at 11 a.m. sharp, we have a 30-minute call during which we trade our wins, losses, fixes, ah-has, and solicit the needed feedback and hold each other accountable. You might seek out a success buddy for regular walks, runs, or dates at the gym, or to meet to discuss and trade personal development books. 5. Competition and camaraderie. There’s nothing like a friendly contest to whet your competitive spirit and immerse yourself in a new habit with a bang. Dr. Mehmet Oz once told me in an interview, if people would just walk a thousand more steps per day, they would change their lives.
+I call a, peak performance partner. Every Friday at 11 a.m. sharp, we have a 30-minute call during which we trade our wins, losses, fixes, ah-has, and solicit the needed feedback and hold each other accountable. You might seek out a success buddy for regular walks, runs, or dates at the gym, or to meet to discuss and trade personal development books. 5. Competition and camaraderie.
 
-VideoPlus, the parent company for success, held a step competition using shoe pedometers to count steps. Employees organized into teams and competed to see which team could accumulate the most steps. It was amazing to me that people who didn’t previously exercise for their own health or benefit suddenly started walking 4, 5, or 6 miles a day. At lunch, they walked in the parking lot.
+There’s nothing like a friendly contest to whet your competitive spirit and immerse yourself in a new habit with a bang. Dr. Mehmet Oz once told me in an interview, if people would just walk a thousand more steps per day, they would change their lives. VideoPlus, the parent company for success, held a step competition using shoe pedometers to count steps.
 
-If they knew they had a conference call, suddenly they were out doing it on their cell phones while they walked. Because of the competition, they found ways to increase their activity. Everyone’s steps were tracked, and the whole office could see who was slacking off and who was stepping up. People’s step tallies increased every day, yet as soon as the competition was over, I was fascinated to observe that the step count completely dropped off the cliff, by more than 60% just one month after the competition.
+Employees organized into teams and competed to see which team could accumulate the most steps. It was amazing to me that people who didn’t previously exercise for their own health or benefit suddenly started walking 4, 5, or 6 miles a day. At lunch, they walked in the parking lot. If they knew they had a conference call, suddenly they were out doing it on their cell phones while they walked.
 
-When the competition was reorganized again, the step count shot right back up. All it took was a little competition to keep people’s engines revved, and they got a wonderful sense of community and shared experience and camaraderie in the bargain. What kind of friendly competition can you organize with your friends, colleagues, or teammates? How can you inject fun rivalry and a competitive spirit into your new habit? 6.
+Because of the competition, they found ways to increase their activity. Everyone’s steps were tracked, and the whole office could see who was slacking off and who was stepping up. People’s step tallies increased every day, yet as soon as the competition was over, I was fascinated to observe that the step count completely dropped off the cliff, by more than 60% just one month after the competition. When the competition was reorganized again, the step count shot right back up.
 
-Celebrate. All work and no play make Jack a dull boy, and it’s a recipe for backsliding. There should be a time to celebrate, to enjoy some of the fruits of your victories along the way. You can’t go through this thing sacrificing yourself with no benefit.
+All it took was a little competition to keep people’s engines revved, and they got a wonderful sense of community and shared experience and camaraderie in the bargain. What kind of friendly competition can you organize with your friends, colleagues, or teammates? How can you inject fun rivalry and a competitive spirit into your new habit? 6. Celebrate.
 
-You’ve got to find little rewards to give yourself every month, every week, every day, even something small to acknowledge that you’ve held yourself to a new behavior. Maybe time to yourself to take a walk, relax in the bath, or read something just for fun. For bigger milestones, book a massage or have dinner at your favorite restaurant. And promise yourself a nice big pot of gold when you reach the end of the rainbow.
+All work and no play make Jack a dull boy, and it’s a recipe for backsliding. There should be a time to celebrate, to enjoy some of the fruits of your victories along the way. You can’t go through this thing sacrificing yourself with no benefit. You’ve got to find little rewards to give yourself every month, every week, every day, even something small to acknowledge that you’ve held yourself to a new behavior.
 
-Change is hard. You pee. There is a one thing that 99% of failures, and, successful, folks have in common. They all hate doing the same things.
+Maybe time to yourself to take a walk, relax in the bath, or read something just for fun. For bigger milestones, book a massage or have dinner at your favorite restaurant. And promise yourself a nice big pot of gold when you reach the end of the rainbow. Change is hard.
 
-The difference is successful people do them anyway. Change is hard. That’s why people don’t transform their bad habits, and why so many people end up unhappy and unhealthy. What excites me about this reality, however, is that if change were easy, and everyone were doing it, it would be much more difficult for you and me to stand out and become an extraordinary success.
+You pee. There is a one thing that 99% of failures, and, successful, folks have in common. They all hate doing the same things. The difference is successful people do them anyway.
 
-Ordinary is easy. Extra ordinary is what will separate you from the crowd.
+Change is hard. That’s why people don’t transform their bad habits, and why so many people end up unhappy and unhealthy. What excites me about this reality, however, is that if change were easy, and everyone were doing it, it would be much more difficult for you and me to stand out and become an extraordinary success. Ordinary is easy.
+
+Extra ordinary is what will separate you from the crowd.
 
 
 <a id="sec-021605"></a>
 ### ⏱️ [02:16:05 - 02:21:08]
 
-Personally, I’m always happy when something is hard. Why? Because I know that most people won’t do what it takes, therefore, it will be easier for me to step in front of the pack and take the lead. I love what Dr. Martin Luther King Jr. said so eloquently.
+Personally, I’m always happy when something is hard. Why? Because. I know that most people won’t do what it takes, therefore, it will be easier for me to step in front of the pack and take the lead.
 
-The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge. When you press on despite difficulty, tedium, and hardship, that’s when you earn your improvement and gain strides on the competition. If it’s hard, awkward, or tedious, so be it. Just do it, and keep doing it, and the magic of the compound effect will reward you handsomely.
+I love what Dr. Martin Luther King Jr. said so eloquently. The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge. When you press on despite difficulty, tedium, and hardship, that’s when you earn your improvement and gain strides on the competition.
 
-Be patient. When it comes to breaking old bad habits and starting new ones, remember to be patient with yourself. If you’ve spent 20, 30, or 40 years or more repeating the behaviors you’re now trying to change, you’ve got to expect it’s going to take time and effort before you see lasting results. Science shows that patterns of thoughts and actions repeated many times create what’s called a neuro-signature or a brain groove, or a series of interconnected neurons that carry the thought patterns of a particular habit.
+If it’s hard, awkward, or tedious, so be it. Just do it, and keep doing it, and the magic of the compound effect will reward you handsomely. Be patient. When it comes to breaking old bad habits and starting new ones, remember to be patient with yourself.
 
-Attention feeds the habit. When we give our attention to a habit, we activate the brain groove, releasing the thoughts, desires, and actions related to that habit. Luckily, our brains are malleable. If we stop giving attention to the bad habits, those grooves weaken.
+If you’ve spent 20, 30, or 40 years or more repeating the behaviors you’re now trying to change, you’ve got to expect it’s going to take time and effort before you see lasting results. Science shows that patterns of thoughts and actions repeated many times create what’s called a neuro-signature or a brain groove, or a series of interconnected neurons that carry the thought patterns of a particular habit. Attention feeds the habit. When we give our attention to a habit, we activate the brain groove, releasing the thoughts, desires, and actions related to that habit.
 
-When we form new habits, we drive new grooves deeper with each repetition, eventually overpowering the previous ones. Creating new habits, and burning new grooves into your brain, will take time. Be patient with yourself. If you fall off the wagon, brush yourself off, not beat yourself up, and get back on.
+Luckily, our brains are malleable. If we stop giving attention to the bad habits, those grooves weaken. When we form new habits, we drive new grooves deeper with each repetition, eventually overpowering the previous ones. Creating new habits, and burning new grooves into your brain, will take time.
 
-No problem. We all stumble. Just go again and try another strategy. Reinforce your commitment and consistency.
+Be patient with yourself. If you fall off the wagon, brush yourself off, not beat yourself up, and get back on. No problem. We all stumble.
 
-When you press on, you will receive huge payoffs. Speaking of payoffs, the next chapter is where we really start breaking away from the herd, where the multiplying effect really takes shape. With all the disciplined effort you’ve applied from the fundamentals of the first three chapters, here’s where you get rewarded, big time. Put the compound effect to work for you.
+Just go again and try another strategy. Reinforce your commitment and consistency. When you press on, you will receive huge payoffs. Speaking of payoffs, the next chapter is where we really start breaking away from the herd, where the multiplying effect really takes shape.
 
-Summary action steps. Identify your three best habits, those that support your most important goal. Identify your three bad habits that take you off course from your most important goal. Identify three new habits you need to develop to put you on track toward your most important goal.
+With all the disciplined effort you’ve applied from the fundamentals of the first three chapters, here’s where you get rewarded, big time. Put the compound effect to work for you. Summary action steps. Identify your three best habits, those that support your most important goal.
 
-Download the habits sheet at www.thecompoundeffect.com slash free identify your core motivation. Discover what gets you fired up and keeps you fired up to achieve big results. Download the core values assessment document at www.thecompoundeffect.com slash free find your why power. Design your concise, compelling, and awe-inspiring goals.
+Identify your three bad habits that take you off course from your most important goal. Identify three new habits you need to develop to put you on track toward your most important goal. Download the habits sheet at www.thecompoundeffect.com slash free identify your core motivation. Discover what gets you fired up and keeps you fired up to achieve big results.
 
-Download the goal sheet at www.thecompoundeffect.com slash free order your copy of living your best year ever a proven system for achieving big goals from www.success.com slash bestierever to guide you through the designing process as well as the achieving process all year long.
+Download the core values assessment document at www.thecompoundeffect.com slash free find your why power. Design your concise, compelling, and awe-inspiring goals. Download the goal sheet at www.thecompoundeffect.com slash free order your copy of living your best year ever a proven system for achieving big goals from www.success.com slash bestierever to guide you through the designing process as well as the achieving process all year long.
 
-#### Chapter 4. Momentum. I’d like to introduce you to a very good friend of mine. This friend, also close to Bill Gates, Steve Jobs, Richard Branson, Michael Jordan, Lance Armstrong, Michael Phelps, and every other superachiever, will impact your life like no other.
+#### Chapter 4. Momentum.
 
-I’d like to introduce you to Mo, or, Big Mo, as I like to call it. Big Mo is, without doubt, one of the most powerful and enigmatic forces of success. You can’t see or feel Mo, but you know when you’ve got it. You can’t count on Mo showing up to every occasion, but when it does, wow.
+I’d like to introduce you to a very good friend of mine. This friend, also close to Bill Gates, Steve Jobs, Richard Branson, Michael Jordan, Lance Armstrong, Michael Phelps, and every other superachiever, will impact your life like no other. I’d like to introduce you to Mo, or, Big Mo, as. I like to call it.
 
-Big Mo can catapult you into the stratosphere of success. And once you’ve got Mo on your side, there’s almost no way anyone can catch you. I’m excited about this chapter. When you implement the ideas outlined ahead, your payoff will be a thousand times, or more, what you paid for this book.
+Big Mo is, without doubt, one of the most powerful and enigmatic forces of success. You can’t see or feel Mo, but you know when you’ve got it. You can’t count on Mo showing up to every occasion, but when it does, wow. Big Mo can catapult you into the stratosphere of success.
 
-Seriously, these ideas are big. Harnessing the power of Big Mo. If you remember your high school physics class, you do, don’t you? You’ll recall Newton’s First Law, also known as the Law of Inertia.
+And once you’ve got Mo on your side, there’s almost no way anyone can catch you. I’m excited about this chapter. When you implement the ideas outlined ahead, your payoff will be a thousand times, or more, what you paid for this book. Seriously, these ideas are big.
 
-Objects at rest tend to stay at rest unless acted on by an outside force. Objects in motion tend to stay in motion, unless something stops their momentum. Put another way, couch potatoes tend to stay couch potatoes. Achievers, people who get into a successful rhythm, continue busting their butts and end
+Harnessing the power of Big Mo. If you remember your high school physics class, you do, don’t you? You’ll recall Newton’s First Law, also known as the Law of Inertia. Objects at rest tend to stay at rest unless acted on by an outside force.
+
+Objects in motion tend to stay in motion, unless something stops their momentum. Put another way, couch potatoes tend to stay couch potatoes. Achievers, people who get into a successful rhythm, continue busting their butts and end
 
 
 <a id="sec-022108"></a>
@@ -1018,17 +1108,21 @@ Even though you’re now putting out considerably less effort while receiving gr
 
 The lucky get luckier. They’ve got Mo. When it rains, it pours. But momentum works on both sides of the equation, it can work for you or against you.
 
-Since the compound effect is always working, negative habits, when left unchecked, can build up steam and send you into a tailspin of, unlucky, circumstances and consequences. That’s what our friend Brad from Chapter 1 experienced. He gained 33 pounds with a few small bad habits, and experienced major job and marriage stress because of the negative momentum those habits generated. The law of inertia says objects at rest tend to stay at rest, that’s the compound effect working against you.
+Since the compound effect is always working, negative habits, when left unchecked, can build up steam and send you into a tailspin of, unlucky, circumstances and consequences. That’s what our friend Brad from.
 
-The more time you spend sitting on that couch watching two and a half men, the harder it will be for you to get up and get moving. So let’s start right now. How do you get big Mo to pay you a visit? You build up to it.
+#### Chapter 1 experienced.
 
-You get into the groove, the, zone, by doing the things we’ve covered so far. 1. Making new choices based on your goals and core values 2. Putting those choices to work through new positive behaviors 3. Repeating those healthy actions long enough to establish new habits 4.
+He gained 33 pounds with a few small bad habits, and experienced major job and marriage stress because of the negative momentum those habits generated. The law of inertia says objects at rest tend to stay at rest, that’s the compound effect working against you. The more time you spend sitting on that couch watching two and a half men, the harder it will be for you to get up and get moving. So let’s start right now.
 
-Building routines and rhythms into your daily disciplines 5. Staying consistent over a long enough period of time then, bang. Big Mo kicks in your door, that’s a good thing. And you’re virtually unstoppable.
+How do you get big Mo to pay you a visit? You build up to it. You get into the groove, the, zone, by doing the things we’ve covered so far. 1. Making new choices based on your goals and core values 2.
 
-Think about swimmer Michael Phelps, who won a legendary 8 gold medals at the 2008 Summer Olympics in Beijing. How did he do it? Working with his coach, Bob Bowman, Phelps honed his talents over the course of 12 years. Together, they built routines and rhythms, and developed a consistency of performance that prepared Phelps to catch momentum just at the right time, the Olympic Games.
+Putting those choices to work through new positive behaviors 3. Repeating those healthy actions long enough to establish new habits 4. Building routines and rhythms into your daily disciplines 5. Staying consistent over a long enough period of time then, bang.
 
-Phelps and Bowman’s symbiotic relationship is legendary for its scope and ambition, and its utter predictability. Bowman required such consistency when it came to practice that one of Phelps’s most vivid memories is when Bowman allowed him to finish a training session 15 minutes early so he could get ready for a middle school dance. That’s one time in 12 years. No wonder Phelps was so unbeatable in the pool.
+Big Mo kicks in your door, that’s a good thing. And you’re virtually unstoppable. Think about swimmer Michael Phelps, who won a legendary 8 gold medals at the 2008 Summer Olympics in Beijing. How did he do it?
+
+Working with his coach, Bob Bowman, Phelps honed his talents over the course of 12 years. Together, they built routines and rhythms, and developed a consistency of performance that prepared Phelps to catch momentum just at the right time, the Olympic Games. Phelps and Bowman’s symbiotic relationship is legendary for its scope and ambition, and its utter predictability. Bowman required such consistency when it came to practice that one of Phelps’s most vivid memories is when Bowman allowed him to finish a training session 15 minutes early so he could get ready for a middle school dance.
+
+That’s one time in 12 years. No wonder Phelps was so unbeatable in the pool.
 
 
 <a id="sec-022610"></a>
@@ -1072,55 +1166,77 @@ In each shot, from the first tee to the 18th green, the timing of Jack’s routi
 
 Varying his routine stunted his rhythm and consistency, he was never able to catch momentum. The moment Norman changed his routine, his performance became unpredictable and his results erratic. Football kickers likewise cherish their pre-kick routines, which allow them to get into sync with the thousands of times they have done this same action. Predictably, without a pre-kick routine, their performance under time pressure greatly diminishes.
 
-Pilots go through their pre-flight checklist. Even when a pilot has logged thousands of hours and the plane just came in with a perfect performance review from a previous destination, the pilot goes through a pre-flight checklist every time without fail. This not only prepares the plane, but, more important, centers the pilot and prepares him for the upcoming performance. Of all the high achievers and business owners I’ve worked with, I’ve seen that, along with good habits, each has developed routines for accomplishing necessary daily disciplines.
+Pilots go through their pre-flight checklist. Even when a pilot has logged thousands of hours and the plane just came in with a perfect performance review from a previous destination, the pilot goes through a pre-flight checklist every time without fail. This not only prepares the plane, but, more important, centers the pilot and prepares him for the upcoming performance. Of all the high achievers and business owners.
 
-It’s the only way any of us can predictably regulate our behavior. There simply isn’t any way around it. A daily routine built on good habits and disciplines separates the most successful among us from everyone else. A routine is exceptionally powerful.
+I’ve worked with, I’ve seen that, along with good habits, each has developed routines for accomplishing necessary daily disciplines. It’s the only way any of us can predictably regulate our behavior. There simply isn’t any way around it. A daily routine built on good habits and disciplines separates the most successful among us from everyone else.
 
-To create profitable and effective routines, you must first decide what behaviors and habits you want to implement. Take a moment to review your goals from chapter 3, as well as the behaviors you want to add and subtract. Now it’s your turn to be Jack Nicholas and figure out your best pre-shot routine. Be intentional about what components belong.
+A routine is exceptionally powerful. To create profitable and effective routines, you must first decide what behaviors and habits you want to implement. Take a moment to review your goals from chapter 3, as well as the behaviors you want to add and subtract. Now it’s your turn to be Jack Nicholas and figure out your best pre-shot routine.
 
-Once you establish, say, a morning routine, I want you to consider it cast in concrete until further notice. You get up. You do it. No argument.
+Be intentional about what components belong. Once you establish, say, a morning routine, I want you to consider it cast in concrete until further notice. You get up. You do it.
 
-If someone or something interrupts you, start back at the beginning to anchor your foundation for the performance that follows. Bookend your days. The key to becoming world-class in your endeavors is to build your performance around world-class routines. It can be difficult, even futile, to predict or control what will show up in the middle of your workday.
+No argument. If someone or something interrupts you, start back at the beginning to anchor your foundation for the performance that follows. Bookend your days. The key to becoming world-class in your endeavors is to build your performance around world-class routines.
 
-But you can almost always control how your day starts and ends. I have routines for both. I’ll share aspects of each here to give you some ideas and to help you better understand the power and importance of building your new behaviors into disciplined routines. Starting with my goals in mind, I designed my behaviors and routines accordingly.
+It can be difficult, even futile, to predict or control what will show up in the middle of your workday. But you can almost always control how your day starts and ends. I have routines for both. I’ll share aspects of each here to give you some ideas and to help you better understand the power and importance of building your new behaviors into disciplined routines.
 
-Perhaps in sharing some of what works for me, you’ll identify strategies you’d like to try. Rise and shine. My morning routine is my Jack Nicholas pre-shot preparation. It sets me up for the entire day.
+Starting with my goals in mind, I designed my behaviors and routines accordingly. Perhaps, in sharing some of what works for me, you’ll identify strategies you’d like to try. Rise and shine. My morning routine is my Jack Nicholas pre-shot preparation.
 
-Because it happens every morning, it’s locked in and I don’t have to think about it. My iPhone alarm goes off at 5 am, confession, sometimes 5 30 am, and I hit the snooze button. Then I know I have 8 minutes. Why 8?
+It sets me up for the entire day. Because it happens every morning, it’s locked in and. I don’t have to think about it. My iPhone alarm goes off at 5 am, confession, sometimes 5 30 am, and.
 
-I have no idea. Ask Steve Jobs. He programmed it. During those 8 minutes I do 3 things.
+I hit the snooze button. Then. I know. I have 8 minutes.
 
-First, I think of all the things I’m grateful for. I know I need to attune my mind to abundance. The world looks, acts, and responds to you very differently when you start your day with a feeling and orientation of gratitude for that which you already have.
+Why 8? I have no idea. Ask Steve Jobs. He programmed it.
 
-Second, I do something that sounds a bit odd, but I send love to someone. The way to get love is to give it, and one thing I want more of is love. I give love by thinking of one person, anyone, it could be a friend,
+During those 8 minutes. I do 3 things.
+
+First, I think of all the things. I’m grateful for. I know. I need to attune my mind to abundance.
+
+The world looks, acts, and responds to you very differently when you start your day with a feeling and orientation of gratitude for that which you already have. Second, I do something that sounds a bit odd, but. I send love to someone. The way to get love is to give it, and one thing.
+
+I want more of is love. I give love by thinking of one person, anyone, it could be a friend,
 
 
 <a id="sec-023617"></a>
 ### ⏱️ [02:36:17 - 02:41:19]
 
-relative, co-worker, or someone I just met in the supermarket, it doesn’t matter, and then I send them love by imagining all that I wish and hope for them. Some would call this a blessing or a prayer, I call it a mental love letter. Third, I think about my number one goal and decide which 3 things I’m going to do on this day to move closer toward reaching it.
+relative, co-worker, or someone. I just met in the supermarket, it doesn’t matter, and then. I send them love by imagining all that. I wish and hope for them.
 
-For example, at the time of this writing, my number one goal is to deepen the love and intimacy in my marriage. Each morning I plan 3 things I can do to make sure that my wife feels loved, respected, and beautiful. When I get up, I put on a pot of coffee, and while it’s brewing, I do a series of stretches for about 10 minutes, something I picked up from Dr. Oz. If you’ve lifted weights your whole life as I have, you get stiff.
+Some would call this a blessing or a prayer, I call it a mental love letter. Third, I think about my number one goal and decide which 3 things. I’m going to do on this day to move closer toward reaching it.
 
-I realized that the only way I was going to incorporate more stretching into my life was to make it a routine. I had to figure out where in my schedule one could stick it in, and while the coffee’s brewing is as good a time as any. Once I’ve stretched and poured my cup, I sit in my comfy leather recliner, set my iPhone for 30 minutes, no more, no less, and read something positive and instructional. When the alarm sounds, I take my most important project and work on it for an hour of completely focused and undistracted effort.
+For example, at the time of this writing, my number one goal is to deepen the love and intimacy in my marriage. Each morning. I plan 3 things. I can do to make sure that my wife feels loved, respected, and beautiful.
 
-Notice I haven’t opened email yet. Then, every morning at 7am, I have what I call my calibration appointment, a recurring appointment set in my calendar, where I take 15 minutes to calibrate my day. This is where I brush over my top 3 one-year and five-year goals, my key quarterly objectives, and my top goal for the week and month. Then, for the most important part of the calibration appointment, I review, or set, my top 3 MVPs, most valuable priorities, for that day, asking myself, if I only did 3 things today, what are the actions that will produce the greatest results in moving me closer to my big goals?
+When. I get up, I put on a pot of coffee, and while it’s brewing, I do a series of stretches for about 10 minutes, something. I picked up from Dr. Oz.
 
-Then, and only then, do I open email and send out a flurry of tasks and delegations to get the rest of my team started on their day. I then quickly close down my email and go to work on my MVPs. The rest of the day can take a million different shapes, but as long as I go through my morning routine, a majority of the key disciplines I need to be practicing are taken care of, and I’m properly grounded and prepared to perform at a much higher level than if I started each day erratically, or worse, with a set of bad habits.
+If you’ve lifted weights your whole life as. I have, you get stiff. I realized that the only way. I was going to incorporate more stretching into my life was to make it a routine.
 
-Sweet dreams. In the evening I like to, cash out, something I learned from waiting tables in my youth. Before we could go home, we had to cash out, meaning turn in all our receipts, credit card slips, and cash. Everything had to add up, or there was big trouble. It’s important to cash out your day’s performance.
+I had to figure out where in my schedule one could stick it in, and while the coffee’s brewing is as good a time as any. Once. I’ve stretched and poured my cup, I sit in my comfy leather recliner, set my iPhone for 30 minutes, no more, no less, and read something positive and instructional. When the alarm sounds, I take my most important project and work on it for an hour of completely focused and undistracted effort.
+
+Notice. I haven’t opened email yet. Then, every morning at 7am, I have what. I call my calibration appointment, a recurring appointment set in my calendar, where.
+
+I take 15 minutes to calibrate my day. This is where. I brush over my top 3 one-year and five-year goals, my key quarterly objectives, and my top goal for the week and month. Then, for the most important part of the calibration appointment, I review, or set, my top 3 MVPs, most valuable priorities, for that day, asking myself, if.
+
+I only did 3 things today, what are the actions that will produce the greatest results in moving me closer to my big goals? Then, and only then, do. I open email and send out a flurry of tasks and delegations to get the rest of my team started on their day. I then quickly close down my email and go to work on my MVPs.
+
+The rest of the day can take a million different shapes, but as long as. I go through my morning routine, a majority of the key disciplines. I need to be practicing are taken care of, and. I’m properly grounded and prepared to perform at a much higher level than if.
+
+I started each day erratically, or worse, with a set of bad habits. Sweet dreams. In the evening. I like to, cash out, something.
+
+I learned from waiting tables in my youth. Before we could go home, we had to cash out, meaning turn in all our receipts, credit card slips, and cash. Everything had to add up, or there was big trouble. It’s important to cash out your day’s performance.
 
 Compared to your plan for the day, how did it go? What do you need to carry over to tomorrow’s plan? What else needs to be added, based on what showed up throughout the day? What’s no longer important and needs to be scratched out?
 
-Additionally, I like to log into my journal any new ideas, ah-has or insights I picked up throughout the day. This is how I’ve collected more than 40 journals of incredible ideas, insights, and strategies.
+Additionally, I like to log into my journal any new ideas, ah-has or insights. I picked up throughout the day. This is how. I’ve collected more than 40 journals of incredible ideas, insights, and strategies.
 
-Finally, I like to read at least 10 pages of an inspirational book before going to sleep. I know the mind continues to process the last information consumed before bedtime, so I want to focus my attention on something constructive and helpful in making progress with my goals and ambitions. That’s it. All hell can break loose throughout the day, but because I control the bookends, I know I’m always going to start and finish strong.
+Finally, I like to read at least 10 pages of an inspirational book before going to sleep. I know the mind continues to process the last information consumed before bedtime, so. I want to focus my attention on something constructive and helpful in making progress with my goals and ambitions. That’s it.
 
-Shake it up. Every so often I like to interrupt my routines. Otherwise, life gets stale and I plateau. An easy example is working out with weights.
+All hell can break loose throughout the day, but because. I control the bookends, I know. I’m always going to start and finish strong. Shake it up.
 
-When I work out the same way at the same time, doing the same repetitive movements week after week, my body stops showing compounded results. I get bored, lose my passion, and Big Mo is a no-show. That’s why it’s important to mix it up, challenge yourself in new ways, and freshen up your experience. Right now I’m working on adding more adventure into my life.
+Every so often. I like to interrupt my routines. Otherwise, life gets stale and. I plateau.
 
-I set weekly, monthly, and yearly goals to do something I wouldn’t normally do. Most of the time it’s nothing earth-shattering, but things such as eating different kinds of foods, taking a class, visiting a new destination, or joining a club to meet new people. This change of pace makes me feel alive, helps recapture my passion, and offers me opportunities for fresh perspectives. Look at your routines.
+An easy example is working out with weights. When. I work out the same way at the same time, doing the same repetitive movements week after week, my body stops showing compounded results. I get bored, lose my passion, and Big Mo is a no-show.
+
+That’s why it’s important to mix it up, challenge yourself in new ways, and freshen up your experience. Right now. I’m working on adding more adventure into my life. I set weekly, monthly, and yearly goals to do something.
+
+I wouldn’t normally do. Most of the time it’s nothing earth-shattering, but things such as eating different kinds of foods, taking a class, visiting a new destination, or joining a club to meet new people. This change of pace makes me feel alive, helps recapture my passion, and offers me opportunities for fresh perspectives. Look at your routines.
 
 If something that used to energize you has become same old, same old, or is no longer generating powerful results, switch it up.
 
@@ -1138,23 +1254,27 @@ Envisioning your success as an unstoppable locomotive may help you stay enthusia
 
 For instance, in looking again at my goal of deepening the love and intimacy of my marriage, I designed a weekly, monthly, and quarterly rhythm schedule. Doesn’t sound too romantic, I know. But maybe you’ve noticed that. Even when something’s a high priority for you, if it isn’t scheduled on your calendar, it often doesn’t happen, right?
 
-Certainly not with the regularity you’ll need to get into any kind of rhythm. Here’s how it works. Every Friday night is, date night, and Georgia and I go out or do something special together. At 6 p.m., an alarm goes off on both our iPhones, and no matter what we’re doing, date night is on.
+Certainly not with the regularity you’ll need to get into any kind of rhythm. Here’s how it works. Every Friday night is, date night, and Georgia and. I go out or do something special together.
 
-Every Saturday is F. D., family day, which means no working. Essentially sundown on Friday night until sunup on Sunday morning is time we devote to the marriage and family. If you don’t create these boundaries, one day has a tendency to flow into the next.
+At 6 p.m., an alarm goes off on both our iPhones, and no matter what we’re doing, date night is on. Every Saturday is F. D., family day, which means no working. Essentially sundown on Friday night until sunup on Sunday morning is time we devote to the marriage and family.
 
-Unfortunately, the people who get shoved aside are often the most important. Every Sunday night, also at 6 p.m., we have our RR, Relationship Review. This is a practice I picked up from relationship experts Linda and Richard Eyre during an interview I did with them for our October 2009 Success Audio Series. During this time, we discuss the previous week’s wins, losses, as well as the adjustments we need to make in our relationship.
+If you don’t create these boundaries, one day has a tendency to flow into the next. Unfortunately, the people who get shoved aside are often the most important. Every Sunday night, also at 6 p.m., we have our RR, Relationship Review. This is a practice.
 
-We start the conversation by telling each other a few things we have appreciated about the other during the previous week, it’s helpful to start with the good stuff. Then, using an idea I picked up from my interview with Jack Canfield, we ask each other, on a scale of 1-10, 10 being the best, how would you rate our relationship this week? This gets the discussion of wins and losses flowing, oh, boy. Then we discuss the adjustments that need to be made through this follow-up question, what would it take to make your experience a 10?
+I picked up from relationship experts Linda and Richard Eyre during an interview. I did with them for our October 2009 Success Audio Series. During this time, we discuss the previous week’s wins, losses, as well as the adjustments we need to make in our relationship. We start the conversation by telling each other a few things we have appreciated about the other during the previous week, it’s helpful to start with the good stuff.
 
-By the end of the discussion, both of us feel heard and validated, and we have made our observations and wishes clear moving into the next week. This is an incredible process. I highly recommend it, if you dare. Every month, Georgia and I also schedule something unique and memorable.
+Then, using an idea. I picked up from my interview with Jack Canfield, we ask each other, on a scale of 1-10, 10 being the best, how would you rate our relationship this week? This gets the discussion of wins and losses flowing, oh, boy. Then we discuss the adjustments that need to be made through this follow-up question, what would it take to make your experience a 10?
 
-Jim Rahn taught me that life is simply a collection of experiences. Our goal should be to increase the frequency of our experiences, and the intensity of the good experiences. Once a month we try to do something that creates an experience that has some memorable intensity. It could be driving up to the mountains, going on an adventurous hike, driving up to Los Angeles to try a new fancy restaurant, going sailing in the bay, whatever.
+By the end of the discussion, both of us feel heard and validated, and we have made our observations and wishes clear moving into the next week. This is an incredible process. I highly recommend it, if you dare. Every month, Georgia and.
 
-Something out of the ordinary that has a heightened experience and creates an indelible memory. Once a quarter we plan a two to three day getaway. I like to do a quarterly review of all my goals and life patterns, and this is a great time to do a deeper check in on how things are going in our relationship. Then we have our special travel vacation, plus our holiday traditions and our new year’s hike and goal setting ritual.
+I also schedule something unique and memorable. Jim Rahn taught me that life is simply a collection of experiences. Our goal should be to increase the frequency of our experiences, and the intensity of the good experiences. Once a month we try to do something that creates an experience that has some memorable intensity.
 
-You can see that once all this is scheduled, you no longer have to think about what you need to be doing. Everything happens naturally, we’ve created a rhythm that gives us momentum, registering your rhythm. I want to share with you something I created for myself that helps me keep track of the rhythm of a new behavior. I call it my, Rhythm Register, and I think you’ll find it extremely helpful.
+It could be driving up to the mountains, going on an adventurous hike, driving up to Los Angeles to try a new fancy restaurant, going sailing in the bay, whatever. Something out of the ordinary that has a heightened experience and creates an indelible memory. Once a quarter we plan a two to three day getaway. I like to do a quarterly review of all my goals and life patterns, and this is a great time to do a deeper check in on how things are going in our relationship.
 
-Fig. 10 If you want to drink more water or take more steps each day or acknowledge your spouse more affectionately, whatever behavior you’ve decided you need to move toward your goal, you’ll want to track it to make sure you’re establishing a rhythm.
+Then we have our special travel vacation, plus our holiday traditions and our new year’s hike and goal setting ritual. You can see that once all this is scheduled, you no longer have to think about what you need to be doing. Everything happens naturally, we’ve created a rhythm that gives us momentum, registering your rhythm. I want to share with you something.
+
+I created for myself that helps me keep track of the rhythm of a new behavior. I call it my, Rhythm Register, and. I think you’ll find it extremely helpful. Fig. 10.
+
+If you want to drink more water or take more steps each day or acknowledge your spouse more affectionately, whatever behavior you’ve decided you need to move toward your goal, you’ll want to track it to make sure you’re establishing a rhythm.
 
 
 <a id="sec-024623"></a>
@@ -1164,7 +1284,7 @@ See Fig. 10. You can download a copy of the document for free at www.thecompound
 
 The rhythms of life. When people get started in a new endeavor, they almost always overdo it. Of course, I want you to feel excited about setting up a rhythm for success, but you need to find a program that you can absolutely, positively do in the long term without renegotiation. I don’t want you thinking of the rhythms you can do for this week, month, or even the next 90 days, I want you to think about what you can do for the rest of your life.
 
-The compound effect, the positive results you want to experience in your life, will be the result of smart choices and actions repeated consistently over time. You win when you take the right steps day in and day out, but you set yourself up for failure by doing too much too soon. A friend to the success team who will remain unnamed to protect the guilty decided after seeing a picture I’d posted of him on Twitter that he was going to get in shape.
+The compound effect, the positive results you want to experience in your life, will be the result of smart choices and actions repeated consistently over time. You win when you take the right steps day in and day out, but you set yourself up for failure by doing too much too soon. A friend to the success team who will remain unnamed to protect the guilty decided after seeing a picture. I’d posted of him on Twitter that he was going to get in shape.
 
 This was a massive shift of lifestyle for him. On the job, he sits for at least a dozen hours a day, and he hates to exercise. Previously, he’d explained that he would find ways of avoiding using certain dishes or accessing files if it required him to squat and bend down to get them, that’s how much an aversion he had to physical activity. Still, he made a resolution to get in shape.
 
@@ -1180,23 +1300,29 @@ I want vitality. I want to be here long enough to see my kids have kids, he repl
 
 That meant he was signing on not for bikini season, but a long-term commitment to fitness. Okay, I said. You’ve convinced me. But you’re overdoing it.
 
-You’re going to get two or three months down the road, and you’re going to say, I don’t have two hours to work out, so I guess I can’t do it today. That’s going to happen to you over and over again. Working out five days a week will turn into two or three, and you’ll get discouraged. Soon it will be over.
+You’re going to get two or three months down the road, and you’re going to say, I don’t have two hours to work out, so. I guess. I can’t do it today. That’s going to happen to you over and over again.
 
-I know you’re really fired up right now, so let’s do this. Do your two hours a day, five days a week, for now, takes a lot of steam to get the wheels to budge from the inertia. But don’t do it longer than 60 or 90 days. Then, I want you to scale it down to an hour or an hour and 15.
+Working out five days a week will turn into two or three, and you’ll get discouraged. Soon it will be over. I know you’re really fired up right now, so let’s do this. Do your two hours a day, five days a week, for now, takes a lot of steam to get the wheels to budge from the inertia.
 
-You can still do your five days a week, but I would probably encourage you to go four. Do that another 60 to 90 days. Then I want you to consider an hour a day for a minimum of three days a week, four if you’re feeling extra spry. That’s the program I want you to work toward, because if you don’t get into something you can maintain, you won’t do it at all.
+But don’t do it longer than 60 or 90 days. Then, I want you to scale it down to an hour or an hour and 15. You can still do your five days a week, but. I would probably encourage you to go four.
 
-I really had to struggle to get Richard to comprehend this because, at that moment, he was all gung-ho. He thought he was going to be able to stick with his new routine for a lifetime. For someone who’s never worked out to start working out two hours a day, five days a week, is a surefire dead end. You have to build a program that you can do for 50 years, not five weeks, or five months.
+Do that another 60 to 90 days. Then. I want you to consider an hour a day for a minimum of three days a week, four if you’re feeling extra spry. That’s the program.
 
-It’s okay if you go strong for a while, but you’ve got to see light at the end of the tunnel where you can start scaling it back. You can always find 45 minutes to an hour a few times a week, but to find two hours, five days a week, to make your routine work, that’ll never happen. Remember, consistency is a critical component of success. The power of consistency.
+I want you to work toward, because if you don’t get into something you can maintain, you won’t do it at all. I really had to struggle to get Richard to comprehend this because, at that moment, he was all gung-ho. He thought he was going to be able to stick with his new routine for a lifetime. For someone who’s never worked out to start working out two hours a day, five days a week, is a surefire dead end.
 
-I’ve mentioned that if there’s one discipline that gives me a competitive advantage, it’s my ability to be consistent. Nothing kills Big Mo quicker and with more certainty than a lack of consistency. Even good, passionate, and ambitious people with good intentions can fall short when it comes to consistency. But it’s a powerful tool you can use to launch the flight toward your goals.
+You have to build a program that you can do for 50 years, not five weeks, or five months. It’s okay if you go strong for a while, but you’ve got to see light at the end of the tunnel where you can start scaling it back. You can always find 45 minutes to an hour a few times a week, but to find two hours, five days a week, to make your routine work, that’ll never happen. Remember, consistency is a critical component of success.
+
+The power of consistency. I’ve mentioned that if there’s one discipline that gives me a competitive advantage, it’s my ability to be consistent. Nothing kills Big Mo quicker and with more certainty than a lack of consistency. Even good, passionate, and ambitious people with good intentions can fall short when it comes to consistency.
+
+But it’s a powerful tool you can use to launch the flight toward your goals.
 
 
 <a id="sec-025127"></a>
 ### ⏱️ [02:51:27 - 02:56:31]
 
-Think of it like this. If you and I flew planes from Los Angeles to Manhattan, but you took off and landed in every state in between, while I flew straight through, even if you went 500 miles per hour in the air and I only traveled at a rate of 200 miles per hour, I’d still beat you by a big margin. The time and energy it takes for you to repeatedly stop and start and get back to momentum make your trip at least 10 times as long.
+Think of it like this. If you and. I flew planes from Los Angeles to Manhattan, but you took off and landed in every state in between, while. I flew straight through, even if you went 500 miles per hour in the air and.
+
+I only traveled at a rate of 200 miles per hour, I’d still beat you by a big margin. The time and energy it takes for you to repeatedly stop and start and get back to momentum make your trip at least 10 times as long.
 
 In fact, most likely you wouldn’t even make it. You’d run out of fuel, energy, motivation, belief, will, at some point. It’s far easier and requires a lot less energy to take off once and maintain a regular speed, even if slower than most everyone else, all along the way. The pump well.
 
@@ -1224,7 +1350,7 @@ But by slacking off for even a short time, you killed Moe. It’s dead. And that
 
 Be the tortoise. The person who, given enough time, will beat virtually anybody in any competition as a result of positive habits and behaviors applied consistently. That’ll put the mojo in your momentum, and keep it there. Making the right choice, holding to right behaviors, practicing perfect habits, staying consistent, and keeping your momentum is easier said than done, especially in the dynamic, constantly changing, and always challenging world we share with billions of other people.
 
-In the next chapter I will discuss the many influences that, mostly unknowingly, can help or hinder your ability to succeed. These influences are pervasive, persuasive, and constant.
+In the next chapter. I will discuss the many influences that, mostly unknowingly, can help or hinder your ability to succeed. These influences are pervasive, persuasive, and constant.
 
 
 <a id="sec-025631"></a>
@@ -1236,35 +1362,35 @@ Build your bookend morning and evening routines. Design a predictable and fail-s
 
 Make a declaration to stay steadfast in your new commitment to consistency. On your rhythm register, write down a half dozen key behaviors relevant to your new goals. These should be behaviors you want to establish a rhythm with and eventually create momentum, big mo. Download the rhythm register at www.thecompoundeffect.com slash free for a complete achievement management system T.
 
-M., including the rhythm register. Obtain the Living Your Best Year Ever program at www.success.com slash bestyearever.
+M., including the rhythm register. Obtain the Living. Your Best Year Ever program at www.success.com slash bestyearever.
 
-#### Chapter 5. Influences. Hopefully by now you understand exactly how important your choices are.
+#### Chapter 5. Influences.
 
-Even those that seem insignificant, when compounded, can make an extreme impact on your life. We’ve also discussed the fact that you are 100% responsible for your life. You alone are responsible for the choices you make and the actions you take. That said, you must also realize your choices, behaviors, and habits are influenced by very powerful external forces.
+Hopefully by now you understand exactly how important your choices are. Even those that seem insignificant, when compounded, can make an extreme impact on your life. We’ve also discussed the fact that you are 100% responsible for your life. You alone are responsible for the choices you make and the actions you take.
 
-Most of us aren’t aware of the subtle control these forces have on our lives. For you to sustain your positive trajectory toward your goals, you’ll need to understand and govern these influences so they will support rather than derail your journey toward success. Everyone is affected by three kinds of influences, input, what you feed your mind, associations, the people with whom you spend time, an environment, your surroundings. I.
+That said, you must also realize your choices, behaviors, and habits are influenced by very powerful external forces. Most of us aren’t aware of the subtle control these forces have on our lives. For you to sustain your positive trajectory toward your goals, you’ll need to understand and govern these influences so they will support rather than derail your journey toward success. Everyone is affected by three kinds of influences, input, what you feed your mind, associations, the people with whom you spend time, an environment, your surroundings.
 
-Input. Garbage in, garbage out. If you want your body to run at peak performance, you’ve got to be vigilant about consuming the highest quality nutrients and avoiding tempting junk food. If you want your brain to perform at its peak, you’ve got to be even more vigilant about what you feed it.
+I. Input. Garbage in, garbage out. If you want your body to run at peak performance, you’ve got to be vigilant about consuming the highest quality nutrients and avoiding tempting junk food.
 
-Are you feeding it new summaries or mind-numbing sitcoms? Are you reading the tabloids, or success? Controlling the input has a direct and measurable impact on your productivity and outcomes. Controlling what our brains consume is especially difficult because so much of what we take in is unconscious.
+If you want your brain to perform at its peak, you’ve got to be even more vigilant about what you feed it. Are you feeding it new summaries or mind-numbing sitcoms? Are you reading the tabloids, or success? Controlling the input has a direct and measurable impact on your productivity and outcomes.
 
-Although it’s true that we can eat without thinking, it’s easier to pay attention to what we put in our bodies because food doesn’t leap into our mouths. We need an extra level of vigilance to prevent our brains from absorbing irrelevant, counterproductive or downright destructive input. It’s a never-ending battle to be selective and to stand guard against any information that can derail your creative potential. Your brain is not designed to make you happy.
+Controlling what our brains consume is especially difficult because so much of what we take in is unconscious. Although it’s true that we can eat without thinking, it’s easier to pay attention to what we put in our bodies because food doesn’t leap into our mouths. We need an extra level of vigilance to prevent our brains from absorbing irrelevant, counterproductive or downright destructive input. It’s a never-ending battle to be selective and to stand guard against any information that can derail your creative potential.
 
-Your brain has only one agenda in mind. Survival. It is always watching for signs of, lack and attack. Your brain is programmed to seek out the negative, dwindling resources, destructive weather, whatever’s out to hurt you.
+Your brain is not designed to make you happy. Your brain has only one agenda in mind. Survival. It is always watching for signs of, lack and attack.
 
-So when you switch on that radio on the way to work and get bombarded with all those reports about robberies, fires, attacks, and other things, it’s a matter of time. tax, the tanking economy, your brain lights up. It now will spend all day chewing over that feast of fear, worry, negativity. Same deal when you tune into the evening news after work. More bad news?
+Your brain is programmed to seek out the negative, dwindling resources, destructive weather, whatever’s out to hurt you. So when you switch on that radio on the way to work and get bombarded with all those reports about robberies, fires, attacks, and other things, it’s a matter of time. tax, the tanking economy, your brain lights up. It now will spend all day chewing over that feast of fear, worry, negativity. Same deal when you tune into the evening news after work.
 
-Perfect. Your mind will stew on that all night long. Left to its own devices, your mind will traffic in the negative, worrisome, and fearful all day and night. We can’t change our DNA, but we can change our behavior.
+More bad news? Perfect. Your mind will stew on that all night long. Left to its own devices, your mind will traffic in the negative, worrisome, and fearful all day and night.
 
-We can teach our minds to look beyond, lack and attack. How? We can protect and feed our mind. We can be disciplined and proactive about what we allow in.
+We can’t change our DNA, but we can change our behavior. We can teach our minds to look beyond, lack and attack. How? We can protect and feed our mind.
 
-Don’t drink dirty water. You get in life what you create. Expectation drives the creative process. What do you expect?
+We can be disciplined and proactive about what we allow in. Don’t drink dirty water. You get in life what you create. Expectation drives the creative process.
 
-Do you expect whatever it is you’re thinking about? Your thought process, the conversation in your head, is at the base of the results you create in life. To the question is, what are you thinking about? What is influencing and directing your thoughts?
+What do you expect? Do you expect whatever it is you’re thinking about? Your thought process, the conversation in your head, is at the base of the results you create in life. To the question is, what are you thinking about?
 
-The answer. Whatever you’re allowing yourself to hear and see, this is the input you are feeding your brain. Period. See Figure 12.
+What is influencing and directing your thoughts? The answer. Whatever you’re allowing yourself to hear and see, this is the input you are feeding your brain. Period.
 
-Your mind is like an empty glass, it’ll hold anything you put into it. You put in sensational news, salacious headlines, talk show rants, and you’re pouring dirty water into your glass. If you’ve got dark, dismal, worrisome water in your glass, everything you create will be filtered through that muddy mess, because that’s what you’ll be thinking about.
+See Figure 12. Your mind is like an empty glass, it’ll hold anything you put into it. You put in sensational news, salacious headlines, talk show rants, and you’re pouring dirty water into your glass. If you’ve got dark, dismal, worrisome water in your glass, everything you create will be filtered through that muddy mess, because that’s what you’ll be thinking about.
 
 
 <a id="sec-030136"></a>
@@ -1276,27 +1402,31 @@ What is that clear water? Positive, inspirational, and supportive input and idea
 
 Strategies to create more abundance, to grow, expand, and become more. Examples and stories of what’s good, right, and possible in the world. That’s why we work so hard at Success magazine. We want to provide you with those examples, those stories and the key take a ways you can use to improve your view of the world, yourself, and the results you create.
 
-That’s also why I read something inspirational and instructional for 30 minutes in the morning and evening, and have personal development CDs playing in my car. I’m flushing my glass and feeding my mind. Does this give me an edge over the guy who gets up and first thing reads the newspaper, listens to news radio on his commute to and from work, and watches the evening news before going to bed? You bet it does, and it can for you, too.
+That’s also why. I read something inspirational and instructional for 30 minutes in the morning and evening, and have personal development CDs playing in my car. I’m flushing my glass and feeding my mind. Does this give me an edge over the guy who gets up and first thing reads the newspaper, listens to news radio on his commute to and from work, and watches the evening news before going to bed?
 
-Fig. 12 flush out the negative, dirty water, with positive, inspirational and supportive ideas, clean water. Step 1. Stand guard unless you decide to hole up in a cave or on a desert island, you’re going to get dirty water in your glass. It’s going to be on billboards, on CNN while you’re walking through the airport, on the screaming tabloid headlines at the checkout when you’re buying groceries, etc. Even your friends, family members, and your own negative mental tapes can flood dirty water into your glass.
+You bet it does, and it can for you, too. Fig. 12 flush out the negative, dirty water, with positive, inspirational and supportive ideas, clean water. Step 1. Stand guard unless you decide to hole up in a cave or on a desert island, you’re going to get dirty water in your glass.
 
-But that doesn’t mean you can’t take steps to limit your exposure to all that grime. Maybe you can’t avoid the tabloids stacked up at the checkout register, but you can cancel your subscriptions. You can refuse to listen to the radio to and from work and instead put in an instructional and inspirational CD. You can turn off the evening news and talk to your loved ones instead.
+It’s going to be on billboards, on CNN while you’re walking through the airport, on the screaming tabloid headlines at the checkout when you’re buying groceries, etc. Even your friends, family members, and your own negative mental tapes can flood dirty water into your glass. But that doesn’t mean you can’t take steps to limit your exposure to all that grime. Maybe you can’t avoid the tabloids stacked up at the checkout register, but you can cancel your subscriptions.
 
-You can buy a DVR and record only those programs you feel are truly educational and life-affirming, and speed through the commercials aimed at making you feel inadequate or lacking unless you buy more crap. I didn’t really grow up with TV. I remember watching solid gold in the A-Team, remember them? But television wasn’t a big part of our family life.
+You can refuse to listen to the radio to and from work and instead put in an instructional and inspirational CD. You can turn off the evening news and talk to your loved ones instead. You can buy a DVR and record only those programs you feel are truly educational and life-affirming, and speed through the commercials aimed at making you feel inadequate or lacking unless you buy more crap. I didn’t really grow up with TV.
 
-I managed somehow to thrive without it, and that’s given me a clearer perspective when I watch an occasional program now. Sure, I’ll laugh along with the sitcom, but afterward, I feel the same as if I ate fast food, bloated and malnourished. And I can’t get over how commercials prey on our psychology, our fears, pains, needs, and weaknesses. If I walk through life thinking that I’m not enough just as I am.
+I remember watching solid gold in the A-Team, remember them? But television wasn’t a big part of our family life. I managed somehow to thrive without it, and that’s given me a clearer perspective when. I watch an occasional program now.
 
-That I need to buy this, that, and the other thing to be okay, how can I expect to create amazing results? It’s estimated that Americans, 12 and older, spend 1,704 hours watching TV per year. Solid averages out to 4.7 hours per day. We’re spending almost 30% of our waking hours watching TV.
+Sure, I’ll laugh along with the sitcom, but afterward, I feel the same as if. I ate fast food, bloated and malnourished. And. I can’t get over how commercials prey on our psychology, our fears, pains, needs, and weaknesses.
 
-Almost 33 hours per week, more than one whole day each week. It’s the equivalent of watching TV for two solid months out of every 12. Wow. And people wonder why they can’t get ahead in life?
+If. I walk through life thinking that. I’m not enough just as. I am.
 
-Put yourself on a media diet. The media thrives on taking us hostage. Never been stuck on the freeway with traffic backed up for miles, making you late, wondering what the heck’s holding everything up. Sure enough, when you finally get close, you see that nothing physical is blocking the flow of cars.
+That. I need to buy this, that, and the other thing to be okay, how can. I expect to create amazing results? It’s estimated that Americans, 12 and older, spend 1,704 hours watching TV per year.
 
-The wreck clearly happened a while ago and has since been moved to the side of the freeway. The three mile per hour crawl was caused by people rubbernecking. Now you’re really irritated. But what happens when your car passes the wreck?
+Solid averages out to 4.7 hours per day. We’re spending almost 30% of our waking hours watching TV. Almost 33 hours per week, more than one whole day each week. It’s the equivalent of watching TV for two solid months out of every 12.
 
-You slow way down. Take your eyes off the road in front of you, and crane your own neck. Why do good, decent people want to see something tragic and grotesque? It’s our genetic heritage, going back to our prehistoric sense of self-preservation.
+Wow. And people wonder why they can’t get ahead in life? Put yourself on a media diet. The media thrives on taking us hostage.
 
-We can’t help ourselves, even if we’re adept at avoiding negativity, and have trained ourselves to be relentlessly positive. When it comes to sensationalism, our basic nature can’t resist.
+Never been stuck on the freeway with traffic backed up for miles, making you late, wondering what the heck’s holding everything up. Sure enough, when you finally get close, you see that nothing physical is blocking the flow of cars. The wreck clearly happened a while ago and has since been moved to the side of the freeway. The three mile per hour crawl was caused by people rubbernecking.
+
+Now you’re really irritated. But what happens when your car passes the wreck? You slow way down. Take your eyes off the road in front of you, and crane your own neck.
+
+Why do good, decent people want to see something tragic and grotesque? It’s our genetic heritage, going back to our prehistoric sense of self-preservation. We can’t help ourselves, even if we’re adept at avoiding negativity, and have trained ourselves to be relentlessly positive. When it comes to sensationalism, our basic nature can’t resist.
 
 
 <a id="sec-030637"></a>
@@ -1312,25 +1442,29 @@ Let’s go back to our freeway. Instead of a wreck on the side of the road, what
 
 It whizzes by at top speed. The great danger of the media is that it gives us a very perverted view of the world. Because the focus and the repetition of messaging is on the negative, that’s what our minds start believing. This warped and narrow view of what’s not working has a severe influence on your creative potential.
 
-It can be crippling. My personal junk filter. I’ll share what I do to safeguard my mind. But I warn you, I have a rigorous mental diet.
+It can be crippling. My personal junk filter. I’ll share what. I do to safeguard my mind.
 
-You’ll want to adjust to your own preferences, but this system has worked beautifully for me. As you might guess, I don’t watch or listen to any news and I don’t read any newspapers or news magazines. 99% of all news has no bearing on my personal life or my personal goals, dreams, and ambitions anyway. I have set up a few RSS feeds identifying the news and industry updates that do pertain to my direct interests and goals. The news that’s helpful to me gets plucked out of the fray so I don’t have to get any mud slung into my glass of water.
+But. I warn you, I have a rigorous mental diet. You’ll want to adjust to your own preferences, but this system has worked beautifully for me. As you might guess, I don’t watch or listen to any news and.
 
-While most people wade through hours of irrelevant garbage that hampers their thinking and crushes their spirit, I get the most productive information I need when I need it, in less than 15 minutes a day. Step 2. Enroll in drive time you it’s not enough to eliminate negative input. To move in a positive direction, you must flush out the bad and fill up on the good.
+I don’t read any newspapers or news magazines. 99% of all news has no bearing on my personal life or my personal goals, dreams, and ambitions anyway. I have set up a few RSS feeds identifying the news and industry updates that do pertain to my direct interests and goals. The news that’s helpful to me gets plucked out of the fray so. I don’t have to get any mud slung into my glass of water.
 
-My car won’t move without two things, gasoline and an ever-present library of instructional CDs I listen to as I drive. The average American drives about 12,000 miles a year. That’s 300 hours of flushing potential right there. Brian Tracy taught me the concept of turning my car into a mobile classroom.
+While most people wade through hours of irrelevant garbage that hampers their thinking and crushes their spirit, I get the most productive information. I need when. I need it, in less than 15 minutes a day. Step 2.
 
-He explained to me that by listening to instructional CDs as I drive, I gain knowledge equivalent to two semesters of an advanced college degree, every year. Think about it. Using the time you’re currently wasting by listening to drive time radio, you could obtain the equivalent of Ph. D. in leadership, sales success, wealth building, relationship excellence, or whatever course you choose.
+Enroll in drive time you it’s not enough to eliminate negative input. To move in a positive direction, you must flush out the bad and fill up on the good. My car won’t move without two things, gasoline and an ever-present library of instructional CDs. I listen to as.
 
-This commitment, in combination with your reading routine, separates you from the herd of average, one CD, DVD, or book at a time. 2. Associations. Who’s influencing you? Birds of a feather flock together.
+I drive. The average American drives about 12,000 miles a year. That’s 300 hours of flushing potential right there. Brian Tracy taught me the concept of turning my car into a mobile classroom.
 
-The people with whom you habitually associate are called your reference group. According to research by social psychologist Dr. David McClelland of Harvard, your reference group determines as much as 95% of your success or failure in life. Who do you spend the most time with? Who are the people you most admire?
+He explained to me that by listening to instructional CDs as. I drive, I gain knowledge equivalent to two semesters of an advanced college degree, every year. Think about it. Using the time you’re currently wasting by listening to drive time radio, you could obtain the equivalent of Ph.
 
-Are those two groups of people exactly the same? If not, why not? Jim Rahn taught that we become the combined average of the five people we hang around the most. Rahn would say we could tell the quality of our health, attitude, and income by looking at the people around us.
+D. in leadership, sales success, wealth building, relationship excellence, or whatever course you choose. This commitment, in combination with your reading routine, separates you from the herd of average, one CD, DVD, or book at a time. 2. Associations. Who’s influencing you?
 
-The people with whom we spend our time determine what conversations dominate our attention, and to which attitudes and opinions we are regularly exposed. Eventually, we start to eat what they eat, talk like they talk, read what they read, think like they think, watch what they watch, treat people how they treat them, even dress like they dress. The funny thing is, more often than not, we are completely unaware of the similarities between us and our circle of five. How are we not aware?
+Birds of a feather flock together. The people with whom you habitually associate are called your reference group. According to research by social psychologist Dr. David McClelland of Harvard, your reference group determines as much as 95% of your success or failure in life.
 
-Because your associations don’t shove you in a direction, they nudge you ever so slightly
+Who do you spend the most time with? Who are the people you most admire? Are those two groups of people exactly the same? If not, why not?
+
+Jim Rahn taught that we become the combined average of the five people we hang around the most. Rahn would say we could tell the quality of our health, attitude, and income by looking at the people around us. The people with whom we spend our time determine what conversations dominate our attention, and to which attitudes and opinions we are regularly exposed. Eventually, we start to eat what they eat, talk like they talk, read what they read, think like they think, watch what they watch, treat people how they treat them, even dress like they dress.
+
+The funny thing is, more often than not, we are completely unaware of the similarities between us and our circle of five. How are we not aware? Because your associations don’t shove you in a direction, they nudge you ever so slightly
 
 
 <a id="sec-031140"></a>
@@ -1348,23 +1482,25 @@ It doesn’t matter who they are. It could be your spouse, your brother, your ne
 
 Now, average them out. What’s their average health and bank balance? What’s their average relationship like? As you look at your results, ask yourself, is this list okay for me?
 
-Is this where I want to go? It’s time to reappraise and re-prioritize the people you spend time with. These relationships can nurture you, starve you, or keep you stuck. Now that you’ve started to carefully consider with whom you spend your time, let’s go a little deeper.
+Is this where. I want to go? It’s time to reappraise and re-prioritize the people you spend time with. These relationships can nurture you, starve you, or keep you stuck.
 
-As Jim Rahn taught me, it’s powerful to evaluate and shift your associations into three categories — dissociations, limited associations, and expanded associations. Dissociations. You guard against the influences your children are exposed to, and the people they hang around. You are aware of the influence these people could have on your children and the choices they might make as a result.
+Now that you’ve started to carefully consider with whom you spend your time, let’s go a little deeper. As Jim Rahn taught me, it’s powerful to evaluate and shift your associations into three categories — dissociations, limited associations, and expanded associations. Dissociations. You guard against the influences your children are exposed to, and the people they hang around.
 
-I believe this same principle should apply to you. You already know this. There are some people you might need to break away from. Completely.
+You are aware of the influence these people could have on your children and the choices they might make as a result. I believe this same principle should apply to you. You already know this. There are some people you might need to break away from.
 
-This might not be an easy step to take, but it’s essential. You have to make the hard choice not to let certain negative influences affect you anymore. Determine the quality of life you want to have, and then surround yourself with the people who represent and support that vision. I’m constantly weeding out of my life. life people who refuse to grow and live positively.
+Completely. This might not be an easy step to take, but it’s essential. You have to make the hard choice not to let certain negative influences affect you anymore. Determine the quality of life you want to have, and then surround yourself with the people who represent and support that vision.
 
-Growing and changing your associations is a lifelong process. Some people might say I’m too rigorous about it, but I’d like to be more so. I had a business relationship with someone I really liked, but when the economy got difficult, most of his conversation was focused on how horrible things were, how much his company was feeling the hit, and how hard it was out there. I said, man, you’ve got to stop working on your presentation about how bad life is.
+I’m constantly weeding out of my life. life people who refuse to grow and live positively. Growing and changing your associations is a lifelong process. Some people might say. I’m too rigorous about it, but.
 
-I can hear you collecting all the data points to reinforce your beliefs. He persisted in seeing everything as more dour and hopeless than it was, and I decided we had no business doing business together. When you make the tough decision to put up boundaries between you and people who drag you down, realize that they’ll fight you, especially those closest to you. Your decision to live a more positive, goal-oriented life will be a mirror to their own poor choices.
+I’d like to be more so. I had a business relationship with someone. I really liked, but when the economy got difficult, most of his conversation was focused on how horrible things were, how much his company was feeling the hit, and how hard it was out there. I said, man, you’ve got to stop working on your presentation about how bad life is.
 
-You will make them uncomfortable and they will attempt to pull you back down to their level. Their resistance doesn’t mean they don’t love you or want the best for you, it’s actually not about you at all. It’s about their fear and their guilt about their own poor choices and lack of discipline. Just know that breaking away won’t be easy.
+I can hear you collecting all the data points to reinforce your beliefs. He persisted in seeing everything as more dour and hopeless than it was, and. I decided we had no business doing business together. When you make the tough decision to put up boundaries between you and people who drag you down, realize that they’ll fight you, especially those closest to you.
 
-Limited associations. There are some people you can spend three hours with, but not three days. Others you can spend three minutes with, but not three hours. Always remember that the influence of associations is both powerful and subtle.
+Your decision to live a more positive, goal-oriented life will be a mirror to their own poor choices. You will make them uncomfortable and they will attempt to pull you back down to their level. Their resistance doesn’t mean they don’t love you or want the best for you, it’s actually not about you at all. It’s about their fear and their guilt about their own poor choices and lack of discipline.
 
-The person you’re walking with can determine whether you slow your pace or quicken it,
+Just know that breaking away won’t be easy. Limited associations. There are some people you can spend three hours with, but not three days. Others you can spend three minutes with, but not three hours.
+
+Always remember that the influence of associations is both powerful and subtle. The person you’re walking with can determine whether you slow your pace or quicken it,
 
 
 <a id="sec-031640"></a>
@@ -1374,69 +1510,85 @@ literally and figuratively. Similarly, you can’t help but be touched by the do
 
 I have had to do this on several occasions, even with close family members. I will not, however, allow someone else’s actions or attitudes to have a dampening influence on me. I’ve got a neighbor who’s a three-minute friend. For three minutes, we have a great chit-chat, but we wouldn’t mesh for three hours.
 
-I can hang out with an old high school friend for three hours, but he’s not a three-day guy. And, then there are some people I can hang around for a few days, but wouldn’t go on an extended vacation with. Take a look at your relationships and make sure you’re not spending three hours with a three-minute person. Expanded associations.
+I can hang out with an old high school friend for three hours, but he’s not a three-day guy. And, then there are some people. I can hang around for a few days, but wouldn’t go on an extended vacation with. Take a look at your relationships and make sure you’re not spending three hours with a three-minute person.
 
-We’ve just talked about weeding out negative influencers. While you’re doing that, you’ll also want to reach out. Apply people who have positive qualities in the areas of life where you want to improve, people with the financial and business success you desire, the parenting skills you want, the relationships you yearn for, the lifestyle you love. And then spend more time with them.
+Expanded associations. We’ve just talked about weeding out negative influencers. While you’re doing that, you’ll also want to reach out. Apply people who have positive qualities in the areas of life where you want to improve, people with the financial and business success you desire, the parenting skills you want, the relationships you yearn for, the lifestyle you love.
 
-Join organizations and businesses and health clubs where these people gather and make friends. Ahead, you’ll see how I even used to drive to a different town to spend quality time, with fortuitous results. I rave about Jim Rahn throughout this book because, aside from my father, Jim remains my foremost mentor and influencer. My relationship with Jim perfectly exemplifies an expanded association.
+And then spend more time with them. Join organizations and businesses and health clubs where these people gather and make friends. Ahead, you’ll see how. I even used to drive to a different town to spend quality time, with fortuitous results.
 
-While I got to share a few private meals and spend a little time with him during our interviews and backstage before events, most of my time with Jim was spent listening to him in my car or reading his words in my living room. I have spent more than a thousand hours getting direct instruction from Jim, and 99% of that was through books and audio programs. What’s exciting about that is, no matter where you are in your life, maybe busy at home with small children or caretaking aging parents, working long hours with people with whom you have little in common, or living out in the country far from the nearest office building, you, too, can have almost any mentor you want.
+I rave about Jim Rahn throughout this book because, aside from my father, Jim remains my foremost mentor and influencer. My relationship with Jim perfectly exemplifies an expanded association. While. I got to share a few private meals and spend a little time with him during our interviews and backstage before events, most of my time with Jim was spent listening to him in my car or reading his words in my living room.
 
-If he or she has gathered their best thoughts, stories, and ideas into books, CDs, DVDs, and podcasts, you have an unlimited bounty from which to draw. Take advantage of it. If you want to have a better, deeper, more meaningful relationship, ask yourself, who has the type of relationship I want? How can I spend, more, time with that person?
+I have spent more than a thousand hours getting direct instruction from Jim, and 99% of that was through books and audio programs. What’s exciting about that is, no matter where you are in your life, maybe busy at home with small children or caretaking aging parents, working long hours with people with whom you have little in common, or living out in the country far from the nearest office building, you, too, can have almost any mentor you want.
 
-Who can I meet who can positively influence me? Let their glow rub off on you. The friend the person you think is the biggest, baddest, most successful person in your field. What do they read?
+If he or she has gathered their best thoughts, stories, and ideas into books, CDs, DVDs, and podcasts, you have an unlimited bounty from which to draw. Take advantage of it. If you want to have a better, deeper, more meaningful relationship, ask yourself, who has the type of relationship. I want?
 
-Where do they go for lunch? How can that association influence you? You can build these expanded associations by joining networking groups, toastmasters, and similar organizations. Find the charity organizations, symphonies, country clubs, where the people you want to emulate gather.
+How can. I spend, more, time with that person? Who can. I meet who can positively influence me?
 
-Find a peak performance partner. Another way to increase your exposure to expanded associations is by teaming up with a peak performance partner. Someone is equally committed to study and personal growth as you. This person should be someone you trust, someone bold enough to tell you what they really think about you, your attitudes, and performance.
+Let their glow rub off on you. The friend the person you think is the biggest, baddest, most successful person in your field. What do they read? Where do they go for lunch?
 
-It could be that this person is a long-time friend, but he or she may be someone who doesn’t know you well at all. The point is to get, and give, an unbiased, honest, outside perspective. My current accountability partner is my good friend Landon Taylor. As I mentioned before, we have a 30-minute call every Friday to discuss our weekly wins, losses, fixes, ah-has, and where we are on our growth plans.
+How can that association influence you? You can build these expanded associations by joining networking groups, toastmasters, and similar organizations. Find the charity organizations, symphonies, country clubs, where the people you want to emulate gather. Find a peak performance partner.
 
-The anticipation of the call and knowing I have to be accountable to Landon keeps me extra committed throughout the week. I make a record of Landon’s losses or any feedback he needs and make sure to ask him about it the next week. He does the same for me. That way we hold each other accountable.
+Another way to increase your exposure to expanded associations is by teaming up with a peak performance partner. Someone is equally committed to study and personal growth as you. This person should be someone you trust, someone bold enough to tell you what they really think about you, your attitudes, and performance. It could be that this person is a long-time friend, but he or she may be someone who doesn’t know you well at all.
 
-He might say, okay, you screwed up here last week and admitted it and committed to change. What did you do about that this week? Life is life. We’re both busy executives, but it’s amazing to me that we actually end up doing this every week without fail.
+The point is to get, and give, an unbiased, honest, outside perspective. My current accountability partner is my good friend Landon Taylor. As. I mentioned before, we have a 30-minute call every Friday to discuss our weekly wins, losses, fixes, ah-has, and where we are on our growth plans.
 
-It’s not easy. Sometimes I’ll be flying through my day and think, oh, crud. I have to do this. But often in the middle of the call, I’ll think, I’m so glad we’re having this conversation.
+The anticipation of the call and knowing. I have to be accountable to Landon keeps me extra committed throughout the week. I make a record of Landon’s losses or any feedback he needs and make sure to ask him about it the next week. He does the same for me.
 
-Even in preparing for it, and thinking of my big wins and losses for the week, I learn
+That way we hold each other accountable. He might say, okay, you screwed up here last week and admitted it and committed to change. What did you do about that this week? Life is life.
+
+We’re both busy executives, but it’s amazing to me that we actually end up doing this every week without fail. It’s not easy. Sometimes. I’ll be flying through my day and think, oh, crud.
+
+I have to do this. But often in the middle of the call, I’ll think, I’m so glad we’re having this conversation. Even in preparing for it, and thinking of my big wins and losses for the week, I learn
 
 
 <a id="sec-032145"></a>
 ### ⏱️ [03:21:45 - 03:26:45]
 
-about myself. This week I told Landon, you know, I’m in the middle of so many things. I’m writing my book. I’m having a lot of realizations, and so many ah-has, but not one thing that’s really compelling.
+about myself. This week. I told Landon, you know, I’m in the middle of so many things. I’m writing my book.
 
-He said, let this be the last week that you don’t come to the table with an ah-ha gulp. Don’t shortchange me. He said, point taken. In reality, I was shortchanging myself by not identifying one thing memorable enough to share.
+I’m having a lot of realizations, and so many ah-has, but not one thing that’s really compelling. He said, let this be the last week that you don’t come to the table with an ah-ha gulp. Don’t shortchange me. He said, point taken.
 
-I have a serious challenge for you. If you’re up for it, want real feedback, find people who care enough about you to be brutally honest with you. Ask them these questions. How do I show up to you?
+In reality, I was shortchanging myself by not identifying one thing memorable enough to share. I have a serious challenge for you. If you’re up for it, want real feedback, find people who care enough about you to be brutally honest with you. Ask them these questions.
 
-What do you think my strengths are? In what areas do you think I can improve? Where do you think I sabotage myself? What’s one thing I can stop doing that would benefit me the most?
+How do. I show up to you? What do you think my strengths are? In what areas do you think.
 
-What’s the one thing I should start doing? Invest in mentorship. Paul J. Meyer is another man who served as a mentor to me.
+I can improve? Where do you think. I sabotage myself? What’s one thing.
 
-Paul passed away in 2009 at age 81. Whenever I thought I was really doing things, really playing at a high level, I’d get around Paul. I’d go by reality check. What he did before lunch was mind-boggling to me.
+I can stop doing that would benefit me the most? What’s the one thing. I should start doing? Invest in mentorship.
 
-I got to spend a lot of time with him. Paul bought one of my companies, and then I did a turnaround for one of his companies. He was a very powerful spirit in my life. After spending a couple of hours with Paul, hearing about all his plans and ventures and activities, my head would spin.
+Paul J. Meyer is another man who served as a mentor to me. Paul passed away in 2009 at age 81. Whenever.
 
-Just trying to make sense of all he had going on exhausted me. After time with Paul, I’d want to go take a nap. But my association with him raised my game. His walking pace was my running pace.
+I thought. I was really doing things, really playing at a high level, I’d get around Paul. I’d go by reality check. What he did before lunch was mind-boggling to me.
 
-It expanded my ideas about how big I could play and how ambitious I could be. You have to get around people like that. You’re never too good for a mentor. During my interview with Harvey McKay, he told me, I have had 20 coaches, if you can believe it.
+I got to spend a lot of time with him. Paul bought one of my companies, and then. I did a turnaround for one of his companies. He was a very powerful spirit in my life.
 
-I have a speech coach. I have a writing coach. I have a humor coach. I’ve got a language coach, and on and on.
+After spending a couple of hours with Paul, hearing about all his plans and ventures and activities, my head would spin. Just trying to make sense of all he had going on exhausted me. After time with Paul, I’d want to go take a nap. But my association with him raised my game.
 
-I have always found it interesting that the most successful people, the truly top performers, are the ones willing to hire and pay for the best coaches and trainers there are. It pays to invest in your improved performance. Finding and engaging a mentor doesn’t need to be a mysterious or intimidating process either. When I sat down with Ken Blanchard, he explained the simplicity of engaging a mentor, success, January 2010.
+His walking pace was my running pace. It expanded my ideas about how big. I could play and how ambitious. I could be.
 
-The first thing you want to remember with a mentor is that it doesn’t need to take a lot of their time. The best advice I’ve ever gotten is in short clips, having lunch or breakfast with somebody, just telling them what I’m working on and asking their advice and all. You will be amazed how successful businesspeople are willing to be mentors to people when it’s not taking a lot of time. John Wooden reinforces the point that others desire to be mentors, success, September 2008, mentoring is your true legacy.
+You have to get around people like that. You’re never too good for a mentor. During my interview with Harvey McKay, he told me, I have had 20 coaches, if you can believe it. I have a speech coach.
 
-It is the greatest inheritance you can give to others, and it should never end. It is why you get up every day, to teach and be taught. He went on to explain that mentorship is also a two-way street. An individual needs to be open to being mentored.
+I have a writing coach. I have a humor coach. I’ve got a language coach, and on and on. I have always found it interesting that the most successful people, the truly top performers, are the ones willing to hire and pay for the best coaches and trainers there are.
 
-It is our responsibility to be willing to allow our lives and our minds to be touched, molded, and strengthened by the people who surround us. Keep your own personal board of advisors. As part of my plan to be wiser, more strategic, and operate more effectively, as well as expand the time and interaction I have with high-minded leaders, I’ve been developing a board of advisors in my personal life. I’ve hand-selected a dozen people because of their areas of expertise, creative thinking ability, and or my great respect for who they are.
+It pays to invest in your improved performance. Finding and engaging a mentor doesn’t need to be a mysterious or intimidating process either. When. I sat down with Ken Blanchard, he explained the simplicity of engaging a mentor, success, January 2010.
 
-Once a week I reach out to a few of them and solicit ideas, run thoughts by them, and ask for feedback and input. Having started this process, I can tell you the benefits I’ve already received have been profound, far more than I anticipated. It’s surprising the genius people are willing to share when you show sincere interest. Who should be on your personal board of advisors?
+The first thing you want to remember with a mentor is that it doesn’t need to take a lot of their time. The best advice. I’ve ever gotten is in short clips, having lunch or breakfast with somebody, just telling them what. I’m working on and asking their advice and all.
 
-Seek out positive people who have achieved the success you want to create in your own life. Remember the adage. Never ask advice of someone with whom you wouldn’t want to trade places. 3. Environment.
+You will be amazed how successful businesspeople are willing to be mentors to people when it’s not taking a lot of time. John Wooden reinforces the point that others desire to be mentors, success, September 2008, mentoring is your true legacy. It is the greatest inheritance you can give to others, and it should never end. It is why you get up every day, to teach and be taught.
 
-Changing your view changes your perspective. When I was in real estate, working in the East Bay of San Francisco, I lived and worked within a very limited demographic. I saw the same kinds of people operating at the same level over and over. I knew that I needed to find an elevated circle of associations in order to go where I wanted to go.
+He went on to explain that mentorship is also a two-way street. An individual needs to be open to being mentored. It is our responsibility to be willing to allow our lives and our minds to be touched, molded, and strengthened by the people who surround us. Keep your own personal board of advisors.
+
+As part of my plan to be wiser, more strategic, and operate more effectively, as well as expand the time and interaction. I have with high-minded leaders, I’ve been developing a board of advisors in my personal life. I’ve hand-selected a dozen people because of their areas of expertise, creative thinking ability, and or my great respect for who they are. Once a week.
+
+I reach out to a few of them and solicit ideas, run thoughts by them, and ask for feedback and input. Having started this process, I can tell you the benefits. I’ve already received have been profound, far more than. I anticipated.
+
+It’s surprising the genius people are willing to share when you show sincere interest. Who should be on your personal board of advisors? Seek out positive people who have achieved the success you want to create in your own life. Remember the adage.
+
+Never ask advice of someone with whom you wouldn’t want to trade places. 3. Environment. Changing your view changes your perspective. When.
+
+I was in real estate, working in the East Bay of San Francisco, I lived and worked within a very limited demographic. I saw the same kinds of people operating at the same level over and over. I knew that. I needed to find an elevated circle of associations in order to go where.
+
+I wanted to go.
 
 
 <a id="sec-032645"></a>
@@ -1446,29 +1598,33 @@ I started driving across the Bay to one of the richest and most beautiful spots 
 
 The food was great, but more importantly, the restaurant was popular with the area’s more affluent residents. Aside from going to Sam’s to expand my associations, I’d also sit on the Wharf and look up at the hillside. I was mesmerized by the multi-million dollar houses that hung off the cliffs. One in particular always caught my eye, a blue, four-story home with an elevator and a whale lightning rod at the top.
 
-What would be the perfect house? I used to ask myself all the time, if someone could just give me one of them, which one would I pick? The answer was always the same, this beautiful blue one. It was in the perfect spot with a bright vista, the best of the bunch.
+What would be the perfect house? I used to ask myself all the time, if someone could just give me one of them, which one would. I pick? The answer was always the same, this beautiful blue one.
 
-On my way home from brunch one morning, I saw an open house sign and thought it’d be fun to check it out. One sign led to another as I followed them zigzagging up the cliffs along the narrow streets. I finally reached the top of the hill and found the advertised home. As I entered and walked up to a spectacular bay window, the world opened up in front of me, the peninsula tip of Tiburon, Angel Island across the bay, Berkeley and the East Bay, the Bay Bridge, and the entire San Francisco skyline over to the Golden Gate Bridge in a 300-degree expanse.
+It was in the perfect spot with a bright vista, the best of the bunch. On my way home from brunch one morning, I saw an open house sign and thought it’d be fun to check it out. One sign led to another as. I followed them zigzagging up the cliffs along the narrow streets.
 
-I walked out onto the balcony and looked around. Suddenly I realized that this was the very house I’d been looking at for years. This was the blue house. I signed the contract on the spot.
+I finally reached the top of the hill and found the advertised home. As. I entered and walked up to a spectacular bay window, the world opened up in front of me, the peninsula tip of Tiburon, Angel Island across the bay, Berkeley and the East Bay, the Bay Bridge, and the entire San Francisco skyline over to the Golden Gate Bridge in a 300-degree expanse. I walked out onto the balcony and looked around.
 
-My dream house was now mine. I can’t really say that I met anybody at Sam’s who changed my life.
+Suddenly. I realized that this was the very house. I’d been looking at for years. This was the blue house.
 
-However, that environment had a powerful effect on me. Seeing those homes up on the cliffs fueled my ambition and expanded my dreams. I ended up working harder than I ever thought possible to make those dreams come true, and they did. The dream in your heart may be bigger than the environment in which you find yourself. Sometimes you have to get out of that environment to see that dream fulfilled.
+I signed the contract on the spot. My dream house was now mine. I can’t really say that. I met anybody at Sam’s who changed my life.
 
-It’s like planting an oak sapling in a pot. Once it becomes root-bound, its growth is limited. It needs a great space to become a mighty oak. So do you.
+However, that environment had a powerful effect on me. Seeing those homes up on the cliffs fueled my ambition and expanded my dreams. I ended up working harder than. I ever thought possible to make those dreams come true, and they did.
 
-When I talk about your environment, I’m not just referring to where you live. I’m referring to whatever surrounds you. Creating a positive environment to support your success means clearing out all the clutter in your life. Not just the physical clutter that makes it hard for you to work productively and efficiently, although that’s important too, but also the psychic clutter of whatever around you isn’t working, whatever’s broken, whatever makes you cringe.
+The dream in your heart may be bigger than the environment in which you find yourself. Sometimes you have to get out of that environment to see that dream fulfilled. It’s like planting an oak sapling in a pot. Once it becomes root-bound, its growth is limited.
 
-Each and every incomplete thing in your life exerts a draining force on you, sucking the energy of accomplishment and success out of you as surely as a vampire stealing your blood. Every incomplete promise. Success, commitment, and agreement saps your strength because it blocks your momentum and inhibits your ability to move forward. Incomplete tasks keep calling you back to the past to take care of them.
+It needs a great space to become a mighty oak. So do you. When. I talk about your environment, I’m not just referring to where you live.
 
-So think about what you can complete today. Additionally, when you’re creating an environment to support your goals, remember that you get in life what you tolerate. This is true in every area of your life, particularly within your relationships with family, friends, and colleagues. What you have decided to tolerate is also reflected in the situations and circumstances of your life right now.
+I’m referring to whatever surrounds you. Creating a positive environment to support your success means clearing out all the clutter in your life. Not just the physical clutter that makes it hard for you to work productively and efficiently, although that’s important too, but also the psychic clutter of whatever around you isn’t working, whatever’s broken, whatever makes you cringe. Each and every incomplete thing in your life exerts a draining force on you, sucking the energy of accomplishment and success out of you as surely as a vampire stealing your blood.
 
-Put another way, you will get in life what you accept and expect you are worthy of. If you tolerate disrespect, you will be disrespected. If you tolerate people being late and making you wait, people will show up late for you. If you tolerate being underpaid and overworked, that will continue for you.
+Every incomplete promise. Success, commitment, and agreement saps your strength because it blocks your momentum and inhibits your ability to move forward. Incomplete tasks keep calling you back to the past to take care of them. So think about what you can complete today.
 
-If you tolerate your body being overweight, tired, and perpetually sick, it will be. It’s amazing how life will organize around the standards you set for yourself. Some people think they’re the victims of other people’s behavior, but in actuality, we have control over how people treat us. Protect your emotional, mental, and physical space so you can live with peace, rather than in the chaos and stress the world will hurl upon you.
+Additionally, when you’re creating an environment to support your goals, remember that you get in life what you tolerate. This is true in every area of your life, particularly within your relationships with family, friends, and colleagues. What you have decided to tolerate is also reflected in the situations and circumstances of your life right now. Put another way, you will get in life what you accept and expect you are worthy of.
 
-If you want to foster a disciplined routine of rhythms and consistency so that Big Mo not only pays a visit to your house but moves in, you have to be sure your environment is welcoming and supportive of your becoming, doing, and performing at world-class levels. While we’re on the topic of world class, in the next chapter, I want to help you take everything you’ve learned thus far and give you the secret to now accelerating your results.
+If you tolerate disrespect, you will be disrespected. If you tolerate people being late and making you wait, people will show up late for you. If you tolerate being underpaid and overworked, that will continue for you. If you tolerate your body being overweight, tired, and perpetually sick, it will be.
+
+It’s amazing how life will organize around the standards you set for yourself. Some people think they’re the victims of other people’s behavior, but in actuality, we have control over how people treat us. Protect your emotional, mental, and physical space so you can live with peace, rather than in the chaos and stress the world will hurl upon you. If you want to foster a disciplined routine of rhythms and consistency so that Big Mo not only pays a visit to your house but moves in, you have to be sure your environment is welcoming and supportive of your becoming, doing, and performing at world-class levels.
+
+While we’re on the topic of world class, in the next chapter, I want to help you take everything you’ve learned thus far and give you the secret to now accelerating your results.
 
 
 <a id="sec-033147"></a>
@@ -1482,7 +1638,7 @@ Who might you need to completely dissociate from? Strategize ways you will expan
 
 Identify the three areas of your life you are most focused on improving. Find and engage a mentor in each of those areas. Your mentors could be people who have accomplished what you wish to and with whom you have brief conversations, or they could be experts who have written down their ideas in books or recorded their ideas on CDs. 6. Acceleration.
 
-When I lived in La Jolla, California, for exercise and a test of wool, I would regularly ride my bike two miles straight up Mount Soledad. There are very few things you can do voluntarily that cause more pain and suffering than riding a bike up a steep mountain without stopping. There is a point at which you, hit the wall, and come face to face with your true inner character.
+When. I lived in La Jolla, California, for exercise and a test of wool, I would regularly ride my bike two miles straight up Mount Soledad. There are very few things you can do voluntarily that cause more pain and suffering than riding a bike up a steep mountain without stopping. There is a point at which you, hit the wall, and come face to face with your true inner character.
 
 Suddenly, all the projections and ideas you had about yourself are stripped away and you’re left with the naked truth. Your mind starts inventing all sorts of convenient alibis on why it’s okay to stop. It is then when you’re faced with one of life’s greatest questions, do you push through the pain and continue on, or will you crack like a walnut and give up? Lance Armstrong was the success cover feature in June 2009.
 
@@ -1490,43 +1646,51 @@ I remember watching Lance during his first tour de France victory. The tour had 
 
 He was left fighting the top climbers in the world, alone. On the final ascent, 18 miles straight up into Sestrière, after five and a half hours climbing mountains, every rider was suffering. Each needed to search the depths of his stamina and self-definition, could they endure? It became a test of who could best survive the hardships and find the strength to keep going, who would crack and who wouldn’t.
 
-With five miles to go, Lance was 32 seconds behind the leaders, and eternity while climbing a mountain on a bike. Having a curve, Lance stood up and surged ahead until he caught the two leaders, both established world-class climbers. Having expended almost everything he had in him, Lance then launched an attack and gained several lengths on the leaders. He later said in his book It’s Not About the Bike, My Journey Back to Life, Putnam, 2000, When you open a gap and your competitors don’t respond, it tells you something.
+With five miles to go, Lance was 32 seconds behind the leaders, and eternity while climbing a mountain on a bike. Having a curve, Lance stood up and surged ahead until he caught the two leaders, both established world-class climbers. Having expended almost everything he had in him, Lance then launched an attack and gained several lengths on the leaders. He later said in his book.
 
-They’re hurting. When they’re hurting, that is when you take them. Completely exhausted, struggling to breathe, his legs and arms burning with fatigue, Lance kept pounding the pedals. Some tried, but no one could catch him, they just didn’t have it in them.
+It’s Not About the Bike, My Journey Back to Life, Putnam, 2000, When you open a gap and your competitors don’t respond, it tells you something. They’re hurting. When they’re hurting, that is when you take them. Completely exhausted, struggling to breathe, his legs and arms burning with fatigue, Lance kept pounding the pedals.
 
-At the finish line, with fists pumping in the air, the unexpected contender won the stage race and ultimately the Tour de France. In this chapter I want to talk to you about those moments of truth and how the compound effect can help you break through to new and greater levels of success, faster than you imagined possible. When you’ve prepared, practiced, studied, and consistently put in the required effort, sooner or later you’ll be presented with your own moment of truth. In that moment, you will define who you are and who you are becoming.
+Some tried, but no one could catch him, they just didn’t have it in them. At the finish line, with fists pumping in the air, the unexpected contender won the stage race and ultimately the Tour de France. In this chapter. I want to talk to you about those moments of truth and how the compound effect can help you break through to new and greater levels of success, faster than you imagined possible.
 
-It is in those moments where growth and improvement live, when we either step forward or shrink back, when we climb to the top of the podium and seize the medal or we continue to applaud sullenly from the crowd for others' victories. We’ll also look at how you can consistently deliver more than people expect, compounding your good fortune even further. Moments of truth, there is a point in every race when a rider encounters his real opponent and understands that it’s himself, writes Lance in his autobiography.
+When you’ve prepared, practiced, studied, and consistently put in the required effort, sooner or later you’ll be presented with your own moment of truth. In that moment, you will define who you are and who you are becoming. It is in those moments where growth and improvement live, when we either step forward or shrink back, when we climb to the top of the podium and seize the medal or we continue to applaud sullenly from the crowd for others' victories.
+
+We’ll also look at how you can consistently deliver more than people expect, compounding your good fortune even further. Moments of truth, there is a point in every race when a rider encounters his real opponent and understands that it’s himself, writes Lance in his autobiography.
 
 
 <a id="sec-033648"></a>
 ### ⏱️ [03:36:48 - 03:41:49]
 
-In my most painful moments on the bike, I am at my most curious, and I wonder each and every time how I will respond. Will I discover my innermost weakness, or will I seek out my innermost strength? When I was in real estate, I hit the wall several times a day. While driving to an expired listing property, after just getting pummeled by the last prospect, I’d start conjuring up all sorts of excuses to skip the sales call and head back to the office.
+In my most painful moments on the bike, I am at my most curious, and. I wonder each and every time how. I will respond. Will.
 
-While out canvassing a neighborhood, dogs would snarl at me or it looked like it might start to rain. I’d be in the midst of, money time, 5-9pm, cold calling, and frequently get chewed out for interrupting someone’s dinner or favorite TV show. I was sure I needed to take a break to go to the bathroom or get a glass of water. But instead of quitting, every time I hit one of those mental and emotional walls, I recognized that my competitors were facing the same challenges.
+I discover my innermost weakness, or will. I seek out my innermost strength? When. I was in real estate, I hit the wall several times a day.
 
-I knew this was another moment that, if I kept going, I would be strides ahead of them. These were the defining moments of success and progress. It wasn’t difficult, painful, or challenging when I was just running with the herd, just keeping up, but not really getting ahead. It’s not getting to the wall that counts, it’s what you do after you hit it.
+While driving to an expired listing property, after just getting pummeled by the last prospect, I’d start conjuring up all sorts of excuses to skip the sales call and head back to the office. While out canvassing a neighborhood, dogs would snarl at me or it looked like it might start to rain. I’d be in the midst of, money time, 5-9pm, cold calling, and frequently get chewed out for interrupting someone’s dinner or favorite TV show. I was sure.
 
-Lou Holtz, the famous football coach, knew it was what you did after you did your best that created victories. In one game his team was down 42-0 at half-time. During the half-time break, Lou showed his team a dramatic highlight reel of second efforts to block, tackle, and recover the ball. He then told the players that they were not on his team because they could give their all on every play, every player on every team does that.
+I needed to take a break to go to the bathroom or get a glass of water. But instead of quitting, every time. I hit one of those mental and emotional walls, I recognized that my competitors were facing the same challenges. I knew this was another moment that, if.
 
-He said they were on his team because of their ability to make that critical extra effort on each play. It’s the extra effort after you have done your best that is the difference maker. His team went on to win the game in the second half. That is how you win.
+I kept going, I would be strides ahead of them. These were the defining moments of success and progress. It wasn’t difficult, painful, or challenging when. I was just running with the herd, just keeping up, but not really getting ahead.
 
-Muhammad Ali was one of the greatest fighters of all time, not only because of his speed and agility, but also because of his strategy. On October 30, 1974, Ali regained his heavyweight championship, besting George Foreman in one of the biggest upsets in boxing history in the, Rumble in the Jungle. Almost no one, not even Ali’s long-time supporter Howard Cosell, believed the former champion had a chance of winning. Both Joe Frazier and Ken Norton had beaten Ali previously, and George Foreman had knocked both of them out in only the second round.
+It’s not getting to the wall that counts, it’s what you do after you hit it. Lou Holtz, the famous football coach, knew it was what you did after you did your best that created victories. In one game his team was down 42-0 at half-time. During the half-time break, Lou showed his team a dramatic highlight reel of second efforts to block, tackle, and recover the ball.
 
-Ali’s strategy? To take advantage of the younger champion’s weakness, his lack of staying power. Ali knew if he could get Foreman to his wall, he could then take the advantage. This is when Ali came up with the tactic later termed, Rope a Dope.
+He then told the players that they were not on his team because they could give their all on every play, every player on every team does that. He said they were on his team because of their ability to make that critical extra effort on each play. It’s the extra effort after you have done your best that is the difference maker. His team went on to win the game in the second half.
 
-Ali would lean on the ropes, shielding his face, while Foreman threw hundreds of punches over seven rounds. By the eighth round, Foreman was exhausted, he was at his wall. It was then that Ali dropped Foreman with a combination at center ring. Hitting the wall isn’t an obstacle, it’s an opportunity.
+That is how you win. Muhammad Ali was one of the greatest fighters of all time, not only because of his speed and agility, but also because of his strategy. On October 30, 1974, Ali regained his heavyweight championship, besting George Foreman in one of the biggest upsets in boxing history in the, Rumble in the Jungle. Almost no one, not even Ali’s long-time supporter Howard Cosell, believed the former champion had a chance of winning.
 
-During Lance Armstrong’s second attempt at winning the Tour de France, it was once again timed to head into the mountains. The first big climb would be where Lance had experienced a devastating crash on a wet, spring day earlier that same year. The crash left him with a concussion and a broken vertebra. Now it was raining yet again.
+Both Joe Frazier and Ken Norton had beaten Ali previously, and George Foreman had knocked both of them out in only the second round. Ali’s strategy? To take advantage of the younger champion’s weakness, his lack of staying power. Ali knew if he could get Foreman to his wall, he could then take the advantage.
 
-Instead of being concerned or hesitant, he said, this is perfect attacking weather, mainly because I know the others don’t like it. I believe that nobody in the world is better at suffering. It’s a good day for me. He was right.
+This is when Ali came up with the tactic later termed, Rope a Dope. Ali would lean on the ropes, shielding his face, while Foreman threw hundreds of punches over seven rounds. By the eighth round, Foreman was exhausted, he was at his wall. It was then that Ali dropped Foreman with a combination at center ring.
 
-Lance brought home his second V-ictory. When conditions are great, things are easy, there aren’t any distractions, no one is interrupting, temptations aren’t luring, and nothing is disturbing your stride. That too is when most everyone else does great. It’s not until situations are difficult, when problems come up and temptation is great, that you get to prove your worthiness for progress.
+Hitting the wall isn’t an obstacle, it’s an opportunity. During Lance Armstrong’s second attempt at winning the Tour de France, it was once again timed to head into the mountains. The first big climb would be where Lance had experienced a devastating crash on a wet, spring day earlier that same year. The crash left him with a concussion and a broken vertebra.
 
-As Jim Rahn would say, don’t wish it were easier, wish you were better. When you hit the wall in your disciplines, routines, rhythms, and consistency, realize that’s when you are separating yourself from your old self, scaling that wall, and finding your new powerful, triumphant, and victorious self. Multiplying your results, I have an exciting opportunity for you. We’ve talked about how the simple disciplines and behaviors will compound over time, delivering amazingly powerful results for you.
+Now it was raining yet again. Instead of being concerned or hesitant, he said, this is perfect attacking weather, mainly because. I know the others don’t like it. I believe that nobody in the world is better at suffering.
 
-What if you could speed up the process and multiply your results? Would you be interested? I want to show you how just a little bit more effort can add exponentially to your outcomes.
+It’s a good day for me. He was right. Lance brought home his second V-ictory. When conditions are great, things are easy, there aren’t any distractions, no one is interrupting, temptations aren’t luring, and nothing is disturbing your stride.
+
+That too is when most everyone else does great. It’s not until situations are difficult, when problems come up and temptation is great, that you get to prove your worthiness for progress. As Jim Rahn would say, don’t wish it were easier, wish you were better. When you hit the wall in your disciplines, routines, rhythms, and consistency, realize that’s when you are separating yourself from your old self, scaling that wall, and finding your new powerful, triumphant, and victorious self.
+
+Multiplying your results, I have an exciting opportunity for you. We’ve talked about how the simple disciplines and behaviors will compound over time, delivering amazingly powerful results for you. What if you could speed up the process and multiply your results? Would you be interested?
+
+I want to show you how just a little bit more effort can add exponentially to your outcomes.
 
 
 <a id="sec-034149"></a>
@@ -1534,27 +1698,31 @@ What if you could speed up the process and multiply your results? Would you be i
 
 Let’s say your weight training and your program calls for you to do 12 repetitions of a certain weight. Now, if you do the 12, you’re fulfilling the expectation of your program. Great job, stay consistent, and ultimately, you will see this discipline compound into powerful results for you. Yet, if you get to 12, even if you’ve hit your max, and you push out another 3-5 reps, your impact on that set will be multiplied several times.
 
-You won’t just add a few reps to the aggregate of your workout. No. Those reps done after you hit your max will multiply your results. You’ve just pushed through the wall of your max. The previous reps just got you there. The real growth happens with what you do after you’re at the wall.
+You won’t just add a few reps to the aggregate of your workout. No. Those reps done after you hit your max will multiply your results. You’ve just pushed through the wall of your max.
 
-Arnold Schwarzenegger made famous a weight training method called, the cheating principle. Arnold was a stickler for perfect technique. He contended that once you reached your maximum number of lifts in perfect form, adjusting your wrists or leaning back to recruit other muscles to assist the working muscles, cheating a little, would allow you to do 5 or 6 more reps, which would significantly improve the results of that set. You can also achieve this by having a workout partner who assists the last few reps you couldn’t have done on your own.
+The previous reps just got you there. The real growth happens with what you do after you’re at the wall. Arnold Schwarzenegger made famous a weight training method called, the cheating principle. Arnold was a stickler for perfect technique.
 
-If you’re a runner, you know the experience. You get to the goal you set for yourself that day, and you’re feeling the burn, you’re at your wall, but you go a little farther, a little longer. This little longer is really a massive expansion of your limits. You have multiplied the results of that single run.
+He contended that once you reached your maximum number of lifts in perfect form, adjusting your wrists or leaning back to recruit other muscles to assist the working muscles, cheating a little, would allow you to do 5 or 6 more reps, which would significantly improve the results of that set. You can also achieve this by having a workout partner who assists the last few reps you couldn’t have done on your own. If you’re a runner, you know the experience.
 
-Take the magic penny we talked about in Chapter 1, the one that doubles in value each day, showing you the result of small compounded actions. If you just doubled that penny one extra time per week during those same 31 days, the compounded penny would result in 171 million dollars instead of 10 million dollars. Again, just extra effort in 4 days and the result was many times greater. That is how the math of doing just a little bit more than expected works.
+You get to the goal you set for yourself that day, and you’re feeling the burn, you’re at your wall, but you go a little farther, a little longer. This little longer is really a massive expansion of your limits. You have multiplied the results of that single run. Take the magic penny we talked about in.
 
-Viewing yourself as your toughest competitor is one of the best ways to multiply your results. Go above and beyond when you hit the wall. Another way to multiply your results is pushing past what other people expect of you, doing more than, enough. Beat the expectations.
+#### Chapter 1, the one that doubles in value each day, showing you the result of small compounded actions.
 
-Oprah is famous for using this principle, blasting beyond anyone’s expectations with her generosity and ability to live and work in a big way. Do you remember how she launched her 19th season in September 2004? When it comes to Oprah, we know to expect some fanfare, but she blew everyone away. That season opener was all the media or anyone else talked about for days afterward.
+If you just doubled that penny one extra time per week during those same 31 days, the compounded penny would result in 171 million dollars instead of 10 million dollars. Again, just extra effort in 4 days and the result was many times greater. That is how the math of doing just a little bit more than expected works. Viewing yourself as your toughest competitor is one of the best ways to multiply your results.
 
-Let’s go back in time for a minute. The audience members were selected because their friends and family members had written in saying each of them desperately needed a new car. Oprah opened the show by calling 11 people to the stage. She gave every one of them a car, a 2005 Pontiac G.
+Go above and beyond when you hit the wall. Another way to multiply your results is pushing past what other people expect of you, doing more than, enough. Beat the expectations. Oprah is famous for using this principle, blasting beyond anyone’s expectations with her generosity and ability to live and work in a big way.
 
-Then the real surprise, she surpassed everyone’s expectations when she distributed gift boxes to the rest of the audience saying one of the boxes contained a key to the 12th car. But when the audience members opened their boxes, every one of them had a set of keys. She screamed, everybody gets a car, everybody gets a car. While this might be her most famous example, Oprah continues to go beyond our expectations in most everything she does.
+Do you remember how she launched her 19th season in September 2004? When it comes to Oprah, we know to expect some fanfare, but she blew everyone away. That season opener was all the media or anyone else talked about for days afterward. Let’s go back in time for a minute.
 
-In other segments, Oprah surprised a 20-year-old girl who had spent years in foster care and homeless shelters with a four-year college scholarship, a makeover and $10,000 in clothes. And, she gave a family with eight foster children who were going to be kicked out of their house $130,000 to pay for and repair their home. Now you might be saying, yeah, but she’s Oprah, of course she can do those things. But the truth is there are plenty of others in Oprah’s position, with the finances and the fame, who could do those things, but never venture into the realm of extraordinary.
+The audience members were selected because their friends and family members had written in saying each of them desperately needed a new car. Oprah opened the show by calling 11 people to the stage. She gave every one of them a car, a 2005 Pontiac G. Then the real surprise, she surpassed everyone’s expectations when she distributed gift boxes to the rest of the audience saying one of the boxes contained a key to the 12th car.
 
-Oprah does. That’s what makes her Oprah. Take a lesson from her. You can do more than expect it in every aspect of your life.
+But when the audience members opened their boxes, every one of them had a set of keys. She screamed, everybody gets a car, everybody gets a car. While this might be her most famous example, Oprah continues to go beyond our expectations in most everything she does. In other segments, Oprah surprised a 20-year-old girl who had spent years in foster care and homeless shelters with a four-year college scholarship, a makeover and $10,000 in clothes.
 
-When it was time to propose to my wife, Georgia, I could have done what was expected and met with her father to ask for his daughter’s hand in marriage. Instead, I decided to pay great respect to her father by preparing my speech in Portuguese. I got Georgia’s sister to translate what I wanted to say. He understood English well enough, but wasn’t entirely comfortable with it.
+And, she gave a family with eight foster children who were going to be kicked out of their house $130,000 to pay for and repair their home. Now you might be saying, yeah, but she’s Oprah, of course she can do those things. But the truth is there are plenty of others in Oprah’s position, with the finances and the fame, who could do those things, but never venture into the realm of extraordinary. Oprah does.
+
+That’s what makes her Oprah. Take a lesson from her. You can do more than expect it in every aspect of your life. When it was time to propose to my wife, Georgia, I could have done what was expected and met with her father to ask for his daughter’s hand in marriage.
+
+Instead, I decided to pay great respect to her father by preparing my speech in Portuguese. I got Georgia’s sister to translate what. I wanted to say. He understood English well enough, but wasn’t entirely comfortable with it.
 
 All the way up to Los Angeles from San Diego, I rehearsed the words. I walked through the door carrying flowers and treats and asked her dad to join us in the living room.
 
@@ -1562,9 +1730,11 @@ All the way up to Los Angeles from San Diego, I rehearsed the words. I walked th
 <a id="sec-034650"></a>
 ### ⏱️ [03:46:50 - 03:51:52]
 
-I then delivered my memorized speech. Thankfully, he said, yes, but I didn’t stop there. On the way back, and over the next couple of days, I called each one of her five brothers and also asked for their blessing to join the family. Some were easy to convince, others proceeded to have me, earn it.
+I then delivered my memorized speech. Thankfully, he said, yes, but. I didn’t stop there. On the way back, and over the next couple of days, I called each one of her five brothers and also asked for their blessing to join the family.
 
-The point is, she told me later that one of the most special aspects about how I proposed was how I had honored her dad and how I had called every one of her brothers, and had her sister teach me Portuguese. That made the act extra special. The result of that extra effort paid off exponentially. Stuart Johnson owns the parent company to Success.
+Some were easy to convince, others proceeded to have me, earn it. The point is, she told me later that one of the most special aspects about how. I proposed was how. I had honored her dad and how.
+
+I had called every one of her brothers, and had her sister teach me Portuguese. That made the act extra special. The result of that extra effort paid off exponentially. Stuart Johnson owns the parent company to Success.
 
 Video Plus LP Stuart put a lot of money and a 22-year reputation on the line when he decided to acquire Success magazine, success.com and the other properties of Success Media. During one of the most challenging economies in recent history, and as print publishing was being seen as unfavorable, the move in itself was bold and audacious, but then he did even more than could be expected. While the new business enterprise was still finding its legs, translation, still operating in the red, and his primary business was taking a couple steps backward like the rest of the world during the economic tsunami of 2008 and 2009, Stuart launched a nonprofit foundation dedicated to kids.
 
@@ -1572,17 +1742,19 @@ If he was going to make a commitment to helping teach the fundamentals of person
 
 Today, that number is far greater and growing. Now, Stuart was already in for a heavy investment and big risk without the burdens of funding the new foundation. But the additional contribution and dedication to the foundation multiplied the statement of his commitment several fold to potential partners, the press, his peers, and his own staff. He was doing far more than expected, and it spoke volumes.
 
-Where in life can you do more than expected when you hit the wall? Or where can you go for, wow, it doesn’t take a lot more effort, but the little extra multiplies your results many times over. Whether you’re making calls, serving customers, recognizing your team, acknowledging your spouse, going for a run, bench pressing, planning a date night, sharing time with your kids, whatever, what’s the little extra you can do that exceeds expectations and accelerates your results? Do the unexpected.
+Where in life can you do more than expected when you hit the wall? Or where can you go for, wow, it doesn’t take a lot more effort, but the little extra multiplies your results many times over. Whether you’re making calls, serving customers, recognizing your team, acknowledging your spouse, going for a run, bench pressing, planning a date night, sharing time with your kids, whatever, what’s the little extra you can do that exceeds expectations and accelerates your results?
 
-I’m a contrarian by nature, I know. Tell me what everyone else does, what’s the consensus and what’s popular, and I will typically do the opposite. If everyone is zigging, I’m gonna zag. To me, what’s popular is average, it’s what’s common.
+Do the unexpected. I’m a contrarian by nature, I know. Tell me what everyone else does, what’s the consensus and what’s popular, and. I will typically do the opposite.
 
-Common things deliver common results. The most popular restaurant is McDonald’s, the most popular drink is Coca-Cola, the most popular beer is Budweiser, the most popular wine is Franzia. Yeah, the stuff that comes in a box. Consume those popular things, and you’ll be part of the common, average pack.
+If everyone is zigging, I’m gonna zag. To me, what’s popular is average, it’s what’s common. Common things deliver common results. The most popular restaurant is McDonald’s, the most popular drink is Coca-Cola, the most popular beer is Budweiser, the most popular wine is Franzia.
 
-But that’s ordinary. There’s nothing wrong with ordinary. I just prefer to shoot for extraordinary. For instance, everyone sends Christmas cards.
+Yeah, the stuff that comes in a box. Consume those popular things, and you’ll be part of the common, average pack. But that’s ordinary. There’s nothing wrong with ordinary.
 
-But since everyone does, it doesn’t really have much emotional impact, in my opinion. So I choose to send Thanksgiving cards instead. How many Thanksgiving cards do you get? Exactly.
+I just prefer to shoot for extraordinary. For instance, everyone sends Christmas cards. But since everyone does, it doesn’t really have much emotional impact, in my opinion. So.
 
-It makes a statement. And instead of bulk printed, computer generated, best wishes, cards, I hand write personal sentiments expressing how grateful I am for my relationship with that person and what he or she means to me, same effort, but a much greater impact. Richard Branson built his career on doing the unexpected. I love to watch him launch a new company.
+I choose to send Thanksgiving cards instead. How many Thanksgiving cards do you get? Exactly. It makes a statement.
+
+And instead of bulk printed, computer generated, best wishes, cards, I hand write personal sentiments expressing how grateful. I am for my relationship with that person and what he or she means to me, same effort, but a much greater impact. Richard Branson built his career on doing the unexpected. I love to watch him launch a new company.
 
 Each stunt is bolder, scarier, and more unexpected than the last. Whether it’s flying a hot air balloon around the globe or driving a tank down Fifth Avenue in New York to introduce Virgin Cola to the United States, Richard always delivers the unexpected. He could get by with the expected press release, a press conference or two, and some swanky party, and call it a day, but instead he goes for the astonishing. He probably spends as much as, and sometimes even less than, other companies due to launch a product, he just does it in unexpected style.
 
@@ -1590,59 +1762,73 @@ Each stunt is bolder, scarier, and more unexpected than the last. Whether it’s
 <a id="sec-035152"></a>
 ### ⏱️ [03:51:52 - 03:56:54]
 
-The wow factor makes a statement and multiplies the impact of his efforts. More often than not, the extra effort doesn’t cost that much more money or energy. When I was selling real estate, everyone else would call on expired listings when they came up. Instead, I got in my car and showed up on their doorstep and hand delivered a, sold, sign.
+The wow factor makes a statement and multiplies the impact of his efforts. More often than not, the extra effort doesn’t cost that much more money or energy. When. I was selling real estate, everyone else would call on expired listings when they came up.
 
-Take this, I’d say when they’d open the door, you’ll need it if you hire me to take over this listing. For the price it took to keep my gas tank full, I immediately and exponentially increased my chance of getting the listing. Recently Alex, a friend of mine, was up for a big job. He lives in California and the job was in Boston.
+Instead, I got in my car and showed up on their doorstep and hand delivered a, sold, sign. Take this, I’d say when they’d open the door, you’ll need it if you hire me to take over this listing. For the price it took to keep my gas tank full, I immediately and exponentially increased my chance of getting the listing. Recently Alex, a friend of mine, was up for a big job.
 
-He was one of a final 12 candidates. They were going to interview local candidates in person and those out of the area via videoconferencing. He called me, asking if I knew how to facilitate a web camera videoconference. How badly do you want this job?
+He lives in California and the job was in Boston. He was one of a final 12 candidates. They were going to interview local candidates in person and those out of the area via videoconferencing. He called me, asking if.
 
-I asked him. It’s my dream job, Alex told me. It’s everything I’ve spent 45 years preparing to do. Then get on a plane and show up in person.
+I knew how to facilitate a web camera videoconference. How badly do you want this job? I asked him. It’s my dream job, Alex told me.
 
-I said, no need, Alex said, they’re flying in the final three for a last interview. Listen, I told him. If you want to be in that final three, you should separate yourself by doing the unexpected. Fly across the country on a moment’s notice and show up in person.
+It’s everything. I’ve spent 45 years preparing to do. Then get on a plane and show up in person. I said, no need, Alex said, they’re flying in the final three for a last interview.
 
-That’s how you make a statement. If I set my sights on something, I’m going to ensure success by going all in and all out. I launch what I call, shock and awe, campaigns. During this same job hunt I suggested Alex pull out all the stops, attack from every possible front and do it relentlessly.
+Listen, I told him. If you want to be in that final three, you should separate yourself by doing the unexpected. Fly across the country on a moment’s notice and show up in person. That’s how you make a statement.
 
-Research all the decision makers, I told him. Find out their interests, hobbies, kids' hobbies, spouses' hobbies, neighbors' hobbies, etc. Send them books, articles, gifts, and other resources that you think they might like. Is this over the top? Heck yes, that’s the point.
+If. I set my sights on something, I’m going to ensure success by going all in and all out. I launch what. I call, shock and awe, campaigns.
 
-They’ll know you’re trying to butter them up, but they’ll appreciate your gumption and creativity. You’ll certainly get their attention and most likely, their respect. Then I continued. Research all the people in the organization.
+During this same job hunt. I suggested Alex pull out all the stops, attack from every possible front and do it relentlessly. Research all the decision makers, I told him. Find out their interests, hobbies, kids' hobbies, spouses' hobbies, neighbors' hobbies, etc.
+
+Send them books, articles, gifts, and other resources that you think they might like. Is this over the top? Heck yes, that’s the point. They’ll know you’re trying to butter them up, but they’ll appreciate your gumption and creativity.
+
+You’ll certainly get their attention and most likely, their respect. Then. I continued. Research all the people in the organization.
 
 Take that list and run it by your entire network to see if they know anyone who might know someone in this organization. Search every name against your LinkedIn database. Find a few people to connect with. Talk with them and ask them to put in a good word for you.
 
-Send them gifts, notes, and other things, and ask them to hand deliver these things to the decision makers. Phone, email, fax, text, tweet, Facebook, etc., them during the process. Could this be overly aggressive? Heck yes, but I have found that you may lose one out of five for being too aggressive, but you get the other four.
+Send them gifts, notes, and other things, and ask them to hand deliver these things to the decision makers. Phone, email, fax, text, tweet, Facebook, etc., them during the process. Could this be overly aggressive? Heck yes, but.
 
-By the way, Alex did not take my advice, and he did not get the job. He didn’t even get to be in the final three. I can unequivocally say he was a far better choice than the person the organization hired, but Alex failed to make an impression, and it cost him his dream job. I’m on the board of a company that needed a congressman to sign off on a piece of legislation that affected whether this company could move forward on an important project.
+I have found that you may lose one out of five for being too aggressive, but you get the other four. By the way, Alex did not take my advice, and he did not get the job. He didn’t even get to be in the final three. I can unequivocally say he was a far better choice than the person the organization hired, but Alex failed to make an impression, and it cost him his dream job.
 
-This guy wasn’t budging, not because of the actual issue, but because of a political axe he was grinding against others who publicly favored the issue. Instead of making any more futile appeals to sway him, I suggested we go above his head and talk to his boss, his wife. We went through our network until one person led us to someone who was friends with his wife. We then waited for her outside following a church service she attended, and had her friend introduce us.
+I’m on the board of a company that needed a congressman to sign off on a piece of legislation that affected whether this company could move forward on an important project. This guy wasn’t budging, not because of the actual issue, but because of a political axe he was grinding against others who publicly favored the issue. Instead of making any more futile appeals to sway him, I suggested we go above his head and talk to his boss, his wife.
 
-We explained our important case and cause, which was to build an after-school facility in an impoverished neighborhood that would affect the lives of hundreds of children if her husband would support it. Needless to say, he signed on by Tuesday that following week and the company got its project. In our attention deficit, propaganda-saturated society, sometimes doing the unexpected is required to get your voice heard. If you have a cause or ideal worthy of attention, do what it takes, even the unexpected, to make your case heard.
+We went through our network until one person led us to someone who was friends with his wife. We then waited for her outside following a church service she attended, and had her friend introduce us. We explained our important case and cause, which was to build an after-school facility in an impoverished neighborhood that would affect the lives of hundreds of children if her husband would support it. Needless to say, he signed on by Tuesday that following week and the company got its project.
 
-Add a little audacity to your repertoire. Do better than expected, Invisible Children, www.invisiblechildren.com, another non-profit for which I’m a board member, helps rescue and recuperate children who have been abducted and made soldiers in northern Uganda and the Congo. To gain awareness for their cause, they staged a hundred-city event called, The Rescue, where more than 800,000 young people camped outside until prominent leaders of the community came
+In our attention deficit, propaganda-saturated society, sometimes doing the unexpected is required to get your voice heard. If you have a cause or ideal worthy of attention, do what it takes, even the unexpected, to make your case heard. Add a little audacity to your repertoire. Do better than expected, Invisible Children, www.invisiblechildren.com, another non-profit for which.
+
+I’m a board member, helps rescue and recuperate children who have been abducted and made soldiers in northern Uganda and the Congo. To gain awareness for their cause, they staged a hundred-city event called, The Rescue, where more than 800,000 young people camped outside until prominent leaders of the community came
 
 
 <a id="sec-035654"></a>
 ### ⏱️ [03:56:54 - 04:01:55]
 
-to rescue them, thus gaining their attention and support. After four days, all but one city had been rescued, having people like U. S. Sens. Ted Kennedy and John Kerry, Val Kilmer, Kristen Bell, and many others show up in 99 other cities. The last city to get rescued was Chicago, and it required Oprah.
+to rescue them, thus gaining their attention and support. After four days, all but one city had been rescued, having people like U. S. Sens.
 
-After six days, Oprah was a no-show. On the fourth day, they organized a march that went round and round her studios. The next day they put on a singing and dancing presentation that went on all day and night. Then the sixth day, having endured harsh weather and sleeping in the rain, the more than 500 participants surrounded her studio and stood in silence holding signs starting at 3.30 a.m. that morning Oprah walked out the doors of Harpo Studios, spoke with the organization’s founders and invited the entire group to participate in a live broadcast segment that morning to her more than 20 million viewers.
+Ted Kennedy and John Kerry, Val Kilmer, Kristen Bell, and many others show up in 99 other cities. The last city to get rescued was Chicago, and it required Oprah. After six days, Oprah was a no-show. On the fourth day, they organized a march that went round and round her studios.
 
-That attention got Invisible Children on Larry King Live and 232 other news outlets, to reach a total of more than 65 million people. A bill is currently moving through Congress supporting Invisible Children’s efforts to save these children. The organization had already pulled off more than expected with The Rescue event, but the little extra gumption and steadfastness to capture that last city, and the attention of Oprah, gained Invisible Children its biggest advocate to date, multiplying its results many times over. Find the line of expectation and then exceed it, even when it comes to the small stuff, or maybe especially then.
+The next day they put on a singing and dancing presentation that went on all day and night. Then the sixth day, having endured harsh weather and sleeping in the rain, the more than 500 participants surrounded her studio and stood in silence holding signs starting at 3.30 a.m. that morning Oprah walked out the doors of Harpo Studios, spoke with the organization’s founders and invited the entire group to participate in a live broadcast segment that morning to her more than 20 million viewers.
 
-Whatever I think the dress standard is going to be for any event, for example, I always choose to go at least one step above it. When I am unsure of the attire, I always err on the side of dressing better than I suppose the occasion calls for. Simple, I know, but it’s just one way I try to meet my standard to always do and be better than expected. When I do keynotes for large companies, I spend a considerable amount of time preparing, learning about their organization, products, markets, and their expectations for my talk.
+That attention got Invisible Children on Larry King Live and 232 other news outlets, to reach a total of more than 65 million people. A bill is currently moving through Congress supporting Invisible Children’s efforts to save these children. The organization had already pulled off more than expected with The Rescue event, but the little extra gumption and steadfastness to capture that last city, and the attention of Oprah, gained Invisible Children its biggest advocate to date, multiplying its results many times over.
 
-My goal is always to significantly surpass what they expect, and I do this through tireless preparation. Doing better than expected becomes a big part of your reputation. Your reputation for excellence multiplies your results in the marketplace many times over. I did some work with a CEO whose philosophy was to pay people, including his vendors and suppliers, a few days in advance of the contract commitment.
+Find the line of expectation and then exceed it, even when it comes to the small stuff, or maybe especially then. Whatever. I think the dress standard is going to be for any event, for example, I always choose to go at least one step above it. When.
 
-I was always blown away when I received a check on the 27th of the month from him for next month’s payment. When I asked him about it, he said the obvious, it’s the same money, but the surprise and good will it buys is immeasurable, why wouldn’t you? This is one of the reasons why I admire Steve Jobs so much. Of all the sensational people we’ve featured on the cover of Success, Jobs is one of my favorites.
+I am unsure of the attire, I always err on the side of dressing better than. I suppose the occasion calls for. Simple, I know, but it’s just one way. I try to meet my standard to always do and be better than expected.
 
-Whatever your expectations are about the next Apple product launch, Jobs always has a little, or a lot of, something extra to wow you. In the grand scheme of things, it might be only a minor addition, but even so, it’s better than expected and multiplies the impression and response from his customers and deepens their loyalty. In a world where most things don’t meet expectations, you can significantly accelerate your results and stand out from the pack by doing better than expected. I like the boldness of what Robert Schuller told us in his success feature, December 2008.
+When. I do keynotes for large companies, I spend a considerable amount of time preparing, learning about their organization, products, markets, and their expectations for my talk. My goal is always to significantly surpass what they expect, and. I do this through tireless preparation.
 
-I say no idea is worthwhile if it doesn’t start with, wow, Nordstrom is famous for this standard. When it comes to customer service, they always strive to do better than expected. Nordstrom has been known to take back an item that a customer bought more than a year ago, without a receipt, and in some cases, purchased at a different store. Why would they do that?
+Doing better than expected becomes a big part of your reputation. Your reputation for excellence multiplies your results in the marketplace many times over. I did some work with a CEO whose philosophy was to pay people, including his vendors and suppliers, a few days in advance of the contract commitment. I was always blown away when.
 
-Because they know exceeding expectations builds trust and creates customer loyalty. As a result, they’ve developed an extraordinary reputation that continues to attract attention. After all, I’m reminding you of it here. The multiplier keeps growing.
+I received a check on the 27th of the month from him for next month’s payment. When. I asked him about it, he said the obvious, it’s the same money, but the surprise and good will it buys is immeasurable, why wouldn’t you? This is one of the reasons why.
 
-I challenge you to adopt these philosophies in your own life, in your daily habits, disciplines and routines. Having a little more time, energy, or thought to your efforts won’t just improve your results, it will multiply them. It takes very little extra to be extraordinary. In all areas of your life, look for the multiplier opportunities where you can go a little further, push yourself a little harder, last a little longer, prepare a little better, and deliver a little bit more.
+I admire Steve Jobs so much. Of all the sensational people we’ve featured on the cover of Success, Jobs is one of my favorites. Whatever your expectations are about the next Apple product launch, Jobs always has a little, or a lot of, something extra to wow you. In the grand scheme of things, it might be only a minor addition, but even so, it’s better than expected and multiplies the impression and response from his customers and deepens their loyalty.
 
-Where can you do better and more than expected? When can you do the totally unexpected? Find as many opportunities for, wow, and the level and speed of your accomplishments
+In a world where most things don’t meet expectations, you can significantly accelerate your results and stand out from the pack by doing better than expected. I like the boldness of what Robert Schuller told us in his success feature, December 2008. I say no idea is worthwhile if it doesn’t start with, wow, Nordstrom is famous for this standard. When it comes to customer service, they always strive to do better than expected.
+
+Nordstrom has been known to take back an item that a customer bought more than a year ago, without a receipt, and in some cases, purchased at a different store. Why would they do that? Because they know exceeding expectations builds trust and creates customer loyalty. As a result, they’ve developed an extraordinary reputation that continues to attract attention.
+
+After all, I’m reminding you of it here. The multiplier keeps growing. I challenge you to adopt these philosophies in your own life, in your daily habits, disciplines and routines. Having a little more time, energy, or thought to your efforts won’t just improve your results, it will multiply them.
+
+It takes very little extra to be extraordinary. In all areas of your life, look for the multiplier opportunities where you can go a little further, push yourself a little harder, last a little longer, prepare a little better, and deliver a little bit more. Where can you do better and more than expected? When can you do the totally unexpected?
+
+Find as many opportunities for, wow, and the level and speed of your accomplishments
 
 
 <a id="sec-040155"></a>
@@ -1650,23 +1836,27 @@ Where can you do better and more than expected? When can you do the totally unex
 
 will astonish you, and everyone else around you. Put the compound effect to work for you. Summary action steps. When do you hit your moments of truth, e.g., making prospecting calls, exercising, communicating with your spouse or kids?
 
-Identify so you know when to push through to find new growth and where you can separate yourself from others and your old self. Find three areas in your life where you can you do, extra, e.g., weightlifting rips, calls, recognition, sentiments of appreciation, etc. Identify three areas in your life where you can beat the expectations. Where and how can you create, wow, moments? Identify three ways you can do the unexpected.
+Identify so you know when to push through to find new growth and where you can separate yourself from others and your old self. Find three areas in your life where you can you do, extra, e.g., weightlifting rips, calls, recognition, sentiments of appreciation, etc. Identify three areas in your life where you can beat the expectations. Where and how can you create, wow, moments?
 
-Where can you differentiate from what is common, normal, or expected? Conclusion. Working without execution is useless. I didn’t write this book for my own amusement.
+Identify three ways you can do the unexpected. Where can you differentiate from what is common, normal, or expected? Conclusion. Working without execution is useless.
 
-This is hard work. Or even to simply, motivate, you. Motivation without action leads to self-delusion. As I said in the introduction, the compound effect and the results it will manifest in your life are the real deal.
+I didn’t write this book for my own amusement. This is hard work. Or even to simply, motivate, you. Motivation without action leads to self-delusion.
 
-Never again will you wish and hope that success will find you. The compound effect is a tool that, when combined with consistent, positive action, will make a real and lasting difference in your life. Let this book and its philosophy become your guide. Let the ideas and success strategies sink in and produce genuine, tangible, measurable outcomes for you.
+As. I said in the introduction, the compound effect and the results it will manifest in your life are the real deal. Never again will you wish and hope that success will find you. The compound effect is a tool that, when combined with consistent, positive action, will make a real and lasting difference in your life.
 
-Whenever you realize small, seemingly innocuous poor habits have crept back into your life, take out this book. Whenever you fall off the wagon of consistency, take out this book. Whenever you want to reignite your motivation and bolster your why power, take out this book. Every time you read this book, it entices big mo to pay a visit to your life.
+Let this book and its philosophy become your guide. Let the ideas and success strategies sink in and produce genuine, tangible, measurable outcomes for you. Whenever you realize small, seemingly innocuous poor habits have crept back into your life, take out this book. Whenever you fall off the wagon of consistency, take out this book.
 
-Let me share with you what motivates me. My core value in life is significance. My desire is to make a positive difference in other people’s lives. So to accomplish my goals, I need you to accomplish your goals.
+Whenever you want to reignite your motivation and bolster your why power, take out this book. Every time you read this book, it entices big mo to pay a visit to your life. Let me share with you what motivates me. My core value in life is significance.
 
-It is your testimonial of life-changing results I’m after. I want to receive your email or letter, or to have you stop me in the airport next year, or even five or ten years from now, to tell me about the incredible results you’ve realized because ideas you gained from this book. Only then will I know I have accomplished my goals, my objectives, that I am living up to my core values in life. For you to get those results, and me, my testimonial, I know you have to take immediate action on your new insights and knowledge.
+My desire is to make a positive difference in other people’s lives. So to accomplish my goals, I need you to accomplish your goals. It is your testimonial of life-changing results. I’m after.
 
-Ideas uninvested or wasted, I don’t want that to happen. It’s now time to act on your new convictions. You now have the power, and I expect you to seize it. You are ready to make dramatic improvements, right?
+I want to receive your email or letter, or to have you stop me in the airport next year, or even five or ten years from now, to tell me about the incredible results you’ve realized because ideas you gained from this book. Only then will. I know. I have accomplished my goals, my objectives, that.
 
-Of course, the obvious answer is, yes. But you know by now that saying you’re ready to make the necessary changes and actually making them isn’t the same thing. To get different results, you’re going to have to do things differently. No matter where you were, or what year it is when you find this book, if I could, I’d ask you these simple questions, look back on your life five years ago.
+I am living up to my core values in life. For you to get those results, and me, my testimonial, I know you have to take immediate action on your new insights and knowledge. Ideas uninvested or wasted, I don’t want that to happen. It’s now time to act on your new convictions.
+
+You now have the power, and. I expect you to seize it. You are ready to make dramatic improvements, right? Of course, the obvious answer is, yes.
+
+But you know by now that saying you’re ready to make the necessary changes and actually making them isn’t the same thing. To get different results, you’re going to have to do things differently. No matter where you were, or what year it is when you find this book, if. I could, I’d ask you these simple questions, look back on your life five years ago.
 
 Are you now where you’d thought you’d be five years later? Have you kicked the bad habits you had vowed to kick? Are you in the shape you wanted to be? Do you have the cushy income, the enviable lifestyle, and the personal freedom you expected?
 
@@ -1684,17 +1874,19 @@ And then, together, with that momentum and consistent, positive action, it will 
 <a id="sec-040657"></a>
 ### ⏱️ [04:06:57 - 04:09:10]
 
-On the contrary, when you put the compound effect to work for you, you will experience a success I’m willing to bet you currently cannot imagine. It will be incredible. I have one more valuable success principle to pass along to you. Whatever I want in life, I’ve found that the best way to get it is to focus my energy on giving to others.
+On the contrary, when you put the compound effect to work for you, you will experience a success. I’m willing to bet you currently cannot imagine. It will be incredible. I have one more valuable success principle to pass along to you.
 
-If I want to boost my confidence, I look for ways to help someone else feel more confident. If I want to feel more hopeful, positive, and inspired, I try to infuse that in someone else’s day. If I want more success for myself, the fastest way to get it is to go about helping someone else obtain it. The ripple effect of helping others and giving generously of your time and energy is that you become the biggest beneficiary of your personal philanthropy.
+Whatever. I want in life, I’ve found that the best way to get it is to focus my energy on giving to others. If. I want to boost my confidence, I look for ways to help someone else feel more confident.
 
-As the first simple and small step I’d like you to take in improving the trajectory of your life, I ask you to try this philosophy in your own life. If you found value in this book, if it’s helped you in any way, consider giving a copy to five people whom you care about and want greater success for. The recipients could be relatives, friends, team members, vendors, your favorite local small business owner, or someone you just met and would like to make a marked difference in their life.
+If. I want to feel more hopeful, positive, and inspired, I try to infuse that in someone else’s day. If. I want more success for myself, the fastest way to get it is to go about helping someone else obtain it.
 
-I know this sounds like it benefits me. It does. Remember, I am after the success testimonials. My goal is to make a difference in millions of people’s lives, but to do that, I need your help.
+The ripple effect of helping others and giving generously of your time and energy is that you become the biggest beneficiary of your personal philanthropy. As the first simple and small step. I’d like you to take in improving the trajectory of your life, I ask you to try this philosophy in your own life. If you found value in this book, if it’s helped you in any way, consider giving a copy to five people whom you care about and want greater success for.
 
-But I promise you this, ultimately, it will be you who benefits the most. You’re helping someone else find the ideas to gain greater success as the first step toward you exercising them in your own life. At the same time you could make a marked difference in the life of someone else. This book could forever alter the course of someone’s life, and it could be you who gives it to them.
+The recipients could be relatives, friends, team members, vendors, your favorite local small business owner, or someone you just met and would like to make a marked difference in their life. I know this sounds like it benefits me. It does. Remember, I am after the success testimonials.
 
-Without you, they might not ever find it. Write down the five people you will give a copy of this book to. Thank you for honoring me with your valuable time. I look forward to reading your success story.
+My goal is to make a difference in millions of people’s lives, but to do that, I need your help. But. I promise you this, ultimately, it will be you who benefits the most. You’re helping someone else find the ideas to gain greater success as the first step toward you exercising them in your own life.
 
-To your success, Darren Hardy.
+At the same time you could make a marked difference in the life of someone else. This book could forever alter the course of someone’s life, and it could be you who gives it to them. Without you, they might not ever find it. Write down the five people you will give a copy of this book to.
+
+Thank you for honoring me with your valuable time. I look forward to reading your success story. To your success, Darren Hardy.
 

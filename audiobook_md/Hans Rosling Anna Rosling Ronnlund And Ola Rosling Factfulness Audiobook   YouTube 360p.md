@@ -120,23 +120,27 @@
 
 Recording books in R. B. Digital present Factfulness by Hans Rosling with Ola Rosling and Anna Rosling-Runland. Narrated by Richard Harries.
 
-Authors note, Factfulness is written in my voice, as if by me alone, and tells many stories from my life, but please don’t be misled. Just like the Ted Talks and lectures I’ve been giving all over the world for the past ten years, this book is the work of three people, not one. I’m usually the front man. I stand on stage and deliver the lectures.
+Authors note, Factfulness is written in my voice, as if by me alone, and tells many stories from my life, but please don’t be misled. Just like the Ted Talks and lectures. I’ve been giving all over the world for the past ten years, this book is the work of three people, not one. I’m usually the front man.
 
-I receive the applause. But everything you hear in my lectures, and everything you read in this book, is the output of eighteen years of intense collaboration between me, my son Ola Rosling, and my daughter-in-law, Anna Rosling-Runland. In 2005 we founded the Gapminder Foundation, with a mission to fight devastating ignorance with a fact-based worldview. I brought energy, curiosity, and a lifetime of experience, as a doctor, a researcher, and a lecturer in global health.
+I stand on stage and deliver the lectures. I receive the applause. But everything you hear in my lectures, and everything you read in this book, is the output of eighteen years of intense collaboration between me, my son Ola Rosling, and my daughter-in-law, Anna Rosling-Runland. In 2005 we founded the Gapminder Foundation, with a mission to fight devastating ignorance with a fact-based worldview.
 
-Ola and Anna were responsible for the data analysis, inventive visual explanations, data stories, and simple presentation design. It was their idea to measure ignorance systematically, and they designed and programmed our beautiful animated bubble charts. Dollar Street, a way of using photographs as data to explain the world, was Anna’s brainchild. While I was getting ever angrier about people’s ignorance about the world, Ola and Anna instead took the analysis beyond anger and crystallized the humble and relaxing idea of factfulness.
+I brought energy, curiosity, and a lifetime of experience, as a doctor, a researcher, and a lecturer in global health. Ola and Anna were responsible for the data analysis, inventive visual explanations, data stories, and simple presentation design. It was their idea to measure ignorance systematically, and they designed and programmed our beautiful animated bubble charts. Dollar Street, a way of using photographs as data to explain the world, was Anna’s brainchild.
 
-Together we defined the practical thinking tools that we present in this book. What you are about to read was not invented according to the lone genius stereotype. It is instead the result of constant discussion, argument, and collaboration between three people with different talents, knowledge, and perspectives. This unconventional, often infuriating, but deeply productive way of working has led to a way of presenting the world and how to think about it that I never could have created on my own.
+While. I was getting ever angrier about people’s ignorance about the world, Ola and Anna instead took the analysis beyond anger and crystallized the humble and relaxing idea of factfulness. Together we defined the practical thinking tools that we present in this book. What you are about to read was not invented according to the lone genius stereotype.
 
-Introduction Why I love the circus. I love the circus. I love to watch a juggler throwing screaming chainsaws in the air, or a tightrope walker performing ten flips in a row. I love the spectacle and the sense of amazement and delight at witnessing the seemingly impossible.
+It is instead the result of constant discussion, argument, and collaboration between three people with different talents, knowledge, and perspectives. This unconventional, often infuriating, but deeply productive way of working has led to a way of presenting the world and how to think about it that. I never could have created on my own. Introduction.
 
-When I was a child, my dream was to become a circus artist. My parents' dream, though, was for me to get the good education they never had. So I ended up studying medicine. One afternoon at medical school, in an otherwise dry lecture about the way the throat worked, our professor explained, If something is stuck, the passage can be strengthened by pushing the chin bone forward.
+Why I love the circus. I love the circus. I love to watch a juggler throwing screaming chainsaws in the air, or a tightrope walker performing ten flips in a row. I love the spectacle and the sense of amazement and delight at witnessing the seemingly impossible.
 
-To illustrate, he showed an x-ray of a sword-swallower in action. I had a flash of inspiration. My dream was not over. A few weeks earlier, when studying reflexes, I had discovered that of all my classmates, I could push my fingers farthest down my throat without gagging.
+When. I was a child, my dream was to become a circus artist. My parents' dream, though, was for me to get the good education they never had. So.
 
-At the time, I had not been too proud. I didn’t think it was an important skill. But now I understood its value, and instantly my childhood dream sprang back to life. I decided to become a sword-swallower.
+I ended up studying medicine. One afternoon at medical school, in an otherwise dry lecture about the way the throat worked, our professor explained, If something is stuck, the passage can be strengthened by pushing the chin bone forward. To illustrate, he showed an x-ray of a sword-swallower in action. I had a flash of inspiration.
 
-My initial attempts weren’t encouraging. I didn’t own a sword, so used a fishing rod instead. But no matter how many times I stood in front of the bathroom mirror and tried, I’d get as far as an inch and it would get stuck. Eventually, for a second time, I gave up on my dream.
+My dream was not over. A few weeks earlier, when studying reflexes, I had discovered that of all my classmates, I could push my fingers farthest down my throat without gagging. At the time, I had not been too proud. I didn’t think it was an important skill.
+
+But now. I understood its value, and instantly my childhood dream sprang back to life. I decided to become a sword-swallower. My initial attempts weren’t encouraging.
+
+I didn’t own a sword, so used a fishing rod instead. But no matter how many times. I stood in front of the bathroom mirror and tried, I’d get as far as an inch and it would get stuck. Eventually, for a second time, I gave up on my dream.
 
 Three years later, I was a trainee doctor on a real medical ward.
 
@@ -146,53 +150,61 @@ Three years later, I was a trainee doctor on a real medical ward.
 
 One of my first patients was an old man with a persistent cough. I would always ask what my patients did for a living, in case it was relevant. And it turned out he used to swallow swords. Imagine my surprise when this patient turned out to be the very same sword-swallower from the x-ray.
 
-And imagine this when I told him all about my attempts with the fishing rod. Young doctor, he said, don’t you know the throat is flat? You can only slide flat things down there. That is why we use a sword.
+And imagine this when. I told him all about my attempts with the fishing rod. Young doctor, he said, don’t you know the throat is flat? You can only slide flat things down there.
 
-That night after work, I found a soup ladle with a straight, flat handle and immediately resumed my practice. Soon I could slide the handle all the way down my throat. I was excited, but being a soup ladle shaft-swallower was not my dream. The next day, I put an ad in the local paper and soon I had acquired what I needed, a Swedish army bayonet from 1809.
+That is why we use a sword. That night after work, I found a soup ladle with a straight, flat handle and immediately resumed my practice. Soon. I could slide the handle all the way down my throat.
 
-As I successfully slid it down my throat, I felt both deeply proud of my achievement and smug that I had found such a great way to recycle weapons. Sword-swallowing has always shown that the seemingly impossible can be possible and inspired humans to think beyond the obvious. Occasionally I demonstrate this ancient Indian art at the end of one of my lectures on global development. I step up onto a table and rip off my professional check shirt to reveal a black vest top decorated with a gold sequined lightning bolt.
+I was excited, but being a soup ladle shaft-swallower was not my dream. The next day, I put an ad in the local paper and soon. I had acquired what. I needed, a Swedish army bayonet from 1809.
 
-I call for complete silence, and to the swirling beat of a snare drum, I slowly slide the army bayonet down my throat. I stretch out my arms. The audience goes wild. Test yourself. This book is about the world and how to understand it.
+As. I successfully slid it down my throat, I felt both deeply proud of my achievement and smug that. I had found such a great way to recycle weapons. Sword-swallowing has always shown that the seemingly impossible can be possible and inspired humans to think beyond the obvious.
 
-So why start with the circus? And why would I end a lecture by showing off in a sparkly top? I’ll soon explain. But first, I would like you to test your knowledge about the world.
+Occasionally. I demonstrate this ancient Indian art at the end of one of my lectures on global development. I step up onto a table and rip off my professional check shirt to reveal a black vest top decorated with a gold sequined lightning bolt. I call for complete silence, and to the swirling beat of a snare drum, I slowly slide the army bayonet down my throat.
 
-Question 1. In all low-income countries across the world today, how many girls finish primary school? The answer is C. 2. Where does the majority of the world population live?
+I stretch out my arms. The audience goes wild. Test yourself. This book is about the world and how to understand it.
 
-A. Low-income countries B. Middle-income countries C. High-income countries The correct answer is B.
+So why start with the circus? And why would. I end a lecture by showing off in a sparkly top? I’ll soon explain.
 
-Middle-income countries In the last 20 years, the proportion of the world population living in extreme poverty has A. Almost doubled B. Remained more or less the same C. Almost halved The answer is C.
+But first, I would like you to test your knowledge about the world. Question 1. In all low-income countries across the world today, how many girls finish primary school? The answer is C. 2.
 
-What is the life expectancy of the world today? A. 50 years B. 60 years C. 70 years Once again, the answer is C. 70 years Question 5. There are 2 billion children in the world today, aged 0 to 15 years old. How many children will there be in the year 2100?
+Where does the majority of the world population live? A. Low-income countries B. Middle-income countries C.
 
-According to the United Nations. A. 4 billion B. 3 billion C. 2 billion The answer is C. 6 The UN predicts that by 2100, the world population will have increased by another 4 billion people. What is the main reason? A.
+High-income countries The correct answer is B. Middle-income countries. In the last 20 years, the proportion of the world population living in extreme poverty has A. Almost doubled B.
 
-There will be more children, aged below 15 B. There will be more adults, aged 15 to 74 C. There will be more very old people, aged 75 and older The answer is B. There will be more adults Question 7.
+Remained more or less the same C. Almost halved The answer is C. What is the life expectancy of the world today? A. 50 years B. 60 years C. 70 years Once again, the answer is C. 70 years Question 5.
 
-How did the number of deaths per year from natural disasters change over the last 100 years?
+There are 2 billion children in the world today, aged 0 to 15 years old. How many children will there be in the year 2100? According to the United Nations. A. 4 billion B. 3 billion C. 2 billion The answer is C. 6 The UN predicts that by 2100, the world population will have increased by another 4 billion people.
+
+What is the main reason? A. There will be more children, aged below 15 B. There will be more adults, aged 15 to 74 C.
+
+There will be more very old people, aged 75 and older The answer is B. There will be more adults Question 7. How did the number of deaths per year from natural disasters change over the last 100 years?
 
 
 <a id="sec-001007"></a>
 ### ⏱️ [00:10:07 - 00:15:10]
 
-A. More than doubled B. Remained about the same C. Decreased to less than half The answer is C. 8 How many of the world’s 1 year old children today have been vaccinated against some disease?
+A. More than doubled B. Remained about the same C. Decreased to less than half The answer is C. 8.
 
-A. 20% B. 50% C. 80% The answer is C. 80% 9 Worldwide, 30 year old men have spent 10 years in school on average. How many years have women of the same age spent in school? A. 9 years B. 6 years C. 3 years The answer is A. 9 years 10 In 1996, tigers, giant pandas and black rhinos were all listed as endangered. How many of these three species are more critically endangered today?
+How many of the world’s 1 year old children today have been vaccinated against some disease? A. 20% B. 50% C. 80% The answer is C. 80% 9 Worldwide, 30 year old men have spent 10 years in school on average. How many years have women of the same age spent in school? A. 9 years B. 6 years C. 3 years The answer is A. 9 years 10.
 
-A. 2 of them B. 1 of them C. None of them The answer is C. 11 How many people in the world have some access to electricity? A. 20% C. 50% C. 80% The correct answer is C. Question 12 Global climate experts believe that over the next 100 years the average temperature will A. get warmer B. remain the same C. get colder The answer is A.
+In 1996, tigers, giant pandas and black rhinos were all listed as endangered. How many of these three species are more critically endangered today? A. 2 of them B. 1 of them C. None of them The answer is C. 11.
 
-Scientists, chimpanzees and you How did you do? Did you get a lot wrong? Did you feel like you were doing a lot of guessing? If so, let me say two things to comfort you.
+How many people in the world have some access to electricity? A. 20% C. 50% C. 80% The correct answer is C. Question 12 Global climate experts believe that over the next 100 years the average temperature will A. get warmer B. remain the same C. get colder The answer is A. Scientists, chimpanzees and you.
 
-First, when you finish this book, you will do much better. Not because I will have made you sit down and memorize a string of global statistics. I am a global health professor, but I’m not crazy. You’ll do better because I will have shared with you a set of simple thinking tools.
+How did you do? Did you get a lot wrong? Did you feel like you were doing a lot of guessing? If so, let me say two things to comfort you.
 
-These will help you get the big picture right and improve your sense of how the world works without you having to learn all the details. And second, if you did badly on this test, you’re in very good company. Over the past decades, I have posed hundreds of fact questions like these about poverty and wealth, population growth, births, deaths, education, health, gender, violence, energy and the environment, basic global patterns and trends, to thousands of people across the world. The tests are not complicated and there are no trick questions.
+First, when you finish this book, you will do much better. Not because. I will have made you sit down and memorize a string of global statistics. I am a global health professor, but.
 
-I am careful only to use facts that are well-documented and not disputed. Yet most people do extremely badly. Question three, for example, is about the trend in extreme poverty. Over the past twenty years, the proportion of the global population living in extreme poverty has halved.
+I’m not crazy. You’ll do better because. I will have shared with you a set of simple thinking tools. These will help you get the big picture right and improve your sense of how the world works without you having to learn all the details.
 
-This is absolutely revolutionary. I consider it to be the most important change that has happened in the world in my lifetime. It is also a pretty basic fact to know about life on Earth. But people do not know it.
+And second, if you did badly on this test, you’re in very good company. Over the past decades, I have posed hundreds of fact questions like these about poverty and wealth, population growth, births, deaths, education, health, gender, violence, energy and the environment, basic global patterns and trends, to thousands of people across the world. The tests are not complicated and there are no trick questions. I am careful only to use facts that are well-documented and not disputed.
 
-On average, only seven percent, less than one in ten, get it right. Yes, I have been talking a lot about the decline of global poverty in the Swedish media. The Democrats and Republicans in the United States often claim that their opponents don’t know the facts. If they measured their own knowledge instead of pointing at each other, maybe everyone could become more humble.
+Yet most people do extremely badly. Question three, for example, is about the trend in extreme poverty. Over the past twenty years, the proportion of the global population living in extreme poverty has halved. This is absolutely revolutionary.
 
-When we polled in the United States, only five percent picked the right answer. The other ninety-five percent, regardless of their voting preference, believed either that the extreme poverty rate… had not changed over the last twenty years or worse than it had actually doubled, which is literally the opposite of what has actually happened.
+I consider it to be the most important change that has happened in the world in my lifetime. It is also a pretty basic fact to know about life on Earth. But people do not know it. On average, only seven percent, less than one in ten, get it right.
+
+Yes, I have been talking a lot about the decline of global poverty in the Swedish media. The Democrats and Republicans in the United States often claim that their opponents don’t know the facts. If they measured their own knowledge instead of pointing at each other, maybe everyone could become more humble. When we polled in the United States, only five percent picked the right answer.
+
+The other ninety-five percent, regardless of their voting preference, believed either that the extreme poverty rate… had not changed over the last twenty years or worse than it had actually doubled, which is literally the opposite of what has actually happened.
 
 
 <a id="sec-001510"></a>
@@ -202,41 +214,53 @@ Let’s take another example. Question 9 about vaccination. Almost all children 
 
 It means that almost all human beings alive today have some access to basic modern healthcare. But most people do not know this. On average, just thirteen percent of people get the answer right. Eighty-six percent of people get the final question about climate change right.
 
-In all the rich countries where we have tested public knowledge in online polls, most people know that climate experts are predicting warmer weather. In just a few decades, scientific findings have gone from the lab to the public. That is a big public awareness success story. Climate change apart, though, it is the same story of massive ignorance, by which I do not mean stupidity or anything intentional, but simply the lack of correct knowledge.
+In all the rich countries where we have tested public knowledge in online polls, most people know that climate experts are predicting warmer weather. In just a few decades, scientific findings have gone from the lab to the public. That is a big public awareness success story. Climate change apart, though, it is the same story of massive ignorance, by which.
 
-For all twelve of the other questions. In 2017, we asked nearly twelve thousand people in fourteen countries to answer our questions. They scored on average just two correct answers out of thirteen. No one got full marks, and just one person in Sweden got eleven out of thirteen.
+I do not mean stupidity or anything intentional, but simply the lack of correct knowledge. For all twelve of the other questions. In 2017, we asked nearly twelve thousand people in fourteen countries to answer our questions. They scored on average just two correct answers out of thirteen.
 
-A stunning fifteen percent scored zero. Perhaps you think that better educated people would do better, or people who are more interested in the issues. I certainly thought that once, but I was wrong. I have tested audiences from all around the world and from all walks of life.
+No one got full marks, and just one person in Sweden got eleven out of thirteen. A stunning fifteen percent scored zero. Perhaps, you think that better educated people would do better, or people who are more interested in the issues. I certainly thought that once, but.
 
-Political students, teachers, university lecturers, eminent scientists, investment bankers, executives in multinational companies, journalists, activists, and even senior political decision makers. These are highly educated people who take an interest in the world, but most of them, a stunning majority of them, get most of the answers wrong. Some of these groups even score worse than the general public. Some of the most appalling results came from a group of Nobel laureates and medical researchers.
+I was wrong. I have tested audiences from all around the world and from all walks of life. Political students, teachers, university lecturers, eminent scientists, investment bankers, executives in multinational companies, journalists, activists, and even senior political decision makers. These are highly educated people who take an interest in the world, but most of them, a stunning majority of them, get most of the answers wrong.
 
-It is not a question of intelligence. Everyone seems to get the world devastatingly wrong. Not only devastatingly wrong, but systematically wrong, by which I mean that these test results are not random. They are worse than random.
+Some of these groups even score worse than the general public. Some of the most appalling results came from a group of Nobel laureates and medical researchers. It is not a question of intelligence. Everyone seems to get the world devastatingly wrong.
 
-They are worse than the results I would get if the people answering my questions had no knowledge at all. Imagine I decided to head down to the zoo to test out my questions on the chimpanzees. Imagine I take with me huge armfuls of bananas, each marked either A, B, or C, and throw them into the chimpanzee enclosure. Then I stand outside the enclosure, read out each question in a loud, clear voice, and note down, as each chimpanzee’s answer, the letter on the banana she next chooses to eat.
+Not only devastatingly wrong, but systematically wrong, by which. I mean that these test results are not random. They are worse than random. They are worse than the results.
 
-If I did this—and I wouldn’t ever actually do this, but just imagine—the chimps, by picking randomly, would do consistently better than the well-educated but deluded human beings who take my tests. Through pure luck, the troop of chimps would score thirty-three percent on each three-answer question, or four out of twelve on the whole test. Remember that the humans I’ve tested get on average just two out of twelve on the same test. What’s more, the chimps errors would be equally shared between the two wrong answers, whereas the human errors all tend to be in one direction.
+I would get if the people answering my questions had no knowledge at all. Imagine. I decided to head down to the zoo to test out my questions on the chimpanzees. Imagine.
 
-Every group of people I ask thinks the world is more frightening, more violent, and more hopeless—in short, more dramatic—than it really is. Why don’t we beat the chimpanzees? How can so many people be so wrong about so much? How is it even possible that the majority of people score worse than chimpanzees, worse
+I take with me huge armfuls of bananas, each marked either A, B, or C, and throw them into the chimpanzee enclosure. Then. I stand outside the enclosure, read out each question in a loud, clear voice, and note down, as each chimpanzee’s answer, the letter on the banana she next chooses to eat. If.
+
+I did this—and. I wouldn’t ever actually do this, but just imagine—the chimps, by picking randomly, would do consistently better than the well-educated but deluded human beings who take my tests. Through pure luck, the troop of chimps would score thirty-three percent on each three-answer question, or four out of twelve on the whole test. Remember that the humans.
+
+I’ve tested get on average just two out of twelve on the same test. What’s more, the chimps errors would be equally shared between the two wrong answers, whereas the human errors all tend to be in one direction. Every group of people. I ask thinks the world is more frightening, more violent, and more hopeless—in short, more dramatic—than it really is.
+
+Why don’t we beat the chimpanzees? How can so many people be so wrong about so much? How is it even possible that the majority of people score worse than chimpanzees, worse
 
 
 <a id="sec-002012"></a>
 ### ⏱️ [00:20:12 - 00:25:14]
 
-than random? When I got my first little glimpse of this massive ignorance back in the mid-1990s, I was pleased. I had just started teaching a course in global health at the Karolinska Institute in Sweden, and I was a little nervous. These students were incredibly smart.
+than random? When. I got my first little glimpse of this massive ignorance back in the mid-1990s, I was pleased. I had just started teaching a course in global health at the Karolinska Institute in Sweden, and.
 
-Maybe they would already know everything I had to teach them. What a relief when I discovered that my students knew less about the world than chimpanzees! But the more I tested people, the more ignorance I found, not only among my students but everywhere. I found it frustrating and worrying that people were so wrong about the world.
+I was a little nervous. These students were incredibly smart. Maybe they would already know everything. I had to teach them.
 
-When you use the GPS in your car, it’s important that it is using the right information. You wouldn’t trust it if it seemed to be navigating you through a different city than the one you were in, because you would know that you would end up in the wrong place. So how could policymakers and politicians solve global problems if they were operating on the wrong facts? How could business people make sensible decisions for their organizations if their worldview were upside down?
+What a relief when. I discovered that my students knew less about the world than chimpanzees! But the more. I tested people, the more ignorance.
 
-And how could each person, going about their life, know which issues they should be stressed and worried about? I decided to start doing more than just testing knowledge and exposing ignorance. I decided to try to understand why. Why was this ignorance about the world so widespread and so persistent?
+I found, not only among my students but everywhere. I found it frustrating and worrying that people were so wrong about the world. When you use the GPS in your car, it’s important that it is using the right information. You wouldn’t trust it if it seemed to be navigating you through a different city than the one you were in, because you would know that you would end up in the wrong place.
 
-We are all wrong sometimes. Even me, I will readily admit that. But how could so many people be wrong about so much? Why were so many people scoring worse than the chimps?
+So how could policymakers and politicians solve global problems if they were operating on the wrong facts? How could business people make sensible decisions for their organizations if their worldview were upside down? And how could each person, going about their life, know which issues they should be stressed and worried about? I decided to start doing more than just testing knowledge and exposing ignorance.
 
-Working late one night at the university, I had a eureka moment. I realized the problem couldn’t simply be that people lacked the knowledge because they would give randomly incorrect answers—chimpanzee answers—rather than worse than random, worse than chimpanzee, systematically wrong answers, only actively wrong knowledge can make a score so badly. Aha! I had it.
+I decided to try to understand why. Why was this ignorance about the world so widespread and so persistent? We are all wrong sometimes. Even me, I will readily admit that.
 
-What I was dealing with here, or so I thought for many years, was an upgrade problem. My global health students and all the other people who took my tests over the years did have knowledge, but it was outdated, often several decades old. People had a worldview dated to the time when there were teachers that left school. So to eradicate ignorance, or so I concluded, I needed to upgrade people’s knowledge.
+But how could so many people be wrong about so much? Why were so many people scoring worse than the chimps? Working late one night at the university, I had a eureka moment. I realized the problem couldn’t simply be that people lacked the knowledge because they would give randomly incorrect answers—chimpanzee answers—rather than worse than random, worse than chimpanzee, systematically wrong answers, only actively wrong knowledge can make a score so badly.
 
-And to do that, I needed to develop better teaching materials, setting out the data more clearly. After I told Anna and Ola about my struggles over a family dinner, both of them got involved and started to develop animated graphs. I traveled the world with these elegant teaching tools. They took me to TED Talks in Monterey, Berlin, and Cannes, to the boardrooms of multinational corporations like Coca-Cola and IKEA, to global banks and hedge funds, to the U. S. State Department.
+Aha! I had it. What. I was dealing with here, or so.
+
+I thought for many years, was an upgrade problem. My global health students and all the other people who took my tests over the years did have knowledge, but it was outdated, often several decades old. People had a worldview dated to the time when there were teachers that left school. So to eradicate ignorance, or so.
+
+I concluded, I needed to upgrade people’s knowledge. And to do that, I needed to develop better teaching materials, setting out the data more clearly. After. I told Anna and Ola about my struggles over a family dinner, both of them got involved and started to develop animated graphs.
+
+I traveled the world with these elegant teaching tools. They took me to TED Talks in Monterey, Berlin, and Cannes, to the boardrooms of multinational corporations like Coca-Cola and IKEA, to global banks and hedge funds, to the U. S. State Department.
 
 I was excited to use our animated charts to show everyone how the world had changed. I had great fun telling everyone that they were emperors with no clothes, that they knew nothing about the world. We wanted to install the worldview upgrade in everyone. But gradually, gradually, we came to realize that there was something more going on.
 
@@ -246,23 +270,27 @@ The ignorance we kept on finding was not just an upgrade problem, it couldn’t 
 <a id="sec-002514"></a>
 ### ⏱️ [00:25:14 - 00:30:14]
 
-Even straight after my presentations, I would hear people expressing beliefs about poverty or population growth that I had just proven wrong with the facts. I almost gave up. Why was the dramatic worldview so persistent? Could the media be to blame?
+Even straight after my presentations, I would hear people expressing beliefs about poverty or population growth that. I had just proven wrong with the facts. I almost gave up. Why was the dramatic worldview so persistent?
 
-Of course I thought about that, but it wasn’t the answer. Sure, the media plays a role, and I discuss that later, but we must not make them into a pantomime villain. We cannot just shout boo-hiss at the media. I had a defining moment in January 2015 at the World Economic Forum in the small and fashionable Swiss town of Davos.
+Could the media be to blame? Of course. I thought about that, but it wasn’t the answer. Sure, the media plays a role, and.
 
-One thousand of the world’s most powerful and influential political and business leaders, entrepreneurs, researchers, activists, journalists, and even many high-ranking UN officials had queued for seats at the Forum’s main session on socioeconomic and sustainable development, featuring me and Bill and Melinda Gates. Scanning the room as I stepped onto the stage, I noticed several heads of state and a former secretary general of the UN. I saw heads of UN organizations, leaders of major multinational companies, and journalists I recognized from TV. I was about to ask the audience three fact questions about poverty, population growth, and vaccination rates, and I was quite nervous.
+I discuss that later, but we must not make them into a pantomime villain. We cannot just shout boo-hiss at the media. I had a defining moment in January 2015 at the World Economic Forum in the small and fashionable Swiss town of Davos. One thousand of the world’s most powerful and influential political and business leaders, entrepreneurs, researchers, activists, journalists, and even many high-ranking UN officials had queued for seats at the Forum’s main session on socioeconomic and sustainable development, featuring me and Bill and Melinda Gates.
 
-If my audience did know the answers to my questions, then none of the rest of my slides revealing with a flourish how wrong they were and what they should have answered would work. I shouldn’t have worried. This top international audience who would spend the next few days explaining the world to each other did indeed know more than the general public about poverty. A stunning 61 percent of them got it right.
+Scanning the room as. I stepped onto the stage, I noticed several heads of state and a former secretary general of the UN. I saw heads of UN organizations, leaders of major multinational companies, and journalists. I recognized from TV.
 
-But on the other two questions, about future population growth and the availability of basic primary health care, they still did worse than the chimps. Here were people who had access to all the latest data and to advisors who could continuously update them. Their ignorance could not possibly be down to an outdated worldview, yet even they were getting the basic facts about the world wrong. After Davos, things crystallized.
+I was about to ask the audience three fact questions about poverty, population growth, and vaccination rates, and. I was quite nervous. If my audience did know the answers to my questions, then none of the rest of my slides revealing with a flourish how wrong they were and what they should have answered would work. I shouldn’t have worried.
 
-Our dramatic instincts and the overdramatic worldview. So here is this book. It shares with you the conclusions I finally reached based on years of trying to teach a fact-based worldview and listening to how people misinterpret the facts even when they are right there in front of them, about why so many people, from members of the public to very smart, highly educated experts, score worse than chimpanzees on fact questions about the world. And I will also tell you what to do about it.
+This top international audience who would spend the next few days explaining the world to each other did indeed know more than the general public about poverty. A stunning 61 percent of them got it right. But on the other two questions, about future population growth and the availability of basic primary health care, they still did worse than the chimps. Here were people who had access to all the latest data and to advisors who could continuously update them.
+
+Their ignorance could not possibly be down to an outdated worldview, yet even they were getting the basic facts about the world wrong. After Davos, things crystallized. Our dramatic instincts and the overdramatic worldview. So here is this book.
+
+It shares with you the conclusions. I finally reached based on years of trying to teach a fact-based worldview and listening to how people misinterpret the facts even when they are right there in front of them, about why so many people, from members of the public to very smart, highly educated experts, score worse than chimpanzees on fact questions about the world. And. I will also tell you what to do about it.
 
 In short, think about the world—war, violence, natural disasters, man-made disasters, corruption. Things are bad, and it feels like they’re getting worse, right? The rich are getting richer and the poor are getting poorer, and the number of poor just keeps increasing, and we will soon run out of resources unless we do something drastic. At least that’s the picture that most Westerners see in the media and carry around in their heads.
 
 I call it the overdramatic worldview. It’s stressful and misleading.
 
-In fact, the vast majority of the world’s population lives somewhere in the middle of the income scale. Perhaps they are not what we think of as middle class, but they are not living in extreme poverty. Their girls go to school, their children get vaccinated, they live in two child families, and they want to go abroad on holiday, not as refugees. Step by
+In fact, the vast majority of the world’s population lives somewhere in the middle of the income scale. Perhaps, they are not what we think of as middle class, but they are not living in extreme poverty. Their girls go to school, their children get vaccinated, they live in two child families, and they want to go abroad on holiday, not as refugees. Step by
 
 
 <a id="sec-003014"></a>
@@ -270,49 +298,55 @@ In fact, the vast majority of the world’s population lives somewhere in the mi
 
 step, year by year, the world is improving. Not on every single measure, every single year, but as a rule. Though the world faces huge challenges, we have made tremendous progress. This is the fact-based worldview.
 
-It is the over dramatic worldview that draws people to the most dramatic and negative answers to my fact questions. People constantly and intuitively refer to their worldview when thinking, guessing, or learning about the world. So if your worldview is wrong, then you will systematically make wrong guesses. But this over dramatic worldview is not caused simply by out-of-date knowledge, as I once thought.
+It is the over dramatic worldview that draws people to the most dramatic and negative answers to my fact questions. People constantly and intuitively refer to their worldview when thinking, guessing, or learning about the world. So if your worldview is wrong, then you will systematically make wrong guesses. But this over dramatic worldview is not caused simply by out-of-date knowledge, as.
 
-Even people with access to the latest information get the world wrong. And I am convinced it is not the fault of an evil-minded media, propaganda, fake news, or wrong facts. My experience over decades of lecturing and testing and listening to the ways people misinterpret the facts, even when they’re right in front of them, finally brought me to see that the over dramatic worldview is so difficult to shift because it comes from the very way our brains work. Optical illusions and global illusions.
+I once thought. Even people with access to the latest information get the world wrong. And. I am convinced it is not the fault of an evil-minded media, propaganda, fake news, or wrong facts.
 
-There are two horizontal lines. The first line has an arrow at each end. The second line has an inverted arrow at each end of the line. The second line looks longer than the first line.
+My experience over decades of lecturing and testing and listening to the ways people misinterpret the facts, even when they’re right in front of them, finally brought me to see that the over dramatic worldview is so difficult to shift because it comes from the very way our brains work. Optical illusions and global illusions. There are two horizontal lines. The first line has an arrow at each end.
 
-You know it isn’t, but even if you already know, even if you measure the lines yourself and confirm that they’re the same, you keep seeing them as different lengths. My glasses have a custom lens to correct for my personal sight problem, but when I look at this optical illusion, I still misinterpret what I see just like everyone else. This is because illusions don’t happen in our eyes. They happen in our brains.
+The second line has an inverted arrow at each end of the line. The second line looks longer than the first line. You know it isn’t, but even if you already know, even if you measure the lines yourself and confirm that they’re the same, you keep seeing them as different lengths. My glasses have a custom lens to correct for my personal sight problem, but when.
 
-They are systematic misinterpretations unrelated to individual sight problems. Knowing that most people are deluded means you don’t need to be embarrassed. Instead, you can be curious. How does the illusion work? Similarly, you can look at the results from the public polls and skip being embarrassed.
+I look at this optical illusion, I still misinterpret what. I see just like everyone else. This is because illusions don’t happen in our eyes. They happen in our brains.
 
-Instead, be curious. How does this global illusion work? Why do so many people’s brains systematically misinterpret the state of the world? The human brain is a product of millions of years of evolution, and we are hardwired with instincts that helped our ancestors to survive in small groups of hunters and gatherers.
+They are systematic misinterpretations unrelated to individual sight problems. Knowing that most people are deluded means you don’t need to be embarrassed. Instead, you can be curious. How does the illusion work?
 
-Our brains often jump to swift conclusions without much thinking, which used to help us to avoid immediate dangers. We are interested in gossip and dramatic stories, which used to be the only source of news and useful information. We crave sugar and fat, which used to be life-saving sources of energy when food was scarce. We have many instincts that used to be useful thousands of years ago, but we live in a very different world now.
+Similarly, you can look at the results from the public polls and skip being embarrassed. Instead, be curious. How does this global illusion work? Why do so many people’s brains systematically misinterpret the state of the world?
 
-Our cravings for sugar and fat make obesity one of the largest health problems in the world today. We have to teach our children and ourselves to stay away from sweets and chips. In the same way, our quick-thinking brains and cravings for drama are dramatic instincts, are causing misconceptions in an over-dramatic worldview. Don’t misunderstand me.
+The human brain is a product of millions of years of evolution, and we are hardwired with instincts that helped our ancestors to survive in small groups of hunters and gatherers. Our brains often jump to swift conclusions without much thinking, which used to help us to avoid immediate dangers. We are interested in gossip and dramatic stories, which used to be the only source of news and useful information. We crave sugar and fat, which used to be life-saving sources of energy when food was scarce.
 
-We still need these dramatic instincts to give meaning to our world and to get us through the day. If we sifted every input and analyzed every decision rationally, a normal life would be impossible. We should not cut out all sugar and fat, and we should not ask a surgeon to remove the parts of our brain that deal with emotions. But we need to learn to control our drama intake.
+We have many instincts that used to be useful thousands of years ago, but we live in a very different world now. Our cravings for sugar and fat make obesity one of the largest health problems in the world today. We have to teach our children and ourselves to stay away from sweets and chips. In the same way, our quick-thinking brains and cravings for drama are dramatic instincts, are causing misconceptions in an over-dramatic worldview.
 
-Uncontrolled, our appetite for the dramatic goes too far, prevents us from seeing the world as it is, and leads us terribly astray.
+Don’t misunderstand me. We still need these dramatic instincts to give meaning to our world and to get us through the day. If we sifted every input and analyzed every decision rationally, a normal life would be impossible. We should not cut out all sugar and fat, and we should not ask a surgeon to remove the parts of our brain that deal with emotions.
+
+But we need to learn to control our drama intake. Uncontrolled, our appetite for the dramatic goes too far, prevents us from seeing the world as it is, and leads us terribly astray.
 
 
 <a id="sec-003522"></a>
 ### ⏱️ [00:35:22 - 00:40:25]
 
-Factfulness and the Fact-Based Worldview This book is my very last battle in my lifelong mission to fight devastating global ignorance. It is my last attempt to make an impact on the world, to change people’s ways of thinking, calm their irrational fears, and redirect their energies into constructive activities. In my previous battles, I armed myself with huge data sets, eye-opening software, an energetic lecturing style, and a Swedish bayonet. It wasn’t enough.
+Factfulness and the Fact-Based Worldview. This book is my very last battle in my lifelong mission to fight devastating global ignorance. It is my last attempt to make an impact on the world, to change people’s ways of thinking, calm their irrational fears, and redirect their energies into constructive activities. In my previous battles, I armed myself with huge data sets, eye-opening software, an energetic lecturing style, and a Swedish bayonet.
 
-But I hope that this book will be. This is data as you have never known it. It is data as therapy. It is understanding as a source of mental peace, because the world is not as dramatic as it seems. Factfulness, like a healthy diet and regular exercise, can and should become part of your daily life.
+It wasn’t enough. But. I hope that this book will be. This is data as you have never known it.
 
-Start to practice it, and you will be able to replace your over-dramatic worldview with a worldview based on facts. You will be able to get the world right without learning it by heart. You will make better decisions, stay alert to real dangers and possibilities, and avoid being constantly stressed about the wrong things. I will teach you how to recognize over-dramatic stories and give you some thinking tools to control your dramatic instincts.
+It is data as therapy. It is understanding as a source of mental peace, because the world is not as dramatic as it seems. Factfulness, like a healthy diet and regular exercise, can and should become part of your daily life. Start to practice it, and you will be able to replace your over-dramatic worldview with a worldview based on facts.
 
-Then you will be able to shift your misconceptions, develop a fact-based worldview, and beat the chimps every time. Back to the circus. I occasionally swallow swords at the end of my lectures to demonstrate in a practical way that the seemingly impossible is possible. Before my circus act, I will have been testing my audience’s factual knowledge about the world.
+You will be able to get the world right without learning it by heart. You will make better decisions, stay alert to real dangers and possibilities, and avoid being constantly stressed about the wrong things. I will teach you how to recognize over-dramatic stories and give you some thinking tools to control your dramatic instincts. Then you will be able to shift your misconceptions, develop a fact-based worldview, and beat the chimps every time.
 
-I will have shown them that the world is completely different from what they thought. I will have proven to them that many of the changes they think will never happen have already happened. I will have been struggling to awaken their curiosity about what is possible, which is absolutely different from what they believe and from what they see in the news every day. I swallow the sword because I want the audience to realize how wrong their intuitions can be.
+Back to the circus. I occasionally swallow swords at the end of my lectures to demonstrate in a practical way that the seemingly impossible is possible. Before my circus act, I will have been testing my audience’s factual knowledge about the world. I will have shown them that the world is completely different from what they thought.
 
-I want them to realize that what I have shown them, both the sword swallowing and the material about the world that came before it, however much it conflicts with their preconceived ideas, however impossible it seems, is true. I want people when they realize that they have been wrong about the world to feel not embarrassment, but that childlike sense of wonder, inspiration, and curiosity that I remember from the circus and that I still get every time I discover I have been wrong.
+I will have proven to them that many of the changes they think will never happen have already happened. I will have been struggling to awaken their curiosity about what is possible, which is absolutely different from what they believe and from what they see in the news every day. I swallow the sword because. I want the audience to realize how wrong their intuitions can be.
 
-Wow! How is that even possible? This is a book about the world and how it really is. It is also a book about you and why you and almost everyone I have ever met do not see the world as it really is.
+I want them to realize that what. I have shown them, both the sword swallowing and the material about the world that came before it, however much it conflicts with their preconceived ideas, however impossible it seems, is true. I want people when they realize that they have been wrong about the world to feel not embarrassment, but that childlike sense of wonder, inspiration, and curiosity that. I remember from the circus and that.
+
+I still get every time. I discover. I have been wrong. Wow!
+
+How is that even possible? This is a book about the world and how it really is. It is also a book about you and why you and almost everyone. I have ever met do not see the world as it really is.
 
 It is about what you can do about it and how this will make you feel more positive, less stressed, and more hopeful as you walk out of the circus tent and back into the world. So, if you are more interested in being right than in continuing to live in your bubble, if you are willing to change your worldview, if you are ready for critical thinking to replace instinctive reaction, and if you are feeling humble, curious, and ready to be amazed, then please read on.
 
-#### Chapter 1 The Gap Instinct Capturing a Monster in a Classroom Using Only a Piece of Paper Where it all started?
+#### Chapter 1 The Gap Instinct Capturing a Monster in a Classroom Using Only a Piece of Paper.
 
-It was October 1995 and little did I know that after my class that evening,
+Where it all started? It was October 1995 and little did. I know that after my class that evening,
 
 
 <a id="sec-004025"></a>
@@ -320,15 +354,17 @@ It was October 1995 and little did I know that after my class that evening,
 
 I was going to start my lifelong fight against global misconceptions. What is the child mortality rate in Saudi Arabia? Don’t raise your hands, just shout out! I had handed out copies of Tables 1 and 5 from UNICEF’s yearbook.
 
-The handouts looked dull, but I was excited. A choir student shouted in unison, 35! Yes! 35! Correct!
+The handouts looked dull, but. I was excited. A choir student shouted in unison, 35! Yes! 35!
 
-This means that 35 children die before their fifth birthday out of every thousand live births. Give me the number now for Malaysia! Fourteen! came the chorus. As the numbers were thrown back at me, I scribbled them with a green pen onto a plastic film on the overhead projector.
+Correct! This means that 35 children die before their fifth birthday out of every thousand live births. Give me the number now for Malaysia! Fourteen! came the chorus.
 
-Fourteen! I repeated. Fewer than Saudi Arabia! My dyslexia played a little trick on me, and I wrote N-A-L-A-I-S-Y-A.
+As the numbers were thrown back at me, I scribbled them with a green pen onto a plastic film on the overhead projector. Fourteen! I repeated. Fewer than Saudi Arabia!
 
-The students laughed. Brazil? 55. Tanzania? 171.
+My dyslexia played a little trick on me, and. I wrote N-A-L-A-I-S-Y-A. The students laughed. Brazil? 55.
 
-I put the pen down and said, “Do you know why I’m obsessed with the numbers for the child mortality rate?” It’s not only that I care about children. This measure takes the temperature of a whole society, like a huge thermometer, because children are very fragile. There are so many things that can kill them. When only fourteen children die out of one thousand in Malaysia, this means that the other 986 survive.
+Tanzania? 171. I put the pen down and said, “Do you know why. I’m obsessed with the numbers for the child mortality rate?”. It’s not only that.
+
+I care about children. This measure takes the temperature of a whole society, like a huge thermometer, because children are very fragile. There are so many things that can kill them. When only fourteen children die out of one thousand in Malaysia, this means that the other 986 survive.
 
 Their parents and their society managed to protect them from all the dangers that could have killed them. Germs, starvation, violence, and so on. So this number fourteen tells us that most families in Malaysia have enough food, their sewage systems don’t leak into their drinking water, they have good access to primary health care, and mothers can read and write. It doesn’t just tell us about the health of children, it measures the quality of the whole society.
 
@@ -340,9 +376,9 @@ Yes, that’s correct. Saudi Arabian society has made amazing progress, hasn’t
 
 We took 77 years to achieve the same improvement. What about Malaysia? 14 today. What was it in 1960? 93 came the mumbled response. The students had all started searching through their tables, puzzled and confused.
 
-A year earlier, I had given my students the same examples, but with no data tables to back them up. And they had simply refused to believe what I told them about the improvements across the world. Now with all the evidence right in front of them, this year’s students were instead rolling their eyes up and down the columns to see if I had picked exceptional countries and tried to cheat them. They couldn’t believe the picture they saw in the data.
+A year earlier, I had given my students the same examples, but with no data tables to back them up. And they had simply refused to believe what. I told them about the improvements across the world. Now with all the evidence right in front of them, this year’s students were instead rolling their eyes up and down the columns to see if.
 
-It didn’t look anything like the picture of the world they had in their heads. Just so you know, I said, you won’t find any countries where child mortality has increased
+I had picked exceptional countries and tried to cheat them. They couldn’t believe the picture they saw in the data. It didn’t look anything like the picture of the world they had in their heads. Just so you know, I said, you won’t find any countries where child mortality has increased
 
 
 <a id="sec-004532"></a>
@@ -350,33 +386,37 @@ It didn’t look anything like the picture of the world they had in their heads.
 
 because the world in general is getting better. Let’s have a short coffee break. The mega misconception that the world is divided in two. This chapter is about the first of our ten dramatic instincts, the gap instinct.
 
-I’m talking about the irresistible temptation we have to divide all kinds of things into two distinct and often conflicting groups with an imagined gap, a huge chasm of injustice in between. It is about how the gap instinct creates a picture in people’s heads of a world split into two kinds of countries or two kinds of people, rich versus poor. It’s not easy to track down a misconception. That October evening in 1995 was the first time I got a proper look at the beast.
+I’m talking about the irresistible temptation we have to divide all kinds of things into two distinct and often conflicting groups with an imagined gap, a huge chasm of injustice in between. It is about how the gap instinct creates a picture in people’s heads of a world split into two kinds of countries or two kinds of people, rich versus poor. It’s not easy to track down a misconception. That October evening in 1995 was the first time.
 
-It happened right after coffee, and the experience was so exciting that I haven’t stopped hunting mega misconceptions ever since. I call them mega misconceptions because they have such an enormous impact on how people misperceive the world. The first one is the worst. By dividing the world into two misleading boxes, poor and rich, it completely distorts all the global proportions in people’s minds, hunting down the first mega misconception.
+I got a proper look at the beast. It happened right after coffee, and the experience was so exciting that. I haven’t stopped hunting mega misconceptions ever since. I call them mega misconceptions because they have such an enormous impact on how people misperceive the world.
 
-Following up the lecture again, I explained that child mortality was highest in tribal societies in the rainforest and among traditional farmers in the remote rural areas across the world. The people you see in exotic documentaries on TV, those parents struggle harder than anyone to make their families survive, and still they lose almost half of their children. Fortunately, fewer and fewer people have to live under such dreadful conditions. A young student in the first row raised his hand.
+The first one is the worst. By dividing the world into two misleading boxes, poor and rich, it completely distorts all the global proportions in people’s minds, hunting down the first mega misconception. Following up the lecture again, I explained that child mortality was highest in tribal societies in the rainforest and among traditional farmers in the remote rural areas across the world. The people you see in exotic documentaries on TV, those parents struggle harder than anyone to make their families survive, and still they lose almost half of their children.
 
-He tilted his head and said, they can never live like us. All over the room other students nodded in support. He probably thought I would be surprised. I was not at all.
+Fortunately, fewer and fewer people have to live under such dreadful conditions. A young student in the first row raised his hand. He tilted his head and said, they can never live like us. All over the room other students nodded in support.
 
-This was the same kind of gap statement I had heard many times before. I wasn’t surprised. I was thrilled. This was what I had hoped for.
+He probably thought. I would be surprised. I was not at all. This was the same kind of gap statement.
 
-Our dialogue went something like this. Me. Sorry, who do you mean when you say they? Him.
+I had heard many times before. I wasn’t surprised. I was thrilled. This was what.
 
-I mean people in other countries. Me. All countries other than Sweden? Him.
+I had hoped for. Our dialogue went something like this. Me. Sorry, who do you mean when you say they?
 
-No, I mean the non-Western countries. They can’t live like us. It won’t work. Me.
+Him. I mean people in other countries. Me. All countries other than Sweden?
 
-Aha! As if now I understood. You mean like Japan? Him.
+Him. No, I mean the non-Western countries. They can’t live like us. It won’t work.
 
-No, not Japan. They have a Western lifestyle. Me. So what about Malaysia?
+Me. Aha! As if now. I understood.
 
-They don’t have a Western lifestyle, right? Him. No, Malaysia is not Western. All countries that haven’t adopted the Western lifestyle yet, they shouldn’t.
+You mean like Japan? Him. No, not Japan. They have a Western lifestyle.
 
-You know what I mean? Me. No, I don’t know what you mean. Please explain.
+Me. So what about Malaysia? They don’t have a Western lifestyle, right? Him.
 
-You are talking about the West and the rest, right? Him. Yes, exactly. Me.
+No, Malaysia is not Western. All countries that haven’t adopted the Western lifestyle yet, they shouldn’t. You know what. I mean?
 
-Is Mexico West? He just looked at me. I didn’t mean to pick on him, but I kept going, excited to see where this would take us. Was Mexico the West and could Mexicans live like us?
+Me. No, I don’t know what you mean. Please explain. You are talking about the West and the rest, right?
+
+Him. Yes, exactly. Me. Is Mexico West?
+
+He just looked at me. I didn’t mean to pick on him, but. I kept going, excited to see where this would take us. Was Mexico the West and could Mexicans live like us?
 
 Or the rest? And they couldn’t. I’m confused, I said. You started with them and us, and then changed it to the West and the rest.
 
@@ -388,23 +428,27 @@ I’m very interested to understand what you mean.
 
 I have heard these labels used many times, but honestly, I have never understood them. Now a young woman in the third row came to his rescue. She took on my challenge, but in a way that completely surprised me. She pointed at the big paper in front of her and said, maybe we can define it like this.
 
-We in the West have few children, and few of the children die, while they in the rest have many children, and many of the children die. She was trying to resolve the conflict between his mindset and my data set, in a pretty creative way actually, by suggesting a definition for how to split the world. That made me so happy, because she was absolutely wrong, as she would soon realize, and more to the point, she was wrong in a concrete way that I could test.
+We in the West have few children, and few of the children die, while they in the rest have many children, and many of the children die. She was trying to resolve the conflict between his mindset and my data set, in a pretty creative way actually, by suggesting a definition for how to split the world. That made me so happy, because she was absolutely wrong, as she would soon realize, and more to the point, she was wrong in a concrete way that.
 
-Great! Fantastic! I grabbed my pen and leapt into action. Let’s see if we can put the countries in two groups based on how many children they have and how many children die.
+I could test. Great! Fantastic! I grabbed my pen and leapt into action.
 
-The skeptical faces now became curious, trying to figure out what the heck had made me so happy. I liked her definition because it was so clear. We could check it against the data. If you want to convince someone they are suffering from a misconception, it’s very useful to be able to test their opinion against the data.
+Let’s see if we can put the countries in two groups based on how many children they have and how many children die. The skeptical faces now became curious, trying to figure out what the heck had made me so happy. I liked her definition because it was so clear. We could check it against the data.
 
-So I did just that, and I have been doing just that for the rest of my working life. The big gray photocopying machine that I had used to copy those original data tables was my first partner in my fight against misconceptions. By 1998 I had a new partner, a color printer, that allowed me to share a colorful bubble graph of country data with all my students. Then I acquired my first human partners, and things really picked up.
+If you want to convince someone they are suffering from a misconception, it’s very useful to be able to test their opinion against the data. So. I did just that, and. I have been doing just that for the rest of my working life.
 
-Anna and Ola got so excited by these charts and my idea of capturing misconceptions that they joined my cause and accidentally created a revolutionary way to show hundreds of data trends as animated bubble charts. The bubble chart became our weapon of choice in our battle to dismantle the misconception that the world is divided into two. What’s wrong with this picture? My students talked about them and us.
+The big gray photocopying machine that. I had used to copy those original data tables was my first partner in my fight against misconceptions. By 1998. I had a new partner, a color printer, that allowed me to share a colorful bubble graph of country data with all my students.
 
-Students talk about the developing world and the developed world. You probably use these labels yourself. What’s wrong with that? Journalists, politicians, activists, teachers, and researchers use them all the time.
+Then. I acquired my first human partners, and things really picked up. Anna and Ola got so excited by these charts and my idea of capturing misconceptions that they joined my cause and accidentally created a revolutionary way to show hundreds of data trends as animated bubble charts. The bubble chart became our weapon of choice in our battle to dismantle the misconception that the world is divided into two.
 
-When people say developing and developed, what they are probably thinking is poor countries and rich countries. I also often hear west, rest, north, south, low income, high income, whatever. It doesn’t really matter which terms people use to describe the world as long as the words create relevant pictures in their heads and mean something with a basis in reality. But what pictures are in their heads when they use these two simple terms?
+What’s wrong with this picture? My students talked about them and us. Students talk about the developing world and the developed world. You probably use these labels yourself.
 
-And how do those pictures compare to reality? Let’s check against the data. The world’s countries fall into the two boxes, developing and developed. And between the two boxes, there is a clear gap containing just 15 small countries, including Cuba, Ireland, and Singapore, where just 2% of the world’s population lives.
+What’s wrong with that? Journalists, politicians, activists, teachers, and researchers use them all the time. When people say developing and developed, what they are probably thinking is poor countries and rich countries. I also often hear west, rest, north, south, low income, high income, whatever.
 
-In the box labeled developing, there are 125, including China and India. In all those countries, women have more than five children on average, and child deaths are common. Fewer than 95% of children survive, meaning that more than 5% of children die before their fifth birthday. In the other box, labeled developed, there are 44, including the United States and most
+It doesn’t really matter which terms people use to describe the world as long as the words create relevant pictures in their heads and mean something with a basis in reality. But what pictures are in their heads when they use these two simple terms? And how do those pictures compare to reality? Let’s check against the data.
+
+The world’s countries fall into the two boxes, developing and developed. And between the two boxes, there is a clear gap containing just 15 small countries, including Cuba, Ireland, and Singapore, where just 2% of the world’s population lives. In the box labeled developing, there are 125, including China and India. In all those countries, women have more than five children on average, and child deaths are common.
+
+Fewer than 95% of children survive, meaning that more than 5% of children die before their fifth birthday. In the other box, labeled developed, there are 44, including the United States and most
 
 
 <a id="sec-005539"></a>
@@ -412,25 +456,27 @@ In the box labeled developing, there are 125, including China and India. In all 
 
 of Europe. In all those countries, the women have fewer than 3.5 children per woman, and child survival is above 90%. The world fits into two boxes, and these are exactly the two boxes that the student in the third row had imagined. How nice!
 
-What a simple world to understand. So what’s the big deal? Why is it so wrong to label countries as developed and developing? Why did I give my student who referred to us and them such a hard time?
+What a simple world to understand. So what’s the big deal? Why is it so wrong to label countries as developed and developing? Why did.
 
-Because that was 1965. When I was a young man, that’s the problem. Would you use a map from 1965 to navigate around your country? Would you be happy if your doctor was using cutting-edge research from 1965 to suggest your diagnosis and treatment?
+I give my student who referred to us and them such a hard time? Because that was 1965. When. I was a young man, that’s the problem.
 
-The world has completely changed. Today, families are small, and child deaths are rare in the vast majority of countries, including the largest, China and India. 85% of mankind are already inside the box that used to be named Developed World. The remaining 15% are mostly in between the two boxes. Only 13 countries, representing 6% of the world population, are still inside the developing box.
+Would you use a map from 1965 to navigate around your country? Would you be happy if your doctor was using cutting-edge research from 1965 to suggest your diagnosis and treatment? The world has completely changed. Today, families are small, and child deaths are rare in the vast majority of countries, including the largest, China and India. 85% of mankind are already inside the box that used to be named Developed World.
 
-But while the world has changed, the worldview has not. At least in the heads of the Westerners, most of us are stuck with a completely outdated idea about the rest of the world. The complete world makeover, I’ve just shown, is not unique to family size and child survival rates. The change looks very similar for pretty much any aspect of human lives.
+The remaining 15% are mostly in between the two boxes. Only 13 countries, representing 6% of the world population, are still inside the developing box. But while the world has changed, the worldview has not. At least in the heads of the Westerners, most of us are stuck with a completely outdated idea about the rest of the world.
 
-Not showing levels of income or tourism or democracy or access to education, health care or electricity would all tell the same story. That the world used to be divided into two, but isn’t any longer. Today, most people are in the middle. There is no gap between the West and the rest, between developed and developing, between rich and poor.
+The complete world makeover, I’ve just shown, is not unique to family size and child survival rates. The change looks very similar for pretty much any aspect of human lives. Not showing levels of income or tourism or democracy or access to education, health care or electricity would all tell the same story. That the world used to be divided into two, but isn’t any longer.
 
-And we should all stop using the simple pairs of categories that suggest there is. My students were dedicated, globally aware young people who wanted to make the world a better place. I was shocked by their blunt ignorance of the most basic facts about the world. I was shocked that they actually thought there were two groups, us and them, shocked to hear them saying that they could not live like us.
+Today, most people are in the middle. There is no gap between the West and the rest, between developed and developing, between rich and poor. And we should all stop using the simple pairs of categories that suggest there is. My students were dedicated, globally aware young people who wanted to make the world a better place.
 
-How is it even possible that they were walking around with a thirty-year-old worldview in their heads? Pedaling home through the rain that evening, in October 1995, my fingers numb, I felt fired up. My plan had worked. By bringing the data into the classroom, I had been able to prove to my students that the world was not divided into two.
+I was shocked by their blunt ignorance of the most basic facts about the world. I was shocked that they actually thought there were two groups, us and them, shocked to hear them saying that they could not live like us. How is it even possible that they were walking around with a thirty-year-old worldview in their heads? Pedaling home through the rain that evening, in October 1995, my fingers numb, I felt fired up.
 
-I had finally managed to capture their misconception. Now I felt the urge to take the fight further. I realized I needed to make the data even clearer. That would help me to show more people, more convincingly, that their opinions were nothing more than unsubstantiated feelings.
+My plan had worked. By bringing the data into the classroom, I had been able to prove to my students that the world was not divided into two. I had finally managed to capture their misconception. Now.
+
+I felt the urge to take the fight further. I realized. I needed to make the data even clearer. That would help me to show more people, more convincingly, that their opinions were nothing more than unsubstantiated feelings.
 
 That would help me to shatter their illusions that they knew things that really they only felt. Twenty years later, I’m sitting in a fancy TV studio in Copenhagen, in Denmark. The divided worldview is twenty years older, twenty years more outdated. We’re live on air, and the journalist tilts his head and says to me, We still see an enormous difference between the small, rich world, the old western world mostly, and then the large part.
 
-But you’re totally wrong, I reply. Once more I explain that poor, developing countries no longer exist as a distinct group, that there is no gap.
+But you’re totally wrong, I reply. Once more. I explain that poor, developing countries no longer exist as a distinct group, that there is no gap.
 
 
 <a id="sec-010039"></a>
@@ -440,27 +486,27 @@ Today most people, seventy-five percent, live in middle-income countries, not po
 
 And what do you base that knowledge on? I continued the journalist in an obvious attempt to be provocative, and he succeeded. I couldn’t help getting irritated in my agitation showed in my voice and my words. I use normal statistics that are compiled by the World Bank and the United Nations.
 
-This is not controversial. These facts are not up for discussion. I am right, and you are wrong, capturing the beast. Now that I have been fighting the misconception of a divided world for twenty years, I am no longer surprised when I encounter it.
+This is not controversial. These facts are not up for discussion. I am right, and you are wrong, capturing the beast. Now that.
 
-My students were not special. The Danish journalist was not special. The vast majority of the people I meet think like this. If you are skeptical about my claim that so many people get it wrong, that’s good.
+I have been fighting the misconception of a divided world for twenty years, I am no longer surprised when. I encounter it. My students were not special. The Danish journalist was not special.
 
-You should always require evidence for claims like this. And here it is, in the form of a two-part misconception trap.
+The vast majority of the people. I meet think like this. If you are skeptical about my claim that so many people get it wrong, that’s good. You should always require evidence for claims like this.
 
-First, we had people disclose how they imagined life in so-called low-income countries by asking questions like this one from the test you did in the introduction. Fact Question 1. In all low-income countries across the world today, how many girls finish primary school? A. 20%.
+And here it is, in the form of a two-part misconception trap. First, we had people disclose how they imagined life in so-called low-income countries by asking questions like this one from the test you did in the introduction. Fact Question 1. In all low-income countries across the world today, how many girls finish primary school?
 
-B. 40%. C. 60%. On average, just 7% picked the correct answer. C. 60% of girls finish primary school in low-income countries.
+A. 20%. B. 40%. C. 60%. On average, just 7% picked the correct answer.
 
-Remember, 33% of the chimps at the zoo would have gotten this question right. A majority of people guessed that it was just 20%. There are only a very few countries in the world, exceptional places like Afghanistan or South Sudan, where fewer than 20% of girls finish primary school. And at most, 2% of the world’s girls live in such countries.
+C. 60% of girls finish primary school in low-income countries. Remember, 33% of the chimps at the zoo would have gotten this question right. A majority of people guessed that it was just 20%. There are only a very few countries in the world, exceptional places like Afghanistan or South Sudan, where fewer than 20% of girls finish primary school.
 
-When we asked similar questions about life expectancy, undernourishment, water quality and vaccination rates, essentially asking what proportion of people in low-income countries had access to the basic first steps toward a modern life, we got the same kinds of results. Life expectancy in low-income countries is 62 years. Most people have enough to eat. Most people have access to improved water.
+And at most, 2% of the world’s girls live in such countries. When we asked similar questions about life expectancy, undernourishment, water quality and vaccination rates, essentially asking what proportion of people in low-income countries had access to the basic first steps toward a modern life, we got the same kinds of results. Life expectancy in low-income countries is 62 years. Most people have enough to eat.
 
-Most children are vaccinated. And most girls finish primary school. Only tiny percentages, way less than the chimps' 33%, got these answers right, and large majorities picked the worst alternative we offered, even when those numbers represented levels of misery now being suffered only during terrible catastrophes in the very worst places on Earth. Now let’s close the trap and capture the misconception.
+Most people have access to improved water. Most children are vaccinated. And most girls finish primary school. Only tiny percentages, way less than the chimps' 33%, got these answers right, and large majorities picked the worst alternative we offered, even when those numbers represented levels of misery now being suffered only during terrible catastrophes in the very worst places on Earth.
 
-We now know that people believe that life in low-income countries is much worse than it actually is. But how many people do they imagine live such terrible lives? We asked people in Sweden and the United States. Of the world population, what percentage lives in low-income countries?
+Now let’s close the trap and capture the misconception. We now know that people believe that life in low-income countries is much worse than it actually is. But how many people do they imagine live such terrible lives? We asked people in Sweden and the United States.
 
-The majority suggested the answer was 50% or more. The average guess was 59%. The real figure is 9%. Only 9% of the world lives in low-income countries.
+Of the world population, what percentage lives in low-income countries? The majority suggested the answer was 50% or more. The average guess was 59%. The real figure is 9%.
 
-And remember, we just worked out that those countries are not nearly as terrible as people think. They are really bad in many ways, but they are not at or below the level of Afghanistan,
+Only 9% of the world lives in low-income countries. And remember, we just worked out that those countries are not nearly as terrible as people think. They are really bad in many ways, but they are not at or below the level of Afghanistan,
 
 
 <a id="sec-010539"></a>
@@ -490,9 +536,11 @@ It doesn’t help us to understand the world in a practical way. It doesn’t he
 
 What should we do? One reason the old labels are so popular is that they are so simple, but they are wrong. So to replace them, I will now suggest an equally simple but more relevant and useful way of dividing up the world. Instead of dividing the world into two groups, I will divide it into four income levels.
 
-Most people are living on the two middle levels where people have most of their basic human needs met. Are you excited? You should be, because the four income levels are the first, most important part of your new fact-based framework. They are one of the simple thinking tools I promised would help you to guess better about the world.
+Most people are living on the two middle levels where people have most of their basic human needs met. Are you excited? You should be, because the four income levels are the first, most important part of your new fact-based framework. They are one of the simple thinking tools.
 
-Throughout the book, you will see how the levels provide a simple way to understand all kinds of things, from terrorism to sex education. So I want to try to explain what life is like on each of these four levels. Think of the four income levels as the levels of a computer game. Everyone wants to move from level one to level two and upward through the levels from there.
+I promised would help you to guess better about the world. Throughout the book, you will see how the levels provide a simple way to understand all kinds of things, from terrorism to sex education. So. I want to try to explain what life is like on each of these four levels.
+
+Think of the four income levels as the levels of a computer game. Everyone wants to move from level one to level two and upward through the levels from there.
 
 
 <a id="sec-011039"></a>
@@ -530,7 +578,7 @@ Level 4. You have more than $64 a day. You are a rich consumer, and three more d
 <a id="sec-011541"></a>
 ### ⏱️ [01:15:41 - 01:20:50]
 
-is not a lot of money. You have more than 12 years of education, and you have been on an airplane on vacation. You can eat out once a month, and you can buy a car. Of course you can have hot and cold water indoors.
+is not a lot of money. You have more than 12 years of education, and you have been on an airplane on vacation. You can eat out once a month, and you can buy a car. Of course, you can have hot and cold water indoors.
 
 But you know about this level already, since you are reading this book. I’m pretty sure you live on level 4. I don’t have to describe it for you to understand. The difficulty, when you have always known this high level of income, is to understand the huge differences between the other three levels.
 
@@ -540,17 +588,17 @@ Often it takes several generations for a family to move from level 1 to level 4.
 
 Just 200 years ago 85% of the world population was still on level 1 in extreme poverty. Today the vast majority of people are spread out in the middle across levels 2 and 3. With the same range of standards of living as people had in Western Europe and North America in the 1950s. And this has been the case for many years.
 
-The gap instinct. The gap instinct is very strong. The first time I lectured to the staff of the World Bank was in 1999. I told them the labels developing and developed were no longer valid and I swallowed my sword.
+The gap instinct. The gap instinct is very strong. The first time. I lectured to the staff of the World Bank was in 1999.
 
-It took the World Bank 17 years and 14 more of my lectures before it finally announced publicly that it was dropping the terms developing and developed and would from now on divide the world into four income groups. The UN and most other global organizations have still not made this change. So why is the misconception of a gap between the rich and the poor so hard to change? I think this is because human beings have a strong dramatic instinct toward binary thinking.
+I told them the labels developing and developed were no longer valid and. I swallowed my sword. It took the World Bank 17 years and 14 more of my lectures before it finally announced publicly that it was dropping the terms developing and developed and would from now on divide the world into four income groups. The UN and most other global organizations have still not made this change.
 
-A basic urge to divide things into two distinct groups with nothing but an empty gap in between. We love to dichotomize good versus bad, heroes versus villains, my country versus the rest. Dividing the world into two distinct sides is simple and intuitive and also dramatic because it implies conflict and we do it without thinking all the time. Journalists know this.
+So why is the misconception of a gap between the rich and the poor so hard to change? I think this is because human beings have a strong dramatic instinct toward binary thinking. A basic urge to divide things into two distinct groups with nothing but an empty gap in between. We love to dichotomize good versus bad, heroes versus villains, my country versus the rest.
 
-They set up their narratives as conflicts between two opposing people, views or groups. They prefer stories of extreme poverty and billionaires to stories about the vast majority of people slowly dragging themselves toward better lives. Journalists are storytellers. So are people who produce documentaries and movies.
+Dividing the world into two distinct sides is simple and intuitive and also dramatic because it implies conflict and we do it without thinking all the time. Journalists know this. They set up their narratives as conflicts between two opposing people, views or groups. They prefer stories of extreme poverty and billionaires to stories about the vast majority of people slowly dragging themselves toward better lives.
 
-Movies pit the fragile individual against the big evil corporation. Blockbuster movies usually feature good fighting evil. The gap instinct makes us imagine division where there is just a smooth range, difference where there is convergence and conflict where there is agreement. It is the first instinct on our list because it’s so common and distorts the data so fundamentally.
+Journalists are storytellers. So are people who produce documentaries and movies. Movies pit the fragile individual against the big evil corporation. Blockbuster movies usually feature good fighting evil.
 
-If you look at the news or click on a lobby group’s website this evening, you will probably notice stories about conflict between two groups or phrases like the increasing gap.
+The gap instinct makes us imagine division where there is just a smooth range, difference where there is convergence and conflict where there is agreement. It is the first instinct on our list because it’s so common and distorts the data so fundamentally. If you look at the news or click on a lobby group’s website this evening, you will probably notice stories about conflict between two groups or phrases like the increasing gap.
 
 
 <a id="sec-012050"></a>
@@ -558,27 +606,27 @@ If you look at the news or click on a lobby group’s website this evening, you 
 
 How to control the gap instinct. There are three common warning signs that someone might be telling you or you might be telling yourself an overdramatic gap story and triggering your gap instinct. Let’s call them comparisons of averages, comparisons of extremes, and the view from up here. Comparisons of averages.
 
-All you averages out there, please do not take offense at what I am about to say. I love averages. They are a quick way to convey information. They often tell us something useful, and modern societies couldn’t function without them.
+All you averages out there, please do not take offense at what. I am about to say. I love averages. They are a quick way to convey information.
 
-Nor could this book. There will be many averages in this book, but any simplification of information may also be misleading, and averages are no exception. When we compare two averages, we risk misleading ourselves even more by focusing on the gap between those two single numbers and missing the overlapping spreads, the overlapping ranges of numbers that make up each average. That is, we see gaps that are not really there.
+They often tell us something useful, and modern societies couldn’t function without them. Nor could this book. There will be many averages in this book, but any simplification of information may also be misleading, and averages are no exception. When we compare two averages, we risk misleading ourselves even more by focusing on the gap between those two single numbers and missing the overlapping spreads, the overlapping ranges of numbers that make up each average.
 
-Let’s take two graphs. One shows the gap between the average math scores of men and women taking SAT tests in the United States for every year since 1965. The other graph shows the gap between the average income of people living in Mexico and the United States. There are huge differences between the two lines in each graph, men versus women, United States versus Mexico.
+That is, we see gaps that are not really there. Let’s take two graphs. One shows the gap between the average math scores of men and women taking SAT tests in the United States for every year since 1965. The other graph shows the gap between the average income of people living in Mexico and the United States.
 
-The graphs seem to show that men are better at math than women, and that people living in the United States have a higher income than Mexicans, and in a sense this is true. It is what the numbers say. But in what sense? To what extent?
+There are huge differences between the two lines in each graph, men versus women, United States versus Mexico. The graphs seem to show that men are better at math than women, and that people living in the United States have a higher income than Mexicans, and in a sense this is true. It is what the numbers say. But in what sense?
 
-Are all men better than all women? Are all U. S. citizens richer than all Mexicans? Let’s get a better sense of the reality behind the numbers.
+To what extent? Are all men better than all women? Are all U. S. citizens richer than all Mexicans?
 
-First, let’s change the scale. Using the same numbers, we can get a very different impression. The gap appears almost gone. Looking at the same data in another way, instead of looking at the averages each year, look at the range of math scores or incomes in a particular year.
+Let’s get a better sense of the reality behind the numbers. First, let’s change the scale. Using the same numbers, we can get a very different impression. The gap appears almost gone.
 
-Now we get a sense of all the individuals who were bundled into the average number. There is an almost complete overlap between men and women’s math scores. The majority of women have a male math twin, a man with the same math score as they do. When it comes to incomes in Mexico and the United States, the overlap is there, but it is only partial.
+Looking at the same data in another way, instead of looking at the averages each year, look at the range of math scores or incomes in a particular year. Now we get a sense of all the individuals who were bundled into the average number. There is an almost complete overlap between men and women’s math scores. The majority of women have a male math twin, a man with the same math score as they do.
 
-What is clear, though, looking at the data this way, is that the two groups of people – men and women, Mexicans and people living in the United States – are not separate at all. They overlap. There is no gap. Of course, gap stories can reflect reality.
+When it comes to incomes in Mexico and the United States, the overlap is there, but it is only partial. What is clear, though, looking at the data this way, is that the two groups of people – men and women, Mexicans and people living in the United States – are not separate at all. They overlap. There is no gap.
 
-In apartheid South Africa, black people and white people lived on different income levels, and there was a true gap between them with almost no overlap. The gap story of separate groups was absolutely relevant. But apartheid was very unusual. Much more often, gap stories are a misleading over-dramatization.
+Of course, gap stories can reflect reality. In apartheid South Africa, black people and white people lived on different income levels, and there was a true gap between them with almost no overlap. The gap story of separate groups was absolutely relevant. But apartheid was very unusual.
 
-In most cases, there is no clear separation of two groups, even if it seems like that from the averages. We almost always get a more accurate picture by digging a little deeper and looking not just at the averages but at the spread, not just the group all bundled together but the individuals. Then we often see that apparently distinct groups are in fact very much overlapping – comparisons of extremes. We are naturally drawn to extreme examples, and they are easy to recall.
+Much more often, gap stories are a misleading over-dramatization. In most cases, there is no clear separation of two groups, even if it seems like that from the averages. We almost always get a more accurate picture by digging a little deeper and looking not just at the averages but at the spread, not just the group all bundled together but the individuals. Then we often see that apparently distinct groups are in fact very much overlapping – comparisons of extremes.
 
-For example, if we are thinking about global inequality, we might think about the stories
+We are naturally drawn to extreme examples, and they are easy to recall. For example, if we are thinking about global inequality, we might think about the stories
 
 
 <a id="sec-012551"></a>
@@ -596,61 +644,65 @@ At the same time, it hasn’t been this low for many years. Bikes are often used
 
 The big hump is on level three. That’s where you get a motorbike and reading glasses, and save money in a bank to pay for high school, and someday buy a washing machine. In reality, even in one of the world’s most unequal countries, there is no gap. Most people are in the middle.
 
-The view from up here. As I mentioned, if you are reading this book, you probably live on level four. Even if you live in a middle-income country, meaning the average income is on level two or three, like Mexico, for example, you yourself probably live on level four, and your life is probably similar in important ways to the lives of the people living on level four in San Francisco, Stockholm, Rio, Cape Town, and Beijing. The thing known as poverty in your country is different from extreme poverty.
+The view from up here. As. I mentioned, if you are reading this book, you probably live on level four. Even if you live in a middle-income country, meaning the average income is on level two or three, like Mexico, for example, you yourself probably live on level four, and your life is probably similar in important ways to the lives of the people living on level four in San Francisco, Stockholm, Rio, Cape Town, and Beijing.
 
-It’s relative poverty. In the United States, for example, people are classified as below the poverty line, even if they live on level three. So the struggles people go through on levels one, two, and three will most likely be completely unfamiliar to you. And they are not described in any helpful way in the mass media you consume.
+The thing known as poverty in your country is different from extreme poverty. It’s relative poverty. In the United States, for example, people are classified as below the poverty line, even if they live on level three. So the struggles people go through on levels one, two, and three will most likely be completely unfamiliar to you.
 
-Of course, if you live on level four and have relatives living on level two and three, you probably know what their lives look like. If so, you can skip this section. Your most important challenge in developing a fact-based worldview is to realize that most of your first-hand experiences are from level four, and that your second-hand experiences are filtered through the mass media, which loves non-representative extraordinary events and shuns normality. When you live on level four, everyone on level four… levels three, two, and one can look equally poor, and the word poor can lose any specific meaning.
+And they are not described in any helpful way in the mass media you consume. Of course, if you live on level four and have relatives living on level two and three, you probably know what their lives look like. If so, you can skip this section. Your most important challenge in developing a fact-based worldview is to realize that most of your first-hand experiences are from level four, and that your second-hand experiences are filtered through the mass media, which loves non-representative extraordinary events and shuns normality.
 
-Even a person on level four can appear poor. Maybe the paint on their walls is peeling, or maybe they are driving a used car. Anyone who has looked down from the top of a tall building knows that it is difficult to assess from there the differences in height of the buildings nearer the ground. They all look kind of small.
+When you live on level four, everyone on level four… levels three, two, and one can look equally poor, and the word poor can lose any specific meaning. Even a person on level four can appear poor. Maybe the paint on their walls is peeling, or maybe they are driving a used car. Anyone who has looked down from the top of a tall building knows that it is difficult to assess from there the differences in height of the buildings nearer the ground.
 
-In the same way, it is natural for people living on level four to see the world as divided into just two categories—rich, at the top of the building, like you, and poor, down there, not like you. It is natural to look down and say, oh, they are all poor.
+They all look kind of small. In the same way, it is natural for people living on level four to see the world as divided into just two categories—rich, at the top of the building, like you, and poor, down there, not like you. It is natural to look down and say, oh, they are all poor.
 
 
 <a id="sec-013054"></a>
 ### ⏱️ [01:30:54 - 01:35:58]
 
-It is natural to miss the distinctions between the people with cars, the people with motorbikes and bicycles, the people with sandals, and the people with no shoes at all. I assure you, because I have met and talked with people who live on every level, that for the people living on the ground on levels one, two, and three, the distinctions are crucial. People living in extreme poverty on level one know very well how much better life would be if they could move from one dollar a day to four dollars a day, not to mention sixteen dollars a day.
+It is natural to miss the distinctions between the people with cars, the people with motorbikes and bicycles, the people with sandals, and the people with no shoes at all. I assure you, because. I have met and talked with people who live on every level, that for the people living on the ground on levels one, two, and three, the distinctions are crucial. People living in extreme poverty on level one know very well how much better life would be if they could move from one dollar a day to four dollars a day, not to mention sixteen dollars a day.
 
 People who have to walk everywhere on bare feet know how a bicycle would save them tons of time and effort and speed them to the market in town and to better health and wealth. The four-level framework, the replacement for the overdramatic, divided worldview, is the first and most important part of the fact-based framework you will learn in this book. Now you have learned it. It isn’t too difficult, is it?
 
-I will use the four levels throughout the rest of the book to explain all kinds of things, including elevators, drownings, sex, cookery, and rhinos. They will help you see the world more clearly and get it right more often. What do you need to hunt, capture, and replace misconceptions? Data You have to show the data and describe the reality behind it.
+I will use the four levels throughout the rest of the book to explain all kinds of things, including elevators, drownings, sex, cookery, and rhinos. They will help you see the world more clearly and get it right more often. What do you need to hunt, capture, and replace misconceptions? Data.
 
-So thank you, UNICEF data tables, thank you bubble graphs, and thank you Internet. And you also need something more. Misconceptions disappear only if there is some equally simple but more relevant way of thinking to replace them. That’s what the four levels do.
+You have to show the data and describe the reality behind it. So thank you, UNICEF data tables, thank you bubble graphs, and thank you Internet. And you also need something more. Misconceptions disappear only if there is some equally simple but more relevant way of thinking to replace them.
 
-Factfulness Factfulness is recognizing when a story talks about a gap and remembering that this paints a picture of two separate groups with a gap in between. The reality is often not polarized at all. Usually the majority is right there in the middle, where the gap is supposed to be. To control the gap instinct, look for the majority.
+That’s what the four levels do. Factfulness Factfulness is recognizing when a story talks about a gap and remembering that this paints a picture of two separate groups with a gap in between. The reality is often not polarized at all. Usually the majority is right there in the middle, where the gap is supposed to be.
 
-Beware comparisons of averages. If you could check the spreads, you would probably find they overlap. There is probably no gap at all. Beware comparisons of extremes.
+To control the gap instinct, look for the majority. Beware comparisons of averages. If you could check the spreads, you would probably find they overlap. There is probably no gap at all.
 
-In all groups of countries or people, there are some at the top and some at the bottom. The difference is sometimes extremely unfair, but even then, the majority is usually somewhere in between, right where the gap is supposed to be. The view from up here. Remember, looking down from above distorts the view.
+Beware comparisons of extremes. In all groups of countries or people, there are some at the top and some at the bottom. The difference is sometimes extremely unfair, but even then, the majority is usually somewhere in between, right where the gap is supposed to be. The view from up here.
 
-Everything else looks equally short, but it’s not.
+Remember, looking down from above distorts the view. Everything else looks equally short, but it’s not.
 
-#### Chapter 2 The Negativity Instinct How I was kind of born in Egypt and what a baby in an incubator can teach us about the world. Which statement do you agree with most? A. The world is getting better.
+#### Chapter 2 The Negativity Instinct. How I was kind of born in Egypt and what a baby in an incubator can teach us about the world. Which statement do you agree with most?
 
-B. The world is getting worse. C. The world is getting neither better nor worse.
+A. The world is getting better. B. The world is getting worse.
 
-Getting Out of the Ditch I remember being suddenly upside down. I remember the dark, the smell of urine, and being unable to breathe as my mouth and nostrils filled with mud. I remember struggling to turn myself upright, but only sinking deeper into the sticky liquid. I remember my arms stretched out behind me, desperately searching the grass for something to pull, then being suddenly hauled out by the ankles.
+C. The world is getting neither better nor worse. Getting Out of the Ditch. I remember being suddenly upside down.
 
-My grandma putting me in the big sink on the kitchen floor and washing me gently with the hot water meant for the dishes, the scent of the soap. These are my earliest memories and were nearly my last. They are memories of my rescue, aged four, from the sewage ditch running in front of my grandma’s house. It was filled to the brim with a mix of last night’s rain and sewage slurry from the factory
+I remember the dark, the smell of urine, and being unable to breathe as my mouth and nostrils filled with mud. I remember struggling to turn myself upright, but only sinking deeper into the sticky liquid. I remember my arms stretched out behind me, desperately searching the grass for something to pull, then being suddenly hauled out by the ankles. My grandma putting me in the big sink on the kitchen floor and washing me gently with the hot water meant for the dishes, the scent of the soap.
+
+These are my earliest memories and were nearly my last. They are memories of my rescue, aged four, from the sewage ditch running in front of my grandma’s house. It was filled to the brim with a mix of last night’s rain and sewage slurry from the factory
 
 
 <a id="sec-013558"></a>
 ### ⏱️ [01:35:58 - 01:41:00]
 
-worker’s township. Something in it had caught my attention, and stepping to the ditch’s edge I had slipped and fallen in headfirst. My parents were not around to keep an eye on me. My mother was in the hospital, ill with tuberculosis.
+worker’s township. Something in it had caught my attention, and stepping to the ditch’s edge. I had slipped and fallen in headfirst. My parents were not around to keep an eye on me.
 
-My father worked ten hours a day. During the week I lived with my grandparents. On Saturdays my daddy put me on the rack of his bike, and we drove in large circles and figures of eight just for fun on our way to the hospital. I would see mommy standing on the balcony, on the third floor, coughing.
+My mother was in the hospital, ill with tuberculosis. My father worked ten hours a day. During the week. I lived with my grandparents.
 
-She would explain that if we went in we could get sick too. I would wave to her, and she would wave back. I saw her talking to me, but her voice was too weak, and her words were carried away by the wind. I remember that she always tried to smile.
+On Saturdays my daddy put me on the rack of his bike, and we drove in large circles and figures of eight just for fun on our way to the hospital. I would see mommy standing on the balcony, on the third floor, coughing. She would explain that if we went in we could get sick too. I would wave to her, and she would wave back.
 
-The mega-misconception that the world is getting worse. This chapter is about the negativity instinct. The tendency to notice the bad more than the good. This instinct is behind the second mega-misconception.
+I saw her talking to me, but her voice was too weak, and her words were carried away by the wind. I remember that she always tried to smile. The mega-misconception that the world is getting worse. This chapter is about the negativity instinct.
 
-Things are getting worse is the statement about the world that I hear more than any other, and it is absolutely true there are many bad things in this world. The number of war fatalities has been falling since the Second World War, but with the Syrian war, the trend has reversed. Terrorism too is rising again. We’ll get back to that in chapter four.
+The tendency to notice the bad more than the good. This instinct is behind the second mega-misconception. Things are getting worse is the statement about the world that. I hear more than any other, and it is absolutely true there are many bad things in this world.
 
-Overfishing and the deterioration of the seas are truly worrisome. The lists of dead areas in the world’s oceans and of endangered species are getting longer. Ice is melting. Sea levels will continue to rise by probably three feet over the next one hundred years.
+The number of war fatalities has been falling since the Second World War, but with the Syrian war, the trend has reversed. Terrorism too is rising again. We’ll get back to that in chapter four. Overfishing and the deterioration of the seas are truly worrisome.
 
-There’s no doubt it’s because of all the greenhouse gases humans have pumped into the atmosphere, which won’t disperse for a long time, even if we stop adding more. The collapse of the U. S. housing market in 2007, which no regulators had predicted, was caused by widespread illusions of safety in abstract investments, which hardly anyone understood. The system remains as complex now as it was then, and a similar crisis could happen again. Maybe tomorrow.
+The lists of dead areas in the world’s oceans and of endangered species are getting longer. Ice is melting. Sea levels will continue to rise by probably three feet over the next one hundred years. There’s no doubt it’s because of all the greenhouse gases humans have pumped into the atmosphere, which won’t disperse for a long time, even if we stop adding more.
+
+The collapse of the U. S. housing market in 2007, which no regulators had predicted, was caused by widespread illusions of safety in abstract investments, which hardly anyone understood. The system remains as complex now as it was then, and a similar crisis could happen again. Maybe tomorrow.
 
 In order for this planet to have financial stability, peace, and protected natural resources, there’s one thing that we can’t do without, and that’s international collaboration. Based on a shared and fact-based understanding of the world. The current lack of knowledge about the world is therefore the most concerning problem of all. I hear so many negative things all the time.
 
@@ -660,29 +712,35 @@ I never trust data one hundred percent, and you never should either. There is al
 
 Be careful jumping to any conclusions. If the differences are smaller than, say, roughly ten percent. The big picture is still crystal clear, though. The majority of people think the world is getting worse.
 
-No wonder we all feel stressed. Statistics as Therapy It is easy to be aware of all the bad things happening in the world. It’s harder to know about the good things. Billions of Improvements That Are Never Reported Don’t misunderstand me.
+No wonder we all feel stressed. Statistics as Therapy. It is easy to be aware of all the bad things happening in the world. It’s harder to know about the good things.
 
-I’m not talking about some trivial positive news to supposedly balance out the negative. I’m talking about fundamental improvements that are world-changing, but are too slow, too fragmented, and too small one by one to ever qualify as news. I’m talking about the secret silent miracle of human progress.
+Billions of Improvements. That Are Never Reported Don’t misunderstand me. I’m not talking about some trivial positive news to supposedly balance out the negative. I’m talking about fundamental improvements that are world-changing, but are too slow, too fragmented, and too small one by one to ever qualify as news.
+
+I’m talking about the secret silent miracle of human progress.
 
 
 <a id="sec-014100"></a>
 ### ⏱️ [01:41:00 - 01:46:02]
 
-The basic facts about the world’s progress are so little known that I get invited to talk about them at conferences and corporate meetings all over the world. They sometimes call my lectures inspirational, and many people say they also have a comforting effect. That was never my intention, but it’s logical. What I show is mostly just official UN data.
+The basic facts about the world’s progress are so little known that. I get invited to talk about them at conferences and corporate meetings all over the world. They sometimes call my lectures inspirational, and many people say they also have a comforting effect. That was never my intention, but it’s logical.
 
-As long as people have a worldview that is so much more negative than reality, pure statistics can make them feel more positive. It is comforting, as well as inspiring, to learn that the world is much better than you think. A new kind of happy pill, completely free online. Extreme Poverty Let’s start by looking at the trend for extreme poverty.
+What. I show is mostly just official UN data. As long as people have a worldview that is so much more negative than reality, pure statistics can make them feel more positive. It is comforting, as well as inspiring, to learn that the world is much better than you think.
 
-Fact Question 3. In the last 20 years, the proportion of the world population living in extreme poverty has a.) almost doubled, b.) remained more or less the same, c.) almost halved. The correct answer is c.) Over the last 20 years, the proportion of people living in extreme poverty has almost halved. But in our online polls in most countries, less than 10% knew this.
+A new kind of happy pill, completely free online. Extreme Poverty Let’s start by looking at the trend for extreme poverty. Fact Question 3. In the last 20 years, the proportion of the world population living in extreme poverty has a.) almost doubled, b.) remained more or less the same, c.) almost halved.
 
-Remember the four income levels from Chapter 1? In the year 1800, roughly 85% of humanity lived on Level 1 in extreme poverty. All over the world, people simply did not have enough food. Most people went to bed hungry several times a year.
+The correct answer is c.) Over the last 20 years, the proportion of people living in extreme poverty has almost halved. But in our online polls in most countries, less than 10% knew this. Remember the four income levels from.
 
-Across Britain and its colonies, children had to work to eat, and the average child in the United Kingdom started work at age 10. One fifth the entire Swedish population, including many of my relatives, fled starvation to the United States, and only 20% of them ever returned. When the harvest failed, and your relatives, friends, and neighbors starved to death, what did you do? You escaped.
+#### Chapter 1?
 
-You migrated. If you could. Level 1 is where all of humanity started. It’s where the majority always lived.
+In the year 1800, roughly 85% of humanity lived on Level 1 in extreme poverty. All over the world, people simply did not have enough food. Most people went to bed hungry several times a year. Across Britain and its colonies, children had to work to eat, and the average child in the United Kingdom started work at age 10.
 
-Until 1966. Until then, extreme poverty was the rule, not the exception. The extreme poverty rate has been falling since 1800, and in the last 20 years, extreme poverty dropped faster than ever in world history. In 1997, 42% of the population of both India and China were living in extreme poverty.
+One fifth the entire Swedish population, including many of my relatives, fled starvation to the United States, and only 20% of them ever returned. When the harvest failed, and your relatives, friends, and neighbors starved to death, what did you do? You escaped. You migrated.
 
-By 2017, in India, that share had dropped to 12%. There were 270 million fewer people living in extreme poverty than there had been just 20 years earlier. In China, that share dropped to a stunning 0.7% over the same period, meaning another half a billion people crossed over this crucial threshold.
+If you could. Level 1 is where all of humanity started. It’s where the majority always lived. Until 1966.
+
+Until then, extreme poverty was the rule, not the exception. The extreme poverty rate has been falling since 1800, and in the last 20 years, extreme poverty dropped faster than ever in world history. In 1997, 42% of the population of both India and China were living in extreme poverty. By 2017, in India, that share had dropped to 12%.
+
+There were 270 million fewer people living in extreme poverty than there had been just 20 years earlier. In China, that share dropped to a stunning 0.7% over the same period, meaning another half a billion people crossed over this crucial threshold.
 
 Meanwhile, Latin America took its proportion from 14% to 4%, another 35 million people. While all estimates of extreme poverty are very uncertain, when the change appears to be like this, then beyond all doubt… out, something huge is happening. How old were you twenty years ago? Close your eyes for a second and remember your younger self.
 
@@ -690,9 +748,9 @@ How much has your world changed? A lot? A little? Well, this is how much THE wor
 
 Just twenty years ago, twenty-nine percent of the world population lived in extreme poverty. Now that number is nine percent. Today almost everybody has escaped hell. The original source of all human suffering is about to be eradicated.
 
-We should plan a party. A big party. And when I say we, I mean humanity. Instead we are gloomy.
+We should plan a party. A big party. And when. I say we, I mean humanity.
 
-On our level four TVs we still see people in extreme
+Instead we are gloomy. On our level four TVs we still see people in extreme
 
 
 <a id="sec-014602"></a>
@@ -714,13 +772,15 @@ It’s seventy-two. This is one of those questions where the better educated you
 
 That would have been correct if you had asked the question in nineteen seventy-three, the year when two hundred thousand people starved to death in Ethiopia. But we asked it in this decade, more than forty years of progress later. People live on average ten years longer now. We humans have always struggled hard to make our family survive, and finally we are succeeding.
 
-When I show this in a graph, people often ask, what is the most recent dip there? And they point at nineteen sixty. If you don’t know already, this is a great opportunity for me to attack the misconception that the world is getting worse. There’s a dip in the global life expectancy curve in nineteen sixty because fifteen to forty million people—nobody knows the exact number—starved to death that year in China, in what was probably the world’s largest ever man-made famine.
+When. I show this in a graph, people often ask, what is the most recent dip there? And they point at nineteen sixty. If you don’t know already, this is a great opportunity for me to attack the misconception that the world is getting worse.
 
-The Chinese harvest in nineteen sixty was smaller than planned because of a bad season combined with poor governmental advice about how to grow crops more effectively. The local governments didn’t want to show bad results, so they took all the food and sent it to the central government. There was no food left. One year later, the shocked inspectors were delivering eyewitness reports of cannibalism and dead bodies along roads.
+There’s a dip in the global life expectancy curve in nineteen sixty because fifteen to forty million people—nobody knows the exact number—starved to death that year in China, in what was probably the world’s largest ever man-made famine. The Chinese harvest in nineteen sixty was smaller than planned because of a bad season combined with poor governmental advice about how to grow crops more effectively. The local governments didn’t want to show bad results, so they took all the food and sent it to the central government.
 
-The government denied that its central planning had failed, and the catastrophe was kept secret by the Chinese government for thirty-six years. It wasn’t described in English to the outside world until nineteen ninety-six. Think about it. Could any government keep the death of fifteen million people a global secret today?
+There was no food left. One year later, the shocked inspectors were delivering eyewitness reports of cannibalism and dead bodies along roads. The government denied that its central planning had failed, and the catastrophe was kept secret by the Chinese government for thirty-six years. It wasn’t described in English to the outside world until nineteen ninety-six.
 
-Even if the Chinese government had told the world about this tragedy, the UN World Food Programme, which today distributes food to wherever it’s most needed in the world, couldn’t have helped. It wasn’t created until nineteen sixty-one. The misconception that the world is getting worse is very difficult to maintain when we put the present in its historical context. We shouldn’t diminish the tragedies of the droughts and famines happening right now, but knowledge of the tragedies of the
+Think about it. Could any government keep the death of fifteen million people a global secret today? Even if the Chinese government had told the world about this tragedy, the UN World Food Programme, which today distributes food to wherever it’s most needed in the world, couldn’t have helped. It wasn’t created until nineteen sixty-one.
+
+The misconception that the world is getting worse is very difficult to maintain when we put the present in its historical context. We shouldn’t diminish the tragedies of the droughts and famines happening right now, but knowledge of the tragedies of the
 
 
 <a id="sec-015106"></a>
@@ -734,45 +794,47 @@ Poor countries are on the left, and richer countries are on the right, healthier
 
 And most countries are in the middle. Now this next bit is exciting. The Trail of Little Bubbles shows Sweden’s health and wealth for every year since 1800. What tremendous progress! 1948 was a very important year.
 
-The Second World War was over, Sweden topped the medals table at the Winter Olympics, and I was born. The Sweden I was born into in 1948 was where Egypt is on the health-wealth map today. That is to say, it was right in the middle of level three. Life conditions in 1950 Sweden were similar to those in Egypt or other countries on level three today.
+The Second World War was over, Sweden topped the medals table at the Winter Olympics, and. I was born. The Sweden. I was born into in 1948 was where Egypt is on the health-wealth map today.
 
-There were still open sewage ditches, and it wasn’t uncommon for children to drown in bodies of water close to home. On level three, parents work hard, away from their children, and the government has not yet enforced regulations to protect water with fences. Sweden kept improving during my lifetime. During the 1950s and 1960s, it progressed all the way from Egypt today to Malaysia today.
+That is to say, it was right in the middle of level three. Life conditions in 1950 Sweden were similar to those in Egypt or other countries on level three today. There were still open sewage ditches, and it wasn’t uncommon for children to drown in bodies of water close to home. On level three, parents work hard, away from their children, and the government has not yet enforced regulations to protect water with fences.
 
-By 1975, the year Anna and Ola were born, Sweden, like Malaysia today, was just about to enter level four. Let’s go backward now. When my mother was born in 1921, Sweden was like Zambia is now. That’s level two.
+Sweden kept improving during my lifetime. During the 1950s and 1960s, it progressed all the way from Egypt today to Malaysia today. By 1975, the year Anna and Ola were born, Sweden, like Malaysia today, was just about to enter level four. Let’s go backward now.
 
-My grandmother was the Lesutian member of our family. When she was born in 1891, Sweden was like Lesutu is today. That’s the country with the shortest life expectancy in the world today, right on the border between level one and two, almost in extreme poverty. My grandmother handwashed all the laundry for her family of nine all her adult life.
+When my mother was born in 1921, Sweden was like Zambia is now. That’s level two. My grandmother was the Lesutian member of our family. When she was born in 1891, Sweden was like Lesutu is today.
 
-But as she grew older, she witnessed the miracle of development, as both she and Sweden reached level three. By the end of her life, she had an indoor cold water tap and a latrine bucket in the basement, luxury compared to her childhood, where there had been no running water. All four of my grandparents could spell and count, but none of them was literate enough to read for pleasure. They couldn’t read children’s books to me, nor could they write a letter.
+That’s the country with the shortest life expectancy in the world today, right on the border between level one and two, almost in extreme poverty. My grandmother handwashed all the laundry for her family of nine all her adult life. But as she grew older, she witnessed the miracle of development, as both she and Sweden reached level three. By the end of her life, she had an indoor cold water tap and a latrine bucket in the basement, luxury compared to her childhood, where there had been no running water.
 
-None of them had had more than four years of school. Sweden in my grandparents' generation had the same level of literacy that India, also on level two, has achieved today. My great-grandmother was born in 1863, when Sweden’s average income level was like today’s Afghanistan, right on level one, with the majority of the population living in extreme poverty. Great-grandmother didn’t forget to tell her daughter, my grandmother, how cold the mud floor used to be in the winter.
+All four of my grandparents could spell and count, but none of them was literate enough to read for pleasure. They couldn’t read children’s books to me, nor could they write a letter. None of them had had more than four years of school. Sweden in my grandparents' generation had the same level of literacy that India, also on level two, has achieved today.
 
-But today, people in Afghanistan and other countries on level one live much longer lives than Swedes did back in 1863. This is
+My great-grandmother was born in 1863, when Sweden’s average income level was like today’s Afghanistan, right on level one, with the majority of the population living in extreme poverty. Great-grandmother didn’t forget to tell her daughter, my grandmother, how cold the mud floor used to be in the winter. But today, people in Afghanistan and other countries on level one live much longer lives than Swedes did back in 1863. This is
 
 
 <a id="sec-015614"></a>
 ### ⏱️ [01:56:14 - 02:01:21]
 
-because basic modernizations have reached most people and improved their lives drastically. They have plastic bags to store and transport food. They have plastic buckets to carry water and soap to kill germs. Most of their children are vaccinated. On average, they live 30 years longer than Swedes did in 1800, when Sweden was on level one.
+because basic modernizations have reached most people and improved their lives drastically. They have plastic bags to store and transport food. They have plastic buckets to carry water and soap to kill germs. Most of their children are vaccinated.
 
-That is how much life, even on level one, has improved. Your own country has been improving like crazy, too. I can say this with confidence, even though I don’t know where you live, because every country in the world has improved its life expectancy over the last 200 years.
+On average, they live 30 years longer than Swedes did in 1800, when Sweden was on level one. That is how much life, even on level one, has improved. Your own country has been improving like crazy, too. I can say this with confidence, even though.
 
-In fact, almost every country has improved by almost every measure. 32 more improvements. Is the world in your head still getting worse? Then get ready for a challenging data encounter. I have 32 more improvements to show you.
+I don’t know where you live, because every country in the world has improved its life expectancy over the last 200 years. In fact, almost every country has improved by almost every measure. 32 more improvements. Is the world in your head still getting worse? Then get ready for a challenging data encounter.
 
-You can track the progress of your country, or any country, online using the freely available tool we use to create our bubble charts found at www.gapminder.org slash tools. It is hard to see any of this global progress by looking out your window. It is taking place beyond the horizon. But there are some clues you can tune into if you pay close attention.
+I have 32 more improvements to show you. You can track the progress of your country, or any country, online using the freely available tool we use to create our bubble charts found at www.gapminder.org slash tools. It is hard to see any of this global progress by looking out your window. It is taking place beyond the horizon.
 
-Listen carefully. Can you hear a child practicing the guitar or the piano? That child has not drowned and is instead experiencing the joy and freedom of making music. The goal of higher income is not just bigger piles of money.
+But there are some clues you can tune into if you pay close attention. Listen carefully. Can you hear a child practicing the guitar or the piano? That child has not drowned and is instead experiencing the joy and freedom of making music.
 
-The goal of longer lives is not just extra time. The ultimate goal is to have the freedom to do what we want. Me? I love the circus and playing computer games with my grandchildren and zapping through TV channels.
+The goal of higher income is not just bigger piles of money. The goal of longer lives is not just extra time. The ultimate goal is to have the freedom to do what we want. Me?
 
-Culture and freedom, the goals of development, can be hard to measure. But guitars per capita is a good proxy. And boy has that improved. With beautiful statistics like those, how can anyone say the world is getting worse?
+I love the circus and playing computer games with my grandchildren and zapping through TV channels. Culture and freedom, the goals of development, can be hard to measure. But guitars per capita is a good proxy. And boy has that improved.
 
-In 1962 there were only 200 playable guitars per million people in the world. By 2014 that number had shot up to 11,000. The negativity instinct. In large part it is because of our negativity instinct, our instinct to notice the bad more than the good.
+With beautiful statistics like those, how can anyone say the world is getting worse? In 1962 there were only 200 playable guitars per million people in the world. By 2014 that number had shot up to 11,000. The negativity instinct.
 
-There are three things going on here, the misremembering of the past, selective reporting by journalists and activists, and the feeling that as long as things are bad it is heartless to say they are getting better. Warning. Objects in your memories were worse than they appear. For centuries older people have romanticized their youth. and insisted that things ain’t what they used to be.
+In large part it is because of our negativity instinct, our instinct to notice the bad more than the good. There are three things going on here, the misremembering of the past, selective reporting by journalists and activists, and the feeling that as long as things are bad it is heartless to say they are getting better. Warning. Objects in your memories were worse than they appear.
 
-Well, that’s true, but not in the way they mean it. Most things used to be worse, not better. But it is extremely easy for humans to forget how things really did used to be. In Western Europe and North America, only the very oldest who have lived through the Second World War or the Great Depression have any personal recollection of the severe deprivation and hunger of just a few decades ago.
+For centuries older people have romanticized their youth. and insisted that things ain’t what they used to be. Well, that’s true, but not in the way they mean it. Most things used to be worse, not better. But it is extremely easy for humans to forget how things really did used to be.
 
-Yet even in China and India, where extreme poverty was the reality for the vast majority just a couple of generations ago, it is now mostly forgotten by people who live in decent houses, have clean clothes, and ride mopeds. The Swedish author and journalist Lassé Barry wrote an excellent report from rural India in the 1970s. When he returned twenty-five years later, he could see clearly how living conditions had improved. Pictures from his visit in the 1970s showed earthen floors, clay walls, half-naked children,
+In Western Europe and North America, only the very oldest who have lived through the Second World War or the Great Depression have any personal recollection of the severe deprivation and hunger of just a few decades ago. Yet even in China and India, where extreme poverty was the reality for the vast majority just a couple of generations ago, it is now mostly forgotten by people who live in decent houses, have clean clothes, and ride mopeds. The Swedish author and journalist Lassé Barry wrote an excellent report from rural India in the 1970s.
+
+When he returned twenty-five years later, he could see clearly how living conditions had improved. Pictures from his visit in the 1970s showed earthen floors, clay walls, half-naked children,
 
 
 <a id="sec-020121"></a>
@@ -802,19 +864,21 @@ The doom-laden feeling that this creates in us is then intensified by our inabil
 
 For no good reason. Feeling. Not thinking. There’s something else going on as well.
 
-What are people really thinking when they say the world is getting worse? My guess is they are not thinking, they are feeling. If you still feel uncomfortable agreeing that the world is getting better even after I have shown you all this beautiful data, my guess is that it’s because you know that huge problems still remain. My guess is you feel that me saying the world is getting better is like me telling you that everything is fine, or that you should look away from these problems and pretend they don’t exist.
+What are people really thinking when they say the world is getting worse? My guess is they are not thinking, they are feeling. If you still feel uncomfortable agreeing that the world is getting better even after. I have shown you all this beautiful data, my guess is that it’s because you know that huge problems still remain.
 
-And that feels ridiculous and stressful. I agree. Everything is not fine. We should still be very concerned.
+My guess is you feel that me saying the world is getting better is like me telling you that everything is fine, or that you should look away from these problems and pretend they don’t exist. And that feels ridiculous and stressful. I agree. Everything is not fine.
 
-As long as there are plane crashes, preventable child deaths, endangered species, climate change deniers, male chauvinists, crazy dictators, toxic waste, journalists in prison, and girls not getting an education because of their gender, as long as any such terrible things exist we cannot relax. But it is just as ridiculous and just as stressful to look away from the progress that has been made. People often call me an optimist, because I show them the enormous progress they didn’t know about. That makes me angry.
+We should still be very concerned. As long as there are plane crashes, preventable child deaths, endangered species, climate change deniers, male chauvinists, crazy dictators, toxic waste, journalists in prison, and girls not getting an education because of their gender, as long as any such terrible things exist we cannot relax. But it is just as ridiculous and just as stressful to look away from the progress that has been made. People often call me an optimist, because.
 
-I’m not an optimist. That makes me sound naive. I’m a very serious possibilist. That’s something I made up.
+I show them the enormous progress they didn’t know about. That makes me angry. I’m not an optimist. That makes me sound naive.
 
-It means that someone who neither hopes without reason nor fears without reason, someone who constantly resists the over-dramatic worldview. As a possibilist, I see all this progress, and it fills me with conviction and hope that further progress is possible. This is not optimistic. It is having a clear and reasonable idea about how things are.
+I’m a very serious possibilist. That’s something. I made up. It means that someone who neither hopes without reason nor fears without reason, someone who constantly resists the over-dramatic worldview.
 
-It is having a worldview that is constructive and useful. When people wrongly believe that nothing is improving, they may conclude that nothing we have tried so far is working and lose confidence in measures that actually work. I meet many such people who tell me they have lost all hope for humanity. Or they may have become radicals supporting drastic measures that are counterproductive when in fact the methods we are already using to improve our world are working just fine.
+As a possibilist, I see all this progress, and it fills me with conviction and hope that further progress is possible. This is not optimistic. It is having a clear and reasonable idea about how things are. It is having a worldview that is constructive and useful.
 
-Take for example, girls' education. Educating girls has proven to be one of the world’s best ever ideas. When women are educated, all kinds of wonderful things happen in societies. The workforce becomes diversified and able to make better decisions and solve more problems. Educated mothers decide to have fewer children, and more children survive.
+When people wrongly believe that nothing is improving, they may conclude that nothing we have tried so far is working and lose confidence in measures that actually work. I meet many such people who tell me they have lost all hope for humanity. Or they may have become radicals supporting drastic measures that are counterproductive when in fact the methods we are already using to improve our world are working just fine. Take for example, girls' education.
+
+Educating girls has proven to be one of the world’s best ever ideas. When women are educated, all kinds of wonderful things happen in societies. The workforce becomes diversified and able to make better decisions and solve more problems. Educated mothers decide to have fewer children, and more children survive.
 
 More energy and time is invested in each child’s education. It’s a virtuous cycle of change. Poor parents who can’t afford to send all their children to school have often prioritized the boys. But since 1970, there has been fantastic progress.
 
@@ -832,47 +896,55 @@ It won’t happen by itself, and if we lose hope because of stupid misconception
 
 Bad and better. The solution is not to balance out all the negative news with more positive news. It would just risk creating a self-deceiving, comforting, misleading bias in the other direction. It would be as helpful as balancing too much sugar with too much salt.
 
-It would make things more exciting, but maybe even less healthy. A solution that works for me is to persuade myself to keep two thoughts in my head at the same time. It seems that when we hear someone say things are getting better, we think they are saying, don’t worry, relax, or even look away. But when I say things are getting better, I am not saying those things at all.
+It would make things more exciting, but maybe even less healthy. A solution that works for me is to persuade myself to keep two thoughts in my head at the same time. It seems that when we hear someone say things are getting better, we think they are saying, don’t worry, relax, or even look away. But when.
 
-I am certainly not advocating looking away from the terrible problems in the world. I am saying that things can be both bad and better. Think of the world as a premature baby in an incubator. The baby’s health status is extremely bad, and her breathing, heart rate, and other important signs are tracked constantly, so that changes, for better or worse, can quickly be seen.
+I say things are getting better, I am not saying those things at all. I am certainly not advocating looking away from the terrible problems in the world. I am saying that things can be both bad and better. Think of the world as a premature baby in an incubator.
 
-After a week, she is getting a lot better. On all the main measures, she is improving. But she still has to stay in the incubator because her health is still critical. Does it make sense to say that the infant situation is improving?
+The baby’s health status is extremely bad, and her breathing, heart rate, and other important signs are tracked constantly, so that changes, for better or worse, can quickly be seen. After a week, she is getting a lot better. On all the main measures, she is improving. But she still has to stay in the incubator because her health is still critical.
 
-Yes, absolutely. Does it make sense to say it is bad? Yes, absolutely. Does saying things are improving imply that everything is fine, and that we should all relax and not worry?
+Does it make sense to say that the infant situation is improving? Yes, absolutely. Does it make sense to say it is bad? Yes, absolutely.
 
-No, not at all. It is helpful to have to choose between bad and improving? Definitely not. It is both.
+Does saying things are improving imply that everything is fine, and that we should all relax and not worry? No, not at all. It is helpful to have to choose between bad and improving? Definitely not.
 
-It is both bad and better. Better and bad at the same time. That is how we must think about the current state of the world. Expect bad news.
+It is both. It is both bad and better. Better and bad at the same time. That is how we must think about the current state of the world.
 
-Everything else that helps to control the negativity instinct is to constantly expect bad news. Remember that the media and activists rely on drama to grab your attention. Remember that negative stories are more dramatic than neutral or positive ones. Remember how simple it is to construct a story of crisis from a temporary dip pulled out of its context of a long-term improvement?
+Expect bad news. Everything else that helps to control the negativity instinct is to constantly expect bad news. Remember that the media and activists rely on drama to grab your attention. Remember that negative stories are more dramatic than neutral or positive ones.
 
-Remember that we live in a connected and transparent world where reporting about suffering is better than it has ever been before. When you hear about something terrible, calm yourself by asking, if there had been an equally large positive improvement, would I have heard about that? Even if there had been hundreds of larger improvements, would I have heard? Would I ever hear about children who don’t drown?
+Remember how simple it is to construct a story of crisis from a temporary dip pulled out of its context of a long-term improvement? Remember that we live in a connected and transparent world where reporting about suffering is better than it has ever been before. When you hear about something terrible, calm yourself by asking, if there had been an equally large positive improvement, would. I have heard about that?
 
-Can I see a decrease in child drownings, or in deaths from tuberculosis, out my window, or on the news, or in a charity’s publicity material? Keep in mind that the positive changes may be more common, but they don’t find you. You need to find them. And if you look in the statistics, they are everywhere.
+Even if there had been hundreds of larger improvements, would. I have heard? Would. I ever hear about children who don’t drown?
 
-This reminder will give you the basic protection to allow you and your children to keep watching the news without being carried away into dystopia on a daily basis. Don’t censor history. When we hang on to a rose-tinted version of history, we deprive ourselves and our children
+Can. I see a decrease in child drownings, or in deaths from tuberculosis, out my window, or on the news, or in a charity’s publicity material? Keep in mind that the positive changes may be more common, but they don’t find you. You need to find them.
+
+And if you look in the statistics, they are everywhere. This reminder will give you the basic protection to allow you and your children to keep watching the news without being carried away into dystopia on a daily basis. Don’t censor history. When we hang on to a rose-tinted version of history, we deprive ourselves and our children
 
 
 <a id="sec-021627"></a>
 ### ⏱️ [02:16:27 - 02:21:33]
 
-of the truth. The evidence about the terrible past is scary, but it is a great resource. It can help us to appreciate what we have today and provide us with hope that future generations will, as previous generations did, get over the dips and continue the long-term trends towards peace, prosperity, and solutions to our global problems. I would like to thank society. Struggling for breath in that ditch full of pee sixty-five years ago in a working-class suburb in Sweden, little did I know that I would be the first in my family to go to university.
+of the truth. The evidence about the terrible past is scary, but it is a great resource. It can help us to appreciate what we have today and provide us with hope that future generations will, as previous generations did, get over the dips and continue the long-term trends towards peace, prosperity, and solutions to our global problems. I would like to thank society.
 
-Little did I know that I would become a global health professor and travel to Davos and tell the world’s experts that they knew less about basic global trends than chimpanzees. I didn’t know any basic global trends myself back then, of course. I had to learn them. The only way anyone can know about different causes of death, and how they are changing, for example, is to keep track of every death and its cause, write them down, and then add them up.
+Struggling for breath in that ditch full of pee sixty-five years ago in a working-class suburb in Sweden, little did. I know that. I would be the first in my family to go to university. Little did.
 
-That’s extremely time-consuming. There’s only one such dataset in the whole world. It’s named the Global Burden of Disease. And when I consulted it many years later, it showed me that my near-death experience was not so special.
+I know that. I would become a global health professor and travel to Davos and tell the world’s experts that they knew less about basic global trends than chimpanzees. I didn’t know any basic global trends myself back then, of course. I had to learn them.
 
-It was a common type of accident for a child under five living on level three. All I knew was that I was stuck. My grandmother came to the rescue and lifted me up. And then Swedish society lifted me further.
+The only way anyone can know about different causes of death, and how they are changing, for example, is to keep track of every death and its cause, write them down, and then add them up. That’s extremely time-consuming. There’s only one such dataset in the whole world. It’s named the Global Burden of Disease.
+
+And when. I consulted it many years later, it showed me that my near-death experience was not so special. It was a common type of accident for a child under five living on level three. All.
+
+I knew was that. I was stuck. My grandmother came to the rescue and lifted me up. And then Swedish society lifted me further.
 
 During my lifetime, Sweden moved from level three to level four. A treatment against tuberculosis was invented, and my mother got well. She read books to me that she borrowed from the public library. For free.
 
-I became the first in my family to get more than six years of education, and I went to university for free. I got a doctor’s degree for free. Of course nothing is free. The taxpayers paid.
+I became the first in my family to get more than six years of education, and. I went to university for free. I got a doctor’s degree for free. Of course, nothing is free.
 
-And then at the age of thirty, when I had become a father of two and I discovered my first cancer, I was treated and cured by the world’s best health care system. For free. My survival and success in life has always depended on others. Thanks to my family, free education, and free health care, I made it all the way from that ditch to the World Economic Forum.
+The taxpayers paid. And then at the age of thirty, when. I had become a father of two and. I discovered my first cancer, I was treated and cured by the world’s best health care system.
 
-I would never have made it on my own. Today, now that Sweden is on level four, only three children in one thousand die before the age of five, and only one percent of those deaths are drownings. Fences, daycare, life jacket campaigns, swimming lessons, and lifeguards at public pools all cost money. Child death from drowning is one of the many horrors that has nearly disappeared as the country has become richer.
+For free. My survival and success in life has always depended on others. Thanks to my family, free education, and free health care, I made it all the way from that ditch to the World Economic Forum. I would never have made it on my own.
 
-That is what I call progress. The same improvements are taking place across the world today. Most countries are currently improving faster than Sweden ever did. Much faster.
+Today, now that Sweden is on level four, only three children in one thousand die before the age of five, and only one percent of those deaths are drownings. Fences, daycare, life jacket campaigns, swimming lessons, and lifeguards at public pools all cost money. Child death from drowning is one of the many horrors that has nearly disappeared as the country has become richer. That is what.
+
+I call progress. The same improvements are taking place across the world today. Most countries are currently improving faster than Sweden ever did. Much faster.
 
 Factfulness. Factfulness is recognizing when we get negative news, and remembering that information about bad events is much more likely to reach us. When things are getting better, we often don’t hear about them. This gives us a systematically too negative impression of the world around us, which is very stressful.
 
@@ -888,41 +960,47 @@ When you see bad news, ask whether equally positive news would have reached you.
 
 More bad news is sometimes due to better surveillance of suffering, not a worsening world. Beware of rosy pasts. People often glorify their early experiences, and nations often glorify their histories.
 
-#### Chapter 3 The Straight Line Instinct How more survivors means fewer people, how traffic accidents are like cavities, and why my grandson is like the population of the world. The most frightening graph I ever saw.
+#### Chapter 3 The Straight Line Instinct. How more survivors means fewer people, how traffic accidents are like cavities, and why my grandson is like the population of the world.
 
-Statistics can be terrifying. On September 23, 2014, I was sitting at my desk in the Gapminder office in Stockholm when I saw a line on a graph that gripped me with fear. I had been concerned about the Ebola outbreak in West Africa since August. Like others, I had seen the tragic images in the media of people dying in the streets of Monrovia, the capital of Liberia.
+The most frightening graph. I ever saw. Statistics can be terrifying. On September 23, 2014, I was sitting at my desk in the Gapminder office in Stockholm when.
 
-But in my work, I often heard about sudden outbreaks of deadly diseases, and I had assumed it was just like most others, and would soon be contained. The graph in the World Health Organization research article shocked me into fear and then action. The researchers had collected all the Ebola data since the start of the epidemic and used it to calculate the expected number of new cases per day up to the end of October. They showed, for the first time, that the number of cases was not just increasing along a straight line, one, two, three, four, five.
+I saw a line on a graph that gripped me with fear. I had been concerned about the Ebola outbreak in West Africa since August. Like others, I had seen the tragic images in the media of people dying in the streets of Monrovia, the capital of Liberia. But in my work, I often heard about sudden outbreaks of deadly diseases, and.
+
+I had assumed it was just like most others, and would soon be contained. The graph in the World Health Organization research article shocked me into fear and then action. The researchers had collected all the Ebola data since the start of the epidemic and used it to calculate the expected number of new cases per day up to the end of October. They showed, for the first time, that the number of cases was not just increasing along a straight line, one, two, three, four, five.
 
 Instead the line was doubling like this, one, two, four, eight, sixteen. Each infected person was infecting, on average, two more people before dying. As a result, the number of new cases per day was doubling every three weeks. The graph showed how enormous the outbreak would soon become if each infected person kept infecting two more.
 
 Doubling is scary. I had first learned about the effect of doubling at school. In the Indian legend, the Lord Krishna asks for one grain of rice in the first square of the chessboard, then two grains on the second square, four grains on the third square, then eight and so on, doubling the number of grains each time. By the time he gets to the last of the sixty-four squares, he is owed eighteen quintillion, four hundred forty-six quadrillion, seven hundred forty-four trillion, seventy-three billion, seven hundred nine million, five hundred fifty-one thousand, six hundred fifteen grains of rice, enough to cover the whole of India with a layer of rice thirty inches deep.
 
-Anything that keeps doubling grows much faster than we first assume. So I knew the situation in West Africa was about to become desperate. Liberia was at risk of a catastrophe worse than its recently ended civil war, and one that would almost inevitably spread to the entire world. Unlike malaria, Ebola could spread quickly in all climates and could travel on airplanes, across borders and oceans, inside the bodies of unknowingly infected passengers.
+Anything that keeps doubling grows much faster than we first assume. So. I knew the situation in West Africa was about to become desperate. Liberia was at risk of a catastrophe worse than its recently ended civil war, and one that would almost inevitably spread to the entire world.
 
-There was no effective treatment for it. People were already dying in the streets now. Within only nine weeks, the time needed for three doublings, the situation would be eight times as desperate.
+Unlike malaria, Ebola could spread quickly in all climates and could travel on airplanes, across borders and oceans, inside the bodies of unknowingly infected passengers. There was no effective treatment for it. People were already dying in the streets now. Within only nine weeks, the time needed for three doublings, the situation would be eight times as desperate.
 
 
 <a id="sec-022633"></a>
 ### ⏱️ [02:26:33 - 02:31:39]
 
-Every three-week delay in dealing with the problem would mean twice as many people infected and twice as many resources needed. Ebola had to be stopped within weeks. At Gapminder, we immediately changed our priorities and started studying the data and producing information videos to explain the urgency of the situation. By October 20th, I had cancelled all my assignments for the next three months and was on a plane to Liberia, where I hoped my twenty years of studying epidemics in rural sub-Saharan Africa could be of some use.
+Every three-week delay in dealing with the problem would mean twice as many people infected and twice as many resources needed. Ebola had to be stopped within weeks. At Gapminder, we immediately changed our priorities and started studying the data and producing information videos to explain the urgency of the situation. By October 20th, I had cancelled all my assignments for the next three months and was on a plane to Liberia, where.
 
-I remained in Liberia for three months, missing Christmas and New Year’s with my family for the first time ever. Like the rest of the world, I was too slow to understand the magnitude and urgency of the Ebola crisis. I had assumed that the increase in cases was a straight line, when in fact the data clearly showed that it was a doubling line. Once I understood this, I acted.
+I hoped my twenty years of studying epidemics in rural sub-Saharan Africa could be of some use. I remained in Liberia for three months, missing Christmas and New Year’s with my family for the first time ever. Like the rest of the world, I was too slow to understand the magnitude and urgency of the Ebola crisis. I had assumed that the increase in cases was a straight line, when in fact the data clearly showed that it was a doubling line.
 
-But I wish I had understood and acted sooner. The mega-misconception that the world population is just increasing and increasing. Nowadays, the word sustainability is found in the title of almost every conference I get invited to. One of the most important numbers of the sustainability equation is the human population.
+Once. I understood this, I acted. But. I wish.
 
-There must be some kind of limit to how many people can live on this planet, right? So when I started testing my audiences at these sustainability conferences, I just assumed that they would know the basic facts about global population growth. Seldom have I been so wrong. We have now arrived at the third instinct, the straight line instinct, and the third and last mega-misconception, the false idea that the world population is just increasing.
+I had understood and acted sooner. The mega-misconception that the world population is just increasing and increasing. Nowadays, the word sustainability is found in the title of almost every conference. I get invited to.
 
-Please pay attention to the word just. This word is the misconception.
+One of the most important numbers of the sustainability equation is the human population. There must be some kind of limit to how many people can live on this planet, right? So when. I started testing my audiences at these sustainability conferences, I just assumed that they would know the basic facts about global population growth.
 
-In fact, the world population is increasing very fast. Roughly a billion people will be added over the next thirteen years. That’s true. That’s not a misconception.
+Seldom have. I been so wrong. We have now arrived at the third instinct, the straight line instinct, and the third and last mega-misconception, the false idea that the world population is just increasing. Please pay attention to the word just.
 
-But it’s not just increasing. The word just implies that if nothing is done, the population will just keep on growing. It implies that some drastic action is needed in order to stop the growth. That is the misconception.
+This word is the misconception. In fact, the world population is increasing very fast. Roughly a billion people will be added over the next thirteen years. That’s true.
 
-And I think it is based on the same instinct that stopped me and the world from acting sooner to stop Ebola, the instinct to assume that lines are straight. I rarely get speechless, but it happened the first time… I asked an audience the following question. It was at a teacher’s conference in Norway.
+That’s not a misconception. But it’s not just increasing. The word just implies that if nothing is done, the population will just keep on growing. It implies that some drastic action is needed in order to stop the growth.
 
-But I don’t mean to be too hard on the Norwegians. It might just as well have been in Finland, too. Many of these teachers were teaching global population trends as part of their social science classes. When I turned my head around and saw the results from the live poll on the screen behind me, I couldn’t find words.
+That is the misconception. And. I think it is based on the same instinct that stopped me and the world from acting sooner to stop Ebola, the instinct to assume that lines are straight. I rarely get speechless, but it happened the first time…
+
+I asked an audience the following question. It was at a teacher’s conference in Norway. But. I don’t mean to be too hard on the Norwegians.
+
+It might just as well have been in Finland, too. Many of these teachers were teaching global population trends as part of their social science classes. When. I turned my head around and saw the results from the live poll on the screen behind me, I couldn’t find words.
 
 I remember thinking that there must be something wrong with the polling devices. Fact Question 5. There are two billion children in the world today, aged zero to fifteen years old. How many children will there be in the year 2100, according to the UN?
 
@@ -948,19 +1026,19 @@ Think a graph that shows the world population since the year 8000 B. C. That’s
 
 The total of humanity was smaller than the population of one of our big cities today—London, Bangkok or Rio de Janeiro. This number increased only slowly for almost ten thousand years, eventually reaching one billion in the year 1800. Then something happened. The next billion were added in only a hundred thirty years, and another five billion were added in under one hundred years.
 
-Of course people get worried when they see such a steep increase and they know the planet has limited resources. It sure looks like it’s just increasing, and at a very high speed. When looking at a stone flying toward you, you can often predict whether it’s going to hit you. You need no numbers, no graphs, no spreadsheets.
+Of course, people get worried when they see such a steep increase and they know the planet has limited resources. It sure looks like it’s just increasing, and at a very high speed. When looking at a stone flying toward you, you can often predict whether it’s going to hit you. You need no numbers, no graphs, no spreadsheets.
 
 Your eyes and brain extend the trajectory and you move out of the stone’s way. It’s easy to imagine how this automatic visual forecasting skill helped our ancestors survive. And it still helps us survive. When driving a car we constantly predict where other cars will be within the next few seconds.
 
-But our straight-line intuition is not always a reliable guide in modern life. When looking at a line graph, for example, it’s nearly impossible not to imagine a straight-line that stretches beyond the end of the trend, into the future. Let me now give you another example that I know you are more familiar with. My youngest grandchild, Mino, was nineteen point five inches long when he was born.
+But our straight-line intuition is not always a reliable guide in modern life. When looking at a line graph, for example, it’s nearly impossible not to imagine a straight-line that stretches beyond the end of the trend, into the future. Let me now give you another example that. I know you are more familiar with.
 
-In his first six months he grew to twenty-six point five inches, an impressive growth of seven inches, impressive but also scary. Imagine his growth chart into the future. It’s terrifying. If Mino just continues growing, he will be sixty inches tall on his third birthday, a five-foot toddler.
+My youngest grandchild, Mino, was nineteen point five inches long when he was born. In his first six months he grew to twenty-six point five inches, an impressive growth of seven inches, impressive but also scary. Imagine his growth chart into the future. It’s terrifying.
 
-By his tenth birthday he will be one hundred sixty inches tall, over thirteen feet. And then what? This can’t just continue. Somebody must do something drastic.
+If Mino just continues growing, he will be sixty inches tall on his third birthday, a five-foot toddler. By his tenth birthday he will be one hundred sixty inches tall, over thirteen feet. And then what? This can’t just continue.
 
-Mino’s parents will have to remodel their house or find some medication. The straight-line intuition is obviously wrong in this case. Why is it obvious? Because we all have first-hand experience of a growing body, we know Mino’s growth curve won’t just continue.
+Somebody must do something drastic. Mino’s parents will have to remodel their house or find some medication. The straight-line intuition is obviously wrong in this case. Why is it obvious?
 
-We’ve never met a person a hundred sixty inches tall. Assuming the trend will continue along a straight line is obviously ludicrous.
+Because we all have first-hand experience of a growing body, we know Mino’s growth curve won’t just continue. We’ve never met a person a hundred sixty inches tall. Assuming the trend will continue along a straight line is obviously ludicrous.
 
 
 <a id="sec-023641"></a>
@@ -976,21 +1054,21 @@ Why is the population increasing? Fact question six. The U. N. predicts that by 
 
 What is the main reason? A. There will be more children, age below fifteen. B.
 
-There will be more adults, age fifteen to seventy-four. C. There will be more very old people, age seventy-five and older. This one I’ll give you the answer right away.
+There will be more adults, age fifteen to seventy-four. C. There will be more very old people, age seventy-five and older. This one.
 
-The correct answer is B. The experts are convinced the population will keep growing mainly because there will be more adults, not more children and not more very old people, more adults. The number of children is not expected to increase, which we know already from this chapter’s first fact question. But the U.
+I’ll give you the answer right away. The correct answer is B. The experts are convinced the population will keep growing mainly because there will be more adults, not more children and not more very old people, more adults. The number of children is not expected to increase, which we know already from this chapter’s first fact question.
 
-N. experts are not predicting that the number of children will stop increasing. They are reporting that it is already happening. The radical change that is needed to stop rapid population growth is that the number of children stops growing, and that is already happening. How could that be?
+But the U. N. experts are not predicting that the number of children will stop increasing. They are reporting that it is already happening. The radical change that is needed to stop rapid population growth is that the number of children stops growing, and that is already happening.
 
-That everybody should know. When I was born in 1948, women on average gave birth to five children each. After 1965 the number started dropping like it never had done before. Over the last fifty years it dropped all the way to the amazingly low world average of just below two point five.
+How could that be? That everybody should know. When. I was born in 1948, women on average gave birth to five children each.
 
-This dramatic change happened in parallel with all those other improvements I described in the last chapter. As billions of people left extreme poverty, most of them decided to have fewer children. They no longer needed large families for child labor on the small family farm, and they no longer needed extra children as insurance against child mortality. Women and men got educated and started to want better educated and better fed children, and having fewer of them was the obvious solution.
+After 1965 the number started dropping like it never had done before. Over the last fifty years it dropped all the way to the amazingly low world average of just below two point five. This dramatic change happened in parallel with all those other improvements. I described in the last chapter.
 
-In practice that goal was easier to realize thanks to the wonderful blessing of modern contraceptives which let parents have fewer children without having less sex. The dramatic drop in babies per woman is expected to continue, as long as more people keep escaping extreme poverty and more women get educated, and as access to contraceptives and sexual education keeps increasing. Nothing drastic is needed, just more of what we are already doing. The exact speed of the future drop is not possible to predict exactly.
+As billions of people left extreme poverty, most of them decided to have fewer children. They no longer needed large families for child labor on the small family farm, and they no longer needed extra children as insurance against child mortality. Women and men got educated and started to want better educated and better fed children, and having fewer of them was the obvious solution. In practice that goal was easier to realize thanks to the wonderful blessing of modern contraceptives which let parents have fewer children without having less sex.
 
-It depends on how fast these changes continue to happen, but in any case the annual number of births in the world has already stopped increasing, which means that the period of fast population growth will soon be over. We are now arriving at peak child. But then if the number of births has already stopped increasing, where are the four billion new adults going to come from, spaceships? Why will the population stop increasing?
+The dramatic drop in babies per woman is expected to continue, as long as more people keep escaping extreme poverty and more women get educated, and as access to contraceptives and sexual education keeps increasing. Nothing drastic is needed, just more of what we are already doing. The exact speed of the future drop is not possible to predict exactly. It depends on how fast these changes continue to happen, but in any case the annual number of births in the world has already stopped increasing, which means that the period of fast population growth will soon be over.
 
-In 2030 there will be two billion new zero to fifteen year olds.
+We are now arriving at peak child. But then if the number of births has already stopped increasing, where are the four billion new adults going to come from, spaceships? Why will the population stop increasing? In 2030 there will be two billion new zero to fifteen year olds.
 
 
 <a id="sec-024147"></a>
@@ -1002,21 +1080,23 @@ So without any increase in the number of children being born, and without people
 
 In 2060 the two billion forty-five to sixty year olds will become sixty to seventy-five year olds, and we will have another one billion adults. But look what happens next. From 2060 each generation of two billion people will be replaced by another generation of two billion people. The fast growth stops.
 
-The large increase in population is going to happen not because there are more children, and not in the main because old folks are living longer. In fact the UN experts do predict that by 2100 world life expectancy will have increased by roughly eleven years, adding one billion old people to the total, and taking it to around eleven billion. The large increase in population will happen mainly because the children who already exist today are going to grow up, and fill up the diagram with three billion more adults.
+The large increase in population is going to happen not because there are more children, and not in the main because old folks are living longer. In fact, the UN experts do predict that by 2100 world life expectancy will have increased by roughly eleven years, adding one billion old people to the total, and taking it to around eleven billion. The large increase in population will happen mainly because the children who already exist today are going to grow up, and fill up the diagram with three billion more adults.
 
 This fill-up effect takes three generations, and then it is done. That’s actually all you need to know to understand the method that the UN experts use to not just draw a straight line into the future. This explanation is a brutal simplification. Many die before they reach seventy-five, and many parents have their children after they reach thirty.
 
-But even including these facts makes no difference to the big picture. In Balance with Nature When a population is not growing over a long period of time and the population curve is flat, this must mean that each generation of new parents is the same size as the previous one. For thousands of years, up to 1800, the population curve was almost flat. Have you heard people say that humans used to live in balance with nature?
+But even including these facts makes no difference to the big picture. In Balance with Nature. When a population is not growing over a long period of time and the population curve is flat, this must mean that each generation of new parents is the same size as the previous one. For thousands of years, up to 1800, the population curve was almost flat.
 
-Well yes, there was. a balance. But let’s avoid the rose-tinted glasses. Until 1800, women gave birth to six children on average, so the population should have increased with each generation. Instead, it stayed more or less stable.
+Have you heard people say that humans used to live in balance with nature? Well yes, there was. a balance. But let’s avoid the rose-tinted glasses. Until 1800, women gave birth to six children on average, so the population should have increased with each generation.
 
-Remember the child skeletons in the graveyards of the past? On average, four out of six children died before becoming parents themselves, leaving just two surviving children to parent the next generation. There was a balance. It wasn’t because humans lived in balance with nature.
+Instead, it stayed more or less stable. Remember the child skeletons in the graveyards of the past? On average, four out of six children died before becoming parents themselves, leaving just two surviving children to parent the next generation. There was a balance.
 
-Humans died in balance with nature. It was utterly brutal and tragic. Today, humanity is once again reaching a balance. The number of parents is no longer increasing, but this balance is dramatically different from the old balance.
+It wasn’t because humans lived in balance with nature. Humans died in balance with nature. It was utterly brutal and tragic. Today, humanity is once again reaching a balance.
 
-The new balance is nice. The typical parents have two children and neither of them dies. For the first time in human history, we live in balance. The population grew from 3 billion in 1900 to 7 billion in 2000 because humanity went through a transition from one balance to another during the 20th century.
+The number of parents is no longer increasing, but this balance is dramatically different from the old balance. The new balance is nice. The typical parents have two children and neither of them dies. For the first time in human history, we live in balance.
 
-A unique period of human history when two parents on average produced more than two children who survived to become parents themselves in the next generation. That period of imbalance is the reason why today the two youngest generations are larger than the others. That period of imbalance is the reason behind the fill-up. But the new balance is already achieved.
+The population grew from 3 billion in 1900 to 7 billion in 2000 because humanity went through a transition from one balance to another during the 20th century. A unique period of human history when two parents on average produced more than two children who survived to become parents themselves in the next generation. That period of imbalance is the reason why today the two youngest generations are larger than the others. That period of imbalance is the reason behind the fill-up.
+
+But the new balance is already achieved.
 
 
 <a id="sec-024653"></a>
@@ -1024,21 +1104,23 @@ A unique period of human history when two parents on average produced more than 
 
 The annual number of births is no longer increasing. If extreme poverty keeps falling and sex education and contraception keeps spreading, then the world population will keep growing fast, but only until the inevitable fill-up is completed. Wait! They still have many children.
 
-Even after I show these charts on stage, people come up to me after the presentation and tell me that the charts can’t be correct because, you know, people in Africa and Latin America still have many children and religious people refuse contraceptives and still have huge families. Skilled journalists pick and choose dramatic exceptional people in their reports. In the mass media, we sometimes see examples of very religious people, whether living in traditional ways or leading seemingly modern lives, who proudly show us their very large families as evidence of faith.
+Even after. I show these charts on stage, people come up to me after the presentation and tell me that the charts can’t be correct because, you know, people in Africa and Latin America still have many children and religious people refuse contraceptives and still have huge families. Skilled journalists pick and choose dramatic exceptional people in their reports. In the mass media, we sometimes see examples of very religious people, whether living in traditional ways or leading seemingly modern lives, who proudly show us their very large families as evidence of faith.
 
 Such documentary films, TV shows, and media reports give the impression that religion leads to much larger families. But whatever their religion, whether they are Catholics, Jews, or Muslims, these families share one quality. They are the exceptions. In reality, the connection between religion and babies per woman is not so impressive.
 
-Throughout this book, I discuss how the media chooses its exceptional stories, and in chapter 7, I will debunk the myth of religion and large families. For now, let’s look at the single factor that does have a strong connection with large families. Extreme Poverty. Why More Survivors Lead to Fewer People When combining all the parents living on levels 2, 3, and 4 from every region of the world, and of every religion, or no religion, together they have on average two children.
+Throughout this book, I discuss how the media chooses its exceptional stories, and in chapter 7, I will debunk the myth of religion and large families. For now, let’s look at the single factor that does have a strong connection with large families. Extreme Poverty. Why More Survivors Lead to Fewer People.
 
-No kidding. This includes the populations of Iran, Mexico, India, Tunisia, Bangladesh, Brazil, Turkey, Indonesia, and Sri Lanka. Just to name a few examples. The poorest 10% combined still have five children on average.
+When combining all the parents living on levels 2, 3, and 4 from every region of the world, and of every religion, or no religion, together they have on average two children. No kidding. This includes the populations of Iran, Mexico, India, Tunisia, Bangladesh, Brazil, Turkey, Indonesia, and Sri Lanka. Just to name a few examples.
 
-And on average, every second family living in extreme poverty loses one of their children before he or she reaches the age of five. That is shamefully high, but still far better than the ghastly numbers that have kept population growth down in the bad old times. When people hear that the population is growing, they intuitively think it will continue to grow unless something is done. They intuitively visualize the trend continuing into the future.
+The poorest 10% combined still have five children on average. And on average, every second family living in extreme poverty loses one of their children before he or she reaches the age of five. That is shamefully high, but still far better than the ghastly numbers that have kept population growth down in the bad old times. When people hear that the population is growing, they intuitively think it will continue to grow unless something is done.
 
-But remember, for my grandchild, Mino, to stop growing taller, nothing drastic needs to be done. Melinda Gates runs a philanthropic foundation together with her husband, Bill. They have spent billions of dollars to save the lives of millions of children in extreme poverty by investing in primary health care and education. Yet intelligent and well-meaning people keep contacting their foundation saying that they should stop.
+They intuitively visualize the trend continuing into the future. But remember, for my grandchild, Mino, to stop growing taller, nothing drastic needs to be done. Melinda Gates runs a philanthropic foundation together with her husband, Bill. They have spent billions of dollars to save the lives of millions of children in extreme poverty by investing in primary health care and education.
 
-The argument goes like this. If you keep saving poor children, you’ll kill the planet by causing overpopulation. I have also heard this argument after some of my presentations from people who may have the best intentions and want to save the planet for future generations. It sounds intuitively correct.
+Yet intelligent and well-meaning people keep contacting their foundation saying that they should stop. The argument goes like this. If you keep saving poor children, you’ll kill the planet by causing overpopulation. I have also heard this argument after some of my presentations from people who may have the best intentions and want to save the planet for future generations.
 
-If more children survive, the population just increases, right? No. Completely wrong. Parents in extreme poverty need many children for the reasons I set out earlier, for child labor, but also to have extra children in case some children die. It is the countries with the highest child mortality rates, like Somalia, Chad, Mali, and Niger, where women have the most babies, between five and eight. Once parents see children survive, once the children are no longer needed for child labor, and once the women are educated and have information about and access to contraceptives
+It sounds intuitively correct. If more children survive, the population just increases, right? No. Completely wrong.
+
+Parents in extreme poverty need many children for the reasons. I set out earlier, for child labor, but also to have extra children in case some children die. It is the countries with the highest child mortality rates, like Somalia, Chad, Mali, and Niger, where women have the most babies, between five and eight. Once parents see children survive, once the children are no longer needed for child labor, and once the women are educated and have information about and access to contraceptives
 
 
 <a id="sec-025158"></a>
@@ -1048,21 +1130,23 @@ across cultures and religions, both the men and the women instead start dreaming
 
 Every generation kept in extreme poverty will produce an even larger next generation. The only proven method for curbing population growth is to eradicate extreme poverty and give people better lives, including education and contraceptives. Across the world, parents then have chosen for themselves to have fewer children. This transformation has happened across the world because it has never happened without lowering child mortality.
 
-This discussion so beautifully shows that this discussion so far has left out the most important point, which is the moral imperative to help people escape from the misery and indignity of extreme poverty. The argument that we must save the planet for future people not yet born is difficult for me to hear when people are suffering today. But when it comes to child mortality, we don’t have to choose between the present and the future or between our hearts and our heads. They all point in the same direction.
+This discussion so beautifully shows that this discussion so far has left out the most important point, which is the moral imperative to help people escape from the misery and indignity of extreme poverty. The argument that we must save the planet for future people not yet born is difficult for me to hear when people are suffering today. But when it comes to child mortality, we don’t have to choose between the present and the future or between our hearts and our heads.
 
-We should do everything we can to reduce child mortality, not only as an act of humanity for living, suffering children, but to benefit the whole world now and in the future. Two public health miracles. In the first full year of Bangladesh’s independence, 1972, Bangladeshi women had on average seven children and life expectancy was 52. Today, Bangladeshi women have two children and a newborn can expect to live 73 years.
+They all point in the same direction. We should do everything we can to reduce child mortality, not only as an act of humanity for living, suffering children, but to benefit the whole world now and in the future. Two public health miracles. In the first full year of Bangladesh’s independence, 1972, Bangladeshi women had on average seven children and life expectancy was 52.
 
-In four decades, Bangladesh has gone from miserable to decent, from level one to level two. It is a miracle, delivered through remarkable progress in basic health and child survival. The child’s survival rate is now 97 percent, up from less than 80 percent at independence. Now that parents have reason to expect that all their children will survive, a major reason for having big families is gone.
+Today, Bangladeshi women have two children and a newborn can expect to live 73 years. In four decades, Bangladesh has gone from miserable to decent, from level one to level two. It is a miracle, delivered through remarkable progress in basic health and child survival. The child’s survival rate is now 97 percent, up from less than 80 percent at independence.
 
-In Egypt in 1960, 30 percent of all children in the land around the Nile died before their fifth birthday. The Nile Delta was a misery for children with all sorts of dangerous diseases and malnutrition. Then a miracle happened. The Egyptians built the Aswan Dam.
+Now that parents have reason to expect that all their children will survive, a major reason for having big families is gone. In Egypt in 1960, 30 percent of all children in the land around the Nile died before their fifth birthday. The Nile Delta was a misery for children with all sorts of dangerous diseases and malnutrition. Then a miracle happened.
 
-They wired electricity into people’s homes, improved education, built up primary health care, eradicated malaria, and made drinking water safer. Today, Egypt’s child mortality rate, at 2.3 percent, is lower than it was in France or the United Kingdom in 1960. How to control the straight line instinct, or not all lines, are straight. The best way of controlling the instinct to always see straight lines, whether in relation to population growth or in other situations, is simply to remember that curves naturally come in lots of different shapes.
+The Egyptians built the Aswan Dam. They wired electricity into people’s homes, improved education, built up primary health care, eradicated malaria, and made drinking water safer. Today, Egypt’s child mortality rate, at 2.3 percent, is lower than it was in France or the United Kingdom in 1960. How to control the straight line instinct, or not all lines, are straight.
 
-Many aspects of the world are best represented by curves shaped like an S, or a slide, or a hump, and not by a straight line. Here are some examples, each showing how a particular aspect of life changes as we move across the four income levels. Straight lines. Straight lines are much less common than we tend to think, but some lines are straight.
+The best way of controlling the instinct to always see straight lines, whether in relation to population growth or in other situations, is simply to remember that curves naturally come in lots of different shapes. Many aspects of the world are best represented by curves shaped like an S, or a slide, or a hump, and not by a straight line. Here are some examples, each showing how a particular aspect of life changes as we move across the four income levels.
 
-The data show that money and health go hand in hand. We don’t know from just looking at the line which comes first, or what the relationship is between the two. It might be that a healthy population produces more income. It might be that a rich population can afford better health.
+Straight lines. Straight lines are much less common than we tend to think, but some lines are straight. The data show that money and health go hand in hand. We don’t know from just looking at the line which comes first, or what the relationship is between the two.
 
-I think both are true. What we do know from such a line is that in general, where income is higher, health is better. We can also find straight lines when we compare
+It might be that a healthy population produces more income. It might be that a rich population can afford better health. I think both are true. What we do know from such a line is that in general, where income is higher, health is better.
+
+We can also find straight lines when we compare
 
 
 <a id="sec-025702"></a>
@@ -1080,7 +1164,7 @@ And then it flattens out and stays quite low, just below two babies per woman. S
 
 UNICEF knows how to count, but it has also saved millions of children’s lives by not accepting a straight line. It has negotiated huge contracts with pharmaceutical companies, in which the price is cut to the bare minimum in return for guaranteed long contracts. But when you have negotiated to the bottom price, you can’t get lower. That’s another slide-shaped curve.
 
-Humps. Your tomato plant will grow as long as it gets water. So if more water is what it needs, why don’t you turn the hose on it so you can grow an enormous prize-winning tomato. Of course you know that doesn’t work.
+Humps. Your tomato plant will grow as long as it gets water. So if more water is what it needs, why don’t you turn the hose on it so you can grow an enormous prize-winning tomato. Of course, you know that doesn’t work.
 
 It’s a question of dosage. Too little and it dies. Too much and it dies too. Tomato survival is low in very dry and very wet environments, but high in environments that are in the middle.
 
@@ -1106,15 +1190,17 @@ For 200 years, if you lived that long, it would double six times, which is exact
 
 On level 1, with a dollar a day, another dollar buys you that extra bucket. That is life-changing. On level 4, with $64 a day, another dollar has almost no impact. But with another $64 a day, you could build a pool or buy a summer house.
 
-That’s life-changing for you. The world is extremely unfair, but doubling one’s income from any starting point is always life-changing. I use this doubling scale whenever I compare income, because that’s how money works. By the way, the scales for measuring earthquakes, sound levels, and pH work in the same way.
+That’s life-changing for you. The world is extremely unfair, but doubling one’s income from any starting point is always life-changing. I use this doubling scale whenever. I compare income, because that’s how money works.
 
-How much of the curve do you see? Curves come in many different shapes. The part of the curve with which we are familiar, living on level 4, may not apply at all on levels 1, 2, or 3. An apparently straight upward trend could be part of a straight line, an S-band, a hump, or a doubling line.
+By the way, the scales for measuring earthquakes, sound levels, and pH work in the same way. How much of the curve do you see? Curves come in many different shapes. The part of the curve with which we are familiar, living on level 4, may not apply at all on levels 1, 2, or 3.
 
-An apparently straight downward trend could be part of a straight line, a slide, or a hump. Any two connected points look like a straight line, but when we have three points, we can distinguish between a straight line, 1, 2, 3, and the start of what may be a doubling line, 1, 2, 4. To understand a phenomenon, we need to make sure we understand the shape of its curve. By assuming we know how a curve continues beyond what we see, we will draw the wrong conclusions and come up with the wrong solutions.
+An apparently straight upward trend could be part of a straight line, an S-band, a hump, or a doubling line. An apparently straight downward trend could be part of a straight line, a slide, or a hump. Any two connected points look like a straight line, but when we have three points, we can distinguish between a straight line, 1, 2, 3, and the start of what may be a doubling line, 1, 2, 4. To understand a phenomenon, we need to make sure we understand the shape of its curve.
 
-That is what I did before I realized that the Ebola epidemic was doubling. And that is what everyone is doing who thinks that the world population is just increasing. Factfulness Factfulness is recognizing the assumption that a line will just continue straight, and remembering that such lines are rare in reality. To control the straight line instinct, remember that curves come in different shapes.
+By assuming we know how a curve continues beyond what we see, we will draw the wrong conclusions and come up with the wrong solutions. That is what. I did before. I realized that the Ebola epidemic was doubling.
 
-Don’t assume straight lines. Many trends do not follow straight lines, but are S-bands, slides, humps, or doubling lines.
+And that is what everyone is doing who thinks that the world population is just increasing. Factfulness Factfulness is recognizing the assumption that a line will just continue straight, and remembering that such lines are rare in reality. To control the straight line instinct, remember that curves come in different shapes. Don’t assume straight lines.
+
+Many trends do not follow straight lines, but are S-bands, slides, humps, or doubling lines.
 
 
 <a id="sec-030704"></a>
@@ -1122,27 +1208,29 @@ Don’t assume straight lines. Many trends do not follow straight lines, but are
 
 No child ever kept up the rate of growth it achieved in its first six months, and no parents would expect it to.
 
-#### Chapter 4 The Fear Instinct How to Hide 40 Million Airplanes and How I Kind of Won the Nobel Peace Prize Blood all over the floor. On October 7, 1975, I was plastering a patient’s arm when an assistant nurse burst through the door and announced that a plane had crashed and the wounded were coming in by helicopter. It was my fifth day as a junior doctor on the emergency ward in the small coastal town of Hudiksvall in Sweden.
+#### Chapter 4 The Fear Instinct. How to Hide 40 Million Airplanes and. How I Kind of Won the Nobel Peace Prize Blood all over the floor. On October 7, 1975, I was plastering a patient’s arm when an assistant nurse burst through the door and announced that a plane had crashed and the wounded were coming in by helicopter.
 
-All the senior staff were down in the dining hall, and as the assistant nurse and I searched frantically for the folder of disaster instructions, I could already hear the helicopter landing. The two of us were going to have to handle this on our own.
+It was my fifth day as a junior doctor on the emergency ward in the small coastal town of Hudiksvall in Sweden. All the senior staff were down in the dining hall, and as the assistant nurse and. I searched frantically for the folder of disaster instructions, I could already hear the helicopter landing. The two of us were going to have to handle this on our own.
 
 Years later a stretcher was rolled in, bearing a man in dark green overalls and a camouflage life jacket. His arms and legs were twitching. An epileptic seizure, I thought, off with his clothes. I removed his life jacket easily, but his overalls were more problematic.
 
-They looked like a space suit, with huge sturdy zippers all over, and no matter how hard I tried, I couldn’t find the zipper that undid them. I had just registered that the uniform meant this was a military pilot when I noticed the blood all over the floor. He’s bleeding, I shouted. With this much blood I knew he could be dead in a matter of seconds, but with the overalls still on I couldn’t see where it was coming from.
+They looked like a space suit, with huge sturdy zippers all over, and no matter how hard. I tried, I couldn’t find the zipper that undid them. I had just registered that the uniform meant this was a military pilot when. I noticed the blood all over the floor.
+
+He’s bleeding, I shouted. With this much blood. I knew he could be dead in a matter of seconds, but with the overalls still on. I couldn’t see where it was coming from.
 
 I grabbed a big pair of plaster pliers to cut through the fabric and howl to the assistant nurse—four bags of blood, O negative, now!" To the patient, I shouted, where does it hurt? И А СИСИСИА Не А СИСИСИСИСИС. He replied. I couldn’t understand a word, but it sounded like Russian. I looked the man in the eyes and said with a clear voice, Висео тика товоришь шветскея балнитса, which means All is calm, comrade, Swedish hospital.
 
-I will never forget the look of panic I triggered with those words. Frightened out of his mind, he stared back at me and tried to tell me something. Врад Фрат пластре Ракстрий А СИСИСИСИСИС. I looked into his eyes full of fear, and then I realized, This must be a Russian fighter pilot who has been shot down over Swedish territory, which means that the Soviet Union is attacking us. World War III has started.
+I will never forget the look of panic. I triggered with those words. Frightened out of his mind, he stared back at me and tried to tell me something. Врад Фрат пластре Ракстрий А СИСИСИСИСИС. I looked into his eyes full of fear, and then.
 
-I was paralyzed by fear. Fortunately, at that moment, the head nurse, Birgitta, came back from lunch. She snatched the plaster pliers from my hand and hissed, Don’t shred it. That’s an Air Force G-suit, and it costs more than ten thousand Swedish kronor.
+I realized, This must be a Russian fighter pilot who has been shot down over Swedish territory, which means that the Soviet Union is attacking us. World War III has started. I was paralyzed by fear. Fortunately, at that moment, the head nurse, Birgitta, came back from lunch.
 
-After a beat, she added, And can you please step off the life jacket? You’re standing on the color cartridge, and it’s making the whole floor red. Birgitta turned to the patient, calmly freed him from his G-suit, and wrapped him in a couple of blankets. In the meantime, she told him in Swedish, You were in the icy water for twenty-three minutes, which is why you are jerking and shivering, and why we can’t understand what you’re saying.
+She snatched the plaster pliers from my hand and hissed, Don’t shred it. That’s an Air Force G-suit, and it costs more than ten thousand Swedish kronor. After a beat, she added, And can you please step off the life jacket? You’re standing on the color cartridge, and it’s making the whole floor red.
 
-The Swedish Air Force pilot, who had evidently crashed during a routine flight, gave me a comforting little smile. A few years ago, I contacted the pilot and was relieved to hear that he doesn’t remember a thing from those first minutes in the emergency room in 1975, but for me the experience is hard to forget. I will forever remember my complete misjudgment. Everything was the other way around.
+Birgitta turned to the patient, calmly freed him from his G-suit, and wrapped him in a couple of blankets. In the meantime, she told him in Swedish, You were in the icy water for twenty-three minutes, which is why you are jerking and shivering, and why we can’t understand what you’re saying. The Swedish Air Force pilot, who had evidently crashed during a routine flight, gave me a comforting little smile. A few years ago, I contacted the pilot and was relieved to hear that he doesn’t remember a thing from those first minutes in the emergency room in 1975, but for me the experience is hard to forget.
 
-The Russian was Swedish, the war was peace, the epileptic seizure was cooling, and the blood was a color ampoule from inside the life jacket. But it had all seemed so convincing to me. When we are afraid, we do not see clearly. I was a young doctor facing my first emergency, and I had always been terrified by the prospect of a Third World War.
+I will forever remember my complete misjudgment. Everything was the other way around. The Russian was Swedish, the war was peace, the epileptic seizure was cooling, and the blood was a color ampoule from inside the life jacket. But it had all seemed so convincing to me.
 
-As a child, I often had nightmares about it.
+When we are afraid, we do not see clearly. I was a young doctor facing my first emergency, and. I had always been terrified by the prospect of a Third World War. As a child, I often had nightmares about it.
 
 
 <a id="sec-031204"></a>
@@ -1150,23 +1238,25 @@ As a child, I often had nightmares about it.
 
 I would wake up and run to my parents' bed. I could be calmed only by my father going over the details of our plan one more time. We would take our tent in the bike trailer and go live in the woods, where there were plenty of blueberries. Inexperienced and in an emergency situation for the first time, my head quickly generated a worst-case scenario.
 
-I didn’t see what I wanted to see. I saw what I was afraid of seeing. Critical thinking is always difficult, but it’s almost impossible when we are scared. There’s no room for facts when our minds are occupied by fear.
+I didn’t see what. I wanted to see. I saw what. I was afraid of seeing.
 
-The attention filter. None of us has enough mental capacity to consume all the information out there. The question is, what part are we processing, and how did it get selected? And what part are we ignoring?
+Critical thinking is always difficult, but it’s almost impossible when we are scared. There’s no room for facts when our minds are occupied by fear. The attention filter. None of us has enough mental capacity to consume all the information out there.
 
-The kind of information we seem most likely to process is stories. Information that sounds dramatic. Imagine that we have a shield, or attention filter, between the world and our brain. This attention filter protects us against the noise of the world.
+The question is, what part are we processing, and how did it get selected? And what part are we ignoring? The kind of information we seem most likely to process is stories. Information that sounds dramatic.
 
-Without it, we would constantly be bombarded with so much information, we would be overloaded and paralyzed. Then imagine that the attention filter has ten instinct-shaped holes in it—gap, negativity, straight line, and so on. Most information doesn’t get through, but the holes do allow through information that appeals to our dramatic instincts. So we end up paying attention to information that fits our dramatic instincts and ignoring information that does not.
+Imagine that we have a shield, or attention filter, between the world and our brain. This attention filter protects us against the noise of the world. Without it, we would constantly be bombarded with so much information, we would be overloaded and paralyzed. Then imagine that the attention filter has ten instinct-shaped holes in it—gap, negativity, straight line, and so on.
 
-The media can’t waste time on stories that won’t pass our attention filters. Here are a couple of headlines that won’t get past a newspaper editor because they are unlikely to get past our own filters. Malaria continues to gradually decline. Meteorologists correctly predicted yesterday that there would be mild weather in London today.
+Most information doesn’t get through, but the holes do allow through information that appeals to our dramatic instincts. So we end up paying attention to information that fits our dramatic instincts and ignoring information that does not. The media can’t waste time on stories that won’t pass our attention filters. Here are a couple of headlines that won’t get past a newspaper editor because they are unlikely to get past our own filters.
 
-Here are some topics that easily get through our filters. Earthquakes, war, refugees, disease, fire, floods, shark attacks, terror attacks. These unusual events are more newsworthy than the everyday ones, and the unusual stories we are constantly shown by the media paint pictures in our heads. If we are not extremely careful, we come to believe that the unusual is usual, that this is what the world looks like.
+Malaria continues to gradually decline. Meteorologists correctly predicted yesterday that there would be mild weather in London today. Here are some topics that easily get through our filters. Earthquakes, war, refugees, disease, fire, floods, shark attacks, terror attacks.
 
-For the first time in world- history, data exists for almost every aspect of global development. And yet, because of our dramatic instincts, and the way the media must tap into them to grab our attention, we continue to have an overdramatic worldview. Of all our dramatic instincts, it seems to be the fear instinct that most strongly influences what information gets selected by news producers and presented to us consumers. The fear instinct.
+These unusual events are more newsworthy than the everyday ones, and the unusual stories we are constantly shown by the media paint pictures in our heads. If we are not extremely careful, we come to believe that the unusual is usual, that this is what the world looks like. For the first time in world- history, data exists for almost every aspect of global development. And yet, because of our dramatic instincts, and the way the media must tap into them to grab our attention, we continue to have an overdramatic worldview.
 
-When people are asked in polls what they are most afraid of, four answers always tend to turn up near the top—snakes, spiders, heights, and being trapped in small spaces. Then comes a long list with no surprises—public speaking, needles, airplanes, mice, strangers, dogs, crowds, blood, darkness, fire, drowning, and so on. These fears are hard-wired deep in our brains for obvious evolutionary reasons. Fears of physical harm, captivity, and poison once helped our ancestors survive.
+Of all our dramatic instincts, it seems to be the fear instinct that most strongly influences what information gets selected by news producers and presented to us consumers. The fear instinct. When people are asked in polls what they are most afraid of, four answers always tend to turn up near the top—snakes, spiders, heights, and being trapped in small spaces. Then comes a long list with no surprises—public speaking, needles, airplanes, mice, strangers, dogs, crowds, blood, darkness, fire, drowning, and so on.
 
-In modern times, perceptions of these dangers still trigger our fear instinct. You can spot stories about them in the news every day. Physical harm, violence caused by people, animals, sharp objects or forces of nature, captivity, entrapment, loss of control or loss of freedom, contamination by invisible substances that can infect or poison us. These fears are still constructive for people on levels one and two.
+These fears are hard-wired deep in our brains for obvious evolutionary reasons. Fears of physical harm, captivity, and poison once helped our ancestors survive. In modern times, perceptions of these dangers still trigger our fear instinct. You can spot stories about them in the news every day.
+
+Physical harm, violence caused by people, animals, sharp objects or forces of nature, captivity, entrapment, loss of control or loss of freedom, contamination by invisible substances that can infect or poison us. These fears are still constructive for people on levels one and two.
 
 For example, it is practical on levels one and two to be afraid of snakes. Sixty thousand people are killed by snakes every year. Better to jump one too many times when you see a stick.
 
@@ -1174,31 +1264,35 @@ For example, it is practical on levels one and two to be afraid of snakes. Sixty
 <a id="sec-031706"></a>
 ### ⏱️ [03:17:06 - 03:22:09]
 
-Whatever you do, don’t get bitten. There’s no hospital nearby, and if there is, you can’t afford it. A Midwife’s Wish. In 1999 I traveled with a couple of Swedish students to visit a traditional midwife in a remote village in Tanzania.
+Whatever you do, don’t get bitten. There’s no hospital nearby, and if there is, you can’t afford it. A Midwife’s Wish. In 1999.
 
-I wanted my medical students from level four to meet a real health worker on level one instead of just reading about them in books. The midwife had no formal education, and the student’s jaws dropped when she described her struggles, walking between villages to help poor women deliver babies on mud floors in complete darkness with no medical equipment and no clean water.
+I traveled with a couple of Swedish students to visit a traditional midwife in a remote village in Tanzania. I wanted my medical students from level four to meet a real health worker on level one instead of just reading about them in books. The midwife had no formal education, and the student’s jaws dropped when she described her struggles, walking between villages to help poor women deliver babies on mud floors in complete darkness with no medical equipment and no clean water.
 
 One of the students asked, “Do you have children of your own?” Yes, she said proudly. Two boys and two daughters. Will your daughters become midwives like you? The old woman threw her body forward and laughed out loud.
 
-My daughters? Working like me? Oh, no. Never. Never.
+My daughters? Working like me? Oh, no. Never.
 
-They have nice jobs. They work in front of computers in Dar es Salaam, just like they wanted to. The midwife’s daughters had escaped level one.
+Never. They have nice jobs. They work in front of computers in Dar es Salaam, just like they wanted to. The midwife’s daughters had escaped level one.
 
-Another student asked, “If you could choose one piece of equipment that could make your work easier, what would that be?” I really want a flashlight, she answered. When I walk to a village in the dark, even when the moon is shining, it is so difficult to see the snakes. On levels three and four, where life is less physically demanding and people can afford to protect themselves against nature, these biological memories probably cause more harm than good. On level four, for sure, the fears that evolved to protect us are now doing us harm.
+Another student asked, “If you could choose one piece of equipment that could make your work easier, what would that be?”. I really want a flashlight, she answered. When. I walk to a village in the dark, even when the moon is shining, it is so difficult to see the snakes.
 
-A small minority, three percent of the population on level four, suffers from a phobia so strong it hinders their daily life. For the vast majority of us not blocked by phobias, the fear instinct harms us by distorting our worldview. The media cannot resist tapping into our fear instinct. It is such an easy way to grab our attention.
+On levels three and four, where life is less physically demanding and people can afford to protect themselves against nature, these biological memories probably cause more harm than good. On level four, for sure, the fears that evolved to protect us are now doing us harm. A small minority, three percent of the population on level four, suffers from a phobia so strong it hinders their daily life. For the vast majority of us not blocked by phobias, the fear instinct harms us by distorting our worldview.
 
-In fact, the biggest stories are often those that trigger more than one type of fear. Kidnappings and plane crashes, for example, each combine the fear of harm and the fear of captivity. Earthquake victims trapped under collapsed buildings are both hurt and trapped and get more attention than regular earthquake victims. The drama is so much stronger when multiple fears are triggered. Yet here’s the paradox.
+The media cannot resist tapping into our fear instinct. It is such an easy way to grab our attention.
 
-The image of a dangerous world has never been broadcast more effectively than it is now, while the world has never been less violent and more safe. Fears that once helped keep our ancestors alive today help keep journalists employed. It isn’t the journalist’s fault and we shouldn’t expect them to change. It isn’t driven by media logic among the producers so much as by attention logic in the heads of the consumers.
+In fact, the biggest stories are often those that trigger more than one type of fear. Kidnappings and plane crashes, for example, each combine the fear of harm and the fear of captivity. Earthquake victims trapped under collapsed buildings are both hurt and trapped and get more attention than regular earthquake victims. The drama is so much stronger when multiple fears are triggered.
 
-If we look at the facts behind the headlines, we can see how the fear instinct systematically distorts what we see of the world. Natural disasters in times like these. Nepal is one of the last Asian countries left on level one and in 2015 it was hit by an earthquake. The death rate is always higher when a disaster hits a country on level one because of poorly constructed buildings, poor infrastructure, and poor medical facilities.
+Yet here’s the paradox. The image of a dangerous world has never been broadcast more effectively than it is now, while the world has never been less violent and more safe. Fears that once helped keep our ancestors alive today help keep journalists employed. It isn’t the journalist’s fault and we shouldn’t expect them to change.
 
-Nine thousand people died. Fact Question 7. How did the number of deaths per year from natural disasters change over the last hundred years? A.
+It isn’t driven by media logic among the producers so much as by attention logic in the heads of the consumers. If we look at the facts behind the headlines, we can see how the fear instinct systematically distorts what we see of the world. Natural disasters in times like these. Nepal is one of the last Asian countries left on level one and in 2015 it was hit by an earthquake.
 
-More than doubled. B. Remained about the same. C.
+The death rate is always higher when a disaster hits a country on level one because of poorly constructed buildings, poor infrastructure, and poor medical facilities. Nine thousand people died. Fact Question 7. How did the number of deaths per year from natural disasters change over the last hundred years?
 
-Decreased to less than half. This number includes all fatalities from floods, earthquakes, storms, droughts, wildfires, and extreme temperatures and also deaths during the mass displacement of people and pandemics after such events. Just ten percent of people picked the right answer and even in the countries that did best in this question, Finland and Norway, it was only sixteen percent. The chimpanzees who don’t watch the news got thirty-three percent, as always.
+A. More than doubled. B. Remained about the same.
+
+C. Decreased to less than half. This number includes all fatalities from floods, earthquakes, storms, droughts, wildfires, and extreme temperatures and also deaths during the mass displacement of people and pandemics after such events. Just ten percent of people picked the right answer and even in the countries that did best in this question, Finland and Norway, it was only sixteen percent.
+
+The chimpanzees who don’t watch the news got thirty-three percent, as always.
 
 
 <a id="sec-032209"></a>
@@ -1216,7 +1310,7 @@ Just fifteen years ago no country in the world had such an advanced system. When
 
 The UN’s relief web has become a global coordinator for disaster help, something earlier generations of disaster victims could only dream of, and it is paid for by taxpayers on level four. We should be very proud of it. We humans have finally figured out how to protect ourselves against nature. The huge reduction in deaths from natural disasters is yet another trend to add to the pile of mankind’s ignored unknown success stories.
 
-Unfortunately the people on level four paying for relief web are the same people we asked about the trend in natural disasters. Ninety-one percent of them are unaware of the success they are paying for because their journalists continue to report every disaster as if it were the worst. The long elegantly dropping trend line, a bit of fact-based hope they think is not newsworthy. The next time the news shows you horrific images of victims trapped under collapsed buildings, will you be able to remember the positive long-term trend?
+Unfortunately, the people on level four paying for relief web are the same people we asked about the trend in natural disasters. Ninety-one percent of them are unaware of the success they are paying for because their journalists continue to report every disaster as if it were the worst. The long elegantly dropping trend line, a bit of fact-based hope they think is not newsworthy. The next time the news shows you horrific images of victims trapped under collapsed buildings, will you be able to remember the positive long-term trend?
 
 When the journalist turns to the camera and says, the world just became a bit more dangerous, will you be able to disagree? To look at the local rescue crew in their colorful helmets and think, most of their parents couldn’t read, but these guys are following internationally used first aid guidelines, the world is getting better. When the journalist says with a sad face, in times like these, will you smile and think that she is referring to the first time in history when disaster victims get immediate global attention and foreigners send their best helicopters?
 
@@ -1238,17 +1332,19 @@ All that’s needed to stop a child from accidentally drinking her neighbor’s 
 
 Only ten ended in fatal accidents. Of course, those were the ones the journalists wrote about, the 0.000025% of the total. Safe flights are not newsworthy. Imagine.
 
-Late BA0016 from Sydney arrived in Singapore Changi Airport without any problems. And that was today’s news. 2016 was the second safest year in aviation history. That is not newsworthy either. Back in the 1930s, flying was really dangerous and passengers were scared away by the many accidents. Many authorities across the world had understood the potential of commercial passenger air traffic, but they also realized flying had to become safer before most people would dare to try it.
+Late BA0016 from Sydney arrived in Singapore Changi Airport without any problems. And that was today’s news. 2016 was the second safest year in aviation history. That is not newsworthy either. Back in the 1930s, flying was really dangerous and passengers were scared away by the many accidents.
 
-In 1944, they all met in Chicago to agree on common rules and signed a contract with a very important Annex 13, a common form for incident reports which they agreed to share, so they could all learn from each other’s mistakes. Since then, every crash or incident involving a commercial passenger airplane has been investigated and reported. Risk factors have been systematically identified and improved safety procedures have been adopted worldwide. Wow!
+Many authorities across the world had understood the potential of commercial passenger air traffic, but they also realized flying had to become safer before most people would dare to try it. In 1944, they all met in Chicago to agree on common rules and signed a contract with a very important Annex 13, a common form for incident reports which they agreed to share, so they could all learn from each other’s mistakes. Since then, every crash or incident involving a commercial passenger airplane has been investigated and reported.
 
-I’d say the Chicago Convention is one of humanity’s most impressive collaborations ever. It’s amazing how well people can work together when they share the same fears. The fear instinct is so strong that it can make people collaborate across the world to make the greatest progress. It’s so strong, it can also remove forty million non-crashing aircraft from our field of sight each year, just like it can erase three hundred thirty thousand child deaths from diarrhea from our TV screens.
+Risk factors have been systematically identified and improved safety procedures have been adopted worldwide. Wow! I’d say the Chicago Convention is one of humanity’s most impressive collaborations ever. It’s amazing how well people can work together when they share the same fears.
 
-Just like that. War and Conflict I was born in 1948, three years after the end of the Second World War in which sixty-five million people died. No one pretended that another world war could not come, and yet it did not come. Instead came peace, the longest peace between superpowers in human history.
+The fear instinct is so strong that it can make people collaborate across the world to make the greatest progress. It’s so strong, it can also remove forty million non-crashing aircraft from our field of sight each year, just like it can erase three hundred thirty thousand child deaths from diarrhea from our TV screens. Just like that. War and Conflict.
 
-Today conflicts and fatalities from conflicts are at a record low. I have lived through the most peaceful decades in human history. Watching the news with its never-ending flow of horrifying images, it is almost impossible to believe that. I do not seek to trivialize the horror that undoubtedly remains.
+I was born in 1948, three years after the end of the Second World War in which sixty-five million people died. No one pretended that another world war could not come, and yet it did not come. Instead came peace, the longest peace between superpowers in human history. Today conflicts and fatalities from conflicts are at a record low.
 
-I do not try to understate the importance of ending current conflicts. Remember, things can be bad and getting better.
+I have lived through the most peaceful decades in human history. Watching the news with its never-ending flow of horrifying images, it is almost impossible to believe that. I do not seek to trivialize the horror that undoubtedly remains. I do not try to understate the importance of ending current conflicts.
+
+Remember, things can be bad and getting better.
 
 
 <a id="sec-033214"></a>
@@ -1262,17 +1358,17 @@ But the fact that the battle deaths are falling decade by decade should be some 
 
 We must take care of this fragile gift if we hope to achieve our other noble goals, such as collaboration toward a sustainable future. Without world peace, you can forget about all other global progress. Contamination The threat of a third nuclear world war was very real to me during my childhood in the 1950s and throughout the next three decades. It was real to most people.
 
-We all had images in our heads of the victims of Hiroshima, and the news showed superpowers flexing their nuclear muscles like bodybuilders on steroids, one test bombing after another. In 1985 the Nobel Peace Prize Committee decided that nuclear disarmament was the most important peace cause in the world. They awarded the prize to me—well, not to me directly, but to IPPNW, the International Physicians for the Prevention of Nuclear War, and I was a proud member of that organization. In 1986 there were 64,000 nuclear warheads in the world, today there are 15,000.
+We all had images in our heads of the victims of Hiroshima, and the news showed superpowers flexing their nuclear muscles like bodybuilders on steroids, one test bombing after another. In 1985 the Nobel Peace Prize Committee decided that nuclear disarmament was the most important peace cause in the world. They awarded the prize to me—well, not to me directly, but to IPPNW, the International Physicians for the Prevention of Nuclear War, and. I was a proud member of that organization.
 
-So the fear instinct can sure help to remove terrible things from the world. On other occasions it runs out of control, distorts our risk assessment, and causes terrible harm. Eight miles underwater, on the seafloor of the Pacific Ocean just off the coast of Japan, a seismic slip rupture event took place on March 11, 2011. It moved the Japanese main island eight feet eastward and generated a tsunami that reached the coast one hour later, killing roughly 18,000 people.
+In 1986 there were 64,000 nuclear warheads in the world, today there are 15,000. So the fear instinct can sure help to remove terrible things from the world. On other occasions it runs out of control, distorts our risk assessment, and causes terrible harm. Eight miles underwater, on the seafloor of the Pacific Ocean just off the coast of Japan, a seismic slip rupture event took place on March 11, 2011.
 
-The tsunami also was higher than the wall that was built to protect the nuclear power plant in Fukushima. The province was flooded with water, and the world’s news was flooded with fear of physical harm and radioactive contamination. People escaped the province as fast as they could, but 1,600 more people died. It was not the leaking radioactivity that killed them, not one person has yet been reported as having died from the very thing that people were fleeing from.
+It moved the Japanese main island eight feet eastward and generated a tsunami that reached the coast one hour later, killing roughly 18,000 people. The tsunami also was higher than the wall that was built to protect the nuclear power plant in Fukushima. The province was flooded with water, and the world’s news was flooded with fear of physical harm and radioactive contamination. People escaped the province as fast as they could, but 1,600 more people died.
 
-Because 1,600 people died because they escaped. They were mainly old people who died because of the mental and physical stresses of the evacuation itself or of life in evacuation shelters. It wasn’t radioactivity, but the fear of radioactivity that killed them. Even after the worst ever nuclear accident, Chernobyl in 1986, when most people expected a huge increase in the death rate, the WHO investigators could not confirm this, even among those living in the area.
+It was not the leaking radioactivity that killed them, not one person has yet been reported as having died from the very thing that people were fleeing from. Because 1,600 people died because they escaped. They were mainly old people who died because of the mental and physical stresses of the evacuation itself or of life in evacuation shelters. It wasn’t radioactivity, but the fear of radioactivity that killed them.
 
-In the 1940s, a new wonder chemical was discovered that killed many annoying insects. Farmers were so happy. People fighting malaria were so happy. DDT was sprayed over crops, across swamps, and in homes with little investigation of its side effects.
+Even after the worst ever nuclear accident, Chernobyl in 1986, when most people expected a huge increase in the death rate, the WHO investigators could not confirm this, even among those living in the area. In the 1940s, a new wonder chemical was discovered that killed many annoying insects. Farmers were so happy. People fighting malaria were so happy.
 
-DDT’s creator won a Nobel Prize. During the 1950s, the early environmental movement in the United States started to raise concerns about levels of DDT accumulating up the food chain into fish and even birds.
+DDT was sprayed over crops, across swamps, and in homes with little investigation of its side effects. DDT’s creator won a Nobel Prize. During the 1950s, the early environmental movement in the United States started to raise concerns about levels of DDT accumulating up the food chain into fish and even birds.
 
 
 <a id="sec-033719"></a>
@@ -1280,19 +1376,21 @@ DDT’s creator won a Nobel Prize. During the 1950s, the early environmental mov
 
 The great popular science writer, Rachel Carson, reported her finding that the shells of bird eggs in her area were becoming thinner, in Silent Spring, a book that became a global bestseller. The idea that humans were allowed to spread invisible substances to kill bugs and authorities were looking away from any signs of the wider impact on other animals or on humans was, of course, frightening. A fear of insufficient regulation and of irresponsible companies was ignited, and the global environmental movement was born.
 
-Thanks to this movement, and to further contamination scandals involving oil spills, plantation workers disabled by pesticides, nuclear reactor failures, the world today has decent chemical and safety regulations covering many countries. Although still not close to the impressive coverage of the aviation industry, DDT was banned in several countries and aid agencies had to stop using it. But, but, as a side effect, we have been left with a level of public fear of chemical contamination that almost resembles paranoia. It is called chemophobia.
+Thanks to this movement, and to further contamination scandals involving oil spills, plantation workers disabled by pesticides, nuclear reactor failures, the world today has decent chemical and safety regulations covering many countries. Although still not close to the impressive coverage of the aviation industry, DDT was banned in several countries and aid agencies had to stop using it. But, but, as a side effect, we have been left with a level of public fear of chemical contamination that almost resembles paranoia.
 
-This means that a fact-based understanding of topics like childhood vaccinations, nuclear power and DDT is still extremely difficult today. The memory of insufficient regulation has created automatic mistrust and fear, which blocks the ability to hear data-driven arguments. I will try, anyway. In a devastating example of critical thinking gone bad, highly educated, deeply caring parents avoid the vaccinations that would protect their children from killer diseases.
+It is called chemophobia. This means that a fact-based understanding of topics like childhood vaccinations, nuclear power and DDT is still extremely difficult today. The memory of insufficient regulation has created automatic mistrust and fear, which blocks the ability to hear data-driven arguments. I will try, anyway.
 
-I love critical thinking, and I admire skepticism, but only with a framework that respects the evidence. So if you are skeptical about the measles vaccination, I ask you to do two things.
+In a devastating example of critical thinking gone bad, highly educated, deeply caring parents avoid the vaccinations that would protect their children from killer diseases. I love critical thinking, and. I admire skepticism, but only with a framework that respects the evidence. So if you are skeptical about the measles vaccination, I ask you to do two things.
 
 First, make sure you know what it looks like when a child dies from measles. Most children who catch measles recover, but there is still no cure, and even with the best modern medicine, one or two in every thousand will die of it.
 
 Second, ask yourself what kind of evidence would convince me to change my mind? If the answer is no evidence could ever change my mind about vaccination, then you are putting yourself outside evidence-based rationality, outside the very critical thinking that first brought you to this point. In that case, to be consistent with your skepticism about science, next time you have an operation, please ask your surgeon not to bother washing her hands. More than one thousand old people died escaping from a nuclear leak that killed no one.
 
-DDT is harmful, but I have been unable to find numbers showing that it has directly killed anyone either. The harm investigations that were not done in the 1940s have been done now. In 2002, the Centers for Disease Control and Prevention produced a 497-page document named Toxological Profile for DDT, DDE, and DDD. In 2006, the World Health Organization finally finished reviewing all the scientific investigations, and just like the CDC, classified DDT as mildly harmful to humans, stating that it had more health benefits than drawbacks in many situations.
+DDT is harmful, but. I have been unable to find numbers showing that it has directly killed anyone either. The harm investigations that were not done in the 1940s have been done now. In 2002, the Centers for Disease Control and Prevention produced a 497-page document named Toxological Profile for DDT, DDE, and DDD.
 
-DDT should be used with great caution, but there are pros and cons. In refugee camps teeming with mosquitoes, for example, DDT is often one of the quickest and cheapest ways to save lives. Americans, Europeans, and fear-driven lobbyists, though, refuse to read the CDCs and the WHO’s lengthy investigations and short recommendations and are not ready to discuss the use of DDT, which means some aid organizations that depend on popular support avoid evidence-based solutions that actually would save lives. Improvements in regulations have been driven not by death rates but by fear, and in some cases, Fukushima, DDT—fear of an invisible substance has run amok and is doing more harm
+In 2006, the World Health Organization finally finished reviewing all the scientific investigations, and just like the CDC, classified DDT as mildly harmful to humans, stating that it had more health benefits than drawbacks in many situations. DDT should be used with great caution, but there are pros and cons. In refugee camps teeming with mosquitoes, for example, DDT is often one of the quickest and cheapest ways to save lives. Americans, Europeans, and fear-driven lobbyists, though, refuse to read the CDCs and the WHO’s lengthy investigations and short recommendations and are not ready to discuss the use of DDT, which means some aid organizations that depend on popular support avoid evidence-based solutions that actually would save lives.
+
+Improvements in regulations have been driven not by death rates but by fear, and in some cases, Fukushima, DDT—fear of an invisible substance has run amok and is doing more harm
 
 
 <a id="sec-034228"></a>
@@ -1302,7 +1400,9 @@ than the substance itself. The environment is deteriorating in many parts of the
 
 At this point, highly educated people put on their worried faces and discuss it over a glass of red wine. The zero death toll seems to be of no interest in these discussions. The level of fear seems entirely driven by the chemical nature of the invisible substance. Now let’s move to the latest number one fear in the West—terrorism.
 
-If there’s one group of people who have fully understood the power of the fear instinct, it’s not journalists, it’s terrorists. The clue is in their name. Fear is what they aim for, and they succeed by tapping into all our primitive fears of physical harm, of being trapped, of being poisoned or contaminated. Terrorism is one of the exceptions to the global trends discussed in Chapter 2 on negativity.
+If there’s one group of people who have fully understood the power of the fear instinct, it’s not journalists, it’s terrorists. The clue is in their name. Fear is what they aim for, and they succeed by tapping into all our primitive fears of physical harm, of being trapped, of being poisoned or contaminated. Terrorism is one of the exceptions to the global trends discussed in.
+
+#### Chapter 2 on negativity.
 
 It is getting worse. So are you right to be very scared of it? Well first of all, it accounted for 0.05 percent of all deaths in the world in 2016. So probably not.
 
@@ -1314,29 +1414,35 @@ That includes the largest attack ever, the 2,996 people who died on 9-11 in 2001
 
 Terrorism deaths in the richest countries, that is, countries on level four, accounted for 0.9% of all terrorism deaths in 2007 to 2016. They have been decreasing through this century. Since 2001, no terrorist has managed to kill a single individual by hijacking a commercial airline.
 
-In fact, it is hard to think of a cause of death that kills fewer people in countries on level four than terrorism. On U. S. soil, 3,172 people died from terrorism over the last 20 years, an average of 159 a year. During those same years, alcohol contributed to the death of 1.4 million people in the United States, an average of 69,000 a year. This is not quite a fair comparison, because in most of those cases the drinker is also
+In fact, it is hard to think of a cause of death that kills fewer people in countries on level four than terrorism. On U. S. soil, 3,172 people died from terrorism over the last 20 years, an average of 159 a year. During those same years, alcohol contributed to the death of 1.4 million people in the United States, an average of 69,000 a year.
+
+This is not quite a fair comparison, because in most of those cases the drinker is also
 
 
 <a id="sec-034730"></a>
 ### ⏱️ [03:47:30 - 03:52:31]
 
-the victim. It would be fair to look only at those deaths where the victim was not the drinker, car accidents and homicide. A very conservative estimate would give a U. S. figure of roughly 7,500 deaths a year. In the United States, the risk that your loved one will be killed by a drunk person is nearly 50 times higher than the risk he or she will be killed by a terrorist.
+the victim. It would be fair to look only at those deaths where the victim was not the drinker, car accidents and homicide. A very conservative estimate would give a U. S. figure of roughly 7,500 deaths a year.
 
-But dramatic terrorist incidents in countries on level four receive widespread media coverage that is denied to most victims of alcohol, and the very visible security controls at airports which make the risk lower than ever might give an impression of increased danger. One week after September 11, 2001, according to Gallup, 51 percent of the U. S. public felt worried that a family member would become a victim of terrorism. Fourteen years later, the figure was the same, 51 percent. People are almost as scared today as they were the week after the Twin Towers came down.
+In the United States, the risk that your loved one will be killed by a drunk person is nearly 50 times higher than the risk he or she will be killed by a terrorist. But dramatic terrorist incidents in countries on level four receive widespread media coverage that is denied to most victims of alcohol, and the very visible security controls at airports which make the risk lower than ever might give an impression of increased danger. One week after September 11, 2001, according to Gallup, 51 percent of the U.
 
-Hunting Terrorism Data In this part of the book, all the trends finish in 2016, because 2016 is the last year of data in the global terrorism database. The researchers carefully study multiple sources to eliminate rumors and false information for each record they enter, which creates a time delay. That is a good scientific practice, but I find it strange. Just like with Ebola, as with the CO2 emissions I will discuss later, when something seems important and concerning, don’t we need up-to-date data as quickly as possible rather than perfect data?
+S. public felt worried that a family member would become a victim of terrorism. Fourteen years later, the figure was the same, 51 percent. People are almost as scared today as they were the week after the Twin Towers came down. Hunting Terrorism Data.
 
-Otherwise, how can we know whether terrorism is increasing or not? Wikipedia contains articles with long lists of recent terror attacks from all over the world. Volunteers update them amazingly quickly, just minutes after the first news is out. I love Wikipedia, and if we could trust these lists, we wouldn’t have to wait so long to see the trend.
+In this part of the book, all the trends finish in 2016, because 2016 is the last year of data in the global terrorism database. The researchers carefully study multiple sources to eliminate rumors and false information for each record they enter, which creates a time delay. That is a good scientific practice, but. I find it strange.
 
-To check their reliability, we decided to compare English Wikipedia with the Global Terrorism Database for 2015. If the overlap was close to 100%, we could probably trust Wikipedia to be quite complete for 2016 and 2017 as well, and use it as a good enough source for tracking more up-to-date terrorism trends. It turned out Wikipedia unintentionally presented a very distorted worldview. It was distorted in a systematic way, according to a Western mindset.
+Just like with Ebola, as with the CO2 emissions. I will discuss later, when something seems important and concerning, don’t we need up-to-date data as quickly as possible rather than perfect data? Otherwise, how can we know whether terrorism is increasing or not? Wikipedia contains articles with long lists of recent terror attacks from all over the world.
 
-Our disappointment was huge. More precisely, it was 78%. That’s how many of the 2015 terrorism deaths were missing from Wikipedia. While almost all the deaths in the West were recorded, only 25% of those in the rest were there.
+Volunteers update them amazingly quickly, just minutes after the first news is out. I love Wikipedia, and if we could trust these lists, we wouldn’t have to wait so long to see the trend. To check their reliability, we decided to compare English Wikipedia with the Global Terrorism Database for 2015. If the overlap was close to 100%, we could probably trust Wikipedia to be quite complete for 2016 and 2017 as well, and use it as a good enough source for tracking more up-to-date terrorism trends.
 
-No matter how much I love Wikipedia, we still need serious researchers to maintain reliable datasets. But they need more resources, so they can update them quicker. Fear versus danger. Being afraid of the right things.
+It turned out Wikipedia unintentionally presented a very distorted worldview. It was distorted in a systematic way, according to a Western mindset. Our disappointment was huge. More precisely, it was 78%.
 
-Fear can be useful, but only if it is directed at the right things. The fear instinct is a terrible guide for understanding the world. It makes us give our attention to the unlikely dangers that we are most afraid of, and neglect what is actually most risky. This chapter has touched on terrifying events, natural disasters, 0.1% of all deaths, plane crashes, 0.001%, murders, 0.7%, nuclear leaks, 0%, and terrorism, 0.05%.
+That’s how many of the 2015 terrorism deaths were missing from Wikipedia. While almost all the deaths in the West were recorded, only 25% of those in the rest were there. No matter how much. I love Wikipedia, we still need serious researchers to maintain reliable datasets.
 
-None of them kills more than 1% of the people who die each year, and still they get enormous media attention. We should of course work to reduce these death rates as well. Still, this helps to show just how much the fear instinct distorts our focus. To understand what we should truly be scared of, and how to truly protect our loved ones
+But they need more resources, so they can update them quicker. Fear versus danger. Being afraid of the right things. Fear can be useful, but only if it is directed at the right things.
+
+The fear instinct is a terrible guide for understanding the world. It makes us give our attention to the unlikely dangers that we are most afraid of, and neglect what is actually most risky. This chapter has touched on terrifying events, natural disasters, 0.1% of all deaths, plane crashes, 0.001%, murders, 0.7%, nuclear leaks, 0%, and terrorism, 0.05%. None of them kills more than 1% of the people who die each year, and still they get enormous media attention.
+
+We should of course work to reduce these death rates as well. Still, this helps to show just how much the fear instinct distorts our focus. To understand what we should truly be scared of, and how to truly protect our loved ones
 
 
 <a id="sec-035231"></a>
@@ -1352,63 +1458,71 @@ Risk equals danger times exposure. The risk something poses to you depends not o
 
 When you’re afraid, you see the world differently. Make as few decisions as possible until the panic has subsided.
 
-#### Chapter 5 The Size Instinct Putting War Memorials and bear attacks in proportion using two magic tools that you already possess. The Deaths I Do Not See When I was a young doctor in Mozambique in the early 1980s, I had to do some very difficult math. The math was difficult because of what I was counting.
+#### Chapter 5 The Size Instinct Putting War Memorials and bear attacks in proportion using two magic tools that you already possess. The Deaths. I Do Not See.
 
-I was counting dead children. Specifically, I was comparing the number of deaths among children admitted to our hospital in Nakhala with the number of children dying in their homes within the district we were supposed to serve. At that time, Mozambique was the poorest country in the world. In my first year in Nakhala district, I was the only doctor for a population of three hundred thousand people.
+When I was a young doctor in Mozambique in the early 1980s, I had to do some very difficult math. The math was difficult because of what. I was counting. I was counting dead children.
 
-In my second year, a second doctor joined me. We covered a population that in Sweden would have been served by one hundred doctors, and every morning on my way to work I said to myself, Today I must do the work of fifty doctors. We admitted around one thousand very sick children each year to the district’s one small hospital, which meant around three per day. I will never forget trying to save the lives of those children.
+Specifically, I was comparing the number of deaths among children admitted to our hospital in Nakhala with the number of children dying in their homes within the district we were supposed to serve. At that time, Mozambique was the poorest country in the world. In my first year in Nakhala district, I was the only doctor for a population of three hundred thousand people. In my second year, a second doctor joined me.
 
-All had very severe diseases, like diarrhea, pneumonia, and malaria, often complicated by anemia and malnutrition, and despite our best efforts, around one in twenty of them died. That was one child every week, almost all of whom we could have cured if we had had more and better resources and staff. The care we could provide was rudimentary—water and salt solutions and intramuscular injections. We did not give intravenous drips.
+We covered a population that in Sweden would have been served by one hundred doctors, and every morning on my way to work. I said to myself, Today. I must do the work of fifty doctors. We admitted around one thousand very sick children each year to the district’s one small hospital, which meant around three per day.
 
-The nurses had not yet acquired the skills to administer them, and it would have taken up too much of the doctor’s time to place and supervise the infusions. We rarely had oxygen tanks, and we had limited capacity for blood transfusions. This was the medicine of extreme poverty.
+I will never forget trying to save the lives of those children. All had very severe diseases, like diarrhea, pneumonia, and malaria, often complicated by anemia and malnutrition, and despite our best efforts, around one in twenty of them died. That was one child every week, almost all of whom we could have cured if we had had more and better resources and staff. The care we could provide was rudimentary—water and salt solutions and intramuscular injections.
+
+We did not give intravenous drips. The nurses had not yet acquired the skills to administer them, and it would have taken up too much of the doctor’s time to place and supervise the infusions. We rarely had oxygen tanks, and we had limited capacity for blood transfusions. This was the medicine of extreme poverty.
 
 
 <a id="sec-035733"></a>
 ### ⏱️ [03:57:33 - 04:02:35]
 
-One weekend a friend came to stay with us—a Swedish pediatrician who worked in the slightly better hospital in a bigger city two hundred miles away. On the Saturday afternoon I had to go on an emergency call to the hospital, and he came with me. When we arrived we were met by a mother with fear in her eyes. In her arms was her baby, who had severe diarrhea, and was so weak that she could not breastfeed.
+One weekend a friend came to stay with us—a Swedish pediatrician who worked in the slightly better hospital in a bigger city two hundred miles away. On the Saturday afternoon. I had to go on an emergency call to the hospital, and he came with me. When we arrived we were met by a mother with fear in her eyes.
 
-I admitted the child, inserted a feeding tube, and ordered that oral rehydration solution should be given through the tube. My pediatrician friend dragged me into the corridor by the arm. He was very upset and angrily challenged the substandard treatment I had prescribed, accusing me of skimping in order to get home for dinner. He wanted me to give the baby an intravenous drip.
+In her arms was her baby, who had severe diarrhea, and was so weak that she could not breastfeed. I admitted the child, inserted a feeding tube, and ordered that oral rehydration solution should be given through the tube. My pediatrician friend dragged me into the corridor by the arm. He was very upset and angrily challenged the substandard treatment.
 
-I became angry at his lack of understanding. “'This is our standard treatment here,' I explained. It would take me half an hour to get a drip running for this child, and then there would be a high risk that the nurse would mess it up. And yes, I do have to get home for dinner sometimes.
+I had prescribed, accusing me of skimping in order to get home for dinner. He wanted me to give the baby an intravenous drip. I became angry at his lack of understanding.
 
-Otherwise my family and I would not last here more than a month.” My friend couldn’t accept it. He decided to stay at the hospital, struggling for hours, to get a needle into a tiny vein. When my colleague finally joined me back at home, the debate continued.
+“'This is our standard treatment here,' I explained. It would take me half an hour to get a drip running for this child, and then there would be a high risk that the nurse would mess it up. And yes, I do have to get home for dinner sometimes. Otherwise my family and.
 
-“'You must do everything you can for every patient who presents at the hospital,' he urged. ”'No,' I said. “'It is unethical to spend all my time and resources trying to save those who come here. I can save more children if I improve the services outside the hospital. I am responsible for all the child deaths in this district.
+I would not last here more than a month.”. My friend couldn’t accept it. He decided to stay at the hospital, struggling for hours, to get a needle into a tiny vein. When my colleague finally joined me back at home, the debate continued.
 
-The deaths I do not see just as much as the deaths in front of my eyes.'” My friend disagreed, as do most doctors and perhaps most members of the public. Your obligation is to do everything for the patients in your care. Your claim that you save more children elsewhere is just a cruel, theoretical guess. I was very tired, I stopped arguing and went to bed, but the next day I started counting.
+“'You must do everything you can for every patient who presents at the hospital,' he urged. ”'No,' I said. “'It is unethical to spend all my time and resources trying to save those who come here. I can save more children if. I improve the services outside the hospital.
+
+I am responsible for all the child deaths in this district. The deaths. I do not see just as much as the deaths in front of my eyes.'”. My friend disagreed, as do most doctors and perhaps most members of the public.
+
+Your obligation is to do everything for the patients in your care. Your claim that you save more children elsewhere is just a cruel, theoretical guess. I was very tired, I stopped arguing and went to bed, but the next day. I started counting.
 
 Together with my wife, Ongnetta, who managed the delivery ward, I did the math. We knew that a total of 946 children had been admitted to the hospital that year. Almost all of them below the age of five and of those, fifty-two, five percent, had died. We needed to compare that number with the number of child deaths in the whole district.
 
 The child mortality rate of Mozambique was then twenty-six percent. There was nothing special about Nakhala district, so we could use that figure. The child mortality rate is calculated by taking the number of child deaths in a year and dividing it by the number of births in that year. So if we knew the number of births in the district that year, we could estimate the number of child deaths, using the child mortality rate of twenty-six percent.
 
-The latest census gave us a number for births in the city, roughly three thousand each year. The population of the district was five times the population of the city, so we estimated that there had probably been five times as many births, fifteen thousand. So twenty-six percent of that number told us that I was responsible for trying to prevent 3,900 child deaths every year, of which fifty-two happened in the hospital. I was seeing only one point three percent of my job.
+The latest census gave us a number for births in the city, roughly three thousand each year. The population of the district was five times the population of the city, so we estimated that there had probably been five times as many births, fifteen thousand. So twenty-six percent of that number told us that. I was responsible for trying to prevent 3,900 child deaths every year, of which fifty-two happened in the hospital.
 
-Now I had a number that supported my gut feeling. Organizing, supporting, and supervising basic community-based health care that could treat diarrhea, pneumonia, and malaria before they became life-threatening would save many more lives than putting drips on terminally ill children in the hospital. It would, I believed, be truly unethical to spend more resources in the hospital before the majority of the population and the ninety-eight point seven percent of dying children who never reached the hospital had some form of basic health care.
+I was seeing only one point three percent of my job. Now. I had a number that supported my gut feeling. Organizing, supporting, and supervising basic community-based health care that could treat diarrhea, pneumonia, and malaria before they became life-threatening would save many more lives than putting drips on terminally ill children in the hospital.
 
-So we worked to train village health workers, to get as many children as possible vaccinated and to treat the main child-killers as early as possible in small health facilities that
+It would, I believed, be truly unethical to spend more resources in the hospital before the majority of the population and the ninety-eight point seven percent of dying children who never reached the hospital had some form of basic health care. So we worked to train village health workers, to get as many children as possible vaccinated and to treat the main child-killers as early as possible in small health facilities that
 
 
 <a id="sec-040235"></a>
 ### ⏱️ [04:02:35 - 04:07:37]
 
-could be reached even by mothers who had to walk. This is the cruel calculus of extreme poverty. It felt almost inhuman to look away from an individual dying child in front of me and toward hundreds of anonymous dying children I could not see. I remember the words of Inge Yerde Rothe, who had been working as a missionary nurse in Congo and Tanzania before she became my mentor.
+could be reached even by mothers who had to walk. This is the cruel calculus of extreme poverty. It felt almost inhuman to look away from an individual dying child in front of me and toward hundreds of anonymous dying children. I could not see.
 
-She always told me, In the deepest poverty you should never do anything perfectly. If you do, you are stealing resources from where they can be better used. Paying too much attention to the individual visible victim rather than to the numbers can lead us to spend all our resources on a fraction of the problem and therefore save many fewer lives. This principle applies anywhere we are prioritizing scarce resources.
+I remember the words of Inge Yerde Rothe, who had been working as a missionary nurse in Congo and Tanzania before she became my mentor. She always told me, In the deepest poverty you should never do anything perfectly. If you do, you are stealing resources from where they can be better used. Paying too much attention to the individual visible victim rather than to the numbers can lead us to spend all our resources on a fraction of the problem and therefore save many fewer lives.
 
-It is hard for people to talk about resources when it comes to saving lives or prolonging or improving them. Doing so is often taken for heartlessness. Yet so long as resources are not infinite, and they never are infinite, it is the most compassionate thing to do—to use your brain and work out how to do the most good with what you have. This chapter is full of data about dead children because saving children’s lives is what I care about most in the whole world.
+This principle applies anywhere we are prioritizing scarce resources. It is hard for people to talk about resources when it comes to saving lives or prolonging or improving them. Doing so is often taken for heartlessness. Yet so long as resources are not infinite, and they never are infinite, it is the most compassionate thing to do—to use your brain and work out how to do the most good with what you have.
 
-It seems heartless and cruel, I know, to count dead children and to talk about cost-effectiveness in the same sentence as a dying child, but if you think about it, working out the most cost-effective way of saving as many children’s lives as possible is the least heartless exercise of them all. Just as I have urged you to look behind the statistics at the individual stories, I also urge you to look behind the individual stories at the statistics. The world cannot be understood without numbers, and it cannot be understood with numbers alone.
+This chapter is full of data about dead children because saving children’s lives is what. I care about most in the whole world. It seems heartless and cruel, I know, to count dead children and to talk about cost-effectiveness in the same sentence as a dying child, but if you think about it, working out the most cost-effective way of saving as many children’s lives as possible is the least heartless exercise of them all. Just as.
 
-The size instinct. You tend to get things out of proportion. I do not mean to sound rude. Getting things out of proportion or misjudging the size of things is something that we humans do naturally.
+I have urged you to look behind the statistics at the individual stories, I also urge you to look behind the individual stories at the statistics. The world cannot be understood without numbers, and it cannot be understood with numbers alone. The size instinct. You tend to get things out of proportion.
 
-It is instinctive to look at a lonely number and misjudge its importance. It is also instinctive, like in the hospital in Nakhala, to misjudge the importance of a single instance or an identifiable victim. These two tendencies are the two key aspects of the size instinct. The media is this instinct’s friend.
+I do not mean to sound rude. Getting things out of proportion or misjudging the size of things is something that we humans do naturally. It is instinctive to look at a lonely number and misjudge its importance. It is also instinctive, like in the hospital in Nakhala, to misjudge the importance of a single instance or an identifiable victim.
 
-It is pretty much a journalist’s professional duty to make any given event, fact, or number sound more important than it is, and journalists know that it feels almost inhuman to look away from an individual in pain. The two aspects of the size instinct, together with the negativity instinct, make us systematically underestimate the progress that has been made in the world. In the test questions about global proportions, people consistently say about twenty percent of people are having their basic needs met. The correct answer in most cases is close to eighty percent, or even ninety percent.
+These two tendencies are the two key aspects of the size instinct. The media is this instinct’s friend. It is pretty much a journalist’s professional duty to make any given event, fact, or number sound more important than it is, and journalists know that it feels almost inhuman to look away from an individual in pain. The two aspects of the size instinct, together with the negativity instinct, make us systematically underestimate the progress that has been made in the world.
 
-Proportion of children vaccinated, eighty-eight percent. Proportion of people with electricity, eighty-five percent. Proportion of girls in primary school, ninety percent. The use of numbers that sound enormous together with constant images of individual suffering presented by the charities and the media distort people’s view of the world, and they systematically underestimate all these proportions and all this progress.
+In the test questions about global proportions, people consistently say about twenty percent of people are having their basic needs met. The correct answer in most cases is close to eighty percent, or even ninety percent. Proportion of children vaccinated, eighty-eight percent. Proportion of people with electricity, eighty-five percent.
 
-At the same time, we systematically overestimate other proportions, the proportion of immigrants in our country, the proportion of people opposed to homosexuality. In each of these cases, at least in the United States and Europe, our interpretations are more dramatic than the reality. The size instinct directs our limited attention and resources toward those individual instances or identifiable victims, those concrete things right in front of our eyes. Today there are robust data sets for making the kinds of comparisons I made in Nakhala
+Proportion of girls in primary school, ninety percent. The use of numbers that sound enormous together with constant images of individual suffering presented by the charities and the media distort people’s view of the world, and they systematically underestimate all these proportions and all this progress. At the same time, we systematically overestimate other proportions, the proportion of immigrants in our country, the proportion of people opposed to homosexuality. In each of these cases, at least in the United States and Europe, our interpretations are more dramatic than the reality.
+
+The size instinct directs our limited attention and resources toward those individual instances or identifiable victims, those concrete things right in front of our eyes. Today there are robust data sets for making the kinds of comparisons. I made in Nakhala
 
 
 <a id="sec-040737"></a>
@@ -1430,15 +1544,15 @@ It is a strange thing, but numbers over a certain size when they are not compare
 
 We often see lonely and emotionally charged numbers like this in the news or in the materials of activist groups or organizations. They produce a reaction. Who can even imagine four point two million dead babies? It is so terrible, and even worse, when we know that almost all died from easily preventable diseases.
 
-And how can anyone argue that four point two million is anything other than a huge number? You might think that nobody would even try to argue that. Like you would be wrong. That is exactly why I mentioned this number.
+And how can anyone argue that four point two million is anything other than a huge number? You might think that nobody would even try to argue that. Like you would be wrong. That is exactly why.
 
-Because it is not huge. It is beautifully small. If we even start to think how tragic each of these deaths is for the parents who have waited for their newborn to smile and walk and play and instead had to bury their baby, then this number could keep us crying for a long time. But who would be helped by these tears?
+I mentioned this number. Because it is not huge. It is beautifully small. If we even start to think how tragic each of these deaths is for the parents who have waited for their newborn to smile and walk and play and instead had to bury their baby, then this number could keep us crying for a long time.
 
-Instead let’s think clearly about human suffering. The number four point two million is for 2016. The year before the number was four point four million. The year before that it was four point five million.
+But who would be helped by these tears? Instead let’s think clearly about human suffering. The number four point two million is for 2016. The year before the number was four point four million.
 
-Back in 1950 it was fourteen point four million. That’s almost ten million more dead babies per year compared with today.
+The year before that it was four point five million. Back in 1950 it was fourteen point four million. That’s almost ten million more dead babies per year compared with today.
 
-Suddenly this terrible number starts to look smaller. In fact, the number has never been lower. Of course, I am the first person to wish the number was even lower and falling even faster, but to know how to act and how to prioritize resources, nothing can be more important than doing the cool-headed math and realizing what works and what doesn’t. And this is clear.
+Suddenly, this terrible number starts to look smaller. In fact, the number has never been lower. Of course, I am the first person to wish the number was even lower and falling even faster, but to know how to act and how to prioritize resources, nothing can be more important than doing the cool-headed math and realizing what works and what doesn’t. And this is clear.
 
 
 <a id="sec-041238"></a>
@@ -1446,21 +1560,27 @@ Suddenly this terrible number starts to look smaller. In fact, the number has ne
 
 More and more deaths are being prevented. We would never realize that without comparing the numbers. A large war. The Vietnam War was the Syrian war of my generation.
 
-Two days before Christmas in 1972, seven bombs killed twenty-seven patients and members of staff at the Bat Mai Hospital in Hanoi in Vietnam. I was studying medicine in Uppsala in Sweden. We had plenty of medical equipment and yellow blankets. Agnita and I coordinated a collection, which we packed in boxes and sent to Bat Mai.
+Two days before Christmas in 1972, seven bombs killed twenty-seven patients and members of staff at the Bat Mai Hospital in Hanoi in Vietnam. I was studying medicine in Uppsala in Sweden. We had plenty of medical equipment and yellow blankets. Agnita and.
 
-Eighteen years later I was in Vietnam to evaluate a Swedish aid project. One lunchtime I was eating my rice next to one of my local colleagues, a doctor named Niam, and I asked him about his background. He told me he had been inside the Bat Mai Hospital when the bombs fell. Afterward, he had coordinated the unpacking of boxes and supplies that had arrived from all over the world.
+I coordinated a collection, which we packed in boxes and sent to Bat Mai. Eighteen years later. I was in Vietnam to evaluate a Swedish aid project. One lunchtime.
 
-I asked him if he remembered some yellow blankets, and I got goosebumps as he described the fabrics pattern to me. It felt like we had been friends forever. At the weekend I asked Niam to show me the monument to the Vietnam War. "'You mean the Resistance War against America,' he said. Of course I should have realized he wouldn’t call it the Vietnam War.
+I was eating my rice next to one of my local colleagues, a doctor named Niam, and. I asked him about his background. He told me he had been inside the Bat Mai Hospital when the bombs fell. Afterward, he had coordinated the unpacking of boxes and supplies that had arrived from all over the world.
 
-Niam drove me to one of the city’s central parks and showed me a small stone with a brass plate, three feet high. I thought it was a joke. The protests against the Vietnam War had united a generation of activists in the West. It had moved me to send blankets and medical equipment.
+I asked him if he remembered some yellow blankets, and. I got goosebumps as he described the fabrics pattern to me. It felt like we had been friends forever. At the weekend.
 
-More than 1.5 million Vietnamese and 58,000 Americans had died. Was this how the city commemorated such a catastrophe? Seeing that, I was disappointed. Niam drove me to see a bigger monument, a marble stone twelve feet high, to commemorate independence from French colonial rule.
+I asked Niam to show me the monument to the Vietnam War. "'You mean the Resistance War against America,' he said. Of course. I should have realized he wouldn’t call it the Vietnam War. Niam drove me to one of the city’s central parks and showed me a small stone with a brass plate, three feet high.
 
-I was still underwhelmed. Then Niam asked me if I was ready to see the proper war monument. He drove a little way further and pointed out of the window. Of the treetops I could see a large pagoda covered in gold.
+I thought it was a joke. The protests against the Vietnam War had united a generation of activists in the West. It had moved me to send blankets and medical equipment. More than 1.5 million Vietnamese and 58,000 Americans had died.
 
-It seemed about three hundred feet high. He said, “Here is where we commemorate our war heroes.” Isn’t it beautiful? This was the monument to Vietnam’s wars with China. The wars with China had lasted on and off for two thousand years.
+Was this how the city commemorated such a catastrophe? Seeing that, I was disappointed. Niam drove me to see a bigger monument, a marble stone twelve feet high, to commemorate independence from French colonial rule. I was still underwhelmed.
 
-The French occupation had lasted two hundred years. The resistance war against America took only twenty years. The sizes of the monuments put things in perfect proportion. It was only by comparing them that I could understand the relative insignificance of the Vietnam War to the people who now live in Vietnam.
+Then Niam asked me if. I was ready to see the proper war monument. He drove a little way further and pointed out of the window. Of the treetops.
+
+I could see a large pagoda covered in gold. It seemed about three hundred feet high.
+
+He said, “Here is where we commemorate our war heroes.” Isn’t it beautiful? This was the monument to Vietnam’s wars with China. The wars with China had lasted on and off for two thousand years. The French occupation had lasted two hundred years.
+
+The resistance war against America took only twenty years. The sizes of the monuments put things in perfect proportion. It was only by comparing them that. I could understand the relative insignificance of the Vietnam War to the people who now live in Vietnam.
 
 #### BEARS AND AXES.
 
@@ -1484,45 +1604,49 @@ I and others concluded this flu was not as aggressive as the first alarm had ind
 
 Over the same two-week period, I calculated that roughly 63,066 people had died of tuberculosis, TB. Almost all these people were on levels 1 and 2, where TB remains a major killer even though it can now be treated. But TB is infectious and TB strains can become resistant and kill many people on level 4. The news coverage for TB was at a rate of 0.1 article per death.
 
-Each swine flu death received 82,000 times more attention than each equally tragic death from TB. The 80-20 Rule It’s so easy to get things out of proportion, but luckily there are also some easy solutions. Whenever I have to compare lots of numbers and work out which are the most important, I use the simplest ever thinking tool. I look for the largest numbers.
+Each swine flu death received 82,000 times more attention than each equally tragic death from TB. The 80-20. Rule It’s so easy to get things out of proportion, but luckily there are also some easy solutions. Whenever.
 
-That is all there is to the 80-20 Rule. We tend to assume that all items on a list are equally important, but usually just a few of them are more important than all the others put together. Whether it is causes of death or items in a budget, I simply focus first on understanding those that make up 80% of the total. Before I spend time on the smaller ones, I ask myself, where are the 80%?
+I have to compare lots of numbers and work out which are the most important, I use the simplest ever thinking tool. I look for the largest numbers. That is all there is to the 80-20. Rule.
+
+We tend to assume that all items on a list are equally important, but usually just a few of them are more important than all the others put together. Whether it is causes of death or items in a budget, I simply focus first on understanding those that make up 80% of the total. Before. I spend time on the smaller ones, I ask myself, where are the 80%?
 
 Why are these so big? What are the implications?
 
 For example, here’s a list of the world’s energy sources in alphabetical order. Biofuels, coal, gas, geothermal, hydro, nuclear, oil, solar, wind. Presented like that, they all seem equally important. If we instead sort them according to how many units of energy they generate for humanity, three outnumber all the rest, oil, coal, and gas.
 
-To give myself the big picture, I would use the 80-20 Rule, which tells us that oil plus coal plus gas give us more than 80% of our energy. 87%, in fact. I first discovered how useful the 80-20 Rule is when I started to review aid projects for the Swedish government. In most budgets, around 20% of the line sum up to more than 80% of the total. You can save a lot of money by making sure you understand these lines first.
+To give myself the big picture, I would use the 80-20. Rule, which tells us that oil plus coal plus gas give us more than 80% of our energy. 87%, in fact. I first discovered how useful the 80-20. Rule is when.
 
-Doing just that is how I discovered that half the aid budget of a small health center in rural Vietnam was about to be spent on 2,000 of the wrong kind of surgical knives. It’s how I discovered that 100 times too much, 4 million liters of baby formula was about
+I started to review aid projects for the Swedish government. In most budgets, around 20% of the line sum up to more than 80% of the total. You can save a lot of money by making sure you understand these lines first. Doing just that is how.
+
+I discovered that half the aid budget of a small health center in rural Vietnam was about to be spent on 2,000 of the wrong kind of surgical knives. It’s how. I discovered that 100 times too much, 4 million liters of baby formula was about
 
 
 <a id="sec-042241"></a>
 ### ⏱️ [04:22:41 - 04:27:49]
 
-to be sent to a refugee camp in Algeria. And it is how I stopped 20,000 testicular prostheses from being sent to a small youth clinic in Nicaragua. In each case, I simply looked for the biggest single items, taking up 80% of the budget, then dug down into any that seemed unusual. In each case, the problem was due to a simple confusion or tiny error, such as a missing decimal point.
+to be sent to a refugee camp in Algeria. And it is how. I stopped 20,000 testicular prostheses from being sent to a small youth clinic in Nicaragua. In each case, I simply looked for the biggest single items, taking up 80% of the budget, then dug down into any that seemed unusual.
 
-The 80-20 rule is as easy as it seems. You just have to remember to use it. Here’s one more example. The pin code of the world. We can understand the world better, and make better decisions about it, if we know where the biggest proportion of the population lives now, and where it will live in the future.
+In each case, the problem was due to a simple confusion or tiny error, such as a missing decimal point. The 80-20 rule is as easy as it seems. You just have to remember to use it. Here’s one more example.
 
-Where is the world market? Where are the internet users? Where will tourists come from in the future? Where are most of the cargo ships going?
+The pin code of the world. We can understand the world better, and make better decisions about it, if we know where the biggest proportion of the population lives now, and where it will live in the future. Where is the world market? Where are the internet users?
 
-And so on. Fact Question 8. There are roughly 7 billion people in the world today. In what proportion are they spread across the globe?
+Where will tourists come from in the future? Where are most of the cargo ships going? And so on. Fact Question 8.
 
-This is one of the fact questions where people score best. They are almost as good as the chimps. Their answers are almost as good as random. By this point in the book, what looks like a great achievement?
+There are roughly 7 billion people in the world today. In what proportion are they spread across the globe? This is one of the fact questions where people score best. They are almost as good as the chimps.
 
-You see, it all depends on how you compare. 70% of people still pick a map showing 1 billion people on the wrong continent. 70% of people don’t know that the majority of mankind lives in Asia. If you really care about a sustainable future, or the plundering of our planet’s natural resources, or the global market, how can you afford to lose track of a billion people? The PIN code of the world is 1114. That’s how to remember it.
+Their answers are almost as good as random. By this point in the book, what looks like a great achievement? You see, it all depends on how you compare. 70% of people still pick a map showing 1 billion people on the wrong continent. 70% of people don’t know that the majority of mankind lives in Asia. If you really care about a sustainable future, or the plundering of our planet’s natural resources, or the global market, how can you afford to lose track of a billion people?
 
-From left to right, the number of billions as a PIN code. Americas 1, Europe 1, Africa 1, Asia 4. I have rounded the numbers. Like all PIN codes, this one will change.
+The PIN code of the world is 1114. That’s how to remember it. From left to right, the number of billions as a PIN code. Americas 1, Europe 1, Africa 1, Asia 4.
 
-By the end of this century, the UN expects there to have been almost no change in the Americas and Europe, but 3 billion more people in Africa, and 1 billion more in Asia. By 2100, the new PIN code of the world will be 1145. More than 80% of the world’s population will live in Africa and Asia. If the UN forecasts for population growth are correct, and if incomes in Asia and Africa keep growing as now, then the center of gravity of the world market will shift over the next 20 years from the Atlantic to the Indian Ocean.
+I have rounded the numbers. Like all PIN codes, this one will change. By the end of this century, the UN expects there to have been almost no change in the Americas and Europe, but 3 billion more people in Africa, and 1 billion more in Asia. By 2100, the new PIN code of the world will be 1145.
 
-Today, the people living in rich countries around the North Atlantic who represent 11% of the world population make up 60% of the level four consumer market. Already by 2027, if incomes keep growing worldwide as they are doing now, then that figure will have shrunk to 50%. By 2040, 60% of level four consumers will live outside the West. Yes, I think the Western domination of the world economy will soon be over.
+More than 80% of the world’s population will live in Africa and Asia. If the UN forecasts for population growth are correct, and if incomes in Asia and Africa keep growing as now, then the center of gravity of the world market will shift over the next 20 years from the Atlantic to the Indian Ocean. Today, the people living in rich countries around the North Atlantic who represent 11% of the world population make up 60% of the level four consumer market.
 
-People in North America and Europe need to understand that most of the world population lives in Asia. In terms of economic muscles, we are becoming the 20%, not the 80%. But many of us can’t fit these numbers into our nostalgic minds. Not only do we misjudge how big our war monument should be in Vietnam, we also misjudge our importance in the future global marketplace.
+Already by 2027, if incomes keep growing worldwide as they are doing now, then that figure will have shrunk to 50%. By 2040, 60% of level four consumers will live outside the West. Yes, I think the Western domination of the world economy will soon be over. People in North America and Europe need to understand that most of the world population lives in Asia.
 
-Many of us forget to behave properly with those who will control the future trade deals. Divide the numbers. Even the best thing we can do to make a large number more meaningful is to divide it by a total. In my work, often that total is the total population.
+In terms of economic muscles, we are becoming the 20%, not the 80%. But many of us can’t fit these numbers into our nostalgic minds. Not only do we misjudge how big our war monument should be in Vietnam, we also misjudge our importance in the future global marketplace. Many of us forget to behave properly with those who will control the future trade deals.
 
-When we divide an amount, say the number of children in Hong Kong, by another amount, say the number of schools in Hong Kong, we get a rate, children per school in Hong Kong.
+Divide the numbers. Even the best thing we can do to make a large number more meaningful is to divide it by a total. In my work, often that total is the total population. When we divide an amount, say the number of children in Hong Kong, by another amount, say the number of schools in Hong Kong, we get a rate, children per school in Hong Kong.
 
 
 <a id="sec-042749"></a>
@@ -1538,17 +1662,19 @@ So in 1950, out of every 100 babies who were born, 15 died before their first bi
 
 Out of every 100 babies born across the world, only three die before reaching the age of one. Wow! The infant mortality rate has changed from 15 percent to 3 percent. When we compare rates rather than amounts of dead children, the most recent number suddenly seems astonishingly low.
 
-Some people feel ashamed when doing this. doing this kind of math with human lives. I feel ashamed when not doing it. A lonely number always makes me suspicious that I will misinterpret it. A number that I have compared and divided can instead fill me with hope.
+Some people feel ashamed when doing this. doing this kind of math with human lives. I feel ashamed when not doing it. A lonely number always makes me suspicious that. I will misinterpret it.
 
-#### PER PERSON.
+A number that. I have compared and divided can instead fill me with hope.
 
-The forecasts show that it is China, India, and the other emerging economies that are increasing their carbon dioxide emissions at a speed that will cause dangerous climate change. In fact, China already admits more CO2 than the USA, and India already admits more than Germany. This outspoken statement came from an Environment Minister from a European Union country who was part of a panel discussing climate change at the World Economic Forum in Davos in January 2007. He made his attribution of blame in a neutral tone of voice, as if he were stating a self-evident fact.
+#### PER PERSON. The forecasts show that it is China, India, and the other emerging economies that are increasing their carbon dioxide emissions at a speed that will cause dangerous climate change.
 
-Had he been watching the faces of the Chinese and Indian panel members, he would have realized that his view was not self-evident at all. The Chinese expert looked angry but continued to stare straight ahead. The Indian expert, in contrast, could not sit still. He waved his arm and could barely wait for the moderator’s signal that he could speak.
+In fact, China already admits more CO2 than the USA, and India already admits more than Germany. This outspoken statement came from an Environment Minister from a European Union country who was part of a panel discussing climate change at the World Economic Forum in Davos in January 2007. He made his attribution of blame in a neutral tone of voice, as if he were stating a self-evident fact. Had he been watching the faces of the Chinese and Indian panel members, he would have realized that his view was not self-evident at all.
 
-He stood up. There was a short silence, while he looked into the face of each panel member. His elegant dark blue turban, an expensive-looking dark grey suit, and the way he was behaving in his moment of outrage, confirmed his status as one of India’s highest-ranking civil servants with many years' experience as a lead expert at the World Bank and the International Monetary Fund.
+The Chinese expert looked angry but continued to stare straight ahead. The Indian expert, in contrast, could not sit still. He waved his arm and could barely wait for the moderator’s signal that he could speak. He stood up.
 
-He made a sweeping gesture toward the panel members from the rich nations and then said loudly and accusingly, “'It was you, the richest nations, that put us all in this delicate situation. You have been burning increasing amounts of coal and oil for more than a century. You and only you pushed us to the brink of climate change.” Then he suddenly changed posture, put his palms together in an Indian greeting, bowed, and almost whispered in a very kind voice, "'But we forgive you, because you did not know what you were doing.
+There was a short silence, while he looked into the face of each panel member. His elegant dark blue turban, an expensive-looking dark grey suit, and the way he was behaving in his moment of outrage, confirmed his status as one of India’s highest-ranking civil servants with many years' experience as a lead expert at the World Bank and the International Monetary Fund.
+
+He made a sweeping gesture toward the panel members from the rich nations and then said loudly and accusingly, “'It was you, the richest nations, that put us all in this delicate situation. You have been burning increasing amounts of coal and oil for more than a century. You and only you pushed us to the brink of climate change.”. Then he suddenly changed posture, put his palms together in an Indian greeting, bowed, and almost whispered in a very kind voice, "'But we forgive you, because you did not know what you were doing.
 
 We should never blame someone retrospectively for harm they were unaware of.' Then he striking up and delivered his final remark as a judge giving his verdict, emphasizing
 
@@ -1558,27 +1684,29 @@ We should never blame someone retrospectively for harm they were unaware of.' Th
 
 each word by slowly moving his raised index finger. But from now on we count carbon dioxide emission per person. I couldn’t have agreed more. I had for some time been appalled by the systematic blaming of climate change on China and India based on total emissions per nation.
 
-It was like claiming that obesity was worse in China than in the United States because the total body weight of the Chinese population was higher than that of the U. S. population. Arguing about emissions per nation was pointless when there was such enormous variation in population size. By this logic Norway, with its population of five million, could be emitting almost any amount of carbon dioxide per person. In this case the large numbers, total emissions per nation, needed to be divided by the population of each country to give meaningful and comparable measures.
+It was like claiming that obesity was worse in China than in the United States because the total body weight of the Chinese population was higher than that of the U. S. population. Arguing about emissions per nation was pointless when there was such enormous variation in population size. By this logic Norway, with its population of five million, could be emitting almost any amount of carbon dioxide per person.
 
-When measuring HIV, GDP, mobile phone sales, Internet users or CO2 emissions, a per capita measurement, that is, a rate per person, will almost always be more meaningful. It’s dangerous out there. The safest lives in history are lived today by people on level four. Most preventable risks have been eliminated.
+In this case the large numbers, total emissions per nation, needed to be divided by the population of each country to give meaningful and comparable measures. When measuring HIV, GDP, mobile phone sales, Internet users or CO2 emissions, a per capita measurement, that is, a rate per person, will almost always be more meaningful. It’s dangerous out there. The safest lives in history are lived today by people on level four.
 
-Still, many walk around feeling worried. They worry about all kinds of dangers out there. Natural disasters kill so many people, diseases spread and airplanes crash. They all happen all the time out there beyond the horizon.
+Most preventable risks have been eliminated. Still, many walk around feeling worried. They worry about all kinds of dangers out there. Natural disasters kill so many people, diseases spread and airplanes crash.
 
-It’s a bit strange, isn’t it? Such terrifying things rarely happen here, in this safe place where we live. But out there they seem to happen every day. Remember though, out there is the sum of millions of places.
+They all happen all the time out there beyond the horizon. It’s a bit strange, isn’t it? Such terrifying things rarely happen here, in this safe place where we live. But out there they seem to happen every day.
 
-Where you live is just one place. Of course more bad things happen out there. Out there is much bigger than here. So even if all the places out there were just as safe as your place, hundreds of terrible events would still happen there.
+Remember though, out there is the sum of millions of places. Where you live is just one place. Of course, more bad things happen out there. Out there is much bigger than here.
 
-If you could keep track of each separate place though, you would be surprised how peaceful most of them were. Each of them shows up on your screen only on that single day when something terrible happens. All the other days you don’t hear about them. Compare and divide.
+So even if all the places out there were just as safe as your place, hundreds of terrible events would still happen there. If you could keep track of each separate place though, you would be surprised how peaceful most of them were. Each of them shows up on your screen only on that single day when something terrible happens. All the other days you don’t hear about them.
 
-When I see a lonely number in a news report, it always triggers an alarm. What should this lonely number be compared to? What was that number a year ago? Ten years ago.
+Compare and divide. When. I see a lonely number in a news report, it always triggers an alarm. What should this lonely number be compared to?
 
-What is it in a comparable country or region? And what should it be divided by? What is the total of which this is a part? What would this be per person?
+What was that number a year ago? Ten years ago. What is it in a comparable country or region? And what should it be divided by?
 
-I compare the rates and only then do I decide whether it really is an important number. Factfulness. Factfulness is recognizing when a lonely number seems impressive, small or large, and remembering that you could get the opposite impression if it were compared with or divided by some other relevant number. To control the size instinct, get things in proportion.
+What is the total of which this is a part? What would this be per person? I compare the rates and only then do. I decide whether it really is an important number.
 
-Compare. Big numbers always look big. Single numbers on their own are misleading and should make you suspicious. Always look for comparisons, ideally divide by something. 80-20.
+Factfulness. Factfulness is recognizing when a lonely number seems impressive, small or large, and remembering that you could get the opposite impression if it were compared with or divided by some other relevant number. To control the size instinct, get things in proportion. Compare.
 
-Have you been given a long list? Look for the few largest items and deal with them first.
+Big numbers always look big. Single numbers on their own are misleading and should make you suspicious. Always look for comparisons, ideally divide by something. 80-20. Have you been given a long list?
+
+Look for the few largest items and deal with them first.
 
 
 <a id="sec-043757"></a>
@@ -1588,55 +1716,63 @@ They are quite likely more important than all the others put together. Divide. A
 
 In particular, look for rates per person when comparing between countries or regions.
 
-#### Chapter 6. The Generalization Instinct. Why I had to lie about the Danes and how it can be smart to build half a house. Dinner is served.
+#### Chapter 6. The Generalization Instinct. Why. I had to lie about the Danes and how it can be smart to build half a house.
 
-An orange sun was setting behind the acacia trees on the savannah of the Bandundu region south of the Congo River. Half a day’s walk from the end of the paved road. This is where you find the people who live in extreme poverty. They are stuck behind that mountain, beyond where the road ends.
+Dinner is served. An orange sun was setting behind the acacia trees on the savannah of the Bandundu region south of the Congo River. Half a day’s walk from the end of the paved road. This is where you find the people who live in extreme poverty.
 
-My colleague Torquille and I spent the day interviewing the people in this remote village about their nutrition, and now they wanted to throw us a party. No one had ever walked so far to ask them about their problems. As Swedish villagers would have done a hundred years ago, they were demonstrating their gratitude and respect by serving their guests the biggest piece of meat they could find. The entire village was gathered in a circle around Torquille and me as we were presented with our plates.
+They are stuck behind that mountain, beyond where the road ends. My colleague Torquille and. I spent the day interviewing the people in this remote village about their nutrition, and now they wanted to throw us a party. No one had ever walked so far to ask them about their problems.
 
-On top of two large green leaves lay two whole-skinned, grilled rats. I thought I might throw up. Then I noticed that Torquille had already started eating. We were both very hungry after a whole day’s work with no food.
+As Swedish villagers would have done a hundred years ago, they were demonstrating their gratitude and respect by serving their guests the biggest piece of meat they could find. The entire village was gathered in a circle around Torquille and me as we were presented with our plates. On top of two large green leaves lay two whole-skinned, grilled rats. I thought.
 
-I looked around at the villagers who were smiling at me expectantly. I had to eat it, and I did. It was actually not that bad. It tasted a bit like chicken.
+I might throw up. Then. I noticed that Torquille had already started eating. We were both very hungry after a whole day’s work with no food.
 
-To be polite, I tried to look happy as I swallowed it down. Then it was time for dessert. Another plate full of big white larvas from the palm nut tree. And I do mean big.
+I looked around at the villagers who were smiling at me expectantly. I had to eat it, and. I did. It was actually not that bad.
 
-Each one was longer and thicker than my thumb and had been lightly fried in its own fat. But I wondered, had they been too lightly fried? Because they seemed to be moving, the villagers were proud to offer us such a delicious treat. Remember, I am a sword-swallower.
+It tasted a bit like chicken. To be polite, I tried to look happy as. I swallowed it down. Then it was time for dessert.
 
-I should be able to push anything down my throat, and I am not usually a fussy eater. I had even once eaten porridge made from mosquitoes. But no, this I couldn’t do. The heads of the larvas looked like little brown nuts and their thick bodies like transparent wrinkled marshmallows through which I could see their intestines.
+Another plate full of big white larvas from the palm nut tree. And. I do mean big. Each one was longer and thicker than my thumb and had been lightly fried in its own fat.
 
-The villagers gestured that I should bite them into and suck out the insides. If I tried, I would puke the rat back up. I did not want to offend.
+But. I wondered, had they been too lightly fried? Because they seemed to be moving, the villagers were proud to offer us such a delicious treat. Remember, I am a sword-swallower.
 
-Suddenly an idea. I smiled softly and said regretfully, you know what, I am sorry, but I can’t eat larvas. Torquille turned to me surprised. He already had a couple of larvas hanging out of the corners of his mouth.
+I should be able to push anything down my throat, and. I am not usually a fussy eater. I had even once eaten porridge made from mosquitoes. But no, this.
 
-He really loved those larvas. He had previously worked as a missionary in Congo, where they had been the highlight of every week for one whole year. You see, we don’t eat larvas, I said, trying to look convincing. The villagers looked at Torquille.
+I couldn’t do. The heads of the larvas looked like little brown nuts and their thick bodies like transparent wrinkled marshmallows through which. I could see their intestines. The villagers gestured that.
 
-But he eats them, they asked. Torquille stared at me. Ah, I said. You see, he comes from a different tribe.
+I should bite them into and suck out the insides. If. I tried, I would puke the rat back up. I did not want to offend.
 
-I come from Sweden. He comes from Denmark. In Denmark they love eating larvas. But in Sweden it’s against our culture.
+Suddenly, an idea. I smiled softly and said regretfully, you know what, I am sorry, but. I can’t eat larvas. Torquille turned to me surprised.
 
-The village teacher went and got out the world map and I pointed out the water separating our two countries. On this side of the water they eat larvas, I said.
+He already had a couple of larvas hanging out of the corners of his mouth. He really loved those larvas. He had previously worked as a missionary in Congo, where they had been the highlight of every week for one whole year. You see, we don’t eat larvas, I said, trying to look convincing.
+
+The villagers looked at Torquille. But he eats them, they asked. Torquille stared at me. Ah, I said.
+
+You see, he comes from a different tribe. I come from Sweden. He comes from Denmark. In Denmark they love eating larvas.
+
+But in Sweden it’s against our culture. The village teacher went and got out the world map and. I pointed out the water separating our two countries. On this side of the water they eat larvas, I said.
 
 
 <a id="sec-044300"></a>
 ### ⏱️ [04:43:00 - 04:48:03]
 
-And on this side we don’t. It’s actually one of the most blatant lies I have ever told. But it worked. The villagers were happy to share my dessert between them.
+And on this side we don’t. It’s actually one of the most blatant lies. I have ever told. But it worked.
 
-Everyone, everywhere, knows that people from different tribes have different customs. The generalization instinct. Everyone automatically categorizes and generalizes all the time, unconsciously. It is not a question of being prejudiced or enlightened. Categories are absolutely necessary for us to function.
+The villagers were happy to share my dessert between them. Everyone, everywhere, knows that people from different tribes have different customs. The generalization instinct. Everyone automatically categorizes and generalizes all the time, unconsciously.
 
-They give structure to our thoughts. Imagine if we saw every item in every scenario as truly unique. We would not even have a language to describe the world around us. The necessary and useful instinct to generalize, like all the other instincts in this book, can also distort our world view.
+It is not a question of being prejudiced or enlightened. Categories are absolutely necessary for us to function. They give structure to our thoughts. Imagine if we saw every item in every scenario as truly unique.
 
-It can make us mistakenly group together things, or people, or countries that are actually very different. It can make us assume everything or everyone in one category is similar, and maybe most unfortunate of all, it can make us jump to conclusions about a whole category based on a few or even just one unusual example. Once again the media is the instinct’s friend. Finding generalizations and stereotypes act as a kind of shorthand for the media, providing quick and easy ways to communicate.
+We would not even have a language to describe the world around us. The necessary and useful instinct to generalize, like all the other instincts in this book, can also distort our world view. It can make us mistakenly group together things, or people, or countries that are actually very different. It can make us assume everything or everyone in one category is similar, and maybe most unfortunate of all, it can make us jump to conclusions about a whole category based on a few or even just one unusual example.
 
-Here are just a few examples from today’s newspaper, Rural Life, Middle Class, Super Mom, Gang Member. When many people become aware of problematic generalization, it is called a stereotype. Most commonly, people talk about race and gender stereotyping. These cause many very important problems, but they are not the only problems caused by wrong generalizations.
+Once again the media is the instinct’s friend. Finding generalizations and stereotypes act as a kind of shorthand for the media, providing quick and easy ways to communicate. Here are just a few examples from today’s newspaper, Rural Life, Middle Class, Super Mom, Gang Member. When many people become aware of problematic generalization, it is called a stereotype.
 
-Wrong generalizations are mind blockers for all kinds of understanding. The gap instinct divides the world into us and them, and the generalization instinct makes us think of them as all the same. Are you working for a commercial company on level four? There’s a great risk you’re missing the majority of your potential consumers and producers because of your generalizations.
+Most commonly, people talk about race and gender stereotyping. These cause many very important problems, but they are not the only problems caused by wrong generalizations. Wrong generalizations are mind blockers for all kinds of understanding. The gap instinct divides the world into us and them, and the generalization instinct makes us think of them as all the same.
 
-Are you working in finance in a big bank? There’s a great risk you are investing your clients' money in the wrong places because you’re bundling together people who are vastly different. Fact question nine. How many of the world’s one-year-old children today have been vaccinated against some disease?
+Are you working for a commercial company on level four? There’s a great risk you’re missing the majority of your potential consumers and producers because of your generalizations. Are you working in finance in a big bank? There’s a great risk you are investing your clients' money in the wrong places because you’re bundling together people who are vastly different.
 
-A. 20%, B. 50%, C. 80%. To compare ignorance between different kinds of experts, the regular polling companies couldn’t help me. They don’t have access to the staff of big corporations and government organizations. That’s one reason I started polling my audience at the start of my lectures.
+Fact question nine. How many of the world’s one-year-old children today have been vaccinated against some disease? A. 20%, B. 50%, C. 80%. To compare ignorance between different kinds of experts, the regular polling companies couldn’t help me.
 
-I have tested a total of 12,596 people at 108 lectures over the last five years. The worst results came from an annual gathering of global finance managers at the headquarters of one of the world’s ten largest banks. I have visited three of them. I can’t tell you which one this was because I signed a piece of paper.
+They don’t have access to the staff of big corporations and government organizations. That’s one reason. I started polling my audience at the start of my lectures. I have tested a total of 12,596 people at 108 lectures over the last five years.
+
+The worst results came from an annual gathering of global finance managers at the headquarters of one of the world’s ten largest banks. I have visited three of them. I can’t tell you which one this was because. I signed a piece of paper.
 
 A roaring 85% of the 71 well-dressed bankers in the room believed that a minority of the world’s children had been vaccinated, an extremely wrong answer. Vaccines must be kept cold all the way from the factory to the arm of the child. They are shipped in refrigerated containers to harbors around the world where they get loaded into refrigerated trucks. These trucks take them to local health clinics where they are stored in refrigerators.
 
@@ -1650,21 +1786,23 @@ The fact that 88% are vaccinated, but major financial investors believe it is on
 
 Are you perhaps recalling the most vivid and disturbing images from the news? I think that is exactly what’s going on when people on level 4 answer this badly on this kind of fact question. The extreme deprivation we see on the news ends up stereotyping the majority of mankind. Every pregnancy results in roughly two years of lost menstruation.
 
-If you’re a manufacturer of menstrual pads, this is bad for business. So you ought to know about and be happy about the drop in babies per woman across the world. You ought to know and be happy too about the growth in the number of educated women working away from home, because these developments have created an exploding market for your products over the last few decades among billions of menstruating women now living on levels 2 and 3. But as I realized when I attended an internal meeting at one of the world’s biggest manufacturers of sanitary wear, most Western manufacturers have completely missed this.
+If you’re a manufacturer of menstrual pads, this is bad for business. So you ought to know about and be happy about the drop in babies per woman across the world. You ought to know and be happy too about the growth in the number of educated women working away from home, because these developments have created an exploding market for your products over the last few decades among billions of menstruating women now living on levels 2 and 3.
 
-Instead, when hunting for new customers, they are often stuck dreaming up new needs among the 300 million menstruating women on level 4. What if we market an even thinner pad for bikinis? What about pads that are invisible to wear under lycra? How about one pad for each kind of outfit, each situation, each sport?
+But as. I realized when. I attended an internal meeting at one of the world’s biggest manufacturers of sanitary wear, most Western manufacturers have completely missed this. Instead, when hunting for new customers, they are often stuck dreaming up new needs among the 300 million menstruating women on level 4.
 
-Special pads for mountain climbers? Ideally, all the pads are so small they need to be replaced several times a day. But like most rich consumer markets, the basic needs are already met and producers fight in vain to create demand in ever smaller segments.
+What if we market an even thinner pad for bikinis? What about pads that are invisible to wear under lycra? How about one pad for each kind of outfit, each situation, each sport? Special pads for mountain climbers?
+
+Ideally, all the pads are so small they need to be replaced several times a day. But like most rich consumer markets, the basic needs are already met and producers fight in vain to create demand in ever smaller segments.
 
 Meanwhile, on levels 2 and 3, roughly 2 billion menstruating women have few alternatives to choose from. These women don’t wear lycra and won’t spend money on ultra-thin pads. They demand a low-cost pad that will be reliable throughout the day, so they don’t have to change it when they are out at work. And when they find a product they like, they will probably stick to that brand for their whole lives and recommend it to their daughters.
 
-The same logic applies to many other consumer products, and I have given hundreds of lectures to business leaders making this same point. The majority of the world population is steadily moving up the levels. The number of people on level 3 will increase from 2 billion to 4 billion between now and 2040. Almost everyone in the world is becoming a consumer.
+The same logic applies to many other consumer products, and. I have given hundreds of lectures to business leaders making this same point. The majority of the world population is steadily moving up the levels. The number of people on level 3 will increase from 2 billion to 4 billion between now and 2040.
 
-If you suffer from the misconception that most of the world is still too poor to buy anything at all, you risk missing out on the biggest economic opportunity in world history while you use your marketing spend to push special yoga pads to wealthy hipsters in the biggest cities in Europe. Strategic business planners need a fact-based worldview to find their future customers. Reality Bites You need the generalization instinct to live your everyday life, and occasionally it can save you from having to eat something disgusting.
+Almost everyone in the world is becoming a consumer. If you suffer from the misconception that most of the world is still too poor to buy anything at all, you risk missing out on the biggest economic opportunity in world history while you use your marketing spend to push special yoga pads to wealthy hipsters in the biggest cities in Europe. Strategic business planners need a fact-based worldview to find their future customers. Reality Bites.
 
-We always need categories. The challenge is to realize which of our simple categories are misleading, like developed and developing countries, and replace them with better categories like the four levels. One of the best ways to do this is to travel if you possibly can. That’s why I made my global health students from the Karolinska Institute, the medical university in Stockholm, go on study visits to countries on levels 1, 2, and 3, where they attended university courses, visited hospitals, and stayed with local families.
+You need the generalization instinct to live your everyday life, and occasionally it can save you from having to eat something disgusting. We always need categories. The challenge is to realize which of our simple categories are misleading, like developed and developing countries, and replace them with better categories like the four levels. One of the best ways to do this is to travel if you possibly can.
 
-Nothing beats a first-hand experience. Those students are usually privileged young Swedes who want to do good in the world, but don’t really know the world.
+That’s why. I made my global health students from the Karolinska Institute, the medical university in Stockholm, go on study visits to countries on levels 1, 2, and 3, where they attended university courses, visited hospitals, and stayed with local families. Nothing beats a first-hand experience. Those students are usually privileged young Swedes who want to do good in the world, but don’t really know the world.
 
 
 <a id="sec-045305"></a>
@@ -1686,15 +1824,15 @@ Our host, the head of the intensive care unit, pressed the button for the sixth 
 
 Everything then happened very quickly. The doors just continued to close tightly around my student’s leg. She cried out in pain and fear. The elevator started moving upward.
 
-She cried out louder. Just as I realized this young woman’s leg was going to get crushed against the top of the doorway, our host leapt across the elevator and hit the red emergency stop button. He hissed at me to help, and between us we prized the doors far enough apart to release my student’s bleeding limb.
+She cried out louder. Just as. I realized this young woman’s leg was going to get crushed against the top of the doorway, our host leapt across the elevator and hit the red emergency stop button. He hissed at me to help, and between us we prized the doors far enough apart to release my student’s bleeding limb.
 
-Afterward our host looked at me and said, “I have never seen that before!” How can you admit such stupid people for medical training? I explained that all elevators in Sweden had sensors on the doors. If something was put between them, they would instantaneously stop closing and open instead. The Indian doctor looked doubtful.
+Afterward our host looked at me and said, “I have never seen that before!”. How can you admit such stupid people for medical training? I explained that all elevators in Sweden had sensors on the doors. If something was put between them, they would instantaneously stop closing and open instead.
 
-But how can you be sure that this advanced mechanism is working every single time? I felt stupid with my reply. It just always does. I suppose it’s because there are strict safety rules and regular inspections.
+The Indian doctor looked doubtful. But how can you be sure that this advanced mechanism is working every single time? I felt stupid with my reply. It just always does.
 
-He didn’t look convinced. Hmm. So your country has become so safe that when you go abroad, the world is dangerous for you. I can assure you that the young woman was not all that stupid.
+I suppose it’s because there are strict safety rules and regular inspections. He didn’t look convinced. Hmm. So your country has become so safe that when you go abroad, the world is dangerous for you.
 
-She had simply and unwisely generalized from her own level-four experience of elevators to all elevators in all countries. On the last day we have a little ceremony to say good-bye where I sometimes learn something about the generalizations other people make about us.
+I can assure you that the young woman was not all that stupid. She had simply and unwisely generalized from her own level-four experience of elevators to all elevators in all countries. On the last day we have a little ceremony to say good-bye where. I sometimes learn something about the generalizations other people make about us.
 
 
 <a id="sec-045814"></a>
@@ -1704,53 +1842,57 @@ On this particular occasion in India, my female students arrived on time, beauti
 
 India’s leading professor of forensic medicine leaned over to me and whispered, “I hear you have love marriages in your country, but that must be a lie.” Look at these men. What woman would marry them if their parents didn’t make them? When visiting reality in other countries and not just the backpacker cafes, you realize that generalizing from what is normal in your home environment can be useless or even dangerous. My first time.
 
-I do not mean to sound critical about my students. I am no better myself. In 1972, as a fourth year medical student, I studied at the medical school in Bangalore. The first class I attended was on examining kidney x-rays.
+I do not mean to sound critical about my students. I am no better myself. In 1972, as a fourth year medical student, I studied at the medical school in Bangalore. The first class.
 
-Looking at the first image, I realized, this must be kidney cancer. I decided to wait a while before telling the class out of respect. I didn’t want to show off. Several hands then went into the air, and the Indian students one by one explained how best to diagnose this cancer, how and where it usually spreads, and how best to treat it.
+I attended was on examining kidney x-rays. Looking at the first image, I realized, this must be kidney cancer. I decided to wait a while before telling the class out of respect. I didn’t want to show off.
 
-On and on they went for thirty minutes. Answering questions. I thought only chief physicians knew. I realized my embarrassing mistake.
+Several hands then went into the air, and the Indian students one by one explained how best to diagnose this cancer, how and where it usually spreads, and how best to treat it. On and on they went for thirty minutes. Answering questions. I thought only chief physicians knew.
 
-I must have come to the wrong room. These must not be fourth-year students. These must be specialists. I had nothing to add to their analysis.
+I realized my embarrassing mistake. I must have come to the wrong room. These must not be fourth-year students. These must be specialists.
 
-On our way out I told a fellow student I was supposed to be with the fourth-years. That’s us, he said. I was stunned. They had cast marks on their foreheads and lived where exotic palm trees grew.
+I had nothing to add to their analysis. On our way out. I told a fellow student. I was supposed to be with the fourth-years.
 
-How could they know much more than me? Over the next few days I learned that they had a textbook three times as thick as mine, and they had read it three times as many times. I remembered this whole experience as the first time in my life that I suddenly had to change my worldview, my assumption that I was superior because of where I came from, the idea that the West was the best and the rest would never catch up. At that moment, forty-five years ago, I understood that the West would not dominate the world for much longer.
+That’s us, he said. I was stunned. They had cast marks on their foreheads and lived where exotic palm trees grew. How could they know much more than me?
 
-How to Control the Generalization Instinct If you can’t travel, please do not worry. There are other ways to avoid using wrong categories. Find better categories. Dollar Street Anna would always insist that the trips I did with my students were a naive and unrealistic way to teach most people about the world.
+Over the next few days. I learned that they had a textbook three times as thick as mine, and they had read it three times as many times. I remembered this whole experience as the first time in my life that. I suddenly had to change my worldview, my assumption that.
 
-Few people wanted to spend their hard-earned money travelling to far-flung places only to try a pit latrine, and experience the unglamorous everyday life on levels one, two, or three, far from the beach, the great cuisine and bars and the fairy-tale-like wildlife. Most people were just as uninterested in studying the data about global trends and proportions. And anyway, even looking at the data, it was pretty hard to understand what it meant for everyday life on different levels. Photos from Dollar Street, a project that Anna developed, can help teach armchair travellers about the world.
+I was superior because of where. I came from, the idea that the West was the best and the rest would never catch up. At that moment, forty-five years ago, I understood that the West would not dominate the world for much longer. How to Control the Generalization Instinct.
 
-Now you can understand how people live without leaving your home. Imagine all the homes in the world lined up on one long street, sorted by income. The poorest live at the left end of the street, and the richest live at the right end. Everybody else?
+If you can’t travel, please do not worry. There are other ways to avoid using wrong categories. Find better categories. Dollar Street Anna would always insist that the trips.
 
-Of course, you know it by now. Most people live somewhere in the middle. Your house number on this street represents your income. Your neighbours on Dollar Street are people from all over the world, with the same income as you.
+I did with my students were a naive and unrealistic way to teach most people about the world. Few people wanted to spend their hard-earned money travelling to far-flung places only to try a pit latrine, and experience the unglamorous everyday life on levels one, two, or three, far from the beach, the great cuisine and bars and the fairy-tale-like wildlife. Most people were just as uninterested in studying the data about global trends and proportions. And anyway, even looking at the data, it was pretty hard to understand what it meant for everyday life on different levels.
 
-Anna has so far sent photographers out to visit about 300 families in more than 50 countries.
+Photos from Dollar Street, a project that Anna developed, can help teach armchair travellers about the world. Now you can understand how people live without leaving your home. Imagine all the homes in the world lined up on one long street, sorted by income. The poorest live at the left end of the street, and the richest live at the right end.
+
+Everybody else? Of course, you know it by now. Most people live somewhere in the middle. Your house number on this street represents your income.
+
+Your neighbours on Dollar Street are people from all over the world, with the same income as you. Anna has so far sent photographers out to visit about 300 families in more than 50 countries.
 
 
 <a id="sec-050317"></a>
 ### ⏱️ [05:03:17 - 05:08:18]
 
-Their photos document how people eat, sleep, brush their teeth and prepare food. They capture what their homes are made of, how they heat and light their homes, their everyday items like toilets and stoves, and in total more than 130 different aspects of their daily lives. We could fill a whole book with images showing the striking similarities between the lives of people living on the same incomes in different countries, and the huge differences in how people live within countries. We have over 40,000 photos.
+Their photos document how people eat, sleep, brush their teeth and prepare food. They capture what their homes are made of, how they heat and light their homes, their everyday items like toilets and stoves, and in total more than 130 different aspects of their daily lives. We could fill a whole book with images showing the striking similarities between the lives of people living on the same incomes in different countries, and the huge differences in how people live within countries.
 
-You can visit Dollar Street at www.dollarstreet.org. What the photos make clear is that the main factor that affects how people live is not their religion, their culture, or the country they live in, but their income. On level one, you brush your teeth with a finger or a stick. On level two, you get a plastic toothbrush.
+We have over 40,000 photos. You can visit Dollar Street at www.dollarstreet.org. What the photos make clear is that the main factor that affects how people live is not their religion, their culture, or the country they live in, but their income. On level one, you brush your teeth with a finger or a stick.
 
-On level three, you get one each. And level four, electric toothbrushes for everyone. The bedrooms or kitchens or living rooms of families living on level four look very similar in the United States, Vietnam, Mexico, South Africa, or anywhere else in the world. The way a family living on level two in China stores and prepares food looks very similar to the way a family living on level two in Nigeria stores and prepares food.
+On level two, you get a plastic toothbrush. On level three, you get one each. And level four, electric toothbrushes for everyone. The bedrooms or kitchens or living rooms of families living on level four look very similar in the United States, Vietnam, Mexico, South Africa, or anywhere else in the world.
 
-In fact, when you are one of the three billion people living on level two, whether you live in the Philippines, Colombia, or Liberia, the basic facts about your life are quite similar. Your house has a patchwork roof, so if it’s raining, you might well get wet and cold. When you go to the toilet in the morning, it is smelly and full of flies, but at least there are some walls to give you some privacy. You eat the same for almost every meal, every day of the week.
+The way a family living on level two in China stores and prepares food looks very similar to the way a family living on level two in Nigeria stores and prepares food. In fact, when you are one of the three billion people living on level two, whether you live in the Philippines, Colombia, or Liberia, the basic facts about your life are quite similar. Your house has a patchwork roof, so if it’s raining, you might well get wet and cold.
 
-You dream about food that is more varied and more delicious. The light flickers because the electricity is unstable. You have to rely on moonlight on the nights when the power is out. You secure the door using a padlock.
+When you go to the toilet in the morning, it is smelly and full of flies, but at least there are some walls to give you some privacy. You eat the same for almost every meal, every day of the week. You dream about food that is more varied and more delicious. The light flickers because the electricity is unstable.
 
-When you go to bed in the evening, you might brush your teeth with the same toothbrush as the rest of the family. You dream about the day when you don’t have to share your toothbrush with grandma anymore. In the media, we see photos of everyday life on level four and crisis on the other levels all the time. Google, toilet, bed, or stove.
+You have to rely on moonlight on the nights when the power is out. You secure the door using a padlock. When you go to bed in the evening, you might brush your teeth with the same toothbrush as the rest of the family. You dream about the day when you don’t have to share your toothbrush with grandma anymore.
 
-You will get images from level four. If you want to see what everyday life is like on other levels, Google won’t help. Question your categories. It will be helpful to you if you always assume your categories are misleading.
+In the media, we see photos of everyday life on level four and crisis on the other levels all the time. Google, toilet, bed, or stove. You will get images from level four. If you want to see what everyday life is like on other levels, Google won’t help.
 
-Here are five powerful ways to keep questioning your favorite categories. Look for differences within and similarities across groups. Beware of the majority. Beware of exceptional examples.
+Question your categories. It will be helpful to you if you always assume your categories are misleading. Here are five powerful ways to keep questioning your favorite categories. Look for differences within and similarities across groups.
 
-Assume you are not normal and beware of generalizing from one group to another. Look for differences within groups and similarities across groups. Country stereotypes simply fall apart when you look at the huge differences within countries and the equally huge similarities between countries on the same income level, independent of culture or religion. Remember the similarities between the cooking pots of families on level two in Nigeria and China?
+Beware of the majority. Beware of exceptional examples. Assume you are not normal and beware of generalizing from one group to another. Look for differences within groups and similarities across groups.
 
-If you saw just a picture from China, you would probably think, oh, that’s how they heat water in China in an iron pot on a tripod over a fire. That’s their culture. No, it is a common way to heat water on level two all over the world. It’s a question of income, and in China as elsewhere, people also cook in several other ways depending not on their culture but on their income level.
+Country stereotypes simply fall apart when you look at the huge differences within countries and the equally huge similarities between countries on the same income level, independent of culture or religion. Remember the similarities between the cooking pots of families on level two in Nigeria and China? If you saw just a picture from China, you would probably think, oh, that’s how they heat water in China in an iron pot on a tripod over a fire. That’s their culture.
 
-When someone says that an individual did something because they belong to some group, a nation, a culture, a religion, take care. Are there examples of different behavior in the same group or of the same behavior
+No, it is a common way to heat water on level two all over the world. It’s a question of income, and in China as elsewhere, people also cook in several other ways depending not on their culture but on their income level. When someone says that an individual did something because they belong to some group, a nation, a culture, a religion, take care. Are there examples of different behavior in the same group or of the same behavior
 
 
 <a id="sec-050818"></a>
@@ -1768,17 +1910,17 @@ Or does it mean a little over half? The reality differs widely from one country 
 
 But in Haiti and Liberia, the majority means just 69 percent. And in Angola, it means only 63 percent. Beware of exceptional examples. Beware of exceptional examples used to make a point about a whole group.
 
-Chemophobia, the fear of chemicals, is driven by generalizations from a few vivid but exceptional examples of harmful substances. Some people become frightened of all chemicals. But remember that everything is made from chemicals, all natural things, and all industrial products. Here are some of my favorites that I would rather not live without.
+Chemophobia, the fear of chemicals, is driven by generalizations from a few vivid but exceptional examples of harmful substances. Some people become frightened of all chemicals. But remember that everything is made from chemicals, all natural things, and all industrial products. Here are some of my favorites that.
 
-Soap, cement, plastic, washing detergent, toilet paper, and antibiotics. If someone offers you a single example and wants to draw conclusions about a group, ask for more examples or flip it over. That is, ask whether an opposite example would make you draw the opposite conclusion. If you are happy to conclude that all chemicals are unsafe on the basis of one unsafe chemical, would you be prepared to conclude that all chemicals are safe on the basis of one safe chemical?
+I would rather not live without. Soap, cement, plastic, washing detergent, toilet paper, and antibiotics. If someone offers you a single example and wants to draw conclusions about a group, ask for more examples or flip it over. That is, ask whether an opposite example would make you draw the opposite conclusion.
 
-Assume you are not normal and other people are not idiots. To avoid getting your leg crushed in an elevator and other bad mistakes, stay open to the possibility that your experience might not be normal. Be cautious about generalizing from level four experiences to the rest of the world, especially if it leads you to the conclusion that other people are idiots. If you were to visit Tunisia, a country where you find people living on every level from one to four, you might come across homes that were half built.
+If you are happy to conclude that all chemicals are unsafe on the basis of one unsafe chemical, would you be prepared to conclude that all chemicals are safe on the basis of one safe chemical? Assume you are not normal and other people are not idiots. To avoid getting your leg crushed in an elevator and other bad mistakes, stay open to the possibility that your experience might not be normal. Be cautious about generalizing from level four experiences to the rest of the world, especially if it leads you to the conclusion that other people are idiots.
 
-You might conclude that Tunisians were lazy or disorganized. You can visit the Salhi family on Dollar Street and see how they live. Mabruk is fifty-two years old and is a gardener. His wife, Jameela, is forty-four years old and runs a home-based bakery.
+If you were to visit Tunisia, a country where you find people living on every level from one to four, you might come across homes that were half built. You might conclude that Tunisians were lazy or disorganized. You can visit the Salhi family on Dollar Street and see how they live. Mabruk is fifty-two years old and is a gardener.
 
-Most of their neighbors have similar half-built second floors on their houses. You can see this everywhere on levels two and three across the world. In Sweden, if someone built their house like that, we would think they had a severe planning problem or maybe the builders had run away. But you can’t generalize from Sweden to Tunisia.
+His wife, Jameela, is forty-four years old and runs a home-based bakery. Most of their neighbors have similar half-built second floors on their houses. You can see this everywhere on levels two and three across the world. In Sweden, if someone built their house like that, we would think they had a severe planning problem or maybe the builders had run away.
 
-The Salhis and many others
+But you can’t generalize from Sweden to Tunisia. The Salhis and many others
 
 
 <a id="sec-051320"></a>
@@ -1792,61 +1934,77 @@ Inflation won’t change their value. No one needs to check your credit rating, 
 
 Beware of generalizing from one group to another. I once used to believe and promote a fatally incorrect generalization that cost sixty thousand lives. Some of those lives could have been saved if the public health community had been keener to question its misleading generalizations. One evening in nineteen seventy…
 
-Before I was shopping for bread at a supermarket in a small Swedish town when I suddenly discovered a baby in a life-threatening situation. In a stroller, in the bread aisle, the mother had turned her back and was busy deciding which loaf to buy. An untrained eye couldn’t see the danger, but fresh out of medical school I heard my alarm bells go off. I restrained myself from running to not scare the mother.
+Before. I was shopping for bread at a supermarket in a small Swedish town when. I suddenly discovered a baby in a life-threatening situation. In a stroller, in the bread aisle, the mother had turned her back and was busy deciding which loaf to buy.
 
-Instead, I walked over to the stroller as quickly as I could and lifted up the baby who was asleep on his back. I turned him over and put him down on his tummy. The little fellow didn’t even wake up. The mother turned toward me with a loaf in her hand ready to attack.
+An untrained eye couldn’t see the danger, but fresh out of medical school. I heard my alarm bells go off. I restrained myself from running to not scare the mother. Instead, I walked over to the stroller as quickly as.
 
-I quickly explained to her that I was a physician, and I told her about the so-called sudden infant death syndrome and the new public health advice to parents not to put sleeping babies on their backs due to the risk of suffocation from vomiting. Now her baby was safe. The mother was both scared and comforted. On trembling legs she continued her shopping.
+I could and lifted up the baby who was asleep on his back. I turned him over and put him down on his tummy. The little fellow didn’t even wake up. The mother turned toward me with a loaf in her hand ready to attack.
 
-Proudly I completed my own purchases, unaware of my huge mistake. During the Second World War and the Korean War, doctors and nurses discovered that unconscious soldiers stretchered off the battlefields survived more often if they were laid on their fronts rather than on their backs. On their backs they often suffocated on their own vomit. On their fronts the vomit could exit and their airways remained open.
+I quickly explained to her that. I was a physician, and. I told her about the so-called sudden infant death syndrome and the new public health advice to parents not to put sleeping babies on their backs due to the risk of suffocation from vomiting. Now her baby was safe.
 
-This observation saved many millions of lives, not just of soldiers. The recovery position has since become a global best practice, taught in every first aid course on the planet. The rescue workers saving lives after the 2015 earthquake in Nepal had all learned it. But a new discovery can easily be generalized too far.
+The mother was both scared and comforted. On trembling legs she continued her shopping. Proudly. I completed my own purchases, unaware of my huge mistake.
 
-In the 1960s the success of the recovery position inspired new public health advice against most traditional practices to put babies to sleep on their tummies, as if any helpless person on their back needed just the same help. The mental clumsiness of a generalization like this is often difficult to spot. The chain of logic seems correct. When seemingly impregnable logic is combined with good intentions, it becomes nearly impossible to spot the generalization error.
+During the Second World War and the Korean War, doctors and nurses discovered that unconscious soldiers stretchered off the battlefields survived more often if they were laid on their fronts rather than on their backs. On their backs they often suffocated on their own vomit. On their fronts the vomit could exit and their airways remained open. This observation saved many millions of lives, not just of soldiers.
 
-Even though the data showed that sudden infant deaths went up, not down, it wasn’t until 1985 that a group of pediatricians in Hong Kong actually suggested that the prone position might be the cause. Even then doctors in Europe didn’t pay much attention. It took Swedish authorities another seven years to accept their mistake and reverse the policy. Religious soldiers were dying on their backs when they vomited.
+The recovery position has since become a global best practice, taught in every first aid course on the planet. The rescue workers saving lives after the 2015 earthquake in Nepal had all learned it. But a new discovery can easily be generalized too far. In the 1960s the success of the recovery position inspired new public health advice against most traditional practices to put babies to sleep on their tummies, as if any helpless person on their back needed just the same help.
+
+The mental clumsiness of a generalization like this is often difficult to spot. The chain of logic seems correct. When seemingly impregnable logic is combined with good intentions, it becomes nearly impossible to spot the generalization error. Even though the data showed that sudden infant deaths went up, not down, it wasn’t until 1985 that a group of pediatricians in Hong Kong actually suggested that the prone position might be the cause.
+
+Even then doctors in Europe didn’t pay much attention. It took Swedish authorities another seven years to accept their mistake and reverse the policy. Religious soldiers were dying on their backs when they vomited.
 
 
 <a id="sec-051822"></a>
 ### ⏱️ [05:18:22 - 05:23:24]
 
-Sleeping babies, unlike unconscious soldiers, have fully functioning reflexes and turn to the side if they vomit while on their backs. But on their tummies, maybe some babies are not yet strong enough to tilt their heavy heads to keep their airways open. The reason the prone position is more dangerous is still not fully understood. It’s difficult to see how the mother in the bread aisle could have realized I was putting her baby at risk.
+Sleeping babies, unlike unconscious soldiers, have fully functioning reflexes and turn to the side if they vomit while on their backs. But on their tummies, maybe some babies are not yet strong enough to tilt their heavy heads to keep their airways open. The reason the prone position is more dangerous is still not fully understood. It’s difficult to see how the mother in the bread aisle could have realized.
 
-She could have asked me for evidence. I would have told her about the unconscious soldiers. She could have asked, but, dear doctor, is that really a valid generalization? Isn’t a sleeping baby very different from an unconscious soldier?
+I was putting her baby at risk. She could have asked me for evidence. I would have told her about the unconscious soldiers. She could have asked, but, dear doctor, is that really a valid generalization?
 
-Even if she had put this to me, I strongly doubt I would have been able to think it through. With my own hands over a decade or so, I turned many babies, from back to tummy, to prevent suffocation and save lives. So did many other doctors and parents throughout Europe and the United States, until the advice was finally reversed eighteen months after the Hong Kong study was published. Thousands of babies died because of a sweeping generalization, including some during the months when the evidence was already available.
+Isn’t a sleeping baby very different from an unconscious soldier? Even if she had put this to me, I strongly doubt. I would have been able to think it through. With my own hands over a decade or so, I turned many babies, from back to tummy, to prevent suffocation and save lives.
 
-Sweeping generalizations can easily hide behind good intentions. I can only hope that the baby in the bread aisle survived. And I can only hope that people are willing to learn from this huge public health mistake in modern times. We must all try hard not to generalize across incomparable groups.
+So did many other doctors and parents throughout Europe and the United States, until the advice was finally reversed eighteen months after the Hong Kong study was published. Thousands of babies died because of a sweeping generalization, including some during the months when the evidence was already available. Sweeping generalizations can easily hide behind good intentions. I can only hope that the baby in the bread aisle survived.
 
-We must all try hard to discover the hidden sweeping generalizations in our logic. They are very difficult to discover. But when presented with new evidence, we must always be ready to question our previous assumptions and reevaluate and admit if we were wrong. Factfulness.
+And. I can only hope that people are willing to learn from this huge public health mistake in modern times. We must all try hard not to generalize across incomparable groups. We must all try hard to discover the hidden sweeping generalizations in our logic.
 
-Factfulness is recognizing when a category is being used in an explanation and remembering that categories can be misleading. We can’t stop generalization, and we shouldn’t even try. What we should try to do is to avoid generalizing incorrectly. To control the generalization instinct, question your categories.
+They are very difficult to discover. But when presented with new evidence, we must always be ready to question our previous assumptions and reevaluate and admit if we were wrong. Factfulness. Factfulness is recognizing when a category is being used in an explanation and remembering that categories can be misleading.
 
-Look for differences within groups. Especially when the groups are large, look for ways to split them into smaller, more precise categories. And look for similarities across groups. If you find striking similarities between different groups, consider whether your categories are relevant.
+We can’t stop generalization, and we shouldn’t even try. What we should try to do is to avoid generalizing incorrectly. To control the generalization instinct, question your categories. Look for differences within groups.
 
-But also, look for differences across groups. Do not assume that what applies for one group, for instance you and other people living on Level 4 or unconscious soldiers, applies for another, for example, people not living on Level 4 or sleeping babies. Beware of the majority. The majority just means more than half.
+Especially when the groups are large, look for ways to split them into smaller, more precise categories. And look for similarities across groups. If you find striking similarities between different groups, consider whether your categories are relevant. But also, look for differences across groups.
 
-Ask whether it means 51 percent, 99 percent, or something in between. Beware of vivid examples. Vivid images are easier to recall, but they might be the exception rather than the rule. Assume people are not idiots.
+Do not assume that what applies for one group, for instance you and other people living on Level 4 or unconscious soldiers, applies for another, for example, people not living on Level 4 or sleeping babies. Beware of the majority. The majority just means more than half. Ask whether it means 51 percent, 99 percent, or something in between.
 
-When something looks strange, be curious and humble, and think, in what way is this a smart solution?
+Beware of vivid examples. Vivid images are easier to recall, but they might be the exception rather than the rule. Assume people are not idiots. When something looks strange, be curious and humble, and think, in what way is this a smart solution?
 
-#### Chapter 7 The Destiny Instinct What rocks that move and what grandpa never talked about. Snowballs in hell. Not long ago I was invited to the five-star Balmoral Hotel in Edinburgh to present to a gathering of capital managers and their wealthiest clients. As I set up my equipment in the magnificent high-ceilinged ballroom, I couldn’t help feeling a bit small.
+#### Chapter 7 The Destiny Instinct.
 
-And I asked myself why a wealthy financial institution would want its clients to hear from a Swedish professor of public health. I had been carefully briefed weeks earlier, but to feel sure, I asked the conference organizer
+What rocks that move and what grandpa never talked about. Snowballs in hell. Not long ago. I was invited to the five-star Balmoral Hotel in Edinburgh to present to a gathering of capital managers and their wealthiest clients.
+
+As. I set up my equipment in the magnificent high-ceilinged ballroom, I couldn’t help feeling a bit small. And. I asked myself why a wealthy financial institution would want its clients to hear from a Swedish professor of public health.
+
+I had been carefully briefed weeks earlier, but to feel sure, I asked the conference organizer
 
 
 <a id="sec-052324"></a>
 ### ⏱️ [05:23:24 - 05:28:29]
 
-again, as I got on stage for the final rehearsal. He had a straightforward explanation. He was having a hard time making his clients understand that the most profitable investments were no longer to be found in European capitals, boasting medieval castles and cobbled streets, but in the emerging markets of Asia and Africa.
+again, as. I got on stage for the final rehearsal. He had a straightforward explanation. He was having a hard time making his clients understand that the most profitable investments were no longer to be found in European capitals, boasting medieval castles and cobbled streets, but in the emerging markets of Asia and Africa.
 
 “'Most of our clients,' he said, ”'are unable to see or accept the ongoing progress in many African countries. In their minds, Africa is a continent that will never improve. I want your moving charts to change their static view of the world.' My lectures seemed to go well. I showed how Asian countries like South Korea, China, Vietnam, Malaysia, Indonesia, the Philippines, and Singapore, which had surprised the world with their economic progress over the past decades, actually had made steady social progress during the decades before their economic growth.
 
 I showed how the same process was now unfolding in parts of Africa. I said that the best places to invest right now were probably those African countries that had just seen decades of rapid improvements in education and child survival. I mentioned Nigeria, Ethiopia, and Ghana. The audience listened hard, eyes wide, and asked some good questions.
 
-Afterward, as I was packing away my laptop, a gray-haired man in a lightly checked three-piece suit walked slowly up to the stage, smiled sweetly, and said, “'Well, I saw your numbers, and I heard what you said, but I’m afraid there’s not a snowball’s chance in hell that Africa will make it. I know, because I served in Nigeria. It’s their culture, you know. It will not allow them to create a modern society, ever, ever.'” I opened my mouth, but before I had figured out a fact-based reply, he had already given my shoulder a little pat and wandered off to find a cup of tea.
+Afterward, as. I was packing away my laptop, a gray-haired man in a lightly checked three-piece suit walked slowly up to the stage, smiled sweetly, and said, “'Well, I saw your numbers, and. I heard what you said, but. I’m afraid there’s not a snowball’s chance in hell that Africa will make it.
 
-The Destiny Instinct The Destiny Instinct is the idea that innate characteristics determine the destinies of people, countries, religions, or cultures. It’s the idea that things are as they are for ineluctable, inescapable reasons. They have always been this way and will never change. This instinct makes us believe that our false generalizations from Chapter 6 or the tempting gaps from Chapter 1 are not only true but fated, unchanging and unchangeable.
+I know, because. I served in Nigeria. It’s their culture, you know. It will not allow them to create a modern society, ever, ever.'”.
+
+I opened my mouth, but before. I had figured out a fact-based reply, he had already given my shoulder a little pat and wandered off to find a cup of tea. The Destiny Instinct The Destiny Instinct is the idea that innate characteristics determine the destinies of people, countries, religions, or cultures. It’s the idea that things are as they are for ineluctable, inescapable reasons.
+
+They have always been this way and will never change. This instinct makes us believe that our false generalizations from.
+
+#### Chapter 6 or the tempting gaps from.
+
+#### Chapter 1 are not only true but fated, unchanging and unchangeable.
 
 It is easy to see how this instinct would have served an evolutionary purpose. Historically, humans lived in surroundings that didn’t change much. Learning how things worked and then assuming they would continue to work that way, rather than constantly reevaluating, was probably an excellent survival strategy. It’s also easy to understand how claiming a particular destiny for your group can come in useful in uniting that group around a supposedly never-changing purpose and perhaps creating a sense of superiority over other groups.
 
@@ -1864,41 +2022,43 @@ These lofty statements are often simply feelings disguised as facts. Fact Questi
 
 A. Nine years. B. Six years.
 
-C. Three years. By now I hope you have worked out that the safest thing to do in this book is to pick the most positive answer. Worldwide women have on average spent nine years in school.
+C. Three years. By now. I hope you have worked out that the safest thing to do in this book is to pick the most positive answer.
 
-Just one year less than most men. Many of my fellow Europeans have a snobbish self-regard built on an illusion of a European culture that is superior, not only to African and Asian cultures, but also to American consumer culture. When it comes to drama, though, I wonder who can assumes the most. Twenty-six percent of the U. S. public picked the right answer, compared with thirteen percent in Spain and Belgium, ten percent in Finland, and just eight percent in Norway.
+Worldwide women have on average spent nine years in school. Just one year less than most men. Many of my fellow Europeans have a snobbish self-regard built on an illusion of a European culture that is superior, not only to African and Asian cultures, but also to American consumer culture. When it comes to drama, though, I wonder who can assumes the most.
 
-The question is about gender inequality, which is currently discussed in the Scandinavian media on a daily basis. We see constant examples of the brutal violence committed against women out there, mostly elsewhere in the rest of the world, as well as reports from places like Afghanistan, where many, many girls are out of school. These images confirm a popular idea in Scandinavia that gender equality elsewhere has not improved, that most other cultures are stuck. How the rocks move.
+Twenty-six percent of the U. S. public picked the right answer, compared with thirteen percent in Spain and Belgium, ten percent in Finland, and just eight percent in Norway. The question is about gender inequality, which is currently discussed in the Scandinavian media on a daily basis. We see constant examples of the brutal violence committed against women out there, mostly elsewhere in the rest of the world, as well as reports from places like Afghanistan, where many, many girls are out of school.
 
-Cultures, nations, religions, and people are not rocks. They are in constant transformation. Africa can catch up. The idea that Africa is destined to remain poor is very common, but often seems to be based on no more than a feeling.
+These images confirm a popular idea in Scandinavia that gender equality elsewhere has not improved, that most other cultures are stuck. How the rocks move. Cultures, nations, religions, and people are not rocks. They are in constant transformation.
 
-If you like your opinions to be based on facts, this is what you need to know. Yes, Africa is lagging behind other continents on average. The average lifespan of a newborn baby in Africa today is sixty-five years. That’s a staggering seventeen years less than a baby born today in Western Europe.
+Africa can catch up. The idea that Africa is destined to remain poor is very common, but often seems to be based on no more than a feeling. If you like your opinions to be based on facts, this is what you need to know. Yes, Africa is lagging behind other continents on average.
 
-But first of all, you know how misleading averages can be. And the differences within Africa are immense. Not all African countries are lagging the world. Five large African countries, Tunisia, Algeria, Morocco, Libya, and Egypt, have life expectancies above the world average of seventy-two years.
+The average lifespan of a newborn baby in Africa today is sixty-five years. That’s a staggering seventeen years less than a baby born today in Western Europe. But first of all, you know how misleading averages can be. And the differences within Africa are immense.
 
-They are where Sweden was in 1970. Those despairing for Africa may not be convinced by this example. They may say that these are all Arab countries on the north coast of Africa and therefore not the Africa they had in mind. When I was young, these countries were certainly seen as sharing Africa’s destiny.
+Not all African countries are lagging the world. Five large African countries, Tunisia, Algeria, Morocco, Libya, and Egypt, have life expectancies above the world average of seventy-two years. They are where Sweden was in 1970. Those despairing for Africa may not be convinced by this example.
 
-It is only since they made progress that they have been held to be exceptional. For the sake of argument, though, let’s put these North African countries on one side and look at Africa south of the Sahara. In the last sixty years, the African countries south of the Sahara almost all went from being colonies to being independent states. Over that time, these countries expanded their education, electricity, water, and sanitation infrastructures at the same steady speed as that achieved by the countries of Europe when they went through their own miracles.
+They may say that these are all Arab countries on the north coast of Africa and therefore not the Africa they had in mind. When. I was young, these countries were certainly seen as sharing Africa’s destiny. It is only since they made progress that they have been held to be exceptional.
 
-And each of the fifty countries south of the Sahara reduced its child mortality faster than Sweden ever did. How can that not be counted as incredible progress? Perhaps because, though, things are much better. They are still bad.
+For the sake of argument, though, let’s put these North African countries on one side and look at Africa south of the Sahara. In the last sixty years, the African countries south of the Sahara almost all went from being colonies to being independent states. Over that time, these countries expanded their education, electricity, water, and sanitation infrastructures at the same steady speed as that achieved by the countries of Europe when they went through their own miracles. And each of the fifty countries south of the Sahara reduced its child mortality faster than Sweden ever did.
 
-If you look for poor people
+How can that not be counted as incredible progress? Perhaps, because, though, things are much better. They are still bad. If you look for poor people
 
 
 <a id="sec-053334"></a>
 ### ⏱️ [05:33:34 - 05:38:41]
 
-in Africa, of course you will find them. But there was extreme poverty in Sweden ninety years ago, too. And when I was young, just fifty years ago, China, India, and South Korea were all way behind where Sub-Saharan Africa is today in most ways. And Asia’s destiny was supposed then to be exactly what Africa’s destiny is supposed to be now.
+in Africa, of course you will find them. But there was extreme poverty in Sweden ninety years ago, too. And when. I was young, just fifty years ago, China, India, and South Korea were all way behind where Sub-Saharan Africa is today in most ways.
 
-They will never be able to feed four billion people. Roughly half a billion people in Africa today are stuck in extreme poverty. If it is their destiny to stay that way, then there must be something unique about this particular group of poor people compared with the billions across the world, including in Africa, who have already escaped extreme poverty. I don’t think there is.
+And Asia’s destiny was supposed then to be exactly what Africa’s destiny is supposed to be now. They will never be able to feed four billion people. Roughly half a billion people in Africa today are stuck in extreme poverty. If it is their destiny to stay that way, then there must be something unique about this particular group of poor people compared with the billions across the world, including in Africa, who have already escaped extreme poverty.
 
-I think the last to leave extreme poverty will be the poorest farmers stuck on really low-yield soils and surrounded by or close to conflicts. That probably accounts today for two hundred million people, just over half of whom live in Africa. For sure, they have an extraordinarily difficult time ahead of them, not because of their unchanging and unchangeable culture, but because of the soil and the conflicts. But I hold out hope even for these poorest and most unfortunate people in the world, because this is exactly how hopeless extreme poverty has always seemed.
+I don’t think there is. I think the last to leave extreme poverty will be the poorest farmers stuck on really low-yield soils and surrounded by or close to conflicts. That probably accounts today for two hundred million people, just over half of whom live in Africa. For sure, they have an extraordinarily difficult time ahead of them, not because of their unchanging and unchangeable culture, but because of the soil and the conflicts.
 
-During their terrible famines and conflicts, progress in China, Bangladesh, and Vietnam seemed impossible. Today these countries probably produced most of the clothes in your wardrobe. Thirty-five years ago, India was where Mozambique is today. It is fully possible that within thirty years Mozambique will transform itself, as India has done, into a country on level two and a reliable trade partner.
+But. I hold out hope even for these poorest and most unfortunate people in the world, because this is exactly how hopeless extreme poverty has always seemed. During their terrible famines and conflicts, progress in China, Bangladesh, and Vietnam seemed impossible. Today these countries probably produced most of the clothes in your wardrobe.
 
-Mozambique has a long, beautiful coast on the Indian Ocean, the future center of global trade. Why should it not prosper? Nobody can predict the future with one hundred percent certainty. I’m not convinced it will happen, but I am a possibleist, and these facts convince me it is possible.
+Thirty-five years ago, India was where Mozambique is today. It is fully possible that within thirty years Mozambique will transform itself, as India has done, into a country on level two and a reliable trade partner. Mozambique has a long, beautiful coast on the Indian Ocean, the future center of global trade. Why should it not prosper?
 
-The destiny instinct makes it difficult for us to accept that Africa can catch up with the West. Africa’s progress, if it is noticed at all, is seen as an improbable stroke of good fortune, a temporary break from its impoverished and war-torn destiny. The same destiny instinct also seems to make us take continuing Western progress for granted, with the West’s current economic stagnation portrayed as a temporary accident from which it will soon recover. For years after the global crash of 2008, the International Monetary Fund continued to forecast three percent annual economic growth for countries on level four.
+Nobody can predict the future with one hundred percent certainty. I’m not convinced it will happen, but. I am a possibleist, and these facts convince me it is possible. The destiny instinct makes it difficult for us to accept that Africa can catch up with the West.
+
+Africa’s progress, if it is noticed at all, is seen as an improbable stroke of good fortune, a temporary break from its impoverished and war-torn destiny. The same destiny instinct also seems to make us take continuing Western progress for granted, with the West’s current economic stagnation portrayed as a temporary accident from which it will soon recover. For years after the global crash of 2008, the International Monetary Fund continued to forecast three percent annual economic growth for countries on level four.
 
 Each year for five years, countries on level four failed to meet this forecast. Each year for five years, the IMF said, next year it will get back on track.
 
@@ -1912,23 +2072,27 @@ And at the same time, African countries with great growth potential were being s
 <a id="sec-053841"></a>
 ### ⏱️ [05:38:41 - 05:43:45]
 
-probably missing opportunities in the largest expansion of the middle-income consumer market in history, which is taking place right now in Africa and Asia. Other local brands are already establishing a foothold, gaining brand recognition and spreading throughout these continents, while you are still waking up to what is going on. The Western consumer market was just a teaser for what is coming next. Babies and Religions At the end of my opening lecture in my 1998 course on global health, most students headed for the coffee machine, but one remained behind.
+probably missing opportunities in the largest expansion of the middle-income consumer market in history, which is taking place right now in Africa and Asia. Other local brands are already establishing a foothold, gaining brand recognition and spreading throughout these continents, while you are still waking up to what is going on. The Western consumer market was just a teaser for what is coming next. Babies and Religions.
 
-I saw her wander slowly toward the front of the room with tears in her eyes. Then when she understood that I had noticed her, she stopped, flipped her face away, and looked out the window. She was obviously moved. I expected her to share with me a sad personal problem that was going to impede her participation in the course.
+At the end of my opening lecture in my 1998 course on global health, most students headed for the coffee machine, but one remained behind. I saw her wander slowly toward the front of the room with tears in her eyes. Then when she understood that. I had noticed her, she stopped, flipped her face away, and looked out the window.
 
-Before I could say anything comforting, she turned around, gained control over her emotions, and, in a steady voice, said something completely unexpected. My Family Is From Iran What you just said about the fast improvements in health and education in Iran was the first positive thing I have heard anyone from Sweden ever say about the Iranian people. My student said this to me in perfect Swedish, with a clear Stockholm accent. She had obviously lived in Sweden her whole life.
+She was obviously moved. I expected her to share with me a sad personal problem that was going to impede her participation in the course. Before. I could say anything comforting, she turned around, gained control over her emotions, and, in a steady voice, said something completely unexpected.
 
-I was stunned. All I had done was to briefly show UN data for Iran on the increase in life expectancy and the decrease in babies for women. I had mentioned, too, it was quite an achievement, actually the fastest drop ever, for more than six babies per woman in 1984 down to fewer than three babies per woman just fifteen years later. It was one of several little-known examples I had shown of fast changes in middle-income countries in the 1990s.
+My Family Is. From Iran. What you just said about the fast improvements in health and education in Iran was the first positive thing. I have heard anyone from Sweden ever say about the Iranian people.
+
+My student said this to me in perfect Swedish, with a clear Stockholm accent. She had obviously lived in Sweden her whole life. I was stunned. All.
+
+I had done was to briefly show UN data for Iran on the increase in life expectancy and the decrease in babies for women. I had mentioned, too, it was quite an achievement, actually the fastest drop ever, for more than six babies per woman in 1984 down to fewer than three babies per woman just fifteen years later. It was one of several little-known examples. I had shown of fast changes in middle-income countries in the 1990s.
 
 “'That can’t be true,' I said.” "'It is.' You said that the fast fall in the number of babies per woman in Iran is a reflection of improvements in health and education, especially for Iranian women. You also rightly said that most young Iranians now have modern values about family size and use contraception. I have never heard anyone in Sweden say anything even close to that. Even highly educated Swedes seem completely unaware of the changes that have taken place, the improvements, the modernity.
 
 They think Iran is on the same level as Afghanistan. The fastest drop in babies per woman in world history went completely unreported in the free Western media. Iran, home in the 1990s to the biggest condom factory in the world and boasting a compulsory pre-marriage sex education course for both brides and grooms, has a highly educated population with excellent access to an advanced public health care system. Couples use contraception to achieve small families and have access to infertility clinics if they struggle to conceive.
 
-At least that was the case when I visited such a clinic in Tehran in 1990, hosted by the enthusiastic Professor Malik Afsali, who designed Iran’s family planning miracle. How many people in the West would guess that women in Iran today decide to have fewer babies than women in either the United States or Sweden? Do we Westerners love free speech so much that it makes us blind to any progress in a country whose regime does not share our love? It is at least clear that a free media is no guarantee that the world’s fastest-growing cultural changes will be reported.
+At least that was the case when. I visited such a clinic in Tehran in 1990, hosted by the enthusiastic Professor Malik Afsali, who designed Iran’s family planning miracle. How many people in the West would guess that women in Iran today decide to have fewer babies than women in either the United States or Sweden? Do we Westerners love free speech so much that it makes us blind to any progress in a country whose regime does not share our love?
 
-Almost every religious tradition has rules about sex, so it is easy to understand why so many people assume that women in some religions give birth to more children. But the link between religion and the number of babies per woman is often overstated. There is, though, a strong link between income and number of babies per woman. Back in 1960, this didn’t seem so obvious.
+It is at least clear that a free media is no guarantee that the world’s fastest-growing cultural changes will be reported. Almost every religious tradition has rules about sex, so it is easy to understand why so many people assume that women in some religions give birth to more children. But the link between religion and the number of babies per woman is often overstated. There is, though, a strong link between income and number of babies per woman.
 
-In 1960, there were 40 countries where women had fewer
+Back in 1960, this didn’t seem so obvious. In 1960, there were 40 countries where women had fewer
 
 
 <a id="sec-054345"></a>
@@ -1948,11 +2112,13 @@ My father’s father, Gustav, for example, was born as Sweden was leaving level 
 
 But when she approached her father about the birth of his seventh child wanting to discuss contraception, this kind, calm man got very angry and refused to talk. His values were traditional and patriarchal. But they were not adopted by the next generation. Swedish culture changed.
 
-By the way, he also disliked books and refused to use a telephone. A woman’s right to an abortion is supported by just about everyone in Sweden today. Strong support for women’s rights in general has become part of our culture. My students' jaws drop when I tell them how different things were when I was a student in the 1960s.
+By the way, he also disliked books and refused to use a telephone. A woman’s right to an abortion is supported by just about everyone in Sweden today. Strong support for women’s rights in general has become part of our culture. My students' jaws drop when.
 
-Abortion in Sweden was still, except on very limited grounds, illegal. At the university, we ran a secret fund to pay for women to travel abroad to get safe abortions. Jaws drop even further when I tell the students where these young pregnant students traveled to—Poland, Catholic Poland. Five years later, Poland banned abortion, and Sweden legalized it.
+I tell them how different things were when. I was a student in the 1960s. Abortion in Sweden was still, except on very limited grounds, illegal. At the university, we ran a secret fund to pay for women to travel abroad to get safe abortions.
 
-The flow of young women started to go the other way. The point is, it was not always so. The cultures changed. I come across the values of stubborn old men like my grandfather Gustaf all the time when I travel in Asia.
+Jaws drop even further when. I tell the students where these young pregnant students traveled to—Poland, Catholic Poland. Five years later, Poland banned abortion, and Sweden legalized it. The flow of young women started to go the other way.
+
+The point is, it was not always so. The cultures changed. I come across the values of stubborn old men like my grandfather Gustaf all the time when. I travel in Asia.
 
 For example, in South Korea and Japan, many wives are still expected to take care of their husbands' parents, as well as taking full responsibility for the care of any children. I have encountered many men who are proud of these Asian values, as they call them. I have had conversations with many women, too, who see it differently. They find this culture unbearable and tell me these values make them less interested
 
@@ -1974,17 +2140,17 @@ And she taught me many things over dinner about current issues and trends in Asi
 
 I didn’t mean to be rude. We Swedes, nowadays, like to talk about these things. And she had no problem with my honest question. She smiled and looked over my shoulder at the sun setting over the bay.
 
-She said, “I am thinking about children every day.” Then she looked me straight in the eye. It’s the idea of a husband. I can’t stand. How to control the destiny instinct.
+She said, “I am thinking about children every day.”. Then she looked me straight in the eye. It’s the idea of a husband. I can’t stand.
 
-How can we help our brains to see that rocks move, that the way things are now is neither how they have always been nor how they are always meant to be? Slow change is not no change. Societies and cultures are in constant movement. Even changes that seem small and slow add up over time.
+How to control the destiny instinct. How can we help our brains to see that rocks move, that the way things are now is neither how they have always been nor how they are always meant to be? Slow change is not no change. Societies and cultures are in constant movement.
 
-One percent growth each year seems slow, but it adds up to a doubling in seventy years. Two percent growth each year means doubling in thirty-five years. Three percent growth each year means doubling in twenty-four years. In the third century B.
+Even changes that seem small and slow add up over time. One percent growth each year seems slow, but it adds up to a doubling in seventy years. Two percent growth each year means doubling in thirty-five years. Three percent growth each year means doubling in twenty-four years.
 
-C., the world’s first nature reserve was created by King Devanampia Tisa in Sri Lanka, when he declared a piece of forest to be officially protected. It took more than two thousand years for a European in West Yorkshire to get a similar idea and another fifty years before Yellowstone National Park was established in the United States. By the year 1900, zero point zero three percent of the Earth’s land surface was protected. By 1930 it was zero point two percent.
+In the third century B. C., the world’s first nature reserve was created by King Devanampia Tisa in Sri Lanka, when he declared a piece of forest to be officially protected. It took more than two thousand years for a European in West Yorkshire to get a similar idea and another fifty years before Yellowstone National Park was established in the United States. By the year 1900, zero point zero three percent of the Earth’s land surface was protected.
 
-Slowly, slowly, decade by decade, one forest at a time, the number climbed. The annual increase was absolutely tiny, almost imperceptible. Today a stunning fifteen percent of the Earth’s surface is protected, and the number is still climbing. To control the destiny instinct, don’t confuse slow change with no change.
+By 1930 it was zero point two percent. Slowly, slowly, decade by decade, one forest at a time, the number climbed. The annual increase was absolutely tiny, almost imperceptible. Today a stunning fifteen percent of the Earth’s surface is protected, and the number is still climbing.
 
-Don’t dismiss an annual change, even an annual change of only one percent, because it seems too small and slow. Be prepared to update your knowledge. It’s relaxing to think that knowledge has no sell-by date, that once you have learned something it stays fresh forever, and you never have to learn it again.
+To control the destiny instinct, don’t confuse slow change with no change. Don’t dismiss an annual change, even an annual change of only one percent, because it seems too small and slow. Be prepared to update your knowledge. It’s relaxing to think that knowledge has no sell-by date, that once you have learned something it stays fresh forever, and you never have to learn it again.
 
 
 <a id="sec-055348"></a>
@@ -1992,51 +2158,57 @@ Don’t dismiss an annual change, even an annual change of only one percent, bec
 
 In the sciences, like math and physics, and in the arts, that is often true. In those subjects, what we all learned at school, two plus two equals four, is probably still good. But in the social sciences, even the most basic knowledge goes off very quickly. As with milk or vegetables, you have to keep getting it fresh.
 
-Because everything changes. I have been caught out by this even in my own work. Thirteen years after I first asked them, we planned to rerun my very first chimpanzee questions from 1998 to see whether people’s knowledge had improved. In these questions, I showed five pairs of countries and asked which country in each pair had the highest child mortality rate.
+Because everything changes. I have been caught out by this even in my own work. Thirteen years after. I first asked them, we planned to rerun my very first chimpanzee questions from 1998 to see whether people’s knowledge had improved.
 
-Back in 1998, my Swedish students had answered incorrectly, because they couldn’t imagine that Asian countries were better than European countries. When we pulled the questions up, after only thirteen years, we realized that it was going to be impossible to rerun the test because the correct answers had changed, because the world had changed. How illustrative was this? Even Gapminder’s own fact questions had become outdated.
+In these questions, I showed five pairs of countries and asked which country in each pair had the highest child mortality rate. Back in 1998, my Swedish students had answered incorrectly, because they couldn’t imagine that Asian countries were better than European countries. When we pulled the questions up, after only thirteen years, we realized that it was going to be impossible to rerun the test because the correct answers had changed, because the world had changed. How illustrative was this?
 
-To control the destiny instinct, stay open to new data and be prepared to keep freshening up your knowledge. Talk to Grandpa. If you are tempted to claim that values are unchanging, try comparing your own with those of your parents, or your grandparents, or your children, or your grandchildren. Try getting hold of public opinion polls for your country from thirty years ago.
+Even Gapminder’s own fact questions had become outdated. To control the destiny instinct, stay open to new data and be prepared to keep freshening up your knowledge. Talk to Grandpa. If you are tempted to claim that values are unchanging, try comparing your own with those of your parents, or your grandparents, or your children, or your grandchildren.
 
-You will almost certainly see radical change. Collect examples of cultural change. People often tilt their heads and say, it’s our culture, or it’s their culture, which gives the impression that it has always been that way and always will be. Then turn your head around and look for some counter-examples.
+Try getting hold of public opinion polls for your country from thirty years ago. You will almost certainly see radical change. Collect examples of cultural change. People often tilt their heads and say, it’s our culture, or it’s their culture, which gives the impression that it has always been that way and always will be.
 
-We already discovered that Swedes didn’t always talk about sex. Here are a couple of others. Many Swedes think of the United States as having very conservative values. But look at how quickly attitudes to homosexuality have changed.
+Then turn your head around and look for some counter-examples. We already discovered that Swedes didn’t always talk about sex. Here are a couple of others. Many Swedes think of the United States as having very conservative values.
 
-In 1996, a minority of 27 percent supported same-sex marriage. Today that number is 72 percent and rising. Some Americans think of Sweden as a socialist country, but values can change. A few decades ago Sweden carried out what might be the most drastic deregulation ever of a public school system and now allows fully commercial schools to compete and make profits.
+But look at how quickly attitudes to homosexuality have changed. In 1996, a minority of 27 percent supported same-sex marriage. Today that number is 72 percent and rising. Some Americans think of Sweden as a socialist country, but values can change.
 
-A brave capitalist experiment. I don’t have any vision. I started this chapter with a story about a well-dressed ignorant man who didn’t have sufficient vision to see what was possible in Africa. I want to end it with something similar.
+A few decades ago Sweden carried out what might be the most drastic deregulation ever of a public school system and now allows fully commercial schools to compete and make profits. A brave capitalist experiment. I don’t have any vision. I started this chapter with a story about a well-dressed ignorant man who didn’t have sufficient vision to see what was possible in Africa.
 
-Spoiler alert! The ignorant man this time is me. On May 12, 2013, I had the great privilege of addressing 500 women leaders from across the continent at an African Union conference called the African Renaissance, an Agenda for 2063. What an enormous honor!
+I want to end it with something similar. Spoiler alert! The ignorant man this time is me. On May 12, 2013, I had the great privilege of addressing 500 women leaders from across the continent at an African Union conference called the African Renaissance, an Agenda for 2063.
 
-What a thrill! It was the lecture of my life. In my thirty-minute slot in the plenary hall of the African Union’s beautiful headquarters in Addis Ababa, I summarized decades of research on female small-scale farmers and explained to these powerful decision-makers how extreme poverty could be ended in Africa within twenty years. Unkosa Zana de la Minizuma, the chairwoman of the African Union, sat right in front of me and seemed to be listening attentively.
+What an enormous honor! What a thrill! It was the lecture of my life. In my thirty-minute slot in the plenary hall of the African Union’s beautiful headquarters in Addis Ababa, I summarized decades of research on female small-scale farmers and explained to these powerful decision-makers how extreme poverty could be ended in Africa within twenty years.
 
-Afterwards, she came up and thanked me, and I asked her what she thought of my performance. Her answer was a shock. Well, she said, the graphics were nice, and you are good at talking. But you don’t have any vision.
+Unkosa Zana de la Minizuma, the chairwoman of the African Union, sat right in front of me and seemed to be listening attentively. Afterwards, she came up and thanked me, and. I asked her what she thought of my performance. Her answer was a shock.
+
+Well, she said, the graphics were nice, and you are good at talking. But you don’t have any vision.
 
 
 <a id="sec-055849"></a>
 ### ⏱️ [05:58:49 - 06:03:56]
 
-Her tone was kind, which made what she was saying even more shocking to me. What? You think I lack vision? I asked, and offended disbelief.
+Her tone was kind, which made what she was saying even more shocking to me. What? You think. I lack vision?
 
-But I said that extreme poverty in Africa could be history within twenty years, and Unkosa Zana’s response came in a low voice, and she spoke without emotions or gestures. Oh, yes. You talked about eradicating extreme poverty, which is a beginning. But you stopped there.
+I asked, and offended disbelief. But. I said that extreme poverty in Africa could be history within twenty years, and Unkosa Zana’s response came in a low voice, and she spoke without emotions or gestures. Oh, yes.
 
-Do you think Africans will settle with getting rid of extreme poverty and be happy living in only ordinary poverty? She put a firm hand on my arm and looked at me without anger, but also without a smile. I saw a strong will to make me understand my shortcomings. As a finishing remark, you said that you hoped your grandchildren would come as tourists to Africa and travel on the new high-speed train. we plan to build.
+You talked about eradicating extreme poverty, which is a beginning. But you stopped there. Do you think Africans will settle with getting rid of extreme poverty and be happy living in only ordinary poverty? She put a firm hand on my arm and looked at me without anger, but also without a smile.
 
-What kind of a vision is that? It is the same old European vision, and Kosasana looked me straight in the eyes. It is my grandchildren who are going to visit your continent and travel on your high-speed trains and visit that exotic ice hotel I’ve heard you have up in northern Sweden. It is going to take a long time, we know that.
+I saw a strong will to make me understand my shortcomings. As a finishing remark, you said that you hoped your grandchildren would come as tourists to Africa and travel on the new high-speed train. we plan to build. What kind of a vision is that? It is the same old European vision, and Kosasana looked me straight in the eyes.
 
-It is going to take lots of wise decisions and large investments. But my fifty-year vision is that Africans will become welcome tourists in Europe and not unwanted refugees." Then she broke into a broad, warm smile. But the graphics were really nice. Now let’s go and have some coffee.
+It is my grandchildren who are going to visit your continent and travel on your high-speed trains and visit that exotic ice hotel. I’ve heard you have up in northern Sweden. It is going to take a long time, we know that. It is going to take lots of wise decisions and large investments.
 
-Over coffee I reflected on my mistake. I remembered a conversation from thirty-three years earlier. With my first African friend, the Mozambican mining engineer, Neheriwa Masalina. He had looked at me with that same face.
+But my fifty-year vision is that Africans will become welcome tourists in Europe and not unwanted refugees." Then she broke into a broad, warm smile. But the graphics were really nice. Now let’s go and have some coffee. Over coffee.
 
-I was working as a doctor in Nakala in Mozambique, and Neheriwa came with us on a family outing to the beach. The coast in Mozambique is unbelievably beautiful and was still hardly exploited, and we used to be almost alone there at the weekends. When I saw that there were fifteen or twenty families on the mile-long stretch of sand, I said, oh, what a shame that there are so many families on the beach today.
+I reflected on my mistake. I remembered a conversation from thirty-three years earlier. With my first African friend, the Mozambican mining engineer, Neheriwa Masalina. He had looked at me with that same face.
 
-Neheriwa grabbed my arm, just as Enkozana was to do years later, and said, “Hans, my reaction is the opposite.” I feel great pain and sadness seeing this beach. Look at the city centre there in the distance. Eighty thousand people live there, which means forty thousand children. It’s the weekend, and only forty of them made it to the beach, one in one thousand.
+I was working as a doctor in Nakala in Mozambique, and Neheriwa came with us on a family outing to the beach. The coast in Mozambique is unbelievably beautiful and was still hardly exploited, and we used to be almost alone there at the weekends. When. I saw that there were fifteen or twenty families on the mile-long stretch of sand, I said, oh, what a shame that there are so many families on the beach today.
 
-When I got my mining education in East Germany, I went to the beaches of Rostock at the weekend, and they were full, thousands of children having a wonderful time. I want Nakala to be like Rostock. I want all children to go to the beach on a Sunday, instead of working in their parents' fields or sitting in the slums. It will take a long time, but that is what I want. Then he let go of my arm and helped my children to get their swimming gear out of the car.
+Neheriwa grabbed my arm, just as Enkozana was to do years later, and said, “Hans, my reaction is the opposite.”. I feel great pain and sadness seeing this beach. Look at the city centre there in the distance. Eighty thousand people live there, which means forty thousand children.
 
-Thirty-three years later, addressing the African Union after a professional lifetime of collaboration with African scholars and institutions, I was absolutely convinced that I shared their great vision. I thought I was one of the few Europeans who could see what change was possible, but after delivering the most cherished lecture of my life, I realised that I was still stuck in an old, static, colonial mindset. In spite of all that, my African friends and colleagues had taught me over the years, I was still not really imagining they could ever catch up with us.
+It’s the weekend, and only forty of them made it to the beach, one in one thousand. When. I got my mining education in East Germany, I went to the beaches of Rostock at the weekend, and they were full, thousands of children having a wonderful time. I want Nakala to be like Rostock.
 
-I was still failing to see that all people, families, children, will struggle hard to achieve just that, so they can also go to
+I want all children to go to the beach on a Sunday, instead of working in their parents' fields or sitting in the slums. It will take a long time, but that is what. I want. Then he let go of my arm and helped my children to get their swimming gear out of the car.
+
+Thirty-three years later, addressing the African Union after a professional lifetime of collaboration with African scholars and institutions, I was absolutely convinced that. I shared their great vision. I thought. I was one of the few Europeans who could see what change was possible, but after delivering the most cherished lecture of my life, I realised that.
+
+I was still stuck in an old, static, colonial mindset. In spite of all that, my African friends and colleagues had taught me over the years, I was still not really imagining they could ever catch up with us. I was still failing to see that all people, families, children, will struggle hard to achieve just that, so they can also go to
 
 
 <a id="sec-060356"></a>
@@ -2078,73 +2250,87 @@ Be humble about the extent of your expertise. Be curious about new information t
 
 Sometimes coming up against reality is what helps me see my mistakes, but often it is talking to and trying to understand someone with different ideas. If this means you don’t have time to form so many opinions, so what? Wouldn’t you rather have few opinions that are right than many that are wrong? I have found two main reasons why people often focus on a single perspective when it comes to understanding the world.
 
-The obvious one is political ideology, and I will come to that later in this chapter. The other is professional. The professionals. Experts and activists.
+The obvious one is political ideology, and. I will come to that later in this chapter. The other is professional. The professionals.
 
-I love subject experts, and as we all must do, I rely heavily on them to understand the world. When I know, for example, that all population experts agree that population will stop growing somewhere between 10 billion and 12 billion, then I trust that data. When I know, for example, that historians, paleo-demographers, and archaeologists have all concluded that until 1800 women had on average five or more children, but only two survived, I trust that data. When I know that economists disagree about what causes economic growth, that is extremely useful too, because it tells me I must be careful.
+Experts and activists. I love subject experts, and as we all must do, I rely heavily on them to understand the world. When. I know, for example, that all population experts agree that population will stop growing somewhere between 10 billion and 12 billion, then.
 
-Probably there is not enough useful data yet, or perhaps there is no simple explanation. I love experts, but they have their limitations. First and most obviously, experts are experts only within their own field. That can be difficult for experts, and we are all experts in something to admit.
+I trust that data. When. I know, for example, that historians, paleo-demographers, and archaeologists have all concluded that until 1800 women had on average five or more children, but only two survived, I trust that data. When.
 
-We like to feel knowledgeable and we like to feel useful. We like to feel that our special skills make us generally better. But highly numerate people, like the super-brainy audience at the amazing meeting and annual gathering of people who love scientific reasoning, score just as badly on our fact questions as everyone else. Highly educated people, like the readers of Nature, one of the world’s finest scientific journals, score just as badly on our fact questions as everyone else, and often even worse.
+I know that economists disagree about what causes economic growth, that is extremely useful too, because it tells me. I must be careful. Probably there is not enough useful data yet, or perhaps there is no simple explanation. I love experts, but they have their limitations.
 
-People with extraordinary expertise in one field score just as badly on our fact questions as everyone else. I had the honor of attending the 64th Lindau Nobel Laureate meeting and addressing a large group of talented young scientists and Nobel laureates in physiology and medicine. They were the acknowledged intellectual elite of their field, and yet on the question about child vaccination they scored worse than any public polls. Eight percent got the answer right.
+First, and most obviously, experts are experts only within their own field. That can be difficult for experts, and we are all experts in something to admit. We like to feel knowledgeable and we like to feel useful. We like to feel that our special skills make us generally better.
 
-After this, I never take it for granted that brilliant experts will know anything about closely related fields outside their specializations. Being intelligent, being good with numbers, or being well-educated, or even winning a Nobel Prize is not a shortcut to global factual knowledge. Experts are experts only within their field. And sometimes experts are not experts even in their own fields.
+But highly numerate people, like the super-brainy audience at the amazing meeting and annual gathering of people who love scientific reasoning, score just as badly on our fact questions as everyone else. Highly educated people, like the readers of Nature, one of the world’s finest scientific journals, score just as badly on our fact questions as everyone else, and often even worse. People with extraordinary expertise in one field score just as badly on our fact questions as everyone else.
 
-Many activists present themselves as experts. I have presented at all kinds of activist conferences because I believe educated activists can be absolutely crucial for
+I had the honor of attending the 64th Lindau Nobel Laureate meeting and addressing a large group of talented young scientists and Nobel laureates in physiology and medicine. They were the acknowledged intellectual elite of their field, and yet on the question about child vaccination they scored worse than any public polls. Eight percent got the answer right. After this, I never take it for granted that brilliant experts will know anything about closely related fields outside their specializations.
+
+Being intelligent, being good with numbers, or being well-educated, or even winning a Nobel Prize is not a shortcut to global factual knowledge. Experts are experts only within their field. And sometimes experts are not experts even in their own fields. Many activists present themselves as experts.
+
+I have presented at all kinds of activist conferences because. I believe educated activists can be absolutely crucial for
 
 
 <a id="sec-061404"></a>
 ### ⏱️ [06:14:04 - 06:19:09]
 
-improving the world. Recently I presented at a conference of women’s rights. I strongly support their cause. 292 brave young feminists had traveled to Stockholm from across the world to coordinate their struggle to improve women’s access to education. But only eight percent knew that thirty-year-old women have spent on average only one year less in school than thirty-year-old men.
+improving the world. Recently. I presented at a conference of women’s rights. I strongly support their cause. 292 brave young feminists had traveled to Stockholm from across the world to coordinate their struggle to improve women’s access to education.
 
-I am absolutely not saying that everything is okay with girls' education. On level one, and especially in a small number of countries, many girls still do not go to primary school, and there are huge problems with girls' and women’s access to secondary and higher education. But in fact, on levels two, three, and four, where six billion people live, girls are going to school as men. much as, or more than, boys. This is something amazing.
+But only eight percent knew that thirty-year-old women have spent on average only one year less in school than thirty-year-old men. I am absolutely not saying that everything is okay with girls' education. On level one, and especially in a small number of countries, many girls still do not go to primary school, and there are huge problems with girls' and women’s access to secondary and higher education. But in fact, on levels two, three, and four, where six billion people live, girls are going to school as men. much as, or more than, boys.
 
-It is something that activists for women’s education should know and celebrate. I could have picked other examples. This is not about activists for women’s rights in particular. Almost every activist I have ever met, whether deliberately or more likely unknowingly, exaggerates the problem to which they have dedicated themselves.
+This is something amazing. It is something that activists for women’s education should know and celebrate. I could have picked other examples. This is not about activists for women’s rights in particular.
 
-Fact Question 11. In 1996, tigers, giant pandas, and black rhinos were all listed as endangered. How many of these three species are more critically endangered today? A.
+Almost every activist. I have ever met, whether deliberately or more likely unknowingly, exaggerates the problem to which they have dedicated themselves. Fact Question 11. In 1996, tigers, giant pandas, and black rhinos were all listed as endangered.
 
-Two of them. B. One of them. C.
+How many of these three species are more critically endangered today? A. Two of them. B.
 
-None of them. Tens of plundered natural resources across the planet. Natural habitats have been destroyed and many animals hunted to extinction. This is clear.
+One of them. C. None of them. Tens of plundered natural resources across the planet.
 
-But activists who devote themselves to protecting vulnerable animals and their habitats tend to make the same mistake I’ve just described, desperately trying to make people care they forget about progress. A serious problem requires a serious database. I strongly recommend visiting The Red List, where you can access the status of all endangered species in the world, as updated by a global community of high-quality researchers who track the wild populations of different animals and collaborate to monitor the trend. Guess what?
+Natural habitats have been destroyed and many animals hunted to extinction. This is clear. But activists who devote themselves to protecting vulnerable animals and their habitats tend to make the same mistake. I’ve just described, desperately trying to make people care they forget about progress.
 
-If I check The Red List, or World Wildlife Fund, today, I can see how despite declines in some local populations and some subspecies, the total wild populations of tigers, giant pandas, and black rhinos have all increased over the past years. It was worth paying for all those panda stickers on the doors all around Stockholm. Yet only six percent of the Swedish public knows that their support has had any effect. There has been progress in human rights, animal protection, women’s education, climate awareness, catastrophe relief, and many other areas where activists raise awareness by saying that things are getting worse.
+A serious problem requires a serious database. I strongly recommend visiting The Red List, where you can access the status of all endangered species in the world, as updated by a global community of high-quality researchers who track the wild populations of different animals and collaborate to monitor the trend. Guess what? If.
+
+I check The Red List, or World Wildlife Fund, today, I can see how despite declines in some local populations and some subspecies, the total wild populations of tigers, giant pandas, and black rhinos have all increased over the past years. It was worth paying for all those panda stickers on the doors all around Stockholm. Yet only six percent of the Swedish public knows that their support has had any effect. There has been progress in human rights, animal protection, women’s education, climate awareness, catastrophe relief, and many other areas where activists raise awareness by saying that things are getting worse.
 
 That progress is, of course, at least partly thanks to these activists. Maybe they could achieve even more, though, if they did not have such a singular perspective. If they had a better understanding themselves of the progress that had been made and a greater willingness to communicate it to those they seek to engage. It can be energizing to hear evidence of progress rather than a constant restatement of the problem.
 
-UNICEF, Save the Children, Amnesty, and the Human Rights and Environmental Movements miss this opportunity again and again. Hammers and Nails You probably know the saying, give a child a hammer and everything looks like a nail. When you have valuable expertise, you like to see it put to use. Sometimes an expert will look around for ways in which their hard-won knowledge and skills can be applicable beyond where it’s actually useful.
+UNICEF, Save the Children, Amnesty, and the Human Rights and Environmental Movements miss this opportunity again and again. Hammers and Nails. You probably know the saying, give a child a hammer and everything looks like a nail. When you have valuable expertise, you like to see it put to use.
 
-So people with math skills can get fixated on the numbers. Minute activists argue for solar everywhere. And physicians promote medical treatment where prevention would be better. Great knowledge can interfere with an expert’s ability to see what actually works.
+Sometimes an expert will look around for ways in which their hard-won knowledge and skills can be applicable beyond where it’s actually useful. So people with math skills can get fixated on the numbers. Minute activists argue for solar everywhere. And physicians promote medical treatment where prevention would be better.
+
+Great knowledge can interfere with an expert’s ability to see what actually works.
 
 
 <a id="sec-061909"></a>
 ### ⏱️ [06:19:09 - 06:24:15]
 
-All these solutions are great for solving some problem, but none of them will solve all problems. It is better to look at the world in lots of different ways. Numbers are not the single solution. I don’t love numbers. I am a huge, huge fan of data.
+All these solutions are great for solving some problem, but none of them will solve all problems. It is better to look at the world in lots of different ways. Numbers are not the single solution. I don’t love numbers.
 
-But I don’t love it. It has its limits. I love data only when it helps me to understand the reality behind the numbers. That is, people’s lives.
+I am a huge, huge fan of data. But. I don’t love it. It has its limits.
 
-In my research, I have needed the data to test my hypotheses. But the hypotheses themselves often emerge from talking to, listening to, and observing people. Though we absolutely need numbers to understand the world, we should be highly skeptical about conclusions derived purely from number crunching. The Prime Minister of Mozambique from 1994 to 2004, Pasquale Mokumbi, visited Stockholm in 2002 and told me that his country was making great economic progress.
+I love data only when it helps me to understand the reality behind the numbers. That is, people’s lives. In my research, I have needed the data to test my hypotheses. But the hypotheses themselves often emerge from talking to, listening to, and observing people.
 
-I asked him how he knew. After all, the quality of the economic statistics in Mozambique was probably not very good. Had he looked at GDP per capita? I do look at those figures, he said.
+Though we absolutely need numbers to understand the world, we should be highly skeptical about conclusions derived purely from number crunching. The Prime Minister of Mozambique from 1994 to 2004, Pasquale Mokumbi, visited Stockholm in 2002 and told me that his country was making great economic progress. I asked him how he knew. After all, the quality of the economic statistics in Mozambique was probably not very good.
 
-But they are not so accurate. So I have made it a habit to watch the marches on May 1st every year. They are a popular tradition in our country. And I look at people’s feet.
+Had he looked at GDP per capita? I do look at those figures, he said. But they are not so accurate. So.
 
-And what kind of shoes they have. I know that people do their best to look good on that day. I know that they cannot borrow their friend’s shoes because their friend will be out marching too. So I look, and I can see if they walk barefoot, or if they have bad shoes, or if they have good shoes, and I can compare what I see with what I saw last year.
+I have made it a habit to watch the marches on May 1st every year. They are a popular tradition in our country. And. I look at people’s feet.
 
-Also when I travel across the country, I look at the construction going on. If the grass is growing over new foundations, that is bad. But if they keep putting new bricks on, then I know people have money to invest, not just to consume day to day. A wise prime minister looks at the numbers, but not only at the numbers.
+And what kind of shoes they have. I know that people do their best to look good on that day. I know that they cannot borrow their friend’s shoes because their friend will be out marching too. So.
 
-And of course some of the most valued and important aspects of human development cannot be measured in numbers at all. We can estimate suffering from disease using numbers. We can measure improvements in material living conditions using numbers. But the end goal of economic growth is individual freedom and culture.
+I look, and. I can see if they walk barefoot, or if they have bad shoes, or if they have good shoes, and. I can compare what. I see with what.
 
-And these values are difficult to capture with numbers. The idea of measuring human progress in numbers seems completely bizarre to many people. I often agree. The numbers will never tell the full story of what life on earth is all about.
+I saw last year. Also when. I travel across the country, I look at the construction going on. If the grass is growing over new foundations, that is bad.
 
-The world cannot be understood without numbers, but the world cannot be understood with numbers alone. Medicine is not the single solution. Medical professionals can become very single-minded about medicine, or even a particular kind of medicine. In the 1950s, a Danish public health doctor, Helpdan Malo, suggested to the World Health Organization a way to eradicate tuberculosis.
+But if they keep putting new bricks on, then. I know people have money to invest, not just to consume day to day. A wise prime minister looks at the numbers, but not only at the numbers. And of course some of the most valued and important aspects of human development cannot be measured in numbers at all.
 
-His project sent small buses with x-ray machines trundling around villages in India. It was a simple idea. Eradicate one disease and it’s gone. The plan was to x-ray the whole population, find those with TB, and treat them.
+We can estimate suffering from disease using numbers. We can measure improvements in material living conditions using numbers. But the end goal of economic growth is individual freedom and culture. And these values are difficult to capture with numbers.
 
-But it failed, because the people got angry. They all had tons of urgent health problems, and finally here was a bus with nurses and doctors. But instead of fixing a broken bone, or giving fluids for diarrhea, or helping a woman in childbirth, they wanted to x-ray everyone for a disease they had never heard of. Out of the failure of this attempt to eradicate one single disease came the insight that instead of fighting this disease or that disease, it is wiser to provide and gradually improve
+The idea of measuring human progress in numbers seems completely bizarre to many people. I often agree. The numbers will never tell the full story of what life on earth is all about. The world cannot be understood without numbers, but the world cannot be understood with numbers alone.
+
+Medicine is not the single solution. Medical professionals can become very single-minded about medicine, or even a particular kind of medicine. In the 1950s, a Danish public health doctor, Helpdan Malo, suggested to the World Health Organization a way to eradicate tuberculosis. His project sent small buses with x-ray machines trundling around villages in India.
+
+It was a simple idea. Eradicate one disease and it’s gone. The plan was to x-ray the whole population, find those with TB, and treat them. But it failed, because the people got angry.
+
+They all had tons of urgent health problems, and finally here was a bus with nurses and doctors. But instead of fixing a broken bone, or giving fluids for diarrhea, or helping a woman in childbirth, they wanted to x-ray everyone for a disease they had never heard of. Out of the failure of this attempt to eradicate one single disease came the insight that instead of fighting this disease or that disease, it is wiser to provide and gradually improve
 
 
 <a id="sec-062415"></a>
@@ -2156,39 +2342,45 @@ Big pharma is currently failing to reach huge markets in countries on levels two
 
 The hospitals were of limited use if women could not reach them, if there were no ambulances or no roads for the ambulances to travel on. Similarly, educators know that it is often the availability of electricity rather than more textbooks or even more teachers in the classroom that has the most impact on learning, as students can do their homework after sunset. Where gynaecologists never put their fingers. I was talking to some gynaecologists whose job it was to collect data about sexually transmitted diseases in poor communities.
 
-These professionals were ready to put their fingers anywhere on people and to ask them all kinds of questions about their sexual activities. I was interested to know whether some STDs were more common in some income groups, and so I asked them to include a question about income on their forms. They looked at me and said, what? You can’t ask people about their incomes. That is an extremely private question.
+These professionals were ready to put their fingers anywhere on people and to ask them all kinds of questions about their sexual activities. I was interested to know whether some STDs were more common in some income groups, and so. I asked them to include a question about income on their forms. They looked at me and said, what?
 
-The one place they didn’t want to put their fingers was in people’s wallets. Some years later I met the team at the World Bank who organized the global income surveys and I asked them to include questions about sexual activity in their survey. I was still wondering about any relationships between sexual behavior and income levels. Their reaction was more or less the same.
+You can’t ask people about their incomes. That is an extremely private question. The one place they didn’t want to put their fingers was in people’s wallets. Some years later.
+
+I met the team at the World Bank who organized the global income surveys and. I asked them to include questions about sexual activity in their survey. I was still wondering about any relationships between sexual behavior and income levels. Their reaction was more or less the same.
 
 They were happy to ask people all kinds of questions about their income, the black market, and so on. But sex? Absolutely not. It’s strange where people end up drawing their lines and how well behaved they feel if they stay inside their boxes.
 
 The ideologues. A big idea can unite people like nothing else and allow us to build the society of our dreams. Ideology has given us liberal democracy and public health insurance, but ideologues can become just as fixated as experts and activists on their one idea or one solution. With even more harmful outcomes, the absurd consequences of focusing fanatically on a single idea like free markets or equality, instead of on measuring performance and on doing what works are obvious to anyone who spends much time looking at the realities of life in Cuba and the United States.
 
-Cuba. The healthiest of the poor. I spent some time in Cuba in 1993 investigating a devastating epidemic that was affecting 40,000 people. I had several encounters with President Fidel Castro himself, and I met many skilled, highly educated and dedicated professionals at the Ministry of Health doing their best within an inflexible and oppressive system.
+Cuba. The healthiest of the poor. I spent some time in Cuba in 1993 investigating a devastating epidemic that was affecting 40,000 people. I had several encounters with President Fidel Castro himself, and.
 
-Having lived and worked in a Communist country, Mozambique, I went to Cuba with great curiosity but no romantic ideas whatsoever, and I didn’t develop any while I was there.
+I met many skilled, highly educated and dedicated professionals at the Ministry of Health doing their best within an inflexible and oppressive system. Having lived and worked in a Communist country, Mozambique, I went to Cuba with great curiosity but no romantic ideas whatsoever, and. I didn’t develop any while. I was there.
 
 
 <a id="sec-062918"></a>
 ### ⏱️ [06:29:18 - 06:34:19]
 
-I could tell you countless stories of the nonsense I saw in Cuba. The local moonshine, a toxic fluorescent concoction brewed inside TV tubes using water, sugar, and babies' poopy diapers to provide the yeast required for fermentation. The hotels that hadn’t planned for any guests, and so had no food. A problem we solved by driving to an old people’s home and eating their leftovers from the standard adult food rations.
+I could tell you countless stories of the nonsense. I saw in Cuba. The local moonshine, a toxic fluorescent concoction brewed inside TV tubes using water, sugar, and babies' poopy diapers to provide the yeast required for fermentation. The hotels that hadn’t planned for any guests, and so had no food.
 
-My Cuban colleague who knew his children would be expelled from university if he sent a Christmas card to his cousin. in Miami. The fact that I had to explain my research methods to Fidel Castro personally to get approval. I will restrain myself and just tell you why I was there and what I discovered. In late 1991 the poor farmers in the tobacco-growing province of Pinar del Rio had started to go colorblind and then experienced neurological problems with a loss of feeling in the arms and legs.
+A problem we solved by driving to an old people’s home and eating their leftovers from the standard adult food rations. My Cuban colleague who knew his children would be expelled from university if he sent a Christmas card to his cousin. in Miami. The fact that. I had to explain my research methods to Fidel Castro personally to get approval.
+
+I will restrain myself and just tell you why. I was there and what. I discovered. In late 1991 the poor farmers in the tobacco-growing province of Pinar del Rio had started to go colorblind and then experienced neurological problems with a loss of feeling in the arms and legs.
 
 Cuban epidemiologists had investigated and were now seeking outside help. Since the Soviet Union had just collapsed, no help could come from that direction, and in searching the literature for the few researchers in the world with experience of neurological pandemics among poor farmers, they hit on me. Conchita Huergo, a member of the Cuban Politburo, met me at the airport, and on my first day Fidel himself appeared, accompanied by armed guards, to check me over. His black sneakers squeaked on the cement floor as he circled round me.
 
 I spent three months investigating. I concluded that the poor farmers were suffering not from a mass poisoning from black market food, as rumor had it, nor from some germ causing metabolic problems, but from simple nutritional deficiency caused by global macroeconomics. The Soviet boats that had until recently been arriving full of potatoes and leaving full of Cuban sugar and cigars had not come this year. All food was strictly rationed.
 
-The people had given what little nutritious food they had to the children, the pregnant, and the old, and the heroic adults had eaten only rice and sugar. I presented this all as carefully as I could because the clear implication was that government planning had failed to provide enough food for its people. The planned economy had failed. I was thanked and sent home.
+The people had given what little nutritious food they had to the children, the pregnant, and the old, and the heroic adults had eaten only rice and sugar. I presented this all as carefully as. I could because the clear implication was that government planning had failed to provide enough food for its people. The planned economy had failed.
 
-One year later I was invited back to Havana to give a presentation to the Ministry of Health on health in Cuba in a global perspective. The Cuban government had by this point, with the help of the Venezuelan government, regained the ability to feed the Cuban people. I showed them Cuba’s special position on my health and wealth bubble chart. It had a child survival rate as high as that of the United States, on only one-quarter of the income.
+I was thanked and sent home. One year later. I was invited back to Havana to give a presentation to the Ministry of Health on health in Cuba in a global perspective. The Cuban government had by this point, with the help of the Venezuelan government, regained the ability to feed the Cuban people.
 
-The Minister of Health jumped on stage directly after I had finished and summarized my message. “'We Cubans are the healthiest of the poor,' he said. There was a big round of applause, and that turned out to be the end of the session.
+I showed them Cuba’s special position on my health and wealth bubble chart. It had a child survival rate as high as that of the United States, on only one-quarter of the income. The Minister of Health jumped on stage directly after. I had finished and summarized my message.
 
-However, that was not the message that everyone had taken from my presentation. As I moved toward the refreshments, a young man gently grabbed my arm. He softly dragged me out of the flow of the crowd, explaining that he worked with health statistics.
+“'We Cubans are the healthiest of the poor,' he said. There was a big round of applause, and that turned out to be the end of the session.
 
-Then he leaned his head close to mine, and with his mouth close to my ear he courageously whispered, ”'Your data is correct, but the conclusion of the Minister is completely wrong.'“ He looked at me as if it were a quiz, then answered his own question. ”'We are not the healthiest of the poor. We are the poorest of the healthy.'" He let go of my arm and swiftly walked away, smiling. Of course he was right. The Cuban Minister had described things from the government’s single-minded perspective, but there was also another way of looking at things.
+However, that was not the message that everyone had taken from my presentation. As. I moved toward the refreshments, a young man gently grabbed my arm. He softly dragged me out of the flow of the crowd, explaining that he worked with health statistics.
+
+Then he leaned his head close to mine, and with his mouth close to my ear he courageously whispered, ”'Your data is correct, but the conclusion of the Minister is completely wrong.'“ He looked at me as if it were a quiz, then answered his own question. ”'We are not the healthiest of the poor. We are the poorest of the healthy.'" He let go of my arm and swiftly walked away, smiling. Of course, he was right. The Cuban Minister had described things from the government’s single-minded perspective, but there was also another way of looking at things.
 
 Why be pleased with being the healthiest of the poor? Don’t the Cuban people deserve to be as rich and as free as those in other healthy states?
 
@@ -2198,125 +2390,173 @@ Why be pleased with being the healthiest of the poor? Don’t the Cuban people d
 
 The United States, the sickest of the rich. Which brings us to the United States. Just as Cuba is the poorest of the healthy, because of its commitment to a single idea, the United States is the sickest of the rich. Ideologues will invite you to contrast the United States with Cuba.
 
-They will insist you must be for one or the other. If you would prefer to live in the United States than in Cuba, they say, then you must reject everything the government does in Cuba, and you must support what Cuba’s government rejects—the free market. To be clear, I would definitely prefer to live in the United States than in Cuba, but I don’t find it helpful to think like this. It is single-minded and very misleading.
+They will insist you must be for one or the other. If you would prefer to live in the United States than in Cuba, they say, then you must reject everything the government does in Cuba, and you must support what Cuba’s government rejects—the free market. To be clear, I would definitely prefer to live in the United States than in Cuba, but. I don’t find it helpful to think like this.
 
-If it is being ambitious, the United States should seek to compare itself not to Cuba—a Communist country on level three—but to other capitalist countries on level four. If U. S. politicians want to make fact-based decisions, they should be driven not by ideology, but by the numbers. And if I were to choose where to live, I would choose based not on ideology, but on what a country delivers to its people. The United States spends more than twice as much per capita on health care as other capitalist countries on level four—around $9,400 compared to around $3,600.
+It is single-minded and very misleading. If it is being ambitious, the United States should seek to compare itself not to Cuba—a Communist country on level three—but to other capitalist countries on level four. If U. S. politicians want to make fact-based decisions, they should be driven not by ideology, but by the numbers.
 
-And for that money, its citizens can expect lives that are three years shorter. The United States spends more per capita on health care than any other country in the world, but 39 countries have longer life expectancies. Instead of comparing themselves with extreme socialist regimes, U. S. citizens should be asking why they cannot achieve the same levels of health for the same cost as other capitalist countries that have similar resources. The answer is not difficult, by the way.
+And if. I were to choose where to live, I would choose based not on ideology, but on what a country delivers to its people. The United States spends more than twice as much per capita on health care as other capitalist countries on level four—around $9,400 compared to around $3,600. And for that money, its citizens can expect lives that are three years shorter.
 
-It is the absence of the basic public health insurance that citizens of most other countries on level four take for granted. Under the current U. S. system, rich, insured patients visit doctors more than they need, running up costs, while poor patients cannot afford even simple, inexpensive treatments and die younger than they should. Doctors spend time that could be used to save lives or treat illness, providing unnecessary, meaningless care. What a tragic waste of physician time.
+The United States spends more per capita on health care than any other country in the world, but 39 countries have longer life expectancies. Instead of comparing themselves with extreme socialist regimes, U. S. citizens should be asking why they cannot achieve the same levels of health for the same cost as other capitalist countries that have similar resources. The answer is not difficult, by the way.
 
-Actually to be completely accurate, I should say that there is a small number of rich countries with life expectancies as low as that in the United States. The rich Gulf States of Oman, Saudi Arabia, Bahrain, United Arab Emirates, and Kuwait. But these states have a very different history. Until the 1960s, when they really started getting rich on oil, their populations were poor and illiterate.
+It is the absence of the basic public health insurance that citizens of most other countries on level four take for granted. Under the current U. S. system, rich, insured patients visit doctors more than they need, running up costs, while poor patients cannot afford even simple, inexpensive treatments and die younger than they should. Doctors spend time that could be used to save lives or treat illness, providing unnecessary, meaningless care.
 
-Their health systems have been built in just two generations. Unlike the United States, these states are not constrained by a suspicion of anything governmental. And I would not be surprised if within a couple of years they all had higher life expectancies than the United States. Perhaps the United States will then be less reluctant to learn from them than it is to learn from West European countries.
+What a tragic waste of physician time. Actually to be completely accurate, I should say that there is a small number of rich countries with life expectancies as low as that in the United States. The rich Gulf States of Oman, Saudi Arabia, Bahrain, United Arab Emirates, and Kuwait. But these states have a very different history.
 
-The Communist system in Cuba is an example of the danger of getting hooked on a single perspective, the seemingly reasonable but actually bizarre idea that a central government can solve all its people’s problems. I can understand why people looking at Cuba and its inefficiencies, poverty, and lack of freedom would decide that governments should never be allowed to plan societies. The health care system in the United States is also suffering from the single perspective mindset, the seemingly reasonable but actually bizarre idea that the market can solve all a nation’s problems. I can understand why people looking at the United States and its inequalities and health care outcomes would decide that private markets and competition should never be allowed anywhere near the delivery of public goods.
+Until the 1960s, when they really started getting rich on oil, their populations were poor and illiterate. Their health systems have been built in just two generations. Unlike the United States, these states are not constrained by a suspicion of anything governmental. And.
 
-As with most discussions about the private versus the public sector, the answer is not either or. It is case by case, and it is both. The challenge is to find the right balance between regulation and freedom. Even democracy is not the single solution.
+I would not be surprised if within a couple of years they all had higher life expectancies than the United States. Perhaps, the United States will then be less reluctant to learn from them than it is to learn from West European countries. The Communist system in Cuba is an example of the danger of getting hooked on a single perspective, the seemingly reasonable but actually bizarre idea that a central government can solve all its people’s problems. I can understand why people looking at Cuba and its inefficiencies, poverty, and lack of freedom would decide that governments should never be allowed to plan societies.
 
-This
+The health care system in the United States is also suffering from the single perspective mindset, the seemingly reasonable but actually bizarre idea that the market can solve all a nation’s problems. I can understand why people looking at the United States and its inequalities and health care outcomes would decide that private markets and competition should never be allowed anywhere near the delivery of public goods. As with most discussions about the private versus the public sector, the answer is not either or.
+
+It is case by case, and it is both. The challenge is to find the right balance between regulation and freedom. Even democracy is not the single solution. This
 
 
 <a id="sec-063925"></a>
 ### ⏱️ [06:39:25 - 06:44:28]
 
-is risky, but I am going to argue it anyway. I strongly believe that liberal democracy is the best way to run a country. People like me who believe this are often tempted to argue that democracy leads to or is even a requirement for other good things like peace, social progress, health improvements, and economic growth. But here is the thing, and it is hard to accept.
+is risky, but. I am going to argue it anyway. I strongly believe that liberal democracy is the best way to run a country. People like me who believe this are often tempted to argue that democracy leads to or is even a requirement for other good things like peace, social progress, health improvements, and economic growth.
 
-The evidence does not support this stance. Most countries that make great economic and social progress are not democracies. South Korea moved from level 1 to level 3 faster than any country had ever done, without finding oil, all the time as a military dictatorship. Of the ten countries with the fastest economic growth in 2016, nine of them score low on democracy.
+But here is the thing, and it is hard to accept. The evidence does not support this stance. Most countries that make great economic and social progress are not democracies. South Korea moved from level 1 to level 3 faster than any country had ever done, without finding oil, all the time as a military dictatorship.
 
-Anyone who claims that democracy is a necessity for economic growth and health improvements will risk getting contradicted by reality. It is better to argue for democracy as a goal in itself, instead of as a superior means to other goals we like. There is no single measure, not GDP per capita, not child mortality, as in Cuba, not individual freedom, as in the United States, not even democracy, whose improvement will guarantee improvements in all the others. There is no single indicator through which we can measure the progress of a nation.
+Of the ten countries with the fastest economic growth in 2016, nine of them score low on democracy. Anyone who claims that democracy is a necessity for economic growth and health improvements will risk getting contradicted by reality. It is better to argue for democracy as a goal in itself, instead of as a superior means to other goals we like. There is no single measure, not GDP per capita, not child mortality, as in Cuba, not individual freedom, as in the United States, not even democracy, whose improvement will guarantee improvements in all the others.
 
-Reality is just more complicated than that. The world cannot be understood without numbers, nor through numbers alone. A country cannot function without a government, but the government cannot solve every problem. Neither the public sector nor the private sector is always the answer.
+There is no single indicator through which we can measure the progress of a nation. Reality is just more complicated than that. The world cannot be understood without numbers, nor through numbers alone. A country cannot function without a government, but the government cannot solve every problem.
 
-No single measure of a good society can drive every other aspect of its development. It’s not either or. It’s both, and it’s case by case. Factfulness.
+Neither the public sector nor the private sector is always the answer. No single measure of a good society can drive every other aspect of its development. It’s not either or. It’s both, and it’s case by case.
 
-Factfulness is recognizing that a single perspective can limit your imagination, and remembering that it is better to look at problems from many angles to get a more accurate understanding and find practical solutions. To control the single perspective instinct, get a toolbox, not a hammer. Test your ideas. Don’t collect only examples that show how excellent your favorite ideas are.
+Factfulness. Factfulness is recognizing that a single perspective can limit your imagination, and remembering that it is better to look at problems from many angles to get a more accurate understanding and find practical solutions. To control the single perspective instinct, get a toolbox, not a hammer. Test your ideas.
 
-Have people who disagree with you test your ideas and find their weaknesses. Limited expertise. Don’t claim expertise beyond your field. Be humble about what you don’t know.
+Don’t collect only examples that show how excellent your favorite ideas are. Have people who disagree with you test your ideas and find their weaknesses. Limited expertise. Don’t claim expertise beyond your field.
 
-Be aware, too, of the limits of the expertise of others. Hammers and nails. If you are good with a tool, you may want to use it too often. If you have analyzed a problem in depth, you can end up exaggerating the importance of that problem or of your solution.
+Be humble about what you don’t know. Be aware, too, of the limits of the expertise of others. Hammers and nails. If you are good with a tool, you may want to use it too often.
 
-Remember that no one tool is good for everything. If your favorite idea is a hammer, look for colleagues with screwdrivers, wrenches, and tape measures. Be open to ideas from other fields. Numbers but not only numbers.
+If you have analyzed a problem in depth, you can end up exaggerating the importance of that problem or of your solution. Remember that no one tool is good for everything. If your favorite idea is a hammer, look for colleagues with screwdrivers, wrenches, and tape measures. Be open to ideas from other fields.
 
-The world cannot be understood without numbers, and it cannot be understood with numbers alone. Love numbers for what they tell you about real lives. Beware of simple ideas and simple solutions. History is full of visionaries who use simple utopian visions to justify terrible actions.
+Numbers but not only numbers. The world cannot be understood without numbers, and it cannot be understood with numbers alone. Love numbers for what they tell you about real lives. Beware of simple ideas and simple solutions.
 
-Welcome complexity. Combine ideas. Compromise. Solve problems on a case-by-case basis.
+History is full of visionaries who use simple utopian visions to justify terrible actions. Welcome complexity. Combine ideas. Compromise.
 
-#### Chapter 9.
+Solve problems on a case-by-case basis.
 
-The Blame Instinct. About magic washing machines and money-making robots. Let’s beat up Grandma. I was lecturing at the Karolinska Institute explaining that the big pharmaceutical companies do hardly any research on malaria and nothing at all on sleeping sickness or other illnesses that affect only the poorest.
+#### Chapter 9. The Blame Instinct. About magic washing machines and money-making robots. Let’s beat up Grandma.
 
-A student sitting in the front said, “Let’s punch them in the face.”
+I was lecturing at the Karolinska Institute explaining that the big pharmaceutical companies do hardly any research on malaria and nothing at all on sleeping sickness or other illnesses that affect only the poorest. A student sitting in the front said, “Let’s punch them in the face.”
 
 
 <a id="sec-064428"></a>
 ### ⏱️ [06:44:28 - 06:49:31]
 
-Aha! I said. I am actually going to Novartis in the fall. Novartis is a global pharma company based in Switzerland, and I had been invited to give a lecture there.
+Aha! I said. I am actually going to Novartis in the fall. Novartis is a global pharma company based in Switzerland, and.
 
-If you explain to me what I will achieve and who I should punch, I could try it. Who should I punch in the face? Is it just anybody who works there? No, no, no, no. It’s the boss.
+I had been invited to give a lecture there. If you explain to me what. I will achieve and who. I should punch, I could try it.
 
-Said that guy aha okay, so it’s Daniel Vasella That was the name of the boss back then Well, I do know Daniel Vasella a bit When I see him in the fall should I punch him in the face? Will everything be good then we become a good boss and realize that he should change the company’s research priorities a student farther back answered No, you have to punch the board members in the face Well, that is actually interesting because I will probably speak in front of the board in the afternoon So then I’ll stay calm in the morning when I see Daniel But when I get to the boardroom, I’ll walk around and punch as many as I can I will of course not have time to knock everyone down.
+Who should. I punch in the face? Is it just anybody who works there? No, no, no, no.
 
-I have no fighting experience and there is security there So they will probably stop me after three or four, but should I do that then? You think this will make the board change its research policy? No Said a third student Novartis is a public company. It’s not the boss or the board who decides it’s the shareholders If the board changes its priorities, the shareholders will just elect a new board That’s right.
+It’s the boss. Said that guy aha okay, so it’s Daniel Vasella. That was the name of the boss back then Well, I do know Daniel Vasella a bit. When I see him in the fall should.
 
-I said It’s the shareholders who want this company to spend their money on researching rich people’s illnesses That’s how they get a good return on their shares So there’s nothing wrong with the employees the boss or the board then Now the question is I looked the student who had first suggested the face punching who owns the shares in those big pharmaceutical companies Well, it’s the rich He shrugged No It’s actually interesting because pharmaceutical shares are very stable When the stock market goes up and down or oil prices go up and down Farmers shares keep giving a pretty steady return Many other kinds of company shares follow the economy They do better or worse as people go on spending sprees or cut back But the cancer patients always need treatment.
+I punch him in the face? Will everything be good then we become a good boss and realize that he should change the company’s research priorities a student farther back answered No, you have to punch the board members in the face Well, that is actually interesting because. I will probably speak in front of the board in the afternoon. So then.
 
-So who owns the shares in these stable companies? My young audience looked back at me their faces like one big question mark. It’s retirement funds Silence So maybe I don’t have to do any punching Because I will not meet the shareholders But you will This weekend go visit your grandma and punch her in the face if You feel you need someone to blame and punish it’s the seniors and their greedy need for stable stocks and Remember last summer when you went backpacking and grandma gave you a little extra travel money Well, maybe you should give that back to her so she can give it back to Novartis and ask them to invest in poor people’s health or Maybe you spent it already and you should punch yourself in the face the blame instinct The blame instinct is the instinct to find a clear simple reason for why something bad has happened.
+I’ll stay calm in the morning when. I see Daniel. But when. I get to the boardroom, I’ll walk around and punch as many as.
 
-I Had this instinct just recently and I was taking a shower in a hotel and turned the warm handled up to maximum Nothing happened Then seconds later, I was being burned by scorching water In those moments, I was furious with the plumber and then the hotel manager and then the person who might be running cold water next door But no one was to blame No one had intentionally caused me harm or been neglectful Except perhaps me when I didn’t have the patience to turn the warm handle more gradually It seems that it comes very naturally for us to decide that when things go wrong
+I can. I will of course not have time to knock everyone down. I have no fighting experience and there is security there. So they will probably stop me after three or four, but should.
+
+I do that then? You think this will make the board change its research policy? No. Said a third student Novartis is a public company.
+
+It’s not the boss or the board who decides it’s the shareholders. If the board changes its priorities, the shareholders will just elect a new board. That’s right. I said.
+
+It’s the shareholders who want this company to spend their money on researching rich people’s illnesses. That’s how they get a good return on their shares. So there’s nothing wrong with the employees the boss or the board then. Now the question is.
+
+I looked the student who had first suggested the face punching who owns the shares in those big pharmaceutical companies Well, it’s the rich. He shrugged No. It’s actually interesting because pharmaceutical shares are very stable. When the stock market goes up and down or oil prices go up and down Farmers shares keep giving a pretty steady return Many other kinds of company shares follow the economy.
+
+They do better or worse as people go on spending sprees or cut back. But the cancer patients always need treatment. So who owns the shares in these stable companies? My young audience looked back at me their faces like one big question mark.
+
+It’s retirement funds Silence. So maybe. I don’t have to do any punching. Because I will not meet the shareholders.
+
+But you will. This weekend go visit your grandma and punch her in the face if. You feel you need someone to blame and punish it’s the seniors and their greedy need for stable stocks and Remember last summer when you went backpacking and grandma gave you a little extra travel money Well, maybe you should give that back to her so she can give it back to Novartis and ask them to invest in poor people’s health or Maybe you spent it already and you should punch yourself in the face the blame instinct The blame instinct is the instinct to find a clear simple reason for why something bad has happened.
+
+I Had this instinct just recently and. I was taking a shower in a hotel and turned the warm handled up to maximum Nothing happened. Then seconds later, I was being burned by scorching water. In those moments, I was furious with the plumber and then the hotel manager and then the person who might be running cold water next door.
+
+But no one was to blame No one had intentionally caused me harm or been neglectful Except perhaps me when. I didn’t have the patience to turn the warm handle more gradually. It seems that it comes very naturally for us to decide that when things go wrong
 
 
 <a id="sec-064931"></a>
 ### ⏱️ [06:49:31 - 06:54:35]
 
-It must be because some bad individual with some bad intentions We like to believe that things happen because someone wanted them to That individuals have power and agency Otherwise the world feels unpredictable confusing and frightening The blame instinct makes us exaggerate the importance of individuals or of particular groups This instinct to find a guilty party Derails our ability to develop a true fact-based understanding of the world It steals our focus as we obsess about someone to blame Then blocks our learning because once we have decided who to punch in the face We stop looking for explanations elsewhere This undermines our ability to solve the problem or prevent it from happening again Because we are stuck with over simplistic finger pointing which distracts us from the more complex truth and Prevents us from focusing our energy in the right places For example blaming an airplane crash on a sleepy pilot will not help stop future crashes to do that We must ask Why was he sleepy?
+It must be because some bad individual with some bad intentions. We like to believe that things happen because someone wanted them to. That individuals have power and agency Otherwise the world feels unpredictable confusing and frightening The blame instinct makes us exaggerate the importance of individuals or of particular groups. This instinct to find a guilty party Derails our ability to develop a true fact-based understanding of the world.
 
-How can we regulate against sleepy pilots in the future? If we stop thinking when we find the sleepy pilot we make no progress To understand most of the world’s significant problems. We have to look beyond a guilty individual and to the system The same instinct is triggered when things go well Claim comes just as easily as blame When something goes well We are very quick to give the credit to an individual or a simple cause when again, it is usually more complicated If you really want to change the world you have to understand it Following your blame instinct isn’t going to help Playing the blame game The blame game often reveals our preferences We tend to look for bad guys who confirm our existing beliefs Let’s look at some of the people we most love to point the finger at Evil businessmen lying journalists and foreigners business I Always try to be analytical but even so I am often floored by my instincts This particular time perhaps I had been reading too many cartoons featuring Scrooge McDuck Donald Duck’s rich greedy uncle Perhaps back then I was as lazy in my thinking about commercial pharma as my students were many years later At any rate when UNICEF asked me to investigate a bid for a contract to provide malaria tablets to Angola I got suspicious The numbers looked odd and all I could think was that I was going to uncover a scam Some dishonest business was trying to rip off UNICEF and I was going to find out how UNICEF runs competitive bids for pharmaceutical companies to provide it with medicines over a 10-year period The length and size of the contracts makes them attractive and bidders tend to offer very good prices However on this occasion a small family business called Revo Farm Based in Lugano and the Swiss Alps had put in an unbelievably low bid In fact the price they wanted per pill was lower than the cost of the raw materials My job was to go over there and find out what was going on I flew to Zurich then took a small plane to the little airport in Lugano I was expecting to be met by a representative of a shabby corner cutting outfit But instead whisked away in a limousine and deposited at the most luxurious hotel I had ever been in I rang home to Angnetta and whispered to her silk sheets The next morning I was driven out to the factory to inspect I shook the manager’s hand then went straight in with my questions You buy the raw material from Budapest turn it into pills Put the pills in containers put the containers in boxes put the boxes in a shipping container and get the container to Genoa How can you do all of that for less than the cost of the raw materials?
+It steals our focus as we obsess about someone to blame. Then blocks our learning because once we have decided who to punch in the face. We stop looking for explanations elsewhere. This undermines our ability to solve the problem or prevent it from happening again.
 
-Do you get some special price from the Hungarians? We pay the same price as everyone else to the Hungarians He told me and you pick me up in a limousine
+Because we are stuck with over simplistic finger pointing which distracts us from the more complex truth and Prevents us from focusing our energy in the right places. For example, blaming an airplane crash on a sleepy pilot will not help stop future crashes to do that. We must ask. Why was he sleepy?
+
+How can we regulate against sleepy pilots in the future? If we stop thinking when we find the sleepy pilot we make no progress To understand most of the world’s significant problems. We have to look beyond a guilty individual and to the system The same instinct is triggered when things go well Claim comes just as easily as blame. When something goes well.
+
+We are very quick to give the credit to an individual or a simple cause when again, it is usually more complicated. If you really want to change the world you have to understand it Following your blame instinct isn’t going to help Playing the blame game The blame game often reveals our preferences. We tend to look for bad guys who confirm our existing beliefs Let’s look at some of the people we most love to point the finger at Evil businessmen lying journalists and foreigners business.
+
+I Always try to be analytical but even so. I am often floored by my instincts. This particular time perhaps. I had been reading too many cartoons featuring Scrooge McDuck Donald Duck’s rich greedy uncle.
+
+Perhaps, back then. I was as lazy in my thinking about commercial pharma as my students were many years later. At any rate when UNICEF asked me to investigate a bid for a contract to provide malaria tablets to Angola. I got suspicious The numbers looked odd and all.
+
+I could think was that. I was going to uncover a scam Some dishonest business was trying to rip off UNICEF and. I was going to find out how UNICEF runs competitive bids for pharmaceutical companies to provide it with medicines over a 10-year period The length and size of the contracts makes them attractive and bidders tend to offer very good prices.
+
+However, on this occasion a small family business called Revo Farm Based in Lugano and the Swiss Alps had put in an unbelievably low bid. In fact, the price they wanted per pill was lower than the cost of the raw materials. My job was to go over there and find out what was going on. I flew to Zurich then took a small plane to the little airport in Lugano.
+
+I was expecting to be met by a representative of a shabby corner cutting outfit. But instead whisked away in a limousine and deposited at the most luxurious hotel. I had ever been in. I rang home to Angnetta and whispered to her silk sheets The next morning.
+
+I was driven out to the factory to inspect. I shook the manager’s hand then went straight in with my questions. You buy the raw material from Budapest turn it into pills Put the pills in containers put the containers in boxes put the boxes in a shipping container and get the container to Genoa. How can you do all of that for less than the cost of the raw materials?
+
+Do you get some special price from the Hungarians? We pay the same price as everyone else to the Hungarians. He told me and you pick me up in a limousine
 
 
 <a id="sec-065435"></a>
 ### ⏱️ [06:54:35 - 06:59:35]
 
-Where are you making your money? He smiled It works like this a Few years ago. We saw that robotics was going to change this industry We built this little factory with the world’s fastest pill making machine, which we invented All our other processes are highly automated, too The big companies factories look like craftsman’s workshops compared with us So we order supplies from Budapest on Monday at 6 a.m. The active ingredient chloroquine arrives here on the train By Wednesday afternoon a year’s supply of malaria pills for Angola are packed in boxes Ready to ship by Thursday morning.
+Where are you making your money? He smiled. It works like this a Few years ago. We saw that robotics was going to change this industry.
 
-They are at the port in Genoa UNICEF’s buyer inspects the pills and signs that he received them and the money is paid that day into our Zurich bank account But come on you were selling it for less than you bought it for That’s right The Hungarians give us 30 days credit and UNICEF pays us after only four of those days That gives us 26 days left to earn interest while the money is sitting in our account Wow, I Couldn’t find the words.
+We built this little factory with the world’s fastest pill making machine, which we invented All our other processes are highly automated, too The big companies factories look like craftsman’s workshops compared with us. So we order supplies from Budapest on Monday at 6 a.m. The active ingredient chloroquine arrives here on the train. By Wednesday afternoon a year’s supply of malaria pills for Angola are packed in boxes Ready to ship by Thursday morning.
 
-I hadn’t even thought of that option my mind had been blocked with the idea that UNICEF were the good guys and Farmer were the bad guys with an evil plot. I had been completely ignorant about the innovative power of small businesses They turned out to be good guys, too with a fantastic ability to find cheaper solutions Journalists It is fashionable for intellectuals and politicians To point a finger at the media and blame them for not reporting the truth Maybe it even sounded like I was doing that myself in earlier chapters Instead of pointing our fingers at journalists We should be asking why does the media present such a distorted picture of the world?
+They are at the port in Genoa UNICEF’s buyer inspects the pills and signs that he received them and the money is paid that day into our Zurich bank account. But come on you were selling it for less than you bought it for. That’s right The Hungarians give us 30 days credit and UNICEF pays us after only four of those days. That gives us 26 days left to earn interest while the money is sitting in our account Wow, I Couldn’t find the words.
 
-The journalists really mean to give us a distorted picture or could there be another explanation? I am NOT getting into the debate about deliberately manufactured fake news That is something else altogether and nothing to do with journalism And by the way, I do not believe that fake news is the major culprit for our distorted worldview We haven’t only just started to get the world wrong. I think we have always gotten it wrong In 2013 we posted results from gap minders ignorance project online The findings quickly became top stories on both BBC and CNN the two channels posted our questions on their website so people could test themselves and they got Thousands of comments trying to analyze why the heck people were getting such worse than random bad results one comment caught our attention I Bet no member of the media passed the test We got excited by this idea and decided to try to test it But the polling company said it was impossible to get access to groups of journalists Their employers refused to let them be tested.
+I hadn’t even thought of that option my mind had been blocked with the idea that UNICEF were the good guys and Farmer were the bad guys with an evil plot. I had been completely ignorant about the innovative power of small businesses. They turned out to be good guys, too with a fantastic ability to find cheaper solutions Journalists. It is fashionable for intellectuals and politicians To point a finger at the media and blame them for not reporting the truth Maybe it even sounded like.
 
-Of course I understood no one likes their authority to be questioned and it would be very Embarrassing for a serious news outlet to be shown to be employing journalists who knew no more than chimpanzees When people tell me things are impossible. That’s when I get really excited to try in my calendar for that year were two media conferences, so I took our polling devices along a 20-minute lecture is too short for all my questions But I could ask some one of the conferences included leading documentary film producers people from the BBC PBS.
+I was doing that myself in earlier chapters. Instead of pointing our fingers at journalists. We should be asking why does the media present such a distorted picture of the world? The journalists really mean to give us a distorted picture or could there be another explanation?
 
-National Geographic the Discovery Channel and so on It seems that these journalists and filmmakers know no more than the general public. That is less than chimpanzees If this is the case for journalists and documentarians in general and I have no reason to believe Knowledge levels would be higher among other groups of reporters or that they would have done better with other questions Then they are not guilty Journalists and documentarians are not lying that is deliberately Misleading us when they produce dramatic reports of a divided world or of nature striking back or of a population
+I am NOT getting into the debate about deliberately manufactured fake news. That is something else altogether and nothing to do with journalism. And by the way, I do not believe that fake news is the major culprit for our distorted worldview. We haven’t only just started to get the world wrong.
+
+I think we have always gotten it wrong. In 2013 we posted results from gap minders ignorance project online The findings quickly became top stories on both BBC and CNN the two channels posted our questions on their website so people could test themselves and they got Thousands of comments trying to analyze why the heck people were getting such worse than random bad results one comment caught our attention. I Bet no member of the media passed the test.
+
+We got excited by this idea and decided to try to test it. But the polling company said it was impossible to get access to groups of journalists. Their employers refused to let them be tested. Of course.
+
+I understood no one likes their authority to be questioned and it would be very Embarrassing for a serious news outlet to be shown to be employing journalists who knew no more than chimpanzees. When people tell me things are impossible. That’s when. I get really excited to try in my calendar for that year were two media conferences, so.
+
+I took our polling devices along a 20-minute lecture is too short for all my questions. But I could ask some one of the conferences included leading documentary film producers people from the BBC PBS. National Geographic the Discovery Channel and so on. It seems that these journalists and filmmakers know no more than the general public.
+
+That is less than chimpanzees. If this is the case for journalists and documentarians in general and. I have no reason to believe Knowledge levels would be higher among other groups of reporters or that they would have done better with other questions. Then they are not guilty Journalists and documentarians are not lying that is deliberately Misleading us when they produce dramatic reports of a divided world or of nature striking back or of a population
 
 
 <a id="sec-065935"></a>
 ### ⏱️ [06:59:35 - 07:04:39]
 
-Crisis discussed in serious tones with wistful piano music in the background They do not necessarily have bad intentions and blaming them is pointless Because most of the journalists and filmmakers who inform us about the world are themselves misled Do not demonize journalists. They have the same mega misconceptions as everyone else. Our press may be free and professional and truth-seeking, but independent is not the same as representative, even if every report is itself completely true. We can still get a misleading picture through the sum of true stories reporters choose to tell.
+Crisis discussed in serious tones with wistful piano music in the background. They do not necessarily have bad intentions and blaming them is pointless. Because most of the journalists and filmmakers who inform us about the world are themselves misled Do not demonize journalists. They have the same mega misconceptions as everyone else.
 
-The media is not and cannot be neutral, and we shouldn’t expect it to be. The journalists' poll results are pretty disastrous. They are the knowledge equivalent of a plane crash, but it is no more helpful to blame the journalists than it is to blame a sleepy pilot. Instead, we have to seek to understand why journalists have a distorted worldview.
+Our press may be free and professional and truth-seeking, but independent is not the same as representative, even if every report is itself completely true. We can still get a misleading picture through the sum of true stories reporters choose to tell. The media is not and cannot be neutral, and we shouldn’t expect it to be. The journalists' poll results are pretty disastrous.
 
-Answer? Because they are human beings with dramatic instincts. And what systematic flaws encourage them to produce skewed and over-dramatic news? At least part of the answer, they must compete for their consumers' attention or lose their jobs.
+They are the knowledge equivalent of a plane crash, but it is no more helpful to blame the journalists than it is to blame a sleepy pilot. Instead, we have to seek to understand why journalists have a distorted worldview. Answer? Because they are human beings with dramatic instincts.
 
-When we understand this, we will realize that it is completely unrealistic and unfair to call for the media to change in this way or that, so that it can provide us with a better reflection of reality. Reflecting reality is not something the media can be expected to do. You should not expect the media to provide you with a fact-based worldview any more than you would think it reasonable to use a set of holiday snaps of Berlin as your GPS system to help you navigate around the city.
+And what systematic flaws encourage them to produce skewed and over-dramatic news? At least part of the answer, they must compete for their consumers' attention or lose their jobs. When we understand this, we will realize that it is completely unrealistic and unfair to call for the media to change in this way or that, so that it can provide us with a better reflection of reality. Reflecting reality is not something the media can be expected to do.
 
-Refugees. In 2015, 4,000 refugees drowned in the Mediterranean Sea as they tried to reach Europe in inflatable boats. Images of children’s bodies washed up on the shores of holiday destinations evoked horror and compassion. What a tragedy.
+You should not expect the media to provide you with a fact-based worldview any more than you would think it reasonable to use a set of holiday snaps of Berlin as your GPS system to help you navigate around the city. Refugees. In 2015, 4,000 refugees drowned in the Mediterranean Sea as they tried to reach Europe in inflatable boats. Images of children’s bodies washed up on the shores of holiday destinations evoked horror and compassion.
 
-In our comfortable lives on level four in Europe and elsewhere, we started thinking, how could such a thing happen? Who was to blame? We soon worked it out. The villains were the cruel and greedy smugglers who tricked desperate families into handing over 1,000 euros per person for their places in inflatable death traps.
+What a tragedy. In our comfortable lives on level four in Europe and elsewhere, we started thinking, how could such a thing happen? Who was to blame? We soon worked it out.
 
-We stopped thinking and comforted ourselves with images of European rescue boats saving people from the wild waters. But why weren’t the refugees traveling to Europe on comfortable planes or ferry boats instead of traveling over land to Libya or Turkey and then entrusting their lives to these rickety rubber rafts? After all, all EU member states were signed up to the Geneva Convention, and it was clear that refugees from war-torn Syria would be entitled to claim asylum under its terms. I started to ask this question of journalists, friends, and people involved in the reception of the asylum seekers, but even the wisest and kindest among them came up with very strange answers.
+The villains were the cruel and greedy smugglers who tricked desperate families into handing over 1,000 euros per person for their places in inflatable death traps. We stopped thinking and comforted ourselves with images of European rescue boats saving people from the wild waters. But why weren’t the refugees traveling to Europe on comfortable planes or ferry boats instead of traveling over land to Libya or Turkey and then entrusting their lives to these rickety rubber rafts? After all, all EU member states were signed up to the Geneva Convention, and it was clear that refugees from war-torn Syria would be entitled to claim asylum under its terms.
 
-Perhaps they could not afford to fly? But we knew that the refugees were paying 1,000 euros for each place on a rubber dinghy. I went online and checked, and there were plenty of tickets from Turkey to Sweden or from Libya to London for under 50 euros. Maybe they couldn’t reach the airport.
+I started to ask this question of journalists, friends, and people involved in the reception of the asylum seekers, but even the wisest and kindest among them came up with very strange answers. Perhaps, they could not afford to fly? But we knew that the refugees were paying 1,000 euros for each place on a rubber dinghy. I went online and checked, and there were plenty of tickets from Turkey to Sweden or from Libya to London for under 50 euros.
 
-Not true. Many of them were already in Turkey or Lebanon and could easily get to the airport. And they can afford a ticket, and the planes are not overbooked. But at the check-in counter, they are stopped by the airline staff from getting onto the plane.
+Maybe they couldn’t reach the airport. Not true. Many of them were already in Turkey or Lebanon and could easily get to the airport. And they can afford a ticket, and the planes are not overbooked.
 
-Why? Because of a European Council directive from 2001 that tells member states how to combat illegal immigration. This directive says that every airline or ferry company that brings a person without proper documents into Europe must pay all the costs of returning that person to their country of origin. Of course the directive also says that it doesn’t apply to refugees who want to come to Europe based on their rights to asylum under the Geneva Convention, only to illegal immigrants.
+But at the check-in counter, they are stopped by the airline staff from getting onto the plane. Why? Because of a European Council directive from 2001 that tells member states how to combat illegal immigration. This directive says that every airline or ferry company that brings a person without proper documents into Europe must pay all the costs of returning that person to their country of origin.
 
-But that claim is meaningless. Because how should someone at the check-in desk at an airline be able to
+Of course, the directive also says that it doesn’t apply to refugees who want to come to Europe based on their rights to asylum under the Geneva Convention, only to illegal immigrants. But that claim is meaningless. Because how should someone at the check-in desk at an airline be able to
 
 
 <a id="sec-070439"></a>
@@ -2328,19 +2568,23 @@ And getting a visa is nearly impossible because the European embassies in Turkey
 
 So boats can be used for one trip only. The smugglers could not afford to send the refugees in safe boats like the fishing boats that brought 7,220 Jewish refugees from Denmark to Sweden over a few days in 1943, even if they wanted to. Our European governments claim to be honoring the Geneva Convention that entitles a refugee from a severely war- torn country to apply for and receive asylum. But their immigration policies make a mockery of this claim in practice and directly create the transport market in which the smugglers operate.
 
-There is nothing secret about this. In fact it takes some pretty blurry or blocked thinking not to see it. We have an instinct to find someone to blame, but we rarely look in the mirror. I think smart and kind people often fail to reach the terrible, guilt-inducing conclusion that our own immigration policies are responsible for the drownings of refugees.
+There is nothing secret about this. In fact, it takes some pretty blurry or blocked thinking not to see it. We have an instinct to find someone to blame, but we rarely look in the mirror. I think smart and kind people often fail to reach the terrible, guilt-inducing conclusion that our own immigration policies are responsible for the drownings of refugees.
 
-Foreigners. Remember the Indian official in Chapter 5 who so persuasively rejected the claim that India and China should be taking the blame for climate change? I use the story then to talk about the importance of per-person measures. But of course it is also about how finding someone to blame can distract us from looking at the whole system.
+Foreigners. Remember the Indian official in.
 
-The idea that India, China, and other countries moving up the levels should be blamed for climate change and that their population should be forced to live poorer lives in order to address it is shockingly well established in the West. I remember during a lecture about global trends at Tech University in Vancouver an outspoken student saying with despair in her voice, they can’t live like us. We can’t let them continue developing like this. Their emissions will kill the planet.
+#### Chapter 5 who so persuasively rejected the claim that India and China should be taking the blame for climate change?
 
-It is shocking how often I hear Westerners talking as if they hold remote controls in their hands and can make decisions about billions of lives elsewhere just by pressing a button. Looking around, I realized that her fellow students were not reacting at all. They agreed with her. Most of the human-emitted CO2 accumulated in the atmosphere was emitted over the last 50 years by countries that are now on level four.
+I use the story then to talk about the importance of per-person measures. But of course it is also about how finding someone to blame can distract us from looking at the whole system. The idea that India, China, and other countries moving up the levels should be blamed for climate change and that their population should be forced to live poorer lives in order to address it is shockingly well established in the West. I remember during a lecture about global trends at Tech University in Vancouver an outspoken student saying with despair in her voice, they can’t live like us.
 
-Canada’s per capita CO2 emissions are still twice as high as China’s and eight times as high as India’s. In fact, do you know how much of all the fossil fuel burned each year is burned by the richest billion? More than half of it. Then the second richest billion burns half of what’s left and so on and so on, down to the poorest billion who are responsible for only one percent.
+We can’t let them continue developing like this. Their emissions will kill the planet. It is shocking how often. I hear Westerners talking as if they hold remote controls in their hands and can make decisions about billions of lives elsewhere just by pressing a button.
 
-It will take at least two decades for the poorest billion to struggle from level one to level two, increasing their contribution to global CO2 emissions by roughly two percent. It will take several decades more for them to get up to levels three and four. In these circumstances, it is a testament to the blame instinct, how easily we in the West seem to shift responsibility away from ourselves and on to others. We say that they cannot live like us.
+Looking around, I realized that her fellow students were not reacting at all. They agreed with her. Most of the human-emitted CO2 accumulated in the atmosphere was emitted over the last 50 years by countries that are now on level four. Canada’s per capita CO2 emissions are still twice as high as China’s and eight times as high as India’s.
 
-The right thing to say is, we cannot live like us. The foreign disease. The body’s largest
+In fact, do you know how much of all the fossil fuel burned each year is burned by the richest billion? More than half of it. Then the second richest billion burns half of what’s left and so on and so on, down to the poorest billion who are responsible for only one percent. It will take at least two decades for the poorest billion to struggle from level one to level two, increasing their contribution to global CO2 emissions by roughly two percent.
+
+It will take several decades more for them to get up to levels three and four. In these circumstances, it is a testament to the blame instinct, how easily we in the West seem to shift responsibility away from ourselves and on to others. We say that they cannot live like us. The right thing to say is, we cannot live like us.
+
+The foreign disease. The body’s largest
 
 
 <a id="sec-070941"></a>
@@ -2354,49 +2598,57 @@ That’s not how people work. We need someone to blame and if a single foreigner
 
 The blame instinct drives us to attribute more power and influence to individuals than they deserve for bad or good. Political leaders and CEOs in particular often claim that they are more powerful than they are. Powerful leaders?
 
-For example Mao was undoubtedly an extraordinarily powerful figure whose actions had direct consequences for one billion people. But his infamous one child policy had less influence on birth rates than is commonly thought. Most often when I show the low birth numbers in Asia someone says that must be because of Mao’s one child policy. But the huge fast drop from six to three babies per woman had happened in the ten years preceding the one child policy.
+For example Mao was undoubtedly an extraordinarily powerful figure whose actions had direct consequences for one billion people. But his infamous one child policy had less influence on birth rates than is commonly thought. Most often when. I show the low birth numbers in Asia someone says that must be because of Mao’s one child policy.
 
-And during the thirty six years the policy was in place the number never fell below 1.5. Though it did in many other countries without enforcement like Ukraine, Thailand and South Korea. In Hong Kong where again the one child policy didn’t apply the number dropped even below one baby per woman. All this suggests that there were other factors at play here.
+But the huge fast drop from six to three babies per woman had happened in the ten years preceding the one child policy. And during the thirty six years the policy was in place the number never fell below 1.5. Though it did in many other countries without enforcement like Ukraine, Thailand and South Korea. In Hong Kong where again the one child policy didn’t apply the number dropped even below one baby per woman.
 
-The reasons I have already outlined for why women decide to have babies. Then the decisive command of a powerful man. The Pope is also credited with enormous influence over the sexual behavior of the one billion Catholics in the world.
+All this suggests that there were other factors at play here. The reasons. I have already outlined for why women decide to have babies. Then the decisive command of a powerful man.
 
-However despite the clear condemnation of the use of contraception by several successive popes the statistics show that contraceptive use is 60% in Catholic majority countries compared with 58% in the rest of the world. In other words it is the same. The Pope is one of the world’s most prominent moral leaders but it seems that even leaders with great political power or moral authority do not have remote controls that reach into the bedroom. The situation with abortion is different.
+The Pope is also credited with enormous influence over the sexual behavior of the one billion Catholics in the world. However, despite the clear condemnation of the use of contraception by several successive popes the statistics show that contraceptive use is 60% in Catholic majority countries compared with 58% in the rest of the world.
 
-Mao’s one child policy did have an impact. It resulted in an unknown number of forced abortions and forced sterilizations. Across the world today women and girls are still being made the victims of religious condemnation of abortion. When abortion is made illegal it doesn’t stop abortions from happening but it does make abortions more dangerous and increase the risk of women dying as a result.
+In other words, it is the same. The Pope is one of the world’s most prominent moral leaders but it seems that even leaders with great political power or moral authority do not have remote controls that reach into the bedroom. The situation with abortion is different. Mao’s one child policy did have an impact.
 
-The inside of Sister Linda’s door. In the poorest rural parts of Africa it is still the nuns who maintain many basic health services. Some of these clever hard-working and pragmatic women became my closest colleagues. Sister Linda whom I worked with in Tanzania was a devout Catholic nun who dressed all in black and prayed three times a day.
+It resulted in an unknown number of forced abortions and forced sterilizations. Across the world today women and girls are still being made the victims of religious condemnation of abortion. When abortion is made illegal it doesn’t stop abortions from happening but it does make abortions more dangerous and increase the risk of women dying as a result. The inside of Sister Linda’s door.
+
+In the poorest rural parts of Africa it is still the nuns who maintain many basic health services. Some of these clever hard-working and pragmatic women became my closest colleagues. Sister Linda whom. I worked with in Tanzania was a devout Catholic nun who dressed all in black and prayed three times a day.
 
 The door to her office was always open. She closed it only during health care consultations and on its outside the first thing you saw as you entered was a glossy picture of the Pope.
 
-One day she and I were in her office and started discussing a sensitive matter. Sister Linda stood up and closed the door and for the first time I saw what was on its inside. Another large poster and attached to it hundreds of little bags of condoms. When Sister Linda turned back around and saw
+One day she and. I were in her office and started discussing a sensitive matter. Sister Linda stood up and closed the door and for the first time. I saw what was on its inside.
+
+Another large poster and attached to it hundreds of little bags of condoms. When Sister Linda turned back around and saw
 
 
 <a id="sec-071446"></a>
 ### ⏱️ [07:14:46 - 07:19:51]
 
-my surprised face she smiled as she often did when discovering my countless stereotypes of women like her. The families need them to stop both AIDS and babies she said simply. And then she continued our discussion. More Likely Suspects I have argued that we should look at the systems, instead of looking for someone to blame when things go wrong.
+my surprised face she smiled as she often did when discovering my countless stereotypes of women like her. The families need them to stop both AIDS and babies she said simply. And then she continued our discussion. More Likely Suspects.
 
-We should also give more credit to two kinds of systems when things go right. The invisible actors behind most human success are prosaic and dull, compared to great, all-powerful leaders. Nevertheless, I want to praise them. So let’s throw a parade for the unsung heroes of global development.
+I have argued that we should look at the systems, instead of looking for someone to blame when things go wrong. We should also give more credit to two kinds of systems when things go right. The invisible actors behind most human success are prosaic and dull, compared to great, all-powerful leaders. Nevertheless, I want to praise them.
 
-Institutions and technology. Institutions. Only in a few countries with exceptionally destructive leaders and conflicts has social and economic development been halted. Everywhere else, even with the most incapable presidents imaginable, there has been progress.
+So let’s throw a parade for the unsung heroes of global development. Institutions and technology. Institutions. Only in a few countries with exceptionally destructive leaders and conflicts has social and economic development been halted.
 
-It must make one ask if the leaders are that important. And the answer probably is no. It’s the people, the many, who build a society. Sometimes when I turn the water on to wash my face in the morning and warm water comes out just like magic, I silently praise those who made it possible. The plumbers.
+Everywhere else, even with the most incapable presidents imaginable, there has been progress. It must make one ask if the leaders are that important. And the answer probably is no. It’s the people, the many, who build a society.
 
-When I’m in that mode, I’m often overwhelmed by the number of opportunities I have to feel grateful. The civil servants, nurses, teachers, lawyers, police officers, firefighters, electricians, accountants, and receptionists. These are the people building societies. These are the invisible people working in a web of related services that make up society’s institutions.
+Sometimes when. I turn the water on to wash my face in the morning and warm water comes out just like magic, I silently praise those who made it possible. The plumbers. When.
 
-These are the people we should celebrate when things are going well. In 2014, I went to Liberia to help fight Ebola because I was afraid that if it weren’t stopped, it could easily spread to the rest of the world and kill a billion people, causing more harm than any known pandemic in world history. The fight against the lethal Ebola virus was won not by an individual heroic leader, or even by one heroic organization, like Medcins Sans Frontières or UNICEF. It was won prosaically and undramatically by government staff and local health workers who created public health campaigns that changed ancient funeral practices in a matter of days, risked their lives to treat dying patients, and did the cumbersome, dangerous, and delicate work of finding and isolating all the people who had been in contact with them.
+I’m in that mode, I’m often overwhelmed by the number of opportunities. I have to feel grateful. The civil servants, nurses, teachers, lawyers, police officers, firefighters, electricians, accountants, and receptionists. These are the people building societies.
 
-Brave and patient servants of a functioning society rarely ever mentioned but the true saviors of the world. Technology The Industrial Revolution saved billions of lives not because it produced better leaders, but because it produced things like chemical detergents that could run in automatic washing machines. I was four years old when I saw my mother load a washing machine for the first time. It was a great day for my mother.
+These are the invisible people working in a web of related services that make up society’s institutions. These are the people we should celebrate when things are going well. In 2014, I went to Liberia to help fight Ebola because. I was afraid that if it weren’t stopped, it could easily spread to the rest of the world and kill a billion people, causing more harm than any known pandemic in world history.
 
-She and my father had been saving money for years to be able to buy that machine. Grandma, who had been invited to the inauguration ceremony for the new washing machine, was even more excited. She had been heating water with firewood and hand-washing laundry her whole life. Now she was going to watch electricity do that work.
+The fight against the lethal Ebola virus was won not by an individual heroic leader, or even by one heroic organization, like Medcins Sans Frontières or UNICEF. It was won prosaically and undramatically by government staff and local health workers who created public health campaigns that changed ancient funeral practices in a matter of days, risked their lives to treat dying patients, and did the cumbersome, dangerous, and delicate work of finding and isolating all the people who had been in contact with them.
 
-She was so excited that she sat on a chair in front of the machine for the entire washing cycle, mesmerized. To her the machine was a miracle. It was a miracle for my mother and me too. It was a magic machine.
+Brave and patient servants of a functioning society rarely ever mentioned but the true saviors of the world. Technology The Industrial Revolution saved billions of lives not because it produced better leaders, but because it produced things like chemical detergents that could run in automatic washing machines. I was four years old when. I saw my mother load a washing machine for the first time.
 
-Because that very day my mother said to me, Now, Hans, we have loaded the laundry. The machine will do the work. So now we can go to the library. In went the laundry and out came books.
+It was a great day for my mother. She and my father had been saving money for years to be able to buy that machine. Grandma, who had been invited to the inauguration ceremony for the new washing machine, was even more excited. She had been heating water with firewood and hand-washing laundry her whole life.
 
-Thank you, industrialization. Thank you, steel mill. Thank you, power station. Thank you, chemical processing industry, for giving us the time to read books.
+Now she was going to watch electricity do that work. She was so excited that she sat on a chair in front of the machine for the entire washing cycle, mesmerized. To her the machine was a miracle. It was a miracle for my mother and me too.
 
-Two billion people today have enough money to use a washing machine and enough time for mothers to read books,
+It was a magic machine. Because that very day my mother said to me, Now, Hans, we have loaded the laundry. The machine will do the work. So now we can go to the library.
+
+In went the laundry and out came books. Thank you, industrialization. Thank you, steel mill. Thank you, power station.
+
+Thank you, chemical processing industry, for giving us the time to read books. Two billion people today have enough money to use a washing machine and enough time for mothers to read books,
 
 
 <a id="sec-071951"></a>
@@ -2406,9 +2658,9 @@ because it is almost always the mothers who do the laundry. Fact question twelve
 
 Electricity is a basic need, which means that the vast majority, almost everyone on levels two, three and four, already has it. Still, just one in four gets the answer right. The correct answer is the most positive, as usual. Eighty percent of people have some access to electricity.
 
-It’s unstable and there are often power outages, but the world is getting there, one inauguration after another, home by home. So let’s be realistic about what the five billion people in the world who still wash their clothes by hand are hoping for, and what they will do everything they can to achieve. Expecting them to voluntarily slow down their economic growth is absolutely unrealistic. They want washing machines, electric lights, decent sewage systems, a fridge to store food, glasses if they have poor eyesight, insulin if they have diabetes, and transport to go on vacation with their families just as much as you and I do.
+It’s unstable and there are often power outages, but the world is getting there, one inauguration after another, home by home. So let’s be realistic about what the five billion people in the world who still wash their clothes by hand are hoping for, and what they will do everything they can to achieve. Expecting them to voluntarily slow down their economic growth is absolutely unrealistic. They want washing machines, electric lights, decent sewage systems, a fridge to store food, glasses if they have poor eyesight, insulin if they have diabetes, and transport to go on vacation with their families just as much as you and.
 
-Unless you are willing to forgo all those things and start hand washing your jeans and your bedsheets, why should you expect them to? Instead of finding someone to blame and expecting them to take responsibility, what we need in order to save the planet from the huge risks of climate change is a realistic plan. We must put our efforts into inventing new technologies that will enable eleven billion people to live the life that we should expect all of them to strive for, the life we are living now on level four, but with smarter solutions.
+I do. Unless you are willing to forgo all those things and start hand washing your jeans and your bedsheets, why should you expect them to? Instead of finding someone to blame and expecting them to take responsibility, what we need in order to save the planet from the huge risks of climate change is a realistic plan. We must put our efforts into inventing new technologies that will enable eleven billion people to live the life that we should expect all of them to strive for, the life we are living now on level four, but with smarter solutions.
 
 Who should you blame? It’s not the boss or the board or the shareholders who are to blame for the tragic lack of research into the diseases of the poorest. What do we gain from pointing our fingers at them? Similarly, resist the urge to blame the media for lying to you, mostly they are not, or for giving you a skewed world view, which mostly they are, but often not deliberately.
 
@@ -2420,57 +2672,71 @@ When something goes wrong, don’t look for an individual or a group to blame, e
 
 Give the system some credit.
 
-#### Chapter 10 The Urgency Instinct How now or never can block our roads and our minds, roadblocks and mental blocks. If it’s not contagious, then why did you evacuate your children and wife?
+#### Chapter 10 The Urgency Instinct. How now or never can block our roads and our minds, roadblocks and mental blocks. If it’s not contagious, then why did you evacuate your children and wife?
 
 
 <a id="sec-072454"></a>
 ### ⏱️ [07:24:54 - 07:29:55]
 
-Ask the mayor of Nakhala, eyeing me from a safe distance behind his desk. Out the window a breathtaking sun was setting over Nakhala district and its population of hundreds of thousands of extremely poor people, served by just one doctor—me. Earlier that day I had arrived back in the city from a poor coastal area in the north named Memba. There I had spent two days using my hands to diagnose hundreds of patients with a terrible unexplained disease that had completely paralyzed their legs within minutes of onset, and in severe cases made them blind.
+Ask the mayor of Nakhala, eyeing me from a safe distance behind his desk. Out the window a breathtaking sun was setting over Nakhala district and its population of hundreds of thousands of extremely poor people, served by just one doctor—me. Earlier that day. I had arrived back in the city from a poor coastal area in the north named Memba.
 
-And the mayor was right. I wasn’t a hundred percent sure it was not contagious. I hadn’t slept the previous night, but had stayed up pouring over my medical textbook until I had finally concluded that the symptoms I was seeing had not been described before. I’d guess this was some kind of poison rather than anything infectious, but I couldn’t be sure, and I had asked my wife to take our young children and leave the district.
+There. I had spent two days using my hands to diagnose hundreds of patients with a terrible unexplained disease that had completely paralyzed their legs within minutes of onset, and in severe cases made them blind. And the mayor was right. I wasn’t a hundred percent sure it was not contagious.
 
-Before I could figure out what to say, the mayor said, if you think it could be contagious, I must do something to avoid a catastrophe. I must stop the disease from reaching the city. The worst-case scenario had already unfolded in the mayor’s mind and immediately spread to mine. The mayor was a man of action.
+I hadn’t slept the previous night, but had stayed up pouring over my medical textbook until. I had finally concluded that the symptoms. I was seeing had not been described before. I’d guess this was some kind of poison rather than anything infectious, but.
 
-He stood up and said, should I tell the military to set up a roadblock and stop the buses from the north? Yes, I said. I think it’s a good idea. You have to do something.
+I couldn’t be sure, and. I had asked my wife to take our young children and leave the district. Before. I could figure out what to say, the mayor said, if you think it could be contagious, I must do something to avoid a catastrophe.
+
+I must stop the disease from reaching the city. The worst-case scenario had already unfolded in the mayor’s mind and immediately spread to mine. The mayor was a man of action. He stood up and said, should.
+
+I tell the military to set up a roadblock and stop the buses from the north? Yes, I said. I think it’s a good idea. You have to do something.
 
 The mayor disappeared to make some calls. When the sun rose over Memba the next morning, some twenty women and their youngest children were already up, waiting for the morning bus to take them to the market in Nakala to sell their goods. When they learned the bus had been cancelled, they walked down to the beach and asked the fishermen to take them by the sea route instead. The fishermen made room for everyone in their small boats, probably happy to be making the easiest money of their lives as they sailed south along the coast.
 
-Nobody could swim, and when the boats capsized in the waves, all the mothers and children and fishermen drowned. That afternoon I headed north again, past the roadblock, to continue to investigate the strange disease. As I drove through Memba, I came across a group of people lining up on the roadside dead bodies they had pulled out of the sea. I ran down to the beach, but it was too late.
+Nobody could swim, and when the boats capsized in the waves, all the mothers and children and fishermen drowned. That afternoon. I headed north again, past the roadblock, to continue to investigate the strange disease. As.
 
-I asked a man carrying the body of a young boy, why were all these children and mothers out on those fragile boats? There was no bus this morning, he said. Several minutes later I could still barely understand what I had done. Still today I can’t forgive myself.
+I drove through Memba, I came across a group of people lining up on the roadside dead bodies they had pulled out of the sea. I ran down to the beach, but it was too late. I asked a man carrying the body of a young boy, why were all these children and mothers out on those fragile boats? There was no bus this morning, he said.
 
-Why did I have to say to the mayor, you must do something? I couldn’t blame these tragic deaths on the fishermen. Desperate people who need to get to market of course take the boat, when the city authorities for some reason block their road. I have no way to tell you how I carried on with the work I had to do that day, or in the days afterward, and I didn’t talk about this to anyone else for thirty-five years.
+Several minutes later. I could still barely understand what. I had done. Still today.
 
-But I did carry on with my work, and eventually I discovered the cause of the paralytic disease. As I suspected, people had been poisoned. The surprise was that they had not eaten anything new. The cassava that formed the basis for the local diet had to be processed for three days to make it edible.
+I can’t forgive myself. Why did. I have to say to the mayor, you must do something? I couldn’t blame these tragic deaths on the fishermen.
 
-Everyone had always known that. So no one had ever even heard of anyone who had been poisoned or seen these symptoms. But this year there had been a terrible harvest across the whole country, and the government had been buying processed cassava at the highest price ever. The poor farmers were suddenly able to make that extra money they needed to escape poverty, and were selling everything they had. After a successful day of selling though, they were coming home hungry, so hungry that they couldn’t resist eating the unprocessed cassava roots straight from the fields.
+Desperate people who need to get to market of course take the boat, when the city authorities for some reason block their road. I have no way to tell you how. I carried on with the work. I had to do that day, or in the days afterward, and.
+
+I didn’t talk about this to anyone else for thirty-five years. But. I did carry on with my work, and eventually. I discovered the cause of the paralytic disease.
+
+As. I suspected, people had been poisoned. The surprise was that they had not eaten anything new. The cassava that formed the basis for the local diet had to be processed for three days to make it edible.
+
+Everyone had always known that. So no one had ever even heard of anyone who had been poisoned or seen these symptoms. But this year there had been a terrible harvest across the whole country, and the government had been buying processed cassava at the highest price ever. The poor farmers were suddenly able to make that extra money they needed to escape poverty, and were selling everything they had.
+
+After a successful day of selling though, they were coming home hungry, so hungry that they couldn’t resist eating the unprocessed cassava roots straight from the fields.
 
 
 <a id="sec-072955"></a>
 ### ⏱️ [07:29:55 - 07:35:03]
 
-At 8 p.m. on August 21, 1981, This discovery transformed me from being a district doctor to being a researcher, and I spent the next ten years of my life investigating the interplay among economies, societies, toxins, and food. Fourteen years later, in 1995, the ministers in Kinshasa, the capital of the Democratic Republic of the Congo, heard that there was an Ebola outbreak in the city of Kikwit. They got scared. They felt they had to do something.
+At 8 p.m. on August 21, 1981, This discovery transformed me from being a district doctor to being a researcher, and. I spent the next ten years of my life investigating the interplay among economies, societies, toxins, and food. Fourteen years later, in 1995, the ministers in Kinshasa, the capital of the Democratic Republic of the Congo, heard that there was an Ebola outbreak in the city of Kikwit. They got scared.
 
-They set up a roadblock. Again, there were unintended consequences. Feeding the people in the capital became a major problem, because the rural area that had always supplied most of their processed cassava was on the other side of the disease-stricken area. The city was hungry and started buying all it could from its second-largest food-producing area.
+They felt they had to do something. They set up a roadblock. Again, there were unintended consequences. Feeding the people in the capital became a major problem, because the rural area that had always supplied most of their processed cassava was on the other side of the disease-stricken area.
 
-Prices skyrocketed. And guess what? A mysterious outbreak of paralyzed legs and blindness followed. Nineteen years after that, in 2014, there was an outbreak of Ebola in the rural north of Liberia.
+The city was hungry and started buying all it could from its second-largest food-producing area. Prices skyrocketed. And guess what? A mysterious outbreak of paralyzed legs and blindness followed.
 
-Inexperienced people from rich countries got scared, and they all came up with the same idea—a roadblock. At the Ministry of Health, I encountered politicians of a higher quality. They were more experienced, and their experience made them cautious. Their main concern was that roadblocks would destroy the trust of the people abandoned behind them.
+Nineteen years after that, in 2014, there was an outbreak of Ebola in the rural north of Liberia. Inexperienced people from rich countries got scared, and they all came up with the same idea—a roadblock. At the Ministry of Health, I encountered politicians of a higher quality. They were more experienced, and their experience made them cautious.
 
-This would have been absolutely catastrophic. Ebola outbreaks are defeated by contact tracers, and depend on people honestly disclosing everybody they have touched. These heroes were sitting in poor slum dwellings, carefully interviewing people who had just lost a family member about every individual their loved one might have infected before dying. Often, of course, the person being interviewed was on that list and potentially infected.
+Their main concern was that roadblocks would destroy the trust of the people abandoned behind them. This would have been absolutely catastrophic. Ebola outbreaks are defeated by contact tracers, and depend on people honestly disclosing everybody they have touched. These heroes were sitting in poor slum dwellings, carefully interviewing people who had just lost a family member about every individual their loved one might have infected before dying.
 
-Despite the constant fear and wave-after-wave of rumors, there was no room for drastic, panicky action. The infection path could not be traced with brute force—just patient, calm, meticulous work. One single individual delicately leaving out information about his dead brother’s multiple lovers could cost a thousand lives. When we are afraid and under time pressure and thinking of worst-case scenarios, we tend to make really stupid decisions.
+Often, of course, the person being interviewed was on that list and potentially infected. Despite the constant fear and wave-after-wave of rumors, there was no room for drastic, panicky action. The infection path could not be traced with brute force—just patient, calm, meticulous work. One single individual delicately leaving out information about his dead brother’s multiple lovers could cost a thousand lives.
 
-Our ability to think analytically can be overwhelmed by an urge to make quick decisions and take immediate action. Back in Nakhala in 1981, I spent several days carefully investigating the disease, but less than a minute thinking about the consequences of closing the road. Urgency, fear, and a single-minded focus on the risks of a pandemic shut down my ability to think things through. In a rush to do something, I did something terrible—the urgency instinct.
+When we are afraid and under time pressure and thinking of worst-case scenarios, we tend to make really stupid decisions. Our ability to think analytically can be overwhelmed by an urge to make quick decisions and take immediate action. Back in Nakhala in 1981, I spent several days carefully investigating the disease, but less than a minute thinking about the consequences of closing the road. Urgency, fear, and a single-minded focus on the risks of a pandemic shut down my ability to think things through.
 
-Now or never, learn factfulness now—tomorrow may be too late. You have reached the final instinct. Now it is time for you to decide. This moment will never come back.
+In a rush to do something, I did something terrible—the urgency instinct. Now or never, learn factfulness now—tomorrow may be too late. You have reached the final instinct. Now it is time for you to decide.
 
-Never again will all these instincts be right there at the front of your mind. You have a unique opportunity today, right now, to capture the insights of this book and completely change the way you think forever. Or you can just finish the book, close it, say to yourself, that was strange, and carry on exactly as before. But you have to decide now.
+This moment will never come back. Never again will all these instincts be right there at the front of your mind. You have a unique opportunity today, right now, to capture the insights of this book and completely change the way you think forever. Or you can just finish the book, close it, say to yourself, that was strange, and carry on exactly as before.
 
-You have to act now. Will you change the way you think today or live in ignorance forever? It’s up to you. You have probably heard something like this before from a salesperson or an activist.
+But you have to decide now. You have to act now. Will you change the way you think today or live in ignorance forever? It’s up to you.
 
-Both use a lot of the same techniques. Act now or lose the chance forever. They are deliberately triggering your urgency instinct. The call to action makes you think less critically, decide more quickly, and act now.
+You have probably heard something like this before from a salesperson or an activist. Both use a lot of the same techniques. Act now or lose the chance forever. They are deliberately triggering your urgency instinct.
+
+The call to action makes you think less critically, decide more quickly, and act now.
 
 
 <a id="sec-073503"></a>
@@ -2496,33 +2762,37 @@ In most cases, they are just trying to stop me from thinking clearly. A convenie
 
 We need to create fear. That’s what Al Gore said to me at the start of our first conversation about how to teach climate change. It was 2009, and we were backstage at a TED conference in Los Angeles. Al Gore asked me to help him and use Gapminder’s bubble graphs to show a worst-case future impact of a continued increase in CO2 emissions.
 
-I had a profound respect at that time for Al Gore’s achievements in explaining and acting on climate change, and I still do. I am sure you got the fact question at the top of this section right. It’s the one question where our audiences always beat the chimps. With a large majority of people, from 94 percent in Finland, Hungary and Norway, to 81 percent in Canada and the United States, to 76 percent in Japan, knowing very well
+I had a profound respect at that time for Al Gore’s achievements in explaining and acting on climate change, and. I still do. I am sure you got the fact question at the top of this section right. It’s the one question where our audiences always beat the chimps.
+
+With a large majority of people, from 94 percent in Finland, Hungary and Norway, to 81 percent in Canada and the United States, to 76 percent in Japan, knowing very well
 
 
 <a id="sec-074006"></a>
 ### ⏱️ [07:40:06 - 07:45:06]
 
-what drastic change the climate experts are foreseeing, that high level of awareness is in no small part thanks to Al Gore. So is the enormous achievement of the 2015 Paris Agreement on reduction of climate change. He was, and still is, a hero to me. I agreed with him completely that swift action on climate change was needed, and I was excited at the thought of collaborating with him.
+what drastic change the climate experts are foreseeing, that high level of awareness is in no small part thanks to Al Gore. So is the enormous achievement of the 2015 Paris Agreement on reduction of climate change. He was, and still is, a hero to me. I agreed with him completely that swift action on climate change was needed, and.
 
-But I couldn’t agree to do what he had asked. I don’t like fear. Fear of war plus the panic of urgency made me see a Russian pilot and blood on the floor. Fear of pandemic plus the panic of urgency made me close the road and cause the drownings of all those mothers, children and fishermen.
+I was excited at the thought of collaborating with him. But. I couldn’t agree to do what he had asked. I don’t like fear.
 
-Fear plus urgency make for stupid, drastic decisions with unpredictable side effects. Climate change is too important for that. It needs systematic analysis, thought through decisions, incremental actions, and careful evaluation. And I don’t like exaggeration.
+Fear of war plus the panic of urgency made me see a Russian pilot and blood on the floor. Fear of pandemic plus the panic of urgency made me close the road and cause the drownings of all those mothers, children and fishermen. Fear plus urgency make for stupid, drastic decisions with unpredictable side effects. Climate change is too important for that.
 
-Exaggeration undermines the credibility of well-funded data. In this case, data is showing that climate change is real, that it is largely caused by greenhouse gases from human activities, such as burning fossil fuels, and that taking swift and broad action now would be cheaper than waiting until costly and unacceptable climate change happened. Exaggeration, once discovered, makes people tune out altogether. I insisted that I would never show the worst-case line without showing the probable and the best-case lines as well.
+It needs systematic analysis, thought through decisions, incremental actions, and careful evaluation. And. I don’t like exaggeration. Exaggeration undermines the credibility of well-funded data.
 
-Picking only the worst-case scenario and worse, continuing the line beyond the scientifically-based predictions would fall far outside Gapminder’s mission to help people understand the basic facts. It would be using our credibility to make a call to action. Al Gore continued to press his case for fearful animated bubbles beyond the expert forecasts over several more conversations until finally I closed the discussion down. Mr. Vice President, no numbers, no bubbles. Some aspects of the future are easier to predict than others.
+In this case, data is showing that climate change is real, that it is largely caused by greenhouse gases from human activities, such as burning fossil fuels, and that taking swift and broad action now would be cheaper than waiting until costly and unacceptable climate change happened. Exaggeration, once discovered, makes people tune out altogether. I insisted that. I would never show the worst-case line without showing the probable and the best-case lines as well.
 
-Weather forecasts are rarely accurate more than a week into the future. Forecasting a country’s economic growth and unemployment rates is also surprisingly difficult. That is because of the complexity of the systems involved. How many things do you need to predict, and how quickly do they change?
+Picking only the worst-case scenario and worse, continuing the line beyond the scientifically-based predictions would fall far outside Gapminder’s mission to help people understand the basic facts. It would be using our credibility to make a call to action. Al Gore continued to press his case for fearful animated bubbles beyond the expert forecasts over several more conversations until finally. I closed the discussion down.
 
-By next week, there will have been billions of changes of temperature, wind speed, humidity. By next month, billions of dollars will have changed hands billions of times.
+Mr. Vice President, no numbers, no bubbles. Some aspects of the future are easier to predict than others. Weather forecasts are rarely accurate more than a week into the future.
 
-In contrast, demographic forecasts are amazingly accurate decades into the future because the systems involved, essentially births and deaths, are quite simple. Children are born, grow up, have more children, and then die. Each individual cycle takes roughly 70 years. But the future is always uncertain to some degree, and whenever we talk about the future, we should be open and clear about the level of uncertainty involved.
+Forecasting a country’s economic growth and unemployment rates is also surprisingly difficult. That is because of the complexity of the systems involved. How many things do you need to predict, and how quickly do they change? By next week, there will have been billions of changes of temperature, wind speed, humidity.
 
-We should not pick the most dramatic estimates and show a worse case scenario as if it were certain. People would find out. We should ideally show a mid-forecast and also a range of alternative possibilities, from best to worst. If we have to round the numbers, we should round to our own disadvantage.
+By next month, billions of dollars will have changed hands billions of times. In contrast, demographic forecasts are amazingly accurate decades into the future because the systems involved, essentially births and deaths, are quite simple. Children are born, grow up, have more children, and then die. Each individual cycle takes roughly 70 years.
 
-This protects our reputations, and means we never give people a reason to stop listening. Insist on the data. Al Gore’s words echoed around my head long after that first conversation. To be absolutely clear, I am deeply concerned about climate change because I am convinced it is real.
+But the future is always uncertain to some degree, and whenever we talk about the future, we should be open and clear about the level of uncertainty involved. We should not pick the most dramatic estimates and show a worse case scenario as if it were certain. People would find out. We should ideally show a mid-forecast and also a range of alternative possibilities, from best to worst.
 
-As real as Ebola was in 2014. I understand the temptation to raise support by picking the worst projections and denying
+If we have to round the numbers, we should round to our own disadvantage. This protects our reputations, and means we never give people a reason to stop listening. Insist on the data. Al Gore’s words echoed around my head long after that first conversation.
+
+To be absolutely clear, I am deeply concerned about climate change because. I am convinced it is real. As real as Ebola was in 2014. I understand the temptation to raise support by picking the worst projections and denying
 
 
 <a id="sec-074506"></a>
@@ -2534,41 +2804,51 @@ Let’s instead use that energy to solve the problem by taking action, action dr
 
 We know who that is. The people on level four, who have by far the highest levels of CO2 emissions. So let’s get on with it, and let’s make sure we have a serious dataset for this serious problem so that we can track our progress. Looking for the data after my conversation with Al Gore, I was surprised how difficult it was to find.
 
-Based on great satellite images, we can track the North Pole ice cap on a daily basis. This removes any doubt that it is shrinking from year to year at a worrying speed. So we have good indications of the symptoms of global warming. But when I looked for the data to track the cause of the problem, mainly CO2 emissions, I found surprisingly little.
+Based on great satellite images, we can track the North Pole ice cap on a daily basis. This removes any doubt that it is shrinking from year to year at a worrying speed. So we have good indications of the symptoms of global warming. But when.
 
-The per capita GDP growth of countries on level four was being carefully tracked, with new official numbers released on a quarterly basis. But CO2 emissions data was being published only once every two years. So I started provoking the Swedish government to do better. In 2009, I started to lobby for quarterly publication of greenhouse gas data, if we cared about it, why weren’t we measuring it?
+I looked for the data to track the cause of the problem, mainly CO2 emissions, I found surprisingly little. The per capita GDP growth of countries on level four was being carefully tracked, with new official numbers released on a quarterly basis. But CO2 emissions data was being published only once every two years. So.
 
-How could we claim to be taking this problem seriously if we weren’t even tracking our progress? I am very proud that since 2014 Sweden now tracks quarterly greenhouse gas emissions, the first and still the only country to do so. This is factfulness in action. Statisticians from South Korea recently visited Stockholm to learn how they could do the same.
+I started provoking the Swedish government to do better. In 2009, I started to lobby for quarterly publication of greenhouse gas data, if we cared about it, why weren’t we measuring it? How could we claim to be taking this problem seriously if we weren’t even tracking our progress? I am very proud that since 2014 Sweden now tracks quarterly greenhouse gas emissions, the first and still the only country to do so.
 
-Climate change is way too important a global risk to be ignored or denied, and the vast majority of the world knows that. But it is also way too important to be left to sketchy worst-case scenarios and doomsday profits. When you are called to action, sometimes the most useful action you can take is to improve the data. A convenient fear.
+This is factfulness in action. Statisticians from South Korea recently visited Stockholm to learn how they could do the same. Climate change is way too important a global risk to be ignored or denied, and the vast majority of the world knows that. But it is also way too important to be left to sketchy worst-case scenarios and doomsday profits.
 
-Still, the volume on climate change keeps getting turned up. Many activists, convinced it is the only important global issue, have made it a practice to blame everything on the climate, to make it the single cause of all other global problems. They grab at the immediate shocking concerns of the day the war in Syria, ISIS, Ebola, HIV, shark attacks, almost anything you can imagine, to increase the feeling of urgency about the long-term problem. Sometimes the claims are based on strong scientific evidence, but in many cases they are far-fetched, unproven hypotheses.
+When you are called to action, sometimes the most useful action you can take is to improve the data. A convenient fear. Still, the volume on climate change keeps getting turned up. Many activists, convinced it is the only important global issue, have made it a practice to blame everything on the climate, to make it the single cause of all other global problems.
 
-I understand the frustrations of those struggling to make future risks feel concrete in the present, but I cannot agree with their methods. Most concerning is the attempt to attract people to the cause by inventing the term climate refugees. My best understanding is that the link between climate change and migration is very, very weak. The concept of climate refugees is mostly a deliberate exaggeration, designed to turn fear of refugees into fear of climate change, and so build a much wider base of public support for lowering CO2 emissions.
+They grab at the immediate shocking concerns of the day the war in Syria, ISIS, Ebola, HIV, shark attacks, almost anything you can imagine, to increase the feeling of urgency about the long-term problem. Sometimes the claims are based on strong scientific evidence, but in many cases they are far-fetched, unproven hypotheses. I understand the frustrations of those struggling to make future risks feel concrete in the present, but. I cannot agree with their methods.
 
-When I say this to climate activists, they often tell me that invoking fear and urgency with exaggerated or unsupported claims is justified because it is the only way to get
+Most concerning is the attempt to attract people to the cause by inventing the term climate refugees. My best understanding is that the link between climate change and migration is very, very weak. The concept of climate refugees is mostly a deliberate exaggeration, designed to turn fear of refugees into fear of climate change, and so build a much wider base of public support for lowering CO2 emissions. When.
+
+I say this to climate activists, they often tell me that invoking fear and urgency with exaggerated or unsupported claims is justified because it is the only way to get
 
 
 <a id="sec-075009"></a>
 ### ⏱️ [07:50:09 - 07:55:10]
 
-people to act on future risks. They have convinced themselves that the end justifies the means, and I agree that it might work in the short term. But crying wolf too many times puts at risk the credibility and reputation of serious climate scientists and the entire movement. With a problem as big as climate change, we cannot let that happen.
+people to act on future risks. They have convinced themselves that the end justifies the means, and. I agree that it might work in the short term. But crying wolf too many times puts at risk the credibility and reputation of serious climate scientists and the entire movement.
 
-Exaggerating the role of climate change in wars and conflicts or poverty or migration means that the other major causes of these global problems are ignored, hampering our ability to take action against them. We cannot get into a situation where no one listens anymore. Without trust, we are lost. And hot-headed claims often entrap the very activists who are using them.
+With a problem as big as climate change, we cannot let that happen. Exaggerating the role of climate change in wars and conflicts or poverty or migration means that the other major causes of these global problems are ignored, hampering our ability to take action against them. We cannot get into a situation where no one listens anymore. Without trust, we are lost.
 
-The activists defend them as a smart strategy to get people engaged and then forget that they are exaggerating and become stressed and unable to focus on realistic solutions. People who are serious about climate change must keep two thoughts in their heads at once. They must continue to care about the problem, but not become victims of their own frustrated alarmist messages. They must look at the worst-case scenarios, but also remember the uncertainty in that data.
+And hot-headed claims often entrap the very activists who are using them. The activists defend them as a smart strategy to get people engaged and then forget that they are exaggerating and become stressed and unable to focus on realistic solutions. People who are serious about climate change must keep two thoughts in their heads at once. They must continue to care about the problem, but not become victims of their own frustrated alarmist messages.
 
-When heating up others, they must keep their own brains cool so that they can make good decisions and take sensible actions and not put their credibility at risk. Ebola I described in Chapter 3 how in 2014 I was too slow to understand the dangers of the Ebola outbreak in West Africa. It was only when I saw that the trend line was doubling that I understood. Even in this most urgent and fearful of situations, though, I was determined to try to learn from my past mistakes and act on the data, not on instinct and fear.
+They must look at the worst-case scenarios, but also remember the uncertainty in that data. When heating up others, they must keep their own brains cool so that they can make good decisions and take sensible actions and not put their credibility at risk. Ebola. I described in.
 
-The numbers behind the official World Health Organization and the U. S. Centers for Disease Control and Prevention’s suspected cases curve were far from certain. Expected cases means cases that are not confirmed. There were all kinds of issues.
+#### Chapter 3 how in 2014.
+
+I was too slow to understand the dangers of the Ebola outbreak in West Africa. It was only when. I saw that the trend line was doubling that. I understood.
+
+Even in this most urgent and fearful of situations, though, I was determined to try to learn from my past mistakes and act on the data, not on instinct and fear. The numbers behind the official World Health Organization and the U. S. Centers for Disease Control and Prevention’s suspected cases curve were far from certain.
+
+Expected cases means cases that are not confirmed. There were all kinds of issues.
 
 For example, people who at some point had been suspected of having Ebola, but who it turned out had died from some other cause, were still counted as suspected cases. As fear of Ebola increased, so did suspicion, and more and more people were suspected. As the normal health services staggered under the weight of dealing with Ebola and resources had to move away from treating other life-threatening conditions, more and more people were dying from non-Eboa causes. Many of these deaths were also treated as suspect.
 
-So the rising curve of suspected cases got more and more exaggerated and told us less and less about the trend in actual confirmed cases. If you can’t track progress, you don’t know whether your actions are working. So when I arrived at the Ministry of Health in Liberia, I asked how we could get a picture of the number of confirmed cases. I learned within a day that blood samples were being sent to four different labs and their records in long and messy Excel spreadsheets were not being combined.
+So the rising curve of suspected cases got more and more exaggerated and told us less and less about the trend in actual confirmed cases. If you can’t track progress, you don’t know whether your actions are working. So when. I arrived at the Ministry of Health in Liberia, I asked how we could get a picture of the number of confirmed cases.
 
-We had hundreds of health care workers from across the world flying in to take action and software developers constantly coming up with new, pointless Ebola apps. Apps were their hammers and they were desperate for Ebola to be a nail. But no one was tracking whether the action was working or not. With permission, I sent the four Excel spreadsheets home to Ola, in Stockholm, who spent twenty-four hours cleaning and combining them by hand and then carrying out the same procedure one more time to make sure the strange thing he saw wasn’t a mistake.
+I learned within a day that blood samples were being sent to four different labs and their records in long and messy Excel spreadsheets were not being combined. We had hundreds of health care workers from across the world flying in to take action and software developers constantly coming up with new, pointless Ebola apps. Apps were their hammers and they were desperate for Ebola to be a nail. But no one was tracking whether the action was working or not.
 
-It wasn’t. When a problem seems urgent, the first thing to do is not to cry wolf, but to organize the data. To everybody’s surprise, the data came back showing that the number of confirmed cases had reached a peak two weeks earlier and was now dropping. The number of suspected cases kept increasing.
+With permission, I sent the four Excel spreadsheets home to Ola, in Stockholm, who spent twenty-four hours cleaning and combining them by hand and then carrying out the same procedure one more time to make sure the strange thing he saw wasn’t a mistake. It wasn’t. When a problem seems urgent, the first thing to do is not to cry wolf, but to organize the data. To everybody’s surprise, the data came back showing that the number of confirmed cases had reached a peak two weeks earlier and was now dropping.
+
+The number of suspected cases kept increasing.
 
 
 <a id="sec-075510"></a>
@@ -2584,19 +2864,19 @@ The people trying to solve a problem on the ground, who will always want more fu
 
 It was also data, the data showing that confirmed cases were now falling, that showed me that what was being done to fight it was working. Data was absolutely key. And because it will be key in the future, too, when there is another outbreak somewhere, it is crucial to protect its credibility and the credibility of those who produce it. Data must be used to tell the truth, not to call to action, no matter how noble the intentions.
 
-Urgent. Read this now. Urgency is one of the worst distortions of our worldview. I know I probably said that about all the other dramatic instincts, too.
+Urgent. Read this now. Urgency is one of the worst distortions of our worldview. I know.
 
-But I think maybe this one really is special. Or perhaps they all come together in this one. The over-dramatic worldview in people’s heads creates a constant sense of crisis and stress. The urgent now or never feelings it creates lead to stress or apathy.
+I probably said that about all the other dramatic instincts, too. But. I think maybe this one really is special. Or perhaps they all come together in this one.
 
-We must do something drastic. Let’s not analyze, let’s do something. Or it’s all hopeless, there’s nothing we can do, time to give up. Either way we stop thinking, give in to our instincts, and make bad decisions.
+The over-dramatic worldview in people’s heads creates a constant sense of crisis and stress. The urgent now or never feelings it creates lead to stress or apathy. We must do something drastic. Let’s not analyze, let’s do something.
 
-The five global risks we should worry about. I do not deny that there are pressing global risks we need to address. I am not an optimist painting the world in pink. I don’t get calm by looking away from problems. The five that concern me most are the risks of global pandemic, financial collapse, world war, climate change, and extreme poverty.
+Or it’s all hopeless, there’s nothing we can do, time to give up. Either way we stop thinking, give in to our instincts, and make bad decisions. The five global risks we should worry about. I do not deny that there are pressing global risks we need to address.
 
-Why is it these problems that cause me most concern? Because they are quite likely to happen. The first three of all happen before and the other two are happening now. And because each has the potential to cause mass suffering, either directly or indirectly, by pausing human progress for many years or decades.
+I am not an optimist painting the world in pink. I don’t get calm by looking away from problems. The five that concern me most are the risks of global pandemic, financial collapse, world war, climate change, and extreme poverty. Why is it these problems that cause me most concern?
 
-If we fail here, nothing else will work. These are mega killers, that we must avoid, if at all possible, by acting collaboratively and step by step. There is a sixth can… candidate for this list, it is the unknown risk. It is the probability that something we have not yet even thought of will cause terrible suffering and devastation.
+Because they are quite likely to happen. The first three of all happen before and the other two are happening now. And because each has the potential to cause mass suffering, either directly or indirectly, by pausing human progress for many years or decades. If we fail here, nothing else will work.
 
-That is
+These are mega killers, that we must avoid, if at all possible, by acting collaboratively and step by step. There is a sixth can… candidate for this list, it is the unknown risk. It is the probability that something we have not yet even thought of will cause terrible suffering and devastation. That is
 
 
 <a id="sec-080013"></a>
@@ -2608,15 +2888,19 @@ As a result, global life expectancy fell by 10 years from 33 to 23. Spanish expe
 
 It flies through the air on tiny droplets. A person can enter a subway car and infect everyone in it without them touching each other or even touching the same spot. An airborne disease like flu with the ability to spread very fast constitutes a greater threat to humanity than diseases like Ebola or HIV AIDS. Protecting ourselves in every possible way from a virus that is highly transmissible and ignores every type of defense is worth the effort, to put it mildly.
 
-The world is more ready to deal with flu than it has been in the past, but people on level one still live in societies where it can be difficult to intervene rapidly against an aggressively spreading disease. We need to ensure that basic health care reaches everyone, everywhere, so that outbreaks can be discovered more quickly. And we need the World Health Organization to remain healthy and strong to coordinate a global response. Global Collapse In a globalized world, the consequences of financial bubbles are devastating.
+The world is more ready to deal with flu than it has been in the past, but people on level one still live in societies where it can be difficult to intervene rapidly against an aggressively spreading disease. We need to ensure that basic health care reaches everyone, everywhere, so that outbreaks can be discovered more quickly. And we need the World Health Organization to remain healthy and strong to coordinate a global response. Global Collapse.
 
-They can crash the economies of entire countries and put huge numbers of people out of work, creating disgruntled citizens looking for radical solutions. A really large bank collapse could be way worse than the global eruption that started with the U. S. housing loan crash in 2009. It could crash the entire global economy. Since even the best economists in the world failed to predict the last crash and fail year on year to predict the recovery from it, because the system is too complicated for accurate predictions, there is no reason to suppose that because no one is predicting a crash, it will not happen.
+In a globalized world, the consequences of financial bubbles are devastating. They can crash the economies of entire countries and put huge numbers of people out of work, creating disgruntled citizens looking for radical solutions. A really large bank collapse could be way worse than the global eruption that started with the U. S. housing loan crash in 2009.
 
-If we had a simpler system, there might be some chance of understanding it and working out how to avoid future collapses. World War III My whole life I have done all I can to establish relations with people in other countries and cultures. It’s not only fun, but also necessary to strengthen the global safety net against the terrible human instinct for violent retaliation and the worst evil of all—war. We need Olympic games, international trade, educational exchange programs, free internet, anything that lets us meet across ethnic groups and country borders.
+It could crash the entire global economy. Since even the best economists in the world failed to predict the last crash and fail year on year to predict the recovery from it, because the system is too complicated for accurate predictions, there is no reason to suppose that because no one is predicting a crash, it will not happen. If we had a simpler system, there might be some chance of understanding it and working out how to avoid future collapses.
 
-We must take care of and strengthen our safety nets for world peace. Without world peace, none of our sustainability goals will be achievable. It’s a huge diplomatic challenge to prevent the proud and nostalgic nations with a violent track record from attacking others now that they are losing their grip on the world market. We must help the old West to find a new way to integrate itself peacefully into the new world.
+World War III My whole life. I have done all. I can to establish relations with people in other countries and cultures. It’s not only fun, but also necessary to strengthen the global safety net against the terrible human instinct for violent retaliation and the worst evil of all—war.
 
-Climate Change It is not necessary to look only at the worst-case scenario to see that climate change poses an enormous threat. The planet’s common resources like the atmosphere can only be governed by a globally respected authority, in a peaceful world abiding by global standards. This can be done. We did it already with ozone depleters and with lead in gasoline, both of which the world community reduced to almost zero
+We need Olympic games, international trade, educational exchange programs, free internet, anything that lets us meet across ethnic groups and country borders. We must take care of and strengthen our safety nets for world peace. Without world peace, none of our sustainability goals will be achievable. It’s a huge diplomatic challenge to prevent the proud and nostalgic nations with a violent track record from attacking others now that they are losing their grip on the world market.
+
+We must help the old West to find a new way to integrate itself peacefully into the new world. Climate Change. It is not necessary to look only at the worst-case scenario to see that climate change poses an enormous threat. The planet’s common resources like the atmosphere can only be governed by a globally respected authority, in a peaceful world abiding by global standards.
+
+This can be done. We did it already with ozone depleters and with lead in gasoline, both of which the world community reduced to almost zero
 
 
 <a id="sec-080515"></a>
@@ -2624,25 +2908,25 @@ Climate Change It is not necessary to look only at the worst-case scenario to se
 
 in two decades. It requires a strong, well-functioning international community. To be clear, I am talking about the UN. And it requires some sense of global solidarity toward the needs of different people on different income levels.
 
-The global community cannot claim such solidarity if it talks about denying the one billion people on level one access to electricity, which would add almost nothing to overall emissions. The richest countries emit by far the most CO2 and must start improving first before wasting time pressuring others. Extreme Poverty The other risks I have mentioned are highly probable scenarios that would bring unknown levels of future suffering. Extreme poverty isn’t really a risk.
+The global community cannot claim such solidarity if it talks about denying the one billion people on level one access to electricity, which would add almost nothing to overall emissions. The richest countries emit by far the most CO2 and must start improving first before wasting time pressuring others. Extreme Poverty The other risks. I have mentioned are highly probable scenarios that would bring unknown levels of future suffering.
 
-The suffering it causes is not unknown, and not in the future. It’s a reality, it’s misery, day to day, right now. It is also where Ebola outbreaks come from because there are no health services to encounter them in an early stage, and where civil wars start, because young men desperate for food and work and with nothing to lose tend to be more willing to join brutal guerrilla movements. It’s a vicious circle.
+Extreme poverty isn’t really a risk. The suffering it causes is not unknown, and not in the future. It’s a reality, it’s misery, day to day, right now. It is also where Ebola outbreaks come from because there are no health services to encounter them in an early stage, and where civil wars start, because young men desperate for food and work and with nothing to lose tend to be more willing to join brutal guerrilla movements.
 
-Poverty leads to civil war, and civil war leads to poverty. The civil conflicts in Afghanistan and Central Africa mean that all other sustainability projects in those places are on hold. Terrorists hide in the few remaining areas of extreme poverty. When rhinos are stuck in the middle of a civil war, it’s much more difficult to save them.
+It’s a vicious circle. Poverty leads to civil war, and civil war leads to poverty. The civil conflicts in Afghanistan and Central Africa mean that all other sustainability projects in those places are on hold. Terrorists hide in the few remaining areas of extreme poverty.
 
-Today, a period of relative world peace has enabled a growing global prosperity. A smaller proportion of people than ever before is stuck in extreme poverty, but there are still 800 million people left. Unlike with climate change, we don’t need predictions and scenarios. We know that 800 million are suffering right now.
+When rhinos are stuck in the middle of a civil war, it’s much more difficult to save them. Today, a period of relative world peace has enabled a growing global prosperity. A smaller proportion of people than ever before is stuck in extreme poverty, but there are still 800 million people left. Unlike with climate change, we don’t need predictions and scenarios.
 
-We also know the solutions—peace, schooling, universal basic health care, electricity, clean water, toilets, contraceptives, and micro-credits to get market forces started. There’s no innovation needed to end poverty. It’s all about walking the last mile with what’s worked everywhere else. And we know that the quicker we act, the smaller the problem.
+We know that 800 million are suffering right now. We also know the solutions—peace, schooling, universal basic health care, electricity, clean water, toilets, contraceptives, and micro-credits to get market forces started. There’s no innovation needed to end poverty. It’s all about walking the last mile with what’s worked everywhere else.
 
-Because as long as people remain in extreme poverty, they keep having large families and their numbers keep increasing. Providing these necessities of a decent life quickly to the final billion is a clear, fact-based priority. The hardest to help will be those stuck behind violent and chaotic armed gangs in weakly governed states. To escape poverty, they will need a stabilizing military presence of some kind.
+And we know that the quicker we act, the smaller the problem. Because as long as people remain in extreme poverty, they keep having large families and their numbers keep increasing. Providing these necessities of a decent life quickly to the final billion is a clear, fact-based priority. The hardest to help will be those stuck behind violent and chaotic armed gangs in weakly governed states.
 
-They will need police officers with guns and government authority to defend innocent citizens against violence and to allow teachers to educate the next generation in peace. Still, I’m possibleistic. The next generation is like the last runner in a very long relay race. The race to end extreme poverty has been a marathon, with the starter gun fired in 1800.
+To escape poverty, they will need a stabilizing military presence of some kind. They will need police officers with guns and government authority to defend innocent citizens against violence and to allow teachers to educate the next generation in peace. Still, I’m possibleistic. The next generation is like the last runner in a very long relay race.
 
-This next generation has the unique opportunity to complete the job—to pick up the baton, cross the line, and raise its hands in triumph. The project must be completed, and we should have a big party when we are done. Knowing that some things are enormously important is for me relaxing. These five big risks are where we must direct our energy.
+The race to end extreme poverty has been a marathon, with the starter gun fired in 1800. This next generation has the unique opportunity to complete the job—to pick up the baton, cross the line, and raise its hands in triumph. The project must be completed, and we should have a big party when we are done. Knowing that some things are enormously important is for me relaxing.
 
-These risks need to be approached with cool heads and robust independent data. These risks require global collaboration and global resourcing. These risks should be approached through baby steps and constant evaluation, not through drastic actions. These risks should be respected by all activists in all causes.
+These five big risks are where we must direct our energy. These risks need to be approached with cool heads and robust independent data. These risks require global collaboration and global resourcing. These risks should be approached through baby steps and constant evaluation, not through drastic actions.
 
-These risks are too big for us to cry wolf. I don’t tell you not to worry. I tell you to worry
+These risks should be respected by all activists in all causes. These risks are too big for us to cry wolf. I don’t tell you not to worry. I tell you to worry
 
 
 <a id="sec-081015"></a>
@@ -2664,49 +2948,59 @@ Ask how often such predictions have been right before. Be wary of drastic action
 
 Step-by-step practical improvements and evaluation of their impact are less dramatic but usually more effective.
 
-#### Chapter 11. Factfulness in Practice. How Factfulness Saved My Life. I think we should run.
+#### Chapter 11. Factfulness in Practice. How Factfulness Saved. My Life.
 
-Whispered the young teacher standing beside me. Two thoughts raced across my mind. One was that if the teacher took off, I would have no way of communicating with the agitated crowd in front of me. I grabbed his arm and held on tightly.
+I think we should run. Whispered the young teacher standing beside me. Two thoughts raced across my mind. One was that if the teacher took off, I would have no way of communicating with the agitated crowd in front of me.
 
-The other thought was something that a wise governor of Tanzania had told me. When someone threatens you with a machete, never turn your back. Stand still. Look him straight in the eye and ask him what the problem is.
+I grabbed his arm and held on tightly. The other thought was something that a wise governor of Tanzania had told me. When someone threatens you with a machete, never turn your back. Stand still.
 
-It was 1989 and I was in a remote and extremely poor village named Makanga in the Bandundu region of what was then Zaire and is now the Democratic Republic of the Congo. I was part of a team investigating an epidemic of the incurable paralytic disease called Konzo that I had first discovered in Mozambique years earlier. The research project had been two years in the planning and everything, all the approvals, drivers, translators and lab equipment had been meticulously prepared. But I had made one serious mistake.
+Look him straight in the eye and ask him what the problem is. It was 1989 and. I was in a remote and extremely poor village named Makanga in the Bandundu region of what was then Zaire and is now the Democratic Republic of the Congo. I was part of a team investigating an epidemic of the incurable paralytic disease called Konzo that.
 
-I had not explained properly to the villagers what I wanted to do and why. I wanted to interview all the villagers and take samples of their food and their blood and urine and I should have been with the head of the village when he explained that to them. That morning, as I had been quietly and methodically setting up in the hut, I heard villagers starting to gather outside. They somehow seemed uneasy, but I was occupied with getting the blood sample machine. machine to work.
+I had first discovered in Mozambique years earlier. The research project had been two years in the planning and everything, all the approvals, drivers, translators and lab equipment had been meticulously prepared. But. I had made one serious mistake.
 
-Eventually I managed to start the diesel generator and do a test run with the centrifuge. The machines were noisy, and it was only when I switched them off that I heard the raised voices.
+I had not explained properly to the villagers what. I wanted to do and why. I wanted to interview all the villagers and take samples of their food and their blood and urine and. I should have been with the head of the village when he explained that to them.
+
+That morning, as. I had been quietly and methodically setting up in the hut, I heard villagers starting to gather outside. They somehow seemed uneasy, but. I was occupied with getting the blood sample machine. machine to work.
+
+Eventually. I managed to start the diesel generator and do a test run with the centrifuge. The machines were noisy, and it was only when. I switched them off that.
+
+I heard the raised voices.
 
 
 <a id="sec-081516"></a>
 ### ⏱️ [08:15:16 - 08:20:19]
 
-Things had changed in seconds. I bent forward and stepped out of the low door. It had been dark in the hut, and when I straightened up at first I couldn’t see a thing. Then I saw a crowd of maybe fifty people, all upset and angry.
+Things had changed in seconds. I bent forward and stepped out of the low door. It had been dark in the hut, and when. I straightened up at first.
 
-Some of them were pointing their fingers at me. Two men raised muscled arms and waved big machete knives. That was when the teacher, my translator, suggested we run. I looked right and left and saw nowhere to go.
+I couldn’t see a thing. Then. I saw a crowd of maybe fifty people, all upset and angry. Some of them were pointing their fingers at me.
 
-If the villagers really wanted to hurt me, there were enough of them to hold me back and let the machete man cut me down. What’s the problem? I asked the teacher. They are saying that you are selling the blood.
+Two men raised muscled arms and waved big machete knives. That was when the teacher, my translator, suggested we run. I looked right and left and saw nowhere to go. If the villagers really wanted to hurt me, there were enough of them to hold me back and let the machete man cut me down.
 
-You are cheating us. You are giving money only to the chief, and then you are going to make something with the blood that will hurt us. They say you shouldn’t steal their blood. This was very bad.
+What’s the problem? I asked the teacher. They are saying that you are selling the blood. You are cheating us.
 
-I asked him if he would translate for me, and then I turned to the crowd. Can I explain? I asked the villagers. I can either leave your village right away, if you want, or I can explain why we have come.
+You are giving money only to the chief, and then you are going to make something with the blood that will hurt us. They say you shouldn’t steal their blood. This was very bad. I asked him if he would translate for me, and then.
 
-Tell us first. The people said, “Life is boring in these remote villages, so they probably thought we can let him talk first, and we can kill him afterward.” The crowd held back the men with the machetes. Let him talk. This was the talk we should have had before.
+I turned to the crowd. Can. I explain? I asked the villagers.
 
-If you want to go into a village to do research, you have to take small steps, take your time, and be respectful. You have to let people ask all their questions, and you have to answer them. I started to explain that we were working on a disease named Conzo. I had photos from Mozambique in Tanzania, where I had studied Conzo before, which I showed them.
+I can either leave your village right away, if you want, or. I can explain why we have come. Tell us first.
 
-They were very interested in the photos. “'We think it’s linked to how you prepare the cassava,' I said. ”'No, no, no,' they said.
+The people said, “Life is boring in these remote villages, so they probably thought we can let him talk first, and we can kill him afterward.” The crowd held back the men with the machetes. Let him talk. This was the talk we should have had before. If you want to go into a village to do research, you have to take small steps, take your time, and be respectful.
 
-“'Well, we want to do this research to test whether we are right. If we can find out, maybe you won’t get the disease anymore.'” Many of the children in the village had Conzo. We had noticed them when we first arrived, lagging behind while other children ran alongside our jeep with charming curiosity. I had spotted some children in this crowd with the classic spastic walking-style, too.
+You have to let people ask all their questions, and you have to answer them. I started to explain that we were working on a disease named Conzo. I had photos from Mozambique in Tanzania, where. I had studied Conzo before, which.
 
-People began to mumble. One of the machete men, the more dangerous-looking one with bloodshot eyes and a big scar down his forearm, started screaming again. And then a barefoot woman, perhaps fifty years old, stepped out of the crowd.
+I showed them. They were very interested in the photos.
+
+“'We think it’s linked to how you prepare the cassava,' I said. ”'No, no, no,' they said. “'Well, we want to do this research to test whether we are right. If we can find out, maybe you won’t get the disease anymore.'” Many of the children in the village had Conzo. We had noticed them when we first arrived, lagging behind while other children ran alongside our jeep with charming curiosity.
+
+I had spotted some children in this crowd with the classic spastic walking-style, too. People began to mumble. One of the machete men, the more dangerous-looking one with bloodshot eyes and a big scar down his forearm, started screaming again. And then a barefoot woman, perhaps fifty years old, stepped out of the crowd.
 
 She strode toward me and then turned, threw out her arms, and in a loud voice said, “'Can’t you hear that it makes sense what he is saying? Shut up! It makes sense! This blood test is necessary.
 
-Don’t you remember everyone who died from measles? So many of our children died. Then they came and gave the children the vaccine.
+Don’t you remember everyone who died from measles? So many of our children died. Then they came and gave the children the vaccine. Remember!”.
 
-Remember!” Now no child ever dies of that disease, okay?“ The crowd shouted back, unmolified. ”'Yes, measles vaccine was good, but now they want to come. Take our blood, blah, blah, blah.'“ The woman paused, then took a step toward the crowd. ”'How do you think they discovered the measles vaccine? Do you think it grows on trees in their countries?
+Now no child ever dies of that disease, okay?“ The crowd shouted back, unmolified. ”'Yes, measles vaccine was good, but now they want to come. Take our blood, blah, blah, blah.'“ The woman paused, then took a step toward the crowd. ”'How do you think they discovered the measles vaccine? Do you think it grows on trees in their countries? Do you think they pulled it out of the ground?
 
-Do you think they pulled it out of the ground? No. They do what this doctor calls.'“ And she looked at me. ”'Re-sere-cheh!“ As she repeated the word the translator had used for research, she turned round and pointed at me. ”'That is how they find out how to cure diseases. Don’t you see?'" We were in the most remote part of Bandundu, and here this woman had stepped up like the
+No. They do what this doctor calls.'“ And she looked at me. ”'Re-sere-cheh!“ As she repeated the word the translator had used for research, she turned round and pointed at me. ”'That is how they find out how to cure diseases. Don’t you see?'" We were in the most remote part of Bandundu, and here this woman had stepped up like the
 
 
 <a id="sec-082019"></a>
@@ -2714,23 +3008,27 @@ Do you think they pulled it out of the ground? No. They do what this doctor call
 
 secretary of the Academy of Science and defended scientific research. “'I have a grandchild crippled for life by this konzo. The doctor says he can’t cure it. But if we let him study us, perhaps he will find a way to stop it, like they stopped measles.
 
-So that we don’t have to see our children and our grandchildren crippled any more. This makes sense to me. We the people of Makanga need this research.'” Her dramatic talent was amazing, but she didn’t use it to distort the facts. She used it to explain them forcefully, in a manner I had seen confident African women act in villages many times before she rolled up her left sleeve.
+So that we don’t have to see our children and our grandchildren crippled any more. This makes sense to me. We the people of Makanga need this research.'”. Her dramatic talent was amazing, but she didn’t use it to distort the facts.
 
-She turned her back on the crowd, pointed with her other hand to the crook of her arm, and looked me in the eyes. “'Here! Doctor! Take my blood!” The men with machetes lowered their arms and moved away.
+She used it to explain them forcefully, in a manner. I had seen confident African women act in villages many times before she rolled up her left sleeve. She turned her back on the crowd, pointed with her other hand to the crook of her arm, and looked me in the eyes.
 
-Five or six others wandered off, grumbling. Everyone else lined up behind the woman to give their blood. The shouting were placed by soft voices, and faces turned from anger to curious smiles. I have always been extremely thankful for this courageous woman’s insight.
+“'Here! Doctor! Take my blood!” The men with machetes lowered their arms and moved away. Five or six others wandered off, grumbling.
 
-And now that we have defined factfulness after years of fighting ignorance, I am amazed at how well it describes her behavior. She seemed to recognize all the dramatic instincts that had been triggered in that mob, helped them gain control over them, and convinced her fellow villagers with rational arguments. The fear instinct had been triggered by the sharp needles, the blood, and the disease. The generalization instinct had put me in a box as a plundering European.
+Everyone else lined up behind the woman to give their blood. The shouting were placed by soft voices, and faces turned from anger to curious smiles. I have always been extremely thankful for this courageous woman’s insight. And now that we have defined factfulness after years of fighting ignorance, I am amazed at how well it describes her behavior.
 
-The blame instinct made the villagers take a stand against the evil doctor who had come to steal their blood. The urgency instinct made people make up their minds way too fast. Still, under this pressure, she had stood up and spoken out. It had nothing to do with formal education.
+She seemed to recognize all the dramatic instincts that had been triggered in that mob, helped them gain control over them, and convinced her fellow villagers with rational arguments. The fear instinct had been triggered by the sharp needles, the blood, and the disease. The generalization instinct had put me in a box as a plundering European. The blame instinct made the villagers take a stand against the evil doctor who had come to steal their blood.
 
-She most certainly had never left Bandundu, and I’m sure she was illiterate. Without a doubt, she had never learned statistics or spent time memorizing facts about the world. But she had courage, and she was able to think critically and express herself with razor-sharp logic and perfect rhetoric at a moment of extreme tension. Her factfulness saved my life.
+The urgency instinct made people make up their minds way too fast. Still, under this pressure, she had stood up and spoken out. It had nothing to do with formal education. She most certainly had never left Bandundu, and.
 
-And if that woman could be factful under those circumstances, then you highly-educated literate reader who just read this book, you can do it too. Factfulness in Practice How can you use factfulness in your everyday life—in education, in business, in journalism, in your own organization or community, and as an individual citizen? Education In Sweden we don’t have volcanoes, but we have geologists who are paid out of public funds to study volcanoes. Even regular school kids learn about volcanoes.
+I’m sure she was illiterate. Without a doubt, she had never learned statistics or spent time memorizing facts about the world. But she had courage, and she was able to think critically and express herself with razor-sharp logic and perfect rhetoric at a moment of extreme tension. Her factfulness saved my life.
 
-Here in the northern hemisphere, astronomers learn about stars that can be seen only in the southern hemisphere, and at school children learn about those stars. Why? Because they are part of the world. Why then do our doctors and nurses not learn about the disease patterns on every income level?
+And if that woman could be factful under those circumstances, then you highly-educated literate reader who just read this book, you can do it too. Factfulness in Practice. How can you use factfulness in your everyday life—in education, in business, in journalism, in your own organization or community, and as an individual citizen? Education.
 
-Why are we not teaching the basic, up-to-date understanding of our changing world in our schools and in corporate education? We should be teaching our children the basic, up-to-date, fact-based framework—life on the four levels and in the four regions—and training them to use factfulness rules of thumb—the bullet points from the end of each chapter. This would enable them to put the news from around the world in context and spot when the media, activists, or salespeople are triggering their dramatic instincts with over-dramatic
+In Sweden we don’t have volcanoes, but we have geologists who are paid out of public funds to study volcanoes. Even regular school kids learn about volcanoes. Here in the northern hemisphere, astronomers learn about stars that can be seen only in the southern hemisphere, and at school children learn about those stars. Why?
+
+Because they are part of the world. Why then do our doctors and nurses not learn about the disease patterns on every income level? Why are we not teaching the basic, up-to-date understanding of our changing world in our schools and in corporate education? We should be teaching our children the basic, up-to-date, fact-based framework—life on the four levels and in the four regions—and training them to use factfulness rules of thumb—the bullet points from the end of each chapter.
+
+This would enable them to put the news from around the world in context and spot when the media, activists, or salespeople are triggering their dramatic instincts with over-dramatic
 
 
 <a id="sec-082520"></a>
@@ -2738,27 +3036,27 @@ Why are we not teaching the basic, up-to-date understanding of our changing worl
 
 stories. These skills are part of the critical thinking that is already taught in many schools. They would protect the next generation from a lot of ignorance. We should be teaching our children that there are countries on all different levels of health and income, and that most are in the middle.
 
-We should be teaching them about their own country’s socio-economic position in relation to the rest of the world, and how that is changing. We should be teaching them how their own country progressed through the income levels to get to where it is now, and how to use that knowledge to understand what life is like in other countries today. We should be teaching them that people are moving up the income levels, and most things are improving for them. We should be teaching them what life was really like in the past, so that they do not mistakenly think that no progress has been made.
+We should be teaching them about their own country’s socio-economic position in relation to the rest of the world, and how that is changing. We should be teaching them how their own country progressed through the income levels to get to where it is now, and how to use that knowledge to understand what life is like in other countries today. We should be teaching them that people are moving up the income levels, and most things are improving for them.
 
-We should be teaching them how to hold the two ideas at the same time, that bad things are going on in the world, but that many things are getting better. We should be teaching them that cultural and religious stereotypes are useless for understanding the world. We should be teaching them how to consume the news, and spot the drama without becoming stressed or hopeless. We should be teaching them the common ways that people will try to trick them with numbers.
+We should be teaching them what life was really like in the past, so that they do not mistakenly think that no progress has been made. We should be teaching them how to hold the two ideas at the same time, that bad things are going on in the world, but that many things are getting better. We should be teaching them that cultural and religious stereotypes are useless for understanding the world. We should be teaching them how to consume the news, and spot the drama without becoming stressed or hopeless.
 
-We should be teaching them that the world will keep changing, and that they will have to update their knowledge and worldview throughout their lives. Most important of all, we should be teaching our children humility and curiosity. Being humble here means being aware of how difficult your instincts can make it to get the facts right. It means being realistic about the extent of your knowledge.
+We should be teaching them the common ways that people will try to trick them with numbers. We should be teaching them that the world will keep changing, and that they will have to update their knowledge and worldview throughout their lives. Most important of all, we should be teaching our children humility and curiosity. Being humble here means being aware of how difficult your instincts can make it to get the facts right.
 
-It means being happy to say, I don’t know. It also means, when you do have an opinion, being prepared to change it when you discover new facts. It is quite relaxing being humble, because it means you can stop feeling pressured to have a view about everything, and stop feeling you must be ready to defend your views all the time. Being curious means being open to new information, and actively seeking it out.
+It means being realistic about the extent of your knowledge. It means being happy to say, I don’t know. It also means, when you do have an opinion, being prepared to change it when you discover new facts. It is quite relaxing being humble, because it means you can stop feeling pressured to have a view about everything, and stop feeling you must be ready to defend your views all the time.
 
-It means embracing facts that don’t fit your worldview and trying to understand their implications. It means letting your mistakes trigger curiosity instead of embarrassment. How on earth could I be so wrong about that fact? What can I learn from that mistake?
+Being curious means being open to new information, and actively seeking it out. It means embracing facts that don’t fit your worldview and trying to understand their implications. It means letting your mistakes trigger curiosity instead of embarrassment. How on earth could.
 
-Those people are not stupid. So why are they using that solution? It is quite exciting to be curious, because it means you are always discovering something interesting. But the world will keep changing, and the problem of ignorant grown-ups will not be solved by teaching the next generation.
+I be so wrong about that fact? What can. I learn from that mistake? Those people are not stupid.
 
-What you learn about the world at school will become outdated within ten or twenty years of graduating. So we must find ways to update adults' knowledge, too. In the car industry, cars are recalled when a mistake is discovered. You get a letter from the manufacturer saying, we would like to recall your vehicle and replace the brakes.
+So why are they using that solution? It is quite exciting to be curious, because it means you are always discovering something interesting. But the world will keep changing, and the problem of ignorant grown-ups will not be solved by teaching the next generation. What you learn about the world at school will become outdated within ten or twenty years of graduating.
 
-When the facts about the world that you were taught in schools and universities become out of date, you should get a letter, too. Sorry! What we taught you is no longer true. Please return your brain for a free upgrade.
+So we must find ways to update adults' knowledge, too. In the car industry, cars are recalled when a mistake is discovered. You get a letter from the manufacturer saying, we would like to recall your vehicle and replace the brakes. When the facts about the world that you were taught in schools and universities become out of date, you should get a letter, too.
 
-Or perhaps your employer should tackle the problem. Please go through this material and take this test. And avoid embarrassing yourself at the World Economic Forum, or similar. Replace sombreros with Dollar Street.
+Sorry! What we taught you is no longer true. Please return your brain for a free upgrade. Or perhaps your employer should tackle the problem.
 
-Children start learning about other countries and religions in preschool. Cute little world maps with people in folklore dress from across the world are intended to make them aware of. and respectful toward other cultures. The intention is good, but these kinds of illustrations can create an illusion of great difference. People in other countries can seem stuck in historic and exotic ways of life.
+Please go through this material and take this test. And avoid embarrassing yourself at the World Economic Forum, or similar. Replace sombreros with Dollar Street. Children start learning about other countries and religions in preschool.
 
-Of course, some Mexicans sometimes wear large sombreros, but these large hats nowadays are
+Cute little world maps with people in folklore dress from across the world are intended to make them aware of. and respectful toward other cultures. The intention is good, but these kinds of illustrations can create an illusion of great difference. People in other countries can seem stuck in historic and exotic ways of life. Of course, some Mexicans sometimes wear large sombreros, but these large hats nowadays are
 
 
 <a id="sec-083023"></a>
@@ -2774,9 +3072,9 @@ This is quite new. My first partner in the fight against mega-misconceptions was
 
 But when people’s worldviews are upside down, data snippets can be just as misleading as wrong data or no data. Until one day somebody actually tests their global knowledge, everyone assumes they are getting it kind of right. In sales and marketing, if you run a big business in Europe or the United States, you and your employees need to understand that the world market of the future will be growing primarily in Asia and Africa, not at home. In recruitment, you need to understand that being a European or American company no longer gives you bragging rights to attract international employees.
 
-Google and Microsoft, for example, have become global businesses and made their Americanness almost invisible. Their employees in Asia and Africa want to be part of truly global companies, and they are. Their CEOs, Sundar Pichai of Google and Satya Nadella of Microsoft, were both raised and educated in India. When I present to European corporations, I always tell them to tune down their European branding, remove the Alps from your logo, and to move their headquarters, but not their European staff, elsewhere.
+Google and Microsoft, for example, have become global businesses and made their Americanness almost invisible. Their employees in Asia and Africa want to be part of truly global companies, and they are. Their CEOs, Sundar Pichai of Google and Satya Nadella of Microsoft, were both raised and educated in India. When.
 
-In production, you need to understand that globalization is not over. Decades ago, Western companies realized that industrial production had to be outsourced to the so-called emerging markets on level two, where products could be manufactured the same quality for less than half the price.
+I present to European corporations, I always tell them to tune down their European branding, remove the Alps from your logo, and to move their headquarters, but not their European staff, elsewhere. In production, you need to understand that globalization is not over. Decades ago, Western companies realized that industrial production had to be outsourced to the so-called emerging markets on level two, where products could be manufactured the same quality for less than half the price.
 
 However, globalization is a continuing process, not a one-off event. The textiles industry that moved from Europe to Bangladesh and Cambodia as they reached level two some decades ago will most likely soon move again as Bangladesh and Cambodia become wealthier and approach level three. These countries will have to diversify or suffer the consequences as their textiles jobs are shifted to African countries. In making investment decisions, you need to shake off any naive views of Africa shaped by the colonial past, and maintained by today’s media, and understand that Ghana, Nigeria, and Kenya are where some of their best investment opportunities can be found today.
 
@@ -2794,17 +3092,19 @@ Ultimately, it is not journalists' role, and it is not the goal of activists or 
 
 It would be correct, but just too boring. We should not expect the media to move very far in that direction. Instead it is up to us, as consumers, to learn how to consume the news more factfully and to realize that the news is not very useful for understanding the world. Your organization.
 
-Once a year the ministers of health from every country come together at the World Health Assembly. They plan health systems and compare health outcomes of different countries, and then they have coffee. One time the minister of health from Mexico whispered in my ear during a coffee break, I care a lot about Mexico’s average number one day every year that is today. All the other 364 days I only care about the differences within Mexico.
+Once a year the ministers of health from every country come together at the World Health Assembly. They plan health systems and compare health outcomes of different countries, and then they have coffee. One time the minister of health from Mexico whispered in my ear during a coffee break, I care a lot about Mexico’s average number one day every year that is today. All the other 364 days.
 
-In this book I have discussed ignorance of facts on a global level. I think there must be systematically ignored facts on the country level too and in every community and every organization. So far we have only tried a few local fact questions, but it seems like they follow a very similar pattern to the global facts we have tested more widely. In Sweden, for example, we asked, today 20% of Swedes are older than 65.
+I only care about the differences within Mexico. In this book. I have discussed ignorance of facts on a global level. I think there must be systematically ignored facts on the country level too and in every community and every organization.
 
-What will be the number 10 years from now? A, 20%, B, 30%, C, 40%. The correct answer is 20%. No change, but only 10% of Swedes picked that answer.
+So far we have only tried a few local fact questions, but it seems like they follow a very similar pattern to the global facts we have tested more widely. In Sweden, for example, we asked, today 20% of Swedes are older than 65. What will be the number 10 years from now? A, 20%, B, 30%, C, 40%.
 
-That is devastating ignorance about a basic fact that is crucial in our Swedish debate about planning for the next 10 years. I think it is because people have heard a lot about the aging population over the last 20 years when the number did in fact increase, and then they assume a straight line. There are so many local and subject area fact questions we would love to try. Do people in your city know the basic proportions and trends that are shaping the future of the place they live in?
+The correct answer is 20%. No change, but only 10% of Swedes picked that answer. That is devastating ignorance about a basic fact that is crucial in our Swedish debate about planning for the next 10 years. I think it is because people have heard a lot about the aging population over the last 20 years when the number did in fact increase, and then they assume a straight line.
 
-We don’t know, because we haven’t tested it. But most likely, no. What about your niche of expertise? If you work on marine life around Scandinavia, do your colleagues know the basic facts about the Baltic Sea? If you work in forestry, do your colleagues know if wildfires are getting more or less common?
+There are so many local and subject area fact questions we would love to try. Do people in your city know the basic proportions and trends that are shaping the future of the place they live in? We don’t know, because we haven’t tested it. But most likely, no.
 
-Do they know whether the latest fires caused more or less damage than those in the past? We think there are endless such ignorance to discover if the fact questions are asked. Which is exactly why we suggest that in step 1 you can hunt for ignorance in your own organization using the same methods we have used. Start simply by asking what are the most important facts in your organization and how many people
+What about your niche of expertise? If you work on marine life around Scandinavia, do your colleagues know the basic facts about the Baltic Sea? If you work in forestry, do your colleagues know if wildfires are getting more or less common? Do they know whether the latest fires caused more or less damage than those in the past?
+
+We think there are endless such ignorance to discover if the fact questions are asked. Which is exactly why we suggest that in step 1 you can hunt for ignorance in your own organization using the same methods we have used. Start simply by asking what are the most important facts in your organization and how many people
 
 
 <a id="sec-084029"></a>
@@ -2814,9 +3114,9 @@ know them. Sometimes people get nervous about this. They think their colleagues 
 
 People like it a lot. Most people find it inspiring to realize what the world looks like. Most people are eager to start learning. Testing their knowledge, if it is done in a humble way, can release an avalanche of curiosity and new insights.
 
-Final words. I have found fighting ignorance and spreading a fact-based worldview to be a sometimes frustrating, but ultimately inspiring and joyful way to spend my life. I have found it useful and meaningful to learn about the world as it really is. I have found it deeply rewarding to try to spread that knowledge to other people, and I have found it so exciting to finally start to understand why spreading that knowledge and changing people’s worldviews have been so damn hard.
+Final words. I have found fighting ignorance and spreading a fact-based worldview to be a sometimes frustrating, but ultimately inspiring and joyful way to spend my life. I have found it useful and meaningful to learn about the world as it really is. I have found it deeply rewarding to try to spread that knowledge to other people, and.
 
-Could everyone have a fact-based worldview one day? Big change is always difficult to imagine, but it is definitely possible, and I think it will happen for two simple reasons.
+I have found it so exciting to finally start to understand why spreading that knowledge and changing people’s worldviews have been so damn hard. Could everyone have a fact-based worldview one day? Big change is always difficult to imagine, but it is definitely possible, and. I think it will happen for two simple reasons.
 
 First, a fact-based worldview is more useful for navigating life, just like an accurate GPS is more useful for finding your way in the city. Second, and probably more important, a fact-based worldview is more comfortable. It creates less stress and hopelessness than the dramatic worldview, simply because the dramatic one is so negative and terrifying. When we have a fact-based worldview, we can see that the world is not as bad as it seems, and we can see what we have to do to keep making it better.
 
@@ -2846,19 +3146,19 @@ ideas. Until the very end, he remained curious and passionate about the world. W
 
 We were quickly humbled to discover how easy the collaboration had been during the years when we had all been well, and how terribly difficult it was to maintain our usual sharp and combative way of working now that Hansa was ill. We almost failed. On the evening of Thursday, February 2, 2017, Hansa’s health suddenly deteriorated. When ambulance was called, in Intuit Hansa took printed copies of several chapters of the latest draft, his scribbled notes all over them.
 
-Four days later, in the early hours of Tuesday, February 7, Hansa died. He had taken comfort over those last days from the drafts, discussing them with Owe from his hospital bed, and dictating an email to the publishers which said that he had thought we had at last achieved exactly the kind of book we have been aiming for. Our joint work, Hansa wrote, is finally being turned into an enjoyable text that will help a global audience to understand the world. When we announced Hansa’s death, an avalanche of condolences immediately poured in from friends, colleagues, and admirers from all over the world, tributes to Hansa were all over the Internet.
+Four days later, in the early hours of Tuesday, February 7, Hansa died. He had taken comfort over those last days from the drafts, discussing them with Owe from his hospital bed, and dictating an email to the publishers which said that he had thought we had at last achieved exactly the kind of book we have been aiming for. Our joint work, Hansa wrote, is finally being turned into an enjoyable text that will help a global audience to understand the world.
 
-Our family and friends organized a ceremony at Karolinska Institute and a funeral at Uppsala Castle, which together beautifully reflected the haunts we knew, brave, innovative, and serious-minded, yet always looking for the circus around the corner, a great friend and colleague and a beloved family member. The circus was there. There was a sword-swaller on stage, of course, Hansa’s friend, whose X-ray we talked about at the beginning of this book, and our son Ted did his own homemade trick with a bandy stick and helmet.
+When we announced Hansa’s death, an avalanche of condolences immediately poured in from friends, colleagues, and admirers from all over the world, tributes to Hansa were all over the Internet. Our family and friends organized a ceremony at Karolinska Institute and a funeral at Uppsala Castle, which together beautifully reflected the haunts we knew, brave, innovative, and serious-minded, yet always looking for the circus around the corner, a great friend and colleague and a beloved family member. The circus was there.
 
-Bandy is a bit like ice hockey, but friendlier. We concluded with Frank Sinatra’s anthem my way, not just because Hans always did it his way, but because of a lucky accident a few years earlier. Hans didn’t care much about music, and he always insisted he was totally tone deaf, but his youngest son Magnus had once heard him sing, Hans had accidentally called Magnus from his pocket and, completely unaware, left him a four-minute voice message. This recorded Hans driving through traffic while singing loudly and lustily to Frank Sinatra’s defiant anthem.
+There was a sword-swaller on stage, of course, Hansa’s friend, whose X-ray we talked about at the beginning of this book, and our son Ted did his own homemade trick with a bandy stick and helmet. Bandy is a bit like ice hockey, but friendlier. We concluded with Frank Sinatra’s anthem my way, not just because Hans always did it his way, but because of a lucky accident a few years earlier. Hans didn’t care much about music, and he always insisted he was totally tone deaf, but his youngest son Magnus had once heard him sing, Hans had accidentally called Magnus from his pocket and, completely unaware, left him a four-minute voice message.
 
-This was just so Hans. You have seen his list of global risks, but it couldn’t stop him from singing on his way to work. Two thoughts at the same time, concerned and full of joy. We had worked with Hans for eighteen years.
+This recorded Hans driving through traffic while singing loudly and lustily to Frank Sinatra’s defiant anthem. This was just so Hans. You have seen his list of global risks, but it couldn’t stop him from singing on his way to work. Two thoughts at the same time, concerned and full of joy.
 
-We had written his scripts and directed his Ted talks and argued with him for hours, sometimes months, about every detail of them. We had heard all his stories many times and had them recorded in many forms. Working on the book had been painful in the last months of Hans’s life, but was strangely comforting in the months immediately after his death. As we completed this precious task, Hans’s voice was always in our heads, and we often felt that he was not gone but still in the room beside us.
+We had worked with Hans for eighteen years. We had written his scripts and directed his Ted talks and argued with him for hours, sometimes months, about every detail of them. We had heard all his stories many times and had them recorded in many forms. Working on the book had been painful in the last months of Hans’s life, but was strangely comforting in the months immediately after his death.
 
-Finishing the book felt like the best way to keep him with us and to honor his memory. Hans would have loved promoting this book, and he would have done it brilliantly, but he knew from the moment of his diagnosis that that was not going to be possible. Instead, it falls to us to continue his mission and ours. Hans’s dream of a fact-based worldview lives on in us, and we hope now in you, too.
+As we completed this precious task, Hans’s voice was always in our heads, and we often felt that he was not gone but still in the room beside us. Finishing the book felt like the best way to keep him with us and to honor his memory. Hans would have loved promoting this book, and he would have done it brilliantly, but he knew from the moment of his diagnosis that that was not going to be possible. Instead, it falls to us to continue his mission and ours.
 
-Anna Rosling-Runland and Ola Rosling, Stockholm, 2017.
+Hans’s dream of a fact-based worldview lives on in us, and we hope now in you, too. Anna Rosling-Runland and Ola Rosling, Stockholm, 2017.
 
 
 <a id="sec-085036"></a>

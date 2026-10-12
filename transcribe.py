@@ -6,6 +6,7 @@ without running out of memory.
 """
 
 import os
+import re
 import sys
 import time
 import argparse
@@ -87,6 +88,148 @@ def stream_audio_chunks(file_path: Path, chunk_duration_sec: float = 900.0, samp
             yield total_time, full_arr, actual_chunk_len
 
 
+def enhance_transcript_text(raw_text: str) -> list:
+    """Cleans punctuation, restores missing sentence boundaries, and groups into readable paragraphs."""
+    text = raw_text.strip()
+    if not text:
+        return []
+
+    # 1. Protect abbreviations & numbers
+    protected = {}
+    abbrs = [
+        r'Mr\.', r'Mrs\.', r'Ms\.', r'Dr\.', r'Prof\.', r'Sr\.', r'Jr\.',
+        r'vs\.', r'etc\.', r'i\.e\.', r'e\.g\.', r'vol\.', r'no\.',
+        r'J\.\s*C\.', r'B\.\s*F\.', r'U\.\s*S\.', r'U\.\s*K\.', r'a\.m\.', r'p\.m\.',
+        r'St\.', r'Ave\.', r'Co\.', r'Corp\.', r'Inc\.', r'Ltd\.'
+    ]
+    for idx, abbr in enumerate(abbrs):
+        pattern = re.compile(abbr, re.IGNORECASE)
+        for m in pattern.finditer(text):
+            tok = f"__ABBR_{idx}_{len(protected)}__"
+            protected[tok] = m.group(0)
+            text = text.replace(m.group(0), tok, 1)
+
+    def num_replace(m):
+        tok = f"__NUM_{len(protected)}__"
+        protected[tok] = m.group(0)
+        return tok
+    text = re.sub(r'\b\d+\.\d+\b', num_replace, text)
+
+    # 2. Chinese Punctuation & Spacing
+    is_chinese = bool(re.search(r'[\u4e00-\u9fff]', text))
+    if is_chinese:
+        text = re.sub(r'([\u4e00-\u9fff]),', r'\1，', text)
+        text = re.sub(r',([\u4e00-\u9fff])', r'，\1', text)
+        text = re.sub(r'([\u4e00-\u9fff])\.', r'\1。', text)
+        text = re.sub(r'([\u4e00-\u9fff])\?', r'\1？', text)
+        text = re.sub(r'([\u4e00-\u9fff])!', r'\1！', text)
+        text = re.sub(r'([\u4e00-\u9fff]):', r'\1：', text)
+        text = re.sub(r'([\u4e00-\u9fff]);', r'\1；', text)
+        text = re.sub(r'([\u4e00-\u9fff])\s+([\u4e00-\u9fff])', r'\1，\2', text)
+        text = re.sub(r'([^，。！？：；\s])(但是|然而|因此|所以|例如|不過|同時|此外)', r'\1，\2', text)
+        text = re.sub(r'(說|道|問|答|喊)[，：]\s*([「"“]?)([^。！？，\n]+[。！？])', r'\1：「\3」', text)
+        text = re.sub(r'([\u4e00-\u9fff])([a-zA-Z0-9])', r'\1 \2', text)
+        text = re.sub(r'([a-zA-Z0-9])([\u4e00-\u9fff])', r'\1 \2', text)
+
+    # 3. English Sentence Boundary Restoration (Missing periods between segments)
+    sentence_starters = (
+        r"I|He|She|It|They|We|You|This|That|These|Those|There|Here|"
+        r"My|His|Her|Our|Their|Your|"
+        r"However|Therefore|Moreover|Meanwhile|Furthermore|Instead|Nonetheless|Consequently|"
+        r"Suddenly|Finally|Naturally|Similarly|Indeed|Perhaps|Obviously|Clearly|Unfortunately|Fortunately|"
+        r"Now|Then|So|Thus|"
+        r"In|On|At|By|From|With|After|Before|During|When|While|Where|Why|How|What|Who|Which|"
+        r"If|Because|Although|Even|As|Since|"
+        r"And|But|For|"
+        r"Chapter|Rule|Part|Section|Lesson"
+    )
+    starter_pattern = re.compile(rf'([a-z0-9\)\”\’])\s+({sentence_starters})\b')
+    text = starter_pattern.sub(r'\1. \2', text)
+
+    text = re.sub(r'([a-z0-9])\s+(Cried|Said|Yelled|Asked|Replied)\b', r'\1. \2', text)
+
+    intro_words = (
+        r"However|Therefore|Moreover|Meanwhile|Furthermore|In fact|For example|"
+        r"In other words|In contrast|Of course|First|Second|Third|Finally|Suddenly|"
+        r"Naturally|Similarly|Indeed|Perhaps|Obviously|Clearly|Unfortunately|Fortunately"
+    )
+    text = re.sub(rf'(?<=[\.\?!…\n]\s)({intro_words})\s+(?=[a-z])', r'\1, ', text)
+
+    text = re.sub(r'([A-Z]{2,}(?:[\s,:\-–—]+[A-Z]{2,})+)\s+([A-Z][a-z]+|\bI\s+[a-z]+)', r'\1.\n\n\2', text)
+    text = re.sub(r'\s+([,.;:?!…])', r'\1', text)
+    text = re.sub(r'(?<!\.)\.\.(?!\.)', '.', text)
+    text = re.sub(r'([.?!])([A-Z])', r'\1 \2', text)
+    text = re.sub(r'\b(said|asked|told him|told her|replied|yelled|whispered|screamed),\s+([A-Z][^\.\?!]+[\.\?!])', r'\1, “\2”', text)
+    text = re.sub(r'(?<!<[^>])"([^"\n]+)"', r'“\1”', text)
+    text = re.sub(r"([A-Za-z])'([A-Za-z])", r'\1’\2', text)
+    text = re.sub(r'\.{3,}', '…', text)
+    text = re.sub(r'\s+--\s+|\s+--|--\s+', ' — ', text)
+
+    for tok, orig in protected.items():
+        text = text.replace(tok, orig)
+
+    raw_sents = re.split(r'(?<=[.?!…])\s+(?=[A-Z“「])|(?<=[。！？…])(?=[^\s。！？…])', text)
+
+    sentences = []
+    for s in raw_sents:
+        s = s.strip()
+        if not s:
+            continue
+        sentences.append(s)
+
+    paragraphs = []
+    current_p = []
+
+    transitions = (
+        'however', 'meanwhile', 'furthermore', 'in fact', 'on the other hand',
+        'one day', 'years later', 'days later', 'finally', 'suddenly',
+        'for example', 'in contrast', 'in other words', 'now,', 'first,', 'second,',
+        'the premise of this book', 'the lesson here', 'then he waited', 'the truth is',
+        'when i opened my eyes', 'my recovery', 'how i learned', 'how and why',
+        'problem number one', 'problem number two', 'problem number three',
+        'however,', 'therefore,', 'moreover,', 'consequently,',
+        '然而', '但是', '因此', '例如', '有一天', '總之', '事實上', '最後', '第一', '第二'
+    )
+
+    for sent in sentences:
+        is_subhead = False
+        words = [w for w in re.findall(r'[a-zA-Z]+', sent) if len(w) > 1]
+        if words and len(words) >= 2 and all(w.isupper() for w in words):
+            is_subhead = True
+        elif re.match(r'^(?:Chapter|Part|Rule|Introduction)\s+\d+', sent, re.I):
+            is_subhead = True
+
+        if is_subhead:
+            if current_p:
+                paragraphs.append(" ".join(current_p))
+                current_p = []
+            paragraphs.append(f"###SUBHEAD###{sent}")
+            continue
+
+        has_dialogue = '“' in sent or '「' in sent
+        sent_lower = sent.lower()
+        has_transition = any(sent_lower.startswith(t) for t in transitions)
+
+        should_break = False
+        if len(current_p) >= 2 and (has_transition or has_dialogue):
+            should_break = True
+        elif len(current_p) >= 4:
+            should_break = True
+        elif sum(len(s.split()) for s in current_p) >= 80:
+            should_break = True
+
+        if should_break and current_p:
+            paragraphs.append(" ".join(current_p))
+            current_p = []
+
+        current_p.append(sent)
+
+    if current_p:
+        paragraphs.append(" ".join(current_p))
+
+    return paragraphs
+
+
 def transcribe_audio(
     audio_path: str,
     output_dir: str = "./output",
@@ -102,6 +245,12 @@ def transcribe_audio(
     audio_file = Path(audio_path).resolve()
     if not audio_file.exists():
         raise FileNotFoundError(f"找不到音訊檔案: {audio_file}")
+
+    if not initial_prompt:
+        if language and language.startswith("zh"):
+            initial_prompt = "這是一部清晰的有聲書朗讀逐字稿。語句完整流暢，包含標準的繁體中文標點符號，包括逗號、句號、問號與驚嘆號。"
+        else:
+            initial_prompt = "Audiobook narration. Clear punctuation, proper commas, periods, question marks, and capitalized sentences."
 
     output_path = Path(output_dir).resolve()
     output_path.mkdir(parents=True, exist_ok=True)
@@ -146,6 +295,7 @@ def transcribe_audio(
 
     with tqdm(total=int(effective_duration), unit="s", desc="轉錄進度", dynamic_ncols=True) as pbar:
         last_global_time = 0.0
+        last_segment_end = None
 
         for chunk_offset, chunk_audio, chunk_len in chunk_stream:
             # Transcribe current chunk
@@ -171,12 +321,31 @@ def transcribe_audio(
                     pbar.update(advance)
                     last_global_time = abs_end
 
+                # Silence gap detection: automatically restore punctuation based on speaker pause
+                if current_section_texts and last_segment_end is not None:
+                    gap = max(0.0, abs_start - last_segment_end)
+                    prev_text = current_section_texts[-1]
+                    has_punc = bool(re.search(r'[\.\?!…,:;。！？，：；]$', prev_text))
+                    if not has_punc:
+                        is_zh = bool(re.search(r'[\u4e00-\u9fff]', prev_text))
+                        if gap >= 1.2:
+                            current_section_texts[-1] += "。" if is_zh else "."
+                            if not is_zh and seg_text:
+                                seg_text = seg_text[0].upper() + seg_text[1:]
+                        elif gap >= 0.45:
+                            current_section_texts[-1] += "，" if is_zh else ","
+
+                last_segment_end = abs_end
+
                 # Group into section intervals
                 if abs_start >= current_section_start + section_interval_secs and current_section_texts:
+                    raw_sec = "\n\n".join(current_section_texts)
+                    paras = enhance_transcript_text(raw_sec)
                     sections.append({
                         "start": current_section_start,
                         "end": abs_start,
-                        "text": " ".join(current_section_texts)
+                        "paragraphs": paras,
+                        "text": "\n\n".join(paras)
                     })
                     current_section_start = abs_start
                     current_section_texts = [seg_text]
@@ -189,10 +358,13 @@ def transcribe_audio(
 
         # Append final section
         if current_section_texts:
+            raw_sec = "\n\n".join(current_section_texts)
+            paras = enhance_transcript_text(raw_sec)
             sections.append({
                 "start": current_section_start,
                 "end": effective_duration,
-                "text": " ".join(current_section_texts)
+                "paragraphs": paras,
+                "text": "\n\n".join(paras)
             })
 
     elapsed_time = time.time() - start_transcribe
@@ -231,7 +403,12 @@ def transcribe_audio(
 
             f.write(f'<a id="{anchor_id}"></a>\n')
             f.write(f"### ⏱️ [{start_str} - {end_str}]\n\n")
-            f.write(f"{sec['text']}\n\n")
+            for p in sec.get("paragraphs", [sec.get("text", "")]):
+                if p.startswith("###SUBHEAD###"):
+                    sub = p[len("###SUBHEAD###"):].strip()
+                    f.write(f"#### {sub}\n\n")
+                else:
+                    f.write(f"{p}\n\n")
 
     print(f"成功產出 Markdown 文件: {md_file_path}\n")
     return md_file_path

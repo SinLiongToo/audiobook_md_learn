@@ -116,31 +116,33 @@
 <a id="sec-000000"></a>
 ### ⏱️ [00:00:00 - 00:05:00]
 
-This is Audible. Brilliant’s Audio presents the unabridged recording of How to Talk to Anyone, 92 Little Tricks for Big Success in Relationships by Leo Lownes, performed by Joyce Bean. Introduction read by the author. There are two kinds of people in this life.
+This is Audible. Brilliant’s Audio presents the unabridged recording of. How to Talk to Anyone, 92 Little Tricks for Big Success in Relationships by Leo Lownes, performed by Joyce Bean. Introduction read by the author.
 
-Those who walk into a room and say, well, here I am, and those who walk in and say, ah, there you are. Introduction. How to get anything you want from anybody? Well, at least have the best crack at it.
+There are two kinds of people in this life. Those who walk into a room and say, well, here. I am, and those who walk in and say, ah, there you are. Introduction.
 
-Have you ever admired those successful people who seem to have it all? You see them chatting confidently at business meetings or comfortably at social parties. They’re the ones with the best jobs, the nicest spouses, the finest friends, the biggest bank accounts, or the most fashionable zip codes. But wait a minute.
+How to get anything you want from anybody? Well, at least have the best crack at it. Have you ever admired those successful people who seem to have it all? You see them chatting confidently at business meetings or comfortably at social parties.
 
-A lot of them aren’t smarter than you. They’re not more educated than you. They’re not even better looking. So what is it?
+They’re the ones with the best jobs, the nicest spouses, the finest friends, the biggest bank accounts, or the most fashionable zip codes. But wait a minute. A lot of them aren’t smarter than you. They’re not more educated than you.
 
-Some people suspect they inherited it. Others say they married it or were just plain lucky. Tell them to think again. What it boils down to is their more skillful way of dealing with fellow human beings.
+They’re not even better looking. So what is it? Some people suspect they inherited it. Others say they married it or were just plain lucky.
 
-You see, nobody gets to the top alone. Over the years, people who seem to have it all have captured the hearts and conquered the minds of hundreds of others who helped boost them rung by rung to the top of whatever corporate or social ladder they chose. Wannabes, wandering around at the foot of the ladder, often gaze up and grouse that the big boys and big girls at the top are snobs. When big players don’t give them their friendship, love, or business, they call them clickish or accuse them of belonging to an old boy network.
+Tell them to think again. What it boils down to is their more skillful way of dealing with fellow human beings. You see, nobody gets to the top alone. Over the years, people who seem to have it all have captured the hearts and conquered the minds of hundreds of others who helped boost them rung by rung to the top of whatever corporate or social ladder they chose.
 
-Some grumble that they hit their heads against a glass ceiling. The complaining little leaguers never realized the rejection was their own fault. They’ll never know they blew the affair, the friendship, or the deal because of their own communications fumbles. It’s as though well-liked people have a bag of tricks, a magic, or a Midas touch that turns everything they do into success.
+Wannabes, wandering around at the foot of the ladder, often gaze up and grouse that the big boys and big girls at the top are snobs. When big players don’t give them their friendship, love, or business, they call them clickish or accuse them of belonging to an old boy network. Some grumble that they hit their heads against a glass ceiling. The complaining little leaguers never realized the rejection was their own fault.
 
-What’s in their bag of tricks? You’ll find a lot of things. A substance that solidifies friendship. A wizardry that wins minds.
+They’ll never know they blew the affair, the friendship, or the deal because of their own communications fumbles. It’s as though well-liked people have a bag of tricks, a magic, or a Midas touch that turns everything they do into success. What’s in their bag of tricks? You’ll find a lot of things.
 
-And a magic that makes people fall in love with them. They also possess a quality that makes bosses higher and then promote. A characteristic that keeps clients coming back. And an asset that makes customers buy from them and not the competition.
+A substance that solidifies friendship. A wizardry that wins minds. And a magic that makes people fall in love with them. They also possess a quality that makes bosses higher and then promote.
 
-We all have a few of those tricks in our bags, some more than others. Those with a whole lot of them are big winners in life. How to talk to anyone gives you ninety-two of these little tricks that they use every day so you too can play the game to perfection and get whatever you want in life. How the little tricks were unveiled.
+A characteristic that keeps clients coming back. And an asset that makes customers buy from them and not the competition. We all have a few of those tricks in our bags, some more than others. Those with a whole lot of them are big winners in life.
 
-Many years ago a drama teacher exasperated at my bad acting in a college play shouted, No, no, your body is belying your words. Every tiny movement, every body position he held divulges your private thoughts. Your face can make seven thousand different expressions and each exposes precisely who you are and what you are thinking at any particular moment. Then he said something I’ll never forget.
+How to talk to anyone gives you ninety-two of these little tricks that they use every day so you too can play the game to perfection and get whatever you want in life. How the little tricks were unveiled. Many years ago a drama teacher exasperated at my bad acting in a college play shouted, No, no, your body is belying your words. Every tiny movement, every body position he held divulges your private thoughts.
 
-And your body, the way you move is your autobiography in motion. Now right he was. On the stage of real life every physical move you make subliminally tells everyone in eyeshot the story of your life. Dogs hear sounds our ears can’t detect.
+Your face can make seven thousand different expressions and each exposes precisely who you are and what you are thinking at any particular moment. Then he said something. I’ll never forget. And your body, the way you move is your autobiography in motion.
 
-Bats see shapes in the darkness that elude our eyes. And people make moves that are beneath human consciousness but have tremendous power to attract or repel. Every smile, every frown, every syllable you utter, or every arbitrary choice of word that passes between your lips, can draw others toward you or make them want to run away.
+Now right he was. On the stage of real life every physical move you make subliminally tells everyone in eyeshot the story of your life. Dogs hear sounds our ears can’t detect. Bats see shapes in the darkness that elude our eyes.
+
+And people make moves that are beneath human consciousness but have tremendous power to attract or repel. Every smile, every frown, every syllable you utter, or every arbitrary choice of word that passes between your lips, can draw others toward you or make them want to run away.
 
 
 <a id="sec-000500"></a>
@@ -162,63 +164,69 @@ In today’s sophisticated world, it’s not enough to say smile or give sincere
 
 Women are wary of suitors saying, you are beautiful, when the bedroom door is in view. Reason two, the world is a very different place than it was in 1936, and we need a new formula for success. To find it, I observed the superstars of today. I explored the techniques used by top salespeople to close the sale, speakers to convince, clergy to convert, performers to engross, sex symbols to seduce, and athletes to win.
 
-I found concrete building blocks to the elusive qualities that lead to their success. Then I broke them down into easily digestible, news-you-can-use techniques. I gave each a name that will quickly come to mind when you find yourself in a communications conundrum. As I developed the techniques, I began sharing them with audiences around the country.
+I found concrete building blocks to the elusive qualities that lead to their success. Then. I broke them down into easily digestible, news-you-can-use techniques. I gave each a name that will quickly come to mind when you find yourself in a communications conundrum.
 
-Participants in my communications seminars gave me their ideas. My clients, many of them CEOs of Fortune 500 companies, enthusiastically offered their observations. When I was in the presence of the most successful and beloved leaders, I analyzed their body language and their facial expressions. I listened carefully to their casual conversations, their timing, and their choice of words.
+As. I developed the techniques, I began sharing them with audiences around the country. Participants in my communications seminars gave me their ideas. My clients, many of them CEOs of Fortune 500 companies, enthusiastically offered their observations.
 
-I watched as they dealt with their families, friends, associates, and adversaries.
+When. I was in the presence of the most successful and beloved leaders, I analyzed their body language and their facial expressions. I listened carefully to their casual conversations, their timing, and their choice of words. I watched as they dealt with their families, friends, associates, and adversaries.
 
 
 <a id="sec-001000"></a>
 ### ⏱️ [00:10:00 - 00:15:05]
 
-Every time I detected a little nip of magic in their communicating, I asked them to plug it out with tweezers and expose it to the bright light of consciousness. We analyzed it together, and then I turned it into an easy-to-do, little trick others could duplicate and profit from. My findings and the strokes of some of those very effective folks are in this book. Some are subtle, some are surprising, but all are achievable.
+Every time. I detected a little nip of magic in their communicating, I asked them to plug it out with tweezers and expose it to the bright light of consciousness. We analyzed it together, and then. I turned it into an easy-to-do, little trick others could duplicate and profit from.
 
-When you master them, everyone from new acquaintances to family, friends, and business associates will happily open their hearts, homes, companies, and even wallets to give you whatever they can. There’s a bonus. As you sail through life with your new communication skills, you will look back and see some very happy givers smiling in your wake.
+My findings and the strokes of some of those very effective folks are in this book. Some are subtle, some are surprising, but all are achievable. When you master them, everyone from new acquaintances to family, friends, and business associates will happily open their hearts, homes, companies, and even wallets to give you whatever they can. There’s a bonus.
 
-#### Part 1. How to Intrigue Everyone Without Saying a Word.
+As you sail through life with your new communication skills, you will look back and see some very happy givers smiling in your wake.
 
-You only have ten seconds to show you’re a somebody. The exact moment that two humans lay eyes on each other has awesome potency. The first side of you is a brilliant holograph. It burns its way into your new acquaintances' eyes and can stay emblazoned in his or her memory forever.
+#### Part 1. How to Intrigue Everyone Without Saying a Word. You only have ten seconds to show you’re a somebody. The exact moment that two humans lay eyes on each other has awesome potency.
 
-Artists are sometimes able to capture this quick-silver, fleeting, emotional response. My friend Robert Grossman is an accomplished caricature artist who draws regularly for Forbes, Newsweek, Sports Illustrated, Rolling Stone, and other popular publications. Bob has a unique gift for capturing not only the physical appearance of his subjects, but for zeroing in on the essence of their personalities. The bodies and souls of hundreds of luminaries radiate from his sketch pad.
+The first side of you is a brilliant holograph. It burns its way into your new acquaintances' eyes and can stay emblazoned in his or her memory forever. Artists are sometimes able to capture this quick-silver, fleeting, emotional response. My friend Robert Grossman is an accomplished caricature artist who draws regularly for Forbes, Newsweek, Sports Illustrated, Rolling Stone, and other popular publications.
 
-One glance at his caricatures of famous people, and you can actually see their personalities. Sometimes at a party, Bob will do a quick sketch on a cocktail napkin of a guest. Hovering over Bob’s shoulder, the onlookers gasp as they watch their friend’s image and essence materialize before their eyes. When he’s finished drawing, he puts his pen down and hands the napkin to the subject.
+Bob has a unique gift for capturing not only the physical appearance of his subjects, but for zeroing in on the essence of their personalities. The bodies and souls of hundreds of luminaries radiate from his sketch pad. One glance at his caricatures of famous people, and you can actually see their personalities. Sometimes at a party, Bob will do a quick sketch on a cocktail napkin of a guest.
 
-Often a puzzled look comes over the subject’s face. He or she usually mumbles some politeness like, well, that’s great, but it really isn’t me. The crowd’s convincing crescendo of, oh yes it is, drowns the subject out and squelches any lingering doubt. The confused subject is left to stare back at the world’s view of himself or herself in the napkin.
+Hovering over Bob’s shoulder, the onlookers gasp as they watch their friend’s image and essence materialize before their eyes. When he’s finished drawing, he puts his pen down and hands the napkin to the subject. Often a puzzled look comes over the subject’s face. He or she usually mumbles some politeness like, well, that’s great, but it really isn’t me.
 
-Once, when I was visiting Bob’s studio, I asked him how he could capture people’s personalities so well. He said, it’s simple. I just look at them. No, I asked.
+The crowd’s convincing crescendo of, oh yes it is, drowns the subject out and squelches any lingering doubt. The confused subject is left to stare back at the world’s view of himself or herself in the napkin. Once, when. I was visiting Bob’s studio, I asked him how he could capture people’s personalities so well.
 
-How do you capture their personalities? Can you have to do a lot of research about their lifestyle, their history? No, I told you, Leolaw, just look at them. Huh?
+He said, it’s simple. I just look at them. No, I asked. How do you capture their personalities?
 
-He went on to explain, almost every facet of people’s personalities is evident from their appearance, their posture, the way they move. For instance, he said, calling me over to a file where he kept his caricatures of political figures. See, Bob said, pointing to angles on various presidential body parts. Here’s the boyishness of Clinton, showing me his half smile, the awkwardness of the elder George Bush, pointing to his shoulder angle, the charm of Reagan, noting the ex-president’s smiling eyes, the shiftiness of Nixon, pointing to the furtive tilt of his head.
+Can you have to do a lot of research about their lifestyle, their history? No, I told you, Leolaw, just look at them. Huh? He went on to explain, almost every facet of people’s personalities is evident from their appearance, their posture, the way they move.
 
-Digging a little deeper into his file, he pulled out Franklin Delano Roosevelt and pointing to the nose high in the air, here’s the pride of FDR. It’s all in the face and the body. First impressions are indelible. Why? Because in our fast-paced information overload world of multiple stimuli bombarding us every second, people’s heads are spinning.
+For instance, he said, calling me over to a file where he kept his caricatures of political figures. See, Bob said, pointing to angles on various presidential body parts. Here’s the boyishness of Clinton, showing me his half smile, the awkwardness of the elder George Bush, pointing to his shoulder angle, the charm of Reagan, noting the ex-president’s smiling eyes, the shiftiness of Nixon, pointing to the furtive tilt of his head. Digging a little deeper into his file, he pulled out Franklin Delano Roosevelt and pointing to the nose high in the air, here’s the pride of FDR.
+
+It’s all in the face and the body. First, impressions are indelible. Why? Because in our fast-paced information overload world of multiple stimuli bombarding us every second, people’s heads are spinning.
 
 They must form quick judgments to make sense of the world and get on with what they have to do. So whenever people meet you, they take an instant mental snapshot. That image of you becomes the data they deal with for a very long time. Your body shrieks before your lips can speak.
 
 Are their data accurate? Amazingly enough, yes. Even before your lips part and the first syllable escapes, the essence of you has already axed its way into their brains. The way you look and the way you move is more than 80% of someone’s first impression of you.
 
-Not one word need be spoken. I’ve lived and worked in countries where I didn’t s- speak the native language. Yet without one understandable syllable spoken between us,
+Not one word need be spoken. I’ve lived and worked in countries where. I didn’t s- speak the native language. Yet without one understandable syllable spoken between us,
 
 
 <a id="sec-001505"></a>
 ### ⏱️ [00:15:05 - 00:20:12]
 
-the years proved my first impressions were on target. Whenever I met new colleagues, I could tell instantly how friendly they felt toward me, how confident they were, and approximately how much stature they had in the company. I could sense, just from seeing them move, who the heavyweights were and who were the welterweights. I have no extrasensory skill.
+the years proved my first impressions were on target. Whenever. I met new colleagues, I could tell instantly how friendly they felt toward me, how confident they were, and approximately how much stature they had in the company. I could sense, just from seeing them move, who the heavyweights were and who were the welterweights.
 
-You’d know, too. How? Because before you have had time to process a rational thought, you get a sixth sense about someone. Studies have shown emotional reactions occur even before the brain is at time to register what’s causing their reaction.
+I have no extrasensory skill. You’d know, too. How? Because before you have had time to process a rational thought, you get a sixth sense about someone.
 
-Thus, the moment someone looks at you, he or she experiences a massive hit, the impact of which lays the groundwork for the entire relationship. Bob told me he captures that first hit in creating his caricatures.
+Studies have shown emotional reactions occur even before the brain is at time to register what’s causing their reaction. Thus, the moment someone looks at you, he or she experiences a massive hit, the impact of which lays the groundwork for the entire relationship. Bob told me he captures that first hit in creating his caricatures.
 
-Deciding to pursue my own agenda for how to talk to anyone, I asked, “Bob, if you wanted to portray somebody really cool—you know, intelligent, strong, charismatic, principled, fascinating, caring, interested in other people.” Easy, Bob interrupted. He knew precisely what I was getting at. Just give him great posture, a heads-up look, a confident smile and a direct gaze. It’s the ideal image for somebody who’s a somebody.
+Deciding to pursue my own agenda for how to talk to anyone, I asked, “Bob, if you wanted to portray somebody really cool—you know, intelligent, strong, charismatic, principled, fascinating, caring, interested in other people.” Easy, Bob interrupted. He knew precisely what. I was getting at. Just give him great posture, a heads-up look, a confident smile and a direct gaze.
 
-How to look like a somebody. My friend Karen is a highly respected professional in the home furnishings business. Her husband is an equally big name in the communications field. They have two small sons.
+It’s the ideal image for somebody who’s a somebody. How to look like a somebody. My friend Karen is a highly respected professional in the home furnishings business. Her husband is an equally big name in the communications field.
 
-Whenever Karen is at a home furnishings industry event, everyone pays deference to her. She’s a very important person in that world. Her colleagues at conventions jostle for position just to be seen casually chatting with her and, they hope, be photographed rubbing elbows with her for industry bibles like Home Furnishings Executive and Furniture World. Yet, Karen complains, when she accompanies her husband to communications functions, she might as well be a nobody.
+They have two small sons. Whenever Karen is at a home furnishings industry event, everyone pays deference to her. She’s a very important person in that world. Her colleagues at conventions jostle for position just to be seen casually chatting with her and, they hope, be photographed rubbing elbows with her for industry bibles like Home Furnishings Executive and Furniture World.
 
-When she takes her kids to school functions, she’s just another mom. She once asked me, Leil, how can I stand out from the crowd so people who don’t know me will approach me and at least assume I’m an interesting person? The techniques in this section accomplish precisely that. When you use the next nine techniques, you will come across as a special person to everyone you meet.
+Yet, Karen complains, when she accompanies her husband to communications functions, she might as well be a nobody. When she takes her kids to school functions, she’s just another mom. She once asked me, Leil, how can. I stand out from the crowd so people who don’t know me will approach me and at least assume.
 
-You will stand out as a somebody in whatever crowd you find yourself in, even if it’s not your crowd. Let’s start with your smile. 1. How to Make Your Smile Magically Different In 1936, one of Dale Carnegie’s six musts in How to Win Friends and Influence People was smile. His edict has been echoed each decade by practically every communications guru who ever put pen to paper or mouth to microphone.
+I’m an interesting person? The techniques in this section accomplish precisely that. When you use the next nine techniques, you will come across as a special person to everyone you meet. You will stand out as a somebody in whatever crowd you find yourself in, even if it’s not your crowd.
+
+Let’s start with your smile. 1. How to Make. Your Smile Magically Different. In 1936, one of Dale Carnegie’s six musts in.
+
+How to Win Friends and Influence People was smile. His edict has been echoed each decade by practically every communications guru who ever put pen to paper or mouth to microphone.
 
 However, at the turn of the millennium, it’s high time we re-examine the role of the smile in high-level human relations. When you dig deeper into Dale’s dictum, you’ll find a 1936 quick smile doesn’t always work, especially nowadays. The old-fashioned instant grin carries no weight with today’s sophisticated crowd. Look at world leaders, negotiators, and corporate giants.
 
@@ -234,17 +242,21 @@ One day she called saying she was coming to New York to court new clients and sh
 <a id="sec-002012"></a>
 ### ⏱️ [00:20:12 - 00:25:20]
 
-her dad passed away last year she told me she was taking over the business. I thought Missy’s personality was a little bubbly to be a CEO in a tough business, but hey what do I know about the corrugated box biz? She, three of her potential clients, and I met in the cocktail lounge of a Midtown restaurant and, as we led them into the dining room, Missy whispered in my ear, please call me Melissa tonight. Of course, I winked back, not many company presidents are called Missy.
+her dad passed away last year she told me she was taking over the business. I thought Missy’s personality was a little bubbly to be a CEO in a tough business, but hey what do. I know about the corrugated box biz? She, three of her potential clients, and.
 
-Soon after the Metro D seated us, I began noticing Melissa was a very different woman from the giggling girl I’d known in college. She was just as charming. She smiled as much as ever. Yet something was different.
+I met in the cocktail lounge of a Midtown restaurant and, as we led them into the dining room, Missy whispered in my ear, please call me Melissa tonight. Of course, I winked back, not many company presidents are called Missy. Soon after the Metro D seated us, I began noticing Melissa was a very different woman from the giggling girl. I’d known in college.
 
-I couldn’t quite put my finger on it. Although she was still effervescent, I had the distinct impression everything Melissa said was more insightful and sincere. She was responding with genuine warmth to her prospective clients, and I could tell they liked her too. I was thrilled because my friend was scoring a knockout that night.
+She was just as charming. She smiled as much as ever. Yet something was different. I couldn’t quite put my finger on it.
 
-By the end of the evening, Melissa had three big new clients. Afterward, alone with her in the cab, I said, “Missy, you’ve really come a long way since you took over the company.” Your whole personality has developed, well, a really cool, sharp corporate edge. Uh-uh. Only one thing has changed, she said.
+Although she was still effervescent, I had the distinct impression everything Melissa said was more insightful and sincere. She was responding with genuine warmth to her prospective clients, and. I could tell they liked her too. I was thrilled because my friend was scoring a knockout that night.
 
-What’s that? My smile, she said. Your what? I asked incredulously.
+By the end of the evening, Melissa had three big new clients. Afterward, alone with her in the cab, I said, “Missy, you’ve really come a long way since you took over the company.”. Your whole personality has developed, well, a really cool, sharp corporate edge. Uh-uh.
 
-My smile, she repeated, as though I hadn’t heard her. You see, she said, with a distant look coming into her eyes. When Dad got sick and knew in a few years I’d have to take over the business, he sat me down and had a life-changing conversation with me. I’ll never forget his words.
+Only one thing has changed, she said. What’s that? My smile, she said. Your what?
+
+I asked incredulously. My smile, she repeated, as though. I hadn’t heard her. You see, she said, with a distant look coming into her eyes.
+
+When Dad got sick and knew in a few years. I’d have to take over the business, he sat me down and had a life-changing conversation with me. I’ll never forget his words.
 
 Dad said, “Missy, honey, remember that old song, I love ya, honey, but your feet’s too big?” Well, if you’re gonna make it big in the box business, let me say, I love ya, honey, but your smile’s too quick. He then brought out a yellowed newspaper article quoting a study he’d been saving to show me when the time was right. It concerned women in business. The study showed women who were slower to smile in corporate life were perceived as more credible.
 
@@ -254,15 +266,17 @@ However, she trained her lips to erupt more slowly. Thus, her smile appeared mor
 
 Though the delay was less than a second, the recipients of her big, beautiful smile felt it was special and just for them. I decided to do more research on the smile. When you’re in the market for shoes, you begin to look at everyone’s feet. When you decide to change your hairstyle, you look at everyone’s haircut.
 
-Well, for several months I became a steady smile watcher. I watched smiles on the street. I watched smiles on TV. I watched the smiles of politicians, the clergy, corporate giants, and world leaders.
+Well, for several months. I became a steady smile watcher. I watched smiles on the street. I watched smiles on TV.
 
-My findings? Amid the sea of flashing teeth and parting lips, I discovered the people perceived to have the most credibility and integrity were just ever so slower to smile. Then, when they did, their smiles seemed to seep into every crevice of their faces and envelop them like a slow flood. Thus, I call the following technique, the flooding smile.
+I watched the smiles of politicians, the clergy, corporate giants, and world leaders. My findings? Amid the sea of flashing teeth and parting lips, I discovered the people perceived to have the most credibility and integrity were just ever so slower to smile. Then, when they did, their smiles seemed to seep into every crevice of their faces and envelop them like a slow flood.
 
-Technique number one, the flooding smile. Don’t flash an immediate smile when you greet someone, as though anyone who walked into your line of sight would be the beneficiary. Instead, look at the other person’s face for a second. Pause.
+Thus, I call the following technique, the flooding smile. Technique number one, the flooding smile. Don’t flash an immediate smile when you greet someone, as though anyone who walked into your line of sight would be the beneficiary. Instead, look at the other person’s face for a second.
 
-Soak in their persona. Then let a big, warm, responsive smile flood over your face and overflow into your eyes. It will engulf the recipient like a warm wave. The split second delay convinces people your flooding smile is genuine and only for them.
+Pause. Soak in their persona. Then let a big, warm, responsive smile flood over your face and overflow into your eyes. It will engulf the recipient like a warm wave.
 
-Let us now travel but a few inches north to two of the most powerful communications tools you possess. Your eyes. Two. How to strike everyone as intelligent and
+The split second delay convinces people your flooding smile is genuine and only for them. Let us now travel but a few inches north to two of the most powerful communications tools you possess. Your eyes. Two.
+
+How to strike everyone as intelligent and
 
 
 <a id="sec-002520"></a>
@@ -270,31 +284,33 @@ Let us now travel but a few inches north to two of the most powerful communicati
 
 insightful by using your eyes. It’s only a slight exaggeration to say Helen of Troy could launch ships with her eyes and Davy Crockett could stare down a bear. Your eyes are personal grenades that have the power to detonate people’s emotions. Just as martial arts masters register their fists as lethal weapons, you can register your eyes as psychological lethal weapons when you master the following eye contact techniques.
 
-Beloved people in the game of life look beyond the conventional wisdom that teaches keep good eye contact. For one, they understand that to certain suspicious or insecure people, intense eye contact can be a virulent intrusion. When I was growing up, my family had a Haitian housekeeper whose fantasies were filled with witches, warlocks, and black magic. Zola refused to be left alone in a room with Louis, my Siamese cat.
+Beloved people in the game of life look beyond the conventional wisdom that teaches keep good eye contact. For one, they understand that to certain suspicious or insecure people, intense eye contact can be a virulent intrusion. When. I was growing up, my family had a Haitian housekeeper whose fantasies were filled with witches, warlocks, and black magic.
 
-Louis looks right through me, sees my soul, she’d whisper to me fearfully. In some cultures, intense eye contact is sorcery. In others, staring at someone can be threatening or disrespectful. Realizing this, big players in the international scene prefer to pack a book on cultural body language differences in their carry-on rather than a Berlitz phrasebook.
+Zola refused to be left alone in a room with Louis, my Siamese cat. Louis looks right through me, sees my soul, she’d whisper to me fearfully. In some cultures, intense eye contact is sorcery. In others, staring at someone can be threatening or disrespectful.
 
-In our culture, however, big winners know exaggerated eye contact can be extremely advantageous, especially between the sexes. In business, even when romance is not in the picture, strong eye contact packs a powerful wallop between men and women. A Boston center conducted a study to learn the precise effect. The researchers asked opposite sex individuals to have a two-minute casual conversation.
+Realizing this, big players in the international scene prefer to pack a book on cultural body language differences in their carry-on rather than a Berlitz phrasebook. In our culture, however, big winners know exaggerated eye contact can be extremely advantageous, especially between the sexes. In business, even when romance is not in the picture, strong eye contact packs a powerful wallop between men and women. A Boston center conducted a study to learn the precise effect.
 
-They tricked half their subjects into maintaining intense eye contact by directing them to count the number of times their partner blinked. They gave the other half of the subjects no special eye contact directions for the chat. When they questioned the subjects afterward, the unsuspecting blinkers reported significantly higher feelings of respect and fondness for their colleagues, who unbeknownst to them, had simply been counting their blinks. I’ve experienced the closeness intense eye contact in genders with a stranger firsthand.
+The researchers asked opposite sex individuals to have a two-minute casual conversation. They tricked half their subjects into maintaining intense eye contact by directing them to count the number of times their partner blinked. They gave the other half of the subjects no special eye contact directions for the chat. When they questioned the subjects afterward, the unsuspecting blinkers reported significantly higher feelings of respect and fondness for their colleagues, who unbeknownst to them, had simply been counting their blinks.
 
-Once, when giving a seminar to several hundred people, one woman’s face in the crowd caught my attention. The participant’s appearance was not particularly unique, yet she became the focus of my attention throughout my talk. Why? Because not for one moment did she take her eyes off my face.
+I’ve experienced the closeness intense eye contact in genders with a stranger firsthand. Once, when giving a seminar to several hundred people, one woman’s face in the crowd caught my attention. The participant’s appearance was not particularly unique, yet she became the focus of my attention throughout my talk. Why?
 
-Even when I finished making a point and was silent, her eyes stayed hungrily on my face. I sensed she couldn’t wait to savor the next insight to spout from my lips. I loved it. Her concentration and obvious fascination inspired me to remember stories and make important points I had long forgotten.
+Because not for one moment did she take her eyes off my face. Even when. I finished making a point and was silent, her eyes stayed hungrily on my face. I sensed she couldn’t wait to savor the next insight to spout from my lips.
 
-Right after my talk, I resolved to seek out this new friend who was so enthralled by my speech. As people were leaving the hall, I quickly sidled up behind my big fan. Excuse me, I said. My fan kept walking.
+I loved it. Her concentration and obvious fascination inspired me to remember stories and make important points. I had long forgotten. Right after my talk, I resolved to seek out this new friend who was so enthralled by my speech.
 
-Excuse me, I repeated a tad louder. My admirer didn’t vary her pace as she continued out the door. I followed her into the corridor and tapped her shoulder gently. This time she whirled around with a surprised look on her face.
+As people were leaving the hall, I quickly sidled up behind my big fan. Excuse me, I said. My fan kept walking. Excuse me, I repeated a tad louder.
 
-I mumbled some excuse about my appreciating her concentration on my talk and wanting to ask her a few questions. Did you, uh, get much out of the seminar? I ventured. Well, not really, she answered candidly.
+My admirer didn’t vary her pace as she continued out the door. I followed her into the corridor and tapped her shoulder gently. This time she whirled around with a surprised look on her face. I mumbled some excuse about my appreciating her concentration on my talk and wanting to ask her a few questions.
 
-I had difficulty understanding what you were saying because you were walking around on the platform facing different directions. In a heartbeat, I understood. The woman was hearing impaired. I did not captivate her, as I had suspected.
+Did you, uh, get much out of the seminar? I ventured. Well, not really, she answered candidly. I had difficulty understanding what you were saying because you were walking around on the platform facing different directions.
 
-She was not intrigued by my talk as I had hoped. The only reason she kept her eyes glued on my face was because she was struggling to read my lips. Nevertheless, her eye contact had given me such pleasure and inspiration during my talk that, tired as I was, I asked her to join me for coffee. I spent the next hour recapping my entire seminar just for her.
+In a heartbeat, I understood. The woman was hearing impaired. I did not captivate her, as. I had suspected.
 
-Powerful stuff, this eye contact. Make your eyes look even more intelligent. There is yet another argument for intense eye contact. In addition to awakening feelings of respect and affection, maintaining strong eye contact gives you the impression of being an intelligent and abstract thinker.
+She was not intrigued by my talk as. I had hoped. The only reason she kept her eyes glued on my face was because she was struggling to read my lips. Nevertheless, her eye contact had given me such pleasure and inspiration during my talk that, tired as.
 
-Because abstract thinkers integrate incoming data more easily than concrete thinkers, they can continue looking into someone’s eyes even during the silences.
+I was, I asked her to join me for coffee. I spent the next hour recapping my entire seminar just for her. Powerful stuff, this eye contact. Make your eyes look even more intelligent.
+
+There is yet another argument for intense eye contact. In addition to awakening feelings of respect and affection, maintaining strong eye contact gives you the impression of being an intelligent and abstract thinker. Because abstract thinkers integrate incoming data more easily than concrete thinkers, they can continue looking into someone’s eyes even during the silences.
 
 
 <a id="sec-003025"></a>
@@ -308,9 +324,9 @@ But whoops, it wasn’t so with the men. Some men felt hostile when stared at to
 
 Your partner’s emotional reaction to your profound gaze has a biological base. When you look intently at someone, it increases their heartbeat and shoots an adrenaline-like substance gushing through their veins. This is the same physical reaction people have when they start to fall in love. And when you consciously increase your eye contact, even during normal business or social interaction, people will feel they have captivated you.
 
-Men talking to women and women talking to men or women use the following technique, which I call sticky eyes, for the joy of the recipient and for your own advantage. Guys, I’ll have a man-to-man modification of this technique for you in a moment. Technique number two, sticky eyes. Pretend your eyes are glued to your conversation partners with sticky, warm taffy.
+Men talking to women and women talking to men or women use the following technique, which. I call sticky eyes, for the joy of the recipient and for your own advantage. Guys, I’ll have a man-to-man modification of this technique for you in a moment. Technique number two, sticky eyes.
 
-Don’t break eye contact even after he or she has finished speaking. When you must look away, do it ever so slowly, reluctantly, stretching the gooey taffy until the tiny string finally breaks. What about guys' eyes?
+Pretend your eyes are glued to your conversation partners with sticky, warm taffy. Don’t break eye contact even after he or she has finished speaking. When you must look away, do it ever so slowly, reluctantly, stretching the gooey taffy until the tiny string finally breaks. What about guys' eyes?
 
 Now, gentlemen, when talking to men, you too can use sticky eyes. Just make them a little less sticky when discussing personal matters with other men, lest your listener feel threatened or misinterpret your intentions. But do increase your eye contact slightly more than normal with men on day-to-day communications and a lot more when talking to women. It broadcasts a visceral message of comprehension and respect.
 
@@ -320,15 +336,15 @@ When the waiter came over, Sammy, uncharacteristically, instead of bluntly blurt
 
 I saw the effect it had on the waiter, too. We received exceptionally gracious service the rest of the evening.
 
-A week later, Sammy called me and said, “Leo’s sticky eyes has changed my life.” I’ve been following it to a tee. With women, I make my eyes real sticky, and with men slightly sticky. And now everybody’s treating me with such deference. I think it’s part of the reason I’ve made more sales this week than all last month.
+A week later, Sammy called me and said, “Leo’s sticky eyes has changed my life.”. I’ve been following it to a tee. With women, I make my eyes real sticky, and with men slightly sticky. And now everybody’s treating me with such deference.
 
-If you deal with customers or clients in your professional life, sticky eyes is a definite boon to your bottom line. To most people in our culture, profound eye contact signals trust, knowledge, and I’m here for you attitude. Let’s carry sticky eyes one step further. Like a potent medicine that has the power to kill or cure, the next eye contact technique has the potential to captivate or annihilate.
+I think it’s part of the reason. I’ve made more sales this week than all last month. If you deal with customers or clients in your professional life, sticky eyes is a definite boon to your bottom line. To most people in our culture, profound eye contact signals trust, knowledge, and.
 
-Three. How to use your eyes to make someone fall in love with you. Now we haul in the heavy eyeball artillery. Very sticky eyes or super glue eyes.
+I’m here for you attitude. Let’s carry sticky eyes one step further. Like a potent medicine that has the power to kill or cure, the next eye contact technique has the potential to captivate or annihilate. Three.
 
-Let’s call them epoxy eyes. Big bosses use epoxy eyes to evaluate employees. Police investigators use epoxy eyes to intimidate suspected criminals. And clever Romeos use epoxy eyes to make women fall in love with them.
+How to use your eyes to make someone fall in love with you. Now we haul in the heavy eyeball artillery. Very sticky eyes or super glue eyes. Let’s call them epoxy eyes.
 
-If romance is your goal, epoxy eyes is a proven aphrodisiac.
+Big bosses use epoxy eyes to evaluate employees. Police investigators use epoxy eyes to intimidate suspected criminals. And clever Romeos use epoxy eyes to make women fall in love with them. If romance is your goal, epoxy eyes is a proven aphrodisiac.
 
 
 <a id="sec-003529"></a>
@@ -342,23 +358,25 @@ Human resources professionals often use epoxy eyes, not as a technique, but beca
 
 Don’t overdo it, or you could come across as arrogant and brazen. Technique number three, epoxy eyes. This brazen technique packs a powerful punch. Watch your target person even when someone else is talking.
 
-No matter who is speaking, keep looking at the man or woman you want to impact. Sometimes using full epoxy eyes is too potent, so here is a gentler yet effective form. Watch the speaker, but let your glance bounce to your target each time the speaker finishes a point. This way, Mr. or Ms. Target still feels you are intrigued by his or her reactions, yet there is relief from the intensity.
+No matter who is speaking, keep looking at the man or woman you want to impact. Sometimes using full epoxy eyes is too potent, so here is a gentler yet effective form. Watch the speaker, but let your glance bounce to your target each time the speaker finishes a point. This way, Mr. or Ms.
 
-Use epoxy eyes to push their erotic button. If romance is on the horizon, epoxy eyes transmits yet another message. It says, I can’t take my eyes off you, or I only have eyes for you. Anthropologists have dubbed eyes the initial organ of romance because studies show intense eye contact plays havoc with our heartbeat.
+Target still feels you are intrigued by his or her reactions, yet there is relief from the intensity. Use epoxy eyes to push their erotic button. If romance is on the horizon, epoxy eyes transmits yet another message. It says, I can’t take my eyes off you, or.
 
-It also releases a drug-like substance into our nervous system called phenylethylamine. Since this is the hormone detected in the human body during erotic excitement, intense eye contact can be a turn-on. Men, epoxy eyes is extremely effective on women if they find you attractive. The lady interprets her nervous reaction to your untoward gaze as budding infatuation.
+I only have eyes for you. Anthropologists have dubbed eyes the initial organ of romance because studies show intense eye contact plays havoc with our heartbeat. It also releases a drug-like substance into our nervous system called phenylethylamine. Since this is the hormone detected in the human body during erotic excitement, intense eye contact can be a turn-on.
 
-If she does not like you, however, your epoxy eyes is downright obnoxious. Never use epoxy eyes on strangers in public settings or you could get arrested. Do you remember the lyrics to the old Shirley Bassey song? The minute you walked in the joint, I could see you were a man of distinction, a real big spender.
+Men, epoxy eyes is extremely effective on women if they find you attractive. The lady interprets her nervous reaction to your untoward gaze as budding infatuation. If she does not like you, however, your epoxy eyes is downright obnoxious. Never use epoxy eyes on strangers in public settings or you could get arrested.
 
-Good-looking, so refined. Say, wouldn’t you like to know what’s going on in my mind? The goal of this first section is not to make you look like a real big spender. Rather, it is to give you the cachet of a real big somebody the moment people lay eyes on you.
+Do you remember the lyrics to the old Shirley Bassey song? The minute you walked in the joint, I could see you were a man of distinction, a real big spender. Good-looking, so refined. Say, wouldn’t you like to know what’s going on in my mind?
 
-To that end, we now explore the most important technique to make you look like a very important person. When the doctor smacks your knee with that nasty little hammer, your foot jerks forward, thus the phrase knee-jerk reaction. Your body has another instinctive reaction. When a big jolt of happiness hits your heart and you feel like a winner, your head jerks up automatically and you throw your shoulders back.
+The goal of this first section is not to make you look like a real big spender. Rather, it is to give you the cachet of a real big somebody the moment people lay eyes on you. To that end, we now explore the most important technique to make you look like a very important person. When the doctor smacks your knee with that nasty little hammer, your foot jerks forward, thus the phrase knee-jerk reaction.
 
-A smile frames your lips and softens your eyes. This is the look winners have constantly. They stand with assurance. They move with confidence.
+Your body has another instinctive reaction. When a big jolt of happiness hits your heart and you feel like a winner, your head jerks up automatically and you throw your shoulders back. A smile frames your lips and softens your eyes. This is the look winners have constantly.
 
-They smile softly with pride. No doubt about it. Good posture symbolizes that you are a man or woman who is used to being on top. Obviously, millions of mothers sticking their knuckles between their kids' shoulder blades and trillions of teachers telling students, Stand up straight, hasn’t done the trick.
+They stand with assurance. They move with confidence. They smile softly with pride. No doubt about it.
 
-We are a nation of slouchers. We need a technique more stern than teachers and more persuasive than parents to make a stand like a somebody. In one profession, perfect posture, perfect equilibrium,
+Good posture symbolizes that you are a man or woman who is used to being on top. Obviously, millions of mothers sticking their knuckles between their kids' shoulder blades and trillions of teachers telling students, Stand up straight, hasn’t done the trick. We are a nation of slouchers. We need a technique more stern than teachers and more persuasive than parents to make a stand like a somebody.
+
+In one profession, perfect posture, perfect equilibrium,
 
 
 <a id="sec-004030"></a>
@@ -368,17 +386,19 @@ perfect balance is not only desirable. It’s a matter of life and death. One fa
 
 When seven men and women raced into the center ring, the crowd rose as though they were all joined at the hips. They cheered with one thunderous voice.
 
-Mama pressed her lips against my ear and reverently whispered, “These were the great wellendas, the only troop in the world to perform the seven-person pyramid without a net.” In an instant, the crowd became hushed. Not a cough or soda slurp was heard in the big top as Karl and Hermann Wellenda shouted cues in German to their trusting relatives. The family meticulously and majestically ascended into the position of a human pyramid. They then balanced precariously on a thin wire hundreds of feet above the hard dirt with no net between them and sudden death.
+Mama pressed her lips against my ear and reverently whispered, “These were the great wellendas, the only troop in the world to perform the seven-person pyramid without a net.”. In an instant, the crowd became hushed. Not a cough or soda slurp was heard in the big top as Karl and Hermann Wellenda shouted cues in German to their trusting relatives. The family meticulously and majestically ascended into the position of a human pyramid.
 
-The vision was unforgettable. To me, equally unforgettable was the beauty and grace of the seven wellendas racing into the center of the big top to take their bows. Each perfectly aligned, head high, shoulders back. Standing so tall, it still didn’t seem like their feet were touching the ground.
+They then balanced precariously on a thin wire hundreds of feet above the hard dirt with no net between them and sudden death. The vision was unforgettable. To me, equally unforgettable was the beauty and grace of the seven wellendas racing into the center of the big top to take their bows. Each perfectly aligned, head high, shoulders back.
 
-Every muscle in their bodies defined pride, success, and their joy of being alive. Still, here is a visualization technique to get your body looking like a winner who is in the habit of feeling that pride, success, and joy of being alive. Your posture is your biggest success barometer. Imagine you are a world-renowned acrobat, master of the Iron Jaw Act waiting in the wings of the Ringling Brothers and Barnum and Bailey Circus.
+Standing so tall, it still didn’t seem like their feet were touching the ground. Every muscle in their bodies defined pride, success, and their joy of being alive. Still, here is a visualization technique to get your body looking like a winner who is in the habit of feeling that pride, success, and joy of being alive. Your posture is your biggest success barometer.
 
-Soon you will dart into the center ring to captivate the crowd with the precision and balance of your body. Before walking through any door, the door to your office, a party, a meeting, even your kitchen. Picture a leather bit hanging by a cable from the frame. It is swinging just an inch higher than your head.
+Imagine you are a world-renowned acrobat, master of the Iron Jaw Act waiting in the wings of the Ringling Brothers and Barnum and Bailey Circus. Soon you will dart into the center ring to captivate the crowd with the precision and balance of your body. Before walking through any door, the door to your office, a party, a meeting, even your kitchen. Picture a leather bit hanging by a cable from the frame.
 
-As you pass through the door, throw your head back and chomp on the imaginary dental grip that first pulls your cheeks back into a smile and then lifts you up. As you ascend high above the gasping crowd, your body is stretched into perfect alignment. Head high, shoulders back, torso out of hips, feet weightless. At the zenith of the tent, you spin like a graceful top to the amazement and admiration of the crowd craning their necks to watch you.
+It is swinging just an inch higher than your head. As you pass through the door, throw your head back and chomp on the imaginary dental grip that first pulls your cheeks back into a smile and then lifts you up. As you ascend high above the gasping crowd, your body is stretched into perfect alignment. Head high, shoulders back, torso out of hips, feet weightless.
 
-Now you look like a somebody. One day, to test hang by your teeth, I decided to count how many times I walked through a doorway. Sixty times, even at home. You calculate, twice out your front door, twice in, six times to the bathroom, eight times to the kitchen, and through countless doors at your office.
+At the zenith of the tent, you spin like a graceful top to the amazement and admiration of the crowd craning their necks to watch you. Now you look like a somebody.
+
+One day, to test hang by your teeth, I decided to count how many times. I walked through a doorway. Sixty times, even at home. You calculate, twice out your front door, twice in, six times to the bathroom, eight times to the kitchen, and through countless doors at your office.
 
 It adds up. Visualize anything sixty times a day and it becomes a habit. Habitual good posture is the first mark of a big winner. You are now ready to float into the room to captivate the crowd or close the sale, or maybe just settle for looking like the most important somebody in the room.
 
@@ -414,39 +434,43 @@ If you ever want anything from the new acquaintance, your unspoken answer to the
 
 However, when little Johnny sees Daddy come home, he runs up to him, he smiles, his eyes get wide, and he opens his arms for a hug. A loving child’s body is like a tiny flower bud unfolding to the sunshine. Twenty, thirty, forty, fifty years of life on Earth make little difference. When forty-year-old Johnny is feeling timid, he slumps and folds his arms in front of his chest.
 
-When he wants to reject a salesman or business colleague, he turns away and closes them off with a myriad of body signals. However, when welcoming his loved one home after an absence, Big Johnny opens his body to her like a giant daffodil spreading its petals to the sun after a rainstorm. Treat people like big babies. Once I was at a corporate star-studded party with an attractive recently divorced friend of mine.
+When he wants to reject a salesman or business colleague, he turns away and closes them off with a myriad of body signals. However, when welcoming his loved one home after an absence, Big Johnny opens his body to her like a giant daffodil spreading its petals to the sun after a rainstorm. Treat people like big babies. Once.
 
-Carla had been a copywriter with one of the leading advertising agencies which, like so many companies then, had downsized. My girlfriend was both out of work and out of a relationship. At this particular party, the pickings for Carla were good, both personally and professionally.
+I was at a corporate star-studded party with an attractive recently divorced friend of mine. Carla had been a copywriter with one of the leading advertising agencies which, like so many companies then, had downsized. My girlfriend was both out of work and out of a relationship. At this particular party, the pickings for Carla were good, both personally and professionally.
 
 
 <a id="sec-005035"></a>
 ### ⏱️ [00:50:35 - 00:55:36]
 
-Several times as Carla and I stood talking, one good-looking corporate male beast or another would find himself within a few feet of us. More often than not, one of these desirable males would flash his teeth at Carla. She sometimes graced the tentatively courting male with a quick smile over her shoulder, but then she turned back to our mundane conversation as though she were hanging on my every word. I knew she was trying not to look anxious, but inside Carla was crying out, Why doesn’t he come speak to us?
+Several times as Carla and. I stood talking, one good-looking corporate male beast or another would find himself within a few feet of us. More often than not, one of these desirable males would flash his teeth at Carla. She sometimes graced the tentatively courting male with a quick smile over her shoulder, but then she turned back to our mundane conversation as though she were hanging on my every word.
 
-Right after one prized corporate big cat smiled but, because of Carla’s minimal reaction, wandered back into the social jungle, I had to say, Carla, do you know who that was? He’s the head of the young and rubicam in Paris. They’re looking for copywriters willing to relocate. And he’s single.
+I knew she was trying not to look anxious, but inside Carla was crying out, Why doesn’t he come speak to us? Right after one prized corporate big cat smiled but, because of Carla’s minimal reaction, wandered back into the social jungle, I had to say, Carla, do you know who that was? He’s the head of the young and rubicam in Paris. They’re looking for copywriters willing to relocate.
 
-Carla moaned. Just then we heard a little voice down by Carla’s left knee. Hello. We looked down simultaneously.
+And he’s single. Carla moaned. Just then we heard a little voice down by Carla’s left knee. Hello.
 
-Little five-year-old Willie, the hostess’s adorable young son, was tugging on Carla’s skirt, obviously craving attention. Well, well, well, Carla cried out, a big smile erupting all over her face. Carla turned toward him. Carla kneeled down, touched Little Willie’s elbow and crooned, Well, hello there, Willie.
+We looked down simultaneously. Little five-year-old Willie, the hostess’s adorable young son, was tugging on Carla’s skirt, obviously craving attention. Well, well, well, Carla cried out, a big smile erupting all over her face. Carla turned toward him.
 
-How are you enjoying Mommy’s nice party? Little Willie beamed. When Little Willie finally trundled off to tug on the garments of the next group of potential attention givers, Carla and I returned to our grown-up conversing. During our chat, corporate beasts continued to stalk Carla with their eyes, and she continued casting half smiles at them.
+Carla kneeled down, touched Little Willie’s elbow and crooned, Well, hello there, Willie. How are you enjoying Mommy’s nice party? Little Willie beamed. When Little Willie finally trundled off to tug on the garments of the next group of potential attention givers, Carla and.
 
-She was obviously disappointed none of them was making a further approach. I had to bite my tongue.
+I returned to our grown-up conversing. During our chat, corporate beasts continued to stalk Carla with their eyes, and she continued casting half smiles at them. She was obviously disappointed none of them was making a further approach. I had to bite my tongue.
 
-Finally, when I felt it was going to bleed from the pressure of my teeth, I said, “Carla, have you been noticing that four or five men have come over and smiled at you?” Yes, Carla whispered, her eyes darting nervously around the room lest anyone overhear us. And you’ve been giving them little half smiles, I continued. Yes, she murmured, now confused at my question. Remember when Little Willie came up and tugged on your skirt?
+Finally, when. I felt it was going to bleed from the pressure of my teeth, I said, “Carla, have you been noticing that four or five men have come over and smiled at you?” Yes, Carla whispered, her eyes darting nervously around the room lest anyone overhear us. And you’ve been giving them little half smiles, I continued. Yes, she murmured, now confused at my question.
 
-Do you recall how you smiled, that beautiful big smile of yours, turned toward him and welcomed him into our grown-up conversation? Yes, she answered haltingly. Well, I have a request, Carla. I want you to give the next man who smiles at you that same big smile you gave Willie.
+Remember when Little Willie came up and tugged on your skirt? Do you recall how you smiled, that beautiful big smile of yours, turned toward him and welcomed him into our grown-up conversation? Yes, she answered haltingly. Well, I have a request, Carla.
 
-I want you to turn toward him just like you did then, maybe even reach out and touch his arm like you did Willy’s, and then welcome him into our conversation. Oh, Leo, I couldn’t do that. Carla, do it. Sure enough, within a few minutes, another attractive man wandered our way and smiled.
+I want you to give the next man who smiles at you that same big smile you gave Willie. I want you to turn toward him just like you did then, maybe even reach out and touch his arm like you did Willy’s, and then welcome him into our conversation. Oh, Leo, I couldn’t do that. Carla, do it.
 
-Carla played her role to perfection. She flashed her beautiful teeth, turned fully toward him and said, “Hello, come join us.” He wasted no time accepting Carla’s invitation. After a few moments I excused myself. Neither noticed my departure because they were in animated conversation.
+Sure enough, within a few minutes, another attractive man wandered our way and smiled. Carla played her role to perfection.
 
-The last glimpse I had of my friend at the party was her floating out the door on the arm of her new friend. Just then the technique I call the Big Baby Pivot was born. It is a skill that will help you win whatever your heart desires from whatever type of beasts you encounter in the social or corporate jungle. Technique number five, the Big Baby Pivot.
+She flashed her beautiful teeth, turned fully toward him and said, “Hello, come join us.”. He wasted no time accepting Carla’s invitation. After a few moments. I excused myself.
 
-Give everyone you meet the Big Baby Pivot. The instant the two of you are introduced, reward your new acquaintance. Give the warm smile, the total body turn, and the undivided attention you would give a tiny tyke who crawled up to your feet, turned a precious face up to yours, and beamed a big toothless grin. Pivoting 100 percent toward the new person shouts, I think you are very, very special.
+Neither noticed my departure because they were in animated conversation. The last glimpse. I had of my friend at the party was her floating out the door on the arm of her new friend. Just then the technique.
 
-Remember, very deep inside everyone is a Big Baby who is rattling the crib, wailing out for recognition of how very special he or she is. The following technique reinforces the Big Baby’s suspicion that he or she is, indeed, the center of the universe. Six, how to make someone feel like an old friend at once. A very wise man with the funny name of Zig once told me, people don’t care how much you know until they know how much you care about them.
+I call the Big Baby Pivot was born. It is a skill that will help you win whatever your heart desires from whatever type of beasts you encounter in the social or corporate jungle. Technique number five, the Big Baby Pivot. Give everyone you meet the Big Baby Pivot.
+
+The instant the two of you are introduced, reward your new acquaintance. Give the warm smile, the total body turn, and the undivided attention you would give a tiny tyke who crawled up to your feet, turned a precious face up to yours, and beamed a big toothless grin. Pivoting 100 percent toward the new person shouts, I think you are very, very special. Remember, very deep inside everyone is a Big Baby who is rattling the crib, wailing out for recognition of how very special he or she is.
+
+The following technique reinforces the Big Baby’s suspicion that he or she is, indeed, the center of the universe. Six, how to make someone feel like an old friend at once. A very wise man with the funny name of Zig once told me, people don’t care how much you know until they know how much you care about them.
 
 
 <a id="sec-005536"></a>
@@ -454,31 +478,33 @@ Remember, very deep inside everyone is a Big Baby who is rattling the crib, wail
 
 Zig Ziglar is right. The secret to making people like you is showing how much you like them. Your body is a 24-hour broadcasting station revealing to anyone within eyeshot precisely how you feel at any given moment. Even if your hang-by-your-teeth posture is gaining their respect, your flooding smile and the Big Baby pivot are making them feel special, and your sticky eyes are capturing their hearts and minds, the rest of your body can reveal any incongruence.
 
-Every inch, from the crinkle of your forehead to the position of your feet, must give a command performance if you want to effectively present an I-care-about-you attitude. Unfortunately, when meeting someone, our brains are in overdrive. Remember Shakespeare’s Julius Caesar? He said of Cassius, he has a lean and hungry look, he thinks too much, such men are dangerous.
+Every inch, from the crinkle of your forehead to the position of your feet, must give a command performance if you want to effectively present an. I-care-about-you attitude. Unfortunately, when meeting someone, our brains are in overdrive. Remember Shakespeare’s Julius Caesar?
 
-So it is with our brains when conversing with a new acquaintance. Our brains become lean, some of us are fighting off shyness, others are frantically sizing up the situation, and hungry. We’re deciding what if anything we want from this potential relationship. So we think too much instead of responding with candid, unselfconscious friendliness.
+He said of Cassius, he has a lean and hungry look, he thinks too much, such men are dangerous. So it is with our brains when conversing with a new acquaintance. Our brains become lean, some of us are fighting off shyness, others are frantically sizing up the situation, and hungry. We’re deciding what if anything we want from this potential relationship.
 
-Such actions are dangerous to impending friendship, love or commerce. When our bodies are shooting off 10,000 bullets of stimuli every second, a few shots are apt to misfire and reveal shyness or hidden hostility. We need a technique to ensure every shot aims right at the heart of our subject. We need to trick our bodies into reacting perfectly.
+So we think too much instead of responding with candid, unselfconscious friendliness. Such actions are dangerous to impending friendship, love or commerce. When our bodies are shooting off 10,000 bullets of stimuli every second, a few shots are apt to misfire and reveal shyness or hidden hostility. We need a technique to ensure every shot aims right at the heart of our subject.
 
-To find it, let’s explore the only time we don’t need to worry about any shyness or negativity slipping out through our body language. It’s when we feel none. That happens when we’re chatting with close friends. When we see someone we love or feel completely comfortable with, we respond warmly from head to toe without a thought.
+We need to trick our bodies into reacting perfectly. To find it, let’s explore the only time we don’t need to worry about any shyness or negativity slipping out through our body language. It’s when we feel none. That happens when we’re chatting with close friends.
 
-Our lips part happily. We step closer. Our arms reach out. Our eyes become soft and wide.
+When we see someone we love or feel completely comfortable with, we respond warmly from head to toe without a thought. Our lips part happily. We step closer. Our arms reach out.
 
-Even our palms turn up and our bodies turn fully toward our dear friend. How to trick your body into doing everything right. Here is a visualization technique that accomplishes all that. It guarantees that everyone you encounter will feel your warmth.
+Our eyes become soft and wide. Even our palms turn up and our bodies turn fully toward our dear friend. How to trick your body into doing everything right. Here is a visualization technique that accomplishes all that.
 
-I call it, hello old friend. When meeting someone, play a mental trick on yourself. In your mind’s eye see him or her as an old friend, someone you had a wonderful relationship with years ago. But somehow you lost track of your friend.
+It guarantees that everyone you encounter will feel your warmth. I call it, hello old friend. When meeting someone, play a mental trick on yourself. In your mind’s eye see him or her as an old friend, someone you had a wonderful relationship with years ago.
 
-You tried so hard to find your good buddy, but there was no listing in the phone book. No information online. Everyone of your mutual friends had a clue.
+But somehow you lost track of your friend. You tried so hard to find your good buddy, but there was no listing in the phone book. No information online. Everyone of your mutual friends had a clue.
 
 Suddenly, wow, what a surprise! After all those years the two of you are reunited. You are so happy. That’s where the pretending stops.
 
-Obviously you are not going to try to convince the new person that the two of you are really old friends. You are not going to hug and kiss and say, great to see you again or, how have you been all these years? You merely say, hello, how do you do? I am pleased to meet you.
+Obviously, you are not going to try to convince the new person that the two of you are really old friends. You are not going to hug and kiss and say, great to see you again or, how have you been all these years? You merely say, hello, how do you do? I am pleased to meet you.
 
 But inside it’s a very different story. You will amaze yourself. The delight of rediscovery fills your face and boys up your body language. I sometimes jokingly say, if you were a light you’d beam on the other person.
 
 If you were a dog you’d be wagging your tail. You make this new person feel very special indeed. When meeting someone, imagine he or she is an old friend, an old customer, an old beloved, or someone else you had great affection for. How sad, the vicissitudes of life tore you to asunder. mackerel, now the party, the meeting, the convention, has reunited you with your long-lost old friend.
 
-The joyful experience starts a remarkable chain reaction in your body from the subconscious softening of your eyebrows to the positioning of your toes, and everything between. In my seminars, I first have people introduce themselves to another participant before they’ve learned the hello old friend technique. The group chats as though at a pleasant semi-formal gathering. Later I ask them to introduce themselves to another stranger, imagining they are old friends.
+The joyful experience starts a remarkable chain reaction in your body from the subconscious softening of your eyebrows to the positioning of your toes, and everything between. In my seminars, I first have people introduce themselves to another participant before they’ve learned the hello old friend technique. The group chats as though at a pleasant semi-formal gathering. Later.
+
+I ask them to introduce themselves to another stranger, imagining they are old friends.
 
 
 <a id="sec-010039"></a>
@@ -486,35 +512,39 @@ The joyful experience starts a remarkable chain reaction in your body from the s
 
 The difference is extraordinary. When they’re using hello old friend, the room comes alive. The atmosphere is charged with good feeling. The air sparkles with happier high-energy people.
 
-They are standing closer, laughing more sincerely, and reaching out to one another. I feel like I’m attending a terrific bash that’s been going on for hours. Not a word need be spoken. The hello old friend technique even supersedes language.
+They are standing closer, laughing more sincerely, and reaching out to one another. I feel like. I’m attending a terrific bash that’s been going on for hours. Not a word need be spoken.
 
-Whenever you’re traveling in countries where you don’t speak the native tongue, be sure to use it. If you find yourself with a group of people who are all speaking a language unknown to you, just imagine them to be a group of your old friends. Everything is fine except they momentarily forgot how to speak English. In spite of the fact you won’t understand a word, your whole body still responds with congeniality and acceptance.
+The hello old friend technique even supersedes language. Whenever you’re traveling in countries where you don’t speak the native tongue, be sure to use it. If you find yourself with a group of people who are all speaking a language unknown to you, just imagine them to be a group of your old friends. Everything is fine except they momentarily forgot how to speak English.
 
-I’ve used the hello old friend technique while traveling in Europe. Sometimes my English-speaking friends who live there tell me their European colleagues say I am the friendliest American they’ve ever met. But we’d never spoken a word between us. A self-fulfilling prophecy.
+In spite of the fact you won’t understand a word, your whole body still responds with congeniality and acceptance. I’ve used the hello old friend technique while traveling in Europe. Sometimes my English-speaking friends who live there tell me their European colleagues say. I am the friendliest American they’ve ever met.
 
-An added benefit to the hello old friend technique is it becomes a self-fulfilling prophecy. When you act as though you like someone, you start to really like them. An Adelphi University study called, appropriately, believing another likes or dislikes you, behaviors making the beliefs come true, proved it. Volunteers told volunteers to treat unsuspecting subjects as though they liked them.
+But we’d never spoken a word between us. A self-fulfilling prophecy. An added benefit to the hello old friend technique is it becomes a self-fulfilling prophecy. When you act as though you like someone, you start to really like them.
 
-When surveyed later, the results showed the volunteers wound up genuinely liking the subjects. The unsuspecting subjects were also surveyed. These respondents expressed much higher respect and affection for the volunteers who pretended they liked them. What it boils down to is love begets love, like begets like, respect begets respect.
+An Adelphi University study called, appropriately, believing another likes or dislikes you, behaviors making the beliefs come true, proved it. Volunteers told volunteers to treat unsuspecting subjects as though they liked them. When surveyed later, the results showed the volunteers wound up genuinely liking the subjects. The unsuspecting subjects were also surveyed.
 
-Use the hello old friend technique and you will soon have many new old friends who wind up genuinely liking you. You now have all the basics to come across to everyone you meet as a somebody. A friendly somebody. But your job isn’t over yet.
+These respondents expressed much higher respect and affection for the volunteers who pretended they liked them. What it boils down to is love begets love, like begets like, respect begets respect. Use the hello old friend technique and you will soon have many new old friends who wind up genuinely liking you. You now have all the basics to come across to everyone you meet as a somebody.
 
-In addition to being liked, you want to appear credible, intelligent, and sure of yourself. Each of the next three techniques accomplishes one of those goals. Seven. How to come across as 100% credible to everyone.
+A friendly somebody. But your job isn’t over yet. In addition to being liked, you want to appear credible, intelligent, and sure of yourself. Each of the next three techniques accomplishes one of those goals.
 
-My friend Helen is a highly respected headhunter. She makes terrific hires for her clients and I once asked her the secret of her success. Helen replied, probably because I can almost always tell when an applicant is lying. How can you tell?
+Seven. How to come across as 100% credible to everyone. My friend Helen is a highly respected headhunter. She makes terrific hires for her clients and.
 
-She said, well, just last week I was interviewing a young woman for a position as marketing director for a small firm. Throughout the interview, the applicant had been sitting with her left leg crossed over her right. Her hands were comfortably resting in her lap and she was looking directly at me. I asked her salary.
+I once asked her the secret of her success. Helen replied, probably because. I can almost always tell when an applicant is lying. How can you tell?
 
-Without swerving her eyes from mine, she told me. I asked if she enjoyed her work. Still looking directly at me, she said yes. Then I asked her why she left her previous job.
+She said, well, just last week. I was interviewing a young woman for a position as marketing director for a small firm. Throughout the interview, the applicant had been sitting with her left leg crossed over her right. Her hands were comfortably resting in her lap and she was looking directly at me.
 
-At that point her eyes fleetingly darted away before regaining eye contact with me. Helen continued. Then while answering my question, she shifted in her seat and crossed her right leg over her left. At one point she put her hands up to her mouth.
+I asked her salary. Without swerving her eyes from mine, she told me. I asked if she enjoyed her work. Still looking directly at me, she said yes.
 
-Helen said, that’s all I needed. With her words, she was telling me she felt her growth opportunities were limited at her previous firm. But her body told me she was not being entirely forthright. Helen went on to explain the young woman’s fidgeting alone wouldn’t prove she was lying.
+Then. I asked her why she left her previous job. At that point her eyes fleetingly darted away before regaining eye contact with me. Helen continued.
 
-Nevertheless, it was enough, she said, that she wanted to pursue the subject further. So I tested it. Helen explained. I changed the subject and went back to more neutral territory.
+Then while answering my question, she shifted in her seat and crossed her right leg over her left. At one point she put her hands up to her mouth. Helen said, that’s all. I needed.
 
-I asked her about her goals for the future. Again, the girl stopped fidgeting. She folded her hands in her lap as she told me how she’d always wanted to work in a small company, in order to have hands-on experience with more than one project. Then I repeated my earlier question.
+With her words, she was telling me she felt her growth opportunities were limited at her previous firm. But her body told me she was not being entirely forthright. Helen went on to explain the young woman’s fidgeting alone wouldn’t prove she was lying. Nevertheless, it was enough, she said, that she wanted to pursue the subject further.
 
-I asked again if it was only the lack of growth opportunity that made her leave her previous
+So. I tested it. Helen explained. I changed the subject and went back to more neutral territory.
+
+I asked her about her goals for the future. Again, the girl stopped fidgeting. She folded her hands in her lap as she told me how she’d always wanted to work in a small company, in order to have hands-on experience with more than one project. Then.
+
+I repeated my earlier question. I asked again if it was only the lack of growth opportunity that made her leave her previous
 
 
 <a id="sec-010543"></a>
@@ -524,57 +554,57 @@ position. Sure enough, once again, the woman shifted in her seat and momentarily
 
 The applicant had been fired because of a nasty disagreement with the marketing director for whom she worked. Human resources professionals who interview applicants and police officers who interrogate suspected criminals are trained to detect lies. They know specifically what signals to look for. The rest of us, although not knowledgeable about specific clues to deceit, have a sixth sense when someone is not telling us the truth.
 
-Just recently, a colleague of mine was considering hiring an in-house booking agent. After interviewing one fellow, she said to me, I don’t know, I don’t really think he has the success he claims. You think he’s lying to you? I asked. Absolutely.
+Just recently, a colleague of mine was considering hiring an in-house booking agent. After interviewing one fellow, she said to me, I don’t know, I don’t really think he has the success he claims. You think he’s lying to you? I asked.
 
-And the funny thing is, I can’t tell why. He looked right at me, he answered all my questions directly. There was just something that didn’t seem right. Employers often feel this way.
+Absolutely. And the funny thing is, I can’t tell why. He looked right at me, he answered all my questions directly. There was just something that didn’t seem right.
 
-They have a gut feeling about someone, but they can’t put their finger on it. Because of that, many large companies turn to the polygraph, or lie detector, a mechanical apparatus designed to detect if someone is lying. Banks, drugstores and grocery stores rely heavily on it for pre-employment screening. The FBI, Justice Department and most police departments have used the polygraph on suspects.
+Employers often feel this way. They have a gut feeling about someone, but they can’t put their finger on it. Because of that, many large companies turn to the polygraph, or lie detector, a mechanical apparatus designed to detect if someone is lying. Banks, drugstores and grocery stores rely heavily on it for pre-employment screening.
 
-Interestingly, the polygraph is not a lie detector at all. All the machine can do is detect fluctuations in our autonomic nervous system, changes in breathing patterns, sweating, flushing, heart rate, blood pressure and other signs of emotional arousal. So is it accurate? Well, yes, often it is.
+The FBI, Justice Department and most police departments have used the polygraph on suspects. Interestingly, the polygraph is not a lie detector at all. All the machine can do is detect fluctuations in our autonomic nervous system, changes in breathing patterns, sweating, flushing, heart rate, blood pressure and other signs of emotional arousal. So is it accurate?
 
-Why? Because when the average person tells a lie, he or she is emotionally aroused and bodily changes do take place. When that happens, the individual might fidget. Experienced or trained liars, however, can fool the polygraph.
+Well, yes, often it is. Why? Because when the average person tells a lie, he or she is emotionally aroused and bodily changes do take place. When that happens, the individual might fidget.
 
-Beware of the appearance of lying, even when you’re telling the truth. Problems arise for us when we are not lying but are feeling emotional or intimidated by the person with whom we are talking. A young man telling an attractive woman about his business success might shift his weight. A woman talking about her company’s track record to an important client could rub her neck.
+Experienced or trained liars, however, can fool the polygraph. Beware of the appearance of lying, even when you’re telling the truth. Problems arise for us when we are not lying but are feeling emotional or intimidated by the person with whom we are talking. A young man telling an attractive woman about his business success might shift his weight.
 
-More problems arise out of the atmosphere. A businessman who doesn’t feel nervous at all could loosen his collar because the room is hot. A politician giving a speech outdoors could blink excessively because the air is dusty. Even though erroneous, these fidgety movements give the listeners the sense something just isn’t right or a gut feeling that the speaker is lying.
+A woman talking about her company’s track record to an important client could rub her neck. More problems arise out of the atmosphere. A businessman who doesn’t feel nervous at all could loosen his collar because the room is hot. A politician giving a speech outdoors could blink excessively because the air is dusty.
 
-Professional communicators alert to this hazard consciously squelch any signs anyone could mistake for shiftiness. They fix a constant gaze on the listener. They never put their hands on their faces. They don’t massage their arm when it tingles or rub their nose when it itches.
+Even though erroneous, these fidgety movements give the listeners the sense something just isn’t right or a gut feeling that the speaker is lying. Professional communicators alert to this hazard consciously squelch any signs anyone could mistake for shiftiness. They fix a constant gaze on the listener. They never put their hands on their faces.
 
-They don’t loosen their collar when it’s hot or blink because it’s sandy. They don’t wipe away tiny perspiration beads in public or shield their eyes from the sun. They suffer because they know fidgeting undermines credibility. Consider the infamous September 25, 1960 televised presidential debate between Richard Milhouse Nixon and John Fitzgerald Kennedy.
+They don’t massage their arm when it tingles or rub their nose when it itches. They don’t loosen their collar when it’s hot or blink because it’s sandy. They don’t wipe away tiny perspiration beads in public or shield their eyes from the sun. They suffer because they know fidgeting undermines credibility.
 
-Political pundits speculate Nixon’s lack of makeup, his fidgeting, and mopping his brow on camera lost him the election. If you want to come across as an entirely credible somebody, try to squelch all extraneous movement when your communication counts. I call the technique, limit the fidget. Technique number seven, limit the fidget.
+Consider the infamous September 25, 1960 televised presidential debate between Richard Milhouse Nixon and John Fitzgerald Kennedy. Political pundits speculate Nixon’s lack of makeup, his fidgeting, and mopping his brow on camera lost him the election. If you want to come across as an entirely credible somebody, try to squelch all extraneous movement when your communication counts. I call the technique, limit the fidget.
 
-Whenever your conversation really counts, let your nose itch, your ear tingle, or your foot prickle. Do not fidget, twitch, wiggle, squirm, or scratch. And above all, keep your paws away from your puss, hand motions near your face, and all fidgeting can give your listener the gut feeling you’re fibbing. Now let’s tackle intelligence.
+Technique number seven, limit the fidget. Whenever your conversation really counts, let your nose itch, your ear tingle, or your foot prickle. Do not fidget, twitch, wiggle, squirm, or scratch. And above all, keep your paws away from your puss, hand motions near your face, and all fidgeting can give your listener the gut feeling you’re fibbing.
 
-What, you ask? Can people come across as more intelligent than they really are? Well, did you ever hear of Hans, the counting horse?
+Now let’s tackle intelligence. What, you ask? Can people come across as more intelligent than they really are? Well, did you ever hear of Hans, the counting horse?
 
 
 <a id="sec-011046"></a>
 ### ⏱️ [01:10:46 - 01:15:47]
 
-Hans was considered the most intelligent horse in history, and he used the technique I’m about to suggest. Eight. How to read people like you have ESP. Hans a very clever horse inspires this next technique.
+Hans was considered the most intelligent horse in history, and he used the technique. I’m about to suggest. Eight. How to read people like you have ESP.
 
-Hans was owned by Herr von Austin, a Berliner, who had trained Hans to do simple arithmetic by tapping his right front hoof. So prodigious was Hans’s ability that the horse’s fame quickly spread throughout Europe in the early 1900s. He became known as Clever Hans, the counting horse. Herr von Austin taught Hans to do more than just add.
+Hans a very clever horse inspires this next technique. Hans was owned by Herr von Austin, a Berliner, who had trained Hans to do simple arithmetic by tapping his right front hoof. So prodigious was Hans’s ability that the horse’s fame quickly spread throughout Europe in the early 1900s. He became known as Clever Hans, the counting horse.
 
-Soon the horse could subtract and divide. In time, Clever Hans even mastered the multiplication tables. The horse became quite a phenomenon. Without his owner uttering a single word, Hans could count out the size of his audience, tap the number wearing glasses, or respond to any counting question they asked him.
+Herr von Austin taught Hans to do more than just add. Soon the horse could subtract and divide. In time, Clever Hans even mastered the multiplication tables. The horse became quite a phenomenon.
 
-Finally Hans achieved the ultimate ability that separates man from animal, language. Hans learned the alphabet. By tapping out hoof beats for each letter, he answered any question about anything humans had read in a newspaper or heard on the radio. He could even answer common questions about history, geography, and human biology.
+Without his owner uttering a single word, Hans could count out the size of his audience, tap the number wearing glasses, or respond to any counting question they asked him. Finally Hans achieved the ultimate ability that separates man from animal, language. Hans learned the alphabet. By tapping out hoof beats for each letter, he answered any question about anything humans had read in a newspaper or heard on the radio.
 
-Hans made headlines and was the main topic of discussion at dinner parties throughout Europe. The human horse quickly attracted the attention of scientists, psychology professors, veterinarians, even cavalry officers. Naturally, they were skeptical, so they established an official commission to decide whether the horse was a case of clever trickery or equine genius. Whatever their suspicions, it was obvious to all Hans was a very smart horse.
+He could even answer common questions about history, geography, and human biology. Hans made headlines and was the main topic of discussion at dinner parties throughout Europe. The human horse quickly attracted the attention of scientists, psychology professors, veterinarians, even cavalry officers. Naturally, they were skeptical, so they established an official commission to decide whether the horse was a case of clever trickery or equine genius.
 
-Compared to other horses, Hans was a somebody. Cut to today. Why is it when you talk with certain individuals, you just know they are smarter than other people, that they are a somebody? Often they’re not discussing highfalutin subjects or using two-dollar words.
+Whatever their suspicions, it was obvious to all Hans was a very smart horse. Compared to other horses, Hans was a somebody. Cut to today. Why is it when you talk with certain individuals, you just know they are smarter than other people, that they are a somebody?
 
-Nevertheless, everybody knows. People say, she’s smart as a whip. He doesn’t miss a trick. She picks up on everything.
+Often they’re not discussing highfalutin subjects or using two-dollar words. Nevertheless, everybody knows. People say, she’s smart as a whip. He doesn’t miss a trick.
 
-He’s got the right stuff. She’s got horse sense. Which brings us back to Hans. The day of the big test arrived.
+She picks up on everything. He’s got the right stuff. She’s got horse sense. Which brings us back to Hans.
 
-Everyone was convinced it must be a trick orchestrated by Herr von Austin, Hans’s owner. It was standing room only in the auditorium filled with scientists, reporters, clairvoyants, psychics and horse lovers who eagerly awaited the answer. The canny commission members were confident this was the day they would expose Hans as chicanery because they too had a trick up their sleeves. They were going to bar von Austin from the hall and put his horse to the test all alone.
+The day of the big test arrived. Everyone was convinced it must be a trick orchestrated by Herr von Austin, Hans’s owner. It was standing room only in the auditorium filled with scientists, reporters, clairvoyants, psychics and horse lovers who eagerly awaited the answer. The canny commission members were confident this was the day they would expose Hans as chicanery because they too had a trick up their sleeves.
 
-When the crowd was assembled, they told von Austin he must leave the auditorium. The surprised owner departed and Hans was stranded in an auditorium with a suspicious and anxious audience. The confident commission leader asked Hans the first mathematical question. He tapped out the right answer.
+They were going to bar von Austin from the hall and put his horse to the test all alone. When the crowd was assembled, they told von Austin he must leave the auditorium. The surprised owner departed and Hans was stranded in an auditorium with a suspicious and anxious audience. The confident commission leader asked Hans the first mathematical question.
 
-A second. He got it right. Then a third. Then the language questions followed.
+He tapped out the right answer. A second. He got it right. Then a third.
 
-He got them all right. The commission was befuddled. The critics were silenced.
+Then the language questions followed. He got them all right. The commission was befuddled. The critics were silenced.
 
 However, the public wasn’t. With a great outcry, they insisted on a new commission. The world waited while, once again, the authorities gathered scientists, professors, veterinarians, cavalry officers and reporters from around the world. Only after this second commission put Hans to the test did the truth about the clever horse come out.
 
@@ -588,39 +618,41 @@ When the audience or researcher knew the answer, Hans did too. Now can you guess
 <a id="sec-011547"></a>
 ### ⏱️ [01:15:47 - 01:20:49]
 
-of tension. Then when Hans reached the right number, they responded by an expulsion of breath or a slight relaxation of muscles. And Austin had trained Hans to stop tapping at that point and therefore appear to give the right answer. Hans was using the technique I call Hans’s Horse Sense.
+of tension. Then when Hans reached the right number, they responded by an expulsion of breath or a slight relaxation of muscles. And Austin had trained Hans to stop tapping at that point and therefore appear to give the right answer. Hans was using the technique.
 
-He watched his audience’s reactions very carefully and planned his responses accordingly. If a horse can do it, so can you. Have you ever been watching TV when the phone rings? Someone asks you to hit the mute button on the television so they can talk.
+I call Hans’s Horse Sense. He watched his audience’s reactions very carefully and planned his responses accordingly. If a horse can do it, so can you. Have you ever been watching TV when the phone rings?
 
-Because there’s no sound now you watch the TV action more carefully. You see performers smiling, scowling, smirking, squinting, and scores of other expressions. You don’t miss a bit of the story because just from their expressions you can tell what they’re thinking. Hans’s Horse Sense is just that.
+Someone asks you to hit the mute button on the television so they can talk. Because there’s no sound now you watch the TV action more carefully. You see performers smiling, scowling, smirking, squinting, and scores of other expressions. You don’t miss a bit of the story because just from their expressions you can tell what they’re thinking.
 
-Watching people, seeing how they’re reacting and then making your moves accordingly. Even while you’re talking, keep your eyes on your listeners and watch how they’re responding to what you’re saying. Don’t miss a trick. Are they smiling?
+Hans’s Horse Sense is just that. Watching people, seeing how they’re reacting and then making your moves accordingly. Even while you’re talking, keep your eyes on your listeners and watch how they’re responding to what you’re saying. Don’t miss a trick.
 
-Are they nodding? Are their palms up? They like what they’re hearing. Are they frowning?
+Are they smiling? Are they nodding? Are their palms up? They like what they’re hearing.
 
-Are they looking away? Are their knuckles clenched? Maybe they don’t. Are they rubbing their necks?
+Are they frowning? Are they looking away? Are their knuckles clenched? Maybe they don’t.
 
-Are they stepping back? Are their feet pointing toward the door? Maybe they want to get away. You don’t need a complete course in body language here.
+Are they rubbing their necks? Are they stepping back? Are their feet pointing toward the door? Maybe they want to get away.
 
-Maybe your life’s experience has given you a good grounding in that. Most people know if their conversation partners step back or look away they’re not interested in what you’re saying. When they think you’re a pain in the neck they rub theirs. When they feel superior to you they steeple their hands.
+You don’t need a complete course in body language here. Maybe your life’s experience has given you a good grounding in that. Most people know if their conversation partners step back or look away they’re not interested in what you’re saying. When they think you’re a pain in the neck they rub theirs.
 
-We’ll explore more body language specifics in technique number 77, eyeball selling. For the moment all you need to do is tune to the silent channel being broadcast by the speaker. Technique number eight, Hans’s horse sense. Make it a habit to get on a dual track while talking.
+When they feel superior to you they steeple their hands. We’ll explore more body language specifics in technique number 77, eyeball selling. For the moment all you need to do is tune to the silent channel being broadcast by the speaker. Technique number eight, Hans’s horse sense.
 
-Express yourself but keep a keen eye on how your listener is reacting to what you’re saying. Then plan your moves accordingly. If a horse can do it so can a human. People will say you pick up on everything.
+Make it a habit to get on a dual track while talking. Express yourself but keep a keen eye on how your listener is reacting to what you’re saying. Then plan your moves accordingly. If a horse can do it so can a human.
 
-You never miss a trick. You’ve got horse sense. You now have eight techniques to help you come across as a confident, credible and charismatic person who makes everyone he or she comes in contact with feel like a million. Let’s explore one last technique in this section to put it all together and make sure you don’t miss a beat.
+People will say you pick up on everything. You never miss a trick. You’ve got horse sense. You now have eight techniques to help you come across as a confident, credible and charismatic person who makes everyone he or she comes in contact with feel like a million.
 
-Nine, how to make sure you don’t miss a single beat. You’ve seen professional skiing on television. The athlete at the top of the piece every muscle primed and poised waiting for the gun to propel him to ultimate victory. Look deeply into his eyes and you’ll see he is having an out of body experience.
+Let’s explore one last technique in this section to put it all together and make sure you don’t miss a beat. Nine, how to make sure you don’t miss a single beat. You’ve seen professional skiing on television. The athlete at the top of the piece every muscle primed and poised waiting for the gun to propel him to ultimate victory.
 
-In his mind’s eye the skier is swooshing down the slope zapping back and forth between the poles and sliding across the finish line in faster time than the world thought possible. The athlete is visualizing. All athletes do it. Divers, runners, jumpers, javelin throwers, losers, swimmers, skaters, acrobats.
+Look deeply into his eyes and you’ll see he is having an out of body experience. In his mind’s eye the skier is swooshing down the slope zapping back and forth between the poles and sliding across the finish line in faster time than the world thought possible. The athlete is visualizing. All athletes do it.
 
-They visualize their magic before performing it. They see their own bodies bending, twisting, flipping or flying through the air. They hear the sound of the wind, the splash in the water, the horror of the javelin, the thought of its landing. They smell the grass, the cement, the pool, the dust.
+Divers, runners, jumpers, javelin throwers, losers, swimmers, skaters, acrobats. They visualize their magic before performing it. They see their own bodies bending, twisting, flipping or flying through the air. They hear the sound of the wind, the splash in the water, the horror of the javelin, the thought of its landing.
 
-Before they move a muscle professional athletes watch the whole movie which of course ends in their own victory. Sports psychologists tell us visualization is not just for top level competitive athletes. Studies show mental rehearsal helps weekend athletes sharpen their golf, their tennis, their running, whatever their favorite activity. Experts agree if you see the pictures, hear the sounds and feel the movements of your body in your mind before you do the activity.
+They smell the grass, the cement, the pool, the dust. Before they move a muscle professional athletes watch the whole movie which of course ends in their own victory. Sports psychologists tell us visualization is not just for top level competitive athletes. Studies show mental rehearsal helps weekend athletes sharpen their golf, their tennis, their running, whatever their favorite activity.
 
-The effect is powerful. Twenty-six miles on my mattress. Psychological mumbo-jumbo? Absolutely not.
+Experts agree if you see the pictures, hear the sounds and feel the movements of your body in your mind before you do the activity. The effect is powerful. Twenty-six miles on my mattress. Psychological mumbo-jumbo?
 
-My friend Richard runs marathons. Once several years ago a scant three weeks before the big New York marathon an out of control car crashed into Richard’s and he was taken to the hospital. He was not badly injured. Nevertheless his friends felt sorry for him because being laid up two weeks in bed would
+Absolutely not. My friend Richard runs marathons. Once several years ago a scant three weeks before the big New York marathon an out of control car crashed into Richard’s and he was taken to the hospital. He was not badly injured.
+
+Nevertheless his friends felt sorry for him because being laid up two weeks in bed would
 
 
 <a id="sec-012049"></a>
@@ -628,29 +660,31 @@ My friend Richard runs marathons. Once several years ago a scant three weeks bef
 
 naturally knock him out of the big event. What a surprise when on that crisp November marathon morning in Central Park Richard showed up in his little shorts and big running shoes. Richard, are you crazy? You’re in no shape to run.
 
-You’ve been in bed these past few weeks, we all cried out. My body may have been in bed, he replied, but I’ve been running. What? We asked in unison?
+You’ve been in bed these past few weeks, we all cried out. My body may have been in bed, he replied, but. I’ve been running. What?
 
-Yep, every day. Twenty-six miles, three hundred eighty-five yards, right there on my mattress. Richard explained that in his imagination he saw himself traversing every step of the course. He saw the sights, heard the sounds and felt the twitching movements in his muscles.
+We asked in unison? Yep, every day. Twenty-six miles, three hundred eighty-five yards, right there on my mattress. Richard explained that in his imagination he saw himself traversing every step of the course.
 
-He visualized himself racing in the marathon. Richard didn’t do as well as he had the year before, but the miracle is he finished the marathon without injury, without excessive fatigue, thanks to his visualization. It works in just about any endeavor you apply it to, including being a terrific communicator. Visualization works best when you feel totally relaxed, only when you have a calm state of mind can you get clear, vivid images.
+He saw the sights, heard the sounds and felt the twitching movements in his muscles. He visualized himself racing in the marathon. Richard didn’t do as well as he had the year before, but the miracle is he finished the marathon without injury, without excessive fatigue, thanks to his visualization. It works in just about any endeavor you apply it to, including being a terrific communicator.
 
-Do your visualization in the quiet of your home or car before leaving for the party, the convention, or the big deal meeting. See it all in your mind’s eye ahead of time. Technique number nine. Watch the scene before you make the scene.
+Visualization works best when you feel totally relaxed, only when you have a calm state of mind can you get clear, vivid images. Do your visualization in the quiet of your home or car before leaving for the party, the convention, or the big deal meeting. See it all in your mind’s eye ahead of time. Technique number nine.
 
-Rehearse being the super somebody you want to be ahead of time. See yourself walking around with hang-by-your-teeth posture, shaking hands, smiling the flooding smile and making sticky eyes. Hear yourself chatting comfortably with everyone. Feel the pleasure of knowing you are in peak form and everyone is gravitating toward you.
+Watch the scene before you make the scene. Rehearse being the super somebody you want to be ahead of time. See yourself walking around with hang-by-your-teeth posture, shaking hands, smiling the flooding smile and making sticky eyes. Hear yourself chatting comfortably with everyone.
 
-Visualize yourself a super somebody. Then it all happens automatically. You now have the skills necessary to get you started on the right foot with any new person in your life. Think of yourself in these first moments like a rocket taking off.
+Feel the pleasure of knowing you are in peak form and everyone is gravitating toward you. Visualize yourself a super somebody. Then it all happens automatically. You now have the skills necessary to get you started on the right foot with any new person in your life.
 
-When the folks at Cape Kennedy aim a spacecraft for the moon, a mistake in the millionth of a degree at the beginning when the craft is still on the ground means missing the moon by thousands of miles. Likewise, a tiny body language blooper at the outside of a relationship may mean you will never make a hit with that person. But with the flooding smile, sticky eyes, epoxy eyes, hang-by-your-teeth, the big baby pivot, hello old friend, limit the fidget, Hans’s horse sense, and watch the scene before you make the scene, you’ll be right on course to get whatever you eventually want from anybody, be it business, friendship, or love.
+Think of yourself in these first moments like a rocket taking off. When the folks at Cape Kennedy aim a spacecraft for the moon, a mistake in the millionth of a degree at the beginning when the craft is still on the ground means missing the moon by thousands of miles. Likewise, a tiny body language blooper at the outside of a relationship may mean you will never make a hit with that person. But with the flooding smile, sticky eyes, epoxy eyes, hang-by-your-teeth, the big baby pivot, hello old friend, limit the fidget, Hans’s horse sense, and watch the scene before you make the scene, you’ll be right on course to get whatever you eventually want from anybody, be it business, friendship, or love.
 
 We now move from the silent world to the spoken word.
 
-#### Part 2 How to Know What to Say After You Say Hi Just as the first glimpse should please their eyes, your first words should delight their ears. Your tongue is a welcome mat embossed with either welcome or go away. To make your conversation partner feel welcome, you must master small talk. Can you hear the shudder?
+#### Part 2. How to Know. What to Say. After You Say Hi Just as the first glimpse should please their eyes, your first words should delight their ears.
 
-Those two little words drive a stake into the hearts of some otherwise fearless and undaunted souls. Invite them to a party where they don’t know anyone, and it mainlines queasiness into their veins. If this sounds familiar, take consolation from the fact that the brighter the individual, the more he or she detests small talk. When consulting for Fortune 500 companies, I was astounded.
+Your tongue is a welcome mat embossed with either welcome or go away. To make your conversation partner feel welcome, you must master small talk. Can you hear the shudder? Those two little words drive a stake into the hearts of some otherwise fearless and undaunted souls.
 
-Top executives, completely comfortable making big talk with their boards of directors or addressing their stockholders, confessed they felt like little lost children at parties where the pratter was less than prodigious. Small talk haters take further consolation from the fact that you are in star-studded company. Fear of small talk and stage fright are the same thing. The butterflies you feel in your stomach when you’re in a room full of strangers flutter round the tummies of top performers.
+Invite them to a party where they don’t know anyone, and it mainlines queasiness into their veins. If this sounds familiar, take consolation from the fact that the brighter the individual, the more he or she detests small talk. When consulting for Fortune 500 companies, I was astounded. Top executives, completely comfortable making big talk with their boards of directors or addressing their stockholders, confessed they felt like little lost children at parties where the pratter was less than prodigious.
 
-Pablo Casals complained of lifelong stage fright. Carly Simon curtailed live performances because of it. A friend of mine who worked with Neil Diamond said he insisted the words to Song Song Blue, a tune he’d been crooning for forty years, be displayed on his teleprompter. Lest fear frees him into forgetfulness.
+Small talk haters take further consolation from the fact that you are in star-studded company. Fear of small talk and stage fright are the same thing. The butterflies you feel in your stomach when you’re in a room full of strangers flutter round the tummies of top performers. Pablo Casals complained of lifelong stage fright.
+
+Carly Simon curtailed live performances because of it. A friend of mine who worked with Neil Diamond said he insisted the words to Song Song Blue, a tune he’d been crooning for forty years, be displayed on his teleprompter. Lest fear frees him into forgetfulness.
 
 
 <a id="sec-012549"></a>
@@ -660,33 +694,37 @@ Is small talkaphobia curable? Someday, scientists say, communications fears may 
 
 The good news is that when human beings think and genuinely feel certain emotions, like confidence that they have specific techniques to fall back on, the brain manufactures its own antidotes. If fear and distaste of small talk is the disease, knowing solid techniques like the ones we explore in this section is the cure. Incidentally, science is beginning to recognize it’s not chance or even upbringing that one person has a belly of butterflies and another doesn’t. In our brains, neurons communicate through chemicals called neurotransmitters.
 
-Some people have excessive levels of a neurotransmitter called norepinephrine, a chemical cousin of adrenaline. For some children, just walking into a kindergarten room makes them want to run and hide under a table. As a tot, I spent a lot of time under the table. As a pre-teen in an all-girls boarding school, my legs turned to linguine every time I had to converse with a male.
+Some people have excessive levels of a neurotransmitter called norepinephrine, a chemical cousin of adrenaline. For some children, just walking into a kindergarten room makes them want to run and hide under a table. As a tot, I spent a lot of time under the table. As a pre-teen in an all-girls boarding school, my legs turned to linguine every time.
 
-In eighth grade, I once had to invite a boy to our school prom. The entire selection of dancing males lived in the dormitory of our brother’s school. And I only knew one resident, Eugene. I had met Eugene at summer camp the year before.
+I had to converse with a male. In eighth grade, I once had to invite a boy to our school prom. The entire selection of dancing males lived in the dormitory of our brother’s school. And.
 
-Mustering all my courage, I decided to call him. Two weeks before the dance, I felt the onset of sweaty palms. I put the call off. One week before rapid heartbeat set in, I put the call off.
+I only knew one resident, Eugene. I had met Eugene at summer camp the year before. Mustering all my courage, I decided to call him. Two weeks before the dance, I felt the onset of sweaty palms.
 
-Finally, three days before the big bash, breathing became difficult. Time was running out. The critical moment I rationalized would be easier if I read from a script. I wrote out the following.
+I put the call off. One week before rapid heartbeat set in, I put the call off.
 
-Hi, this is Leil. We met at camp last summer, remember? I programmed in a pause where I hoped he would say yes. Well, National Cathedral School’s prom is this Saturday night, and I’d like you to be my date.
+Finally, three days before the big bash, breathing became difficult. Time was running out. The critical moment. I rationalized would be easier if.
 
-I programmed in another pause where I prayed he’d say yes. On Thursday before the dance, I could no longer delay the inevitable. I picked up the receiver and dialed. Clutching the phone, waiting for Eugene to answer, my eyes followed perspiration droplets rolling down my arm and dripping off my elbow.
+I read from a script. I wrote out the following. Hi, this is Leil. We met at camp last summer, remember?
 
-A small salty puddle was forming around my feet. Hello, a sexy, deep male voice answered the dorm phone. In faster than a speeding bullet voice, like a nervous, novice telemarketer, I shot out, hi, this is Leil. We met at camp last summer, remember?
+I programmed in a pause where. I hoped he would say yes. Well, National Cathedral School’s prom is this Saturday night, and. I’d like you to be my date.
 
-Forgetting to pause for his ascent, I raced on. Well, National Cathedral School’s prom is this Saturday night, and I’d like you to be my date. To my relief and delight, I heard a big, cheerful, oh, that’s great, I’d love to. I exhaled my first normal breath all day.
+I programmed in another pause where. I prayed he’d say yes. On Thursday before the dance, I could no longer delay the inevitable. I picked up the receiver and dialed.
 
-He continued, I’ll pick you up at the girls' dorm at 7.30. I’ll have a pink carnation for you. Will that go with your dress? And my name is Donnie.
+Clutching the phone, waiting for Eugene to answer, my eyes followed perspiration droplets rolling down my arm and dripping off my elbow. A small salty puddle was forming around my feet. Hello, a sexy, deep male voice answered the dorm phone. In faster than a speeding bullet voice, like a nervous, novice telemarketer, I shot out, hi, this is Leil.
 
-Donnie? Donnie? Who said anything about Donnie? Well, Donnie turned out to be the best date I had that decade.
+We met at camp last summer, remember? Forgetting to pause for his ascent, I raced on. Well, National Cathedral School’s prom is this Saturday night, and. I’d like you to be my date.
 
-Donnie had buck teeth, a head full of tousled red hair, and communication skills that immediately put me at ease. On Saturday night, Donnie greeted me at the door, carnation in hand and grin on face. He joked self-deprecatingly about how he was dying to go to the prom, so, knowing it was a case of mistaken identity, he accepted anyway. He told me he was thrilled when the girl with the lovely voice called.
+To my relief and delight, I heard a big, cheerful, oh, that’s great, I’d love to. I exhaled my first normal breath all day. He continued, I’ll pick you up at the girls' dorm at 7.30. I’ll have a pink carnation for you.
 
-And he took full responsibility for tricking me into an invitation. Donnie made me comfortable and confident as we chatted.
+Will that go with your dress? And my name is Donnie. Donnie? Donnie?
 
-First, we made small talk, and then he gradually led me into subjects I was interested in. I flipped over Donnie, and he became my very first boyfriend. Donnie instinctively had the small talk skills that we are now going to fashion into techniques to help you glide through small talk like a hot knife through butter. When you master them, you will be able, like Donnie, to melt the heart of everyone you touch.
+Who said anything about Donnie? Well, Donnie turned out to be the best date. I had that decade. Donnie had buck teeth, a head full of tousled red hair, and communication skills that immediately put me at ease.
 
-The goal of how to talk to anyone is not, of course, to make you a small talk whiz and stop there. The aim is to make you a dynamic conversationalist and forceful communicator.
+On Saturday night, Donnie greeted me at the door, carnation in hand and grin on face. He joked self-deprecatingly about how he was dying to go to the prom, so, knowing it was a case of mistaken identity, he accepted anyway. He told me he was thrilled when the girl with the lovely voice called. And he took full responsibility for tricking me into an invitation.
+
+Donnie made me comfortable and confident as we chatted. First, we made small talk, and then he gradually led me into subjects. I was interested in. I flipped over Donnie, and he became my very first boyfriend.
+
+Donnie instinctively had the small talk skills that we are now going to fashion into techniques to help you glide through small talk like a hot knife through butter. When you master them, you will be able, like Donnie, to melt the heart of everyone you touch. The goal of how to talk to anyone is not, of course, to make you a small talk whiz and stop there. The aim is to make you a dynamic conversationalist and forceful communicator.
 
 However, small talk is the first crucial step toward that goal.
 
@@ -694,65 +732,75 @@ However, small talk is the first crucial step toward that goal.
 <a id="sec-013055"></a>
 ### ⏱️ [01:30:55 - 01:35:56]
 
-10. How to Start Great Small Talk You’ve been there. You’re introduced to someone at a party or business meeting. You shake hands, your eyes meet, and suddenly your entire body of knowledge dries up and thought processes come to a screeching halt.
+10. How to Start Great Small Talk. You’ve been there. You’re introduced to someone at a party or business meeting.
 
-You fish for a topic to fill the awkward silence. Failing, your new contact slips away in the direction of the cheese tray. We want the first words falling from our lips to be sparkling, witty, and insightful. We want our listeners to immediately recognize how riveting we are.
+You shake hands, your eyes meet, and suddenly your entire body of knowledge dries up and thought processes come to a screeching halt. You fish for a topic to fill the awkward silence. Failing, your new contact slips away in the direction of the cheese tray. We want the first words falling from our lips to be sparkling, witty, and insightful.
 
-I was once at a gathering where everybody was sparkling, witty, insightful, and riveting. It drove me berserk because most of these same everybody’s felt they had to prove it in their first ten words or less. Several years ago, the Mensa organization, a social group of extremely bright individuals who score in the country’s top two percent in intelligence, invited me to be a keynote speaker at their annual convention. Their cocktail party was in full swing in the lobby of the hotel as I arrived.
+We want our listeners to immediately recognize how riveting we are. I was once at a gathering where everybody was sparkling, witty, insightful, and riveting. It drove me berserk because most of these same everybody’s felt they had to prove it in their first ten words or less. Several years ago, the Mensa organization, a social group of extremely bright individuals who score in the country’s top two percent in intelligence, invited me to be a keynote speaker at their annual convention.
 
-After checking in, I hauled my bags through the hoard of happy hour mensons to the elevator. The doors separated, and I stepped into an elevator packed with partygoers. As we began the journey up to our respective floors, the elevator gave several sleepy jerks. Hmm, I remarked, in response to the elevator’s sluggishness.
+Their cocktail party was in full swing in the lobby of the hotel as. I arrived. After checking in, I hauled my bags through the hoard of happy hour mensons to the elevator. The doors separated, and.
 
-The elevator seems a little flaky. Suddenly, each elevator occupant, feeling compelled to exhibit his or her 132-plus IQ, pounced forth with a thunderous explanation. It’s obviously got poor rail-guide alignment, announced one. The relay contact is not made up, declared another.
+I stepped into an elevator packed with partygoers. As we began the journey up to our respective floors, the elevator gave several sleepy jerks. Hmm, I remarked, in response to the elevator’s sluggishness. The elevator seems a little flaky.
 
-Suddenly I felt like a grasshopper trapped in a stereo speaker. I couldn’t wait to escape the attack of the mental giants. Afterward in the solitude of my room, I thought back and reflected that the mensons' answers were indeed interesting. Why then did I have an adverse reaction?
+Suddenly, each elevator occupant, feeling compelled to exhibit his or her 132-plus IQ, pounced forth with a thunderous explanation. It’s obviously got poor rail-guide alignment, announced one. The relay contact is not made up, declared another.
 
-I realized it was too much, too soon. I was tired. Their high energy and intensity jarred my sluggish state. You see, small talk is not about facts or words.
+Suddenly. I felt like a grasshopper trapped in a stereo speaker. I couldn’t wait to escape the attack of the mental giants. Afterward in the solitude of my room, I thought back and reflected that the mensons' answers were indeed interesting.
 
-It’s about music, about melody. Small talk is about putting people at ease. It’s about making comforting noises together like cats purring, children humming, or groups chanting. You must first match your listener’s mood.
+Why then did. I have an adverse reaction? I realized it was too much, too soon. I was tired.
 
-Like repeating the note on the music teacher’s harmonica, top communicators pick up on their listener’s tone of voice and duplicate it. Instead of jumping in with such intensity, the mensons could have momentarily matched my lethargic mood by saying, yes, it is slow, isn’t it? Had they then prefaced their information with, have you ever been curious why an elevator is slow? I would have responded with a sincere, yes, I have.
+Their high energy and intensity jarred my sluggish state. You see, small talk is not about facts or words. It’s about music, about melody. Small talk is about putting people at ease.
 
-After a moment of equalized energy levels, I would have welcomed their explanations about the rail guard alignment or whatever the heck it was, and friendships might have started. I’m sure you’ve suffered the aggression of a mood mismatch. Have you ever been relaxing when some overexcited, hot-breathed colleague starts pounding you with questions? Or the reverse?
+It’s about making comforting noises together like cats purring, children humming, or groups chanting. You must first match your listener’s mood. Like repeating the note on the music teacher’s harmonica, top communicators pick up on their listener’s tone of voice and duplicate it. Instead of jumping in with such intensity, the mensons could have momentarily matched my lethargic mood by saying, yes, it is slow, isn’t it?
 
-You’re late, rushing to a meeting, when an associate stops you and starts lazily narrating a long, languorous story. No matter how interesting the tale, you don’t want to hear it now. The first step in starting a conversation without strangling it is to match your listener’s mood, if only for a sentence or two. When it comes to small talk, think music, not words.
+Had they then prefaced their information with, have you ever been curious why an elevator is slow? I would have responded with a sincere, yes, I have. After a moment of equalized energy levels, I would have welcomed their explanations about the rail guard alignment or whatever the heck it was, and friendships might have started. I’m sure you’ve suffered the aggression of a mood mismatch.
 
-Is your listener a daggio or a legro? Match that pace. I call it, make a mood match. Matching their mood can make or break the sale.
+Have you ever been relaxing when some overexcited, hot-breathed colleague starts pounding you with questions? Or the reverse? You’re late, rushing to a meeting, when an associate stops you and starts lazily narrating a long, languorous story. No matter how interesting the tale, you don’t want to hear it now.
 
-Celebrating customers' moods is crucial for salespeople. Some years ago I decided to throw a surprise party for my best friend Stella. It was going to be a triple whammy party because she was celebrating three events. One, it was Stella’s birthday.
+The first step in starting a conversation without strangling it is to match your listener’s mood, if only for a sentence or two. When it comes to small talk, think music, not words. Is your listener a daggio or a legro? Match that pace.
 
-Two, she was newly engaged. And three, Stella had just landed her dream job. She had been my buddy since grade school, and I was floating on air over her birthday engagement congratulations, Bash. I had heard one of the best French restaurants in town had an attractive back room for parties.
+I call it, make a mood match. Matching their mood can make or break the sale. Celebrating customers' moods is crucial for salespeople. Some years ago.
 
-About five p.m. one afternoon I wafted happily into the restaurant and found the seated métridee
+I decided to throw a surprise party for my best friend Stella. It was going to be a triple whammy party because she was celebrating three events. One, it was Stella’s birthday. Two, she was newly engaged.
+
+And three, Stella had just landed her dream job. She had been my buddy since grade school, and. I was floating on air over her birthday engagement congratulations, Bash. I had heard one of the best French restaurants in town had an attractive back room for parties.
+
+About five p.m. one afternoon. I wafted happily into the restaurant and found the seated métridee
 
 
 <a id="sec-013556"></a>
 ### ⏱️ [01:35:56 - 01:40:58]
 
-languidly looking over his reservation book. I began excitedly babbling about Stella’s triple whammy celebration and asked to see that fabulous back room I’d heard so much about. Out of smile or moving a muscle he said, the room is in the back. You can go see it if you like.
+languidly looking over his reservation book. I began excitedly babbling about Stella’s triple whammy celebration and asked to see that fabulous back room. I’d heard so much about. Out of smile or moving a muscle he said, the room is in the back.
 
-Crash! What a party pooper! His morose mood kicked all the party spirit out of me, and I no longer wanted to rent his stupid space. Before I even looked at the room he lost the rental.
+You can go see it if you like. Crash! What a party pooper! His morose mood kicked all the party spirit out of me, and.
 
-I left his restaurant vowing to find a place where the management would at least appear to share the joy of the happy occasion. Every mother knows this instinctively. To quiet a whimpering infant, mama doesn’t just shake her finger and shout, quiet down. No mama picks baby up.
+I no longer wanted to rent his stupid space. Before. I even looked at the room he lost the rental. I left his restaurant vowing to find a place where the management would at least appear to share the joy of the happy occasion.
 
-Mama cries ooh ooh ah, sympathetically matching baby’s misery for a few moments. Mama then gradually transitions the two of them into hush hush happy sounds. Your listeners are all big babies. Match their mood if you want them to stop crying, start buying, or otherwise come round to your way of thinking.
+Every mother knows this instinctively. To quiet a whimpering infant, mama doesn’t just shake her finger and shout, quiet down. No mama picks baby up. Mama cries ooh ooh ah, sympathetically matching baby’s misery for a few moments.
 
-Technique number ten. Make a mood match. Before opening your mouth, take a voice sample of your listener to detect his or her state of mind. Take a psychic photograph of the expression to see if your listener looks buoyant, bored, or blitzed.
+Mama then gradually transitions the two of them into hush hush happy sounds. Your listeners are all big babies. Match their mood if you want them to stop crying, start buying, or otherwise come round to your way of thinking. Technique number ten.
 
-If you ever want to bring people around to your thoughts, you must match their mood and voice tone, if only for a moment. Eleven. How to sound like you’ve got a super personality, no matter what you’re saying? Once while at a party, I spotted a fellow surrounded by a fan club of avid listeners.
+Make a mood match. Before opening your mouth, take a voice sample of your listener to detect his or her state of mind. Take a psychic photograph of the expression to see if your listener looks buoyant, bored, or blitzed. If you ever want to bring people around to your thoughts, you must match their mood and voice tone, if only for a moment.
 
-The chap was smiling, gesticulating, and obviously enthralling his audience. I went over to Harkin to this fascinating speaker. I joined his throng of admirers and eavesdropped for a minute or two.
+Eleven. How to sound like you’ve got a super personality, no matter what you’re saying? Once while at a party, I spotted a fellow surrounded by a fan club of avid listeners. The chap was smiling, gesticulating, and obviously enthralling his audience.
 
-Suddenly it dawned on me. The fellow was saying the most banal things. His script was dull, dull, dull. Ah, but he was delivering his prosaic observations with such passion, and therefore he held the group spellbound.
+I went over to Harkin to this fascinating speaker. I joined his throng of admirers and eavesdropped for a minute or two.
 
-It convinced me that it’s not all what you say, it’s how you say it. What’s a good opening line when I meet people? I am often asked this question, and I give them the same answer a woman who once worked in my office always gave me. Dottie often stayed at her desk to work through lunch.
+Suddenly, it dawned on me. The fellow was saying the most banal things. His script was dull, dull, dull. Ah, but he was delivering his prosaic observations with such passion, and therefore he held the group spellbound.
 
-Sometimes as I was leaving for the sandwich shop I’d ask her, Hey, Dottie, what can I bring you back for lunch? Dottie, trying to be obliging, would say, Oh, anything is fine with me. No, Dottie, I wanted to scream. Tell me what you want.
+It convinced me that it’s not all what you say, it’s how you say it. What’s a good opening line when. I meet people? I am often asked this question, and.
 
-Ham and cheese on rye? Bologna on whole wheat, whole bemayo? Peanut butter and jelly with sliced bananas? Be specific.
+I give them the same answer a woman who once worked in my office always gave me. Dottie often stayed at her desk to work through lunch. Sometimes as. I was leaving for the sandwich shop.
 
-Anything is a hassle. Frustrating though it may be my answer to the opening line question is anything, because almost anything you say really is okay, as long as it puts people at ease and sounds passionate. How do you put people at ease? By convincing them they are okay and that the two of you are similar.
+I’d ask her, Hey, Dottie, what can. I bring you back for lunch? Dottie, trying to be obliging, would say, Oh, anything is fine with me. No, Dottie, I wanted to scream.
 
-When you do that, you break down walls of fear, suspicion, and mistrust. Why banal makes a bond? Samuel I. Hayakawa was a college president, U. S. Senator, and brilliant linguistic analyst of Japanese origin.
+Tell me what you want. Ham and cheese on rye? Bologna on whole wheat, whole bemayo? Peanut butter and jelly with sliced bananas?
+
+Be specific. Anything is a hassle. Frustrating though it may be my answer to the opening line question is anything, because almost anything you say really is okay, as long as it puts people at ease and sounds passionate. How do you put people at ease?
+
+By convincing them they are okay and that the two of you are similar. When you do that, you break down walls of fear, suspicion, and mistrust. Why banal makes a bond? Samuel.
+
+I. Hayakawa was a college president, U. S. Senator, and brilliant linguistic analyst of Japanese origin.
 
 He tells us this story that shows the value of, as he says, unoriginal remarks. In early 1943, after the attack on Pearl Harbor, at a time when there were rumors of Japanese spies, Hayakawa had to wait several hours in a railroad station in Oshkosh, Wisconsin. He noticed others waiting in the station were staring at him suspiciously. Because of the war, they were apprehensive about his presence.
 
@@ -768,13 +816,15 @@ with a small child in winter when train schedules were so uncertain. Again the h
 
 The tension was relaxing. After two or three more exchanges, the man asked Hayakawa, I hope you don’t mind my bringing it up, but you’re Japanese, aren’t you? Do you think the Japs have any chance of winning this war? Well, Hayakawa replied, your guess is as good as mine.
 
-I don’t know any more than I read in the papers, but the way I figure it, I don’t see how the Japanese with their lack of coal and steel and oil can ever beat a powerfully industrialized nation like the United States. Hayakawa went on. My remark was admittedly neither original nor well informed. Hundreds of radio commentators were saying much the same thing during those weeks, but just because they were the remark sounded familiar and was on the right side so that it was easy to agree with.
+I don’t know any more than. I read in the papers, but the way. I figure it, I don’t see how the Japanese with their lack of coal and steel and oil can ever beat a powerfully industrialized nation like the United States. Hayakawa went on.
 
-The Wisconsin man agreed at once with what seemed like genuine relief. His next remark was, say, I hope your folks aren’t over there while the war is going on. Yes they are, Hayakawa replied. My father and mother and two young sisters are over there.
+My remark was admittedly neither original nor well informed. Hundreds of radio commentators were saying much the same thing during those weeks, but just because they were the remark sounded familiar and was on the right side so that it was easy to agree with. The Wisconsin man agreed at once with what seemed like genuine relief. His next remark was, say, I hope your folks aren’t over there while the war is going on.
 
-Do you ever hear from them? The man asked. How can I? Hayakawa answered.
+Yes they are, Hayakawa replied. My father and mother and two young sisters are over there. Do you ever hear from them? The man asked.
 
-Both the man and his wife looked troubled and sympathetic. Do you mean you won’t be able to see them or hear from them until after the war is over? There was more to the conversation, but the result was within ten minutes they had invited Hayakawa, whom they initially may have suspected was a Japanese spy, to visit them some time in their city and have dinner in their home, and all because of this brilliant scholar’s admittedly common and unoriginal small talk. Not communicators know the most soothing and appropriate first word should be, like Senator Hayakawa’s, unoriginal, even banal.
+How can. I? Hayakawa answered. Both the man and his wife looked troubled and sympathetic.
+
+Do you mean you won’t be able to see them or hear from them until after the war is over? There was more to the conversation, but the result was within ten minutes they had invited Hayakawa, whom they initially may have suspected was a Japanese spy, to visit them some time in their city and have dinner in their home, and all because of this brilliant scholar’s admittedly common and unoriginal small talk. Not communicators know the most soothing and appropriate first word should be, like Senator Hayakawa’s, unoriginal, even banal.
 
 But not indifferent. Hayakawa delivered his sentiments with sincerity and passion, assent from banality. It is not necessary, of course, to stay with mundane remarks. If you find your company displays cleverness or wit, you match that.
 
@@ -784,17 +834,19 @@ Week number eleven.
 
 #### PROSAIC WITH PASSION. Worried about your first words? Fear not, because eighty percent of your listener’s impression has nothing to do with your words anyway. Almost anything you say at first is fine.
 
-No matter how prosaic the text, an empathetic mood, a positive demeanor and passionate delivery make you sound exciting. Anything except liverwurst. Except to Dottie, waiting for her sandwich at her desk. Sometimes as I walked out the door scratching my head wondering what to bring her, she’d call after me.
+No matter how prosaic the text, an empathetic mood, a positive demeanor and passionate delivery make you sound exciting. Anything except liverwurst. Except to Dottie, waiting for her sandwich at her desk. Sometimes as.
 
-Anything except liverwurst, that is. Thanks, Dottie. That’s a little bit of help. Here’s my anything except liverwurst on small talk.
+I walked out the door scratching my head wondering what to bring her, she’d call after me. Anything except liverwurst, that is. Thanks, Dottie. That’s a little bit of help.
 
-Anything you say is fine as long as it is not complaining, rude or unpleasant. If the first… words out of your mouth are a complaint, plan. People label you a complainer. Why?
+Here’s my anything except liverwurst on small talk. Anything you say is fine as long as it is not complaining, rude or unpleasant. If the first… words out of your mouth are a complaint, plan. People label you a complainer.
 
-Because that complaint is your new acquaintance’s 100 percent sampling of you so far. You could be the happiest Pollyanna ever, but how will they know? If your first comment is a complaint, you’re a griper. If your first words are rude, you’re a creep.
+Why? Because that complaint is your new acquaintance’s 100 percent sampling of you so far. You could be the happiest Pollyanna ever, but how will they know? If your first comment is a complaint, you’re a griper.
 
-If your first words are unpleasant, you’re a stinker. Open and shut. Other than these downers anything goes. Ask them where they’re from, how they know the host of the party, where they bought the lovely suit they’re wearing, or hundreds of et ceteras.
+If your first words are rude, you’re a creep. If your first words are unpleasant, you’re a stinker. Open and shut. Other than these downers anything goes.
 
-The trick is to ask your prosaic question with passion to get the other person talking. Still feel a bit shaky on making the approach to strangers? Let’s take a quick detour on our road to meaningful communicating. I’ll give you three quickie techniques to meet
+Ask them where they’re from, how they know the host of the party, where they bought the lovely suit they’re wearing, or hundreds of et ceteras. The trick is to ask your prosaic question with passion to get the other person talking. Still feel a bit shaky on making the approach to strangers? Let’s take a quick detour on our road to meaningful communicating.
+
+I’ll give you three quickie techniques to meet
 
 
 <a id="sec-014559"></a>
@@ -806,49 +858,49 @@ The technique requires no exceptional skill on your part, only the courage to sp
 
 A what’s-it is any object that draws people’s attention and inspires them to approach you and ask, What’s that? Your what’s-it can be as subtle or overt as your personality and the occasion permit. I wear around my neck an outmoded pair of glasses that resembles a double monocle.
 
-Often the curious have approached me at a gathering and asked, “What’s it?” I explain it’s a larniette left to me by my grandmother, which, of course, paves the way to discuss hatred of glasses, aging eyes, love or loss of grandmothers, adoration of antique jewelry, anywhere the inquisitor wants to take it. Perhaps unknowingly you have fallen prey to this soon-to-be legendary technique. At a gathering, have you ever noticed someone you would like to talk to? Then you’ve racked your brain to conjure an excuse to make the approach.
+Often the curious have approached me at a gathering and asked, “What’s it?”. I explain it’s a larniette left to me by my grandmother, which, of course, paves the way to discuss hatred of glasses, aging eyes, love or loss of grandmothers, adoration of antique jewelry, anywhere the inquisitor wants to take it. Perhaps, unknowingly you have fallen prey to this soon-to-be legendary technique. At a gathering, have you ever noticed someone you would like to talk to?
 
-What a bounty it was to discover that he or she was wearing some weird, wild or wonderful something you could comment on. The what’s-it way to love. Your what’s-it is a social aid whether you seek business rewards or new romance. My friend Alexander carries Greek worry beads with him wherever he goes.
+Then you’ve racked your brain to conjure an excuse to make the approach. What a bounty it was to discover that he or she was wearing some weird, wild or wonderful something you could comment on. The what’s-it way to love. Your what’s-it is a social aid whether you seek business rewards or new romance.
 
-He’s not worried. He knows any woman who wants to talk to him will come up and say, What’s that? Think about it, gentlemen. Suppose you’re at a party.
+My friend Alexander carries Greek worry beads with him wherever he goes. He’s not worried. He knows any woman who wants to talk to him will come up and say, What’s that? Think about it, gentlemen.
 
-An attractive woman spots you across the room. She wants to talk to you, but she’s thinking, Well, mister, you’re attractive, but golly, what can I say to you? You just ain’t got no what’s-it. Be a what’s-it seeker, too.
+Suppose you’re at a party. An attractive woman spots you across the room. She wants to talk to you, but she’s thinking, Well, mister, you’re attractive, but golly, what can. I say to you?
 
-Likewise, become proficient in scrutinizing the apparel of those you wish to approach. Why not express interest in the handkerchief in the tycoon’s vest pocket, the brooch on the bosom of the rich divorcee, or the school ring on the finger of the CEO whose company you want to work for? The big spender, who you suspect might buy a hundred of your widgets, has a tiny golf-club lapel pin? Say, Excuse me, I couldn’t help but notice your attractive lapel pin.
+You just ain’t got no what’s-it. Be a what’s-it seeker, too. Likewise, become proficient in scrutinizing the apparel of those you wish to approach. Why not express interest in the handkerchief in the tycoon’s vest pocket, the brooch on the bosom of the rich divorcee, or the school ring on the finger of the CEO whose company you want to work for?
 
-Are you a golfer? Me, too. What courses have you played? Your business cards and your what’s-it are crucial socializing artifacts.
+The big spender, who you suspect might buy a hundred of your widgets, has a tiny golf-club lapel pin? Say, Excuse me, I couldn’t help but notice your attractive lapel pin. Are you a golfer? Me, too.
 
-Whether you are riding in the elevator, climbing the doorstep, or traversing the path to the party, make sure your what’s-it is hanging out for all to see. Always wear a what’s-it. Whenever you go to a gathering, wear or carry something unusual to give people who find you the delightful stranger across the crowded room an excuse to approach. Excuse me, I couldn’t help but notice your…
+What courses have you played? Your business cards and your what’s-it are crucial socializing artifacts. Whether you are riding in the elevator, climbing the doorstep, or traversing the path to the party, make sure your what’s-it is hanging out for all to see. Always wear a what’s-it.
 
-what is that?
+Whenever you go to a gathering, wear or carry something unusual to give people who find you the delightful stranger across the crowded room an excuse to approach. Excuse me, I couldn’t help but notice your…
 
-The next quickie technique was originated by doggedly determined politicians who don’t let one party go or escape if they think he or she could be helpful to their campaigns. I call it the who’s-at technique. How to meet the people you want to meet Say you have scrutinized the body of the important business contact you want to meet. You’ve searched in vain from the tip of his cowlick to the toes of his boots.
+what is that? The next quickie technique was originated by doggedly determined politicians who don’t let one party go or escape if they think he or she could be helpful to their campaigns. I call it the who’s-at technique.
 
-He’s not sporting a single what’s-it. If you strike out on finding something to comment on, resort to the who’s-at technique. Like a persistent politician, go to the party giver and say, that man or woman over there looks interesting. Who is he or she?
+How to meet the people you want to meet Say you have scrutinized the body of the important business contact you want to meet. You’ve searched in vain from the tip of his cowlick to the toes of his boots. He’s not sporting a single what’s-it. If you strike out on finding something to comment on, resort to the who’s-at technique.
 
-Then ask for an introduction. Don’t be hesitant. The party giver will be pleased you find one of the guests interesting. If however you are loathe to pull the party giver away from his or her other guests, you can still perform who’s-at.
+Like a persistent politician, go to the party giver and say, that man or woman over there looks interesting. Who is he or she? Then ask for an introduction. Don’t be hesitant.
 
-This time, don’t ask for a formal introduction. Simply
+The party giver will be pleased you find one of the guests interesting. If however you are loathe to pull the party giver away from his or her other guests, you can still perform who’s-at. This time, don’t ask for a formal introduction. Simply
 
 
 <a id="sec-015101"></a>
 ### ⏱️ [01:51:01 - 01:56:04]
 
-pump the party giver for just enough information to launch you. Find out about the stranger’s jobs, interests, and hobbies. Suppose the party giver says, oh, that’s Joe Smith. I’m not sure what his job is, but I know he loves to ski.
+pump the party giver for just enough information to launch you. Find out about the stranger’s jobs, interests, and hobbies. Suppose the party giver says, oh, that’s Joe Smith. I’m not sure what his job is, but.
 
-Aha. You’ve just been given the icebreaker you need. Now you make a beeline for Joe Smith. Hi, you’re Joe Smith, aren’t you?
+I know he loves to ski. Aha. You’ve just been given the icebreaker you need. Now you make a beeline for Joe Smith.
 
-Susan was just telling me what a great skier you are. Where do you ski? You get the idea. Technique number 13.
+Hi, you’re Joe Smith, aren’t you? Susan was just telling me what a great skier you are. Where do you ski? You get the idea.
 
-Who’s-at? What is the most effective, least used by non-politicians meeting people device ever contrived? Simply ask the party giver to make the introduction or pump for a few facts that you can immediately turn into icebreakers. Now the third in our little trio of meeting who you want tricks. 14.
+Technique number 13. Who’s-at? What is the most effective, least used by non-politicians meeting people device ever contrived? Simply ask the party giver to make the introduction or pump for a few facts that you can immediately turn into icebreakers.
 
-How to break into a tight crowd. The woman you’ve decided you must meet is wearing no what’s-it? Can’t find the host for the who’s-at technique? To make matters worse, she’s deep in conversation with a group of her friends.
+Now the third in our little trio of meeting who you want tricks. 14. How to break into a tight crowd. The woman you’ve decided you must meet is wearing no what’s-it? Can’t find the host for the who’s-at technique?
 
-Seems quite hopeless that you will maneuver a meeting, doesn’t it? You can’t just say, excuse me, I just thought I’d eavesdrop in and say hello. No obstacle blocks the resolute politician who always has a trick or ten up his or her leave. A politico would resort to the eavesdrop-in technique.
+To make matters worse, she’s deep in conversation with a group of her friends. Seems quite hopeless that you will maneuver a meeting, doesn’t it? You can’t just say, excuse me, I just thought. I’d eavesdrop in and say hello.
 
-Eavesdropping, of course, conjures images of clandestine activities. Wiretapping, Watergate break-ins, or spies skulking around in the murky shadows. Eavesdropping has historical precedent with politicians so, in a pinch, it naturally comes to mind. At parties, stand near the group of people you wish to infiltrate.
+No obstacle blocks the resolute politician who always has a trick or ten up his or her leave. A politico would resort to the eavesdrop-in technique. Eavesdropping, of course, conjures images of clandestine activities. Wiretapping, Watergate break-ins, or spies skulking around in the murky shadows.
 
-Then wait for a word or two you can use as a wedge to break into the group. Excuse me, I couldn’t help overhearing that you—and then whatever is relevant here.
+Eavesdropping has historical precedent with politicians so, in a pinch, it naturally comes to mind. At parties, stand near the group of people you wish to infiltrate. Then wait for a word or two you can use as a wedge to break into the group. Excuse me, I couldn’t help overhearing that you—and then whatever is relevant here.
 
 For example, I couldn’t help overhearing your discussion of Bermuda. I’m going there next month for the first time. Any suggestions? Now you are in the circle and can direct your comments to your intended.
 
@@ -858,11 +910,13 @@ Will they be taken aback? Momentarily. Will they get over it? Momentarily.
 
 Will you be in the conversation? Absolutely. Let us now hop back on the train that first explored Smalltalk City and travel to the land of meaningful communicating. 15. How to make where are you from sound exciting.
 
-You wouldn’t dream of going to a party naked, and I hope you wouldn’t dream of letting your conversation be exposed naked and defenseless against the two inevitable assaults. Where are you from and what do you do? When asked these questions, most people, like clunking a frozen steak on a china platter, drop a brick of frozen geography or baffling job title on the asker’s conversational platter. Then they slap on the muzzle.
+You wouldn’t dream of going to a party naked, and. I hope you wouldn’t dream of letting your conversation be exposed naked and defenseless against the two inevitable assaults. Where are you from and what do you do? When asked these questions, most people, like clunking a frozen steak on a china platter, drop a brick of frozen geography or baffling job title on the asker’s conversational platter.
 
-You’re at a convention. Everyone you meet will, of course, ask, and where are you from? When you give them the short-form naked city answer, oh, I’m from Muscatine, Iowa, or Millinocket, Maine, Winnemucca, Nevada, or anywhere they haven’t heard of, what can you expect except a blank stare? Even if you’re a relatively big city slicker from Denver, Colorado, Detroit, Michigan, or San Diego, California, you’ll receive a panicked look from all but American history professors.
+Then they slap on the muzzle. You’re at a convention. Everyone you meet will, of course, ask, and where are you from? When you give them the short-form naked city answer, oh, I’m from Muscatine, Iowa, or Millinocket, Maine, Winnemucca, Nevada, or anywhere they haven’t heard of, what can you expect except a blank stare?
 
-They’re rapidly racking their brains thinking, what do I say next? Even the names of world-class burgs like New York, Chicago, Washington, and Los Angeles inspire less than riveting responses. When I tell people I’m from New York City, what are they expected to say? Does seen any good muggings lately?
+Even if you’re a relatively big city slicker from Denver, Colorado, Detroit, Michigan, or San Diego, California, you’ll receive a panicked look from all but American history professors. They’re rapidly racking their brains thinking, what do. I say next? Even the names of world-class burgs like New York, Chicago, Washington, and Los Angeles inspire less than riveting responses.
+
+When. I tell people. I’m from New York City, what are they expected to say? Does seen any good muggings lately?
 
 Do humanity and yourself a favor. Never, ever give just a one-sentence response to the question, where are you from? Give the asker some fuel for his tank, some fodder for his trough.
 
@@ -870,35 +924,41 @@ Do humanity and yourself a favor. Never, ever give just a one-sentence response 
 <a id="sec-015604"></a>
 ### ⏱️ [01:56:04 - 02:01:09]
 
-Give the hungry communicator something to conversationally nibble on. All it takes is an extra sentence or two about your city, some interesting fact, some witty observation, to hook the asker into the conversation. Several months ago, a trade association invited me to be its keynote speaker on networking and teaching people to be better conversationalists. Just before my speech, I was introduced to Mrs. Devlin, who was the head of the association.
+Give the hungry communicator something to conversationally nibble on. All it takes is an extra sentence or two about your city, some interesting fact, some witty observation, to hook the asker into the conversation. Several months ago, a trade association invited me to be its keynote speaker on networking and teaching people to be better conversationalists. Just before my speech, I was introduced to Mrs.
 
-How do you do? she asked. How do you do? I replied. Then Mrs. Devlin smiled, anxiously awaiting a sample of my stimulating conversational expertise.
+Devlin, who was the head of the association. How do you do? she asked. How do you do? I replied.
 
-I asked her where she was from. She plunked a frozen Columbus, Ohio, and a big expectant grin on my platter. I had to quickly thaw her answer into digestible conversation. My mind thrashed into action.
+Then Mrs. Devlin smiled, anxiously awaiting a sample of my stimulating conversational expertise. I asked her where she was from. She plunked a frozen Columbus, Ohio, and a big expectant grin on my platter.
 
-Leo’s thought pattern. Gulp. Columbus, Ohio. I’ve never been there.
+I had to quickly thaw her answer into digestible conversation. My mind thrashed into action. Leo’s thought pattern. Gulp.
 
-Crimony, what do I know about Columbus? I know a fellow named Jeff, a successful speaker who lives there. But Columbus is too big to ask if she knows him. And besides, only kids play the do-you-know-so-and-so game.
+Columbus, Ohio. I’ve never been there. Crimony, what do. I know about Columbus?
 
-My panicked, silent search continued. I think it’s named after Christopher Columbus, but I’m not sure, so I better keep my mouth shut on that one. Four or five other possibilities raced through my mind, but I rejected them all as too obvious, too adolescent, or too off the wall. I realized by now that seconds had passed, and Mrs. Devlin was still standing there with a slowly dissipating smile on her face.
+I know a fellow named Jeff, a successful speaker who lives there. But Columbus is too big to ask if she knows him. And besides, only kids play the do-you-know-so-and-so game. My panicked, silent search continued.
 
-She was waiting for me, the expert, who within the hour was expected to teach her trade association lessons on scintillating conversation, to spew forth words of wit or wisdom. Oh, Columbus! Gee! I mumbled in desperation, watching her face fall into the worried expression of a patient being asked by the surgeon, knife, poised in hand, where’s your appendix?
+I think it’s named after Christopher Columbus, but. I’m not sure, so. I better keep my mouth shut on that one. Four or five other possibilities raced through my mind, but.
 
-I never came up with stimulating conversation on Columbus. But just then, under the knife, I created the following technique for posterity. I call it Never the Naked City. Technique number 15, Never the Naked City.
+I rejected them all as too obvious, too adolescent, or too off the wall. I realized by now that seconds had passed, and Mrs. Devlin was still standing there with a slowly dissipating smile on her face. She was waiting for me, the expert, who within the hour was expected to teach her trade association lessons on scintillating conversation, to spew forth words of wit or wisdom.
 
-Whenever someone asks you the inevitable, and where are you from, never, ever unfairly challenge their powers of imagination with a one-word answer. Learn some engaging facts about your hometown that conversational partners can comment on. Then, when they say something clever in response to your bait, they think you’re a great conversationalist. Different bait for shrimp or sharks.
+Oh, Columbus! Gee! I mumbled in desperation, watching her face fall into the worried expression of a patient being asked by the surgeon, knife, poised in hand, where’s your appendix? I never came up with stimulating conversation on Columbus.
 
-A fisherman uses different bait to bag bass or bluefish. And you will obviously throw out different conversational bait to snag simple shrimp or sophisticated sharks. Your hook should relate to the type of person you’re speaking with. I’m originally from Washington, D.
+But just then, under the knife, I created the following technique for posterity. I call it Never the Naked City. Technique number 15, Never the Naked City. Whenever someone asks you the inevitable, and where are you from, never, ever unfairly challenge their powers of imagination with a one-word answer.
 
-C. If someone at, say, an art gallery asked me where I was from, I might answer Washington, D. C., designed, you know, by the same city planner who designed Paris. This opens the conversational possibilities to the artistry of city planning, Paris, other cities' plans, European travel, and so forth.
+Learn some engaging facts about your hometown that conversational partners can comment on. Then, when they say something clever in response to your bait, they think you’re a great conversationalist. Different bait for shrimp or sharks. A fisherman uses different bait to bag bass or bluefish.
 
-At a social party of singles, I’d opt for another answer. I’m from Washington, D. C. The reason I left is there were seven women to every man when I was growing up.
+And you will obviously throw out different conversational bait to snag simple shrimp or sophisticated sharks. Your hook should relate to the type of person you’re speaking with. I’m originally from Washington, D. C.
 
-Now the conversation can turn to the ecstasy or agony of being single, the perceived lack of desirable men everywhere, or even flirtatious possibilities. In a political group, I’d cast a current fact from the constantly evolving political face of Washington. No need to speculate on the multitude of conversational possibilities that unlocks. Where do you get your conversational bait?
+If someone at, say, an art gallery asked me where. I was from, I might answer Washington, D. C., designed, you know, by the same city planner who designed Paris. This opens the conversational possibilities to the artistry of city planning, Paris, other cities' plans, European travel, and so forth.
 
-Start by phoning the Chamber of Commerce or Historical Society of your town. Search the World Wide Web and click on your town, or open an old-fashioned encyclopedia. All rich sources for future stimulating conversations. Learn some history, geography, business statistics, or perhaps a few fun facts to tickle future friends' funny bones.
+At a social party of singles, I’d opt for another answer. I’m from Washington, D. C. The reason.
 
-The Devlin debacle inspired further research. The minute I got home, I called the Columbus Chamber of Commerce and the Historical Society. Say you, too, are from Columbus, Ohio, and your new acquaintance lays it on you.
+I left is there were seven women to every man when. I was growing up. Now the conversation can turn to the ecstasy or agony of being single, the perceived lack of desirable men everywhere, or even flirtatious possibilities. In a political group, I’d cast a current fact from the constantly evolving political face of Washington.
+
+No need to speculate on the multitude of conversational possibilities that unlocks. Where do you get your conversational bait? Start by phoning the Chamber of Commerce or Historical Society of your town. Search the World Wide Web and click on your town, or open an old-fashioned encyclopedia.
+
+All rich sources for future stimulating conversations. Learn some history, geography, business statistics, or perhaps a few fun facts to tickle future friends' funny bones. The Devlin debacle inspired further research. The minute.
+
+I got home, I called the Columbus Chamber of Commerce and the Historical Society. Say you, too, are from Columbus, Ohio, and your new acquaintance lays it on you.
 
 
 <a id="sec-020109"></a>
@@ -916,13 +976,13 @@ You suspect your conversation partner has an artistic bent? Ah, you throw out ca
 
 Here’s a goodie. Tell them you always have to say Columbus, Ohio because there is also a Columbus, Arkansas, Columbus, Georgia, Columbus, Indiana, Columbus, Kansas, Columbus, Kentucky, Columbus, Mississippi, Columbus, Montana, Columbus, Nebraska, Columbus, New Jersey, Columbus, New Mexico, Columbus, North Carolina, Columbus, North Dakota, Columbus, Pennsylvania, Columbus, Texas, and Columbus, Wisconsin. That spreads the conversational possibilities to fifteen other states. Remember as a quotable notable once said, no man would listen to you talk if he didn’t know it was his turn next.
 
-A postscript to the hellish experience I had with Columbus. Months later I mentioned the trauma to my speaker friend from Columbus, Jeff. Jeff explained his house was really in a smaller town just minutes outside Columbus. What town, Jeff?
+A postscript to the hellish experience. I had with Columbus. Months later. I mentioned the trauma to my speaker friend from Columbus, Jeff.
 
-Gehenna, Ohio. Gehenna means hell in Hebrew, he said, and then went on to explain why he thought ancient Hebrew historians were clairvoyant. Thanks, Jeff. I knew you’d never lay a naked city on any of your listeners.
+Jeff explained his house was really in a smaller town just minutes outside Columbus. What town, Jeff? Gehenna, Ohio. Gehenna means hell in Hebrew, he said, and then went on to explain why he thought ancient Hebrew historians were clairvoyant.
 
-Sixteen. How to come out a winner every time they ask, and what do you do? Third only to death and taxes is the assurance a new acquaintance will soon chirp, and what do you do? Is it fitting and proper they should make that query?
+Thanks, Jeff. I knew you’d never lay a naked city on any of your listeners. Sixteen. How to come out a winner every time they ask, and what do you do?
 
-We’ll pick up that sticky wicket later. For the moment, these few defensive moves help you keep your crackerjack communicator credentials when asked the inevitable question.
+Third, only to death and taxes is the assurance a new acquaintance will soon chirp, and what do you do? Is it fitting and proper they should make that query? We’ll pick up that sticky wicket later. For the moment, these few defensive moves help you keep your crackerjack communicator credentials when asked the inevitable question.
 
 First, like Never the Naked City, don’t toss a short shrift answer in response to the asker’s breathless inquiry. You leave the poor fish flopping on the deck when you just say your title. I’m an actuary, an auditor, an author, an astrophysicist. Have mercy so he or she doesn’t feel like a nincompoop outsider asking, what kind of actuizing, auditing, authoring, or astrophysicizing do you do?
 
@@ -930,11 +990,11 @@ You’re an attorney. Don’t leave it to laymen to try to figure out what you r
 
 For example, if you’re talking with a young mother, say, I’m an attorney. Our firm specializes in employment law.
 
-In fact, now I’m involved in a case where a company actually discharged a woman for taking extra maternity leave that was a medical necessity. A mother can relate to that. Talking with a business owner, say, I’m an attorney. Our firm specializes in employment law.
+In fact, now. I’m involved in a case where a company actually discharged a woman for taking extra maternity leave that was a medical necessity. A mother can relate to that. Talking with a business owner, say, I’m an attorney.
 
-My current case concerns an employer who is being sued by one of her staff for asking personal questions during the initial job interview. A business owner can relate to that. Technique number 16, never the naked job. When asked the inevitable and what do you do, you may think, I’m an economist, an educator, an engineer, is giving enough information to engender good conversation.
+Our firm specializes in employment law. My current case concerns an employer who is being sued by one of her staff for asking personal questions during the initial job interview. A business owner can relate to that. Technique number 16, never the naked job.
 
-However, to one who is not an economist, educator, or an engineer, you might as well be saying, I’m a paleontologist, psychoanalyst, pornographer.
+When asked the inevitable and what do you do, you may think, I’m an economist, an educator, an engineer, is giving enough information to engender good conversation. However, to one who is not an economist, educator, or an engineer, you might as well be saying, I’m a paleontologist, psychoanalyst, pornographer.
 
 
 <a id="sec-020612"></a>
@@ -944,29 +1004,31 @@ Flesh it out. Throw out some delicious facts about your job for new acquaintance
 
 I still harbor painful recollections of being tongue-tied when confronted by naked job flashers. Like the time a fellow at a dinner party told me, I’m a nuclear scientist. My week, oh, that must be fascinating, reduced me to a mental molecule in his eyes. The chap on my other side announced, I’m in industrial abrasives, and then paused, waiting for me to be impressed.
 
-Why, well, golly, you must have to be a shrewd judge of character to be in industrial abrasives, didn’t fly either. We three sat in silence the rest of the meal. Just last month a new acquaintance bragged, I’m planning to teach Tibetan Buddhism at Truckee Meadows Community College, and then clammed up. I knew less about Truckee Meadows than I did about Tibetan Buddhism.
+Why, well, golly, you must have to be a shrewd judge of character to be in industrial abrasives, didn’t fly either. We three sat in silence the rest of the meal. Just last month a new acquaintance bragged, I’m planning to teach Tibetan Buddhism at Truckee Meadows Community College, and then clammed up. I knew less about Truckee Meadows than.
 
-Whenever people ask you what you do, give them some mouth-to-ear resuscitation so they can catch their breath and say something. Seventeen. How to introduce people like the hostess with the mostest. It is important to help newly-met through their first nervous moments.
+I did about Tibetan Buddhism. Whenever people ask you what you do, give them some mouth-to-ear resuscitation so they can catch their breath and say something. Seventeen. How to introduce people like the hostess with the mostest.
 
-Susan, I’d like you to meet John Smith. John, this is Susan Jones. Duh, what do you expect John and Susan to say? Smith, um, that’s S-M-I-T-H, isn’t it?
+It is important to help newly-met through their first nervous moments. Susan, I’d like you to meet John Smith. John, this is Susan Jones. Duh, what do you expect John and Susan to say?
 
-Uh, golly, Susan, well, now that’s an interesting name. Nice try, forget it. Don’t blame John or Susan for being less than scintillating. The fault lies with the person who introduced the two the way most people introduce their friends to each other, with naked names.
+Smith, um, that’s S-M-I-T-H, isn’t it? Uh, golly, Susan, well, now that’s an interesting name. Nice try, forget it. Don’t blame John or Susan for being less than scintillating.
 
-They cast out a line with no bait for people to sink their teeth into. Big winners may not talk a lot, but conversation never dies unwillingly in their midst. They make sure of it with techniques like never-the-naked introduction. When they introduce people, they buy an insurance policy on the conversation with a few simple add-ons.
+The fault lies with the person who introduced the two the way most people introduce their friends to each other, with naked names. They cast out a line with no bait for people to sink their teeth into. Big winners may not talk a lot, but conversation never dies unwillingly in their midst. They make sure of it with techniques like never-the-naked introduction.
 
-Susan, I’d like you to meet John. John has a wonderful boat we took a trip on last summer. John, this is Susan Smith. Susan is editor-in-chief of Shoestring Gourmet Magazine.
+When they introduce people, they buy an insurance policy on the conversation with a few simple add-ons. Susan, I’d like you to meet John. John has a wonderful boat we took a trip on last summer. John, this is Susan Smith.
 
-Padding the introduction gives Susan the opportunity to ask what kind of boat John has or where the group went. It gives John an opening to discuss his love of riding, or of cooking, or of food. The conversation can then naturally expand to travel in general, life on boats, past vacations, favorite recipes, restaurants, budgets, diets, magazines, editorial policy, to infinity. If you’re not comfortable mentioning someone’s job during the introduction, mention their hobby or even a talent.
+Susan is editor-in-chief of Shoestring Gourmet Magazine. Padding the introduction gives Susan the opportunity to ask what kind of boat John has or where the group went. It gives John an opening to discuss his love of riding, or of cooking, or of food. The conversation can then naturally expand to travel in general, life on boats, past vacations, favorite recipes, restaurants, budgets, diets, magazines, editorial policy, to infinity.
 
-The other day at a gathering, the hostess introduced a man named Gilbert. She said, “Leo, I’d like you to meet Gilbert.” Gilbert’s gift is sculpting. He makes beautiful wax carvings. I remember thinking, gift.
+If you’re not comfortable mentioning someone’s job during the introduction, mention their hobby or even a talent. The other day at a gathering, the hostess introduced a man named Gilbert.
 
-Now that’s a lovely way to introduce someone and induce conversation. Technique number seventeen, never the naked introduction. When introducing people, don’t throw out an unbated hook and stand there grinning like a big clam, leaving the newlymet’s to flutter their fins and fish for a topic. Bait the conversational hook to get them in the swim of things.
+She said, “Leo, I’d like you to meet Gilbert.” Gilbert’s gift is sculpting. He makes beautiful wax carvings. I remember thinking, gift. Now that’s a lovely way to introduce someone and induce conversation.
 
-Then you’re free to stay or float on to the next networking opportunity. Armed with these two personality enhancers, three conversation igniters, and three small extenders, it is time to take a step up the communications ladder. Let us now rise from small talk and seek the path to more meaningful dialogue. The next technique is guaranteed to make the exchange engrossing for your conversation partner.
+Technique number seventeen, never the naked introduction. When introducing people, don’t throw out an unbated hook and stand there grinning like a big clam, leaving the newlymet’s to flutter their fins and fish for a topic. Bait the conversational hook to get them in the swim of things. Then you’re free to stay or float on to the next networking opportunity.
 
-Eighteen. How to resuscitate a dying conversation. Even a well-intentioned husband who might ask his wife while making love, is it good for you too, honey? Knows not to ask a colleague, is the conversation good for you too?
+Armed with these two personality enhancers, three conversation igniters, and three small extenders, it is time to take a step up the communications ladder. Let us now rise from small talk and seek the path to more meaningful dialogue. The next technique is guaranteed to make the exchange engrossing for your conversation partner. Eighteen.
 
-Yet, he wonders, we all do. With the following technique, set your mind at rest. You can definitely make the conversation hot for anyone with whom you speak.
+How to resuscitate a dying conversation. Even a well-intentioned husband who might ask his wife while making love, is it good for you too, honey? Knows not to ask a colleague, is the conversation good for you too? Yet, he wonders, we all do.
+
+With the following technique, set your mind at rest. You can definitely make the conversation hot for anyone with whom you speak.
 
 
 <a id="sec-021114"></a>
@@ -978,29 +1040,37 @@ How? They become word detectives. I have a young friend, Nancy, who works in a n
 
 She laments she has difficulty relating to them. Nancy told me about one especially cantankerous old woman named Mrs. Otis, whom she could never get to open up to her.
 
-One day, Nancy confided, right after all those rainstorms we had last week, just to make a conversation, I remarked to Mrs. Otis, terrible storms we had last week, don’t you think? Well, Nancy continued, Mrs. Otis practically jumped on my throat. She said, in a snippy voice, it’s been good for the plants. I asked Nancy how she responded to that.
+One day, Nancy confided, right after all those rainstorms we had last week, just to make a conversation, I remarked to Mrs. Otis, terrible storms we had last week, don’t you think? Well, Nancy continued, Mrs. Otis practically jumped on my throat.
 
-What could I say? Nancy answered. The woman was obviously cutting me off. Did you ever think to ask Mrs. Otis if she liked plants?
+She said, in a snippy voice, it’s been good for the plants. I asked Nancy how she responded to that. What could. I say?
 
-Nancy asked. Well, yes, I suggested. Mrs. Otis brought the subject up. I asked Nancy to do me a favor. Ask her, I begged.
+Nancy answered. The woman was obviously cutting me off. Did you ever think to ask Mrs. Otis if she liked plants?
 
-Nancy resisted, but I persisted. Just to quiet me down, Nancy promised to ask cantankerous old Mrs. Otis if she liked plants. The next day, a flabbergasted Nancy called me from work. Leal, how did you know?
+Nancy asked. Well, yes, I suggested. Mrs. Otis brought the subject up.
 
-Not only did Mrs. Otis love plants, but she told me she’d been married to a gardener. Today I had a different problem with Mrs. Otis. I couldn’t shut her up. She went on and on about her garden, her husband.
+I asked Nancy to do me a favor. Ask her, I begged. Nancy resisted, but. I persisted.
 
-Top communicators, no ideas, don’t come out of nowhere. If Mrs. Otis thought to bring up plants, then she must have some relationship with them.
+Just to quiet me down, Nancy promised to ask cantankerous old Mrs. Otis if she liked plants. The next day, a flabbergasted Nancy called me from work. Leal, how did you know?
 
-Furthermore, by mentioning the word, it meant subconsciously she wanted to talk about plants. Those for example, instead of responding to Nancy’s comment about the rain with, it’s good for the plants, Mrs. Otis had said, because of the rain my dog couldn’t go out. Nancy could then ask about her dog. Or suppose she grumbled, it’s bad for my arthritis.
+Not only did Mrs. Otis love plants, but she told me she’d been married to a gardener. Today. I had a different problem with Mrs.
 
-Can you guess what old Mrs. Otis wants to talk about now? When talking with anyone, keep your ears open and, like a good detective, listen for clues. Be on the lookout for any unusual references, any anomaly, deviation, digression, or invocation of another place, time, person. Ask about it because it’s the clue to what your conversation partner would really enjoy discussing.
+Otis. I couldn’t shut her up. She went on and on about her garden, her husband. Top communicators, no ideas, don’t come out of nowhere.
 
-If two people have something in common, when the shared interest comes up, they jump on it naturally. For example, if someone mentions playing squash, birdwatching, or stamp collecting, and the listener shares that passion, he or she pipes up, oh, you’re a squasher, or birder, or philatelist, too. Here’s the trick. There’s no need to be a squasher, birder, or philatelist to pipe up with enthusiasm.
+If Mrs. Otis thought to bring up plants, then she must have some relationship with them.
 
-You can simply be a word detective. When you pick up on the reference as though it excites you too, it parlays you into conversation the stranger thrills to. The subject may put your feet to sleep, but that’s another story. Technique number eighteen.
+Furthermore, by mentioning the word, it meant subconsciously she wanted to talk about plants. Those for example, instead of responding to Nancy’s comment about the rain with, it’s good for the plants, Mrs. Otis had said, because of the rain my dog couldn’t go out. Nancy could then ask about her dog.
 
-Be a word detective. Like a good gumshoe, listen to your conversation partner’s every word for clues to his or her preferred topic. The evidence is bound to slip out, then spring on that subject like a sleuth onto a slip of the tongue. Like Sherlock Holmes, you have the clue to the subject that’s hot for the other person.
+Or suppose she grumbled, it’s bad for my arthritis. Can you guess what old Mrs. Otis wants to talk about now? When talking with anyone, keep your ears open and, like a good detective, listen for clues.
 
-Now that you’ve ignited stimulating conversation, let’s explore a technique to keep it hot. Nineteen. How to enthrall them with your choice of topic, them. Several years ago a girlfriend and I attended a party saturated with a hodgepodge of swellegant folks.
+Be on the lookout for any unusual references, any anomaly, deviation, digression, or invocation of another place, time, person. Ask about it because it’s the clue to what your conversation partner would really enjoy discussing. If two people have something in common, when the shared interest comes up, they jump on it naturally.
+
+For example, if someone mentions playing squash, birdwatching, or stamp collecting, and the listener shares that passion, he or she pipes up, oh, you’re a squasher, or birder, or philatelist, too. Here’s the trick. There’s no need to be a squasher, birder, or philatelist to pipe up with enthusiasm. You can simply be a word detective.
+
+When you pick up on the reference as though it excites you too, it parlays you into conversation the stranger thrills to. The subject may put your feet to sleep, but that’s another story. Technique number eighteen. Be a word detective.
+
+Like a good gumshoe, listen to your conversation partner’s every word for clues to his or her preferred topic. The evidence is bound to slip out, then spring on that subject like a sleuth onto a slip of the tongue. Like Sherlock Holmes, you have the clue to the subject that’s hot for the other person. Now that you’ve ignited stimulating conversation, let’s explore a technique to keep it hot.
+
+Nineteen. How to enthrall them with your choice of topic, them. Several years ago a girlfriend and. I attended a party saturated with a hodgepodge of swellegant folks.
 
 Everyone we talked to seemed to lead a nifty life. Discussing the party afterward, I asked my friend, Diane, of all the exciting people at the party, who did you enjoy talking to most?
 
@@ -1008,33 +1078,39 @@ Everyone we talked to seemed to lead a nifty life. Discussing the party afterwar
 <a id="sec-021616"></a>
 ### ⏱️ [02:16:16 - 02:21:17]
 
-Without hesitation she said, “Oh, by far Dan Smith.” What does Dan do? I asked her. Um, well, I’m not sure, she answered. Where does he live?
+Without hesitation she said, “Oh, by far Dan Smith.”. What does Dan do? I asked her. Um, well, I’m not sure, she answered.
 
-Uh, I don’t know, Diane responded. Well what is he interested in? Well we really didn’t talk about his interests. Diane, I asked, what did you talk about?
+Where does he live? Uh, I don’t know, Diane responded. Well what is he interested in? Well we really didn’t talk about his interests.
 
-Well I guess we talked mostly about me. Aha, I thought. Diane has just rubbed noses with a winner. As it turns out, I had the pleasure of meeting big winner Dan several months later.
+Diane, I asked, what did you talk about? Well. I guess we talked mostly about me. Aha, I thought.
 
-Diane’s ignorance about his life piqued my curiosity so I grilled him for details. As it turns out, Dan lives in Paris, has a beach home in the south of France, and a mountain home in the Alps. He travels around the world producing sound and light shows for pyramids and ancient ruins. And he is an avid hang glider and scuba diver.
+Diane has just rubbed noses with a winner. As it turns out, I had the pleasure of meeting big winner Dan several months later. Diane’s ignorance about his life piqued my curiosity so. I grilled him for details.
 
-Does this man have an interesting life or what? Yet Dan, when meeting Diane, said nothing about himself. I told Dan about how pleased Diane was to meet him, yet how little she learned about his life. Dan simply replied, well when I meet someone I learn so much more if I ask about their life.
+As it turns out, Dan lives in Paris, has a beach home in the south of France, and a mountain home in the Alps. He travels around the world producing sound and light shows for pyramids and ancient ruins. And he is an avid hang glider and scuba diver. Does this man have an interesting life or what?
 
-I always try to turn the spotlight on the other person. Truly confident people often do this. They know they grow more by listening than talking. Obviously, they also captivate the talker.
+Yet Dan, when meeting Diane, said nothing about himself. I told Dan about how pleased Diane was to meet him, yet how little she learned about his life. Dan simply replied, well when. I meet someone.
 
-Sell yourself with a top sales technique. Several months ago at a speaker’s convention I was talking with a colleague, Brian Tracy. Brian does a brilliant job of training top salespeople. He tells his students of a giant spotlight that when shining on their product is not as interesting to the prospect.
+I learn so much more if. I ask about their life. I always try to turn the spotlight on the other person. Truly confident people often do this.
 
-When they shine the spotlight on the prospect they make the sale. Salespeople this technique is especially crucial for you. Keep your swiveling spotlight aimed away from you, only lightly on your product and most brightly on your buyer. You’ll do a much better job of selling yourself and your product.
+They know they grow more by listening than talking. Obviously, they also captivate the talker. Sell yourself with a top sales technique. Several months ago at a speaker’s convention.
 
-Technique number 19, the swiveling spotlight. When you meet someone imagine a giant revolving spotlight between you. When you’re talking the spotlight is on you. When the new person is speaking it’s shining on him or her.
+I was talking with a colleague, Brian Tracy. Brian does a brilliant job of training top salespeople. He tells his students of a giant spotlight that when shining on their product is not as interesting to the prospect. When they shine the spotlight on the prospect they make the sale.
 
-If you shine it brightly enough the stranger will be blinded to the fact that you have hardly said a word about yourself. The longer you keep it shining away from you the more interesting he or she finds you. 20, how to never need to wonder what do I say next? Moments arise of course when even conversationalists extraordinaire hit the wall. Some folks monosyllabic grunts leave slim pickings even for masters of the be a word detective technique.
+Salespeople this technique is especially crucial for you. Keep your swiveling spotlight aimed away from you, only lightly on your product and most brightly on your buyer. You’ll do a much better job of selling yourself and your product. Technique number 19, the swiveling spotlight.
+
+When you meet someone imagine a giant revolving spotlight between you. When you’re talking the spotlight is on you. When the new person is speaking it’s shining on him or her. If you shine it brightly enough the stranger will be blinded to the fact that you have hardly said a word about yourself.
+
+The longer you keep it shining away from you the more interesting he or she finds you. 20, how to never need to wonder what do. I say next? Moments arise of course when even conversationalists extraordinaire hit the wall. Some folks monosyllabic grunts leave slim pickings even for masters of the be a word detective technique.
 
 If you find yourself futilely fanning the embers of a dying conversation and if you feel for political reasons or human compassion that the conversation should continue here’s a foolproof trick to get the fire blazing again. I call it parroting after that beautiful tropical bird that captures everyone’s heart simply by repeating other people’s words. Have you ever, puttering around the house, had the TV in the background tuned to a tennis game? You hear the ball going back and forth over the net.
 
 Clink clunk clink clunk clink. This time you don’t hear the clunk. The ball didn’t hit the court. What happened?
 
-You immediately look up at the set. Likewise in conversation the conversational ball goes back and forth. First you speak then your partner speaks you speak and so it goes back and forth. Each time through a series of nods and comforting grunts like mm hmm or mmm you let your conversation partner know the ball has landed in your court.
+You immediately look up at the set. Likewise in conversation the conversational ball goes back and forth.
 
-It’s your I got it signal. Such is the rhythm of conversation. What do I say next? Back to that frightfully familiar moment when it is your turn to speak but your mind goes blank.
+First, you speak then your partner speaks you speak and so it goes back and forth. Each time through a series of nods and comforting grunts like mm hmm or mmm you let your conversation partner know the ball has landed in your court. It’s your. I got it signal.
+
+Such is the rhythm of conversation. What do. I say next? Back to that frightfully familiar moment when it is your turn to speak but your mind goes blank.
 
 Don’t panic. Instead of signaling verbally or non-verbally that you got it simply repeat or parrot the last two or three words your companion said in a sympathetic questioning tone. That throws the conversational ball right back in your partner’s court.
 
@@ -1042,19 +1118,25 @@ Don’t panic. Instead of signaling verbally or non-verbally that you got it sim
 <a id="sec-022117"></a>
 ### ⏱️ [02:21:17 - 02:26:19]
 
-My friend Phil sometimes picks me up at the airport. Usually I am so exhausted that I rudely fall asleep in the passenger seat relegating Phil to nothing more than a chauffeur. After one especially exhausting trip some years ago I flung my bags in his trunk and flopped onto the front seat. As I was dozing off he mentioned he’d gone to the theater in the night before.
+My friend Phil sometimes picks me up at the airport. Usually. I am so exhausted that. I rudely fall asleep in the passenger seat relegating Phil to nothing more than a chauffeur.
 
-Usually I would have just grunted and wafted into unconsciousness. However on this particular trip I had learned the parroting technique and was eager to try it. After I parroted quizzically. Yes, it was a great show, he replied, fully expecting it to be the last word on the subject before I fell into my usual sleepy stupor.
+After one especially exhausting trip some years ago. I flung my bags in his trunk and flopped onto the front seat. As. I was dozing off he mentioned he’d gone to the theater in the night before.
 
-Great show, I parroted. Pleasantly surprised by my interest he said. Yes, it’s a new show by Stephen Sondheim called Sweeney Todd. Sweeney Todd?
+Usually. I would have just grunted and wafted into unconsciousness.
 
-I again parroted. Now Phil was getting fired up. Yeah, great music and an unbelievably bizarre story. Bizarre story?
+However, on this particular trip. I had learned the parroting technique and was eager to try it. After. I parroted quizzically.
 
-I parroted. Well that’s all Phil needed. For the next half an hour Phil told me the show’s story about a London barber who went around murdering people. I half dozed but soon decided his tale of Sweeney Todd’s cutting off people’s heads was disturbing my sleepy reverie.
+Yes, it was a great show, he replied, fully expecting it to be the last word on the subject before. I fell into my usual sleepy stupor. Great show, I parroted. Pleasantly surprised by my interest he said.
 
-So I simply backed up and parroted one of his previous phrases to get him on another track. You said it had great music? That did the trick. For the rest of the 45 minute trip to my home Phil sang me Pretty Women, The Best Pies in London and other songs from Sweeney Todd.
+Yes, it’s a new show by Stephen Sondheim called Sweeney Todd. Sweeney Todd? I again parroted. Now Phil was getting fired up.
 
-Much better accompaniment for my demi nap. I’m sure to this day Phil thinks of that trip as one of the best conversations we ever had. And all I did was parrot a few of his phrases. Technique number 20, parroting.
+Yeah, great music and an unbelievably bizarre story. Bizarre story? I parroted. Well that’s all Phil needed.
+
+For the next half an hour Phil told me the show’s story about a London barber who went around murdering people. I half dozed but soon decided his tale of Sweeney Todd’s cutting off people’s heads was disturbing my sleepy reverie. So. I simply backed up and parroted one of his previous phrases to get him on another track.
+
+You said it had great music? That did the trick. For the rest of the 45 minute trip to my home Phil sang me Pretty Women, The Best Pies in London and other songs from Sweeney Todd. Much better accompaniment for my demi nap.
+
+I’m sure to this day Phil thinks of that trip as one of the best conversations we ever had. And all. I did was parrot a few of his phrases. Technique number 20, parroting.
 
 Never be left speechless again. Like a parrot simply repeat the last few words your conversation partner says. That puts the ball right back in his or her court and then all you need to do is listen. Salespeople why go on a wild goose chase for a customer’s real objections when it’s so easy to shake them out of the trees with parroting.
 
@@ -1064,13 +1146,15 @@ Paul was walking around the lot with a prospect and his wife who had expressed i
 
 Instead of moving on to the next sensible car, Paul parroted, right for you? Paul’s questioning inflections signaled the prospect that he needed to say more. Well, yeah, the prospect mumbled. I’m not sure it fits my personality.
 
-Fits your personality? Paul again parroted. You know, maybe I need something a little more sporty. A little more sporty?
+Fits your personality? Paul again parroted. You know, maybe. I need something a little more sporty.
 
-Paul parroted. Well, those cars over there look a little more sporty. Ah-ha, Paul’s parrot had ferreted out which cars to show the customer. As they walked over toward a Lamborghini on the lot, Paul saw the prospect’s eyes light up.
+A little more sporty? Paul parroted. Well, those cars over there look a little more sporty. Ah-ha, Paul’s parrot had ferreted out which cars to show the customer.
 
-An hour later, Paul had pocketed a fat commission. Want to take a rest from talking to save your throat? This next technique gets your conversation partner off and running so all you have to do is listen, or even sneak off unnoticed as he or she chats congenially away. Twenty-one.
+As they walked over toward a Lamborghini on the lot, Paul saw the prospect’s eyes light up. An hour later, Paul had pocketed a fat commission. Want to take a rest from talking to save your throat? This next technique gets your conversation partner off and running so all you have to do is listen, or even sneak off unnoticed as he or she chats congenially away.
 
-How to get him happily chatting so you can slip away if you want to. Every father smiles when his little tyke beseeches him at bedtime, Daddy, Daddy, tell me the story again of the three little pigs, or the dancing princesses, or how you and Mommy met. Daddy knows Junior enjoyed the story so much the first time he wants to hear it again and again. Junior inspires the following technique called encore, which serves two purposes.
+Twenty-one. How to get him happily chatting so you can slip away if you want to. Every father smiles when his little tyke beseeches him at bedtime, Daddy, Daddy, tell me the story again of the three little pigs, or the dancing princesses, or how you and Mommy met. Daddy knows Junior enjoyed the story so much the first time he wants to hear it again and again.
+
+Junior inspires the following technique called encore, which serves two purposes.
 
 
 <a id="sec-022619"></a>
@@ -1082,51 +1166,57 @@ Needless to say, most of the passengers' grasp of Italian ended at macaroni, spa
 
 Never happened. I dreaded the weekly captain’s cocktail party. One night, sleeping in my cabin, I was awakened by the ship rocking violently from side to side. I listened, and the engines were off.
 
-A bad sign. I grabbed my robe and raced up to the deck. Through the dense fog I could barely discern another ship not half a mile from us. Five or six officers were grasping the starboard guardrail and leaning overboard.
+A bad sign. I grabbed my robe and raced up to the deck. Through the dense fog. I could barely discern another ship not half a mile from us.
 
-I rushed over just in time to see a man in the moonlight with a bandage over one eye struggling up our violently rocking ladder. The officers immediately whisked him off to our ship’s hospital. The engines started again, and we were on our way. The next morning I got the full story.
+Five or six officers were grasping the starboard guardrail and leaning overboard. I rushed over just in time to see a man in the moonlight with a bandage over one eye struggling up our violently rocking ladder. The officers immediately whisked him off to our ship’s hospital. The engines started again, and we were on our way.
 
-A laborer on the other ship, a freighter, had been drilling a hole in an engine cylinder. While he was working, a sharp, needle-thin piece of metal shot like a missile into his right eye. The freighter had no doctor on board, so the ship broadcast an emergency signal. International sea laws dictate that any ship hearing a distress signal must respond.
+The next morning. I got the full story. A laborer on the other ship, a freighter, had been drilling a hole in an engine cylinder. While he was working, a sharp, needle-thin piece of metal shot like a missile into his right eye.
 
-Our ship came to the rescue, and the seaman, clutching his bleeding eye, was lowered into a lifeboat that brought him to our ship. Dr. Rosie, our ship’s doctor, was successfully able to remove the needle from the workman’s eye, thus saving his eyesight. Tell him about the time you… Cut to the next captain’s cocktail party. Once again I was faced with the familiar challenge of getting officers to mingle and make small talk with the passengers.
+The freighter had no doctor on board, so the ship broadcast an emergency signal. International sea laws dictate that any ship hearing a distress signal must respond. Our ship came to the rescue, and the seaman, clutching his bleeding eye, was lowered into a lifeboat that brought him to our ship. Dr.
 
-I made my weekly trek to the Laconic Officer’s throng to drag one or two away, and, this time, my hand fell on the arm of the ship’s doctor. I hauled him over to the nearest group of grinning passengers and introduced him. I then said, just last week Dr. Rosie saved the eyesight of a seaman on another ship after a dramatic midnight rescue. Dr. Rosie, I’m sure these folks would love to hear about it. It was like a magic wand.
+Rosie, our ship’s doctor, was successfully able to remove the needle from the workman’s eye, thus saving his eyesight. Tell him about the time you… Cut to the next captain’s cocktail party. Once again.
 
-To my amazement, it was as though Dr. Rosie was blessed instantly with the tongues of angels. His previously monosyllabic broken English became thickly accented eloquence. He recounted the entire story for the growing group of passengers gathering around him. I left the throng that Dr. Rosie enraptured to pull… another officer over to an awaiting audience.
+I was faced with the familiar challenge of getting officers to mingle and make small talk with the passengers. I made my weekly trek to the Laconic Officer’s throng to drag one or two away, and, this time, my hand fell on the arm of the ship’s doctor. I hauled him over to the nearest group of grinning passengers and introduced him. I then said, just last week Dr.
 
-I grabbed the captain’s stripe-covered arm, dragged him over to another pack of smiling passengers and said, ''Captain Caffiero, why don’t you tell these folks about the dramatic midnight rescue you made last week?'' The cat released Caffiero’s tongue and he was off and running. Back to the throng to get the first officer for the next group. By now I knew I had a winner. ''Signor Salvago, why don’t you tell these folks how you awakened the captain at midnight last week for the dramatic midnight rescue?'' By then it was time to go back to extract the ship’s doctor from the first bevy and take him to his next pack of passengers.
+Rosie saved the eyesight of a seaman on another ship after a dramatic midnight rescue. Dr. Rosie, I’m sure these folks would love to hear about it. It was like a magic wand.
 
-It worked even better the second time. He happily commenced his encore for the second audience. As he chatted away, I raced back to the captain to pull him away for a second telling with another throng. I felt like the circus juggler who keeps all the plates spinning on sticks.
+To my amazement, it was as though Dr. Rosie was blessed instantly with the tongues of angels. His previously monosyllabic broken English became thickly accented eloquence. He recounted the entire story for the growing group of passengers gathering around him.
 
-Just as I got one conversation spinning, I had to race back to the first speaker to give him a whirl at another audience. The captain’s cocktail parties were a breeze for me for the rest of the season. The three officers loved telling the same story of their heroism to new people every
+I left the throng that Dr. Rosie enraptured to pull… another officer over to an awaiting audience. I grabbed the captain’s stripe-covered arm, dragged him over to another pack of smiling passengers and said, ''Captain Caffiero, why don’t you tell these folks about the dramatic midnight rescue you made last week?'' The cat released Caffiero’s tongue and he was off and running. Back to the throng to get the first officer for the next group.
+
+By now. I knew. I had a winner. ''Signor Salvago, why don’t you tell these folks how you awakened the captain at midnight last week for the dramatic midnight rescue?'' By then it was time to go back to extract the ship’s doctor from the first bevy and take him to his next pack of passengers. It worked even better the second time.
+
+He happily commenced his encore for the second audience. As he chatted away, I raced back to the captain to pull him away for a second telling with another throng. I felt like the circus juggler who keeps all the plates spinning on sticks. Just as.
+
+I got one conversation spinning, I had to race back to the first speaker to give him a whirl at another audience. The captain’s cocktail parties were a breeze for me for the rest of the season. The three officers loved telling the same story of their heroism to new people every
 
 
 <a id="sec-023124"></a>
 ### ⏱️ [02:31:24 - 02:36:31]
 
-cruise. The only problem was I noticed the stories getting longer and more elaborate each time. I had to adjust my timing in getting them to do a repeat performance for the next audience. Play it again, Sam.
+cruise. The only problem was. I noticed the stories getting longer and more elaborate each time. I had to adjust my timing in getting them to do a repeat performance for the next audience.
 
-Encore is what appreciative audiences chant when they want another song from the singer, another dance from the dancer, another poem from the poet, and, in my case, another story-telling from the officers. Encore is the technique you can use to request a repeat story from a prospect, potential employer, or valued acquaintance, while the two of you are chatting with a group of people simply turn to him and say, John, I bet everyone would love to hear about the time you caught that thirty-pound striped bass.
+Play it again, Sam. Encore is what appreciative audiences chant when they want another song from the singer, another dance from the dancer, another poem from the poet, and, in my case, another story-telling from the officers. Encore is the technique you can use to request a repeat story from a prospect, potential employer, or valued acquaintance, while the two of you are chatting with a group of people simply turn to him and say, John, I bet everyone would love to hear about the time you caught that thirty-pound striped bass.
 
-Or, Susan, tell everyone that story you just told me of how you rescued the kitten from the tree. He or she will, of course, demurr, insist. Your conversation partner is secretly loving it. The subtext of your request is, that story of yours was so terrific I want my other friends to hear it.
+Or, Susan, tell everyone that story you just told me of how you rescued the kitten from the tree. He or she will, of course, demurr, insist. Your conversation partner is secretly loving it. The subtext of your request is, that story of yours was so terrific.
 
-After all, only crowd pleasers are asked to do an encore. Week number twenty-one, encore. The sweetest sound a performer can hear welling up out of the applause is, encore, encore, let’s hear it again. The sweetest sound your conversation partner can hear from your lips when you’re talking with a group of people is, tell them about the time you…
+I want my other friends to hear it. After all, only crowd pleasers are asked to do an encore. Week number twenty-one, encore. The sweetest sound a performer can hear welling up out of the applause is, encore, encore, let’s hear it again.
 
-Whenever you’re at a meeting or party with someone important to you, think of some stories he or she told you. Use an appropriate one from their repertoire that the crowd will enjoy. Then shine the spotlight by requesting a repeat performance. The added benefit of this technique is that, once you’ve got them up and running with their conversation, you can sneak off and find more interesting company.
+The sweetest sound your conversation partner can hear from your lips when you’re talking with a group of people is, tell them about the time you… Whenever you’re at a meeting or party with someone important to you, think of some stories he or she told you. Use an appropriate one from their repertoire that the crowd will enjoy. Then shine the spotlight by requesting a repeat performance.
 
-One word of warning. Make sure the story you request is one in which the teller shines. No one wants to retell the time they lost the sale, cracked up the car or broke up the bar and spent the night in jail. Make sure your requested encore is a positive story where they come out the big winner, not the buffoon.
+The added benefit of this technique is that, once you’ve got them up and running with their conversation, you can sneak off and find more interesting company. One word of warning. Make sure the story you request is one in which the teller shines. No one wants to retell the time they lost the sale, cracked up the car or broke up the bar and spent the night in jail.
 
-The full beauty of this technique will hit you like a happy thunderbolt the first time you use it with someone who is telling a long and wearisome tale. You simply tiptoe away and let the boar spin the story on and on with your friend. Of course your friend may never speak to you again, but that’s not germane to this chapter. The next technique deals with sharing some positive stories of your life. 22.
+Make sure your requested encore is a positive story where they come out the big winner, not the buffoon. The full beauty of this technique will hit you like a happy thunderbolt the first time you use it with someone who is telling a long and wearisome tale. You simply tiptoe away and let the boar spin the story on and on with your friend. Of course, your friend may never speak to you again, but that’s not germane to this chapter.
 
-How to come across as a positive person. Often people think when they meet someone they like they should share a secret, reveal an intimacy, or make a confession of sorts to show they are human too. Airing your youthful battle with bedwetting, teeth grinding or thumb sucking, or your present struggle with gout or a goiter, supposedly endears you to the masses. Well sometimes it does.
+The next technique deals with sharing some positive stories of your life. 22. How to come across as a positive person. Often people think when they meet someone they like they should share a secret, reveal an intimacy, or make a confession of sorts to show they are human too. Airing your youthful battle with bedwetting, teeth grinding or thumb sucking, or your present struggle with gout or a goiter, supposedly endears you to the masses.
 
-One study showed that if someone is above you in stature, their revealing a foible brings them closer to you. The holes in the bottom of presidential candidate Adlai Stevenson’s shoes charmed a nation, as did George H. W. Bush’s shocking admission that he couldn’t stomach broccoli.
+Well sometimes it does. One study showed that if someone is above you in stature, their revealing a foible brings them closer to you. The holes in the bottom of presidential candidate Adlai Stevenson’s shoes charmed a nation, as did George H. W.
 
-If you’re on sure footing, say a superstar who wants to become friends with a fan, go ahead and tell your devotees about the time you were out of work and penniless. But if you’re not a superstar, better play it safe and keep the skeletons in the closet until later. People don’t know you well enough to put your foible in context. Later in a relationship, telling your new friend you’ve been thrice married, you got caught shoplifting as a teenager, and you got turned down for a big job, maybe no big deal.
+Bush’s shocking admission that he couldn’t stomach broccoli. If you’re on sure footing, say a superstar who wants to become friends with a fan, go ahead and tell your devotees about the time you were out of work and penniless. But if you’re not a superstar, better play it safe and keep the skeletons in the closet until later. People don’t know you well enough to put your foible in context.
 
-And that may be the extent of what could be construed as black marks on an otherwise flawless life of solid relationships, no misdemeanors, and an impressive professional record. But very early in a relationship, the instinctive reaction is, what else is coming? If he shares that with me so quickly, what else is he hiding? A closet full of ex-spouses, a criminal record, walls papered with rejection letters?
+Later in a relationship, telling your new friend you’ve been thrice married, you got caught shoplifting as a teenager, and you got turned down for a big job, maybe no big deal. And that may be the extent of what could be construed as black marks on an otherwise flawless life of solid relationships, no misdemeanors, and an impressive professional record. But very early in a relationship, the instinctive reaction is, what else is coming? If he shares that with me so quickly, what else is he hiding?
 
-Your new acquaintance has no way of knowing your confession was a generous act, a well-intentioned revelation on your part. When first meeting someone, lock your closet door and save your skeletons for later.
+A closet full of ex-spouses, a criminal record, walls papered with rejection letters? Your new acquaintance has no way of knowing your confession was a generous act, a well-intentioned revelation on your part. When first meeting someone, lock your closet door and save your skeletons for later.
 
 
 <a id="sec-023631"></a>
@@ -1140,23 +1230,25 @@ When going to a gathering with great networking possibilities, you naturally pla
 
 What about the right conversation to enhance your image? Are you actually going to say anything that comes to mind or doesn’t at the moment? You wouldn’t don the first outfit your groping hand hits in the darkened closet, so you shouldn’t leave your conversing to the first thought that comes to mind when facing a group of expectant smiling faces. You will, of course, follow your instincts in conversation, but at least be prepared in case inspiration doesn’t hit.
 
-The best way to ensure you’re conversationally in the swing of things is to listen to a newscast just before you leave. What’s happening right now in the world, all the fires, floods, air disasters, toppled governments, and stock market crashes, pulverizes into great conversational fodder no matter what crowd you’re circulating in. It is with some embarrassment that I must attribute the following technique to a businesswoman in the world’s oldest profession. For a magazine article I was writing, I interviewed one of the savviest operators in her field, Sydney Biddle Barrows, the famed Mayflower Madam.
+The best way to ensure you’re conversationally in the swing of things is to listen to a newscast just before you leave. What’s happening right now in the world, all the fires, floods, air disasters, toppled governments, and stock market crashes, pulverizes into great conversational fodder no matter what crowd you’re circulating in. It is with some embarrassment that. I must attribute the following technique to a businesswoman in the world’s oldest profession.
 
-Sydney told me she had a house rule when she was in business. All of her female independent contractors were directed to keep up with the daily news so they could be good conversationalists with their clients. This was not just Sydney’s whim. Feedback from her employees had revealed that 60% of her girl’s work hour was spent in chatting and only 40% in satisfying the customer’s needs.
+For a magazine article. I was writing, I interviewed one of the savviest operators in her field, Sydney Biddle Barrows, the famed Mayflower Madam. Sydney told me she had a house rule when she was in business. All of her female independent contractors were directed to keep up with the daily news so they could be good conversationalists with their clients.
 
-Thus she instructed them to read the daily newspaper or listen to a radio broadcast before leaving for an appointment. Sydney told me when she initiated this rule, her business increased significantly. Reports came back from her clients complimenting her on the fascinating women she had working for her. The consummate businesswoman, Ms. Barrows always strove to exceed her customers' expectations.
+This was not just Sydney’s whim. Feedback from her employees had revealed that 60% of her girl’s work hour was spent in chatting and only 40% in satisfying the customer’s needs. Thus she instructed them to read the daily newspaper or listen to a radio broadcast before leaving for an appointment. Sydney told me when she initiated this rule, her business increased significantly.
 
-Technique number 23. The latest news. Don’t leave home without it. The last move to make before leaving for the party, even after you’ve given yourself final approval in the mirror, is to turn on the radio news or scan your newspaper.
+Reports came back from her clients complimenting her on the fascinating women she had working for her. The consummate businesswoman, Ms. Barrows always strove to exceed her customers' expectations. Technique number 23.
 
-Anything that happened today is good material. Knowing the big deal news of the moment is also a defensive move that rescues you from putting your foot in your mouth by asking what everybody’s talking about. Foot in mouth is not very tasty in public, especially when it’s surrounded by egg on face. Ready for the big leagues of conversation?
+The latest news. Don’t leave home without it. The last move to make before leaving for the party, even after you’ve given yourself final approval in the mirror, is to turn on the radio news or scan your newspaper. Anything that happened today is good material.
 
-Let’s go.
+Knowing the big deal news of the moment is also a defensive move that rescues you from putting your foot in your mouth by asking what everybody’s talking about. Foot in mouth is not very tasty in public, especially when it’s surrounded by egg on face. Ready for the big leagues of conversation? Let’s go.
 
-#### Part 3. How to talk like a VIP. Welcome to the human jungle. When two tigers prowling through the jungle chance upon one another in a clearing, they look at each other.
+#### Part 3.
 
-They freeze. Instinctively they calculate. If our staring came to hissing, came to scratching, came to clawing, who would win? Which of us has the stronger survival skills?
+How to talk like a VIP. Welcome to the human jungle. When two tigers prowling through the jungle chance upon one another in a clearing, they look at each other. They freeze.
 
-Tigers in the wilderness differ little from the urban upright animals inhabiting the corporate jungle or singles jungle or social jungle. Humans start the process by looking at each other and talking. In the business world, while smiling and uttering, how do you do, hello, howdy or high, they are, like tigers, instinctively, instantaneously sizing each other up.
+Instinctively they calculate. If our staring came to hissing, came to scratching, came to clawing, who would win? Which of us has the stronger survival skills? Tigers in the wilderness differ little from the urban upright animals inhabiting the corporate jungle or singles jungle or social jungle.
+
+Humans start the process by looking at each other and talking. In the business world, while smiling and uttering, how do you do, hello, howdy or high, they are, like tigers, instinctively, instantaneously sizing each other up.
 
 
 <a id="sec-024136"></a>
@@ -1174,15 +1266,15 @@ By not asking the question, the big boys and big girls come across as more princ
 
 Additionally, millions of talented and accomplished women have chosen to devote themselves to motherhood. When the cruel corporate question is thrust at them, they feel guilty. The rude interrogation belittles their commitment to their families. No matter how the women answer, they fear the asker is only going to hear a humble, �I’m just a housewife.� Big boys and big girls should avoid asking. and what do you do for another reason?
 
-Their abstinence from the question leads listeners to believe that they are in the habit of soaring with a high-flying crowd. Recently I attended a posh party on Easy Street. I suspect they invited me as their token working class person. I noticed no one was asking anyone what they did, because these swells didn’t do anything.
+Their abstinence from the question leads listeners to believe that they are in the habit of soaring with a high-flying crowd. Recently. I attended a posh party on Easy Street. I suspect they invited me as their token working class person.
 
-Oh, some might have a ticker tape on the bed table of their mansion to track investments, but they definitely did not work for a living. The final benefit to not asking, what do you do, is it throws people off guard. It convinces them that you are enjoying their company for who they are, not for any crass networking reason. Technique number twenty-four.
+I noticed no one was asking anyone what they did, because these swells didn’t do anything. Oh, some might have a ticker tape on the bed table of their mansion to track investments, but they definitely did not work for a living. The final benefit to not asking, what do you do, is it throws people off guard. It convinces them that you are enjoying their company for who they are, not for any crass networking reason.
 
-What do you do, not? A sure sign you’re a somebody is the conspicuous absence of the question, what do you do? You determine this, of course, but not with those four dirty words that label you as either a ruthless networker, a social climber, a gold-digging husband or wife-hunter, or someone who’s never strolled along Easy Street. The right way to find out.
+Technique number twenty-four. What do you do, not? A sure sign you’re a somebody is the conspicuous absence of the question, what do you do? You determine this, of course, but not with those four dirty words that label you as either a ruthless networker, a social climber, a gold-digging husband or wife-hunter, or someone who’s never strolled along Easy Street.
 
-So how do you find out what someone does for a living? I thought you’d never ask. You simply practice the following eight words. All together now.
+The right way to find out. So how do you find out what someone does for a living? I thought you’d never ask. You simply practice the following eight words.
 
-How do you spend most of your time?
+All together now. How do you spend most of your time?
 
 
 <a id="sec-024639"></a>
@@ -1222,13 +1314,15 @@ In fact, that’s how she got me as
 <a id="sec-025144"></a>
 ### ⏱️ [02:51:44 - 02:56:48]
 
-a client. When I met Gloria at a convention, she told me she was a hairdresser who specialized in flexible hairstyles for the businesswoman. She casually mentioned she has many clients who choose a conservative hairstyle for work that they can instantly convert to a feminine style for social situations. Hey, that’s me, I said to myself, fingering my stringy little ponytail.
+a client. When. I met Gloria at a convention, she told me she was a hairdresser who specialized in flexible hairstyles for the businesswoman. She casually mentioned she has many clients who choose a conservative hairstyle for work that they can instantly convert to a feminine style for social situations.
 
-I asked for her card and Gloria became my hairdresser. Then several months later, I happened to see Gloria at another event. I overheard her chatting with a stylish gray haired woman at the buffet table. Gloria was saying, and we specialize in a wonderful array of blue rinses.
+Hey, that’s me, I said to myself, fingering my stringy little ponytail. I asked for her card and Gloria became my hairdresser. Then several months later, I happened to see Gloria at another event. I overheard her chatting with a stylish gray haired woman at the buffet table.
 
-Now that was news to me. I didn’t remember seeing one gray head in her salon. As I was leaving the party, Gloria was out on the lawn talking animatedly with the host’s teenage daughters. Oh, yeah, she was saying, like we specialize in these really cool up-to-the-minute styles.
+Gloria was saying, and we specialize in a wonderful array of blue rinses. Now that was news to me. I didn’t remember seeing one gray head in her salon. As.
 
-Good for you, Gloria. Like Gloria the hairdresser, give your response a once-over before answering the inevitable what do you do. When someone asks, never give just a one-word answer. That’s for forms. If business networking is on your mind, ask yourself, how could my professional experience benefit this person’s life?
+I was leaving the party, Gloria was out on the lawn talking animatedly with the host’s teenage daughters. Oh, yeah, she was saying, like we specialize in these really cool up-to-the-minute styles. Good for you, Gloria. Like Gloria the hairdresser, give your response a once-over before answering the inevitable what do you do.
+
+When someone asks, never give just a one-word answer. That’s for forms. If business networking is on your mind, ask yourself, how could my professional experience benefit this person’s life?
 
 For example, here are some descriptions various people might put on their tax return. Real estate agent, financial planner, martial arts instructor, cosmetic surgeon, hairdresser. Any practitioner of the above profession should reflect on the benefit his or her job has to humankind. Every job has some benefit or you wouldn’t get paid to do it.
 
@@ -1264,23 +1358,27 @@ You needn’t pour over vocabulary books or listen to tapes of pompous pontifica
 
 Then grab a thesaurus or book of synonyms off the shelf. Look up that common word even you are bored hearing yourself utter every day. Examine your long list of alternatives.
 
-For example, if you turned the word smart you’ll find dozens of synonyms. Some words are colorful and rich, like ingenious, resourceful, adroit, shrewd, and many more. Run down the list and say each out loud. Which ones fit your personality? Which ones seem right for you?
+For example, if you turned the word smart you’ll find dozens of synonyms. Some words are colorful and rich, like ingenious, resourceful, adroit, shrewd, and many more. Run down the list and say each out loud. Which ones fit your personality?
 
-Try each on like a suit of clothes to see which feel comfortable. Choose a few favorites and practice saying them aloud until they become a natural staple of your vocabulary. The next time you want to compliment someone, say, on being smart, you’ll be purring, Oh, that’s so clever of you. My, how resourceful.
+Which ones seem right for you? Try each on like a suit of clothes to see which feel comfortable. Choose a few favorites and practice saying them aloud until they become a natural staple of your vocabulary. The next time you want to compliment someone, say, on being smart, you’ll be purring, Oh, that’s so clever of you.
 
-That was ingenious. Or maybe how astute of you. And now for men only. Gentlemen, we women spend a lot of time in front of the mirror, as if you didn’t know.
+My, how resourceful. That was ingenious. Or maybe how astute of you. And now for men only.
 
-When I was in college it used to take me a full fifteen minutes to fix myself up for a date. Every year since I’ve had to add a few minutes. I’m now up to an hour and a half gussying myself up for an evening out. Gentlemen, when your wife comes down the staircase all dolled up for a night out, or you pick a lady up for dinner.
+Gentlemen, we women spend a lot of time in front of the mirror, as if you didn’t know. When. I was in college it used to take me a full fifteen minutes to fix myself up for a date. Every year since.
 
-What do you say? If you make no comment except, well, are you ready to go? How do you think that makes the lady feel? My friend Gary is a nice gentleman and he occasionally takes me to dinner.
+I’ve had to add a few minutes. I’m now up to an hour and a half gussying myself up for an evening out. Gentlemen, when your wife comes down the staircase all dolled up for a night out, or you pick a lady up for dinner. What do you say?
 
-I met him about twelve years ago, and I’ll never forget the first time he arrived on my doorstep for our date. He said, “Leil, you look great.” I adored his reaction. I saw Gary a month or so later. On my doorstep again, Leil, you look great.
+If you make no comment except, well, are you ready to go? How do you think that makes the lady feel? My friend Gary is a nice gentleman and he occasionally takes me to dinner. I met him about twelve years ago, and.
 
-The precise same words as the first time, but I still appreciated it. It’s been twelve long years now that this gentleman and I have been friends. I see him about once every two months, and every darn time it’s the same old comment. Leil, you look great.
+I’ll never forget the first time he arrived on my doorstep for our date. He said, “Leil, you look great.”. I adored his reaction. I saw Gary a month or so later.
 
-I think I’ll show up one evening in a flannel nightshirt and a mudpack on my face. I swear, Gary will say, Leil, you look great. During my seminars, to help men avoid Gary’s mistake, I ask every male to think of a synonym for pretty or great. Then I bring up one woman and several men.
+On my doorstep again, Leil, you look great. The precise same words as the first time, but. I still appreciated it. It’s been twelve long years now that this gentleman and.
 
-I ask each to pretend he is her husband. She has just come down the stairs ready to go out to dinner. I ask each
+I have been friends. I see him about once every two months, and every darn time it’s the same old comment. Leil, you look great. I think.
+
+I’ll show up one evening in a flannel nightshirt and a mudpack on my face. I swear, Gary will say, Leil, you look great. During my seminars, to help men avoid Gary’s mistake, I ask every male to think of a synonym for pretty or great. Then.
+
+I bring up one woman and several men. I ask each to pretend he is her husband. She has just come down the stairs ready to go out to dinner. I ask each
 
 
 <a id="sec-030150"></a>
@@ -1302,21 +1400,25 @@ Look up some common words you use every day in a thesaurus. Then, like slipping 
 
 Substitute a word a day for two months and you’ll be in the verbally elite. 27, how to not sound anxious. Let them discover your similarity. Tigers prowl with tigers, lions lurk with lions, and little alley cats scramble around with other little alley cats. Similarity breeds attraction, but in the human jungle big cats know a secret.
 
-When you delay revealing your similarity or let them discover it, it has much more punch. Above all, you don’t want to sound anxious to have rapport. Whenever someone mentions a common interest or experience, instead of jumping in with a breathless, hey, me too, I do that too, or I know all about that, let your conversation partner enjoy talking about it. Let her go on about the country club before you tell her you’re a member too.
+When you delay revealing your similarity or let them discover it, it has much more punch. Above all, you don’t want to sound anxious to have rapport. Whenever someone mentions a common interest or experience, instead of jumping in with a breathless, hey, me too, I do that too, or. I know all about that, let your conversation partner enjoy talking about it.
 
-Let him go on analyzing the golf swing of Arnold Palmer before you start casually comparing the swings of golf greats Greg, Jack, Tiger, and Arnie. Let her tell you how many tennis games she’s won before you just happen to mention your USTA ranking. Several years ago I was telling a new acquaintance how much I loved to ski. He listened with interest as I indulged in a detailed travelogue of places I had skied.
+Let her go on about the country club before you tell her you’re a member too. Let him go on analyzing the golf swing of Arnold Palmer before you start casually comparing the swings of golf greats Greg, Jack, Tiger, and Arnie. Let her tell you how many tennis games she’s won before you just happen to mention your USTA ranking. Several years ago.
 
-I raved about the various resorts. I analyzed the various conditions. I discussed artificial versus natural snow. It wasn’t until near the end of my monologue that I finally had the sense to ask my new acquaintance if he skied.
+I was telling a new acquaintance how much. I loved to ski. He listened with interest as. I indulged in a detailed travelogue of places.
 
-He replied, yes, I keep a little apartment in Aspen. Cool. If he had jumped in and told me about his ski pad right after I first told him how much I liked skiing, I’d have been impressed, mildly.
+I had skied. I raved about the various resorts. I analyzed the various conditions. I discussed artificial versus natural snow.
 
-However, waiting until the end of our conversation and then revealing he was such an avid skier that he kept an Aspen ski pad made it unforgettable. Here’s the technique I call kill the quick me too. Whenever people mention an activity or interest you share, let them enjoy discussing their passion. Then when the time is right, casually mention you share their interest.
+It wasn’t until near the end of my monologue that. I finally had the sense to ask my new acquaintance if he skied. He replied, yes, I keep a little apartment in Aspen. Cool.
 
-Oh, I must have been boring you. I waited weeks for the opportunity to try it out.
+If he had jumped in and told me about his ski pad right after. I first told him how much. I liked skiing, I’d have been impressed, mildly.
 
-Finally, the moment presented itself at a convention. A new contact began telling me about her recent trip to Washington, D. C. She had no idea that Washington was where I grew up.
+However, waiting until the end of our conversation and then revealing he was such an avid skier that he kept an Aspen ski pad made it unforgettable. Here’s the technique. I call kill the quick me too. Whenever people mention an activity or interest you share, let them enjoy discussing their passion.
 
-She told me all about the Capitol, the Washington Monument, the Kennedy Center, and how she and her husband went bicycling in Rock Creek Park. Momentarily, I forgot I was keeping my mouth shut to practice my new technique.
+Then when the time is right, casually mention you share their interest. Oh, I must have been boring you. I waited weeks for the opportunity to try it out.
+
+Finally, the moment presented itself at a convention. A new contact began telling me about her recent trip to Washington, D. C. She had no idea that Washington was where.
+
+I grew up. She told me all about the Capitol, the Washington Monument, the Kennedy Center, and how she and her husband went bicycling in Rock Creek Park. Momentarily, I forgot. I was keeping my mouth shut to practice my new technique.
 
 
 <a id="sec-030654"></a>
@@ -1324,9 +1426,11 @@ She told me all about the Capitol, the Washington Monument, the Kennedy Center, 
 
 I was genuinely enjoying hearing about these familiar sights from a visitor’s perspective. I asked her where she stayed, where she dined, and if she had a chance to get into any of the beautiful Maryland or Virginia suburbs.
 
-At one point, obviously pleased by my interest in her trip, she said, “You sound like you know a lot about Washington.” Yes, I replied. It’s my hometown, but I haven’t been back there in ages. Your hometown, she squealed. My goodness, why didn’t you tell me?
+At one point, obviously pleased by my interest in her trip, she said, “You sound like you know a lot about Washington.” Yes, I replied. It’s my hometown, but. I haven’t been back there in ages. Your hometown, she squealed.
 
-I must have been boring you. Oh, not at all, I replied honestly. I was enjoying hearing about your trip so much I was afraid you’d stop if I told you. Her big smile and barely audible, oh, gosh, let me know I had won a new friend.
+My goodness, why didn’t you tell me? I must have been boring you. Oh, not at all, I replied honestly. I was enjoying hearing about your trip so much.
+
+I was afraid you’d stop if. I told you. Her big smile and barely audible, oh, gosh, let me know. I had won a new friend.
 
 When someone starts telling you about an activity he has done, a trip she has made, a club he belongs to, an interest she has, anything that you share, bite your tongue. Let the teller relish his or her own monologue. Relax and enjoy it, too, secretly knowing how much pleasure your conversation partner will have when you reveal you share the same experience. Then, when the moment is ripe, casually disclose your similarity, and be sure to mention how much you enjoyed hearing about his or her shared interest.
 
@@ -1334,9 +1438,11 @@ Technique number 27. Kill the quick me too. Whenever you have something in commo
 
 P. S., don’t wait too long to reveal your shared interest, or it will seem like you’re being tricky. 28. How to be a you-firstie to gain their respect and affection. Sex.
 
-Now that I have your attention, two-bit comics have been using that gag from the days when two-bits bought a four-square meal. However, big winners know there’s a three-letter word more potent than sex to get people’s attention. That word is you. Why is you such a powerful word?
+Now that. I have your attention, two-bit comics have been using that gag from the days when two-bits bought a four-square meal.
 
-Because when we were infants, we thought we were the center of the universe. Nothing mattered but me, myself, and I. The rest of the shadowy forms stirring about us, which we later learned were other people, existed solely for what they could do for us. Self-centered little tykes that we were, our tiny brains translated every action, every word, into, how does that affect me?
+However, big winners know there’s a three-letter word more potent than sex to get people’s attention. That word is you. Why is you such a powerful word? Because when we were infants, we thought we were the center of the universe.
+
+Nothing mattered but me, myself, and. I. The rest of the shadowy forms stirring about us, which we later learned were other people, existed solely for what they could do for us. Self-centered little tykes that we were, our tiny brains translated every action, every word, into, how does that affect me?
 
 Big winners know we haven’t changed a bit. Adults camouflage their self-centeredness under a mask of civilization and politeness. Yet the human brain still immediately, instinctively, and unfailingly translates everything into terms of, how does that affect me?
 
@@ -1344,21 +1450,23 @@ For example, suppose, gentlemen, you want to ask a colleague, Jill, if she would
 
 Her reverie continues, Indian cuisine, I’m not sure. He says it’s good.
 
-However, will I like it? While thinking, Jill hesitates. You probably take her hesitation personally and the joy of the exchange diminishes. Suppose instead you had said to her, Jill, you will really love this new Indian restaurant.
+However, will. I like it? While thinking, Jill hesitates. You probably take her hesitation personally and the joy of the exchange diminishes.
 
-Will you join me there this evening for dinner? Phrasing it that way, you’ve already subliminally answered Jill’s questions and she’s more apt to give you a quick yes. The pleasure pain principle is a guiding force in life. Psychologists tell us everyone automatically gravitates toward that which is pleasurable, and pulls away from that which is painful.
+Suppose instead you had said to her, Jill, you will really love this new Indian restaurant. Will you join me there this evening for dinner? Phrasing it that way, you’ve already subliminally answered Jill’s questions and she’s more apt to give you a quick yes. The pleasure pain principle is a guiding force in life.
 
-For many people, thinking is painful. So big winners, when they wish to control, inspire, be loved by, sell to people, or get them to go to dinner, do the thinking for them. They translate everything into the other person’s terms by starting as many sentences as they can with that powerful little three-letter word, you. Thus, I call the technique communication.
+Psychologists tell us everyone automatically gravitates toward that which is pleasurable, and pulls away from that which is painful. For many people, thinking is painful. So big winners, when they wish to control, inspire, be loved by, sell to people, or get them to go to dinner, do the thinking for them. They translate everything into the other person’s terms by starting as many sentences as they can with that powerful little three-letter word, you.
 
-Communicate when you want a favor. Putting you first gets a much better response, especially when you’re asking a favor,
+Thus, I call the technique communication. Communicate when you want a favor. Putting you first gets a much better response, especially when you’re asking a favor,
 
 
 <a id="sec-031157"></a>
 ### ⏱️ [03:11:57 - 03:16:57]
 
-because it pushes the asker’s pride button. Suppose you want to take a long weekend, you decide to ask your boss if you can take Friday off. Which request do you think he or she is going to react to more positively? Can I take Friday off, boss?
+because it pushes the asker’s pride button. Suppose you want to take a long weekend, you decide to ask your boss if you can take Friday off. Which request do you think he or she is going to react to more positively? Can.
 
-Or this one? Boss, can you do without me Friday? In the first case, boss has to translate your can I take Friday off into can I do without this employee Friday? That’s an extra thought process, and you know how some bosses hate to think.
+I take Friday off, boss? Or this one? Boss, can you do without me Friday? In the first case, boss has to translate your can.
+
+I take Friday off into can. I do without this employee Friday? That’s an extra thought process, and you know how some bosses hate to think.
 
 However, in the second case, boss, can you do without me Friday? You did bosses thinking for her. Your new wording made managing without you a matter of pride for boss. Of course, she said to herself, I can manage without your help Friday.
 
@@ -1372,21 +1480,25 @@ Once driving around San Francisco hopelessly lost, I asked people walking along 
 
 I can’t find the Golden Gate Bridge. The pair looked at each other and shrugged with that. How stupid can these tourists get look on their faces? That direction, the husband mumbled pointing straight ahead.
 
-Still lost, I called out to the next couple I encountered. Excuse me, where’s the Golden Gate Bridge? Without smiling, they pointed in the opposite direction. Then I decided to try communication.
+Still lost, I called out to the next couple. I encountered. Excuse me, where’s the Golden Gate Bridge? Without smiling, they pointed in the opposite direction.
 
-When I came upon the next strolling couple, I called out the window. Excuse me, could you tell me where the Golden Gate Bridge is? Of course, they said, answering my question literally. You see, by phrasing the question that way, it was a subtle challenge.
+Then. I decided to try communication. When. I came upon the next strolling couple, I called out the window.
 
-I was asking, in essence, are you able to give me directions? hits them in the pride button. They walked over to my car and gave me explicit instructions. Hey, I thought, this you stuff really works. To test my hypothesis, I tried it a few more times.
+Excuse me, could you tell me where the Golden Gate Bridge is? Of course, they said, answering my question literally. You see, by phrasing the question that way, it was a subtle challenge. I was asking, in essence, are you able to give me directions? hits them in the pride button.
 
-I kept asking passers-by my three forms of the question. Sure enough, whenever I asked, could you tell me where people were more pleasant and helpful than when I started the question with I or where? I’m sure when they recover the flight box from the fall of man under a fig leaf in the garden of Eden, it will convince the world of the power of the word you. Eve did not ask Adam to eat the apple.
+They walked over to my car and gave me explicit instructions. Hey, I thought, this you stuff really works. To test my hypothesis, I tried it a few more times. I kept asking passers-by my three forms of the question.
 
-She did not command him to eat the apple. She didn’t even say, Adam, I want you to eat this apple. She phrased it, as all big winners would, you will love this apple. That’s why he bit.
+Sure enough, whenever. I asked, could you tell me where people were more pleasant and helpful than when. I started the question with. I or where?
 
-Communication is a sign of sanity. Therapists calculate inmates of mental institutions say I and me twelve times more often than residents of the outside world. As patients' conditions improve, the number of times they use the personal pronouns also diminishes. Continuing up the sanity scale, the fewer times you use I, the more sane you seem to your listeners.
+I’m sure when they recover the flight box from the fall of man under a fig leaf in the garden of Eden, it will convince the world of the power of the word you. Eve did not ask Adam to eat the apple. She did not command him to eat the apple. She didn’t even say, Adam, I want you to eat this apple.
 
-If you eavesdrop on big winners talking with each other, you’ll notice a lot more you than I in their conversation. Technique number twenty-eight. Communication. Start every appropriate sentence with you.
+She phrased it, as all big winners would, you will love this apple. That’s why he bit. Communication is a sign of sanity. Therapists calculate inmates of mental institutions say.
 
-It immediately grabs your listener’s attention. It gets a more positive response because it pushes the pride button and saves them having to translate it into me terms. When you sprinkle you as liberally as salt and pepper throughout your
+I and me twelve times more often than residents of the outside world. As patients' conditions improve, the number of times they use the personal pronouns also diminishes. Continuing up the sanity scale, the fewer times you use. I, the more sane you seem to your listeners.
+
+If you eavesdrop on big winners talking with each other, you’ll notice a lot more you than. I in their conversation. Technique number twenty-eight. Communication.
+
+Start every appropriate sentence with you. It immediately grabs your listener’s attention. It gets a more positive response because it pushes the pride button and saves them having to translate it into me terms. When you sprinkle you as liberally as salt and pepper throughout your
 
 
 <a id="sec-031657"></a>
@@ -1394,29 +1506,33 @@ It immediately grabs your listener’s attention. It gets a more positive respon
 
 conversation, your listeners find it an irresistible spice. The next technique concerns a way big winners are silently you-oriented. Twenty-nine. How to make them feel you don’t smile at just anybody.
 
-Have you ever seen those low-budget mail-order fashion catalogs that use the same model throughout? Whether she is engulfed in a wedding gown or partially clad in a bikini, her face sports the same plastic smile. Looking at her, you get the feeling if you wrapped on her forehead a tiny voice would come back saying, nobody’s in here. Whereas models in more sophisticated magazines have mastered a myriad of different expressions of flirtatious, I’ve got a secret smile on one page, a quizzical, I think I’d like to get to know you but I’m not sure smile on the next, and a mysterious Mona Lisa smile on the third.
+Have you ever seen those low-budget mail-order fashion catalogs that use the same model throughout? Whether she is engulfed in a wedding gown or partially clad in a bikini, her face sports the same plastic smile. Looking at her, you get the feeling if you wrapped on her forehead a tiny voice would come back saying, nobody’s in here. Whereas models in more sophisticated magazines have mastered a myriad of different expressions of flirtatious, I’ve got a secret smile on one page, a quizzical, I think.
 
-You feel there’s a brain running the operation somewhere inside that beautiful head. I once stood in the receiving line of the ship I worked on, along with the captain, his wife, and several other officers. One passenger with a radiant smile started shaking hands down our line. When he got to me he flashed a shimmering smile, revealing teeth as even and white as keys on a new piano. I was transfixed.
+I’d like to get to know you but. I’m not sure smile on the next, and a mysterious Mona Lisa smile on the third. You feel there’s a brain running the operation somewhere inside that beautiful head. I once stood in the receiving line of the ship.
 
-It was as though a brilliant light had illuminated the dim ballroom. I wished him a happy cruise and resolve to find this charming gentleman later. Then he was introduced to the next person. Out of the corner of my eye I saw his identical glistening grin.
+I worked on, along with the captain, his wife, and several other officers. One passenger with a radiant smile started shaking hands down our line. When he got to me he flashed a shimmering smile, revealing teeth as even and white as keys on a new piano. I was transfixed.
 
-A third person, the same grin. My interest began to dwindle. When he gave his fourth indistinguishable smile to the next person he started to resemble a Cheshire cat. By the time he was introduced to the fifth person his consistent smile felt like a strobe light disturbing the ambience of the ballroom.
+It was as though a brilliant light had illuminated the dim ballroom. I wished him a happy cruise and resolve to find this charming gentleman later. Then he was introduced to the next person. Out of the corner of my eye.
 
-Strobe man went on flashing everybody the same smile down the line. I had no further interest in talking with him. Why did this man’s stock shoot high in my ticker one minute and plummet the next? Because his smile, although charming, reflected no special reaction to me.
+I saw his identical glistening grin. A third person, the same grin. My interest began to dwindle. When he gave his fourth indistinguishable smile to the next person he started to resemble a Cheshire cat.
 
-Obviously he gave the same smile to everybody, and by that it lost all its specialness. If strobe man had given each of us a slightly different smile he would have appeared sensitive and insightful. Of course if his smile had been just a tad bigger for me than for the others I couldn’t have waited for the formalities to be over to seek him out in the crowded ballroom. Review your repertoire of smiles.
+By the time he was introduced to the fifth person his consistent smile felt like a strobe light disturbing the ambience of the ballroom. Strobe man went on flashing everybody the same smile down the line. I had no further interest in talking with him. Why did this man’s stock shoot high in my ticker one minute and plummet the next?
 
-If your job required you to carry a gun you would, of course, learn all about the moving parts before firing it. And before taking aim you would carefully consider whether it would murder, maim, or merely wound your target. Since your smile is one of your biggest communications weapons learn all about the moving parts and the effect on your target. Set aside five minutes.
+Because his smile, although charming, reflected no special reaction to me. Obviously, he gave the same smile to everybody, and by that it lost all its specialness. If strobe man had given each of us a slightly different smile he would have appeared sensitive and insightful. Of course, if his smile had been just a tad bigger for me than for the others.
 
-Lock your bedroom or bathroom door so your family doesn’t think you’ve gone off the deep end. Now stand in front of the mirror and flash a few smiles. Discover the subtle differences in your repertoire. Just as you would alternate saying, hello, how do you do, and I am pleased to meet you when being introduced to a group of people, vary your smile.
+I couldn’t have waited for the formalities to be over to seek him out in the crowded ballroom. Review your repertoire of smiles. If your job required you to carry a gun you would, of course, learn all about the moving parts before firing it. And before taking aim you would carefully consider whether it would murder, maim, or merely wound your target.
 
-Don’t use the same on each. Let each of your smiles reflect the nuances of your sentiment about the recipient. Technique number twenty-nine, the exclusive smile. If you flash everybody the same smile like a Confederate dollar it loses value.
+Since your smile is one of your biggest communications weapons learn all about the moving parts and the effect on your target. Set aside five minutes. Lock your bedroom or bathroom door so your family doesn’t think you’ve gone off the deep end. Now stand in front of the mirror and flash a few smiles.
 
-When meeting groups of people, grace each with a distinct smile. Let your smiles grow out of the beauty big players find in each new face. If one person in a group is more important to you than the others, reserve an especially big, flooding smile just for him or her. In defense of the quickie.
+Discover the subtle differences in your repertoire. Just as you would alternate saying, hello, how do you do, and. I am pleased to meet you when being introduced to a group of people, vary your smile. Don’t use the same on each.
 
-There are times, I discovered, when the quick put-on smile works. For example, when you want to engineer the acquaintance of someone to whom you have not had the opportunity to be introduced. In the vernacular, that’s pick them up. The smiles' pick-up power was proven for posterity by solemn researchers at the University of Missouri.
+Let each of your smiles reflect the nuances of your sentiment about the recipient. Technique number twenty-nine, the exclusive smile. If you flash everybody the same smile like a Confederate dollar it loses value. When meeting groups of people, grace each with a distinct smile.
 
-They conducted a highly controlled study titled, Giving Men the Come On, Effect of Eye Contact and Smiling in a Bar
+Let your smiles grow out of the beauty big players find in each new face. If one person in a group is more important to you than the others, reserve an especially big, flooding smile just for him or her. In defense of the quickie. There are times, I discovered, when the quick put-on smile works.
+
+For example, when you want to engineer the acquaintance of someone to whom you have not had the opportunity to be introduced. In the vernacular, that’s pick them up. The smiles' pick-up power was proven for posterity by solemn researchers at the University of Missouri. They conducted a highly controlled study titled, Giving Men the Come.
+
+On, Effect of Eye Contact and Smiling in a Bar
 
 
 <a id="sec-032157"></a>
@@ -1434,21 +1550,23 @@ Oh, I hope he’s not a jerk like all the others. One of the quickest ways to ma
 
 Oh, sure, just like the rest of us, big winners find themselves feeling fit as a fiddle, happy as a lark, or high as a kite. Like the rest of humanity, they consider some of their acquaintances crazy as a loon, nutty as a fruitcake, or blind as a bat. Because many of them work hard, many of them are as busy as a bee, and get rich as Croesus. Yet would any of them describe themselves in those words?
 
-Not in a coon’s age. Why? Because when a big winner hears your cliche, you might as well be saying, My powers of imagination are impoverished. I can’t think of anything original to say, so I must fall back on these trite, overworn phrases.
+Not in a coon’s age. Why? Because when a big winner hears your cliche, you might as well be saying, My powers of imagination are impoverished. I can’t think of anything original to say, so.
 
-Mouthing a common cliche around uncommonly successful people brands you as uncommonly common. Don’t touch a cliche with a ten-foot pole. Be on guard. Don’t use any cliches when chatting with big winners.
+I must fall back on these trite, overworn phrases. Mouthing a common cliche around uncommonly successful people brands you as uncommonly common. Don’t touch a cliche with a ten-foot pole. Be on guard.
 
-Don’t even touch one with a ten-foot pole. Never? Not even when hell freezes over? Not unless you want to sound dumb as a doorknob.
+Don’t use any cliches when chatting with big winners. Don’t even touch one with a ten-foot pole. Never? Not even when hell freezes over?
 
-Instead of coughing up a cliche, roll your own clever phrases by using the next technique. 31. How to use motivational speakers techniques to enhance your conversation. They say the pen is mightier than the sword. It is, but the tongue is even mightier than the pen.
+Not unless you want to sound dumb as a doorknob. Instead of coughing up a cliche, roll your own clever phrases by using the next technique. 31. How to use motivational speakers techniques to enhance your conversation. They say the pen is mightier than the sword.
 
-Our tongues can bring crowds to laughter, to tears, and often to their feet in shouting appreciation. Orders have moved nations to war or brought lost souls to God. And what is their equipment? The same eyes, ears, hands, legs, arms, and vocal cords you and I have.
+It is, but the tongue is even mightier than the pen. Our tongues can bring crowds to laughter, to tears, and often to their feet in shouting appreciation. Orders have moved nations to war or brought lost souls to God. And what is their equipment?
 
-Perhaps a professional athlete has a stronger body or a professional singer is blessed with a more beautiful singing voice than the one we were doled out, but the professional speaker starts out with the same equipment we all have. The difference is these jaw smiths use it all. They use their hands, they use their bodies, and they use specific gestures with heavy impact. They think about the space they’re talking in.
+The same eyes, ears, hands, legs, arms, and vocal cords you and. I have. Perhaps, a professional athlete has a stronger body or a professional singer is blessed with a more beautiful singing voice than the one we were doled out, but the professional speaker starts out with the same equipment we all have. The difference is these jaw smiths use it all.
 
-They employ many different tones of voice. They invoke various expressions. They vary the speed with which they speak, and they make effective use of silence. You may not have to make a formal speech any time soon, but chances are sometime, probably very soon, you’re going to want people to see things your way.
+They use their hands, they use their bodies, and they use specific gestures with heavy impact. They think about the space they’re talking in. They employ many different tones of voice. They invoke various expressions.
 
-Whether it’s persuading your family to spend their next vacation at grandma’s or convincing the stockholders in your multi-million dollar corporation that it’s time to do a takeover, do it like a pro. Get a book or two on public speaking and learn some of the tricks of the trade, then put some of that drama into your everyday conversation. A gem for every occasion.
+They vary the speed with which they speak, and they make effective use of silence. You may not have to make a formal speech any time soon, but chances are sometime, probably very soon, you’re going to want people to see things your way. Whether it’s persuading your family to spend their next vacation at grandma’s or convincing the stockholders in your multi-million dollar corporation that it’s time to do a takeover, do it like a pro. Get a book or two on public speaking and learn some of the tricks of the trade, then put some of that drama into your everyday conversation.
+
+A gem for every occasion.
 
 
 <a id="sec-032657"></a>
@@ -1460,15 +1578,17 @@ W. Bush had said, “I promise not to raise taxes, or Johnny Cochran, during O.�
 
 If you’re not careful, your enemies will later use them against you. Read my lips. One of my favorite speakers is a radio broadcaster named Barry Farber, who brightens up late-night radio with sparkling similes. Barry would never use a cliche like, nervous as a cat on a hot tin roof.
 
-He’d describe being nervous about losing his job as, I felt like an elephant dangling over a cliff with his tail tied to a daisy. Instead of saying he looked at a pretty woman, he’d say, my eyeballs popped out and dangled by the optic nerve.
+He’d describe being nervous about losing his job as, I felt like an elephant dangling over a cliff with his tail tied to a daisy. Instead of saying he looked at a pretty woman, he’d say, my eyeballs popped out and dangled by the optic nerve. When.
 
-When I first met him, I asked, “Mr.” Farber, how do you come up with these phrases? My daddy’s Mr. Farber. I’m Barry, he chided, his way of saying, call me Barry. He then candidly admitted, although some of his phrases are original, many are borrowed.
+I first met him, I asked, “Mr.” Farber, how do you come up with these phrases? My daddy’s Mr. Farber. I’m Barry, he chided, his way of saying, call me Barry.
 
-Elvis Presley used to say, my daddy’s Mr. Presley, call me Elvis. Like all professional speakers, Barry spends several hours a week, leaning through books of quotations and humor. All professional speakers do. They collect bon-mo they can use in a variety of situations, most especially to scrape egg off their faces when something unexpected happens.
+He then candidly admitted, although some of his phrases are original, many are borrowed. Elvis Presley used to say, my daddy’s Mr. Presley, call me Elvis. Like all professional speakers, Barry spends several hours a week, leaning through books of quotations and humor.
 
-Many speakers use authors and speakers agent Lily Walters’s FaceSaver Lines from her book, What to Say When You’re Dying on the Platform. If you tell a joke, and no one laughs, try. That joke was designed to get a silent laugh, and it worked. If the microphone lets out an agonizing howl, look at it and say, I don’t understand, I brushed my teeth this morning.
+All professional speakers do. They collect bon-mo they can use in a variety of situations, most especially to scrape egg off their faces when something unexpected happens. Many speakers use authors and speakers agent Lily Walters’s FaceSaver Lines from her book, What to Say. When You’re Dying on the Platform.
 
-If someone asks you a question you don’t want to answer, could you save that question until I’m finished and well on my way home? All pros think of holes they might fall into and then memorize great escape lines. You can do the same. Look through books of similes to enrich your day-to-day conversations.
+If you tell a joke, and no one laughs, try. That joke was designed to get a silent laugh, and it worked. If the microphone lets out an agonizing howl, look at it and say, I don’t understand, I brushed my teeth this morning. If someone asks you a question you don’t want to answer, could you save that question until.
+
+I’m finished and well on my way home? All pros think of holes they might fall into and then memorize great escape lines. You can do the same. Look through books of similes to enrich your day-to-day conversations.
 
 Instead of happy as a lark, try happy as a lottery winner, or happy as a baby with its first ice cream cone. Instead of bald as an eagle, try bald as a new marine, or bald as a bullfrog’s belly. Instead of quiet as a mouse, try quiet as an eel swimming in oil, or quiet as a fly lighting on a feather duster. Find phrases that have visual impact.
 
@@ -1478,41 +1598,45 @@ If you’re talking with a man walking his dog, as sure as your dog is thinking 
 
 For example, if you’re going to a meeting on the budget, look up money in a quotation book. In an uptight business situation, a little levity shows you’re at ease. Once, during an oppressive financial meeting, I heard a top executive say, don’t worry, this company has enough money to stay in business for years, unless we pay our creditors. He broke the tension and won the appreciation of all.
 
-Later I saw a similar quote in a humor book attributed to Jackie Mason, the comedian. So what? The exec still came across as a cool communicator with his clever comment. Big players who want to be quoted in the media lie awake at night gnawing the pillow, trying to come up with phrases the press will pick up.
+Later. I saw a similar quote in a humor book attributed to Jackie Mason, the comedian. So what? The exec still came across as a cool communicator with his clever comment.
 
-A Michigan veterinarian named Timothy, a heavy hitter in his own field, but completely unknown outside of it, made national headlines when he planned to attach a pair of feet to a rooster who lost his to frostbite.
+Big players who want to be quoted in the media lie awake at night gnawing the pillow, trying to come up with phrases the press will pick up. A Michigan veterinarian named Timothy, a heavy hitter in his own field, but completely unknown outside of it, made national headlines when he planned to attach a pair of feet to a rooster who lost his to frostbite.
 
 
 <a id="sec-033208"></a>
 ### ⏱️ [03:32:08 - 03:37:19]
 
-Why? Because he called it a drumstick transplant. I don’t know if a French woman, Jeanne Colmont, then officially the world’s oldest person, was looking for publicity on her 122nd birthday. But she made international headlines when she told the media, I’ve only ever had one wrinkle and I’m sitting on it.
+Why? Because he called it a drumstick transplant. I don’t know if a French woman, Jeanne Colmont, then officially the world’s oldest person, was looking for publicity on her 122nd birthday. But she made international headlines when she told the media, I’ve only ever had one wrinkle and.
 
-Mark Victor Hansen, a big player in his own field, but once relatively unknown outside of it, was propelled into national prominence when he came up with a catchy name for his book, co-authored with Jack Canfield, Chicken Soup for the Soul. He told me his original title was 101 Pretty Stories. How far would that have gone? Soon the world was lapping up among others his Chicken Soup for the Woman Soul, Chicken Soup for the Teenage Soul, Chicken Soup for the Mother’s Soul, Chicken Soup for the Christian Soul, plus second, third, and fourth servings of Chicken Soup in hardcover, paperback, audio, video, and calendars.
+I’m sitting on it. Mark Victor Hansen, a big player in his own field, but once relatively unknown outside of it, was propelled into national prominence when he came up with a catchy name for his book, co-authored with Jack Canfield, Chicken Soup for the Soul. He told me his original title was 101 Pretty Stories. How far would that have gone?
 
-Technique number 31. Use Jawsmith’s Jive. Whether you’re standing behind a podium facing thousands or behind the barbecue grill facing your family, you’ll move, amuse, and motivate with the same skills. Read speakers' books to cull quotations, pull pearls of wisdom, and get gems to tickle their funny bones.
+Soon the world was lapping up among others his Chicken Soup for the Woman Soul, Chicken Soup for the Teenage Soul, Chicken Soup for the Mother’s Soul, Chicken Soup for the Christian Soul, plus second, third, and fourth servings of Chicken Soup in hardcover, paperback, audio, video, and calendars. Technique number 31. Use Jawsmith’s Jive. Whether you’re standing behind a podium facing thousands or behind the barbecue grill facing your family, you’ll move, amuse, and motivate with the same skills.
 
-Find a few bonements to let casually slide off your tongue on chosen occasions. If you want to be notable, dream up a crazy quotable. Make them rhyme, make them clever, or make them funny. Above all, make them relevant.
+Read speakers' books to cull quotations, pull pearls of wisdom, and get gems to tickle their funny bones. Find a few bonements to let casually slide off your tongue on chosen occasions. If you want to be notable, dream up a crazy quotable. Make them rhyme, make them clever, or make them funny.
 
-A word of warning. No matter how good your material is, it bombs if it doesn’t fit the situation. I learned this the hard way during my cruise ship days. On a cruise to England, I decided to give my passengers a reading of the English love poems of Elizabeth Barrett and Robert Browning.
+Above all, make them relevant. A word of warning. No matter how good your material is, it bombs if it doesn’t fit the situation. I learned this the hard way during my cruise ship days.
 
-You know, how do I love thee? Let me count the ways. It was a big hit. The passengers loved it and raved for days.
+On a cruise to England, I decided to give my passengers a reading of the English love poems of Elizabeth Barrett and Robert Browning. You know, how do. I love thee? Let me count the ways.
 
-I couldn’t walk out on deck without some passenger turning to me and affectionately echoing, how do I love thee? Naturally, I got a pretty swollen head over this performance and fancied myself an eminent poetry reader. I decided to reward the passengers on the next cruise, which was a cruise to the Caribbean and didn’t go anywhere in the neighborhood of England, with my spectacular reading of the English love poems. What a bomb! Passengers avoided me on the deck for the rest of the cruise.
+It was a big hit. The passengers loved it and raved for days. I couldn’t walk out on deck without some passenger turning to me and affectionately echoing, how do. I love thee?
+
+Naturally, I got a pretty swollen head over this performance and fancied myself an eminent poetry reader. I decided to reward the passengers on the next cruise, which was a cruise to the Caribbean and didn’t go anywhere in the neighborhood of England, with my spectacular reading of the English love poems. What a bomb! Passengers avoided me on the deck for the rest of the cruise.
 
 How did you bore me? Let me count the ways. If you stepped into an elevator full of people speaking Hungarian, you might not recognize they were Hungarian unless you spoke their language.
 
 However, the minute you opened your mouth, they’d recognize you’re not Hungarian. It’s the same with the big cats. If you overhear several of them speaking, you might not recognize they’re big cats.
 
-However, the minute you opened your mouth, they’d recognize you’re not a big cat unless you spoke their lingo. What are some differences between a big cat’s growl and a little cat’s insignificant hiss? One of the most blatant is euphemisms. Big cats aren’t afraid of real words. They call a spade a spade.
+However, the minute you opened your mouth, they’d recognize you’re not a big cat unless you spoke their lingo. What are some differences between a big cat’s growl and a little cat’s insignificant hiss? One of the most blatant is euphemisms. Big cats aren’t afraid of real words.
 
-Words like toilet paper don’t scare them. Little cats hide behind bathroom tissue. If somebody is rich, big cats call it rich. Little cats, oh so embarrassed at the concept of talking about money and polite company, substitute the word wealthy.
+They call a spade a spade. Words like toilet paper don’t scare them. Little cats hide behind bathroom tissue. If somebody is rich, big cats call it rich.
 
-When little cats use a substitute word or euphemism, they might as well be saying, whoops, you are better than I am. I’m in polite company now, and so I’ll use the nicey-nice word. Big cats are anatomically correct. No cutesy words for body parts.
+Little cats, oh so embarrassed at the concept of talking about money and polite company, substitute the word wealthy. When little cats use a substitute word or euphemism, they might as well be saying, whoops, you are better than. I am. I’m in polite company now, and so.
 
-They’ll say breasts when they mean breasts. When they say knockers, they mean decorative structures that hang on the front door. And family jewels are in the safe on the wall. If a big cat is ever in doubt about a word, he or she simply resorts to French.
+I’ll use the nicey-nice word. Big cats are anatomically correct. No cutesy words for body parts. They’ll say breasts when they mean breasts.
 
-If they feel the word bodux is debatable, derriere will do quite nicely, thank you. Technique number thirty-two. Call a spade a spade. Don’t hide behind euphemisms. Call a spade a spade.
+When they say knockers, they mean decorative structures that hang on the front door. And family jewels are in the safe on the wall. If a big cat is ever in doubt about a word, he or she simply resorts to French. If they feel the word bodux is debatable, derriere will do quite nicely, thank you.
+
+Technique number thirty-two. Call a spade a spade. Don’t hide behind euphemisms. Call a spade a spade.
 
 That doesn’t mean big cats use tasteless four-letter words when perfectly decent five- and six-letter ones exist. They’ve simply learned the king’s English, and they speak it.
 
@@ -1520,11 +1644,11 @@ That doesn’t mean big cats use tasteless four-letter words when perfectly dece
 <a id="sec-033719"></a>
 ### ⏱️ [03:37:19 - 03:42:21]
 
-Here’s another way to tell the big players from the little ones just by listening to a few minutes of their conversation. Thirty-three. How to avoid the world’s worst conversational habit. Once I was at a small dinner party given by the president of an advertising agency, Lewis, and his wife Lillian.
+Here’s another way to tell the big players from the little ones just by listening to a few minutes of their conversation. Thirty-three. How to avoid the world’s worst conversational habit. Once.
 
-The evening started with cocktails, followed by a gourmet meal accompanied by a selection of excellent wines. The conversation had been convivial, the cuisine delicious, and the wine very fine, and very plentiful. At the end of the evening, Lewis raised his glass to make a toast. A few wine droplets sloshed out of his glass onto the tablecloth.
+I was at a small dinner party given by the president of an advertising agency, Lewis, and his wife Lillian. The evening started with cocktails, followed by a gourmet meal accompanied by a selection of excellent wines. The conversation had been convivial, the cuisine delicious, and the wine very fine, and very plentiful. At the end of the evening, Lewis raised his glass to make a toast.
 
-A pretty young woman who was the date of a new art director named Bob giggled and said, “I can tell you’re feeling no pain.” Shock waves went around the table. Everyone froze. The host was indeed a bit inebriated.
+A few wine droplets sloshed out of his glass onto the tablecloth. A pretty young woman who was the date of a new art director named Bob giggled and said, “I can tell you’re feeling no pain.” Shock waves went around the table. Everyone froze. The host was indeed a bit inebriated.
 
 However, alluding to Lewis being a little looped, even in jest, was as though the woman had suddenly smashed the crystal chandelier above the table with her dinner plate. One guest quickly covered the girl’s horrifying gaffe by lifting her glass and saying, none of us is. No one in the company of Lewis and Lillian could ever feel any pain. Here’s to a truly wonderful evening.
 
@@ -1536,17 +1660,17 @@ A dead giveaway of a little cat is his or her proclivity to tease. An innocent j
 
 You’ll wind up paying for it, dearly. Thirty-four. How to give them the bad news, and have them like you all the more. In ancient Egypt, the Pharaoh treated the humblest message-runner like a prince when he arrived at the palace, if he brought good news.
 
-However, if the exhausted runner had the misfortune to bring the Pharaoh on happy news, his head was chopped off. Shades of that spirit pervade today’s conversations. Once a friend and I packed up some peanut butter and jelly sandwiches for an outing.
+However, if the exhausted runner had the misfortune to bring the Pharaoh on happy news, his head was chopped off. Shades of that spirit pervade today’s conversations. Once a friend and. I packed up some peanut butter and jelly sandwiches for an outing.
 
 As we waltzed happily out the door, picnic basket in hand, a smiling neighbor, rocking away on his porch, looked up at the sky and said, “Oh, boy, bad day for a picnic.” The news cat says it’s gonna rain. I wanted to rub his face in my peanut butter and jelly sandwich. Not for his gloomy weather report. For his smile.
 
-Several months ago I was racing to catch a bus. As I breathlessly shoved my handful of cash across the greyhound counter, the grinning sales agent gushed, Oh, that bus left five minutes ago. Dreams of decapitation. It’s not the news that makes someone angry.
+Several months ago. I was racing to catch a bus. As. I breathlessly shoved my handful of cash across the greyhound counter, the grinning sales agent gushed, Oh, that bus left five minutes ago.
 
-It’s the unsympathetic attitude with which it’s delivered. Everyone must give bad news from time to time, and winning professionals do it with the proper attitude. A doctor advising a patient she needs an operation does it with compassion. A boss informing an employee he didn’t get the job takes on a sympathetic demeanor.
+Dreams of decapitation. It’s not the news that makes someone angry. It’s the unsympathetic attitude with which it’s delivered. Everyone must give bad news from time to time, and winning professionals do it with the proper attitude.
 
-Grief counselors at airports after fatal crashes share the grief-stricken sentiment of relatives. Big winners know, when delivering any bad news, they should share the sentiment of the receiver. Unfortunately, many people are not aware of this sensitivity. When you’re weary from a long flight, has a hotel clerk cheerfully chirped that your room isn’t ready yet?
+A doctor advising a patient she needs an operation does it with compassion. A boss informing an employee he didn’t get the job takes on a sympathetic demeanor. Grief counselors at airports after fatal crashes share the grief-stricken sentiment of relatives. Big winners know, when delivering any bad news, they should share the sentiment of the receiver.
 
-When you had your heart set on the roast beef, has your waiter merrily warbled that he just served the last piece? When you needed cash for the weekend, has your bank teller gleefully told you your account is overdrawn?
+Unfortunately, many people are not aware of this sensitivity. When you’re weary from a long flight, has a hotel clerk cheerfully chirped that your room isn’t ready yet? When you had your heart set on the roast beef, has your waiter merrily warbled that he just served the last piece? When you needed cash for the weekend, has your bank teller gleefully told you your account is overdrawn?
 
 
 <a id="sec-034221"></a>
@@ -1566,13 +1690,13 @@ During dessert, she leaned over to Barbara and in a hushed voice asked, “Barba
 
 Barbara had shown her big winner’s badge by using the broken record technique, the most effective way to curtail an unwelcome cross-examination. Technique number 35 The Broken Record Whenever someone persists in questioning you on an unwelcome subject, simply repeat your original response. Use precisely the same words, in precisely the same tone of voice. Hearing it again usually quiets them down.
 
-If your rude interrogator hangs on like a leech, your next repetition never fails to flick them off. 36 How to Talk to a Celebrity Suppose you’ve just settled in for dinner at a nice restaurant. You look over at the next table, and who do you see? Is it really he? Could it possibly be?
+If your rude interrogator hangs on like a leech, your next repetition never fails to flick them off. 36. How to Talk to a Celebrity Suppose you’ve just settled in for dinner at a nice restaurant. You look over at the next table, and who do you see? Is it really he?
 
-It’s got to be a lookalike. No, it isn’t. It really is. Woody Allen, substitute any celebrity here, your favorite movie star, politician, broadcaster, boss who owns the company that owns the company you work for.
+Could it possibly be? It’s got to be a lookalike. No, it isn’t. It really is.
 
-And there the celestial body is, in the flesh, sitting not ten feet from you. What should you do? Nothing. Quick shots don’t slobber over stars.
+Woody Allen, substitute any celebrity here, your favorite movie star, politician, broadcaster, boss who owns the company that owns the company you work for. And there the celestial body is, in the flesh, sitting not ten feet from you. What should you do? Nothing.
 
-Let the luminary enjoy a brief moment of anonymity. If he or she should cast a glance in your direction, give a smile and a nod, then waft your gaze back to your dining companion. You will be a lot cooler in the eyes of your dinner partner if you take it all in your stride.
+Quick shots don’t slobber over stars. Let the luminary enjoy a brief moment of anonymity. If he or she should cast a glance in your direction, give a smile and a nod, then waft your gaze back to your dining companion. You will be a lot cooler in the eyes of your dinner partner if you take it all in your stride.
 
 Now, if you just can’t resist this once-in-a-lifetime opportunity to press the flesh of the megastar
 
@@ -1580,29 +1704,31 @@ Now, if you just can’t resist this once-in-a-lifetime opportunity to press the
 <a id="sec-034724"></a>
 ### ⏱️ [03:47:24 - 03:52:25]
 
-and tell him or her of your admiration, here’s how to do it with grace. Wait until you or the luminary are leaving the restaurant. After the check has been paid, and you will obviously not be taking much of his or her time, you may make your approach. Say something like, Mr. Allen, I just want to tell you how much pleasure your wonderful films have given me over the years.
+and tell him or her of your admiration, here’s how to do it with grace. Wait until you or the luminary are leaving the restaurant. After the check has been paid, and you will obviously not be taking much of his or her time, you may make your approach. Say something like, Mr.
 
-Thank you so much. Did you pick up the subtlety here? You are not complimenting his work. After all, he might well ask himself, who are you to judge whether I am a great filmmaker or not?
+Allen, I just want to tell you how much pleasure your wonderful films have given me over the years. Thank you so much. Did you pick up the subtlety here? You are not complimenting his work.
 
-You can only speak from your own perspective. You do this by telling him how much pleasure his work has given you. If it’s your boss’s, boss’s, boss’s boss, whom the fates have sent to bask in your adulation, do the same. Do not say Bill or Mr. Gates, you really run a great company.
+After all, he might well ask himself, who are you to judge whether. I am a great filmmaker or not? You can only speak from your own perspective. You do this by telling him how much pleasure his work has given you.
 
-Lowly geek, he thinks, who are you to judge? Instead, tell him what an honor it is to work for him. Obviously, this is not the moment to detail the intricacies of your improvements on image editing software for digitizing photographs. Then let your body language express that if Woody or Bill or the other megastar wants to leave it at that, you are happy with the exchange.
+If it’s your boss’s, boss’s, boss’s boss, whom the fates have sent to bask in your adulation, do the same. Do not say Bill or Mr. Gates, you really run a great company. Lowly geek, he thinks, who are you to judge?
 
-If however the megastar is captivated by you, Ora’s had so much liquid merriment that he or she has decided to mingle with the masses tonight, then all bets are off, you’re on your own, enjoy. Until you pick up the first body language sign that they would like to end it. Think of yourself as a ballroom dance student waltzing with your teacher. He leads, you follow, and he tells you when the waltz is over.
+Instead, tell him what an honor it is to work for him. Obviously, this is not the moment to detail the intricacies of your improvements on image editing software for digitizing photographs. Then let your body language express that if Woody or Bill or the other megastar wants to leave it at that, you are happy with the exchange. If however the megastar is captivated by you, Ora’s had so much liquid merriment that he or she has decided to mingle with the masses tonight, then all bets are off, you’re on your own, enjoy.
 
-Incidentally, if the megastar is with a companion and your conversation goes on for more than a few moments, direct some comments at the companion. If the satellite is in such stellar company, he or she is probably also an accomplished person. Felicia, a friend of mine, is a talented trial lawyer who is married to a local TV show host because Tom is on television, people recognize him wherever they go, and Felicia gets ignored. Felicia tells me how frustrating it is even for Tom.
+Until you pick up the first body language sign that they would like to end it. Think of yourself as a ballroom dance student waltzing with your teacher. He leads, you follow, and he tells you when the waltz is over. Incidentally, if the megastar is with a companion and your conversation goes on for more than a few moments, direct some comments at the companion.
 
-Whenever they go to a party, people gush all over Tom, and Felicia’s fascinating work hardly ever gets mentioned. She and Tom used to love going out to dinner, but now they hide out at home in the evenings. Why? Because they can’t stand the interruptions of overly effervescent fans.
+If the satellite is in such stellar company, he or she is probably also an accomplished person. Felicia, a friend of mine, is a talented trial lawyer who is married to a local TV show host because Tom is on television, people recognize him wherever they go, and Felicia gets ignored. Felicia tells me how frustrating it is even for Tom. Whenever they go to a party, people gush all over Tom, and Felicia’s fascinating work hardly ever gets mentioned.
 
-I love what you used to be, you has been. Another sensitivity. The film star is probably obsessed with his last film, the politician with her last election, a corporate mogul with his last takeover, an author with her last novel, and so forth. So when discussing the stars, the politicians, the moguls, the authors, or any VIPs work, try to keep your comments to current or recent work.
+She and Tom used to love going out to dinner, but now they hide out at home in the evenings. Why? Because they can’t stand the interruptions of overly effervescent fans. I love what you used to be, you has been.
 
-Telling Woody Allen how much you loved his 1980 film Stardust Memories would not endear you to him. What about all my wonderful films since? thinks he. Stick to the present or very recent past if possible. Big Shots Don’t Slobber People who are VIPs in their own right don’t slobber over celebrities.
+Another sensitivity. The film star is probably obsessed with his last film, the politician with her last election, a corporate mogul with his last takeover, an author with her last novel, and so forth. So when discussing the stars, the politicians, the moguls, the authors, or any VIPs work, try to keep your comments to current or recent work. Telling Woody Allen how much you loved his 1980 film Stardust Memories would not endear you to him.
 
-When you are chatting with one, don’t compliment her work, simply say how much pleasure or insight it’s given you. If you do single out any one of the star’s accomplishments, make sure it’s a recent one, not a memory that’s getting yellow in her scrapbook. If the Queen Bee has a drone sitting with her, find a way to involve him in the conversation. A final celebrity codicil Suppose you are fortunate enough to have one at your party.
+What about all my wonderful films since? thinks he. Stick to the present or very recent past if possible. Big Shots Don’t Slobber People who are VIPs in their own right don’t slobber over celebrities. When you are chatting with one, don’t compliment her work, simply say how much pleasure or insight it’s given you.
 
-To shine some starlight on your party, don’t ask the TV host to say a few words. Don’t ask the singer to sing a song. What looks effortless to the rest of us because they seem so comfortable performing is work for them. You wouldn’t ask an accountant guest to look over your books or a dentist to check out your third left molar.
+If you do single out any one of the star’s accomplishments, make sure it’s a recent one, not a memory that’s getting yellow in her scrapbook. If the Queen Bee has a drone sitting with her, find a way to involve him in the conversation. A final celebrity codicil Suppose you are fortunate enough to have one at your party. To shine some starlight on your party, don’t ask the TV host to say a few words.
 
-Let the dignitary drink, let the luminary laugh. Celebrities are people too and they like their time off. 37 How to Make Them Want to Thank You To wrap up our section on sounding like the big boys and big girls, here is a simple and gracious little maneuver.
+Don’t ask the singer to sing a song. What looks effortless to the rest of us because they seem so comfortable performing is work for them. You wouldn’t ask an accountant guest to look over your books or a dentist to check out your third left molar. Let the dignitary drink, let the luminary laugh.
+
+Celebrities are people too and they like their time off. 37. How to Make Them Want to Thank. You To wrap up our section on sounding like the big boys and big girls, here is a simple and gracious little maneuver.
 
 
 <a id="sec-035225"></a>
@@ -1616,23 +1742,25 @@ Is that the same thank you you want to give a valued customer who makes a big pu
 
 Thank you for being so understanding. Thank you for waiting. Thank you for being such a good customer. Thank you for being so loving.
 
-Often when I disembark an airplane, the captain and first officer are standing by the cockpit door to bid the passengers farewell. I say, thanks for getting us here. Admittedly that’s carrying never the naked thank you technique to extremes, but it has a surprising effect. They fall all over themselves with, oh, thanks for flying with us.
+Often when. I disembark an airplane, the captain and first officer are standing by the cockpit door to bid the passengers farewell. I say, thanks for getting us here. Admittedly that’s carrying never the naked thank you technique to extremes, but it has a surprising effect.
 
-Technique number thirty-seven. Never the naked thank you. Never let the phrase thank you stand alone. From A to Z, always follow it with four.
+They fall all over themselves with, oh, thanks for flying with us. Technique number thirty-seven. Never the naked thank you. Never let the phrase thank you stand alone.
 
-From thank you for asking, to thank you for zipping me up. Thank you for listening to this section of how to talk to anyone. Now let us move on to another conversation challenge. How to talk knowledgeably with everyone, from groups of accountants to Zen Buddhists, no matter how little you might have in common.
+From A to Z, always follow it with four. From thank you for asking, to thank you for zipping me up. Thank you for listening to this section of how to talk to anyone. Now let us move on to another conversation challenge.
 
-Number four. How to be an insider in any crowd. What are they all talking about? Has it ever happened to you?
+How to talk knowledgeably with everyone, from groups of accountants to Zen Buddhists, no matter how little you might have in common. Number four. How to be an insider in any crowd. What are they all talking about?
 
-Everyone at the party is speaking gobbledygook. They’re all discussing faulty audits, code constraints, or the library market, and you have no idea what they’re talking about. It’s because everybody at the party is an accountant, an architect, or a publisher, and you’re not. So you stand there with a pasty smile on your face, not opening your mouth.
+Has it ever happened to you? Everyone at the party is speaking gobbledygook. They’re all discussing faulty audits, code constraints, or the library market, and you have no idea what they’re talking about. It’s because everybody at the party is an accountant, an architect, or a publisher, and you’re not.
 
-If you do, you fear the wrong thing will come out. Paranoia sets in. Everybody will snicker at you. You’re an outsider.
+So you stand there with a pasty smile on your face, not opening your mouth. If you do, you fear the wrong thing will come out. Paranoia sets in. Everybody will snicker at you.
 
-So you suffer in silence. In high school, I suffered a massive case of silent outsider syndrome, especially around males. All they wanted to talk about was cars. I knew nothing about cars.
+You’re an outsider. So you suffer in silence. In high school, I suffered a massive case of silent outsider syndrome, especially around males. All they wanted to talk about was cars.
 
-The only time I’d ever set foot in a body shop was to get a suntan. Well, one fateful day, Mama came home with a gift for me that transformed my teenage existence from shy to sociable. It was a book on all the current model cars and their differences over and under the hood. One reading, and I became fluent in Fords, Chevys, and Buicks.
+I knew nothing about cars. The only time. I’d ever set foot in a body shop was to get a suntan. Well, one fateful day, Mama came home with a gift for me that transformed my teenage existence from shy to sociable.
 
-I no longer hyperventilated when boys said words like carburetor, alternator, camshaft, or exhaust manifold. I didn’t need to learn a lot, just enough to ask the right questions to get the guys talking. When I’d learned to speak car with the boys, it worked wonders for my social life. Cut to today.
+It was a book on all the current model cars and their differences over and under the hood. One reading, and. I became fluent in Fords, Chevys, and Buicks. I no longer hyperventilated when boys said words like carburetor, alternator, camshaft, or exhaust manifold.
+
+I didn’t need to learn a lot, just enough to ask the right questions to get the guys talking. When. I’d learned to speak car with the boys, it worked wonders for my social life. Cut to today.
 
 We grown-up boys and girls also have our favorite topics that usually involve our work or our hobbies. When we’re with people in our own field or who share our interests, we open up like small-town gossips. Even engineers who have a constant case of cat-got-their-tongue start gabbing about greasy turbines and various projects when they’re together. To outsiders, our conversation sounds like gobbledygook.
 
@@ -1650,41 +1778,43 @@ As they say in poker, it takes jacks or better to open. And in conversation, it 
 
 How to be a modern-day Renaissance man or woman. Whenever friends visit my hometown, New York City, I warn them, never ask anyone riding in the subway for directions.
 
-“'Because I’ll get mugged,' they fearfully ask. ”'No, just because you’ll never get where you’re going.' Most Big Apple subway riders know only two things about the subway, where they get on and where they get off. They know nothing about the rest of the system. Most people are like NYC strap-hangers when it comes to their hobbies and interests. They know their own pastimes, but all the others are like unvisited stations.
+“'Because. I’ll get mugged,' they fearfully ask. ”'No, just because you’ll never get where you’re going.' Most Big Apple subway riders know only two things about the subway, where they get on and where they get off. They know nothing about the rest of the system. Most people are like NYC strap-hangers when it comes to their hobbies and interests.
 
-My unmarried and wishing-she-worrent friend Rita has a bad case of bowler’s thumb. Every Wednesday night she’s bowling up a storm with her friends. She is forever discussing her scores, her averages, and her high game. Another single and searching friend Walter is into whitewater rafting.
+They know their own pastimes, but all the others are like unvisited stations. My unmarried and wishing-she-worrent friend Rita has a bad case of bowler’s thumb. Every Wednesday night she’s bowling up a storm with her friends. She is forever discussing her scores, her averages, and her high game.
 
-He talks endlessly with his paddling friends about which rivers he’s run, which outfitters he’s gone with, and which class rapids he prefers. Thinking my two single friends might hit it off, I introduced Walter the paddler to Rita the bowler and mentioned their respective passions.
+Another single and searching friend Walter is into whitewater rafting. He talks endlessly with his paddling friends about which rivers he’s run, which outfitters he’s gone with, and which class rapids he prefers. Thinking my two single friends might hit it off, I introduced Walter the paddler to Rita the bowler and mentioned their respective passions.
 
 “'Oh, you’re a bowler,' said Walter. ”'Yes,' Rita smiled demerly, awaiting more questions about her big bowling turn-on.“ Walter was silent. Masking her disappointment, Rita said, ”'Um, Leo tells me you’re into water rafting.' Walter smiled proudly, awaiting further friendly…
 
 “ interrogation on paddling. Uh, that must be exciting. Isn’t it dangerous?” was the best Rita could do. No, it’s not dangerous.
 
-Walter patronizingly responded to her typical outsider’s question. Then the conversation died. During the deafening silence I remember thinking, if Rita had run just one river, if Walter had bowled just one game, their lives might be different now. Conversation could have flowed and who knows what else might have flowered.
+Walter patronizingly responded to her typical outsider’s question. Then the conversation died. During the deafening silence. I remember thinking, if Rita had run just one river, if Walter had bowled just one game, their lives might be different now.
 
-Go fly a kite! The scramble therapy technique is salvation from such disappointing encounters. It will transform you into a modern-day Renaissance man or woman who comfortably can discuss a variety of interests. Scramble therapy is, quite simply, scrambling up your life and participating in an activity you’d never think of indulging in.
+Conversation could have flowed and who knows what else might have flowered. Go fly a kite! The scramble therapy technique is salvation from such disappointing encounters. It will transform you into a modern-day Renaissance man or woman who comfortably can discuss a variety of interests.
 
-Just one out of every four weekends, do something totally out of your pattern. Do you usually play tennis on weekends? This weekend, go hiking. Do you usually go hiking?
+Scramble therapy is, quite simply, scrambling up your life and participating in an activity you’d never think of indulging in. Just one out of every four weekends, do something totally out of your pattern. Do you usually play tennis on weekends? This weekend, go hiking.
 
-This weekend, take a tennis lesson. Do you bowl? Leave that to your buddies this time. Instead, go white water rafting.
+Do you usually go hiking? This weekend, take a tennis lesson. Do you bowl? Leave that to your buddies this time.
 
-Oh, you were planning on running some rapids like you do every warm weekend? Forget it. Go bowling. Go to a stamp exhibition.
+Instead, go white water rafting. Oh, you were planning on running some rapids like you do every warm weekend? Forget it. Go bowling.
 
-Go to a chess lecture. Go ballooning. Go birdwatching. Go to a pool hall.
+Go to a stamp exhibition. Go to a chess lecture. Go ballooning. Go birdwatching.
 
-Go kayaking. Go fly a kite. Why? Because it will give you conversational fodder for the rest of your life.
+Go to a pool hall. Go kayaking. Go fly a kite. Why?
 
-From that weekend on, you’ll sound like an insider with all the hikers, stamp collectors, ballooners, birders, billiards players, kayakers and kiteists you ever meet, just by doing their activity once. If you take a piece of blue litmus paper and dip it in a huge vat of acid, the tip turns pink. If you take another blue litmus paper and dip it into just one minuscule drop of acid on a glass slide, the tip turns just as pink. Compare this to participating in an activity just one time.
+Because it will give you conversational fodder for the rest of your life. From that weekend on, you’ll sound like an insider with all the hikers, stamp collectors, ballooners, birders, billiards players, kayakers and kiteists you ever meet, just by doing their activity once. If you take a piece of blue litmus paper and dip it in a huge vat of acid, the tip turns pink. If you take another blue litmus paper and dip it into just one minuscule drop of acid on a glass slide, the tip turns just as pink.
 
-A sampling gives you 80% of the conversational value. You learn
+Compare this to participating in an activity just one time. A sampling gives you 80% of the conversational value. You learn
 
 
 <a id="sec-040225"></a>
 ### ⏱️ [04:02:25 - 04:07:26]
 
-the insider’s questions to ask. You start using the right terms. You’ll never be at a loss again when the subject of extracurricular interests comes up, which it always does. Do you speak scuba? I’m not a certified scuba diver.
+the insider’s questions to ask. You start using the right terms. You’ll never be at a loss again when the subject of extracurricular interests comes up, which it always does. Do you speak scuba?
 
-However, six years ago in Bermuda I saw a sign. Resort dives, $25, no scuba experience necessary. In just three hours I received the best crash course in talking with scuba divers the world offers. First I was given a quick lesson in the pool.
+I’m not a certified scuba diver. However, six years ago in Bermuda. I saw a sign. Resort dives, $25, no scuba experience necessary.
+
+In just three hours. I received the best crash course in talking with scuba divers the world offers. First. I was given a quick lesson in the pool.
 
 Then, struggling to stay erect under the weight of my oxygen tank, regulator, buoyancy compensator and weight belt, I went clumping out to the dive boat. Sitting there on the rocking dinghy fondling my mask and fins like worry beads, I overheard the certified divers asking each other insider questions. Where were you certified? Where have you dived?
 
@@ -1692,23 +1822,29 @@ Do you prefer wrecks or reefs? Ever done any night diving? Are you into underwat
 
 What’s your longest bottom time? Did you ever get the bends? This is scuba lingo. I now speak scuba.
 
-To this day, whenever I meet divers, I have the right questions to ask and subjects to discuss, and the right ones to avoid. Like how much I like seafood. That’s like telling a cat lover how much you love tender barbecued kitten. I can now ask my new friends which of the scuba hot spots they’ve been to.
+To this day, whenever. I meet divers, I have the right questions to ask and subjects to discuss, and the right ones to avoid. Like how much. I like seafood.
 
-Cozumel, Cayman, Cancun. Then, if I want to really show off, I ask if they’ve been to Truck Lagoon in the Far Pacific, the Great Barrier Reef in Australia, or the Red Sea. All the insider terms now roll comfortably off my tongue. Before my scramble therapy experience, I’d be calling their beloved wrecks and reefs sunken ships and coral.
+That’s like telling a cat lover how much you love tender barbecued kitten. I can now ask my new friends which of the scuba hot spots they’ve been to. Cozumel, Cayman, Cancun. Then, if.
 
-Understandable words, but not scuba words, not insider words. Upon meeting a scuba diver, I probably would have asked, oh scuba diving, that must be interesting. Aren’t you afraid of sharks? Not a good way to get off on the right fin with a diver.
+I want to really show off, I ask if they’ve been to Truck Lagoon in the Far Pacific, the Great Barrier Reef in Australia, or the Red Sea. All the insider terms now roll comfortably off my tongue. Before my scramble therapy experience, I’d be calling their beloved wrecks and reefs sunken ships and coral. Understandable words, but not scuba words, not insider words.
 
-Think about it. Suppose at a dinner party the table conversation turns to scuba diving. If you too had done your one time only dive, you’d ask your diving dinner companion if he likes night diving or whether he prefers diving on wrecks or reefs. He’ll never believe it when you tell him the deepest water you’ve ever submerged yourself in is your own bathtub.
+Upon meeting a scuba diver, I probably would have asked, oh scuba diving, that must be interesting. Aren’t you afraid of sharks? Not a good way to get off on the right fin with a diver. Think about it.
 
-Then you turn to the bungee jumpers seated on your left and ask him, do you prefer chest waist jumps or ankle jumps? If the conversation then changes to tennis or martial arts or chess or coin collecting or even bird watching, you can keep up and keep the conversation going. What a guy, what a gal. Technique number 38, scramble therapy.
+Suppose at a dinner party the table conversation turns to scuba diving. If you too had done your one time only dive, you’d ask your diving dinner companion if he likes night diving or whether he prefers diving on wrecks or reefs. He’ll never believe it when you tell him the deepest water you’ve ever submerged yourself in is your own bathtub. Then you turn to the bungee jumpers seated on your left and ask him, do you prefer chest waist jumps or ankle jumps?
 
-Once a month, scramble your life. Do something you’d never dream of doing. Participate in a sport, go to an exhibition, hear a lecture on something totally out of your experience. You get 80% of the right lingo, and insider questions from just one exposure. 39.
+If the conversation then changes to tennis or martial arts or chess or coin collecting or even bird watching, you can keep up and keep the conversation going. What a guy, what a gal. Technique number 38, scramble therapy. Once a month, scramble your life.
 
-How to sound like you know all about their job or hobby? Even more insidious than hobby talk is job speak or jobaldygook. I still harbor social nightmares of the evening I attended a party thrown by a couple who worked in computer database management. As I walked in the door, I overheard one chap saying to another, when the domain relational calculus is restricted to safe expressions, it’s equivalent to the terpo-relational.
+Do something you’d never dream of doing. Participate in a sport, go to an exhibition, hear a lecture on something totally out of your experience. You get 80% of the right lingo, and insider questions from just one exposure. 39. How to sound like you know all about their job or hobby?
 
-That’s all I stayed around for. I knew I wasn’t going to understand one bit or bite of conversation the rest of the evening. It made me long for the days when a mouse meant the furry little fellow who loves cheese, windows for the kind you bought drapes for, and the web with something spiders trapped flies in. I knew I was going to need some technical support if I was going to be compatible with this crowd.
+Even more insidious than hobby talk is job speak or jobaldygook. I still harbor social nightmares of the evening. I attended a party thrown by a couple who worked in computer database management. As.
 
-I decided then and there to learn some of the opening questions database management types ask each other, which I did. Now I can’t wait for a second chance at that crowd because I’m armed with questions like, what raid level are you using? And what data warehousing product do you use?
+I walked in the door, I overheard one chap saying to another, when the domain relational calculus is restricted to safe expressions, it’s equivalent to the terpo-relational. That’s all. I stayed around for. I knew.
+
+I wasn’t going to understand one bit or bite of conversation the rest of the evening. It made me long for the days when a mouse meant the furry little fellow who loves cheese, windows for the kind you bought drapes for, and the web with something spiders trapped flies in. I knew. I was going to need some technical support if.
+
+I was going to be compatible with this crowd. I decided then and there to learn some of the opening questions database management types ask each other, which. I did. Now.
+
+I can’t wait for a second chance at that crowd because. I’m armed with questions like, what raid level are you using? And what data warehousing product do you use?
 
 
 <a id="sec-040726"></a>
@@ -1718,37 +1854,41 @@ All you need are a few insider opening questions to get you started with any gro
 
 It’s all in the opening question. A tennis player can tell immediately from just appraising your opening serve how good a player you are. Is it going to be great playing with you or a real bore? It’s the same in communicating.
 
-Just from your verbal opening serve, someone knows if it’s going to be interesting talking with you about their life or interests or dull, dull, dull. For example, suppose I’m introduced to someone and the first words out of her mouth are, oh, you’re a writer. When are you going to write the great America novel? Yikes.
+Just from your verbal opening serve, someone knows if it’s going to be interesting talking with you about their life or interests or dull, dull, dull. For example, suppose. I’m introduced to someone and the first words out of her mouth are, oh, you’re a writer. When are you going to write the great America novel?
 
-I know I’m talking with someone who is unfamiliar with my world. We’ll chat, but I preferred to change the subject. And soon, my conversation partner. If, however, my new acquaintance says, oh, you’re a writer, do you write fiction or nonfiction?
+Yikes. I know. I’m talking with someone who is unfamiliar with my world. We’ll chat, but.
 
-Bingo. Now I know I’m with a person who knows about my world. Why? Because that is the first question all writers ask each other.
+I preferred to change the subject. And soon, my conversation partner. If, however, my new acquaintance says, oh, you’re a writer, do you write fiction or nonfiction? Bingo.
 
-I enjoy talking to this inquisitor because I presume she has more insights into the writing world. Even if we quickly get off the subject of writing, she has come across as a well-informed individual. Every job, every sport, every interest has insider opening questions that everybody in the same field asks, and it’s dumb outsider questions that they never ask each other. When an astronaut meets another astronaut, he asks, what missions have you been on?
+Now. I know. I’m with a person who knows about my world. Why?
 
-Never. How do you go to the bathroom up there? A dentist asks another dentist, are you in general practice or do you have a specialty? Never.
+Because that is the first question all writers ask each other. I enjoy talking to this inquisitor because. I presume she has more insights into the writing world. Even if we quickly get off the subject of writing, she has come across as a well-informed individual.
 
-Heard any good pain jokes lately? The good news is beginning jobbledygook is an easy language. You don’t need to master buzzwords, only a few opening questions to make you sound like an insider. Then, here’s the fun part.
+Every job, every sport, every interest has insider opening questions that everybody in the same field asks, and it’s dumb outsider questions that they never ask each other. When an astronaut meets another astronaut, he asks, what missions have you been on? Never. How do you go to the bathroom up there?
 
-When you tell them you’re not connected to their field, they’re all the more impressed. What a knowledgeable person, they say to themselves. Help, everybody there will be an artist. It’s not hard to harvest good jobbledygook.
+A dentist asks another dentist, are you in general practice or do you have a specialty? Never. Heard any good pain jokes lately? The good news is beginning jobbledygook is an easy language.
 
-Let’s say you’ve been invited to a gallery opening where you’ll be meeting many artists. If you don’t speak artist, go through your rolodex to see if you have an artist friend or two. Aha, you found one. Well, sort of.
+You don’t need to master buzzwords, only a few opening questions to make you sound like an insider. Then, here’s the fun part. When you tell them you’re not connected to their field, they’re all the more impressed. What a knowledgeable person, they say to themselves.
 
-Your friend Sally attended art school. You call her up and ask. Sally, I know this sounds silly, but I’ve been invited to an event where I’m bound to be talking with a lot of artists. Could you give me a few good questions to ask?
+Help, everybody there will be an artist. It’s not hard to harvest good jobbledygook. Let’s say you’ve been invited to a gallery opening where you’ll be meeting many artists. If you don’t speak artist, go through your rolodex to see if you have an artist friend or two.
+
+Aha, you found one. Well, sort of. Your friend Sally attended art school. You call her up and ask.
+
+Sally, I know this sounds silly, but. I’ve been invited to an event where. I’m bound to be talking with a lot of artists. Could you give me a few good questions to ask?
 
 Sally might find your query a tad unusual, but your diligence should impress her. Maybe she’ll say, well, ask artists what medium they work in. Medium, you ask? Sure, she’ll tell you.
 
 That’s the insider’s way to ask if they work with acrylics, oil, charcoal, pen, and so forth. Oh, don’t ask artists to describe their work, she warns. They feel theirs is a visual medium that can’t be described. Oh, and don’t ask them if their work is in a gallery.
 
-Oh, that could be a sore point. Instead, ask, is there any place I might see your work? They’ll love that because even if they’re not represented by a gallery, they can invite you to their studio to possibly buy their work. Technique number 39.
+Oh, that could be a sore point. Instead, ask, is there any place. I might see your work? They’ll love that because even if they’re not represented by a gallery, they can invite you to their studio to possibly buy their work.
 
-Learn a little jobbledygook. Big winners speak jobbledygook as a second language. What is jobbledygook? It’s the language of other professions.
+Technique number 39. Learn a little jobbledygook. Big winners speak jobbledygook as a second language. What is jobbledygook?
 
-Why speak it? It makes you sound like an insider. How do you learn it? You’ll find no jobbledygook discs in the language section of your bookstore, but the lingo is easy to pick up.
+It’s the language of other professions. Why speak it? It makes you sound like an insider. How do you learn it?
 
-Simply ask a friend who speaks the lingo of the crowd you’ll be with to teach you a few opening questions. The words are few and the rewards are manifold. That’s all you need to get started. Two good opening art questions and a warning against the most asked dumb outsider question.
+You’ll find no jobbledygook discs in the language section of your bookstore, but the lingo is easy to pick up. Simply ask a friend who speaks the lingo of the crowd you’ll be with to teach you a few opening questions. The words are few and the rewards are manifold. That’s all you need to get started.
 
-Let’s say you’ve given a great opening serve with the right question on their job. You’ve slammed a swift ball dead center into their conversational court.
+Two good opening art questions and a warning against the most asked dumb outsider question. Let’s say you’ve given a great opening serve with the right question on their job. You’ve slammed a swift ball dead center into their conversational court.
 
 
 <a id="sec-041233"></a>
@@ -1794,19 +1934,21 @@ Try, have a personal best.
 
 Firefighters who work on shift seldom see each other except, of course, at the biggest blazes. Thus the firefighters greeting, see you at the big one. Once, driving in a sleepy town you’d have to work at getting lost in. I succeeded.
 
-I was hopelessly turned around. Happily I spotted the firehouse and a couple of bored firefighters lounging out front. Excuse me, can you tell me the way back to Route Fifty? I called out the window.
+I was hopelessly turned around. Happily. I spotted the firehouse and a couple of bored firefighters lounging out front. Excuse me, can you tell me the way back to Route Fifty?
 
-I could tell from their attitude they thought I was an idiot. Nevertheless, they lethargically pointed me in the right direction. As I drove off I called out, thanks, guys. See you at the big one.
+I called out the window. I could tell from their attitude they thought. I was an idiot. Nevertheless, they lethargically pointed me in the right direction.
 
-In the rear-view mirror I saw huge smiles break out on their faces as they stood up in unison and waved good-bye. The disoriented dizzy blonde driving off had won their respect with their insider salute. Thirty-one. How to secretly learn about their lives.
+As. I drove off. I called out, thanks, guys. See you at the big one.
 
-Let’s say your paper carrier has just hurled the newspaper from his bike to your front door. You pour a cup of coffee and get comfortable to catch up on what’s happening in the world. Your world, that is. Do you flip first to the international news?
+In the rear-view mirror. I saw huge smiles break out on their faces as they stood up in unison and waved good-bye. The disoriented dizzy blonde driving off had won their respect with their insider salute. Thirty-one.
 
-The fashion section? The sports page? The entertainment section? Maybe the comics?
+How to secretly learn about their lives. Let’s say your paper carrier has just hurled the newspaper from his bike to your front door. You pour a cup of coffee and get comfortable to catch up on what’s happening in the world. Your world, that is.
 
-Whichever section you usually flip to first, tomorrow, don’t. Turn to any other section, preferably one you hardly ever read. Why? Because it will familiarize you with other worlds so that you can soon discuss anything with anybody, no matter how little you have in common.
+Do you flip first to the international news? The fashion section? The sports page? The entertainment section?
 
-How about the real estate section? Yawn. Maybe you don’t find real estate especially in grossing.
+Maybe the comics? Whichever section you usually flip to first, tomorrow, don’t. Turn to any other section, preferably one you hardly ever read. Why?
+
+Because it will familiarize you with other worlds so that you can soon discuss anything with anybody, no matter how little you have in common. How about the real estate section? Yawn. Maybe you don’t find real estate especially in grossing.
 
 However, sooner or later you’re going to find yourself with a group of people who are discussing properties, deals, and today’s market. Scanning the real estate section just once every few weeks will keep you okraum with their conversation. The advertising column? Maybe you think the world would be a far, far better place without Madison Avenue.
 
@@ -1830,29 +1972,31 @@ Any one issue will give you a sample of their lingo and inform you of the hottes
 
 When it comes to people’s hobbies and interests, browse through magazines on running, working out, bicycling, skiing, swimming, and surfing. Large magazine stores carry biker rags, boxer rags, bowler rags, even bull riding rags. You’ll find thousands of special interest magazines published every month. Several years ago, I got hooked on buying a different one each week.
 
-It paid off quickly when a potential consulting client invited me to dinner at her home. She had a beautiful garden, and thanks to Flower and Garden magazine, I could throw out insider terms like ornamentals, annuals, and perennials. I could even keep up when the discussion turned to the advantages of growing from seeds or bulbs. Because I was so fluent in flower, she invited me to take a longer walk with her to see her private back gardens.
+It paid off quickly when a potential consulting client invited me to dinner at her home. She had a beautiful garden, and thanks to Flower and Garden magazine, I could throw out insider terms like ornamentals, annuals, and perennials. I could even keep up when the discussion turned to the advantages of growing from seeds or bulbs. Because.
 
-As we strolled, I gradually changed the subject from chrysanthemums to the consulting work I could do for her company. Who was leading whom down the garden path? Technique number 41. Read their rags.
+I was so fluent in flower, she invited me to take a longer walk with her to see her private back gardens. As we strolled, I gradually changed the subject from chrysanthemums to the consulting work. I could do for her company. Who was leading whom down the garden path?
 
-Is your next big client a golfer, runner, swimmer, or skier? Are you attending a social function filled with accountants, or Zen Buddhists, or anything in between? There are untold thousands of monthly magazines serving every imaginable interest. You can dish up more information than you’ll ever need to sound like an insider with anyone just by reading the rags that serve their racket.
+Technique number 41. Read their rags. Is your next big client a golfer, runner, swimmer, or skier? Are you attending a social function filled with accountants, or Zen Buddhists, or anything in between?
 
-Have you read your latest copy of Zoo News yet? Is the world getting smaller, or are we getting bigger? Today’s Renaissance man or woman is comfortable and confident anywhere. The next technique helps you be an insider wherever you find yourself on the planet, and it saves you from fulfilling the world’s fantasy of the ugly American. 42.
+There are untold thousands of monthly magazines serving every imaginable interest. You can dish up more information than you’ll ever need to sound like an insider with anyone just by reading the rags that serve their racket. Have you read your latest copy of Zoo News yet? Is the world getting smaller, or are we getting bigger?
 
-How to talk when you’re in other countries. Today you’re traveling abroad on business, and you want to be a global insider. What’s the first thing on your to-do list? Get a passport and a phrasebook, right?
+Today’s Renaissance man or woman is comfortable and confident anywhere. The next technique helps you be an insider wherever you find yourself on the planet, and it saves you from fulfilling the world’s fantasy of the ugly American. 42. How to talk when you’re in other countries. Today you’re traveling abroad on business, and you want to be a global insider.
 
-After all, who wants to wander around Rome not knowing how to ask for a restroom? Or be thirsty in Kuala Lumpur not knowing how to ask for a soda?
+What’s the first thing on your to-do list? Get a passport and a phrasebook, right? After all, who wants to wander around Rome not knowing how to ask for a restroom? Or be thirsty in Kuala Lumpur not knowing how to ask for a soda?
 
-However, there’s something most of us forget to pack, often with dire consequences. A book on international customs. A friend of mine, a fellow speaker named Geraldine, was excited about her first speech in Japan. To be comfy on her long flight to Tokyo, she donned her favorite designer jeans and a casual jacket. Fourteen hours and 6,737 miles later, four impeccably dressed Japanese gentlemen greeted her at Narita Airport.
+However, there’s something most of us forget to pack, often with dire consequences. A book on international customs. A friend of mine, a fellow speaker named Geraldine, was excited about her first speech in Japan. To be comfy on her long flight to Tokyo, she donned her favorite designer jeans and a casual jacket.
 
-Smiling and bowing low, they handed her their business cards. With her carry-on bag in one hand, Jerry took their cards with the other. She thanked them, glanced briefly at the cards, and packed them safely into her back pocket. She then pulled one of her business cards out of her purse and, sensitive to the fact that they might have difficulty pronouncing Geraldine, wrote her nickname Jerry above her printed name.
+Fourteen hours and 6,737 miles later, four impeccably dressed Japanese gentlemen greeted her at Narita Airport. Smiling and bowing low, they handed her their business cards. With her carry-on bag in one hand, Jerry took their cards with the other. She thanked them, glanced briefly at the cards, and packed them safely into her back pocket.
 
-The gentlemen hovered over her card, turning it over to examine it a few times, before one of them put it in his briefcase. When the five of them arrived at the hotel, they invited Jerry for tea in the lobby. While sipping tea, the gentlemen presented her with a small gift which she eagerly opened. One of Jerry’s most charming qualities is her instinctive warmth and effusiveness.
+She then pulled one of her business cards out of her purse and, sensitive to the fact that they might have difficulty pronouncing Geraldine, wrote her nickname Jerry above her printed name. The gentlemen hovered over her card, turning it over to examine it a few times, before one of them put it in his briefcase. When the five of them arrived at the hotel, they invited Jerry for tea in the lobby. While sipping tea, the gentlemen presented her with a small gift which she eagerly opened.
 
-She was thrilled with the gift, and in typical Jerry style she squealed, Oh, it’s beautiful, as she gave each of the gentlemen a little hug. At this point, the four Japanese gentlemen stood up in unison like four frowning Siamese twins and, bowing only very slightly, mumbled Sayonara and promptly left. Poor Jerry was flabbergasted. What did she do wrong?
+One of Jerry’s most charming qualities is her instinctive warmth and effusiveness. She was thrilled with the gift, and in typical Jerry style she squealed, Oh, it’s beautiful, as she gave each of the gentlemen a little hug. At this point, the four Japanese gentlemen stood up in unison like four frowning Siamese twins and, bowing only very slightly, mumbled Sayonara and promptly left. Poor Jerry was flabbergasted.
 
-Everything. First, the jeans. Even if you’re coming off a bicycle in Asia, you do not meet clients casually dressed. The second mistake was Jerry’s vulgar handling of their business cards.
+What did she do wrong? Everything.
 
-In Asia, the business card is one of the most important protocol tools. It is always presented and accepted reverently with both hands. Left in Muslim Asia, where the left hand is considered unclean. Jerry then put their
+First, the jeans. Even if you’re coming off a bicycle in Asia, you do not meet clients casually dressed. The second mistake was Jerry’s vulgar handling of their business cards. In Asia, the business card is one of the most important protocol tools.
+
+It is always presented and accepted reverently with both hands. Left in Muslim Asia, where the left hand is considered unclean. Jerry then put their
 
 
 <a id="sec-042739"></a>
@@ -1874,83 +2018,95 @@ However, she does have a gig coming up in El Salvador. This time she’s smart. 
 
 However, she shouldn’t use her or anybody else’s first name. Oh, and she must not introduce herself as an American. After all, Salvadorans are Americans, too. The differences around the world… go on and on.
 
-Whenever I travel, I have to hit myself over the head and realize I’m not in the Anything Goes Old USA. I love to travel in jeans, I’m an incurable hugger, and I can’t wait to see what’s in a gift box anybody gives me.
+Whenever. I travel, I have to hit myself over the head and realize. I’m not in the Anything Goes Old USA. I love to travel in jeans, I’m an incurable hugger, and.
 
-However, whenever I plan to leave Uncle Sam’s Shores, I check on foreign customs to see how much of myself I can be. Week number forty-two, clear customs. Before putting one toe on foreign soil, get a book on do’s and taboos around the world. Before you shake hands, give a gift, make gestures, or even compliment anyone’s possessions, check it out. Your gaffe could gum up your entire gig.
+I can’t wait to see what’s in a gift box anybody gives me. However, whenever. I plan to leave Uncle Sam’s Shores, I check on foreign customs to see how much of myself. I can be.
 
-There are some excellent books on international customs. Don’t be like another hapless colleague of mine who almost blew a big business deal with a Brazilian. Just before signing the contract, he gave the OK sign with his thumb and forefinger. Little did he know he was telling his new business partner to go have intercourse with himself. You never know until it’s too late.
+Week number forty-two, clear customs. Before putting one toe on foreign soil, get a book on do’s and taboos around the world. Before you shake hands, give a gift, make gestures, or even compliment anyone’s possessions, check it out. Your gaffe could gum up your entire gig.
 
-Now we come to where being an insider shows immediate, tangible, and calculable rewards, and where being an outsider really hurts, right in your pocket or purse. Forty-three, how to talk them into getting the insider’s price on practically anything you buy. Never underestimate human ingenuity when it comes to getting what you want. Many people expand the adage, all’s fair in love and war to all is fair in love, war, and buying what I want.
+There are some excellent books on international customs. Don’t be like another hapless colleague of mine who almost blew a big business deal with a Brazilian. Just before signing the contract, he gave the OK sign with his thumb and forefinger. Little did he know he was telling his new business partner to go have intercourse with himself.
 
-To get a table at a posh restaurant on a busy night, using a celebrity name is an old ploy. My favorite, Metro D., told me he gets a lot of Robert De Niro’s phoning in a reservation. When their party of six or eight arrives, he hears, I’m so sorry, Rob wasn’t feeling well this evening. One woman, frustrated when her fake celebrity name didn’t work, shouted at him, look, who the hell do I have to be to get a table?
+You never know until it’s too late. Now we come to where being an insider shows immediate, tangible, and calculable rewards, and where being an outsider really hurts, right in your pocket or purse. Forty-three, how to talk them into getting the insider’s price on practically anything you buy. Never underestimate human ingenuity when it comes to getting what you want.
 
-I’ll be anyone you want me to be, Goldie Hawn, Steffi Graf, Fergie, just tell me. Some people try a last-minute approach. They simply walk up to the Metro D. at an overbooked restaurant, point to any name on the reservation book and say, that’s us. You’ll witness the same cunning at overbooked hotels.
+Many people expand the adage, all’s fair in love and war to all is fair in love, war, and buying what. I want. To get a table at a posh restaurant on a busy night, using a celebrity name is an old ploy. My favorite, Metro D., told me he gets a lot of Robert De Niro’s phoning in a reservation.
+
+When their party of six or eight arrives, he hears, I’m so sorry, Rob wasn’t feeling well this evening. One woman, frustrated when her fake celebrity name didn’t work, shouted at him, look, who the hell do. I have to be to get a table? I’ll be anyone you want me to be, Goldie Hawn, Steffi Graf, Fergie, just tell me.
+
+Some people try a last-minute approach. They simply walk up to the Metro D. at an overbooked restaurant, point to any name on the reservation book and say, that’s us. You’ll witness the same cunning at overbooked hotels.
 
 
 <a id="sec-043243"></a>
 ### ⏱️ [04:32:43 - 04:37:47]
 
-Several months ago I was checking into a popular hotel for which, fortunately, I had a confirmed reservation. A loud-mouthed man in front of me in line shouted at the desk clerk, what do you mean no room? I’m staying in this hotel tonight. If you don’t have a room, I’m sleeping right here on the floor.
+Several months ago. I was checking into a popular hotel for which, fortunately, I had a confirmed reservation. A loud-mouthed man in front of me in line shouted at the desk clerk, what do you mean no room? I’m staying in this hotel tonight.
 
-His temper tantrum was not working. And I warn you, he continued, I sleep in the nude. He got a room. These crafty, childish tactics are not recommended.
+If you don’t have a room, I’m sleeping right here on the floor. His temper tantrum was not working. And. I warn you, he continued, I sleep in the nude.
 
-There I suggest a more principled technique called bluffing for bargains. It was born one afternoon sitting with an insurance broker, Mr. Carson. He was trying to sell me a homeowner’s policy. Of course I wanted the most coverage for the least cash.
+He got a room. These crafty, childish tactics are not recommended. There. I suggest a more principled technique called bluffing for bargains.
 
-Carson was a smooth operator, and he was patiently explaining to me in layman’s terms the benefits of certain riders he was pushing. Just as he started discussing disasters like wars and hurricanes, his phone rang. With apologies, he picked up the receiver. It was one of his colleagues.
+It was born one afternoon sitting with an insurance broker, Mr. Carson. He was trying to sell me a homeowner’s policy. Of course.
 
-Suddenly a metamorphosis took place before my eyes. The sophisticated salesman became a palsy-walsy, regular, down-home kind of guy chatting it up with his old buddy about umbrellas. I thought they were discussing the weather. Then the conversation turned to floaters.
+I wanted the most coverage for the least cash. Carson was a smooth operator, and he was patiently explaining to me in layman’s terms the benefits of certain riders he was pushing. Just as he started discussing disasters like wars and hurricanes, his phone rang. With apologies, he picked up the receiver.
 
-I now assumed they were talking about an eye problem. It took a while for me to realize that umbrella policies and floaters were part of the insurance ease they were speaking.
+It was one of his colleagues. Suddenly, a metamorphosis took place before my eyes. The sophisticated salesman became a palsy-walsy, regular, down-home kind of guy chatting it up with his old buddy about umbrellas. I thought they were discussing the weather.
 
-A few minutes later Carson said, “Yeah, okay, so long, buddy, and put the phone down.” He cleared his throat and again transmogrified back into the formal sales agent patiently defining damages and deductibles to a naive client. Getting there listening to bafflegab like subrogation and pro-rata liability, I began to ponder, if Carson’s colleague who just called wanted to buy insurance, he would have gotten a much better policy much cheaper. In practically every industry, vendors give two prices on goods or services, one to insiders and one to you and me.
+Then the conversation turned to floaters. I now assumed they were talking about an eye problem. It took a while for me to realize that umbrella policies and floaters were part of the insurance ease they were speaking.
 
-Before I let myself get angry about this, I thought it through. Is it unfair? Not really. If the vendor doesn’t have to spend time being salesman or psychologist answering the endless stream of novice questions, he can afford to give his best price.
+A few minutes later Carson said, “Yeah, okay, so long, buddy, and put the phone down.”. He cleared his throat and again transmogrified back into the formal sales agent patiently defining damages and deductibles to a naive client. Getting there listening to bafflegab like subrogation and pro-rata liability, I began to ponder, if Carson’s colleague who just called wanted to buy insurance, he would have gotten a much better policy much cheaper. In practically every industry, vendors give two prices on goods or services, one to insiders and one to you and me.
 
-Carson wouldn’t have had to take 20 minutes explaining to his colleague, as he did to me, why if a tornado takes your house, it’s considered an act of God. Therefore you lose. When knowledgeable associates buy products, the vendor is happily reduced to nothing more than a purchasing agent. For very little work, he makes a small profit and is satisfied.
+Before. I let myself get angry about this, I thought it through. Is it unfair? Not really.
 
-A little bit of knowledge goes a long way when you’re buying something. If you have insight into your real estate broker’s bottom line, he’s more apt to give you the better price. If you are facile with the insider words caterers and car salesmen use to pad their profits, if you’re savvy to techniques moving companies and mechanics used to bilk the unsuspecting, if you are on the lookout for lawyers' methods of fattening fees—in short, if you know the ropes, you will not get ripped off.
+If the vendor doesn’t have to spend time being salesman or psychologist answering the endless stream of novice questions, he can afford to give his best price. Carson wouldn’t have had to take 20 minutes explaining to his colleague, as he did to me, why if a tornado takes your house, it’s considered an act of God.
 
-You don’t need to know a lot, just a few insider terms. The pro assumes, since you are conversant in some esoteric industry terms, you also know the best deal and rock-bottom price. No one put it better than my house-painter Iggy. Sure, he told me. You got to know how to talk to a painter.
+Therefore, you lose. When knowledgeable associates buy products, the vendor is happily reduced to nothing more than a purchasing agent. For very little work, he makes a small profit and is satisfied. A little bit of knowledge goes a long way when you’re buying something.
 
-Not me, but a lot of them other guys, they’re going to get whatever they can. It’s only human nature, especially if you’re a woman and you deal with them smart, like I’m going to tell you how. Their hair will stand on end. They’ll say to themselves, hey, this is no babe in the woods.
+If you have insight into your real estate broker’s bottom line, he’s more apt to give you the better price. If you are facile with the insider words caterers and car salesmen use to pad their profits, if you’re savvy to techniques moving companies and mechanics used to bilk the unsuspecting, if you are on the lookout for lawyers' methods of fattening fees—in short, if you know the ropes, you will not get ripped off. You don’t need to know a lot, just a few insider terms.
 
-I’d better deal straight. Okay, Iggy, how? He said, tell them, guys, look, the walls need very little prepping. You’re not going to have to spend much time scraping and spackling.
+The pro assumes, since you are conversant in some esoteric industry terms, you also know the best deal and rock-bottom price. No one put it better than my house-painter Iggy. Sure, he told me. You got to know how to talk to a painter.
 
-It’s a clean job. Iggy told me these few sentences alone can save you hundreds of dollars. Why? Right away the painter knows you know the score and that the most time-consuming part for him is preparing the surface, prepping in painteries.
+Not me, but a lot of them other guys, they’re going to get whatever they can. It’s only human nature, especially if you’re a woman and you deal with them smart, like. I’m going to tell you how. Their hair will stand on end.
 
-Therefore it’s his biggest markup item. Then, Iggy continued, when you tell him there’ll be no cutting in, painting two colors next to each other, your price goes down again. Be sure and tell him not to leave any holidays, unpainted or sparsely painted spots, and you
+They’ll say to themselves, hey, this is no babe in the woods. I’d better deal straight. Okay, Iggy, how? He said, tell them, guys, look, the walls need very little prepping.
+
+You’re not going to have to spend much time scraping and spackling. It’s a clean job. Iggy told me these few sentences alone can save you hundreds of dollars. Why?
+
+Right away the painter knows you know the score and that the most time-consuming part for him is preparing the surface, prepping in painteries. Therefore, it’s his biggest markup item. Then, Iggy continued, when you tell him there’ll be no cutting in, painting two colors next to each other, your price goes down again. Be sure and tell him not to leave any holidays, unpainted or sparsely painted spots, and you
 
 
 <a id="sec-043747"></a>
 ### ⏱️ [04:37:47 - 04:42:52]
 
-get a more careful job. I’m only sorry I don’t have an Iggy in every field to give me a crash course in how to deal. How to deal when there’s no Iggy in your life. Here’s how to get the best price and the best deal from anyone.
+get a more careful job. I’m only sorry. I don’t have an Iggy in every field to give me a crash course in how to deal. How to deal when there’s no Iggy in your life.
 
-Find your Iggy Informer. If you have a friend in the business, get the lingo from him. If not, instead of going straight to the vendor you want to buy from, visit several others first. Talk with them.
+Here’s how to get the best price and the best deal from anyone. Find your Iggy Informer. If you have a friend in the business, get the lingo from him. If not, instead of going straight to the vendor you want to buy from, visit several others first.
 
-Learn a little lingo from each. For instance, suppose you want to buy a diamond. Instead of going right to your favorite jewelry shop and asking dumbbell diamond questions, go to the competition. Make friends with the sales clerk and pick up a few gems of diamond D’s.
+Talk with them. Learn a little lingo from each. For instance, suppose you want to buy a diamond. Instead of going right to your favorite jewelry shop and asking dumbbell diamond questions, go to the competition.
 
-You’ll learn jewelers say stones, not diamonds. When you’re talking about the top of the stone they say table. The widest part is the girdle. The bottom is the cutlet.
+Make friends with the sales clerk and pick up a few gems of diamond D’s. You’ll learn jewelers say stones, not diamonds. When you’re talking about the top of the stone they say table. The widest part is the girdle.
 
-If the stone looks yellow, don’t say yellow, say cape. If you see flaws, don’t say flaws, say inclusions or glets. If you still don’t like the stone, don’t say I’d like to see something better, say finer. Don’t ask me why, that’s just the way the diamond crowd talks.
+The bottom is the cutlet. If the stone looks yellow, don’t say yellow, say cape. If you see flaws, don’t say flaws, say inclusions or glets. If you still don’t like the stone, don’t say.
 
-Then when you’ve got your lingo down, go to where you want to buy. Because you now speak diamond, you’ll get a much better price. Soon you’ll be asking furriers where the skins were dressed, moving companies for their ICC performance record, and lawyers the hourly rate of paralegals and associates. Then these folks, like Iggy the painter, will say to themselves, hey, this is no babe in the woods, I’d better deal straight.
+I’d like to see something better, say finer. Don’t ask me why, that’s just the way the diamond crowd talks. Then when you’ve got your lingo down, go to where you want to buy. Because you now speak diamond, you’ll get a much better price.
 
-Technique number forty-three, bluffing for bargains. The haggling skills used in ancient Arab markets are alive and well in contemporary America for big ticket items. Your price is much lower when you know how to deal. Before every big purchase, find several vendors, a few to learn from and one to buy from. And with a few words of industry ease, you’re ready to head for the store where you’re going to buy.
+Soon you’ll be asking furriers where the skins were dressed, moving companies for their ICC performance record, and lawyers the hourly rate of paralegals and associates. Then these folks, like Iggy the painter, will say to themselves, hey, this is no babe in the woods, I’d better deal straight. Technique number forty-three, bluffing for bargains. The haggling skills used in ancient Arab markets are alive and well in contemporary America for big ticket items.
 
-Let us now delve deeper into the world of being an insider. This time we explore how to give your conversation partner the sense that you share not only experiences but the heavy stuff. You share beliefs and values in life. Part five, how to sound like you’re peas in a pod.
+Your price is much lower when you know how to deal. Before every big purchase, find several vendors, a few to learn from and one to buy from. And with a few words of industry ease, you’re ready to head for the store where you’re going to buy. Let us now delve deeper into the world of being an insider.
 
-Why, we’re just alike. If you squint your eyes and look up carefully at a flight of birds, you’ll see finches flying with finches, swallows soaring with swallows, and yellow birds winging it with yellow birds. The avian apartheid escalates. You’ll never see a barn swallow with a bank swallow or even a yellow bird hanging out with a yellow finch.
+This time we explore how to give your conversation partner the sense that you share not only experiences but the heavy stuff. You share beliefs and values in life. Part five, how to sound like you’re peas in a pod. Why, we’re just alike.
 
-Somebody set it shorter. Birds of a feather flock together. Usually humans are smarter than birds, in one respect at least. We have brains capable of overcoming bias.
+If you squint your eyes and look up carefully at a flight of birds, you’ll see finches flying with finches, swallows soaring with swallows, and yellow birds winging it with yellow birds. The avian apartheid escalates. You’ll never see a barn swallow with a bank swallow or even a yellow bird hanging out with a yellow finch. Somebody set it shorter.
 
-Really smart human beings work together, play together, and break bread together. Does that mean their comfort level is high? Well that depends on the human being. Our purpose here is not to examine the absurdity of apartheid.
+Birds of a feather flock together. Usually humans are smarter than birds, in one respect at least. We have brains capable of overcoming bias. Really smart human beings work together, play together, and break bread together.
 
-It is to leave no stone unturned in making sure people are completely comfortable doing business or pleasure with you. It has been proven beyond a doubt, people are most receptive to those they feel have the same values in life. In one study, individuals were first given a personality and beliefs test. They were then paired off with a partner and told to go spend time together.
+Does that mean their comfort level is high? Well that depends on the human being. Our purpose here is not to examine the absurdity of apartheid. It is to leave no stone unturned in making sure people are completely comfortable doing business or pleasure with you.
 
-Before meeting, half the couples were told that they were very similar in beliefs to their partner. The other half were told they were dissimilar. And neither statement was true.
+It has been proven beyond a doubt, people are most receptive to those they feel have the same values in life. In one study, individuals were first given a personality and beliefs test. They were then paired off with a partner and told to go spend time together. Before meeting, half the couples were told that they were very similar in beliefs to their partner.
 
-However, when quizzed afterward on how much they liked each other, partners who believed they were similar liked each other a lot more than the couples who thought themselves to be dissimilar, demonstrating we have a predisposition toward people we believe are just like us. We are most comfortable giving our business and friendship to those we feel share our values and beliefs in life. To that end, I offer six techniques to create sensations of similarity with everyone you wish. Along with making more profound rapport with customers, friends and associates, using the following techniques develops a deeper understanding and empathy with people of all races and backgrounds.
+The other half were told they were dissimilar. And neither statement was true.
+
+However, when quizzed afterward on how much they liked each other, partners who believed they were similar liked each other a lot more than the couples who thought themselves to be dissimilar, demonstrating we have a predisposition toward people we believe are just like us. We are most comfortable giving our business and friendship to those we feel share our values and beliefs in life. To that end, I offer six techniques to create sensations of similarity with everyone you wish.
+
+Along with making more profound rapport with customers, friends and associates, using the following techniques develops a deeper understanding and empathy with people of all races and backgrounds.
 
 
 <a id="sec-044252"></a>
@@ -1962,7 +2118,9 @@ For example, Westerners, used to the wide-open plains, stand farther from each o
 
 At tea time, the finishing school set genuflex and gracefully lowers derriares onto the sofa. When the ladies reach for a cup, they hold the saucer in one hand and the cup in the other, pinky ever so slightly extended. Folks who never finished any manners school make a fanny dive in the middle of the sofa and clutch the cup with both hands. Is one right?
 
-Is the other wrong? No. However, top communicators know when doing business with a derriere-dipping pinky extender or a fanny-plopping two-fisted mug-grabber they darn well should do the same. People feel comfortable around people who move just like they do. I have a friend who travels the country giving an outrageous seminar called, How to Marry the Rich. Jeannie was once in a Las Vegas casino when a television reporter asked if she could tell the real rich from the great pretenders.
+Is the other wrong? No.
+
+However, top communicators know when doing business with a derriere-dipping pinky extender or a fanny-plopping two-fisted mug-grabber they darn well should do the same. People feel comfortable around people who move just like they do. I have a friend who travels the country giving an outrageous seminar called, How to Marry the Rich. Jeannie was once in a Las Vegas casino when a television reporter asked if she could tell the real rich from the great pretenders.
 
 Of course, Jeannie answered. All right, challenged the reporter. Who is the wealthiest man in this room? Convened at the next table were three men in tailored suits, Hayward of Mayfair, London, no doubt, handmade shirts, Charvet of Place Fandome in Paris, no doubt, and sipping scotch, single malt l’froyg from the Scottish island of Islay, no doubt.
 
@@ -1990,37 +2148,37 @@ Therefore, you are part of the product they’re buying. Forty-five. How to make
 <a id="sec-044757"></a>
 ### ⏱️ [04:47:57 - 04:52:57]
 
-Have you ever been gabbing with a new acquaintance and, after a few moments, you’ve said to yourself, This person and I think alike. We’re on the same wavelength. It’s a fabulous feeling, almost like falling in love. Lovers call it chemistry.
+Have you ever been gabbing with a new acquaintance and, after a few moments, you’ve said to yourself, This person and. I think alike. We’re on the same wavelength. It’s a fabulous feeling, almost like falling in love.
 
-New friends talk of instant rapport, and business people say a meeting of minds. Yet it’s the same magic, that sudden sense of warmth and closeness, that strange sensation of, Wow, we were old friends at once. When we were children, making friends was easier. Most of the kids we met grew up in the same town, and so they were on our wavelength.
+Lovers call it chemistry. New friends talk of instant rapport, and business people say a meeting of minds. Yet it’s the same magic, that sudden sense of warmth and closeness, that strange sensation of, Wow, we were old friends at once. When we were children, making friends was easier.
 
-Then the years went by. We grew older. We moved away. Our backgrounds, our experiences, our goals, our lifestyles, became diverse.
+Most of the kids we met grew up in the same town, and so they were on our wavelength. Then the years went by. We grew older. We moved away.
 
-Thus, we fell off each other’s wavelengths. Wouldn’t it be great to have a magic surfboard to help you hop right back on everybody’s wavelength whenever you wanted? Here it is, a linguistic device that gets you riding on high rapport with everyone you meet. If you stand on a mountain cliff and shout, Hello, whoa, across the valley, your identical, Hello, whoa, thunders back at you.
+Our backgrounds, our experiences, our goals, our lifestyles, became diverse. Thus, we fell off each other’s wavelengths. Wouldn’t it be great to have a magic surfboard to help you hop right back on everybody’s wavelength whenever you wanted? Here it is, a linguistic device that gets you riding on high rapport with everyone you meet.
 
-I call the technique echoing because, like the mountain, you echo your conversation partner’s precise words. It all started across the ocean. In many European countries, you’ll hear five, ten, or more languages within the language.
+If you stand on a mountain cliff and shout, Hello, whoa, across the valley, your identical, Hello, whoa, thunders back at you. I call the technique echoing because, like the mountain, you echo your conversation partner’s precise words. It all started across the ocean. In many European countries, you’ll hear five, ten, or more languages within the language.
 
 For example, in Italy, the Sicilians from the south speak a dialect that seems like Gabaldicuk to northern Italians. In an Italian restaurant, I once overheard a diner discover his waiter was also from Udina, a town in northeastern Italy where they speak the Friulano dialect. The diner stood up and hugged the waiter like he was a long-lost brother. They started babbling in a tongue that left the other Italian waiter shrugging.
 
 In America, we have dialects, too. We just aren’t conscious of them.
 
-In fact, we have thousands of different words depending on our region, our job, our interests, and our upbringing. Once, when traveling across the country, I tried to order a soda like a Coke or seven-up in a highway diner. It took some explaining. Before the waitress understood, I wanted what she called a pop, perhaps because the English-speaking world is so large, Americans have a wider choice of words for the same old stuff than any language I’ve encountered.
+In fact, we have thousands of different words depending on our region, our job, our interests, and our upbringing. Once, when traveling across the country, I tried to order a soda like a Coke or seven-up in a highway diner. It took some explaining. Before the waitress understood, I wanted what she called a pop, perhaps because the English-speaking world is so large, Americans have a wider choice of words for the same old stuff than any language.
 
-Family members find themselves speaking alike. Friends use the same words, and associates in a company or members in a club talk alike. Everyone you meet will have his or her own language that subliminally distinguishes them from outsiders. The words are all English, but they vary from area to area, industry to industry, and even family to family.
+I’ve encountered. Family members find themselves speaking alike. Friends use the same words, and associates in a company or members in a club talk alike. Everyone you meet will have his or her own language that subliminally distinguishes them from outsiders.
 
-The linguistic device that says, we’re on the same wavelength. When you want to give someone the subliminal feeling you’re just alike, use their words, not yours. Suppose you are selling a car to a young mother who tells you she is concerned about safety because she has a young toddler. When explaining the safety features of the car, use her word.
+The words are all English, but they vary from area to area, industry to industry, and even family to family. The linguistic device that says, we’re on the same wavelength. When you want to give someone the subliminal feeling you’re just alike, use their words, not yours. Suppose you are selling a car to a young mother who tells you she is concerned about safety because she has a young toddler.
 
-Don’t use whatever word you call your kids. Don’t even say child protection lock, which was in your sales manual. Tell your prospect no toddler can open the window because of the driver’s control device. Even call it a toddler protection lock.
+When explaining the safety features of the car, use her word. Don’t use whatever word you call your kids. Don’t even say child protection lock, which was in your sales manual. Tell your prospect no toddler can open the window because of the driver’s control device.
 
-When mom hears toddler coming from your lips, she feels you are family because that’s how all her relatives refer to her little tyke. Suppose your prospect had said kid or infant. Fine. Echo any word she used.
+Even call it a toddler protection lock. When mom hears toddler coming from your lips, she feels you are family because that’s how all her relatives refer to her little tyke. Suppose your prospect had said kid or infant. Fine.
 
-Well, almost any word. If she’d said my brat, you might want to pass on echoing this time. Echoing at parties. Let’s say you are at a party.
+Echo any word she used. Well, almost any word. If she’d said my brat, you might want to pass on echoing this time. Echoing at parties.
 
-It’s a huge bash with many different types of people. You are first chatting with a lawyer who tells you her profession is often maligned. When it comes your turn to speak, say profession too. If you say job, it puts a subconscious barrier between you.
+Let’s say you are at a party. It’s a huge bash with many different types of people. You are first chatting with a lawyer who tells you her profession is often maligned. When it comes your turn to speak, say profession too.
 
-Next, you meet a construction worker who starts talking about his job. Now you’re in trouble if you say, well, in my profession, he’d think you were being hoity-toity. After the lawyer and the construction worker, you talk to several freelancers. First a model, then a professional speaker.
+If you say job, it puts a subconscious barrier between you. Next, you meet a construction worker who starts talking about his job. Now you’re in trouble if you say, well, in my profession, he’d think you were being hoity-toity. After the lawyer and the construction worker, you talk to several freelancers.
 
-Finally, a pop musician.
+First, a model, then a professional speaker. Finally, a pop musician.
 
 
 <a id="sec-045257"></a>
@@ -2034,29 +2192,33 @@ For example, if you are chatting with a boat owner and you call his boat an it, 
 
 For example, cat lovers purr about having cats, but horse people would say owning horses. And fish folk don’t own fish. They talk about keeping fish. Hey, no big deal, but if you use the wrong word, your conversation partner will assume correctly that you are a stranger in his or her hobby land.
 
-The peril of not echoing. Sometimes you lose out by not echoing. My friend Phil and I were talking with several guests at a party. One woman proudly told the group about the wonderful new ski chalet she had just purchased.
+The peril of not echoing. Sometimes you lose out by not echoing. My friend Phil and. I were talking with several guests at a party.
 
-She was looking forward to inviting her friends up to her little chalet in the mountains. That’s wonderful, said Phil, secretly hoping for an invitation. Where exactly is your cabin? Kerplunk?
+One woman proudly told the group about the wonderful new ski chalet she had just purchased. She was looking forward to inviting her friends up to her little chalet in the mountains. That’s wonderful, said Phil, secretly hoping for an invitation. Where exactly is your cabin?
 
-There went Phil’s chances for an invitation to the lady’s chalet. I couldn’t resist. After the conversation, I whispered to my friend. Phil, why did you insult that woman by calling her chalet a cabin?
+Kerplunk? There went Phil’s chances for an invitation to the lady’s chalet. I couldn’t resist. After the conversation, I whispered to my friend.
 
-Phil scratched his head and said, what do you mean insult her? Cabin is a beautiful word. My family has a cabin in Cape Cod, and I grew up loving the word, the associations, the joy of a cabin.
+Phil, why did you insult that woman by calling her chalet a cabin? Phil scratched his head and said, what do you mean insult her? Cabin is a beautiful word. My family has a cabin in Cape Cod, and.
 
-In other words, the connotations of cabin. Well, fine, Phil. The word cabin may be beautiful to you, but obviously the skier preferred the word chalet. Professional echoing.
+I grew up loving the word, the associations, the joy of a cabin. In other words, the connotations of cabin. Well, fine, Phil. The word cabin may be beautiful to you, but obviously the skier preferred the word chalet.
 
-In today’s sales environment, customers expect salespeople to be problem solvers, not just vendors. They feel you don’t grasp their industry’s problems if you don’t speak their language. I have a friend, Penny, who sells office furniture. People in publishing, advertising, broadcasting, and a few lawyers are among her clients.
+Professional echoing. In today’s sales environment, customers expect salespeople to be problem solvers, not just vendors. They feel you don’t grasp their industry’s problems if you don’t speak their language. I have a friend, Penny, who sells office furniture.
 
-Penny’s sales manual says, office furniture. However, she told me, if she used the word office with all of her clients, they’d assume she knew nothing about their respective industries. She told me her client, the purchasing officer in advertising, talks about his advertising agency. Penny’s publishing client says, publishing house.
+People in publishing, advertising, broadcasting, and a few lawyers are among her clients. Penny’s sales manual says, office furniture.
 
-The lawyers talk about furniture for their firm, and her radio clients use the word station instead of office. Hey, Penny says, it’s their salt mine. They can call it whatever the heck they please. And she added, if I want to make the sale, I’d better call it the same thing.
+However, she told me, if she used the word office with all of her clients, they’d assume she knew nothing about their respective industries. She told me her client, the purchasing officer in advertising, talks about his advertising agency. Penny’s publishing client says, publishing house. The lawyers talk about furniture for their firm, and her radio clients use the word station instead of office.
+
+Hey, Penny says, it’s their salt mine. They can call it whatever the heck they please. And she added, if. I want to make the sale, I’d better call it the same thing.
 
 Echoing is politically correct insurance. Here’s a quiz. You’re talking with a pharmacist and you ask her, how long have you worked at the drug store? What’s wrong with that question?
 
-Give up? It’s the word drug store. Pharmacists abhor the word because it conjures up many industry problems. They’re used to hearing it from outsiders, but it’s a tip-off that they are unaware of or insensitive to their professional problems. They prefer pharmacy. Recently, at a reception, I introduced one of my friends, Susan, as a daycare worker.
+Give up? It’s the word drug store. Pharmacists abhor the word because it conjures up many industry problems. They’re used to hearing it from outsiders, but it’s a tip-off that they are unaware of or insensitive to their professional problems.
 
-Afterwards, Susan begged, Leil, please do not call me a daycare worker. We’re childcare workers. Whoops. Time and recent history quickly make certain terms archaic.
+They prefer pharmacy. Recently, at a reception, I introduced one of my friends, Susan, as a daycare worker. Afterwards, Susan begged, Leil, please do not call me a daycare worker. We’re childcare workers.
 
-A group’s intense preference for one word is not arbitrary. Certain jobs, minorities, and special interest groups often have a history the public is not sensitive to. When that history has too much pain attached to it, people invent another word that doesn’t have bitter connotations. I have a dear friend, Leslie, who is in a wheelchair.
+Whoops. Time and recent history quickly make certain terms archaic. A group’s intense preference for one word is not arbitrary. Certain jobs, minorities, and special interest groups often have a history the public is not sensitive to.
+
+When that history has too much pain attached to it, people invent another word that doesn’t have bitter connotations. I have a dear friend, Leslie, who is in a wheelchair.
 
 
 <a id="sec-045759"></a>
@@ -2084,85 +2246,99 @@ You don’t need to learn two dollar words that your grandmother, if she heard, 
 
 Look up that common word even you are bored hearing yourself utter every day. Examine your long list of alternatives.
 
-For example, if you turned the word smart, you’ll find dozens of synonyms. Some words are colorful and rich, like ingenious, resourceful, adroit, shrewd, and many more. Run down the list and say each out loud. Which ones fit your personality? Which ones seem right for you?
+For example, if you turned the word smart, you’ll find dozens of synonyms. Some words are colorful and rich, like ingenious, resourceful, adroit, shrewd, and many more. Run down the list and say each out loud. Which ones fit your personality?
 
-Try each on like a suit of clothes to see which feel comfortable. Use a few favorites and practice saying them aloud until they become a natural staple of your vocabulary. The next time you want to compliment someone, say, on being smart, you’ll be purring, Oh, that’s so clever of you. My how resourceful.
+Which ones seem right for you? Try each on like a suit of clothes to see which feel comfortable. Use a few favorites and practice saying them aloud until they become a natural staple of your vocabulary. The next time you want to compliment someone, say, on being smart, you’ll be purring, Oh, that’s so clever of you.
 
-That was ingenious. Or maybe how astute of you. And now for men only. Gentlemen, we women spend a lot of time in front of the mirror, as if you didn’t know.
+My how resourceful. That was ingenious. Or maybe how astute of you. And now for men only.
 
-When I was in college, it used to take me a full fifteen minutes to fix myself up for a date. Every year since, I’ve had to add a few minutes. I’m now up to an hour and a half gussying myself up for an evening out. Gentlemen, when your wife comes down the staircase all dolled up for a night out, or you pick a lady up for dinner.
+Gentlemen, we women spend a lot of time in front of the mirror, as if you didn’t know. When. I was in college, it used to take me a full fifteen minutes to fix myself up for a date. Every year since, I’ve had to add a few minutes.
 
-What do you say? If you make no comment except, Well, are you ready to go? How do you think that makes the lady feel? My friend Gary is a nice gentleman and he occasionally takes me to dinner.
+I’m now up to an hour and a half gussying myself up for an evening out. Gentlemen, when your wife comes down the staircase all dolled up for a night out, or you pick a lady up for dinner. What do you say? If you make no comment except, Well, are you ready to go?
 
-I met him about twelve years ago, and I’ll never forget the first time he arrived on
+How do you think that makes the lady feel? My friend Gary is a nice gentleman and he occasionally takes me to dinner. I met him about twelve years ago, and. I’ll never forget the first time he arrived on
 
 
 <a id="sec-050302"></a>
 ### ⏱️ [05:03:02 - 05:08:03]
 
-my doorstep for our date. He said, “Leal, you look great.” I adored his reaction. I saw Gary a month or so later. On my doorstep again, Leal, you look great.
+my doorstep for our date. He said, “Leal, you look great.”. I adored his reaction. I saw Gary a month or so later.
 
-The precise same words as the first time, but I still appreciated it. It’s been twelve long years now that this gentleman and I have been friends. I see him about once every two months, and every darn time it’s the same old comment, Leal, you look great. I think I’ll show up one evening in a flannel nightshirt and a mudpack on my face.
+On my doorstep again, Leal, you look great. The precise same words as the first time, but. I still appreciated it. It’s been twelve long years now that this gentleman and.
 
-I swear Gary will say, Leal, you look great. During my seminars, to help men avoid Gary’s mistake, I ask every male to think of a synonym for pretty or great. Then I bring up one woman and several men. I ask each to pretend he is her husband.
+I have been friends. I see him about once every two months, and every darn time it’s the same old comment, Leal, you look great. I think. I’ll show up one evening in a flannel nightshirt and a mudpack on my face.
 
-She has just come down the stairs ready to go out to dinner. I ask each to take her hand and deliver his compliment. Darla, one says, you look elegant. Ooh, every woman in the room sighs.
+I swear Gary will say, Leal, you look great. During my seminars, to help men avoid Gary’s mistake, I ask every male to think of a synonym for pretty or great. Then. I bring up one woman and several men.
 
-Darla, says another, taking her hand, you look stunning. Ooh, every woman in the room swoons. Darla, says the third, putting her hand between his. You look ravishing.
+I ask each to pretend he is her husband. She has just come down the stairs ready to go out to dinner. I ask each to take her hand and deliver his compliment. Darla, one says, you look elegant.
 
-Ooh. By now every woman in the room has gone limp. Pay attention, men. Words work on us women.
+Ooh, every woman in the room sighs. Darla, says another, taking her hand, you look stunning. Ooh, every woman in the room swoons. Darla, says the third, putting her hand between his.
 
-More unisex suggestions. Suppose you’ve been at a party and it was wonderful. Don’t tell the hosts it was wonderful. Everybody says that.
+You look ravishing. Ooh. By now every woman in the room has gone limp. Pay attention, men.
 
-Tell them it was a splendid party, a superb party, an extraordinary party. Hug the hosts and tell them you had a magnificent time, a remarkable time, a glorious time. The first few times you say a word like glorious, it may not roll comfortably off your tongue. Yet you have no trouble with the word wonderful.
+Words work on us women. More unisex suggestions. Suppose you’ve been at a party and it was wonderful. Don’t tell the hosts it was wonderful.
 
-Hmm, glorious doesn’t have any more syllables than wonderful. Neither does it have any more difficult sounds to pronounce. Glory is all a matter of familiarity. Use your new favorite words a few times and, just like breaking in a new pair of shoes, you’ll be very comfortable wearing your glorious new words.
+Everybody says that. Tell them it was a splendid party, a superb party, an extraordinary party. Hug the hosts and tell them you had a magnificent time, a remarkable time, a glorious time. The first few times you say a word like glorious, it may not roll comfortably off your tongue.
 
-Technique number 26, your personal thesaurus. Look up some common words you use every day in a thesaurus. Then like slipping your feet into a new pair of shoes, slip your tongue into a few new words to see how they fit. If you like them, start making permanent replacements.
+Yet you have no trouble with the word wonderful. Hmm, glorious doesn’t have any more syllables than wonderful. Neither does it have any more difficult sounds to pronounce. Glory is all a matter of familiarity.
 
-Remember, only 50 words makes the difference between a rich creative vocabulary and an average middle-of-the-road one. Substitute a word a day for two months and you’ll be in the verbally elite. 27, how to not sound anxious. Let them discover your similarity. Others prowl with tigers, lions lurk with lions, and little alley cats scramble around with other little alley cats.
+Use your new favorite words a few times and, just like breaking in a new pair of shoes, you’ll be very comfortable wearing your glorious new words. Technique number 26, your personal thesaurus. Look up some common words you use every day in a thesaurus. Then like slipping your feet into a new pair of shoes, slip your tongue into a few new words to see how they fit.
 
-Similarity breeds attraction, but in the human jungle big cats know a secret. When you delay revealing your similarity or let them discover it, it has much more punch. Above all, you don’t want to sound anxious to have rapport. Whenever someone mentions a common interest or experience, instead of jumping in with a breathless, hey, me too, I do that too, or I know all about that, let your conversation partner enjoy talking about it.
+If you like them, start making permanent replacements. Remember, only 50 words makes the difference between a rich creative vocabulary and an average middle-of-the-road one. Substitute a word a day for two months and you’ll be in the verbally elite. 27, how to not sound anxious. Let them discover your similarity.
 
-Let her go on about the country club before you tell her you’re a member too. Let him go on analyzing the golf swing of Arnold Palmer before you start casually comparing the swings of golf grates Greg, Jack, Tiger, and Arnie. Let her tell you how many tennis games she’s won before you just happen to mention your USTA ranking. Several years ago I was telling a new acquaintance how much I loved to ski.
+Others prowl with tigers, lions lurk with lions, and little alley cats scramble around with other little alley cats. Similarity breeds attraction, but in the human jungle big cats know a secret. When you delay revealing your similarity or let them discover it, it has much more punch. Above all, you don’t want to sound anxious to have rapport.
 
-He listened with interest as I indulged in a detailed travelogue of places I had skied. I raved about the various resorts. I analyzed the various conditions. I discussed artificial versus natural snow.
+Whenever someone mentions a common interest or experience, instead of jumping in with a breathless, hey, me too, I do that too, or. I know all about that, let your conversation partner enjoy talking about it. Let her go on about the country club before you tell her you’re a member too. Let him go on analyzing the golf swing of Arnold Palmer before you start casually comparing the swings of golf grates Greg, Jack, Tiger, and Arnie.
 
-It wasn’t until near the end of my monologue that I finally had the sense to ask my new acquaintance if he skied. He replied, yes, I keep a little apartment in Aspen. Cool.
+Let her tell you how many tennis games she’s won before you just happen to mention your USTA ranking. Several years ago. I was telling a new acquaintance how much. I loved to ski.
+
+He listened with interest as. I indulged in a detailed travelogue of places. I had skied. I raved about the various resorts.
+
+I analyzed the various conditions. I discussed artificial versus natural snow. It wasn’t until near the end of my monologue that. I finally had the sense to ask my new acquaintance if he skied.
+
+He replied, yes, I keep a little apartment in Aspen. Cool.
 
 
 <a id="sec-050803"></a>
 ### ⏱️ [05:08:03 - 05:13:05]
 
-If he had jumped in and told me about his ski pad right after I first told him how much I liked skiing, I’d have been impressed, mildly. However, waiting until the end of our conversation and then revealing he was such an avid skier that he kept an Aspen ski pad made it unforgettable. Here’s the technique I call kill the quick me too. Whenever people mention an activity or interest you share, let them enjoy discussing their passion.
+If he had jumped in and told me about his ski pad right after. I first told him how much. I liked skiing, I’d have been impressed, mildly.
+
+However, waiting until the end of our conversation and then revealing he was such an avid skier that he kept an Aspen ski pad made it unforgettable. Here’s the technique. I call kill the quick me too. Whenever people mention an activity or interest you share, let them enjoy discussing their passion.
 
 Then when the time is right, casually mention you share their interest. Oh, I must have been boring you. I waited weeks for the opportunity to try it out.
 
-Finally the moment presented itself at a convention. A new contact began telling me about her recent trip to Washington, D. C. She had no idea that Washington was where I grew up.
+Finally, the moment presented itself at a convention. A new contact began telling me about her recent trip to Washington, D. C. She had no idea that Washington was where.
 
-She told me all about the Capitol, the Washington Monument, the Kennedy Center, and how she and her husband went bicycling in Rock Creek Park. Momentarily I forgot I was keeping my mouth shut to practice my new technique. I was genuinely enjoying hearing about these familiar sights from a visitor’s perspective. I asked her where she stayed, where she dined, and if she had a chance to get into any of the beautiful Maryland or Virginia suburbs.
+I grew up. She told me all about the Capitol, the Washington Monument, the Kennedy Center, and how she and her husband went bicycling in Rock Creek Park. Momentarily. I forgot.
 
-At one point, obviously pleased by my interest in her trip, she said, you sound like you know a lot about Washington. Yes, I replied. It’s my hometown, but I haven’t been back there in ages. Our hometown?
+I was keeping my mouth shut to practice my new technique. I was genuinely enjoying hearing about these familiar sights from a visitor’s perspective. I asked her where she stayed, where she dined, and if she had a chance to get into any of the beautiful Maryland or Virginia suburbs. At one point, obviously pleased by my interest in her trip, she said, you sound like you know a lot about Washington.
+
+Yes, I replied. It’s my hometown, but. I haven’t been back there in ages. Our hometown?
 
 She squealed. My goodness, why didn’t you tell me? I must have been boring you. Oh, not at all, I replied honestly.
 
-I was enjoying hearing about your trip so much I was afraid you’d stop if I told you. Her big smile and barely audible, oh, gosh, let me know I had won a new friend. When someone starts telling you about an activity he has done, a trip she has made, a club he belongs to, an interest she has, anything that you share, bite your tongue. Let the teller relish his or her own monologue.
+I was enjoying hearing about your trip so much. I was afraid you’d stop if. I told you. Her big smile and barely audible, oh, gosh, let me know.
 
-Relax and enjoy it, too, secretly knowing how much pleasure your conversation partner will have when you reveal you share the same experience. Then when the moment is ripe, casually disclose your similarity, and be sure to mention how much you enjoyed hearing about his or her shared interest. Technique number 27. Kill the quick me too.
+I had won a new friend. When someone starts telling you about an activity he has done, a trip she has made, a club he belongs to, an interest she has, anything that you share, bite your tongue. Let the teller relish his or her own monologue. Relax and enjoy it, too, secretly knowing how much pleasure your conversation partner will have when you reveal you share the same experience.
 
-Whenever you have something in common with someone, the longer you wait to reveal it, the more moved and impressed he or she will be. You emerge as a confident big cat, not a lonely little stray, hungry for quick connection with a stranger. P. S.
+Then when the moment is ripe, casually disclose your similarity, and be sure to mention how much you enjoyed hearing about his or her shared interest. Technique number 27. Kill the quick me too. Whenever you have something in common with someone, the longer you wait to reveal it, the more moved and impressed he or she will be.
 
-Don’t wait too long to reveal your shared interest, or it will seem like you’re being tricky. 28. How to be a you-firstie to gain their respect and affection. Sex. Now that I have your attention, two-bit comics have been using that gag from the days when two-bits bought a four-square meal.
+You emerge as a confident big cat, not a lonely little stray, hungry for quick connection with a stranger. P. S. Don’t wait too long to reveal your shared interest, or it will seem like you’re being tricky. 28.
+
+How to be a you-firstie to gain their respect and affection. Sex. Now that. I have your attention, two-bit comics have been using that gag from the days when two-bits bought a four-square meal.
 
 However, big winners know there’s a three-letter word more potent than sex to get people’s attention. That word is you. Why is you such a powerful word? Because when we were infants, we thought we were the center of the universe.
 
-Nothing mattered but me, myself, and I. The rest of the shadowy forms stirring about us, which we later learned were other people, existed solely for what they could do for us. Self-centered little tykes that we were, our tiny brains translated every action, every word, into, how does that affect me? Big winners know we haven’t changed a bit.
+Nothing mattered but me, myself, and. I. The rest of the shadowy forms stirring about us, which we later learned were other people, existed solely for what they could do for us. Self-centered little tykes that we were, our tiny brains translated every action, every word, into, how does that affect me?
 
-Adults camouflage their self-centeredness under a mask of civilization and politeness. Yet the human brain still immediately, instinctively, and unfailingly translates everything into terms of, how does that affect me?
+Big winners know we haven’t changed a bit. Adults camouflage their self-centeredness under a mask of civilization and politeness. Yet the human brain still immediately, instinctively, and unfailingly translates everything into terms of, how does that affect me?
 
 For example, suppose, gentlemen, you want to ask a colleague, Jill, if she would like to join you for dinner. So you say to her, there’s a really good new Indian restaurant in town, will you join me there for dinner tonight? Before answering, Jill is thinking to herself, by good does he mean the food or the atmosphere or both? Her reverie continues, Indian cuisine, I’m not sure.
 
-He says it’s good. However, will I like it? While thinking, Jill hesitates. You probably take her hesitation personally, and the joy of the exchange diminishes.
+He says it’s good. However, will. I like it? While thinking, Jill hesitates.
+
+You probably take her hesitation personally, and the joy of the exchange diminishes.
 
 
 <a id="sec-051305"></a>
@@ -2172,27 +2348,33 @@ Suppose instead you had said to her, Jill, you will really love this new Indian 
 
 Psychologists tell us everyone automatically gravitates toward that which is pleasurable and pulls away from that which is painful. For many people, thinking is painful. So big winners, when they wish to control, inspire, be loved by, sell to people, or get them to go to dinner, do the thinking for them. They translate everything into the other person’s terms by starting as many sentences as they can with that powerful little three-letter word, you.
 
-Thus I call the technique communication. Communicate when you want a favor. Putting you first gets a much better response, especially when you’re asking a favor, because it pushes the asker’s pride button. Suppose you want to take a long weekend, you decide to ask your boss if you can take Friday off.
+Thus. I call the technique communication. Communicate when you want a favor. Putting you first gets a much better response, especially when you’re asking a favor, because it pushes the asker’s pride button.
 
-Which request do you think he or she is going to react to more positively? Can I take Friday off, boss? Or this one? Boss, can you do without me Friday?
+Suppose you want to take a long weekend, you decide to ask your boss if you can take Friday off. Which request do you think he or she is going to react to more positively? Can. I take Friday off, boss?
 
-In the first case, boss has to translate your can I take Friday off into can I do without this employee Friday? That’s an extra thought process, and you know how some bosses hate to think.
+Or this one? Boss, can you do without me Friday? In the first case, boss has to translate your can. I take Friday off into can.
 
-However in the second case, boss, can you do without me Friday? You did boss’s thinking for her. Your new wording made managing without you a matter of hours. of pride for boss.
+I do without this employee Friday? That’s an extra thought process, and you know how some bosses hate to think.
+
+However, in the second case, boss, can you do without me Friday? You did boss’s thinking for her. Your new wording made managing without you a matter of hours. of pride for boss.
 
 “'Of course,' she said to herself. ”'I can manage without your help Friday.' “'Communicate your compliments.'” Communication also enriches your social conversation. Gentlemen, say a lady likes your suit. Which woman gives you warmer feelings?
 
 The woman who says, “'I like your suit.'” Or the one who says, “'You look great in that suit.'” Big players who make business presentations use communication to excellent advantage. Suppose you’re giving a talk, and a participant asks a question.
 
-He likes to hear you say, “'That’s a good question.'” However, consider how much better he feels when you tell him, “'You’ve asked a good question.'” Salespeople, don’t just tell your prospects. It’s important that, convince them by informing them, you’ll see the importance of.
+He likes to hear you say, “'That’s a good question.'”. However, consider how much better he feels when you tell him, “'You’ve asked a good question.'” Salespeople, don’t just tell your prospects. It’s important that, convince them by informing them, you’ll see the importance of.
 
 When negotiating instead of, “'The result will be,' let them know, you’ll see the result when you—” Starting sentences with you even works when talking to strangers on the street. Once driving around San Francisco hopelessly lost, I asked people walking along the sidewalk how to get to the Golden Gate Bridge. I stopped a couple trudging up a hill.
 
-“'Excuse me,' I called out the window. ”'I can’t find the Golden Gate Bridge.'“ The pair looked at each other and shrugged with that, ”'How stupid can these tourists get look on their faces?'“ ”'That direction,' the husband mumbled, pointing straight ahead.“ Still lost, I called out to the next couple I encountered. ”'Excuse me, where’s the Golden Gate Bridge?'“ Without smiling they pointed in the opposite direction. Then I decided to try communication.
+“'Excuse me,' I called out the window. ”'I can’t find the Golden Gate Bridge.'“ The pair looked at each other and shrugged with that, ”'How stupid can these tourists get look on their faces?'“ ”'That direction,' the husband mumbled, pointing straight ahead.“ Still lost, I called out to the next couple. I encountered. ”'Excuse me, where’s the Golden Gate Bridge?'“ Without smiling they pointed in the opposite direction. Then. I decided to try communication.
 
-When I came upon the next strolling couple I called out the window. ”'Excuse me, could you tell me where the Golden Gate Bridge is?'“ ”'Of course,' they said, answering my question literally. “'You see, by phrasing the question that way it was a subtle challenge. I was asking, in essence, are you able to give me directions?
+When. I came upon the next strolling couple.
 
-This hits them in the pride button.' They walked over to my car and gave me explicit instructions. ”'Hey,' I thought, “'this you stuff really works.' To test my hypothesis I tried it a few more times. I kept asking passers-by my three forms of the question. Sure enough, whenever I asked, could you tell me where, people were more pleasant and helpful than when I started the question with I or where.” I’m sure when they recover the flight-box from the Fall of Man under a fig leaf in the Garden of Eden it will convince the world of the power of the word you.
+I called out the window. ”'Excuse me, could you tell me where the Golden Gate Bridge is?'“ ”'Of course,' they said, answering my question literally. “'You see, by phrasing the question that way it was a subtle challenge. I was asking, in essence, are you able to give me directions?
+
+This hits them in the pride button.' They walked over to my car and gave me explicit instructions. ”'Hey,' I thought, “'this you stuff really works.' To test my hypothesis. I tried it a few more times. I kept asking passers-by my three forms of the question. Sure enough, whenever.
+
+I asked, could you tell me where, people were more pleasant and helpful than when. I started the question with. I or where.”. I’m sure when they recover the flight-box from the Fall of Man under a fig leaf in the Garden of Eden it will convince the world of the power of the word you.
 
 Eve did not ask Adam to eat the apple. She did not command him to eat the apple. She didn’t even say, "'Adam, I want you to eat this apple.'
 
@@ -2200,27 +2382,33 @@ Eve did not ask Adam to eat the apple. She did not command him to eat the apple.
 <a id="sec-051806"></a>
 ### ⏱️ [05:18:06 - 05:23:07]
 
-She phrased it, as all big winners would, "'You will love this apple.' That’s why he bit. The question is a sign of sanity. Therapists calculate inmates of mental institutions say I and me twelve times more often than residents of the outside world. As patients' conditions improve, the number of times they use the personal pronouns also diminishes.
+She phrased it, as all big winners would, "'You will love this apple.' That’s why he bit. The question is a sign of sanity. Therapists calculate inmates of mental institutions say. I and me twelve times more often than residents of the outside world.
 
-Continuing up the sanity scale, the fewer times you use I, the more sane you seem to your listeners. If you eavesdrop on big winners talking with each other, you’ll notice a lot more you than I in their conversation. Technique number twenty-eight, communication. Start every appropriate sentence with you.
+As patients' conditions improve, the number of times they use the personal pronouns also diminishes. Continuing up the sanity scale, the fewer times you use. I, the more sane you seem to your listeners. If you eavesdrop on big winners talking with each other, you’ll notice a lot more you than.
 
-It immediately grabs your listener’s attention. It gets a more positive response because it pushes the pride button and saves them having to translate it into me terms. When you sprinkle you as liberally as salt and pepper throughout your conversation, your listeners find it an irresistible spice. The next technique concerns a way big winners are silently you-oriented. Twenty-nine, how to make them feel you don’t smile at just anybody.
+I in their conversation. Technique number twenty-eight, communication. Start every appropriate sentence with you. It immediately grabs your listener’s attention.
 
-Have you ever seen those low-budget mail-order fashion catalogs that use the same model throughout? Whether she is engulfed in a wedding gown or partially clad in a bikini, her face sports the same plastic smile. Looking at her, you get the feeling if you wrapped on her forehead a tiny voice would come back saying, Nobody’s in here. Whereas models in more sophisticated magazines have mastered a myriad of different expressions—a flirtatious, I’ve got a secret smile on one page, a quizzical, I think I’d like to get to know you but I’m not sure smile on the next, and a mysterious Mona Lisa smile on the third.
+It gets a more positive response because it pushes the pride button and saves them having to translate it into me terms. When you sprinkle you as liberally as salt and pepper throughout your conversation, your listeners find it an irresistible spice. The next technique concerns a way big winners are silently you-oriented. Twenty-nine, how to make them feel you don’t smile at just anybody.
 
-You feel there’s a brain running the operation somewhere inside that beautiful head. I once stood in the receiving line of the ship I worked on, along with the captain, his wife, and several other officers. One passenger with a radiant smile started shaking hands down our line. When he got to me, he flashed a shimmering smile, revealing teeth as even and white as keys on a new piano. I was transfixed.
+Have you ever seen those low-budget mail-order fashion catalogs that use the same model throughout? Whether she is engulfed in a wedding gown or partially clad in a bikini, her face sports the same plastic smile. Looking at her, you get the feeling if you wrapped on her forehead a tiny voice would come back saying, Nobody’s in here. Whereas models in more sophisticated magazines have mastered a myriad of different expressions—a flirtatious, I’ve got a secret smile on one page, a quizzical, I think.
 
-It was as though a brilliant light had illuminated the dim ballroom. I wished him a happy cruise and resolved to find this charming gentleman later. Then he was introduced to the next person. Out of the corner of my eye I saw his identical glistening grin—a third person, the same grin.
+I’d like to get to know you but. I’m not sure smile on the next, and a mysterious Mona Lisa smile on the third. You feel there’s a brain running the operation somewhere inside that beautiful head. I once stood in the receiving line of the ship.
 
-My interest began to dwindle. When he gave his fourth indistinguishable smile to the next person, he started to resemble a Cheshire cat. By the time he was introduced to the fifth person, his consistent smile felt like a strobe light disturbing the ambience of the ballroom. Strobe man went on flashing everybody the same smile down the line.
+I worked on, along with the captain, his wife, and several other officers. One passenger with a radiant smile started shaking hands down our line. When he got to me, he flashed a shimmering smile, revealing teeth as even and white as keys on a new piano. I was transfixed.
 
-I had no further interest in talking with him. Why did this man’s stock shoot high in my ticker one minute and plummet the next? Because his smile, although charming, reflected no special reaction to me. Obviously he gave the same smile to everybody, and by that it lost all its specialness.
+It was as though a brilliant light had illuminated the dim ballroom. I wished him a happy cruise and resolved to find this charming gentleman later. Then he was introduced to the next person. Out of the corner of my eye.
 
-If strobe man had given each of us a slightly different smile, he would have appeared sensitive and insightful. Of course if his smile had been just a tad bigger for me than for the others, I couldn’t have waited for the formalities to be over to seek him out in the crowded ballroom. Review your repertoire of smiles. If your job required you to carry a gun, you would, of course, learn all about the moving parts before firing it, and before taking aim, you would carefully consider whether it would murder, maim, or merely wound your target.
+I saw his identical glistening grin—a third person, the same grin. My interest began to dwindle. When he gave his fourth indistinguishable smile to the next person, he started to resemble a Cheshire cat. By the time he was introduced to the fifth person, his consistent smile felt like a strobe light disturbing the ambience of the ballroom.
 
-Since your smile is one of your biggest communications weapons, learn all about the moving parts and the effect on your target. Set aside five minutes, lock your bedroom or bathroom door so your family doesn’t think you’ve gone off the deep end. Now stand in front of the mirror and flash a few smiles. Discover the subtle differences in your repertoire.
+Strobe man went on flashing everybody the same smile down the line. I had no further interest in talking with him. Why did this man’s stock shoot high in my ticker one minute and plummet the next? Because his smile, although charming, reflected no special reaction to me.
 
-Just as you would alternate saying, hello, how do you do, and I am pleased to meet you, when being introduced to a group of people, vary your smile. Being used the same on each, let each of your smiles reflect the nuances of your sentiment
+Obviously, he gave the same smile to everybody, and by that it lost all its specialness. If strobe man had given each of us a slightly different smile, he would have appeared sensitive and insightful. Of course, if his smile had been just a tad bigger for me than for the others, I couldn’t have waited for the formalities to be over to seek him out in the crowded ballroom. Review your repertoire of smiles.
+
+If your job required you to carry a gun, you would, of course, learn all about the moving parts before firing it, and before taking aim, you would carefully consider whether it would murder, maim, or merely wound your target. Since your smile is one of your biggest communications weapons, learn all about the moving parts and the effect on your target. Set aside five minutes, lock your bedroom or bathroom door so your family doesn’t think you’ve gone off the deep end.
+
+Now stand in front of the mirror and flash a few smiles. Discover the subtle differences in your repertoire. Just as you would alternate saying, hello, how do you do, and. I am pleased to meet you, when being introduced to a group of people, vary your smile.
+
+Being used the same on each, let each of your smiles reflect the nuances of your sentiment
 
 
 <a id="sec-052307"></a>
@@ -2232,7 +2420,7 @@ Let your smiles grow out of the beauty big players find in each new face. If one
 
 For example, when you want to engineer the acquaintance of someone to whom you have not had the opportunity to be introduced, in the vernacular, that’s pick them up. The smiles' pick-up power was proven for posterity by solemn researchers at the University of Missouri. They conducted a highly controlled study titled, giving men the come on, effect of eye contact and smiling in a bar environment. I kid you not.
 
-To prove their hypothesis, female researchers made eye contact with unsuspecting male subjects enjoying a little libation in a local drinking establishment. Perhaps the female researchers followed their glance with a smile. In other cases, no smile. The results?
+To prove their hypothesis, female researchers made eye contact with unsuspecting male subjects enjoying a little libation in a local drinking establishment. Perhaps, the female researchers followed their glance with a smile. In other cases, no smile. The results?
 
 I quote the study. The highest approach behavior, 60%, was observed in the condition in which there was smiling. That translates into layman’s English. The guy came over 60% of the time when the lady smiled.
 
@@ -2246,15 +2434,15 @@ Big winners silently moan when they hear someone mouth a trite, overworn phrase.
 
 Would any of them describe themselves in those words? Not in a coon’s age. Why? Because when a big winner hears your cliche, you might as well be saying, my powers of imagination are impoverished.
 
-I can’t think of anything original to say, so I must fall back on these trite, overworn phrases. Mouthing a common cliche around uncommonly successful people brands you as uncommonly common. Don’t touch a cliche with a ten-foot pole. Be on guard.
+I can’t think of anything original to say, so. I must fall back on these trite, overworn phrases. Mouthing a common cliche around uncommonly successful people brands you as uncommonly common. Don’t touch a cliche with a ten-foot pole.
 
-Don’t use any cliches when chatting with big winners. Don’t even touch one with a ten-foot pole. Never? Not even when hell freezes over?
+Be on guard. Don’t use any cliches when chatting with big winners. Don’t even touch one with a ten-foot pole. Never?
 
-Not unless you want to sound dumb as a doorknob. Instead of coughing up a cliche, roll your own clever phrases by using the next technique. 31. How to use motivational speakers' techniques to enhance your conversation. They say the pen is mightier than the sword.
+Not even when hell freezes over? Not unless you want to sound dumb as a doorknob. Instead of coughing up a cliche, roll your own clever phrases by using the next technique. 31. How to use motivational speakers' techniques to enhance your conversation.
 
-It is, but the tongue is even mightier than the pen. Our tongues can bring crowds to laughter, to tears, and often to their feet in shouting appreciation. Orders have moved nations to war or brought lost souls to God. And what is their equipment?
+They say the pen is mightier than the sword. It is, but the tongue is even mightier than the pen. Our tongues can bring crowds to laughter, to tears, and often to their feet in shouting appreciation. Orders have moved nations to war or brought lost souls to God.
 
-The same eyes, ears, hands, legs, arms, and vocal cords you and I have. Perhaps a professional athlete has a stronger body or a professional singer is blessed with a more beautiful singing voice than the one we were doled out, but the professional speaker
+And what is their equipment? The same eyes, ears, hands, legs, arms, and vocal cords you and. I have. Perhaps a professional athlete has a stronger body or a professional singer is blessed with a more beautiful singing voice than the one we were doled out, but the professional speaker
 
 
 <a id="sec-052810"></a>
@@ -2274,13 +2462,17 @@ Bush had said, “I promise not to raise taxes, or Johnny Cochran during O.” J
 
 Read my lips! One of my favorite speakers is a radio broadcaster named Barry Farber, who brightens up late-night radio with sparkling similes. Barry would never use a cliché like, Nervous as a cat on a hot tin roof. He described being nervous about losing his job as, I felt like an elephant dangling over a cliff with his tail tied to a daisy.
 
-Instead of saying he looked at a pretty woman he’d say, My eyeballs popped out and dangled by the optic nerve. When I first met him I asked, “Mr.” Farber, how do you come up with these phrases? My daddy’s Mr. Farber. I’m Barry, he chided, his way of saying call me Barry.
+Instead of saying he looked at a pretty woman he’d say, My eyeballs popped out and dangled by the optic nerve. When. I first met him.
 
-He then candidly admitted, although some of his phrases are original, many are borrowed. Elvis Presley used to say, My daddy’s Mr. Presley, call me Elvis. Like all professional speakers, Barry spends several hours a week gleaning through books of quotations and humor. All professional speakers do.
+I asked, “Mr.” Farber, how do you come up with these phrases? My daddy’s Mr. Farber. I’m Barry, he chided, his way of saying call me Barry.
 
-They collect bon-mo they can use in a variety of situations, most especially to scrape egg off their faces when something unexpected happens. Many speakers use authors and speakers agent Lily Walters’s FaceSaver Lines from her book, What to Say When You’re Dying on the Platform. If you tell a joke and no one laughs, try. That joke was designed to get a silent laugh and it worked.
+He then candidly admitted, although some of his phrases are original, many are borrowed. Elvis Presley used to say, My daddy’s Mr. Presley, call me Elvis. Like all professional speakers, Barry spends several hours a week gleaning through books of quotations and humor.
 
-If the microphone lets out an agonizing how I’ll look at it and say, I don’t understand, I brushed my teeth this morning. If someone asks you a question you don’t want to answer, could you save that question until I’m finished and well on my way home? All pros think of holes they might fall into and then memorize great escape lines. You can do the same.
+All professional speakers do. They collect bon-mo they can use in a variety of situations, most especially to scrape egg off their faces when something unexpected happens. Many speakers use authors and speakers agent Lily Walters’s FaceSaver Lines from her book, What to Say. When You’re Dying on the Platform.
+
+If you tell a joke and no one laughs, try. That joke was designed to get a silent laugh and it worked. If the microphone lets out an agonizing how. I’ll look at it and say, I don’t understand, I brushed my teeth this morning.
+
+If someone asks you a question you don’t want to answer, could you save that question until. I’m finished and well on my way home? All pros think of holes they might fall into and then memorize great escape lines. You can do the same.
 
 Look through books of similes to enrich your day-to-day conversations. Instead of happy as a lark, try happy as a lottery winner or happy as a baby with its first ice cream cone. Instead of bald as an eagle, try bald as a new marine or bald as a bullfrog’s belly. Instead of quiet as a mouse, try quiet as an eel swimming in oil or quiet as a fly lighting on a feather duster.
 
@@ -2296,27 +2488,29 @@ Humor enriches any conversation, but not jokes starting with, hey, did you hear 
 
 For example, if you’re going to a meeting on the budget, look up money in a quotation book. In an uptight business situation, a little levity shows you’re at ease. Once, during an oppressive financial meeting, I heard a top executive say, don’t worry, this company has enough money to stay in business for years, unless we pay our creditors. He broke the tension and won the appreciation of all.
 
-Here I saw a similar quote in a humor book attributed to Jackie Mason, the comedian. So what? The exec still came across as a cool communicator with his clever comment. Big players who want to be quoted in the media lie awake at night gnawing the pillow, trying to come up with phrases the press will pick up.
+Here. I saw a similar quote in a humor book attributed to Jackie Mason, the comedian. So what? The exec still came across as a cool communicator with his clever comment.
 
-A Michigan veterinarian named Timothy, a heavy hitter in his own field but completely unknown outside of it, made national headlines when he planned to attach a pair of feet to a rooster who lost his to frostbite. Why? Because he called it a drumstick transplant. I don’t know if a French woman, Jeanne Colmont, then officially the world’s oldest person, was looking for publicity on her 122nd birthday.
+Big players who want to be quoted in the media lie awake at night gnawing the pillow, trying to come up with phrases the press will pick up. A Michigan veterinarian named Timothy, a heavy hitter in his own field but completely unknown outside of it, made national headlines when he planned to attach a pair of feet to a rooster who lost his to frostbite. Why? Because he called it a drumstick transplant.
 
-But she made international headlines when she told the media, I’ve only ever had one wrinkle and I’m sitting on it. Mark Victor Hansen, a big player in his own field but once relatively unknown outside of it, was propelled into national prominence when he came up with a catchy name for his book co-authored with Jack Canfield, Chicken Soup for the Soul. He told me his original title was 101 Pretty Stories. How far would that have gone?
+I don’t know if a French woman, Jeanne Colmont, then officially the world’s oldest person, was looking for publicity on her 122nd birthday. But she made international headlines when she told the media, I’ve only ever had one wrinkle and. I’m sitting on it. Mark Victor Hansen, a big player in his own field but once relatively unknown outside of it, was propelled into national prominence when he came up with a catchy name for his book co-authored with Jack Canfield, Chicken Soup for the Soul.
 
-When the world was lapping up among others his Chicken Soup for the Woman Soul, Chicken Soup for the Teenage Soul, Chicken Soup for the Mother Soul, Chicken Soup for the Christian Soul, plus second, third, and fourth servings of Chicken Soup in hardcover, paperback, audio, video, and calendars. Technique number 31. Use Jawsmith’s Jive. Whether you’re standing behind a podium facing thousands or behind the barbecue grill facing your family, you’ll move, amuse, and motivate with the same skills.
+He told me his original title was 101 Pretty Stories. How far would that have gone? When the world was lapping up among others his Chicken Soup for the Woman Soul, Chicken Soup for the Teenage Soul, Chicken Soup for the Mother Soul, Chicken Soup for the Christian Soul, plus second, third, and fourth servings of Chicken Soup in hardcover, paperback, audio, video, and calendars. Technique number 31.
 
-Read speakers' books to cull quotations, pull pearls of wisdom, and get gems to tickle their funny bones. Find a few bon-mon to let casually slide off your tongue on chosen occasions. If you want to be notable, dream up a crazy quotable. Make them rhyme, make them clever, or make them funny.
+Use Jawsmith’s Jive. Whether you’re standing behind a podium facing thousands or behind the barbecue grill facing your family, you’ll move, amuse, and motivate with the same skills. Read speakers' books to cull quotations, pull pearls of wisdom, and get gems to tickle their funny bones. Find a few bon-mon to let casually slide off your tongue on chosen occasions.
 
-Above all, make them relevant. A word of warning. No matter how good your material is, it bombs if it doesn’t fit the situation. I learned this the hard way during my cruise ship days.
+If you want to be notable, dream up a crazy quotable. Make them rhyme, make them clever, or make them funny. Above all, make them relevant. A word of warning.
 
-On a cruise to England I decided to give my passengers a reading of the English love poems of Elizabeth Barrett and Robert Browning. You know, how do I love thee? Let me count the ways. It was a big hit.
+No matter how good your material is, it bombs if it doesn’t fit the situation. I learned this the hard way during my cruise ship days. On a cruise to England. I decided to give my passengers a reading of the English love poems of Elizabeth Barrett and Robert Browning.
 
-The passengers loved it and raved for days. I couldn’t walk out on deck without some passenger turning to me and affectionately echoing, how do I love thee? Naturally, I got a pretty swollen head over this performance and fancied myself an eminent poetry reader. I decided to reward the passengers on the next cruise, which was a cruise to the Caribbean and didn’t go anywhere in the neighborhood of England, with my spectacular reading of the English love poems. What a bomb!
+You know, how do. I love thee? Let me count the ways. It was a big hit.
 
-Passengers avoided me on the deck for the rest of the cruise. How did you bore me? Let me count the ways. Thirty-two.
+The passengers loved it and raved for days. I couldn’t walk out on deck without some passenger turning to me and affectionately echoing, how do. I love thee? Naturally, I got a pretty swollen head over this performance and fancied myself an eminent poetry reader.
 
-How to banter like the big shots do. Big winners tell it like it is. If you stepped into an elevator full of people speaking Hungarian, you might not recognize they were Hungarian unless you spoke their language.
+I decided to reward the passengers on the next cruise, which was a cruise to the Caribbean and didn’t go anywhere in the neighborhood of England, with my spectacular reading of the English love poems. What a bomb! Passengers avoided me on the deck for the rest of the cruise. How did you bore me?
 
-However, the minute you opened your mouth, they’d recognize you’re not Hungarian. It’s the same with the big cats. If you overhear several of them speaking, you might not recognize they’re big cats.
+Let me count the ways. Thirty-two. How to banter like the big shots do. Big winners tell it like it is.
+
+If you stepped into an elevator full of people speaking Hungarian, you might not recognize they were Hungarian unless you spoke their language. However, the minute you opened your mouth, they’d recognize you’re not Hungarian. It’s the same with the big cats. If you overhear several of them speaking, you might not recognize they’re big cats.
 
 However, the minute you opened your mouth, they’d recognize you’re not a big cat, unless you spoke their lingo. What are some differences between a big cat’s growl and a little cat’s insignificant hiss? One of the most blatant is euphemisms. Big cats aren’t afraid of real words.
 
@@ -2326,15 +2520,17 @@ However, the minute you opened your mouth, they’d recognize you’re not a big
 
 They call a spade a spade. Words like toilet paper don’t scare them. Little cats hide behind bathroom tissue. If somebody is rich, big cats call it rich.
 
-Little cats, oh so embarrassed at the concept of talking about money and polite company, read the word wealthy. When little cats use a substitute word or euphemism, they might as well be saying, whoops, you are better than I am. I’m in polite company now, and so I’ll use the nicey-nice word. Big cats are anatomically correct.
+Little cats, oh so embarrassed at the concept of talking about money and polite company, read the word wealthy. When little cats use a substitute word or euphemism, they might as well be saying, whoops, you are better than. I am. I’m in polite company now, and so.
 
-No cutesy words for body parts. They’ll say breasts when they mean breasts. When they say knockers, they mean decorative structures that hang on the front door. And family jewels are in the safe on the wall.
+I’ll use the nicey-nice word. Big cats are anatomically correct. No cutesy words for body parts. They’ll say breasts when they mean breasts.
 
-If a big cat is ever in doubt about a word, he or she simply resorts to French. If they feel the word bodux is debatable, derriere will do quite nicely, thank you. Technique number 32. Call a spade a spade.
+When they say knockers, they mean decorative structures that hang on the front door. And family jewels are in the safe on the wall. If a big cat is ever in doubt about a word, he or she simply resorts to French. If they feel the word bodux is debatable, derriere will do quite nicely, thank you.
 
-Don’t hide behind euphemisms. Call a spade a spade. That doesn’t mean big cats use tasteless four-letter words when perfectly decent five and six-letter ones exist. They’ve simply learned the king’s English, and they speak it. Here’s another way to tell the big players from the little ones just by listening to a few minutes of their conversation. 33.
+Technique number 32. Call a spade a spade. Don’t hide behind euphemisms. Call a spade a spade.
 
-How to avoid the world’s worst conversational habit. Once I was at a small dinner party given by the president of an advertising agency, Lewis, and his wife, Lillian. The evening started with cocktails, followed by a gourmet meal accompanied by a selection of excellent wines. The conversation had been convivial, the cuisine delicious, and the wine very fine, and very plentiful.
+That doesn’t mean big cats use tasteless four-letter words when perfectly decent five and six-letter ones exist. They’ve simply learned the king’s English, and they speak it. Here’s another way to tell the big players from the little ones just by listening to a few minutes of their conversation. 33. How to avoid the world’s worst conversational habit.
+
+Once. I was at a small dinner party given by the president of an advertising agency, Lewis, and his wife, Lillian. The evening started with cocktails, followed by a gourmet meal accompanied by a selection of excellent wines. The conversation had been convivial, the cuisine delicious, and the wine very fine, and very plentiful.
 
 At the end of the evening, Lewis raised his glass to make a toast, a few wine droplets sloshed out of his glass onto the tablecloth. A pretty young woman who was the date of a new art director named Bob giggled and said, “I can tell you’re feeling no pain.” Shock waves went around the table. Everyone froze. The host was indeed a bit inebriated.
 
@@ -2348,21 +2544,23 @@ A dead giveaway of a little cat is his or her proclivity to tease. An innocent j
 
 People wind up paying for it, dearly. Thirty-four, how to give them the bad news and have them like you all the more. In ancient Egypt the Pharaoh treated the humblest message-runner like a prince when he arrived at the palace if he brought good news.
 
-However, if the exhausted runner had the misfortune to bring the Pharaoh on happy news, his head was chopped off. Lots of that spirit pervade today’s conversations. Once a friend and I packed up some peanut butter and jelly sandwiches for an outing. As we waltzed happily out the door, picnic basket in hand, a smiling neighbor, rocking away on his porch, looked up at the sky and said, oh, boy, bad day for a picnic.
+However, if the exhausted runner had the misfortune to bring the Pharaoh on happy news, his head was chopped off. Lots of that spirit pervade today’s conversations. Once a friend and. I packed up some peanut butter and jelly sandwiches for an outing.
 
-The news cat says it’s going to rain. I wanted to rub his face in my peanut butter and jelly sandwich, not for his gloomy weather
+As we waltzed happily out the door, picnic basket in hand, a smiling neighbor, rocking away on his porch, looked up at the sky and said, oh, boy, bad day for a picnic. The news cat says it’s going to rain. I wanted to rub his face in my peanut butter and jelly sandwich, not for his gloomy weather
 
 
 <a id="sec-054315"></a>
 ### ⏱️ [05:43:15 - 05:48:18]
 
-for his smile. Several months ago I was racing to catch a bus. As I breathlessly shoved my handful of cash across the greyhound counter, the grinning sales agent gushed, oh, that bus left five minutes ago. Dreams of decapitation.
+for his smile. Several months ago. I was racing to catch a bus. As.
 
-It’s not the news that makes someone angry. It’s the unsympathetic attitude with which it’s delivered. Someone must give bad news from time to time, and winning professionals do it with the proper attitude. A doctor advising a patient she needs an operation does it with compassion.
+I breathlessly shoved my handful of cash across the greyhound counter, the grinning sales agent gushed, oh, that bus left five minutes ago. Dreams of decapitation. It’s not the news that makes someone angry. It’s the unsympathetic attitude with which it’s delivered.
 
-A boss informing an employee he didn’t get the job takes on a sympath… This is Audible. Brilliance Audio presents the unabridged recording of How to Talk to Anyone, 92 Little Tricks for Big Success in Relationships by Leo Lownes, performed by Joyce Bean. Introduction read by the author.
+Someone must give bad news from time to time, and winning professionals do it with the proper attitude. A doctor advising a patient she needs an operation does it with compassion. A boss informing an employee he didn’t get the job takes on a sympath… This is Audible.
 
-There are two kinds of people in this life. Those who walk into a room and say, well, here I am. And those who walk in and say, ah, there you are. Introduction.
+Brilliance Audio presents the unabridged recording of. How to Talk to Anyone, 92 Little Tricks for Big Success in Relationships by Leo Lownes, performed by Joyce Bean. Introduction read by the author. There are two kinds of people in this life.
+
+Those who walk into a room and say, well, here. I am. And those who walk in and say, ah, there you are. Introduction.
 
 How to get anything you want from anybody. Well, at least have the best crack at it. Have you ever admired those successful people who seem to have it all? You see them chatting confidently at business meetings? or comfortably at social parties.
 
@@ -2380,7 +2578,9 @@ They also possess a quality that makes bosses higher and then promote, a charact
 
 How the little tricks were unveiled. Many years ago a drama teacher exasperated at my bad acting in a college play shouted, No, no, your body’s belying your words. Every tiny movement, every body position he held divulges your private thoughts. Your face can make 7,000 different expressions and each exposes precisely who you are and what you are thinking at any particular moment.
 
-Then he said something I’ll never forget. And your body, the way you move, is your autobiography in motion. How right he was. On the stage of real
+Then he said something. I’ll never forget. And your body, the way you move, is your autobiography in motion. How right he was.
+
+On the stage of real
 
 
 <a id="sec-054818"></a>
@@ -2404,21 +2604,23 @@ In today’s sophisticated world, it’s not enough to say smile or give sincere
 
 Women are wary of suitors saying, You are beautiful, when the bedroom door is in view. Reason two, the world is a very different place than it was in 1936, and we need a new formula for success. To find it, I observed the superstars of today. I explored the techniques used by top salespeople to close the sale, speakers to convince, clergy to convert, performers to engross, sex symbols to seduce, and athletes to win.
 
-I found concrete building blocks to the elusive qualities that lead to their success. Then I broke them down into easily digestible news you can use techniques. I gave each a name that will quickly come to mind when you find yourself in a communications conundrum. As I developed the techniques, I began sharing them with audiences around the country.
+I found concrete building blocks to the elusive qualities that lead to their success. Then. I broke them down into easily digestible news you can use techniques. I gave each a name that will quickly come to mind when you find yourself in a communications conundrum.
 
-Participants in my communications seminars gave me their ideas. My clients, many of them CEOs of Fortune 500 companies enthusiastically offered their observations.
+As. I developed the techniques, I began sharing them with audiences around the country. Participants in my communications seminars gave me their ideas. My clients, many of them CEOs of Fortune 500 companies enthusiastically offered their observations.
 
 
 <a id="sec-055335"></a>
 ### ⏱️ [05:53:35 - 05:58:52]
 
-When I was in the presence of the most successful and beloved leaders, I analyzed their body language and their facial expressions. I listened carefully to their casual conversations. Their timing, and their choice of words. I watched as they dealt with their families, friends, associates, and adversaries.
+When. I was in the presence of the most successful and beloved leaders, I analyzed their body language and their facial expressions. I listened carefully to their casual conversations. Their timing, and their choice of words.
 
-Every time I detected a little nip of magic in their communicating, I asked them to pluck it out with tweezers and expose it to the bright light of consciousness. We analyzed it together, and then I turned it into an easy-to-do little trick others could duplicate and profit from. My findings and the strokes of some of those very effective folks are in this book. Some are subtle, some are surprising, but all are achievable.
+I watched as they dealt with their families, friends, associates, and adversaries. Every time. I detected a little nip of magic in their communicating, I asked them to pluck it out with tweezers and expose it to the bright light of consciousness. We analyzed it together, and then.
 
-When you master them, everyone from new acquaintances to family, friends, and business associates will happily open their hearts, homes, companies, and even wallets to give you whatever they can. There’s a bonus. As you sail through life with your new communication skills, you will look back and see some very happy givers smiling in your wake.
+I turned it into an easy-to-do little trick others could duplicate and profit from. My findings and the strokes of some of those very effective folks are in this book. Some are subtle, some are surprising, but all are achievable. When you master them, everyone from new acquaintances to family, friends, and business associates will happily open their hearts, homes, companies, and even wallets to give you whatever they can.
 
-#### Part 1. How to Intrigue Everyone Without Saying a Word You only have 10 seconds to show you’re a somebody.
+There’s a bonus. As you sail through life with your new communication skills, you will look back and see some very happy givers smiling in your wake.
+
+#### Part 1. How to Intrigue Everyone Without Saying a Word. You only have 10 seconds to show you’re a somebody.
 
 The exact moment that two humans lay eyes on each other has awesome potency. The first side of you is a brilliant holograph. It burns its way into your new acquaintance’s eyes and can stay emblazoned in his or her memory forever. Artists are sometimes able to capture this quick, silver, fleeting, emotional response.
 
@@ -2426,49 +2628,53 @@ My friend Robert Grossman is an accomplished caricature artist who draws regular
 
 Sometimes at a party, Bob will do a quick sketch on a cocktail napkin of a guest. Hovering over Bob’s shoulder, the onlookers gasp as they watch their friend’s image and essence materialize before their eyes. When he’s finished drawing, he puts his pen down and hands the napkin to the subject. Often a puzzled look comes over the subject’s face.
 
-He or she usually mumbles some politeness like, well, that’s great, but it really isn’t me. The crowds convincing Crescendo of, oh, yes, it is, drowns the subject out and squelches any lingering doubt. The confused subject is left to stare back at the world’s view of himself or herself in the napkin. Once, when I was visiting Bob’s studio, I asked him how he could capture people’s personalities so well.
+He or she usually mumbles some politeness like, well, that’s great, but it really isn’t me. The crowds convincing Crescendo of, oh, yes, it is, drowns the subject out and squelches any lingering doubt. The confused subject is left to stare back at the world’s view of himself or herself in the napkin. Once, when.
 
-He said, it’s simple. I just look at them. No, I asked. How do you capture their personalities?
+I was visiting Bob’s studio, I asked him how he could capture people’s personalities so well. He said, it’s simple. I just look at them. No, I asked.
 
-Don’t you have to do a lot of research about their lifestyle, their history? No, I told you, Leela, just look at them. Huh? He went on to explain almost every facet of people’s personalities is evident from their appearance, their posture, the way they move.
+How do you capture their personalities? Don’t you have to do a lot of research about their lifestyle, their history? No, I told you, Leela, just look at them. Huh?
 
-For instance, he said, calling me over to a file where he kept his caricatures of political figures. See, Bob said, pointing to angles on various presidential body parts. Here’s the boyishness of Clinton, showing me his half smile, the awkwardness of the elder George Bush, pointing to his shoulder angle, the charm of Reagan, noting the ex-president’s smiling eyes, the shiftiness of Nixon, pointing to the furtive tilt of his head. Digging a little deeper into his file, he pulled out Franklin Delano Roosevelt and pointing to the nose high in the air.
+He went on to explain almost every facet of people’s personalities is evident from their appearance, their posture, the way they move. For instance, he said, calling me over to a file where he kept his caricatures of political figures. See, Bob said, pointing to angles on various presidential body parts. Here’s the boyishness of Clinton, showing me his half smile, the awkwardness of the elder George Bush, pointing to his shoulder angle, the charm of Reagan, noting the ex-president’s smiling eyes, the shiftiness of Nixon, pointing to the furtive tilt of his head.
 
-Here’s the pride of FDR. It’s all in the face and the body. First impressions are indelible. Why? Because in our fast paced information overload world of multiple stimuli bombarding us every second, people’s heads are spinning.
+Digging a little deeper into his file, he pulled out Franklin Delano Roosevelt and pointing to the nose high in the air. Here’s the pride of FDR. It’s all in the face and the body.
 
-They must form quick judgments to make sense of the world and get on with what they have to do. So whenever people meet you, they take an instant mental snapshot. That image of you becomes the data they deal with for a very long time. Your body shrieks before your lips can speak.
+First, impressions are indelible. Why? Because in our fast paced information overload world of multiple stimuli bombarding us every second, people’s heads are spinning. They must form quick judgments to make sense of the world and get on with what they have to do.
 
-Are their data accurate? Amazingly enough, yes. Even before your lips part and the first syllable escapes, the essence of you has already axed its way into their brains. The way you look and the way you move is more than 80% of someone’s first impression of you.
+So whenever people meet you, they take an instant mental snapshot. That image of you becomes the data they deal with for a very long time. Your body shrieks before your lips can speak. Are their data accurate?
 
-Not one word need be spoken.
+Amazingly enough, yes. Even before your lips part and the first syllable escapes, the essence of you has already axed its way into their brains. The way you look and the way you move is more than 80% of someone’s first impression of you. Not one word need be spoken.
 
 
 <a id="sec-055852"></a>
 ### ⏱️ [05:58:52 - 06:03:54]
 
-I’ve lived and worked in countries where I didn’t speak the native language. Yet without one understandable syllable spoken between us, the years proved my first impressions were on target. Whenever I met new colleagues, I could tell instantly how friendly they felt toward me, how confident they were, and approximately how much stature they had in the company. I could sense, just from seeing them move, who the heavyweights were and who were the welterweights.
+I’ve lived and worked in countries where. I didn’t speak the native language. Yet without one understandable syllable spoken between us, the years proved my first impressions were on target. Whenever.
 
-I have no extrasensory skill. You’d know too. How? Because before you have had time to process a rational thought, you get a sixth sense about someone.
+I met new colleagues, I could tell instantly how friendly they felt toward me, how confident they were, and approximately how much stature they had in the company. I could sense, just from seeing them move, who the heavyweights were and who were the welterweights. I have no extrasensory skill. You’d know too.
 
-Studies have shown emotional reactions occur even before the brain is at time to register what’s causing their reaction. Thus, the moment someone looks at you, he or she experiences a massive hit, the impact of which lays the groundwork for the entire relationship. Bob told me he captures that first hit in creating his caricatures.
+How? Because before you have had time to process a rational thought, you get a sixth sense about someone. Studies have shown emotional reactions occur even before the brain is at time to register what’s causing their reaction. Thus, the moment someone looks at you, he or she experiences a massive hit, the impact of which lays the groundwork for the entire relationship.
 
-Deciding to pursue my own agenda for how to talk to anyone, I asked, “Bob, if you wanted to portray somebody really cool, you know, intelligent, strong, charismatic, principled, fascinating, caring, interested in other people.” Easy, Bob interrupted. He knew precisely what I was getting at. Just give him great posture, a heads-up look, a confident smile, and a direct gaze. It’s the ideal image for somebody who’s a somebody.
+Bob told me he captures that first hit in creating his caricatures. Deciding to pursue my own agenda for how to talk to anyone, I asked, “Bob, if you wanted to portray somebody really cool, you know, intelligent, strong, charismatic, principled, fascinating, caring, interested in other people.” Easy, Bob interrupted. He knew precisely what. I was getting at.
 
-How to look like a somebody. My friend Karen is a highly respected professional in the home furnishings business. Her husband is an equally big name in the communications field. They have two small sons.
+Just give him great posture, a heads-up look, a confident smile, and a direct gaze. It’s the ideal image for somebody who’s a somebody. How to look like a somebody. My friend Karen is a highly respected professional in the home furnishings business.
 
-Whenever Karen is at a home furnishings industry event, everyone pays deference to her. She’s a very important person in that world. Her colleagues at conventions jostle for position just to be seen casually chatting with her and, they hope, be photographed rubbing elbows with her for industry Bibles like Home Furnishings Executive and Furniture World. Yet, Karen complains, when she accompanies her husband to communications functions, she might as well be a nobody.
+Her husband is an equally big name in the communications field. They have two small sons. Whenever Karen is at a home furnishings industry event, everyone pays deference to her. She’s a very important person in that world.
 
-When she takes her kids to school functions, she’s just another mom. She once asked me, Leil, how can I stand out from the crowd so people who don’t know me will approach me and at least assume I’m an interesting person? The techniques in this section accomplish precisely that. When you use the next nine techniques, you will come across as a special person to everyone you meet.
+Her colleagues at conventions jostle for position just to be seen casually chatting with her and, they hope, be photographed rubbing elbows with her for industry Bibles like Home Furnishings Executive and Furniture World. Yet, Karen complains, when she accompanies her husband to communications functions, she might as well be a nobody. When she takes her kids to school functions, she’s just another mom. She once asked me, Leil, how can.
 
-You will stand out as a somebody in whatever crowd you find yourself in, even if it’s not your crowd. Let’s start with your smile. 1. How to make your smile magically different. In 1936, one of Dale Carnegie’s six musts in How to Win Friends and Influence People was SMILE.
+I stand out from the crowd so people who don’t know me will approach me and at least assume. I’m an interesting person? The techniques in this section accomplish precisely that. When you use the next nine techniques, you will come across as a special person to everyone you meet.
 
-His edict has been echoed each decade by practically every communications guru who ever put pen to paper or mouth to microphone. However, at the turn of the millennium, it’s high time we reexamine the role of the smile in high-level human relations. When you dig deeper into Dale’s dictum, you’ll find a 1936 quick smile doesn’t always work, especially nowadays. The old-fashioned instant grin carries no weight with today’s sophisticated crowd.
+You will stand out as a somebody in whatever crowd you find yourself in, even if it’s not your crowd. Let’s start with your smile. 1. How to make your smile magically different. In 1936, one of Dale Carnegie’s six musts in.
 
-Look at world leaders, negotiators, and corporate giants. Not a smiling sycophant among them. Key players in all walks of life enrich their smile so when it does erupt, it has more potency and the world smiles with them. Researchers have cataloged dozens of different types of smiles.
+How to Win Friends and Influence People was SMILE. His edict has been echoed each decade by practically every communications guru who ever put pen to paper or mouth to microphone.
 
-They range from the tight rubber band of a trapped liar to the soft squishy smile of a tickled infant. Some smiles are warm while others are cold. There are real smiles and fake smiles. You’ve seen plenty of those plastered on the faces of friends who say they’re delighted you decided to drop by, and presidential candidates visiting your city who say they’re thrilled to be in, um, uh…
+However, at the turn of the millennium, it’s high time we reexamine the role of the smile in high-level human relations. When you dig deeper into Dale’s dictum, you’ll find a 1936 quick smile doesn’t always work, especially nowadays. The old-fashioned instant grin carries no weight with today’s sophisticated crowd. Look at world leaders, negotiators, and corporate giants.
 
-Big winners know their smile is one of their most powerful weapons, so they’ve fine-tuned it for maximum impact. How to fine-tune your smile? Just last year, my old college friend, Missy, took over her family business, a Midwestern company supplying corrugated boxes to manufacturers.
+Not a smiling sycophant among them. Key players in all walks of life enrich their smile so when it does erupt, it has more potency and the world smiles with them. Researchers have cataloged dozens of different types of smiles. They range from the tight rubber band of a trapped liar to the soft squishy smile of a tickled infant.
+
+Some smiles are warm while others are cold. There are real smiles and fake smiles. You’ve seen plenty of those plastered on the faces of friends who say they’re delighted you decided to drop by, and presidential candidates visiting your city who say they’re thrilled to be in, um, uh… Big winners know their smile is one of their most powerful weapons, so they’ve fine-tuned it for maximum impact.
+
+How to fine-tune your smile? Just last year, my old college friend, Missy, took over her family business, a Midwestern company supplying corrugated boxes to manufacturers.
 
 One day she called saying she was coming to New York to court new clients, and she invited me to dinner with several of her
 
@@ -2478,19 +2684,23 @@ One day she called saying she was coming to New York to court new clients, and s
 
 prospects. I was looking forward to once again seeing my friend’s quick silver smile and hearing her contagious laugh. Missy was an incurable giggler, and that was part of her charm. When her dad passed away last year, she told me she was taking over the business.
 
-I thought Missy’s personality was a little bubbly to be a CEO in a tough business, but hey, what do I know about the corrugated box biz? She, three of her potential clients, and I met in the cocktail lounge of a Midtown restaurant, and, as we led them into the dining room, Missy whispered in my ear, Please call me Melissa tonight. Of course, I winked back. Not many company presidents are called Missy.
+I thought Missy’s personality was a little bubbly to be a CEO in a tough business, but hey, what do. I know about the corrugated box biz? She, three of her potential clients, and. I met in the cocktail lounge of a Midtown restaurant, and, as we led them into the dining room, Missy whispered in my ear, Please call me Melissa tonight.
 
-Soon after the Metro D. C. did us, I began noticing Melissa was a very different woman from the giggling girl I’d known in college. She was just as charming. She smiled as much as ever.
+Of course, I winked back. Not many company presidents are called Missy. Soon after the Metro D. C. did us, I began noticing Melissa was a very different woman from the giggling girl.
 
-Yet something was different. I couldn’t quite put my finger on it. Although she was still effervescent, I had the distinct impression everything Melissa said was more insightful and sincere. She was responding with genuine warmth to her prospective clients, and I could tell they liked her, too.
+I’d known in college. She was just as charming. She smiled as much as ever. Yet something was different.
+
+I couldn’t quite put my finger on it. Although she was still effervescent, I had the distinct impression everything Melissa said was more insightful and sincere. She was responding with genuine warmth to her prospective clients, and. I could tell they liked her, too.
 
 I was thrilled because my friend was scoring a knockout that night. By the end of the evening, Melissa had three big new clients.
 
-Afterward, alone with her in the cab, I said, “Missy, you’ve really come a long way since you took over the company.” Your whole personality has developed, well, a really cool, sharp corporate edge. Uh-uh. Only one thing has changed, she said. What’s that?
+Afterward, alone with her in the cab, I said, “Missy, you’ve really come a long way since you took over the company.”. Your whole personality has developed, well, a really cool, sharp corporate edge. Uh-uh. Only one thing has changed, she said.
 
-My smile, she said. Your what? I asked incredulously. My smile, she repeated, as though I hadn’t heard her.
+What’s that? My smile, she said. Your what? I asked incredulously.
 
-You see, she said, with a distant look coming into her eyes. When Dad got sick and knew in a few years I’d have to take over the business, he sat me down and had a life-changing conversation with me. I’ll never forget his words.
+My smile, she repeated, as though. I hadn’t heard her. You see, she said, with a distant look coming into her eyes. When Dad got sick and knew in a few years.
+
+I’d have to take over the business, he sat me down and had a life-changing conversation with me. I’ll never forget his words.
 
 Dad said, “Missy, honey, remember that old song, I love you, honey, but your feet’s too big?” Well, if you’re going to make it big in the box business, let me say, I love you, honey, but your smile’s too quick. He then brought out a yellowed newspaper article quoting a study he’d been saving to show me when the time was right. It concerned women in business. The study showed women who were slower to smile in corporate life were perceived as more credible.
 
@@ -2500,15 +2710,15 @@ However, she trained her lips to erupt more slowly. Thus, her smile appeared mor
 
 Though the delay was less than a second, the recipients of her big, beautiful smile felt it was special and just for them. I decided to do more research on the smile. When you are in the market for shoes, you begin to look at everyone’s feet. When you decide to change your hairstyle, you look at everyone’s haircut.
 
-Well, for several months I became a steady smile watcher. I watched smiles on the street. I watched smiles on TV. I watched the smiles of politicians, the clergy, corporate giants, and world leaders.
+Well, for several months. I became a steady smile watcher. I watched smiles on the street. I watched smiles on TV.
 
-My findings? Amid the sea of flashing teeth and parting lips, I discovered the people perceived to have the most credibility and integrity were just ever so slower to smile. Then, when they did, their smiles seemed to seep into every crevice of their faces and envelop them like a slow flood. Thus, I call the following technique the Flooding Smile.
+I watched the smiles of politicians, the clergy, corporate giants, and world leaders. My findings? Amid the sea of flashing teeth and parting lips, I discovered the people perceived to have the most credibility and integrity were just ever so slower to smile. Then, when they did, their smiles seemed to seep into every crevice of their faces and envelop them like a slow flood.
 
-Technique number one. The Flooding Smile. Don’t flash an immediate smile when you greet someone, as though anyone who walked into your line of sight would be the beneficiary. Instead, look at the other person’s face for a second.
+Thus, I call the following technique the Flooding Smile. Technique number one. The Flooding Smile. Don’t flash an immediate smile when you greet someone, as though anyone who walked into your line of sight would be the beneficiary.
 
-Pause. Soak in their persona. Then let a big, warm, responsive smile flood over your face and overflow into your eyes. It will engulf the recipient like a warm wave.
+Instead, look at the other person’s face for a second. Pause. Soak in their persona. Then let a big, warm, responsive smile flood over your face and overflow into your eyes.
 
-The split-second delay
+It will engulf the recipient like a warm wave. The split-second delay
 
 
 <a id="sec-060857"></a>
@@ -2518,29 +2728,33 @@ convinces people your Flooding Smile is genuine and only for them. Let us now tr
 
 How to strike everyone as intelligent and insightful by using your eyes. It’s only a slight exaggeration to say Helen of Troy could launch ships with her eyes, and Davy Crockett could stare down a bear. Your eyes are personal grenades that have the power to detonate people’s emotions. Just as martial arts masters register their fists as lethal weapons, you can register your eyes as psychological lethal weapons when you master the following eye contact techniques.
 
-Beloved people in the game of life look beyond the conventional wisdom that teaches keep good eye contact. For one, they understand that to certain suspicious or insecure people, intense eye contact can be a virulent intrusion. When I was growing up, my family had a Haitian housekeeper whose fantasies were filled with witches, warlocks, and black magic. Zola refused to be left alone in a room with Louis, my Siamese cat.
+Beloved people in the game of life look beyond the conventional wisdom that teaches keep good eye contact. For one, they understand that to certain suspicious or insecure people, intense eye contact can be a virulent intrusion. When. I was growing up, my family had a Haitian housekeeper whose fantasies were filled with witches, warlocks, and black magic.
 
-Louis looks right through me, sees my soul, she’d whisper to me fearfully. In some cultures, intense eye contact is sorcery. In others, staring at someone can be threatening or disrespectful. Realizing this, big players in the international scene prefer to pack a book on cultural body language differences in their carry-on rather than a Berlitt’s phrasebook.
+Zola refused to be left alone in a room with Louis, my Siamese cat. Louis looks right through me, sees my soul, she’d whisper to me fearfully. In some cultures, intense eye contact is sorcery. In others, staring at someone can be threatening or disrespectful.
 
-In our culture, however, big winners know exaggerated eye contact can be extremely advantageous, especially between the sexes. In business, even when romance is not in the picture, strong eye contact packs a powerful wallop between men and women. A Boston center conducted a study to learn the precise effect. The researchers asked opposite-sex individuals to have a two-minute casual conversation.
+Realizing this, big players in the international scene prefer to pack a book on cultural body language differences in their carry-on rather than a Berlitt’s phrasebook. In our culture, however, big winners know exaggerated eye contact can be extremely advantageous, especially between the sexes. In business, even when romance is not in the picture, strong eye contact packs a powerful wallop between men and women. A Boston center conducted a study to learn the precise effect.
 
-They tricked half their subjects into maintaining intense eye contact by directing them to count the number of times their partner blinked. They gave the other half of the subjects no special eye contact directions for the chat. When they questioned the subjects afterward, the unsuspecting blinkers reported significantly higher feelings of respect and fondness for their colleagues, who unbeknownst to them had simply been counting their blinks. I’ve experienced the closeness intense eye contact engenders with a stranger firsthand.
+The researchers asked opposite-sex individuals to have a two-minute casual conversation. They tricked half their subjects into maintaining intense eye contact by directing them to count the number of times their partner blinked. They gave the other half of the subjects no special eye contact directions for the chat. When they questioned the subjects afterward, the unsuspecting blinkers reported significantly higher feelings of respect and fondness for their colleagues, who unbeknownst to them had simply been counting their blinks.
 
-Once, when giving a seminar to several hundred people, one woman’s face in the crowd caught my attention. The participant’s appearance was not particularly unique, yet she became the focus of my attention throughout my talk. Why? Because not for one moment did she take her eyes off my face.
+I’ve experienced the closeness intense eye contact engenders with a stranger firsthand. Once, when giving a seminar to several hundred people, one woman’s face in the crowd caught my attention. The participant’s appearance was not particularly unique, yet she became the focus of my attention throughout my talk. Why?
 
-Even when I finished making a point and was silent, her eyes stayed hungrily on my face. I sensed she couldn’t wait to savor the next insight to spout from my lips. I loved it. Her concentration and obvious fascination inspired me to remember stories and make important points I had long forgotten.
+Because not for one moment did she take her eyes off my face. Even when. I finished making a point and was silent, her eyes stayed hungrily on my face. I sensed she couldn’t wait to savor the next insight to spout from my lips.
 
-Right after my talk, I resolved to seek out this new friend who was so enthralled by my speech. As people were leaving the hall, I quickly sidled up behind my big fan. Excuse me, I said. My fan kept walking.
+I loved it. Her concentration and obvious fascination inspired me to remember stories and make important points. I had long forgotten. Right after my talk, I resolved to seek out this new friend who was so enthralled by my speech.
 
-Excuse me, I repeated a tad louder. My admirer didn’t vary her pace as she continued out the door. I followed her into the corridor and tapped her shoulder gently. This time she whirled around with a surprised look on her face.
+As people were leaving the hall, I quickly sidled up behind my big fan. Excuse me, I said. My fan kept walking. Excuse me, I repeated a tad louder.
 
-I mumbled some excuse about my appreciating her concentration on my talk and wanting to ask her a few questions. Did you, uh, get much out of the seminar? I ventured. Well, not really, she answered candidly.
+My admirer didn’t vary her pace as she continued out the door. I followed her into the corridor and tapped her shoulder gently. This time she whirled around with a surprised look on her face. I mumbled some excuse about my appreciating her concentration on my talk and wanting to ask her a few questions.
 
-I had difficulty understanding what you were saying because you were walking around on the platform facing different directions. In a heartbeat, I understood. The woman was hearing impaired. I did not captivate her as I had suspected.
+Did you, uh, get much out of the seminar? I ventured. Well, not really, she answered candidly. I had difficulty understanding what you were saying because you were walking around on the platform facing different directions.
 
-She was not intrigued by my talk as I had hoped. The only reason she kept her eyes glued on my face was because she was struggling to read my lips. Nevertheless, her eye contact had given me such pleasure and inspiration during my talk that, tired as I was, I asked her to join me for coffee. I spent the next hour recapping my entire seminar just for her.
+In a heartbeat, I understood. The woman was hearing impaired. I did not captivate her as. I had suspected.
 
-Powerful stuff, this eye contact. Make your eyes look even more intelligent. There is yet another argument for intense eye contact. In addition to awakening feelings of
+She was not intrigued by my talk as. I had hoped. The only reason she kept her eyes glued on my face was because she was struggling to read my lips. Nevertheless, her eye contact had given me such pleasure and inspiration during my talk that, tired as.
+
+I was, I asked her to join me for coffee. I spent the next hour recapping my entire seminar just for her. Powerful stuff, this eye contact. Make your eyes look even more intelligent.
+
+There is yet another argument for intense eye contact. In addition to awakening feelings of
 
 
 <a id="sec-061402"></a>
@@ -2554,11 +2768,11 @@ All went as expected when women told their personal stories to women. Increased 
 
 Some men felt hostile when stared at too long by another man. Other men felt threatened. Some few even suspected their partner was more interested than he should be and wanted to slug him. Your partner’s emotional reaction to your profound gaze has a biological base.
 
-When you look intently at someone, it increases their heartbeat and shoots an adrenaline-like substance gushing through their veins. This is the same physical reaction people have when they start to fall in love. And when you consciously increase your eye contact, even during normal business or social interaction, people will feel they have captivated you. Men talking to women and women talking to men or women use the following technique, which I call Sticky Eyes, for the joy of the recipient and for your own advantage.
+When you look intently at someone, it increases their heartbeat and shoots an adrenaline-like substance gushing through their veins. This is the same physical reaction people have when they start to fall in love. And when you consciously increase your eye contact, even during normal business or social interaction, people will feel they have captivated you. Men talking to women and women talking to men or women use the following technique, which.
 
-Guys, I’ll have a man-to-man modification of this technique for you in a moment. Technique number two, Sticky Eyes. Pretend your eyes are glued to your conversation partners with sticky warm taffy. Don’t break eye contact even after he or she has finished speaking.
+I call Sticky Eyes, for the joy of the recipient and for your own advantage. Guys, I’ll have a man-to-man modification of this technique for you in a moment. Technique number two, Sticky Eyes. Pretend your eyes are glued to your conversation partners with sticky warm taffy.
 
-When you must look away, do it ever so slowly, reluctantly, stretching the gooey taffy until the tiny string finally breaks. What about guys' eyes?
+Don’t break eye contact even after he or she has finished speaking. When you must look away, do it ever so slowly, reluctantly, stretching the gooey taffy until the tiny string finally breaks. What about guys' eyes?
 
 Now, gentlemen, when talking to men, you too can use Sticky Eyes. Just make them a little less sticky when discussing personal matters with other men, lest your listener feel threatened or misinterpret your intentions. But do increase your eye contact slightly more than normal with men on day-to-day communications and a lot more when talking to women. It broadcasts a visceral message of comprehension and respect.
 
@@ -2568,7 +2782,9 @@ When the waiter came over, Sammy, uncharacteristically, instead of bluntly blurt
 
 I saw the affected hand on the waiter, too. We received exceptionally gracious service the rest of the evening.
 
-A week later Sammy called me and said, “Leal Sticky Eyes has changed my life.” I’ve been following it to a T. With women I make my eyes real sticky and with men slightly sticky and now everybody’s treating me with such deference, I think it’s part of the reason I’ve made more sales this week than all last month. If you deal with customers or clients in your professional life, Sticky Eyes is a definite boon to your bottom line. To most people in our culture, profound eye contact signals trust, knowledge, and I’m here for you attitude.
+A week later Sammy called me and said, “Leal Sticky Eyes has changed my life.”. I’ve been following it to a T. With women. I make my eyes real sticky and with men slightly sticky and now everybody’s treating me with such deference, I think it’s part of the reason.
+
+I’ve made more sales this week than all last month. If you deal with customers or clients in your professional life, Sticky Eyes is a definite boon to your bottom line. To most people in our culture, profound eye contact signals trust, knowledge, and. I’m here for you attitude.
 
 This carries Sticky Eyes one step further. Like a potent medicine that has the power to kill or cure, the next eye contact technique has the potential to captivate or annihilate. 3. How to use your eyes to make someone fall in love with you. Now we haul in the heavy eyeball artillery.
 
@@ -2588,23 +2804,23 @@ Human resources professionals often use epoxy eyes not as a technique, but becau
 
 Don’t overdo it, or you could come across as arrogant and brazen. Technique number three, epoxy eyes. This brazen technique packs a powerful punch. Watch your target person even when someone else is talking.
 
-No matter who is speaking, keep looking at the man or woman you want to impact. Sometimes using full epoxy eyes is too potent, so here is a gentler yet effective form. Watch the speaker, but let your glance bounce to your target each time the speaker finishes a point. This way, Mr. or Ms. Target still feels you are intrigued by his or her reactions, yet there is relief from the intensity.
+No matter who is speaking, keep looking at the man or woman you want to impact. Sometimes using full epoxy eyes is too potent, so here is a gentler yet effective form. Watch the speaker, but let your glance bounce to your target each time the speaker finishes a point. This way, Mr. or Ms.
 
-Use epoxy eyes to push their erotic button. If romance is on the horizon, epoxy eyes transmits yet another message. It says, I can’t take my eyes off you, or I only have eyes for you. Most have dubbed eyes the initial organ of romance because studies show intense eye contact plays havoc with our heartbeat.
+Target still feels you are intrigued by his or her reactions, yet there is relief from the intensity. Use epoxy eyes to push their erotic button. If romance is on the horizon, epoxy eyes transmits yet another message. It says, I can’t take my eyes off you, or.
 
-It also releases a drug-like substance into our nervous system called phenylethylamine. Since this is the hormone detected in the human body during erotic excitement, intense eye contact can be a turn on. Men, epoxy eyes is extremely effective on women if they find you attractive. The lady interprets her nervous reaction to your untoward gaze as budding infatuation.
+I only have eyes for you. Most have dubbed eyes the initial organ of romance because studies show intense eye contact plays havoc with our heartbeat. It also releases a drug-like substance into our nervous system called phenylethylamine. Since this is the hormone detected in the human body during erotic excitement, intense eye contact can be a turn on.
 
-If she does not like you, however, your epoxy eyes is downright obnoxious. Never use epoxy eyes on strangers in public settings, or you could get arrested. 4. How to look like a big winner wherever you go Do you remember the lyrics to the old Shirley Bassey song? The minute you walked in the joint, I could see you were a man of distinction, a real big spender.
+Men, epoxy eyes is extremely effective on women if they find you attractive. The lady interprets her nervous reaction to your untoward gaze as budding infatuation. If she does not like you, however, your epoxy eyes is downright obnoxious. Never use epoxy eyes on strangers in public settings, or you could get arrested. 4.
 
-Good looking, so refined. Say wouldn’t you like to know what’s going on in my mind? The goal of this first section is not to make you look like a real big spender. Rather, it is to give you the cachet of a real big somebody the moment people lay eyes on you.
+How to look like a big winner wherever you go Do you remember the lyrics to the old Shirley Bassey song? The minute you walked in the joint, I could see you were a man of distinction, a real big spender. Good looking, so refined. Say wouldn’t you like to know what’s going on in my mind?
 
-To that end, we now explore the most important technique to make you look like a very important person. When the doctor smacks your knee with that nasty little hammer, your foot jerks forward. Thus the phrase, knee-jerk reaction. Your body has another instinctive reaction.
+The goal of this first section is not to make you look like a real big spender. Rather, it is to give you the cachet of a real big somebody the moment people lay eyes on you. To that end, we now explore the most important technique to make you look like a very important person. When the doctor smacks your knee with that nasty little hammer, your foot jerks forward.
 
-When a big jolt of happiness hits your heart and you feel like a winner, your head jerks up automatically and you throw your shoulders back. A smile frames your lips and softens your eyes. This is the look winners have constantly. They stand with assurance.
+Thus the phrase, knee-jerk reaction. Your body has another instinctive reaction. When a big jolt of happiness hits your heart and you feel like a winner, your head jerks up automatically and you throw your shoulders back. A smile frames your lips and softens your eyes.
 
-They move with confidence. They smile softly with pride. No doubt about it. Good posture symbolizes that you are a man or woman who is used to being on top.
+This is the look winners have constantly. They stand with assurance. They move with confidence. They smile softly with pride.
 
-Obviously, millions of mothers sticking their knuckles between their kid’s shoulder blades
+No doubt about it. Good posture symbolizes that you are a man or woman who is used to being on top. Obviously, millions of mothers sticking their knuckles between their kid’s shoulder blades
 
 
 <a id="sec-062407"></a>
@@ -2626,17 +2842,17 @@ It is swinging just an inch higher than your head. As you pass through the door,
 
 At the zenith of the tent, you spin like a graceful top to the amazement and admiration of the crowd craning their necks to watch you. Now you look like a somebody.
 
-One day, to test hang by your teeth, I decided to count how many times I walked through a doorway. Sixty times, even at home. You calculate. Twice out your front door, twice in, six times to the bathroom, eight times to the kitchen, and through countless doors at your office.
+One day, to test hang by your teeth, I decided to count how many times. I walked through a doorway. Sixty times, even at home. You calculate.
 
-It adds up. Visualize anything sixty times a day and it becomes a habit. The habitual good posture is the first mark of a big winner. You are now ready to float into the room to captivate the crowd or close the sale or maybe just settle for looking like the most important somebody in the room.
+Twice out your front door, twice in, six times to the bathroom, eight times to the kitchen, and through countless doors at your office. It adds up. Visualize anything sixty times a day and it becomes a habit. The habitual good posture is the first mark of a big winner.
 
-You now have all the basics Bob the Artist needs to portray you as a big winner. Like he said, great posture, a heads-up look, a confident smile, and a direct gaze. The ideal image for somebody who’s a somebody. Technique number four.
+You are now ready to float into the room to captivate the crowd or close the sale or maybe just settle for looking like the most important somebody in the room. You now have all the basics Bob the Artist needs to portray you as a big winner. Like he said, great posture, a heads-up look, a confident smile, and a direct gaze. The ideal image for somebody who’s a somebody.
 
-Hang by your teeth. Visualize a circus iron jaw bit hanging from the frame of every door you walk through. Take a bite and with it firmly between your teeth let it swoop you to the peak of the big top. When you hang by your teeth, every muscle is stretched into perfect posture position.
+Technique number four. Hang by your teeth. Visualize a circus iron jaw bit hanging from the frame of every door you walk through. Take a bite and with it firmly between your teeth let it swoop you to the peak of the big top.
 
-Now let’s put the whole act into motion. It’s time to turn your attention outward to your conversation partner. Use the next two techniques to make him or her feel like a million. Five.
+When you hang by your teeth, every muscle is stretched into perfect posture position. Now let’s put the whole act into motion. It’s time to turn your attention outward to your conversation partner. Use the next two techniques to make him or her feel like a million.
 
-How to win their heart by responding to their inner infant. Remember the old joke? The comic comes on stage and the first words out of his mouth are, well how do you like
+Five. How to win their heart by responding to their inner infant. Remember the old joke? The comic comes on stage and the first words out of his mouth are, well how do you like
 
 
 <a id="sec-062907"></a>
@@ -2648,23 +2864,25 @@ Whenever we meet someone, we know, consciously or subconsciously, how they’re 
 
 Do they somehow recognize how wonderful and special we are? We like those people. They have good taste. Or do they turn away, obviously unimpressed by our magnificence?
 
-The Cretans? Two people getting to know each other are like little puppies sniffing each other out. We don’t have tails that wag or hair that bristles. But we do have eyes that narrow or widen, and hands that flash knuckles or subconsciously soften in the palms up I submit position. position.
+The Cretans? Two people getting to know each other are like little puppies sniffing each other out. We don’t have tails that wag or hair that bristles. But we do have eyes that narrow or widen, and hands that flash knuckles or subconsciously soften in the palms up.
 
-We have dozens of other involuntary reactions that take place in the first few moments of togetherness. Attorneys conducting vardir are exquisitely aware of this. They pay close attention to your instinctive body reactions. They watch to see how fully you are facing them and just how far forward or back you’re leaning while answering their questions.
+I submit position. position. We have dozens of other involuntary reactions that take place in the first few moments of togetherness. Attorneys conducting vardir are exquisitely aware of this. They pay close attention to your instinctive body reactions.
 
-They check out your hands. Are they softly open, palms up, signifying acceptance of the ideas they’re expressing? Or are you making a slight fist, knuckles out, signaling rejection? They scrutinize your face for the split seconds you break eye contact when discussing relevant subjects like your feelings on big awards for damages or the death penalty.
+They watch to see how fully you are facing them and just how far forward or back you’re leaning while answering their questions. They check out your hands. Are they softly open, palms up, signifying acceptance of the ideas they’re expressing? Or are you making a slight fist, knuckles out, signaling rejection?
 
-Sometimes attorneys bring along a legal assistant whose sole job is to sit on the sidelines and take precise note of your every fidget. An interesting aside, trial lawyers often choose women to do this twitch-and-turn spying job because, traditionally, females are sharper observers of subtle body cues than males. Women, more sensitive to emotions than men, often ask their husbands, Is something bothering you, honey? These super-sensitive women accuse their husbands of being so insensitive to emotions that they wouldn’t notice anything is wrong until their neckties are drenched in her tears.
+They scrutinize your face for the split seconds you break eye contact when discussing relevant subjects like your feelings on big awards for damages or the death penalty. Sometimes attorneys bring along a legal assistant whose sole job is to sit on the sidelines and take precise note of your every fidget. An interesting aside, trial lawyers often choose women to do this twitch-and-turn spying job because, traditionally, females are sharper observers of subtle body cues than males. Women, more sensitive to emotions than men, often ask their husbands, Is something bothering you, honey?
 
-The attorney and the assistant then review your score on the dozens of subconscious signals you flashed. Depending on their tally, you could find yourself on jury duty or twiddling your thumbs back in the juror’s waiting room. Trial lawyers are so conscious of body language that, in the 1960s, during the famous trial of the Chicago Seven, defense attorney William Kunstler actually made a legal objection to Judge Julius Hoffman’s posture. During the summation by the prosecution, Judge Hoffman leaned forward, which, accused Kunstler, sent a message to the jury of attention and interest.
+These super-sensitive women accuse their husbands of being so insensitive to emotions that they wouldn’t notice anything is wrong until their neckties are drenched in her tears. The attorney and the assistant then review your score on the dozens of subconscious signals you flashed. Depending on their tally, you could find yourself on jury duty or twiddling your thumbs back in the juror’s waiting room. Trial lawyers are so conscious of body language that, in the 1960s, during the famous trial of the Chicago Seven, defense attorney William Kunstler actually made a legal objection to Judge Julius Hoffman’s posture.
 
-During his defense summation, complained Kunstler, Judge Hoffman leaned back, sending the jury a subliminal message of disinterest. You’re on trial, and you only have ten seconds. Like attorneys deciding whether they want you on their case, everybody you meet makes a subconscious judgment on whether they want you in their lives. They base their verdict greatly on the same signals.
+During the summation by the prosecution, Judge Hoffman leaned forward, which, accused Kunstler, sent a message to the jury of attention and interest. During his defense summation, complained Kunstler, Judge Hoffman leaned back, sending the jury a subliminal message of disinterest. You’re on trial, and you only have ten seconds. Like attorneys deciding whether they want you on their case, everybody you meet makes a subconscious judgment on whether they want you in their lives.
 
-Your body language answered to their unspoken question, Well, how do you like me so far? The first few moments of your reactions set the stage upon which the entire relationship will be played out. If you ever want anything from the new acquaintance, your unspoken answer to their unspoken question, How do you like me so far?, must be, Wow, I really like you. When a little four-year-old feels bashful, he slumps, puts his arms up in front of his chest, steps back, and hides behind Mommy’s skirt.
+They base their verdict greatly on the same signals. Your body language answered to their unspoken question, Well, how do you like me so far? The first few moments of your reactions set the stage upon which the entire relationship will be played out. If you ever want anything from the new acquaintance, your unspoken answer to their unspoken question, How do you like me so far?, must be, Wow, I really like you.
 
-However, when little Johnny sees Daddy come home, he runs up to him, he smiles, his eyes get wide, and he opens his arms for a hug. A loving child’s body is like a tiny flower bud unfolding to the sunshine. Twenty, thirty, forty, fifty years of life on earth make little difference. When forty-year-old Johnny is feeling timid, he slumps and folds his arms in front of his chest.
+When a little four-year-old feels bashful, he slumps, puts his arms up in front of his chest, steps back, and hides behind Mommy’s skirt. However, when little Johnny sees Daddy come home, he runs up to him, he smiles, his eyes get wide, and he opens his arms for a hug. A loving child’s body is like a tiny flower bud unfolding to the sunshine. Twenty, thirty, forty, fifty years of life on earth make little difference.
 
-When he wants to reject a salesman or business colleague, he turns away and closes them off with a myriad of body signals. However, when welcoming his loved one home after an absence, Big Johnny opens his body to her like a giant daffodil spreading its petals to the sun after a rainstorm. Treat people like big babies. Once I was at a corporate star-studded party with an attractive recently divorced friend
+When forty-year-old Johnny is feeling timid, he slumps and folds his arms in front of his chest. When he wants to reject a salesman or business colleague, he turns away and closes them off with a myriad of body signals.
+
+However, when welcoming his loved one home after an absence, Big Johnny opens his body to her like a giant daffodil spreading its petals to the sun after a rainstorm. Treat people like big babies. Once. I was at a corporate star-studded party with an attractive recently divorced friend
 
 
 <a id="sec-063409"></a>
@@ -2672,29 +2890,33 @@ When he wants to reject a salesman or business colleague, he turns away and clos
 
 of mine. Carla had been a copywriter with one of the leading advertising agencies which, like so many companies then, had downsized. My girlfriend was both out of work and out of a relationship. At this particular party, the pickings for Carla were good, both personally and professionally.
 
-Several times, as Carla and I stood talking, one good-looking corporate male beast or another would find himself within a few feet of us. More often than not, one of these desirable males would flash his teeth at Carla. She sometimes graced the tentatively courting male with a quick smile over her shoulder, but then she turned back to our mundane conversation as though she were hanging on my every word. I knew she was trying not to look anxious, but inside Carla was crying out, Why doesn’t he come speak to us?
+Several times, as Carla and. I stood talking, one good-looking corporate male beast or another would find himself within a few feet of us. More often than not, one of these desirable males would flash his teeth at Carla. She sometimes graced the tentatively courting male with a quick smile over her shoulder, but then she turned back to our mundane conversation as though she were hanging on my every word.
 
-Right after one prized corporate big cat smiled but, because of Carla’s minimal reaction, turned back into the social jungle, I had to say, Carla, do you know who that was? He’s the head of the young and rubic ham in Paris. They’re looking for copywriters willing to relocate. And he’s single.
+I knew she was trying not to look anxious, but inside Carla was crying out, Why doesn’t he come speak to us? Right after one prized corporate big cat smiled but, because of Carla’s minimal reaction, turned back into the social jungle, I had to say, Carla, do you know who that was? He’s the head of the young and rubic ham in Paris. They’re looking for copywriters willing to relocate.
 
-Carla moaned. Just then we heard a little voice down by Carla’s left knee. Hello. We looked down simultaneously.
+And he’s single. Carla moaned. Just then we heard a little voice down by Carla’s left knee. Hello.
 
-Little five-year-old Willie, the hostess’s adorable young son, was tugging on Carla’s skirt, obviously craving attention. Well, well, well, Carla cried out, a big smile erupting all over her face. Carla turned toward him. Carla kneeled down, touched little Willie’s elbow and crooned, Well, hello there, Willie.
+We looked down simultaneously. Little five-year-old Willie, the hostess’s adorable young son, was tugging on Carla’s skirt, obviously craving attention. Well, well, well, Carla cried out, a big smile erupting all over her face. Carla turned toward him.
 
-How are you enjoying Mommy’s nice party? Little Willie beamed. When little Willie finally trundled off to tug on the garments of the next group of potential attention-givers, Carla and I returned to our grown-up conversing. During our chat, corporate beasts continued to stalk Carla with their eyes, and she continued casting half-smiles at them.
+Carla kneeled down, touched little Willie’s elbow and crooned, Well, hello there, Willie. How are you enjoying Mommy’s nice party? Little Willie beamed. When little Willie finally trundled off to tug on the garments of the next group of potential attention-givers, Carla and.
 
-She was obviously disappointed none of them was making a further approach. I had to bite my tongue.
+I returned to our grown-up conversing. During our chat, corporate beasts continued to stalk Carla with their eyes, and she continued casting half-smiles at them. She was obviously disappointed none of them was making a further approach. I had to bite my tongue.
 
-Finally, when I felt it was going to bleed from the pressure of my teeth, I said, “Carla, have you been noticing that four or five men have come over and smiled at you?” Yes, Carla whispered, her eyes darting nervously around the room lest anyone overhear us. And you’ve been giving them little half-smiles, I continued. Yes, she murmured, now confused at my question. Remember when little Willie came up and tugged on your skirt?
+Finally, when. I felt it was going to bleed from the pressure of my teeth, I said, “Carla, have you been noticing that four or five men have come over and smiled at you?” Yes, Carla whispered, her eyes darting nervously around the room lest anyone overhear us. And you’ve been giving them little half-smiles, I continued. Yes, she murmured, now confused at my question.
 
-Do you recall how you smiled that beautiful big smile of yours, turned toward him and welcomed him into our grown-up conversation? Yes, she answered haltingly. Well I have a request, Carla. I want you to give the next man who smiles at you that same big smile you gave Willie.
+Remember when little Willie came up and tugged on your skirt? Do you recall how you smiled that beautiful big smile of yours, turned toward him and welcomed him into our grown-up conversation? Yes, she answered haltingly. Well.
 
-I want you to turn toward him just like you did then, maybe even reach out and touch his arm like you did Willie’s, and then welcome him into our conversation. Oh, Lael, I couldn’t do that. Carla do it. Sure enough, within a few minutes, another attractive man wandered our way and smiled.
+I have a request, Carla. I want you to give the next man who smiles at you that same big smile you gave Willie. I want you to turn toward him just like you did then, maybe even reach out and touch his arm like you did Willie’s, and then welcome him into our conversation. Oh, Lael, I couldn’t do that.
 
-Carla played her role to perfection. She flashed her beautiful teeth, turned fully toward him and said, “Hello, come join us.” He wasted no time accepting Carla’s invitation. After a few moments I excused myself. Neither noticed my departure because they were in animated conversation.
+Carla do it. Sure enough, within a few minutes, another attractive man wandered our way and smiled. Carla played her role to perfection.
 
-The last glimpse I had of my friend at the party was her floating out the door on the arm of her new friend. Just then the technique I call the Big Baby Pivot was born. It is a skill that will help you win whatever your heart desires from whatever type of beasts you encounter in the social or corporate jungle. Technique number five, the Big Baby Pivot Give everyone you meet the Big Baby Pivot.
+She flashed her beautiful teeth, turned fully toward him and said, “Hello, come join us.”. He wasted no time accepting Carla’s invitation. After a few moments. I excused myself.
 
-The instant the two of you are introduced, reward your new acquaintance. Give the warm smile, the total body turn, and the undivided attention you would give a tiny tyke who crawled up to your feet, turned a precious face up to yours and beamed a big toothless grin. Pivoting one hundred percent toward the new person shouts, I think you are very, very special. Number four, very deep inside everyone is a Big Baby who is rattling the crib, wailing out for recognition of how very special he or she is.
+Neither noticed my departure because they were in animated conversation. The last glimpse. I had of my friend at the party was her floating out the door on the arm of her new friend. Just then the technique.
+
+I call the Big Baby Pivot was born. It is a skill that will help you win whatever your heart desires from whatever type of beasts you encounter in the social or corporate jungle. Technique number five, the Big Baby Pivot Give everyone you meet the Big Baby Pivot. The instant the two of you are introduced, reward your new acquaintance.
+
+Give the warm smile, the total body turn, and the undivided attention you would give a tiny tyke who crawled up to your feet, turned a precious face up to yours and beamed a big toothless grin. Pivoting one hundred percent toward the new person shouts, I think you are very, very special. Number four, very deep inside everyone is a Big Baby who is rattling the crib, wailing out for recognition of how very special he or she is.
 
 The following technique reinforces the Big Baby’s suspicion that he or she is, indeed,
 
@@ -2704,29 +2926,29 @@ The following technique reinforces the Big Baby’s suspicion that he or she is,
 
 the center of the universe. Six, how to make someone feel like an old friend at once. A very wise man with the funny name of Zig once told me, people don’t care how much you know until they know how much you care about them. Zig Ziglar is right.
 
-The secret to making people like you is showing how much you like them. Your body is a twenty-four hour broadcasting station revealing to anyone within eyeshot precisely how you feel at any given moment. Even if your hang-by-your-teeth posture is gaining their respect, your flooding smile and the Big Baby pivot are making them feel special and your sticky eyes are capturing their hearts and minds, the rest of your body can reveal any incongruence. Every inch, from the crinkle of your forehead to the position of your feet, must give a command performance if you want to effectively present an I care about you attitude.
+The secret to making people like you is showing how much you like them. Your body is a twenty-four hour broadcasting station revealing to anyone within eyeshot precisely how you feel at any given moment. Even if your hang-by-your-teeth posture is gaining their respect, your flooding smile and the Big Baby pivot are making them feel special and your sticky eyes are capturing their hearts and minds, the rest of your body can reveal any incongruence. Every inch, from the crinkle of your forehead to the position of your feet, must give a command performance if you want to effectively present an.
 
-Unfortunately, when meeting someone, our brains are in overdrive. Remember Shakespeare’s Julius Caesar? He said of Cassius, he has a lean and hungry look. He thinks too much.
+I care about you attitude. Unfortunately, when meeting someone, our brains are in overdrive. Remember Shakespeare’s Julius Caesar? He said of Cassius, he has a lean and hungry look.
 
-Such men are dangerous. So it is with our brains when conversing with a new acquaintance. Our brains become lean. Some of us are fighting off shyness.
+He thinks too much. Such men are dangerous. So it is with our brains when conversing with a new acquaintance. Our brains become lean.
 
-Others are frantically sizing up the situation. And hungry. We’re deciding what if anything we want from this potential relationship. So we think too much instead of responding with candid, unselfconscious friendliness.
+Some of us are fighting off shyness. Others are frantically sizing up the situation. And hungry. We’re deciding what if anything we want from this potential relationship.
 
-Such actions are dangerous to impending friendship, love or commerce. When our bodies are shooting off ten thousand bullets of stimuli every second, a few shots are apt to misfire and reveal shyness or hidden hostility. We need a technique to ensure every shot aims right at the heart of our subject. We need to trick our bodies into reacting perfectly.
+So we think too much instead of responding with candid, unselfconscious friendliness. Such actions are dangerous to impending friendship, love or commerce. When our bodies are shooting off ten thousand bullets of stimuli every second, a few shots are apt to misfire and reveal shyness or hidden hostility. We need a technique to ensure every shot aims right at the heart of our subject.
 
-To find it, let’s explore the only time we don’t need to worry about any shyness or negativity slipping out through our body language. It’s when we feel none. That happens when we’re chatting with close friends. When we see someone we love or feel completely comfortable with, we respond warmly from head to toe without a thought.
+We need to trick our bodies into reacting perfectly. To find it, let’s explore the only time we don’t need to worry about any shyness or negativity slipping out through our body language. It’s when we feel none. That happens when we’re chatting with close friends.
 
-Our lips part happily. We step closer. Our arms reach out. Our eyes become soft and wide.
+When we see someone we love or feel completely comfortable with, we respond warmly from head to toe without a thought. Our lips part happily. We step closer. Our arms reach out.
 
-Even our palms turn up and our bodies turn fully toward our dear friend. How to trick your body into doing everything right. Here is a visualization technique that accomplishes all that. It guarantees that everyone you encounter will feel your warmth.
+Our eyes become soft and wide. Even our palms turn up and our bodies turn fully toward our dear friend. How to trick your body into doing everything right. Here is a visualization technique that accomplishes all that.
 
-I call it, hello old friend. When meeting someone, play a mental trick on yourself. In your mind’s eye see him or her as an old friend, someone you had a wonderful relationship with years ago. But somehow you lost track of your friend.
+It guarantees that everyone you encounter will feel your warmth. I call it, hello old friend. When meeting someone, play a mental trick on yourself. In your mind’s eye see him or her as an old friend, someone you had a wonderful relationship with years ago.
 
-You tried so hard to find your good buddy, but there was no listing in the phone book. No information online. None of your mutual friends had a clue.
+But somehow you lost track of your friend. You tried so hard to find your good buddy, but there was no listing in the phone book. No information online. None of your mutual friends had a clue.
 
 Suddenly, wow, what a surprise. After all those years the two of you are reunited. You are so happy. That’s where the pretending stops.
 
-Obviously you are not going to try to convince the new person that the two of you are really old friends. You are not going to hug and kiss and say, great to see you again, or how have you been all these years? You merely say, hello, how do you do? I am pleased to meet you.
+Obviously, you are not going to try to convince the new person that the two of you are really old friends. You are not going to hug and kiss and say, great to see you again, or how have you been all these years? You merely say, hello, how do you do? I am pleased to meet you.
 
 But inside it’s a very different story. You will amaze yourself. The delight of rediscovery fills your face and boys up your body language. I sometimes jokingly say, if you were a light, you’d beam on the other person.
 
@@ -2738,65 +2960,71 @@ When meeting someone, imagine he or she is an old friend, an old customer, an ol
 <a id="sec-064416"></a>
 ### ⏱️ [06:44:16 - 06:49:19]
 
-In my seminars, I first have people introduce themselves to another participant before they’ve learned the hello, old friend technique. The group chats as though at a pleasant semi-formal gathering. Later I ask them to introduce themselves to another stranger, imagining they are old friends. The difference is extraordinary.
+In my seminars, I first have people introduce themselves to another participant before they’ve learned the hello, old friend technique. The group chats as though at a pleasant semi-formal gathering. Later. I ask them to introduce themselves to another stranger, imagining they are old friends.
 
-When they’re using hello, old friend, the room comes alive. The atmosphere is charged with good feeling. The air sparkles with happier, high energy people. They are standing closer, laughing more sincerely and reaching out to one another.
+The difference is extraordinary. When they’re using hello, old friend, the room comes alive. The atmosphere is charged with good feeling. The air sparkles with happier, high energy people.
 
-I feel like I’m attending a terrific bash that’s been going on for hours. Not a word need be spoken. The hello old friend technique even supersedes language. Whenever you’re travelling in countries where you don’t speak the native tongue, be sure to use it.
+They are standing closer, laughing more sincerely and reaching out to one another. I feel like. I’m attending a terrific bash that’s been going on for hours. Not a word need be spoken.
 
-If you find yourself with a group of people who are all speaking a language unknown to you, just imagine them to be a group of your old friends. Everything is fine except they momentarily forgot how to speak English. In spite of the fact you won’t understand a word, your whole body still responds with congeniality and acceptance. I’ve used the hello old friend technique while travelling in Europe.
+The hello old friend technique even supersedes language. Whenever you’re travelling in countries where you don’t speak the native tongue, be sure to use it. If you find yourself with a group of people who are all speaking a language unknown to you, just imagine them to be a group of your old friends. Everything is fine except they momentarily forgot how to speak English.
 
-Sometimes my English-speaking friends who live there tell me their European colleagues say I am the friendliest American they’ve ever met, yet we’d never spoken a word between us. A self-fulfilling prophecy. An added benefit to the hello old friend technique is it becomes a self-fulfilling prophecy. When you act as though you like someone, you start to really like them.
+In spite of the fact you won’t understand a word, your whole body still responds with congeniality and acceptance. I’ve used the hello old friend technique while travelling in Europe. Sometimes my English-speaking friends who live there tell me their European colleagues say. I am the friendliest American they’ve ever met, yet we’d never spoken a word between us.
 
-An Adelphi University study called, appropriately, believing another likes or dislikes you, behaviors making the beliefs come true, proved it. Researchers told volunteers to treat unsuspecting subjects as though they liked them. When surveyed later, the results showed the volunteers wound up genuinely liking the subjects. The unsuspecting subjects were also surveyed.
+A self-fulfilling prophecy. An added benefit to the hello old friend technique is it becomes a self-fulfilling prophecy. When you act as though you like someone, you start to really like them. An Adelphi University study called, appropriately, believing another likes or dislikes you, behaviors making the beliefs come true, proved it.
 
-These respondents expressed much higher respect and affection for the volunteers who pretended they liked them. What it boils down to is love begets love, like begets like, respect begets respect. Use the hello old friend technique and you will soon have many new old friends who wind up genuinely liking you. You now have all the basics to come across to everyone you meet as a somebody, a friendly somebody.
+Researchers told volunteers to treat unsuspecting subjects as though they liked them. When surveyed later, the results showed the volunteers wound up genuinely liking the subjects. The unsuspecting subjects were also surveyed. These respondents expressed much higher respect and affection for the volunteers who pretended they liked them.
 
-But your job isn’t over yet. In addition to being liked, you want to appear credible, intelligent, and sure of yourself. Each of the next three techniques accomplishes one of those goals. 7. How to come across as 100% credible to everyone My friend Helen is a highly respected headhunter.
+What it boils down to is love begets love, like begets like, respect begets respect. Use the hello old friend technique and you will soon have many new old friends who wind up genuinely liking you. You now have all the basics to come across to everyone you meet as a somebody, a friendly somebody. But your job isn’t over yet.
 
-She makes terrific hires for her clients and I once asked her the secret of her success. Helen replied, probably because I can almost always tell when an applicant is lying. How can you tell? She said, well just last week I was interviewing a young woman for a position as marketing director for a small firm.
+In addition to being liked, you want to appear credible, intelligent, and sure of yourself. Each of the next three techniques accomplishes one of those goals. 7. How to come across as 100% credible to everyone. My friend Helen is a highly respected headhunter.
 
-Throughout the interview, the applicant had been sitting with her left leg crossed over her right. Her hands were comfortably resting in her lap and she was looking directly at me. I asked her salary. Without swerving her eyes from mine she told me.
+She makes terrific hires for her clients and. I once asked her the secret of her success. Helen replied, probably because. I can almost always tell when an applicant is lying.
 
-I asked if she enjoyed her work. Still looking directly at me she said yes. Then I asked her why she left her previous job. At that point her eyes fleetingly darted away before regaining eye contact with me.
+How can you tell? She said, well just last week. I was interviewing a young woman for a position as marketing director for a small firm. Throughout the interview, the applicant had been sitting with her left leg crossed over her right.
 
-Helen continued. Then while answering my question she shifted in her seat and crossed her right leg over her left. At one point she put her hands up to her mouth. Helen said, that’s all I needed.
+Her hands were comfortably resting in her lap and she was looking directly at me. I asked her salary. Without swerving her eyes from mine she told me. I asked if she enjoyed her work.
 
-With her words she was telling me she felt her growth opportunities were limited at her previous firm. But her body told me she was not being entirely forthright. Helen went on to explain the young woman’s fidgeting alone wouldn’t prove she was lying. Nevertheless it was enough, she said, that she wanted to pursue the subject further.
+Still looking directly at me she said yes. Then. I asked her why she left her previous job. At that point her eyes fleetingly darted away before regaining eye contact with me.
 
-So I tested it. Helen explained. I changed the subject and went back to more neutral territory. I asked her about her goals for the future.
+Helen continued. Then while answering my question she shifted in her seat and crossed her right leg over her left. At one point she put her hands up to her mouth. Helen said, that’s all.
+
+I needed. With her words she was telling me she felt her growth opportunities were limited at her previous firm. But her body told me she was not being entirely forthright. Helen went on to explain the young woman’s fidgeting alone wouldn’t prove she was lying.
+
+Nevertheless it was enough, she said, that she wanted to pursue the subject further. So. I tested it. Helen explained.
+
+I changed the subject and went back to more neutral territory. I asked her about her goals for the future.
 
 
 <a id="sec-064919"></a>
 ### ⏱️ [06:49:19 - 06:54:20]
 
-Again the girl stopped fidgeting. She folded her hands in her lap as she told me how she’d always wanted to work in a small company, in order to have hands-on experience with more than one project. Then I repeated my earlier question. I asked again if it was only the lack of growth opportunity that made her leave her previous position.
+Again the girl stopped fidgeting. She folded her hands in her lap as she told me how she’d always wanted to work in a small company, in order to have hands-on experience with more than one project. Then. I repeated my earlier question.
 
-Before enough, once again, the woman shifted in her seat and momentarily broke eye contact. As she continued talking about her last job, she started rubbing her forearm. Helen continued to probe until she finally uncovered the truth. The applicant had been fired because of a nasty disagreement with the marketing director for whom she worked.
+I asked again if it was only the lack of growth opportunity that made her leave her previous position. Before enough, once again, the woman shifted in her seat and momentarily broke eye contact. As she continued talking about her last job, she started rubbing her forearm. Helen continued to probe until she finally uncovered the truth.
 
-Human resources professionals who interview applicants and police officers who interrogate suspected criminals are trained to detect lies. They know specifically what signals to look for. The rest of us, although not knowledgeable about specific clues to deceit, have a sixth sense when someone is not telling us the truth. Just recently a colleague of mine was considering hiring an in-house booking agent.
+The applicant had been fired because of a nasty disagreement with the marketing director for whom she worked. Human resources professionals who interview applicants and police officers who interrogate suspected criminals are trained to detect lies. They know specifically what signals to look for. The rest of us, although not knowledgeable about specific clues to deceit, have a sixth sense when someone is not telling us the truth.
 
-After interviewing one fellow she said to me, I don’t know, I don’t really think he has the success he claims. You think he’s lying to you? I asked. Absolutely. And the funny thing is, I can’t tell why.
+Just recently a colleague of mine was considering hiring an in-house booking agent. After interviewing one fellow she said to me, I don’t know, I don’t really think he has the success he claims. You think he’s lying to you? I asked.
 
-He looked right at me. He answered all my questions directly. There was just something that didn’t seem right. Employers often feel this way.
+Absolutely. And the funny thing is, I can’t tell why. He looked right at me. He answered all my questions directly.
 
-They have a gut feeling about someone, but they can’t put their finger on it. Because of that, many large companies turn to the polygraph, or lie detector, a mechanical apparatus designed to detect if someone is lying. Banks, drugstores and grocery stores rely heavily on it for pre-employment screening. The FBI, Justice Department and most police departments have used the polygraph on suspects.
+There was just something that didn’t seem right. Employers often feel this way. They have a gut feeling about someone, but they can’t put their finger on it. Because of that, many large companies turn to the polygraph, or lie detector, a mechanical apparatus designed to detect if someone is lying.
 
-Interestingly, the polygraph is not a lie detector at all. All the machine can do is detect fluctuations in our autonomic nervous system, changes in breathing patterns, sweating, flushing, heart rate, blood pressure and other signs of emotional arousal. So is it accurate? Well, yes, often it is.
+Banks, drugstores and grocery stores rely heavily on it for pre-employment screening. The FBI, Justice Department and most police departments have used the polygraph on suspects. Interestingly, the polygraph is not a lie detector at all. All the machine can do is detect fluctuations in our autonomic nervous system, changes in breathing patterns, sweating, flushing, heart rate, blood pressure and other signs of emotional arousal.
 
-Why? Because when the average person tells a lie, he or she is emotionally aroused and bodily changes do take place. When that happens, the individual might fidget. Most or trained liars, however, can fool the polygraph.
+So is it accurate? Well, yes, often it is. Why? Because when the average person tells a lie, he or she is emotionally aroused and bodily changes do take place.
 
-Beware of the appearance of lying, even when you’re telling the truth. Problems arise for us when we are not lying but are feeling emotional or intimidated by the person with whom we are talking. A young man telling an attractive woman about his business success might shift his weight. A woman talking about her company’s track record to an important client could rub her neck.
+When that happens, the individual might fidget. Most or trained liars, however, can fool the polygraph. Beware of the appearance of lying, even when you’re telling the truth. Problems arise for us when we are not lying but are feeling emotional or intimidated by the person with whom we are talking.
 
-More problems arise out of the atmosphere. A businessman who doesn’t feel nervous at all could loosen his collar because the room is hot. A politician giving a speech outdoors could blink excessively because the air is dusty. Even though erroneous, these fidgety movements give the listeners the sense something just isn’t right or a gut feeling that the speaker is lying.
+A young man telling an attractive woman about his business success might shift his weight. A woman talking about her company’s track record to an important client could rub her neck. More problems arise out of the atmosphere. A businessman who doesn’t feel nervous at all could loosen his collar because the room is hot.
 
-Young communicators, alert to this hazard, consciously squelch any signs anyone could mistake for shiftiness. They fix a constant gaze on the listener. They never put their hands on their faces. They don’t massage their arm when it tingles or rub their nose when it itches.
+A politician giving a speech outdoors could blink excessively because the air is dusty. Even though erroneous, these fidgety movements give the listeners the sense something just isn’t right or a gut feeling that the speaker is lying. Young communicators, alert to this hazard, consciously squelch any signs anyone could mistake for shiftiness. They fix a constant gaze on the listener.
 
-They don’t loosen their collar when it’s hot or blink because it’s sandy. They don’t wipe away tiny perspiration beads in public or shield their eyes from the sun. They suffer because they know fidgeting undermines credibility. Consider the infamous September 25, 1960 televised presidential debate between Richard Milhouse Nixon and John Fitzgerald Kennedy.
+They never put their hands on their faces. They don’t massage their arm when it tingles or rub their nose when it itches. They don’t loosen their collar when it’s hot or blink because it’s sandy. They don’t wipe away tiny perspiration beads in public or shield their eyes from the sun.
 
-Political pundits speculate Nixon’s lack of makeup, his fidgeting, and mopping his brow on camera lost him the election. If you want to come across as an entirely credible somebody, try to squelch all extraneous movement when your communication counts. I call the technique, limit the fidget. Technique number seven, limit the fidget.
+They suffer because they know fidgeting undermines credibility. Consider the infamous September 25, 1960 televised presidential debate between Richard Milhouse Nixon and John Fitzgerald Kennedy. Political pundits speculate Nixon’s lack of makeup, his fidgeting, and mopping his brow on camera lost him the election. If you want to come across as an entirely credible somebody, try to squelch all extraneous movement when your communication counts.
 
-Whenever your conversation really counts, let your nose itch, your ear tingle, or your foot prickle. Do not fidget, twitch, wiggle, squirm, or scratch.
+I call the technique, limit the fidget. Technique number seven, limit the fidget. Whenever your conversation really counts, let your nose itch, your ear tingle, or your foot prickle. Do not fidget, twitch, wiggle, squirm, or scratch.
 
 
 <a id="sec-065420"></a>
@@ -2806,29 +3034,29 @@ And above all, keep your paws away from your puss. Put motions near your face an
 
 Now, let’s tackle intelligence. What, you ask? Can people come across as more intelligent than they really are? Well, did you ever hear of Hans, the counting horse?
 
-Hans was considered the most intelligent horse in history, and he used the technique I’m about to suggest. Eight. How to read people like you have ESP. Hans, a very clever horse, inspires this next technique.
+Hans was considered the most intelligent horse in history, and he used the technique. I’m about to suggest. Eight. How to read people like you have ESP.
 
-Hans was owned by Herr von Austin, a Berliner, who had trained Hans to do simple arithmetic by tapping his right front hoof. So prodigious was Hans’s ability that the horse’s fame quickly spread throughout Europe in the early 1900s. He became known as Clever Hans, the counting horse. Herr von Austin taught Hans to do more than just add.
+Hans, a very clever horse, inspires this next technique. Hans was owned by Herr von Austin, a Berliner, who had trained Hans to do simple arithmetic by tapping his right front hoof. So prodigious was Hans’s ability that the horse’s fame quickly spread throughout Europe in the early 1900s. He became known as Clever Hans, the counting horse.
 
-Soon the horse could subtract and divide. In time, Clever Hans even mastered the multiplication tables. The horse became quite a phenomenon. Without his owner uttering a single word, Hans could count out the size of his audience, count the number wearing glasses, or respond to any counting question they asked him.
+Herr von Austin taught Hans to do more than just add. Soon the horse could subtract and divide. In time, Clever Hans even mastered the multiplication tables. The horse became quite a phenomenon.
 
-Finally Hans achieved the ultimate ability that separates man from animal, language. Hans learned the alphabet. By tapping out hoof beats for each letter, he answered any question about anything humans had read in a newspaper or heard on the radio. He could even answer common questions about history, geography, and human biology.
+Without his owner uttering a single word, Hans could count out the size of his audience, count the number wearing glasses, or respond to any counting question they asked him. Finally Hans achieved the ultimate ability that separates man from animal, language. Hans learned the alphabet. By tapping out hoof beats for each letter, he answered any question about anything humans had read in a newspaper or heard on the radio.
 
-Hans made headlines and was the main topic of discussion at dinner parties throughout Europe. The human horse quickly attracted the attention of scientists, psychology professors, veterinarians, even cavalry officers. Naturally, they were skeptical, so they established an official commission to decide whether the horse was a case of clever trickery or equine genius. Whatever their suspicions, it was obvious to all Hans was a very smart horse.
+He could even answer common questions about history, geography, and human biology. Hans made headlines and was the main topic of discussion at dinner parties throughout Europe. The human horse quickly attracted the attention of scientists, psychology professors, veterinarians, even cavalry officers. Naturally, they were skeptical, so they established an official commission to decide whether the horse was a case of clever trickery or equine genius.
 
-Compared to other horses, Hans was a somebody. Cut to today. Why is it when you talk with certain individuals, you just know they are smarter than other people, that they are a somebody? Often they’re not discussing highfalutin subjects or using two-dollar words.
+Whatever their suspicions, it was obvious to all Hans was a very smart horse. Compared to other horses, Hans was a somebody. Cut to today. Why is it when you talk with certain individuals, you just know they are smarter than other people, that they are a somebody?
 
-Nevertheless, everybody knows. People say, she’s smart as a whip. He doesn’t miss a trick. She picks up on everything.
+Often they’re not discussing highfalutin subjects or using two-dollar words. Nevertheless, everybody knows. People say, she’s smart as a whip. He doesn’t miss a trick.
 
-He’s got the right stuff. She’s got horse sense. Which brings us back to Hans. The day of the big test arrived.
+She picks up on everything. He’s got the right stuff. She’s got horse sense. Which brings us back to Hans.
 
-Everyone was convinced it must be a trick orchestrated by Herr von Austen, Hans’s owner. It was standing room only in the auditorium filled with scientists, reporters, clairvoyants, psychics, and horse lovers who eagerly awaited the answer. The canny commission members were confident this was the day they would expose Hans as chicanery because they too had a trick up their sleeves. They were going to bar von Austen from the hall and put his horse to the test all alone.
+The day of the big test arrived. Everyone was convinced it must be a trick orchestrated by Herr von Austen, Hans’s owner. It was standing room only in the auditorium filled with scientists, reporters, clairvoyants, psychics, and horse lovers who eagerly awaited the answer. The canny commission members were confident this was the day they would expose Hans as chicanery because they too had a trick up their sleeves.
 
-When the crowd was assembled, they told von Austen he must leave the auditorium. The surprised owner departed, and Hans was stranded in an auditorium with a suspicious and anxious audience. The confident commission leader asked Hans the first mathematical question. He tapped out the right answer.
+They were going to bar von Austen from the hall and put his horse to the test all alone. When the crowd was assembled, they told von Austen he must leave the auditorium. The surprised owner departed, and Hans was stranded in an auditorium with a suspicious and anxious audience. The confident commission leader asked Hans the first mathematical question.
 
-A second. He got it right. Then a third. Then the language questions followed.
+He tapped out the right answer. A second. He got it right. Then a third.
 
-He got them all right. The commission was befuddled. The critics were silenced.
+Then the language questions followed. He got them all right. The commission was befuddled. The critics were silenced.
 
 However, the public wasn’t. With a great outcry, they insisted on a new commission. The world waited while, once again, the authorities gathered scientists, professors, veterinarians, cavalry officers, and reporters from around the world. Only after this second commission put Hans to the test did the truth about the clever horse come out.
 
@@ -2844,35 +3072,35 @@ Can you guess what that was? Here’s a hint. When the audience or researcher kn
 
 People gave off very subtle body language signals the moment Hans’s hoof gave the right number of taps. When Hans started tapping the answer to a question, the audience would show subtle signs of tension. Then, when Hans reached the right number, they responded by an expulsion of breath or a slight relaxation of muscles. But Austin had trained Hans to stop tapping at that point and therefore appear to give the right answer.
 
-Hans was using the technique I call Hans’s Horse Sense. He watched his audience’s reactions very carefully and planned his responses accordingly. If a horse can do it, so can you. Have you ever been watching TV when the phone rings?
+Hans was using the technique. I call Hans’s Horse Sense. He watched his audience’s reactions very carefully and planned his responses accordingly. If a horse can do it, so can you.
 
-Someone asks you to hit the mute button on the television so they can talk. Because there’s no sound now you watch the TV action more carefully. You see performers smiling, scowling, smirking, squinting, and scores of other expressions. You don’t miss a bit of the story because just from their expressions you can tell what they’re thinking.
+Have you ever been watching TV when the phone rings? Someone asks you to hit the mute button on the television so they can talk. Because there’s no sound now you watch the TV action more carefully. You see performers smiling, scowling, smirking, squinting, and scores of other expressions.
 
-Hans’s Horse Sense is just that. Watching people, seeing how they’re reacting and then making your moves accordingly. Even while you’re talking, keep your eyes on your listeners and watch how they’re responding to what you’re saying. Don’t miss a trick.
+You don’t miss a bit of the story because just from their expressions you can tell what they’re thinking. Hans’s Horse Sense is just that. Watching people, seeing how they’re reacting and then making your moves accordingly. Even while you’re talking, keep your eyes on your listeners and watch how they’re responding to what you’re saying.
 
-Are they smiling? Are they nodding? Are their palms up? They like what they’re hearing.
+Don’t miss a trick. Are they smiling? Are they nodding? Are their palms up?
 
-Are they frowning? Are they looking away? Are their knuckles clenched? Maybe they don’t.
+They like what they’re hearing. Are they frowning? Are they looking away? Are their knuckles clenched?
 
-Are they rubbing their necks? Are they stepping back? Are their feet pointing toward the door? Maybe they want to get away.
+Maybe they don’t. Are they rubbing their necks? Are they stepping back? Are their feet pointing toward the door?
 
-You don’t need a complete course in body language here. Already your life’s experience has given you a good grounding in that. Most people know if their conversation partners step back or look away they’re not interested in what you’re saying. When they think you’re a pain in the neck they rub theirs.
+Maybe they want to get away. You don’t need a complete course in body language here. Already your life’s experience has given you a good grounding in that. Most people know if their conversation partners step back or look away they’re not interested in what you’re saying.
 
-When they feel superior to you they steeple their hands. We’ll explore more body language specifics in technique number 77, eyeball selling. For the moment all you need to do is tune to the silent channel being broadcast by the speaker. Technique number eight, Hans’s Horse Sense.
+When they think you’re a pain in the neck they rub theirs. When they feel superior to you they steeple their hands. We’ll explore more body language specifics in technique number 77, eyeball selling. For the moment all you need to do is tune to the silent channel being broadcast by the speaker.
 
-Make it a habit to get on a dual track while talking. Express yourself but keep a keen eye on how your listener is reacting to what you’re saying. Then plan your moves accordingly. If a horse can do it so can a human.
+Technique number eight, Hans’s Horse Sense. Make it a habit to get on a dual track while talking. Express yourself but keep a keen eye on how your listener is reacting to what you’re saying. Then plan your moves accordingly.
 
-People will say you pick up on everything. You never miss a trick. You’ve got horse sense. You now have eight techniques to help you come across as a confident, credible and charismatic person who makes everyone he or she comes in contact with feel like a million.
+If a horse can do it so can a human. People will say you pick up on everything. You never miss a trick. You’ve got horse sense.
 
-Let’s explore one last technique in this section to put it all together and make sure you don’t miss a beat. Nine, how to make sure you don’t miss a single beat. You’ve seen professional skiing on television, the athlete at the top of the piece, every muscle primed and poised, waiting for the gun to propel him to ultimate victory. Look deeply into his eyes and you’ll see he is having an out of body experience.
+You now have eight techniques to help you come across as a confident, credible and charismatic person who makes everyone he or she comes in contact with feel like a million. Let’s explore one last technique in this section to put it all together and make sure you don’t miss a beat. Nine, how to make sure you don’t miss a single beat. You’ve seen professional skiing on television, the athlete at the top of the piece, every muscle primed and poised, waiting for the gun to propel him to ultimate victory.
 
-In his mind’s eye the skier is swooshing down the slope, zapping back and forth between the poles and sliding across the finish line in faster time than the world thought possible. The athlete is visualizing. All athletes do it. Divers, runners, jumpers, javelin throwers, losers, swimmers, skaters, acrobats.
+Look deeply into his eyes and you’ll see he is having an out of body experience. In his mind’s eye the skier is swooshing down the slope, zapping back and forth between the poles and sliding across the finish line in faster time than the world thought possible. The athlete is visualizing. All athletes do it.
 
-They visualize their magic before performing it. They see their own bodies bending, twisting, flipping or flying through the air. They hear the sound of the wind, the splash in the water, the horror of the javelin, the thought of its landing. They smell the grass, the cement, the pool, the dust.
+Divers, runners, jumpers, javelin throwers, losers, swimmers, skaters, acrobats. They visualize their magic before performing it. They see their own bodies bending, twisting, flipping or flying through the air. They hear the sound of the wind, the splash in the water, the horror of the javelin, the thought of its landing.
 
-Before they move a muscle professional athletes watch the whole movie, which of course ends in their own victory. Sports psychologists tell us visualization is not just for top level competitive athletes. Studies show mental rehearsal helps weekend athletes sharpen their golf, their tennis, their running, whatever their favorite activity. Experts agree if you see the pictures, hear the sounds and feel the movements of your body in your mind before you do the activity.
+They smell the grass, the cement, the pool, the dust. Before they move a muscle professional athletes watch the whole movie, which of course ends in their own victory. Sports psychologists tell us visualization is not just for top level competitive athletes. Studies show mental rehearsal helps weekend athletes sharpen their golf, their tennis, their running, whatever their favorite activity.
 
-The effect is powerful. Twenty-six miles on my mattress.
+Experts agree if you see the pictures, hear the sounds and feel the movements of your body in your mind before you do the activity. The effect is powerful. Twenty-six miles on my mattress.
 
 
 <a id="sec-070423"></a>
@@ -2882,23 +3110,25 @@ Psychological mumbo-jumbo? Absolutely not. My friend Richard runs marathons. Onc
 
 He was not badly injured. Nevertheless his friends felt sorry for him because being laid up two weeks in bed would naturally knock him out of the big event. What a surprise when on that crisp November marathon morning in Central Park Richard showed up in his little shorts and big running shoes. Richard, are you crazy?
 
-You’re in no shape to run. You’ve been in bed these past few weeks, we all cried out. My body may have been in bed, he replied, but I’ve been running. What?
+You’re in no shape to run. You’ve been in bed these past few weeks, we all cried out. My body may have been in bed, he replied, but. I’ve been running.
 
-We asked in unison? Yep, every day. Twenty-six miles, three hundred eighty-five yards, right there on my mattress. Richard explained that in his imagination he saw himself traversing every step of the course.
+What? We asked in unison? Yep, every day. Twenty-six miles, three hundred eighty-five yards, right there on my mattress.
 
-He saw the sights, heard the sounds and felt the twitching movements in his muscles. He visualized himself racing in the marathon. Richard didn’t do as well as he had the year before, but the miracle is he finished the marathon without injury, without excessive fatigue, thanks to his visualization. It works in just about any endeavor you apply it to, including being a terrific communicator.
+Richard explained that in his imagination he saw himself traversing every step of the course. He saw the sights, heard the sounds and felt the twitching movements in his muscles. He visualized himself racing in the marathon. Richard didn’t do as well as he had the year before, but the miracle is he finished the marathon without injury, without excessive fatigue, thanks to his visualization.
 
-Visualization works best when you feel totally relaxed, only when you have a calm state of mind can you get clear, vivid images. Do your visualization in the quiet of your home or car before leaving for the party, the convention, or the big deal meeting. See it all in your mind’s eye ahead of time. Technique number nine.
+It works in just about any endeavor you apply it to, including being a terrific communicator. Visualization works best when you feel totally relaxed, only when you have a calm state of mind can you get clear, vivid images. Do your visualization in the quiet of your home or car before leaving for the party, the convention, or the big deal meeting. See it all in your mind’s eye ahead of time.
 
-Watch the scene before you make the scene. Rehearse being the super somebody you want to be ahead of time. See yourself walking around with hang by your teeth posture, shaking hands, smiling the flooding smile, and making sticky eyes. Hear yourself chatting comfortably with everyone.
+Technique number nine. Watch the scene before you make the scene. Rehearse being the super somebody you want to be ahead of time. See yourself walking around with hang by your teeth posture, shaking hands, smiling the flooding smile, and making sticky eyes.
 
-Feel the pleasure of knowing you are in peak form and everyone is gravitating toward you. Visualize yourself a super somebody. Then it all happens automatically. You now have the skills necessary to get you started on the right foot with any new person in your life.
+Hear yourself chatting comfortably with everyone. Feel the pleasure of knowing you are in peak form and everyone is gravitating toward you. Visualize yourself a super somebody. Then it all happens automatically.
 
-Think of yourself in these first moments like a rocket taking off. When the folks at Cape Kennedy aim a spacecraft for the moon, a mistake in the millionth of a degree at the beginning, when the craft is still on the ground, means missing the moon by thousands of miles. Likewise, a tiny body language blooper at the outside of a relationship may mean you will never make a hit with that person. But with the flooding smile, sticky eyes, epoxy eyes, hang by your teeth, the big baby pivot, hello old friend, limit the fidget, Hans’s horse sense, and watch the scene before you make the scene, you’ll be right on course to get whatever you eventually want from anybody, be it business, friendship, or love.
+You now have the skills necessary to get you started on the right foot with any new person in your life. Think of yourself in these first moments like a rocket taking off. When the folks at Cape Kennedy aim a spacecraft for the moon, a mistake in the millionth of a degree at the beginning, when the craft is still on the ground, means missing the moon by thousands of miles. Likewise, a tiny body language blooper at the outside of a relationship may mean you will never make a hit with that person.
 
-We now move from the silent world to the spoken word.
+But with the flooding smile, sticky eyes, epoxy eyes, hang by your teeth, the big baby pivot, hello old friend, limit the fidget, Hans’s horse sense, and watch the scene before you make the scene, you’ll be right on course to get whatever you eventually want from anybody, be it business, friendship, or love. We now move from the silent world to the spoken word.
 
-#### Part 2 How to Know What to Say After You Say Hi Just as the first glimpse should please their eyes, your first words should delight their ears. Your tongue is a welcome mat embossed with either welcome or go away. To make your conversation partner feel welcome, you must master small talk. Can you hear the shudder?
+#### Part 2. How to Know. What to Say.
+
+After You Say Hi Just as the first glimpse should please their eyes, your first words should delight their ears. Your tongue is a welcome mat embossed with either welcome or go away. To make your conversation partner feel welcome, you must master small talk. Can you hear the shudder?
 
 Those two little words drive a stake into the hearts of some otherwise fearless and undaunted souls. Invite them to a party where they don’t know anyone, and it mainlines queasiness into their veins. If this sounds familiar, take consolation from the fact that the brighter the individual, the more he or she detests small talk. When consulting for Fortune 500 companies, I was astounded.
 
@@ -2916,29 +3146,39 @@ They’re already experimenting with Prozac to change people’s personalities. 
 
 Incidentally, science is beginning to recognize it’s not chance or even upbringing that one person has a belly of butterflies and another doesn’t. In our brains, neurons communicate through chemicals called neurotransmitters. Some people have excessive levels of a neurotransmitter called norepinephrine, a chemical cousin of adrenaline. For some children, just walking into a kindergarten room makes them want to run and hide under a table.
 
-As a tot, I spent a lot of time under the table. As a pre-teen in an all-girls boarding school, my legs turned to linguine every time I had to converse with a male. In eighth grade, I once had to invite a boy to our school prom. The entire selection of dancing males lived in the dormitory of our brother’s school.
+As a tot, I spent a lot of time under the table. As a pre-teen in an all-girls boarding school, my legs turned to linguine every time. I had to converse with a male. In eighth grade, I once had to invite a boy to our school prom.
 
-And I only knew one resident, Eugene. I had met Eugene at summer camp the year before. Mustering all my courage, I decided to call him. Two weeks before the dance I felt the onset of sweaty palms. I put the call off.
+The entire selection of dancing males lived in the dormitory of our brother’s school. And. I only knew one resident, Eugene. I had met Eugene at summer camp the year before.
+
+Mustering all my courage, I decided to call him. Two weeks before the dance. I felt the onset of sweaty palms. I put the call off.
 
 One week before, rapid heartbeat set in. I put the call off.
 
-Finally three days before the big bash, breathing became difficult. Time was running out. The critical moment I rationalized would be easier if I read from a script. I wrote out the following.
+Finally, three days before the big bash, breathing became difficult. Time was running out. The critical moment. I rationalized would be easier if.
 
-Hi, this is Lille. We met at camp last summer, remember? I programmed in a pause where I hoped he would say yes. Well, National Cathedral School’s prom is this Saturday night, and I’d like you to be my date.
+I read from a script. I wrote out the following. Hi, this is Lille. We met at camp last summer, remember?
 
-I programmed in another pause where I prayed he’d say yes. On Thursday before the dance, I could no longer delay the inevitable. I picked up the receiver and dialed. Clutching the phone, waiting for Eugene to answer, my eyes followed perspiration droplets rolling down my arm and dripping off my elbow.
+I programmed in a pause where. I hoped he would say yes. Well, National Cathedral School’s prom is this Saturday night, and. I’d like you to be my date.
 
-A small salty puddle was forming around my feet. Hello, but I persisted. Just to quiet me down, Nancy promised to ask Kentankerous old Mrs. Otis if she liked plants. The next day a flabbergasted Nancy called me from work.
+I programmed in another pause where. I prayed he’d say yes. On Thursday before the dance, I could no longer delay the inevitable. I picked up the receiver and dialed.
 
-Lille, how did you know? Not only did Mrs. Otis love plants, but she told me she’d been married to a gardener. Today I had a different problem with Mrs. Otis. I couldn’t shut her up.
+Clutching the phone, waiting for Eugene to answer, my eyes followed perspiration droplets rolling down my arm and dripping off my elbow. A small salty puddle was forming around my feet. Hello, but. I persisted.
 
-She went on and on about her garden, her husband. Top communicators, no ideas, don’t come out of nowhere. If Mrs. Otis thought to bring up plants, then she must have some relationship with them.
+Just to quiet me down, Nancy promised to ask Kentankerous old Mrs. Otis if she liked plants. The next day a flabbergasted Nancy called me from work. Lille, how did you know?
 
-Furthermore, by mentioning the word, it meant subconsciously she wanted to talk about plants. Suppose for example, instead of responding to Nancy’s comment about the rain with, it’s good for the plants, Mrs. Otis had said, because of the rain my dog couldn’t go out. Nancy could then ask about her dog. Or suppose she grumbled, it’s bad for my arthritis.
+Not only did Mrs. Otis love plants, but she told me she’d been married to a gardener. Today. I had a different problem with Mrs.
 
-Can you guess what old Mrs. Otis wants to talk about now? When talking with anyone, keep your ears open and, like a good detective, listen for clues. Be on the lookout for any unusual references, any anomaly, deviation, digression or invocation of another place, time, person. Ask about it because it’s the clue to what your conversation partner would really enjoy discussing.
+Otis. I couldn’t shut her up. She went on and on about her garden, her husband. Top communicators, no ideas, don’t come out of nowhere.
 
-If two people have something in common, when the shared interest comes up, they jump on it naturally. For example, if someone mentions playing squash, bird watching or stamp collecting, and the listener shares that passion, he or she pipes up, oh, you’re a squasher, or birder, or philatelist too.
+If Mrs. Otis thought to bring up plants, then she must have some relationship with them.
+
+Furthermore, by mentioning the word, it meant subconsciously she wanted to talk about plants. Suppose for example, instead of responding to Nancy’s comment about the rain with, it’s good for the plants, Mrs. Otis had said, because of the rain my dog couldn’t go out. Nancy could then ask about her dog.
+
+Or suppose she grumbled, it’s bad for my arthritis. Can you guess what old Mrs. Otis wants to talk about now? When talking with anyone, keep your ears open and, like a good detective, listen for clues.
+
+Be on the lookout for any unusual references, any anomaly, deviation, digression or invocation of another place, time, person. Ask about it because it’s the clue to what your conversation partner would really enjoy discussing. If two people have something in common, when the shared interest comes up, they jump on it naturally.
+
+For example, if someone mentions playing squash, bird watching or stamp collecting, and the listener shares that passion, he or she pipes up, oh, you’re a squasher, or birder, or philatelist too.
 
 
 <a id="sec-071429"></a>
@@ -2950,29 +3190,33 @@ The subject may put your feet to sleep, but that’s another story. Technique nu
 
 The evidence is bound to slip out. Then spring on that subject like a sleuth onto a slip of the tongue. Like Sherlock Holmes, you have the clue to the subject that’s hot for the other person. Now that you’ve ignited stimulating conversation, let’s explore a technique to keep it hot. 19.
 
-How to enthrall them with your choice of topic—them. Several years ago a girlfriend and I attended a party saturated with a hodgepodge of swellegant folks. Everyone we talked to seemed to lead a nifty life. Discussing the party afterward, I asked my friend, Diane, of all the exciting people at the party, who did you enjoy talking to most?
+How to enthrall them with your choice of topic—them. Several years ago a girlfriend and. I attended a party saturated with a hodgepodge of swellegant folks. Everyone we talked to seemed to lead a nifty life.
 
-Without hesitation she said, “Oh, by far Dan Smith.” What does Dan do? I asked her. Um, well, I’m not sure, she answered. Where does he live?
+Discussing the party afterward, I asked my friend, Diane, of all the exciting people at the party, who did you enjoy talking to most? Without hesitation she said, “Oh, by far Dan Smith.”. What does Dan do? I asked her.
 
-Uh, I don’t know, Diane responded. Well what is he interested in? Well we really didn’t talk about his interests. Diane, I asked, what did you talk about?
+Um, well, I’m not sure, she answered. Where does he live? Uh, I don’t know, Diane responded. Well what is he interested in?
 
-Well I guess we talked mostly about me. Aha, I thought. Diane has just rubbed noses with a winner. As it turns out, I had the pleasure of meeting big winner Dan several months later.
+Well we really didn’t talk about his interests. Diane, I asked, what did you talk about? Well. I guess we talked mostly about me.
 
-Diane’s ignorance about his life piqued my curiosity so I grilled him for details. As it turns out, Dan lives in Paris, has a beach home in the south of France, and a mountain home in the Alps. He travels around the world producing sound and light shows for pyramids and ancient ruins, and he is an avid hang glider and scuba diver. Does this man have an interesting life or what?
+Aha, I thought. Diane has just rubbed noses with a winner. As it turns out, I had the pleasure of meeting big winner Dan several months later. Diane’s ignorance about his life piqued my curiosity so.
 
-Yet Dan, when meeting Diane, said nothing about himself. I told Dan about how pleased Diane was to meet him, yet how little she learned about his life. Dan simply replied, well when I meet someone I learn so much more if I ask about their life. I always try to turn the spotlight on the other person.
+I grilled him for details. As it turns out, Dan lives in Paris, has a beach home in the south of France, and a mountain home in the Alps. He travels around the world producing sound and light shows for pyramids and ancient ruins, and he is an avid hang glider and scuba diver. Does this man have an interesting life or what?
 
-Truly confident people often do this. They know they grow more by listening than talking. Obviously they also captivate the talker. Sell yourself with a top sales technique.
+Yet Dan, when meeting Diane, said nothing about himself. I told Dan about how pleased Diane was to meet him, yet how little she learned about his life. Dan simply replied, well when. I meet someone.
 
-Several months ago at a speaker’s convention I was talking with a colleague, Brian Tracy. Brian does a brilliant job of training top salespeople. He tells his students of a giant spotlight that when shining on their product is not as interesting to the prospect. When they shine the spotlight on the prospect, they make the sale.
+I learn so much more if. I ask about their life. I always try to turn the spotlight on the other person. Truly confident people often do this.
+
+They know they grow more by listening than talking. Obviously, they also captivate the talker. Sell yourself with a top sales technique. Several months ago at a speaker’s convention.
+
+I was talking with a colleague, Brian Tracy. Brian does a brilliant job of training top salespeople. He tells his students of a giant spotlight that when shining on their product is not as interesting to the prospect. When they shine the spotlight on the prospect, they make the sale.
 
 Salespeople this technique is especially crucial for you. Keep your swiveling spotlight aimed away from you, only lightly on your product and most brightly on your buyer. People do a much better job of selling yourself and your product. Technique number 19, the swiveling spotlight.
 
 When you meet someone, imagine a giant revolving spotlight between you. When you’re talking the spotlight is on you. When the new person is speaking it’s shining on him or her. If you shine it brightly enough, the stranger will be blinded to the fact that you have hardly said a word about yourself.
 
-The longer you keep it shining away from you, the more interesting he or she finds you. 20. How to never need to wonder, what do I say next? Moments arise, of course, when even conversationalists extraordinaire hit the wall. Some folks' monosyllabic grunts leave slim pickings even for masters of the be-a-word detective technique.
+The longer you keep it shining away from you, the more interesting he or she finds you. 20. How to never need to wonder, what do. I say next? Moments arise, of course, when even conversationalists extraordinaire hit the wall.
 
-If you find yourself futilely fanning the embers of a dying conversation, and if you feel for political reasons or human compassion that the conversation should continue, here’s a foolproof trick to get the fire blazing again. I call it parroting, after that beautiful tropical bird that captures everyone’s heart simply by repeating other people’s words.
+Some folks' monosyllabic grunts leave slim pickings even for masters of the be-a-word detective technique. If you find yourself futilely fanning the embers of a dying conversation, and if you feel for political reasons or human compassion that the conversation should continue, here’s a foolproof trick to get the fire blazing again. I call it parroting, after that beautiful tropical bird that captures everyone’s heart simply by repeating other people’s words.
 
 
 <a id="sec-071933"></a>
@@ -2982,23 +3226,27 @@ Have you ever, puttering around the house, had the TV in the background tuned to
 
 The ball didn’t hit the court. What happened? You immediately look up at the set. Likewise, in conversation, the conversational ball goes back and forth.
 
-First you speak, then your partner speaks, you speak, and so it goes back and forth. Each time through a series of nods and comforting grunts like, mm-hmm, or, mm, you let your conversation partner know the ball has landed in your court. It’s your, I got it, signal. Such is the rhythm of conversation.
+First, you speak, then your partner speaks, you speak, and so it goes back and forth. Each time through a series of nods and comforting grunts like, mm-hmm, or, mm, you let your conversation partner know the ball has landed in your court. It’s your, I got it, signal. Such is the rhythm of conversation.
 
-What do I say next? Back to that frightfully familiar moment when it is your turn to speak but your mind goes blank. Don’t panic. Instead of signaling verbally or non-verbally that you got it, simply repeat or parrot the last two or three words your companion said in a sympathetic questioning tone.
+What do. I say next? Back to that frightfully familiar moment when it is your turn to speak but your mind goes blank. Don’t panic.
 
-That throws the conversational ball right back in your partner’s court. My friend Phil sometimes picks me up at the airport. Usually I am so exhausted that I rudely fall asleep in the passenger seat, relegating Phil to nothing more than a chauffeur. After one especially exhausting trip some years ago I flung my bags in his trunk and flopped on to the front seat.
+Instead of signaling verbally or non-verbally that you got it, simply repeat or parrot the last two or three words your companion said in a sympathetic questioning tone. That throws the conversational ball right back in your partner’s court. My friend Phil sometimes picks me up at the airport. Usually.
 
-As I was dozing off he mentioned he’d gone to the theater the night before. Usually I would have just grunted and wafted into unconsciousness.
+I am so exhausted that. I rudely fall asleep in the passenger seat, relegating Phil to nothing more than a chauffeur. After one especially exhausting trip some years ago. I flung my bags in his trunk and flopped on to the front seat.
 
-However on this particular trip I had learned the parroting technique and was eager to try it. Theater, I parroted quizzically. Yes, it was a great show, he replied, fully expecting it to be the last word on the subject before I fell into my usual sleepy stupor. Great show, I parroted.
+As. I was dozing off he mentioned he’d gone to the theater the night before. Usually. I would have just grunted and wafted into unconsciousness.
 
-Pleasantly surprised by my interest he said. Yes, it’s a new show by Stephen Sondheim called Sweeney Todd. Sweeney Todd, I again parroted. Now Phil was getting fired up.
+However, on this particular trip. I had learned the parroting technique and was eager to try it. Theater, I parroted quizzically. Yes, it was a great show, he replied, fully expecting it to be the last word on the subject before.
 
-Yeah, great music and an unbelievably bizarre story. Bizarre story, I parroted. Well that’s all Phil needed. For the next half an hour Phil told me the show’s story about a London barber who went around murdering people.
+I fell into my usual sleepy stupor. Great show, I parroted. Pleasantly surprised by my interest he said. Yes, it’s a new show by Stephen Sondheim called Sweeney Todd.
 
-I half dozed but soon decided his tale of Sweeney Todd’s cutting off people’s heads was disturbing my sleepy reverie. So I simply backed up and parroted one of his previous phrases to get him on another track. You said it had great music? That did the trick.
+Sweeney Todd, I again parroted. Now Phil was getting fired up. Yeah, great music and an unbelievably bizarre story. Bizarre story, I parroted.
 
-For the rest of the 45 minute trip to my home Phil sang me Pretty Women, The Best Pies in London and other songs from Sweeney Todd. Much better accompaniment for my demi nap. I’m sure to this day Phil thinks of that trip as one of the best conversations we ever had. And all I did was parrot a few of his phrases.
+Well that’s all Phil needed. For the next half an hour Phil told me the show’s story about a London barber who went around murdering people. I half dozed but soon decided his tale of Sweeney Todd’s cutting off people’s heads was disturbing my sleepy reverie. So.
+
+I simply backed up and parroted one of his previous phrases to get him on another track. You said it had great music? That did the trick. For the rest of the 45 minute trip to my home Phil sang me Pretty Women, The Best Pies in London and other songs from Sweeney Todd.
+
+Much better accompaniment for my demi nap. I’m sure to this day Phil thinks of that trip as one of the best conversations we ever had. And all. I did was parrot a few of his phrases.
 
 Technique number 20, parroting. Never be left speechless again. Like a parrot, simply repeat the last few words your conversation partner says. That puts the ball right back in his or her court and then all you need to do is listen.
 
@@ -3014,59 +3262,69 @@ I’m not sure it fits my personality. Fits your personality?
 <a id="sec-072434"></a>
 ### ⏱️ [07:24:34 - 07:29:38]
 
-Paul again parroted. You know, maybe I need something a little more sporty. A little more sporty? Paul parroted.
+Paul again parroted. You know, maybe. I need something a little more sporty. A little more sporty?
 
-Well, those cars over there look a little more sporty. Aha! Paul’s parrot had ferreted out which cars to show the customer. As they walked over toward a Lamborghini on the lot, Paul saw the prospect’s eyes light up.
+Paul parroted. Well, those cars over there look a little more sporty. Aha! Paul’s parrot had ferreted out which cars to show the customer.
 
-An hour later, Paul had pocketed a fat commission. Want to take a rest from talking to save your throat? This next technique gets your conversation partner off and running, so all you have to do is listen, or even sneak off unnoticed as he or she chats congenially away. Twenty-one.
+As they walked over toward a Lamborghini on the lot, Paul saw the prospect’s eyes light up. An hour later, Paul had pocketed a fat commission. Want to take a rest from talking to save your throat? This next technique gets your conversation partner off and running, so all you have to do is listen, or even sneak off unnoticed as he or she chats congenially away.
 
-How to get him happily chatting so you can slip away if you want to. Every father smiles when his little tyke beseeches him at bedtime, Daddy, Daddy, tell me the story again of the three little pigs, or the dancing princesses, or how you and Mommy met. Daddy knows Junior enjoyed the story so much the first time he wants to hear it again and again. Junior inspires the following technique called encore, which serves two purposes.
+Twenty-one. How to get him happily chatting so you can slip away if you want to. Every father smiles when his little tyke beseeches him at bedtime, Daddy, Daddy, tell me the story again of the three little pigs, or the dancing princesses, or how you and Mommy met. Daddy knows Junior enjoyed the story so much the first time he wants to hear it again and again.
 
-Encore makes a colleague feel like a happy dad, and it’s a great way to give dying conversation a heart transplant. I once worked on a ship that had Italian officers and mostly American passengers. Each week the deck officers were required to attend the captain’s cocktail party. After the captain’s address in charmingly broken English, the officers invariably clumped together yacking it up in Italian.
+Junior inspires the following technique called encore, which serves two purposes. Encore makes a colleague feel like a happy dad, and it’s a great way to give dying conversation a heart transplant. I once worked on a ship that had Italian officers and mostly American passengers. Each week the deck officers were required to attend the captain’s cocktail party.
 
-Needless to say, most of the passengers' grasp of Italian ended at macaroni, spaghetti, salami and pizza. As crew’s director, it fell on my shoulders to get the officers to mingle with the passengers. My not-so-subtle tactic was to grab one of the officers' arms and literally drag him over to a smiling throng of expectant passengers. I would then introduce the officer and pray that either the cat would release his tongue or a passenger would come up with a more original question than, Gee, if all you officers are here who is driving the boat.
+After the captain’s address in charmingly broken English, the officers invariably clumped together yacking it up in Italian. Needless to say, most of the passengers' grasp of Italian ended at macaroni, spaghetti, salami and pizza. As crew’s director, it fell on my shoulders to get the officers to mingle with the passengers. My not-so-subtle tactic was to grab one of the officers' arms and literally drag him over to a smiling throng of expectant passengers.
 
-Never happened. I dreaded the weekly captain’s cocktail party. One night, sleeping in my cabin, I was awakened by the ship rocking violently from side to side. I listened and the engines were off.
+I would then introduce the officer and pray that either the cat would release his tongue or a passenger would come up with a more original question than, Gee, if all you officers are here who is driving the boat. Never happened. I dreaded the weekly captain’s cocktail party. One night, sleeping in my cabin, I was awakened by the ship rocking violently from side to side.
 
-A bad sign. I grabbed my robe and raced up to the deck. Through the dense fog I could barely discern another ship not half a mile from us. Five or six officers were grasping the starboard guardrail and leaning overboard.
+I listened and the engines were off. A bad sign. I grabbed my robe and raced up to the deck. Through the dense fog.
 
-I rushed over just in time to see a man in the moonlight with a bandage over one eye struggling up our violently rocking ladder. The officers immediately whisked him off to our ship’s hospital. The engines started again and we were on our way. The next morning I got the full story.
+I could barely discern another ship not half a mile from us. Five or six officers were grasping the starboard guardrail and leaning overboard. I rushed over just in time to see a man in the moonlight with a bandage over one eye struggling up our violently rocking ladder. The officers immediately whisked him off to our ship’s hospital.
 
-A laborer on the other ship, a freighter, had been drilling a hole in an engine cylinder. While he was working, a sharp needle-thin piece of metal shot like a missile into his right eye. The freighter had no doctor on board, so the ship broadcast an emergency signal. International sea laws dictate that any ship hearing a distress signal must respond.
+The engines started again and we were on our way. The next morning. I got the full story. A laborer on the other ship, a freighter, had been drilling a hole in an engine cylinder.
 
-Our ship came to the rescue and the seaman, clutching his bleeding eye, was lowered into a lifeboat that brought him to our ship. Dr. Rosie, our ship’s doctor, was successfully able to remove the needle from the workman’s eye, thus saving his eyesight. Tell him about the time you… Cut to the next captain’s cocktail party. Once again I was faced with the familiar challenge of getting officers to mingle and make small talk with the passengers.
+While he was working, a sharp needle-thin piece of metal shot like a missile into his right eye. The freighter had no doctor on board, so the ship broadcast an emergency signal. International sea laws dictate that any ship hearing a distress signal must respond. Our ship came to the rescue and the seaman, clutching his bleeding eye, was lowered into a lifeboat that brought him to our ship.
 
-I made my weekly trek to the Laconic Officer’s throng to drag one or two away and, this time, my hand fell on the arm of the ship’s doctor. I hauled him over to the nearest group of grinning passengers and introduced him. I then said, just last week Dr. Rosie saved the eyesight of a seaman on another ship after a dramatic midnight rescue. Dr. Rosie, I’m sure these folks would love to hear about it. It was like a magic wand.
+Dr. Rosie, our ship’s doctor, was successfully able to remove the needle from the workman’s eye, thus saving his eyesight. Tell him about the time you… Cut to the next captain’s cocktail party.
 
-To my amazement it was as though Dr. Rosie was blessed instantly with the tongues of angels. His previously monosyllabic broken English became thickly accented eloquence. He recounted the entire story for the growing group of passengers gathering around him. I left the throng that Dr. Rosie enraptured to pull another officer over to an awaiting
+Once again. I was faced with the familiar challenge of getting officers to mingle and make small talk with the passengers. I made my weekly trek to the Laconic Officer’s throng to drag one or two away and, this time, my hand fell on the arm of the ship’s doctor. I hauled him over to the nearest group of grinning passengers and introduced him.
+
+I then said, just last week Dr. Rosie saved the eyesight of a seaman on another ship after a dramatic midnight rescue. Dr. Rosie, I’m sure these folks would love to hear about it.
+
+It was like a magic wand. To my amazement it was as though Dr. Rosie was blessed instantly with the tongues of angels. His previously monosyllabic broken English became thickly accented eloquence.
+
+He recounted the entire story for the growing group of passengers gathering around him. I left the throng that Dr. Rosie enraptured to pull another officer over to an awaiting
 
 
 <a id="sec-072938"></a>
 ### ⏱️ [07:29:38 - 07:34:39]
 
-audience. I grabbed the captain’s stripe-covered arm, dragged him over to another pack of smiling passengers and said, “Captain Caffiero, why don’t you tell these folks about the dramatic midnight rescue you made last week?” The cat released Caffiero’s tongue and he was off and running. Back to the… throng to get the first officer for the next group. By now I knew I had a winner.
+audience. I grabbed the captain’s stripe-covered arm, dragged him over to another pack of smiling passengers and said, “Captain Caffiero, why don’t you tell these folks about the dramatic midnight rescue you made last week?” The cat released Caffiero’s tongue and he was off and running. Back to the… throng to get the first officer for the next group. By now.
 
-Senor Selvago, why don’t you tell these folks how you awakened the Captain at midnight last week for the dramatic midnight rescue? By then it was time to go back to extract the ship’s doctor from the first bevy and take him to his next pack of passengers. It worked even better the second time. He happily commenced his encore for the second audience.
+I knew. I had a winner. Senor Selvago, why don’t you tell these folks how you awakened the Captain at midnight last week for the dramatic midnight rescue? By then it was time to go back to extract the ship’s doctor from the first bevy and take him to his next pack of passengers.
 
-As he chatted away, I raced back to the Captain to pull him away for a second telling with another throng. I felt like the circus juggler who keeps all the plates spinning on sticks. Just as I got one conversation spinning, I had to race back to the first speaker to give him a whirl at another audience. The Captain’s cocktail parties were a breeze for me for the rest of the season.
+It worked even better the second time. He happily commenced his encore for the second audience. As he chatted away, I raced back to the Captain to pull him away for a second telling with another throng. I felt like the circus juggler who keeps all the plates spinning on sticks.
 
-The three officers loved telling the same story of their heroism to new people every cruise. The only problem was I noticed the stories getting longer and more elaborate each time. I had to adjust my timing in getting them to do a repeat performance for the next audience. Play it again, Sam.
+Just as. I got one conversation spinning, I had to race back to the first speaker to give him a whirl at another audience. The Captain’s cocktail parties were a breeze for me for the rest of the season. The three officers loved telling the same story of their heroism to new people every cruise.
+
+The only problem was. I noticed the stories getting longer and more elaborate each time. I had to adjust my timing in getting them to do a repeat performance for the next audience. Play it again, Sam.
 
 Encore is what appreciative audiences chant when they want another song from the singer, another dance from the dancer, another poem from the poet, and, in my case, another story-telling from the officers. Encore is the technique you can use to request a repeat story from a prospect, potential employer, or valued acquaintance, while the two of you are chatting with a group of people simply turn to him and say, John, I bet everyone would love to hear about the time you caught that thirty-pound striped bass.
 
 Or, Susan, tell everyone that story you just told me of how you rescued the kitten from the tree. He or she will, of course, demur. Insist. Your conversation partner is secretly loving it.
 
-The subtext of your request is, that story of yours was so terrific I want my other friends to hear it. After all, only crowd pleasers are asked to do an encore. Encore. The sweetest sound a performer can hear welling up out of the applause is, encore, encore.
+The subtext of your request is, that story of yours was so terrific. I want my other friends to hear it. After all, only crowd pleasers are asked to do an encore. Encore.
 
-Let’s hear it again. The sweetest sound your conversation partner can hear from your lips when you’re talking with a group of people is, tell them about the time you… Whenever you’re at a meeting or party with someone important to you, think of some stories he or she told you. Use an appropriate one from their repertoire that the crowd will enjoy.
+The sweetest sound a performer can hear welling up out of the applause is, encore, encore. Let’s hear it again. The sweetest sound your conversation partner can hear from your lips when you’re talking with a group of people is, tell them about the time you… Whenever you’re at a meeting or party with someone important to you, think of some stories he or she told you.
 
-Then shine the spotlight by requesting a repeat performance. The added benefit of this technique is that, once you’ve got them up and running with their conversation, you can sneak off and find more interesting company. One word of warning. Make sure the story you request is one in which the teller shines.
+Use an appropriate one from their repertoire that the crowd will enjoy. Then shine the spotlight by requesting a repeat performance. The added benefit of this technique is that, once you’ve got them up and running with their conversation, you can sneak off and find more interesting company. One word of warning.
 
-No one wants to retell the time they lost the sale, cracked up the car, or broke up the bar and spent the night in jail. Make sure your requested encore is a positive story where they come out the big winner, not the buffoon. The full beauty of this technique will hit you like a happy thunderbolt the first time you use it with someone who is telling a long and wearisome tale. You simply tiptoe away and let the boar spin the story on and on with your friend.
+Make sure the story you request is one in which the teller shines. No one wants to retell the time they lost the sale, cracked up the car, or broke up the bar and spent the night in jail. Make sure your requested encore is a positive story where they come out the big winner, not the buffoon. The full beauty of this technique will hit you like a happy thunderbolt the first time you use it with someone who is telling a long and wearisome tale.
 
-Of course your friend may never speak to you again, but that’s not germane to this chapter. The next technique deals with sharing some positive stories of your life. 22. How to come across as a positive person. Often people think when they meet someone they like they should share a secret, reveal an intimacy, or make a confession of sorts to show they are human too.
+You simply tiptoe away and let the boar spin the story on and on with your friend. Of course, your friend may never speak to you again, but that’s not germane to this chapter. The next technique deals with sharing some positive stories of your life. 22. How to come across as a positive person.
 
-Airing your youthful battle with bedwetting, teeth grinding, or thumb sucking, or your present struggle with gout or a goiter, supposedly endears you to the masses. Well sometimes it does. One study showed that if someone is above you in stature, their revealing a foible brings them closer to you. The holes in the bottom of presidential candidate Adlai Stevenson’s shoes charmed a nation,
+Often people think when they meet someone they like they should share a secret, reveal an intimacy, or make a confession of sorts to show they are human too. Airing your youthful battle with bedwetting, teeth grinding, or thumb sucking, or your present struggle with gout or a goiter, supposedly endears you to the masses. Well sometimes it does. One study showed that if someone is above you in stature, their revealing a foible brings them closer to you.
+
+The holes in the bottom of presidential candidate Adlai Stevenson’s shoes charmed a nation,
 
 
 <a id="sec-073439"></a>
@@ -3080,19 +3338,23 @@ But very early in a relationship, the instinctive reaction is, what else is comi
 
 When first meeting someone, lock your closet door and save your skeletons for later. You and your new good friend can invite the skeletons out, have a good laugh and dance over their bones later in the relationship, but now’s the time, as the old song says, to accentuate the positive and eliminate the negative. So far, in this section, you have found assertive methods for meeting people and mastering small talk. The next is both an assertive and defensive move to help spare you that pasty smile we tend to sport when we have no idea what people are talking about.
 
-Twenty-three. How to always have something interesting to say. You’ve heard folks whine, I can’t go to the party I haven’t got a thing to wear. When was the last time you heard, I can’t go to the party I haven’t got a thing to say?
+Twenty-three. How to always have something interesting to say. You’ve heard folks whine, I can’t go to the party. I haven’t got a thing to wear.
 
-When going to a gathering with great networking possibilities, you naturally plan your outfit and make sure your shoes will match. And of course, you must have just the right tie or correct color lipstick. You puff your hair, pack your business cards, and you’re off. Whoa, wait a minute, didn’t you forget the most important thing?
+When was the last time you heard, I can’t go to the party. I haven’t got a thing to say? When going to a gathering with great networking possibilities, you naturally plan your outfit and make sure your shoes will match. And of course, you must have just the right tie or correct color lipstick.
 
-What about the right conversation to enhance your image? Are you actually going to say anything that comes to mind, or doesn’t, at the moment? You wouldn’t don the first outfit your groping hand hits in the darkened closet, so you shouldn’t leave your conversing to the first thought that comes to mind when facing a group of expectant smiling faces. You will, of course, follow your instincts in conversation, but at least be prepared in case inspiration doesn’t hit.
+You puff your hair, pack your business cards, and you’re off. Whoa, wait a minute, didn’t you forget the most important thing? What about the right conversation to enhance your image? Are you actually going to say anything that comes to mind, or doesn’t, at the moment?
 
-The best way to ensure you’re conversationally in the swing of things is to listen to a newscast just before you leave. What’s happening right now in the world, all the fires, floods, air disasters, toppled governments, and stock market crashes, pulverizes into great conversational fodder no matter what crowd you’re circulating in. It is with some embarrassment that I must attribute the following technique to a businesswoman in the world’s oldest profession. For a magazine article I was writing, I interviewed one of the savviest operators in her field, Sydney Biddle Barrows, the famed Mayflower Madam.
+You wouldn’t don the first outfit your groping hand hits in the darkened closet, so you shouldn’t leave your conversing to the first thought that comes to mind when facing a group of expectant smiling faces. You will, of course, follow your instincts in conversation, but at least be prepared in case inspiration doesn’t hit. The best way to ensure you’re conversationally in the swing of things is to listen to a newscast just before you leave. What’s happening right now in the world, all the fires, floods, air disasters, toppled governments, and stock market crashes, pulverizes into great conversational fodder no matter what crowd you’re circulating in.
+
+It is with some embarrassment that. I must attribute the following technique to a businesswoman in the world’s oldest profession. For a magazine article. I was writing, I interviewed one of the savviest operators in her field, Sydney Biddle Barrows, the famed Mayflower Madam.
 
 Sydney told me she had a house rule when she was in business. All of her female independent contractors were directed to keep up with the daily news so they could be good conversationalists with their clients. This was not just Sydney’s whim. Feedback from her employees had revealed that 60% of her girl’s work hour was spent in chatting and only 40% in satisfying the customer’s needs.
 
-Thus she instructed them to read the daily newspaper or listen to a radio broadcast before leaving for an appointment. Sydney told me when she initiated this rule, her business increased significantly. Reports came back from her clients complimenting her on the fascinating women she had working for her. The consummate businesswoman, Ms. Barrows always strove to exceed her customers' expectations.
+Thus she instructed them to read the daily newspaper or listen to a radio broadcast before leaving for an appointment. Sydney told me when she initiated this rule, her business increased significantly. Reports came back from her clients complimenting her on the fascinating women she had working for her. The consummate businesswoman, Ms.
 
-Technique number 23. The latest news. Don’t leave home without it. The last move to make before leaving for the party, even after you’ve given yourself
+Barrows always strove to exceed her customers' expectations. Technique number 23. The latest news. Don’t leave home without it.
+
+The last move to make before leaving for the party, even after you’ve given yourself
 
 
 <a id="sec-073943"></a>
@@ -3110,11 +3372,13 @@ Which of us has the stronger survival skills? Tigers in the wilderness differ li
 
 They’re not calculating the length of each other’s claws or the sharpness of their teeth. They are judging each other on a weapon far more powerful to survival as they have defined it. Humans are judging each other’s communication skills. Though they may not know the names of the specific studies first proving it, they sensed the truth.
 
-Eighty-five percent of one’s success in life is directly due to communication skills. They may not be familiar with the U. S. Census Bureau’s recent survey showing employers choose candidates with good communication skills and attitude way over education, experience, and training, but they know communication skills get people to the top. Thus, by observing each other carefully during casual conversing, it becomes almost immediately evident to both which is the bigger cat in the human jungle. It doesn’t take long for people to recognize who is an important person.
+Eighty-five percent of one’s success in life is directly due to communication skills. They may not be familiar with the U. S. Census Bureau’s recent survey showing employers choose candidates with good communication skills and attitude way over education, experience, and training, but they know communication skills get people to the top.
 
-One cliché, one insensitive remark, one over-anxious reaction, and you can be professionally or personally demoted. You can lose a potentially important friendship or business contact. One stupid move and you can tumble off the corporate or social ladder. The techniques in this section will help ensure that you make all the right moves so this doesn’t happen.
+Thus, by observing each other carefully during casual conversing, it becomes almost immediately evident to both which is the bigger cat in the human jungle. It doesn’t take long for people to recognize who is an important person. One cliché, one insensitive remark, one over-anxious reaction, and you can be professionally or personally demoted. You can lose a potentially important friendship or business contact.
 
-The following communication skills give you a leg up to start your ascent to the top of any ladder you choose. Twenty-four. How to find out what they do without even asking. To size each other up, the first question little cats flat-pawedly ask each other is, �And what do you do, hmm?� Then they crouch there, quivering their whiskers and twitching their noses with an obvious, �I’m going to pronounce silent judgment on you after you answer, look on their pusses.� Big cats never ask outright, �What do you do?� Oh, they find out all right, in a much more subtle manner.
+One stupid move and you can tumble off the corporate or social ladder. The techniques in this section will help ensure that you make all the right moves so this doesn’t happen. The following communication skills give you a leg up to start your ascent to the top of any ladder you choose. Twenty-four.
+
+How to find out what they do without even asking. To size each other up, the first question little cats flat-pawedly ask each other is, �And what do you do, hmm?� Then they crouch there, quivering their whiskers and twitching their noses with an obvious, �I’m going to pronounce silent judgment on you after you answer, look on their pusses.� Big cats never ask outright, �What do you do?� Oh, they find out all right, in a much more subtle manner.
 
 By not asking the question, the big boys and big girls come across as more principled, even spiritual. After all, their silence says, �A man or woman is far more than his or her job.� Resisting the tempting question also shows their sensitivity. With so much downsizing, right-sizing, and capsizing of corporations these days, the blunt interrogation evokes uneasiness. The job question is not just unpleasant for those who are between engagements. �I have several gainfully employed friends who hate being asked, and what do you do?� One of these folks cuts cadavers for autopsies, the other is an IRS collection agent.
 
@@ -3164,23 +3428,25 @@ When my colleague Brian makes cold calls instead of saying, Hello, my name is Br
 
 That is his benefit statement. He highlights the specific benefits of what he has to offer to his prospect. My hairdresser Gloria, I discovered, gives a terrific benefit statement to everyone she meets. That’s probably why she has so many clients.
 
-In fact, that’s how she got me as a client. When I met Gloria at a convention, she told me she was a hairdresser who specialized in flexible hairstyles for the businesswoman. She casually mentioned she has many clients who choose a conservative hairstyle for work that they can instantly convert to a feminine style for social situations. Hey, that’s me, I said to myself, fingering my stringy little ponytail.
+In fact, that’s how she got me as a client. When. I met Gloria at a convention, she told me she was a hairdresser who specialized in flexible hairstyles for the businesswoman. She casually mentioned she has many clients who choose a conservative hairstyle for work that they can instantly convert to a feminine style for social situations.
 
-I asked for her card and Gloria became my hairdresser. Then several months later, I happened to see Gloria at another event. I overheard her chatting with a stylish gray-haired woman at the buffet table. Gloria was saying, and we specialize in a wonderful array of blue rinses.
+Hey, that’s me, I said to myself, fingering my stringy little ponytail. I asked for her card and Gloria became my hairdresser. Then several months later, I happened to see Gloria at another event. I overheard her chatting with a stylish gray-haired woman at the buffet table.
 
-Now that was news to me. I didn’t remember seeing one gray head in her salon. As I was leaving the party, Gloria was out on the lawn talking animatedly with the host’s teenage daughters. Oh, yeah, she was saying.
+Gloria was saying, and we specialize in a wonderful array of blue rinses. Now that was news to me. I didn’t remember seeing one gray head in her salon. As.
 
-Like, we specialize in these really cool up-to-the-minute styles. Good for you, Gloria. Like Gloria the hairdresser, give your response a once-over before answering the inevitable what do you do. When someone asks, never give just a one-word answer.
+I was leaving the party, Gloria was out on the lawn talking animatedly with the host’s teenage daughters. Oh, yeah, she was saying. Like, we specialize in these really cool up-to-the-minute styles. Good for you, Gloria.
 
-That’s for forms. If business networking is on your mind, ask yourself, how could my professional experience benefit this person’s life? For example, here are some descriptions various people might put on their tax return. Real estate agent, financial planner, martial arts instructor, cosmetic surgeon, hairdresser. Any practitioner of the above profession should reflect on the benefit his or her job has to humankind.
+Like Gloria the hairdresser, give your response a once-over before answering the inevitable what do you do. When someone asks, never give just a one-word answer. That’s for forms. If business networking is on your mind, ask yourself, how could my professional experience benefit this person’s life?
 
-Every job has some benefit, or you wouldn’t get paid to do it. The advice to these folks is don’t say real estate agent, say, I help people moving into our area find the right home. Don’t say financial planner, say, I help people plan their financial future. Don’t say martial arts instructor, say, I help people defend themselves by teaching martial arts.
+For example, here are some descriptions various people might put on their tax return. Real estate agent, financial planner, martial arts instructor, cosmetic surgeon, hairdresser. Any practitioner of the above profession should reflect on the benefit his or her job has to humankind. Every job has some benefit, or you wouldn’t get paid to do it.
 
-Don’t say cosmetic surgeon, say, I reconstruct people’s faces after disfiguring events. Or if you’re talking with a woman of a certain age, as the French so gracefully say, tell her, I help people to look as young as they feel through cosmetic surgery. Don’t say hairdresser, say, I help a woman find the right hairstyle for her particular face. Go Gloria.
+The advice to these folks is don’t say real estate agent, say, I help people moving into our area find the right home. Don’t say financial planner, say, I help people plan their financial future. Don’t say martial arts instructor, say, I help people defend themselves by teaching martial arts. Don’t say cosmetic surgeon, say, I reconstruct people’s faces after disfiguring events.
 
-Putting the benefit statement in your verbal nutshell resume brings your job to life and makes it memorable. Even if your new acquaintance can’t use your services, the next time he or she meets someone moving into the area, wanting to plan their financial future, thinking of self defense, considering cosmetic surgery, or needing a new hairstyle, who comes to mind? Not the unimaginative people who gave the tax return description of their jobs, but the big winners who painted a picture of helping people with needs.
+Or if you’re talking with a woman of a certain age, as the French so gracefully say, tell her, I help people to look as young as they feel through cosmetic surgery. Don’t say hairdresser, say, I help a woman find the right hairstyle for her particular face. Go Gloria. Putting the benefit statement in your verbal nutshell resume brings your job to life and makes it memorable.
 
-A nutshell resume for your private life. The nutshell resume works in non-business situations too. Since the new
+Even if your new acquaintance can’t use your services, the next time he or she meets someone moving into the area, wanting to plan their financial future, thinking of self defense, considering cosmetic surgery, or needing a new hairstyle, who comes to mind? Not the unimaginative people who gave the tax return description of their jobs, but the big winners who painted a picture of helping people with needs. A nutshell resume for your private life. The nutshell resume works in non-business situations too.
+
+Since the new
 
 
 <a id="sec-075455"></a>
@@ -3196,59 +3462,65 @@ Could he refer business to me, buy from me, hire me, marry my sister, become my 
 
 By the smile on the speaker’s face and the gleam in his eye as the word limped off his lips, you knew he was really proud of it. To make matters worse, he probably used the word incorrectly. Inappropriate, a sexy, deep male voice answered the dorm phone. In faster than a speeding bullet voice, like a nervous, novice telemarketer, I shot out, hi, this is Leo, we met at camp, last summer, remember?
 
-Forgetting to pause for his ascent, I raced on. Well, National Cathedral Schools promised this Saturday night, and I’d like you to be my date. To my relief and delight, I heard a big, cheerful, oh, that’s great, I’d love to. I exhaled my first normal breath all day.
+Forgetting to pause for his ascent, I raced on. Well, National Cathedral Schools promised this Saturday night, and. I’d like you to be my date. To my relief and delight, I heard a big, cheerful, oh, that’s great, I’d love to.
 
-He continued, I’ll pick you up at the girls' dorm at seven thirty. I’ll have a pink carnation for you. Will that go with your dress? And my name is Donnie.
+I exhaled my first normal breath all day. He continued, I’ll pick you up at the girls' dorm at seven thirty. I’ll have a pink carnation for you. Will that go with your dress?
 
-Donnie? Donnie? Who said anything about Donnie? Well, Donnie turned out to be the best date I had that decade.
+And my name is Donnie. Donnie? Donnie? Who said anything about Donnie?
 
-Donnie had buck teeth, a head full of tousled red hair, and communication skills that immediately put me at ease. On Saturday night, Donnie greeted me at the door, carnation in hand and grin on face. He joked self-deprecatingly about how he was dying to go to the prom, so, knowing it was a case of mistaken identity, he accepted anyway. He told me he was thrilled when the girl with the lovely voice called, and he took full responsibility for tricking me into an invitation.
+Well, Donnie turned out to be the best date. I had that decade. Donnie had buck teeth, a head full of tousled red hair, and communication skills that immediately put me at ease. On Saturday night, Donnie greeted me at the door, carnation in hand and grin on face.
 
-Donnie made me comfortable and confident as we chatted. First we made small talk, and then he gradually led me into subjects I was interested in. I flipped over Donnie, and he became my very first boyfriend. Donnie instinctively had the small talk skills that we are now going to fashion into techniques to help you glide through small talk like a hot knife through butter.
+He joked self-deprecatingly about how he was dying to go to the prom, so, knowing it was a case of mistaken identity, he accepted anyway. He told me he was thrilled when the girl with the lovely voice called, and he took full responsibility for tricking me into an invitation. Donnie made me comfortable and confident as we chatted.
+
+First, we made small talk, and then he gradually led me into subjects. I was interested in. I flipped over Donnie, and he became my very first boyfriend. Donnie instinctively had the small talk skills that we are now going to fashion into techniques to help you glide through small talk like a hot knife through butter.
 
 When you master them, you will be able, like Donnie, to melt the heart of everyone you touch. The goal of how to talk to anyone is not, of course, to make you a small talk whiz and stop there. The aim is to make you a dynamic conversationalist and forceful communicator.
 
-However, small talk is the first crucial step toward that goal. 10. How to start great small talk You’ve been there. You’re introduced to someone at a party or business meeting. You shake hands, your eyes meet, and suddenly your entire body of knowledge dries up and thought processes come to a screeching halt.
+However, small talk is the first crucial step toward that goal. 10. How to start great small talk. You’ve been there. You’re introduced to someone at a party or business meeting.
 
-You fish for a topic to fill the awkward silence. Failing, your new contact slips away in the direction of the cheese tray. We want the first words falling from our lips to be sparkling, witty, and insightful. We want our listeners to immediately recognize how riveting we are.
+You shake hands, your eyes meet, and suddenly your entire body of knowledge dries up and thought processes come to a screeching halt. You fish for a topic to fill the awkward silence. Failing, your new contact slips away in the direction of the cheese tray. We want the first words falling from our lips to be sparkling, witty, and insightful.
 
-I was once at a gathering where everybody was sparkling, witty, insightful, and riveting. It drove me berserk because most of these same everybody’s felt they had to prove it in their
+We want our listeners to immediately recognize how riveting we are. I was once at a gathering where everybody was sparkling, witty, insightful, and riveting. It drove me berserk because most of these same everybody’s felt they had to prove it in their
 
 
 <a id="sec-080000"></a>
 ### ⏱️ [08:00:00 - 08:05:06]
 
-first ten words or less. Several years ago the Mensa organization, a social group of extremely bright individuals who score in the country’s top two percent in intelligence, invited me to be a keynote speaker at their annual convention. Their cocktail party was in full swing in the lobby of the hotel as I arrived. After checking in, I hauled my bags through the hoard of happy hour mensons to the elevator.
+first ten words or less. Several years ago the Mensa organization, a social group of extremely bright individuals who score in the country’s top two percent in intelligence, invited me to be a keynote speaker at their annual convention. Their cocktail party was in full swing in the lobby of the hotel as. I arrived.
 
-The doors separated and I stepped into an elevator packed with partygoers. As we began the journey up to our respective floors, the elevator gave several sleepy jerks. Hmm, I remarked, in response to the elevator’s sluggishness. The elevator seems a little flaky.
+After checking in, I hauled my bags through the hoard of happy hour mensons to the elevator. The doors separated and. I stepped into an elevator packed with partygoers. As we began the journey up to our respective floors, the elevator gave several sleepy jerks.
+
+Hmm, I remarked, in response to the elevator’s sluggishness. The elevator seems a little flaky.
 
 Suddenly, each elevator occupant, feeling compelled to exhibit his or her one hundred thirty-two plus IQ, pounced forth with a thunderous explanation. It’s obviously got poor rail-guide alignment, announced one. The relay contact is not made up, declared another.
 
-Suddenly I felt like a grasshopper trapped in a stereo speaker. I couldn’t wait to escape the attack of the mental giants. Afterward in the solitude of my room, I thought back and reflected that the mensons' answers were indeed interesting. Why, then, did I have an adverse reaction?
+Suddenly. I felt like a grasshopper trapped in a stereo speaker. I couldn’t wait to escape the attack of the mental giants. Afterward in the solitude of my room, I thought back and reflected that the mensons' answers were indeed interesting.
 
-I realized it was too much, too soon. I was tired. Their high energy and intensity jarred my sluggish state. You see, small talk is not about facts or words.
+Why, then, did. I have an adverse reaction? I realized it was too much, too soon. I was tired.
 
-It’s about music, about melody. Small talk is about putting people at ease. It’s about making comforting noises together like cats purring, children humming, or groups chanting. You must first match your listener’s mood.
+Their high energy and intensity jarred my sluggish state. You see, small talk is not about facts or words. It’s about music, about melody. Small talk is about putting people at ease.
 
-Like repeating the note on the music teacher’s harmonica, top communicators pick up on their listener’s tone of voice and duplicate it. Instead of jumping in with such intensity, the mensons could have momentarily matched my lethargic mood by saying, Yes, it is slow, isn’t it? Had they then prefaced their information with, Have you ever been curious why an elevator is slow? I would have responded with a sincere, Yes, I have.
+It’s about making comforting noises together like cats purring, children humming, or groups chanting. You must first match your listener’s mood. Like repeating the note on the music teacher’s harmonica, top communicators pick up on their listener’s tone of voice and duplicate it. Instead of jumping in with such intensity, the mensons could have momentarily matched my lethargic mood by saying, Yes, it is slow, isn’t it?
 
-After a moment of equalized energy levels, I would have welcomed their explanations about the rail guard alignment or whatever the heck it was, and friendships might have started. I’m sure you’ve suffered the aggression of a mood mismatch. Have you ever been relaxing when some overexcited, hot-breathed colleague starts pounding you with questions? Or the reverse?
+Had they then prefaced their information with, Have you ever been curious why an elevator is slow? I would have responded with a sincere, Yes, I have. After a moment of equalized energy levels, I would have welcomed their explanations about the rail guard alignment or whatever the heck it was, and friendships might have started. I’m sure you’ve suffered the aggression of a mood mismatch.
 
-You’re late, rushing to a meeting, when an associate stops you and starts lazily narrating a long, languorous story. No matter how interesting the tale, you don’t want to hear it now. The first step in starting a conversation without strangling it is to match your listener’s mood, if only for a sentence or two. When it comes to small talk, think music, not words.
+Have you ever been relaxing when some overexcited, hot-breathed colleague starts pounding you with questions? Or the reverse? You’re late, rushing to a meeting, when an associate stops you and starts lazily narrating a long, languorous story. No matter how interesting the tale, you don’t want to hear it now.
 
-Is your listener a daggio or a legro? Match that pace. I call it, Make a Mood Match. Matching their mood can make or break the sale.
+The first step in starting a conversation without strangling it is to match your listener’s mood, if only for a sentence or two. When it comes to small talk, think music, not words. Is your listener a daggio or a legro? Match that pace.
 
-Matching customers' moods is crucial for salespeople. Some years ago I decided to throw a surprise party for my best friend Stella. It was going to be a triple whammy party because she was celebrating three events. One, it was Stella’s birthday.
+I call it, Make a Mood Match. Matching their mood can make or break the sale. Matching customers' moods is crucial for salespeople. Some years ago.
 
-Two, she was newly engaged. And three, Stella had just landed her dream job. She had been my buddy since grade school, and I was floating on air over her birthday engagement congratulations bash. I had heard one of the best French restaurants in town had an attractive back room for parties.
+I decided to throw a surprise party for my best friend Stella. It was going to be a triple whammy party because she was celebrating three events. One, it was Stella’s birthday. Two, she was newly engaged.
 
-About five p.m. one afternoon I wafted happily into the restaurant and found the seated mêtre d’languidly looking over his reservation book. I began excitedly babbling about Stella’s triple whammy celebration and asked to see that fabulous back room I’d heard so much about.
+And three, Stella had just landed her dream job. She had been my buddy since grade school, and. I was floating on air over her birthday engagement congratulations bash. I had heard one of the best French restaurants in town had an attractive back room for parties.
 
-Without a smile or moving a muscle he said, “The room is in the back.” You can go see it if you like. Crash! What a party pooper! His morose mood kicked all the party spirit out of me, and I no longer wanted to rent his stupid space.
+About five p.m. one afternoon. I wafted happily into the restaurant and found the seated mêtre d’languidly looking over his reservation book. I began excitedly babbling about Stella’s triple whammy celebration and asked to see that fabulous back room. I’d heard so much about.
 
-Before I even looked at the room he lost the rental. I left his restaurant vowing to find a place where the management would at least appear to share the joy of the happy occasion. Every mother knows this instinctively. To quiet a whimpering infant, Mama doesn’t just shake her finger and shout, Quiet down!
+Without a smile or moving a muscle he said, “The room is in the back.”. You can go see it if you like. Crash! What a party pooper!
 
-No,
+His morose mood kicked all the party spirit out of me, and. I no longer wanted to rent his stupid space. Before. I even looked at the room he lost the rental.
+
+I left his restaurant vowing to find a place where the management would at least appear to share the joy of the happy occasion. Every mother knows this instinctively. To quiet a whimpering infant, Mama doesn’t just shake her finger and shout, Quiet down! No,
 
 
 <a id="sec-080506"></a>
@@ -3262,27 +3534,31 @@ Take a psychic photograph of the expression to see if your listener looks buoyan
 
 Once while at a party, I spotted a fellow surrounded by a fan club of avid listeners. The chap was smiling, gesticulating, and obviously enthralling his audience. I went over to harken to this fascinating speaker. I joined his throng of admirers and eavesdropped for a minute or two.
 
-Suddenly it dawned on me. The fellow was saying the most banal things. His script was dull, dull, dull. Ah, but he was delivering his prosaic observations with such passion, and therefore he held the group spellbound.
+Suddenly, it dawned on me. The fellow was saying the most banal things. His script was dull, dull, dull. Ah, but he was delivering his prosaic observations with such passion, and therefore he held the group spellbound.
 
-It convinced me that it’s not all what you say, it’s how you say it. What’s a good opening line when I meet people? I am often asked this question, and I give them the same answer a woman who once worked in my office always gave me. Dottie often stayed at her desk to work through lunch.
+It convinced me that it’s not all what you say, it’s how you say it. What’s a good opening line when. I meet people? I am often asked this question, and.
 
-Sometimes, as I was leaving for the sandwich shop, I’d ask her, Hey, Dottie, what can I bring you back for lunch? Dottie, trying to be obliging, would say, Oh, anything is fine with me. No, Dottie, I wanted to scream. Tell me what you want.
+I give them the same answer a woman who once worked in my office always gave me. Dottie often stayed at her desk to work through lunch. Sometimes, as. I was leaving for the sandwich shop, I’d ask her, Hey, Dottie, what can.
+
+I bring you back for lunch? Dottie, trying to be obliging, would say, Oh, anything is fine with me. No, Dottie, I wanted to scream. Tell me what you want.
 
 Ham and cheese on rye, bologna on whole wheat hold the mayo, peanut butter and jelly with sliced bananas. Be specific. Anything is a hassle. Frustrating though it may be my answer to the opening line question is anything, because almost anything you say really is okay, as long as it puts people at ease and sounds passionate.
 
 How do you put people at ease? By convincing them they are okay and that the two of you are similar. When you do that, you break down walls of fear, suspicion and mistrust. Why banal makes a bond?
 
-Samuel I. Hayakawa was a college president, U. S. senator, and brilliant linguistic analyst of Japanese origin. He tells us this story that shows the value of, as he says, unoriginal remarks. In early 1943, after the attack on Pearl Harbor, at a time when there were rumors of Japanese spies, Hayakawa had to wait several hours in a railroad station in Oshkosh, Wisconsin.
+Samuel. I. Hayakawa was a college president, U. S. senator, and brilliant linguistic analyst of Japanese origin.
 
-He noticed others waiting in the station were staring at him suspiciously. Because of the war, they were apprehensive about his presence. He later wrote, One couple with a small child was staring with special uneasiness and whispering to each other. So what did Hayakawa do?
+He tells us this story that shows the value of, as he says, unoriginal remarks. In early 1943, after the attack on Pearl Harbor, at a time when there were rumors of Japanese spies, Hayakawa had to wait several hours in a railroad station in Oshkosh, Wisconsin. He noticed others waiting in the station were staring at him suspiciously. Because of the war, they were apprehensive about his presence.
 
-He made unoriginal remarks to set them at ease. He said to the husband that it was too bad the train should be late on so cold a night. The man agreed. I went on, Hayakawa wrote, to remark that it must be especially difficult to travel with a small child in winter when train schedules were so uncertain.
+He later wrote, One couple with a small child was staring with special uneasiness and whispering to each other. So what did Hayakawa do? He made unoriginal remarks to set them at ease. He said to the husband that it was too bad the train should be late on so cold a night.
 
-Again the husband agreed. I then asked the child’s age and remarked that their child looked very big and strong for his age. Again, agreement, this time with a slight smile. The tension was relaxing.
+The man agreed. I went on, Hayakawa wrote, to remark that it must be especially difficult to travel with a small child in winter when train schedules were so uncertain. Again the husband agreed. I then asked the child’s age and remarked that their child looked very big and strong for his age.
 
-After two or three more exchanges, the man asked Hayakawa, I hope you don’t mind my bringing it up, but you’re Japanese, aren’t you? Do you think the Japs have any chance of winning this war? Well, Hayakawa replied, your guess is as good as mine. I don’t know any more than I read in the papers.
+Again, agreement, this time with a slight smile. The tension was relaxing. After two or three more exchanges, the man asked Hayakawa, I hope you don’t mind my bringing it up, but you’re Japanese, aren’t you? Do you think the Japs have any chance of winning this war?
 
-But the way I figure it, I don’t see how the Japanese with their lack of coal and steel and oil can ever beat a powerfully industrialized nation like the United States.
+Well, Hayakawa replied, your guess is as good as mine. I don’t know any more than. I read in the papers. But the way.
+
+I figure it, I don’t see how the Japanese with their lack of coal and steel and oil can ever beat a powerfully industrialized nation like the United States.
 
 
 <a id="sec-081008"></a>
@@ -3292,31 +3568,33 @@ Hayakawa went on. My remark was admittedly neither original nor well informed. H
 
 The Wisconsin man agreed at once with what seemed like genuine relief. His next remark was, say, I hope your folks aren’t over there while the war is going on. Yes, they are. Hayakawa replied, my father and mother and two young sisters are over there.
 
-Do you ever hear from them? The man asked. How can I? Hayakawa answered.
+Do you ever hear from them? The man asked. How can. I?
 
-Both the man and his wife looked troubled and sympathetic. Do you mean you won’t be able to see them or hear from them until after the war is over? There was more to the conversation, but the result was within ten minutes they had invited Hayakawa, whom they initially may have suspected was a Japanese spy, to visit them some time in their city and have dinner in their home. And all because of this brilliant scholar’s admittedly common and unoriginal small talk.
+Hayakawa answered. Both the man and his wife looked troubled and sympathetic. Do you mean you won’t be able to see them or hear from them until after the war is over? There was more to the conversation, but the result was within ten minutes they had invited Hayakawa, whom they initially may have suspected was a Japanese spy, to visit them some time in their city and have dinner in their home.
 
-Top communicators know the most soothing and appropriate first word should be, like Senator Hayakawa’s, unoriginal, even banal. But not indifferent. Hayakawa delivered his sentiments with sincerity and passion, assent from banality. It is not necessary, of course, to stay with mundane remarks.
+And all because of this brilliant scholar’s admittedly common and unoriginal small talk. Top communicators know the most soothing and appropriate first word should be, like Senator Hayakawa’s, unoriginal, even banal. But not indifferent. Hayakawa delivered his sentiments with sincerity and passion, assent from banality.
 
-If you find your company displays cleverness or wit, you match that. The conversation then escalates naturally, compatibly. Don’t rush it or, like the mensons, you seem like you’re showing off. The bottom line on your first words is to have the courage of your own triteness.
+It is not necessary, of course, to stay with mundane remarks. If you find your company displays cleverness or wit, you match that. The conversation then escalates naturally, compatibly. Don’t rush it or, like the mensons, you seem like you’re showing off.
 
-Because, remember, people tune into your tone more than your text. Technique No. 11 Proseic with Passion Worried about your first words? Fear not, because eighty percent of your listener’s impression has nothing to do with your words anyway. Almost anything you say at first is fine.
+The bottom line on your first words is to have the courage of your own triteness. Because, remember, people tune into your tone more than your text. Technique No. 11 Proseic with Passion Worried about your first words? Fear not, because eighty percent of your listener’s impression has nothing to do with your words anyway.
 
-No matter how prosaic the text, an empathetic mood, a positive demeanor, and passionate delivery make you sound exciting. Anything except liverwurst. Back to Dottie, waiting for her sandwich at her desk. Sometimes, as I walked out the door scratching my head, wondering what to bring her, she’d call after me.
+Almost anything you say at first is fine. No matter how prosaic the text, an empathetic mood, a positive demeanor, and passionate delivery make you sound exciting. Anything except liverwurst. Back to Dottie, waiting for her sandwich at her desk.
 
-Anything except liverwurst, that is. Thanks, Dottie. That’s a little bit of help. Here’s my anything except liverwurst, on small talk.
+Sometimes, as. I walked out the door scratching my head, wondering what to bring her, she’d call after me. Anything except liverwurst, that is. Thanks, Dottie.
 
-Anything you say is fine as long as it is not complaining, rude, or unpleasant. If the first words out of your mouth are a complaint, plan. People label you a complainer. Why?
+That’s a little bit of help. Here’s my anything except liverwurst, on small talk. Anything you say is fine as long as it is not complaining, rude, or unpleasant. If the first words out of your mouth are a complaint, plan.
 
-Because that complaint is your new acquaintance’s one hundred percent sampling of you so far. You could be the happiest Pollyanna ever, but how will they know? If your first comment is a complaint, you’re a griper. If your first words are rude, you’re a creep.
+People label you a complainer. Why? Because that complaint is your new acquaintance’s one hundred percent sampling of you so far. You could be the happiest Pollyanna ever, but how will they know?
 
-If your first words are unpleasant, you’re a stinker. Open and shut. Other than these downers, anything goes. Ask them where they’re from, how they know the host of the party, where they bought the lovely suit they’re wearing, or hundreds of et ceteras.
+If your first comment is a complaint, you’re a griper. If your first words are rude, you’re a creep. If your first words are unpleasant, you’re a stinker. Open and shut.
 
-The trick is to ask your prosaic question with passion to get the other person talking. Still feel a bit shaky on making the approach to strangers? Let’s take a quick detour on our road to meaningful communicating. I’ll give you three quickie techniques to meet people at parties, then nine more to make small talk, not so small.
+Other than these downers, anything goes. Ask them where they’re from, how they know the host of the party, where they bought the lovely suit they’re wearing, or hundreds of et ceteras. The trick is to ask your prosaic question with passion to get the other person talking. Still feel a bit shaky on making the approach to strangers?
 
-Twelve. How to make people want to start a conversation with you. Single’s proficient at meeting potential sweethearts without the benefit of introduction in the vernacular, making a pickup, have developed a deliciously devious technique that works equally well for social or corporate networking purposes. The technique requires no exceptional skill on your part, only the courage to sport a simple visual prop called a what’s it.
+Let’s take a quick detour on our road to meaningful communicating. I’ll give you three quickie techniques to meet people at parties, then nine more to make small talk, not so small. Twelve. How to make people want to start a conversation with you.
 
-What’s a what’s it? A what’s it is anything you wear or carry that is unusual. usual—a unique pin, an interesting purse, a strange tie, or an amusing hat. A watsit is any object that draws people’s attention and inspires them to approach you
+Single’s proficient at meeting potential sweethearts without the benefit of introduction in the vernacular, making a pickup, have developed a deliciously devious technique that works equally well for social or corporate networking purposes. The technique requires no exceptional skill on your part, only the courage to sport a simple visual prop called a what’s it. What’s a what’s it? A what’s it is anything you wear or carry that is unusual. usual—a unique pin, an interesting purse, a strange tie, or an amusing hat.
+
+A watsit is any object that draws people’s attention and inspires them to approach you
 
 
 <a id="sec-081512"></a>
@@ -3324,33 +3602,35 @@ What’s a what’s it? A what’s it is anything you wear or carry that is unus
 
 and ask, uh, what’s that? Your watsit can be as subtle or overt as your personality and the occasion permit. I wear around my neck an outmoded pair of glasses that resembles a double monocle. Often the curious have approached me at a gathering and asked, watsit?
 
-I explain it’s a larniet, left to me by my grandmother, which, of course, paves the way to discuss hatred of glasses, aging eyes, love or loss of grandmothers, adoration of antique jewelry—anywhere the inquisitor wants to take it. Perhaps unknowingly you have fallen prey to this soon-to-be legendary technique. At a gathering, have you ever noticed someone you would like to talk to? Then you’ve racked your brain to conjure an excuse to make the approach.
+I explain it’s a larniet, left to me by my grandmother, which, of course, paves the way to discuss hatred of glasses, aging eyes, love or loss of grandmothers, adoration of antique jewelry—anywhere the inquisitor wants to take it. Perhaps, unknowingly you have fallen prey to this soon-to-be legendary technique. At a gathering, have you ever noticed someone you would like to talk to? Then you’ve racked your brain to conjure an excuse to make the approach.
 
-What a bounty it was to discover that he or she was wearing some weird, wild or wonderful something you could comment on! The watsit way to love Your watsit is a social aid whether you seek business rewards or new romance. My friend Alexander carries Greek worry beads with him wherever he goes. He’s not worried.
+What a bounty it was to discover that he or she was wearing some weird, wild or wonderful something you could comment on! The watsit way to love. Your watsit is a social aid whether you seek business rewards or new romance. My friend Alexander carries Greek worry beads with him wherever he goes.
 
-He knows any woman who wants to talk to him will come up and say, what’s that? Think about it, gentlemen. Suppose you’re at a party. An attractive woman spots you across the room.
+He’s not worried. He knows any woman who wants to talk to him will come up and say, what’s that? Think about it, gentlemen. Suppose you’re at a party.
 
-She wants to talk to you, but she’s thinking, well, mister, you’re attractive, but golly, what can I say to you? You just ain’t got no watsit. Be a watsit seeker, too. Likewise, become proficient in scrutinizing the apparel of those you wish to approach.
+An attractive woman spots you across the room. She wants to talk to you, but she’s thinking, well, mister, you’re attractive, but golly, what can. I say to you? You just ain’t got no watsit.
 
-Why not express interest in the handkerchief in the tycoon’s vest pocket, the brooch on the bosom of the rich divorcee, or the school ring on the finger of the CEO whose company you want to work for? The big spender, who you suspect, might buy a hundred of your widgets, has a tiny golf club lapel pin? Say, excuse me, I couldn’t help but notice your attractive lapel pin. Are you a golfer?
+Be a watsit seeker, too. Likewise, become proficient in scrutinizing the apparel of those you wish to approach. Why not express interest in the handkerchief in the tycoon’s vest pocket, the brooch on the bosom of the rich divorcee, or the school ring on the finger of the CEO whose company you want to work for? The big spender, who you suspect, might buy a hundred of your widgets, has a tiny golf club lapel pin?
 
-Me too. What courses have you played? Your business cards and your watsit are crucial socializing artifacts. Whether you are riding in the elevator, climbing the doorstep, or traversing the path to the party, make sure your watsit is hanging out for all to see.
+Say, excuse me, I couldn’t help but notice your attractive lapel pin. Are you a golfer? Me too. What courses have you played?
 
-Technique number twelve, always wear a watsit. Whenever you go to a gathering, wear or carry something unusual to give people who find you the delightful stranger across the crowded room an excuse to approach. Excuse me, I couldn’t help but notice your… What is that?
+Your business cards and your watsit are crucial socializing artifacts. Whether you are riding in the elevator, climbing the doorstep, or traversing the path to the party, make sure your watsit is hanging out for all to see. Technique number twelve, always wear a watsit. Whenever you go to a gathering, wear or carry something unusual to give people who find you the delightful stranger across the crowded room an excuse to approach.
 
-The next quickie technique was originated by doggedly determined politicians who don’t let one party go or escape if they think he or she could be helpful to their campaigns. I call it the who’s at technique. Thirteen, how to meet the people you want to meet. Say you have scrutinized the body of the important business contact you want to meet.
+Excuse me, I couldn’t help but notice your… What is that? The next quickie technique was originated by doggedly determined politicians who don’t let one party go or escape if they think he or she could be helpful to their campaigns. I call it the who’s at technique.
 
-You’ve searched in vain from the tip of his cowlick to the toes of his boots. He’s not sporting a single watsit. If you strike out on finding something to comment on, resort to the who’s at technique. Like a persistent politician, go to the party giver and say, that man or woman over there looks interesting.
+Thirteen, how to meet the people you want to meet. Say you have scrutinized the body of the important business contact you want to meet. You’ve searched in vain from the tip of his cowlick to the toes of his boots. He’s not sporting a single watsit.
 
-Who is he or she? Then ask for an introduction. Don’t be hesitant. The party giver will be pleased you find one of the guests interesting.
+If you strike out on finding something to comment on, resort to the who’s at technique. Like a persistent politician, go to the party giver and say, that man or woman over there looks interesting. Who is he or she? Then ask for an introduction.
 
-If however you are loath to pull the party giver away from his or her other guests, you can still perform who’s at. This time, don’t ask for a formal introduction. Simply pump the party giver for just enough information to launch you. Find out about the stranger’s jobs, interests, and hobbies.
+Don’t be hesitant. The party giver will be pleased you find one of the guests interesting. If however you are loath to pull the party giver away from his or her other guests, you can still perform who’s at. This time, don’t ask for a formal introduction.
 
-Suppose the party giver says, oh, that’s Joe Smith. I’m not sure what his job is, but I know he loves to ski. Aha, you’ve just been given the icebreaker you need. Now you make a beeline for Joe Smith.
+Simply pump the party giver for just enough information to launch you. Find out about the stranger’s jobs, interests, and hobbies. Suppose the party giver says, oh, that’s Joe Smith. I’m not sure what his job is, but.
 
-Hi, you’re Joe Smith, aren’t you? Susan was just telling me what a great skier you are. Where do you ski? You get the idea.
+I know he loves to ski. Aha, you’ve just been given the icebreaker you need. Now you make a beeline for Joe Smith. Hi, you’re Joe Smith, aren’t you?
 
-Technique number 13, who’s at? Who’s at is the most effective, least used by non-politicians meeting people device ever contrived. Simply ask the party giver to make the introduction or pump for a few facts that you can immediately turn into icebreakers. Now the third in our little trio of meeting who you want tricks.
+Susan was just telling me what a great skier you are. Where do you ski? You get the idea. Technique number 13, who’s at?
+
+Who’s at is the most effective, least used by non-politicians meeting people device ever contrived. Simply ask the party giver to make the introduction or pump for a few facts that you can immediately turn into icebreakers. Now the third in our little trio of meeting who you want tricks.
 
 
 <a id="sec-082019"></a>
@@ -3358,29 +3638,35 @@ Technique number 13, who’s at? Who’s at is the most effective, least used by
 
 14, how to break into a tight crowd. The woman you’ve decided you must meet is wearing no what’s it? Can’t find the host for the who’s at technique? To make matters worse, she’s deep in conversation with a group of her friends.
 
-Seems quite hopeless that you will maneuver a meeting, doesn’t it? You can’t just say, excuse me, I just thought I’d eavesdrop in and say hello. No obstacle blocks the resolute politician who always has a trick or ten up his or her sleeve. A politico would resort to the eavesdrop in technique.
+Seems quite hopeless that you will maneuver a meeting, doesn’t it? You can’t just say, excuse me, I just thought. I’d eavesdrop in and say hello. No obstacle blocks the resolute politician who always has a trick or ten up his or her sleeve.
 
-Eavesdropping of course conjures images of clandestine activities, wiretapping, watergate break ins or spies skulking around in the murky shadows. Overhearing has historical precedent with politicians so in a pinch it naturally comes to mind. At parties, stand near the group of people you wish to infiltrate, then wait for a word or two you can use as a wedge to break into the group. Excuse me, I couldn’t help overhearing that you and then whatever is relevant here.
+A politico would resort to the eavesdrop in technique. Eavesdropping of course conjures images of clandestine activities, wiretapping, watergate break ins or spies skulking around in the murky shadows. Overhearing has historical precedent with politicians so in a pinch it naturally comes to mind. At parties, stand near the group of people you wish to infiltrate, then wait for a word or two you can use as a wedge to break into the group.
 
-For example, I couldn’t help overhearing your discussion of Bermuda, I’m going there next month for the first time. Any suggestions? Now you are in the circle and can direct your comments to your intended. Technique number fourteen, eavesdrop in.
+Excuse me, I couldn’t help overhearing that you and then whatever is relevant here. For example, I couldn’t help overhearing your discussion of Bermuda, I’m going there next month for the first time. Any suggestions? Now you are in the circle and can direct your comments to your intended.
 
-No what’s it? No host for who’s at? No problem. Just sidle up behind the swarm of folks you want to infiltrate and open your ears.
+Technique number fourteen, eavesdrop in. No what’s it? No host for who’s at? No problem.
 
-Wait for any flimsy excuse and jump in with, excuse me, I couldn’t help but overhear. Will they be taken aback, momentarily? Will they get over it, momentarily? Will you be in the conversation, absolutely?
+Just sidle up behind the swarm of folks you want to infiltrate and open your ears. Wait for any flimsy excuse and jump in with, excuse me, I couldn’t help but overhear. Will they be taken aback, momentarily? Will they get over it, momentarily?
 
-Let us now hop back on the train that first explored small talk city and travel to the land of meaningful communicating. Fifteen, how to make where are you from sound exciting. You wouldn’t dream of going to a party naked and I hope you wouldn’t dream of letting your conversation be exposed, naked and defenseless against the two inevitable assaults. Where are you from and what do you do?
+Will you be in the conversation, absolutely? Let us now hop back on the train that first explored small talk city and travel to the land of meaningful communicating. Fifteen, how to make where are you from sound exciting. You wouldn’t dream of going to a party naked and.
 
-When asked these questions most people like clunking a frozen steak on a china platter drop a brick of frozen geography or baffling job title on the askers conversational platter then they slap on the muzzle. You’re at a convention, everyone you meet will of course ask and where are you from? When you give them the short form naked city answer, oh I’m from Muscatine, Iowa or Millinocket, Maine, Winnemucca, Nevada or anywhere they haven’t heard of. What can you expect except a blank stare?
+I hope you wouldn’t dream of letting your conversation be exposed, naked and defenseless against the two inevitable assaults. Where are you from and what do you do? When asked these questions most people like clunking a frozen steak on a china platter drop a brick of frozen geography or baffling job title on the askers conversational platter then they slap on the muzzle. You’re at a convention, everyone you meet will of course ask and where are you from?
 
-Even if you’re a relatively big city slicker from Denver, Colorado, Detroit, Michigan or San Diego, California, you’ll receive a panicked look from all but American history professors. They’re rapidly racking their brains thinking, what do I say next? Even the names of world class burgs like New York, Chicago, Washington and Los Angeles inspire less than riveting responses. When I tell people I’m from New York City, what are they expected to say?
+When you give them the short form naked city answer, oh. I’m from Muscatine, Iowa or Millinocket, Maine, Winnemucca, Nevada or anywhere they haven’t heard of. What can you expect except a blank stare? Even if you’re a relatively big city slicker from Denver, Colorado, Detroit, Michigan or San Diego, California, you’ll receive a panicked look from all but American history professors.
 
-Does seen any good muggings lately? Do humanity and yourself a favor. Never ever give just a one sentence response to the question where are you from? Give the askers some fuel for his tank, some fodder for his trough.
+They’re rapidly racking their brains thinking, what do. I say next? Even the names of world class burgs like New York, Chicago, Washington and Los Angeles inspire less than riveting responses. When.
 
-Give the hungry communicator something to conversationally nibble on. All it takes is an extra sentence or two about your city, some interesting fact, some witty observation to hook the asker into the conversation. Several months ago a trade association invited me to be its keynote speaker on networking and teaching people to be better conversationalists. Just before my speech I was introduced to Mrs. Devlin who was the head of the association.
+I tell people. I’m from New York City, what are they expected to say? Does seen any good muggings lately? Do humanity and yourself a favor.
 
-How do you do? she asked. How do you do? I replied. Then Mrs. Devlin smiled anxiously awaiting a sample of my stimulating conversational expertise.
+Never ever give just a one sentence response to the question where are you from? Give the askers some fuel for his tank, some fodder for his trough. Give the hungry communicator something to conversationally nibble on. All it takes is an extra sentence or two about your city, some interesting fact, some witty observation to hook the asker into the conversation.
 
-I asked her where she was from. She plunked a frozen Columbus, Ohio and a big expectant grin on my platter. I had to quickly thaw her answer into digestible conversation. My mind thrashed into action.
+Several months ago a trade association invited me to be its keynote speaker on networking and teaching people to be better conversationalists. Just before my speech. I was introduced to Mrs. Devlin who was the head of the association.
+
+How do you do? she asked. How do you do? I replied. Then Mrs.
+
+Devlin smiled anxiously awaiting a sample of my stimulating conversational expertise. I asked her where she was from. She plunked a frozen Columbus, Ohio and a big expectant grin on my platter. I had to quickly thaw her answer into digestible conversation.
+
+My mind thrashed into action.
 
 
 <a id="sec-082519"></a>
@@ -3388,27 +3674,33 @@ I asked her where she was from. She plunked a frozen Columbus, Ohio and a big ex
 
 Leal’s thought pattern. Gulp. Columbus, Ohio. I’ve never been there.
 
-Hmm. Crimony, what do I know about Columbus? I know a fellow named Jeff, a successful speaker who lives there. But Columbus is too big to ask if she knows him and besides only kids play the do you know so-and-so game.
+Hmm. Crimony, what do. I know about Columbus? I know a fellow named Jeff, a successful speaker who lives there.
 
-My panicked silent search continued. I think it’s named after Christopher Columbus but I’m not sure so I better keep my mouth shut on that one. Four or five other possibilities raced through my mind but I rejected them all as too obvious, too adolescent, or too off the wall. I realized by now that seconds had passed and Mrs. Devlin was still standing there with a slowly dissipating smile on her face.
+But Columbus is too big to ask if she knows him and besides only kids play the do you know so-and-so game. My panicked silent search continued. I think it’s named after Christopher Columbus but. I’m not sure so.
 
-She was waiting for me, the expert, who within the hour was expected to teach her trade association lessons on scintillating conversation, to spew forth words of wit or wisdom. Oh, Columbus, gee! I mumbled in desperation watching her face fall into the worried expression of a patient being asked by the surgeon, knife, poised in hand, where’s your appendix? I never came up with stimulating conversation on Columbus but just then under the knife I created the following technique for posterity.
+I better keep my mouth shut on that one. Four or five other possibilities raced through my mind but. I rejected them all as too obvious, too adolescent, or too off the wall. I realized by now that seconds had passed and Mrs.
 
-I call it never the naked city. Technique number fifteen, never the naked city. Whenever someone asks you the inevitable and where are you from, never ever unfairly challenge their powers of imagination with a one word answer. Learn some engaging facts about your hometown that conversational partners can comment on.
+Devlin was still standing there with a slowly dissipating smile on her face. She was waiting for me, the expert, who within the hour was expected to teach her trade association lessons on scintillating conversation, to spew forth words of wit or wisdom. Oh, Columbus, gee! I mumbled in desperation watching her face fall into the worried expression of a patient being asked by the surgeon, knife, poised in hand, where’s your appendix?
 
-Then when they say something clever in response to your bait, they think you’re a great conversationalist. Different bait for shrimp or sharks. A fisherman uses different bait to bag bass or bluefish and you will obviously throw out different conversational bait to snag simple shrimp or sophisticated sharks. Your hook should relate to the type of person you’re speaking with.
+I never came up with stimulating conversation on Columbus but just then under the knife. I created the following technique for posterity. I call it never the naked city. Technique number fifteen, never the naked city.
 
-I’m originally from Washington D. C. If someone at, say, an art gallery asked me where I was from, I might answer Washington D. C., designed, you know, by the same city planner who designed Paris.
+Whenever someone asks you the inevitable and where are you from, never ever unfairly challenge their powers of imagination with a one word answer. Learn some engaging facts about your hometown that conversational partners can comment on. Then when they say something clever in response to your bait, they think you’re a great conversationalist. Different bait for shrimp or sharks.
 
-This opens the conversational possibilities to the artistry of city planning, Paris, other city’s plans, European travel, and so forth. At a social party of singles I’d opt for another answer. I’m from Washington D. C.
+A fisherman uses different bait to bag bass or bluefish and you will obviously throw out different conversational bait to snag simple shrimp or sophisticated sharks. Your hook should relate to the type of person you’re speaking with. I’m originally from Washington D. C.
 
-The reason I left is there were seven women to every man when I was growing up. Now the conversation can turn to the ecstasy or agony of being single, the perceived lack of desirable men everywhere, or even flirtatious possibilities. In a political group I’d cast a current fact from the constantly evolving political face of Washington. No need to speculate on the multitude of conversational possibilities that unlocks.
+If someone at, say, an art gallery asked me where. I was from, I might answer Washington D. C., designed, you know, by the same city planner who designed Paris. This opens the conversational possibilities to the artistry of city planning, Paris, other city’s plans, European travel, and so forth.
 
-Where do you get your conversational bait? Start by phoning the Chamber of Commerce or Historical Society of your town. Search the World Wide Web and click on your town or open an old-fashioned encyclopedia. All rich sources for future stimulating conversations.
+At a social party of singles. I’d opt for another answer. I’m from Washington D. C.
 
-Find some history, geography, business statistics, or perhaps a few fun facts to tickle future friends' funny bones. The Devlin debacle inspired further research. The minute I got home I called the Columbus Chamber of Commerce and the Historical Society. Say you, too, are from Columbus, Ohio, and your new acquaintance lays it on you.
+The reason. I left is there were seven women to every man when. I was growing up. Now the conversation can turn to the ecstasy or agony of being single, the perceived lack of desirable men everywhere, or even flirtatious possibilities.
 
-Where are you from? When you are talking with a businessperson, your answer could be, I’m from Columbus, Ohio. You know, many major corporations do their product testing in Columbus because it’s so commercially typical.
+In a political group. I’d cast a current fact from the constantly evolving political face of Washington. No need to speculate on the multitude of conversational possibilities that unlocks. Where do you get your conversational bait?
+
+Start by phoning the Chamber of Commerce or Historical Society of your town. Search the World Wide Web and click on your town or open an old-fashioned encyclopedia. All rich sources for future stimulating conversations. Find some history, geography, business statistics, or perhaps a few fun facts to tickle future friends' funny bones.
+
+The Devlin debacle inspired further research. The minute. I got home. I called the Columbus Chamber of Commerce and the Historical Society.
+
+Say you, too, are from Columbus, Ohio, and your new acquaintance lays it on you. Where are you from? When you are talking with a businessperson, your answer could be, I’m from Columbus, Ohio. You know, many major corporations do their product testing in Columbus because it’s so commercially typical.
 
 In fact, it’s been called the most American city in America. They say if it booms or bombs in Columbus, it booms or bombs nationally. Talking with someone with a German last name? Tell her about Columbus' historic German village with the brick streets and the wonderful 1850s-style little houses. bound to inspire stories of the old country.
 
@@ -3422,13 +3714,15 @@ the Santa Maria is anchored in the Scioto River. Talking with a student, tell he
 
 Ah, you throw out casually. Columbus is the home of artist George Bellows. Columbusites, prepare some tasty snacks for askers, even if you know nothing about them. Here’s a goodie.
 
-Tell them you always have to say Columbus, Ohio because there is also a Columbus, Arkansas, Columbus, Georgia, Columbus, Indiana, Columbus, Kansas, Columbus, Kentucky, Columbus, Mississippi, Columbus, Montana, Columbus, Nebraska, Columbus, New Jersey, Columbus, New Mexico, Columbus, North Carolina, Columbus, North Dakota, Columbus, Pennsylvania, Columbus, Texas, and Columbus, Wisconsin. That spreads the conversational possibilities to 15 other states. Remember, as a quotable notable once said, no man would listen to you talk if he didn’t know it was his turn next. A postscript to the hellish experience I had with Columbus.
+Tell them you always have to say Columbus, Ohio because there is also a Columbus, Arkansas, Columbus, Georgia, Columbus, Indiana, Columbus, Kansas, Columbus, Kentucky, Columbus, Mississippi, Columbus, Montana, Columbus, Nebraska, Columbus, New Jersey, Columbus, New Mexico, Columbus, North Carolina, Columbus, North Dakota, Columbus, Pennsylvania, Columbus, Texas, and Columbus, Wisconsin. That spreads the conversational possibilities to 15 other states. Remember, as a quotable notable once said, no man would listen to you talk if he didn’t know it was his turn next.
 
-Months later, I mentioned the trauma to my speaker friend from Columbus, Jeff. Jeff explained his house was really in a smaller town just minutes outside Columbus. What town, Jeff? Gahanna, Ohio.
+A postscript to the hellish experience. I had with Columbus. Months later, I mentioned the trauma to my speaker friend from Columbus, Jeff. Jeff explained his house was really in a smaller town just minutes outside Columbus.
 
-Gahanna means hell in Hebrew, he said, and then went on to explain why he thought ancient Hebrew historians were clairvoyant. Thanks, Jeff. I knew you’d never lay a naked city on any of your listeners. 16. How to come out a winner every time they ask, and what do you do?
+What town, Jeff? Gahanna, Ohio. Gahanna means hell in Hebrew, he said, and then went on to explain why he thought ancient Hebrew historians were clairvoyant. Thanks, Jeff.
 
-Third only to death and taxes is the assurance a new acquaintance will soon chirp, and what do you do? Is it fitting and proper they should make that query? We’ll pick up that sticky wicket later. For the moment, these few defensive moves help you keep your crackerjack communicator credentials when asked the inevitable question.
+I knew you’d never lay a naked city on any of your listeners. 16. How to come out a winner every time they ask, and what do you do? Third, only to death and taxes is the assurance a new acquaintance will soon chirp, and what do you do? Is it fitting and proper they should make that query?
+
+We’ll pick up that sticky wicket later. For the moment, these few defensive moves help you keep your crackerjack communicator credentials when asked the inevitable question.
 
 First, like Never the Naked City, don’t toss a short shrift answer in response to the asker’s breathless inquiry. You leave the poor fish flopping on the deck when you just say your title. I’m an actuary, an auditor, an author, an astrophysicist. Have mercy so he or she doesn’t feel like a nincompoop outsider asking, what kind of actuizing, auditing, authoring, or astrophysicizing do you do?
 
@@ -3436,33 +3730,35 @@ You’re an attorney. Don’t leave it to layman to try to figure out what you r
 
 For example, if you’re talking with a young mother, say, I’m an attorney. Our firm specializes in employment law.
 
-In fact, now I’m involved in a case where a company actually discharged a woman for taking extra maternity leave that was a medical necessity. A mother can relate to that. Talking with a business owner, say, I’m an attorney. Our firm specializes in employment law.
+In fact, now. I’m involved in a case where a company actually discharged a woman for taking extra maternity leave that was a medical necessity. A mother can relate to that. Talking with a business owner, say, I’m an attorney.
 
-My current case concerns an employer who is being sued by one of her staff for asking personal questions during the initial job interview. A business owner can relate to that. Technique number 16. Never the Naked Job When asked the inevitable, and what do you do, you may think, I’m an economist, an educator, an engineer, is giving enough information to engender good conversation.
+Our firm specializes in employment law. My current case concerns an employer who is being sued by one of her staff for asking personal questions during the initial job interview. A business owner can relate to that. Technique number 16.
+
+Never the Naked Job. When asked the inevitable, and what do you do, you may think, I’m an economist, an educator, an engineer, is giving enough information to engender good conversation.
 
 However, to one who is not an economist, educator, or an engineer, you might as well be saying, I’m a paleontologist, psychoanalyst, pornographer. Flesh it out. Throw out some delicious facts about your job for new acquaintances to munch on. Otherwise, they’ll soon excuse themselves, preferring the snacks back at the cheese tray.
 
-Painful Memories of Naked Job Flashers I still harbor painful recollections of being tongue-tied when confronted by naked job flashers. Like the time a fellow at a dinner party told me, I’m a nuclear scientist. My weak, oh, that must be fascinating, reduced me to a mental molecule in his eyes. The chap on my other side announced, I’m in industrial abrasives, and then paused, waiting for me to be impressed.
+Painful Memories of Naked Job Flashers. I still harbor painful recollections of being tongue-tied when confronted by naked job flashers. Like the time a fellow at a dinner party told me, I’m a nuclear scientist. My weak, oh, that must be fascinating, reduced me to a mental molecule in his eyes.
 
-My, well, golly, you must have to be a shrewd judge of character to be in industrial abrasives, didn’t fly either. We three sat in silence the rest of the meal.
+The chap on my other side announced, I’m in industrial abrasives, and then paused, waiting for me to be impressed. My, well, golly, you must have to be a shrewd judge of character to be in industrial abrasives, didn’t fly either. We three sat in silence the rest of the meal.
 
 
 <a id="sec-083527"></a>
 ### ⏱️ [08:35:27 - 08:40:28]
 
-Just last month a new acquaintance bragged, I’m planning to teach Tibetan Buddhism at Truckee Meadows Community College, and then clammed up. I knew less about Truckee Meadows than I did about Tibetan Buddhism. Whenever people ask you what you do, give them some mouth-to-ear resuscitation so they can catch their breath and say something. 17. How to Introduce People Like the Hostess with the Mostest It is important to help newly-met through their first nervous moments.
+Just last month a new acquaintance bragged, I’m planning to teach Tibetan Buddhism at Truckee Meadows Community College, and then clammed up. I knew less about Truckee Meadows than. I did about Tibetan Buddhism. Whenever people ask you what you do, give them some mouth-to-ear resuscitation so they can catch their breath and say something. 17.
 
-Susan, I’d like you to meet John Smith. John, this is Susan Jones. Duh, what do you expect John and Susan to say? Smith?
+How to Introduce People Like the Hostess with the Mostest. It is important to help newly-met through their first nervous moments. Susan, I’d like you to meet John Smith. John, this is Susan Jones.
 
-Um, that’s S-M-I-T-H, isn’t it? Uh, golly, Susan, well, now that’s an interesting name. Nice try, forget it. Don’t blame John or Susan for being less than scintillating.
+Duh, what do you expect John and Susan to say? Smith? Um, that’s S-M-I-T-H, isn’t it? Uh, golly, Susan, well, now that’s an interesting name.
 
-The fault lies with the person who introduced the two the way most people introduce their friends to each other, with naked names. The cast out a line with no bait for people to sink their teeth into. Big winners may not talk a lot, but conversation never dies unwillingly in their midst. They make sure of it with techniques like Never the Naked introduction.
+Nice try, forget it. Don’t blame John or Susan for being less than scintillating. The fault lies with the person who introduced the two the way most people introduce their friends to each other, with naked names. The cast out a line with no bait for people to sink their teeth into.
 
-When they introduce people, they buy an insurance policy on the conversation with a few simple add-ons. Susan, I’d like you to meet John. John has a wonderful boat we took a trip on last summer. John, this is Susan Smith.
+Big winners may not talk a lot, but conversation never dies unwillingly in their midst. They make sure of it with techniques like Never the Naked introduction. When they introduce people, they buy an insurance policy on the conversation with a few simple add-ons. Susan, I’d like you to meet John.
 
-Susan is editor-in-chief of Shoestring Gourmet magazine. Padding the introduction gives Susan the opportunity to ask what kind of boat John has or where the group went. It gives John an opening to discuss his love of riding, or of cooking, or of food. The conversation can then naturally expand to travel in general, life on boats, past vacations, favorite recipes, restaurants, budgets, diets, magazines, editorial policy, to infinity.
+John has a wonderful boat we took a trip on last summer. John, this is Susan Smith. Susan is editor-in-chief of Shoestring Gourmet magazine. Padding the introduction gives Susan the opportunity to ask what kind of boat John has or where the group went.
 
-If you’re not comfortable mentioning someone’s job during the introduction, mention their hobby or even a talent. The other day at a gathering, the hostess introduced a man named Gilbert.
+It gives John an opening to discuss his love of riding, or of cooking, or of food. The conversation can then naturally expand to travel in general, life on boats, past vacations, favorite recipes, restaurants, budgets, diets, magazines, editorial policy, to infinity. If you’re not comfortable mentioning someone’s job during the introduction, mention their hobby or even a talent. The other day at a gathering, the hostess introduced a man named Gilbert.
 
 She said, “Leo, I’d like you to meet Gilbert.” Gilbert’s gift is sculpting. He makes beautiful wax carvings. I remember thinking, gift. Now that’s a lovely way to introduce someone and induce conversation.
 
@@ -3476,19 +3772,21 @@ But the following technique set your mind at rest. You can definitely make the c
 
 No matter how elusive the clue, Sherlock Holmes is confident he’ll soon be staring right at it through his magnifying glass. Like the unerring detective, big winners know no matter how elusive the clue, they’ll find the right topic. How? They become word detectives.
 
-I have a young friend, Nancy, who works in a nursing home. Nancy cares deeply about the elderly but often grumbles about how crotchety and laconic some of her patients are. She laments she has difficulty relating to them. Nancy told me about one especially cantankerous old woman named Mrs. Otis, whom she could never get to open up to her.
+I have a young friend, Nancy, who works in a nursing home. Nancy cares deeply about the elderly but often grumbles about how crotchety and laconic some of her patients are. She laments she has difficulty relating to them. Nancy told me about one especially cantankerous old woman named Mrs.
 
-One day, Nancy confided,
+Otis, whom she could never get to open up to her. One day, Nancy confided,
 
 
 <a id="sec-084028"></a>
 ### ⏱️ [08:40:28 - 08:41:30]
 
-right after all those rain storms we had last week, just to make conversation, I remarked to Mrs. Otis, terrible storms we had last week, don’t you think? Well, Nancy continued, Mrs. Otis practically jumped on my throat. She said in a snippy voice, it’s been good for the plants. I asked Nancy how she responded to that.
+right after all those rain storms we had last week, just to make conversation, I remarked to Mrs. Otis, terrible storms we had last week, don’t you think? Well, Nancy continued, Mrs. Otis practically jumped on my throat.
 
-What could I say? Nancy answered. The woman was obviously cutting me off. Did you ever think to ask Mrs. Otis if she liked plants?
+She said in a snippy voice, it’s been good for the plants. I asked Nancy how she responded to that. What could. I say?
 
-Plants? Nancy asked. Well, yes, I suggested. Mrs. Otis brought the subject up. I asked Nancy to do me a favor.
+Nancy answered. The woman was obviously cutting me off. Did you ever think to ask Mrs. Otis if she liked plants?
 
-Ask her, I begged. Nancy resisted.
+Plants? Nancy asked. Well, yes, I suggested. Mrs.
+
+Otis brought the subject up. I asked Nancy to do me a favor. Ask her, I begged. Nancy resisted.
 

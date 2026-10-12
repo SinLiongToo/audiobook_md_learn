@@ -105,21 +105,23 @@ That company was AIG and the year was 2008. His stock had fallen 97%. All the la
 
 He started having night sweats. His vision blurred, both literally and figuratively. He couldn’t see clearly for months. He was floundering.
 
-Lost. He was sick with stress. His doctor ran some tests. He felt like the tragic character boxer the horse in George Orwell’s Animal Farm, described as the farm’s most dedicated laborer whose answer to every problem, every setback, was I will work harder – that is, until he collapsed from overwork and was sent to the nacker’s yard.
+Lost. He was sick with stress. His doctor ran some tests. He felt like the tragic character boxer the horse in George Orwell’s Animal Farm, described as the farm’s most dedicated laborer whose answer to every problem, every setback, was.
 
-So on the cab ride back from the doctor’s office McGinnis made what he called a bargain with God. He promised, if I survive this, then I will really make some changes. Working longer and harder had been the solution to every problem, McGinnis said. But all of a sudden, he realized, the marginal return of working harder was, in fact, negative.
+I will work harder – that is, until he collapsed from overwork and was sent to the nacker’s yard. So on the cab ride back from the doctor’s office McGinnis made what he called a bargain with God. He promised, if. I survive this, then.
 
-So what could he do? He had three options. He could carry on and likely work himself to death. He could aim lower and give up on his goals.
+I will really make some changes. Working longer and harder had been the solution to every problem, McGinnis said. But all of a sudden, he realized, the marginal return of working harder was, in fact, negative. So what could he do?
 
-Or he could find an easier way to achieve the success he wanted. He chose the third option. He stepped down from his role at AIG but stayed on as a consultant. He stopped working 80 hours a week.
+He had three options. He could carry on and likely work himself to death. He could aim lower and give up on his goals. Or he could find an easier way to achieve the success he wanted.
 
-He started going home at 5. He no longer emailed on the weekends. He also stopped treating sleep like a necessary evil. He started walking, running, and eating better.
+He chose the third option. He stepped down from his role at AIG but stayed on as a consultant. He stopped working 80 hours a week. He started going home at 5.
 
-He lost 25 pounds. He started enjoying his life, and his work, again. Around this time, he was inspired by a friend who was investing in StartUPS—not a lot of money, just small checks here and there. It piqued Patrick’s interest.
+He no longer emailed on the weekends. He also stopped treating sleep like a necessary evil. He started walking, running, and eating better. He lost 25 pounds.
 
-He invested in a couple of companies. He has a 25-fold return on his portfolio of investments. Even during tough economic times he’s felt sanguine about his finances because he isn’t dependent on a single source of income. He has made more money in half the hours he used to work.
+He started enjoying his life, and his work, again. Around this time, he was inspired by a friend who was investing in StartUPS—not a lot of money, just small checks here and there. It piqued Patrick’s interest. He invested in a couple of companies.
 
-And the type of work he is doing is more rewarding, less intrusive. He said, it doesn’t even feel like work anymore. What he learned from this experience was this, when you simply can’t try any harder, it’s
+He has a 25-fold return on his portfolio of investments. Even during tough economic times he’s felt sanguine about his finances because he isn’t dependent on a single source of income. He has made more money in half the hours he used to work. And the type of work he is doing is more rewarding, less intrusive.
+
+He said, it doesn’t even feel like work anymore. What he learned from this experience was this, when you simply can’t try any harder, it’s
 
 
 <a id="sec-000503"></a>
@@ -135,43 +137,49 @@ There are times to push hard and times to rest and recuperate. But these days ma
 
 But there is something about modern life that’s like trying to hike at high altitude. Our brains are foggy. The ground beneath our feet seems unsteady. The air is thin and it can feel surprisingly exhausting to make even an inch of progress.
 
-Perhaps it’s the endless fear and uncertainty about the future. Perhaps it’s the loneliness and isolation. Perhaps it’s financial worries or hardships. Perhaps it’s all the responsibilities, all the pressures that can suffocate us on a daily basis.
+Perhaps, it’s the endless fear and uncertainty about the future. Perhaps, it’s the loneliness and isolation. Perhaps, it’s financial worries or hardships. Perhaps, it’s all the responsibilities, all the pressures that can suffocate us on a daily basis.
 
 Whatever the cause, the result is that we’re often working twice as hard only to achieve half as much. Hardship is hard, really hard, in all sorts of ways, ranging from the complicated to the weighty, the sad to the exhausting. Disappointments are hard. Paying the bills is hard.
 
 Strained relationships are hard. Raising children is hard. Losing a loved one is hard. There are periods in our lives when every day can be hard.
 
-To try to pretend that a book can eliminate these hardships would be fanciful. I didn’t write this book to downplay these burdens, I wrote it to help you lighten them. This book may not make every hard thing easy to approach and carry, but I believe it can make many hard things easier. It’s normal to feel overwhelmed and exhausted by the big, weighty challenges.
+To try to pretend that a book can eliminate these hardships would be fanciful. I didn’t write this book to downplay these burdens, I wrote it to help you lighten them. This book may not make every hard thing easy to approach and carry, but. I believe it can make many hard things easier.
 
-And it’s equally normal to feel overwhelmed and exhausted by the everyday frustrations and annoyances. It happens to us all. These days it seems like it’s happening to more of us, more often than it used to. Strangely, some of us respond to feeling exhausted and overwhelmed by vowing to work even harder and longer.
+It’s normal to feel overwhelmed and exhausted by the big, weighty challenges. And it’s equally normal to feel overwhelmed and exhausted by the everyday frustrations and annoyances. It happens to us all. These days it seems like it’s happening to more of us, more often than it used to.
 
-It doesn’t help that our culture glorifies burnout as a measure of success and self-worth. The implicit message is that if we aren’t perpetually exhausted, we must not be doing enough. That great things are reserved for those who bleed, for those who almost break. Crushing volume is somehow now the goal.
+Strangely, some of us respond to feeling exhausted and overwhelmed by vowing to work even harder and longer. It doesn’t help that our culture glorifies burnout as a measure of success and self-worth. The implicit message is that if we aren’t perpetually exhausted, we must not be doing enough. That great things are reserved for those who bleed, for those who almost break.
 
-Burnout is not a badge of honor. It is true that hard work can equal better results. But this is true only to a point. After all, there’s an upper limit to how much time and effort we can invest.
+Crushing volume is somehow now the goal. Burnout is not a badge of honor. It is true that hard work can equal better results. But this is true only to a point.
 
-And the more depleted we get, the more our return on that effort dwindles. This cycle can continue until we are burned out and exhausted, and still haven’t produced the results we really want. You probably know this. You may be experiencing it right now.
+After all, there’s an upper limit to how much time and effort we can invest. And the more depleted we get, the more our return on that effort dwindles. This cycle can continue until we are burned out and exhausted, and still haven’t produced the results we really want. You probably know this.
 
-But what if, instead, we took the opposite approach? If instead of pushing ourselves to, and in some cases well past, our limit, we sought out an easier path? The dilemma after my first book, Essentialism, The Disciplined Pursuit of Less Asterisk was published, I hit the speaking circuit. I had the opportunity to travel the country giving keynotes, signing books, and sharing a message that was close to my heart.
+You may be experiencing it right now. But what if, instead, we took the opposite approach? If instead of pushing ourselves to, and in some cases well past, our limit, we sought out an easier path? The dilemma after my first book, Essentialism, The Disciplined Pursuit of Less Asterisk was published, I hit the speaking circuit.
 
-My wife, Anna, loved that I often took one of the children with me on these adventures, and so did I. On one such trip, I arrived at my book signing at the scheduled time to find that 300 people had lined up around the corner and the store had run out of books which had never happened before at an event. That year was a blur of airport lounges, Ubers, and hotel rooms, to which I would return in the evenings, exhilarated and exhausted, and call down for room service.
+I had the opportunity to travel the country giving keynotes, signing books, and sharing a message that was close to my heart. My wife, Anna, loved that. I often took one of the children with me on these adventures, and so did. I.
 
-The success of Essentialism had changed everything. People who had read or listened to the book three, five, or seventeen times wrote to tell me about how the book had changed their life, or in some cases even saved it. Each of them wanted to share their stories with me and I wanted to hear them. I wanted to speak in front of rooms full of people who were eager to become essentialists.
+On one such trip, I arrived at my book signing at the scheduled time to find that 300 people had lined up around the corner and the store had run out of books which had never happened before at an event. That year was a blur of airport lounges, Ubers, and hotel rooms, to which. I would return in the evenings, exhilarated and exhausted, and call down for room service. The success of Essentialism had changed everything.
 
-I wanted to respond to every email I received from readers.
+People who had read or listened to the book three, five, or seventeen times wrote to tell me about how the book had changed their life, or in some cases even saved it. Each of them wanted to share their stories with me and. I wanted to hear them. I wanted to speak in front of rooms full of people who were eager to become essentialists.
+
+I wanted to respond to every email. I received from readers.
 
 
 <a id="sec-001004"></a>
 ### ⏱️ [00:10:04 - 00:15:10]
 
-I wanted to write personalized messages to everyone who asked me to sign copies of the book. I wanted to be present and gracious with every person who had a story to tell about their experience with Essentialism. Even better than being the father of Essentialism, was being a father, now to four children. My family epitomizes everything that’s essential to me, so I wanted to invest in it fully.
+I wanted to write personalized messages to everyone who asked me to sign copies of the book. I wanted to be present and gracious with every person who had a story to tell about their experience with Essentialism. Even better than being the father of Essentialism, was being a father, now to four children. My family epitomizes everything that’s essential to me, so.
 
-I wanted to be a true partner to Anna and to make space for her to pursue her own goals and dreams. To really listen to the children whenever they wanted to talk, however inconvenient those times often seemed. I wanted to be there to celebrate their successes. I wanted to coach them and encourage them to achieve whatever goals felt most essential to them, whether that was to direct a movie or become an Eagle Scout. I wanted to play board games together, to wrestle, to swim together, to play tennis, to go to the beach, to do movie night with popcorn and treats.
+I wanted to invest in it fully. I wanted to be a true partner to Anna and to make space for her to pursue her own goals and dreams. To really listen to the children whenever they wanted to talk, however inconvenient those times often seemed. I wanted to be there to celebrate their successes.
 
-To make time for such things, I had already stripped away many non-essentials, I’d resisted writing a new book even though I’d been told I was supposed to do so every 18 months. I’d taken a break from teaching my class at Stanford. I’d set aside my plans to build a workshop business. I’d never been more selective in my life.
+I wanted to coach them and encourage them to achieve whatever goals felt most essential to them, whether that was to direct a movie or become an Eagle Scout. I wanted to play board games together, to wrestle, to swim together, to play tennis, to go to the beach, to do movie night with popcorn and treats. To make time for such things, I had already stripped away many non-essentials, I’d resisted writing a new book even though. I’d been told.
 
-The problem was, it still felt like too much. And not only that, I felt a call to increase my contribution even while I had run out of space. I was striving to model Essentialism. To live what I teach.
+I was supposed to do so every 18 months. I’d taken a break from teaching my class at Stanford. I’d set aside my plans to build a workshop business. I’d never been more selective in my life.
 
-But it wasn’t enough. I could feel the cracks in an assumption I had always held to, that to achieve everything we want without becoming impossibly busy or overextended, we simply need to discipline ourselves to only say yes to essential activities and no to everything else. But now I found myself wondering, what does one do when they’ve stripped life down to the essentials and it’s still too much? Around that time, I was teaching a group of extremely thoughtful entrepreneurs when someone had referenced the Big Rocks theory.
+The problem was, it still felt like too much. And not only that, I felt a call to increase my contribution even while. I had run out of space. I was striving to model Essentialism.
+
+To live what. I teach. But it wasn’t enough. I could feel the cracks in an assumption.
+
+I had always held to, that to achieve everything we want without becoming impossibly busy or overextended, we simply need to discipline ourselves to only say yes to essential activities and no to everything else. But now. I found myself wondering, what does one do when they’ve stripped life down to the essentials and it’s still too much? Around that time, I was teaching a group of extremely thoughtful entrepreneurs when someone had referenced the Big Rocks theory.
 
 It’s the well-known story of a teacher who picks up a large empty jar. She pours in some small pebbles at the bottom. Then she tries to place some larger rocks on top. The problem is that they don’t fit.
 
@@ -179,39 +187,45 @@ The teacher then gets a new empty container of the same size. This time she puts
 
 This is, of course, a metaphor. The Big Rocks represent the most essential responsibilities like health, family and relationships. The small pebbles are less important things like work and career. The sand are things like social media and doom swiping.
 
-The lesson is similar to the one I’d always ascribed to, if you prioritize the most important things first, then there will be room in your life not only for what matters most but also for other things too. But do the reverse, and you’ll get the trivial things done but run out of space for the things that really matter. But as I sat in my hotel room that night, I wondered, what do you do if there are too many Big Rocks? What if the absolutely essential work simply does not fit within the limits of the container?
+The lesson is similar to the one. I’d always ascribed to, if you prioritize the most important things first, then there will be room in your life not only for what matters most but also for other things too. But do the reverse, and you’ll get the trivial things done but run out of space for the things that really matter. But as.
 
-How it’s supposed to work but what if there are too many Big Rocks? As I pondered this, I got a video call. It was my son Jack calling from my wife’s phone. That was unusual and immediately got my attention.
+I sat in my hotel room that night, I wondered, what do you do if there are too many Big Rocks? What if the absolutely essential work simply does not fit within the limits of the container? How it’s supposed to work but what if there are too many Big Rocks? As.
 
-I noticed that his face was drained of its color. His tone was urgent. He looked scared. I could hear my wife’s voice in the background instructing Jack to turn the phone around so I could see what was going on.
+I pondered this, I got a video call. It was my son Jack calling from my wife’s phone. That was unusual and immediately got my attention. I noticed that his face was drained of its color.
 
-He tried to explain, Eve, something really wrong, she was just eating and then her head started moving, Mom, told me to call you. Eve was having a massive tonic-clonic seizure. The adrenaline got me through what I did next, hastily packing and taking the red-eye flight back to my family. But what would follow in the days and weeks ahead left me emotionally drained.
+His tone was urgent. He looked scared. I could hear my wife’s voice in the background instructing Jack to turn the phone around so. I could see what was going on.
 
-There were the hospital visits. The consultations with medical experts. The endless phone calls from friends and family who wanted to know how we were holding up and how they could help.
+He tried to explain, Eve, something really wrong, she was just eating and then her head started moving, Mom, told me to call you. Eve was having a massive tonic-clonic seizure. The adrenaline got me through what. I did next, hastily packing and taking the red-eye flight back to my family.
 
-Meanwhile, I discovered that all my other responsibilities didn’t miraculously disappear just because I was in the middle of a crisis. There were still keynotes to reschedule. Flights to cancel. Essential emails to answer.
+But what would follow in the days and weeks ahead left me emotionally drained. There were the hospital visits. The consultations with medical experts. The endless phone calls from friends and family who wanted to know how we were holding up and how they could help.
 
-The walls closed in around me. I was burdened beyond belief. It was suffocating at times. I wanted to collapse under it.
+Meanwhile, I discovered that all my other responsibilities didn’t miraculously disappear just because. I was in the middle of a crisis. There were still keynotes to reschedule. Flights to cancel.
 
-It was torture. This went on for many weeks. Eventually, I recognized the situation for what it was, I was burned out.
+Essential emails to answer. The walls closed in around me. I was burdened beyond belief. It was suffocating at times.
+
+I wanted to collapse under it. It was torture. This went on for many weeks. Eventually, I recognized the situation for what it was, I was burned out.
 
 
 <a id="sec-001510"></a>
 ### ⏱️ [00:15:10 - 00:20:14]
 
-I had literally written the book on how to be an essentialist, and here I was, overwhelmed and spread far too thin. I felt self-imposed pressure to be the perfect essentialist, but there were no non-essentials left to eliminate. It all mattered.
+I had literally written the book on how to be an essentialist, and here. I was, overwhelmed and spread far too thin. I felt self-imposed pressure to be the perfect essentialist, but there were no non-essentials left to eliminate. It all mattered.
 
-Finally I said to Anna, I’m not well. Here is what I learned, I was doing all the right things for the right reasons. But I was doing them in the wrong way. I was like a weightlifter trying to lift using the muscles in my lower back.
+Finally. I said to Anna, I’m not well. Here is what. I learned, I was doing all the right things for the right reasons.
 
-A swimmer who hadn’t learned to breathe properly. A baker who was painstakingly kneading each loaf of bread by hand. I suspect you know exactly what I’m talking about. I’m guessing you know what it’s like to feel highly engaged by your work but on the edge of exhaustion.
+But. I was doing them in the wrong way. I was like a weightlifter trying to lift using the muscles in my lower back. A swimmer who hadn’t learned to breathe properly.
+
+A baker who was painstakingly kneading each loaf of bread by hand. I suspect you know exactly what. I’m talking about. I’m guessing you know what it’s like to feel highly engaged by your work but on the edge of exhaustion.
 
 To be doing the best you can but still feel it isn’t enough. To have more essentials than you can fit into your day. To want to do more but simply don’t have the space. To be making progress on things that matter but too weary to derive any joy from your successes.
 
 For you who give so much, I say this, there is another way. Not everything has to be so hard. Getting to the next level doesn’t have to mean chronic exhaustion. Making a contribution doesn’t have to come at the expense of your mental and physical health.
 
-When the essentials become too hard to handle, you can either give up on them or you can find an easier way. Essentialism was about doing the right things, effortless is about doing them in the right way. Since writing essentialism, I have had a rare opportunity to talk with thousands of people, some in person, some via social media, and some of them on my podcast, about the challenges they face in trying to live a life that really matters. It has been a multi-year listening tour.
+When the essentials become too hard to handle, you can either give up on them or you can find an easier way. Essentialism was about doing the right things, effortless is about doing them in the right way. Since writing essentialism, I have had a rare opportunity to talk with thousands of people, some in person, some via social media, and some of them on my podcast, about the challenges they face in trying to live a life that really matters.
 
-Never in my life have I had an opportunity to listen to so many people sharing, so vulnerably, how they struggle to do what matters most. What I learned is this, we all want to do what matters. We want to get in shape, save for a home or for retirement, be fulfilled in our careers, and build closer relationships with people we work and live with. The problem isn’t a lack of motivation, if it were, we would all already be at our ideal weight, live within our means, have our dream job, and enjoy deep and meaningful relationships with all the people who matter most to us.
+It has been a multi-year listening tour. Never in my life have. I had an opportunity to listen to so many people sharing, so vulnerably, how they struggle to do what matters most. What.
+
+I learned is this, we all want to do what matters. We want to get in shape, save for a home or for retirement, be fulfilled in our careers, and build closer relationships with people we work and live with. The problem isn’t a lack of motivation, if it were, we would all already be at our ideal weight, live within our means, have our dream job, and enjoy deep and meaningful relationships with all the people who matter most to us.
 
 Motivation is not enough because it is a limited resource. To truly make progress on the things that matter, we need a whole new way to work and live. Instead of trying to get better results by pushing ever harder, we can make the most essential activities the easiest ones. For some, the idea of working less hard feels uncomfortable.
 
@@ -221,11 +235,13 @@ Puritanism went beyond embracing the hard, it extended to also distrusting the e
 
 What could happen in your life if the easy but pointless things became harder and the essential things became easier? What could happen in your life if the easy but pointless things became harder and the essential things became easier? If the essential projects you’ve been putting off became enjoyable, while the pointless distractions lost their appeal completely, such a shift would stack the deck in our favor. It would change everything.
 
-It does change everything. That’s the value proposition of effortless. It’s about a whole new way to work and live, a way to achieve more with ease to achieve more because you are at ease, a way to lighten life’s inevitable burdens, and get the right results without burning out. Nothing but net this book is organized into three simple parts, part I reintroduces you to your effortless state.
+It does change everything. That’s the value proposition of effortless. It’s about a whole new way to work and live, a way to achieve more with ease to achieve more because you are at ease, a way to lighten life’s inevitable burdens, and get the right results without burning out. Nothing but net this book is organized into three simple parts, part.
 
-Part two shows how to take effortless action. Part three is about achieving effortless results. Each of these builds upon the last. Think of an NBA player stepping up to take a free throw.
+I reintroduces you to your effortless state. Part two shows how to take effortless action. Part three is about achieving effortless results. Each of these builds upon the last.
 
-First, they get into the zone. They find the dot on the free throw line, dribble the ball a few times, a ritual to help them get completely focused. You can almost see them clearing their heads letting go of all emotions, blocking out the noise of the crowd. This is what I call the effortless state.
+Think of an NBA player stepping up to take a free throw. First, they get into the zone. They find the dot on the free throw line, dribble the ball a few times, a ritual to help them get completely focused. You can almost see them clearing their heads letting go of all emotions, blocking out the noise of the crowd.
+
+This is what. I call the effortless state.
 
 Second, they bend their knees, bring their front elbow to the right angle, and then lift, flick, and pop.
 
@@ -237,35 +253,39 @@ They have practiced this precise, flowing movement until it has sunk deep into t
 
 It makes that satisfying swish, the sound of a perfectly executed free throw. It’s not a fluke. They can do it again and again. This is what it feels like to achieve effortless results.
 
-F. F. Part I, E. Ortless state when our brains are at full capacity, everything feels harder.
+F. F. Part. I, E.
 
-Fatigue slows us down. Outdated assumptions and emotions make new information harder to process. The countless distractions of daily life make it difficult to see what matters clearly. So the first step toward making things more effortless is to clear the clutter in our heads and our hearts.
+Ortless state when our brains are at full capacity, everything feels harder. Fatigue slows us down. Outdated assumptions and emotions make new information harder to process. The countless distractions of daily life make it difficult to see what matters clearly.
 
-You have likely experienced this before. It’s when you feel rested, at peace, and focused. You’re fully present in the moment. You have a heightened awareness of what matters here and now.
+So the first step toward making things more effortless is to clear the clutter in our heads and our hearts. You have likely experienced this before. It’s when you feel rested, at peace, and focused. You’re fully present in the moment.
 
-You feel capable of taking the right action. This part of the book provides actionable ways to return to the effortless state. F. F.
+You have a heightened awareness of what matters here and now. You feel capable of taking the right action. This part of the book provides actionable ways to return to the effortless state. F.
 
-Part II, E. Ortless action once we are in the effortless state, it becomes easier to take effortless action. But we may still encounter complexity that makes it hard to start or advance an essential project. Perfectionism makes essential projects hard to start, self-doubt makes them hard to finish, and trying to do too much, too fast, makes it hard to sustain momentum.
+F. Part II, E. Ortless action once we are in the effortless state, it becomes easier to take effortless action. But we may still encounter complexity that makes it hard to start or advance an essential project.
 
-This part of the book is all about simplifying the process to make the work itself easier to do. F. F. Part III, E.
+Perfectionism makes essential projects hard to start, self-doubt makes them hard to finish, and trying to do too much, too fast, makes it hard to sustain momentum. This part of the book is all about simplifying the process to make the work itself easier to do. F. F.
 
-Ortless results when we take effortless action, we make it easier to get the results we want. There are two types of results, linear and residual. Whenever your efforts yield a one-time benefit, you are getting a linear result. Every day you start from zero, if you don’t put in the effort today then you don’t get the result today.
+Part III, E. Ortless results when we take effortless action, we make it easier to get the results we want. There are two types of results, linear and residual. Whenever your efforts yield a one-time benefit, you are getting a linear result.
 
-It’s a one-to-one ratio, the amount of effort you put in equals the results received. But what if those results could flow to us repeatedly, without further effort on our part? With residual results you put in the effort once and reap the benefits again and again. Results flow to you while you are sleeping.
+Every day you start from zero, if you don’t put in the effort today then you don’t get the result today. It’s a one-to-one ratio, the amount of effort you put in equals the results received. But what if those results could flow to us repeatedly, without further effort on our part? With residual results you put in the effort once and reap the benefits again and again.
 
-Results flow to you when you are taking the day off. Residual results can be virtually infinite. Effortless action alone produces linear results. But when we apply effortless action to high leverage activities, the return on our effort compounds, like interest on a savings account.
+Results flow to you while you are sleeping. Results flow to you when you are taking the day off. Residual results can be virtually infinite. Effortless action alone produces linear results.
 
-This is how we produce residual results. Producing a great result is good. Producing a great result with ease is better. Producing a great result with ease again and again is best.
+But when we apply effortless action to high leverage activities, the return on our effort compounds, like interest on a savings account. This is how we produce residual results. Producing a great result is good. Producing a great result with ease is better.
 
-That is what Part III of the book shows how to do. FF anything can be made effortless, but not everything discovering the effortless way of living is like using special polarized sunglasses while fly fishing. Without them, the glare on the water makes it difficult to see anything swimming below the surface. But as soon as you put them on, their angled surface filters out the horizontal light waves coming off the water, blocking the glare.
+Producing a great result with ease again and again is best. That is what. Part III of the book shows how to do. FF anything can be made effortless, but not everything discovering the effortless way of living is like using special polarized sunglasses while fly fishing.
+
+Without them, the glare on the water makes it difficult to see anything swimming below the surface. But as soon as you put them on, their angled surface filters out the horizontal light waves coming off the water, blocking the glare.
 
 Suddenly, you can see all the fish underneath. When we’re accustomed to doing things the hard way, it’s like being blinded by the glare coming off the water. But once you start putting these ideas into practice you will start to see that the easier way was there all along, just hidden from your view. We’ve all experienced how the effortless way can feel.
 
 For example, have you ever been in a relaxed state and found it easier to get in the zone? Stop trying so hard and actually got better results. Done something once that has benefited you multiple times. My motivation for writing this book is singular, to help you experience more of this, more of the time.
 
-Of course, you can’t make everything in your life effortless. But you can make more of the right things less impossible than easier, than easy, and ultimately effortless. In writing this book, I have interviewed experts and read their research, drawing on learnings from behavioral economics, philosophy, psychology, physics, and neuroscience. I made a disciplined pursuit of uncovering answers to the essential question how can I make it easier to do what matters most?
+Of course, you can’t make everything in your life effortless. But you can make more of the right things less impossible than easier, than easy, and ultimately effortless. In writing this book, I have interviewed experts and read their research, drawing on learnings from behavioral economics, philosophy, psychology, physics, and neuroscience. I made a disciplined pursuit of uncovering answers to the essential question how can.
 
-Now I can’t wait to share all that I’ve learned with you because, in the words of George Eliot, what do we live for, if not to make life less difficult for each other? S. N. asterisk I invite you to design a more essential and effortless lifestyle by going to the Essentialism Academy at Essentialism.com.
+I make it easier to do what matters most? Now. I can’t wait to share all that. I’ve learned with you because, in the words of George Eliot, what do we live for, if not to make life less difficult for each other?
+
+S. N. asterisk. I invite you to design a more essential and effortless lifestyle by going to the Essentialism Academy at Essentialism.com.
 
 
 <a id="sec-002517"></a>
@@ -277,15 +297,15 @@ That’s not just the highest in WNBA history but higher than any player in NBA 
 
 She steps up to the line, finds the dot with her right foot, lines up her feet, takes three dribbles, makes an L with her arm, then lifts and flicks. If you keep it simple, less can go wrong, she says. The most important part of the process. Not overthinking it.
 
-The biggest thing on the foul line is you can’t let too much get inside your head. In other words, the secret to Dunn’s success is her ability to get into what I call the Effortless State. You are like a supercomputer designed with extremely powerful capabilities. You’re built to be able to learn quickly, solve problems intuitively, and compute the right next action effortlessly.
+The biggest thing on the foul line is you can’t let too much get inside your head. In other words, the secret to Dunn’s success is her ability to get into what. I call the Effortless State. You are like a supercomputer designed with extremely powerful capabilities.
 
-Under optimal conditions, your brain works at incredible speeds. But just like a supercomputer, your brain does not always perform optimally. Think about how a computer slows down when its hard drive gets cluttered with files and browsing data. The machine still has incredible computing power, but it’s less available to perform essential functions.
+You’re built to be able to learn quickly, solve problems intuitively, and compute the right next action effortlessly. Under optimal conditions, your brain works at incredible speeds. But just like a supercomputer, your brain does not always perform optimally. Think about how a computer slows down when its hard drive gets cluttered with files and browsing data.
 
-Similarly, when your brain is filled with clutter like outdated assumptions, negative emotions, and toxic thought patterns you have less mental energy available to perform what’s most essential. A concept in cognitive psychology known as Perceptual Load Theory explains why this is the case. Our brain’s processing capacity is large, but limited. It already processes over 6000 thoughts a day.
+The machine still has incredible computing power, but it’s less available to perform essential functions. Similarly, when your brain is filled with clutter like outdated assumptions, negative emotions, and toxic thought patterns you have less mental energy available to perform what’s most essential. A concept in cognitive psychology known as Perceptual Load Theory explains why this is the case. Our brain’s processing capacity is large, but limited.
 
-So when we encounter new information, our brains have to make a choice about how to allocate the remaining cognitive resources. And because our brains are programmed to prioritize emotions with high effective value-like fear, resentment, or anger these strong emotions will generally win out, leaving us with even fewer mental resources to devote to making progress on the things that matter. When your computer is running slowly, all you have to do is hit a few buttons to clear all the browsing data, and immediately the machine works smoother and faster.
+It already processes over 6000 thoughts a day. So when we encounter new information, our brains have to make a choice about how to allocate the remaining cognitive resources. And because our brains are programmed to prioritize emotions with high effective value-like fear, resentment, or anger these strong emotions will generally win out, leaving us with even fewer mental resources to devote to making progress on the things that matter. When your computer is running slowly, all you have to do is hit a few buttons to clear all the browsing data, and immediately the machine works smoother and faster.
 
-In a similar way, you can learn simple tactics to rid yourself of all the clutter slowing down the hard drive of your mind. By hitting a few buttons, you can be restored to your original effortless state. Perhaps you have experienced what it feels like to return to the effortless state. Imagine it’s the end of a long day.
+In a similar way, you can learn simple tactics to rid yourself of all the clutter slowing down the hard drive of your mind. By hitting a few buttons, you can be restored to your original effortless state. Perhaps, you have experienced what it feels like to return to the effortless state. Imagine it’s the end of a long day.
 
 You have a headache that you can’t seem to shake. You can’t remember where you put your phone. Or your keys. Even the smallest, most reasonable requests a client asks for a piece of information via a confusing voicemail, or your child wants to be picked up from piano lessons fill you with resentment.
 
@@ -299,7 +319,7 @@ Your inherent capabilities are restored. When you return to your effortless stat
 
 First, you feel less heavy unburdened. You aren’t as weighed down.
 
-Suddenly you have more energy. But lighter also means more full of light. When you remove the burdens in your heart and the distractions in your mind, you are able to see more. more clearly. You can discern the right action and light the right path.
+Suddenly, you have more energy. But lighter also means more full of light. When you remove the burdens in your heart and the distractions in your mind, you are able to see more. more clearly. You can discern the right action and light the right path.
 
 The effortless state is one in which you are physically rested, emotionally unburdened, and mentally energized. You are completely present, attentive, and focused on what’s important in that moment.
 
@@ -307,29 +327,33 @@ The effortless state is one in which you are physically rested, emotionally unbu
 <a id="sec-003017"></a>
 ### ⏱️ [00:30:17 - 00:35:18]
 
-You are able to do what matters most with ease. See one invert what if this could be easy. 4. And I’m up photoshopping pictures. Really?
+You are able to do what matters most with ease. See one invert what if this could be easy. 4. And. I’m up photoshopping pictures.
 
-Kim Jenkins wanted to do what really mattered. But it was hard not to feel overwhelmed. For one thing, the university where she worked was undergoing an immense expansion. The client base had doubled in the last few years, but they were operating with virtually the same staff and resources as before.
+Really? Kim Jenkins wanted to do what really mattered. But it was hard not to feel overwhelmed. For one thing, the university where she worked was undergoing an immense expansion.
 
-With the expansion of the organization had come an expansion of complexity everywhere. There were new and difficult to decipher internal policies. There was a tedious new system for handling compliance. Processes had grown cumbersome, and now all of their projects and programs took more energy and time.
+The client base had doubled in the last few years, but they were operating with virtually the same staff and resources as before. With the expansion of the organization had come an expansion of complexity everywhere. There were new and difficult to decipher internal policies. There was a tedious new system for handling compliance.
 
-Well-intentioned people had added but never subtracted. They had taken work that used to be simple and made it maddeningly, unnecessarily complicated. As a result, the effort required to get her work done had become herculean. And Kim had a tendency to be really hard on herself.
+Processes had grown cumbersome, and now all of their projects and programs took more energy and time. Well-intentioned people had added but never subtracted. They had taken work that used to be simple and made it maddeningly, unnecessarily complicated. As a result, the effort required to get her work done had become herculean.
 
-She said, “I thought if I wasn’t putting in tremendous effort, sacrificing any time for myself, then I was being incredibly selfish.” Then one day, it hit her. This was all so much harder than it ought to be.
+And Kim had a tendency to be really hard on herself. She said, “I thought if. I wasn’t putting in tremendous effort, sacrificing any time for myself, then. I was being incredibly selfish.”.
 
-And with that realization, she said, “I could see it all for what it was, layers and layers of unnecessary complexity.” I could see how it was expanding all the time and how I was suffocating underneath all of it. She decided it was time to make a change, when faced with a task that felt impossibly hard, she would ask, is there an easier way? She soon had the opportunity to put this method to the test when a faculty member called her and asked if she could have her videography team record a full semester of a class.
+Then one day, it hit her. This was all so much harder than it ought to be.
 
-In the past she would have jumped in with both feet, put her team to work for four months, and looked for ways to go above and beyond, adding music, intros and outros, and graphics. This time she wondered if there was an easier way to get the desired results. A brief conversation revealed that the videos were intended for a single student who couldn’t make every class due to a sports commitment. He didn’t need a highly produced recording with lots of bells and whistles, he just needed a way to avoid falling behind in his class.
+And with that realization, she said, “I could see it all for what it was, layers and layers of unnecessary complexity.”. I could see how it was expanding all the time and how. I was suffocating underneath all of it. She decided it was time to make a change, when faced with a task that felt impossibly hard, she would ask, is there an easier way?
 
-So she thought, what if they simply asked another student to record those lectures on a smartphone? The professor was delighted with the solution, Kim said. And it cost her just a couple of minutes of planning instead of months of work for her whole videography team. �Hard work may not be well named all too often, we sacrifice our time, our energy and even our sanity, almost believing that sacrifice is essential in and of itself. The problem is that the complexity of modern life has created a false dichotomy between things that are essential and hard and things that are easy and trivial.
+She soon had the opportunity to put this method to the test when a faculty member called her and asked if she could have her videography team record a full semester of a class. In the past she would have jumped in with both feet, put her team to work for four months, and looked for ways to go above and beyond, adding music, intros and outros, and graphics. This time she wondered if there was an easier way to get the desired results.
 
-It�s almost like a natural law for some people, trivial things are easy. Important things are hard. Our language helps to reveal our deeper assumptions. Think of these revealing phrases, when we accomplish something important, we say it took blood, sweat and tears.
+A brief conversation revealed that the videos were intended for a single student who couldn’t make every class due to a sports commitment. He didn’t need a highly produced recording with lots of bells and whistles, he just needed a way to avoid falling behind in his class. So she thought, what if they simply asked another student to record those lectures on a smartphone? The professor was delighted with the solution, Kim said.
 
-We say important achievements are hard earned when we might just say earned. We recommend a hard day�s work when day�s work would suffice. Then there are the ways our language betrays our distrust of ease. When we talk of easy money, we are implying it was obtained through illegal or questionable means.
+And it cost her just a couple of minutes of planning instead of months of work for her whole videography team. �Hard work may not be well named all too often, we sacrifice our time, our energy and even our sanity, almost believing that sacrifice is essential in and of itself. The problem is that the complexity of modern life has created a false dichotomy between things that are essential and hard and things that are easy and trivial. It�s almost like a natural law for some people, trivial things are easy.
 
-We use the phrase �that�s easy for you to say� as a criticism, usually when we are seeking to invalidate someone�s opinion. It�s curious to me how we default to sayings like �It won�t be easy, but it�s worth it� or �It�s going to be really hard to make that happen, but we should try�. It�s like we all automatically accept that the right way is, inevitably, the harder one. In my experience this is hardly ever questioned.
+Important things are hard. Our language helps to reveal our deeper assumptions. Think of these revealing phrases, when we accomplish something important, we say it took blood, sweat and tears. We say important achievements are hard earned when we might just say earned.
 
-Indeed, if you do challenge this sacred cow, it can be uncomfortable. We don�t even pause to consider that something important and valuable could be made easy. What if the biggest thing keeping us from doing what matters is the false assumption that it has to take tremendous effort? What if, instead, we considered the possibility that the reason something feels hard is that we haven�t yet found the easier way to do it? �FF� �The path of least E or�t our brain is wired to resist what it perceives as hard and welcome what it perceives as easy.
+We recommend a hard day�s work when day�s work would suffice. Then there are the ways our language betrays our distrust of ease. When we talk of easy money, we are implying it was obtained through illegal or questionable means. We use the phrase �that�s easy for you to say� as a criticism, usually when we are seeking to invalidate someone�s opinion.
+
+It�s curious to me how we default to sayings like �It won�t be easy, but it�s worth it� or �It�s going to be really hard to make that happen, but we should try�. It�s like we all automatically accept that the right way is, inevitably, the harder one. In my experience this is hardly ever questioned. Indeed, if you do challenge this sacred cow, it can be uncomfortable.
+
+We don�t even pause to consider that something important and valuable could be made easy. What if the biggest thing keeping us from doing what matters is the false assumption that it has to take tremendous effort? What if, instead, we considered the possibility that the reason something feels hard is that we haven�t yet found the easier way to do it? �FF� �The path of least E or�t our brain is wired to resist what it perceives as hard and welcome what it perceives as easy.
 
 This bias is sometimes called the cognitive ease principle, or the principle of least effort. It�s our tendency to take the path of least resistance to achieve what we want. We don�t need to look far to see the principle in action.
 
@@ -343,29 +367,39 @@ And so on. From an evolutionary perspective, this bias for ease is useful. For m
 
 What if our ancestors had been wired to ask, �What�s the hardest way to obtain food?� To provide our family shelter? To maintain relationships within our tribe? They wouldn�t have made it? Our survival as a species grows out of innate preference for taking the path of least effort.
 
-What if, rather than fighting our pre-programmed instinct to seek the easiest path, we could embrace it, even use it to our advantage? What if, instead of asking, �How can I tackle this really hard but essential project,� we simply inverted the question and asked, �What if this essential project could be made easy?� For some, the idea of working less hard feels uncomfortable. We feel lazy. We fear we�ll fall behind.
+What if, rather than fighting our pre-programmed instinct to seek the easiest path, we could embrace it, even use it to our advantage? What if, instead of asking, �How can. I tackle this really hard but essential project,� we simply inverted the question and asked, �What if this essential project could be made easy?� For some, the idea of working less hard feels uncomfortable. We feel lazy.
 
-We feel guilty for not going the extra mile each time. This mindset, conscious or not, may have its roots in the Puritan idea that the act of doing hard things always has an inherent value. Puritanism went beyond embracing the hard, it extended to also distrusting the easy. How to try too hard at a key moment in my career, a client at a high-profile technology company asked me to give three presentations on leadership.
+We fear we�ll fall behind. We feel guilty for not going the extra mile each time. This mindset, conscious or not, may have its roots in the Puritan idea that the act of doing hard things always has an inherent value. Puritanism went beyond embracing the hard, it extended to also distrusting the easy.
 
-They told me that if all went well they were prepared to hire me for the next year or more. It was exactly the career break I needed. I understood their needs well. I had ready-made content they had already approved.
+How to try too hard at a key moment in my career, a client at a high-profile technology company asked me to give three presentations on leadership. They told me that if all went well they were prepared to hire me for the next year or more. It was exactly the career break. I needed.
 
-The afternoon before the first presentation, I decided to add some finishing touches. It already looked good. But I worried it didn�t look good enough. I decided to scrap it all and start over.
+I understood their needs well. I had ready-made content they had already approved. The afternoon before the first presentation, I decided to add some finishing touches. It already looked good.
 
-I got consumed with a new idea that I was convinced would wow them. I ended up staying up all night rewriting my whole presentation, new slides, new handouts, all of which were, of course, untested. As I drove to the company�s offices the next morning I was exhausted. My mind was foggy.
+But. I worried it didn�t look good enough. I decided to scrap it all and start over. I got consumed with a new idea that.
 
-When I arrived, I was running on the fumes of my nervous energy. As the presentation began, my stomach sank. My opening story was unpolished. The slides were unfamiliar, I kept having to turn around to see what was on the screen.
+I was convinced would wow them. I ended up staying up all night rewriting my whole presentation, new slides, new handouts, all of which were, of course, untested. As. I drove to the company�s offices the next morning.
 
-One of the first slides failed to convey the point I was trying to make. In short, I bombed. As I left, I was hyperventilating. I had been given this incredible opportunity, and I had blown it.
+I was exhausted. My mind was foggy. When. I arrived, I was running on the fumes of my nervous energy.
 
-The client cancelled the other two presentations. They did not hire me for the extended engagement. It was my most humiliating professional failure ever. I was burned out from the experience, and I didn�t even walk away with the results I wanted.
+As the presentation began, my stomach sank. My opening story was unpolished. The slides were unfamiliar, I kept having to turn around to see what was on the screen. One of the first slides failed to convey the point.
 
-As I reflected on how this had all gone so wrong, the answer was obvious. Nailing this presentation was so important to me, I had overthought it. I�d over-engineered it. I�d tried too hard.
+I was trying to make. In short, I bombed. As. I left, I was hyperventilating.
 
-And as a result, I�d snatched defeat from the jaws of victory. Here is what I learned, trying too hard makes it harder to get the results you want. Here is what I realized, behind almost every failure of my whole life I had made the same error. When I�d failed, it was rarely because I hadn�t tried hard enough, it was because I�d been trying too hard.
+I had been given this incredible opportunity, and. I had blown it. The client cancelled the other two presentations. They did not hire me for the extended engagement.
 
-We are conditioned over the course of our lifetimes to believe that in order to overachieve we must also overdo. As a result, we make things harder for ourselves than they need to be. F. F.
+It was my most humiliating professional failure ever. I was burned out from the experience, and. I didn�t even walk away with the results. I wanted.
 
-E. Ortles inversion Carl Jacobi, the 19th-century German mathematician, developed a reputation as someone who could solve especially hard and intractable problems. He learned that to do that most easily, man must immer umkarin, which translates to �one must invert, always invert.� To invert means to turn an assumption or approach upside down, to work backward, to ask, �What if the opposite were true?� Inversion can help you discover obvious insights you have missed because you�re looking at the problem from only one point
+As. I reflected on how this had all gone so wrong, the answer was obvious. Nailing this presentation was so important to me, I had overthought it. I�d over-engineered it.
+
+I�d tried too hard. And as a result, I�d snatched defeat from the jaws of victory. Here is what. I learned, trying too hard makes it harder to get the results you want.
+
+Here is what. I realized, behind almost every failure of my whole life. I had made the same error. When.
+
+I�d failed, it was rarely because. I hadn�t tried hard enough, it was because. I�d been trying too hard. We are conditioned over the course of our lifetimes to believe that in order to overachieve we must also overdo.
+
+As a result, we make things harder for ourselves than they need to be. F. F. E.
+
+Ortles inversion Carl Jacobi, the 19th-century German mathematician, developed a reputation as someone who could solve especially hard and intractable problems. He learned that to do that most easily, man must immer umkarin, which translates to �one must invert, always invert.� To invert means to turn an assumption or approach upside down, to work backward, to ask, �What if the opposite were true?� Inversion can help you discover obvious insights you have missed because you�re looking at the problem from only one point
 
 
 <a id="sec-004022"></a>
@@ -377,25 +411,31 @@ For many overachievers it�s the only way. They have learned how to solve probl
 
 It means asking, �What if this could be easy?� It means learning to solve problems from a state of focus, clarity and calm. It means getting good at getting things done by putting in less effort. There are two ways to achieve all the things that really matter. We can, A, gain superhuman powers so we can do all the impossibly hard but worthwhile work or, B, get better at making the impossibly hard but worthwhile work easier.
 
-Once we invert the question, even everyday tasks that seem too overwhelming to tackle become easier. For example, the other day I was tidying up my office. As I scanned the room I saw an old printer we had recently replaced. It had been sitting on my office floor for a couple of weeks, taking up space.
+Once we invert the question, even everyday tasks that seem too overwhelming to tackle become easier. For example, the other day. I was tidying up my office. As.
 
-It bothered me every time I saw it there. Still, every time I looked at it I thought of all the steps required to deal with it, deciding whether to keep or discard it, checking the costs of replacing the color ink, potentially finding a place to give it away. Every time, the work involved was enough for a voice in my head to whisper, �Too much trouble,� so I quickly resigned myself to it staying on the floor.
+I scanned the room. I saw an old printer we had recently replaced. It had been sitting on my office floor for a couple of weeks, taking up space. It bothered me every time.
 
-However, this time I asked, �What if this could be easy?� What if all those steps I�d assumed this task entailed were not in fact required steps at all? I then looked up from my desk and happened to see one of the building workers through the window of my office. I walked outside and asked if he wanted the printer for free. He said yes, and took it.
+I saw it there. Still, every time. I looked at it. I thought of all the steps required to deal with it, deciding whether to keep or discard it, checking the costs of replacing the color ink, potentially finding a place to give it away.
 
-The problem was solved within two minutes of asking the question. When we feel overwhelmed, it may not be because the situation is inherently overwhelming. It may be because we are overcomplicating something in our own heads. Asking the question �What if this could be easy?� is a way to reset our thinking.
+Every time, the work involved was enough for a voice in my head to whisper, �Too much trouble,� so. I quickly resigned myself to it staying on the floor.
 
-It may seem almost impossibly simple. And that�s exactly why it works. Weaken the impossible The abolitionist William Wilberforce approached his impossibly hard, worthwhile work with great conviction. As a member of Parliament in Britain at the beginning of the 19th century, he fought for the moral case against slavery.
+However, this time. I asked, �What if this could be easy?� What if all those steps. I�d assumed this task entailed were not in fact required steps at all? I then looked up from my desk and happened to see one of the building workers through the window of my office.
 
-He rallied his generation to do the same. He wanted to attack the slave trade with sweeping legislation to end this barbaric and inhumane system. But for all his effort, and for all his fervor, he couldn�t make a dent in the law. The forces working against him were massive.
+I walked outside and asked if he wanted the printer for free. He said yes, and took it. The problem was solved within two minutes of asking the question. When we feel overwhelmed, it may not be because the situation is inherently overwhelming.
 
-There were powerful parties intent on protecting the status quo. There were bystanders who were too consumed with other things to care. There were others who cared, but not enough to make the necessary sacrifices. The barriers were too great, the interests too entrenched, the distractions too many.
+It may be because we are overcomplicating something in our own heads. Asking the question �What if this could be easy?� is a way to reset our thinking. It may seem almost impossibly simple. And that�s exactly why it works.
 
-When one of his fellow abolitionists, James Stephen, had an idea. Rather than continuing to attack the system head-on, he suggested a more indirect approach. In 1805, Stephen wrote a pamphlet entitled �War in Disguise,� or, �The Frauds of the Neutral Flags.� In it he argued against the use by warring nations of neutral flags on ships. At a time when France and England were at war, French cargo ships were sailing under the neutral American flag to take advantage of maritime law that protected them from seizure by the enemy.
+Weaken the impossible The abolitionist William Wilberforce approached his impossibly hard, worthwhile work with great conviction. As a member of Parliament in Britain at the beginning of the 19th century, he fought for the moral case against slavery. He rallied his generation to do the same. He wanted to attack the slave trade with sweeping legislation to end this barbaric and inhumane system.
 
-The majority of slave ships sailing to the West Indies were also flying the American flag because, under the law at the time, this meant they could not be stopped by the British Navy. Stephen saw that if England were to change the law to remove that protection, no slave trader would dare allow his vessel to make the journey. Without the protection of neutral flags, the bulk of the British slave trade would be eliminated. Fearing that if he mentioned the slave trade his arguments might be dismissed, Stephen confined himself entirely to issues of war.
+But for all his effort, and for all his fervor, he couldn�t make a dent in the law. The forces working against him were massive. There were powerful parties intent on protecting the status quo. There were bystanders who were too consumed with other things to care.
 
-His outwardly uncontroversial treatise was swiftly published and went largely unopposed. This seemingly innocuous, deliberately dull paper was in reality a Trojan horse. Beginning in January 1807, the British Privy Council issued the first of a series of war measures against Napoleon, inspired by Stephen’s approach. The effect was as had been hoped for.
+There were others who cared, but not enough to make the necessary sacrifices. The barriers were too great, the interests too entrenched, the distractions too many. When one of his fellow abolitionists, James Stephen, had an idea. Rather than continuing to attack the system head-on, he suggested a more indirect approach.
+
+In 1805, Stephen wrote a pamphlet entitled �War in Disguise,� or, �The Frauds of the Neutral Flags.� In it he argued against the use by warring nations of neutral flags on ships. At a time when France and England were at war, French cargo ships were sailing under the neutral American flag to take advantage of maritime law that protected them from seizure by the enemy. The majority of slave ships sailing to the West Indies were also flying the American flag because, under the law at the time, this meant they could not be stopped by the British Navy.
+
+Stephen saw that if England were to change the law to remove that protection, no slave trader would dare allow his vessel to make the journey. Without the protection of neutral flags, the bulk of the British slave trade would be eliminated. Fearing that if he mentioned the slave trade his arguments might be dismissed, Stephen confined himself entirely to issues of war. His outwardly uncontroversial treatise was swiftly published and went largely unopposed.
+
+This seemingly innocuous, deliberately dull paper was in reality a Trojan horse. Beginning in January 1807, the British Privy Council issued the first of a series of war measures against Napoleon, inspired by Stephen’s approach. The effect was as had been hoped for.
 
 
 <a id="sec-004524"></a>
@@ -419,7 +459,9 @@ Of course, there are hard paths to success. Of course, there are examples of peo
 
 And heroes make for great stories. When we remove the complexity, even the �FF� slightest e-ort can move what matters forward. But such stories have created the false impression that pushing uphill is the only path to success. What if for every person who has succeeded through heroic effort, there are others who have employed less heroic, and thus less newsworthy, strategies to achieve success?
 
-Take, for example, Warren Buffett, one of the most successful investors in history, who has described the investment strategy at Berkshire Hathaway as lethargy bordering on sloth. They are not looking to invest in companies that will require enormous effort to achieve profitability. They are looking for investments that are easy to say yes to, no-brainer businesses that are simple to run and have long-term competitive advantages. In Buffett�s words, �I don�t look to jump over seven-foot bars, I look around for one-foot bars that I can step over.� When a strategy is so complex that each step feels akin to pushing a boulder up a hill, you should pause.
+Take, for example, Warren Buffett, one of the most successful investors in history, who has described the investment strategy at Berkshire Hathaway as lethargy bordering on sloth. They are not looking to invest in companies that will require enormous effort to achieve profitability. They are looking for investments that are easy to say yes to, no-brainer businesses that are simple to run and have long-term competitive advantages. In Buffett�s words, �I don�t look to jump over seven-foot bars, I look around for one-foot bars that.
+
+I can step over.� When a strategy is so complex that each step feels akin to pushing a boulder up a hill, you should pause.
 
 
 <a id="sec-005027"></a>
@@ -445,27 +487,33 @@ As a result, not only do more people participate, they actually look forward to 
 
 Maybe it’s exercising, doing our finances, washing the dishes after dinner, returning emails or voicemails, attending meetings, or waking up our teenagers for school. Not every essential activity is inherently enjoyable. But we can make them so. Why would we simply endure essential activities when we can enjoy them instead?
 
-So often we separate important work from trivial play. People say, I work hard and then I can play hard. For many people there are essential things and then there are enjoyable things. But this false dichotomy works against us in two ways.
+So often we separate important work from trivial play. People say, I work hard and then. I can play hard. For many people there are essential things and then there are enjoyable things.
 
-Believing essential activities are, almost by definition, tedious, we are more likely to put them off or avoid them completely. At the same time, our nagging guilt about all the essential work we could be doing instead sucks all the joy out of otherwise enjoyable experiences. Fun becomes the dark playground. Separating important work from play makes life harder than it needs to be.
+But this false dichotomy works against us in two ways. Believing essential activities are, almost by definition, tedious, we are more likely to put them off or avoid them completely. At the same time, our nagging guilt about all the essential work we could be doing instead sucks all the joy out of otherwise enjoyable experiences. Fun becomes the dark playground.
 
-But essential work can be enjoyable once we put aside the Puritan notion that anything worth doing must entail backbreaking effort. Why would we simply endure essential activities when we can enjoy them instead?
+Separating important work from play makes life harder than it needs to be. But essential work can be enjoyable once we put aside the Puritan notion that anything worth doing must entail backbreaking effort. Why would we simply endure essential activities when we can enjoy them instead?
 
 
 <a id="sec-005531"></a>
 ### ⏱️ [00:55:31 - 01:00:35]
 
-By pairing essential activities with enjoyable ones, we can make tackling even the most tedious and overwhelming tasks more effortless. Reduce the lag indicator It’s no secret that many essential activities that are not particularly joyful in the moment produce moments of joy later on. If you exercise and eat better, you will eventually be healthier and lose weight. If you read every day, you will eventually develop expertise.
+By pairing essential activities with enjoyable ones, we can make tackling even the most tedious and overwhelming tasks more effortless. Reduce the lag indicator. It’s no secret that many essential activities that are not particularly joyful in the moment produce moments of joy later on. If you exercise and eat better, you will eventually be healthier and lose weight.
 
-If you meditate regularly, you will eventually develop a greater sense of calm in your life. But these are all lag indicators meaning, you experience the reward after the action has taken place, sometimes weeks, months or years afterward. But essential activities don’t have to be enjoyed only in retrospect. We can also experience joy in the activity itself.
+If you read every day, you will eventually develop expertise. If you meditate regularly, you will eventually develop a greater sense of calm in your life. But these are all lag indicators meaning, you experience the reward after the action has taken place, sometimes weeks, months or years afterward. But essential activities don’t have to be enjoyed only in retrospect.
 
-We simply reduce the lag time between the action and satisfaction by pairing the essential activity with a reward. Once, after a week of travel, I came home to find a backlog of voicemails to respond to. This task initially felt arduous and burdensome. My first thought was why do I have so many messages?
+We can also experience joy in the activity itself. We simply reduce the lag time between the action and satisfaction by pairing the essential activity with a reward. Once, after a week of travel, I came home to find a backlog of voicemails to respond to. This task initially felt arduous and burdensome.
 
-Which indicates that I must have been a bit burned out. But then I realized I was asking the wrong question. So instead I asked, how can I make calling these people back enjoyable? After just a few seconds the idea came to make the calls from my hot tub.
+My first thought was why do. I have so many messages? Which indicates that. I must have been a bit burned out.
 
-That changed the whole experience. It put me in a good mood. I told each person that I was calling from the hot tub, and they laughed about it. When I’d finished calling everyone back I almost felt disappointed.
+But then. I realized. I was asking the wrong question. So instead.
 
-I wished I had more people to call. Ron Culberson is good at many things. He’s an accomplished speaker, author and humorist.
+I asked, how can. I make calling these people back enjoyable? After just a few seconds the idea came to make the calls from my hot tub. That changed the whole experience.
+
+It put me in a good mood. I told each person that. I was calling from the hot tub, and they laughed about it. When.
+
+I’d finished calling everyone back. I almost felt disappointed. I wished. I had more people to call.
+
+Ron Culberson is good at many things. He’s an accomplished speaker, author and humorist.
 
 In fact, there are few things he does not excel at. But with the Pinewood Derby, he finally met his match. The Pinewood Derby is a racing event for unpowered, unmanned, miniature cars, run by Cub Scout chapters across the United States. As Culberson describes it, it’s a competition where little boys who are too young to use knives or saws are given a block of wood so that their parents can carve a race car to compete against the other parents' cars.
 
@@ -475,7 +523,7 @@ Being the good dad that he is, Culberson did his best to put together a function
 
 But his son would not be deterred, and the following year he asked his father once again to build him a fast car. Culberson groaned on the inside but again did his best. This time, they finished next to last.
 
-Meanwhile his son was getting discouraged and Culberson had begun to loathe the entire process. So when year 3 rolled around, they took a different approach. Father and son agreed to forgo speed for style, this year, their goal would be to win the design award instead of the speed award. This changed everything.
+Meanwhile, his son was getting discouraged and Culberson had begun to loathe the entire process. So when year 3 rolled around, they took a different approach. Father and son agreed to forgo speed for style, this year, their goal would be to win the design award instead of the speed award. This changed everything.
 
 Culberson disliked the process of trying to build a fast car because he wasn’t good at it. The whole experience became one design mistake after another. Each car was a disastrous mess of chipped corners, broken axles, and glue, he recalls. When we went for style, however, I got a second wind.
 
@@ -489,29 +537,31 @@ After all, you’re probably going to do the enjoyable things anyway. You’re g
 <a id="sec-010035"></a>
 ### ⏱️ [01:00:35 - 01:05:36]
 
-or relax in your hot tub at some point. So why not pair it with running on the treadmill or doing the dishes or returning phone calls? Perhaps that seems obvious. But how long have you tried to force yourself to do the important but difficult thing through sheer determination, instead of making it fun?
+or relax in your hot tub at some point. So why not pair it with running on the treadmill or doing the dishes or returning phone calls? Perhaps, that seems obvious. But how long have you tried to force yourself to do the important but difficult thing through sheer determination, instead of making it fun?
 
-One leader I have worked with sees running on a treadmill every day as an essential habit. Yet he was inconsistent about it until he paired it with an enjoyable daily practice he never missed, listening to his favorite daily podcast. Now he gets to listen to the podcast only if he is walking or running on the treadmill. He doesn’t reward himself after he has finished his workout, he rewards himself during.
+One leader. I have worked with sees running on a treadmill every day as an essential habit. Yet he was inconsistent about it until he paired it with an enjoyable daily practice he never missed, listening to his favorite daily podcast. Now he gets to listen to the podcast only if he is walking or running on the treadmill.
 
-Ever since he made this essential practice enjoyable, he has found it easy to continue doing it consistently. Work easy, play easy as a family, we eat together every night. It’s an essential ritual for us. We make it enjoyable by starting the meal with toasts, praising one another for the accomplishments of the day and expressing what we are thankful for.
+He doesn’t reward himself after he has finished his workout, he rewards himself during. Ever since he made this essential practice enjoyable, he has found it easy to continue doing it consistently. Work easy, play easy as a family, we eat together every night. It’s an essential ritual for us.
 
-After dinner is when it all starts to break down. When it’s time to clear the dinner table and clean up the kitchen it is amazing to see how quickly and how stealthily our children disappear. They are like ninjas, silently slipping away to their bedrooms without the slightest sound or disturbance. Then comes the unenviable job of calling them back, one by one, to do the clean up work.
+We make it enjoyable by starting the meal with toasts, praising one another for the accomplishments of the day and expressing what we are thankful for. After dinner is when it all starts to break down. When it’s time to clear the dinner table and clean up the kitchen it is amazing to see how quickly and how stealthily our children disappear. They are like ninjas, silently slipping away to their bedrooms without the slightest sound or disturbance.
 
-It feels less like parenting and more like a game of cat and mouse. The excuses, I need to go to the bathroom or I have homework, are frustratingly hard to argue with. It’s exhausting, and our children obviously don’t care for it either. They feel bossed around, and they’re frustrated with the whole thing too.
+Then comes the unenviable job of calling them back, one by one, to do the clean up work. It feels less like parenting and more like a game of cat and mouse. The excuses, I need to go to the bathroom or. I have homework, are frustratingly hard to argue with.
 
-This is necessary work, but it’s unenjoyable for everyone involved. So we decided to approach it in a different way. We remagined it as a game. Together, we created a scoreboard, every person was assigned clear responsibilities, like wiping down all of the surfaces or sweeping the floor.
+It’s exhausting, and our children obviously don’t care for it either. They feel bossed around, and they’re frustrated with the whole thing too. This is necessary work, but it’s unenjoyable for everyone involved. So we decided to approach it in a different way.
 
-For each one completed, they would earn a point. After a few practice rounds, it was game on. And here’s what happened, nothing. Dinner was over, and the children, once again, were mysteriously gone.
+We remagined it as a game. Together, we created a scoreboard, every person was assigned clear responsibilities, like wiping down all of the surfaces or sweeping the floor. For each one completed, they would earn a point. After a few practice rounds, it was game on.
 
-The ninjas were back in full effect. It wasn’t until my eldest daughter added a new ingredient that everything changed. She put on a playlist of Disney classics the kinds of songs that make you want to sing along. And we played them loud.
+And here’s what happened, nothing. Dinner was over, and the children, once again, were mysteriously gone. The ninjas were back in full effect. It wasn’t until my eldest daughter added a new ingredient that everything changed.
 
-It turned the whole thing into a karaoke party. We now do this regularly. And no matter how grumpy we might feel on any given day, it’s impossible not to get pulled in.
+She put on a playlist of Disney classics the kinds of songs that make you want to sing along. And we played them loud. It turned the whole thing into a karaoke party. We now do this regularly.
 
-Now, if you were to drop in on us after dinner, you’d find us belting out let it go from frozen, dancing to I just can’t wait to be king from the Lion King, laughing through I’ll make a man out of you from Mulan. It looks like the famous scene where Tom Cruise and Brian Brown make drinks together in the movie Cocktail. We are sweeping, wiping, washing, drying, and putting away dishes, and all the while we’re laughing, dancing, and singing. Don’t underestimate the power of the right soundtrack to ditch the drudgery and get into a groove.
+And no matter how grumpy we might feel on any given day, it’s impossible not to get pulled in. Now, if you were to drop in on us after dinner, you’d find us belting out let it go from frozen, dancing to. I just can’t wait to be king from the Lion King, laughing through. I’ll make a man out of you from Mulan.
 
-Create building blocks of joy it’s not just that work and play can coexist, it’s that they can complement each other. Together they make it easier to tap into our creativity and come up with novel ideas and solutions. Take O. L.
+It looks like the famous scene where Tom Cruise and Brian Brown make drinks together in the movie Cocktail. We are sweeping, wiping, washing, drying, and putting away dishes, and all the while we’re laughing, dancing, and singing. Don’t underestimate the power of the right soundtrack to ditch the drudgery and get into a groove. Create building blocks of joy it’s not just that work and play can coexist, it’s that they can complement each other.
 
-E. Kirk Christensen, who had the idea to turn his struggling carpentry business into a toy company while tinkering in his empty warehouse. He called his company Lego, from the Danish term Leg God, which means play well. When the Second World War disrupted the toy business, instead of giving up and shuttering his factories, he stayed curious as plastics entered mass production, eventually creating Lego’s first automatic binding brick, a breakthrough that led to a whole new suite of products.
+Together they make it easier to tap into our creativity and come up with novel ideas and solutions. Take O. L. E.
+
+Kirk Christensen, who had the idea to turn his struggling carpentry business into a toy company while tinkering in his empty warehouse. He called his company Lego, from the Danish term Leg God, which means play well. When the Second World War disrupted the toy business, instead of giving up and shuttering his factories, he stayed curious as plastics entered mass production, eventually creating Lego’s first automatic binding brick, a breakthrough that led to a whole new suite of products.
 
 Later, Christensen and his team invited children to their offices and in watching them play were inspired to develop entire play systems-towns complete with people, buildings, roads and cars which exponentially increased their business. Even to this day, Lego’s offices bustle with activity and joy. And this culture of productive play continues to fuel their creativity, spawning everything from Legoland theme parks around the world, to video games, to TV shows and blockbuster Lego movies. In 2015 Lego was named the world’s most powerful brand.
 
@@ -521,17 +571,19 @@ It’s also a powerful example of how playing hard can make hard work feel effor
 <a id="sec-010536"></a>
 ### ⏱️ [01:05:36 - 01:10:41]
 
-In the same way that Lego created automatic binding bricks designed to be stacked and attached in all sorts of combinations you too can stack and combine your most essential and most joyful activities to construct new effortless experiences. Anna and I once made our own list of 20 building blocks of joy and shared them with each other. They included tidying up a room or drawer or cupboard that was a mess, i.e., creating order from chaos, listening to a particular song, on repeat, again and again, and eating dark chocolate covered almonds.
+In the same way that Lego created automatic binding bricks designed to be stacked and attached in all sorts of combinations you too can stack and combine your most essential and most joyful activities to construct new effortless experiences. Anna and. I once made our own list of 20 building blocks of joy and shared them with each other. They included tidying up a room or drawer or cupboard that was a mess, i.e., creating order from chaos, listening to a particular song, on repeat, again and again, and eating dark chocolate covered almonds.
 
-These lists were easy to create. And once we had them it became even easier to create signature experiences that were essential and enjoyable. We started with something that was vitally important but also complete drudgery, our weekly financial meeting. I say weekly, but in reality it was far less frequent, as it was something I often put off in favor of almost any other activity.
+These lists were easy to create. And once we had them it became even easier to create signature experiences that were essential and enjoyable. We started with something that was vitally important but also complete drudgery, our weekly financial meeting. I say weekly, but in reality it was far less frequent, as it was something.
 
-I knew that once we endured it, there would be a payoff, the feeling that we had our finances in order. But because the reward happened after the fact, it was easy to put off the meeting. So we often did. Armed with our building blocks of joy, we decided to build a new experience we’d look forward to, we got out the dark chocolate covered almonds.
+I often put off in favor of almost any other activity. I knew that once we endured it, there would be a payoff, the feeling that we had our finances in order. But because the reward happened after the fact, it was easy to put off the meeting. So we often did.
 
-We put on feeling goodbye Michael Bublé in the background, on repeat. We treated it more like a date than a mundane obligation. That was when I noticed an element of the meeting I’d previously overlooked, the whole exercise involved tidying up a messy area, the family finances. Just noticing that creating order out of chaos was a part of the experience gave me a tangible and immediate benefit.
+Armed with our building blocks of joy, we decided to build a new experience we’d look forward to, we got out the dark chocolate covered almonds. We put on feeling goodbye Michael Bublé in the background, on repeat. We treated it more like a date than a mundane obligation. That was when.
 
-We turned a task we had in the past barely endured into a ritual we looked forward to. Create habits with a soul much has been written on habits. Less has been written about rituals. These terms are sometimes used interchangeably.
+I noticed an element of the meeting. I’d previously overlooked, the whole exercise involved tidying up a messy area, the family finances. Just noticing that creating order out of chaos was a part of the experience gave me a tangible and immediate benefit. We turned a task we had in the past barely endured into a ritual we looked forward to.
 
-But behavioral economists insist they are not the same thing at all. Rituals are similar to habits in the sense that when I do X, I also do Y. But they are different from habits because of one key component, the psychological satisfaction you experience when you do them. Habits explain what you do, but rituals are about how you do it.
+Create habits with a soul much has been written on habits. Less has been written about rituals. These terms are sometimes used interchangeably. But behavioral economists insist they are not the same thing at all.
+
+Rituals are similar to habits in the sense that when. I do X, I also do Y. But they are different from habits because of one key component, the psychological satisfaction you experience when you do them. Habits explain what you do, but rituals are about how you do it.
 
 Rituals make essential habits easier to sustain by infusing the habits with meaning. For example, think of Marie Kondo’s approach to tidying up. She doesn’t simply invite us to get rid of the things cluttering our closets, she suggests a ritual for letting go. We are to thank the item we are discarding.
 
@@ -545,27 +597,29 @@ No matter how silly these behaviors may seem on the surface, doing them consiste
 
 When we invite joy into our daily routine, we are no longer yearning for the far off day when it might arrive. That day is always today. When we attach small fragments of wonder to mundane tasks, we are no longer waiting for the time when we can finally allow ourselves to relax. That time is always now.
 
-As fun and laughs lighten more of our moments, we are drawn back further toward our natural, playful effortless state. C3 release the power of letting go I was staring back at myself in a mirror. Fully dressed in an authentic stormtrooper costume. The moment was the culmination of a decades-long dream I had harbored ever since one of my older brothers planted an idea in my six-year-old mind, wouldn’t it be so cool to own a real
+As fun and laughs lighten more of our moments, we are drawn back further toward our natural, playful effortless state. C3 release the power of letting go. I was staring back at myself in a mirror. Fully dressed in an authentic stormtrooper costume.
+
+The moment was the culmination of a decades-long dream. I had harbored ever since one of my older brothers planted an idea in my six-year-old mind, wouldn’t it be so cool to own a real
 
 
 <a id="sec-011041"></a>
 ### ⏱️ [01:10:41 - 01:15:45]
 
-stormtrooper costume like they have in the movies? The combination of the hype around the Return of the Jedi release, along with the instant appeal of any suggestion coming from an older sibling, burned this idea into my mind. It resided there quietly, unquestioned, until I was standing in the store thirty years later looking at myself costumed from head to toe. In that moment I clearly saw that not one part of me actually wanted to own a stormtrooper costume.
+stormtrooper costume like they have in the movies? The combination of the hype around the Return of the Jedi release, along with the instant appeal of any suggestion coming from an older sibling, burned this idea into my mind. It resided there quietly, unquestioned, until. I was standing in the store thirty years later looking at myself costumed from head to toe.
 
-The idea had been added as a to-do in my brain three decades before, then had slipped beneath my consciousness. Evidently, it had been in my head all this time, taking up mental space. Do you have any items like this, living rent-free in your mind? Outdated goals, suggestions, or ideas that snuck into your brain long ago and took up permanent residence?
+In that moment. I clearly saw that not one part of me actually wanted to own a stormtrooper costume. The idea had been added as a to-do in my brain three decades before, then had slipped beneath my consciousness. Evidently, it had been in my head all this time, taking up mental space.
 
-Mindsets that have outlived their usefulness but have been part of you for so long, you barely even notice them. Anna now uses a shorthand phrase with me to describe this experience. When I think of acting on some suggestion without giving it the proper consideration, she will ask me, is this a stormtrooper? Intruders take many forms, regrets that continue to haunt us, grudges we can’t seem to let go of, expectations that were realistic at some point but are now getting in our way.
+Do you have any items like this, living rent-free in your mind? Outdated goals, suggestions, or ideas that snuck into your brain long ago and took up permanent residence? Mindsets that have outlived their usefulness but have been part of you for so long, you barely even notice them. Anna now uses a shorthand phrase with me to describe this experience.
 
-These intruders are like unnecessary applications running in the background of your computer, slowing down all its other functionality. At first they might not seem to affect your speed and agility. But as they keep accumulating, one after another, eventually your operating system starts to run slower. You forget the name of someone you just met.
+When. I think of acting on some suggestion without giving it the proper consideration, she will ask me, is this a stormtrooper? Intruders take many forms, regrets that continue to haunt us, grudges we can’t seem to let go of, expectations that were realistic at some point but are now getting in our way. These intruders are like unnecessary applications running in the background of your computer, slowing down all its other functionality.
 
-You read and reread the same paragraph without comprehending it. Your brain hurts trying to make simple decisions like what groceries to buy at the store. Tiny mistakes expand their footprint in your brain and start seeming like huge failures. To reclaim that space in your brain, you need to send these stormtroopers packing.
+At first they might not seem to affect your speed and agility. But as they keep accumulating, one after another, eventually your operating system starts to run slower. You forget the name of someone you just met. You read and reread the same paragraph without comprehending it.
 
-Focus on what you have the French author Guy de Maupassant tells the story of one Maitre Hachicorn, an industrious man who strove to be an upstanding member of his community that is, until he was falsely accused of an act he did not commit. His supposed crime was picking up someone’s lost wallet off the sidewalk, in fact, it was a piece of string, and failing to return it. He was innocent, but the rumor spread from neighbor to neighbor, and soon people in the town where he lived started to judge him harshly.
+Your brain hurts trying to make simple decisions like what groceries to buy at the store. Tiny mistakes expand their footprint in your brain and start seeming like huge failures. To reclaim that space in your brain, you need to send these stormtroopers packing. Focus on what you have the French author Guy de Maupassant tells the story of one Maitre Hachicorn, an industrious man who strove to be an upstanding member of his community that is, until he was falsely accused of an act he did not commit.
 
-They began treating him differently. In short, they ostracized him. He could have let the matter go. He could have forgiven his accusers for refusing to hear his side of the story.
+His supposed crime was picking up someone’s lost wallet off the sidewalk, in fact, it was a piece of string, and failing to return it. He was innocent, but the rumor spread from neighbor to neighbor, and soon people in the town where he lived started to judge him harshly. They began treating him differently. In short, they ostracized him.
 
-He could have quietly allowed for their error, taken solace in the fact that his conscience was clear. And, in doing so, he could have gone on to be useful and industrious in service of his community as he had originally intended.
+He could have let the matter go. He could have forgiven his accusers for refusing to hear his side of the story. He could have quietly allowed for their error, taken solace in the fact that his conscience was clear. And, in doing so, he could have gone on to be useful and industrious in service of his community as he had originally intended.
 
 However, he couldn’t let go of it. He obsessed about it. He became ill over it. It consumed him, weakened him, and ultimately killed him.
 
@@ -615,27 +669,35 @@ And even though they no longer work together, they are friends to this day. B. J
 <a id="sec-012046"></a>
 ### ⏱️ [01:20:46 - 01:25:47]
 
-Design Lab at Stanford University, says that to create a new habit we simply need to look for something we already do and then attach a new behavior to it. He calls this a habit recipe, the simplest version of which is, after X I will Y. We can apply this idea to make gratitude a habit, by using the following recipe, after I complain I will say something I am thankful for. The moment I started applying this recipe, I was shocked to realize how much I was complaining.
+Design Lab at Stanford University, says that to create a new habit we simply need to look for something we already do and then attach a new behavior to it. He calls this a habit recipe, the simplest version of which is, after X I will Y. We can apply this idea to make gratitude a habit, by using the following recipe, after. I complain.
 
-I think of myself as a positive, optimistic person. But once I started paying attention, I realized that I was actually complaining quite a lot, often without any awareness. So I resolved to attach gratitude to each and every complaint. When I caught myself saying, getting through airport security was a hassle today, I would add, I am thankful to be safely on the plane.
+I will say something. I am thankful for. The moment. I started applying this recipe, I was shocked to realize how much.
 
-After grumbling, my son didn’t get to his math homework yet, I would say, I am thankful he is so interested in the new book he is reading. After bemoaning the fact that I was expecting to have lost more weight this week, I would add, I am thankful I am watching my weight and my health. After a couple of days of using this rule, I noticed I would start to catch myself mid-complaint and quickly finish my sentence with words of gratitude. It wasn’t long before I would catch myself simply thinking about complaining and I would think of something I was thankful for instead.
+I was complaining. I think of myself as a positive, optimistic person. But once. I started paying attention, I realized that.
 
-At first this shift was deliberate and hard, then it was deliberate and easier, then, eventually, effortless. Relieve a grudge of its duties Chris Williams knew what mattered in his life. His family wasn’t just the most important thing, for him, it was the only thing. Then, one freezing night in February 2007, the car he was driving was hit broadside by an erratic teenage driver.
+I was actually complaining quite a lot, often without any awareness. So. I resolved to attach gratitude to each and every complaint. When.
 
-Williams’s wife, their unborn baby, his 9-year-old daughter, and his 11-year-old son were all killed. His 6-year-old son was seriously injured, and his 14-year-old son, who was at a friend’s house at the time of the crash, would never be the same after that day. We would all expect Chris to be swallowed up, body and soul, by this experience. None of us would fault him for being overcome by fury through his grief.
+I caught myself saying, getting through airport security was a hassle today, I would add, I am thankful to be safely on the plane. After grumbling, my son didn’t get to his math homework yet, I would say, I am thankful he is so interested in the new book he is reading. After bemoaning the fact that. I was expecting to have lost more weight this week, I would add, I am thankful.
 
-It’s the most natural thing to imagine, his resentment closing around him, scarring him, following him around for decades. Which is what made Williams’s choice in that moment so breathtaking. Minutes after the crash, sitting amid the twisted metal and broken bodies, Williams had an eye of the storm moment of clarity. Not the next day, not a year later, but right there, at this unimaginably violent scene, he saw two possible lives ahead of him.
+I am watching my weight and my health. After a couple of days of using this rule, I noticed. I would start to catch myself mid-complaint and quickly finish my sentence with words of gratitude. It wasn’t long before.
 
-The first future was one where he indulged his rage and bitterness, born in that moment. Choosing that future, he knew, meant he would be carrying the burden of those emotions for the rest of his life. It meant passing on those burdens to his surviving sons, inflicting emotional scars that might never heal. The second future was one free from those burdens one where he could be present for his surviving children as they recovered from the physical and psychological trauma they had sustained.
+I would catch myself simply thinking about complaining and. I would think of something. I was thankful for instead. At first this shift was deliberate and hard, then it was deliberate and easier, then, eventually, effortless.
 
-It was one filled with purpose and meaning. It might have been the harder choice to make in that moment, but it was unquestionably the one that would lead to an easier life. In that remarkable moment, he decided to forgive. That is not to say he did not feel anger, or did not suffer, because he did.
+Relieve a grudge of its duties Chris Williams knew what mattered in his life. His family wasn’t just the most important thing, for him, it was the only thing. Then, one freezing night in February 2007, the car he was driving was hit broadside by an erratic teenage driver. Williams’s wife, their unborn baby, his 9-year-old daughter, and his 11-year-old son were all killed.
 
-But what he didn’t do was make the suffering even harder for himself by wallowing in resentment and fury. Instead, he turned his energy, his life force, toward letting go. Have you ever held on to a grudge against people who hurt you? Wasted precious mental energy being angry, hurt, annoyed, or resentful?
+His 6-year-old son was seriously injured, and his 14-year-old son, who was at a friend’s house at the time of the crash, would never be the same after that day. We would all expect Chris to be swallowed up, body and soul, by this experience. None of us would fault him for being overcome by fury through his grief. It’s the most natural thing to imagine, his resentment closing around him, scarring him, following him around for decades.
 
-How long has the wound been festering? Weeks. Months. Years.
+Which is what made Williams’s choice in that moment so breathtaking. Minutes after the crash, sitting amid the twisted metal and broken bodies, Williams had an eye of the storm moment of clarity. Not the next day, not a year later, but right there, at this unimaginably violent scene, he saw two possible lives ahead of him. The first future was one where he indulged his rage and bitterness, born in that moment.
 
-Decades. Williams’s story shows the opposite pattern. And if he could choose the path of forgiveness after the unthinkable tragedy he endured, surely we can all let go of the grudges that we have been holding on to, which have made it harder to focus on the things we truly care about. A good first step we can take is to ask this unusual question, what job have I hired this grudge to do?
+Choosing that future, he knew, meant he would be carrying the burden of those emotions for the rest of his life. It meant passing on those burdens to his surviving sons, inflicting emotional scars that might never heal. The second future was one free from those burdens one where he could be present for his surviving children as they recovered from the physical and psychological trauma they had sustained. It was one filled with purpose and meaning.
+
+It might have been the harder choice to make in that moment, but it was unquestionably the one that would lead to an easier life. In that remarkable moment, he decided to forgive. That is not to say he did not feel anger, or did not suffer, because he did. But what he didn’t do was make the suffering even harder for himself by wallowing in resentment and fury.
+
+Instead, he turned his energy, his life force, toward letting go. Have you ever held on to a grudge against people who hurt you? Wasted precious mental energy being angry, hurt, annoyed, or resentful? How long has the wound been festering?
+
+Weeks. Months. Years. Decades.
+
+Williams’s story shows the opposite pattern. And if he could choose the path of forgiveness after the unthinkable tragedy he endured, surely we can all let go of the grudges that we have been holding on to, which have made it harder to focus on the things we truly care about. A good first step we can take is to ask this unusual question, what job have. I hired this grudge to do?
 
 According to the late Clayton Christensen, a Harvard Business School professor who had been named the world’s top management thinker, people don’t really buy products or services. Rather, they hire them to do a job. In a similar way, we often hire a grudge to fulfill an emotional need that is not currently
 
@@ -657,23 +719,23 @@ Again, this feels freeing in the short term, but in the long term our prize is n
 
 We think the grudge creates emotional armor. But this too turns out to be a scam. The grudge makes us more vulnerable, more fearful. It becomes harder to trust, to let anybody in.
 
-I once worked with a highly profitable firm. They were operating at one million dollars of revenue per employee. While we were discussing how to remain entrepreneurial and lean as they scaled their enterprise, I suggested a rule of thumb I thought might sound a little harsh. It was this, hire slow, fire fast.
+I once worked with a highly profitable firm. They were operating at one million dollars of revenue per employee. While we were discussing how to remain entrepreneurial and lean as they scaled their enterprise, I suggested a rule of thumb. I thought might sound a little harsh.
 
-It is a good rule of thumb for growing a business and a good rule of thumb for building a grudge free life. With grudges, we should hire slow, or not at all, and fire fast. Except what you can’t control the shock of the diagnosis hit my friend Jonathan Cullen like a train. His unborn son, Tristan, had Down Syndrome.
+It was this, hire slow, fire fast. It is a good rule of thumb for growing a business and a good rule of thumb for building a grudge free life. With grudges, we should hire slow, or not at all, and fire fast. Except what you can’t control the shock of the diagnosis hit my friend Jonathan Cullen like a train.
 
-After he was born, Tristan spent months in the neonatal ICU battling life-threatening health issues. Jonathan’s control over the situation was waning by the day, and the more helpless he felt, the more his worry overwhelmed him. Some of his friends stepped up, they sent meals, they called, they offered support and comfort. Yet others faded away.
+His unborn son, Tristan, had Down Syndrome. After he was born, Tristan spent months in the neonatal ICU battling life-threatening health issues. Jonathan’s control over the situation was waning by the day, and the more helpless he felt, the more his worry overwhelmed him. Some of his friends stepped up, they sent meals, they called, they offered support and comfort.
 
-These reactions confused Jonathan and his wife. Months into the ordeal, Jonathan realized he had to accept the reality of his friend’s behavior. He knew he couldn’t change them, all he could do was accept them for who they were. The friends who always sprang into action and helped out in a crisis were the ones calling, sending food, anticipating what he and his wife needed without even having to ask.
+Yet others faded away. These reactions confused Jonathan and his wife. Months into the ordeal, Jonathan realized he had to accept the reality of his friend’s behavior. He knew he couldn’t change them, all he could do was accept them for who they were.
 
-Meanwhile his more passive friends who tended to retreat when times got tough were the ones frozen in inaction. The behavior was probably not malicious. It certainly wasn’t out of character. And maybe it shouldn’t have even been that unexpected.
+The friends who always sprang into action and helped out in a crisis were the ones calling, sending food, anticipating what he and his wife needed without even having to ask. Meanwhile, his more passive friends who tended to retreat when times got tough were the ones frozen in inaction. The behavior was probably not malicious. It certainly wasn’t out of character.
 
-When someone shows you who they are, believe them the first time, said Maya Angelou. So Jonathan decided to start believing them. He let go of his unrealistic expectations for how he wished they would behave. He accepted reality as it was and would be.
+And maybe it shouldn’t have even been that unexpected. When someone shows you who they are, believe them the first time, said Maya Angelou. So Jonathan decided to start believing them. He let go of his unrealistic expectations for how he wished they would behave.
 
-Only then could he find true acceptance, the necessary first step toward a new trajectory for his life. For after all, as Henry Wadsworth Longfellow wrote, the best thing one can do when it is raining, is to let it rain. When we let go of our need to punish those who’ve hurt us, it’s not the culprit who is freed. We are freed.
+He accepted reality as it was and would be. Only then could he find true acceptance, the necessary first step toward a new trajectory for his life. For after all, as Henry Wadsworth Longfellow wrote, the best thing one can do when it is raining, is to let it rain. When we let go of our need to punish those who’ve hurt us, it’s not the culprit who is freed.
 
-When we surrender grudges and complaints in favor of grace and compassion, it’s not an equal exchange. It’s a coup. And with every trade, we return closer to the calm of our effortless state. C4 rest the art of doing nothing Jerry Swale is an eye surgeon who tried to do it all for a long, long time.
+We are freed. When we surrender grudges and complaints in favor of grace and compassion, it’s not an equal exchange. It’s a coup. And with every trade, we return closer to the calm of our effortless state.
 
-His wife recalls how he would sit with his head in his hands and say,
+C4 rest the art of doing nothing Jerry Swale is an eye surgeon who tried to do it all for a long, long time. His wife recalls how he would sit with his head in his hands and say,
 
 
 <a id="sec-013049"></a>
@@ -697,15 +759,15 @@ Joe Mattin, the manager of the Los Angeles Angels, has learned that professional
 
 But the baseball season is long. With 162 games, teams can go through stretches where they play almost every day for a month and a half. By the time the playoffs come in the fall, many players are spent.
 
-However, Mattin sees the advantage of a different approach. He said, “I didn’t have enough chance to do nothing last offseason.” I want more of an opportunity to do nothing, and I mean that in a positive way. When you get this downtime, to be able to do nothing well, that’s my goal. One way he has implemented the art of doing nothing with his players is by instigating American Legion Week.
+However, Mattin sees the advantage of a different approach. He said, “I didn’t have enough chance to do nothing last offseason.”. I want more of an opportunity to do nothing, and. I mean that in a positive way.
 
-The week is held during the dog days of August, when player performance often D. I. Ps. But instead of cramming in hours of pregame practice, he told his players to just show up for the game.
+When you get this downtime, to be able to do nothing well, that’s my goal. One way he has implemented the art of doing nothing with his players is by instigating American Legion Week. The week is held during the dog days of August, when player performance often D. I.
 
-He encouraged them to sleep in, take naps, and arrive fresh, the same way they did when they were teenagers, as amateurs. It’s not that Mattin isn’t interested in his players performing at their best. Of course, he wants a team of elite players playing the best baseball of their careers. He simply believes that regular spurts of doing nothing are the best way to achieve that.
+Ps. But instead of cramming in hours of pregame practice, he told his players to just show up for the game. He encouraged them to sleep in, take naps, and arrive fresh, the same way they did when they were teenagers, as amateurs. It’s not that Mattin isn’t interested in his players performing at their best.
 
-He said, if you treat it that way, it keeps their minds fresher. And if their mind is fresher, they’ll play a better game. Mattin’s approach has had a transformative impact not only on the Angels but on the other teams he’s coached over the past decade as well. After he launched American Legion Week with Tampa Bay, the Devil Rays made it to the World Series within a year.
+Of course, he wants a team of elite players playing the best baseball of their careers. He simply believes that regular spurts of doing nothing are the best way to achieve that. He said, if you treat it that way, it keeps their minds fresher. And if their mind is fresher, they’ll play a better game.
 
-When he brought it with him to Chicago, the Cubs won the most games in the league over the next four years, including the World Series in 2016.
+Mattin’s approach has had a transformative impact not only on the Angels but on the other teams he’s coached over the past decade as well. After he launched American Legion Week with Tampa Bay, the Devil Rays made it to the World Series within a year. When he brought it with him to Chicago, the Cubs won the most games in the league over the next four years, including the World Series in 2016.
 
 
 <a id="sec-013558"></a>
@@ -729,17 +791,17 @@ Every muscle in her arms was straining. One more pull skyward and she’d be the
 
 She was allowed to try again. But by this point she had broken down, emotionally and mentally. She tried again but couldn’t do it. So she gave up.
 
-The following year, Debstir decided to hire Ben Bergeron as her coach. When I spoke with Bergeron on my podcast, I asked him about that 2014 competition. He told me that if at that stalled moment she had taken even one minute to rest physically and reset mentally before resuming, she would have finished the climb and made it into the finals. Think about that, taking just one minute to get into the right state, the effortless state, in order to take advantage of the body’s amazing ability to rapidly recover would have made all the difference for her on that day.
+The following year, Debstir decided to hire Ben Bergeron as her coach. When. I spoke with Bergeron on my podcast, I asked him about that 2014 competition. He told me that if at that stalled moment she had taken even one minute to rest physically and reset mentally before resuming, she would have finished the climb and made it into the finals.
 
-So Bergeron immediately shifted her approach. Her entire life became about five things, training, recovery, nutrition, sleep, and mindset. And the results have been remarkable. That year, with Bergeron as her coach, Debstir not only qualified for the championship games but became the 2015 champion.
+Think about that, taking just one minute to get into the right state, the effortless state, in order to take advantage of the body’s amazing ability to rapidly recover would have made all the difference for her on that day. So Bergeron immediately shifted her approach. Her entire life became about five things, training, recovery, nutrition, sleep, and mindset. And the results have been remarkable.
 
-She was crowned fittest woman on earth. The following year, 2016, she did it again.
+That year, with Bergeron as her coach, Debstir not only qualified for the championship games but became the 2015 champion. She was crowned fittest woman on earth. The following year, 2016, she did it again.
 
-In fact, as of this writing she has finished in the top five every year for the past five years. When we are struggling, instead of doubling down on our efforts, we might consider pausing the action even for one minute. We don’t need to fight these natural rhythms. We can flow with them. We can use them to our advantage.
+In fact, as of this writing she has finished in the top five every year for the past five years. When we are struggling, instead of doubling down on our efforts, we might consider pausing the action even for one minute. We don’t need to fight these natural rhythms. We can flow with them.
 
-We can alternate between periods of exertion and renewal. Lack of sleep is killing us does it sometimes seem like you’re sleeping a lot less than you used to. Collectively we all are, research shows that today we get less sleep almost two hours less on average than 50 years ago. This is not inconsequential.
+We can use them to our advantage. We can alternate between periods of exertion and renewal. Lack of sleep is killing us does it sometimes seem like you’re sleeping a lot less than you used to. Collectively we all are, research shows that today we get less sleep almost two hours less on average than 50 years ago.
 
-People who sleep less than seven hours a night are more likely to suffer from cardiovascular disease, heart attack, stroke, asthma,
+This is not inconsequential. People who sleep less than seven hours a night are more likely to suffer from cardiovascular disease, heart attack, stroke, asthma,
 
 
 <a id="sec-014059"></a>
@@ -747,11 +809,13 @@ People who sleep less than seven hours a night are more likely to suffer from ca
 
 arthritis, depression, and diabetes and are almost eight times more likely to be overweight. Sleep deprivation is insidious. In one study, people who got less than six hours of sleep per night saw a decline in their motor skills and their cognitive abilities and nodded off more frequently. No surprise.
 
-But even more concerning was the finding that we are quite bad at noticing the cumulative impact sleep deprivation has on our minds and bodies. We tend to think that after a few nights in a row of insufficient sleep we can simply reset, we tell ourselves all we need is one solid night to catch up. But as this study revealed, we are actually racking up sleep debt for every night we don’t get the ideal seven or eight hours of shut eye. By day 10, subjects had racked up so much sleep debt, they were experiencing the same effects as the participants who had not slept for an entire night.
+But even more concerning was the finding that we are quite bad at noticing the cumulative impact sleep deprivation has on our minds and bodies. We tend to think that after a few nights in a row of insufficient sleep we can simply reset, we tell ourselves all we need is one solid night to catch up. But as this study revealed, we are actually racking up sleep debt for every night we don’t get the ideal seven or eight hours of shut eye.
 
-While they claimed to feel only slightly sleepy, their performance suggested otherwise. As the study’s author explains, routine nightly sleep for fewer than six hours results in cognitive performance deficits, even if we feel we have adapted to it. Getting more sleep may be the single greatest gift we can give our bodies, our minds, and even, it turns out, our bottom lines. Go Deep Sean Wise is a professor of entrepreneurship at Ryerson University in Toronto, Canada.
+By day 10, subjects had racked up so much sleep debt, they were experiencing the same effects as the participants who had not slept for an entire night. While they claimed to feel only slightly sleepy, their performance suggested otherwise. As the study’s author explains, routine nightly sleep for fewer than six hours results in cognitive performance deficits, even if we feel we have adapted to it. Getting more sleep may be the single greatest gift we can give our bodies, our minds, and even, it turns out, our bottom lines.
 
-Over his two decades in the venture capital industry, where he specialized in supporting high-growth ventures at the seed stage, he has worked with many highly driven founders operating in high-risk, high-pressure environments. In other words, he knows a lot of people who don’t get enough sleep. The Silicon Valley mythology would have us believe that the founders of the most disruptive, world-changing companies have no time for something as trivial as sleep. After all, the origin stories of most successful start-ups tend to involve caffeine-fueled founders coding in a trance-like state for days and nights on end, until they ultimately emerge, pale and wild-eyed from lack of sleep, with their billion-dollar idea.
+Go Deep Sean Wise is a professor of entrepreneurship at Ryerson University in Toronto, Canada. Over his two decades in the venture capital industry, where he specialized in supporting high-growth ventures at the seed stage, he has worked with many highly driven founders operating in high-risk, high-pressure environments.
+
+In other words, he knows a lot of people who don’t get enough sleep. The Silicon Valley mythology would have us believe that the founders of the most disruptive, world-changing companies have no time for something as trivial as sleep. After all, the origin stories of most successful start-ups tend to involve caffeine-fueled founders coding in a trance-like state for days and nights on end, until they ultimately emerge, pale and wild-eyed from lack of sleep, with their billion-dollar idea.
 
 Wise’s observations differ substantially from this narrative. I have seen firsthand that poor sleep quality and slash or an insufficient sleep quantity undermines the mindsets of founders, he says, making them harder to work with and less resilient, which in turn reduces the probability of start-up success. This is not surprising when you consider the research showing that sleep problems may undermine alertness, creativity and social competence all critical qualities for high-striving entrepreneurs. Having seen firsthand how better sleep quality leads to more innovative thinking, Wise decided to experiment with his own sleep.
 
@@ -771,31 +835,35 @@ Why the hot shower? Recent sleep science found that participants who used water-
 
 The lead author explains that the warm water triggers our body’s cooling mechanism, sending warmer blood from our core outward and shedding heat through our hands and feet. This efficient removal of body heat and decline in body temperature speeds up the natural cooling that makes it easier to fall asleep. After four weeks Wise’s deep sleep shot up to almost two hours a night, an 800% increase. His uninterrupted sleep went up 20%.
 
-He felt sharper, more creative, and more present. He woke up feeling refreshed and ready to tackle another day. As Wise points out, we spend a third of our lives asleep. Perhaps it is time for you to evaluate if you could be doing it better.
+He felt sharper, more creative, and more present. He woke up feeling refreshed and ready to tackle another day. As Wise points out, we spend a third of our lives asleep. Perhaps, it is time for you to evaluate if you could be doing it better.
 
-FFTakenE ortlessNAP I’ll admit I don’t always get the optimal amount of deep or quality sleep at night. But I am a champion napper. Luckily for me, research shows that naps can counter the sleep debt.
+FFTakenE ortlessNAP I’ll admit. I don’t always get the optimal amount of deep or quality sleep at night. But. I am a champion napper.
 
-In fact, naps can improve performance in reaction time, logical reasoning, and symbol recognition even in well-rested people. They can improve mood, making us less impulsive and frustrated. In one study, a nap was as beneficial for some types of memory as a full night’s sleep. What’s amazing is that in a 90-minute nap, you can get the same learning benefits as an eight-hour sleep period, the researcher says.
+Luckily for me, research shows that naps can counter the sleep debt. In fact, naps can improve performance in reaction time, logical reasoning, and symbol recognition even in well-rested people. They can improve mood, making us less impulsive and frustrated. In one study, a nap was as beneficial for some types of memory as a full night’s sleep.
 
-The idea of taking regular naps is appealing to most people I have spoken with. Yet they find it almost impossible to do in practice. What makes it so hard? We are conditioned to feel guilty when we nap instead of getting things done.
+What’s amazing is that in a 90-minute nap, you can get the same learning benefits as an eight-hour sleep period, the researcher says. The idea of taking regular naps is appealing to most people. I have spoken with. Yet they find it almost impossible to do in practice.
 
-It’s a perfect storm of the fear of missing out, the false economy of powering through, and the stigma of napping as something just plain lazy or even childish. Much has been written about the corrosive effects of today’s hustle culture in which we wear comments like I just don’t need a lot of sleep or who has the time to sleep? Not me, as a badge of honor. But in fact, sleep-shaming is a timeless tradition.
+What makes it so hard? We are conditioned to feel guilty when we nap instead of getting things done. It’s a perfect storm of the fear of missing out, the false economy of powering through, and the stigma of napping as something just plain lazy or even childish. Much has been written about the corrosive effects of today’s hustle culture in which we wear comments like.
 
-The historian and presidential biographer Ron Chernow tells the story of how, when U. S. Civil War hero Ulysses S. Grant attempted to go to bed at 11 o’clock. The night before an important battle, one of his commanders pointedly reminded him that Napoleon indulged in only four hours of sleep every night and still preserved all the vigor of his mental faculties. Grant, who regularly got seven hours, was dubious and replied, well I for one never believed those stories.
+I just don’t need a lot of sleep or who has the time to sleep? Not me, as a badge of honor. But in fact, sleep-shaming is a timeless tradition. The historian and presidential biographer Ron Chernow tells the story of how, when U.
 
-If truth were known, I have no doubt that it would be found that he made up for his short sleep at night by taking naps during the day. It’s about time we started thinking about naps differently. The recipe for taking an effortless nap is as follows, one notice when your fatigue has gotten to the point that you feel it is real work to concentrate. 2. Block out light and noise using an eye mask and a noise canceler or earplugs. 3.
+S. Civil War hero Ulysses S. Grant attempted to go to bed at 11 o’clock. The night before an important battle, one of his commanders pointedly reminded him that Napoleon indulged in only four hours of sleep every night and still preserved all the vigor of his mental faculties.
 
-Set an alarm for a desired time. 4. As you try to fall asleep, banish all thoughts about what you could be doing. Your to-do’s will all still be there when you wake up. Only now, you’ll be able to get them done faster, and with greater ease.
+Grant, who regularly got seven hours, was dubious and replied, well. I for one never believed those stories. If truth were known, I have no doubt that it would be found that he made up for his short sleep at night by taking naps during the day. It’s about time we started thinking about naps differently.
 
-The first few times, this may take some effort. You may not actually fall asleep. But keep trying. Once you’ve figured out the time of day you’re likely to need a nap, block your calendar for it.
+The recipe for taking an effortless nap is as follows, one notice when your fatigue has gotten to the point that you feel it is real work to concentrate. 2. Block out light and noise using an eye mask and a noise canceler or earplugs. 3. Set an alarm for a desired time. 4. As you try to fall asleep, banish all thoughts about what you could be doing.
 
-With some practice, naps will become effortless and guilt-free. Slumber with a key Salvador Dali’s best-known painting, The Persistence of Memory, appears to be set in a realistic rocky landscape of Dali’s native Catalonia. But like much of surrealist art, the piece has a bizarre dream-like quality. Clocks have lost their integrity and melt in the sun like camembert cheese.
+Your to-do’s will all still be there when you wake up. Only now, you’ll be able to get them done faster, and with greater ease. The first few times, this may take some effort. You may not actually fall asleep.
 
-A lone fly produces a shadow with a human form. A swarm of ants gather. Painted at the height of the surrealist movement in 1931, the work catapulted Dali into global prominence. Dali’s influences were the art of the Impressionist period and the Renaissance.
+But keep trying. Once you’ve figured out the time of day you’re likely to need a nap, block your calendar for it. With some practice, naps will become effortless and guilt-free. Slumber with a key Salvador Dali’s best-known painting, The Persistence of Memory, appears to be set in a realistic rocky landscape of Dali’s native Catalonia.
 
-His formal education was in fine arts in Madrid. Given this background, we would expect Dali to have painted accurate, lifelike depictions. How, then, did he break free from these classical techniques to create haunting juxtapositions between reality and dreams? He napped at least the surrealist version of a nap.
+But like much of surrealist art, the piece has a bizarre dream-like quality. Clocks have lost their integrity and melt in the sun like camembert cheese. A lone fly produces a shadow with a human form. A swarm of ants gather.
 
-Dali would sit in a chair, wrists dangling over the edges of the armrests. In one hand, he would grip a heavy metal key between his thumb and forefinger. On the floor, directly underneath the key, he would place an upside-down plate. Dali would close his eyes and relax.
+Painted at the height of the surrealist movement in 1931, the work catapulted Dali into global prominence. Dali’s influences were the art of the Impressionist period and the Renaissance. His formal education was in fine arts in Madrid. Given this background, we would expect Dali to have painted accurate, lifelike depictions.
+
+How, then, did he break free from these classical techniques to create haunting juxtapositions between reality and dreams? He napped at least the surrealist version of a nap. Dali would sit in a chair, wrists dangling over the edges of the armrests. In one hand, he would grip a heavy metal key between his thumb and forefinger.
+
+On the floor, directly underneath the key, he would place an upside-down plate. Dali would close his eyes and relax.
 
 
 <a id="sec-015105"></a>
@@ -809,17 +877,19 @@ If you are seeking inspiration, the easiest thing you can do is rest your eyes. 
 
 We return to our effortless state. C5 notice how to see clearly Sir Arthur Conan Doyle’s character Sherlock Holmes is among the best known and most widely portrayed literary characters in film and television history. So it might surprise you to learn that the private detective appeared in only four of Doyle’s 45 novels. Part of what makes his character so compelling and so memorable is his unparalleled skill of observation.
 
-His keenest ability is to notice the tiniest of details the rest of us miss. It’s an ability illustrated and discussed in Doyle’s 1,891 short story A Scandal in Bohemia. The story begins with perennial narrator Dr. John H. Watson visiting his friend Holmes at his famous 221B Baker Street, London, address.
+His keenest ability is to notice the tiniest of details the rest of us miss. It’s an ability illustrated and discussed in Doyle’s 1,891 short story A Scandal in Bohemia. The story begins with perennial narrator Dr. John H.
 
-Holmes surprises Watson, asking, How do I know that you have been getting yourself very wet lately, and that you have a most clumsy and careless servant girl? Dumbfounded, Watson confirms that he took a country walk earlier in the week and indeed returned muddy. But he cannot understand how Holmes could possibly have known such a thing. Holmes responds that it is simplicity itself, on the inside of Watson’s left shoe, just where the light from a fire would land, the leather is scored by six almost parallel cuts.
+Watson visiting his friend Holmes at his famous 221B Baker Street, London, address. Holmes surprises Watson, asking, How do. I know that you have been getting yourself very wet lately, and that you have a most clumsy and careless servant girl? Dumbfounded, Watson confirms that he took a country walk earlier in the week and indeed returned muddy.
 
-Holmes reasons that the marks were caused by a careless assistant scraping mud from the shoe by firelight. Watson asks Holmes why his explanation seems so obvious, yet so out of reach until shared. I believe that my eyes are as good as yours, Watson says. Quite so, Holmes responds, throwing himself down into an armchair.
+But he cannot understand how Holmes could possibly have known such a thing. Holmes responds that it is simplicity itself, on the inside of Watson’s left shoe, just where the light from a fire would land, the leather is scored by six almost parallel cuts. Holmes reasons that the marks were caused by a careless assistant scraping mud from the shoe by firelight. Watson asks Holmes why his explanation seems so obvious, yet so out of reach until shared.
 
-You see, but you do not observe. Holmes then asks him how many steps there are leading up from the hall downstairs. Watson has traversed the staircase hundreds of times. Yet he has no answer.
+I believe that my eyes are as good as yours, Watson says. Quite so, Holmes responds, throwing himself down into an armchair. You see, but you do not observe. Holmes then asks him how many steps there are leading up from the hall downstairs.
 
-You have not observed, Holmes says, triumphant. And yet you have seen. As Watson reflects on this conversation, he says, the exchange really shook me. Feverishly, I tried to remember how many steps there were in our own house, how many led up to our front door, I couldn’t.
+Watson has traversed the staircase hundreds of times. Yet he has no answer. You have not observed, Holmes says, triumphant. And yet you have seen.
 
-And for a long time afterward, I tried to count stairs and steps whenever I could, lodging the proper number in my memory in case anyone ever called upon me to report. I’d make Holmes proud, of course, I’d promptly forget each number I had so diligently tried to remember and it wasn’t until later that I realized that by focusing so intently on memorization, I’d missed the point entirely and was actually being less, not more observant. Many of us can easily relate to the distress Watson articulates in this story.
+As Watson reflects on this conversation, he says, the exchange really shook me. Feverishly, I tried to remember how many steps there were in our own house, how many led up to our front door, I couldn’t. And for a long time afterward, I tried to count stairs and steps whenever. I could, lodging the proper number in my memory in case anyone ever called upon me to report.
+
+I’d make Holmes proud, of course, I’d promptly forget each number. I had so diligently tried to remember and it wasn’t until later that. I realized that by focusing so intently on memorization, I’d missed the point entirely and was actually being less, not more observant. Many of us can easily relate to the distress Watson articulates in this story.
 
 After all, who among us hasn’t had the experience of someone pointing out something painfully obvious, ever-present or easily observable in our environment that we have never noticed? Watson viewed Holmes’s seemingly superhuman ability to deduce a series of accurate facts from seemingly insignificant clues as something akin to magic. But of course, this is not magic. It is the difference between seeing and observing, between watching and noticing, between being and being present.
 
@@ -849,9 +919,9 @@ This dizzying exercise is designed to improve Curry’s attention by building wh
 
 He doesn’t bulldoze like LeBron or fly like Michael. His advantages are subtler. The remarkable quickness and off-the-charts shooting skills are ones that everyone knows about already. But the evidence also points to Curry being an extreme outlier it wouldn’t be wrong to say genius in his ability to process sensory input, even in the most stressful, complex and fast-moving situations.
 
-In simplistic terms, he’s seeing more of the game, allowing him to exploit opponents' positioning to create shots. find passing lanes, and force turnovers. Warriors coach Steve Kerr says that with regard to hand-eye coordination Curry is as great as anyone I’ve ever seen. And Curry is now widely regarded as the best shooter in NBA history. Recent science helps explain why.
+In simplistic terms, he’s seeing more of the game, allowing him to exploit opponents' positioning to create shots. find passing lanes, and force turnovers. Warriors coach Steve Kerr says that with regard to hand-eye coordination Curry is as great as anyone. I’ve ever seen. And Curry is now widely regarded as the best shooter in NBA history.
 
-One study found that by training our attentional muscles we can improve our processing of complex information moving at great speed. Non-professional athletes from the English Premier League, the National Hockey League, and the French Rugby League as well as elite non-professional athletes and non-athletes participated in a virtual simulation with eight balls that criss-crossed and bounced off each other and the virtual walls. They were told to follow the trajectory of four of them, and when the balls stopped, the participants had to identify the ones they had followed.
+Recent science helps explain why. One study found that by training our attentional muscles we can improve our processing of complex information moving at great speed. Non-professional athletes from the English Premier League, the National Hockey League, and the French Rugby League as well as elite non-professional athletes and non-athletes participated in a virtual simulation with eight balls that criss-crossed and bounced off each other and the virtual walls. They were told to follow the trajectory of four of them, and when the balls stopped, the participants had to identify the ones they had followed.
 
 If they did so correctly, the simulation sped up in the next round, exactly as in Payne’s drills with Curry. The results revealed, perhaps unsurprisingly, that professional athletes were better at processing complex, fast-moving information than the other groups.
 
@@ -869,7 +939,7 @@ According to the Gottmans, we all make small and large attempts to obtain affect
 
 The first type of response is what they call turning toward. It’s when you come home, give your beloved a peck on the cheek, and say something like it’s lovely weather today, isn’t it? And your beloved might reply, oh, I agree. Isn’t it beautiful?
 
-Perhaps we should open some windows. Here your partner is like the person on the other side of the court receiving your serve and hitting a solid ground stroke straight to where you are standing. It couldn’t be easier to hit the ball back, and so the volley continues. The second kind of response is turning against.
+Perhaps, we should open some windows. Here your partner is like the person on the other side of the court receiving your serve and hitting a solid ground stroke straight to where you are standing. It couldn’t be easier to hit the ball back, and so the volley continues. The second kind of response is turning against.
 
 This is where your partner might respond to your comment about the weather by saying, you really think so? I think it’s much too hot out today. I don’t enjoy this humidity at all. In this case, they have hit the ball back over the net, but to the complete opposite side of the court, where you have to sprint to reach it.
 
@@ -883,7 +953,9 @@ But there are ways we can make it easier to keep a relationship strong. We don�
 
 The curious power of presence Ronald Epstein felt his anxiety spike as an older doctor walked in and examined his ears, throat, neck, chest and abdomen in what was an unremarkable visit in every way but one. The diagnosis, prognosis and prescribed course of treatment were unsurprising and were delivered in less time than it had taken Epstein to eat breakfast that morning. But here’s the remarkable thing, the doctor had sat in that examination room and answered the nervous 17-year-old’s questions as if there were no other patients on his schedule that day.
 
-As Epstein went to sleep that night he was already changed by the experience although he didn’t fully understand how. The experience stayed with him during his two-week recovery from what turned out to be nothing more than a typical cold and virus. It stayed with him as he met with guidance counselors and answered the banal questions all adults ask all teenagers about what they plan to do after high school, and as he filled out the essays on college applications. And it was still with him as he trudged around campus heaving a backpack heavy enough to
+As Epstein went to sleep that night he was already changed by the experience although he didn’t fully understand how. The experience stayed with him during his two-week recovery from what turned out to be nothing more than a typical cold and virus. It stayed with him as he met with guidance counselors and answered the banal questions all adults ask all teenagers about what they plan to do after high school, and as he filled out the essays on college applications.
+
+And it was still with him as he trudged around campus heaving a backpack heavy enough to
 
 
 <a id="sec-020611"></a>
@@ -899,7 +971,9 @@ What are we to make of these one word stories? These are not timid descriptions.
 
 They were describing a person who was fully present for them. When we are fully present with another person, we see them more clearly. And we help them see themselves more clearly as well. The clearness committee we all have people in our lives who come to us because they are struggling to see a problem or decision clearly.
 
-But often we unwittingly make it harder for them by jumping to judgment. We are too eager to say, oh, you should x, or I don’t know why you didn’t do y in the first place, or if I were you I would z. Such quick judgments, however well-intentioned, make it harder for people to gain clarity, for two reasons.
+But often we unwittingly make it harder for them by jumping to judgment. We are too eager to say, oh, you should x, or. I don’t know why you didn’t do y in the first place, or if. I were you.
+
+I would z. Such quick judgments, however well-intentioned, make it harder for people to gain clarity, for two reasons.
 
 First, when people fear being judged, it drowns out their inner voice. They are able to focus only on what they think we want to hear, rather than on what they actually see or feel.
 
@@ -907,13 +981,13 @@ Second, the moment our judgments and opinions are voiced, they compete for the l
 
 The purpose is to help them figure it out for themselves. And in order to do this, the committee must remove judgment from the equation. When they gather, the focus person begins by sharing what the dilemma is and why it matters. The committee listens silently.
 
-After the context is given, the elders have a few choices, they can ask honest questions, which are clarifying questions they could not know the answer to. They can reflect or repeat back what they have heard. Opinions, advice and judgment are out of bounds. As Parker Palmer, an expert in the clearness committee process, has written, each of us has an inner teacher, a voice of truth, that offers the guidance and power we need to deal with our problems. The intent of the exercise is to help people amplify this inner voice and gain clarity on how to move forward.
+After the context is given, the elders have a few choices, they can ask honest questions, which are clarifying questions they could not know the answer to. They can reflect or repeat back what they have heard. Opinions, advice and judgment are out of bounds. As Parker Palmer, an expert in the clearness committee process, has written, each of us has an inner teacher, a voice of truth, that offers the guidance and power we need to deal with our problems.
 
-We can help people in our lives do the same by putting aside our own opinions, advice or judgment completely, by putting the other person’s truth above our own. The greatest gift we can offer to others is not our skill or our money or our effort. It is simply us. None of us have infinite reserves of focus and attention to give away.
+The intent of the exercise is to help people amplify this inner voice and gain clarity on how to move forward. We can help people in our lives do the same by putting aside our own opinions, advice or judgment completely, by putting the other person’s truth above our own. The greatest gift we can offer to others is not our skill or our money or our effort. It is simply us.
 
-But in the effortless state, it becomes far easier to give the gift of our intentional focus to the people and things we really care about. How can we call up this state of heightened perception and focus on demand? I recommend the following daily practice. 1. Prepare your space, 2 minutes, find a quiet place.
+None of us have infinite reserves of focus and attention to give away. But in the effortless state, it becomes far easier to give the gift of our intentional focus to the people and things we really care about. How can we call up this state of heightened perception and focus on demand? I recommend the following daily practice. 1.
 
-Turn off your phone. Let people know you will be taking 10 minutes.
+Prepare your space, 2 minutes, find a quiet place. Turn off your phone. Let people know you will be taking 10 minutes.
 
 
 <a id="sec-021112"></a>
@@ -927,29 +1001,35 @@ Relax your mind, 2 minutes, it’s natural for your mind to be full of thoughts.
 
 Release your heart, 2 minutes, if thoughts of someone who has wronged you arise, say, I forgive you, and imagine you are cutting a chain that tethers you to them. 5. Breathe in gratitude, 2 minutes, relieve a moment in your life that you are really thankful for. Experience it again, using all of your senses. Remember where you were, how you felt, and who you were with.
 
-Really breathe the gratitude in. Repeat this step three times. F F an Eortless summary F F part I, Eortless state F F what is the Eortless state? F F the Eortless state is an experience many of us have had when we are physically rested, emotionally unburdened, and mentally energized.
+Really breathe the gratitude in. Repeat this step three times. F F an Eortless summary F F part. I, Eortless state F F what is the Eortless state?
 
-You are completely aware, alert, present, attentive, and focused on what’s important in this moment. You are able to focus on what matters most with ease. Invert instead of asking, why is this so hard, invert the question by asking, what if this could be easy? Challenge the assumption that the right way is, inevitably, the harder one.
+F F the Eortless state is an experience many of us have had when we are physically rested, emotionally unburdened, and mentally energized. You are completely aware, alert, present, attentive, and focused on what’s important in this moment. You are able to focus on what matters most with ease. Invert instead of asking, why is this so hard, invert the question by asking, what if this could be easy?
 
-F I make the impossible possible by ending an indirect approach. When faced with work that feels overwhelming, ask, how am I making this harder than it needs to be? Enjoy peer the most essential activities with the most enjoyable ones. Accept that work and play can coexist.
+Challenge the assumption that the right way is, inevitably, the harder one. F I make the impossible possible by ending an indirect approach. When faced with work that feels overwhelming, ask, how am. I making this harder than it needs to be?
 
-Turn tedious tasks into meaningful rituals. Allow laughter and fun to lighten more of your moments. Release let go of emotional burdens you don’t need to keep carrying. Remember, when you focus on what you lack, you lose what you have.
+Enjoy peer the most essential activities with the most enjoyable ones. Accept that work and play can coexist. Turn tedious tasks into meaningful rituals. Allow laughter and fun to lighten more of your moments.
 
-When you focus on what you have, you get what you lack. Use this habit recipe, each time I complain I will say something I am thankful for. Relieve a grudge of its duties by asking, what job have I hired this grudge to do? Rest discover the art of doing nothing.
+Release let go of emotional burdens you don’t need to keep carrying. Remember, when you focus on what you lack, you lose what you have. When you focus on what you have, you get what you lack. Use this habit recipe, each time.
 
-Do not do more today than you can completely recover from by tomorrow. Lock down essential work into three sessions of no more than 90 minutes each. F F take an E ortless nap. Notice achieve a state of heightened awareness by harnessing the power of presence.
+I complain. I will say something. I am thankful for. Relieve a grudge of its duties by asking, what job have.
 
-Train your brain to focus on the important and ignore the irrelevant. To see others more clearly, set aside your opinions, advice and judgment, and put their truth above your own. Clear the clutter in your physical environment before clearing the clutter in your mind. While Ari Silverberg is a dynamicist at North Carolina State University.
+I hired this grudge to do? Rest discover the art of doing nothing. Do not do more today than you can completely recover from by tomorrow. Lock down essential work into three sessions of no more than 90 minutes each.
 
-That simply means he is an expert in the movement of physical things. For example, he has studied the movement of millions of free throws over 20 years. One thing he has found over the years is that the most important factor for successfully shooting a free throw is the speed at which you release the ball. To achieve the kinesthetic sweet spot takes practice and muscle memory.
+F F take an E ortless nap. Notice achieve a state of heightened awareness by harnessing the power of presence. Train your brain to focus on the important and ignore the irrelevant. To see others more clearly, set aside your opinions, advice and judgment, and put their truth above your own.
 
-The goal is to get to the point where you try without trying where your movement becomes smooth. with, natural, and instinctive. That is what is meant by effortless action. If you try too hard when shooting a free throw, you’ll tense up and move too fast. This is similar to what happens to many overachievers who have been conditioned to believe that more effort leads to better outcomes.
+Clear the clutter in your physical environment before clearing the clutter in your mind. While Ari Silverberg is a dynamicist at North Carolina State University. That simply means he is an expert in the movement of physical things.
 
-When they invest a lot of effort and don’t see the results they want, they lean in harder. They work longer hours. They obsess over the situation more. They are trained to see the lack of progress as a sign that yet more effort is required.
+For example, he has studied the movement of millions of free throws over 20 years. One thing he has found over the years is that the most important factor for successfully shooting a free throw is the speed at which you release the ball. To achieve the kinesthetic sweet spot takes practice and muscle memory. The goal is to get to the point where you try without trying where your movement becomes smooth. with, natural, and instinctive.
 
-What they haven’t learned is that, past a certain point, more effort doesn’t produce better performance. It sabotages our performance. Economists call this the law of diminishing returns, after a certain point, each extra unit of input produces a decreasing rate of output.
+That is what is meant by effortless action. If you try too hard when shooting a free throw, you’ll tense up and move too fast. This is similar to what happens to many overachievers who have been conditioned to believe that more effort leads to better outcomes. When they invest a lot of effort and don’t see the results they want, they lean in harder.
 
-For example, if I write for two hours I can produce two pages. But if I write for four hours I can produce three pages. The rate of output is slowing down. More effort at this point should be questioned.
+They work longer hours. They obsess over the situation more. They are trained to see the lack of progress as a sign that yet more effort is required. What they haven’t learned is that, past a certain point, more effort doesn’t produce better performance.
+
+It sabotages our performance. Economists call this the law of diminishing returns, after a certain point, each extra unit of input produces a decreasing rate of output.
+
+For example, if. I write for two hours. I can produce two pages. But if.
+
+I write for four hours. I can produce three pages. The rate of output is slowing down. More effort at this point should be questioned.
 
 But sometimes overachievers double down on effort. They see the reduced output and mistakenly think the answer is to push even harder.
 
@@ -963,7 +1043,7 @@ For example, there is a point in writing where you start making a manuscript wor
 
 Every ounce of extra effort you put in now is detrimental. It is an example of false economy to continue at this point. It’s not just that overall output suffers, it’s a recipe for burnout as well. This is an example of overexertion, or in everyday parlance, trying too hard.
 
-Perhaps you have experienced this yourself. Trying too hard in a social setting makes it harder to connect authentically with someone else. Trying too hard for a promotion can wreak of desperation and, therefore, make you seem less desirable. Trying too hard to get to sleep can make it almost impossible to wind down.
+Perhaps, you have experienced this yourself. Trying too hard in a social setting makes it harder to connect authentically with someone else. Trying too hard for a promotion can wreak of desperation and, therefore, make you seem less desirable. Trying too hard to get to sleep can make it almost impossible to wind down.
 
 Trying too hard to look intelligent rarely impresses the people you want to impress. Trying too hard to be cool, to relax, to feel good, all make it harder to be cool, relax, or feel good. What’s the trouble with overexertion? What’s curious about this approach is how different it is from our lived experience.
 
@@ -993,11 +1073,11 @@ voyage still unfinished and before it had been properly tested to ensure it coul
 
 As the cannons tipped into the sea, water entered through the gunports. Despite a strenuous, all-out effort on the part of the crew, water almost instantly flooded onto the gun deck and into the hold, further destabilizing the ship. Tragically, it took just 50 minutes for the Vasa to completely sink, taking 53 crew members with it. They died less than three-quarters of a mile from the shore.
 
-And so the most expensive naval project in Sweden’s history sailed less than a mile before being buried in the sea all because the king had made the project almost impossible to safely complete by constantly redefining what done looked like. If you want to make something hard, indeed truly impossible, to complete, all you have to do is make the end goal as vague as possible. That’s because you cannot, by definition, complete a project without a clearly defined end point. You can spin your wheels working on it.
+And so the most expensive naval project in Sweden’s history sailed less than a mile before being buried in the sea all because the king had made the project almost impossible to safely complete by constantly redefining what done looked like. If you want to make something hard, indeed truly impossible, to complete, all you have to do is make the end goal as vague as possible. That’s because you cannot, by definition, complete a project without a clearly defined end point.
 
-You can tinker with it. You can, and likely will, abandon it. But to get an important project done it’s absolutely necessary to define what done looks like. This insight may sound obvious.
+You can spin your wheels working on it. You can tinker with it. You can, and likely will, abandon it. But to get an important project done it’s absolutely necessary to define what done looks like.
 
-But if you think of most of the essential projects you are working on, how clear is your idea of what completion looks like? The heavy cost of light tinkering sometimes important projects remain undone because we keep tinkering with them endlessly.
+This insight may sound obvious. But if you think of most of the essential projects you are working on, how clear is your idea of what completion looks like? The heavy cost of light tinkering sometimes important projects remain undone because we keep tinkering with them endlessly.
 
 For example, my editor once received a compelling book proposal from an agent. She read it. The next day she received a new version, with an email saying, the authors made some changes. She read the new version, which seemed more or less identical.
 
@@ -1023,15 +1103,17 @@ Vague goal, launch my product.
 
 What done looks like, have 10 beta users try the app for a week and give feedback. Vague goal, complete podcast episode. By what done looks like, the podcast is recorded and the LE is uploaded. Make a done for the day list done isn’t always going to apply to an individual task or project.
 
-We have all experienced the overwhelmed feeling that comes from staring down the barrel of a seemingly infinite to do list one that has usually become longer by the end of the day than it was at the beginning. It creates an unwinnable war. So how do we know when the work of the day is done? Anna and I like to use a done for the day list.
+We have all experienced the overwhelmed feeling that comes from staring down the barrel of a seemingly infinite to do list one that has usually become longer by the end of the day than it was at the beginning. It creates an unwinnable war. So how do we know when the work of the day is done? Anna and.
 
-A done for the day list is not a list of everything we theoretically could do today, or a list of everything we would love to get done. These things will inevitably extend far beyond the limited time available. Instead, this is a list of what will constitute meaningful and essential progress. As you write the list, one test is to imagine how you will feel once this work is completed.
+I like to use a done for the day list. A done for the day list is not a list of everything we theoretically could do today, or a list of everything we would love to get done. These things will inevitably extend far beyond the limited time available. Instead, this is a list of what will constitute meaningful and essential progress.
 
-Ask yourself, if I complete everything on this list, will it leave me feeling satisfied by the end of the day? Is there some other important task that will haunt me all night if I don’t get to it? If your answer to the second question is yes, that is a task that should go on the done for the day list. The gift of nothing left undone Swedish death cleaning means getting rid of the clutter you have accumulated through your life while you are still alive.
+As you write the list, one test is to imagine how you will feel once this work is completed. Ask yourself, if. I complete everything on this list, will it leave me feeling satisfied by the end of the day? Is there some other important task that will haunt me all night if.
 
-It’s an alternative to the more typical practice of simply leaving this task for your loved ones to do for you later. It may sound morbid, but it can be a liberating process. You are getting your house in order. You are getting things done the way you want them done while you still can.
+I don’t get to it? If your answer to the second question is yes, that is a task that should go on the done for the day list. The gift of nothing left undone Swedish death cleaning means getting rid of the clutter you have accumulated through your life while you are still alive. It’s an alternative to the more typical practice of simply leaving this task for your loved ones to do for you later.
 
-And you are lifting a painful and inevitable burden for the people you care about. The philosophy behind Swedish death cleaning can apply to the way we live in other ways as well. For many years I have been inspired by the idea that, whether we’re aware of it or not, each one of us has an essential mission in life. We all harbor a sense of purpose, unique purpose, and it is our life’s work to figure out what that is and to achieve it.
+It may sound morbid, but it can be a liberating process. You are getting your house in order. You are getting things done the way you want them done while you still can. And you are lifting a painful and inevitable burden for the people you care about.
+
+The philosophy behind Swedish death cleaning can apply to the way we live in other ways as well. For many years. I have been inspired by the idea that, whether we’re aware of it or not, each one of us has an essential mission in life. We all harbor a sense of purpose, unique purpose, and it is our life’s work to figure out what that is and to achieve it.
 
 It’s the question what does done look like, writ large. I recently had a conversation with a friend who feels the weight of this question acutely. She has had two strokes over the past couple of years. The second one was so severe, her doctors weren’t sure she would survive it.
 
@@ -1041,11 +1123,11 @@ One is an autobiography. The other is an oral history of each of the pieces of h
 
 What if we could all give ourselves such a gift by approaching our life’s goals as if they were a Swedish death cleaning project? C7 start the first obvious action today, Netflix is found in 183 million households worldwide. So it’s almost hard to believe that it might not exist had Reed Hastings not been charged $40 by his local blockbuster for losing the VHS tape of the Tom Hanks classic Apollo 13 prompting him to wonder if there might be a better way for people to borrow movies.
 
-As a computer scientist who had studied at stan- Stanford University in the 1980s, Hastings believed that within a decade or so the average household internet connection would have the capacity to carry such massive amounts of data at such high speeds that entire movies could be instantly delivered on demand to one’s personal computer or TV. Hastings’s idea was to build Netflix as a DVD service first, and then eventually the internet would catch up with the postal system and pass it. Hastings’s ultimate vision for Netflix was a huge, complex undertaking, spanning many years and relying on technology that didn’t yet exist.
+As a computer scientist who had studied at stan- Stanford University in the 1980s, Hastings believed that within a decade or so the average household internet connection would have the capacity to carry such massive amounts of data at such high speeds that entire movies could be instantly delivered on demand to one’s personal computer or TV. Hastings’s idea was to build Netflix as a DVD service first, and then eventually the internet would catch up with the postal system and pass it.
 
-He could have started by laying out a multi-year, multi-phase process. He could have made projections about when the speed of the internet would surpass that of a FedEx truck hurtling down the highway, drafted multiple business plans for multiple scenarios, examined dozens or hundreds of variables such as the cost of shipping DVDs, the number of uses each disc can withstand, the losses the company could expect to take on unreturned or damaged DVDs, and so on. Instead, Hastings mailed himself a single CD.
+Hastings’s ultimate vision for Netflix was a huge, complex undertaking, spanning many years and relying on technology that didn’t yet exist. He could have started by laying out a multi-year, multi-phase process. He could have made projections about when the speed of the internet would surpass that of a FedEx truck hurtling down the highway, drafted multiple business plans for multiple scenarios, examined dozens or hundreds of variables such as the cost of shipping DVDs, the number of uses each disc can withstand, the losses the company could expect to take on unreturned or damaged DVDs, and so on.
 
-Hastings understood that unless DVDs could reliably be shipped through the mail and not get damaged or destroyed in transit the idea didn’t have a chance. So he and his co-founder, Mark Randolph, went to a record store in Santa Cruz and bought a used CD.
+Instead, Hastings mailed himself a single CD. Hastings understood that unless DVDs could reliably be shipped through the mail and not get damaged or destroyed in transit the idea didn’t have a chance. So he and his co-founder, Mark Randolph, went to a record store in Santa Cruz and bought a used CD.
 
 
 <a id="sec-023125"></a>
@@ -1059,21 +1141,27 @@ Having that single disc turned out to be the simplest, most obvious way to set t
 
 When you adopt this strategy, all you have to focus on is the very first step. We often get overwhelmed because we misjudge what the first step is, what we think is the first step is actually several steps. But once we break that step down into concrete, physical actions, that first obvious action begins to feel effortless. Productivity expert April Perry tells a story about a woman who needed help decluttering her living room.
 
-There were books everywhere, piles of books, boxes of books, books on top of the furniture, books covering just about every inch of surface, so many books that the room was barely usable. The woman knew that the solution to getting her books out of the living room was to buy bookshelves for her office. But even this seemingly simple solution felt overwhelming. If I brought you my computer right now, Perry asked her, could you just open it and order bookshelves?
+There were books everywhere, piles of books, boxes of books, books on top of the furniture, books covering just about every inch of surface, so many books that the room was barely usable. The woman knew that the solution to getting her books out of the living room was to buy bookshelves for her office. But even this seemingly simple solution felt overwhelming. If.
 
-Well, I’d like to, she replied, but first I need to measure my office walls and see which size I need to order. OK, Perry said. Could you go right now and measure your office walls? The woman replied that she could not, because she couldn’t find her tape measure.
+I brought you my computer right now, Perry asked her, could you just open it and order bookshelves? Well, I’d like to, she replied, but first. I need to measure my office walls and see which size. I need to order.
 
-At this point they both started laughing. Suddenly it became clear that the real reason this woman hadn’t made any progress was that she hadn’t, until that moment, named the first obvious step, find, borrow or buy a tape measure. That first step may seem too trivial to name. But more often than not, a step as tiny as buying a tape measure provides the momentum we need to take the next step, then the next step after that.
+OK, Perry said. Could you go right now and measure your office walls? The woman replied that she could not, because she couldn’t find her tape measure. At this point they both started laughing.
 
-I know many people who were inspired to try out Marie Kondo’s world famous method for tidying up their homes. They loved the idea of eliminating everything but the possessions that sparked joy for them. Unfortunately, some of them didn’t get quite that far. That’s because before you even get started, the Konmeri method requires you to tidy your entire house all at once.
+Suddenly, it became clear that the real reason this woman hadn’t made any progress was that she hadn’t, until that moment, named the first obvious step, find, borrow or buy a tape measure. That first step may seem too trivial to name. But more often than not, a step as tiny as buying a tape measure provides the momentum we need to take the next step, then the next step after that. I know many people who were inspired to try out Marie Kondo’s world famous method for tidying up their homes.
 
-The end state is, of course, desirable. But if the first step doesn’t feel doable, many people will simply give up before they start. An alternative is offered by Fumio Sasaki in Goodbye, Things. He suggests that the first action be discard something right now.
+They loved the idea of eliminating everything but the possessions that sparked joy for them. Unfortunately, some of them didn’t get quite that far. That’s because before you even get started, the Konmeri method requires you to tidy your entire house all at once. The end state is, of course, desirable.
 
-He urges readers, don’t wait till you have finished this book. The best way to go about it is to hone your skills as you part with your possessions. Why not close this book this very moment and discard something, this is the first step, right now. When I read that, I did just as Sasaki suggested, I stopped reading and discarded an old dried up marker.
+But if the first step doesn’t feel doable, many people will simply give up before they start. An alternative is offered by Fumio Sasaki in Goodbye, Things. He suggests that the first action be discard something right now. He urges readers, don’t wait till you have finished this book.
 
-It was so doable. And it felt good, so I spent ten more minutes discarding other things, old business cards, two short pencils, a pile of magazines I knew I’d never read, a tangled mess of charging cables I’d stashed away just in case I ever need them.
+The best way to go about it is to hone your skills as you part with your possessions. Why not close this book this very moment and discard something, this is the first step, right now. When. I read that, I did just as Sasaki suggested, I stopped reading and discarded an old dried up marker.
 
-In fact, while writing about this I was inspired to stop and discard the cardboard box that once held my not so new headphone set. And again I kept going, discarding even more things. Such is the power of taking the first, concrete, physical step, it ignites a subsequent surge of focused effortless action. One key tenet of Silicon Valley thinking, and design thinking more generally, is the
+It was so doable. And it felt good, so. I spent ten more minutes discarding other things, old business cards, two short pencils, a pile of magazines. I knew.
+
+I’d never read, a tangled mess of charging cables. I’d stashed away just in case. I ever need them.
+
+In fact, while writing about this. I was inspired to stop and discard the cardboard box that once held my not so new headphone set. And again. I kept going, discarding even more things.
+
+Such is the power of taking the first, concrete, physical step, it ignites a subsequent surge of focused effortless action. One key tenet of Silicon Valley thinking, and design thinking more generally, is the
 
 
 <a id="sec-023625"></a>
@@ -1087,19 +1175,19 @@ This principle always reminds me of the line from Shakespeare’s A Midsummer Ni
 
 A column of wind drops from a rain cloud at speeds of up to 60 miles per hour, hitting the ground with such force that it can fell fully grown trees. A microburst in April Perry’s vernacular is a 10-minute surge of focused activity that can have an immediate effect on our essential project. It’s the little burst of motivation and energy we get from taking that first obvious action. And from there your energy and your confidence only builds with every subsequent action.
 
-For example, essential project, remove the clutter from the garage. First obvious action, find the broom. Microburst, sweep out the shed and move the bikes into the shed. Essential project, launch a product.
+For example, essential project, remove the clutter from the garage. First, obvious action, find the broom. Microburst, sweep out the shed and move the bikes into the shed. Essential project, launch a product.
 
-First obvious action, open a cloud-based document to put ideas in. Microburst, brainstorm product features. Essential project, complete a large report. First obvious action, pick up a pen and a piece of paper.
+First, obvious action, open a cloud-based document to put ideas in. Microburst, brainstorm product features. Essential project, complete a large report.
 
-Microburst, draft an outline for the report. The power of 2.5 seconds in recent years neuroscientists and psychologists have found that the now we experience lasts only 2.5 seconds. This is our psychological present. One of the implications of this is that progress can happen in tiny increments. 2.5 seconds is enough time to shift our focus, to put the phone down, close the browser, take a deep breath.
+First, obvious action, pick up a pen and a piece of paper. Microburst, draft an outline for the report. The power of 2.5 seconds in recent years neuroscientists and psychologists have found that the now we experience lasts only 2.5 seconds. This is our psychological present.
 
-It’s enough time to open a book, take out a blank sheet of paper, lace up our running shoes, or open up the junk drawer and fish out our tape measure. Of course, 2.5 seconds is enough time to get caught up in non-essential activities too. The big tech companies understand this in their relentless competition for our attention. They are constantly testing new ways to offer us smaller units of information, 280 characters on Twitter, likes on Facebook and INST Agrom, news feeds we can scroll through and absorb at a glance.
+One of the implications of this is that progress can happen in tiny increments. 2.5 seconds is enough time to shift our focus, to put the phone down, close the browser, take a deep breath. It’s enough time to open a book, take out a blank sheet of paper, lace up our running shoes, or open up the junk drawer and fish out our tape measure. Of course, 2.5 seconds is enough time to get caught up in non-essential activities too.
 
-These bite-sized activities may not feel like wasting time after all, we think, what’s a few seconds? The trouble, of course, is that over time these activities rarely add up to making progress on the goals we hope to achieve. They are easy but pointless. When we’re struggling to name the first obvious action, we need to either make it a little easier to get started on what’s important now or make it a little harder to do something trivial instead.
+The big tech companies understand this in their relentless competition for our attention. They are constantly testing new ways to offer us smaller units of information, 280 characters on Twitter, likes on Facebook and INST Agrom, news feeds we can scroll through and absorb at a glance. These bite-sized activities may not feel like wasting time after all, we think, what’s a few seconds? The trouble, of course, is that over time these activities rarely add up to making progress on the goals we hope to achieve.
 
-Looking at that first step or action through the lens of 2.5 seconds is the change that makes every other change possible. It is the habit of habits. C8 simplify start with zero in February 1998, Perry Hartman left the four-story brick building at Second and Pike in Seattle, Washington, that served as Amazon’s headquarters for a meeting with Jeff Bezos and Shel Coffin, Amazon’s first employee and the head of software development. He walked the block or so to a microbrewery located at the famed Pike Place Market, to talk with them over lunch.
+They are easy but pointless. When we’re struggling to name the first obvious action, we need to either make it a little easier to get started on what’s important now or make it a little harder to do something trivial instead. Looking at that first step or action through the lens of 2.5 seconds is the change that makes every other change possible. It is the habit of habits.
 
-Bezos had called the meeting because he’d been thinking a lot about the checkout process
+C8 simplify start with zero in February 1998, Perry Hartman left the four-story brick building at Second and Pike in Seattle, Washington, that served as Amazon’s headquarters for a meeting with Jeff Bezos and Shel Coffin, Amazon’s first employee and the head of software development. He walked the block or so to a microbrewery located at the famed Pike Place Market, to talk with them over lunch. Bezos had called the meeting because he’d been thinking a lot about the checkout process
 
 
 <a id="sec-024128"></a>
@@ -1125,9 +1213,9 @@ We got an early start on the project. In fact, by the time we lost momentum we w
 
 It didn’t help that we had seen extravagant projects that other scouts had spent hundreds of hours on, or, in most cases, that their parents had spent hundreds of hours on, which further raised the bar for the amount of effort we thought we needed to exert to get this done. So the project stalled. Whenever we thought about picking it back up again, we felt overwhelmed. Days started to slip by with no progress being made.
 
-After a couple of weeks of this, I happened to be researching process simplification in complex organizations. Suddenly I could see it, we were making this process so much more complicated than it had to be. By adding so many steps even if just mentally we were making it harder for ourselves to take any steps at all. So we took a step back and asked, what are the minimum steps required to complete this?
+After a couple of weeks of this, I happened to be researching process simplification in complex organizations. Suddenly. I could see it, we were making this process so much more complicated than it had to be. By adding so many steps even if just mentally we were making it harder for ourselves to take any steps at all.
 
-We didn’t need to create a special wooden binder to put the report in. We didn’t have to include every single photo we had taken. We didn’t need to write up paragraph
+So we took a step back and asked, what are the minimum steps required to complete this? We didn’t need to create a special wooden binder to put the report in. We didn’t have to include every single photo we had taken. We didn’t need to write up paragraph
 
 
 <a id="sec-024630"></a>
@@ -1145,23 +1233,25 @@ What are the minimum steps required for completion? To be clear, identifying the
 
 In just about every realm, completion is infinitely better than adding superfluous steps that don’t add value. And completion is something to be proud of, in order to succeed at something, you have to get it done. Not everything needs the extra mile my best friend growing up consistently put in fewer hours of work than me but got better grades. His secret?
 
-When the teacher asked him to do something, he did what was asked and nothing more. That’s it. I would go deep, I’d read beyond what I was asked to do, research more than was needed. I could get so busy going the second mile I wouldn’t get the first mile done.
+When the teacher asked him to do something, he did what was asked and nothing more. That’s it. I would go deep, I’d read beyond what. I was asked to do, research more than was needed.
 
-Going the extra mile in ways that are essential is one thing, a surgeon taking the extra step to prevent infection at the site of an incision, for example. But adding unnecessary, superficial embellishments is quite another. Here is a rule I have found helpful, being asked to do X isn’t a good enough reason to do Y.
+I could get so busy going the second mile. I wouldn’t get the first mile done. Going the extra mile in ways that are essential is one thing, a surgeon taking the extra step to prevent infection at the site of an incision, for example. But adding unnecessary, superficial embellishments is quite another.
+
+Here is a rule. I have found helpful, being asked to do X isn’t a good enough reason to do Y.
 
 For example, being asked to do a presentation isn’t a good enough reason to create slides with videos and fancy graphics and pages upon pages of data. How often have you been forced to sit through a presentation with too many slides? Or too many words on each slide? Or too much of everything, period?
 
 Is that really the kind of experience you want to create for someone else? A tiny but pivotal moment in IBM’s legendary turnaround reveals a better approach. Lou Gerstner was new to his post as CEO and had invited Nick Donofrio, one of his executive leaders, to speak at a state of the company meeting. Gerstner recalls, at that time, the standard format of any important IBM meeting was a presentation using overhead projectors and graphics on transparencies that IBMers called and no one remembers Y-foils.
 
-Nick was on his second foil when I stepped to the table and, as politely as I could in front of his team, switched off the projector. After a long moment of awkward silence, I simply said, let’s just talk about your business. That’s what the goal for most presentations is supposed to be, to just talk about your business. So the next time you have to write a report, give a presentation, or make a sales pitch, resist the temptation to add unnecessary extras.
+Nick was on his second foil when. I stepped to the table and, as politely as. I could in front of his team, switched off the projector. After a long moment of awkward silence, I simply said, let’s just talk about your business.
 
-They aren’t just a distraction for you, they’re also a distraction for your audience. That’s why, when I do presentations, I use six slides, with fewer than 10 words total. There is rarely a need to go that second mile beyond what’s essential. It’s better to go just the first mile than to not go anywhere at all.
+That’s what the goal for most presentations is supposed to be, to just talk about your business. So the next time you have to write a report, give a presentation, or make a sales pitch, resist the temptation to add unnecessary extras. They aren’t just a distraction for you, they’re also a distraction for your audience. That’s why, when.
 
-Start with zero when a team of Apple’s best product designers met with Steve Jobs to present their design for what eventually became the IDVDA now-defunct application that allowed users to burn music, movies, and digital photo files stored on their computers onto a physical DVD they expected their boss to be wowed. It was a beautiful, clean design, and while it had a number of features and functions, they were proud of how they had streamlined the original version of the product, which had required a thousand-page user manual.
+I do presentations, I use six slides, with fewer than 10 words total. There is rarely a need to go that second mile beyond what’s essential. It’s better to go just the first mile than to not go anywhere at all. Start with zero when a team of Apple’s best product designers met with Steve Jobs to present their design for what eventually became the IDVDA now-defunct application that allowed users to burn music, movies, and digital photo files stored on their computers onto a physical DVD they expected their boss to be wowed.
 
-But as the team soon learned, Jobs had something else in mind. He walked to the whiteboard and drew a rectangle. Then he said, here’s the new application. It’s got one window.
+It was a beautiful, clean design, and while it had a number of features and functions, they were proud of how they had streamlined the original version of the product, which had required a thousand-page user manual. But as the team soon learned, Jobs had something else in mind. He walked to the whiteboard and drew a rectangle. Then he said, here’s the new application.
 
-You drag your video into the window. Then you click the button
+It’s got one window. You drag your video into the window. Then you click the button
 
 
 <a id="sec-025133"></a>
@@ -1169,29 +1259,31 @@ You drag your video into the window. Then you click the button
 
 that says burn. That’s it. That’s what we’re going to make. Mike Evangelist, one of the product designers in the meeting, was blown away.
 
-He said, “I still have the slides I prepared for that meeting, and they’re ridiculous in their complexity.” Only in retrospect could he clearly see that all this other stuff was completely in the way. Evangelist told me that his biggest aha was that he and his team had been looking at their process the wrong way. They had started with an immensely complicated product and attempted to pare it down. But Jobs came at it from the opposite angle.
+He said, “I still have the slides. I prepared for that meeting, and they’re ridiculous in their complexity.” Only in retrospect could he clearly see that all this other stuff was completely in the way. Evangelist told me that his biggest aha was that he and his team had been looking at their process the wrong way. They had started with an immensely complicated product and attempted to pare it down.
 
-He started at zero and tried to figure out the absolute minimum number of steps required to achieve the desired outcome. We’ve become so accustomed to the complexity of all the processes in our lives, we rarely stop to question it.
+But Jobs came at it from the opposite angle. He started at zero and tried to figure out the absolute minimum number of steps required to achieve the desired outcome. We’ve become so accustomed to the complexity of all the processes in our lives, we rarely stop to question it.
 
-For example, while writing this book, I launched a podcast. Originally, the instructions I was supposed to send to each guest who joined me on the podcast consisted of 15 steps, one login to zencastr.com using the following credentials, two username, xyz3, password, abc4. Click the link in the Zencastra email you receive shortly before the interview time. Five to ensure best quality audio, when prompted by Chrome, allow notifications from Zencastra.
+For example, while writing this book, I launched a podcast. Originally, the instructions. I was supposed to send to each guest who joined me on the podcast consisted of 15 steps, one login to zencastr.com using the following credentials, two username, xyz3, password, abc4. Click the link in the Zencastra email you receive shortly before the interview time.
 
-Six bookmark Zencastra, click the star icon on the right side of the URL bar in Chrome. As a fail save to step three. Seven confirm that the mic health check says past. Eight if it doesn’t, click the tab at the bottom center of the soundbar rectangle with your name to see what the issue is, click the link and troubleshoot.
+Five to ensure best quality audio, when prompted by Chrome, allow notifications from Zencastra. Six bookmark Zencastra, click the star icon on the right side of the URL bar in Chrome. As a fail save to step three. Seven confirm that the mic health check says past.
 
-Nine confirm you can hear me and we can speak to each other via Zencastra. Ten click the zoom link I email to you, it should also be in the calendar invite. Eleven once it lets you into the zoom video, immediately mute the zoom microphone. Twelve enable video on zoom.
+Eight if it doesn’t, click the tab at the bottom center of the soundbar rectangle with your name to see what the issue is, click the link and troubleshoot. Nine confirm you can hear me and we can speak to each other via Zencastra. Ten click the zoom link. I email to you, it should also be in the calendar invite.
 
-Thirteen once I hit recording on both Zencastra and zoom, confirm that you can see the recording icons on both and perform a clap test with me. Fourteen then we will get started. Fifteen once completed, please log out of Zencastra before you close the window. This was overwhelming for me even to read, never mind for guests to actually follow and do.
+Eleven once it lets you into the zoom video, immediately mute the zoom microphone. Twelve enable video on zoom. Thirteen once. I hit recording on both Zencastra and zoom, confirm that you can see the recording icons on both and perform a clap test with me.
 
-So I started from zero. I asked myself, what is the minimum number of steps someone could take to chat with me via Zencastra? Once I had my answer, I reduced the process to this, one click the link in the Zencastra email you received shortly before the interview. Two I’ll start and end the recording so all you need to do is chat.
+Fourteen then we will get started. Fifteen once completed, please log out of Zencastra before you close the window. This was overwhelming for me even to read, never mind for guests to actually follow and do. So.
 
-That was it. Just two easy steps. If there are processes in your life that seem to involve an inordinate number of steps, try starting from zero. Then see if you can find your way back to those same results, only take fewer steps.
+I started from zero. I asked myself, what is the minimum number of steps someone could take to chat with me via Zencastra? Once. I had my answer, I reduced the process to this, one click the link in the Zencastra email you received shortly before the interview.
 
-Maximize the steps not taken in February 2001, 17 independent minded people met at the lodge at Snowbird, a ski resort in Utah, up in the Wasatch Mountains, to relax, talk, eat, ski, and discuss software. What came out of their conversations that weekend was a now widely read document called the Manifesto for Agile Software Development. In it, they codified a set of principles for developing better software by removing obstacles and friction to create an effortless user experience. One of the twelve principles of the Agile Manifesto states, simplicity the art of maximizing the amount of work not done is essential.
+Two. I’ll start and end the recording so all you need to do is chat. That was it. Just two easy steps.
 
-By this they mean that the goal is to create value for the customer, and if this can be done with less code and fewer features, that is exactly what ought to be done. While this principle refers to the process of software development, we can adapt it to any everyday process by saying, simplicity the art of maximizing the steps not taken is essential.
+If there are processes in your life that seem to involve an inordinate number of steps, try starting from zero. Then see if you can find your way back to those same results, only take fewer steps. Maximize the steps not taken in February 2001, 17 independent minded people met at the lodge at Snowbird, a ski resort in Utah, up in the Wasatch Mountains, to relax, talk, eat, ski, and discuss software. What came out of their conversations that weekend was a now widely read document called the Manifesto for Agile Software Development.
 
-In other words, regardless of what our ultimate goal is, we should focus on only those steps that add value. Every non-essential step comes with an opportunity cost, so for each non-essential step removed, we gain more time, energy, and cognitive resources to put toward what’s essential. You might be surprised at how many seemingly complex goals can be obtained, and how many seemingly complex tasks can be completed, in just a few steps. As sports writer Andy Benoit observes, most geniuses prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities.
+In it, they codified a set of principles for developing better software by removing obstacles and friction to create an effortless user experience. One of the twelve principles of the Agile Manifesto states, simplicity the art of maximizing the amount of work not done is essential. By this they mean that the goal is to create value for the customer, and if this can be done with less code and fewer features, that is exactly what ought to be done.
 
-C9 progressed the courage to be rubbish in 1959 a British industrialist named Henry Creamer had a dream of a future where human-powered flight was possible for the masses. Determined to do
+While this principle refers to the process of software development, we can adapt it to any everyday process by saying, simplicity the art of maximizing the steps not taken is essential. In other words, regardless of what our ultimate goal is, we should focus on only those steps that add value. Every non-essential step comes with an opportunity cost, so for each non-essential step removed, we gain more time, energy, and cognitive resources to put toward what’s essential. You might be surprised at how many seemingly complex goals can be obtained, and how many seemingly complex tasks can be completed, in just a few steps.
+
+As sports writer Andy Benoit observes, most geniuses prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities. C9 progressed the courage to be rubbish in 1959 a British industrialist named Henry Creamer had a dream of a future where human-powered flight was possible for the masses. Determined to do
 
 
 <a id="sec-025637"></a>
@@ -1205,19 +1297,19 @@ Enter Paul MacCready. Saddled with a huge debt at the time, he didn’t have a t
 
 Meanwhile, his competitors were all well-staffed and well-funded and built big, complex, elegant airplanes with large span wings, many wooden ribs, and metal or heavy plastic casings. Yet these teams didn’t come close to achieving the prize. At first, MacCready couldn’t figure out why. Then it hit him, everyone had been working to solve the wrong problem.
 
-The real challenge wasn’t to build an elegant aircraft that could do the figure-8 on the field around the two pylons, it was to build a large, light aircraft, no matter how ugly it is, that you could crash, then repair, modify, alter, redesign fast. That was when he suddenly realized, there is an easy way to do it. So MacCready and his son immediately got to work on a model, inspired by one of the simplest and most aerodynamic mechanisms in nature, birdflight. Within two months they were flying the first version of the gossamer condor.
+The real challenge wasn’t to build an elegant aircraft that could do the figure-8 on the field around the two pylons, it was to build a large, light aircraft, no matter how ugly it is, that you could crash, then repair, modify, alter, redesign fast. That was when he suddenly realized, there is an easy way to do it. So MacCready and his son immediately got to work on a model, inspired by one of the simplest and most aerodynamic mechanisms in nature, birdflight.
 
-It weighed just 55 pounds, 25 kilos, and looked amateurish, especially compared to the sleeker models others had created, but that was exactly the point. MacCready said, if it crashed on landing you’d get a broom handle and duct tape and tape the broom handle back on and you’d be back flying in 5 minutes. That accident would have kept those other larger, more sophisticated teams from flying for something like 6 months. So we got a huge amount of flight experience out of this.
+Within two months they were flying the first version of the gossamer condor. It weighed just 55 pounds, 25 kilos, and looked amateurish, especially compared to the sleeker models others had created, but that was exactly the point. MacCready said, if it crashed on landing you’d get a broom handle and duct tape and tape the broom handle back on and you’d be back flying in 5 minutes. That accident would have kept those other larger, more sophisticated teams from flying for something like 6 months.
 
-Over the course of just a few months, the gossamer condor made some 222 flights sometime several in a single day. Some of his competitors machines didn’t achieve that in their lifetimes. It was on its 223rd flight that the condor completed the figure 8 challenge and won the first creamer prize. Two years later MacCready would win the second creamer prize when the gossamer albatross successfully crossed the English Channel.
+So we got a huge amount of flight experience out of this. Over the course of just a few months, the gossamer condor made some 222 flights sometime several in a single day. Some of his competitors machines didn’t achieve that in their lifetimes. It was on its 223rd flight that the condor completed the figure 8 challenge and won the first creamer prize.
 
-His most brilliant insight wasn’t some advanced breakthrough in the science of flight. It was simply that focusing on the elegance and sophistication of the aircraft was actually an impediment to progress. An ugly aircraft that could be crashed, repaired and redesigned fast would make it much easier to make progress on what really mattered, building a plane that could, as MacCready put it, turn left, turn right, go up high enough at the beginning and the end of the flight. Similarly, in your own pursuit of what matters, if you want to build a better airplane, don’t try to get everything exactly right the first time.
+Two years later MacCready would win the second creamer prize when the gossamer albatross successfully crossed the English Channel. His most brilliant insight wasn’t some advanced breakthrough in the science of flight. It was simply that focusing on the elegance and sophistication of the aircraft was actually an impediment to progress. An ugly aircraft that could be crashed, repaired and redesigned fast would make it much easier to make progress on what really mattered, building a plane that could, as MacCready put it, turn left, turn right, go up high enough at the beginning and the end of the flight.
 
-Instead, embrace the rubbish no matter how ugly it is so you can crash, repair, modify, and redesign fast. It’s a far easier path for learning, growing, and making progress on what’s essential. Start with rubbish many of us are kept back from producing something wonderful because we misunderstand the creative process. We see something exceptional or beautiful in its finished state and we imagine it started out as a beautiful, baby Yoda version of what we are looking at.
+Similarly, in your own pursuit of what matters, if you want to build a better airplane, don’t try to get everything exactly right the first time. Instead, embrace the rubbish no matter how ugly it is so you can crash, repair, modify, and redesign fast. It’s a far easier path for learning, growing, and making progress on what’s essential. Start with rubbish many of us are kept back from producing something wonderful because we misunderstand the creative process.
 
-But exactly the opposite is true. Ed Catmull, the former CEO of Pixar, once said, we all start out ugly. Every one of Pixar’s stories starts out that way. Their earliest sketches are, according to Catmull, awkward and unformed, vulnerable, and incomplete.
+We see something exceptional or beautiful in its finished state and we imagine it started out as a beautiful, baby Yoda version of what we are looking at. But exactly the opposite is true. Ed Catmull, the former CEO of Pixar, once said, we all start out ugly. Every one of Pixar’s stories starts out that way.
 
-This is why Catmull has always worked hard to foster a culture that creates space for such rubbish, because he understands there would be no Buzz Lightyear without hundreds
+Their earliest sketches are, according to Catmull, awkward and unformed, vulnerable, and incomplete. This is why Catmull has always worked hard to foster a culture that creates space for such rubbish, because he understands there would be no Buzz Lightyear without hundreds
 
 
 <a id="sec-030139"></a>
@@ -1235,21 +1327,25 @@ When the bag is empty they will have achieved level 1 mastery. The faster they m
 
 Then try your own version of the bag of beads exercise and shift your focus to making as many mistakes as possible when you’re starting out. There is no mastery without mistakes. And there is no learning later without the courage to be rubbish. I, for example, recently decided to take a class online.
 
-One approach to passing this class might have been to read through the mountains of lecture materials carefully and thoroughly, watch all of the videos, take detailed notes, and memorize everything, with the goal of getting 100% on every practice quiz, every time. However, such an approach sounds like extremely hard work. The likely outcome would be acing the first quiz or two before burning out, abandoning the effort, and never making it to the exam. Instead, I decided to simply take the quiz without any preparation, knowing I would get roughly 50% of the answers wrong.
+One approach to passing this class might have been to read through the mountains of lecture materials carefully and thoroughly, watch all of the videos, take detailed notes, and memorize everything, with the goal of getting 100% on every practice quiz, every time. However, such an approach sounds like extremely hard work. The likely outcome would be acing the first quiz or two before burning out, abandoning the effort, and never making it to the exam. Instead, I decided to simply take the quiz without any preparation, knowing.
 
-That was in fact my goal, to get them wrong as quickly as possible so I could see the correct answers. I didn’t want to waste time and energy on what I already knew, I wanted to see what I didn’t know so I could focus only on that. At first, I got rubbish scores on quite a few practice tests. Then I’d look at what I got wrong and take more practice tests.
+I would get roughly 50% of the answers wrong. That was in fact my goal, to get them wrong as quickly as possible so. I could see the correct answers. I didn’t want to waste time and energy on what.
 
-Pretty soon my scores were less rubbish, and then even less rubbish. Eventually I’ll have what I need to pass the test. Make failure as cheap as possible giving ourselves permission to fail takes courage. It feels scary.
+I already knew, I wanted to see what. I didn’t know so. I could focus only on that. At first, I got rubbish scores on quite a few practice tests.
 
-It makes us vulnerable. The higher the stakes, the more courage is required. So given that our reserves of courage are limited, we want to find ways to experience and learn from failure as cheaply as possible.
+Then. I’d look at what. I got wrong and take more practice tests. Pretty soon my scores were less rubbish, and then even less rubbish.
 
-For example, when our children were younger, Anna and I wanted them to have the chance to be rubbish with money while the stakes were low. After all, we’d much rather they made mistakes with their allowance at the ages of eight and ten then make mistakes with their life savings as adults. So we gave them three glass jars, one for charity, one for saving, and one for spending. When they received their allowance, it was up to them to divide up the money.
+Eventually. I’ll have what. I need to pass the test. Make failure as cheap as possible giving ourselves permission to fail takes courage.
 
-We didn’t try to advise them on how much should go to saving or spending. We wanted them to make the decisions, especially the rubbish ones.
+It feels scary. It makes us vulnerable. The higher the stakes, the more courage is required. So given that our reserves of courage are limited, we want to find ways to experience and learn from failure as cheaply as possible.
 
-For example, our son once spent $40 he’d saved on an electric racing car, and he regretted it afterward. He wished he had that money for a major Lego purchase he was saving up for. Now he is a teenager and is saving up for a major service mission he wants to go on that will cost thousands of dollars, and I am confident he won’t regret it. That’s because he got to learn from his mistakes while the risks were lower.
+For example, when our children were younger, Anna and. I wanted them to have the chance to be rubbish with money while the stakes were low. After all, we’d much rather they made mistakes with their allowance at the ages of eight and ten then make mistakes with their life savings as adults. So we gave them three glass jars, one for charity, one for saving, and one for spending.
 
-I call these kinds of mistakes learning-sized mistakes. We don’t want our children to learn about money the hard way, we want them to learn about it the easy way, the cheaper way.
+When they received their allowance, it was up to them to divide up the money. We didn’t try to advise them on how much should go to saving or spending. We wanted them to make the decisions, especially the rubbish ones.
+
+For example, our son once spent $40 he’d saved on an electric racing car, and he regretted it afterward. He wished he had that money for a major Lego purchase he was saving up for. Now he is a teenager and is saving up for a major service mission he wants to go on that will cost thousands of dollars, and. I am confident he won’t regret it.
+
+That’s because he got to learn from his mistakes while the risks were lower. I call these kinds of mistakes learning-sized mistakes. We don’t want our children to learn about money the hard way, we want them to learn about it the easy way, the cheaper way.
 
 
 <a id="sec-030640"></a>
@@ -1259,17 +1355,19 @@ To make effortless progress on what matters, learning-sized mistakes must be enc
 
 Ben recalls, I felt empowered to make decisions with this ratio in mind, and it was incredibly liberating. Not surprisingly, Reid also advocates the same philosophy in entrepreneurship and business. If you’re not embarrassed by your first product release, he says, you released it too late. Or put another way, when it comes to product launches, imperfect is perfect.
 
-Protect your rubbish from the harsh critic in your head another way we can make failure as cheap as possible for ourselves is simply to protect our rubbish from the harsh critic in our heads. Instead of shaming yourself for hitting your serve into the net, celebrate the fact that you’re on the court to begin with. Instead of belittling yourself for even the tiniest of errors, be proud of the fact that you are unlikely to make that same mistake ever again. Any time you feel like you’re on shaky ground with some meaningful challenge you’ve taken on, talk to yourself like you would talk to a toddler learning to walk, you’ve taken the first step.
+Protect your rubbish from the harsh critic in your head another way we can make failure as cheap as possible for ourselves is simply to protect our rubbish from the harsh critic in our heads. Instead of shaming yourself for hitting your serve into the net, celebrate the fact that you’re on the court to begin with. Instead of belittling yourself for even the tiniest of errors, be proud of the fact that you are unlikely to make that same mistake ever again.
 
-You may feel wobbly now, but you’ve begun. You’re going to get there. And remind yourself that every great achievement is rubbish at the beginning. Every one of them.
+Any time you feel like you’re on shaky ground with some meaningful challenge you’ve taken on, talk to yourself like you would talk to a toddler learning to walk, you’ve taken the first step. You may feel wobbly now, but you’ve begun. You’re going to get there. And remind yourself that every great achievement is rubbish at the beginning.
 
-As the Irish playwright George Bernard Shaw once said, a life spent in making mistakes is not only more honourable but more useful than a life spent doing nothing. Adopt a zero-draft approach I have met many people who feel a calling to write a book. But they often give up before writing even the first draft of the first chapter. Their belief that each sentence has to be perfect or close to perfect to be worthy of the page keeps them from even starting the process.
+Every one of them. As the Irish playwright George Bernard Shaw once said, a life spent in making mistakes is not only more honourable but more useful than a life spent doing nothing. Adopt a zero-draft approach. I have met many people who feel a calling to write a book.
 
-I recommend they adopt a zero-draft approach. That is, write a version of that first chapter that’s so rough it wouldn’t even qualify as a first draft. The idea with a zero-draft is to write anything. The more rubbish the better.
+But they often give up before writing even the first draft of the first chapter. Their belief that each sentence has to be perfect or close to perfect to be worthy of the page keeps them from even starting the process. I recommend they adopt a zero-draft approach. That is, write a version of that first chapter that’s so rough it wouldn’t even qualify as a first draft.
 
-It doesn’t have to be seen by anyone. It never has to be judged. Don’t even think of it as a draft, it’s just words on a page. Don’t be surprised how easy it is to get your creative juices flowing this way.
+The idea with a zero-draft is to write anything. The more rubbish the better. It doesn’t have to be seen by anyone. It never has to be judged.
 
-As American poet and memoirist Maya Angelou put it, when I am writing, I write. And then it’s as if the muse is convinced I’m serious and says okay. Okay. I’ll come.
+Don’t even think of it as a draft, it’s just words on a page. Don’t be surprised how easy it is to get your creative juices flowing this way. As American poet and memoirist Maya Angelou put it, when. I am writing, I write.
+
+And then it’s as if the muse is convinced. I’m serious and says okay. Okay. I’ll come.
 
 Margaret Atwood, the prolific author of 18 books of poetry, 18 novels, 11 books of nonfiction, 9 collections of short fiction, and 8 children’s books, once wrote, A word after a word after a word is power. Even rubbish words are more powerful than a blank page.
 
@@ -1301,11 +1399,17 @@ And then they safely made the 16,000 mile journey home. Meanwhile, Scott and his
 
 The false economy of powering through when we try to make too much progress on a goal or project right out of the gate, we can get trapped in a vicious cycle, we get tired, so then we take a break, but then we think we have to make up for the time lost, so we sprint again. For example, I had a friend who was desperate to finish writing her business plan. So one weekend, she decided to spend every waking minute on it.
 
-She powered through. But it burned her out to the point that she couldn’t bear to think about the plan, much less work on it again for weeks. She said, when I tried, my brain just shut down. As a teenager I set a goal to compete in a three-mile, cross-country race where I grew up in Yorkshire, England.
+She powered through. But it burned her out to the point that she couldn’t bear to think about the plan, much less work on it again for weeks. She said, when. I tried, my brain just shut down.
 
-When the day arrived, I was nervous. With my parents and grandparents looking on, I made my way to the starting line. Even though I didn’t feel fully prepared, I could have done okay if I had started out the way I had intended, slowly. I liked to run that way, to start slow and gradually pick up speed, feeling the rush of adrenaline as I passed other runners from behind.
+As a teenager. I set a goal to compete in a three-mile, cross-country race where. I grew up in Yorkshire, England. When the day arrived, I was nervous.
 
-But my nerves got the better of me. I threw out my game plan and shot out of the gate along with the other runners. I sprinted, hard, for the first hundred yards, then had to pause, gasping for breath, just one hundred yards in. Eventually I caught my breath, but the damage had been done, I’d fallen behind, and I remained
+With my parents and grandparents looking on, I made my way to the starting line. Even though. I didn’t feel fully prepared, I could have done okay if. I had started out the way.
+
+I had intended, slowly. I liked to run that way, to start slow and gradually pick up speed, feeling the rush of adrenaline as. I passed other runners from behind. But my nerves got the better of me.
+
+I threw out my game plan and shot out of the gate along with the other runners. I sprinted, hard, for the first hundred yards, then had to pause, gasping for breath, just one hundred yards in. Eventually. I caught my breath, but the damage had been done, I’d fallen behind, and.
+
+I remained
 
 
 <a id="sec-031642"></a>
@@ -1313,11 +1417,13 @@ But my nerves got the better of me. I threw out my game plan and shot out of the
 
 behind the whole time. It was painful. I came in 57th place out of 60 runners. In hindsight, the cost of that sprint was more than the loss of just one race.
 
-The loss was humiliating enough that I never again competed in any other cross-country meets. When we’re trying to achieve something that matters to us, it’s tempting to want to sprint out of the gate. The problem is that going too fast at the beginning will almost always slow us down the rest of the way. The costs of this boom and bust approach to getting important projects done is too high, we feel exhausted on the days we sprint hard, drained and demoralized on the days we don’t, and more often than not we wind up like those British explorers, feeling battered and broken and still no closer to achieving our goal.
+The loss was humiliating enough that. I never again competed in any other cross-country meets. When we’re trying to achieve something that matters to us, it’s tempting to want to sprint out of the gate. The problem is that going too fast at the beginning will almost always slow us down the rest of the way.
 
-Luckily, there is an alternative. We can find the effortless pace. The upside of upper bounds in my early days as an aspiring author I was passionate and motivated, but inconsistent. I would write some days.
+The costs of this boom and bust approach to getting important projects done is too high, we feel exhausted on the days we sprint hard, drained and demoralized on the days we don’t, and more often than not we wind up like those British explorers, feeling battered and broken and still no closer to achieving our goal. Luckily, there is an alternative. We can find the effortless pace. The upside of upper bounds in my early days as an aspiring author.
 
-I’d talk about writing on other days. And I’d talk about what I was thinking about writing on other days in between.
+I was passionate and motivated, but inconsistent. I would write some days. I’d talk about writing on other days. And.
+
+I’d talk about what. I was thinking about writing on other days in between.
 
 Meanwhile, I had a musician friend who decided to write a book about her songs. She was prolific in how much music she had produced, she had written over three thousand songs, one hundred and one albums and nine cantatas. Her music had been featured around the world, including at National Prayer Breakfasts, at a presidential inauguration, and on the Oprah Winfrey Show. It was breathtaking to see all that she’d accomplished at her steady pace over many years.
 
@@ -1347,23 +1453,23 @@ But then there was an unexpected change in the weather, it turned hot. This mean
 
 more quickly than normal. Our daughter was devastated when she informed us that one of our chickens had died in the heat because they ran out of water. So much in life is out of our control. The weather is out of our control.
 
-Wildfires, hurricanes, and new strains of coronaviruses are out of our control. Our kid getting a cold, the car breaking down, a friend going through a hard time who needs our counsel how can we maintain a steady pace when any number of unexpected crises could pop up and throw us off schedule. Since the end of the Cold War, the military has used the acronym VUCA to describe our global environment, one that is volatile, uncertain, complex, and ambiguous. In response to this new normal, the military has developed several approaches we can apply to make it easier to do what matters on our own everyday battlegrounds.
+Wildfires, hurricanes, and new strains of coronaviruses are out of our control. Our kid getting a cold, the car breaking down, a friend going through a hard time who needs our counsel how can we maintain a steady pace when any number of unexpected crises could pop up and throw us off schedule. Since the end of the Cold War, the military has used the acronym VUCA to describe our global environment, one that is volatile, uncertain, complex, and ambiguous.
 
-One is captured in the military mantras slow is smooth. Smooth is fast dash meaning, when you go slow, things are smoother, and when things are smooth, you can move faster. This is particularly true in conflicts where the ability to move in a coordinated fashion while staying alert to possible threats from every direction and often while carrying weapons is key. If you stop or move too slowly, you become an easy target.
+In response to this new normal, the military has developed several approaches we can apply to make it easier to do what matters on our own everyday battlegrounds. One is captured in the military mantras slow is smooth. Smooth is fast dash meaning, when you go slow, things are smoother, and when things are smooth, you can move faster. This is particularly true in conflicts where the ability to move in a coordinated fashion while staying alert to possible threats from every direction and often while carrying weapons is key.
 
-But if you move too fast, you get surrounded and outflanked, as consultant Joe Indvik writes. Indvik continues, if you look closely at how elite infantry move, it looks like this, somewhere between a walk and a run, underscored by quick but careful footfalls, with weapons raised while rhythmically scanning the battlefield in all directions. Less experienced infantry, he says, will often zealously sprint into battle and give the impression of momentum. The problem with this approach is that as soon as they are in danger they will have to sprint to take cover at the first chance they get, and may end up in a place they haven’t had time to survey or assess, like the proverbial hare, this cycle of sprint and recover may seem fast in the moment, but long-term progress through the environment is slow and plagued by unidentified threats.
+If you stop or move too slowly, you become an easy target. But if you move too fast, you get surrounded and outflanked, as consultant Joe Indvik writes. Indvik continues, if you look closely at how elite infantry move, it looks like this, somewhere between a walk and a run, underscored by quick but careful footfalls, with weapons raised while rhythmically scanning the battlefield in all directions. Less experienced infantry, he says, will often zealously sprint into battle and give the impression of momentum.
 
-When you go slow, things are smoother. You have time to observe, to plan, to coordinate efforts. But go too slow and you may get stuck or lose your momentum. This is just as true in life and work as it is on the battlefield.
+The problem with this approach is that as soon as they are in danger they will have to sprint to take cover at the first chance they get, and may end up in a place they haven’t had time to survey or assess, like the proverbial hare, this cycle of sprint and recover may seem fast in the moment, but long-term progress through the environment is slow and plagued by unidentified threats. When you go slow, things are smoother. You have time to observe, to plan, to coordinate efforts.
 
-To make progress despite the complexity and uncertainty we encounter on a daily basis, we need to choose the right range and keep within it. Even when we want to make consistent, steady progress on a priority project, life often intervenes. We may have planned to spend the morning at our desk and instead find ourselves stuck in meetings. We may have blocked off hours on our calendar for important work and instead find ourselves dealing with a toddler meltdown.
+But go too slow and you may get stuck or lose your momentum. This is just as true in life and work as it is on the battlefield. To make progress despite the complexity and uncertainty we encounter on a daily basis, we need to choose the right range and keep within it. Even when we want to make consistent, steady progress on a priority project, life often intervenes.
 
-And to compensate for our perceived lack of productivity, we work all the way through the weekend, in a mad rush for progress. We know this comes at a cost, low quality work, increased guilt and reduced confidence. There’s an easier alternative. We can establish upper and lower bounds.
+We may have planned to spend the morning at our desk and instead find ourselves stuck in meetings. We may have blocked off hours on our calendar for important work and instead find ourselves dealing with a toddler meltdown. And to compensate for our perceived lack of productivity, we work all the way through the weekend, in a mad rush for progress. We know this comes at a cost, low quality work, increased guilt and reduced confidence.
 
-Simply use the following rule, never less than x, never more than y essential project, finish reading lay miserables in 6 months phi lower bound, never less than ve pages a day phi upper bound, never more than 20 ve pages a day essential project, hit my sales numbers for the month phi lower bound, never less than ve sales calls a day upper bound, never more than 10 sales calls a day essential project, call my family every week for a month phi lower bound, never talk for less than ve, minutes upper bound, never talk for more than an hour essential project, complete an online class lower bound, never less than signing into the class every day phi upper bound, never more than fty minutes taking one practice test each day phi essential project, complete the rst draft of a book phi lower bound, never less than ve hundred words a day upper bound, never more than 1000 words a day finding the right range keeps us moving at a steady pace so we can make consistent progress.
+There’s an easier alternative. We can establish upper and lower bounds. Simply use the following rule, never less than x, never more than y essential project, finish reading lay miserables in 6 months phi lower bound, never less than ve pages a day phi upper bound, never more than 20 ve pages a day essential project, hit my sales numbers for the month phi lower bound, never less than ve sales calls a day upper bound, never more than 10 sales calls a day essential project, call my family every week for a month phi lower bound, never talk for less than ve, minutes upper bound, never talk for more than an hour essential project, complete an online class lower bound, never less than signing into the class every day phi upper bound, never more than fty minutes taking one practice test each day phi essential project, complete the rst draft of a book phi lower bound, never less than ve hundred words a day upper bound, never more than 1000 words a day finding the right range keeps us moving at a steady pace so we can make consistent progress.
 
 The lower bound should be high enough to keep us feeling motivated, and low enough that we can still achieve it even on days when we’re dealing with unexpected chaos. The upper bound should be high enough to constitute good progress, but not so high as to leave us feeling exhausted. Once we get into the rhythm, the progress begins to flow. We are able to take effortless action.
 
-FF and Eortless Summary FF Part I, Eortless State FF What is the Eortless State? FF the Eortless State is an experience many of us have had when we are physically rested, emotionally unburdened, and mentally energized.
+FF and Eortless Summary FF Part. I, Eortless State FF What is the Eortless State? FF the Eortless State is an experience many of us have had when we are physically rested, emotionally unburdened, and mentally energized.
 
 
 <a id="sec-032644"></a>
@@ -1371,37 +1477,39 @@ FF and Eortless Summary FF Part I, Eortless State FF What is the Eortless State?
 
 You are completely aware, alert, present, attentive, and focused on what’s important in this moment. You are able to focus on what matters most with ease. Invert instead of asking, why is this so hard, invert the question by asking, what if this could be easy? Challenge the assumption that the right way is, inevitably, the harder one.
 
-FIE make the impossible possible by ending an indirect approach. When faced with work that feels overwhelming, ask, how am I making this harder than it needs to be? Enjoy peer the most essential activities with the most enjoyable ones. Let that work and play can coexist.
+FIE make the impossible possible by ending an indirect approach. When faced with work that feels overwhelming, ask, how am. I making this harder than it needs to be? Enjoy peer the most essential activities with the most enjoyable ones.
 
-Turn tedious tasks into meaningful rituals. Allow laughter and fun to lighten more of your moments. Release let go of emotional burdens you don’t need to keep carrying. Remember, when you focus on what you lack, you lose what you have.
+Let that work and play can coexist. Turn tedious tasks into meaningful rituals. Allow laughter and fun to lighten more of your moments. Release let go of emotional burdens you don’t need to keep carrying.
 
-When you focus on what you have, you get what you lack. Use this habit recipe, each time I complain I will say something I am thankful for. Give a grudge of its duties by asking, what job have I hired this grudge to do? Rest discover the art of doing nothing.
+Remember, when you focus on what you lack, you lose what you have. When you focus on what you have, you get what you lack. Use this habit recipe, each time. I complain.
 
-Do not do more today than you can completely recover from by tomorrow. Break down essential work into three sessions of no more than 90 minutes each. F F take an E ortless nap. Notice achieve a state of heightened awareness by harnessing the power of presence.
+I will say something. I am thankful for. Give a grudge of its duties by asking, what job have. I hired this grudge to do?
 
-Train your brain to focus on the important and ignore the irrelevant. You see others more clearly, set aside your opinions, advice and judgment, and put their truth above your own. Clear the clutter in your physical environment before clearing the clutter in your mind. F F part 2, E ortless action F F what is E ortless action.
+Rest discover the art of doing nothing. Do not do more today than you can completely recover from by tomorrow. Break down essential work into three sessions of no more than 90 minutes each. F F take an E ortless nap.
 
-F F E ortless action means accomplishing more by trying less. You stop procrastinating and take phi the RST obvious step. You arrive at the point of completion without overthinking. You make progress by pacing yourself rather than powering through.
+Notice achieve a state of heightened awareness by harnessing the power of presence. Train your brain to focus on the important and ignore the irrelevant. You see others more clearly, set aside your opinions, advice and judgment, and put their truth above your own. Clear the clutter in your physical environment before clearing the clutter in your mind.
 
-You overachieve without overexerting. Define phi phi to get started on an essential project, RST to any what done looks like. Establish clear conditions for completion, get there, then stop. Take 60 seconds to focus on your desired outcome.
+F F part 2, E ortless action F F what is E ortless action. F F E ortless action means accomplishing more by trying less. You stop procrastinating and take phi the RST obvious step. You arrive at the point of completion without overthinking.
 
-Write a done for the day list. Limit it to items that would constitute meaningful progress. Start phi make the RST action the most obvious one. Phi break the RST obvious action down into the tiniest, concrete step.
+You make progress by pacing yourself rather than powering through. You overachieve without overexerting. Define phi phi to get started on an essential project, RST to any what done looks like. Establish clear conditions for completion, get there, then stop.
 
-Then name it. F F gain maximum learning from minimal viable E ort. Start with a 10-minute microburst of focused activity to boost motivation and energy. F phi to simplify the process, don’t simplify the steps, simply remove them.
+Take 60 seconds to focus on your desired outcome. Write a done for the day list. Limit it to items that would constitute meaningful progress. Start phi make the RST action the most obvious one.
 
-Recognize that not everything requires you to go the extra mile. Maximize the steps not taken. Major progress in the tiniest. of increments. Progress when you start a project, start with rubbish.
+Phi break the RST obvious action down into the tiniest, concrete step. Then name it. F F gain maximum learning from minimal viable E ort. Start with a 10-minute microburst of focused activity to boost motivation and energy.
 
-Adopt a zero draft approach and just put some words, any words, on the page. Fail cheaply, make learning-sized mistakes. Protect your progress from the harsh critic in your head. Pace FF set an Eortless pace, slow is smooth, smooth is fast.
+F phi to simplify the process, don’t simplify the steps, simply remove them. Recognize that not everything requires you to go the extra mile. Maximize the steps not taken. Major progress in the tiniest. of increments.
 
-Reject the false economy of powering through. Create the right range, I will never do less than X, never more than Y. Recognize that not all progress is created equal. S.
+Progress when you start a project, start with rubbish. Adopt a zero draft approach and just put some words, any words, on the page. Fail cheaply, make learning-sized mistakes. Protect your progress from the harsh critic in your head.
 
-Tevenash still holds the record for career free throw percentage in the NBA. When he retired, his record was 90.43. The average for elite players is between 70 and 75%. How did he do it?
+Pace FF set an Eortless pace, slow is smooth, smooth is fast. Reject the false economy of powering through. Create the right range, I will never do less than X, never more than Y. Recognize that not all progress is created equal.
 
-One reporter who interviewed Nash several years following his retirement described it this way, watching him shoot is akin to watching a stunningly elaborate automaton at work, his body moving with an exactness more reminiscent of clockwork than a fallible human being. At one point in our afternoon together, he homes in so precisely on his target that he stops having to move to retrieve the ball, instead, time after time, it descends through the rim in such a way that the flip of the net sends it bouncing back to him, as if by magnetic force.
+S. Tevenash still holds the record for career free throw percentage in the NBA. When he retired, his record was 90.43. The average for elite players is between 70 and 75%.
 
-This is what it means to achieve effortless results, not to achieve a result once through intense effort, but to effortlessly achieve a result again and again. What do I mean? Whenever your inputs create a one-time output you are getting a linear result. Every day you start from zero.
+How did he do it? One reporter who interviewed Nash several years following his retirement described it this way, watching him shoot is akin to watching a stunningly elaborate automaton at work, his body moving with an exactness more reminiscent of clockwork than a fallible human being. At one point in our afternoon together, he homes in so precisely on his target that he stops having to move to retrieve the ball, instead, time after time, it descends through the rim in such a way that the flip of the net sends it bouncing back to him, as if by magnetic force.
 
-If you don’t put in the
+This is what it means to achieve effortless results, not to achieve a result once through intense effort, but to effortlessly achieve a result again and again. What do. I mean? Whenever your inputs create a one-time output you are getting a linear result.
+
+Every day you start from zero. If you don’t put in the
 
 
 <a id="sec-033146"></a>
@@ -1419,21 +1527,21 @@ Results flow to you while you are sleeping. Results flow to you when you are tak
 
 For example, an author who writes a book and is paid royalties for years is getting residual income. A student who learns first principles and can then apply that understanding in a variety of ways over time is acquiring residual knowledge. A person who makes the one-time decision to exercise every day has made a residual decision. An entrepreneur who sets up her business to work even when she is on vacation for six months has a residual business.
 
-A social entrepreneur who provides microloans that are repaid so they can be loaned out again and again is making a residual contribution. A person who does something every day, habitually, without thinking, without effort, is benefiting from residual action. A mother who delegates a whole chore to her child and makes it fun, so it happens every day without prodding, is practicing residual parenting. Does it sound like I’m exaggerating?
+A social entrepreneur who provides microloans that are repaid so they can be loaned out again and again is making a residual contribution. A person who does something every day, habitually, without thinking, without effort, is benefiting from residual action. A mother who delegates a whole chore to her child and makes it fun, so it happens every day without prodding, is practicing residual parenting. Does it sound like.
 
-I’m not. The thought of getting perpetual results might seem improbable if you are used to taking one action and getting one result. But there are tools we can use to turn our modest effort into effortless results, again and again. Residual results are like compound interest.
+I’m exaggerating? I’m not. The thought of getting perpetual results might seem improbable if you are used to taking one action and getting one result. But there are tools we can use to turn our modest effort into effortless results, again and again.
 
-Benjamin Franklin summarized the idea of compounding interest best when he said, money makes money. And the money that money makes, makes money. Put another way, when we are generating compound interest, we are creating effortless wealth. This principle can be applied to many other pursuits as well.
+Residual results are like compound interest. Benjamin Franklin summarized the idea of compounding interest best when he said, money makes money. And the money that money makes, makes money. Put another way, when we are generating compound interest, we are creating effortless wealth.
 
-The case for compounding results, for example, a friend of mine, Jessica Jackley, was once doing voluntary service in East Africa when she met a local fishmonger named Catherine. There was a great demand for fish in Catherine’s village. Each day, she purchased about a half-dozen fish at a time from a middleman and then resold them at a roadside stand. But with seven children to feed, she wished she could buy directly from the fishermen and keep more profit.
+This principle can be applied to many other pursuits as well. The case for compounding results, for example, a friend of mine, Jessica Jackley, was once doing voluntary service in East Africa when she met a local fishmonger named Catherine. There was a great demand for fish in Catherine’s village. Each day, she purchased about a half-dozen fish at a time from a middleman and then resold them at a roadside stand.
 
-To do so, she would have to travel over 100 kilometers, but she couldn’t afford the bus fare or the time lost at the market. To make it happen, she needed about $500 in funding. Villagers like Catherine, combined with a recent talk from Muhammad Yunus about the Grameen Bank, were what inspired Jessica to co-found a platform called Kiva. Kiva is a crowdsourcing platform that allows anyone to loan money, in any amount, to entrepreneurs in developing countries.
+But with seven children to feed, she wished she could buy directly from the fishermen and keep more profit. To do so, she would have to travel over 100 kilometers, but she couldn’t afford the bus fare or the time lost at the market. To make it happen, she needed about $500 in funding. Villagers like Catherine, combined with a recent talk from Muhammad Yunus about the Grameen Bank, were what inspired Jessica to co-found a platform called Kiva.
 
-But the returns don’t stop there. When the loan is paid back and over 98% of them are it’s repaid in the form of Kiva credit, allowing you to re-loan that capital to another entrepreneur. This cycle can continue indefinitely. Your one-time investment becomes a perpetual fund that supports more and more entrepreneurs for years or even decades to come.
+Kiva is a crowdsourcing platform that allows anyone to loan money, in any amount, to entrepreneurs in developing countries. But the returns don’t stop there. When the loan is paid back and over 98% of them are it’s repaid in the form of Kiva credit, allowing you to re-loan that capital to another entrepreneur. This cycle can continue indefinitely.
 
-Instead of simply giving Catherine a one-time gift of $500, Jessica built a platform that has distributed over 1.3 billion dollar in loans. That’s the difference between linear and residual results. FFF Powerless Eort versus Eortless Power A lever is a simple machine that makes work easier. It’s made up of a rigid beam that rests on top of a fulcrum.
+Your one-time investment becomes a perpetual fund that supports more and more entrepreneurs for years or even decades to come. Instead of simply giving Catherine a one-time gift of $500, Jessica built a platform that has distributed over 1.3 billion dollar in loans. That’s the difference between linear and residual results. FFF Powerless Eort versus Eortless Power A lever is a simple machine that makes work easier.
 
-The longer the distance between the fulcrum and the spot on the beam where force is exerted,
+It’s made up of a rigid beam that rests on top of a fulcrum. The longer the distance between the fulcrum and the spot on the beam where force is exerted,
 
 
 <a id="sec-033647"></a>
@@ -1471,27 +1579,27 @@ busy, overwhelming, and fast-paced, it’s tempting to seek out easy instruction
 
 Principles, however, can be applied broadly and repeatedly. At their best, they are universal and timeless. Specific methods, in other words, produce only linear results. If it’s residual results we’re after, we must look to principles.
 
-In fact, the word principia means first principles, fundamental beginnings, or elements. First principles are like the building blocks of knowledge, once you understand them correctly you can apply them hundreds of times. Harrington Emerson, the American efficiency engineer known for his pioneering contributions to the field of management, once said, as to methods, there may be a million and then some, but principles are few. The man who grasps principles can successfully select his own methods.
+In fact, the word principia means first principles, fundamental beginnings, or elements. First, principles are like the building blocks of knowledge, once you understand them correctly you can apply them hundreds of times. Harrington Emerson, the American efficiency engineer known for his pioneering contributions to the field of management, once said, as to methods, there may be a million and then some, but principles are few. The man who grasps principles can successfully select his own methods.
 
 The man who tries methods, ignoring principles, is sure to have trouble. Seek principles not all knowledge has lasting value. Some knowledge is useful just once.
 
 For example, you memorize a fact for a test and immediately forget the material the moment the test is over. You skim an interesting news article on your phone, but an hour later your brain has failed to retain a single detail. Your teenager explains how to do something on your computer, but when you try to do it again on your own, the instructions no longer make sense. Other knowledge is useful countless times.
 
-When you understand why something happened or how something works, you can apply that knowledge again and again. For example, a student who learns the fundamental principles of any discipline can then easily apply that understanding in a variety of ways over time. An entrepreneur who learns what their customers really want can apply that knowledge to any number of different products and services. A manager who learns how to unify their team can apply that approach with many future teams. A person who understands how to make a decision can make decisions forever.
+When you understand why something happened or how something works, you can apply that knowledge again and again. For example, a student who learns the fundamental principles of any discipline can then easily apply that understanding in a variety of ways over time. An entrepreneur who learns what their customers really want can apply that knowledge to any number of different products and services. A manager who learns how to unify their team can apply that approach with many future teams.
 
-Learning the right thing once is a bargain. A one-time investment of energy up front yields effortless results again and again over time. Find commonalities Peter Kaufman, editor of Poor Charlie’s Almanac, wanted to understand how everything in the world works. Normally, such a lofty goal would be overwhelming, even laughable.
+A person who understands how to make a decision can make decisions forever. Learning the right thing once is a bargain. A one-time investment of energy up front yields effortless results again and again over time. Find commonalities Peter Kaufman, editor of Poor Charlie’s Almanac, wanted to understand how everything in the world works.
 
-Most of us would give up such a quest before it had even begun. So he found a shortcut. Over a six-month period, he read the condensed interview at the end of every copy of Discover magazine ever published online, 144 interviews in all. Each was a short but high-quality summary of some aspects of the of science, written for a lay audience, with clear examples, engaging stories, and concise language.
+Normally, such a lofty goal would be overwhelming, even laughable. Most of us would give up such a quest before it had even begun. So he found a shortcut. Over a six-month period, he read the condensed interview at the end of every copy of Discover magazine ever published online, 144 interviews in all.
 
-He soon found he could separate everything he was learning into three buckets of data. Bucket 1 was the oldest and largest data set, the Inorganic Universe. It was physics and geology, covering the more than 13 billion years since the dawn of the universe. Bucket 2 was biology, everything alive on planet Earth.
+Each was a short but high-quality summary of some aspects of the of science, written for a lay audience, with clear examples, engaging stories, and concise language. He soon found he could separate everything he was learning into three buckets of data. Bucket 1 was the oldest and largest data set, the Inorganic Universe. It was physics and geology, covering the more than 13 billion years since the dawn of the universe.
 
-That covered about 3 billion years. Bucket 3 was the whole of human history, the relatively short period we have been around as a species. Then he looked for commonalities, principles that could explain how things worked consistently, across all three buckets. In Bucket 1 he found Newton’s third law of motion, for every action, there is an equal and opposite reaction.
+Bucket 2 was biology, everything alive on planet Earth. That covered about 3 billion years. Bucket 3 was the whole of human history, the relatively short period we have been around as a species. Then he looked for commonalities, principles that could explain how things worked consistently, across all three buckets.
 
-In other words, the more force you exert on something, the more force that thing exerts back. In Bucket 2 he found Mark Twain’s example of what happens if you pick up a cat by its tail, it will attack you. In Bucket 3 he found something similar, how we treat other people is how they will treat us back. The commonality was a principle that he dubbed mirrored reciprocation, or, in simpler terms, you get what you give.
+In Bucket 1 he found Newton’s third law of motion, for every action, there is an equal and opposite reaction. In other words, the more force you exert on something, the more force that thing exerts back. In Bucket 2 he found Mark Twain’s example of what happens if you pick up a cat by its tail, it will attack you. In Bucket 3 he found something similar, how we treat other people is how they will treat us back.
 
-Just think of all the ways we can apply that principle. Send a thank you note, and you will get one back. Smile sincerely at someone, and they will smile back at you. Offer information to someone in a conversation, and they will tend to share information with you in return.
+The commonality was a principle that he dubbed mirrored reciprocation, or, in simpler terms, you get what you give. Just think of all the ways we can apply that principle. Send a thank you note, and you will get one back. Smile sincerely at someone, and they will smile back at you.
 
-In one experiment investigating the principle of mirrored reciprocation, a researcher sent handwritten Christmas cards to almost 600 complete strangers. Each card included a note and a photograph of his family.
+Offer information to someone in a conversation, and they will tend to share information with you in return. In one experiment investigating the principle of mirrored reciprocation, a researcher sent handwritten Christmas cards to almost 600 complete strangers. Each card included a note and a photograph of his family.
 
 
 <a id="sec-034654"></a>
@@ -1499,13 +1607,17 @@ In one experiment investigating the principle of mirrored reciprocation, a resea
 
 It didn’t take long before these complete strangers started sending responses. In all he received close to 200 cards in reply. Universal principles don’t just apply to science.
 
-In fact, they can provide similarly useful mental shortcuts for understanding people. When I was first married, I once decided to surprise my wife by picking up a meat feast pizza, which I knew she liked. When she came home late that night she was, as I had hoped, delighted. So the next night I enthusiastically repeated the exercise, surprising her, once again, with a meat feast pizza.
+In fact, they can provide similarly useful mental shortcuts for understanding people. When. I was first married, I once decided to surprise my wife by picking up a meat feast pizza, which. I knew she liked.
 
-She was so polite that it wasn’t until I surprised her for the third night in a row that she said, oh, meat feast pizza again. Clearly, the method I had employed so successfully on the first night could be applied only so many times, once in this case. What if, instead of repeating this method, a few too many times, I’d sought out a principle that captured who my wife really was, what she really valued, what consistently delighted her, for more than three evenings in a row.
+When she came home late that night she was, as. I had hoped, delighted. So the next night. I enthusiastically repeated the exercise, surprising her, once again, with a meat feast pizza.
 
-It takes more investment up front to gain this depth of insight. However, once you have it, you can apply it again and again. Grow a knowledge tree many people assume that Elon Musk, the founder of Tesla and SpaceX, has a background in mechanical engineering and rocket science. But he actually didn’t know much about either subject when he started these ventures.
+She was so polite that it wasn’t until. I surprised her for the third night in a row that she said, oh, meat feast pizza again. Clearly, the method. I had employed so successfully on the first night could be applied only so many times, once in this case.
 
-He was once asked how he had downloaded whole, complex new disciplines into his brain so quickly, I know you’ve read a lot of books and you hire a lot of smart people and soak up what they know, but you have to acknowledge you seem to have found a way to pack more knowledge into your head than nearly anyone else alive. How are you so good at it? He replied, it is important to view knowledge as sort of a semantic tree make sure you understand the fundamental principles, i.e. the trunk and big branches, before you get into the leaves slash details or there is nothing for them to hang onto.
+What if, instead of repeating this method, a few too many times, I’d sought out a principle that captured who my wife really was, what she really valued, what consistently delighted her, for more than three evenings in a row. It takes more investment up front to gain this depth of insight.
+
+However, once you have it, you can apply it again and again. Grow a knowledge tree many people assume that Elon Musk, the founder of Tesla and SpaceX, has a background in mechanical engineering and rocket science. But he actually didn’t know much about either subject when he started these ventures. He was once asked how he had downloaded whole, complex new disciplines into his brain so quickly, I know you’ve read a lot of books and you hire a lot of smart people and soak up what they know, but you have to acknowledge you seem to have found a way to pack more knowledge into your head than nearly anyone else alive.
+
+How are you so good at it? He replied, it is important to view knowledge as sort of a semantic tree make sure you understand the fundamental principles, i.e. the trunk and big branches, before you get into the leaves slash details or there is nothing for them to hang onto.
 
 In other words, when we have the solid fundamentals of knowledge, we have somewhere to hang the additional information we learn. We can anchor it in the mental models we already understand. Musk’s approach is supported by the science of how we learn. Neuroplasticity is our brain’s ability to change, both at the individual neuron level and at the very complex level of learning a new skill, like learning how to make a rocket.
 
@@ -1527,25 +1639,29 @@ He believes that by combining learnings from a range of disciplines psychology, 
 
 Munger Acolyte Trengriffin gives the following example, A business raises the price of its product, yet sells more of that product. This does not make sense if you consider only the discipline of economics and its rule of supply and demand. But if you also consider the discipline of psychology, you understand that buyers think that a higher price means higher quality and therefore buy more. Often, the most useful knowledge comes from fields other than our own.
 
-As researchers from Northwestern University’s Kellogg School of Management found in analyzing almost 18 million scientific papers, the best new ideas usually come from combining existing knowledge in one field with an intrusion of unusual combinations from other disciplines. This is why Munger is wise to believe in the discipline of mastering the best that other people have ever figured out. As he puts it, I don’t believe in just sitting down and trying to dream it all up yourself. Nobody’s that smart.
+As researchers from Northwestern University’s Kellogg School of Management found in analyzing almost 18 million scientific papers, the best new ideas usually come from combining existing knowledge in one field with an intrusion of unusual combinations from other disciplines. This is why Munger is wise to believe in the discipline of mastering the best that other people have ever figured out. As he puts it, I don’t believe in just sitting down and trying to dream it all up yourself.
 
-The exchange of ideas across disciplines breeds novelty. And turning the conventional into something novel is often the key to effortless creativity not only in science but in areas ranging from investing, to music, to making movies. Before they became household names, best known for Hollywood hits like Fargo, directors Joel and Ethan Cone’s first blockbuster film was their 1984 neo-noir crime movie Blood Simple. When the brothers first read the screenplay though, they were concerned that it followed the pattern of a conventional whodunit.
+Nobody’s that smart. The exchange of ideas across disciplines breeds novelty. And turning the conventional into something novel is often the key to effortless creativity not only in science but in areas ranging from investing, to music, to making movies. Before they became household names, best known for Hollywood hits like Fargo, directors Joel and Ethan Cone’s first blockbuster film was their 1984 neo-noir crime movie Blood Simple.
 
-So they took out a pair of scissors and cut out each paragraph from each page of the script. They placed each scrap of paper in a brown paper bag, shook the bag, and tossed the scraps in the air. Then they picked the scraps up off the floor, put them back together randomly, and rewrote the script on that basis. Blood Simple became known for its conventional neo-noir crime feel heightened by unpredictable twists and turns that were unusual for the genre.
+When the brothers first read the screenplay though, they were concerned that it followed the pattern of a conventional whodunit. So they took out a pair of scissors and cut out each paragraph from each page of the script. They placed each scrap of paper in a brown paper bag, shook the bag, and tossed the scraps in the air. Then they picked the scraps up off the floor, put them back together randomly, and rewrote the script on that basis.
 
-Northwestern professor Brian Uzzi describes this approach as taking extreme novelty and embedding it in deep conventionality. How to get the most out of reading Reading a book is among the most high leverage activities on earth. For an investment more or less equivalent to the length of a single workday, and a few dollars, you can gain access to what the smartest people have already figured out. Reading, that is, reading to really understand, delivers residual results by any estimate.
+Blood Simple became known for its conventional neo-noir crime feel heightened by unpredictable twists and turns that were unusual for the genre. Northwestern professor Brian Uzzi describes this approach as taking extreme novelty and embedding it in deep conventionality. How to get the most out of reading Reading a book is among the most high leverage activities on earth. For an investment more or less equivalent to the length of a single workday, and a few dollars, you can gain access to what the smartest people have already figured out.
 
-Unfortunately, very few people take advantage of this. The typical American reads, or partially reads, only four books a year. More than a quarter of Americans don’t read books at all. And this trend is worsening.
+Reading, that is, reading to really understand, delivers residual results by any estimate. Unfortunately, very few people take advantage of this. The typical American reads, or partially reads, only four books a year. More than a quarter of Americans don’t read books at all.
 
-Reading a book is among the most high leverage activities on earth. To get the most out of your reading I recommend the following principles, use the Lindy Effect. This law states that the life expectancy of a book is proportional to its current age meaning, the older a book is, the higher the likelihood that it will survive into the future. So prioritize reading books that have lasted a long time.
+And this trend is worsening. Reading a book is among the most high leverage activities on earth. To get the most out of your reading. I recommend the following principles, use the Lindy Effect.
 
-In other words, read the classics and the ancients. Read to absorb, rather than to check a box. There are books I have technically read but I can’t tell you anything about them.
+This law states that the life expectancy of a book is proportional to its current age meaning, the older a book is, the higher the likelihood that it will survive into the future. So prioritize reading books that have lasted a long time.
 
-On the other hand, there are books I may not have read cover to cover, but I have returned to certain chapters or passages so often that they have become a part of me. Reading a book to earn the right of displaying it on your shelf misses the real point of the exercise. But absorbing yourself fully in a book changes who you are, just as if you had lived the experience yourself. Distill to understand.
+In other words, read the classics and the ancients. Read to absorb, rather than to check a box. There are books. I have technically read but.
 
-When I finish reading a book, I like to take ten minutes to summarize what I learned from it on a single page in my own words. If you summarize the key learnings from a book you just read, you absorb it more deeply. The process of summarizing, of distilling ideas to their essential essence, helps us turn information into understanding, and understanding into unique knowledge. Know what no one else knows in the run-up to the 1968 Summer Olympics in Mexico, most people assumed that high jumper Dick Fosbury would place dead last.
+I can’t tell you anything about them. On the other hand, there are books. I may not have read cover to cover, but. I have returned to certain chapters or passages so often that they have become a part of me.
 
-He was, after all, a gangly 21-year-old civil engineering student with mismatched running shoes and questionable athletic ability.
+Reading a book to earn the right of displaying it on your shelf misses the real point of the exercise. But absorbing yourself fully in a book changes who you are, just as if you had lived the experience yourself. Distill to understand. When.
+
+I finish reading a book, I like to take ten minutes to summarize what. I learned from it on a single page in my own words. If you summarize the key learnings from a book you just read, you absorb it more deeply. The process of summarizing, of distilling ideas to their essential essence, helps us turn information into understanding, and understanding into unique knowledge.
+
+Know what no one else knows in the run-up to the 1968 Summer Olympics in Mexico, most people assumed that high jumper Dick Fosbury would place dead last. He was, after all, a gangly 21-year-old civil engineering student with mismatched running shoes and questionable athletic ability.
 
 
 <a id="sec-035656"></a>
@@ -1579,7 +1695,7 @@ For example, an entrepreneur with a great reputation will have investor capital 
 
 A photojournalist with a great reputation will be sent on the best assignments, all over the world. It happened to me with essentialism. I wrote the book once, but readers reach out to me on a daily basis still. Gaining unique knowledge takes time, dedication, and effort.
 
-But invest in it once, and you’ll attract opportunities for the rest of your life. C12 Lift harness the strength of 10 When the COVID-19 pandemic was in its early stages in the United States, there was a shortage of clinical face masks for healthcare workers.
+But invest in it once, and you’ll attract opportunities for the rest of your life. C12 Lift harness the strength of 10. When the COVID-19 pandemic was in its early stages in the United States, there was a shortage of clinical face masks for healthcare workers.
 
 
 <a id="sec-040201"></a>
@@ -1591,53 +1707,61 @@ Their goal was to create 5 million masks in 5 weeks. Their method was to teach o
 
 Project Protect would provide the materials, and the volunteers would pick up as many packs as they could so or teach other people to so and return the finished masks. Within the first week, 10,000 volunteers had delivered the first million masks. Within 5 weeks, 50,000 volunteers reached their seemingly impossible goal of 5 million masks. Imagine how much time and effort it would have taken one person, or 10 people, or even a hundred people to do that.
 
-It was an astonishing achievement, especially when you consider that almost none of the volunteers knew how to make these masks at the beginning of that 5 weeks. Whenever we want a far-reaching impact, teaching others to teach can be a high leverage strategy. Use stories to turn your audience into teachers A few years ago, my grandfather died in New York City. Since I was the only other family member living in the United States, it fell to me to go through his apartment and sift through all his belongings.
+It was an astonishing achievement, especially when you consider that almost none of the volunteers knew how to make these masks at the beginning of that 5 weeks. Whenever we want a far-reaching impact, teaching others to teach can be a high leverage strategy. Use stories to turn your audience into teachers A few years ago, my grandfather died in New York City. Since.
 
-And when I did, here is what I found, nothing. There were books and clothes. There were a few paintings and photos. There was an address book.
+I was the only other family member living in the United States, it fell to me to go through his apartment and sift through all his belongings. And when. I did, here is what. I found, nothing.
 
-But the narrative about the life that he had lived, about what really mattered to him, had gone with him. I remember looking through the names in his address book and having no idea who was a lifelong friend and who a one-time acquaintance. None of the names meant anything to me. But they had meant something to him.
+There were books and clothes. There were a few paintings and photos. There was an address book. But the narrative about the life that he had lived, about what really mattered to him, had gone with him.
 
-Suddenly I was aware, in a way that I never had fully been before, of how much of ourselves we take with us in the end. Unintentionally, we often leave only pathetically small clues for those who come after us. It amazes me how easy it is to forget previous generations. Most people cannot tell you the first and last names of their eight great-grandparents.
+I remember looking through the names in his address book and having no idea who was a lifelong friend and who a one-time acquaintance. None of the names meant anything to me. But they had meant something to him.
 
-Ponder that for a moment. The language we speak, the place we live, and the history we inherit are shaped by ancestors we don’t even know the names of. A lot is lost in those decayed memories so much that many of us, once we reach a certain age, find ourselves struck by a curiosity so powerful that we are compelled to track down any available clues about our ancestry. It turns out there is a far simpler way to pass our history on to future generations, through the sharing of family stories.
+Suddenly. I was aware, in a way that. I never had fully been before, of how much of ourselves we take with us in the end. Unintentionally, we often leave only pathetically small clues for those who come after us.
 
-Stories are bridges from past to present. They make history come alive. They expand our sense of self. I know of one family who get together once a year for the sole purpose of keeping previous generations alive.
+It amazes me how easy it is to forget previous generations. Most people cannot tell you the first and last names of their eight great-grandparents. Ponder that for a moment. The language we speak, the place we live, and the history we inherit are shaped by ancestors we don’t even know the names of.
 
-They bring photo albums. They create sly decks filled with memories. They share their favorite stories of specific ancestors. They have been doing this now for fifty years. There is no better way to teach than through the power of stories.
+A lot is lost in those decayed memories so much that many of us, once we reach a certain age, find ourselves struck by a curiosity so powerful that we are compelled to track down any available clues about our ancestry. It turns out there is a far simpler way to pass our history on to future generations, through the sharing of family stories. Stories are bridges from past to present. They make history come alive.
 
-Indeed, the right story can live on for millennia. Just think of Aesop’s fables. Aesop was a storyteller and a slave. He lived more than 2,500 years ago in ancient Greece.
+They expand our sense of self. I know of one family who get together once a year for the sole purpose of keeping previous generations alive. They bring photo albums. They create sly decks filled with memories.
 
-He had lessons he wanted to impart, and he did so through memorable stories. His stories were so easy to remember and share, they were passed down by word of mouth. We love stories. We understand stories.
+They share their favorite stories of specific ancestors. They have been doing this now for fifty years. There is no better way to teach than through the power of stories. Indeed, the right story can live on for millennia.
 
-We remember stories. And that means it’s easier to share, or to teach, stories. Stories have the power to turn any audience into a room full of teachers. When you learn to teach, you teach yourself to learn.
+Just think of Aesop’s fables. Aesop was a storyteller and a slave. He lived more than 2,500 years ago in ancient Greece. He had lessons he wanted to impart, and he did so through memorable stories.
 
-Teaching others is also an accelerated way to learn. Even thinking we might be called upon to teach can increase our engagement. We focus more intently. We listen to understand.
+His stories were so easy to remember and share, they were passed down by word of mouth. We love stories. We understand stories. We remember stories.
 
-We think about the underlying logic so we can put the ideas into our own words. Since writing Essentialism, I have been blessed with many opportunities to teach its principles and practices. And in teaching the ideas, I continue to learn. Indeed, every time I teach an audience about how to be an essentialist, I learn something
+And that means it’s easier to share, or to teach, stories. Stories have the power to turn any audience into a room full of teachers. When you learn to teach, you teach yourself to learn. Teaching others is also an accelerated way to learn.
+
+Even thinking we might be called upon to teach can increase our engagement. We focus more intently. We listen to understand. We think about the underlying logic so we can put the ideas into our own words.
+
+Since writing Essentialism, I have been blessed with many opportunities to teach its principles and practices. And in teaching the ideas, I continue to learn. Indeed, every time. I teach an audience about how to be an essentialist, I learn something
 
 
 <a id="sec-040706"></a>
 ### ⏱️ [04:07:06 - 04:12:06]
 
-new about how to be a better essentialist in my own life. For example, in learning how one essentialist applied the ideas, I was inspired to start a new practice. Every day I leave my home office, I call out the time I leave. I am like a town crier.
+new about how to be a better essentialist in my own life. For example, in learning how one essentialist applied the ideas, I was inspired to start a new practice. Every day. I leave my home office, I call out the time.
 
-It’s 5.01. I do it loud. I do it for fun. But I also do it for my own accountability, to live what I am teaching.
+I leave. I am like a town crier. It’s 5.01. I do it loud.
 
-Think about how hard it is to recall the route we’ve taken dozens of times until we have to give someone else directions or how hard it is to fully absorb the plot of a novel you read until you’ve described it to someone. Follow the Sesame Street Rule the head of marketing at a major, international software business I worked with was frustrated. He had expended a lot of personal effort to get the whole company on the same page. He had paid internal and external management consultants to craft a strategy.
+I do it for fun. But. I also do it for my own accountability, to live what. I am teaching.
 
-He had given presentations on the strategy to people within the company. He was consistent in the way he shared this strategy with customers. And yet, it was a mess. Some salespeople explained it one way.
+Think about how hard it is to recall the route we’ve taken dozens of times until we have to give someone else directions or how hard it is to fully absorb the plot of a novel you read until you’ve described it to someone. Follow the Sesame Street. Rule the head of marketing at a major, international software business. I worked with was frustrated.
 
-Others explained it a different way. These all had their own varying interpretations. It was like they were speaking a different language. For a company of a hundred thousand employees in 130 countries, getting people simply to understand the strategy never mind implement it was proving a heroic challenge.
+He had expended a lot of personal effort to get the whole company on the same page. He had paid internal and external management consultants to craft a strategy. He had given presentations on the strategy to people within the company. He was consistent in the way he shared this strategy with customers.
 
-Then a different idea was floated, to simplify the message to a short whiteboard sketch that could be explained in under 10 minutes. The head of marketing taught it to a pilot group first. Then he had them practice coming to the front of the room and teaching it to one another. Then he sent them off to go and teach it to their teams. Everyone was expected not only to learn it but also to learn how to teach it.
+And yet, it was a mess. Some salespeople explained it one way. Others explained it a different way. These all had their own varying interpretations.
 
-Anyone could be asked to stand up in front of any group and teach it at any time. Within just a few weeks, the inconsistencies disappeared. An HR rep in Germany could explain it. A finance manager in California could explain it in the exact same way.
+It was like they were speaking a different language. For a company of a hundred thousand employees in 130 countries, getting people simply to understand the strategy never mind implement it was proving a heroic challenge. Then a different idea was floated, to simplify the message to a short whiteboard sketch that could be explained in under 10 minutes. The head of marketing taught it to a pilot group first.
 
-This meant that customers were getting the same message as well. Pretty soon, the impact began to multiply. What had once involved months of frustrating effort became a virtually effortless path to success. If you try to teach people everything about everything, you run the risk of teaching them nothing.
+Then he had them practice coming to the front of the room and teaching it to one another. Then he sent them off to go and teach it to their teams. Everyone was expected not only to learn it but also to learn how to teach it. Anyone could be asked to stand up in front of any group and teach it at any time.
 
-You will achieve residual results faster if you clearly identify then simplify the most important messages you want to teach others to teach. These messages should be not just easy to understand but also hard to misunderstand. A. G.
+Within just a few weeks, the inconsistencies disappeared. An HR rep in Germany could explain it. A finance manager in California could explain it in the exact same way. This meant that customers were getting the same message as well.
 
-Laffley, the former CEO of Proctor & Gamble, called this the Sesame Street Simple Rule. Don’t go for the overly sophisticated message. Don’t go for the one that makes you sound smart. Go for the straightforward message that can be easily understood and repeated.
+Pretty soon, the impact began to multiply. What had once involved months of frustrating effort became a virtually effortless path to success. If you try to teach people everything about everything, you run the risk of teaching them nothing. You will achieve residual results faster if you clearly identify then simplify the most important messages you want to teach others to teach.
+
+These messages should be not just easy to understand but also hard to misunderstand. A. G. Laffley, the former CEO of Proctor & Gamble, called this the Sesame Street Simple.
+
+Rule. Don’t go for the overly sophisticated message. Don’t go for the one that makes you sound smart. Go for the straightforward message that can be easily understood and repeated.
 
 Make the most essential things the easiest ones to teach and the easiest ones to learn. C-13 automate do it once and never again when our children were toddlers, we lived next door to a family quite similar to our own. They had two young children, just like us. We traveled in the same social circles and saw each other every weekend.
 
@@ -1647,7 +1771,9 @@ Eventually they got to the bottom of the matter, the surgical team had inadverte
 
 They had many years of experience. Still, in the midst of this complex operation, they made a shockingly careless, utterly avoidable mistake. The explanation for this is simple, they had relied on their memory. As a result, they forgot an essential step in the process.
 
-It’s tempting to say, if only the medical staff had been thinking. But I see it as if only the medical staff had not needed to think. Alfred North Whitehead, the British mathematician turned American philosopher, once said, civilization advances by extending the number of important operations we can perform without thinking about them � another way of saying, as many essential steps and activities as possible should be automated. Is there a cheat sheet for this?
+It’s tempting to say, if only the medical staff had been thinking. But. I see it as if only the medical staff had not needed to think. Alfred North Whitehead, the British mathematician turned American philosopher, once said, civilization advances by extending the number of important operations we can perform without thinking about them � another way of saying, as many essential steps and activities as possible should be automated.
+
+Is there a cheat sheet for this?
 
 
 <a id="sec-041206"></a>
@@ -1659,21 +1785,23 @@ That all changed after its fateful test run. Following five crew members, the Mo
 
 An investigation found that Major Hill, an Army Air Corps pilot with over 17 years of experience, had forgotten to release the rudder and elevator controls, a fatal error. More instructive, however, was the finding that Hill had been preoccupied by a myriad of other new complex procedures at the exact time he should have been executing these essential tasks. The Army concluded that the Model 299 � the most technologically sophisticated aircraft of its time � was too complicated for one person to fly and awarded the contract to Douglas.
 
-But a group of test pilots still believed that the Boeing plane was superior and would give the country a distinct military advantage. They simply needed a tool that would allow a single pilot to manage the advanced aeronautical technology. As the surgeon and best-selling author Dr. Atul Gawande explains in his book The Checklist Manifesto, Major Hill�s tragic oversight resulted from the very same human limitation that leads to avoidable surgical errors. The vast amount of knowledge humankind has now acquired in so many disciplines has fueled extraordinary scientific, technological, and humanistic progress.
+But a group of test pilots still believed that the Boeing plane was superior and would give the country a distinct military advantage. They simply needed a tool that would allow a single pilot to manage the advanced aeronautical technology. As the surgeon and best-selling author Dr. Atul Gawande explains in his book The Checklist Manifesto, Major Hill�s tragic oversight resulted from the very same human limitation that leads to avoidable surgical errors.
 
-But as Gawande argues, this progress has a downside. The staggering volume and complexity of know-how has exceeded experts� ability to manage it. And this is exactly why tragic accidents happen. Humans have a tremendous capacity for the storage of memories.
+The vast amount of knowledge humankind has now acquired in so many disciplines has fueled extraordinary scientific, technological, and humanistic progress. But as Gawande argues, this progress has a downside. The staggering volume and complexity of know-how has exceeded experts� ability to manage it. And this is exactly why tragic accidents happen.
 
-Paul Reber, professor of psychology at Northwestern University, estimates that if the brain were a digital video recorder, DVR, it would have enough memory to hold three million hours of TV shows. But the RAM for information we can call up on demand, essentially our working memory, is far more limited. This at least partially explains why highly intelligent people may still forget their keys, or why doctors with deep expertise still forget to remove an instrument from inside the knee of a patient. The limits of working memory breed avoidable errors.
+Humans have a tremendous capacity for the storage of memories. Paul Reber, professor of psychology at Northwestern University, estimates that if the brain were a digital video recorder, DVR, it would have enough memory to hold three million hours of TV shows. But the RAM for information we can call up on demand, essentially our working memory, is far more limited. This at least partially explains why highly intelligent people may still forget their keys, or why doctors with deep expertise still forget to remove an instrument from inside the knee of a patient.
 
-Brain complexity only increases the cognitive load, making it� us that much more prone to errors. So what we need is not more knowledge but new skills and strategies that allow us to apply that knowledge without taxing our working memory. Or as Gawande put it, we need a strategy that builds on experience and takes advantage of the knowledge people have but somehow also makes up for our inevitable human tendencies. And there is such a strategy though it will seem almost ridiculous in its simplicity, maybe even crazy to those of us who have spent years carefully developing ever more advanced skills and technologies.
+The limits of working memory breed avoidable errors. Brain complexity only increases the cognitive load, making it� us that much more prone to errors. So what we need is not more knowledge but new skills and strategies that allow us to apply that knowledge without taxing our working memory. Or as Gawande put it, we need a strategy that builds on experience and takes advantage of the knowledge people have but somehow also makes up for our inevitable human tendencies.
 
-What we need, Gawande argues, is a modest but marvelous tool, the checklist. Once the Boeing test pilots implemented checklists and flew over and over without incident, Gawande writes, the Army Air Corps ordered thousands of the planes. Renamed the B-17, the Model 299 dropped more bombs than any other US aircraft in World War II and helped turn the tide for the Allies. The checklist helped the pilots remember each and every essential step, using as few mental resources as possible.
+And there is such a strategy though it will seem almost ridiculous in its simplicity, maybe even crazy to those of us who have spent years carefully developing ever more advanced skills and technologies. What we need, Gawande argues, is a modest but marvelous tool, the checklist. Once the Boeing test pilots implemented checklists and flew over and over without incident, Gawande writes, the Army Air Corps ordered thousands of the planes. Renamed the B-17, the Model 299 dropped more bombs than any other US aircraft in World War II and helped turn the tide for the Allies.
 
-The checklist isn�t just useful for highly specialized tasks like flying an airplane. As the world gets more complex, we all need tools to help us remember what�s important. The beauty of the checklist is that the thinking has been done ahead of time. It�s been taken out of the equation.
+The checklist helped the pilots remember each and every essential step, using as few mental resources as possible. The checklist isn�t just useful for highly specialized tasks like flying an airplane. As the world gets more complex, we all need tools to help us remember what�s important. The beauty of the checklist is that the thinking has been done ahead of time.
 
-Or rather, it has been baked into the equation. So instead of getting these essential things right occasionally, we get them right every time. A cheat sheet is one of the most effective, albeit low-tech, tools we have at our disposal to automate almost anything that really matters. The checklist is one type.
+It�s been taken out of the equation. Or rather, it has been baked into the equation. So instead of getting these essential things right occasionally, we get them right every time. A cheat sheet is one of the most effective, albeit low-tech, tools we have at our disposal to automate almost anything that really matters.
 
-Here are a few others, an employee uses daily planning software to make it easy to prioritize their day. A manager creates an agenda for their weekly meeting to ensure they cover the most important topics. An entrepreneur brings a slide deck to each pitch meeting to make it easy to remember the most salient points to cover. A teacher gives his students a list of writing tips to make it easy to write a great essay.
+The checklist is one type. Here are a few others, an employee uses daily planning software to make it easy to prioritize their day. A manager creates an agenda for their weekly meeting to ensure they cover the most important topics. An entrepreneur brings a slide deck to each pitch meeting to make it easy to remember the most salient points to cover.
+
+A teacher gives his students a list of writing tips to make it easy to write a great essay.
 
 
 <a id="sec-041711"></a>
@@ -1691,17 +1819,19 @@ Every year, their children came. Eventually their children got married and had c
 
 Now, a full five generations later, the family still gets together to play, swim, and make memories each and every year. On any given summer day, 30 to 40 family members will be out playing on the beach by the lake. On some days the party swells to more than 100 people. Making decisions is mentally draining.
 
-Making decisions that will satisfy dozens of other people, each with different preferences, constraints, and priorities, is both mentally draining and close to impossible. That single decision made so many years ago eliminated this burden for seven generations of Richard Zazan counting. Nobody has to do the work of coordinating everyone’s schedules and choosing a destination, booking hotels, and planning activities in order for the whole family to spend time together. It is automatic and, compared to some family vacation planning I have seen, effortless.
+Making decisions that will satisfy dozens of other people, each with different preferences, constraints, and priorities, is both mentally draining and close to impossible. That single decision made so many years ago eliminated this burden for seven generations of Richard Zazan counting. Nobody has to do the work of coordinating everyone’s schedules and choosing a destination, booking hotels, and planning activities in order for the whole family to spend time together. It is automatic and, compared to some family vacation planning.
 
-Ff high tech equals low eort Admittedly I was a bit careless when I started driving, a then 18-year-old Joshua Browder sheepishly says when asked about the ten traffic tickets he racked up in his first year of driving. But in Browder’s view, most of his infractions either didn’t merit a ticket or were the result of errors by the infamous traffic wardens, the UK’s parking enforcement officers. So Browder decided to appeal the tickets. It turned out the courts agreed with him and he began winning his appeals.
+I have seen, effortless. Ff high tech equals low eort Admittedly. I was a bit careless when. I started driving, a then 18-year-old Joshua Browder sheepishly says when asked about the ten traffic tickets he racked up in his first year of driving.
 
-It didn’t take long before he was helping almost everyone he knew to contest unfair tickets. The appeal process was relatively formulaic, a simple boilerplate letter was often enough to avoid an unwarranted fine. But while navigating the bureaucracy may have been simple for him, he noticed that for the elderly, disabled, and otherwise vulnerable people in his community, it was anything but. This gave him an idea for how he could do some good.
+But in Browder’s view, most of his infractions either didn’t merit a ticket or were the result of errors by the infamous traffic wardens, the UK’s parking enforcement officers. So Browder decided to appeal the tickets. It turned out the courts agreed with him and he began winning his appeals. It didn’t take long before he was helping almost everyone he knew to contest unfair tickets.
 
-It took Browder, who was then still a student at Stanford, just two weeks to build Do Not Pay, a website, and later, an app, dubbed the world’s first robot lawyer that automated the process of appeals for those in need. Depending on the success of the concept, Browder soon added a service that automatically scans users' email inbox for travel reservations, then helps them capitalize on price drops on flight and hotel reservations. Anyone can simply click the solve this problem for me button and the automated process will take over.
+The appeal process was relatively formulaic, a simple boilerplate letter was often enough to avoid an unwarranted fine. But while navigating the bureaucracy may have been simple for him, he noticed that for the elderly, disabled, and otherwise vulnerable people in his community, it was anything but. This gave him an idea for how he could do some good. It took Browder, who was then still a student at Stanford, just two weeks to build Do Not Pay, a website, and later, an app, dubbed the world’s first robot lawyer that automated the process of appeals for those in need.
 
-The app now saves users time and money by scheduling appointments with the DMV, getting them refunds from Grubhub, and unsubscribing them from spam and even automatically adding them as a plaintiff to any existing legal claims against the spammer. Automation is anything that performs a function with minimal human assistance or effort. And it’s happening everywhere. Some of it is so normal we don’t really think of it as automation, the washing machine, dishwasher, refrigerator.
+Depending on the success of the concept, Browder soon added a service that automatically scans users' email inbox for travel reservations, then helps them capitalize on price drops on flight and hotel reservations. Anyone can simply click the solve this problem for me button and the automated process will take over. The app now saves users time and money by scheduling appointments with the DMV, getting them refunds from Grubhub, and unsubscribing them from spam and even automatically adding them as a plaintiff to any existing legal claims against the spammer.
 
-It’s only when these things malfunction or break that we stop to think about how much time and effort they save us on a daily basis. Other forms of automation haven’t been around as long but are still familiar enough that we don’t notice them anymore, automatic bill pay, the programmable thermostat, your virtual assistant reminding you what’s on your shopping list, and so on. These tools are getting smarter all the time. Your virtual assistant can use AI algorithms to analyze your past buying patterns to tell
+Automation is anything that performs a function with minimal human assistance or effort. And it’s happening everywhere. Some of it is so normal we don’t really think of it as automation, the washing machine, dishwasher, refrigerator. It’s only when these things malfunction or break that we stop to think about how much time and effort they save us on a daily basis.
+
+Other forms of automation haven’t been around as long but are still familiar enough that we don’t notice them anymore, automatic bill pay, the programmable thermostat, your virtual assistant reminding you what’s on your shopping list, and so on. These tools are getting smarter all the time. Your virtual assistant can use AI algorithms to analyze your past buying patterns to tell
 
 
 <a id="sec-042213"></a>
@@ -1725,9 +1855,11 @@ Schedule an hour every quarter to review your personal career goals. FF Fi Block
 
 But in practice it can be difficult to do consistently, because reality gets in the way. At the effort we invest in automating our most mundane but essential tasks yield significant and repeated benefits later on. One caveat is important to make at this juncture, automation can work for you or against you. If non-essential activities are automated, they too continue to happen without you thinking about it.
 
-Take, for example, subscriptions that renew automatically. We always think we’ll remember to discontinue them, but we never do, and we end up being charged for months or even years without knowing it. I once realized I was paying 10 times the correct amount to an online service I had signed up for, instead of the $10 a month I thought I was being charged, I had in fact been charged $100 for several months before I noticed. Consider taking the high-tech, low-effort path for the essential, and the low-tech, high-effort path for the non-essential.
+Take, for example, subscriptions that renew automatically. We always think we’ll remember to discontinue them, but we never do, and we end up being charged for months or even years without knowing it. I once realized. I was paying 10 times the correct amount to an online service.
 
-C14 trust the engine of high-leverage teams in 2003, Warren Buffett, one of the most successful
+I had signed up for, instead of the $10 a month. I thought. I was being charged, I had in fact been charged $100 for several months before. I noticed.
+
+Consider taking the high-tech, low-effort path for the essential, and the low-tech, high-effort path for the non-essential. C14 trust the engine of high-leverage teams in 2003, Warren Buffett, one of the most successful
 
 
 <a id="sec-042718"></a>
@@ -1773,19 +1905,19 @@ It wasn’t until the controller had been with the company for five years that S
 
 However, this all came at a time when the business was growing rapidly, and they didn’t want to deal with the potential disruption. So instead of firing her, they decided to build support around her. Five years later they discovered that the $300,000 mistake had turned into $1.6 million stolen from the business. When she learned that she’d been caught, she resigned via text message and left town.
 
-No one at the company ever heard from her again. In hindsight, Steve admits, my mistake was even worse than hiring someone I didn’t trust. I hired her, she lost my trust, and I continued to have her stay on long after she lost my trust. Hiring someone trustworthy starts a simple and obvious first step, but one that many routinely overlook, making sure you are hiring someone honest and honorable, someone you can trust to uphold a high standard when nobody’s looking.
+No one at the company ever heard from her again. In hindsight, Steve admits, my mistake was even worse than hiring someone. I didn’t trust. I hired her, she lost my trust, and.
 
-But hiring someone who is trustworthy is also about hiring someone conscientious, someone you can trust to uphold their responsibilities, to use good judgment, to do what they say they’re going to do when they say they’re going to do it and to do it well. It’s someone you don’t have to supervise or micromanage, someone who understands the team’s goals and who cares as much as you do about the quality of the essential work to be done. Warren Buffett uses three criteria for determining who is trustworthy enough to hire or to do business with.
+I continued to have her stay on long after she lost my trust. Hiring someone trustworthy starts a simple and obvious first step, but one that many routinely overlook, making sure you are hiring someone honest and honorable, someone you can trust to uphold a high standard when nobody’s looking. But hiring someone who is trustworthy is also about hiring someone conscientious, someone you can trust to uphold their responsibilities, to use good judgment, to do what they say they’re going to do when they say they’re going to do it and to do it well.
 
-He looks for people with integrity, intelligence and initiative, though he adds that without the first, the other two can backfire. I call this the three eyes rule. After the disaster with his controller, Steve Hall had to find a replacement. Rather than blaming the whole thing on just one bad apple, he and the CFO looked long and hard for any ways in which they might have unwittingly enabled the problem to occur.
+It’s someone you don’t have to supervise or micromanage, someone who understands the team’s goals and who cares as much as you do about the quality of the essential work to be done. Warren Buffett uses three criteria for determining who is trustworthy enough to hire or to do business with. He looks for people with integrity, intelligence and initiative, though he adds that without the first, the other two can backfire. I call this the three eyes rule.
 
-This honest self-assessment helped them see how they needed to improve their hiring process. They had hired the most recent controller haphazardly, by way of an off-the-cuff suggestion from a supplier. Going forward they committed to a new process, it involved more time and effort up front, but Steve now understood that investing wisely in recruiting, interviewing, and onboarding once could reduce his risk many, many times over. His new hiring criteria mirrored the three eyes rule.
+After the disaster with his controller, Steve Hall had to find a replacement. Rather than blaming the whole thing on just one bad apple, he and the CFO looked long and hard for any ways in which they might have unwittingly enabled the problem to occur. This honest self-assessment helped them see how they needed to improve their hiring process. They had hired the most recent controller haphazardly, by way of an off-the-cuff suggestion from a supplier.
 
-In the end they hired a man who had no experience in the automotive industry, he’d run accounting for a law firm. But he was a complete fit on integrity, intelligence and initiative, a self-starter with an unimpeachable ethic and the ability to figure out problems on the fly. Or, put more simply, they really trusted him. Austin has been a valued member of the company for years now.
+Going forward they committed to a new process, it involved more time and effort up front, but Steve now understood that investing wisely in recruiting, interviewing, and onboarding once could reduce his risk many, many times over. His new hiring criteria mirrored the three eyes rule. In the end they hired a man who had no experience in the automotive industry, he’d run accounting for a law firm. But he was a complete fit on integrity, intelligence and initiative, a self-starter with an unimpeachable ethic and the ability to figure out problems on the fly.
 
-Then after the business was sold to a Fortune 500 company, he was kept on. He’s been promoted three times since. The high trust hire turned out to be one of the company’s highest performers. When you can say these four little words, I trust your judgment dash and mean the mitts like magic.
+Or, put more simply, they really trusted him. Austin has been a valued member of the company for years now. Then after the business was sold to a Fortune 500 company, he was kept on. He’s been promoted three times since.
 
-Team members feel empowered.
+The high trust hire turned out to be one of the company’s highest performers. When you can say these four little words, I trust your judgment dash and mean the mitts like magic. Team members feel empowered.
 
 
 <a id="sec-043721"></a>
@@ -1797,53 +1929,55 @@ As executive coach Kim Scott writes in her best-selling book Radical Candor, whe
 
 It’s like skimping on a shoddy oil filter. It might keep the engine running smoothly in the short term, but the moment that filter starts leaking, it will cause problems throughout the system. Who we hire is a disproportionately important decision that makes a thousand other decisions. Each new hire may well influence future hires, gradually shifting the norms and the culture over time.
 
-Often, there will be pressure to fill a role immediately, as the vacancy creates a short-term headache. But while hiring quickly may lighten the load at first, hiring well will lighten the load consistently and repeatedly, saving you many more headaches in the long run. Create a high trust agreement There are three parties to every relationship, person A, person B, and the structure that governs them. When trust becomes an issue, most people point at the other person.
+Often, there will be pressure to fill a role immediately, as the vacancy creates a short-term headache. But while hiring quickly may lighten the load at first, hiring well will lighten the load consistently and repeatedly, saving you many more headaches in the long run. Create a high trust agreement. There are three parties to every relationship, person A, person B, and the structure that governs them.
 
-The manager blames the employee, the employee blames the manager. The teacher blames the student, the student blames the teacher. The parent blames the child, the child blames the parent. Sometimes we are able to recognize that we were the ones at fault.
+When trust becomes an issue, most people point at the other person. The manager blames the employee, the employee blames the manager. The teacher blames the student, the student blames the teacher. The parent blames the child, the child blames the parent.
 
-But we rarely think to blame the structure of the relationship itself. Every relationship has a structure, even if it’s an unspoken, unclear one. A low trust structure is one where expectations are unclear, where goals are incompatible or at odds, where people don’t know who is doing what, where the rules are ambiguous and nobody knows what the standards for success are, and where the priorities are unclear and the incentives misaligned. A high trust structure is one where expectations are clear.
+Sometimes we are able to recognize that we were the ones at fault. But we rarely think to blame the structure of the relationship itself. Every relationship has a structure, even if it’s an unspoken, unclear one. A low trust structure is one where expectations are unclear, where goals are incompatible or at odds, where people don’t know who is doing what, where the rules are ambiguous and nobody knows what the standards for success are, and where the priorities are unclear and the incentives misaligned.
 
-Goals are shared, roles are clearly delineated, the rules and standards are articulated, and the right results are prioritized, incentivized, and rewarded consistently, not just sometimes. Most people can agree that this type of relationship is preferable. The problem is that low trust relationship structures generally happen by default rather than by design. I once hired several professionals to help us remodel our home.
+A high trust structure is one where expectations are clear. Goals are shared, roles are clearly delineated, the rules and standards are articulated, and the right results are prioritized, incentivized, and rewarded consistently, not just sometimes. Most people can agree that this type of relationship is preferable. The problem is that low trust relationship structures generally happen by default rather than by design.
 
-They were employed by three different companies but had worked together on a variety of projects over many years. They liked one another. They seemed competent. Each individual had come highly recommended.
+I once hired several professionals to help us remodel our home. They were employed by three different companies but had worked together on a variety of projects over many years. They liked one another. They seemed competent.
 
-I thought the pieces were in place for a high trust experience. I began to worry only after I asked for a written agreement with dates attached to it and never received one. But I was eager for the renovations to get going and decided it wasn’t worth pausing the work until we had it. This turned out to be short-sighted.
+Each individual had come highly recommended. I thought the pieces were in place for a high trust experience. I began to worry only after. I asked for a written agreement with dates attached to it and never received one.
 
-While each person on the team worked competently enough on their own, as a team they were far from cohesive. There was no parallel processing. There were no clear workflows. A vendor would complete a task, and only then would the next piece of work be ordered.
+But. I was eager for the renovations to get going and decided it wasn’t worth pausing the work until we had it. This turned out to be short-sighted. While each person on the team worked competently enough on their own, as a team they were far from cohesive.
 
-So some of the cabinets would get installed, while others would be delayed for weeks. There was miscommunication, sometimes workers would turn up to work but the materials hadn’t arrived. They couldn’t agree on deadlines. They couldn’t agree on who was responsible for what, so some efforts got duplicated while others slipped through the cracks.
+There was no parallel processing. There were no clear workflows. A vendor would complete a task, and only then would the next piece of work be ordered. So some of the cabinets would get installed, while others would be delayed for weeks.
 
-We were given incorrect dimensions for an appliance, so it needed to be reordered from a different manufacturer altogether to fit in the limited space. The end result. The remodel was completed late and over budget. And the experience for everyone involved was harder at every turn than it needed to be.
+There was miscommunication, sometimes workers would turn up to work but the materials hadn’t arrived. They couldn’t agree on deadlines. They couldn’t agree on who was responsible for what, so some efforts got duplicated while others slipped through the cracks. We were given incorrect dimensions for an appliance, so it needed to be reordered from a different manufacturer altogether to fit in the limited space.
 
-That’s the typical outcome when you have a low trust structure. A couple of years after this frustrating experience I was invited to speak to the Lean Construction Institute, LCI, a trade association working to address the decline in efficiency within the construction industry. While other labor intensive industries have seen efficiency improve since the 1960s, today in the United States a whopping 70% of construction projects are delivered late and over budget, and, more concerningly, 800 construction-related deaths and thousands more injuries are reported each year.
+The end result. The remodel was completed late and over budget. And the experience for everyone involved was harder at every turn than it needed to be. That’s the typical outcome when you have a low trust structure.
 
-The LCI sees Lean principles as being key to improving this situation.
+A couple of years after this frustrating experience. I was invited to speak to the Lean Construction Institute, LCI, a trade association working to address the decline in efficiency within the construction industry. While other labor intensive industries have seen efficiency improve since the 1960s, today in the United States a whopping 70% of construction projects are delivered late and over budget, and, more concerningly, 800 construction-related deaths and thousands more injuries are reported each year. The LCI sees Lean principles as being key to improving this situation.
 
 
 <a id="sec-044225"></a>
 ### ⏱️ [04:42:25 - 04:47:26]
 
-One solution is a unique business contract they refer to as the deal that ties each participant’s compensation to the outcome of the whole project rather than to the work that individual contributed. Aligning the incentives in this way encourages the different parties to act as one team and to make decisions that benefit the whole project rather than their own self-interest. They not only feel a sense of ownership but are motivated to take initiative to make the whole experience more efficient. Whether we’re remodeling a home or leading a team of colleagues, we can all create a similar high-trust agreement to make it easier to get the right things done together.
+One solution is a unique business contract they refer to as the deal that ties each participant’s compensation to the outcome of the whole project rather than to the work that individual contributed. Aligning the incentives in this way encourages the different parties to act as one team and to make decisions that benefit the whole project rather than their own self-interest. They not only feel a sense of ownership but are motivated to take initiative to make the whole experience more efficient.
 
-Even a one-time investment in such an agreement can pay dividends. And it can be as simple as sitting down together and codifying the following, high-trust agreement results, what results do we want, roles, who is doing what, rules, what minimum viable standards must be kept, resources, what resources, people, money, tools, are available and needed. Rewards, how will progress be evaluated and rewarded? Taking a little time to build a foundation of trust is a valuable investment in any relationship.
+Whether we’re remodeling a home or leading a team of colleagues, we can all create a similar high-trust agreement to make it easier to get the right things done together. Even a one-time investment in such an agreement can pay dividends. And it can be as simple as sitting down together and codifying the following, high-trust agreement results, what results do we want, roles, who is doing what, rules, what minimum viable standards must be kept, resources, what resources, people, money, tools, are available and needed.
 
-It’s a lever that turns a modest effort into residual results. C-15 Prevent solved the problem before it happens in 1977, Ali Mao Malan was a hospital cook working in Mirka, Somalia. When cases of smallpox broke out, he offered to serve as a guide to local officials who were transporting two afflicted children to an isolation camp. Malan knew that he should get vaccinated before traveling with the highly contagious children, but the injection looked painful.
+Rewards, how will progress be evaluated and rewarded? Taking a little time to build a foundation of trust is a valuable investment in any relationship. It’s a lever that turns a modest effort into residual results. C-15 Prevent solved the problem before it happens in 1977, Ali Mao Malan was a hospital cook working in Mirka, Somalia.
 
-Besides, he reasoned, the journey lasted just 10 minutes. Surely, he wouldn’t be in contact with the children for long enough to get infected. By the time he began to display symptoms, he had come in contact with many members of his family, friends and neighbors. What followed was an intense two-week effort, led by the World Health Organization’s eradication team, to vaccinate 54,777 people in the area to ensure the virus would spread no further efforts that could have been avoided had Malan received a single injection.
+When cases of smallpox broke out, he offered to serve as a guide to local officials who were transporting two afflicted children to an isolation camp. Malan knew that he should get vaccinated before traveling with the highly contagious children, but the injection looked painful. Besides, he reasoned, the journey lasted just 10 minutes. Surely, he wouldn’t be in contact with the children for long enough to get infected.
 
-There is a happy ending to this story. This narrowly avoided public health disaster was really the last chapter in the most successful health intervention in history, a multi-year campaign to eradicate smallpox. On April 17, 2017, Malan was in contact with the World Health Organization. 17, 1978, the whose Nairobi office sent a simple message via telegram, search complete. No cases discovered.
+By the time he began to display symptoms, he had come in contact with many members of his family, friends and neighbors. What followed was an intense two-week effort, led by the World Health Organization’s eradication team, to vaccinate 54,777 people in the area to ensure the virus would spread no further efforts that could have been avoided had Malan received a single injection. There is a happy ending to this story. This narrowly avoided public health disaster was really the last chapter in the most successful health intervention in history, a multi-year campaign to eradicate smallpox.
 
-Ali Mau Malin is the world’s last known smallpox case. As a result of health officials' coordinated efforts to vaccinate large swaths of the world’s population, a disease that killed 300 million people in the 20th century had now been contained to laboratories. We might not think of prevention as the most obvious way to achieve residual results. But what else can you call it when a single intervention saves an incalculable number of future lives and solves a centuries-long problem once and for all?
+On April 17, 2017, Malan was in contact with the World Health Organization. 17, 1978, the whose Nairobi office sent a simple message via telegram, search complete. No cases discovered. Ali Mau Malin is the world’s last known smallpox case. As a result of health officials' coordinated efforts to vaccinate large swaths of the world’s population, a disease that killed 300 million people in the 20th century had now been contained to laboratories.
 
-The long tail of time management John opened a desk drawer to take out a pen. When the drawer stubbornly refused to shut, he went through his usual dance, opening it as far as it would go, shaking it, closing and opening it again, and moving things around. This went on for a while. Intrigued, his colleague, Dean Akison, a mentor of productivity guru David Allen, asked what was going on.
+We might not think of prevention as the most obvious way to achieve residual results. But what else can you call it when a single intervention saves an incalculable number of future lives and solves a centuries-long problem once and for all? The long tail of time management John opened a desk drawer to take out a pen. When the drawer stubbornly refused to shut, he went through his usual dance, opening it as far as it would go, shaking it, closing and opening it again, and moving things around.
 
-It turned out that a pencil tray was in the way. How long had it been a problem, Dean wanted to know. Two years, John replied. For two years I have been bothered by that every single day.
+This went on for a while. Intrigued, his colleague, Dean Akison, a mentor of productivity guru David Allen, asked what was going on. It turned out that a pencil tray was in the way. How long had it been a problem, Dean wanted to know.
 
-How long would it take to solve it? Two minutes. John solved it right then. Why do so many of us put up with problems big and small for so much longer than we have to?
+Two years, John replied. For two years. I have been bothered by that every single day. How long would it take to solve it?
 
-Because on any given day it usually takes less time to manage a problem than to solve it. In John’s case, while 30 seconds of jostling was annoying, it still took less time than dislodging the tray and resolving the problem. But looking at the equation from a longer term perspective changes our calculation. Once we add up the cumulative costs of the time and frustration from today, plus tomorrow, plus hundreds of tomorrows after that, suddenly it makes sense to invest in solving the problem once and for all.
+Two minutes. John solved it right then. Why do so many of us put up with problems big and small for so much longer than we have to? Because on any given day it usually takes less time to manage a problem than to solve it.
 
-Using that time frame, fixing that drawer was an absolute bargain, two minutes worth of effort to prevent hundreds of future frustrations, an impressive time rebate. This is what I call the long tail of time management. When we invest our time in actions with a long tail, we continue to reap the benefits
+In John’s case, while 30 seconds of jostling was annoying, it still took less time than dislodging the tray and resolving the problem. But looking at the equation from a longer term perspective changes our calculation. Once we add up the cumulative costs of the time and frustration from today, plus tomorrow, plus hundreds of tomorrows after that, suddenly it makes sense to invest in solving the problem once and for all. Using that time frame, fixing that drawer was an absolute bargain, two minutes worth of effort to prevent hundreds of future frustrations, an impressive time rebate.
+
+This is what. I call the long tail of time management. When we invest our time in actions with a long tail, we continue to reap the benefits
 
 
 <a id="sec-044726"></a>
@@ -1851,9 +1985,9 @@ Using that time frame, fixing that drawer was an absolute bargain, two minutes w
 
 over a long period. Sometimes we get so used to the little irritations like a pencil tray lodged in a desk drawer it doesn’t even occur to us to do anything about them. Even if we are bothered by them and we complain about them, we still don’t really see them as a problem worth fixing. But what we often fail to recognize is that some tasks that seem not worth it in the moment may save us 100 times the time and aggravation over the long run.
 
-To break this habit, ask yourself, 1. What is a problem that irritates me repeatedly? 2. What is the total cost of managing that over several years? 3. What is the next step I can take immediately, in a few minutes, to move toward solving it?
+To break this habit, ask yourself, 1. What is a problem that irritates me repeatedly? 2. What is the total cost of managing that over several years? 3. What is the next step.
 
-The goal is to find the most annoying thing that can be solved in the least amount of time. Once you start asking these questions, you’ll start noticing the small actions you can take to make your life easier in the future.
+I can take immediately, in a few minutes, to move toward solving it? The goal is to find the most annoying thing that can be solved in the least amount of time. Once you start asking these questions, you’ll start noticing the small actions you can take to make your life easier in the future.
 
 For example, I once had a client who was chronically late to meetings. She knew that each time it happened it was hurting her reputation and credibility. And any time she saw an important meeting on her calendar, she experienced acute anxiety, ironically, she was so consumed with worry about being late again, she would lose track of time and her worst fear would be realized.
 
@@ -1889,53 +2023,59 @@ Canard and Chain noticed an odd occurrence at railway stations in France. The tr
 
 Finally, the story came out, earlier that year, as part of their efforts to modernize France’s rail system, SNCF had spent $20 billion on a new fleet of 2,000 trains. The French prided themselves on these modern, stat of the art machines. The fact that they were built in France, rather than imported from another country, mattered to them. There was only one problem, a full quarter of the platforms in France were 8 inches too wide for the trains to enter the station.
 
-When L. E. Canard and Chain uncovered the scale of the error and broke the story, SNCF had already quietly shaved 8 inches off the edges of 300 platforms. But 1,000 remained. The final cost to French taxpayers? $65 million.
+When L. E. Canard and Chain uncovered the scale of the error and broke the story, SNCF had already quietly shaved 8 inches off the edges of 300 platforms. But 1,000 remained.
 
-An NPR reporter asked the question on everyone’s minds when he interviewed L. E. Canard and Chain columnist, how could the SNCF, a national railroad that’s been operating since 1938, do something so dumb as buy trains that don’t fit in so many of its stations? At first the answer wasn’t clear.
+The final cost to French taxpayers? $65 million. An NPR reporter asked the question on everyone’s minds when he interviewed L. E. Canard and Chain columnist, how could the SNCF, a national railroad that’s been operating since 1938, do something so dumb as buy trains that don’t fit in so many of its stations?
 
-Then the blamestorming began. The French transport minister called the mistake a �comic drama� and pointed to the previous administration for its decision to split the national train company, SNCF, and the national rail operator, RFF, into two separate state-run entities. Eventually the problem was traced back to a simple and preventable error. RFF, which had given SNCF the dimensions, had measured only platforms built less than 30 years ago, assuming these were representative of all platforms. What they failed to take into account was the fact that many of France’s regional platforms had been built more than 50 years ago, when trains were narrower.
+At first the answer wasn’t clear. Then the blamestorming began. The French transport minister called the mistake a �comic drama� and pointed to the previous administration for its decision to split the national train company, SNCF, and the national rail operator, RFF, into two separate state-run entities. Eventually the problem was traced back to a simple and preventable error.
 
-A spokesman for the RFF unhelpfully commented, �It’s as if you have bought a Ferrari that you want to park in your garage, and you realize that your garage isn’t exactly the right size to fit a Ferrari because you didn’t have a Ferrari before.� Unfortunately, confirmed another spokesperson, they had discovered the problem a bit late. Indeed. One small assumption goes unverified. A train gets built and then purchased 2,000 times.
+RFF, which had given SNCF the dimensions, had measured only platforms built less than 30 years ago, assuming these were representative of all platforms. What they failed to take into account was the fact that many of France’s regional platforms had been built more than 50 years ago, when trains were narrower. A spokesman for the RFF unhelpfully commented, �It’s as if you have bought a Ferrari that you want to park in your garage, and you realize that your garage isn’t exactly the right size to fit a Ferrari because you didn’t have a Ferrari before.� Unfortunately, confirmed another spokesperson, they had discovered the problem a bit late.
 
-It’s the kind of mistake we’ve all made, albeit on a significantly smaller scale. The lesson is one that many of us learned doing arts and crafts as children, measure twice and cut once. Often, measuring something just once, or not at all, produces first-order consequences, the consequences are the direct and immediate results of our actions. In this case, the RFF made a faulty assumption about the uniformity of French station platforms and as a result conveyed inaccurate measurements.
+Indeed. One small assumption goes unverified. A train gets built and then purchased 2,000 times. It’s the kind of mistake we’ve all made, albeit on a significantly smaller scale.
 
-But the chain of consequences, of course, didn’t stop there. In an interrelated world, a single action can also have second-order and third-order consequences. In this case the inaccurate measurements resulted in the trains being too wide, which resulted in the need for major construction work across 300 stations, which resulted in a $65 million government expenditure money that could otherwise have been allocated to schools or hospitals or homeless shelters.
+The lesson is one that many of us learned doing arts and crafts as children, measure twice and cut once. Often, measuring something just once, or not at all, produces first-order consequences, the consequences are the direct and immediate results of our actions. In this case, the RFF made a faulty assumption about the uniformity of French station platforms and as a result conveyed inaccurate measurements. But the chain of consequences, of course, didn’t stop there.
+
+In an interrelated world, a single action can also have second-order and third-order consequences. In this case the inaccurate measurements resulted in the trains being too wide, which resulted in the need for major construction work across 300 stations, which resulted in a $65 million government expenditure money that could otherwise have been allocated to schools or hospitals or homeless shelters.
 
 
 <a id="sec-045731"></a>
 ### ⏱️ [04:57:31 - 05:02:36]
 
-Mistakes are dominoes, they have a cascading effect. When we strike at the root by catching our mistakes before they can do any damage, we don’t just prevent that first domino from toppling, we prevent the entire chain reaction. FF and Eortla Summary FF Part I, Eortla State FF What is the Eortla State? FF the Eortla State is an experience many of us have had when we are physically rested, emotionally unburdened, and mentally energized.
+Mistakes are dominoes, they have a cascading effect. When we strike at the root by catching our mistakes before they can do any damage, we don’t just prevent that first domino from toppling, we prevent the entire chain reaction. FF and Eortla Summary FF Part. I, Eortla State FF What is the Eortla State?
 
-You are completely aware, alert, present, attentive, and focused on what’s important in this moment. You are able to focus on what matters most with ease. Invert instead of asking, why is this so hard, invert the question by asking, what if this could be easy. Challenge the assumption that the right way is, inevitably, the harder one.
+FF the Eortla State is an experience many of us have had when we are physically rested, emotionally unburdened, and mentally energized. You are completely aware, alert, present, attentive, and focused on what’s important in this moment. You are able to focus on what matters most with ease. Invert instead of asking, why is this so hard, invert the question by asking, what if this could be easy.
 
-FIE make the impossible possible by ending an indirect approach. When faced with work that feels overwhelming, ask, how am I making this harder than it needs to be? Enjoy peer the most essential activities with the most enjoyable ones. That work and play can coexist.
+Challenge the assumption that the right way is, inevitably, the harder one. FIE make the impossible possible by ending an indirect approach. When faced with work that feels overwhelming, ask, how am. I making this harder than it needs to be?
 
-Turn tedious tasks into meaningful rituals. Allow laughter and fun to lighten more of your moments. Release let go of emotional burdens you don’t need to keep carrying. Remember, when you focus on what you lack, you lose what you have.
+Enjoy peer the most essential activities with the most enjoyable ones. That work and play can coexist. Turn tedious tasks into meaningful rituals. Allow laughter and fun to lighten more of your moments.
 
-When you focus on what you have, you get what you lack. Use this habit recipe, each time I complain I will say something I am thankful for. Give a grudge of its duties by asking, what job have I hired this grudge to do. Rest discover the art of doing nothing.
+Release let go of emotional burdens you don’t need to keep carrying. Remember, when you focus on what you lack, you lose what you have. When you focus on what you have, you get what you lack. Use this habit recipe, each time.
 
-Do not do more today than you can completely recover from by tomorrow. Break down essential work into three sessions of no more than 90 minutes each. F F take an E ortless nap. Notice achieve a state of heightened awareness by harnessing the power of presence.
+I complain. I will say something. I am thankful for. Give a grudge of its duties by asking, what job have.
 
-Train your brain to focus on the important and ignore the irrelevant. To see others more clearly, set aside your opinions, advice and judgment, and put their truth above your own. Clear the clutter in your physical environment before clearing the clutter in your mind. F F part 2, E ortless action F F what is E ortless action.
+I hired this grudge to do. Rest discover the art of doing nothing. Do not do more today than you can completely recover from by tomorrow. Break down essential work into three sessions of no more than 90 minutes each.
 
-F F E ortless action means a con… You stop procrastinating and take phi the RST obvious step. You arrive at the point of completion without overthinking. You make progress by pacing yourself rather than powering through.
+F F take an E ortless nap. Notice achieve a state of heightened awareness by harnessing the power of presence. Train your brain to focus on the important and ignore the irrelevant. To see others more clearly, set aside your opinions, advice and judgment, and put their truth above your own.
 
-You overachieve without overexerting. Define phi phi to get started on an essential project, RST to any what done looks like. Establish clear conditions for completion, get there, then stop. Take 60 seconds to focus on your desired outcome.
+Clear the clutter in your physical environment before clearing the clutter in your mind. F F part 2, E ortless action F F what is E ortless action. F F E ortless action means a con… You stop procrastinating and take phi the RST obvious step.
 
-Write a done for the day list. Limit it to items that would constitute meaningful progress. Start phi make the RST action the most obvious one. Phi break the RST obvious action down into the tiniest, concrete step.
+You arrive at the point of completion without overthinking. You make progress by pacing yourself rather than powering through. You overachieve without overexerting. Define phi phi to get started on an essential project, RST to any what done looks like.
 
-Then name it. FF gain maximum learning from minimal viable Eort. Start with a 10 minute microburst of focused activity to boost motivation and energy. Simplify to simplify the process, don’t simplify the steps, simply remove them.
+Establish clear conditions for completion, get there, then stop. Take 60 seconds to focus on your desired outcome. Write a done for the day list. Limit it to items that would constitute meaningful progress.
 
-Recognize that not everything requires you to go the extra mile. Maximize the steps not taken. Measure progress in the tiniest of increments. Progress when you start a project, start with rubbish.
+Start phi make the RST action the most obvious one. Phi break the RST obvious action down into the tiniest, concrete step. Then name it. FF gain maximum learning from minimal viable Eort.
 
-Adopt a zero draft approach and just put some words, any words, on the page. Fail cheaply, make learning sized mistakes. Protect your progress from the harsh critic in your head. Pace FF set an Eortless pace, slow is smooth, smooth is fast.
+Start with a 10 minute microburst of focused activity to boost motivation and energy. Simplify to simplify the process, don’t simplify the steps, simply remove them. Recognize that not everything requires you to go the extra mile. Maximize the steps not taken.
 
-Reject the false economy of powering through. Create the right range, I will never do less than X, never more than Y. Recognize that not all progress is created equal. FF part 3, Eortless results FF what are Eortless results?
+Measure progress in the tiniest of increments. Progress when you start a project, start with rubbish. Adopt a zero draft approach and just put some words, any words, on the page. Fail cheaply, make learning sized mistakes.
 
-FFFF you’ve continued to cultivate your Eortless state. You’ve started to take Eortless action with Phi clarity of objective, tiny, obvious RST steps, and a consistent pace. You are achieving the FL results you want, more easily. But now you want those results to continue to out to you, again FFFF and again, with as little additional Eort as possible.
+Protect your progress from the harsh critic in your head. Pace FF set an Eortless pace, slow is smooth, smooth is fast. Reject the false economy of powering through. Create the right range, I will never do less than X, never more than Y.
 
-You are ready to achieve Eortless results. Learn learn principles, not just facts and methods. Phi understand RST principles deeply and then apply them again and again.
+Recognize that not all progress is created equal. FF part 3, Eortless results FF what are Eortless results? FFFF you’ve continued to cultivate your Eortless state. You’ve started to take Eortless action with Phi clarity of objective, tiny, obvious RST steps, and a consistent pace.
+
+You are achieving the FL results you want, more easily. But now you want those results to continue to out to you, again FFFF and again, with as little additional Eort as possible. You are ready to achieve Eortless results. Learn learn principles, not just facts and methods.
+
+Phi understand RST principles deeply and then apply them again and again.
 
 
 <a id="sec-050236"></a>
@@ -1945,31 +2085,33 @@ Stand on the shoulders of giants and leverage the best of what they know. Develo
 
 Live what you teach, and notice how much you learn. Tell stories that are easily understood and repeated. Automate free up space in your brain by automating as many essential tasks as possible. Use checklists to get it right every time, without having to rely on memory.
 
-Seek single choices that eliminate future decisions. Take the high-tech path for the essential and the low-tech path for the non-essential. Trust leverage trust as the engine oil of frictionless and high-functioning teams. Make the right higher once, and it will continue to produce results again and again. Follow the three IS rule, hire people with integrity, intelligence, and initiative.
+Seek single choices that eliminate future decisions. Take the high-tech path for the essential and the low-tech path for the non-essential. Trust leverage trust as the engine oil of frictionless and high-functioning teams. Make the right higher once, and it will continue to produce results again and again.
 
-Design high-trust agreements to clarify results, roles, rules, resources, and rewards. Prevent don’t just manage the problem. Solve it before it happens. Seek simple actions today that can prevent complications tomorrow.
+Follow the three IS rule, hire people with integrity, intelligence, and initiative. Design high-trust agreements to clarify results, roles, rules, resources, and rewards. Prevent don’t just manage the problem. Solve it before it happens.
 
-FF Invest two minutes of E or it wants to end recurring frustrations. Catch mistakes before they happen, measure twice, so you only have to cut once. See now what happens next matters most not long ago my family and I moved into an idyllic community. White picket fences line the streets.
+Seek simple actions today that can prevent complications tomorrow. FF Invest two minutes of E or it wants to end recurring frustrations. Catch mistakes before they happen, measure twice, so you only have to cut once. See now what happens next matters most not long ago my family and.
 
-There are no street lamps. There are more horse trails than roads. Our children spent long days playing outside with our happy dog, riding horses, and playing tennis. We took morning walks and bike rides.
+I moved into an idyllic community. White picket fences line the streets. There are no street lamps. There are more horse trails than roads.
 
-We planted a garden with apple trees, grapevines, and melon plants. In short, we found ourselves living in a little piece of heaven on earth. One of our daughters, Eve, seemed especially to thrive. She is a slim, brown-eyed, blond-haired girl with a mischievous grin.
+Our children spent long days playing outside with our happy dog, riding horses, and playing tennis. We took morning walks and bike rides. We planted a garden with apple trees, grapevines, and melon plants. In short, we found ourselves living in a little piece of heaven on earth.
 
-She simply cannot stay cross. Even when she tries to be grumpy, she can do it for only a few seconds before bursting into laughter. She loves to be in nature. Some family friends of ours still recall how she climbed to the top of their massive 50-foot fir tree the first time she visited their home.
+One of our daughters, Eve, seemed especially to thrive. She is a slim, brown-eyed, blond-haired girl with a mischievous grin. She simply cannot stay cross. Even when she tries to be grumpy, she can do it for only a few seconds before bursting into laughter.
 
-She ran barefoot whenever she could, wrestled with her younger brother on the trampoline for hours at a time, named the chickens, carefully caught lizards by the dozen and gently released them. Eve read endlessly, devouring books about horses, bees, and insects. Her favorite was a series about a veterinarian’s adventures with farm animals and their owners in Yorkshire, England. She wrote about her own adventures in her journal every day.
+She loves to be in nature. Some family friends of ours still recall how she climbed to the top of their massive 50-foot fir tree the first time she visited their home. She ran barefoot whenever she could, wrestled with her younger brother on the trampoline for hours at a time, named the chickens, carefully caught lizards by the dozen and gently released them. Eve read endlessly, devouring books about horses, bees, and insects.
 
-Once, when I took Eve with me on a business trip, I called Anna from the airport and told her Eve literally hadn’t stopped talking since we left an hour and a half before. It was animated, scintillating conversation, punctuated with laughter. Then Eve turned 14. She hit a growth spurt, began to feel tired a lot, talked to us less, and took longer to do her chores.
+Her favorite was a series about a veterinarian’s adventures with farm animals and their owners in Yorkshire, England. She wrote about her own adventures in her journal every day. Once, when. I took Eve with me on a business trip, I called Anna from the airport and told her Eve literally hadn’t stopped talking since we left an hour and a half before.
 
-So, pretty edge-appropriate behavior, or so we thought. On a routine visit with a physical therapist, he noticed Eve didn’t respond properly to basic reflex tests. He took Anna aside and said, you might want to see a neurologist. We didn’t have to be told twice.
+It was animated, scintillating conversation, punctuated with laughter. Then Eve turned 14. She hit a growth spurt, began to feel tired a lot, talked to us less, and took longer to do her chores. So, pretty edge-appropriate behavior, or so we thought.
 
-From there her symptoms worsened on a daily basis. Within just a few weeks she could answer only in one-word sentences, speaking in a slurred and monotone voice. We noticed that the right-hand side of her body responded at a slower speed than the left-hand side. It took her two full minutes to write her name and hours to eat a meal.
+On a routine visit with a physical therapist, he noticed Eve didn’t respond properly to basic reflex tests. He took Anna aside and said, you might want to see a neurologist. We didn’t have to be told twice. From there her symptoms worsened on a daily basis.
 
-The light, once so vibrant and bright in Eve, dimmed. Then it seemed to go out entirely when she was hospitalized after a major seizure. What made the situation worse was that the doctors couldn’t explain any of it. They could not offer us even the beginning of a diagnosis.
+Within just a few weeks she could answer only in one-word sentences, speaking in a slurred and monotone voice. We noticed that the right-hand side of her body responded at a slower speed than the left-hand side. It took her two full minutes to write her name and hours to eat a meal. The light, once so vibrant and bright in Eve, dimmed.
 
-Every day brought more visits to respected neurologists who looked at us with furrowed brows, one of them literally shrugged his shoulders. There were tests and tests and more tests. All of them came back negative. The doctors still couldn’t find anything, not even a clue.
+Then it seemed to go out entirely when she was hospitalized after a major seizure. What made the situation worse was that the doctors couldn’t explain any of it. They could not offer us even the beginning of a diagnosis. Every day brought more visits to respected neurologists who looked at us with furrowed brows, one of them literally shrugged his shoulders.
 
-To watch our vivacious daughter in an almost constant state of freefall and have no explanation is the stuff true suffering is made of. With each unfruitful doctor’s visit, each inconclusive test, it became harder and harder to see the road ahead. The challenge before us didn’t just feel hard, it felt utterly impossible.
+There were tests and tests and more tests. All of them came back negative. The doctors still couldn’t find anything, not even a clue. To watch our vivacious daughter in an almost constant state of freefall and have no explanation is the stuff true suffering is made of.
+
+With each unfruitful doctor’s visit, each inconclusive test, it became harder and harder to see the road ahead. The challenge before us didn’t just feel hard, it felt utterly impossible.
 
 
 <a id="sec-050738"></a>
@@ -1979,9 +2121,9 @@ All we wanted in the world was for Eve to get better. That wasn’t just the mos
 
 One made this challenging situation heavier. The other made this challenging situation lighter. And we had to choose which path to take. Maybe this choice seems obvious.
 
-But it wasn’t. As parents, our instinct was to attack the problem, with full force, from all directions, worrying about her 24 sevenths, reaching out to every neurologist in the country, meeting with doctors one after the other, asking them a million questions, pulling all-nighters poring over medical journals and googling for a cure or even just a diagnosis, researching alternative medicine as a possible option. What the gravity of the situation called for, we assumed, was near superhuman effort. But such an approach would have been unsustainable, while also producing disappointing results.
+But it wasn’t. As parents, our instinct was to attack the problem, with full force, from all directions, worrying about her 24 sevenths, reaching out to every neurologist in the country, meeting with doctors one after the other, asking them a million questions, pulling all-nighters poring over medical journals and googling for a cure or even just a diagnosis, researching alternative medicine as a possible option. What the gravity of the situation called for, we assumed, was near superhuman effort.
 
-Mercifully, we took the second path. We realized that the best way to help our daughter, and our whole family, through this time was not by exerting more effort.
+But such an approach would have been unsustainable, while also producing disappointing results. Mercifully, we took the second path. We realized that the best way to help our daughter, and our whole family, through this time was not by exerting more effort.
 
 In fact, it was quite the opposite. We needed to find ways to make every day a little easier. Why? Because we needed to be able to sustain this effort for an unknown length of time.
 
@@ -2003,15 +2145,17 @@ Of course, the worry didn’t disappear entirely. There were still doctors' appo
 
 But through it all there was also singing, laughing, eating, and making memories. We didn’t just get through this difficult period, didn’t just survive it. Our experience was gentler than that. From the moment we decided to choose the easier path, we felt somehow freer and lighter.
 
-If this story were a Disney movie, this would be the part where I’d write about how Eve was healed and we all lived happily ever after. But after a round of successful treatments, she started to regress. The troubles returned. How could we have dealt with this setback had we depleted all our energy the first time around?
+If this story were a Disney movie, this would be the part where. I’d write about how Eve was healed and we all lived happily ever after. But after a round of successful treatments, she started to regress. The troubles returned.
 
-It’s been two years now. Eve continues to get better. She still has some ways to go, but as I write this we have reason to believe she will be completely healed. She smiles, laughs, and jokes.
+How could we have dealt with this setback had we depleted all our energy the first time around? It’s been two years now. Eve continues to get better. She still has some ways to go, but as.
 
-She walks, runs, and wrestles. She reads, she writes. She is thriving again. What did I learn from this experience?
+I write this we have reason to believe she will be completely healed. She smiles, laughs, and jokes. She walks, runs, and wrestles. She reads, she writes.
 
-Whatever has happened to you in life. Whatever hardship. Whatever pain.
+She is thriving again. What did. I learn from this experience? Whatever has happened to you in life.
 
-However significant those things are. They pale in comparison to the power you have to choose what to do now. The word now comes from a Latin phrase, novus homo, which means a new man or a man newly ennobled. The spirit of this is clear, each new moment is a chance to start over.
+Whatever hardship. Whatever pain.
+
+However, significant those things are. They pale in comparison to the power you have to choose what to do now. The word now comes from a Latin phrase, novus homo, which means a new man or a man newly ennobled. The spirit of this is clear, each new moment is a chance to start over.
 
 A chance to make a new choice. Just think how the trajectory of a life can shift in the most fleeting of moments. The moments where we take control, I choose, I decide, I promise, or from now on.
 
@@ -2019,103 +2163,123 @@ A chance to make a new choice. Just think how the trajectory of a life can shift
 <a id="sec-051238"></a>
 ### ⏱️ [05:12:38 - 05:17:42]
 
-The moments we let go of emotional burdens, I forgive you, I am thankful, or I’m willing to accept that. Or the moments when we make something right, please forgive me, let’s start over, I won’t give up on you, or I love you. In each new moment, we have the power to shape all subsequent moments. Whatever has happened to you in life.
+The moments we let go of emotional burdens, I forgive you, I am thankful, or. I’m willing to accept that. Or the moments when we make something right, please forgive me, let’s start over, I won’t give up on you, or. I love you.
 
-Whatever, hardship. Whatever pain. They pale in comparison to the power you have to choose what to do now. In each moment, we have a choice, do I choose the heavier or the lighter path?
+In each new moment, we have the power to shape all subsequent moments. Whatever has happened to you in life. Whatever, hardship. Whatever pain.
 
-We watched our daughter diminish into a shell of her former self and return from it. This is the personal experience that inspired me to write this book. To put into words what we learned, what we gained. To share with you the principles and practices of how to lighten our essential journey in life.
+They pale in comparison to the power you have to choose what to do now. In each moment, we have a choice, do. I choose the heavier or the lighter path? We watched our daughter diminish into a shell of her former self and return from it.
 
-If you take away just one message from this book, I hope it is this, life doesn’t have to be as hard and complicated as we make it. Each of us has, as Robert Frost wrote, promises to keep, slash and miles to go before I sleep. No matter what challenges, obstacles, or hardships we encounter along the way, we can always look for the easier, simpler path. Acknowledgements This book has been years in the making.
+This is the personal experience that inspired me to write this book. To put into words what we learned, what we gained. To share with you the principles and practices of how to lighten our essential journey in life. If you take away just one message from this book, I hope it is this, life doesn’t have to be as hard and complicated as we make it.
 
-And there are many people who have made it possible. I feel deep gratitude to the following people especially, thank you Anna Elizabeth McKeown. There is not one word in this book that doesn’t have your fingerprint on it. You create a culture around you where things grow and thrive.
+Each of us has, as Robert Frost wrote, promises to keep, slash and miles to go before. I sleep. No matter what challenges, obstacles, or hardships we encounter along the way, we can always look for the easier, simpler path. Acknowledgements.
 
-I simply cannot imagine having this, or any, book without you. For discussing 100 different titles and then some. For enabling me to write. For aspiring with me to create a family culture where what is most essential becomes effortless.
+This book has been years in the making. And there are many people who have made it possible. I feel deep gratitude to the following people especially, thank you Anna Elizabeth McKeown. There is not one word in this book that doesn’t have your fingerprint on it.
 
-Thank you, forever. Thank you to my children, Grace, Eve, Jack and Esther. You have been such wonderful sounding boards all the way through the years leading to the completion of this book. You have heard every version of the book’s title and subtitle, and have given good counsel.
+You create a culture around you where things grow and thrive. I simply cannot imagine having this, or any, book without you. For discussing 100 different titles and then some. For enabling me to write.
 
-Ditto for the cover designs. Every reader of this book owes you each a debt of gratitude for making this book less and less rubbish. Thank you also for your permission to share your stories with other people. In some cases, they are personal and, to me, sacred.
+For aspiring with me to create a family culture where what is most essential becomes effortless. Thank you, forever. Thank you to my children, Grace, Eve, Jack and Esther. You have been such wonderful sounding boards all the way through the years leading to the completion of this book.
 
-I share them here on the belief that they may be a blessing to others. Thank you. Thank you to my extended family, especially as the book was wrapping up, for reading the book and giving feedback, but even more than that, for your overall enthusiasm and encouragement. That has meant the world to me.
+You have heard every version of the book’s title and subtitle, and have given good counsel. Ditto for the cover designs. Every reader of this book owes you each a debt of gratitude for making this book less and less rubbish. Thank you also for your permission to share your stories with other people.
 
-The process has been made more special for it. Really, thank you. Thank you to Rafe Sagolin for being the greatest literary agent I could ever have hoped for. I love our conversations and insights.
+In some cases, they are personal and, to me, sacred. I share them here on the belief that they may be a blessing to others. Thank you. Thank you to my extended family, especially as the book was wrapping up, for reading the book and giving feedback, but even more than that, for your overall enthusiasm and encouragement.
 
-I am thankful for your consistent support for many years now. Thank you. Thank you, Talia Crone. What can I say?
+That has meant the world to me. The process has been made more special for it. Really, thank you. Thank you to Rafe Sagolin for being the greatest literary agent.
 
-It has been one of the joys of my professional life to have you as my editor on Essentialism and Effortless. It has been a real pleasure to go into the document and work together on it. It’s been like a scene from Harry Potter, to see improvements happening in real time. But it’s been magic in other ways too.
+I could ever have hoped for. I love our conversations and insights. I am thankful for your consistent support for many years now. Thank you.
 
-The fact that I already miss working on this project with you says it all. Thank you. Thank you, Jonathan Cullen, for being such a great addition to Team Effortless. You have been a class act, seriously.
+Thank you, Talia Crone. What can. I say? It has been one of the joys of my professional life to have you as my editor on Essentialism and Effortless.
 
-Your research and collaboration, your belief in the project, and your willingness to look for stories that surprise and delight have been thoroughly welcome, thank you. Thank you to the many of you who read the manuscript and gave feedback. I’m thinking of you Sam Bridgestock, Neil Deaver, Steve Hall, Nancy Josephson, Sariah Hold, Jade Coyle, Jim Meeks, Jason Peery, Jennifer Reed, Harry Reynolds, and Jeremy Utley. Thank you to Terry Radstone for such excellent graphical support on the many cover versions, we got to the right place and I have so valued working with you.
+It has been a real pleasure to go into the document and work together on it. It’s been like a scene from Harry Potter, to see improvements happening in real time. But it’s been magic in other ways too. The fact that.
 
-And to Denise Leon for great support on the internal graphics and for the enthusiasm you bring to everything you do. Thank you to the essentialist tribe the world over, readers, listeners, and colleagues. You give me fire for the deed each day. My goal has not been to write a book, it has been to write a book for you.
+I already miss working on this project with you says it all. Thank you. Thank you, Jonathan Cullen, for being such a great addition to Team Effortless. You have been a class act, seriously.
 
-Finally, I want to acknowledge the hand of the Lord in anything that has been successful in this process. His words take on new meaning at the end of this deep dive into what effortless really means.
+Your research and collaboration, your belief in the project, and your willingness to look for stories that surprise and delight have been thoroughly welcome, thank you. Thank you to the many of you who read the manuscript and gave feedback. I’m thinking of you Sam Bridgestock, Neil Deaver, Steve Hall, Nancy Josephson, Sariah Hold, Jade Coyle, Jim Meeks, Jason Peery, Jennifer Reed, Harry Reynolds, and Jeremy Utley. Thank you to Terry Radstone for such excellent graphical support on the many cover versions, we got to the right place and.
+
+I have so valued working with you. And to Denise Leon for great support on the internal graphics and for the enthusiasm you bring to everything you do. Thank you to the essentialist tribe the world over, readers, listeners, and colleagues. You give me fire for the deed each day.
+
+My goal has not been to write a book, it has been to write a book for you. Finally, I want to acknowledge the hand of the Lord in anything that has been successful in this process. His words take on new meaning at the end of this deep dive into what effortless really means.
 
 
 <a id="sec-051742"></a>
 ### ⏱️ [05:17:42 - 05:22:50]
 
-Breathtakingly, he said, for my yoke is easy, and my burden is light, Matt 1130. Notes Introduction Not everything has to be so hard let me tell you the story, Patrick McGinnis, the 10% entrepreneur, live your start-up dream without quitting your day job, New York, Portfolio slash Penguin, 2016, 312. This is also based on my interviews with Patrick in August 2020. I will work harder, there are many editions of George Orwell’s Animal Farm, but Boxer the Horse is described at the beginning of Chapter 3 as a strong laborer whose answer to every problem is I will work harder, which he adopts as his personal motto.
+Breathtakingly, he said, for my yoke is easy, and my burden is light, Matt 1130. Notes Introduction Not everything has to be so hard let me tell you the story, Patrick McGinnis, the 10% entrepreneur, live your start-up dream without quitting your day job, New York, Portfolio slash Penguin, 2016, 312. This is also based on my interviews with Patrick in August 2020. I will work harder, there are many editions of George Orwell’s Animal Farm, but Boxer the Horse is described at the beginning of.
 
-At the end of Chapter 9, Boxer tries to utter these words even as he is weakened and dying. Since writing Essentialism, Craig McKeown, Essentialism, The Disciplined Pursuit of Less, New York, Crown, 2014. Readers who want to design a more essential life can visit Essentialism.com. Like using special polarized sunglasses, how do polarized sunglasses work?
+#### Chapter 3 as a strong laborer whose answer to every problem is.
 
-SciShow, August 11, 2018, YouTube, www.youtube.com slash watch, v equals rklz underscore ibgo What do we live for? I have used the slightly modified version of the quote that is better known on various quotation sites, the original is what do we live for, if it is not to make life less difficult to each other. George Eliot, Middle March, A Study of Provincial Life, P. T. 8, Chapter 72, in Blackwoods 1872 Edition, Vol. 4, pages 18081 George Eliot was the pen name of the Victorian-era English poet and novelist Mary Ann Evans.
+I will work harder, which he adopts as his personal motto. At the end of.
 
-Her famous remark reads in full, Mr. Litgate would understand that if his friends hear a calumny about him their first wish must be to justify him. What do we live for, if it is not to make life less difficult to each other? I cannot be indifferent to the troubles of a man who advised me in my trouble, and attended me in my illness F. F.
+#### Chapter 9, Boxer tries to utter these words even as he is weakened and dying.
 
-Part I, E. Ortla State the best free-throw shooter ever, Dunn describes her secret in Brian Martin, Elena Dell Dunn is the greatest free-throw shooter ever, WNBA, September 7, 2018, https://www.wnba.com slash news slash Elena Dell Dunn is the greatest free-throw shooter ever slash In 2019, Dunn joined only eight NBA men in the prestigious 50-40-90 club, 50% field goals, 40% three-point shooting, and 90% free throws in a season. Scott Allen, Insane Numbers, NBA stars welcome Elena Dell Dunn to 50-40-90 club, Washington Post, September 9, 2019.
+Since writing Essentialism, Craig McKeown, Essentialism, The Disciplined Pursuit of Less, New York, Crown, 2014. Readers who want to design a more essential life can visit Essentialism.com. Like using special polarized sunglasses, how do polarized sunglasses work? SciShow, August 11, 2018, YouTube, www.youtube.com slash watch, v equals rklz underscore ibgo.
 
-Under optimal conditions, Carl Zimmer, The Brain, What is the Speed of Thought, Discover, December 16, 2009, https://www.discovermagazine.com slash Minds slash The Brain What is the Speed of Thought? Zimmer concludes, faster than a bird and slower than sound. But that may be besides the point, efficiency and timing seem to be more important anyway Perceptual Load Theory, Nilaylavi and Yahushuaq Sal, Perceptual Load as a major determinant of the locus of selection in visual attention, perception, and psychophysics Number 2, 1994-18-397 Over 6000 Thoughts a Day, and Craig, Discovery of Thought Worms Opens Window to the Mind, Queen’s Gazette, July 13, 2020, https://www.queensu.ca slash Gazette slash Stories slash Discovery Thought Worms Opens Window Mind And because our brains are programmed, A.
+What do we live for? I have used the slightly modified version of the quote that is better known on various quotation sites, the original is what do we live for, if it is not to make life less difficult to each other. George Eliot, Middle March, A Study of Provincial Life, P. T. 8, Chapter 72, in Blackwoods 1872 Edition, Vol. 4, pages 18081 George Eliot was the pen name of the Victorian-era English poet and novelist Mary Ann Evans.
 
-Txuli, L. Patriki, I. Spensa, and C. Nega, The Effect of Presentation Time and Working Memory Load on Emotion Recognition, Journal of Psychology and Cognition 2, Number 1, 2017-6166 Participants were shown photographs of fearful, angry, happy, and neutral faces during a working memory load task.
+Her famous remark reads in full, Mr. Litgate would understand that if his friends hear a calumny about him their first wish must be to justify him. What do we live for, if it is not to make life less difficult to each other? I cannot be indifferent to the troubles of a man who advised me in my trouble, and attended me in my illness F.
 
-The study found that while the participants were able to efficiently recognize happy and neutral expressions without drawing on their working memory, negative faces created longer reaction times. The results suggest that we are hardwired to more automatically recognize friendly people in our environment but that when we encounter threats we begin to draw on working memory to more properly assess them.
+F. Part. I, E. Ortla State the best free-throw shooter ever, Dunn describes her secret in Brian Martin, Elena Dell Dunn is the greatest free-throw shooter ever, WNBA, September 7, 2018, https://www.wnba.com slash news slash Elena Dell Dunn is the greatest free-throw shooter ever slash.
+
+In 2019, Dunn joined only eight NBA men in the prestigious 50-40-90 club, 50% field goals, 40% three-point shooting, and 90% free throws in a season. Scott Allen, Insane Numbers, NBA stars welcome Elena Dell Dunn to 50-40-90 club, Washington Post, September 9, 2019. Under optimal conditions, Carl Zimmer, The Brain, What is the Speed of Thought, Discover, December 16, 2009, https://www.discovermagazine.com slash Minds slash The Brain. What is the Speed of Thought?
+
+Zimmer concludes, faster than a bird and slower than sound. But that may be besides the point, efficiency and timing seem to be more important anyway Perceptual Load Theory, Nilaylavi and Yahushuaq Sal, Perceptual Load as a major determinant of the locus of selection in visual attention, perception, and psychophysics Number 2, 1994-18-397 Over 6000 Thoughts a Day, and Craig, Discovery of Thought Worms Opens Window to the Mind, Queen’s Gazette, July 13, 2020, https://www.queensu.ca slash Gazette slash Stories slash Discovery Thought Worms Opens Window Mind.
+
+And because our brains are programmed, A. Txuli, L. Patriki, I. Spensa, and C.
+
+Nega, The Effect of Presentation Time and Working Memory Load on Emotion Recognition, Journal of Psychology and Cognition 2, Number 1, 2017-6166 Participants were shown photographs of fearful, angry, happy, and neutral faces during a working memory load task. The study found that while the participants were able to efficiently recognize happy and neutral expressions without drawing on their working memory, negative faces created longer reaction times. The results suggest that we are hardwired to more automatically recognize friendly people in our environment but that when we encounter threats we begin to draw on working memory to more properly assess them.
 
 
 <a id="sec-052250"></a>
 ### ⏱️ [05:22:50 - 05:27:57]
 
-1. Invert, What if this could be easy? I’m up photoshopping pictures, Kimberly Jenkins, correspondence spanning from September 2019 June 2020. Blood, Sweat and Tears, The Long History of the Phrase Blood, Sweat and Tears, Word Histories, Accessed October 15, 2020, https://wordhistories.net slash 2019 slash 03 slash 28 slash Blood Sweat Tears slash This abbreviated version of the phrase became popular after Winston Churchill delivered a speech to the British House of Commons on May 13, 1940, having just replaced Neville Chamberlain as Prime Minister.
+1. Invert, What if this could be easy? I’m up photoshopping pictures, Kimberly Jenkins, correspondence spanning from September 2019 June 2020. Blood, Sweat and Tears, The Long History of the Phrase Blood, Sweat and Tears, Word Histories, Accessed October 15, 2020, https://wordhistories.net slash 2019 slash 03 slash 28 slash Blood Sweat Tears slash.
 
-He warned that he had nothing to offer but blood, toil, tears and sweat. The original metaphor dates to the early 17th century, when the English poet John Dunne wrote, It with thy tears, or sweat, or blout, no thing in an anatomy of the world, wherein, by occasion of the untimely death of mistreese Elizabeth Drury, the frailty and the decay of this whole world is represented, London, 1611. Cognitive Ease Principle, Daniel Kahneman, Thinking, Fast and Slow, New York, Farrer, Strauss and Giroux, 2013, Chapter 5 One must invert, always invert, Edward B.
+This abbreviated version of the phrase became popular after Winston Churchill delivered a speech to the British House of Commons on May 13, 1940, having just replaced Neville Chamberlain as Prime Minister. He warned that he had nothing to offer but blood, toil, tears and sweat. The original metaphor dates to the early 17th century, when the English poet John Dunne wrote, It with thy tears, or sweat, or blout, no thing in an anatomy of the world, wherein, by occasion of the untimely death of mistreese Elizabeth Drury, the frailty and the decay of this whole world is represented, London, 1611.
 
-Van Vlek, Current Tendencies of Mathematical Research, Bulletin of the American Mathematical Society 23, No. 1, 1916-114 The American mathematician Edward B. Van Vlek wrote in 1916 of Jacobi’s approach, It was by turning the elliptic integral inside out that Jacobi obtained his splendid theory of elliptic and theta functions. The abolitionist William Wilberforce, Robert Isaac Wilberforce and Samuel Wilberforce, The Life of William Wilberforce, London, John Murray, 1838. Wilberforce’s anti-slavery efforts, which began in 1787, are well chronicled in this biography, published five years after his death by his two sons.
+Cognitive Ease Principle, Daniel Kahneman, Thinking, Fast and Slow, New York, Farrer, Strauss and Giroux, 2013, Chapter 5 One must invert, always invert, Edward B. Van Vlek, Current Tendencies of Mathematical Research, Bulletin of the American Mathematical Society 23, No. 1, 1916-114 The American mathematician Edward B. Van Vlek wrote in 1916 of Jacobi’s approach, It was by turning the elliptic integral inside out that Jacobi obtained his splendid theory of elliptic and theta functions. The abolitionist William Wilberforce, Robert Isaac Wilberforce and Samuel Wilberforce, The Life of William Wilberforce, London, John Murray, 1838.
 
-In a letter to Reverend Thomas Clarkson, he called it the greatest cause which ever engaged the efforts of public men, life, Vol V, P44. However, that same year, his faith that he would achieve his goal waned, writing to Lord Munkaster on April 5, As for my foreign slave bill, I have, I confess, no hopes of its getting through the lords, yet I do not relish its being suffered to lie upon the shelf. A full view of all of his efforts over decades appears in the preface of life, entitled Tabular View of the Abolition of Slavery and the Slave Trade, 550.
+Wilberforce’s anti-slavery efforts, which began in 1787, are well chronicled in this biography, published five years after his death by his two sons. In a letter to Reverend Thomas Clarkson, he called it the greatest cause which ever engaged the efforts of public men, life, Vol V, P44.
 
-In 1805, Stephen wrote a pamphlet, James Stephen, War in Disguise, or, The Frauds of the Neutral Flags, London, J. Hatchett, 1805, archive.org slash details slash wir in disguise orf 00 step slash page 4 slash mode slash 2 op, q equals neutral. Beginning in January 1807, Tom Holmberg, The Axe, Orders in Council, and Sea of Great Britain on Trade, 17931812, Napoleon Series, 19952004, www.nepolianseries.org slash research slash government slash british slash decrees slash c underscore brit decrees 1 dot html. An order in council in the UK is a decree by the sovereign on the advice of the Privy Council.
+However, that same year, his faith that he would achieve his goal waned, writing to Lord Munkaster on April 5, As for my foreign slave bill, I have, I confess, no hopes of its getting through the lords, yet. I do not relish its being suffered to lie upon the shelf. A full view of all of his efforts over decades appears in the preface of life, entitled Tabular View of the Abolition of Slavery and the Slave Trade, 550.
 
-Unlike legislation, it does not require parliamentary approval. All of the 1,807 orders in council can be found at this website. Was formally outlawed, an act for the abolition of the slave trade, 47 Georgi III, session 1, cap. XXXVI While it became illegal to sell and buy slaves in the British Empire after the coming into force of the act in 1807, slavery itself continued for a generation.
+In 1805, Stephen wrote a pamphlet, James Stephen, War in Disguise, or, The Frauds of the Neutral Flags, London, J. Hatchett, 1805, archive.org slash details slash wir in disguise orf 00 step slash page 4 slash mode slash 2 op, q equals neutral. Beginning in January 1807, Tom Holmberg, The Axe, Orders in Council, and Sea of Great Britain on Trade, 17931812, Napoleon Series, 19952004, www.nepolianseries.org slash research slash government slash british slash decrees slash c underscore brit decrees 1 dot html.
 
-It was finally outlawed on August 28, 1833, by an act for the abolition of slavery throughout the British colonies, for promoting the industry of the manumitted slaves, and for compensating the persons hitherto entitled to the services of such slaves, more commonly known as the Slavery Abolition Act of 1833. Together, both pieces of legislation are known as the Abolition Acts. Southwest co-founder Herb Kelleher, T. D.
+An order in council in the UK is a decree by the sovereign on the advice of the Privy Council. Unlike legislation, it does not require parliamentary approval. All of the 1,807 orders in council can be found at this website. Was formally outlawed, an act for the abolition of the slave trade, 47 Georgi III, session 1, cap.
 
-Klein, built for change, essential traits of transformative companies, Santa Barbara, California, Pregar, 2010-51.
+XXXVI While it became illegal to sell and buy slaves in the British Empire after the coming into force of the act in 1807, slavery itself continued for a generation. It was finally outlawed on August 28, 1833, by an act for the abolition of slavery throughout the British colonies, for promoting the industry of the manumitted slaves, and for compensating the persons hitherto entitled to the services of such slaves, more commonly known as the Slavery Abolition Act of 1833.
+
+Together, both pieces of legislation are known as the Abolition Acts. Southwest co-founder Herb Kelleher, T. D. Klein, built for change, essential traits of transformative companies, Santa Barbara, California, Pregar, 2010-51.
 
 
 <a id="sec-052757"></a>
 ### ⏱️ [05:27:57 - 05:33:03]
 
-The author recounts how Kelleher told this story to a small group early in Klein’s career. Marketing author Seth Godin, Tim Ferriss, Tools of Titans, The Tactics, Routines and Habits of Billionaires, Icons, and World-Class Performers, Boston, Houghton Mifflin Harcourt, 2016 The quote from Seth Godin appears on page 239 and that of Reed Hoffman on page 230. Arianna Huffington, Arianna Huffington, The Sleep Revolution, Transforming Your Life, One Night at a Time, New York, Harmony Books, 2016, 4 Warren Buffett, Warren E. Buffett, shareholder letter, in Berkshire Hathaway 1990 Annual Report, Omaha, Berkshire Hathaway Inc. 1991, https://www.berkshirehathaway.com slash letters slash 1990.html 2.
+The author recounts how Kelleher told this story to a small group early in Klein’s career. Marketing author Seth Godin, Tim Ferriss, Tools of Titans, The Tactics, Routines and Habits of Billionaires, Icons, and World-Class Performers, Boston, Houghton Mifflin Harcourt, 2016 The quote from Seth Godin appears on page 239 and that of Reed Hoffman on page 230. Arianna Huffington, Arianna Huffington, The Sleep Revolution, Transforming. Your Life, One Night at a Time, New York, Harmony Books, 2016, 4 Warren Buffett, Warren E.
 
-Enjoy, what if this could be fun? The British activist Jane Toussaint, based on my interview with Jane and our subsequent correspondence, June-August 2020. I want to do right but not right now, Jillian Welch, look at Miss Ohio, Soul Journey, Acne Records, 2003. 3. Comic Relief is best known, see Red Nose Day 1980s, Comic Relief, ND, access September 18, 2020, comicrelief.com slash red-nose-day-1980s slash comma for the history of Comic Relief Red Nose Day It’s since become a biannual ritual, Comic Relief raises £1bn over 30-year existence, BBC News Online, March 14, 2015. 4.
+Buffett, shareholder letter, in Berkshire Hathaway 1990 Annual Report, Omaha, Berkshire Hathaway Inc. 1991, https://www.berkshirehathaway.com slash letters slash 1990.html 2. Enjoy, what if this could be fun? The British activist Jane Toussaint, based on my interview with Jane and our subsequent correspondence, June-August 2020. I want to do right but not right now, Jillian Welch, look at Miss Ohio, Soul Journey, Acne Records, 2003. 3.
 
-The Dark Playground, Tim Urban, Why Procrastinators Procrastinate, Wait But Why? October 30, 2013, weightbuty.com slash 2013 slash 10 slash Y hyphen procrastinators hyphen procrastinate dot HTML. Urban’s clever stick-figure illustrations and insights have made his Weight But Why one of the Internet’s most interesting blogs. This particular post reads in part, The Dark Playground is a place every procrastinator knows well.
+Comic Relief is best known, see Red Nose Day 1980s, Comic Relief, ND, access September 18, 2020, comicrelief.com slash red-nose-day-1980s slash comma for the history of Comic Relief Red Nose Day. It’s since become a biannual ritual, Comic Relief raises £1bn over 30-year existence, BBC News Online, March 14, 2015. 4. The Dark Playground, Tim Urban, Why Procrastinators Procrastinate, Wait. But Why?
+
+October 30, 2013, weightbuty.com slash 2013 slash 10 slash Y hyphen procrastinators hyphen procrastinate dot HTML. Urban’s clever stick-figure illustrations and insights have made his Weight. But Why one of the Internet’s most interesting blogs. This particular post reads in part, The Dark Playground is a place every procrastinator knows well.
 
 It’s a place where leisure activities happen at times when leisure activities are not supposed to be happening. The fun you have in The Dark Playground isn’t actually fun because it’s completely unearned and the air is filled with guilt, anxiety, self-hatred, and dread. Ron Culberson is good at many things, how to make difficult tasks more fun, HuffPost, October 26, 2012, https slash slash www.huvpost.com slash entry slash enjoying life underscore b underscore 2009016. Ron Culberson styles himself a funny speaker and began his career by working with people at the end of their lives as a home care social worker.
 
-Also see https slash slash ronculberson.com and Culberson’s book Do It Well. Make it fun, the key to success in life, death, and almost everything in between, Austin, Texas, Greenleaf Book Group, 2012. Take ole Kirk Christiansen, The Lego Group History, nd, access September 21, 2020, lego.com slash n hyphen a slash avouta slash lego hyphen group slash the hyphen lego hyphen group hyphen history. For more history of The Lego Group, see automatic binding bricks, nd, access September 21, 2020, lego.com slash n hyphen a slash lego hyphen history automatic binding bricks 09D1F76589D4CB48F01685E0DD0A73.
+Also see https slash slash ronculberson.com and Culberson’s book Do. It Well. Make it fun, the key to success in life, death, and almost everything in between, Austin, Texas, Greenleaf Book Group, 2012. Take ole Kirk Christiansen, The Lego Group History, nd, access September 21, 2020, lego.com slash n hyphen a slash avouta slash lego hyphen group slash the hyphen lego hyphen group hyphen history.
 
-World’s most powerful brand, Catherine Dill, lego tops global ranking of the most powerful brands in 2015, Forbes, February 19, 2015, https slash www.forbes.com slash site slash Catherine Dill slash 2015 slash 02 slash 19 slash lego tops global ranking of the most powerful brands in 2015 slash number 38A1825B26F0. Examples are similar to Habits, Dan Ariely, The Truth About Lies, The Knowledge Project podcast, May 25, 2018, https slash slash theackknowledgeeproject.libsyn.com slash irrationality bad decisions and The Truth About Lies. The act of folding, Marie Kondo, the life-changing magic of tidying up, the Japanese art of decluttering
+For more history of The Lego Group, see automatic binding bricks, nd, access September 21, 2020, lego.com slash n hyphen a slash lego hyphen history automatic binding bricks 09D1F76589D4CB48F01685E0DD0A73. World’s most powerful brand, Catherine Dill, lego tops global ranking of the most powerful brands in 2015, Forbes, February 19, 2015, https slash www.forbes.com slash site slash Catherine Dill slash 2015 slash 02 slash 19 slash lego tops global ranking of the most powerful brands in 2015 slash number 38A1825B26F0. Examples are similar to Habits, Dan Ariely, The Truth About Lies, The Knowledge Project podcast, May 25, 2018, https slash slash theackknowledgeeproject.libsyn.com slash irrationality bad decisions and The Truth About Lies.
+
+The act of folding, Marie Kondo, the life-changing magic of tidying up, the Japanese art of decluttering
 
 
 <a id="sec-053303"></a>
 ### ⏱️ [05:33:03 - 05:38:06]
 
-and organizing, Berkeley, California, 10-speed press, 2014, 73. How Agatha Christie Wrote, Hilary McCaskill, Agatha Christie at Home, London, Francis Lincoln, 2014. The author describes how Christie bought her property in the late 1930s for £6,000. She had an architect renovated, telling him, �I want a big bath and I need a ledge because I like to eat apples.� In the Agatha Christie miscellany, Cheltenham, UK, History Press, 2013, Cathy Cook writes, Christie said she did her best thinking while lying in the bath, eating apples and drinking tea.
+and organizing, Berkeley, California, 10-speed press, 2014, 73. How Agatha Christie Wrote, Hilary McCaskill, Agatha Christie at Home, London, Francis Lincoln, 2014. The author describes how Christie bought her property in the late 1930s for £6,000. She had an architect renovated, telling him, �I want a big bath and.
 
-She claimed that modern baths weren�t made with authors in mind as they were too slippery, with no nice wooden ledge to rest pencils and paper on. Go see The Blaggers Guide to, Agatha Christie, Independent, March 30, 2013, https://www.independent.co.uk � arts entertainment � book � features � The Blaggers Guide to Agatha Christie 8555068.html Beethoven prepared his coffee, Edmund Morris, Beethoven, the universal composer, New York, Douglas slash Harper Collins, 2005, 80. Morris recounts how Beethoven chained together a series of rituals, including that of the morning coffee bean count, at Unterdabling Beethoven�s home, he fell into the annual routine he would pursue for the rest of his life, spring, summer and early fall spent sketching music in the woods or wine country, winter in the city rendering his sketches into finished compositions.
+I need a ledge because. I like to eat apples.� In the Agatha Christie miscellany, Cheltenham, UK, History Press, 2013, Cathy Cook writes, Christie said she did her best thinking while lying in the bath, eating apples and drinking tea. She claimed that modern baths weren�t made with authors in mind as they were too slippery, with no nice wooden ledge to rest pencils and paper on. Go see The Blaggers Guide to, Agatha Christie, Independent, March 30, 2013, https://www.independent.co.uk � arts entertainment � book � features � The Blaggers Guide to Agatha Christie 8555068.html Beethoven prepared his coffee, Edmund Morris, Beethoven, the universal composer, New York, Douglas slash Harper Collins, 2005, 80.
 
-Thus the season of growth became associated in his mind with creativity, and leafless days with copying tryouts, rehearsals, concerts and contracts. Throughout the year, he rose at dawn, breakfasted and brewed himself the strongest possible coffee, carefully counting out sixty beans per cup, then worked till midday at his piano desk which allowed him to write and play at the same time prone to devise a ritual, Anthony Everett, Augustus, The Life of Rome�s First Emperor, New York, Random House, 2006, 120. Three release, the power of letting go fully dressed in an authentic stormtrooper costume, for those of you who, after careful reflection, would like to purchase an authentic stormtrooper costume, I understand that the Supreme Edition stormtrooper adult costume is available on Amazon for upwards of $1,000, though more moderately priced versions are also available.
+Morris recounts how Beethoven chained together a series of rituals, including that of the morning coffee bean count, at Unterdabling Beethoven�s home, he fell into the annual routine he would pursue for the rest of his life, spring, summer and early fall spent sketching music in the woods or wine country, winter in the city rendering his sketches into finished compositions. Thus the season of growth became associated in his mind with creativity, and leafless days with copying tryouts, rehearsals, concerts and contracts.
+
+Throughout the year, he rose at dawn, breakfasted and brewed himself the strongest possible coffee, carefully counting out sixty beans per cup, then worked till midday at his piano desk which allowed him to write and play at the same time prone to devise a ritual, Anthony Everett, Augustus, The Life of Rome�s First Emperor, New York, Random House, 2006, 120. Three release, the power of letting go fully dressed in an authentic stormtrooper costume, for those of you who, after careful reflection, would like to purchase an authentic stormtrooper costume, I understand that the Supreme Edition stormtrooper adult costume is available on Amazon for upwards of $1,000, though more moderately priced versions are also available.
 
 Even better, children�s versions are less expensive and perhaps more likely to meet the expectations of the wearer. The story of one Matra Hachicorn, Guy de Maupassant, The Piece of String, Project Gutenberg, Gutenberg.org slash file slash 3090 slash 3090 hyphen H slash 3090 hyphen H dot H T M number sign 2 H underscore 4 underscore 0132 comma originally published in his short story collection Miss Harriet, Paris, Victor Habbard, 1884. The Broaden and Build Theory, Barbara L. Fredrickson, The Broaden and Build Theory of Positive Emotions, Philosophical Transactions of the Royal Society of London.
 
@@ -2127,15 +2291,17 @@ Chris Williams knew what mattered, Chris Williams, let it go, a true story of tr
 <a id="sec-053806"></a>
 ### ⏱️ [05:38:06 - 05:43:08]
 
-milkshakes, it turned out that a surprising number of milkshakes were sold before 9am to people who came into the fast food restaurant alone. It was almost always the only thing they bought. They didn�t stop to drink it there, they got into their cars and drove off with it. So we asked them, �Excuse me, please, but I have to sort out this puzzle.
+milkshakes, it turned out that a surprising number of milkshakes were sold before 9am to people who came into the fast food restaurant alone. It was almost always the only thing they bought. They didn�t stop to drink it there, they got into their cars and drove off with it. So we asked them, �Excuse me, please, but.
 
-What job were you trying to do for yourself that caused you to come here and hire that milkshake?� It soon became clear that the early morning customers all had the same job to do, they had a long and boring drive to work. They needed something to keep the commute interesting. Like Wormtongue in service to the King of Rohan in the Lord of the Rings, J. R.
+I have to sort out this puzzle. What job were you trying to do for yourself that caused you to come here and hire that milkshake?� It soon became clear that the early morning customers all had the same job to do, they had a long and boring drive to work. They needed something to keep the commute interesting. Like Wormtongue in service to the King of Rohan in the Lord of the Rings, J.
 
-R. Tolkien, the Two Towers, being the second part of the Lord of the Rings, London, Alan and Onwyn, 1954. Grima Wormtongue is at first a faithful servant and advisor to King Theoden. But he later aligns himself with Rohan�s secret enemy, the wizard Saruman, whose dark magic controls the King through Wormtongue�s influence.
+R. R. Tolkien, the Two Towers, being the second part of the Lord of the Rings, London, Alan and Onwyn, 1954. Grima Wormtongue is at first a faithful servant and advisor to King Theoden.
 
-As Gandalf describes the situation to Theoden, an ever-Wormtongue�s whispering was in your ears, poisoning your thought, chilling your heart, weakening your limbs, while others watched and could do nothing, for your will was in his keeping. Tolkien was an accomplished linguist, and the name �Grima� derives from the Old English or Icelandic word meaning �mask, visor, helmet, or specter.� �Grima, Tolkien Gateway, ND, Access September 21, 2020, TolkienGateway.net slash wiki slash Grima� It was this, Higher Slow, Fire Fast, for more on this rule of thumb, see my Higher Slow, Fire Fast, Harvard Business Review, March 3, 2014.
+But he later aligns himself with Rohan�s secret enemy, the wizard Saruman, whose dark magic controls the King through Wormtongue�s influence. As Gandalf describes the situation to Theoden, an ever-Wormtongue�s whispering was in your ears, poisoning your thought, chilling your heart, weakening your limbs, while others watched and could do nothing, for your will was in his keeping. Tolkien was an accomplished linguist, and the name �Grima� derives from the Old English or Icelandic word meaning �mask, visor, helmet, or specter.� �Grima, Tolkien Gateway, ND, Access September 21, 2020, TolkienGateway.net slash wiki slash Grima� It was this, Higher Slow, Fire Fast, for more on this rule of thumb, see my Higher Slow, Fire Fast, Harvard Business Review, March 3, 2014.
 
-My friend Jonathan Cullen, this account is based on my many discussions with Jonathan over the course of writing this book in 2020. Tristan is happy and healthy, based on all the pictures his proud father keeps insisting on sending me. Maya Angelou, one of the most important lessons Dr. Maya Angelou ever taught Oprah, uploaded to YouTube May 19, 2014, https://www.youtube.com slash watch, v equals njdmokpait For after all, Henry Wadsworth Longfellow, the poet�s tale entails of a wayside in, Boston, Ticknor and Fields, 1863 For Rest, The Art of Doing Nothing Joe Mattin, Paul Sullivan, Joe Mattin�s unconventional style has made him the toast of Chicago, Chicago Tribune, September 29, 2016, https.www.chicagotribune.com slash sports slash Tgubs Joe Mattin managerial style SPT0930-20160929storey.html, and Carrie Muscat, Mattin Shakes Things Up with American Legion Week, Major League Baseball, August 20, 2015, https.www.mlb.com slash news slash Cubs Joe Mattin American Legion Week slash C144340696.
+My friend Jonathan Cullen, this account is based on my many discussions with Jonathan over the course of writing this book in 2020. Tristan is happy and healthy, based on all the pictures his proud father keeps insisting on sending me. Maya Angelou, one of the most important lessons Dr. Maya Angelou ever taught Oprah, uploaded to YouTube May 19, 2014, https://www.youtube.com slash watch, v equals njdmokpait.
+
+For after all, Henry Wadsworth Longfellow, the poet�s tale entails of a wayside in, Boston, Ticknor and Fields, 1863. For Rest, The Art of Doing Nothing Joe Mattin, Paul Sullivan, Joe Mattin�s unconventional style has made him the toast of Chicago, Chicago Tribune, September 29, 2016, https.www.chicagotribune.com slash sports slash Tgubs Joe Mattin managerial style SPT0930-20160929storey.html, and Carrie Muscat, Mattin Shakes Things Up with American Legion Week, Major League Baseball, August 20, 2015, https.www.mlb.com slash news slash Cubs Joe Mattin American Legion Week slash C144340696.
 
 Incredibly, over a five-year period, Tony Andriky, American Legion Week has come at a perfect time for the Cubs, NBC Sports, August 20, 2019, https.www.nbcsports.com slash Chicago slash Cubs slash American Legion Week has come perfect time Cubs Nicolas Castellanos Rizzo Mattin Wrigley Field Little League World Series. The best performing athletes, musicians, chess players, K. A. Erickson, R.
 
@@ -2149,9 +2315,9 @@ A. Erickson, training history, deliberate practice, and elite sports performance
 
 slash underscore slash id slash 13337513 slash Katrin Tonya Dovidstotir plays mental game win CrossFit Games. This account is also based on my interview with Ben Bergeron in July 2020 and how Katrin Dovidstotir won the CrossFit Games, Episode 65 of Bergeron’s show Chasing Excellence, March 25, 2019, YouTube, https.www.youtube.com slash watch, v equals u underscore onzufw4 Collectively we all are, D. A. Calhoun and S.
 
-M. Harding, Sleep and Hypertension External, Chest 138, No. 2, 2010 43443 People Who Got Less Than 6 Hours, Hans P. Avandongan, Greg Mayelan, Janet M. Mullington, and David F.
+M. Harding, Sleep and Hypertension External, Chest 138, No. 2, 2010 43443 People. Who Got Less Than 6 Hours, Hans P. Avandongan, Greg Mayelan, Janet M.
 
-Dingas, The Cumulative Cost of Additional Wakefulness, Dose Response Effects on Neurobehavioral Functions and Sleep Physiology from Chronic Sleep Restriction and Total Sleep Deprivation, Sleep 26, No. 2, March 20031726. The study authors concluded, �Sleepiness ratings suggest that subjects were largely unaware of these increasing cognitive deficits, which may explain why the impact of chronic sleep restriction on waking cognitive functions is often assumed to be benign. Routine nightly sleep, sleep debts accrue when nightly sleep totals six hours or fewer, pen study finds people respond poorly, while feeling only slightly tired,� Science Daily, March 14, 2003, https.www.sciencedaily.com slash releases slash 2003 slash seanwise, seanwise, i changed my sleeping habits for 30 days, here’s how it made me a better entrepreneur, ink, september 14th, 2019, https slash slash www dot ink com slash seanwise slash i changed my sleeping habits for 30 days heyrace how it made me a better entrepreneur dot html this is not surprising brian c goonia the sleep trap do sleep problems prompt entrepreneurial motives but undermine entrepreneurial means academy of management perspectives 32 june 13th 2018 22842 having seen first hand a williamson embausti michael leatherby and jay gish rest zest and my innovative best sleep and mood as drivers of entrepreneurs innovative behavior entrepreneurship theory and practice 483 number 3 september 25th 2018 582610 healthy adults spend an average jennifer levitt how much deep light and REM sleep do you need health line october 10th 2019 https slash slash www dot health line dot com slash health slash how much deep sleep do you need uninterrupted sleep is when our brainwaves institute of medicine us committee on sleep medicine and research and hr colton and bmald evoked eds sleep disorders and sleep deprivation and unmet public health problem washington dc national academies press 2006 2 water-based passive body heating shahab haggag seppaday koshnavi’s michael h smolensky kenneth r diller and richard j castriata before bedtime passive body heating by warm shower or bath to improve sleep a systematic review and meta analysis sleep medicine reviews 46 2019 12435 naps can improve performance ce milner and ka coat benefits of napping in healthy adults impact of nap length time of day age and experience with napping journal of sleep research 18 number 2 2009 27281 they can improve mood making us less impulsive and frustrated jr gold schmide p chan k camp l kakamo j roberts and p j daldin napping to modulate frustration and impulsivity a pilot study personality and individual differences 86 2015 16467 a nap was as beneficial as mednik k nakayama and r stick gold sleep dependent learning a nap is as good as a night nature neuroscience 6 number 7 2003 69798 ron churno
+Mullington, and David F. Dingas, The Cumulative Cost of Additional Wakefulness, Dose Response Effects on Neurobehavioral Functions and Sleep Physiology from Chronic Sleep Restriction and Total Sleep Deprivation, Sleep 26, No. 2, March 20031726. The study authors concluded, �Sleepiness ratings suggest that subjects were largely unaware of these increasing cognitive deficits, which may explain why the impact of chronic sleep restriction on waking cognitive functions is often assumed to be benign. Routine nightly sleep, sleep debts accrue when nightly sleep totals six hours or fewer, pen study finds people respond poorly, while feeling only slightly tired,� Science Daily, March 14, 2003, https.www.sciencedaily.com slash releases slash 2003 slash seanwise, seanwise, i changed my sleeping habits for 30 days, here’s how it made me a better entrepreneur, ink, september 14th, 2019, https slash slash www dot ink com slash seanwise slash i changed my sleeping habits for 30 days heyrace how it made me a better entrepreneur dot html this is not surprising brian c goonia the sleep trap do sleep problems prompt entrepreneurial motives but undermine entrepreneurial means academy of management perspectives 32 june 13th 2018 22842 having seen first hand a williamson embausti michael leatherby and jay gish rest zest and my innovative best sleep and mood as drivers of entrepreneurs innovative behavior entrepreneurship theory and practice 483 number 3 september 25th 2018 582610 healthy adults spend an average jennifer levitt how much deep light and REM sleep do you need health line october 10th 2019 https slash slash www dot health line dot com slash health slash how much deep sleep do you need uninterrupted sleep is when our brainwaves institute of medicine us committee on sleep medicine and research and hr colton and bmald evoked eds sleep disorders and sleep deprivation and unmet public health problem washington dc national academies press 2006 2 water-based passive body heating shahab haggag seppaday koshnavi’s michael h smolensky kenneth r diller and richard j castriata before bedtime passive body heating by warm shower or bath to improve sleep a systematic review and meta analysis sleep medicine reviews 46 2019 12435 naps can improve performance ce milner and ka coat benefits of napping in healthy adults impact of nap length time of day age and experience with napping journal of sleep research 18 number 2 2009 27281 they can improve mood making us less impulsive and frustrated jr gold schmide p chan k camp l kakamo j roberts and p j daldin napping to modulate frustration and impulsivity a pilot study personality and individual differences 86 2015 16467 a nap was as beneficial as mednik k nakayama and r stick gold sleep dependent learning a nap is as good as a night nature neuroscience 6 number 7 2003 69798 ron churno
 
 
 <a id="sec-054813"></a>
@@ -2169,21 +2335,23 @@ ronald eppstein felt his anxiety spike ronald eppstein is a professor of family 
 <a id="sec-055819"></a>
 ### ⏱️ [05:58:19 - 06:03:22]
 
-slash 0 8 slash netflix’s first ceo on read hastings dot html also see alisa abkawitz how netflix got started fortune january 28 2009 https slash slash archive dot fortune dot com slash 2009 slash 01 slash 27 slash news slash newsmakers slash hastings underscore netflix dot fortune slash index dot htm productivity expert april perry four unbelievably simple steps to double your productivity learn do become accessed october 15 2020 https slash learned obecum dot com slash wp content slash upload slash 2016 slash 11 slash four unbelievably simple steps transcript dot pdf inf underscore contact underscore key equals cb4 c4 e5 fef9 fca17 1 7 d f2 9 7 5 a 1 f 3 5 2 6 9 6 a 3 5 4 c 5 a 3 6 f 7 c 6 5 e b 8 6 2 c c 3 ca 8 f 2 can mary method marie condo the life-changing magic of tidying up the japanese art of decluttering and organizing berkeley california 10 speed press 2014 12 an alternative is offered by fumio sasaki fumio sasaki goodbye things the new japanese minimalism new york norton 2017 87 eric rise eric rise minimum viable product a guide �Startup lessons learned,� August 3, 2009, http://soloaway.pbworks.com slash w slash file slash fetch slash 858976031 percent 2 b percent 20 lessons percent 20 learned underscore percent 20 minimum percent 20 viable percent 20 product underscore percent 28 percent 20 guide2.pdf The founders of Airbnb, Rebecca Aiden, How 3 Guys turned renting air mattresses in their apartment into a $31 billion company, Airbnb, Business Insider, September 20, 2019, www.businessinsider.com slash How Airbnb was founded A Visual History 2016-2.
+slash 0 8 slash netflix’s first ceo on read hastings dot html also see alisa abkawitz how netflix got started fortune january 28 2009 https slash slash archive dot fortune dot com slash 2009 slash 01 slash 27 slash news slash newsmakers slash hastings underscore netflix dot fortune slash index dot htm productivity expert april perry four unbelievably simple steps to double your productivity learn do become accessed october 15 2020 https slash learned obecum dot com slash wp content slash upload slash 2016 slash 11 slash four unbelievably simple steps transcript dot pdf inf underscore contact underscore key equals cb4 c4 e5 fef9 fca17 1 7 d f2 9 7 5 a 1 f 3 5 2 6 9 6 a 3 5 4 c 5 a 3 6 f 7 c 6 5 e b 8 6 2 c c 3 ca 8 f 2 can mary method marie condo the life-changing magic of tidying up the japanese art of decluttering and organizing berkeley california 10 speed press 2014 12 an alternative is offered by fumio sasaki fumio sasaki goodbye things the new japanese minimalism new york norton 2017 87 eric rise eric rise minimum viable product a guide �Startup lessons learned,� August 3, 2009, http://soloaway.pbworks.com slash w slash file slash fetch slash 858976031 percent 2 b percent 20 lessons percent 20 learned underscore percent 20 minimum percent 20 viable percent 20 product underscore percent 28 percent 20 guide2.pdf The founders of Airbnb, Rebecca Aiden, How 3 Guys turned renting air mattresses in their apartment into a $31 billion company, Airbnb, Business Insider, September 20, 2019, www.businessinsider.com slash.
 
-Though she be but little she is fierce, William Shakespeare, A Midsummer Night�s Dream, Signet Classics, ed. Wolfgang Klemmen, New York, Signet, 1998. A Microburst is a meteorological, what is a microburst, national weather service, accessed October 15, 2020, http://www.weather.gov slash BMX slash outreach underscore microbursts number colon text equals a percent 20 microburst percent 20 is percent 20 a percent 20 localized percent 2c percent 20 can percent 20 b percent 20 life percent 2 threatening. A microburst in April Perry�s vernacular, April Perry, podcast 53, How to Utilize Pockets of Time, June 6, 2019, learn do become, http://learnedobecum.com slash episode 53 slash The now we experience lasts only 2.5 seconds, Laura Spinney, The Time Illusion, How Your Brain Creates Now, New Scientist, January 7, 2015.
+How Airbnb was founded A Visual History 2016-2. Though she be but little she is fierce, William Shakespeare, A Midsummer Night�s Dream, Signet Classics, ed. Wolfgang Klemmen, New York, Signet, 1998. A Microburst is a meteorological, what is a microburst, national weather service, accessed October 15, 2020, http://www.weather.gov slash BMX slash outreach underscore microbursts number colon text equals a percent 20 microburst percent 20 is percent 20 a percent 20 localized percent 2c percent 20 can percent 20 b percent 20 life percent 2 threatening.
 
-The author first introduced me to this measurement. She in turn is quoting Mark Whitman, founder of the Mark Whitman Institute for Frontier Areas of Psychology and Mental Health in Freiburg, Germany. Whitman said, �Your sense of nowness underpins your entire conscious experience.� 8. Simplif Y, start with 0 Perry Hartman, conversation with Perry Hartman, April 17, 2020.
+A microburst in April Perry�s vernacular, April Perry, podcast 53, How to Utilize Pockets of Time, June 6, 2019, learn do become, http://learnedobecum.com slash episode 53 slash The now we experience lasts only 2.5 seconds, Laura Spinney, The Time Illusion, How. Your Brain Creates.
 
-They should be able to click on one thing, Richard L. Brandt, one-click, Jeff Bezos and the rise of Amazon.com, New York, portfolio slash Penguin, 2011. Amazon filed a patent, Mike Arsenault, how valuable is Amazon�s one-click patent? It�s worth billions, Rejoiner, accessed October 15, 2020, http://rejoiner.com slash resources slash Amazon one-click patent.
+Now, New Scientist, January 7, 2015. The author first introduced me to this measurement. She in turn is quoting Mark Whitman, founder of the Mark Whitman Institute for Frontier Areas of Psychology and Mental Health in Freiburg, Germany. Whitman said, �Your sense of nowness underpins your entire conscious experience.� 8.
 
-A tiny but pivotal moment, Louis V. Gerstner, Jr., who says elephants can�t dance, New York, Harper Business, 2003, 43. Can you click the button that says �Burn, Far Hot Man Jew, Invincible Apple, 10 Lessons
+Simplif Y, start with 0 Perry Hartman, conversation with Perry Hartman, April 17, 2020. They should be able to click on one thing, Richard L. Brandt, one-click, Jeff Bezos and the rise of Amazon.com, New York, portfolio slash Penguin, 2011. Amazon filed a patent, Mike Arsenault, how valuable is Amazon�s one-click patent?
+
+It�s worth billions, Rejoiner, accessed October 15, 2020, http://rejoiner.com slash resources slash Amazon one-click patent. A tiny but pivotal moment, Louis V. Gerstner, Jr., who says elephants can�t dance, New York, Harper Business, 2003, 43. Can you click the button that says �Burn, Far Hot Man Jew, Invincible Apple, 10 Lessons
 
 
 <a id="sec-060322"></a>
 ### ⏱️ [06:03:22 - 06:08:26]
 
-from the Coolest Company Anywhere, Fast Company,� July 1, 2010, https://www.fastcompany.com slash 1659056 slash Invincible Apple 10 Lessons Coolest Company Anywhere. Manifesto for Agile Software Development, Jim Highsmith, History, The Agile Manifesto, Agile Alliance, 2001, agilemanifesto.org slash history.html As sports writer Andy Benoit observes, Andy Benoit, Andy Benoit�s touchdown 2006, everything you need to know about the NFL this year, New York, Valentine books, July 14, 2006. 9. Progress, the courage to be rubbish a British industrialist named Henry Creamer, Anthony Morris, A Willingness to Fail Solved the Problem of Human-Powered Flight, Financial Review, October 6, 2015, https://www.afrakom.org and careers slash management slash Being Willing to Fail Solved the Problem of Human-Powered Flight 20151016GKB658.
+from the Coolest Company Anywhere, Fast Company,� July 1, 2010, https://www.fastcompany.com slash 1659056 slash Invincible Apple 10 Lessons Coolest Company Anywhere. Manifesto for Agile Software Development, Jim Highsmith, History, The Agile Manifesto, Agile Alliance, 2001, agilemanifesto.org slash history.html. As sports writer Andy Benoit observes, Andy Benoit, Andy Benoit�s touchdown 2006, everything you need to know about the NFL this year, New York, Valentine books, July 14, 2006. 9. Progress, the courage to be rubbish a British industrialist named Henry Creamer, Anthony Morris, A Willingness to Fail Solved the Problem of Human-Powered Flight, Financial Review, October 6, 2015, https://www.afrakom.org and careers slash management slash Being Willing to Fail Solved the Problem of Human-Powered Flight 20151016GKB658.
 
 No matter how ugly it is, Paul McCready and John Langford, Human-Powered Flight, Perspectives on Processes and Potentials, MIT 1998 Gardner Lecture, uploaded to YouTube November 13, 2019, https://www.youtube.com slash Watch, v equals t8c8bb underscore 7nw we all start out ugly. A version of this article appeared in the April 2014 issue of Fast Company magazine, Ed Catmull, Lessons from Pixar president Ed Catmull, Your ideas are ugly babies, you are their champion, https://www.fastcompany.com slash 3027548 slash Pixar�s. Ed Catmull on the importance of protecting new ideas.
 
@@ -2191,7 +2359,9 @@ Green housing protects their early ideas, John Click, Culture Eats Strategy, usi
 
 A word after a word after a word, Chris Knight, Chris Knight, A word after a word after a word is power is a celebration of all things at Wudion, National Post, November 6, 2019, https://nationalpost.com slash entertainment slash movies slash Chris Knight A word after a word after a word is power is a celebration of all things at Wudion. 10. Pace, slow is smooth, smooth is fast the most sought after goal, Roland Huntford�s The Last Place on Earth, Scott and Amundsen�s Race to the South Pole, New York, Athenaeum, 1983, tells the story in exquisite detail.
 
-She was prolific, conversation with Janice Kapp Perry, May 10, 2020. See also Susan Easton Black and Mary Jane Woodger, Women of Character, profiles of 100 prominent LDS women, American Fork, Utah, Covenant Communications, 22729. Lisa Jewell, Lucy Moore, Before I Met You by Lisa Jewell, female 1st, May 23, 2013, https://www.female1st.co.uk slash book slash Before I Met You 292526.html
+She was prolific, conversation with Janice Kapp Perry, May 10, 2020. See also Susan Easton Black and Mary Jane Woodger, Women of Character, profiles of 100 prominent LDS women, American Fork, Utah, Covenant Communications, 22729. Lisa Jewell, Lucy Moore, Before. I Met.
+
+You by Lisa Jewell, female 1st, May 23, 2013, https://www.female1st.co.uk slash book slash. Before I Met. You 292526.html
 
 
 <a id="sec-060826"></a>
@@ -2209,7 +2379,7 @@ Walton, Cambridge, Massachusetts, Harvard University Press, 1957. 11. Learn, Lev
 
 Peter Kaufman, The Three Buckets of Knowledge, F. S. Blog, February 2016, https://fs.blog slash 2016 slash 02 slash Three Buckets Lessons of History slash Christmas Cards to Almost 600 Complete Strangers, P. R.
 
-Coons and M. Wilcott, Seasons Greetings, From My Status to Yours, Social Science Research 5, number 3, 197626978 He was once asked how, cama, ask me anything, question and answer session with Elon Musk on Reddit, January 5, 2015, https://www.reddit.com slash r slash ima slash comments slash turexin slash i underscore am underscore elon underscore musk underscore ciacto underscore of underscore a underscore rocket underscore company underscore ama slash musk writes, I think most people can learn a lot more than they think they can.
+Coons and M. Wilcott, Seasons Greetings, From. My Status to Yours, Social Science Research 5, number 3, 197626978. He was once asked how, cama, ask me anything, question and answer session with Elon Musk on Reddit, January 5, 2015, https://www.reddit.com slash r slash ima slash comments slash turexin slash i underscore am underscore elon underscore musk underscore ciacto underscore of underscore a underscore rocket underscore company underscore ama slash musk writes, I think most people can learn a lot more than they think they can.
 
 They sell themselves short without trying. One bit of advice, it is important to view knowledge as sort of a semantic tree make sure you understand the fundamental principles, i.e. the trunk and big branches, before you
 
@@ -2225,53 +2395,57 @@ Munger’s Approach to Investing, Tren Griffin, Charlie Munger, The Complete Inv
 
 Joel and Ethan Cohn’s first blockbuster film, Hidden Connections Conference, Nanyang Technological University, Singapore, March 31, 2015, YouTube, https://www.youtube.com/.watch. v=“mskaff408”. Four books a year, Andrew Perrin, slightly fewer Americans are reading print books, new survey finds, Pew Research Center, October 19, 2015, https://www.pewresearch.org/.facttank/.2015-10-19. Slightly fewer Americans are reading print books, new survey finds/. This survey also found that 7 in 10 American adults, 72%, had read a book within the past year, whether in whole or in part and in any format, down from 79%.
 
-Happily, this number rises to 80% among adults aged 1829, proving that contrary to popular opinion, millennials do in fact read. Choose the Lindy Effect, How to Choose Your Next Book, F. S. Blog, August 2013, https://fs.blog slash 2013 slash 08 slash Choose Your Next Book slash Highjumper Dick Fosbury, Avichar Kam, You’re Not a Two-Legged Camel You’re Just Different, Medium, January 18, 2019, slash Medium.com slash Atavica slash Two-Legged Camel 9E60EB09EB57.
+Happily, this number rises to 80% among adults aged 1829, proving that contrary to popular opinion, millennials do in fact read. Choose the Lindy Effect, How to Choose. Your Next Book, F. S.
 
-See also how one man changed the high jump forever, the Olympics on the record, April 1, 2018, YouTube, https://www.youtube.com slash Watch, v equal CZSH46EK2AO. 12 Lift, harness the strength of 10 Project Protect, a collaboration among various community groups, https://projectprotect.health slash Number slash ESOP was a storyteller, ESOP, Britannica, accessed October 15, 2020, https://www.britannica.com slash Biography slash ESOP. Sesame Street Simple, Robert Sutton and Huggie Rao, scaling up excellence, getting to more without settling for less, New York, Random House Business, 2016. Sutton and Rao attribute this principle to former proctor and gamble CEO AG.
+Blog, August 2013, https://fs.blog slash 2013 slash 08 slash Choose. Your Next Book slash Highjumper Dick Fosbury, Avichar Kam, You’re Not a Two-Legged Camel. You’re Just Different, Medium, January 18, 2019, slash Medium.com slash Atavica slash Two-Legged Camel 9E60EB09EB57. See also how one man changed the high jump forever, the Olympics on the record, April 1, 2018, YouTube, https://www.youtube.com slash Watch, v equal CZSH46EK2AO. 12 Lift, harness the strength of 10 Project Protect, a collaboration among various community groups, https://projectprotect.health slash Number slash ESOP was a storyteller, ESOP, Britannica, accessed October 15, 2020, https://www.britannica.com slash Biography slash ESOP.
 
-Laffley, who believes that his Sesame Street Simple slogans, repeated over and over, keep everyone trained on what’s important. Five-year-olds everywhere agree.
+Sesame Street Simple, Robert Sutton and Huggie Rao, scaling up excellence, getting to more without settling for less, New York, Random House Business, 2016. Sutton and Rao attribute this principle to former proctor and gamble CEO AG. Laffley, who believes that his Sesame Street Simple slogans, repeated over and over, keep everyone trained on what’s important. Five-year-olds everywhere agree.
 
 
 <a id="sec-061831"></a>
 ### ⏱️ [06:18:31 - 06:23:34]
 
-13 Automate, do it once and never again Civilization advances by extending, Alfred North Whitehead, an introduction to mathematics, London, Williams and Norgate, 1911, 61. Major Hill’s tragic oversight, Atul Gawande, the checklist manifesto, how to get things right, New York, Metropolitan Books, 2009, 33. Humans have a tremendous capacity, Paul Reber, What is the Memory Capacity of the Human Brain, Scientific American, May 1, 2010, https://www.scientificamerican.com slash article slash What is the Memory Capacity slash Stephen and Irene Richards, https://www.legacy.com slash obituaries slash Salt Lake Tribune slash obituary.aspx.n equals Irene Gattis and PID equals 170495784 and FHID equals 11607.
+13 Automate, do it once and never again Civilization advances by extending, Alfred North Whitehead, an introduction to mathematics, London, Williams and Norgate, 1911, 61. Major Hill’s tragic oversight, Atul Gawande, the checklist manifesto, how to get things right, New York, Metropolitan Books, 2009, 33. Humans have a tremendous capacity, Paul Reber, What is the Memory Capacity of the Human Brain, Scientific American, May 1, 2010, https://www.scientificamerican.com slash article slash. What is the Memory Capacity slash Stephen and Irene Richards, https://www.legacy.com slash obituaries slash Salt Lake Tribune slash obituary.aspx.n equals Irene Gattis and PID equals 170495784 and FHID equals 11607.
 
-Admittedly I was a bit careless, Alexander Semer, Teenagers Parking Appeals website saves motorists £2 million after overturning thousands of fines, Independent, December 29, 2015, https://www.independent.co.uk slash news slash UK slash home news slash Teenagers Parking Appeals website saves motorists £2 million after overturning thousands fines a 6789711.html. See also https://donotpay.com slash and meet the teen taking on the parking ticket, BBC News, September 6, 2015, https://www.bbc.co.uk slash program slash P031RMQB. In 2012, leaders at Expedia, Dan Heath, How Expedia solved the $100 million customer service nightmare, Medium, March 3, 2020, https://marker.medium.com slash How Expedia solved a $100 million customer service nightmare D7AABC8D4025.
+Admittedly. I was a bit careless, Alexander Semer, Teenagers Parking Appeals website saves motorists £2 million after overturning thousands of fines, Independent, December 29, 2015, https://www.independent.co.uk slash news slash UK slash home news slash Teenagers Parking Appeals website saves motorists £2 million after overturning thousands fines a 6789711.html. See also https://donotpay.com slash and meet the teen taking on the parking ticket, BBC News, September 6, 2015, https://www.bbc.co.uk slash program slash P031RMQB. In 2012, leaders at Expedia, Dan Heath, How Expedia solved the $100 million customer service nightmare, Medium, March 3, 2020, https://marker.medium.com slash.
 
-Ryan O’Neill confirmed this account to me in a conversation in August 2020. 14. Trust, the engine of high-leverage teams closed the McLean deal, Warren Buffett, Chairman’s Letter, February 27, 2004, Berkshire Hathaway, Annual Report, P6, https slash Berkshire Hathaway dot com slash Letters slash 2003 LTR dot PDF. Steve Hall, a successful entrepreneur, based on a conversation with Hall on August 25, 2020. Warren Buffett uses three criteria, Warren Buffett speaks with Florida University, YouTube, October 15, 1998, uploaded to YouTube July 3, 2013, https slash slash www.youtube.com slash watch.
+How Expedia solved a $100 million customer service nightmare D7AABC8D4025. Ryan O’Neill confirmed this account to me in a conversation in August 2020. 14. Trust, the engine of high-leverage teams closed the McLean deal, Warren Buffett, Chairman’s Letter, February 27, 2004, Berkshire Hathaway, Annual Report, P6, https slash Berkshire Hathaway dot com slash Letters slash 2003 LTR dot PDF. Steve Hall, a successful entrepreneur, based on a conversation with Hall on August 25, 2020.
 
-V equals 2 McCaben Jira and T equals 1050s. When people trust you, Kim Scott, Radical Kander, Fully Revised and Updated Edition, be a kick-ass boss without losing your humanity, New York, St. Martin’s Publishing Group, 2019-9. Lean Construction Institute, accessed October 15, 2020, https slash slash www.leanconstruction.org slash 15.
+Warren Buffett uses three criteria, Warren Buffett speaks with Florida University, YouTube, October 15, 1998, uploaded to YouTube July 3, 2013, https slash slash www.youtube.com slash watch. V equals 2 McCaben Jira and T equals 1050s. When people trust you, Kim Scott, Radical Kander, Fully Revised and Updated Edition, be a kick-ass boss without losing your humanity, New York, St. Martin’s Publishing Group, 2019-9.
 
-Prevent, solved the problem before it happens in 1977, Ali Maumalin was a hospital cook, Alexa C. Madrigal, the last smallpox patient on Earth, the case of Ali Maumalin, a Somalian cook, the Atlantic, December 9, 2013, https slash slash www.theatlantic.com slash health slash archive slash 2013 slash 12 slash the last smallpox patient on Earth slash 282169 slash. John opened a desk drawer, David Allen, getting things done, the art of stress-free productivity, New York, Penguin Books, 2015, 237. As David Allen adds, when describing what he called this simple but extraordinary next action technique, his long-time friend and management consulting mentor Dean Ackison is of no relation to the former secretary of state.
+Lean Construction Institute, accessed October 15, 2020, https slash slash www.leanconstruction.org slash 15. Prevent, solved the problem before it happens in 1977, Ali Maumalin was a hospital cook, Alexa C. Madrigal, the last smallpox patient on Earth, the case of Ali Maumalin, a Somalian cook, the Atlantic, December 9, 2013, https slash slash www.theatlantic.com slash health slash archive slash 2013 slash 12 slash the last smallpox patient on Earth slash 282169 slash. John opened a desk drawer, David Allen, getting things done, the art of stress-free productivity, New York, Penguin Books, 2015, 237.
 
-There are a thousand hacking at the branches, Henry David Thoreau, Walden, New York, Thomas Wycrowell, 1910, 98.
+As David Allen adds, when describing what he called this simple but extraordinary next action technique, his long-time friend and management consulting mentor Dean Ackison is of no relation to the former secretary of state. There are a thousand hacking at the branches, Henry David Thoreau, Walden, New York, Thomas Wycrowell, 1910, 98.
 
 
 <a id="sec-062334"></a>
 ### ⏱️ [06:23:34 - 06:28:39]
 
-Suddenly, Mary’s heart stopped, Michael A. Roberto, know what you don’t know, how great leaders prevent problems before they happen, Upper Saddle River, New Jersey, Pearson Education, 2009-1. In 2014, the French satirical newspaper, French Red Faces Over Trains That Are Too Wide, BBC News, May 20, 2014, https slash slash www.bbc.com slash news slash WorldEurope27497727 See also French trains are too wide for stations, NPR, May 22, 2014, https slash slash www.npr.org slash 2014 slash 05 slash 22 slash 314925114 slash French trains are too wide for stations.
+Suddenly, Mary’s heart stopped, Michael A. Roberto, know what you don’t know, how great leaders prevent problems before they happen, Upper Saddle River, New Jersey, Pearson Education, 2009-1. In 2014, the French satirical newspaper, French Red Faces Over Trains. That Are Too Wide, BBC News, May 20, 2014, https slash slash www.bbc.com slash news slash WorldEurope27497727 See also French trains are too wide for stations, NPR, May 22, 2014, https slash slash www.npr.org slash 2014 slash 05 slash 22 slash 314925114 slash French trains are too wide for stations.
 
-Conclusion Now, what happens next matters most promises to keep, slash and miles to go before I sleep, Robert Frost, stopping bywoods on a snowy evening, in New Hampshire, New York, Henry Holt, 1923. About the author GMK is the host of the What’s Essential podcast, a business strategist, a public speaker, and a best-selling author. He has been featured in the New York Times, Fast Company, Fortune, Politico and Inc., and is among the most popular bloggers for Harvard Business Review and LinkedIn. The McKeown has been interviewed on NPR, NBC, Fox and The Steve Harvey Show.
+Conclusion. Now, what happens next matters most promises to keep, slash and miles to go before. I sleep, Robert Frost, stopping bywoods on a snowy evening, in New Hampshire, New York, Henry Holt, 1923. About the author GMK is the host of the.
 
-He serves as a young global leader for the World Economic Forum. See one The Essentialist T. Linyutang Sam Elliott asterisk is a capable executive in Silicon Valley who found himself stretched too thin after his company was acquired by a larger, bureaucratic business. He was in earnest about being a good citizen in his new role so he said yes to many requests without really thinking about it.
+What’s Essential podcast, a business strategist, a public speaker, and a best-selling author. He has been featured in the New York Times, Fast Company, Fortune, Politico and Inc., and is among the most popular bloggers for Harvard Business Review and LinkedIn. The McKeown has been interviewed on NPR, NBC, Fox and The Steve Harvey Show. He serves as a young global leader for the World Economic Forum.
 
-But as a result he would spend the whole day rushing from one meeting and conference call to another trying to please everyone and get it all done. His stress went up as the quality of his work went down. It was like he was majoring in minor activities and as a result, his work became unsatisfying for him and frustrating for the people he was trying so hard to please. In the midst of his frustration the company came to him and offered him an early retirement package.
+See one The Essentialist T. Linyutang Sam Elliott asterisk is a capable executive in Silicon Valley who found himself stretched too thin after his company was acquired by a larger, bureaucratic business. He was in earnest about being a good citizen in his new role so he said yes to many requests without really thinking about it. But as a result he would spend the whole day rushing from one meeting and conference call to another trying to please everyone and get it all done.
 
-But he was in his early fifties and had no interest in completely retiring. He thought briefly about starting a consulting company doing what he was already doing. He even thought of selling his services back to his employer as a consultant. But none of these options seemed that appealing.
+His stress went up as the quality of his work went down. It was like he was majoring in minor activities and as a result, his work became unsatisfying for him and frustrating for the people he was trying so hard to please. In the midst of his frustration the company came to him and offered him an early retirement package. But he was in his early fifties and had no interest in completely retiring.
 
-So he went to speak with a mentor who gave him surprising advice, stay, but do what you would as a consultant and nothing else. And don’t tell anyone.
+He thought briefly about starting a consulting company doing what he was already doing. He even thought of selling his services back to his employer as a consultant. But none of these options seemed that appealing. So he went to speak with a mentor who gave him surprising advice, stay, but do what you would as a consultant and nothing else.
 
-In other words, his mentor was advising him to do only those things that he deemed essential and ignore everything else that was asked of him. The executive followed the advice. He made a daily commitment toward cutting out the red tape. He began saying no. He was tentative at first.
+And don’t tell anyone. In other words, his mentor was advising him to do only those things that he deemed essential and ignore everything else that was asked of him. The executive followed the advice. He made a daily commitment toward cutting out the red tape.
 
-He would evaluate requests based on the timid criteria, can I actually fulfill this request, given the time and resources I have? If the answer was no then he would refuse the request. He was pleasantly surprised to find that while people would at first look a little disappointed, they seemed to respect his honesty. Encouraged by his small wins he pushed back a bit more.
+He began saying no. He was tentative at first. He would evaluate requests based on the timid criteria, can. I actually fulfill this request, given the time and resources.
 
-Now when a request would come in he would pause and evaluate the request against a tougher criteria, is this the very most important thing I should be doing with my time and resources right now? If he couldn’t answer a definitive yes, then he would refuse the request. And once again to his delight, while his colleagues might initially seem disappointed, they soon began to respect him more for his refusal, not less. Emboldened, he began to apply this selective criteria to everything, not just direct requests.
+I have? If the answer was no then he would refuse the request. He was pleasantly surprised to find that while people would at first look a little disappointed, they seemed to respect his honesty. Encouraged by his small wins he pushed back a bit more.
 
-In his past life he would always volunteer for presentations or assignments that came up last minute, now he found a way to not sign up for them. He used to be one of the first to jump in on an email trail, but now he just stepped back and let others jump in. He stopped attending conference calls that he only had a couple of minutes of interest in. He stopped sitting in on the weekly update call because he didn’t need the information.
+Now when a request would come in he would pause and evaluate the request against a tougher criteria, is this the very most important thing. I should be doing with my time and resources right now? If he couldn’t answer a definitive yes, then he would refuse the request. And once again to his delight, while his colleagues might initially seem disappointed, they soon began to respect him more for his refusal, not less.
 
-He stopped attending meetings on his calendar if he didn’t have a direct contribution to make. He explained to me, just because I was invited didn’t seem a good enough reason to attend. It felt self-indulgent at first. But by being selective he bought himself space, and in that space he found creative freedom.
+Emboldened, he began to apply this selective criteria to everything, not just direct requests. In his past life he would always volunteer for presentations or assignments that came up last minute, now he found a way to not sign up for them. He used to be one of the first to jump in on an email trail, but now he just stepped back and let others jump in. He stopped attending conference calls that he only had a couple of minutes of interest in.
+
+He stopped sitting in on the weekly update call because he didn’t need the information. He stopped attending meetings on his calendar if he didn’t have a direct contribution to make. He explained to me, just because. I was invited didn’t seem a good enough reason to attend.
+
+It felt self-indulgent at first. But by being selective he bought himself space, and in that space he found creative freedom.
 
 
 <a id="sec-062839"></a>
@@ -2281,31 +2455,31 @@ He could concentrate his efforts on one project at a time. He could plan thoroug
 
 His new-found commitment to doing only the things that were truly important and eliminating everything else restored the quality of his work. Instead of making just a millimeter of progress in a million directions he began to generate tremendous momentum toward accomplishing the things that were truly vital. He continued this for several months. He immediately found that he not only got more of his day back at work, in the evenings he got even more time back at home.
 
-He said, “I got back my family life.” I can go home at a decent time. Now instead of being a slave to his phone he shuts it down. He goes to the gym. He goes out to eat with his wife.
+He said, “I got back my family life.”. I can go home at a decent time. Now instead of being a slave to his phone he shuts it down. He goes to the gym.
 
-To his great surprise, there were no negative repercussions to his experiment. His manager didn’t chastise him. His colleagues didn’t resent him. Quite the opposite, because he was left only with projects that were meaningful to him and actually valuable to the company, they began to respect and value his work more than ever.
+He goes out to eat with his wife. To his great surprise, there were no negative repercussions to his experiment. His manager didn’t chastise him. His colleagues didn’t resent him.
 
-His performance ratings went up. He ended up with one of the largest bonuses of his career. In this example is the basic value proposition of essentialism, only once you give yourself permission to stop trying to do it all, to stop saying yes to everyone, can you make your highest contribution toward the things that really matter? What about you?
+Quite the opposite, because he was left only with projects that were meaningful to him and actually valuable to the company, they began to respect and value his work more than ever. His performance ratings went up. He ended up with one of the largest bonuses of his career. In this example is the basic value proposition of essentialism, only once you give yourself permission to stop trying to do it all, to stop saying yes to everyone, can you make your highest contribution toward the things that really matter?
 
-How many times have you reacted to a request by saying yes without really thinking about it? How many times have you resented committing to do something and wondered, why did I sign up for this? How often do you say yes simply to please? Or to avoid trouble?
+What about you? How many times have you reacted to a request by saying yes without really thinking about it? How many times have you resented committing to do something and wondered, why did. I sign up for this?
 
-Or because yes had just become your default response? Now let me ask you this, have you ever found yourself stretched too thin? Have you ever felt both overworked and underutilized? Have you ever found yourself majoring in minor activities?
+How often do you say yes simply to please? Or to avoid trouble? Or because yes had just become your default response? Now let me ask you this, have you ever found yourself stretched too thin?
 
-Do you ever feel busy but not productive? Like you’re always in motion, but never getting anywhere? If you answered yes to any of these, the way out is the way of the essentialist. The way of the essentialist Dieter Rams was the lead designer at Braun for many years.
+Have you ever felt both overworked and underutilized? Have you ever found yourself majoring in minor activities? Do you ever feel busy but not productive? Like you’re always in motion, but never getting anywhere?
 
-He is driven by the idea that almost everything is noise. He believes very few things are essential. His job is to filter through that noise until he gets to the essence.
+If you answered yes to any of these, the way out is the way of the essentialist. The way of the essentialist Dieter Rams was the lead designer at Braun for many years. He is driven by the idea that almost everything is noise. He believes very few things are essential.
 
-For example, as a young 24-year-old at the company he was asked to collaborate on a record player. The norm at the time was to cover the turntable in a solid wooden lid or even to incorporate the player into a piece of living room furniture. Instead, he and his team removed the clutter and designed a player with a clear plastic cover on the top and nothing more. It was the first time such a design had been used, and it was so revolutionary people worried it might bankrupt the company because nobody would buy it.
+His job is to filter through that noise until he gets to the essence. For example, as a young 24-year-old at the company he was asked to collaborate on a record player. The norm at the time was to cover the turntable in a solid wooden lid or even to incorporate the player into a piece of living room furniture. Instead, he and his team removed the clutter and designed a player with a clear plastic cover on the top and nothing more.
 
-It took courage, as it always does, to eliminate the non-essential. By the 60s this aesthetic started to gain traction. In time it became the design every other record player followed. Dieter’s design criteria can be summarized by a characteristically succinct principle, captured in just three German words, Weniger Aber Besser.
+It was the first time such a design had been used, and it was so revolutionary people worried it might bankrupt the company because nobody would buy it. It took courage, as it always does, to eliminate the non-essential. By the 60s this aesthetic started to gain traction. In time it became the design every other record player followed.
 
-The English translation is, less but better. A more fitting definition of essentialism would be hard to come by. The way of the essentialist is the relentless pursuit of less but better. It doesn’t mean occasionally giving a nod to the principle.
+Dieter’s design criteria can be summarized by a characteristically succinct principle, captured in just three German words, Weniger Aber Besser. The English translation is, less but better. A more fitting definition of essentialism would be hard to come by. The way of the essentialist is the relentless pursuit of less but better.
 
-It means pursuing it in a disciplined way. The way of the essentialist isn’t about setting New Year’s resolutions to say no more, or about pruning your inbox, or about mastering some new strategy in time management. It is about pausing constantly to ask, am I investing in the right activities? There are far more activities and opportunities in the world than we have time and resources to invest in.
+It doesn’t mean occasionally giving a nod to the principle. It means pursuing it in a disciplined way. The way of the essentialist isn’t about setting New Year’s resolutions to say no more, or about pruning your inbox, or about mastering some new strategy in time management. It is about pausing constantly to ask, am.
 
-And although many of them may be good, or even very good, the fact is that most are trivial and few are vital. The way of the essentialist involves learning to tell the difference learning to filter through all those options and selecting only those that are truly essential. Essentialism is not about how to get more things done, it’s about how to get the right things done. It doesn’t mean just doing less for the sake of less either.
+I investing in the right activities? There are far more activities and opportunities in the world than we have time and resources to invest in. And although many of them may be good, or even very good, the fact is that most are trivial and few are vital. The way of the essentialist involves learning to tell the difference learning to filter through all those options and selecting only those that are truly essential.
 
-It is about making the wisest possible investment of your time and energy in order to operate at our highest point of contribution by doing only what is essential. The difference between the way of the essentialist and the way of the non-essentialist can be seen in the figure opposite.
+Essentialism is not about how to get more things done, it’s about how to get the right things done. It doesn’t mean just doing less for the sake of less either. It is about making the wisest possible investment of your time and energy in order to operate at our highest point of contribution by doing only what is essential. The difference between the way of the essentialist and the way of the non-essentialist can be seen in the figure opposite.
 
 
 <a id="sec-063344"></a>

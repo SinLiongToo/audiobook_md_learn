@@ -105,23 +105,23 @@ Psychology plays a major role in markets, and because it’s highly variable, ca
 
 And that means it can get a little messy. One of the most important things to bear in mind today is that economics isn’t an exact science. It may. Not even be much of a science at all, in the sense that in science, controlled experiments.
 
-Can be conducted, past results can be replicated with confidence, and cause, and effect relationships can be depended on to hold. Will it work? March 5, 2009 Because investing is at least as much art as it is science, it’s never my goal, in this book or elsewhere, to suggest it can be routinized.
+Can be conducted, past results can be replicated with confidence, and cause, and effect relationships can be depended on to hold. Will it work? March 5, 2009. Because investing is at least as much art as it is science, it’s never my goal, in this book or elsewhere, to suggest it can be routinized.
 
-In fact, one of the things I most want to emphasize is how essential it is that one’s investment approach be intuitive and adaptive rather than be fixed and mechanistic. At bottom, it’s a matter of what you’re trying to accomplish. Anyone can achieve average investment performance, just invest in an index fund that buys a little of everything. That will give you what is known as, market returns, merely matching whatever the market does.
+In fact, one of the things. I most want to emphasize is how essential it is that one’s investment approach be intuitive and adaptive rather than be fixed and mechanistic. At bottom, it’s a matter of what you’re trying to accomplish. Anyone can achieve average investment performance, just invest in an index fund that buys a little of everything.
 
-But successful investors want more. They want to beat the market. In my view, that’s the definition of successful investing, doing better than the market and other investors. To accomplish that, you need either good luck or superior insight.
+That will give you what is known as, market returns, merely matching whatever the market does. But successful investors want more. They want to beat the market. In my view, that’s the definition of successful investing, doing better than the market and other investors.
 
-Counting on luck isn’t much of a plan, so you’d better concentrate on insight. In basketball. They say, you can’t coach height, meaning all the coaching in the world won’t make a player taller. It’s almost as hard to teach insight.
+To accomplish that, you need either good luck or superior insight. Counting on luck isn’t much of a plan, so you’d better concentrate on insight. In basketball. They say, you can’t coach height, meaning all the coaching in the world won’t make a player taller.
 
-As with any other art form, some people just understand investing better than others. They have, or manage to acquire, that necessary, trace of wisdom, that Ben Graham so eloquently calls for. Everyone wants to make money. All of economics is based on belief in the universality of the profit motive.
+It’s almost as hard to teach insight. As with any other art form, some people just understand investing better than others. They have, or manage to acquire, that necessary, trace of wisdom, that Ben Graham so eloquently calls for. Everyone wants to make money.
 
-So is capitalism, the profit motive makes people work harder and risk their capital. The pursuit of. Profit has produced much of the material progress the world has enjoyed. But that universality also makes beating the market a difficult task.
+All of economics is based on belief in the universality of the profit motive. So is capitalism, the profit motive makes people work harder and risk their capital. The pursuit of. Profit has produced much of the material progress the world has enjoyed.
 
-Millions of people are competing for each available dollar of investment gain. Who’ll get it? The person who’s a step ahead. In some pursuits, getting to the front of the pack means more schooling, more time in the gym or the library, better nutrition, more perspiration, greater stamina, or better equipment.
+But that universality also makes beating the market a difficult task. Millions of people are competing for each available dollar of investment gain. Who’ll get it? The person who’s a step ahead.
 
-But in investing, where these things count for less, it calls for more perceptive thinking at what I call the second level. Would-be investors can take courses in finance and accounting, read widely and, if they are fortunate, receive mentoring from someone with a deep understanding of the investment process. But only a few of them will achieve the superior insight, intuition, sense of value and awareness of psychology that are required for. Consistently above average results.
+In some pursuits, getting to the front of the pack means more schooling, more time in the gym or the library, better nutrition, more perspiration, greater stamina, or better equipment. But in investing, where these things count for less, it calls for more perceptive thinking at what. I call the second level. Would-be investors can take courses in finance and accounting, read widely and, if they are fortunate, receive mentoring from someone with a deep understanding of the investment process.
 
-Doing so requires second level thinking.
+But only a few of them will achieve the superior insight, intuition, sense of value and awareness of psychology that are required for. Consistently above average results. Doing so requires second level thinking.
 
 
 <a id="sec-000503"></a>
@@ -131,93 +131,103 @@ Remember. Your goal in investing isn’t to earn average returns, you want to do
 
 You must think of something they haven’t thought of, see things they miss or bring insight they don’t possess. You have to react differently and behave differently. In short, being right may be a necessary condition for investment success, but it won’t be sufficient. You must be more right than others, which by definition means your thinking has to be different.
 
-What is second level thinking? First, level thinking says, it’s a good company, let’s buy the stock. Second level thinking says, it’s a good company, but everyone thinks it’s a great company, and it’s not. So the stock’s overrated and overpriced.
+What is second level thinking? First, level thinking says, it’s a good company, let’s buy the stock.
 
-Let’s sell. First, level thinking says, the outlook calls for low growth and rising inflation. Let’s dump our stocks. Second level thinking says, the outlook stinks, but everyone else is selling in panic.
+Second, level thinking says, it’s a good company, but everyone thinks it’s a great company, and it’s not. So the stock’s overrated and overpriced. Let’s sell.
 
-Buy. First, level thinking says, I think the company’s earnings will fall, sell.
+First, level thinking says, the outlook calls for low growth and rising inflation. Let’s dump our stocks.
 
-Second, level thinking says, I think the company’s earnings will fall less than people expect, and the pleasant surprise will lift the stock, buy. First, level thinking is simplistic and superficial, and just about everyone can do it, a bad sign for anything involving an attempt at superiority. All the first, level thinker needs is an opinion about the future, as in, the outlook for the company is favorable, meaning the stock will go up.
+Second, level thinking says, the outlook stinks, but everyone else is selling in panic. Buy.
 
-Second, level thinking is deep, complex and convoluted. The second level thinker takes a great many things into account. What is the range of likely future outcomes? Which outcome do I think will occur?
+First, level thinking says, I think the company’s earnings will fall, sell. Second, level thinking says, I think the company’s earnings will fall less than people expect, and the pleasant surprise will lift the stock, buy.
 
-What’s the probability I’m right? What does the consensus think? How does my expectation differ? Or from the consensus?
+First, level thinking is simplistic and superficial, and just about everyone can do it, a bad sign for anything involving an attempt at superiority. All the first, level thinker needs is an opinion about the future, as in, the outlook for the company is favorable, meaning the stock will go up.
 
-How does the current price for the asset comport with the? Consensus view of the future, and with mine. Is the consensus psychology that’s incorporated in the price too bullish or bearish? What will happen to the asset’s price if the consensus turns out to be right, and what if I’m right?
+Second, level thinking is deep, complex and convoluted. The second level thinker takes a great many things into account. What is the range of likely future outcomes? Which outcome do.
 
-The difference in workload between first, level and second, level thinking is clearly massive, and the number of people capable of the latter is tiny compared to the number capable of the former. First, level thinkers look for simple formulas and easy answers. Second level thinkers know that success in investing is the antithesis of simple. That’s not to say you won’t run into plenty of people who try their darnedest to make it sound simple.
+I think will occur? What’s the probability. I’m right? What does the consensus think?
 
-Some of them I might characterize as, mercenaries. Brokerage firms want you to think everyone is capable of investing, at $10 per trade. Mutual fund companies don’t want you to think you can do it, they want you to think they can. Do it.
+How does my expectation differ? Or from the consensus? How does the current price for the asset comport with the? Consensus view of the future, and with mine.
 
-In that case, you’ll put your money into actively managed funds and pay the associated. High fees. Others who simplify are what I think of as, proselytizers. Some are academics who teach investing.
+Is the consensus psychology that’s incorporated in the price too bullish or bearish? What will happen to the asset’s price if the consensus turns out to be right, and what if. I’m right? The difference in workload between first, level and second, level thinking is clearly massive, and the number of people capable of the latter is tiny compared to the number capable of the former.
 
-Others are well-intentioned practitioners who overestimate the extent to which they’re in control, I think most of them fail to tote up their records, or they overlook their bad years or attribute losses to bad luck. Finally, there are those who simply fail to. Understand the complexity of the subject. A guest commentator on my drive time radio station says, if you have had good experience with a product, buy the stock.
+First, level thinkers look for simple formulas and easy answers. Second, level thinkers know that success in investing is the antithesis of simple. That’s not to say you won’t run into plenty of people who try their darnedest to make it sound simple. Some of them.
 
-There’s so much more than that to being a successful investor. First, level thinkers think the same way other first, level thinkers do about the same things, and they generally reach the same conclusions. By definition, this can’t be the route to superior results. All investors can’t beat the market since, collectively, they are the market.
+I might characterize as, mercenaries. Brokerage firms want you to think everyone is capable of investing, at $10 per trade. Mutual fund companies don’t want you to think you can do it, they want you to think they can. Do it.
 
-Before trying to compete in the zero-sum world of investing, you must ask yourself whether you have good reason to expect to be in the top half. To outperform the average investor, you have to be able to outthink the consensus. Are you capable of doing so? What makes you think so?
+In that case, you’ll put your money into actively managed funds and pay the associated. High fees. Others who simplify are what. I think of as, proselytizers.
 
-The problem is that extraordinary performance comes only from correct non-consensus forecasts, but non-consensus forecasts are hard to make, hard to make correctly and hard to act on. Over the years, many people have told me that the matrix shown below had an impact on them, you.
+Some are academics who teach investing. Others are well-intentioned practitioners who overestimate the extent to which they’re in control, I think most of them fail to tote up their records, or they overlook their bad years or attribute losses to bad luck.
+
+Finally, there are those who simply fail to. Understand the complexity of the subject. A guest commentator on my drive time radio station says, if you have had good experience with a product, buy the stock. There’s so much more than that to being a successful investor.
+
+First, level thinkers think the same way other first, level thinkers do about the same things, and they generally reach the same conclusions. By definition, this can’t be the route to superior results. All investors can’t beat the market since, collectively, they are the market. Before trying to compete in the zero-sum world of investing, you must ask yourself whether you have good reason to expect to be in the top half.
+
+To outperform the average investor, you have to be able to outthink the consensus. Are you capable of doing so? What makes you think so? The problem is that extraordinary performance comes only from correct non-consensus forecasts, but non-consensus forecasts are hard to make, hard to make correctly and hard to act on.
+
+Over the years, many people have told me that the matrix shown below had an impact on them, you.
 
 
 <a id="sec-001009"></a>
 ### ⏱️ [00:10:09 - 00:15:10]
 
-Can’t do the same things others do and expect to outperform. Unconventionality shouldn’t be a goal in itself, but rather a way of thinking. In order to distinguish yourself from others, it helps to have ideas that are different and to process those ideas differently. I conceptualize the situation as a simple two-by-two matrix, conventional behavior, unconventional behavior, favorable outcomes, average good results above, average results, unfavorable outcomes, average bad results below, average results of course it’s not that easy and clear, cut, but I think that’s the general situation.
+Can’t do the same things others do and expect to outperform. Unconventionality shouldn’t be a goal in itself, but rather a way of thinking. In order to distinguish yourself from others, it helps to have ideas that are different and to process those ideas differently. I conceptualize the situation as a simple two-by-two matrix, conventional behavior, unconventional behavior, favorable outcomes, average good results above, average results, unfavorable outcomes, average bad results below, average results of course it’s not that easy and clear, cut, but.
 
-If your behavior is conventional, you’re likely to get conventional results, either good or bad. Only if your behavior is unconventional is your performance likely to be unconventional, and only if your judgments are superior is your performance likely to be above average. Dare to be great, September 7, 2006 the upshot is simple, to achieve superior investment results, you have to hold. Non-consensus views regarding value, and they have to be accurate.
+I think that’s the general situation. If your behavior is conventional, you’re likely to get conventional results, either good or bad. Only if your behavior is unconventional is your performance likely to be unconventional, and only if your judgments are superior is your performance likely to be above average. Dare to be great, September 7, 2006 the upshot is simple, to achieve superior investment results, you have to hold.
 
-That’s not easy. The. Attractiveness of buying something for less than its worth makes eminent sense. So how is one to find bargains in efficient markets?
+Non-consensus views regarding value, and they have to be accurate. That’s not easy. The. Attractiveness of buying something for less than its worth makes eminent sense.
 
-You must bring exceptional analytical ability, insight or foresight. But because it’s exceptional, few people have it. Returns and how they get that way, November 11, 2002 for your performance to diverge from the norm, your expectations, and thus your portfolio, have to diverge from the norm, and you have to be more right than the consensus. Different and better, that’s a pretty good description of second-level thinking.
+So how is one to find bargains in efficient markets? You must bring exceptional analytical ability, insight or foresight. But because it’s exceptional, few people have it. Returns and how they get that way, November 11, 2002 for your performance to diverge from the norm, your expectations, and thus your portfolio, have to diverge from the norm, and you have to be more right than the consensus.
 
-Those who consider the investment process simple generally aren’t aware of the need for, or even the existence of, second-level thinking. Thus, many people are misled into believing that everyone can be a successful investor. Not everyone can. But the good news is that the prevalence of first-level thinkers increases the returns available to.
+Different and better, that’s a pretty good description of second-level thinking. Those who consider the investment process simple generally aren’t aware of the need for, or even the existence of, second-level thinking. Thus, many people are misled into believing that everyone can be a successful investor. Not everyone can.
 
-Second-level thinkers. To consistently achieve superior investment returns, you must be one. Of them.
+But the good news is that the prevalence of first-level thinkers increases the returns available to. Second-level thinkers. To consistently achieve superior investment returns, you must be one. Of them.
 
-#### Chapter 2. The most important thing is understanding market efficiency, and its limitations.
+#### Chapter 2.
 
-In theory there’s no difference between theory and practice, but in practice there is Yogi Berra. The 1960s saw the emergence of a new theory of finance and investing, a body of thought known as the Chicago School, because of its origins at the University of Chicago’s Graduate School of Business. As a student there in 1967 to 1969, I found myself at ground zero for this new theory. It greatly informed and influenced my thinking.
+The most important thing is understanding market efficiency, and its limitations. In theory there’s no difference between theory and practice, but in practice there is Yogi Berra. The 1960s saw the emergence of a new theory of finance and investing, a body of thought known as the Chicago School, because of its origins at the University of Chicago’s Graduate School of Business. As a student there in 1967 to 1969, I found myself at ground zero for this new theory.
 
-The theory included. Concepts that went on to become important elements in investment dialogue, risk aversion, volatility as the definition of risk, risk, adjusted returns, systematic and non-systematic risk, alpha, beta, the random walk hypothesis and the efficient market hypothesis. All of these are addressed in the pages that follow. In the years since it was first proposed, that last concept has proved to be particularly influential in the field of investing, so significant that it deserves its own chapter.
+It greatly informed and influenced my thinking. The theory included. Concepts that went on to become important elements in investment dialogue, risk aversion, volatility as the definition of risk, risk, adjusted returns, systematic and non-systematic risk, alpha, beta, the random walk hypothesis and the efficient market hypothesis. All of these are addressed in the pages that follow.
 
-The efficient market hypothesis states that there are many participants in the markets, and they share roughly equal access to all relevant information. They are intelligent, objective, highly motivated and hardworking. Their analytical models are widely known and employed. Because of the collective efforts of these participants, information is reflected fully and immediately in the market price of each asset.
+In the years since it was first proposed, that last concept has proved to be particularly influential in the field of investing, so significant that it deserves its own chapter. The efficient market hypothesis states that there are many participants in the markets, and they share roughly equal access to all relevant information. They are intelligent, objective, highly motivated and hardworking. Their analytical models are widely known and employed.
 
-And because. Market participants will move instantly to buy any asset that’s too cheap or sell one that’s too. Dear, assets are priced fairly in the absolute and relative to each other. The US market prices represent accurate estimates of assets intrinsic value and no participant can consistently identify and profit from instances when they are wrong.
+Because of the collective efforts of these participants, information is reflected fully and immediately in the market price of each asset. And because. Market participants will move instantly to buy any asset that’s too cheap or sell one that’s too. Dear, assets are priced fairly in the absolute and relative to each other.
 
-Assets therefore sell at prices from which they can be expected to deliver risk adjusted returns that are fair relative to other assets. Riskier assets must offer higher returns in order to attract buyers. The market will set prices so that appears to be the case, but it won’t provide a free lunch. That is, there will be no incremental return that is not required. related to, and compensatory for, incremental risk.
+The US market prices represent accurate estimates of assets intrinsic value and no participant can consistently identify and profit from instances when they are wrong. Assets therefore sell at prices from which they can be expected to deliver risk adjusted returns that are fair relative to other assets. Riskier assets must offer higher returns in order to attract buyers. The market will set prices so that appears to be the case, but it won’t provide a free lunch.
 
-That’s a more or less official summary of the highlights. Now my take.
+That is, there will be no incremental return that is not required. related to, and compensatory for, incremental risk. That’s a more or less official summary of the highlights. Now my take.
 
 
 <a id="sec-001510"></a>
 ### ⏱️ [00:15:10 - 00:20:13]
 
-When I speak of this theory, I also use the word efficient, but I mean it in the sense of, speedy, quick to incorporate information, not right. I agree that because investors work. Hard to evaluate every new piece of information, asset prices immediately reflect the. Consensus view of the information significance.
+When. I speak of this theory, I also use the word efficient, but. I mean it in the sense of, speedy, quick to incorporate information, not right. I agree that because investors work.
 
-I do not, however, believe the consensus view is necessarily correct. In January 2000, Yahoo sold at $237. In April 2001 it was at $11. Anyone who argues that the market was right both times has his or her head in the clouds, it has to have been wrong on at least one of those occasions.
+Hard to evaluate every new piece of information, asset prices immediately reflect the. Consensus view of the information significance. I do not, however, believe the consensus view is necessarily correct. In January 2000, Yahoo sold at $237.
 
-But that doesn’t mean many investors were able to detect and act on the market’s error. If prices in efficient markets already reflect the consensus, then sharing the consensus view will make you likely to earn just an average return. To beat the market you must hold an idiosyncratic, or non-consensus, view. The bottom line for me is that, although the more efficient markets often miss value assets, it’s not easy for any one person, working with the same information as everyone else and subject to the same psychological influences, to consistently hold views that are.
+In April 2001 it was at $11. Anyone who argues that the market was right both times has his or her head in the clouds, it has to have been wrong on at least one of those occasions. But that doesn’t mean many investors were able to detect and act on the market’s error. If prices in efficient markets already reflect the consensus, then sharing the consensus view will make you likely to earn just an average return.
 
-Different from the consensus and closer to being correct. That’s what makes the mainstream. Markets awfully hard to beat, even if they aren’t always right. What’s it all about, alpha?
+To beat the market you must hold an idiosyncratic, or non-consensus, view. The bottom line for me is that, although the more efficient markets often miss value assets, it’s not easy for any one person, working with the same information as everyone else and subject to the same psychological influences, to consistently hold views that are. Different from the consensus and closer to being correct. That’s what makes the mainstream.
 
-July 11, 2001 the most important upshot from the efficient market hypothesis is its conclusion that, you can’t beat the market. Not only was this conclusion founded logically on the Chicago view of the market, but it was buttressed by studies of the performance of mutual funds. Very few of those funds have distinguished themselves through their results. What about the five, star funds?
+Markets awfully hard to beat, even if they aren’t always right. What’s it all about, alpha? July 11, 2001 the most important upshot from the efficient market hypothesis is its conclusion that, you can’t beat the market. Not only was this conclusion founded logically on the Chicago view of the market, but it was buttressed by studies of the performance of mutual funds.
 
-You might ask. Read the small print, mutual funds are rated relative to each other. The ratings don’t say anything about their having beaten an objective standard such as a market index. Okay then, what about the celebrated investors we hear so much about?
+Very few of those funds have distinguished themselves through their results. What about the five, star funds? You might ask. Read the small print, mutual funds are rated relative to each other.
+
+The ratings don’t say anything about their having beaten an objective standard such as a market index. Okay then, what about the celebrated investors we hear so much about?
 
 First, one or two good years prove nothing, chance alone can produce just about any result. Second, statisticians insist nothing can be proved with statistical. Significance until you have enough years of data, I remember a figure of 60, for years. And almost no one manages money that long.
 
 Finally, the emergence of one or two great investors doesn’t disprove the theory. The fact that the Warren Buffets of this world attract as much attention as they do is an indication that consistent out performers are exceptional. One of the greatest ramifications of the Chicago theory has been the development of. Passive investment vehicles known as index funds.
 
-If most active portfolio managers making active bets, on which securities to overweight and underweight can’t beat the market, why pay the price, in the form of transaction costs and management fees, entailed in trying. With that question in mind, investors have put growing amounts in funds that simply invest a market, determine amount in each stock or bond in a market index. In this way, investors enjoy market returns at a fee of just a few hundredths of a percent per year. Growing moves in cycles, as I’ll discuss later, and that includes, accepted wisdom.
+If most active portfolio managers making active bets, on which securities to overweight and underweight can’t beat the market, why pay the price, in the form of transaction costs and management fees, entailed in trying. With that question in mind, investors have put growing amounts in funds that simply invest a market, determine amount in each stock or bond in a market index. In this way, investors enjoy market returns at a fee of just a few hundredths of a percent per year.
 
-So the efficient market hypothesis got off to a fast start in the 1960s and developed a lot of adherence. Objections have been raised since then, and the general view of its applicability rises and falls. I have my own reservations about the theory, and the biggest one has to do with the. Way it links return and risk.
+Growing moves in cycles, as. I’ll discuss later, and that includes, accepted wisdom. So the efficient market hypothesis got off to a fast start in the 1960s and developed a lot of adherence. Objections have been raised since then, and the general view of its applicability rises and falls.
 
-According to investment theory, people are risk averse by nature. Meaning that in general they’d rather bear less risk than more. For them to make riskier investments, they have to be induced through the promise of higher returns. Thus, markets will adjust the prices of investments so that, based on the known facts and common perceptions, the riskier ones will appear to promise higher returns.
+I have my own reservations about the theory, and the biggest one has to do with the. Way it links return and risk. According to investment theory, people are risk averse by nature. Meaning that in general they’d rather bear less risk than more.
 
-Because theory says in an efficient market there’s no such thing as investing skill, commonly referred to today as alpha, that would enable someone to beat the market, all the difference in return between one investment and another, or between one person’s portfolio and another’s, is attributable to differences in risk. In fact, if you show an adherent of the efficient market hypothesis and investment record that appears to be superior, as I have, the answer is likely to be, the higher return is explained by hidden risk.
+For them to make riskier investments, they have to be induced through the promise of higher returns. Thus, markets will adjust the prices of investments so that, based on the known facts and common perceptions, the riskier ones will appear to promise higher returns. Because theory says in an efficient market there’s no such thing as investing skill, commonly referred to today as alpha, that would enable someone to beat the market, all the difference in return between one investment and another, or between one person’s portfolio and another’s, is attributable to differences in risk.
 
-The fallback position is to say, you don’t have enough years of data.
+In fact, if you show an adherent of the efficient market hypothesis and investment record that appears to be superior, as. I have, the answer is likely to be, the higher return is explained by hidden risk. The fallback position is to say, you don’t have enough years of data.
 
 
 <a id="sec-002013"></a>
@@ -227,29 +237,29 @@ Once in a while we experience periods when everything. Goes well and riskier inv
 
 But they ignore something that is easily forgotten in good times, this can’t be true, because if riskier investments could be counted on to produce higher returns, they wouldn’t be riskier. Every once in a while, then, people learn an essential lesson. They realize that nothing, and certainly not the indiscriminate acceptance of risk, carries the promise of a free lunch, and they’re reminded of the limitations of investment theory. That’s the theory and its implications.
 
-The key question is whether it’s right, is the market unbeatable? Are the people who try wasting their time? Are the clients who pay fees to investment managers wasting their money? As with most other things in my world, the answers aren’t simple and they’re certainly not yes or no. I don’t believe the notion of.
+The key question is whether it’s right, is the market unbeatable? Are the people who try wasting their time? Are the clients who pay fees to investment managers wasting their money? As with most other things in my world, the answers aren’t simple and they’re certainly not yes or no.
 
-Market efficiency deserves to be dismissed out of hand. In principle, it’s fair to conclude that. If thousands of rational and numerate people gather information about an asset and evaluate it diligently and objectively, the asset’s price shouldn’t stray far from its intrinsic value. Mispricings shouldn’t be regularly extant, meaning it should be hard to beat the market.
+I don’t believe the notion of. Market efficiency deserves to be dismissed out of hand. In principle, it’s fair to conclude that. If thousands of rational and numerate people gather information about an asset and evaluate it diligently and objectively, the asset’s price shouldn’t stray far from its intrinsic value.
 
-In fact, some asset classes are quite efficient. In most of these, the asset class is widely known and has a broad following. The class is socially acceptable, not controversial or taboo, the merits of the class are clear and comprehensible, at least on the surface, and information about the class and its components is distributed widely and evenly. If these conditions are met, there’s no reason why the asset class should systematically be overlooked, misunderstood or underrated.
+Mispricings shouldn’t be regularly extant, meaning it should be hard to beat the market. In fact, some asset classes are quite efficient. In most of these, the asset class is widely known and has a broad following. The class is socially acceptable, not controversial or taboo, the merits of the class are clear and comprehensible, at least on the surface, and information about the class and its components is distributed widely and evenly.
 
-Take foreign exchange, for example. What are the things that determine the movements of one currency versus another? Major growth rates. And inflation rates.
+If these conditions are met, there’s no reason why the asset class should systematically be overlooked, misunderstood or underrated. Take foreign exchange, for example. What are the things that determine the movements of one currency versus another? Major growth rates.
 
-Is it possible for any one person to systematically know much more about? These things than everyone else? Probably not. And if not, then no one should be able to regularly achieve above-average risk-adjusted returns through currency trading.
+And inflation rates. Is it possible for any one person to systematically know much more about? These things than everyone else? Probably not.
 
-What about the major stock markets, such as the New York Stock Exchange? Where millions of people are. Prospecting, driven by the desire for profit. They’re all similarly informed, in fact, it’s one of the goals of our market regulation that everyone should gain access to the same company information at the same time.
+And if not, then no one should be able to regularly achieve above-average risk-adjusted returns through currency trading. What about the major stock markets, such as the New York Stock Exchange? Where millions of people are. Prospecting, driven by the desire for profit.
 
-With millions of people doing similar analysis on the basis of similar information, how often will stocks become mispriced, and how regularly can any one person detect those mispricings? Answer, not often and not dependably. But that is the essence of second-level thinking. Second-level thinkers know that, to achieve superior results, they have to have an edge in either information or analysis, or both.
+They’re all similarly informed, in fact, it’s one of the goals of our market regulation that everyone should gain access to the same company information at the same time. With millions of people doing similar analysis on the basis of similar information, how often will stocks become mispriced, and how regularly can any one person detect those mispricings? Answer, not often and not dependably. But that is the essence of second-level thinking.
 
-They are on the alert for instances of misperception. My son Andrew is a budding investor, and he comes up with lots of appealing investment ideas based on today’s facts and the outlook for tomorrow. But he’s been well trained. His first test is always the same, and who doesn’t know that?
+Second-level thinkers know that, to achieve superior results, they have to have an edge in either information or analysis, or both. They are on the alert for instances of misperception. My son Andrew is a budding investor, and he comes up with lots of appealing investment ideas based on today’s facts and the outlook for tomorrow. But he’s been well trained.
 
-In the vocabulary of the theory, second-level thinkers depend on inefficiency. The term. Inefficiency came into widespread use over the last 40 years as the counterpoint to the belief that investors can’t beat the market. To me, describing a market as inefficient is a high FL-own way of saying the market is prone to mistakes that can be taken advantage of.
+His first test is always the same, and who doesn’t know that? In the vocabulary of the theory, second-level thinkers depend on inefficiency. The term. Inefficiency came into widespread use over the last 40 years as the counterpoint to the belief that investors can’t beat the market.
 
-Where might errors come from? Let’s consider the assumptions that underlie the theory of efficient markets, there are many investors hard at work. They are intelligent, diligent, objective, motivated and well-equipped. They all have access to the available information, and their access is roughly equal.
+To me, describing a market as inefficient is a high FL-own way of saying the market is prone to mistakes that can be taken advantage of. Where might errors come from? Let’s consider the assumptions that underlie the theory of efficient markets, there are many investors hard at work. They are intelligent, diligent, objective, motivated and well-equipped.
 
-They’re all open to buying, selling or shorting, i.e., betting against, every asset. For those reasons, theory says that all the available information will be smoothly and efficiently synthesized into prices and acted on whenever price-slash-value discrepancies arise so as to drive out those discrepancies. But it’s impossible to argue that. Market prices are always right.
+They all have access to the available information, and their access is roughly equal. They’re all open to buying, selling or shorting, i.e., betting against, every asset. For those reasons, theory says that all the available information will be smoothly and efficiently synthesized into prices and acted on whenever price-slash-value discrepancies arise so as to drive out those discrepancies. But it’s impossible to argue that.
 
-In fact, if you look at the four assumptions just listed, 1.
+Market prices are always right. In fact, if you look at the four assumptions just listed, 1.
 
 
 <a id="sec-002514"></a>
@@ -271,15 +281,17 @@ If prices can be very wrong, that means it’s possible to find bargains or over
 
 If you’ve played for 45 minutes and haven’t figured out who the fish is, then it’s you. The same is certainly true of inefficient market investing. What’s it all about, alpha? July 11, 2001 in the great debate over efficiency versus inefficiency, I have concluded that no market is completely one or the other.
 
-It’s just a matter of degree. I wholeheartedly appreciate the opportunities that inefficiency can provide, but I also respect the concept of market efficiency, and I believe strongly that mainstream securities markets can be so efficient that it’s largely a waste of time to work at finding winners there. In the end, I’ve come to an interesting resolution, efficiency is not so universal that we should give up on superior performance. At the same time, efficiency is what lawyers call a, rebuttable presumption, something that should be presumed to be.
+It’s just a matter of degree. I wholeheartedly appreciate the opportunities that inefficiency can provide, but. I also respect the concept of market efficiency, and. I believe strongly that mainstream securities markets can be so efficient that it’s largely a waste of time to work at finding winners there.
 
-True until someone proves otherwise. Therefore, we should assume that efficiency will. Impede our achievement unless we have good reason to believe it won’t in the present case. Work for efficiency says that before we embark on a course of action, we should ask some questions, have mistakes and mispricings been driven out through investors' concerted efforts, or do they still exist, and why?
+In the end, I’ve come to an interesting resolution, efficiency is not so universal that we should give up on superior performance. At the same time, efficiency is what lawyers call a, rebuttable presumption, something that should be presumed to be. True until someone proves otherwise.
 
-Think of it this way, why should a bargain exist despite the presence of thousands of investors who stand ready and willing to bid up the price of anything that’s too cheap? If the return appears so generous in proportion to the risk, might you be overlooking some hidden risk? Why would the seller of the asset be willing to part with it at a price from which it will give you an excessive return? Do you really know more about the asset than the seller does?
+Therefore, we should assume that efficiency will. Impede our achievement unless we have good reason to believe it won’t in the present case. Work for efficiency says that before we embark on a course of action, we should ask some questions, have mistakes and mispricings been driven out through investors' concerted efforts, or do they still exist, and why? Think of it this way, why should a bargain exist despite the presence of thousands of investors who stand ready and willing to bid up the price of anything that’s too cheap?
 
-If it’s such a great proposition, why hasn’t someone else snapped it up? Something else to keep in mind, just because efficiency is what lawyers call a, rebuttable exist. Today doesn’t mean they’ll remain forever. Bottom line, inefficiency is a necessary condition.
+If the return appears so generous in proportion to the risk, might you be overlooking some hidden risk? Why would the seller of the asset be willing to part with it at a price from which it will give you an excessive return? Do you really know more about the asset than the seller does? If it’s such a great proposition, why hasn’t someone else snapped it up?
 
-For superior investing. Attempting to outperform in a perfectly efficient market
+Something else to keep in mind, just because efficiency is what lawyers call a, rebuttable exist. Today doesn’t mean they’ll remain forever. Bottom line, inefficiency is a necessary condition. For superior investing.
+
+Attempting to outperform in a perfectly efficient market
 
 
 <a id="sec-003015"></a>
@@ -291,7 +303,7 @@ All that means is that prices aren’t always fair and mistakes are occurring, s
 
 Abstention on the part of those who won’t venture in creates opportunities for those who will. Is investment theory, with its notion of market efficiency, the equivalent of a physical law that is universally true? Or is it an irrelevant ivory tower notion? To be disregarded.
 
-In the end, it’s a question of balance, and balance comes from applying informed common sense. The key turning point in my investment management career came when I concluded that because the notion of market efficiency has relevance, I should limit my efforts to relatively inefficient markets where hard work and skill would pay off best. Theory informed that decision and prevented me from wasting my time in the mainstream markets, but it took an understanding of the limits of the theory to keep me from completely accepting the arguments against active management.
+In the end, it’s a question of balance, and balance comes from applying informed common sense. The key turning point in my investment management career came when. I concluded that because the notion of market efficiency has relevance, I should limit my efforts to relatively inefficient markets where hard work and skill would pay off best. Theory informed that decision and prevented me from wasting my time in the mainstream markets, but it took an understanding of the limits of the theory to keep me from completely accepting the arguments against active management.
 
 In short, I think theories should inform our decisions but not dominate them. If we entirely ignore theory, we can make big mistakes. We can fool ourselves into thinking it’s possible to know more than everyone else and to regularly beat heavily populated markets. We can buy securities for their returns but ignore.
 
@@ -311,9 +323,9 @@ What’s high and what’s low? On a superficial level, you can take it to mean 
 
 Now the meaning of the saying becomes clear, buy at a price below intrinsic value and sell at a higher price. Of course, to do that, you’d better have a good idea what intrinsic value is. Four. Me, an accurate estimate of value is the indispensable starting point.
 
-To simplify or oversimplify, all approaches to investing in company securities can be divided into two basic types, those based on analysis of the company’s attributes, known as fundamentals, and those based on study of the price behavior of the securities themselves. In other words, an investor has two basic choices, gauge the securities underlying intrinsic value and buy or sell when the price diverges from it, or base decisions purely on expectations regarding future price movements. I’ll turn to the latter first, since I don’t believe in it and should be able to dispose of it rather promptly.
+To simplify or oversimplify, all approaches to investing in company securities can be divided into two basic types, those based on analysis of the company’s attributes, known as fundamentals, and those based on study of the price behavior of the securities themselves. In other words, an investor has two basic choices, gauge the securities underlying intrinsic value and buy or sell when the price diverges from it, or base decisions purely on expectations regarding future price movements. I’ll turn to the latter first, since.
 
-Technical analysis, or the study of past stock price behavior, has been practiced ever since I joined the industry,
+I don’t believe in it and should be able to dispose of it rather promptly. Technical analysis, or the study of past stock price behavior, has been practiced ever since. I joined the industry,
 
 
 <a id="sec-003516"></a>
@@ -325,21 +337,23 @@ Analysis can be attributed to the random walk hypothesis, a component of the Chi
 
 In other words, it’s a random process, like tossing a coin. We all know that even if a coin has come up heads 10 times in a row, the probability of heads on the next row is still 50, 50. Likewise, the hypothesis says, the fact that a stock’s price has risen for the last 10 days tells you nothing about what it will do tomorrow. Another form of relying on past stock price movements to tell you something is so, called momentum investing.
 
-It, too, exists in contravention of the random walk hypothesis. I’m unlikely to do it justice. But as I see it, investors who practice this approach operate under the assumption that they can tell when. Something that has been rising will continue to rise.
+It, too, exists in contravention of the random walk hypothesis. I’m unlikely to do it justice. But as. I see it, investors who practice this approach operate under the assumption that they can tell when.
 
-Momentum investing might enable you. To participate in a bull market that continues upward, but I see a lot of drawbacks. One is based on economist Herb Stein’s wry observation that, if something cannot go on forever, it will stop. What happens to momentum investors then?
+Something that has been rising will continue to rise. Momentum investing might enable you. To participate in a bull market that continues upward, but. I see a lot of drawbacks.
 
-How will this approach help them sell? In time to avoid a decline. And what will it have them do in falling markets? It seems clear that momentum investing isn’t a cerebral approach to investing.
+One is based on economist Herb Stein’s wry observation that, if something cannot go on forever, it will stop. What happens to momentum investors then? How will this approach help them sell? In time to avoid a decline.
 
-The greatest example came in 1998 to 1999, with the rise of people called day traders. Most were non-professional investors drawn from other walks of life by the hope for easy money in the tech media telecom stock boom. They rarely held positions overnight, since doing so would require them to pay for them. Several times a day, they would try to guess whether a stock they’d been watching would rise or fall in the next few hours.
+And what will it have them do in falling markets? It seems clear that momentum investing isn’t a cerebral approach to investing. The greatest example came in 1998 to 1999, with the rise of people called day traders. Most were non-professional investors drawn from other walks of life by the hope for easy money in the tech media telecom stock boom.
 
-I’ve never understood how people reach conclusions like these. I liken it to trying to guess whether the next person to come around the corner will be male or female. The way I see it, day traders consider themselves successful if they bought a stock at $10 and sold at $11, bought it back the next week at $24, and sold at $25, and bought it a week later at $39 and sold at $40. If you can’t see the flaw.
+They rarely held positions overnight, since doing so would require them to pay for them. Several times a day, they would try to guess whether a stock they’d been watching would rise or fall in the next few hours. I’ve never understood how people reach conclusions like these. I liken it to trying to guess whether the next person to come around the corner will be male or female.
 
-In this, that the trader made $3 in a stock that appreciated by $30, you probably shouldn’t read the rest of this book. Moving away from momentum investors and their Ouija boards, along with all other forms of investing that eschew intelligent analysis, we are left with two approaches, both driven by fundamentals, value investing and growth investing. In a nutshell, value investors aim to come up with a securities current intrinsic value and buy when the price is lower, and growth investors try to find securities whose value will increase rapidly in the future.
+The way. I see it, day traders consider themselves successful if they bought a stock at $10 and sold at $11, bought it back the next week at $24, and sold at $25, and bought it a week later at $39 and sold at $40. If you can’t see the flaw. In this, that the trader made $3 in a stock that appreciated by $30, you probably shouldn’t read the rest of this book.
 
-To value investors, an asset isn’t an ephemeral concept you invest in because you think it’s attractive, or think others will find it attractive. It’s a tangible object that should have an intrinsic value capable of being ascertained, and if it can be bought below its intrinsic value, you might consider doing so. Thus, intelligent investing has to be built on estimates of intrinsic value. Those estimates must be derived rigorously, based on all of the available information.
+Moving away from momentum investors and their Ouija boards, along with all other forms of investing that eschew intelligent analysis, we are left with two approaches, both driven by fundamentals, value investing and growth investing. In a nutshell, value investors aim to come up with a securities current intrinsic value and buy when the price is lower, and growth investors try to find securities whose value will increase rapidly in the future. To value investors, an asset isn’t an ephemeral concept you invest in because you think it’s attractive, or think others will find it attractive.
 
-The most important thing, July 1, 2003. What is it that makes a security, or the underlying company, valuable? There are lots of candidates, financial resources, management, factories, retail outlets, patents, human resources, brand names, growth potential and, most of all, the ability to generate earnings and cash flow.
+It’s a tangible object that should have an intrinsic value capable of being ascertained, and if it can be bought below its intrinsic value, you might consider doing so. Thus, intelligent investing has to be built on estimates of intrinsic value. Those estimates must be derived rigorously, based on all of the available information. The most important thing, July 1, 2003.
+
+What is it that makes a security, or the underlying company, valuable? There are lots of candidates, financial resources, management, factories, retail outlets, patents, human resources, brand names, growth potential and, most of all, the ability to generate earnings and cash flow.
 
 In fact, most analytical approaches would say that all those other characteristics, financial resources, management, factories, retail outlets, patents, human resources, brand names and growth potential are valuable precisely because they can translate eventually into earnings and cash flow. The emphasis in value investing is on tangible factors like hard assets and cash flows. In tangibles like talent, popular fashions and long-term
 
@@ -373,25 +387,27 @@ The bank’s portfolios included highly respected names such as IBM, Xerox, Koda
 
 stocks. Fast forward a couple of decades, and what do you see in that list of companies? Some, such as Kodak and Polaroid, have seen their basic businesses decimated by unforeseen changes in technology. Others, such as IBM and Xerox, became slow, moving prey on which new competitors feasted.
 
-All told, First National City’s list of America’s best companies has been visited by deterioration and even bankruptcy in the 40, two years since I started. So much for the long term. Persistence of growth, and for the ability to predict it accurately. Compared to value.
+All told, First National City’s list of America’s best companies has been visited by deterioration and even bankruptcy in the 40, two years since. I started. So much for the long term. Persistence of growth, and for the ability to predict it accurately.
 
-Investing, growth investing centers around trying for big winners. If big winners weren’t in the offing, why put up with the uncertainty entailed in guessing at the future? There’s no question about it, it’s harder to see the future than the present. Thus, the batting average for growth.
+Compared to value. Investing, growth investing centers around trying for big winners. If big winners weren’t in the offing, why put up with the uncertainty entailed in guessing at the future? There’s no question about it, it’s harder to see the future than the present.
 
-Investors should be lower, but the payoff for doing it well might be higher. The return for correctly predicting which companies will come up with the best new drug, most powerful computer or best, selling movies should be substantial. In general, the upside potential for being right about growth is more dramatic, and the upside potential for being right about value is more consistent. Value is my approach.
+Thus, the batting average for growth. Investors should be lower, but the payoff for doing it well might be higher. The return for correctly predicting which companies will come up with the best new drug, most powerful computer or best, selling movies should be substantial. In general, the upside potential for being right about growth is more dramatic, and the upside potential for being right about value is more consistent.
 
-In my book, Consistency Trumps Drama. If value investing has the potential to consistently produce favorable results, does that mean it’s easy? No. For one thing, it depends on an accurate estimate of value. Without that, any hope for consistent success as an investor is just that, hope. Without accurate estimates, you’ll be as likely to overpay as to underpay.
+Value is my approach. In my book, Consistency Trumps Drama. If value investing has the potential to consistently produce favorable results, does that mean it’s easy? No.
 
-And if you overpay, it takes a surprising improvement in value, a strong market or an even less discriminating buyer, what we used. To call up greater fool, to bail you out. There’s more. If you’ve settled on the value approach.
+For one thing, it depends on an accurate estimate of value. Without that, any hope for consistent success as an investor is just that, hope. Without accurate estimates, you’ll be as likely to overpay as to underpay. And if you overpay, it takes a surprising improvement in value, a strong market or an even less discriminating buyer, what we used.
 
-To investing and come up with an intrinsic value for a security or asset, the next important thing is to hold it firmly. That’s because in the world of investing, being correct about something isn’t at all synonymous with being proved correct right away. It’s hard to consistently do the right thing as an investor. But it’s impossible to consistently do the right thing at the right time.
+To call up greater fool, to bail you out. There’s more. If you’ve settled on the value approach. To investing and come up with an intrinsic value for a security or asset, the next important thing is to hold it firmly.
 
-The most we value investors can hope for is to be right about an asset’s value and buy when it’s available for less. But doing so today certainly doesn’t mean you’re going to start making money tomorrow. A firmly held view on value can help you cope with this disconnect. Let’s say you figure out that something’s worth 80 and have a chance to buy it for 60.
+That’s because in the world of investing, being correct about something isn’t at all synonymous with being proved correct right away. It’s hard to consistently do the right thing as an investor. But it’s impossible to consistently do the right thing at the right time. The most we value investors can hope for is to be right about an asset’s value and buy when it’s available for less.
 
-Chances to buy well below actual value don’t come along every day, and you should welcome them. Warren Buffett describes them as, buying dollars for 50 cents. So. You buy it and you feel you’ve done a good thing.
+But doing so today certainly doesn’t mean you’re going to start making money tomorrow. A firmly held view on value can help you cope with this disconnect. Let’s say you figure out that something’s worth 80 and have a chance to buy it for 60. Chances to buy well below actual value don’t come along every day, and you should welcome them.
 
-But don’t expect immediate success. In. Fact, you’ll often find that you’ve bought in the midst of a decline that continues. Pretty soon you’ll be looking at losses.
+Warren Buffett describes them as, buying dollars for 50 cents. So. You buy it and you feel you’ve done a good thing. But don’t expect immediate success.
 
-And as one of the greatest investment adages reminds us, being too far ahead of your time is indistinguishable from being wrong. So now that security worth 80 is priced at 50 instead of 60. What do you do? We learn in microeconomics 101 that the demand curve slopes downward to the right, as the price of something goes up, the quantity demanded goes down.
+In. Fact, you’ll often find that you’ve bought in the midst of a decline that continues. Pretty soon you’ll be looking at losses. And as one of the greatest investment adages reminds us, being too far ahead of your time is indistinguishable from being wrong.
+
+So now that security worth 80 is priced at 50 instead of 60. What do you do? We learn in microeconomics 101 that the demand curve slopes downward to the right, as the price of something goes up, the quantity demanded goes down.
 
 In other words, people want less of something at higher prices and more of it at lower prices. Makes sense, that’s why stores do more business when goods go on sale. It works that way in most places, but far from always, it seems, in the world of investing. There, many people tend to fall further in love with the thing they’ve bought as its price rises, since they feel validated, and they like it less as the price falls.
 
@@ -423,13 +439,13 @@ It has been demonstrated time and time again that no asset is so good that it ca
 
 That just. Has to be a mistake. No asset class or investment has the birthright of a high return. It’s only attractive if it’s priced right.
 
-Hopefully, if I offered to sell you my car, you’d ask the price before saying yes or no. Deciding on an investment without carefully considering the fairness of its price is just as silly. But when people decide without disciplined consideration of valuation that they want to own something, as they did with tech stocks in the late 1990s, or that they simply won’t own something, as they did with junk bonds in the 1970s and early 1980s, that’s just what they’re doing. Bottom line, there’s no such thing as a good or bad idea regardless of price.
+Hopefully, if. I offered to sell you my car, you’d ask the price before saying yes or no. Deciding on an investment without carefully considering the fairness of its price is just as silly. But when people decide without disciplined consideration of valuation that they want to own something, as they did with tech stocks in the late 1990s, or that they simply won’t own something, as they did with junk bonds in the 1970s and early 1980s, that’s just what they’re doing.
 
-The most important thing, July 1st, 2003 it’s a fundamental premise of the efficient market hypothesis, and it makes perfect sense, that if you buy something for its fair value, you can expect a return that is fair given the risk. But active investors aren’t in it for fair risk adjusted returns, they want superior returns. If. You’ll be satisfied with fair returns, why not invest passively in an index fund and save a lot of trouble?
+Bottom line, there’s no such thing as a good or bad idea regardless of price. The most important thing, July 1st, 2003 it’s a fundamental premise of the efficient market hypothesis, and it makes perfect sense, that if you buy something for its fair value, you can expect a return that is fair given the risk. But active investors aren’t in it for fair risk adjusted returns, they want superior returns. If.
 
-So buying something at its intrinsic value is no great shakes. And paying more than something’s worth is clearly a mistake, it takes a lot of hard work or a lot of luck to turn something bought at a too high price into a successful investment. Remember the nifty 50 investing I described in the last chapter? At their highs, many of those stalwart companies sported price-slash-earnings ratios, the ratio of the stock’s price to the earnings behind each share, between 80 and 90.
+You’ll be satisfied with fair returns, why not invest passively in an index fund and save a lot of trouble? So buying something at its intrinsic value is no great shakes. And paying more than something’s worth is clearly a mistake, it takes a lot of hard work or a lot of luck to turn something bought at a too high price into a successful investment. Remember the nifty 50 investing.
 
-For comparison, the post-war average price-slash-earnings ratio for stocks in general has been in the mid-teams. None of their partisans appeared to be worried about those elevated valuations.
+I described in the last chapter? At their highs, many of those stalwart companies sported price-slash-earnings ratios, the ratio of the stock’s price to the earnings behind each share, between 80 and 90. For comparison, the post-war average price-slash-earnings ratio for stocks in general has been in the mid-teams. None of their partisans appeared to be worried about those elevated valuations.
 
 
 <a id="sec-005533"></a>
@@ -469,19 +485,21 @@ Securities price on the day you buy it. Try to have psychology and technicals on
 
 The Internet is going to change the world. Real estate can keep up with inflation, and you can always live in a house. A few clever investors figure out, or perhaps even foresee, these truths, invest in the asset, and begin to show profits. Then others catch on to the idea, or just notice that people are making money, and they buy as well, lifting the asset’s price.
 
-But as the price rises further and investors become more inflamed by the possibility of easy money, they think less and less about whether the price is fair. It’s an extreme rendition of. The phenomenon I described earlier, people should like something less when its price rises. But in investing they often like it more.
+But as the price rises further and investors become more inflamed by the possibility of easy money, they think less and less about whether the price is fair. It’s an extreme rendition of. The phenomenon. I described earlier, people should like something less when its price rises.
 
-In 2004 to 2006, for example, people could conjure up only good things about houses and condos, the desirability of participating in the American dream of homeownership, the ability to benefit from inflation, the fact that mortgage loans were cheap and payments would be tax deductible, and ultimately the accepted wisdom that, home prices only go up. We all know what happened to that little nugget of wisdom. And what of that other infamous, can’t lose, idea? In the tech bubble, buyers didn’t worry about whether a stock was priced too high because they were sure someone else would be willing to pay them more for it.
+But in investing they often like it more. In 2004 to 2006, for example, people could conjure up only good things about houses and condos, the desirability of participating in the American dream of homeownership, the ability to benefit from inflation, the fact that mortgage loans were cheap and payments would be tax deductible, and ultimately the accepted wisdom that, home prices only go up. We all know what happened to that little nugget of wisdom. And what of that other infamous, can’t lose, idea?
 
-Unfortunately, the greater fool theory works only until it doesn’t. Everyone eventually comes into play, and those who are holding the bag when it does have to face the music. The positives behind stocks can be genuine and still produce losses if. You overpay for them.
+In the tech bubble, buyers didn’t worry about whether a stock was priced too high because they were sure someone else would be willing to pay them more for it. Unfortunately, the greater fool theory works only until it doesn’t. Everyone eventually comes into play, and those who are holding the bag when it does have to face the music. The positives behind stocks can be genuine and still produce losses if.
 
-Those positives, and the massive profits that seemingly everyone else is enjoying, can eventually cause those who have resisted participating to capitulate and buy. A top-in-a-stock, group or market occurs when the last holdout who will become a buyer does so. The timing is often unrelated to fundamental developments. Prices are too high, is far from synonymous with, the next move will be downward.
+You overpay for them. Those positives, and the massive profits that seemingly everyone else is enjoying, can eventually cause those who have resisted participating to capitulate and buy. A top-in-a-stock, group or market occurs when the last holdout who will become a buyer does so. The timing is often unrelated to fundamental developments.
 
-Things can be overpriced and stay that way for a long time or become far more so. Eventually, though, valuation has to matter. People dot com, January 3, 2000 the problem is that in bubbles, attractive morphs into attractive at any price. People often say, it’s not cheap, but I think it’ll keep going up because of excess liquidity or any number of other reasons.
+Prices are too high, is far from synonymous with, the next move will be downward. Things can be overpriced and stay that way for a long time or become far more so. Eventually, though, valuation has to matter. People dot com, January 3, 2000 the problem is that in bubbles, attractive morphs into attractive at any price.
 
-In other words, they say, it’s fully priced, but I think it’ll become more so. Buying or holding on that basis is extremely chancy, but that’s what makes bubbles. In bubbles, infatuation with market. Momentum takes over from any notion of value and fair price, and greed, plus the pain of.
+People often say, it’s not cheap, but. I think it’ll keep going up because of excess liquidity or any number of other reasons.
 
-Standing by as others make seemingly easy money, neutralizes any prudence that might otherwise hold sway. To sum up, I believe that an investment approach based on solid value is the most dependable.
+In other words, they say, it’s fully priced, but. I think it’ll become more so. Buying or holding on that basis is extremely chancy, but that’s what makes bubbles. In bubbles, infatuation with market.
+
+Momentum takes over from any notion of value and fair price, and greed, plus the pain of. Standing by as others make seemingly easy money, neutralizes any prudence that might otherwise hold sway. To sum up, I believe that an investment approach based on solid value is the most dependable.
 
 In contrast, counting on others to give you a profit regardless of value, relying on a bubble, is probably the least. Consider the possible routes to investment profit, benefiting from a rise in the assets intrinsic value. The problem is that increases in value are hard to predict accurately. Further, the conventional view of the potential for increase is usually baked into the assets price, meaning that unless your view is different from the consensus and superior, it’s likely you’re already paying for the potential improvement.
 
@@ -509,17 +527,17 @@ Investing consists of exactly one thing, dealing with the future. And because no
 
 If you can find enough of these, you’ll have moved in the right direction. And you’re unlikely to succeed for long if you haven’t dealt explicitly with risk. The first step consists of understanding it. The second step is recognizing when it’s high.
 
-The critical final step is controlling it. Because the issue is so complex and so important, I devote three chapters to examining risk in depth. Why do I say risk assessment is such an essential element in the investment process? There are three powerful reasons.
+The critical final step is controlling it. Because the issue is so complex and so important, I devote three chapters to examining risk in depth. Why do. I say risk assessment is such an essential element in the investment process?
 
-First, risk is a bad thing, and most level-headed people want to avoid or minimize it. It is an underlying assumption in financial. Theory that people are naturally risk-averse, meaning they’d rather take less risk than more. Thus, for starters, an investor considering a given investment has to make judgments about how risky it is and whether he or she can live with the absolute quantum of risk.
+There are three powerful reasons. First, risk is a bad thing, and most level-headed people want to avoid or minimize it. It is an underlying assumption in financial. Theory that people are naturally risk-averse, meaning they’d rather take less risk than more.
 
-Second, when you’re considering an investment, your decision should be a function of the risk entailed as well as the potential return. Because of their dislike for risk, investors have to be bribed with higher prospective returns to take incremental risks. Put simply, if both a U. S. Treasury note and small company stock appeared likely to return 7% per year, everyone would rush to buy the former, driving up its price and reducing its prospective return, and dump the latter, driving down its price and thus increasing its return.
+Thus, for starters, an investor considering a given investment has to make judgments about how risky it is and whether he or she can live with the absolute quantum of risk. Second, when you’re considering an investment, your decision should be a function of the risk entailed as well as the potential return. Because of their dislike for risk, investors have to be bribed with higher prospective returns to take incremental risks. Put simply, if both a U.
 
-This process of adjusting relative prices, which economists call equilibration, is supposed to render prospective returns proportional to risk. So, going beyond determining whether he or she can bear the absolute amount of risk that is attendant, the investor’s second job is to determine whether the return on a given investment justifies taking the risk. Clearly, return tells just half of the story, and risk assessment is required. T.
+S. Treasury note and small company stock appeared likely to return 7% per year, everyone would rush to buy the former, driving up its price and reducing its prospective return, and dump the latter, driving down its price and thus increasing its return. This process of adjusting relative prices, which economists call equilibration, is supposed to render prospective returns proportional to risk. So, going beyond determining whether he or she can bear the absolute amount of risk that is attendant, the investor’s second job is to determine whether the return on a given investment justifies taking the risk.
 
-H. I. R. D., when you consider.
+Clearly, return tells just half of the story, and risk assessment is required. T. H. I.
 
-Investment results, the return means only so much by itself, the risk taken has to be assessed as well. Was the return achieved in safe instruments or risky ones?
+R. D., when you consider. Investment results, the return means only so much by itself, the risk taken has to be assessed as well. Was the return achieved in safe instruments or risky ones?
 
 
 <a id="sec-011040"></a>
@@ -535,35 +553,41 @@ Appear to offer higher returns. If that weren’t the case, who would buy them? 
 
 Especially in good times, far too many people can be overheard saying, riskier investments provide higher returns. If you want to make more money, the answer is to take more risk. But riskier investments absolutely cannot be counted on to deliver higher returns. Why not?
 
-It’s simple, if riskier investments reliably produced higher returns, they wouldn’t be riskier. The correct formulation is that in order to attract capital, riskier investments have to offer the prospect of higher returns, or higher promised returns, or higher expected returns. But there’s absolutely nothing to say those higher prospective returns have to materialize. The way I conceptualize.
+It’s simple, if riskier investments reliably produced higher returns, they wouldn’t be riskier. The correct formulation is that in order to attract capital, riskier investments have to offer the prospect of higher returns, or higher promised returns, or higher expected returns. But there’s absolutely nothing to say those higher prospective returns have to materialize. The way.
 
-The capital market line makes it easier for me to relate to the relationship underlying it all. Riskier investments are those for which the outcome is less certain. That is, the probability distribution of returns is wider. When priced fairly, riskier investments should entail, higher expected returns, the possibility of lower returns, and, in some cases the possibility of losses.
+I conceptualize. The capital market line makes it easier for me to relate to the relationship underlying it all. Riskier investments are those for which the outcome is less certain. That is, the probability distribution of returns is wider.
 
-The traditional risk-slash-return graph is deceptive because it communicates the positive connection between risk and return but fails to suggest the uncertainty involved. It has brought a lot of people a lot of misery through its unwavering intimation that taking more risk leads to making more money. I hope my version of the graph is more helpful. It’s meant to suggest both the positive relationship between risk and expected return and the fact that uncertainty about the return and the possibility of loss increase as risk increases.
+When priced fairly, riskier investments should entail, higher expected returns, the possibility of lower returns, and, in some cases the possibility of losses. The traditional risk-slash-return graph is deceptive because it communicates the positive connection between risk and return but fails to suggest the uncertainty involved. It has brought a lot of people a lot of misery through its unwavering intimation that taking more risk leads to making more money. I hope my version of the graph is more helpful.
 
-Risk, January 19, 2006 Our next major task is to define risk. What exactly does it involve? We can get an idea from its synonyms, danger, hazard, jeopardy, peril. They all sound like.
+It’s meant to suggest both the positive relationship between risk and expected return and the fact that uncertainty about the return and the possibility of loss increase as risk increases. Risk, January 19, 2006. Our next major task is to define risk. What exactly does it involve?
 
-Capital candidates and pretty undesirable. And yet, finance theory, the same theory that contributed the risk-return graph and the concept of risk, adjustment, defines risk very precisely as volatility or variability or deviation. None of these conveys the necessary sense of peril. According to the academicians who developed capital market theory, risk equals volatility because volatility indicates the unreliability of an investment.
+We can get an idea from its synonyms, danger, hazard, jeopardy, peril. They all sound like. Capital candidates and pretty undesirable. And yet, finance theory, the same theory that contributed the risk-return graph and the concept of risk, adjustment, defines risk very precisely as volatility or variability or deviation.
 
-I take great issue with this definition of risk. It’s my view that, knowingly or unknowingly, academicians settled on volatility as the proxy for risk as a matter of convenience. They needed a number for their calculations that was objective and could be ascertained historically and extrapolated into the future. Volatility fits the bill, and most of the other types of risk do not.
+None of these conveys the necessary sense of peril. According to the academicians who developed capital market theory, risk equals volatility because volatility indicates the unreliability of an investment. I take great issue with this definition of risk. It’s my view that, knowingly or unknowingly, academicians settled on volatility as the proxy for risk as a matter of convenience.
 
-The problem with all of this, however, is that I j- just don’t think volatility is the risk most investors care about. There are many kinds of risk. But volatility may be the least relevant of them all. Theory says investors demand more return from investments that are more volatile.
+They needed a number for their calculations that was objective and could be ascertained historically and extrapolated into the future. Volatility fits the bill, and most of the other types of risk do not. The problem with all of this, however, is that. I j- just don’t think volatility is the risk most investors care about.
 
-But for the market to set the prices for investments such that more volatile investments will appear likely to produce higher returns, there have to be people demanding that relationship, and I haven’t met them yet. I’ve never heard anyone at Oaktree, or anywhere else, for that matter, say, I won’t buy it, because its price might show big fluctuations, or, I won’t buy it, because it might have
+There are many kinds of risk. But volatility may be the least relevant of them all. Theory says investors demand more return from investments that are more volatile. But for the market to set the prices for investments such that more volatile investments will appear likely to produce higher returns, there have to be people demanding that relationship, and.
+
+I haven’t met them yet. I’ve never heard anyone at Oaktree, or anywhere else, for that matter, say, I won’t buy it, because its price might show big fluctuations, or, I won’t buy it, because it might have
 
 
 <a id="sec-011542"></a>
 ### ⏱️ [01:15:42 - 01:20:42]
 
-a downquarter. Thus, it’s hard for me to believe volatility is the risk investors factor in when setting prices and prospective returns. Other than volatility, I think people decline to make investments primarily because they’re worried about a loss of capital or an unacceptably low return. To me, I need more upside potential because I’m afraid I could lose money makes an awful lot more sense than, I need more upside potential because I’m afraid the price may fluctuate.
+a downquarter. Thus, it’s hard for me to believe volatility is the risk investors factor in when setting prices and prospective returns. Other than volatility, I think people decline to make investments primarily because they’re worried about a loss of capital or an unacceptably low return. To me, I need more upside potential because.
 
-No, I’m sure, risk is, first and foremost, the likelihood of losing money. Risk, January 19, 2006 the possibility of permanent loss is the risk I worry about, Oaktree worries about and every practical investor I know worries about. But there are many other kinds of risk, and you should be conscious of them, because they. Can either, A, affect you or, B, affect others and thus present you with opportunities for profit.
+I’m afraid. I could lose money makes an awful lot more sense than, I need more upside potential because. I’m afraid the price may fluctuate. No, I’m sure, risk is, first and foremost, the likelihood of losing money.
 
-Investment risk comes in many forms. Many risks matter to some investors but not to others, and they may make a given investment seem safe for some investors but risky for others. Falling short of one’s goal, investors have differing needs, and for each investor the failure to meet those needs poses a risk. A retired executive may need 4% per year to pay the bills, whereas 6% would represent a windfall. But for a pension fund that has to average 8% per year, a prolonged period returning 6% would entail serious risk.
+Risk, January 19, 2006 the possibility of permanent loss is the risk. I worry about, Oaktree worries about and every practical investor. I know worries about. But there are many other kinds of risk, and you should be conscious of them, because they.
 
-Obviously this risk is personal and subjective, as opposed to absolute and objective. A given investment may be risky in this regard for some people but riskless for others. Thus this cannot be the risk for which, the market, demands compensation in the form of higher. Prospective returns.
+Can either, A, affect you or, B, affect others and thus present you with opportunities for profit. Investment risk comes in many forms. Many risks matter to some investors but not to others, and they may make a given investment seem safe for some investors but risky for others. Falling short of one’s goal, investors have differing needs, and for each investor the failure to meet those needs poses a risk.
 
-Underperformance, let’s say an investment manager knows there. Won’t be more money forthcoming no matter how well a client’s account performs, but it’s clear the account will be lost if it fails to keep up with some index. That’s benchmark risk and the manager can eliminate it by emulating the index. But every investor who’s unwilling to throw in the towel on outperformance and who chooses to deviate from the index in its pursuit will have periods of significant underperformance.
+A retired executive may need 4% per year to pay the bills, whereas 6% would represent a windfall. But for a pension fund that has to average 8% per year, a prolonged period returning 6% would entail serious risk. Obviously, this risk is personal and subjective, as opposed to absolute and objective. A given investment may be risky in this regard for some people but riskless for others.
+
+Thus this cannot be the risk for which, the market, demands compensation in the form of higher. Prospective returns. Underperformance, let’s say an investment manager knows there. Won’t be more money forthcoming no matter how well a client’s account performs, but it’s clear the account will be lost if it fails to keep up with some index.
+
+That’s benchmark risk and the manager can eliminate it by emulating the index. But every investor who’s unwilling to throw in the towel on outperformance and who chooses to deviate from the index in its pursuit will have periods of significant underperformance.
 
 In fact, since many of the best investors stick most strongly to their approach, and since no approach will work all the time, the best investors can have some of the greatest periods of underperformance. Specifically, in crazy times, disciplined investors willingly accept the risk of not taking enough risk to keep up. See Warren Buffett and Julian Robertson in 1999. That year, underperformance was a badge of courage because it denoted a refusal to participate in the tech bubble.
 
@@ -573,7 +597,7 @@ Stewards of other people’s money can be more comfortable turning in average pe
 
 Investment that can’t be counted on for liquidity that meets the schedule. Thus, for this investor, risk isn’t just losing money or volatility, or any of the above. It’s being unable when needed to turn an investment into cash at a reasonable price. This, too, is a personal risk.
 
-Risk, January 19, 2006 now I want to spend a little time on the subject of what gives rise. To the risk of loss.
+Risk, January 19, 2006 now. I want to spend a little time on the subject of what gives rise. To the risk of loss.
 
 First, risk of loss does not necessarily stem from weak fundamentals. A fundamentally weak asset, a less-than-stellar company stock, a speculative, great bond or a building in the wrong part of town, can make for a very successful investment if bought
 
@@ -585,25 +609,27 @@ at a low, enough price. Second, risk can be present even without weakness in the
 
 Mostly it comes down to psychology that’s too positive and thus prices that are too high. Investors tend to associate exciting stories and pizzazz with high potential returns. They also expect high returns from things that have been doing well lately. Supt-up investments may deliver on people’s expectations for a while, but they certainly.
 
-Having been born aloft on the crowd’s excitement and elevated to what I call the pedestal of popularity, they offer the possibility of continued high returns, but also of low or negative ones. Theory says high return is associated with high risk because the former exists to compensate for the latter. But pragmatic value investors feel just the opposite, they believe high return and low risk can be achieved simultaneously by buying things for less than their worth. In the same way, overpaying implies both low return and high risk.
+Having been born aloft on the crowd’s excitement and elevated to what. I call the pedestal of popularity, they offer the possibility of continued high returns, but also of low or negative ones. Theory says high return is associated with high risk because the former exists to compensate for the latter. But pragmatic value investors feel just the opposite, they believe high return and low risk can be achieved simultaneously by buying things for less than their worth.
 
-Dull, ignored, possibly tarnished and beaten down securities, often bargains exactly because they haven’t been performing well, are often the ones value investors favor for high returns. Their returns in bull markets are rarely at the top of the heap, but their performance is generally excellent on average, more consistent than that of hot stocks and. Characterized by low variability, low fundamental risk and smaller losses when markets do. Badly.
+In the same way, overpaying implies both low return and high risk. Dull, ignored, possibly tarnished and beaten down securities, often bargains exactly because they haven’t been performing well, are often the ones value investors favor for high returns. Their returns in bull markets are rarely at the top of the heap, but their performance is generally excellent on average, more consistent than that of hot stocks and. Characterized by low variability, low fundamental risk and smaller losses when markets do.
 
-Much of the time, the greatest risk in these low, luster bargains lies in the possibility of underperforming in heated bull markets. That’s something the risk conscious value investor is willing to live with. I’m sure we agree that investors should and do demand higher prospective returns on the investments they perceive as riskier. And hopefully we can agree that losing money is the risk people care about most in demanding prospective returns and thus in setting prices for investments.
+Badly. Much of the time, the greatest risk in these low, luster bargains lies in the possibility of underperforming in heated bull markets. That’s something the risk conscious value investor is willing to live with. I’m sure we agree that investors should and do demand higher prospective returns on the investments they perceive as riskier.
 
-An important question remains, how do they measure that risk? First, it clearly is nothing but a matter of opinion, hopefully an educated, skillful estimate of the future, but still just an estimate.
+And hopefully we can agree that losing money is the risk people care about most in demanding prospective returns and thus in setting prices for investments. An important question remains, how do they measure that risk?
 
-Second, the standard for quantification is non-existent. With any given investment, some people will think the risk is high and others will think it’s low. Some will state it as the probability of not making money, and some as the. Probability of losing a given fraction of their money, and so forth.
+First, it clearly is nothing but a matter of opinion, hopefully an educated, skillful estimate of the future, but still just an estimate. Second, the standard for quantification is non-existent. With any given investment, some people will think the risk is high and others will think it’s low. Some will state it as the probability of not making money, and some as the.
 
-Some will think of it as the. Risk of losing money over one year, and some as the risk of losing money over the entire holding period. Clearly, even if all the investors involved met in a room and showed their cards, they’d never agree on a single number representing an investment’s riskiness. And even if they could, that number wouldn’t likely be capable of being compared against another number, set by another group of investors, for another investment.
+Probability of losing a given fraction of their money, and so forth. Some will think of it as the. Risk of losing money over one year, and some as the risk of losing money over the entire holding period. Clearly, even if all the investors involved met in a room and showed their cards, they’d never agree on a single number representing an investment’s riskiness.
 
-This is one of the reasons why I say risk and the risk-slash-return decision aren’t machinable, or capable of being turned over to a computer. Ben Graham and David Dodd put it this way more than 60 years ago in the second edition of Security Analysis, the Bible of Value Investors, the relation between different kinds of investments and the risk of loss is entirely too indefinite and too variable with changing conditions, to permit of sound mathematical formulation. T-H-I-R-D, risk is. Deceptive.
+And even if they could, that number wouldn’t likely be capable of being compared against another number, set by another group of investors, for another investment. This is one of the reasons why. I say risk and the risk-slash-return decision aren’t machinable, or capable of being turned over to a computer. Ben Graham and David Dodd put it this way more than 60 years ago in the second edition of Security Analysis, the Bible of Value Investors, the relation between different kinds of investments and the risk of loss is entirely too indefinite and too variable with changing conditions, to permit of sound mathematical formulation.
 
-Conventional considerations are easy to factor in, like the likelihood that normally. Recurring events will recur. But freakish, once-in-a-lifetime events are hard to quantify. The fact that an investment is susceptible to a particularly serious risk that will occur infrequently if at all, what I call the improbable disaster, means it can seem safer than it really is.
+T-H-I-R-D, risk is. Deceptive. Conventional considerations are easy to factor in, like the likelihood that normally. Recurring events will recur.
 
-The bottom line is that, looked at prospectively, much of risk is subjective, hidden and. Unquantifiable. Where does that leave us? If the risk of loss can’t be measured, quantified or even observed, and if it’s consigned to subjectivity, how can it be dealt with?
+But freakish, once-in-a-lifetime events are hard to quantify. The fact that an investment is susceptible to a particularly serious risk that will occur infrequently if at all, what. I call the improbable disaster, means it can seem safer than it really is. The bottom line is that, looked at prospectively, much of risk is subjective, hidden and.
 
-Skillful investors can get a sense for the risk present in a given situation. They make that judgment primarily based on, A, the stability and dependability of value and, B, the relationship between price and value.
+Unquantifiable. Where does that leave us? If the risk of loss can’t be measured, quantified or even observed, and if it’s consigned to subjectivity, how can it be dealt with? Skillful investors can get a sense for the risk present in a given situation.
+
+They make that judgment primarily based on, A, the stability and dependability of value and, B, the relationship between price and value.
 
 
 <a id="sec-012546"></a>
@@ -619,29 +645,29 @@ For private assets lacking market prices, like real estate and whole companies, 
 
 Let’s say you make an investment that works out as expected. Does that mean it wasn’t risky? Maybe you buy something for $100 and sell it a year later for $200. Was it risky?
 
-Who knows? Perhaps it exposed you to great potential uncertainties that didn’t materialize. Thus, its real riskiness might have been high. Or let’s say the investment produces a loss.
+Who knows? Perhaps, it exposed you to great potential uncertainties that didn’t materialize. Thus, its real riskiness might have been high. Or let’s say the investment produces a loss.
 
 Does that mean it was risky? Or that it should have been perceived as risky at the time it was analyzed and entered into? If you think about it, the response to these questions is simple. The fact that something, in this case, loss, happened doesn’t mean it was bound to happen, and the fact that something didn’t happen doesn’t mean it was unlikely.
 
-Fooled by randomness, by. Nasim Nicholas Taleb is the authority on this subject as far as I’m concerned, and in it he. Talks about the alternative histories that could have unfolded but didn’t. There’s more about this important book in chapter 16, but at the moment I am interested in how the idea of alternative histories relates to risk.
+Fooled by randomness, by. Nasim Nicholas Taleb is the authority on this subject as far as. I’m concerned, and in it he. Talks about the alternative histories that could have unfolded but didn’t.
 
-In the investing world, one can live for years off one great coup or one extreme but eventually accurate forecast. But what’s proved by one success? When markets are booming, the best results often go to those who take the most risk. Were they smart to anticipate good times and bulk up on beta, or just congenitally aggressive types who were bailed out by events?
+There’s more about this important book in chapter 16, but at the moment. I am interested in how the idea of alternative histories relates to risk. In the investing world, one can live for years off one great coup or one extreme but eventually accurate forecast. But what’s proved by one success?
 
-Most simply put, how often in our business are people right for the wrong reason? These are the people Nasim Nicholas Taleb calls, lucky idiots, and in the short run it’s certainly hard to tell them from skilled investors. The point is that even after an investment has been closed out, it’s impossible to tell how much risk it. Entailed.
+When markets are booming, the best results often go to those who take the most risk. Were they smart to anticipate good times and bulk up on beta, or just congenitally aggressive types who were bailed out by events? Most simply put, how often in our business are people right for the wrong reason? These are the people Nasim Nicholas Taleb calls, lucky idiots, and in the short run it’s certainly hard to tell them from skilled investors.
 
-Certainly the fact that an investment work doesn’t mean it wasn’t risky, and vice. Versa. With regard to a successful investment, where do you look to learn whether the favorable outcome was inescapable or just one of a hundred possibilities, many of them unpleasant? And ditto for a loser, how do we ascertain whether it was a reasonable but ill-fated venture or just a wild stab that deserved to be punished?
+The point is that even after an investment has been closed out, it’s impossible to tell how much risk it. Entailed. Certainly the fact that an investment work doesn’t mean it wasn’t risky, and vice. Versa.
 
-Did the investor do a good job of assessing the risk entailed? That’s another good question that’s hard to answer. Need a model? Think of the weatherman.
+With regard to a successful investment, where do you look to learn whether the favorable outcome was inescapable or just one of a hundred possibilities, many of them unpleasant? And ditto for a loser, how do we ascertain whether it was a reasonable but ill-fated venture or just a wild stab that deserved to be punished? Did the investor do a good job of assessing the risk entailed? That’s another good question that’s hard to answer.
 
-He says there’s a 70% chance of rain tomorrow. It rains, was he right or wrong? Or it doesn’t rain, was he right or wrong? It’s impossible to assess the accuracy of probability estimates other than 0 and 100 except over a very large number of trials.
+Need a model? Think of the weatherman. He says there’s a 70% chance of rain tomorrow. It rains, was he right or wrong?
 
-Risk, January 19, 2006 and that brings me to the quotation from Elroy Dimson that led off this chapter,
+Or it doesn’t rain, was he right or wrong? It’s impossible to assess the accuracy of probability estimates other than 0 and 100 except over a very large number of trials. Risk, January 19, 2006 and that brings me to the quotation from Elroy Dimson that led off this chapter,
 
 
 <a id="sec-013047"></a>
 ### ⏱️ [01:30:47 - 01:35:47]
 
-risk means more things can happen than will happen. Now we move toward the metaphysical aspects of risk. Perhaps you recall the opening sentence of this chapter, investing consists of exactly one thing, dealing with the future. Yet clearly it’s impossible to know anything about the future.
+risk means more things can happen than will happen. Now we move toward the metaphysical aspects of risk. Perhaps, you recall the opening sentence of this chapter, investing consists of exactly one thing, dealing with the future. Yet clearly it’s impossible to know anything about the future.
 
 If we’re farsighted, we can have an idea of the range of future outcomes and their relative likelihood of occurring, that is, we can fashion a rough probability distribution. On the other hand, if we’re not, we won’t know. These things and it’ll be pure guesswork. If we have a sense for the future, we’ll be able to say which outcome is most likely, what other outcomes also have a good chance of occurring, how broad the range of possible outcomes is and thus what the expected result is.
 
@@ -649,7 +675,7 @@ The expected result is calculated by weighting each outcome by its probability o
 
 Bruce has put it admirably into words, there’s a big difference between probability and outcome. Probable things fail to happen and improbable things happen all the time. That’s one of the most important things you can know about investment risk. While on the subject of probability distributions, I want to take a moment to make special mention of the normal distribution.
 
-Obviously investors are required to make judgments about future events. To do that, we settle on a central value around which we think events are likely to cluster. This may be the mean or expected value, the outcome that on average is expected to occur, the median, the outcome with half the possibilities above and half below, or the mode, the single most likely outcome. But to cope with the future it’s not sufficient to have a central expectation, we have to have a sense for the other possible outcomes and their likelihood.
+Obviously, investors are required to make judgments about future events. To do that, we settle on a central value around which we think events are likely to cluster. This may be the mean or expected value, the outcome that on average is expected to occur, the median, the outcome with half the possibilities above and half below, or the mode, the single most likely outcome. But to cope with the future it’s not sufficient to have a central expectation, we have to have a sense for the other possible outcomes and their likelihood.
 
 We need a distribution that describes all of the possibilities. Most phenomena that cluster around a central value, for example, the heights of people, form the familiar bell-shaped curve with the probability of a given observation peaking at. The center and trailing off toward the extremes or tails. There may be more men of 5 feet 10 inches than any other height, somewhat fewer of 5 feet 9 inches or 5 feet 11 inches, a lot less of 5 feet 3 inches or 6 feet 5 inches, and almost none of 4 feet 8 inches or 7 feet.
 
@@ -703,23 +729,25 @@ People overestimate their ability to gauge risk and understand mechanisms they�
 
 We don’t have to burn ourselves to know we shouldn’t sit on a hot stove. But in bullish times, people tend not to perform this function. Rather than recognize risk ahead, they tend to overestimate their ability to understand how new financial inventions will work.
 
-Finally and importantly, most people view risk taking primarily as a way to make money. Bearing higher risk generally produces higher returns. The market has to set things up to look like that’ll be the case, if it didn’t, people wouldn’t make risky investments. But it can’t always work that way, or else risky investments wouldn’t be risky.
+Finally, and importantly, most people view risk taking primarily as a way to make money. Bearing higher risk generally produces higher returns. The market has to set things up to look like that’ll be the case, if it didn’t, people wouldn’t make risky investments. But it can’t always work that way, or else risky investments wouldn’t be risky.
 
 And when risk-bearing doesn’t work, it really doesn’t work, and people are reminded what risk’s all about. No different this time, December 17th, 2007 backslash.
 
-#### Chapter 6 The most important thing is recognizing risk. My belief is that because the system is now more stable, we’ll make it less stable through more leverage, more risk taking, Myron Scholes. The received wisdom is that risk increases in the recessions and falls in booms. In contrast, it may be more helpful to think of risk as increasing during upswings, as financial imbalances build up and materializing in recessions, Andrew Crockett.
+#### Chapter 6 The most important thing is recognizing risk. My belief is that because the system is now more stable, we’ll make it less stable through more leverage, more risk taking, Myron Scholes. The received wisdom is that risk increases in the recessions and falls in booms.
 
-No matter how good fundamentals may be, humans exercising their greed and propensity to err have the ability to screw things up. Great investing requires both generating returns and controlling risk. And recognizing risk is an absolute prerequisite for controlling it. Hopefully I’ve made clear what I think risk is, and isn’t.
+In contrast, it may be more helpful to think of risk as increasing during upswings, as financial imbalances build up and materializing in recessions, Andrew Crockett. No matter how good fundamentals may be, humans exercising their greed and propensity to err have the ability to screw things up. Great investing requires both generating returns and controlling risk. And recognizing risk is an absolute prerequisite for controlling it.
 
-Risk means uncertainty about which outcome will occur and about the possibility of loss when the unfavorable ones do. The next important step is to describe the process through which risk can be recognized for what it is. Recognizing risk often starts with understanding when investors are paying it too little heed, being too optimistic and paying too much for a given asset as a result. High risk, in other words, comes primarily with high prices.
+Hopefully. I’ve made clear what. I think risk is, and isn’t. Risk means uncertainty about which outcome will occur and about the possibility of loss when the unfavorable ones do.
 
-Whether it be an individual security or other asset that is overrated and thus overpriced, or an entire market that’s been born aloft by bullish sentiment and thus is sky high, participating when prices are high rather than shying away is the main source of risk. Whereas the theorist thinks return and risk are two separate things, albeit correlated, the. Value investor thinks of high risk and low prospective return as nothing but two sides of the same coin, both stemming primarily from high prices.
+The next important step is to describe the process through which risk can be recognized for what it is. Recognizing risk often starts with understanding when investors are paying it too little heed, being too optimistic and paying too much for a given asset as a result. High risk, in other words, comes primarily with high prices. Whether it be an individual security or other asset that is overrated and thus overpriced, or an entire market that’s been born aloft by bullish sentiment and thus is sky high, participating when prices are high rather than shying away is the main source of risk.
 
-The us, awareness of the relationship between price and value, whether for a single security or an entire market, is an essential component of dealing successfully with risk. Risk arises when markets go so high that prices. Imply losses rather than the potential rewards they should. Dealing with this risk starts with recognizing it.
+Whereas the theorist thinks return and risk are two separate things, albeit correlated, the. Value investor thinks of high risk and low prospective return as nothing but two sides of the same coin, both stemming primarily from high prices. The us, awareness of the relationship between price and value, whether for a single security or an entire market, is an essential component of dealing successfully with risk. Risk arises when markets go so high that prices.
 
-All along the upward sloping capital market line, the increase in potential return represents compensation for bearing incremental risk. Except for those people who can generate alpha or access managers who have it, investors shouldn’t plan on getting added return without bearing incremental risk. And for doing so, they should demand risk premiums. But at some point in the swing of the pendulum, people usually forget that truth and embrace risk taking to excess. In short, in bull markets, usually when things have been going well for a while, people tend to say, risk is my friend.
+Imply losses rather than the potential rewards they should. Dealing with this risk starts with recognizing it. All along the upward sloping capital market line, the increase in potential return represents compensation for bearing incremental risk. Except for those people who can generate alpha or access managers who have it, investors shouldn’t plan on getting added return without bearing incremental risk.
 
-The more risk I take, the greater my return will be. I’d like more risk, please.
+And for doing so, they should demand risk premiums. But at some point in the swing of the pendulum, people usually forget that truth and embrace risk taking to excess. In short, in bull markets, usually when things have been going well for a while, people tend to say, risk is my friend. The more risk.
+
+I take, the greater my return will be. I’d like more risk, please.
 
 The truth is, risk tolerance is antithetical to successful investing. When people aren’t afraid of risk, they’ll accept risk without being. Compensated for doing so, and risk compensation will disappear. This is a simple end.
 
@@ -729,25 +757,27 @@ Inevitable relationship. When investors are unworried and risk tolerant, they bu
 <a id="sec-014550"></a>
 ### ⏱️ [01:45:50 - 01:50:55]
 
-as risky as the widespread belief that there’s no risk, because it’s only when investors are suitably risk averse that prospective returns will incorporate appropriate risk premiums. Hopefully in the future, A, investors will remember to fear risk and demand risk premiums and, B, will continue to be alert for times when they don’t. So much that’s false and nutty, July 8, 2009 so a prime element in risk creation is a belief that risk is low, perhaps even gone altogether. That belief drives up prices and leads to the embrace of risky actions despite the lowness of prospective returns.
+as risky as the widespread belief that there’s no risk, because it’s only when investors are suitably risk averse that prospective returns will incorporate appropriate risk premiums. Hopefully in the future, A, investors will remember to fear risk and demand risk premiums and, B, will continue to be alert for times when they don’t. So much that’s false and nutty, July 8, 2009 so a prime element in risk creation is a belief that risk is low, perhaps even gone altogether.
 
-In 2005 to 2007, belief that risk had been banished caused prices to rise to bubble levels and investors to participate in what later turned out to be risky activities. This is one of the most dangerous of all processes, and its tendency to recur is remarkable. Of the many fairy tales told over the last few years, one of the most seductive, and thus dangerous, was the one about global risk reduction. It went this way, the risk of economic cycles has been eased by adroit central bank management.
+That belief drives up prices and leads to the embrace of risky actions despite the lowness of prospective returns. In 2005 to 2007, belief that risk had been banished caused prices to rise to bubble levels and investors to participate in what later turned out to be risky activities. This is one of the most dangerous of all processes, and its tendency to recur is remarkable. Of the many fairy tales told over the last few years, one of the most seductive, and thus dangerous, was the one about global risk reduction.
 
-Because of globalization, risk has been spread worldwide rather than concentrated geographically. Securitization and syndication have distributed risk to many market participants rather than leaving it concentrated with just a few. Risk has been tranched out to the investors best able to bear it. Leverage has become less risky because interest rates and debt terms are so much more borrower friendly.
+It went this way, the risk of economic cycles has been eased by adroit central bank management. Because of globalization, risk has been spread worldwide rather than concentrated geographically. Securitization and syndication have distributed risk to many market participants rather than leaving it concentrated with just a few. Risk has been tranched out to the investors best able to bear it.
 
-Leveraged buyouts are safer because the companies being bought are fundamentally stronger. Risk can be hedged through long slash short and absolute return. Investing or the use of derivatives designed for that purpose. Improvements in computers, mathematics, and modeling have made the markets better understood and thus less risky.
+Leverage has become less risky because interest rates and debt terms are so much more borrower friendly. Leveraged buyouts are safer because the companies being bought are fundamentally stronger. Risk can be hedged through long slash short and absolute return. Investing or the use of derivatives designed for that purpose.
 
-An apt metaphor came from pension and investments, August 20, 2007, Jill Fredstone is a nationally recognized avalanche expert. She knows about a kind of moral hazard risk, where better safety gear can entice climbers to take more risk, making them in fact less safe. Like opportunities to make money, the degree of risk present in a market derives from the behavior of the participants, not from securities, strategies, and institutions. Regardless of what’s designed into market structures, risk will be low only if investors behave prudently.
+Improvements in computers, mathematics, and modeling have made the markets better understood and thus less risky. An apt metaphor came from pension and investments, August 20, 2007, Jill Fredstone is a nationally recognized avalanche expert. She knows about a kind of moral hazard risk, where better safety gear can entice climbers to take more risk, making them in fact less safe. Like opportunities to make money, the degree of risk present in a market derives from the behavior of the participants, not from securities, strategies, and institutions.
 
-The bottom line is that tales like this one about risk control rarely turn out to be true. Risk cannot be eliminated, it just gets transferred and spread. And developments that make the world look less risky usually are illusory and thus in presenting a rosy picture they tend to make the world more risky. These are among the important lessons of 2007.
+Regardless of what’s designed into market structures, risk will be low only if investors behave prudently. The bottom line is that tales like this one about risk control rarely turn out to be true. Risk cannot be eliminated, it just gets transferred and spread. And developments that make the world look less risky usually are illusory and thus in presenting a rosy picture they tend to make the world more risky.
 
-Now it’s all bad, September 10, 2007 the risk is gone myth is one of the most dangerous sources of risk and a major contributor to any bubble. At the extreme of the pendulum’s upswing, the belief that risk is low and that the investment in question is sure to produce profits intoxicates the herd and causes its members to forget caution, worry, and fear of loss, and instead to obsess about the risk of missing opportunity. The recent crisis came about primarily because investors partook of novel, complex and dangerous things, in greater amounts than ever before.
+These are among the important lessons of 2007. Now it’s all bad, September 10, 2007 the risk is gone myth is one of the most dangerous sources of risk and a major contributor to any bubble. At the extreme of the pendulum’s upswing, the belief that risk is low and that the investment in question is sure to produce profits intoxicates the herd and causes its members to forget caution, worry, and fear of loss, and instead to obsess about the risk of missing opportunity.
 
-They took on too much leverage and committed too much capital to illiquid investments. Why did they do these things? It all happened because investors believed too much, worried too little and thus took too much risk. In short, they believed they were living in a low, risk world.
+The recent crisis came about primarily because investors partook of novel, complex and dangerous things, in greater amounts than ever before. They took on too much leverage and committed too much capital to illiquid investments. Why did they do these things? It all happened because investors believed too much, worried too little and thus took too much risk.
 
-Worry in its relatives, distrust, skepticism and risk aversion, are essential ingredients in a safe financial system. Worry keeps risky loans from being made, companies from taking on more debt than they can service, portfolios from becoming overly concentrated and in proven schemes from turning into popular larmanias. When Worry End. Risk aversion are present as they should be, investors will question, investigate and act prudently.
+In short, they believed they were living in a low, risk world. Worry in its relatives, distrust, skepticism and risk aversion, are essential ingredients in a safe financial system. Worry keeps risky loans from being made, companies from taking on more debt than they can service, portfolios from becoming overly concentrated and in proven schemes from turning into popular larmanias. When Worry End.
 
-Risky investments either won’t be undertaken or will be required to provide adequate compensation in terms of anticipated return. But only when investors are sufficiently risk averse will markets offer adequate risk premiums. When Worry is in short supply, risky borrowers and questionable schemes will have easy access to capital, and the financial system will become precarious. Too much money will chase the risky in the new, driving up asset
+Risk aversion are present as they should be, investors will question, investigate and act prudently. Risky investments either won’t be undertaken or will be required to provide adequate compensation in terms of anticipated return. But only when investors are sufficiently risk averse will markets offer adequate risk premiums. When Worry is in short supply, risky borrowers and questionable schemes will have easy access to capital, and the financial system will become precarious.
+
+Too much money will chase the risky in the new, driving up asset
 
 
 <a id="sec-015055"></a>
@@ -757,19 +787,25 @@ prices and driving down prospective returns and safety. Clearly, in the months a
 
 Returns on safer investments, recent good performance by risky ones, strong inflows of. Capital and easy availability of credit. The key lies in understanding what impact things like these are having. The investment thought process is a chain in which each investment sets the requirement for the next.
 
-Here’s how I described the process in 2004, I’ll use a typical market of a few years back to illustrate how this works in real life, the interest rate on the 30-day T-bill might have been 4%. So investors say, if I’m going to go out 5 years, I want 5%. And to buy the 10, you note I have to get 6%. Investors demand a higher rate to extend maturity because they’re concerned about the risk to purchasing power, a risk that is assumed to increase with time to maturity.
+Here’s how. I described the process in 2004, I’ll use a typical market of a few years back to illustrate how this works in real life, the interest rate on the 30-day T-bill might have been 4%. So investors say, if. I’m going to go out 5 years, I want 5%.
 
-That’s why the yield curve, which in reality is a portion of the capital market line, normally slopes upward with the increase in asset life. Now let’s factor in credit risk. If the 10-year treasury pays 6%. I’m not going to buy a 10-year single, a corporate unless I’m promised 7%.
+And to buy the 10, you note. I have to get 6%. Investors demand a higher rate to extend maturity because they’re concerned about the risk to purchasing power, a risk that is assumed to increase with time to maturity. That’s why the yield curve, which in reality is a portion of the capital market line, normally slopes upward with the increase in asset life.
+
+Now let’s factor in credit risk. If the 10-year treasury pays 6%. I’m not going to buy a 10-year single, a corporate unless. I’m promised 7%.
 
 This introduces the concept of credit spreads. Our hypothetical investor wants 100 basis points to go from a govy to a corporate. If the consensus of investors feels the same, that’s what the spread will be. What if we depart from investment grade bonds?
 
-I’m not going to touch a high yield bond unless I get 600 over a treasury note of comparable maturity. So high yield bonds are required to yield 12% for a spread of 6% over the treasury note, if they’re going to attract buyers. Now let’s leave fixed income altogether. Things get tougher because you can’t look anywhere to find the prospective return on investments like stocks, that’s because, simply put, their returns are conjectural, not fixed.
+I’m not going to touch a high yield bond unless. I get 600 over a treasury note of comparable maturity. So high yield bonds are required to yield 12% for a spread of 6% over the treasury note, if they’re going to attract buyers. Now let’s leave fixed income altogether.
 
-But investors have a sense for these things. Historically S&P stocks have returned 10% and I’ll buy them only if I think they’re going to keep doing so. And riskier stocks. Should return more, I won’t buy on the NASDAQ unless I think I’m going to get 13%.
+Things get tougher because you can’t look anywhere to find the prospective return on investments like stocks, that’s because, simply put, their returns are conjectural, not fixed. But investors have a sense for these things. Historically S&P stocks have returned 10% and. I’ll buy them only if.
 
-From there it’s onward and upward. If I can get 10% from stocks, I need 15% to accept the illiquidity and uncertainty associated with real estate. And 25% if I’m going to invest in buyouts and 30% to induce me to go for venture capital with its low. Success ratio.
+I think they’re going to keep doing so. And riskier stocks. Should return more, I won’t buy on the NASDAQ unless. I think.
 
-That’s the way it’s supposed to work and in fact I think it generally does, although the requirements aren’t the same at all times. The result is a capital market line of the sort that has become familiar to many of us. Return money market, 4%. 5 year treasury, 5%. 10 year treasury, 6%. High grade bonds, 7%.
+I’m going to get 13%. From there it’s onward and upward. If. I can get 10% from stocks, I need 15% to accept the illiquidity and uncertainty associated with real estate.
+
+And 25% if. I’m going to invest in buyouts and 30% to induce me to go for venture capital with its low. Success ratio. That’s the way it’s supposed to work and in fact.
+
+I think it generally does, although the requirements aren’t the same at all times. The result is a capital market line of the sort that has become familiar to many of us. Return money market, 4%. 5 year treasury, 5%. 10 year treasury, 6%. High grade bonds, 7%.
 
 S&P stocks, 10%. High yield bonds, 12%. Small stocks, 13%. Real estate, 15%.
 
@@ -783,13 +819,13 @@ Real estate has to yield 8% or so. For buyouts to be attractive they have to app
 <a id="sec-015557"></a>
 ### ⏱️ [01:55:57 - 02:00:59]
 
-After all, each investment has to compete with others for capital, but this year, due to the low interest rates, the bar for each successively riskier investment has been set lower than at any time in my career. Not only is the capital market line at a low level today in terms of return, but in addition a number of factors have conspired to FL Atenant. TH is important, because the slope of the line, or the figure 6.25 year treasury, 3%. Risk return money market, 1%.
+After all, each investment has to compete with others for capital, but this year, due to the low interest rates, the bar for each successively riskier investment has been set lower than at any time in my career. Not only is the capital market line at a low level today in terms of return, but in addition a number of factors have conspired to FL Atenant. TH is important, because the slope of the line, or the figure 6.25 year treasury, 3%.
 
-Ten year treasury, 4%. High grade bonds, 5%. S&P stocks, 6-7%. High yield bonds, 7%.
+Risk return money market, 1%. Ten year treasury, 4%. High grade bonds, 5%. S&P stocks, 6-7%.
 
-Small stocks, 7-8%. Real estate, 8%. Buyouts, 15%. Venture capital, 20%.
+High yield bonds, 7%. Small stocks, 7-8%. Real estate, 8%. Buyouts, 15%.
 
-Zero recognizing risk 53 extent to which expected return rises per. Unit increase in risk, quantify ES the risk premium.
+Venture capital, 20%. Zero recognizing risk 53 extent to which expected return rises per. Unit increase in risk, quantify ES the risk premium.
 
 First, investors have fallen over themselves in their EFF or to get away from low risk, low return investments. Second, risky investments have been very rewarding for more than 20 years and did particularly well in 2003. THS, investors are attracted more, or repelled less, by risky investments than perhaps might otherwise be the case and require less risk compensation to move to them. THRD, investors perceive risk as being quite limited today.
 
@@ -797,19 +833,19 @@ In summary, to use the words of the QUANTS, risk aversion is down. Somehow, in t
 
 Risk is incredibly important to investors. It’s also ephemeral and unmeasurable. All of this makes it very hard to recognize, especially when emotions are running high. But recognize it we must.
 
-In the passage that follows, written in July 2007, I take you through. The evaluation process we used at Oaktree to gauge the investment environment and the risk mood at the time. In other time periods the specifics might be different, but I hope this example of the thought process will be useful. Where do we stand today, mid-2007?
+In the passage that follows, written in July 2007, I take you through. The evaluation process we used at Oaktree to gauge the investment environment and the risk mood at the time. In other time periods the specifics might be different, but. I hope this example of the thought process will be useful.
 
-In my opinion, there’s little mystery. I see low levels of skepticism, fear and risk aversion. Most people are willing to undertake risky investments, often because the promised returns from traditional, safe investments seem so meager. This is true even though the lack of interest in safe investments and the acceptance of risky investments have rendered the slope of the risk slash return line quite flat.
+Where do we stand today, mid-2007? In my opinion, there’s little mystery. I see low levels of skepticism, fear and risk aversion. Most people are willing to undertake risky investments, often because the promised returns from traditional, safe investments seem so meager.
 
-Risk premiums are generally the skimpiest I’ve ever seen, but few people are responding by refusing to accept incremental risk, markets have tended recently to move up on positive developments and to recover easily from negatives. I see few assets that people are eager to get rid of, and few forced sellers, instead, most assets are strongly. Bid 4. As a result, I’m not aware of any broad markets that I would describe as underpriced or uncrowded.
+This is true even though the lack of interest in safe investments and the acceptance of risky investments have rendered the slope of the risk slash return line quite flat. Risk premiums are generally the skimpiest. I’ve ever seen, but few people are responding by refusing to accept incremental risk, markets have tended recently to move up on positive developments and to recover easily from negatives. I see few assets that people are eager to get rid of, and few forced sellers, instead, most assets are strongly.
 
-It is what it is. We’ve been living in optimistic times. The cycle has been swinging strongly upward. Prices are elevated and risk premiums are slender.
+Bid 4. As a result, I’m not aware of any broad markets that. I would describe as underpriced or uncrowded. It is what it is.
 
-Trust has replaced skepticism, and evenness has replaced reticence. Do you agree or disagree? That’s the key question. Answer it first, and the implications for investing become clear.
+We’ve been living in optimistic times. The cycle has been swinging strongly upward. Prices are elevated and risk premiums are slender. Trust has replaced skepticism, and evenness has replaced reticence.
 
-In the first quarter of this year, significant delinquencies occurred in subprime mortgages. Those directly involved lost a lot of money, and onlookers worried about contagion to other parts of the economy and other markets. In the second quarter, the impact reached CDOs or collateralized debt obligations, structured, tranched investing entities, that had invested in subprime mortgage portfolios and hedge funds that had bought CDO debt, including two. Bear Stearns Funds.
+Do you agree or disagree? That’s the key question. Answer it first, and the implications for investing become clear. In the first quarter of this year, significant delinquencies occurred in subprime mortgages.
 
-Those who had to liquidate assets were forced, as usual and tough.
+Those directly involved lost a lot of money, and onlookers worried about contagion to other parts of the economy and other markets. In the second quarter, the impact reached CDOs or collateralized debt obligations, structured, tranched investing entities, that had invested in subprime mortgage portfolios and hedge funds that had bought CDO debt, including two. Bear Stearns Funds. Those who had to liquidate assets were forced, as usual and tough.
 
 
 <a id="sec-020059"></a>
@@ -817,29 +853,33 @@ Those who had to liquidate assets were forced, as usual and tough.
 
 Times, to sell what they could sell, not what they wanted to sell, and not just the offending subprime linked assets. We began to read about ratings downgrades, margin calls and fire sales, the usual fuel for capital market meltdowns. And in the last few weeks we’ve begun to see investor reticence on the rise, with new low-grade debt issues repriced, postponed or pulled, leaving bridge loans unrefinanced. The last four and a half years have been carefree, halcyon times for investors.
 
-That doesn’t mean it’ll stay that way. I’ll give Warren Buffett the last word, as I often do, it’s only when the tide goes out that you find out who’s been swimming naked. Pollyanna’s take note, the tide cannot come in forever. It’s all good, July 16th, 2007 I want to point out emphatically that none of the comments in the July 2007 memo and none of my other warnings has anything to do with predicting the future.
+That doesn’t mean it’ll stay that way. I’ll give Warren Buffett the last word, as. I often do, it’s only when the tide goes out that you find out who’s been swimming naked. Pollyanna’s take note, the tide cannot come in forever.
 
-Everything new. Needed to know in the years leading up to the crash could be discerned through awareness. Of what was going on in the present. The reality of risk is much less simple and straightforward than the perception.
+It’s all good, July 16th, 2007. I want to point out emphatically that none of the comments in the July 2007 memo and none of my other warnings has anything to do with predicting the future. Everything new. Needed to know in the years leading up to the crash could be discerned through awareness.
 
-People vastly overestimate their ability to recognize risk and underestimate what it takes to avoid it, thus, they accept risk unknowingly and in so doing contribute to its creation. That’s why it’s essential to apply uncommon, second-level thinking to the subject. Risk arises as investor behavior alters the market. Investors bid up assets, accelerating into the present appreciation that otherwise would have occurred in the future, and thus lowering prospective returns.
+Of what was going on in the present. The reality of risk is much less simple and straightforward than the perception. People vastly overestimate their ability to recognize risk and underestimate what it takes to avoid it, thus, they accept risk unknowingly and in so doing contribute to its creation. That’s why it’s essential to apply uncommon, second-level thinking to the subject.
 
-And as their psychology strengthens and they become bolder and less worried, investors cease to demand adequate risk premiums. The ultimate irony lies in the fact that the reward for taking incremental risk shrinks as more people move to take it. Thus, the market is not a static arena in which investors operate. It is. Responsive, shaped by investors' own behavior.
+Risk arises as investor behavior alters the market. Investors bid up assets, accelerating into the present appreciation that otherwise would have occurred in the future, and thus lowering prospective returns. And as their psychology strengthens and they become bolder and less worried, investors cease to demand adequate risk premiums. The ultimate irony lies in the fact that the reward for taking incremental risk shrinks as more people move to take it.
 
-Their increasing confidence creates more. That they should worry about, just as their rising fear and risk aversion combine to widen risk premiums at the same time as they reduce risk. I call this the, perversity of risk. I wouldn’t buy that at any price, everyone knows it’s too risky.
+Thus, the market is not a static arena in which investors operate. It is. Responsive, shaped by investors' own behavior. Their increasing confidence creates more.
 
-That’s something I’ve heard a lot in my life, and it has given rise to the best investment opportunities I’ve participated in. The truth is, the herd is wrong about risk at least as often as it is about return. A broad consensus that something’s too hot to handle is almost always wrong. Usually it’s the opposite that’s true.
+That they should worry about, just as their rising fear and risk aversion combine to widen risk premiums at the same time as they reduce risk. I call this the, perversity of risk. I wouldn’t buy that at any price, everyone knows it’s too risky. That’s something.
 
-I’m firmly convinced that investment risk resides most where it is least perceived, and vice versa, when everyone believes something is risky, their unwillingness to buy usually reduces its price to the point where it’s not risky at all. Broadly negative opinion can make it the least risky thing, since all optimism has been driven out of its price. And, of course, as. Demonstrated by the experience of nifty 50 investors, when everyone believes something.
+I’ve heard a lot in my life, and it has given rise to the best investment opportunities. I’ve participated in.
 
-Embodies no risk, they usually bid it up to the point where it’s enormously risky. No risk is feared, and thus no reward for risk bearing, no, risk premium, is demanded or provided. That can make the thing that’s most esteemed the riskiest. This paradox exists because most investors think quality, as opposed to price, is the determinant of whether something’s.
+The truth is, the herd is wrong about risk at least as often as it is about return. A broad consensus that something’s too hot to handle is almost always wrong. Usually it’s the opposite that’s true. I’m firmly convinced that investment risk resides most where it is least perceived, and vice versa, when everyone believes something is risky, their unwillingness to buy usually reduces its price to the point where it’s not risky at all.
 
-Risky. But high quality assets can be risky, and low quality assets can be safe. It’s just a matter of the price paid for them. Elevated popular opinion, then, isn’t just the source of low return potential, but also of high risk.
+Broadly negative opinion can make it the least risky thing, since all optimism has been driven out of its price. And, of course, as. Demonstrated by the experience of nifty 50 investors, when everyone believes something. Embodies no risk, they usually bid it up to the point where it’s enormously risky.
 
-Everyone knows, April 26, 2007.
+No risk is feared, and thus no reward for risk bearing, no, risk premium, is demanded or provided. That can make the thing that’s most esteemed the riskiest. This paradox exists because most investors think quality, as opposed to price, is the determinant of whether something’s. Risky.
 
-#### Chapter 7 The Most Important Thing Is Controlling Risk. When you boil it all down, it’s the investor’s job to intelligently bear risk for profit. Doing it well is what separates the best from the rest. Outstanding investors, in my opinion, are distinguished at least as much for their ability to control risk as they are for generating return.
+But high quality assets can be risky, and low quality assets can be safe. It’s just a matter of the price paid for them. Elevated popular opinion, then, isn’t just the source of low return potential, but also of high risk. Everyone knows, April 26, 2007.
 
-High absolute return is much more recognizable and titillating than superior risk-adjusted performance. That’s why it’s high-returning investors who get their pictures in the papers. Since it’s hard to gauge risk and risk-adjusted performance, even after the fact, and since the importance of managing risk is widely underappreciated, investors rarely gain recognition for having done a great job in this regard.
+#### Chapter 7 The Most Important Thing Is Controlling Risk.
+
+When you boil it all down, it’s the investor’s job to intelligently bear risk for profit. Doing it well is what separates the best from the rest. Outstanding investors, in my opinion, are distinguished at least as much for their ability to control risk as they are for generating return. High absolute return is much more recognizable and titillating than superior risk-adjusted performance.
+
+That’s why it’s high-returning investors who get their pictures in the papers. Since it’s hard to gauge risk and risk-adjusted performance, even after the fact, and since the importance of managing risk is widely underappreciated, investors rarely gain recognition for having done a great job in this regard.
 
 
 <a id="sec-020601"></a>
@@ -865,11 +905,13 @@ Ergo, there are no awards. Only a skilled and sophisticated observer can look at
 
 Bottom line, risk control is invisible in good times but still essential, since good times can so. Easily turn into bad times. What’s the definition of a job well done? Most observers think the advantage of inefficient markets lies in the fact that a manager can take the same risk as a benchmark, for example, and earn a superior rate of return.
 
-It presents this idea and depicts the manager’s alpha, or value added through skill. This manager has done a good job, but I think this is only half the story, and for me the uninteresting half. An inefficient market can also allow a skilled investor to achieve the same return as the benchmark while taking less risk, and I think this is a great accomplishment. Here the manager’s value added comes not through higher return at a given risk, but through reduced risk at a given return.
+It presents this idea and depicts the manager’s alpha, or value added through skill. This manager has done a good job, but. I think this is only half the story, and for me the uninteresting half. An inefficient market can also allow a skilled investor to achieve the same return as the benchmark while taking less risk, and.
 
-This, too, is a good job, maybe even a better one. Some of this is semantic and depends on how you look at the graphs. But because I think fundamental risk reduction can provide the foundation for an extremely successful investing experience, this concept should receive. More attention than it does.
+I think this is a great accomplishment. Here the manager’s value added comes not through higher return at a given risk, but through reduced risk at a given return. This, too, is a good job, maybe even a better one. Some of this is semantic and depends on how you look at the graphs.
 
-How do you enjoy the full gain in up markets while simultaneously risk return portfolio benchmark value added being positioned to achieve superior performance in down markets? By capturing the up market gain while bearing below market risk no mean feat returns, absolute returns and risk June 13, 2006 now we come back to the germs that haven’t taken hold,
+But because. I think fundamental risk reduction can provide the foundation for an extremely successful investing experience, this concept should receive. More attention than it does. How do you enjoy the full gain in up markets while simultaneously risk return portfolio benchmark value added being positioned to achieve superior performance in down markets?
+
+By capturing the up market gain while bearing below market risk no mean feat returns, absolute returns and risk June 13, 2006 now we come back to the germs that haven’t taken hold,
 
 
 <a id="sec-021105"></a>
@@ -893,15 +935,15 @@ They know everyone’s going to die. Thus they factor this. Reality into their a
 
 That’s why they have doctors assess applicants' health. It’s risk they can diversify. By ensuring a mix of policyholders by age, gender, occupation and location, they make sure they’re not exposed to freak occurrences. And widespread losses.
 
-And it’s risk they can be sure they’re well paid to bear. They set premiums so they’ll make a profit if the policyholders die according to the actuarial tables on average. And if the insurance market is inefficient, for example, if the company can sell a policy to someone likely to die at age 80 at a premium that assumes he’ll die at 70, they’ll be better protected against risk and positioned for exceptional profits if things go as expected. We do exactly the same things in high-yield bonds, and in the rest of Oaktree’s strategies.
+And it’s risk they can be sure they’re well paid to bear. They set premiums so they’ll make a profit if the policyholders die according to the actuarial tables on average. And if the insurance market is inefficient, for example, if the company can sell a policy to someone likely to die at age 80 at a premium that assumes he’ll die at 70, they’ll be better protected against risk and positioned for exceptional profits if things go as expected.
 
-We try to be aware of the risks, which is… essential given how much our work involves assets that some simplistically call risky. We employ highly skilled professionals capable of analyzing investments and assessing risk. We diversify our portfolios appropriately. And we invest only when we’re convinced the likely return far more.
+We do exactly the same things in high-yield bonds, and in the rest of Oaktree’s strategies. We try to be aware of the risks, which is… essential given how much our work involves assets that some simplistically call risky. We employ highly skilled professionals capable of analyzing investments and assessing risk. We diversify our portfolios appropriately.
 
-Then compensates for the risk. I’ve said for years that risky assets can make for good. Risk if they’re cheap enough. The essential element is knowing when that’s the case.
+And we invest only when we’re convinced the likely return far more. Then compensates for the risk. I’ve said for years that risky assets can make for good. Risk if they’re cheap enough.
 
-That’s it, the intelligent bearing of risk for profit, the best test for which is a record of repeated success over a long period of time. Risk, January 19, 2006 while risk control is essential, risk bearing is neither wise nor unwise per se. It’s inevitably part of most investment strategies and investment niches. It can be done well or poorly and at the right time or the wrong time.
+The essential element is knowing when that’s the case. That’s it, the intelligent bearing of risk for profit, the best test for which is a record of repeated success over a long period of time. Risk, January 19, 2006 while risk control is essential, risk bearing is neither wise nor unwise per se. It’s inevitably part of most investment strategies and investment niches.
 
-If you have enough skill to be able to move into the more aggressive niches with risk under control, it’s the best thing possible. But
+It can be done well or poorly and at the right time or the wrong time. If you have enough skill to be able to move into the more aggressive niches with risk under control, it’s the best thing possible. But
 
 
 <a id="sec-021609"></a>
@@ -939,23 +981,27 @@ It should suffice to be prepared for once in A generation events. But a generati
 
 devote to preparing for the unlikely disaster. Among other things, the events of 2007-2008 prove there’s no easy answer. Volatility plus leverage equals dynamite, December 17th, 2008 especially in view of the vagaries presented previously in this chapter, I want to make clear the important. Distinction between risk control and risk avoidance.
 
-Risk control is the best route to loss. Avoidance. Risk avoidance, on the other hand, is likely to lead to return avoidance as well. Once in a while I hear someone talk about Oaktree’s desire to avoid investment risk and I take great issue.
+Risk control is the best route to loss. Avoidance. Risk avoidance, on the other hand, is likely to lead to return avoidance as well. Once in a while.
 
-Clearly, Oaktree doesn’t run from risk. We welcome it at the right time, in the right instances, and at the right price. We could easily avoid all risk, and so could you. But we’d be assured of avoiding returns above the risk-free rate as well.
+I hear someone talk about Oaktree’s desire to avoid investment risk and. I take great issue. Clearly, Oaktree doesn’t run from risk. We welcome it at the right time, in the right instances, and at the right price.
 
-Will Rogers said, you’ve got to go out on a limb sometimes because that’s where the fruit is. None of us is in this business to make 4%. So even though the first tenet in Oaktree’s investment philosophy stresses the importance of risk control, this has nothing to do with risk avoidance. It’s by bearing risk when we’re well paid to do so, and especially by taking risks toward which others are averse in the extreme, that we strive to add value for our clients.
+We could easily avoid all risk, and so could you. But we’d be assured of avoiding returns above the risk-free rate as well. Will Rogers said, you’ve got to go out on a limb sometimes because that’s where the fruit is. None of us is in this business to make 4%.
 
-When formulated that way, it’s obvious how big a part risk plays in our process. Rick Funston. Of Deloitte and Touche said in the article that prompted this memo, when corporate risk becomes personal, corporate board member, 2005 special supplement, you need comfort that the risks and exposures are understood, appropriately managed, and made more transparent for everyone. This is not risk aversion, it is risk intelligence.
+So even though the first tenet in Oaktree’s investment philosophy stresses the importance of risk control, this has nothing to do with risk avoidance. It’s by bearing risk when we’re well paid to do so, and especially by taking risks toward which others are averse in the extreme, that we strive to add value for our clients. When formulated that way, it’s obvious how big a part risk plays in our process. Rick Funston.
 
-TH adds what Oaktree strives for every day. Risk, January 19, 2006 the road to long-term investment success runs through risk control more than through aggressiveness. Over a full career, most investors' results will be determined more by how many losers they have, and how bad they are, than by the greatness of their winners. Skillful risk control is the mark of the superior investor.
+Of Deloitte and Touche said in the article that prompted this memo, when corporate risk becomes personal, corporate board member, 2005 special supplement, you need comfort that the risks and exposures are understood, appropriately managed, and made more transparent for everyone. This is not risk aversion, it is risk intelligence. TH adds what Oaktree strives for every day. Risk, January 19, 2006 the road to long-term investment success runs through risk control more than through aggressiveness.
 
-#### Chapter 8 The Most Important Thing Is Being Attemptive to Cycles I think it’s essential to remember that just about everything is cyclical.
+Over a full career, most investors' results will be determined more by how many losers they have, and how bad they are, than by the greatness of their winners. Skillful risk control is the mark of the superior investor.
 
-There’s little I’m certain of, but these things are true, cycles always prevail eventually. Nothing goes in one direction forever. Trees don’t grow to the sky. Few things go to zero.
+#### Chapter 8 The Most Important Thing Is Being Attemptive to Cycles. I think it’s essential to remember that just about everything is cyclical. There’s little.
 
-And there’s little that’s. As dangerous for investor health as insistence on extrapolating today’s events into the future. The more time I spend in the world of investing, the more I appreciate the underlying cyclicality of things. In November 2001 I devoted an entire memo to the subject.
+I’m certain of, but these things are true, cycles always prevail eventually. Nothing goes in one direction forever. Trees don’t grow to the sky. Few things go to zero.
 
-I titled it, You Can’t Predict. You can prepare, borrowing the advertising tagline of Mass Mutual Life Insurance Company because I agree wholeheartedly with their theme, we never know what lies ahead, but we can prepare for the possibilities and reduce their sting. In investing, as in life, there are very few sure things. Values can evaporate, estimates can be wrong, circumstances can change and sure things can fail.
+And there’s little that’s. As dangerous for investor health as insistence on extrapolating today’s events into the future. The more time. I spend in the world of investing, the more.
+
+I appreciate the underlying cyclicality of things. In November 2001. I devoted an entire memo to the subject. I titled it, You Can’t Predict.
+
+You can prepare, borrowing the advertising tagline of Mass Mutual Life Insurance Company because. I agree wholeheartedly with their theme, we never know what lies ahead, but we can prepare for the possibilities and reduce their sting. In investing, as in life, there are very few sure things. Values can evaporate, estimates can be wrong, circumstances can change and sure things can fail.
 
 However, there are two concepts we can hold to with confidence. Rule number one, most things will prove to be cyclical. Rule number two, some of the greatest opportunities for gain and loss come when other people forget rule number one. Very few things move in a straight line.
 
@@ -979,23 +1025,23 @@ One of my favorite cartoons features a TV commentator saying, everything that wa
 
 Reversal. Thus, I like to say success carries within itself the seeds of failure and failure, the seeds of success. You can’t predict. You can prepare November 20, 2001.
 
-The credit cycle deserves a very special mention for its inevitability, extreme volatility and ability to create opportunities for investors attuned to it. Of all the cycles, it’s my favorite. The longer I’m involved in investing, the more impressed I am by the power of the credit cycle. It takes only a small fluctuation in the economy to produce a large fluctuation in the availability of credit with great impact on asset prices and back on the economy itself.
+The credit cycle deserves a very special mention for its inevitability, extreme volatility and ability to create opportunities for investors attuned to it. Of all the cycles, it’s my favorite. The longer. I’m involved in investing, the more impressed.
 
-The process is simple. The economy moves into a period of prosperity. Providers of capital thrive, increasing their capital base. Because bad news is scarce, the risks entailed in lending and investing seem to have shrunk.
+I am by the power of the credit cycle. It takes only a small fluctuation in the economy to produce a large fluctuation in the availability of credit with great impact on asset prices and back on the economy itself. The process is simple. The economy moves into a period of prosperity.
 
-Risk averseness disappears. Financial institutions move to expand their businesses, that is, to provide more capital. They compete for market. Share by lowering demanded returns, example, cutting interest rates, lowering credit standards.
+Providers of capital thrive, increasing their capital base. Because bad news is scarce, the risks entailed in lending and investing seem to have shrunk. Risk averseness disappears. Financial institutions move to expand their businesses, that is, to provide more capital.
 
-Providing more capital for a given transaction and easing covenants. At the extreme, providers of capital finance borrowers and projects that aren’t worthy of being financed. As the economist said earlier this year, the worst loans are made at the best of times. This leads to capital destruction, that is, to investment of capital in projects where the cost of capital exceeds the return on capital and eventually to cases where there is no return of capital.
+They compete for market. Share by lowering demanded returns, example, cutting interest rates, lowering credit standards. Providing more capital for a given transaction and easing covenants. At the extreme, providers of capital finance borrowers and projects that aren’t worthy of being financed.
 
-When this point is reached, the up, like described above, the rising part of the cycle, is reversed. Losses cause lenders to become discouraged and shy away. Risk averseness rises, and along with it, interest rates, credit restrictions and covenant requirements. Less capital is made available, and at the trough of the cycle, only to the most qualified of borrowers, if anyone.
+As the economist said earlier this year, the worst loans are made at the best of times. This leads to capital destruction, that is, to investment of capital in projects where the cost of capital exceeds the return on capital and eventually to cases where there is no return of capital. When this point is reached, the up, like described above, the rising part of the cycle, is reversed. Losses cause lenders to become discouraged and shy away.
 
-Companies become starved for capital. are unable to roll over their debts, leading to defaults and bankruptcies. This process contributes to and reinforces the economic contraction. Of course, at the extreme though. Process is ready to be reversed again.
+Risk averseness rises, and along with it, interest rates, credit restrictions and covenant requirements. Less capital is made available, and at the trough of the cycle, only to the most qualified of borrowers, if anyone. Companies become starved for capital. are unable to roll over their debts, leading to defaults and bankruptcies. This process contributes to and reinforces the economic contraction.
 
-Because the competition to make loans or investments is low, high returns can be demanded along with high creditworthiness. Contrarians who commit capital at this point have a shot at high returns, and those tempting potential returns begin to draw in capital. In this way, a recovery begins to be fueled. I stated earlier that cycles are self-correcting.
+Of course, at the extreme though. Process is ready to be reversed again. Because the competition to make loans or investments is low, high returns can be demanded along with high creditworthiness. Contrarians who commit capital at this point have a shot at high returns, and those tempting potential returns begin to draw in capital.
 
-The credit cycle corrects itself through the processes described above, and it represents one of the factors driving the fluctuations of the economic cycle. Prosperity brings expanded lending, which leads to unwise lending, which produces large losses, which makes lenders stop lending, which ends prosperity, and on and on. Look around the next time there’s a crisis, you’ll probably find a lender. Over-permissive providers of capital frequently aid and abet financial bubbles.
+In this way, a recovery begins to be fueled. I stated earlier that cycles are self-correcting. The credit cycle corrects itself through the processes described above, and it represents one of the factors driving the fluctuations of the economic cycle. Prosperity brings expanded lending, which leads to unwise lending, which produces large losses, which makes lenders stop lending, which ends prosperity, and on and on.
 
-There have been numerous. Recent examples where loose credit contributed to booms that were followed by famous.
+Look around the next time there’s a crisis, you’ll probably find a lender. Over-permissive providers of capital frequently aid and abet financial bubbles. There have been numerous. Recent examples where loose credit contributed to booms that were followed by famous.
 
 
 <a id="sec-023124"></a>
@@ -1039,15 +1085,17 @@ The first time rookie investors see this phenomenon. To occur, it’s understand
 
 Number 9 the most important thing is awareness of the pendulum. When things are going well and prices are high, investors rush to buy, forgetting all prudence. Then, when there’s chaos all around and assets are on the bargain counter, they lose all willingness to bear risk and rush to sell. And it will ever be so.
 
-The second investor memo I ever wrote, back in 1991, was devoted almost entirely to a subject that I have come to think about more and more over the years, the pendulum, like oscillation of investor attitudes and behavior. The mood swings of the securities markets. Resemble the movement of a pendulum. Although the midpoint of its arc best describes the location of the pendulum, on average, it actually spends very little of its time there.
+The second investor memo. I ever wrote, back in 1991, was devoted almost entirely to a subject that. I have come to think about more and more over the years, the pendulum, like oscillation of investor attitudes and behavior. The mood swings of the securities markets.
 
-Instead, it is almost always swinging toward or away from the extremes of its arc. But whenever the pendulum is near either extreme, it is inevitable that it will move back toward the midpoint sooner or later.
+Resemble the movement of a pendulum. Although the midpoint of its arc best describes the location of the pendulum, on average, it actually spends very little of its time there. Instead, it is almost always swinging toward or away from the extremes of its arc. But whenever the pendulum is near either extreme, it is inevitable that it will move back toward the midpoint sooner or later.
 
 In fact, it is the movement toward an extreme itself that supplies the energy for the swing back. Investment markets follow a pendulum, like swing, between euphoria and depression, between celebrating positive developments and obsessing over negatives, and thus, between overpriced and underpriced. This oscillation is one of the most dependable features of the investment world, and investor psychology seems to spend much more time at the extremes than it does at a happy medium. First Quarter Performance.
 
-April 11, 1991 13 years later I revisited the subject of the pendulum at length in another. Memo. In it I observe that in addition to the elements mentioned earlier, the pendulum also swings with regard to greed versus fear, willingness to view things through an optimistic or a pessimistic lens, faith in developments that are on, the, cum, credulousness versus skepticism, and risk tolerance versus risk aversion. The swing in the last of these, attitudes toward risk, is a common thread that runs through many of the market’s fluctuations.
+April 11, 1991 13 years later. I revisited the subject of the pendulum at length in another. Memo. In it.
 
-Risk aversion is the essential ingredient in a rational market, as I said before, and the position of the pendulum with regard to it is particularly important. Improper amounts of risk aversion are key contributors to the market excesses of bubble and crash. It’s an oversimplification, but not a grievous one, to say the inevitable hallmark of bubbles is a dearth of risk aversion. In crashes, on the other hand, investors fear too much.
+I observe that in addition to the elements mentioned earlier, the pendulum also swings with regard to greed versus fear, willingness to view things through an optimistic or a pessimistic lens, faith in developments that are on, the, cum, credulousness versus skepticism, and risk tolerance versus risk aversion. The swing in the last of these, attitudes toward risk, is a common thread that runs through many of the market’s fluctuations. Risk aversion is the essential ingredient in a rational market, as.
+
+I said before, and the position of the pendulum with regard to it is particularly important. Improper amounts of risk aversion are key contributors to the market excesses of bubble and crash. It’s an oversimplification, but not a grievous one, to say the inevitable hallmark of bubbles is a dearth of risk aversion. In crashes, on the other hand, investors fear too much.
 
 Excessive risk aversion. Keeps them from buying even when no optimism, only pessimism, is embodied in prices. And valuations are absurdly low. In my opinion, the greed-slash-fear cycle is caused by changing attitudes toward risk.
 
@@ -1071,43 +1119,43 @@ Opportunity, the pendulum had swung to the point where people worried only about
 
 When things are going well and prices are high, investors rush to buy, forgetting all prudence. Then, when there’s chaos all around and assets are on the bargain counter, they lose all willingness to bear risk and rush to sell. And it will ever be so. Very early in my career, a veteran investor told me about the three stages of a bull market.
 
-Now I’ll share. Them with you. The first, when a few forward-looking people begin to believe things will get. Better’s the second, when most investors realize improvement is actually taking place the third, when everyone can. includes things will get better forever why would anyone waste time trying for a better description?
+Now. I’ll share. Them with you. The first, when a few forward-looking people begin to believe things will get.
 
-This one says it all. It’s essential that we grasp its significance. The market has a mind of its own, and its changes in valuation parameters, caused primarily by changes in investor psychology, not changes in fundamentals, that account for most short-term changes in security prices. This psychology, too, moves like a pendulum.
+Better’s the second, when most investors realize improvement is actually taking place the third, when everyone can. includes things will get better forever why would anyone waste time trying for a better description? This one says it all. It’s essential that we grasp its significance. The market has a mind of its own, and its changes in valuation parameters, caused primarily by changes in investor psychology, not changes in fundamentals, that account for most short-term changes in security prices.
 
-Outlooks are cheapest when everything looks grim. The depressing outlook keeps them there, and only a few astute and daring bargain hunters are willing to take new positions. Maybe they’re buying a track some attention, or maybe the outlook turns a little less depressing, but for one reason or another, the market starts moving up. After a while, the outlook seems a little less poor.
+This psychology, too, moves like a pendulum. Outlooks are cheapest when everything looks grim. The depressing outlook keeps them there, and only a few astute and daring bargain hunters are willing to take new positions. Maybe they’re buying a track some attention, or maybe the outlook turns a little less depressing, but for one reason or another, the market starts moving up.
 
-People begin to appreciate that improvement is taking place. And it requires less imagination to be a buyer. Of course, with the economy and market off the critical list, they pay prices that are more reflective of stocks' fair values. And eventually, giddiness sets in.
+After a while, the outlook seems a little less poor. People begin to appreciate that improvement is taking place. And it requires less imagination to be a buyer. Of course, with the economy and market off the critical list, they pay prices that are more reflective of stocks' fair values.
 
-Cheered by the improvement in economic and corporate results, people become willing to extrapolate it. The masses become excited, and envious, about the profits made by investors who were early, and they want in. And they ignore the cyclical nature of things and conclude that the gains will go on forever.
+And eventually, giddiness sets in. Cheered by the improvement in economic and corporate results, people become willing to extrapolate it. The masses become excited, and envious, about the profits made by investors who were early, and they want in. And they ignore the cyclical nature of things and conclude that the gains will go on forever.
 
 
 <a id="sec-024633"></a>
 ### ⏱️ [02:46:33 - 02:51:34]
 
-That’s why I love the old adage, what the wise man does in the beginning, the fool does in the end. Most important, in the late stages of the great bull markets, people become willing to pay prices for stocks that assume the good times will go on ad infinitum. You can’t predict. You can prepare, November 20, 2001-30, five years after I first learned about the stages of a bull market, after the.
+That’s why. I love the old adage, what the wise man does in the beginning, the fool does in the end. Most important, in the late stages of the great bull markets, people become willing to pay prices for stocks that assume the good times will go on ad infinitum. You can’t predict.
 
-Weaknesses of subprime mortgages, and their holders, had been exposed and as people. Were worrying about contagion to a global crisis, I came up with the flip side, the three stages of a bear market, the first, when just a few thoughtful investors recognize that, despite the prevailing bullishness, things won’t always be rosy, the second, when most investors recognize things are deteriorating, the third, when everyone’s convinced things can only get worse certainly were well into the second of these three stages. There’s been lots of bad news and right off s.
+You can prepare, November 20, 2001-30, five years after. I first learned about the stages of a bull market, after the. Weaknesses of subprime mortgages, and their holders, had been exposed and as people. Were worrying about contagion to a global crisis, I came up with the flip side, the three stages of a bear market, the first, when just a few thoughtful investors recognize that, despite the prevailing bullishness, things won’t always be rosy, the second, when most investors recognize things are deteriorating, the third, when everyone’s convinced things can only get worse certainly were well into the second of these three stages.
 
-More and more people recognize the dangers inherent in things like innovation, leverage, derivatives, counterparty risk and mark to market accounting. And increasingly the problems seem insolvable. One of these days, though, will reach the third stage and the herd will give up on their being a solution. And unless the financial world really does end, we’re likely to encounter the investment opportunities of a.
+There’s been lots of bad news and right off s. More and more people recognize the dangers inherent in things like innovation, leverage, derivatives, counterparty risk and mark to market accounting. And increasingly the problems seem insolvable. One of these days, though, will reach the third stage and the herd will give up on their being a solution.
 
-Lifetime. Major bottoms occur when everyone forgets that the tide also comes in. Those are. The times we live for.
+And unless the financial world really does end, we’re likely to encounter the investment opportunities of a. Lifetime. Major bottoms occur when everyone forgets that the tide also comes in. Those are.
 
-The tide goes out March 18, 2008, just six months after those words were written. The progression had gone all the way to the third stage. A full meltdown of the world financial system was considered possible.
+The times we live for. The tide goes out March 18, 2008, just six months after those words were written. The progression had gone all the way to the third stage. A full meltdown of the world financial system was considered possible.
 
-In fact, the first steps, the bankruptcy of Lehman Brothers and the absorption or rescue of Bear Stearns, Merrill Lynch, AIG, Fannie Mae, Freddie Mac, Wokovia and Wamu had taken place. Since this was the biggest crisis ever, investors bought into the third stage, during which everyone’s convinced things can only get worse, more than ever before. Thus, in many asset classes, the things determined by the pendulum swing, the price declines in 2008, the resultant investment opportunities at the Nadir and the gains in 2009, were the greatest I’ve ever seen.
+In fact, the first steps, the bankruptcy of Lehman Brothers and the absorption or rescue of Bear Stearns, Merrill Lynch, AIG, Fannie Mae, Freddie Mac, Wokovia and Wamu had taken place. Since this was the biggest crisis ever, investors bought into the third stage, during which everyone’s convinced things can only get worse, more than ever before. Thus, in many asset classes, the things determined by the pendulum swing, the price declines in 2008, the resultant investment opportunities at the Nadir and the gains in 2009, were the greatest.
 
-The significance of all this is the opportunity it offers to those who recognize what is happening and see the implications. At one extreme of the pendulum, the darkest of times, it takes analytical ability, objectivity, resolve, even imagination, to think things will ever get better. The few people who possess those qualities can make unusual profits with low risk. But at the other extreme, when everyone assumes and prices in the impossible, improvement.
+I’ve ever seen. The significance of all this is the opportunity it offers to those who recognize what is happening and see the implications. At one extreme of the pendulum, the darkest of times, it takes analytical ability, objectivity, resolve, even imagination, to think things will ever get better. The few people who possess those qualities can make unusual profits with low risk.
 
-Forever, the stage is set for painful losses. It all goes together. None of these is an isolated event or a chance occurrence. Rather, they’re all elements in a recurring pattern that can be understood and profited from.
+But at the other extreme, when everyone assumes and prices in the impossible, improvement. Forever, the stage is set for painful losses. It all goes together. None of these is an isolated event or a chance occurrence.
 
-The oscillation of the investor pendulum is very similar in nature to the up and down fluctuation of economic and market cycles described in chapter 8. For some reason I find myself making a distinction between the two and speaking of them in different terms, but they’re both highly important, and the key lessons are the same. With the benefit of almost 20 years' experience since writing that first memo about the pendulum in 1991, I’ll rephrase its key observations, in theory with regard to polarities such as fear and greed, the pendulum should reside mostly at a midpoint between the extremes.
+Rather, they’re all elements in a recurring pattern that can be understood and profited from. The oscillation of the investor pendulum is very similar in nature to the up and down fluctuation of economic and market cycles described in chapter 8. For some reason. I find myself making a distinction between the two and speaking of them in different terms, but they’re both highly important, and the key lessons are the same.
 
-But it doesn’t for long. Primarily because of the workings of investor psychology, it’s usually swinging toward or back from one extreme or the other. The pendulum cannot continue to. Swing toward an extreme or reside at an extreme, forever, although when it’s positioned at.
+With the benefit of almost 20 years' experience since writing that first memo about the pendulum in 1991, I’ll rephrase its key observations, in theory with regard to polarities such as fear and greed, the pendulum should reside mostly at a midpoint between the extremes. But it doesn’t for long. Primarily because of the workings of investor psychology, it’s usually swinging toward or back from one extreme or the other. The pendulum cannot continue to.
 
-Its greatest extreme, people increasingly describe that as having become a permanent condition. Like a pendulum, the swing of investor psychology toward an extreme causes energy to build up that eventually will contribute to the swing back in the other direction. Sometimes the pent-up energy is itself the cause of the swing back, that is, the pendulum swing toward an extreme corrects of its very weight. The swing back from the extreme is usually more rapid, and thus takes much less time, than the swing to the extreme.
+Swing toward an extreme or reside at an extreme, forever, although when it’s positioned at. Its greatest extreme, people increasingly describe that as having become a permanent condition. Like a pendulum, the swing of investor psychology toward an extreme causes energy to build up that eventually will contribute to the swing back in the other direction. Sometimes the pent-up energy is itself the cause of the swing back, that is, the pendulum swing toward an extreme corrects of its very weight.
 
-Or as my partner Sheldon Stone likes to say, the air goes out of the balloon much faster
+The swing back from the extreme is usually more rapid, and thus takes much less time, than the swing to the extreme. Or as my partner Sheldon Stone likes to say, the air goes out of the balloon much faster
 
 
 <a id="sec-025134"></a>
@@ -1115,25 +1163,27 @@ Or as my partner Sheldon Stone likes to say, the air goes out of the balloon muc
 
 than it went in. The occurrence of this pendulum, like pattern in most market phenomena, is extremely dependable. But just like the oscillation of cycles, we never know, how far the pendulum will swing in its arc, what might cause the swing to stop and turn back, when this reversal will occur, or how far it will then swing in the opposite direction. For a bullish phase, to hold sway, the environment has to be characterized by greed.
 
-Optimism, exuberance, confidence, credulity, daring, risk tolerance and aggressiveness. But these traits will not govern a market forever. Eventually, they will give way to fear, pessimism, prudence, uncertainty, skepticism, caution, risk aversion and reticence. Busts are the product of booms, and I’m convinced it’s usually more correct to attribute a bust to the excesses of the preceding boom than to the specific event that sets off the correction.
+Optimism, exuberance, confidence, credulity, daring, risk tolerance and aggressiveness. But these traits will not govern a market forever. Eventually, they will give way to fear, pessimism, prudence, uncertainty, skepticism, caution, risk aversion and reticence. Busts are the product of booms, and.
 
-Now what? January 10, 2008 there are a few things of which we can be sure, and this is one, extreme market behavior will reverse. Those who believe that the pendulum will move in one direction forever, or reside at an extreme forever, eventually will lose huge sums. Those who understand the pendulum’s behavior can benefit enormously.
+I’m convinced it’s usually more correct to attribute a bust to the excesses of the preceding boom than to the specific event that sets off the correction. Now what? January 10, 2008 there are a few things of which we can be sure, and this is one, extreme market behavior will reverse. Those who believe that the pendulum will move in one direction forever, or reside at an extreme forever, eventually will lose huge sums.
 
-#### Chapter 10 the most important thing is combating negative influences. The desire for more, the fear of missing out, the tendency to compare against others, the influence of the crowd and the dream of the sure thing, these factors are near universal.
+Those who understand the pendulum’s behavior can benefit enormously.
 
-Thus they have a profound collective impact on most investors and most markets. The result is mistakes, and those mistakes are frequent, widespread and recurring. Inefficiencies, mispricings, misperceptions, mistakes that other people make, provide potential opportunities for superior performance. Exploiting them is, in fact, the only road to consistent outperformance.
+#### Chapter 10 the most important thing is combating negative influences. The desire for more, the fear of missing out, the tendency to compare against others, the influence of the crowd and the dream of the sure thing, these factors are near universal. Thus they have a profound collective impact on most investors and most markets. The result is mistakes, and those mistakes are frequent, widespread and recurring.
 
-To distinguish yourself from the others, you need to be on the right side of those mistakes. Why do mistakes occur? Because investing is an action undertaken by human beings, most of whom are at the mercy of their psyches and emotions. Many people possess the intellect needed to analyze data, but far fewer are able to look more deeply into things and withstand the powerful influence of psychology.
+Inefficiencies, mispricings, misperceptions, mistakes that other people make, provide potential opportunities for superior performance. Exploiting them is, in fact, the only road to consistent outperformance. To distinguish yourself from the others, you need to be on the right side of those mistakes. Why do mistakes occur?
 
-To say this another way, many people will reach similar cognitive conclusions from their analysis, but what they do with those conclusions varies all over the lot because psychology influences them differently. The biggest investing errors come not from factors that are informational or analytical, but from those that are psychological. Investor psychology includes many. Different elements which we will look at in this chapter, but the key thing to remember is that.
+Because investing is an action undertaken by human beings, most of whom are at the mercy of their psyches and emotions. Many people possess the intellect needed to analyze data, but far fewer are able to look more deeply into things and withstand the powerful influence of psychology. To say this another way, many people will reach similar cognitive conclusions from their analysis, but what they do with those conclusions varies all over the lot because psychology influences them differently.
 
-They consistently lead to incorrect decisions. Much of this falls under the heading of, human nature. The first emotion that serves to undermine investors' efforts is the desire for money, especially as it morphs into greed. Most people invest to make money.
+The biggest investing errors come not from factors that are informational or analytical, but from those that are psychological. Investor psychology includes many. Different elements which we will look at in this chapter, but the key thing to remember is that. They consistently lead to incorrect decisions.
 
-Some participate as an intellectual exercise or because it’s a good field in which to vent their competitiveness, but even they keep score in terms of money. Money may not be everyone’s goal for its own sake, but it is everyone’s unit of account. People who don’t care about money generally don’t go into investing. There’s nothing wrong with trying to make money.
+Much of this falls under the heading of, human nature. The first emotion that serves to undermine investors' efforts is the desire for money, especially as it morphs into greed. Most people invest to make money. Some participate as an intellectual exercise or because it’s a good field in which to vent their competitiveness, but even they keep score in terms of money.
 
-Indeed, the desire for gain is one of the most important elements in the workings of the market and the overall economy. The danger comes when it moves on further to greed, which Merriam-Websters defines as an, inordinate or all-consuming and usually reprehensible acquisitiveness. Especially for wealth or gain. Greed is an extremely powerful force.
+Money may not be everyone’s goal for its own sake, but it is everyone’s unit of account. People who don’t care about money generally don’t go into investing. There’s nothing wrong with trying to make money. Indeed, the desire for gain is one of the most important elements in the workings of the market and the overall economy.
 
-It’s strong enough to. Overcome common sense, risk aversion, prudence, caution, logic, memory of painful past lessons, resolve, trepidation and all the other elements that might otherwise keep investors out of trouble. Instead, from time to time greed drives investors to throw in their lot with the crowd in pursuit of profit, and eventually they pay the price. The combination of greed and optimism repeatedly leads people to pursue strategies they hope will produce high returns without high risk, pay elevated prices for securities that are in vogue, and hold things after they have become highly priced in the hope there’s still some appreciation left.
+The danger comes when it moves on further to greed, which Merriam-Websters defines as an, inordinate or all-consuming and usually reprehensible acquisitiveness. Especially for wealth or gain. Greed is an extremely powerful force. It’s strong enough to.
+
+Overcome common sense, risk aversion, prudence, caution, logic, memory of painful past lessons, resolve, trepidation and all the other elements that might otherwise keep investors out of trouble. Instead, from time to time greed drives investors to throw in their lot with the crowd in pursuit of profit, and eventually they pay the price. The combination of greed and optimism repeatedly leads people to pursue strategies they hope will produce high returns without high risk, pay elevated prices for securities that are in vogue, and hold things after they have become highly priced in the hope there’s still some appreciation left.
 
 Afterwards, hindsight shows everyone what went wrong, that expectations were unrealistic and risks were ignored. Hindsight first, please, or, what were they thinking, October 17, 2005 the counterpart
 
@@ -1143,27 +1193,29 @@ Afterwards, hindsight shows everyone what went wrong, that expectations were unr
 
 of greed is fear, the second psychological factor we must consider. In the investment world the term doesn’t mean logical, sensible risk aversion. Rather, fear, like. Greed connotes success.
 
-Fear, then, is more like panic. Fear is overdone concern that prevents investors from taking constructive action when they should. Many times over the course of my career, I’ve been amazed by how easy it is for people to engage in willing suspension of disbelief. Thus, the third factor I want to discuss is people’s tendency to dismiss logic, history, and time-honored norms. This tendency makes people accept unlikely propositions that have the potential to make them rich, if only they held water.
+Fear, then, is more like panic. Fear is overdone concern that prevents investors from taking constructive action when they should. Many times over the course of my career, I’ve been amazed by how easy it is for people to engage in willing suspension of disbelief. Thus, the third factor.
 
-Charlie Munger gave me a great quotation on this subject, from Demosthenes, Nothing is easier than self-deceit. For what each man wishes, that he also believes to be true. The belief that some fundamental limiter is no longer valid, and thus historic notions of fair value no longer matter, is invariably at the core of every bubble and consequent trash. In fiction, willing.
+I want to discuss is people’s tendency to dismiss logic, history, and time-honored norms. This tendency makes people accept unlikely propositions that have the potential to make them rich, if only they held water. Charlie Munger gave me a great quotation on this subject, from Demosthenes, Nothing is easier than self-deceit. For what each man wishes, that he also believes to be true.
 
-Suspension of disbelief adds to our enjoyment. When we watch Peter Pan, we don’t want to. Here the person sitting next to us say, I can see the wires, even though we know they’re there. While we know boys can’t fly, we don’t care, we’re just there for fun.
+The belief that some fundamental limiter is no longer valid, and thus historic notions of fair value no longer matter, is invariably at the core of every bubble and consequent trash. In fiction, willing. Suspension of disbelief adds to our enjoyment. When we watch Peter Pan, we don’t want to.
 
-But our purpose in investing is serious, not fun, and we must constantly be on the lookout for things that can’t work in real life. In short, the process of investing requires a strong dose of disbelief. Inadequate skepticism contributes to investment losses. Time and time again, the postmortems of financial debacles include two classic phrases, it was too good to be true, and, what were they thinking?
+Here the person sitting next to us say, I can see the wires, even though we know they’re there. While we know boys can’t fly, we don’t care, we’re just there for fun. But our purpose in investing is serious, not fun, and we must constantly be on the lookout for things that can’t work in real life. In short, the process of investing requires a strong dose of disbelief.
 
-Hindsight first, please, or, what were they thinking, October 17, 2005 what makes investors fall for these delusions? The answer often lies in the ease with which, often in service to greed, they dismiss or ignore the lessons of the past. Extreme brevity of the financial memory, to use John Kenneth Galbraith’s wonderful phrase, keeps market participants from recognizing the recurring nature of these patterns. And thus their inevitability, when the same or closely similar circumstances occur again, sometimes in only a few years, they are hailed by a new, often youthful, and always supremely self-confident generation as a brilliantly innovative discovery in the financial and larger economic world.
+Inadequate skepticism contributes to investment losses. Time and time again, the postmortems of financial debacles include two classic phrases, it was too good to be true, and, what were they thinking? Hindsight first, please, or, what were they thinking, October 17, 2005 what makes investors fall for these delusions? The answer often lies in the ease with which, often in service to greed, they dismiss or ignore the lessons of the past.
 
-There can be few fields of human endeavor in which history counts for so little as in the world of finance. Past experience, to the extent that it is part of memory at all, is dismissed as the primitive refuge of those who do not have the insight to appreciate the incredible wonders of the present. John Kenneth Galbraith, a short history of financial euphoria, New York, Viking, 1990, the infallible investment that people come to believe can produce high returns without risk, the sure thing or free lunch, is well worth further discussion.
+Extreme brevity of the financial memory, to use John Kenneth Galbraith’s wonderful phrase, keeps market participants from recognizing the recurring nature of these patterns. And thus their inevitability, when the same or closely similar circumstances occur again, sometimes in only a few years, they are hailed by a new, often youthful, and always supremely self-confident generation as a brilliantly innovative discovery in the financial and larger economic world. There can be few fields of human endeavor in which history counts for so little as in the world of finance.
 
-When a market, an individual or an investment technique produces impressive. Returns for a while, it generally attracts excessive, and unquestioning, devotion. I call this. Solution du jour the, silver bullet.
+Past experience, to the extent that it is part of memory at all, is dismissed as the primitive refuge of those who do not have the insight to appreciate the incredible wonders of the present. John Kenneth Galbraith, a short history of financial euphoria, New York, Viking, 1990, the infallible investment that people come to believe can produce high returns without risk, the sure thing or free lunch, is well worth further discussion. When a market, an individual or an investment technique produces impressive.
 
-Investors are always looking for it. Call it the holy grail or the free lunch, but everyone wants a ticket to riches without risk. Few people question whether it can exist or why it should be available to them. At the bottom line, hope springs eternal.
+Returns for a while, it generally attracts excessive, and unquestioning, devotion. I call this. Solution du jour the, silver bullet. Investors are always looking for it.
 
-But the silver bullet doesn’t exist. No strategy can produce high rates of return without risk. And nobody has all the answers, we’re all just human. Markets are highly dynamic, and, among other things, they function over time to take away the opportunity for unusual profits.
+Call it the holy grail or the free lunch, but everyone wants a ticket to riches without risk. Few people question whether it can exist or why it should be available to them. At the bottom line, hope springs eternal. But the silver bullet doesn’t exist.
 
-One skeptical belief that the silver bullet is at hand eventually leads to capital punishment. The realists creed, May 31, 2002 what makes for belief in silver bullets.
+No strategy can produce high rates of return without risk. And nobody has all the answers, we’re all just human. Markets are highly dynamic, and, among other things, they function over time to take away the opportunity for unusual profits. One skeptical belief that the silver bullet is at hand eventually leads to capital punishment.
 
-First, there’s usually a germ of truth. It spun into an intelligent, sounding theory, and adherents get on their soap boxes to convince others. Then it produces profits for a while. Whether because there’s merit in it or just because buying on the part of new converts — the price of the subject asset — eventually, the appearance that, A, there’s a path to
+The realists creed, May 31, 2002 what makes for belief in silver bullets. First, there’s usually a germ of truth. It spun into an intelligent, sounding theory, and adherents get on their soap boxes to convince others. Then it produces profits for a while.
+
+Whether because there’s merit in it or just because buying on the part of new converts — the price of the subject asset — eventually, the appearance that, A, there’s a path to
 
 
 <a id="sec-030138"></a>
@@ -1171,25 +1223,27 @@ First, there’s usually a germ of truth. It spun into an intelligent, sounding 
 
 sure wealth and, B, its working turns it into a mania. As Warren Buffet told Congress on June 2, 2010, rising prices are a narcotic that affects the reasoning power up and down the line. But after the fact, after it has popped, a mania is called a bubble. The fourth psychological contributor to investor error is the tendency to conform to the view of the herd rather than resist, even when the herd’s view is clearly cockeyed.
 
-In How Markets Fail, John Cassidy describes classic psychology experiments conducted by Swarthmore’s Solomon Ash in the 1950s. Ash asked groups of subjects to make judgments about visual exhibits, but all but one of the subjects, in each group were shills working for him. The shills intentionally said the wrong thing, with dramatic impact on the one real subject. Cassidy explains, this set-up placed the genuine subject in an awkward spot, as Ash put it, upon.
+In. How Markets Fail, John Cassidy describes classic psychology experiments conducted by Swarthmore’s Solomon Ash in the 1950s. Ash asked groups of subjects to make judgments about visual exhibits, but all but one of the subjects, in each group were shills working for him. The shills intentionally said the wrong thing, with dramatic impact on the one real subject.
 
-Him we have brought to bear two opposed forces, the evidence of his senses and the… unanimous opinion of a group of his peers. A high percentage of the real subjects ignored what they saw and sided with the other group members, even though they were obviously in the wrong. This indicates the influence of the crowd and thus suggests reservations about. The Validity of Consensus Decisions.
+Cassidy explains, this set-up placed the genuine subject in an awkward spot, as Ash put it, upon. Him we have brought to bear two opposed forces, the evidence of his senses and the… unanimous opinion of a group of his peers. A high percentage of the real subjects ignored what they saw and sided with the other group members, even though they were obviously in the wrong. This indicates the influence of the crowd and thus suggests reservations about.
 
-Like the participants in Solomon Ash’s visual experiments in the 1950s, Cassidy writes, many people who don’t share the consensus view of the market start to feel left out. Eventually it reaches a stage where it appears the really crazy people are those not in the market. Time and time again, the combination of pressure to conform and the desire to get rich causes people to drop their independence and skepticism, overcome their innate risk aversion and believe things that don’t make sense. It happens so regularly that there must be something dependable at work, not a random influence.
+The Validity of Consensus Decisions. Like the participants in Solomon Ash’s visual experiments in the 1950s, Cassidy writes, many people who don’t share the consensus view of the market start to feel left out. Eventually it reaches a stage where it appears the really crazy people are those not in the market. Time and time again, the combination of pressure to conform and the desire to get rich causes people to drop their independence and skepticism, overcome their innate risk aversion and believe things that don’t make sense.
 
-The fifth psychological influence is envy. However negative the force of greed might be, always spurring people to strive for more and more, the impact is even stronger when they compare themselves to others. This is one of the most harmful aspects of what we call human nature. People who might be perfectly happy with their lot in isolation become miserable when they see others do better.
+It happens so regularly that there must be something dependable at work, not a random influence. The fifth psychological influence is envy.
 
-In the world of investing, most people find it. Terribly hard to sit by and watch while others make more money than they do. I know of a non-profit institution whose endowment earned 16% a year from June 1994 to June 1999, but since its peers averaged 23%, the people involved with the endowment were dejected. Without growth stocks, technology stocks, buyouts and venture capital, the endowment was entirely out of step for half a decade.
+However, negative the force of greed might be, always spurring people to strive for more and more, the impact is even stronger when they compare themselves to others. This is one of the most harmful aspects of what we call human nature. People who might be perfectly happy with their lot in isolation become miserable when they see others do better. In the world of investing, most people find it.
 
-But then the tech stocks collapsed, and from June 2000 to June 2003 the institution earned 3% a year while most endowments suffered losses. The stakeholders were thrilled. There’s something wrong with this picture. How can people be unhappy making 16% a year and happy making 3%?
+Terribly hard to sit by and watch while others make more money than they do. I know of a non-profit institution whose endowment earned 16% a year from June 1994 to June 1999, but since its peers averaged 23%, the people involved with the endowment were dejected. Without growth stocks, technology stocks, buyouts and venture capital, the endowment was entirely out of step for half a decade. But then the tech stocks collapsed, and from June 2000 to June 2003 the institution earned 3% a year while most endowments suffered losses.
 
-The answer lies in a tendency to compare ourselves to others and the deleterious impact this can have on what should be a constructive, analytical process. The sixth key influence is ego. It can be enormously challenging to remain objective and calculating in the face of facts like these, investment results are evaluated and compared in the short run. Incorrect, even imprudent, decisions to bear increased risk generally lead to the best returns in good times, and most times are good times.
+The stakeholders were thrilled. There’s something wrong with this picture. How can people be unhappy making 16% a year and happy making 3%? The answer lies in a tendency to compare ourselves to others and the deleterious impact this can have on what should be a constructive, analytical process.
 
-The best returns bring the greatest ego rewards. When things go right, it’s fun to feel smart and have others agree.
+The sixth key influence is ego. It can be enormously challenging to remain objective and calculating in the face of facts like these, investment results are evaluated and compared in the short run. Incorrect, even imprudent, decisions to bear increased risk generally lead to the best returns in good times, and most times are good times. The best returns bring the greatest ego rewards.
 
-In contrast, thoughtful investors can toil in obscurity, achieving solid gains in the good years and losing less than others in the bad. They avoid sharing in the riskiest behavior because they’re so aware of how much they don’t know and because they have their egos in check. This, in my opinion, is the greatest formula for long-term wealth creation, but it doesn’t provide much ego gratification in the short run. It’s just not that glamorous to follow a path that emphasizes humility, prudence and risk control.
+When things go right, it’s fun to feel smart and have others agree. In contrast, thoughtful investors can toil in obscurity, achieving solid gains in the good years and losing less than others in the bad. They avoid sharing in the riskiest behavior because they’re so aware of how much they don’t know and because they have their egos in check. This, in my opinion, is the greatest formula for long-term wealth creation, but it doesn’t provide much ego gratification in the short run.
 
-Of course, investing shouldn’t be about glamour, but often it is. Finally, I want to mention a phenomenon I call capitulation, a regular feature of. Investor behavior laid in cycles. Investors hold to their convictions as long as they can, but…
+It’s just not that glamorous to follow a path that emphasizes humility, prudence and risk control. Of course, investing shouldn’t be about glamour, but often it is.
+
+Finally, I want to mention a phenomenon. I call capitulation, a regular feature of. Investor behavior laid in cycles. Investors hold to their convictions as long as they can, but…
 
 When the economic and psychological pressures become irresistible, they surrender and jump
 
@@ -1207,17 +1261,19 @@ It’s one more influence that must be fought. The desire for more, the fear of 
 
 The result is mistakes, frequent, widespread, recurring, expensive mistakes. Does all this strike you as just so much theorizing, something that couldn’t possibly apply to you? I sincerely hope you’re right. But just in case you doubt that rational people could succumb to the damaging forces of emotion, let me remind you of two little words, tech bubble.
 
-Earlier I mentioned that crazy time as evidence of what happens when investors disregard the need for a reasonable relationship between value and price. What is it that causes them to abandon common? Sense. Some of the same emotions we have been talking about here, greed, fear, envy, self-deceit, ego.
+Earlier. I mentioned that crazy time as evidence of what happens when investors disregard the need for a reasonable relationship between value and price. What is it that causes them to abandon common? Sense.
 
-Let’s review the scenario and watch psychology at work. The 1990s were a very strong period for stocks. There were bad days and months, of course, and traumas such as a big jump in interest rates in 1994, but Standard and Poor’s 500 stock index showed a gain every year from 1991 through 1999 inclusive and its return averaged 20.8% per year. Those results were enough to put investors in an optimistic mood and render them receptive to bullish stories.
+Some of the same emotions we have been talking about here, greed, fear, envy, self-deceit, ego. Let’s review the scenario and watch psychology at work. The 1990s were a very strong period for stocks. There were bad days and months, of course, and traumas such as a big jump in interest rates in 1994, but Standard and Poor’s 500 stock index showed a gain every year from 1991 through 1999 inclusive and its return averaged 20.8% per year.
 
-Growth stocks performed a bit better than value stocks in the early part of the decade, perhaps as a rebound from values outperformance in the 1980s. This, too, increased investors' willingness to highly value companies' growth potential. Investors became enthralled by technological innovation. Developments such as broadband, the internet and e-commerce seemed likely to change the world, and tech and telecom.
+Those results were enough to put investors in an optimistic mood and render them receptive to bullish stories. Growth stocks performed a bit better than value stocks in the early part of the decade, perhaps as a rebound from values outperformance in the 1980s. This, too, increased investors' willingness to highly value companies' growth potential. Investors became enthralled by technological innovation.
 
-Entrepreneurs were lionized. Tech stocks appreciated, attracting more buying, and this led to… Further appreciation, in a process that as usual took on the appearance of an unstoppable virtuous circle. Logical, seeming rationales play a part in most bull markets, and this one was no different, tech stocks will outperform all other stocks because of the company’s excellence.
+Developments such as broadband, the internet and e-commerce seemed likely to change the world, and tech and telecom. Entrepreneurs were lionized. Tech stocks appreciated, attracting more buying, and this led to… Further appreciation, in a process that as usual took on the appearance of an unstoppable virtuous circle.
 
-More tech names will be added to the equity indices, reflecting their growing importance in the economy. This will require index funds and the, closet indexers, who covertly emulate indices to buy more of them, and active investors will buy to keep up as well. More people will create 401k retirement plans, and 401k investors will increase the representation of stocks in their portfolios and the allocation to tech stocks among their stocks. For these reasons, tech stocks, a, must keep appreciating and, b, must outpace other stocks.
+Logical, seeming rationales play a part in most bull markets, and this one was no different, tech stocks will outperform all other stocks because of the company’s excellence. More tech names will be added to the equity indices, reflecting their growing importance in the economy. This will require index funds and the, closet indexers, who covertly emulate indices to buy more of them, and active investors will buy to keep up as well. More people will create 401k retirement plans, and 401k investors will increase the representation of stocks in their portfolios and the allocation to tech stocks among their stocks.
 
-Thus they’ll attract still more buying. The fact that all of these phenomena, actually occurred for a while lent credence to this theory. Initial public offerings of technology. Stocks began to appreciate by tens and even hundreds of percent on the day of issue and took on the appearance of sure winners.
+For these reasons, tech stocks, a, must keep appreciating and, b, must outpace other stocks. Thus they’ll attract still more buying. The fact that all of these phenomena, actually occurred for a while lent credence to this theory. Initial public offerings of technology.
+
+Stocks began to appreciate by tens and even hundreds of percent on the day of issue and took on the appearance of sure winners.
 
 
 <a id="sec-031141"></a>
@@ -1237,15 +1293,17 @@ The fertilizer came from the attendant bullish rationales. And the supercharging
 
 Almost unrecognizable from what it was only a few years ago. The challenge lies in figuring. Out who the winners will be, and what a piece of them is really worth today. To say technology, internet and telecommunications are too high and about to decline is comparable today to standing in front of a freight train.
 
-To say they have benefited from a boom of colossal proportions and should be examined skeptically is something I feel I owe you. Bubble.com, January 3, 2000 Soon after the January 2000 memo was written, the tech stocks began to collapse of their own weight, even in the absence of any single event that would cause them to do so. All of a sudden it became clear that stock prices had gone too far and should correct. When an investment fad goes bad, the Wall Street Journal usually runs a table showing the resulting losses, with representative stocks down 90% or more.
+To say they have benefited from a boom of colossal proportions and should be examined skeptically is something. I feel. I owe you. Bubble.com, January 3, 2000 Soon after the January 2000 memo was written, the tech stocks began to collapse of their own weight, even in the absence of any single event that would cause them to do so.
 
-When the tech bubble burst, however, the table showed losses exceeding 99%. The broad stock indices experienced their first 3-year decline since the. Great depression and tech stocks, and stocks in general, no longer looked like anything. Special.
+All of a sudden it became clear that stock prices had gone too far and should correct. When an investment fad goes bad, the Wall Street Journal usually runs a table showing the resulting losses, with representative stocks down 90% or more. When the tech bubble burst, however, the table showed losses exceeding 99%. The broad stock indices experienced their first 3-year decline since the.
 
-When we look back over the intervening decade, we see that the vaunted technological developments did change the world, the winning companies are hugely valuable, and things like newspapers and CDs have been profoundly affected. But it’s equally obvious that investors allowed their common sense to be overridden in the bubble. They ignored the fact that not all the companies could win, that there would be a lengthy shake-out period, that profitability wouldn’t come easily from providing services gratis, and that shares in money losing companies valued at high multiples of sales, since there were no earnings, carried great danger.
+Great depression and tech stocks, and stocks in general, no longer looked like anything. Special. When we look back over the intervening decade, we see that the vaunted technological developments did change the world, the winning companies are hugely valuable, and things like newspapers and CDs have been profoundly affected. But it’s equally obvious that investors allowed their common sense to be overridden in the bubble.
 
-Greed, excitement, illogicality, suspension of disbelief and ignoring value cost people a lot of money in the tech bubble. And, by the way, a lot of brilliant, disciplined value investors looked dumb in the months and years before the bubble burst, which of course it eventually did. To avoid losing money in bubbles, the key lies in. Refusing to join in when greed and human error cause positives to be wildly overrated end.
+They ignored the fact that not all the companies could win, that there would be a lengthy shake-out period, that profitability wouldn’t come easily from providing services gratis, and that shares in money losing companies valued at high multiples of sales, since there were no earnings, carried great danger. Greed, excitement, illogicality, suspension of disbelief and ignoring value cost people a lot of money in the tech bubble. And, by the way, a lot of brilliant, disciplined value investors looked dumb in the months and years before the bubble burst, which of course it eventually did.
 
-Negatives to be ignored. Doing these things isn’t easy, and thus few people are able to abstain. In just the same way, it’s essential that investors avoid selling, and preferably should buy, when fear becomes excessive in a crash. That reminds me to point out that bubbles are capable of arising on their own and need
+To avoid losing money in bubbles, the key lies in. Refusing to join in when greed and human error cause positives to be wildly overrated end. Negatives to be ignored. Doing these things isn’t easy, and thus few people are able to abstain.
+
+In just the same way, it’s essential that investors avoid selling, and preferably should buy, when fear becomes excessive in a crash. That reminds me to point out that bubbles are capable of arising on their own and need
 
 
 <a id="sec-031641"></a>
@@ -1267,13 +1325,13 @@ When things seem too good to be true, they usually are, willingness to look wron
 
 #### Chapter 11 The most important thing is contrarianism.
 
-To buy when others are despondently selling and to sell when others are euphorically buying takes the greatest courage, but provides the greatest profit, SIR John Templeton. There’s only one way to describe most investors, and followers. Superior investors are the exact opposite. Superior investing, as I hope I’ve convinced you by now, requires second-level thinking, a way of thinking that’s different from that of others, more complex and more insightful.
+To buy when others are despondently selling and to sell when others are euphorically buying takes the greatest courage, but provides the greatest profit, SIR John Templeton. There’s only one way to describe most investors, and followers. Superior investors are the exact opposite. Superior investing, as.
 
-By definition, most of the crowd can’t share it. Thus, the judgments of the crowd can’t hold the key to success. Rather, the trend, the consensus view, is something to game against, and the consensus portfolio is one to diverge from. As the pendulum swings or the market goes through its cycles, the key to ultimate success lies in doing the opposite.
+I hope. I’ve convinced you by now, requires second-level thinking, a way of thinking that’s different from that of others, more complex and more insightful. By definition, most of the crowd can’t share it. Thus, the judgments of the crowd can’t hold the key to success.
 
-This is the core of Warren Buffett’s oft-quoted advice, the less prudence with which others conduct their affairs, the greater the prudence with which we should conduct our own affairs. He is urging us to do the opposite of what others do, to be contrarians. Doing the… same thing others do exposes you to fluctuations that in part are exaggerated by their… actions and your own. It’s certainly undesirable to be part of the herd when it stampedes off the cliff, but it takes rare skill, insight and discipline to avoid it.
+Rather, the trend, the consensus view, is something to game against, and the consensus portfolio is one to diverge from. As the pendulum swings or the market goes through its cycles, the key to ultimate success lies in doing the opposite. This is the core of Warren Buffett’s oft-quoted advice, the less prudence with which others conduct their affairs, the greater the prudence with which we should conduct our own affairs. He is urging us to do the opposite of what others do, to be contrarians.
 
-The realist’s creed, May 31, 2002 The logic of crowd error is clear and almost mathematical, markets swing dramatically, from bullish to bearish and from overpriced to underpriced. Their movements are driven
+Doing the… same thing others do exposes you to fluctuations that in part are exaggerated by their… actions and your own. It’s certainly undesirable to be part of the herd when it stampedes off the cliff, but it takes rare skill, insight and discipline to avoid it. The realist’s creed, May 31, 2002 The logic of crowd error is clear and almost mathematical, markets swing dramatically, from bullish to bearish and from overpriced to underpriced. Their movements are driven
 
 
 <a id="sec-032143"></a>
@@ -1301,7 +1359,9 @@ On the other hand, we can be sure that, once it reaches an extreme position, the
 
 Much of the time there aren’t great market excesses to bet against. Even when an excess does develop, it’s important to remember that overpriced is incredibly different from going down tomorrow. Markets can be over or underpriced and stay that way, or become more so. For years.
 
-It can be extremely painful when the trend is going against you. It can appear at. Times that everyone has reached the conclusion that the herd is wrong. What I mean is that
+It can be extremely painful when the trend is going against you. It can appear at. Times that everyone has reached the conclusion that the herd is wrong. What.
+
+I mean is that
 
 
 <a id="sec-032647"></a>
@@ -1317,47 +1377,53 @@ Casual commitments invite casual reversal, exposing portfolio. Managers to the d
 
 Establishing and maintaining an unconventional investment profile requires acceptance of uncomfortably idiosyncratic portfolios, which frequently appear downright imprudent in the eyes of conventional wisdom. Pioneering portfolio management, 2000 the ultimately most profitable investment actions are by definition contrarian. You’re buying when everyone else is selling, and the price is thus low, or you’re selling when everyone else is buying, and the price is high. These actions are lonely and, as Swenson says, uncomfortable.
 
-How can we know it’s the opposite, the consensus action, that’s the comfortable one? Because most people are. Doing it. The thing I find most interesting about investing is how paradoxical it is, how often.
+How can we know it’s the opposite, the consensus action, that’s the comfortable one? Because most people are. Doing it. The thing.
 
-The things that seem most obvious, on which everyone agrees, turn out not to be true. I’m not saying accepted investment wisdom is sometimes valid and sometimes not. The reality is simpler and much more systematic, most people don’t understand the process through which something comes to have outstanding money-making potential. What’s clear to the broad consensus of investors is almost always wrong.
+I find most interesting about investing is how paradoxical it is, how often. The things that seem most obvious, on which everyone agrees, turn out not to be true. I’m not saying accepted investment wisdom is sometimes valid and sometimes not. The reality is simpler and much more systematic, most people don’t understand the process through which something comes to have outstanding money-making potential.
 
-The very coalescence of popular opinion behind an investment tends to eliminate its profit potential. Take, for example, the investment that everyone believes to be a great idea. In my view by definition it’s simply cannot be so. If everyone likes it, it’s probably because it has been doing well.
+What’s clear to the broad consensus of investors is almost always wrong. The very coalescence of popular opinion behind an investment tends to eliminate its profit potential. Take, for example, the investment that everyone believes to be a great idea. In my view by definition it’s simply cannot be so.
 
-Most people seem to think outstanding performance to date presage’s outstanding future performance. Actually, it’s more likely that outstanding performance to date has borrowed from the future. And thus presage’s subpar performance from here on out. If everyone likes it, it’s likely there.
+If everyone likes it, it’s probably because it has been doing well. Most people seem to think outstanding performance to date presage’s outstanding future performance. Actually, it’s more likely that outstanding performance to date has borrowed from the future. And thus presage’s subpar performance from here on out.
 
-Price has risen to reflect a level of adulation from which relatively little further appreciation is likely. Sure, it’s possible for something to move from overvalued to more overvalued, but I wouldn’t want to count on it happening. If everyone likes it, it’s likely the area has been mined too thoroughly, and has seen too much capital flow in, for many bargains to remain. If everyone likes it, there’s significant risk that prices will fall if the crowd changes its collective mind and moves for the exit.
+If everyone likes it, it’s likely there. Price has risen to reflect a level of adulation from which relatively little further appreciation is likely. Sure, it’s possible for something to move from overvalued to more overvalued, but. I wouldn’t want to count on it happening.
 
-Superior investors know, and buy, when the price of something is lower than it should be. And the price of an investment can be lower than it should be only when most people don’t see its merit. Yogi Berra is famous for having said, nobody goes to that restaurant anymore, it’s too crowded. It’s just as nonsensical to say, everyone realizes that investments a bargain.
+If everyone likes it, it’s likely the area has been mined too thoroughly, and has seen too much capital flow in, for many bargains to remain. If everyone likes it, there’s significant risk that prices will fall if the crowd changes its collective mind and moves for the exit. Superior investors know, and buy, when the price of something is lower than it should be. And the price of an investment can be lower than it should be only when most people don’t see its merit.
 
-If everyone realizes it, they’ll buy, in. Which case the price will no longer be low. Large amounts of money aren’t made by. Buying what everybody likes.
+Yogi Berra is famous for having said, nobody goes to that restaurant anymore, it’s too crowded. It’s just as nonsensical to say, everyone realizes that investments a bargain. If everyone realizes it, they’ll buy, in. Which case the price will no longer be low.
 
-They’re made by buying what everybody underestimates. In short, there are two primary elements in superior investing, seeing some quality that. Others don’t see or appreciate, and that isn’t reflected in the price, and having it turn out to
+Large amounts of money aren’t made by. Buying what everybody likes. They’re made by buying what everybody underestimates. In short, there are two primary elements in superior investing, seeing some quality that.
+
+Others don’t see or appreciate, and that isn’t reflected in the price, and having it turn out to
 
 
 <a id="sec-033152"></a>
 ### ⏱️ [03:31:52 - 03:36:55]
 
-be true, or at least accepted by the market. It should be clear from the first element that the process has to begin with investors who are unusually perceptive, unconventional, iconoclastic, or early. That’s why successful investors are said to spend a lot of their time being lonely. Everyone knows, April 26, 2007 the global credit crisis of 2007 to 2008 represents the greatest crash I have ever seen.
+be true, or at least accepted by the market. It should be clear from the first element that the process has to begin with investors who are unusually perceptive, unconventional, iconoclastic, or early. That’s why successful investors are said to spend a lot of their time being lonely. Everyone knows, April 26, 2007 the global credit crisis of 2007 to 2008 represents the greatest crash.
 
-The lessons to be learned from this experience are many, which is one reason I discuss aspects of it in more than one chapter. For me, one such lesson consisted of reaching a new understanding of the skepticism required for contrarian thinking. I’m not usually given to epiphanies, but I had one on the subject of skepticism. Every time a bubble bursts, a bull market collapses or a silver bullet.
+I have ever seen. The lessons to be learned from this experience are many, which is one reason. I discuss aspects of it in more than one chapter. For me, one such lesson consisted of reaching a new understanding of the skepticism required for contrarian thinking.
 
-Fails to work, we hear people bemoan their error. The skeptic, highly aware of that, tries to. Identify delusions ahead of time and avoid falling into line with the crowd in accepting them. So, usually, investment skepticism is associated with rejecting investment fads, bull market manias and Ponzi schemes.
+I’m not usually given to epiphanies, but. I had one on the subject of skepticism. Every time a bubble bursts, a bull market collapses or a silver bullet. Fails to work, we hear people bemoan their error.
 
-My epiphany came in mid-October 2008, near the low point of the global credit meltdown. By then we were seeing and hearing things that we never imagined possible, the demise or bailout of Lehman Brothers, Bear Stearns, Freddie Mac, Fannie Mae and AIG concerned about the viability of Goldman Sachs and Morgan Stanley and huge declines in their stocks' rising prices for credit default swap protection on U. S. Treasury securities rates on short-term T-bills close to zero because of an extreme flight to safety awareness for the first time, I think, that the U. S. government’s financial resources are finite and that there are limits on its ability to run the printing press and solve problems with.
+The skeptic, highly aware of that, tries to. Identify delusions ahead of time and avoid falling into line with the crowd in accepting them. So, usually, investment skepticism is associated with rejecting investment fads, bull market manias and Ponzi schemes. My epiphany came in mid-October 2008, near the low point of the global credit meltdown.
 
-Was readily apparent immediately after the bankruptcy of Lehman Brothers that a spiral was underway and no one could see how or when it might end. That was really the problem, no scenario was too negative to be credible and any scenario incorporating an element of optimism was dismissed as Pollyanna-ish. There was an element of truth in this, of course, nothing was impossible. But in dealing with the future, we must think about two things, A, what might happen and, B, the probability that it will happen.
+By then we were seeing and hearing things that we never imagined possible, the demise or bailout of Lehman Brothers, Bear Stearns, Freddie Mac, Fannie Mae and AIG concerned about the viability of Goldman Sachs and Morgan Stanley and huge declines in their stocks' rising prices for credit default swap protection on U. S. Treasury securities rates on short-term T-bills close to zero because of an extreme flight to safety awareness for the first time, I think, that the U.
 
-During the crisis, lots of bad things seemed possible, but that didn’t mean they were going to happen. In times of crisis, people failed to make that distinction. For 40 years I’ve seen the manic, depressive pendulum of investor psychology swing crazily, between fear and greed, we all know the refrain, but also between optimism and pessimism and between credulity and skepticism. In general, following the beliefs of the herd and swinging with the pendulum will give you average performance in the long run and can get you killed at the extremes.
+S. government’s financial resources are finite and that there are limits on its ability to run the printing press and solve problems with. Was readily apparent immediately after the bankruptcy of Lehman Brothers that a spiral was underway and no one could see how or when it might end. That was really the problem, no scenario was too negative to be credible and any scenario incorporating an element of optimism was dismissed as Pollyanna-ish. There was an element of truth in this, of course, nothing was impossible.
 
-If you believe the story everyone else believes, you’ll do what they do. Usually you’ll buy at high prices and sell at lows. You’ll fall for tales of the silver bullet capable of delivering high returns without risk. You’ll buy what’s been doing well and sell what’s been doing poorly.
+But in dealing with the future, we must think about two things, A, what might happen and, B, the probability that it will happen. During the crisis, lots of bad things seemed possible, but that didn’t mean they were going to happen. In times of crisis, people failed to make that distinction. For 40 years.
 
-And you’ll suffer losses in crashes and miss out when things recover from bottoms. In other words, you’ll be a conformist, not a maverick, a follower, not a contrarian. Skepticism is what it takes to look behind the balance sheet, the latest miracle of financial engineering or the can’t miss story. Only a skeptic can separate the things that sound good and are from the things that sound good and aren’t. The best investors I know exemplify this trait.
+I’ve seen the manic, depressive pendulum of investor psychology swing crazily, between fear and greed, we all know the refrain, but also between optimism and pessimism and between credulity and skepticism. In general, following the beliefs of the herd and swinging with the pendulum will give you average performance in the long run and can get you killed at the extremes. If you believe the story everyone else believes, you’ll do what they do. Usually you’ll buy at high prices and sell at lows.
 
-It’s an absolute necessity. Lots of bad things happen to kick off the credit crisis that had been considered unlikely, if not impossible, and they happened at the same time, to investors who’d taken on significant leverage. So the easy explanation is that the people who were heard in the credit crisis hadn’t been skeptical or pessimistic enough, but that triggered an epiphany. Skepticism and pessimism aren’t synonymous.
+You’ll fall for tales of the silver bullet capable of delivering high returns without risk. You’ll buy what’s been doing well and sell what’s been doing poorly. And you’ll suffer losses in crashes and miss out when things recover from bottoms.
 
-Skepticism calls for pessimism when optimism is excessive, but it also calls for optimism when pessimism is excessive. As the credit crisis reached a peak last week, I found very few who were optimistic. Most were pessimistic to some. Degree.
+In other words, you’ll be a conformist, not a maverick, a follower, not a contrarian. Skepticism is what it takes to look behind the balance sheet, the latest miracle of financial engineering or the can’t miss story. Only a skeptic can separate the things that sound good and are from the things that sound good and aren’t. The best investors.
 
-No one applied skepticism or said that horror stories unlikely to be true. The one thing they weren’t doing last week was making aggressive bids for securities.
+I know exemplify this trait. It’s an absolute necessity. Lots of bad things happen to kick off the credit crisis that had been considered unlikely, if not impossible, and they happened at the same time, to investors who’d taken on significant leverage. So the easy explanation is that the people who were heard in the credit crisis hadn’t been skeptical or pessimistic enough, but that triggered an epiphany.
+
+Skepticism and pessimism aren’t synonymous. Skepticism calls for pessimism when optimism is excessive, but it also calls for optimism when pessimism is excessive. As the credit crisis reached a peak last week, I found very few who were optimistic. Most were pessimistic to some.
+
+Degree. No one applied skepticism or said that horror stories unlikely to be true. The one thing they weren’t doing last week was making aggressive bids for securities.
 
 
 <a id="sec-033655"></a>
@@ -1365,23 +1431,23 @@ No one applied skepticism or said that horror stories unlikely to be true. The o
 
 So prices fell and fell, the old expression is, gap down, several points at a time. The key, as usual, was to become skeptical of what everyone was saying and doing. The negative story may have looked compelling, but it’s the positive story, which few believed, that held, and still holds, the greater potential for profit. The limits to negativism, October 15, 2008 THE error is clear.
 
-The herd applies optimism at the top and pessimism at the bottom. Thus, to benefit, we must be skeptical of the optimism that thrives at the top and skeptical of the pessimism that prevails at the bottom. Touchstone’s November 10, 2009 skepticism is usually thought to consist of saying, no, that’s too good to be true at the right times. But I.
+The herd applies optimism at the top and pessimism at the bottom. Thus, to benefit, we must be skeptical of the optimism that thrives at the top and skeptical of the pessimism that prevails at the bottom. Touchstone’s November 10, 2009 skepticism is usually thought to consist of saying, no, that’s too good to be true at the right times. But.
 
-Realized in 2008, and in retrospect it seems so obvious, that sometimes skepticism. Requires us to say, no, that’s too bad to be true. Most purchases of depressed, distressed debt made in the fourth quarter of 2008 yielded returns of 50 to 100% or more over the next 18 months. Buying was extremely difficult under those trying circumstances, but it was made easier when we realized that almost no one was saying, no, things can’t be that bad.
+I. Realized in 2008, and in retrospect it seems so obvious, that sometimes skepticism. Requires us to say, no, that’s too bad to be true. Most purchases of depressed, distressed debt made in the fourth quarter of 2008 yielded returns of 50 to 100% or more over the next 18 months.
 
-At that moment, being optimistic and buying was the ultimate act of contrarianism. Certain common threads run through the best investments I’ve witnessed. They’re usually contrarian, challenging and uncomfortable, although the experienced contrarian takes comfort from his or her position outside the herd. Whenever the debt market collapses, for example, most people say, we’re not going to try to catch a falling knife, it’s too dangerous.
+Buying was extremely difficult under those trying circumstances, but it was made easier when we realized that almost no one was saying, no, things can’t be that bad. At that moment, being optimistic and buying was the ultimate act of contrarianism. Certain common threads run through the best investments. I’ve witnessed.
 
-They usually add, we’re going to wait until the dust settles and the uncertainty is resolved. What they mean, of course, is that they’re frightened and unsure of what to do. The one. Thing I’m sure of is that by the time the knife has stopped falling, the dust has settled and the uncertainty has been resolved, there’ll be no great bargains left.
+They’re usually contrarian, challenging and uncomfortable, although the experienced contrarian takes comfort from his or her position outside the herd. Whenever the debt market collapses, for example, most people say, we’re not going to try to catch a falling knife, it’s too dangerous. They usually add, we’re going to wait until the dust settles and the uncertainty is resolved. What they mean, of course, is that they’re frightened and unsure of what to do.
 
-When buying something has become comfortable again, its price will no longer be so low that it’s a great bargain. Thus, a hugely profitable investment that doesn’t begin with discomfort is usually an oxymoron. It’s our job as contrarians to catch falling knives, hopefully with care and skill. That’s why the concept of intrinsic value is so important.
+The one. Thing. I’m sure of is that by the time the knife has stopped falling, the dust has settled and the uncertainty has been resolved, there’ll be no great bargains left. When buying something has become comfortable again, its price will no longer be so low that it’s a great bargain.
 
-If we hold a view of value that enables us to buy when everyone else is selling, and if our view turns out to be right, that’s the route to the greatest rewards earned with the least risk.
+Thus, a hugely profitable investment that doesn’t begin with discomfort is usually an oxymoron. It’s our job as contrarians to catch falling knives, hopefully with care and skill. That’s why the concept of intrinsic value is so important. If we hold a view of value that enables us to buy when everyone else is selling, and if our view turns out to be right, that’s the route to the greatest rewards earned with the least risk.
 
-#### Chapter 12 The Most Important Thing Is Finding Bargains The best opportunities are usually found among things most others won’t do. The process of intelligently building a portfolio consists of buying the best investments, making room for them by selling lesser ones, and staying clear of the worst.
+#### Chapter 12 The Most Important Thing Is Finding Bargains The best opportunities are usually found among things most others won’t do.
 
-The raw materials for the process consist of, a, a list of potential investments, b, estimates of their intrinsic value, c, a sense for how their prices compare with their intrinsic value, and, d, an understanding of the risks involved in each, and of the effect their inclusion would have on the portfolio being assembled. The first step is usually to make sure that the things being considered satisfy some absolute standards. Even sophisticated investors may not say, I’ll buy anything if it’s cheap enough.
+The process of intelligently building a portfolio consists of buying the best investments, making room for them by selling lesser ones, and staying clear of the worst. The raw materials for the process consist of, a, a list of potential investments, b, estimates of their intrinsic value, c, a sense for how their prices compare with their intrinsic value, and, d, an understanding of the risks involved in each, and of the effect their inclusion would have on the portfolio being assembled.
 
-More often they create a list of investment candidates meeting their minimum criteria, and from those they choose the best bargains. That’s what this chapter is all about.
+The first step is usually to make sure that the things being considered satisfy some absolute standards. Even sophisticated investors may not say, I’ll buy anything if it’s cheap enough. More often they create a list of investment candidates meeting their minimum criteria, and from those they choose the best bargains. That’s what this chapter is all about.
 
 For example, an investor might start by narrowing the list of possibilities to those whose riskiness falls within acceptable limits since there can be risks with which certain investors aren’t comfortable. Examples might include the risk of obsolescence in a fast-moving segment of the technology world and the risk that a hot consumer product will lose its popularity. These might be subjects that some investors consider beyond their expertise. Or investors might find some companies unacceptable in the absolute because their industries are too unpredictable or their financial statements aren’t sufficiently transparent.
 
@@ -1405,19 +1471,19 @@ That expression has stayed with me for 35 years. Sid’s simple phrase embodies 
 
 First, the process of investing has to be rigorous and disciplined. Second, it is by necessity comparative. Whether prices are depressed or elevated, and whether prospective returns are therefore high or low, we have to find the best investments out there. Since we can’t change the market, if we want to participate, our only option is to select the best from the possibilities that exist.
 
-These are relative decisions. What is it that makes something the superior investment we look for? As I mentioned in chapter 4, it’s largely a matter of price. Our goal isn’t to find good assets, but good buys.
+These are relative decisions. What is it that makes something the superior investment we look for? As. I mentioned in chapter 4, it’s largely a matter of price.
 
-Thus, it’s not what you buy, it’s what you pay for it. A high-quality asset can constitute a good or bad buy, and a low-quality asset can constitute a good or bad buy. The Tendency 2. Mistake objective merit for investment opportunity, and the failure to distinguish between.
+Our goal isn’t to find good assets, but good buys. Thus, it’s not what you buy, it’s what you pay for it. A high-quality asset can constitute a good or bad buy, and a low-quality asset can constitute a good or bad buy. The Tendency 2.
 
-Good assets and good buys, get most investors into trouble. Because the search is for good buys, my main goal in this chapter is to explain what makes a buy a good one. In general, that means price is low relative to value, and potential return is high relative to rate. risk. How do bargains get that way?
+Mistake objective merit for investment opportunity, and the failure to distinguish between. Good assets and good buys, get most investors into trouble. Because the search is for good buys, my main goal in this chapter is to explain what makes a buy a good one. In general, that means price is low relative to value, and potential return is high relative to rate. risk.
 
-In chapter 10, I use the tech, stock mania as an example of the reliable process through which a good fundamental idea can be turned into an overpriced bubble. It usually starts with an objectively attractive asset. As people raise their opinion of it, they increasingly want to own it. That makes capital flow to it, and the price rises.
+How do bargains get that way? In chapter 10, I use the tech, stock mania as an example of the reliable process through which a good fundamental idea can be turned into an overpriced bubble. It usually starts with an objectively attractive asset. As people raise their opinion of it, they increasingly want to own it.
 
-People take the rising price as a sign of the investments merit, so they buy still more. Others hear about it for the first time and join in, and the upward trend takes on the appearance of an unstoppable virtuous cycle. It’s mostly a popularity contest in which the asset in question is. The winner.
+That makes capital flow to it, and the price rises. People take the rising price as a sign of the investments merit, so they buy still more. Others hear about it for the first time and join in, and the upward trend takes on the appearance of an unstoppable virtuous cycle. It’s mostly a popularity contest in which the asset in question is.
 
-If they go on long enough and gain enough force, investment styles turn into. Bubbles. And bubbles give thoughtful investors lots of things to sell and sell short. The process through which bargains are created is largely the opposite.
+The winner. If they go on long enough and gain enough force, investment styles turn into. Bubbles. And bubbles give thoughtful investors lots of things to sell and sell short.
 
-Thus to be able to find them, it’s essential that we understand what causes an asset to be out of favor. This isn’t necessarily the result of an analytical process.
+The process through which bargains are created is largely the opposite. Thus to be able to find them, it’s essential that we understand what causes an asset to be out of favor. This isn’t necessarily the result of an analytical process.
 
 In fact, much of the process is anti-analytical. Meaning it’s important to think about the psychological forces behind it and the changes in popularity that drive it. So what is it that makes price low relative to value, and return high relative to risk?
 
@@ -1433,7 +1499,7 @@ Market darlings, the orphan asset is ignored or scorned. To the extent it’s me
 
 First, level thinkers tend to view past price weakness as worrisome, not as a sign that the asset has gotten cheaper. As a result, a bargain asset tends to be one that’s highly unpopular. Capital stays away from it or flees, and no one can think of a reason to own it. Here’s an example of how bargains can be created when an entire asset class goes out of style.
 
-The story of bonds in the last 60 years is the mirror opposite of the rise in popularity enjoyed by stocks. First bonds wilted as. Stocks monopolized the spotlight in the 50s and 60s, and at the end of 1969, first. National Citibank’s weekly summary of bond data died with the heading, the last issue, boxed in black.
+The story of bonds in the last 60 years is the mirror opposite of the rise in popularity enjoyed by stocks. First, bonds wilted as. Stocks monopolized the spotlight in the 50s and 60s, and at the end of 1969, first. National Citibank’s weekly summary of bond data died with the heading, the last issue, boxed in black.
 
 Bonds were decimated in the high-interest-rate environment of the 70s, and even though interest rates declined steadily during the 80s and 90s, bonds didn’t have a prayer of standing up to equity’s dramatic gains. By the latter half of the 90s, any investment in bonds rather than stocks felt like an anchor-restraining performance. I chaired the investment committee of a charity and watched as a sister or GA-NIZA tie-in in another city, which had suffered for years. With an 80 colon 20 bond slash stock mix, shifted its allocation to 0 colon 100.
 
@@ -1447,7 +1513,7 @@ This is a pattern that regularly produces profits for those who figure it out ea
 
 Our goal is to find underpriced assets. Where should we look for them? A good place to start is among things that are, little known and not fully understood, fundamentally questionable on the surface. Controversial, unseemly or scary, deemed inappropriate for respectable portfolios, unappreciated, unpopular and unloved, trailing a record of poor returns, and recently the subject of disinvestment, not accumulation.
 
-To boil it all down to just one sentence, I’d say the necessary condition for the existence of bargains is that perception has to be considerably worse than reality. That means the best opportunities are usually found among things most others won’t do. After all, if everyone feels good about something and is glad to join in, it won’t be bargain, When I shifted from equity research to portfolio management at Citibank in 1978, I was fortunate to be asked to work in asset classes that met some or all of these criteria.
+To boil it all down to just one sentence, I’d say the necessary condition for the existence of bargains is that perception has to be considerably worse than reality. That means the best opportunities are usually found among things most others won’t do. After all, if everyone feels good about something and is glad to join in, it won’t be bargain, When. I shifted from equity research to portfolio management at Citibank in 1978, I was fortunate to be asked to work in asset classes that met some or all of these criteria.
 
 
 <a id="sec-035208"></a>
@@ -1485,21 +1551,21 @@ The market’s not a very accommodating machine, it won’t provide high returns
 
 you need them, Peter Bernstein. The boom, bust cycle associated with the global financial crisis gave us the chance to sell at highly elevated levels in the period 2005 through early 2007 and then to buy at panic prices in late 2007 and 2008. This was in many ways the chance of a lifetime. Cycle, fighting contrarians had a golden opportunity to distinguish themselves.
 
-But one of the things I want to do in this chapter is to point out that there aren’t always great things to do, and sometimes we maximize our contribution by being discerning and relatively inactive. Patient opportunism, waiting for bargains, is often your best strategy. So here’s a tip, you’ll do better if you wait for investments to come to you rather than go chasing after them. You tend to get better buys if you select from the list of things sellers are motivated to sell rather than start with a fixed notion as to what you want to own.
+But one of the things. I want to do in this chapter is to point out that there aren’t always great things to do, and sometimes we maximize our contribution by being discerning and relatively inactive. Patient opportunism, waiting for bargains, is often your best strategy. So here’s a tip, you’ll do better if you wait for investments to come to you rather than go chasing after them.
 
-An opportunist buys things because. They’re offered at bargain prices. There’s nothing special about buying when prices aren’t. Low.
+You tend to get better buys if you select from the list of things sellers are motivated to sell rather than start with a fixed notion as to what you want to own. An opportunist buys things because. They’re offered at bargain prices. There’s nothing special about buying when prices aren’t.
 
-At Oaktree, one of our mottos is, we don’t look for our investments, they find us. We try to sit on our hands. We don’t go out with a buy list, rather, we wait for the phone to ring. If we call the owner and say, you own X and we want to buy it, the price will go up.
+Low. At Oaktree, one of our mottos is, we don’t look for our investments, they find us. We try to sit on our hands. We don’t go out with a buy list, rather, we wait for the phone to ring.
 
-But if the owner calls us and says, we’re stuck with X and we’re looking for an exit, the price will go down. Thus, rather than initiating transactions, we prefer to react opportunistically. At any particular point in time, the investment environment is a given, and we have no alternative other than to accept it and invest within it. There isn’t always a pendulum or cycle extreme to bet against.
+If we call the owner and say, you own X and we want to buy it, the price will go up. But if the owner calls us and says, we’re stuck with X and we’re looking for an exit, the price will go down. Thus, rather than initiating transactions, we prefer to react opportunistically. At any particular point in time, the investment environment is a given, and we have no alternative other than to accept it and invest within it.
 
-Sometimes greed and fear, optimism and pessimism, and credulousness and skepticism are balanced, and thus clear mistakes aren’t being made. Rather than obviously overpriced or underpriced, most things may seem roughly fairly priced. In that case, there may not be great bargains to buy or compelling sales to make. It’s essential for investment.
+There isn’t always a pendulum or cycle extreme to bet against. Sometimes greed and fear, optimism and pessimism, and credulousness and skepticism are balanced, and thus clear mistakes aren’t being made. Rather than obviously overpriced or underpriced, most things may seem roughly fairly priced. In that case, there may not be great bargains to buy or compelling sales to make.
 
-Success that we recognize the condition of the market and decide on our actions accordingly. The other possibilities are, a, acting without recognizing the market status, b, acting with indifference to its status and, c, believing we can somehow change its status. These are most unwise. It makes perfect sense that we must invest appropriately for the circumstances with which we’re presented.
+It’s essential for investment. Success that we recognize the condition of the market and decide on our actions accordingly. The other possibilities are, a, acting without recognizing the market status, b, acting with indifference to its status and, c, believing we can somehow change its status. These are most unwise.
 
-In fact, nothing else makes sense at all. I come to this from a philosophic foundation. In the mid-60s, Wharton students had to have a non-business minor, and I satisfied the requirement by taking five courses in Japanese studies. These surprised me by becoming the highlight of my college career, and later they contributed to my investment philosophy in a major way.
+It makes perfect sense that we must invest appropriately for the circumstances with which we’re presented. In fact, nothing else makes sense at all. I come to this from a philosophic foundation. In the mid-60s, Wharton students had to have a non-business minor, and.
 
-Among the values prized in early Japanese culture was Mujo. Mujo was defined classically for me as recognition of, the turning of the wheel of the law, implying acceptance of the inevitability of change, of rise and fall.
+I satisfied the requirement by taking five courses in Japanese studies. These surprised me by becoming the highlight of my college career, and later they contributed to my investment philosophy in a major way. Among the values prized in early Japanese culture was Mujo. Mujo was defined classically for me as recognition of, the turning of the wheel of the law, implying acceptance of the inevitability of change, of rise and fall.
 
 In other words, Mujo means cycles will rise and fall, things will come and go, and our environment will change in ways beyond our control. Thus we must recognize, accept, cope and respond. Isn’t that the essence of investing? What’s past is past and can’t be undone.
 
@@ -1545,23 +1611,27 @@ nasty ones. The success of many techniques and structures depended on the future
 
 While a number faltered because of flaws in their or GANIZA tie-in or business model, others disappeared because they insisted on pursuing high returns in low return environments. You simply cannot create investment opportunities when they’re not there. The dumbest thing you can do is to insist on perpetuating high returns and give back your profits in the process. If it’s not there, hoping won’t make it so.
 
-When prices are high, it’s inescapable that prospective returns are low, and risks are high. That single sentence provides a great deal of guidance as to appropriate portfolio actions. How are we to factor such an observation into our practices? In 2004 I wrote a memo titled Risk and Return Today.
+When prices are high, it’s inescapable that prospective returns are low, and risks are high. That single sentence provides a great deal of guidance as to appropriate portfolio actions. How are we to factor such an observation into our practices? In 2004.
 
-In it, as described in chapter 6, I expressed my view that, a, the capital market line then was, low and flat, meaning prospective returns in almost all markets were among the lowest we’d ever seen and risk premiums were the narrowest, and, b, if prospective returns should rise, it’d likely happen through price declines. But the hard question is, what can we do about it? A few weeks later, I suggested a few possibilities. How might one cope in a market that seems to?
+I wrote a memo titled Risk and Return Today. In it, as described in chapter 6, I expressed my view that, a, the capital market line then was, low and flat, meaning prospective returns in almost all markets were among the lowest we’d ever seen and risk premiums were the narrowest, and, b, if prospective returns should rise, it’d likely happen through price declines. But the hard question is, what can we do about it? A few weeks later, I suggested a few possibilities.
 
-Be offering low returns. Invest as if it’s not true. The trouble with this is that, wishing won’t. Make it so.
+How might one cope in a market that seems to? Be offering low returns. Invest as if it’s not true. The trouble with this is that, wishing won’t.
 
-Simply put, it doesn’t make sense to expect traditional returns when elevated asset prices suggest they’re not available. I was pleased to get a letter from Peter Bernstein in response to my memo, in which he said something wonderful, the market’s not a very accommodating machine, it won’t provide high returns just because you need them. Invest anyway, trying for acceptable relative returns under the circumstances, even if they’re not attractive in the absolute. Invest anyway, ignoring short-run risk and focusing on the long run.
+Make it so. Simply put, it doesn’t make sense to expect traditional returns when elevated asset prices suggest they’re not available. I was pleased to get a letter from Peter Bernstein in response to my memo, in which he said something wonderful, the market’s not a very accommodating machine, it won’t provide high returns just because you need them. Invest anyway, trying for acceptable relative returns under the circumstances, even if they’re not attractive in the absolute.
 
-This isn’t irrational, especially if you accept the notion that market timing and tactical asset allocation are difficult. But before taking this path, I’d suggest that you get a commitment from your investment committee or other constituents that they’ll ignore short-term losses. Hold cash, but that’s tough for people who need to meet an actuarial. Assumption or spending rate, who want their money to be fully employed at all times, or who’ll be uncomfortable or lose their jobs if they have to watch for long as others make money they don’t.
+Invest anyway, ignoring short-run risk and focusing on the long run. This isn’t irrational, especially if you accept the notion that market timing and tactical asset allocation are difficult. But before taking this path, I’d suggest that you get a commitment from your investment committee or other constituents that they’ll ignore short-term losses. Hold cash, but that’s tough for people who need to meet an actuarial.
 
-Create your investments in special niches and special people, as I’ve been droning on about for the last couple of years. But that gets harder as the size of. Your portfolio grows. And identifying managers with truly superior talent, discipline and staying power certainly isn’t easy.
+Assumption or spending rate, who want their money to be fully employed at all times, or who’ll be uncomfortable or lose their jobs if they have to watch for long as others make money they don’t. Create your investments in special niches and special people, as. I’ve been droning on about for the last couple of years. But that gets harder as the size of.
 
-The truth is, there’s no easy answer for investors faced with skimpy prospective returns and risk premiums. But there is one course of action, one classic mistake, that I most strongly feel is wrong, reaching for return. Given today’s paucity of prospective return at the low, risk end of the spectrum and the solutions being ballyhooed at the high, risk end, many investors are moving capital to riskier, or at least less traditional, investments. But, A, they’re making those riskier investments just when the prospective returns on those investments are the lowest they’ve ever been, B, they’re accepting return increments for stepping up in risk that are as slim as they’ve ever been, and, C, they’re signing up today for things they turned down, or did less of, in the past, when the.
+Your portfolio grows. And identifying managers with truly superior talent, discipline and staying power certainly isn’t easy.
 
-Prospective returns were much higher. This may be exactly the wrong time to add to risk in. Pursuit of more return. You want to take risk when others are fleeing from it, not when they’re competing with you to do so.
+The truth is, there’s no easy answer for investors faced with skimpy prospective returns and risk premiums. But there is one course of action, one classic mistake, that. I most strongly feel is wrong, reaching for return. Given today’s paucity of prospective return at the low, risk end of the spectrum and the solutions being ballyhooed at the high, risk end, many investors are moving capital to riskier, or at least less traditional, investments.
 
-There they go again, May 6, 2005 it’s clear that this was written too early. May 2005 wasn’t the perfect time to get off the merry, go, round, May 2007 was. Being early provided a good reminder about the pain involved in being too far ahead of your time. Having said that, it was much better to get off too soon in May 2005 than to stay on past May 2007.
+But, A, they’re making those riskier investments just when the prospective returns on those investments are the lowest they’ve ever been, B, they’re accepting return increments for stepping up in risk that are as slim as they’ve ever been, and, C, they’re signing up today for things they turned down, or did less of, in the past, when the. Prospective returns were much higher. This may be exactly the wrong time to add to risk in. Pursuit of more return.
+
+You want to take risk when others are fleeing from it, not when they’re competing with you to do so. There they go again, May 6, 2005 it’s clear that this was written too early. May 2005 wasn’t the perfect time to get off the merry, go, round, May 2007 was. Being early provided a good reminder about the pain involved in being too far ahead of your time.
+
+Having said that, it was much better to get off too soon in May 2005 than to stay on past May 2007.
 
 
 <a id="sec-041217"></a>
@@ -1571,23 +1641,25 @@ I’ve tried to make clear that the investment environment greatly influences ou
 
 At low prices, and typically these can be earned with low risk. In the crises of 1990, 2002 end. 2008, for example, not only did our funds earn unusually high returns, but we feel they did it through investments where loss was unlikely. The absolute best buying opportunities come when asset holders are forced to sell, and in those crises they were present in large numbers. From time to time, holders become forced sellers for reasons like these, the funds they manage experience withdrawals.
 
-Their portfolio holdings violate investment guidelines such as minimum credit ratings or position maximums. They receive margin calls because the value of their assets fails to satisfy requirements agreed to in contracts with their lenders. As I’ve said many times, the real goal of active investment management is to buy things for less than their worth. This is what the Efficient Market Hypothesis says we can’t do. The theory’s objection seems reasonable, why should someone part with something at a bargain?
+Their portfolio holdings violate investment guidelines such as minimum credit ratings or position maximums. They receive margin calls because the value of their assets fails to satisfy requirements agreed to in contracts with their lenders. As. I’ve said many times, the real goal of active investment management is to buy things for less than their worth.
 
-Price, especially if the potential seller is informed and rational, usually, would, be sellers. Balance the desire to get a good price with the desire to get the trade done soon. The beauty of forced sellers is that they have no choice. They have a gun at their heads and have to sell regardless of price.
+This is what the Efficient Market Hypothesis says we can’t do. The theory’s objection seems reasonable, why should someone part with something at a bargain? Price, especially if the potential seller is informed and rational, usually, would, be sellers. Balance the desire to get a good price with the desire to get the trade done soon.
 
-Those last three words, regardless of price, are the most beautiful in the world if you’re on the other side of the transaction. If a single holder is forced to sell, dozens of buyers will be there to accommodate, so the trade may take place at a price that is only slightly reduced. But if chaos is widespread, many people will be forced to sell at the same time and few people will be in a position to provide the required liquidity. The difficulties that mandate selling, plummeting prices, withdrawal of credit, fear among counterparties or clients, have the same impact on most investors.
+The beauty of forced sellers is that they have no choice. They have a gun at their heads and have to sell regardless of price. Those last three words, regardless of price, are the most beautiful in the world if you’re on the other side of the transaction. If a single holder is forced to sell, dozens of buyers will be there to accommodate, so the trade may take place at a price that is only slightly reduced.
 
-In that case, prices can fall far below intrinsic value. The fourth quarter of 2008 provided an excellent example. of the. Need for liquidity in times of chaos. Let’s focus on leveraged investment entities holdings of.
+But if chaos is widespread, many people will be forced to sell at the same time and few people will be in a position to provide the required liquidity. The difficulties that mandate selling, plummeting prices, withdrawal of credit, fear among counterparties or clients, have the same impact on most investors. In that case, prices can fall far below intrinsic value. The fourth quarter of 2008 provided an excellent example. of the.
 
-Senior bank loans. Because these loans were highly rated and credit was freely available during the years leading up to the crisis, it was easy to borrow large sums with which to leverage debt portfolios, magnifying the potential returns. A typical investor on, margin, might have agreed to post additional capital if the price of the collateral fell below 85 cents on the dollar. Secure in the knowledge that in the past, loans like these had never traded much below par or 100 cents on the dollar.
+Need for liquidity in times of chaos. Let’s focus on leveraged investment entities holdings of. Senior bank loans. Because these loans were highly rated and credit was freely available during the years leading up to the crisis, it was easy to borrow large sums with which to leverage debt portfolios, magnifying the potential returns.
 
-When the credit crisis hit, everything went wrong for leveraged investors in bank loans. And because the yields on these supposedly safe loans had been so low, almost all of the buyers had used leverage to enhance their expected returns. Loan prices fell. Quality dried up.
+A typical investor on, margin, might have agreed to post additional capital if the price of the collateral fell below 85 cents on the dollar. Secure in the knowledge that in the past, loans like these had never traded much below par or 100 cents on the dollar. When the credit crisis hit, everything went wrong for leveraged investors in bank loans. And because the yields on these supposedly safe loans had been so low, almost all of the buyers had used leverage to enhance their expected returns.
 
-Since much of the buying had been done with borrowed funds, the credit market contraction affected large numbers of holders. As the number of would-be sellers exploded, buyers for cash disappeared. And with additional credit unavailable, no new levered buyers could step forward to absorb the selling. Prices fell to 95, and then 90, and then 85.
+Loan prices fell. Quality dried up. Since much of the buying had been done with borrowed funds, the credit market contraction affected large numbers of holders. As the number of would-be sellers exploded, buyers for cash disappeared.
 
-And as each portfolio reached its trigger, the bank issued a margin call or a demand for a capital infusion. Few investors had the resources and nerve required to add capital in that environment, so the banks took over the portfolios and liquidated them. BWIC, pronounced beat wick, came into common use, an acronym for bid. Wanted in competition.
+And with additional credit unavailable, no new levered buyers could step forward to absorb the selling. Prices fell to 95, and then 90, and then 85. And as each portfolio reached its trigger, the bank issued a margin call or a demand for a capital infusion. Few investors had the resources and nerve required to add capital in that environment, so the banks took over the portfolios and liquidated them.
 
-Buyers were informed of a BWIC in the afternoon and told bids were wanted for an auction to be held the next morning. The few possible buyers bid low, hoping to get real bargains, no one needed to worry about bidding too low, since there was sure to be another BWIC behind this one. And the banks weren’t concerned with getting fair prices, all they needed was enough proceeds
+BWIC, pronounced beat wick, came into common use, an acronym for bid. Wanted in competition. Buyers were informed of a BWIC in the afternoon and told bids were wanted for an auction to be held the next morning. The few possible buyers bid low, hoping to get real bargains, no one needed to worry about bidding too low, since there was sure to be another BWIC behind this one.
+
+And the banks weren’t concerned with getting fair prices, all they needed was enough proceeds
 
 
 <a id="sec-041717"></a>
@@ -1601,21 +1673,27 @@ Issuing company turned out to be worth 20 to 40 percent of what a buyout fund ha
 
 The key during a crisis is to be, a. insulated from the forces that require selling and, b. positioned to be a buyer instead. To satisfy those criteria, an investor needs the following things, staunch reliance on you, little or no use of leverage, long-term capital and a strong stomach. Patient opportunism, buttressed by a contrarian attitude and a strong balance sheet, can yield amazing profits during meltdowns.
 
-#### Chapter 14 The Most Important Thing Is Knowing What You Don’t Know. We have two classes of forecasters, those who don’t know, and those who don’t know they don’t know, John Kenneth Galbraith it’s frightening to think that you might not know something, but more frightening to think that, by and large, the world is run by people who have faith that they know exactly what’s going on, Amos Tversky.
+#### Chapter 14 The Most Important Thing Is Knowing. What You Don’t Know.
 
-There are two kinds of people who lose money, those who know nothing and those who know everything, Henry Kaufman. I’ve chosen three quotes with which to lead off this chapter, and I have a million more where those came from. Awareness of the limited extent of our foreknowledge is an essential component of my approach to investing. I’m firmly convinced that, A, it’s hard to know what.
+We have two classes of forecasters, those who don’t know, and those who don’t know they don’t know, John Kenneth Galbraith it’s frightening to think that you might not know something, but more frightening to think that, by and large, the world is run by people who have faith that they know exactly what’s going on, Amos Tversky. There are two kinds of people who lose money, those who know nothing and those who know everything, Henry Kaufman. I’ve chosen three quotes with which to lead off this chapter, and.
 
-The macro future holds and, B, few people possess superior knowledge of these matters that can regularly be turned into an investing advantage. There are two caveats, however, the more we concentrate on smaller, picture things, the more it’s possible to gain a knowledge advantage. With hard work and skill, we can consistently know more than the next person about individual companies and securities, but that’s much less likely with regard to markets and economies. Thus, I suggest people try to, know the knowable.
+I have a million more where those came from. Awareness of the limited extent of our foreknowledge is an essential component of my approach to investing. I’m firmly convinced that, A, it’s hard to know what. The macro future holds and, B, few people possess superior knowledge of these matters that can regularly be turned into an investing advantage.
 
-An exception comes in the form of my suggestion, on which I elaborate in the next chapter, that investors should make an effort to figure out where they stand at a moment in time in terms of cycles and pendulums. That won’t render the future twists and turns knowable, but it can help one prepare for likely developments. I am not going to try to prove my contention that the future, is unknowable. You can’t prove a negative, and that certainly includes this one.
+There are two caveats, however, the more we concentrate on smaller, picture things, the more it’s possible to gain a knowledge advantage. With hard work and skill, we can consistently know more than the next person about individual companies and securities, but that’s much less likely with regard to markets and economies. Thus, I suggest people try to, know the knowable. An exception comes in the form of my suggestion, on which.
 
-However, I, have yet to meet anyone who consistently knows what lies ahead macro-wise. Of all the economists and strategists you follow, are any correct most of the time. My research on this subject, and I use quotation marks because my efforts in the area are too limited and anecdotal to be considered serious research, has consisted primarily of reading forecasts and observing their lack of utility. I wrote two memos as a result, The Value of Predictions, or Where’d All This Rain Come From.
+I elaborate in the next chapter, that investors should make an effort to figure out where they stand at a moment in time in terms of cycles and pendulums. That won’t render the future twists and turns knowable, but it can help one prepare for likely developments. I am not going to try to prove my contention that the future, is unknowable. You can’t prove a negative, and that certainly includes this one.
 
-February 15, 1993, and, The Value of Predictions 2, or Give That Man a Cigar, August 22, 1996. In the second memo, I used data from three semiannual Wall Street Journal economic polls to examine the usefulness of forecasts.
+However, I, have yet to meet anyone who consistently knows what lies ahead macro-wise. Of all the economists and strategists you follow, are any correct most of the time. My research on this subject, and. I use quotation marks because my efforts in the area are too limited and anecdotal to be considered serious research, has consisted primarily of reading forecasts and observing their lack of utility.
 
-First, were the forecasts generally accurate? The answer was clearly no. On average, the predictions for the 90-day T-bill rate, 30-year bond rate and yen-slash-dollar exchange rate 6 and 12 months out were off by 15%. The average forecaster missed the. First rate on the long bond 6 months later by 96 basis points, a divergence big enough.
+I wrote two memos as a result, The Value of Predictions, or. Where’d All. This Rain Come. From.
 
-To change the value of a $1,000 bond by $120. Second, were the forecasts valuable?
+February 15, 1993, and, The Value of Predictions 2, or Give. That Man a Cigar, August 22, 1996. In the second memo, I used data from three semiannual Wall Street Journal economic polls to examine the usefulness of forecasts.
+
+First, were the forecasts generally accurate? The answer was clearly no. On average, the predictions for the 90-day T-bill rate, 30-year bond rate and yen-slash-dollar exchange rate 6 and 12 months out were off by 15%. The average forecaster missed the.
+
+First, rate on the long bond 6 months later by 96 basis points, a divergence big enough. To change the value of a $1,000 bond by $120.
+
+Second, were the forecasts valuable?
 
 
 <a id="sec-042221"></a>
@@ -1629,9 +1707,9 @@ Like many forecasters, these economists were driving with their eyes firmly fixe
 
 Fourth, were the forecasters ever right? The answer is a firm yes.
 
-For example, in each semiannual forecast, someone nailed the yield on a 30-year bond within 10 or 20 basis points, even as interest rates changed radically. The winning forecast was much more accurate than the consensus forecast, which was off by 70 to 130 basis points. Fifth, if the forecasters were sometimes right, and right so dramatically, then why do I remain so negative on forecasts? Because the important thing in forecasting isn’t getting it right once.
+For example, in each semiannual forecast, someone nailed the yield on a 30-year bond within 10 or 20 basis points, even as interest rates changed radically. The winning forecast was much more accurate than the consensus forecast, which was off by 70 to 130 basis points. Fifth, if the forecasters were sometimes right, and right so dramatically, then why do. I remain so negative on forecasts?
 
-The important thing is getting it right consistently. I went on in the 1996 memo to show two things that might make you think. Twice about heating the winner’s forecasts.
+Because the important thing in forecasting isn’t getting it right once. The important thing is getting it right consistently. I went on in the 1996 memo to show two things that might make you think. Twice about heating the winner’s forecasts.
 
 First, they generally failed to make accurate predictions in surveys other than the one they won. And second, half the time in the surveys they didn’t win, their forecasts were much more wrong than even the inaccurate consensus. The most important thing, of course, isn’t the data, but the conclusions, assuming they’re correct and capable of being generalized, and their ramifications. One way to get to be right sometimes is to always be bullish or always be bearish, if you hold a fixed view long enough, you may be right sooner or later.
 
@@ -1655,19 +1733,21 @@ But then ask yourself how many of those few went on to correctly foresee the eco
 
 As such, they probably stayed negative for 2009. The overall usefulness of those forecasts wasn’t great, even though they were partially right about some of the most momentous financial events in the last 80 years. So the key question isn’t, are forecasters sometimes right, but rather, are forecasts as a whole, or any one person’s forecasts, consistently actionable and valuable? No one should bet much on the answer being affirmative.
 
-A prediction of global crisis in 2007-2008 would have had great potential value. But if you saw that it came from someone who wasn’t right consistently, and someone with a visible negative bias, would you have acted? That’s the trouble with inconsistent forecasters, not that they’re never right, but that the record isn’t positive enough to inspire action on their occasional brainstorms. It’s no secret that I have a limited opinion of forecasters and those who resolutely believe in them.
+A prediction of global crisis in 2007-2008 would have had great potential value. But if you saw that it came from someone who wasn’t right consistently, and someone with a visible negative bias, would you have acted? That’s the trouble with inconsistent forecasters, not that they’re never right, but that the record isn’t positive enough to inspire action on their occasional brainstorms. It’s no secret that.
 
-In fact, I’ve come up with a label for these people. Most of the investors I’ve met over the years have belonged to the, I know, school. It’s easy to identify them. They think knowledge of the future direction of economies, interest rates, markets and widely followed mainstream stocks is essential for.
+I have a limited opinion of forecasters and those who resolutely believe in them. In fact, I’ve come up with a label for these people. Most of the investors. I’ve met over the years have belonged to the, I know, school.
 
-Not success. They’re confident it can be achieved. They know they can do it. They’re aware that lots of other people are trying to do it too, but they figure either A.
+It’s easy to identify them. They think knowledge of the future direction of economies, interest rates, markets and widely followed mainstream stocks is essential for. Not success. They’re confident it can be achieved.
 
-Everyone can be successful at the same time, or B. Only a few can be, but they’re among them. Thank you. comfortable investing based on their opinions regarding the future. They’re also glad to share their views with others, even though correct forecasts should be of such great value that no one would give them away gratis.
+They know they can do it. They’re aware that lots of other people are trying to do it too, but they figure either A. Everyone can be successful at the same time, or B. Only a few can be, but they’re among them.
 
-They rarely look back to rigorously assess their record as forecasters. Confident is the key word for describing members of this school. For the, I don’t know, school, on the other hand, the word, especially when dealing with the macro, future, is guarded. Its adherents generally believe you can’t know the future, you don’t have to know the future, and the proper goal is to do the best possible job.
+Thank you. comfortable investing based on their opinions regarding the future. They’re also glad to share their views with others, even though correct forecasts should be of such great value that no one would give them away gratis. They rarely look back to rigorously assess their record as forecasters. Confident is the key word for describing members of this school.
 
-Of investing in the absence of that knowledge. As a member of the, I know, school, you get. To opine on the future, and maybe have people take notes. You may be sought out for your opinions and considered a desirable dinner guest, especially when the stock market’s going up.
+For the, I don’t know, school, on the other hand, the word, especially when dealing with the macro, future, is guarded. Its adherents generally believe you can’t know the future, you don’t have to know the future, and the proper goal is to do the best possible job. Of investing in the absence of that knowledge. As a member of the, I know, school, you get.
 
-In the, I don’t know, school and the results are more mixed. You’ll soon tire of saying, I don’t know, to friends and strangers alike. After a while, even relatives will stop asking where you think the market’s going. You’ll never get to enjoy that one, in a thousand moment when your forecast comes true and the Wall Street Journal runs your picture.
+To opine on the future, and maybe have people take notes. You may be sought out for your opinions and considered a desirable dinner guest, especially when the stock market’s going up. In the, I don’t know, school and the results are more mixed. You’ll soon tire of saying, I don’t know, to friends and strangers alike.
+
+After a while, even relatives will stop asking where you think the market’s going. You’ll never get to enjoy that one, in a thousand moment when your forecast comes true and the Wall Street Journal runs your picture.
 
 On the other hand, you’ll be spared all those times when forecasts miss the mark, as well as the losses that can result from investing based on overrated knowledge of the future. Us and them, May 7, 2004 no one likes having to invest for the future under the assumption that the future is largely unknowable.
 
@@ -1709,29 +1789,31 @@ This is the so-called buy-and-hold approach. There’s a third possibility, howe
 
 Fundamentals, psychology, prices and returns will rise and fall, presenting opportunities to make mistakes or to profit from them. Mistakes of others. They are the givens. We cannot know how far a trend will go, when it will.
 
-Turn, what will make it turn or how far things will then go in the opposite direction. But I’m confident that every trend will stop sooner or later. Nothing goes on forever. So what can we do about cycles?
+Turn, what will make it turn or how far things will then go in the opposite direction. But. I’m confident that every trend will stop sooner or later. Nothing goes on forever.
 
-If we can’t know in advance how and when the turns will occur, how can we cope? On this, I am dogmatic, we may never know where we’re going, but we’d better have a good idea where we are. That is, even if we can’t predict the timing and extent of cyclical fluctuations, it’s essential that we strive to ascertain where we stand in cyclical terms and act accordingly. It is what it is, March 27, 2006 it would be wonderful to be able to successfully predict the swings of the pendulum and always move in the appropriate direction, but this is certainly an unrealistic expectation.
+So what can we do about cycles? If we can’t know in advance how and when the turns will occur, how can we cope? On this, I am dogmatic, we may never know where we’re going, but we’d better have a good idea where we are. That is, even if we can’t predict the timing and extent of cyclical fluctuations, it’s essential that we strive to ascertain where we stand in cyclical terms and act accordingly.
 
-I consider it far more reasonable to try to, a. stay alert for occasions when a market has reached an extreme, b. adjust our behavior in response and, c. most important, refuse to fall into line with the herd behavior that renders so many investors dead wrong at tops and bottoms. First quarter performance, April 11, 1991 I don’t mean to suggest that if we can figure out where we stand in a cycle we’ll know precisely what’s coming next. But I do think that understanding will give us valuable insight into future events and what we might do about them, and that’s all we can hope for.
+It is what it is, March 27, 2006 it would be wonderful to be able to successfully predict the swings of the pendulum and always move in the appropriate direction, but this is certainly an unrealistic expectation. I consider it far more reasonable to try to, a. stay alert for occasions when a market has reached an extreme, b. adjust our behavior in response and, c. most important, refuse to fall into line with the herd behavior that renders so many investors dead wrong at tops and bottoms.
 
-When I say that our present position, unlike the future, is knowable, I don’t mean to imply that understanding comes automatically. Like most things about investing, it takes work. But it can be done. Here are a few concepts I consider essential in.
+First quarter performance, April 11, 1991. I don’t mean to suggest that if we can figure out where we stand in a cycle we’ll know precisely what’s coming next. But. I do think that understanding will give us valuable insight into future events and what we might do about them, and that’s all we can hope for.
 
-That effort. First, we must be alert to what’s going on. The philosopher Santayana said. Those who cannot remember the past are condemned to repeat it.
+When. I say that our present position, unlike the future, is knowable, I don’t mean to imply that understanding comes automatically. Like most things about investing, it takes work. But it can be done.
 
-In very much the same way, I believe those who are unaware of what’s going on around them are destined to be buffeted by it. As difficult as it is know the future, it’s really not that hard to understand the present. What we need to do is, take the market’s temperature. If we are alert and perceptive, we can gauge the behavior of those around us and from that judge what we should do.
+Here are a few concepts. I consider essential in. That effort.
 
-The essential ingredient here is inference, one of my favorite words. Everyone sees what happens each day, as reported in the media. But how many people make an effort to understand what those everyday events say about the psyches of market participants, the investment climate, and thus what we should do in response? Simply put, we must strive to understand the implications of what’s going on around us.
+First, we must be alert to what’s going on. The philosopher Santayana said. Those who cannot remember the past are condemned to repeat it. In very much the same way, I believe those who are unaware of what’s going on around them are destined to be buffeted by it.
 
-When others are recklessly confident and buying aggressively, we should be highly cautious, when others are frightened. Into inaction or panic selling, we should become aggressive. So look around, and ask. Yourself, are investors optimistic or pessimistic?
+As difficult as it is know the future, it’s really not that hard to understand the present. What we need to do is, take the market’s temperature. If we are alert and perceptive, we can gauge the behavior of those around us and from that judge what we should do. The essential ingredient here is inference, one of my favorite words.
 
-Do the media talking heads say the markets should be piled into or avoided? Are novel investment schemes readily accepted or dismissed out of hand? Are securities offerings and fund openings being treated as opportunities to get rich or possible pitfalls? Has the credit cycle rendered capital readily available or impossible to obtain?
+Everyone sees what happens each day, as reported in the media. But how many people make an effort to understand what those everyday events say about the psyches of market participants, the investment climate, and thus what we should do in response? Simply put, we must strive to understand the implications of what’s going on around us. When others are recklessly confident and buying aggressively, we should be highly cautious, when others are frightened.
 
-Are price slash earnings ratios high or low in the context of history, and are yield spreads tight or generous? All of these things are important, and yet none of them entails forecasting. We can make excellent investment decisions on the basis of present observations, with no need to make guesses about the future. The key is to take note of things like these and let them tell you what to do.
+Into inaction or panic selling, we should become aggressive. So look around, and ask. Yourself, are investors optimistic or pessimistic? Do the media talking heads say the markets should be piled into or avoided?
 
-While the markets don’t cry out for action along these lines everyday, they do at the extremes, when their pronouncements are. Highly important. The years 2007 to 2008 can be viewed as a painful time for markets end. Whether participants or as the greatest learning experience in our lifetimes.
+Are novel investment schemes readily accepted or dismissed out of hand? Are securities offerings and fund openings being treated as opportunities to get rich or possible pitfalls? Has the credit cycle rendered capital readily available or impossible to obtain? Are price slash earnings ratios high or low in the context of history, and are yield spreads tight or generous?
 
-They were both, of course, but dwelling on the former isn’t of much help.
+All of these things are important, and yet none of them entails forecasting. We can make excellent investment decisions on the basis of present observations, with no need to make guesses about the future. The key is to take note of things like these and let them tell you what to do. While the markets don’t cry out for action along these lines everyday, they do at the extremes, when their pronouncements are.
+
+Highly important. The years 2007 to 2008 can be viewed as a painful time for markets end. Whether participants or as the greatest learning experience in our lifetimes. They were both, of course, but dwelling on the former isn’t of much help.
 
 
 <a id="sec-044227"></a>
@@ -1763,29 +1845,31 @@ Any way you slice it, you’re settling for a lower prospective return. The race
 <a id="sec-044729"></a>
 ### ⏱️ [04:47:29 - 04:52:32]
 
-from skepticism to credulousness in regard to what I described earlier as the silver bullet or can’t-lose investment. Thoughtful investors might have noticed that the appetite for silver bullets was running high, meaning greed had won out over fear and signifying a non-skeptical, and thus risky, market. Average funds came to be viewed as just such a sure thing during the last decade, and especially those called absolute return funds. These were long-slash-short or arbitrage funds that wouldn’t pursue high returns by making directional bets.
+from skepticism to credulousness in regard to what. I described earlier as the silver bullet or can’t-lose investment. Thoughtful investors might have noticed that the appetite for silver bullets was running high, meaning greed had won out over fear and signifying a non-skeptical, and thus risky, market. Average funds came to be viewed as just such a sure thing during the last decade, and especially those called absolute return funds.
 
-On the market’s trend. Rather, the manager’s skill or technology would enable them to. Produce consistent returns in the range of 8 to 11 percent regardless of which way the market went. Too few people recognized that achieving rock-steady returns in that range would be a phenomenal accomplishment, perhaps too good to be true.
+These were long-slash-short or arbitrage funds that wouldn’t pursue high returns by making directional bets. On the market’s trend. Rather, the manager’s skill or technology would enable them to. Produce consistent returns in the range of 8 to 11 percent regardless of which way the market went.
 
-And B, that’s exactly. What Bernard Madoff purported to be earning. Too few wondered, A, how many managers there are with enough talent to produce that miracle, especially after the deduction of substantial management and incentive fees, B, how much money they could do it with and, C, how their highly levered bets on small statistical discrepancies would fare in a hostile environment. In the difficult year of 2008, the term absolute return was shown to have been overused and misused, as the average fund lost about 18 percent.
+Too few people recognized that achieving rock-steady returns in that range would be a phenomenal accomplishment, perhaps too good to be true. And B, that’s exactly. What Bernard Madoff purported to be earning. Too few wondered, A, how many managers there are with enough talent to produce that miracle, especially after the deduction of substantial management and incentive fees, B, how much money they could do it with and, C, how their highly levered bets on small statistical discrepancies would fare in a hostile environment.
 
-As described at length in chapter 6, we heard at the time that risk had been eliminated through the newly popular wonders of securitization, tranching, selling onward, disintermediation and decoupling. Tranching deserves particular attention here. It consists of allocating a portfolio’s value and cash flow to stakeholders in various tiers of seniority. The owners of the top tier claim get.
+In the difficult year of 2008, the term absolute return was shown to have been overused and misused, as the average fund lost about 18 percent. As described at length in chapter 6, we heard at the time that risk had been eliminated through the newly popular wonders of securitization, tranching, selling onward, disintermediation and decoupling. Tranching deserves particular attention here. It consists of allocating a portfolio’s value and cash flow to stakeholders in various tiers of seniority.
 
-Paid first, thus, they enjoy the greatest safety and settle for relatively low returns. Those with. Bottom tier claims are in that first loss position, and in exchange for accepting heightened risk they enjoy the potential for high returns from the residual that’s left over after the fixed claims of the senior tranches have been paid off. In the years 2004 to 2007, the notion arose that if you cut risk into small pieces and sell the pieces off to investors best suited to hold them, the risk disappears.
+The owners of the top tier claim get. Paid first, thus, they enjoy the greatest safety and settle for relatively low returns. Those with. Bottom tier claims are in that first loss position, and in exchange for accepting heightened risk they enjoy the potential for high returns from the residual that’s left over after the fixed claims of the senior tranches have been paid off.
 
-Sounds like magic. Thus, it’s no coincidence that the tranched securitizations from which so much was expected became the site of many of the worst meltdowns. There’s simply no magic in investing. Absolute return funds, low, cost leverage, riskless real estate investments and tranched debt vehicles were all the rage.
+In the years 2004 to 2007, the notion arose that if you cut risk into small pieces and sell the pieces off to investors best suited to hold them, the risk disappears. Sounds like magic. Thus, it’s no coincidence that the tranched securitizations from which so much was expected became the site of many of the worst meltdowns. There’s simply no magic in investing.
 
-Of course, the error in all these things became clear beginning in August 2007. It turned out that risk hadn’t been banished and, in fact, had been elevated by investors excessive trust and insufficient. Skepticism. The period from 2004 through the middle of 2007 presented investors with one.
+Absolute return funds, low, cost leverage, riskless real estate investments and tranched debt vehicles were all the rage. Of course, the error in all these things became clear beginning in August 2007. It turned out that risk hadn’t been banished and, in fact, had been elevated by investors excessive trust and insufficient. Skepticism.
 
-Of the greatest opportunities to outperform by reducing their risk, if only they were perceptive enough to recognize what was going on and confident enough to act. All you really had to do was take the market’s temperature during an overheated period and deplane as it continued upward. Those who were able to do so exemplify the principles of contrarianism, discussed in Chapter 11. Contrary investors who had cut their risk and otherwise prepared during the lead, up to the crisis lost less in the 2008 meltdown and were best positioned to take advantage of the vast bargains it created.
+The period from 2004 through the middle of 2007 presented investors with one. Of the greatest opportunities to outperform by reducing their risk, if only they were perceptive enough to recognize what was going on and confident enough to act. All you really had to do was take the market’s temperature during an overheated period and deplane as it continued upward. Those who were able to do so exemplify the principles of contrarianism, discussed in.
 
-There are few fields in which decisions as to strategies and tactics aren’t influenced by what we see in the environment. Our pressure on the gas pedal varies depending on whether the road is empty or crowded. The golfer’s choice of club depends on the wind. Our decision regarding outerwear certainly varies with.
+#### Chapter 11.
 
-The weather. Shouldn’t our investment actions be equally affected by the investing climate? Most people strive to adjust their portfolios based on what they think lies ahead. At the same time, however, most people would admit forward visibility just isn’t that great.
+Contrary investors who had cut their risk and otherwise prepared during the lead, up to the crisis lost less in the 2008 meltdown and were best positioned to take advantage of the vast bargains it created. There are few fields in which decisions as to strategies and tactics aren’t influenced by what we see in the environment. Our pressure on the gas pedal varies depending on whether the road is empty or crowded. The golfer’s choice of club depends on the wind.
 
-That’s why I make the case for responding to the current realities and their implications as opposed to expecting the future to be made clear. It is what it is, March 27, 2006. Markets move cyclically, rising and falling. The pendulum oscillates, rarely pausing at the, happy medium, the midpoint of its arc.
+Our decision regarding outerwear certainly varies with. The weather. Shouldn’t our investment actions be equally affected by the investing climate? Most people strive to adjust their portfolios based on what they think lies ahead.
 
-Is this a source of danger or of opportunity? And what are investors to do about it?
+At the same time, however, most people would admit forward visibility just isn’t that great. That’s why. I make the case for responding to the current realities and their implications as opposed to expecting the future to be made clear. It is what it is, March 27, 2006.
+
+Markets move cyclically, rising and falling. The pendulum oscillates, rarely pausing at the, happy medium, the midpoint of its arc. Is this a source of danger or of opportunity? And what are investors to do about it?
 
 
 <a id="sec-045232"></a>
@@ -1797,59 +1881,67 @@ My response is simple, try to figure out what’s going on around us, and use th
 
 The truth is, much in investing is ruled by luck. Some may prefer to call it chance or randomness, and those words do sound more sophisticated than luck. But it comes down to the same thing, a great deal of the success of everything we do as investors will be heavily influenced by the role of the dice. To fully explore the notion of luck, in this chapter 1 want to advance some ideas expressed by Nasim Nicholas Taleb in his book Fooled by Randomness.
 
-Some of the concepts I explore here occurred to me before I read it, but Taleb’s book put it all together for me and added more. I consider it one of the most important books an investor can read. I borrowed some of Taleb’s ideas for a 2002 memo titled, Returns and How They Get That Way, which incorporated excerpts from Fooled by Randomness, represented here by italics. Randomness or luck, plays a huge part in life’s results and outcomes that hinge on random.
+Some of the concepts. I explore here occurred to me before. I read it, but Taleb’s book put it all together for me and added more. I consider it one of the most important books an investor can read.
+
+I borrowed some of Taleb’s ideas for a 2002 memo titled, Returns and. How They Get. That Way, which incorporated excerpts from Fooled by Randomness, represented here by italics. Randomness or luck, plays a huge part in life’s results and outcomes that hinge on random.
 
 Events should be viewed as different from those that do not. Thus, when considering whether an investment record is likely to be repeated, it is essential to think about the role of randomness in the manager’s results and whether the performance resulted from skill or simply being lucky. $10 million earned through Russian roulette does not have the same value as $10 million earned through the diligent and artful practice of dentistry. They are the same, can buy the same goods, except that one’s dependence on randomness is greater than the other.
 
-To your accountant, though, they would be identical. Yet, deep down, I cannot help but consider them as qualitatively different. Every record should be considered in light of the other outcomes, Taleb calls them alternative histories that could have occurred just as easily as the visible histories that did. Clearly my way of judging matters is, probabilistic in nature, it relies on the notion of what could have probably happened.
+To your accountant, though, they would be identical. Yet, deep down, I cannot help but consider them as qualitatively different. Every record should be considered in light of the other outcomes, Taleb calls them alternative histories that could have occurred just as easily as the visible histories that did. Clearly, my way of judging matters is, probabilistic in nature, it relies on the notion of what could have probably happened.
 
-If we have heard of history’s great generals and inventors, it is simply because they took considerable risks, along with thousands of others, and happened to win. They were intelligent, courageous, noble, at times, had the highest possible obtainable culture in their day, but so did thousands of others who live in the musty footnotes of history. Every once in a while, someone makes a risky bet on an improbable or uncertain outcome and ends up looking like a genius. But we should recognize that it happened because of luck and boldness, not skill.
+If we have heard of history’s great generals and inventors, it is simply because they took considerable risks, along with thousands of others, and happened to win. They were intelligent, courageous, noble, at times, had the highest possible obtainable culture in their day, but so did thousands of others who live in the musty footnotes of history. Every once in a while, someone makes a risky bet on an improbable or uncertain outcome and ends up looking like a genius.
 
-Think about the aggressive backgammon player who can’t win without a roll of double sixes, with its probability of happening once in every thirty, six rolls of the dice. The player accepts the cube, doubling the stakes, and then gets his boxcars. It might have been an unwise bet, but because it succeeded, everybody considers the player brilliant. We should think about how probable it was that something other than double sixes.
+But we should recognize that it happened because of luck and boldness, not skill. Think about the aggressive backgammon player who can’t win without a roll of double sixes, with its probability of happening once in every thirty, six rolls of the dice. The player accepts the cube, doubling the stakes, and then gets his boxcars. It might have been an unwise bet, but because it succeeded, everybody considers the player brilliant.
 
-We would materialize, and thus how lucky the player was to have won. This says a lot about the player’s likelihood of winning again. In the short run, a great deal of investment success can result from just being in the right place at the right time. I always say the keys to profit are aggressiveness, timing and skill, and someone who has enough aggressiveness at the right time doesn’t need much skill.
+We should think about how probable it was that something other than double sixes. We would materialize, and thus how lucky the player was to have won. This says a lot about the player’s likelihood of winning again. In the short run, a great deal of investment success can result from just being in the right place at the right time.
 
-At a given time in the markets, the most profitable traders are likely to be those that are best fit to the latest cycle. This doesn’t happen too often with dentists or pianists, because of the nature of randomness. The easy way to see this is that in boom times, the highest returns often go to those who take the most risk. That doesn’t say anything about there being the best investors.
+I always say the keys to profit are aggressiveness, timing and skill, and someone who has enough aggressiveness at the right time doesn’t need much skill. At a given time in the markets, the most profitable traders are likely to be those that are best fit to the latest cycle. This doesn’t happen too often with dentists or pianists, because of the nature of randomness. The easy way to see this is that in boom times, the highest returns often go to those who take the most risk.
 
-Warren Buffett’s appendix to the fourth revised edition of The Intelligent Investor describes a contest in which each of the 225 million Americans starts with one dollar and flips a coin once a day. The people who get it right on day one. Collect a dollar from those who were wrong and go on to flip again on day two, and so forth. Ten days later, 220,000 people have called it right ten times in a row and won $1,000.
+That doesn’t say anything about there being the best investors. Warren Buffett’s appendix to the fourth revised edition of The Intelligent Investor describes a contest in which each of the 225 million Americans starts with one dollar and flips a coin once a day. The people who get it right on day one. Collect a dollar from those who were wrong and go on to flip again on day two, and so forth.
+
+Ten days later, 220,000 people have called it right ten times in a row and won $1,000.
 
 
 <a id="sec-045736"></a>
 ### ⏱️ [04:57:36 - 05:02:36]
 
-They. They try to be modest, but at cocktail parties they will occasionally admit to attractive members of the opposite sex what their technique is, and what marvelous insights they bring to the field of flipping. After another ten days, we’re down to 215 survivors who’ve been right 20 times in a row and have each won $1,000,000. They write books titled Like How I Turned a Dollar into a Million in 20 Days Working 30 Seconds a Morning and Sell Tickets to Seminars.
+They. They try to be modest, but at cocktail parties they will occasionally admit to attractive members of the opposite sex what their technique is, and what marvelous insights they bring to the field of flipping. After another ten days, we’re down to 215 survivors who’ve been right 20 times in a row and have each won $1,000,000. They write books titled Like.
 
-Unfamiliar. Thus, randomness contributes to, or wrecks, investment records to a degree that few people appreciate fully. As a result, the dangers that lurk in thus far successful strategies often are underrated. Perhaps a good way to sum up Taleb’s views is by excerpting from a table in his book.
+How I Turned a Dollar into a Million in 20 Days Working 30 Seconds a Morning and Sell Tickets to Seminars. Unfamiliar. Thus, randomness contributes to, or wrecks, investment records to a degree that few people appreciate fully. As a result, the dangers that lurk in thus far successful strategies often are underrated.
 
-He lists in the first column a number of things that easily can be mistaken for the things in the second column. Luck skill randomness. Randomism probability certainty belief, conjecture knowledge, certitude theory reality. Anecdote, coincidence causality, law survivorship bias market outperformance lucky idiot skilled investor I think this dichotomization is sheer brilliance.
+Perhaps, a good way to sum up Taleb’s views is by excerpting from a table in his book. He lists in the first column a number of things that easily can be mistaken for the things in the second column. Luck skill randomness. Randomism probability certainty belief, conjecture knowledge, certitude theory reality.
 
-We all know that when things go right, luck looks like skill. Coincidence looks like causality. A lucky idiot looks like a skilled investor. Of course, knowing that randomness can have this effect doesn’t make it easy to distinguish between lucky investors and skillful investors.
+Anecdote, coincidence causality, law survivorship bias market outperformance lucky idiot skilled investor. I think this dichotomization is sheer brilliance. We all know that when things go right, luck looks like skill. Coincidence looks like causality.
 
-But we must keep trying. I find that I agree with essentially all of Taleb’s important points. Investors are right, and wrong, all the time for the wrong reason. Someone buys a stock because he or she expects a certain development, it doesn’t occur, the market takes the stock up anyway, the investor looks good, and invariably accepts credit.
+A lucky idiot looks like a skilled investor. Of course, knowing that randomness can have this effect doesn’t make it easy to distinguish between lucky investors and skillful investors. But we must keep trying. I find that.
 
-The correctness of a decision can’t be judged from the outcome. Nevertheless, that’s how people assess it. A good decision is one. That’s optimal at the time it’s made, when the future is by definition unknown.
+I agree with essentially all of Taleb’s important points. Investors are right, and wrong, all the time for the wrong reason. Someone buys a stock because he or she expects a certain development, it doesn’t occur, the market takes the stock up anyway, the investor looks good, and invariably accepts credit. The correctness of a decision can’t be judged from the outcome.
 
-Thus, correct. Decisions are often unsuccessful, and vice versa. Randomness alone can produce just about any outcome in the short run. In portfolios that are allowed to reflect them fully, market movements can easily swamp the skillfulness of the manager, or lack thereof.
+Nevertheless, that’s how people assess it. A good decision is one. That’s optimal at the time it’s made, when the future is by definition unknown. Thus, correct.
 
-But certainly market movements cannot be credited to the manager, unless he or she is the rare market timer who’s capable of getting it right repeatedly. For these reasons, investors often receive credit they don’t deserve. One good coup can be enough to build a reputation, but clearly a coup can arise out of randomness alone. Few of these, geniuses, are right more than once or twice in a row.
+Decisions are often unsuccessful, and vice versa. Randomness alone can produce just about any outcome in the short run. In portfolios that are allowed to reflect them fully, market movements can easily swamp the skillfulness of the manager, or lack thereof. But certainly market movements cannot be credited to the manager, unless he or she is the rare market timer who’s capable of getting it right repeatedly.
 
-Thus, it’s essential to have a large number of observations, lots of years of data, before judging a given manager’s ability. Returns and how they get that way, November 11, 2002, Taleb’s idea of alternative histories, the other things that reasonably could have. Happened, is a fascinating concept, and one that is particularly relevant to investing. Most.
+For these reasons, investors often receive credit they don’t deserve. One good coup can be enough to build a reputation, but clearly a coup can arise out of randomness alone. Few of these, geniuses, are right more than once or twice in a row. Thus, it’s essential to have a large number of observations, lots of years of data, before judging a given manager’s ability.
 
-People acknowledge the uncertainty that surrounds the future, but they feel that at least the past is known and fixed. After all, the past is history, absolute and unchanging. But Taleb points out that the things that happened are only a small subset of the things that could have happened. Thus, the fact that a stratagem or action worked, under the circumstances that unfolded, doesn’t necessarily prove the decision behind it was wise.
+Returns and how they get that way, November 11, 2002, Taleb’s idea of alternative histories, the other things that reasonably could have. Happened, is a fascinating concept, and one that is particularly relevant to investing. Most. People acknowledge the uncertainty that surrounds the future, but they feel that at least the past is known and fixed.
 
-Maybe what ultimately made the decision a success was a completely unlikely event, something that was just a matter of luck. In that case the decision, as successful as it turned out to be, may have been unwise, and the many other histories that could have happened would have shown the error of the decision. How much credit should a decision maker receive for having bet on a highly uncertain outcome that unfolded luckily? This is a good question, and it deserves to.
+After all, the past is history, absolute and unchanging. But Taleb points out that the things that happened are only a small subset of the things that could have happened. Thus, the fact that a stratagem or action worked, under the circumstances that unfolded, doesn’t necessarily prove the decision behind it was wise. Maybe what ultimately made the decision a success was a completely unlikely event, something that was just a matter of luck.
 
-Be looked at in depth. One of the first things I remember learning after entering Wharton Inn. 1963 was that the quality of a decision is not determined by the outcome. The events that transpire afterward make decisions successful or unsuccessful, and those events are often well beyond anticipating. This idea was powerfully reinforced when I read Tolop’s book.
+In that case the decision, as successful as it turned out to be, may have been unwise, and the many other histories that could have happened would have shown the error of the decision. How much credit should a decision maker receive for having bet on a highly uncertain outcome that unfolded luckily? This is a good question, and it deserves to. Be looked at in depth.
 
-He. Highlights the ability of chance occurrences to reward unwise decisions and penalize good ones.
+One of the first things. I remember learning after entering Wharton Inn. 1963 was that the quality of a decision is not determined by the outcome. The events that transpire afterward make decisions successful or unsuccessful, and those events are often well beyond anticipating. This idea was powerfully reinforced when.
+
+I read Tolop’s book. He. Highlights the ability of chance occurrences to reward unwise decisions and penalize good ones.
 
 
 <a id="sec-050236"></a>
 ### ⏱️ [05:02:36 - 05:07:39]
 
-What is a good decision? Let’s say someone decides to build a ski resort in Miami, and three months later a freak blizzard hits South Florida, dumping 12 feet of snow. In its first season, the ski area turns a hefty profit. Does that mean building it was a good decision? No. A good decision is one that a logical, intelligent and informed person would have made under the circumstances as they appeared at the time before the outcome was known.
+What is a good decision? Let’s say someone decides to build a ski resort in Miami, and three months later a freak blizzard hits South Florida, dumping 12 feet of snow. In its first season, the ski area turns a hefty profit. Does that mean building it was a good decision?
 
-By that standard, the Miami ski resort looks like folly. As with risk of loss, many things that will bear on the correctness of a decision cannot be known or quantified in advance. Even after the fact, it can be hard to be sure who made a good decision based on solid analysis but was penalized by a freak occurrence, and who benefited from taking a flyer. Thus, it can be hard to know who made the best decision.
+No. A good decision is one that a logical, intelligent and informed person would have made under the circumstances as they appeared at the time before the outcome was known. By that standard, the Miami ski resort looks like folly. As with risk of loss, many things that will bear on the correctness of a decision cannot be known or quantified in advance.
+
+Even after the fact, it can be hard to be sure who made a good decision based on solid analysis but was penalized by a freak occurrence, and who benefited from taking a flyer. Thus, it can be hard to know who made the best decision.
 
 On the other hand, past returns. Are easily assessed, making it easy to know who made the most profitable decision. It’s easy to confuse the two, but insightful investors must be highly conscious of the difference. In the long run, there’s no reasonable alternative to believing that good decisions will lead to investment profits.
 
@@ -1863,37 +1955,41 @@ Short-term gains and short-term losses are potential. Impostors, as neither is n
 
 Yet people are surprised when that great year is followed by a terrible year. Impostors invariably lose track of the fact that both short-term gains and short-term losses can be impostors, and of the importance of digging deep to understand what underlies them. Investment performance is what happens to a portfolio when events unfold. People pay great heed to the resulting performance, but the questions they should ask are, were the events that unfolded, and the other possibilities that didn’t unfold, truly within the can of the portfolio manager.
 
-And what would the performance have been if other events had occurred instead? Those other events are Taleb’s alternative histories. Pigweed, December 7, 2006 I find Taleb’s ideas novel and provocative. Once you realize the vast extent to which randomness can affect investment outcomes, you look at everything in a very different light.
+And what would the performance have been if other events had occurred instead? Those other events are Taleb’s alternative histories. Pigweed, December 7, 2006. I find Taleb’s ideas novel and provocative.
 
-The actions of the, I know, school are based on a view of a single future that is knowable and conquerable. My, I don’t know, school thinks of future events in terms of a probability distribution. That’s a big difference. In the latter case, we may have an idea which one.
+Once you realize the vast extent to which randomness can affect investment outcomes, you look at everything in a very different light. The actions of the, I know, school are based on a view of a single future that is knowable and conquerable. My, I don’t know, school thinks of future events in terms of a probability distribution. That’s a big difference.
 
-Outcome is most likely to occur, but we also know there are many other possibilities, and those other outcomes may have a collective likelihood much higher than the one we consider most likely. Clearly, Taleb’s view of an uncertain world is much more consistent with mine.
+In the latter case, we may have an idea which one. Outcome is most likely to occur, but we also know there are many other possibilities, and those other outcomes may have a collective likelihood much higher than the one we consider most likely. Clearly, Taleb’s view of an uncertain world is much more consistent with mine.
 
 
 <a id="sec-050739"></a>
 ### ⏱️ [05:07:39 - 05:12:41]
 
-Everything I believe and recommend about investing proceeds from that school of thought. We should spend our time trying to find value among the knowable, industries, companies, and securities, rather than base our decisions on what we expect from the less knowable macro world of economies and broad market performance. Given that we don’t know exactly which future we’ll obtain, we have to get value on our side by having a strongly held, analytically-derived opinion of it and buying for less when opportunities to do so present themselves.
+Everything. I believe and recommend about investing proceeds from that school of thought. We should spend our time trying to find value among the knowable, industries, companies, and securities, rather than base our decisions on what we expect from the less knowable macro world of economies and broad market performance. Given that we don’t know exactly which future we’ll obtain, we have to get value on our side by having a strongly held, analytically-derived opinion of it and buying for less when opportunities to do so present themselves.
 
 We have to practice defensive investing, since many of the outcomes are likely to go against us. It’s more important to ensure survival under negative outcomes than it is to guarantee maximum returns under favorable ones, to improve our chances of success. We have to emphasize acting contrary to the herd when it’s at extremes, being aggressive when the market is low and cautious when it’s high. Given the highly indeterminate nature of outcomes, we must view strategies and their results, both good and bad, with suspicion until proved out over a large number of trials.
 
 Several things go together for those who view the world as an uncertain place, healthy respect for risk, awareness that we don’t know what the future holds, and understanding that the best we can do is view the future as a probability distribution and invest accordingly, insistence on defensive investing, and emphasis on avoiding pitfalls. To me that’s what thoughtful investing is all about.
 
-#### Chapter 17 The Most Important Thing Is Investing Defensively There are old investors, and there are bold investors, but there are no old bold investors.
+#### Chapter 17 The Most Important Thing Is Investing Defensively. There are old investors, and there are bold investors, but there are no old bold investors.
 
-When friends ask me for personal investment advice, my first step is to try to understand their attitude toward risk and return. Asking for investment advice without specifying that is like asking a doctor for a good medicine without telling him or her what ails you. So I ask, which do you care about more, making money or avoiding losses? The answer is invariably the same, both.
+When friends ask me for personal investment advice, my first step is to try to understand their attitude toward risk and return. Asking for investment advice without specifying that is like asking a doctor for a good medicine without telling him or her what ails you. So. I ask, which do you care about more, making money or avoiding losses?
 
-The problem is that you can’t simultaneously go all out for both profit making and loss avoidance. Each investor has to take a position regarding these two goals, and usually that requires striking a reasonable balance. The decision should be made consciously and rationally. This chapter’s about the choice and my recommendation.
+The answer is invariably the same, both. The problem is that you can’t simultaneously go all out for both profit making and loss avoidance. Each investor has to take a position regarding these two goals, and usually that requires striking a reasonable balance. The decision should be made consciously and rationally.
 
-The best way to put this decision into perspective is by thinking of it in terms of offense versus defense. And one of the best ways to consider this is through the metaphor of sports. 2. Establish the groundwork for this discussion, I’ll refer to the wonderful article by Charles Ellis. Titled, The Loser’s Game, that appeared in the Financial Analysts Journal in 1975.
+This chapter’s about the choice and my recommendation. The best way to put this decision into perspective is by thinking of it in terms of offense versus defense. And one of the best ways to consider this is through the metaphor of sports. 2. Establish the groundwork for this discussion, I’ll refer to the wonderful article by Charles Ellis.
 
-This may have been my first exposure to a direct analogy between investing and sports, and it was absolutely seminal regarding my emphasis on defensive investing. Ellis’s article described the perceptive analysis of tennis contained an extraordinary tennis for the ordinary tennis player by Dr. Simon Raimo, the R in TRW, once a conglomerate with products ranging from auto parts to credit reporting services. Raimo pointed out that professional tennis is a, winner’s game, in which the match goes to the player who’s able to hit the most winners, fast, paced, well, placed shots that an opponent can’t return.
+Titled, The Loser’s Game, that appeared in the Financial Analysts Journal in 1975. This may have been my first exposure to a direct analogy between investing and sports, and it was absolutely seminal regarding my emphasis on defensive investing. Ellis’s article described the perceptive analysis of tennis contained an extraordinary tennis for the ordinary tennis player by Dr. Simon Raimo, the R in TRW, once a conglomerate with products ranging from auto parts to credit reporting services.
 
-Given anything other than an outright winner by an opponent, professional tennis players can make the shot they want almost all the time, hard or soft, deep or short, left or right, FL at or with spin. Professional players aren’t troubled by the things that make the game challenging for. Amateurs, bad bounces, wind, sun in the eyes, limitations on speed, stamina and skill, or an opponent’s efforts to put the ball beyond reach. The pros can get to most shots their opponents hit and do what they want with the ball almost all the time.
+Raimo pointed out that professional tennis is a, winner’s game, in which the match goes to the player who’s able to hit the most winners, fast, paced, well, placed shots that an opponent can’t return. Given anything other than an outright winner by an opponent, professional tennis players can make the shot they want almost all the time, hard or soft, deep or short, left or right, FL at or with spin. Professional players aren’t troubled by the things that make the game challenging for.
+
+Amateurs, bad bounces, wind, sun in the eyes, limitations on speed, stamina and skill, or an opponent’s efforts to put the ball beyond reach. The pros can get to most shots their opponents hit and do what they want with the ball almost all the time.
 
 In fact, pros can do this so consistently that tennis statisticians keep track of the relatively rare exceptions under the heading unforced errors. But the tennis the rest of us play is a, loser’s game, with the match going to the player who hits the fewest losers. The winner just keeps the ball in play until the loser hits it into the net or off the court.
 
-In other words, in amateur tennis, points aren’t won, they’re lost. I recognized in Ramos' loss avoidance strategy the version of tennis I try to play. Charlie Ellis took Ramos' idea a step further, applying it to investments. His views on market efficiency and the high cost of trading led him to conclude that the pursuit of.
+In other words, in amateur tennis, points aren’t won, they’re lost. I recognized in Ramos' loss avoidance strategy the version of tennis. I try to play. Charlie Ellis took Ramos' idea a step further, applying it to investments.
+
+His views on market efficiency and the high cost of trading led him to conclude that the pursuit of.
 
 
 <a id="sec-051241"></a>
@@ -1907,25 +2003,27 @@ The workings of economies and markets are highly imprecise and variable, and the
 
 Much is within the control of professional tennis players that they really should go for winners. And they’d better, since if they serve up easy balls, their opponents will hit winners of their own and take points.
 
-In contrast, investment results are only partly within the investor’s control, and investors can make good money, and outlast their opponents, without trying tough shots. The bottom line is that even highly skilled investors can be guilty of mis-hits, and the over-aggressive shot can easily lose them the match. Thus, defense, significant emphasis on keeping things from going wrong, is an important part of every great investor’s game. There are a lot of things I like about investing, and most of them are true of sports as well.
+In contrast, investment results are only partly within the investor’s control, and investors can make good money, and outlast their opponents, without trying tough shots. The bottom line is that even highly skilled investors can be guilty of mis-hits, and the over-aggressive shot can easily lose them the match. Thus, defense, significant emphasis on keeping things from going wrong, is an important part of every great investor’s game. There are a lot of things.
 
-It’s competitive, some succeed and some fail, and the distinction is clear. It’s quantitative, you can see the results in black and white. It’s a meritocracy, in. The long term, the better returns go to the superior investors.
+I like about investing, and most of them are true of sports as well. It’s competitive, some succeed and some fail, and the distinction is clear. It’s quantitative, you can see the results in black and white. It’s a meritocracy, in.
 
-It’s team-oriented, and effective group can accomplish more than one person. It’s satisfying and enjoyable, but much more so when you win. These positives can make investing a very rewarding activity in which to engage. But as in sports, there are also negatives.
+The long term, the better returns go to the superior investors. It’s team-oriented, and effective group can accomplish more than one person. It’s satisfying and enjoyable, but much more so when you win. These positives can make investing a very rewarding activity in which to engage.
 
-There can be a premium on aggressiveness, which doesn’t serve well in the long run. Unlucky bounces can be frustrating. Short-term success can lead to widespread recognition without enough attention being paid to the likely durability and consistency of the record. Overall, I think investing in sports are quite similar, and so are the decisions they call four.
+But as in sports, there are also negatives. There can be a premium on aggressiveness, which doesn’t serve well in the long run. Unlucky bounces can be frustrating. Short-term success can lead to widespread recognition without enough attention being paid to the likely durability and consistency of the record.
 
-Think about an American football game. The offense has the ball. They have four tries to make 10 yards. If they don’t, the referee blows the whistle.
+Overall, I think investing in sports are quite similar, and so are the decisions they call four. Think about an American football game. The offense has the ball. They have four tries to make 10 yards.
 
-The clock stops. Off the field goes the offense, and on comes the defense, whose job it is to stop the other team from advancing the ball. Is football a good metaphor for your view of investing? Well, I’ll tell you, it isn’t for mine.
+If they don’t, the referee blows the whistle. The clock stops. Off the field goes the offense, and on comes the defense, whose job it is to stop the other team from advancing the ball. Is football a good metaphor for your view of investing?
 
-In. Investing there’s no one there to blow the whistle. You rarely know when to switch from offense to defense, and there aren’t any time outs during which to do it. No, I think investing is more like the football that’s played outside the United States, soccer.
+Well, I’ll tell you, it isn’t for mine. In. Investing there’s no one there to blow the whistle. You rarely know when to switch from offense to defense, and there aren’t any time outs during which to do it.
 
-In soccer, the same 11 players are on the field for essentially the whole game. There isn’t an offensive. Squad and a defensive squad. The same people have to play both ways, have to be able to deal with all eventualities.
+No, I think investing is more like the football that’s played outside the United States, soccer. In soccer, the same 11 players are on the field for essentially the whole game. There isn’t an offensive. Squad and a defensive squad.
 
-Collectively, those 11 players must have the potential to score goals and stop the opposition from scoring more. A soccer coach has to decide whether to field a team that emphasizes offense in order to score a lot of goals and somehow hold the other team to fewer or defense, hoping to shut out the other team and find the net once or one that’s evenly balanced. Because coaches know they won’t have many opportunities to switch between offensive and defensive personnel during the game, they have to come up with a winning lineup and pretty much stick with it.
+The same people have to play both ways, have to be able to deal with all eventualities. Collectively, those 11 players must have the potential to score goals and stop the opposition from scoring more. A soccer coach has to decide whether to field a team that emphasizes offense in order to score a lot of goals and somehow hold the other team to fewer or defense, hoping to shut out the other team and find the net once or one that’s evenly balanced.
 
-That’s my view of investing. Few people, if any, have the ability to switch tactics to match market conditions on a timely basis. So investors should commit to an approach, hopefully one that will serve them through a variety of scenarios. They can be aggressive, hoping they’ll make a lot on.
+Because coaches know they won’t have many opportunities to switch between offensive and defensive personnel during the game, they have to come up with a winning lineup and pretty much stick with it. That’s my view of investing. Few people, if any, have the ability to switch tactics to match market conditions on a timely basis. So investors should commit to an approach, hopefully one that will serve them through a variety of scenarios.
+
+They can be aggressive, hoping they’ll make a lot on.
 
 
 <a id="sec-051741"></a>
@@ -1933,59 +2031,59 @@ That’s my view of investing. Few people, if any, have the ability to switch ta
 
 The winners and not give it back on the losers. They can emphasize defense, hoping to keep. Up in good times and excel by losing less than others in bad times. Or they can balance offense and defense, largely giving up on tactical timing but aiming to win through superior security selection in both up and down markets.
 
-Oaktree’s preference for defense is clear. In good times, we feel it’s okay if we just keep up with the indices and in the best of times we may even lag a bit. But even average investors make a lot of money in good times and I doubt many managers get fired for being average in up markets. Oaktree portfolios are set up to outperform in bad times and that’s when we think outperformance is essential.
+Oaktree’s preference for defense is clear. In good times, we feel it’s okay if we just keep up with the indices and in the best of times we may even lag a bit. But even average investors make a lot of money in good times and. I doubt many managers get fired for being average in up markets.
 
-Clearly, if we can keep up in good times and outperform in bad times, we’ll have above average results over full cycles with below average volatility and our clients will enjoy outperformance when others are suffering. What’s your game plan? September 5th, 2003, what’s more important to you? Scoring points for keeping your opponent from doing so.
+Oaktree portfolios are set up to outperform in bad times and that’s when we think outperformance is essential. Clearly, if we can keep up in good times and outperform in bad times, we’ll have above average results over full cycles with below average volatility and our clients will enjoy outperformance when others are suffering. What’s your game plan? September 5th, 2003, what’s more important to you?
 
-In, investing, will you go for winners or try to avoid losers? Or perhaps more appropriately, how? Will you balance the two? Great danger lies in acting without having considered these questions.
+Scoring points for keeping your opponent from doing so. In, investing, will you go for winners or try to avoid losers? Or perhaps more appropriately, how? Will you balance the two?
 
-And by the way, there’s no right choice between offense and defense. Lots of possible routes can bring you to success and your decision should be a function of your personality and leanings, the extent of your belief in your ability and the peculiarities of the markets you work in and the clients you work for. What is offense in investing and what is defense? Offense is easy to define.
+Great danger lies in acting without having considered these questions. And by the way, there’s no right choice between offense and defense. Lots of possible routes can bring you to success and your decision should be a function of your personality and leanings, the extent of your belief in your ability and the peculiarities of the markets you work in and the clients you work for. What is offense in investing and what is defense?
 
-It’s the adoption of aggressive tactics and elevated risk in the pursuit of above average gains. But what’s defense? Rather than doing the right thing, the defensive investor’s main emphasis is on not doing the wrong thing. Is there a difference between doing the right thing and avoiding doing the wrong thing?
+Offense is easy to define. It’s the adoption of aggressive tactics and elevated risk in the pursuit of above average gains. But what’s defense? Rather than doing the right thing, the defensive investor’s main emphasis is on not doing the wrong thing.
 
-On the surface, they sound quite alike. But when you look deeper, there’s a big difference between the mind. Set needed for one and the mind, set needed for the other and a big difference in the tactics. To which the two lead.
+Is there a difference between doing the right thing and avoiding doing the wrong thing? On the surface, they sound quite alike. But when you look deeper, there’s a big difference between the mind. Set needed for one and the mind, set needed for the other and a big difference in the tactics.
 
-While defense may sound like little more than trying to avoid bad outcomes, it’s not as negative or non-aspirational as that. Defense actually can be seen as an attempt at higher returns, but more through the avoidance of minuses than through the inclusion of pluses and more through consistent, but perhaps moderate progress than through occasional flashes of brilliance. There are two principal elements in investment defense. The first is the exclusion of losers from portfolios.
+To which the two lead. While defense may sound like little more than trying to avoid bad outcomes, it’s not as negative or non-aspirational as that. Defense actually can be seen as an attempt at higher returns, but more through the avoidance of minuses than through the inclusion of pluses and more through consistent, but perhaps moderate progress than through occasional flashes of brilliance. There are two principal elements in investment defense.
 
-This is best accomplished by conducting extensive due diligence, applying high standards, demanding a low price and generous margin for error, see later in this chapter and being less willing to bet on continued prosperity, rosy forecasts and developments that may be uncertain. The second element is the avoidance of poor years and especially exposure to meltdown in crashes. In addition to the ingredients described previously that help keep individual losing investments. From the portfolio, this aspect of investment defense requires thoughtful portfolio.
+The first is the exclusion of losers from portfolios. This is best accomplished by conducting extensive due diligence, applying high standards, demanding a low price and generous margin for error, see later in this chapter and being less willing to bet on continued prosperity, rosy forecasts and developments that may be uncertain. The second element is the avoidance of poor years and especially exposure to meltdown in crashes. In addition to the ingredients described previously that help keep individual losing investments.
 
-Diversification limits on the overall riskiness born and a general tilt towards safety. Concentration, the opposite of diversification and leverage are two examples of offense. They’ll add to returns when they work, but prove harmful when they don’t, again, the potential for higher highs and lower lows from aggressive tactics. Use enough of them, however, and they can jeopardize your investment survival if things go awry.
+From the portfolio, this aspect of investment defense requires thoughtful portfolio. Diversification limits on the overall riskiness born and a general tilt towards safety. Concentration, the opposite of diversification and leverage are two examples of offense. They’ll add to returns when they work, but prove harmful when they don’t, again, the potential for higher highs and lower lows from aggressive tactics.
 
-Defense, on the other hand, can increase your likelihood of being able to get through the tough times and survive long enough to enjoy the eventual payoff from smart investments. Investors must brace for untoward developments. There are lots of forms of financial activity that reasonably can be expected to work on average, but they might give you one bad day on which you melt down because of a precarious structure or excess leverage. But is it really that simple?
+Use enough of them, however, and they can jeopardize your investment survival if things go awry. Defense, on the other hand, can increase your likelihood of being able to get through the tough times and survive long enough to enjoy the eventual payoff from smart investments. Investors must brace for untoward developments. There are lots of forms of financial activity that reasonably can be expected to work on average, but they might give you one bad day on which you melt down because of a precarious structure or excess leverage.
 
-It’s easy to say you should prepare for bad days, but how bad? What’s the worst case and must you be equipped to meet it every day? Like everything else in investing, this isn’t a matter of black and white. The amount of risk you’ll bear is a function of the extent to which you choose to pursue return.
+But is it really that simple? It’s easy to say you should prepare for bad days, but how bad? What’s the worst case and must you be equipped to meet it every day? Like everything else in investing, this isn’t a matter of black and white.
 
-The amount of safety you build into your portfolio
+The amount of risk you’ll bear is a function of the extent to which you choose to pursue return. The amount of safety you build into your portfolio
 
 
 <a id="sec-052243"></a>
 ### ⏱️ [05:22:43 - 05:27:43]
 
-should be based on how much potential return you’re willing to forego. There’s no right answer, just trade off S. That’s why I added this concluding thought in December 2007, because ensuring the ability to survive under adverse circumstances is incompatible with maximizing returns in the good times, investors must choose between the two. The aviary, May 16th, 2008, the critical element in defensive investing is what Warren Buffett calls margin of safety or margin for error.
+should be based on how much potential return you’re willing to forego. There’s no right answer, just trade off S. That’s why. I added this concluding thought in December 2007, because ensuring the ability to survive under adverse circumstances is incompatible with maximizing returns in the good times, investors must choose between the two.
 
-He seems to go back and forth between the two without making a distinction. This subject deserves considerable discussion. It’s not hard to make investments that will be successful if the future unfolds as expected. There’s little mystery in how to profit under the assumption that the economy will go a certain way and particular industries and companies will do better than others.
+The aviary, May 16th, 2008, the critical element in defensive investing is what Warren Buffett calls margin of safety or margin for error. He seems to go back and forth between the two without making a distinction. This subject deserves considerable discussion. It’s not hard to make investments that will be successful if the future unfolds as expected.
 
-Tightly targeted investments can be highly successful if the future turns out as you hope. But you might want to give some thought to how you’ll fair if the future doesn’t oblige. In short, what is it that makes outcomes tolerable even when the future doesn’t live up to your expectations? The answer is margin for error.
+There’s little mystery in how to profit under the assumption that the economy will go a certain way and particular industries and companies will do better than others. Tightly targeted investments can be highly successful if the future turns out as you hope. But you might want to give some thought to how you’ll fair if the future doesn’t oblige. In short, what is it that makes outcomes tolerable even when the future doesn’t live up to your expectations?
 
-Think about what happens when a lender makes a loan. It’s not hard to make loans that will be repaid if conditions remain as they are. Example, if there’s no recession the borrower holds on to his or her job. But what will enable that loan to be repaid even if conditions deteriorate?
+The answer is margin for error. Think about what happens when a lender makes a loan. It’s not hard to make loans that will be repaid if conditions remain as they are. Example, if there’s no recession the borrower holds on to his or her job.
 
-Once again, margin for error. If the borrower becomes jobless, the probability of the loan being repaid is greater if there are savings, saleable assets, or alternative sources of income to fall back on. These things provide the lender’s margin for error. The contrast is simple.
+But what will enable that loan to be repaid even if conditions deteriorate? Once again, margin for error. If the borrower becomes jobless, the probability of the loan being repaid is greater if there are savings, saleable assets, or alternative sources of income to fall back on. These things provide the lender’s margin for error.
 
-The lender who insists on margin for error and lends only to strong borrowers will experience few. Credit losses. But this lender’s high standards will cause him or her to forego lending opportunities, which will go to lenders who are less insistent on creditworthiness. The aggressive lender will look smarter than the prudent lender and make more money as long as the environment remains salutary.
+The contrast is simple. The lender who insists on margin for error and lends only to strong borrowers will experience few. Credit losses. But this lender’s high standards will cause him or her to forego lending opportunities, which will go to lenders who are less insistent on creditworthiness.
 
-The prudent lender’s reward comes only in bad times in the form of reduced credit losses. The lender who insists on margin for error won’t enjoy the highest highs, but will also avoid the lowest lows. That’s what happens to those who emphasize defense. Here’s another way to illustrate margin for error.
+The aggressive lender will look smarter than the prudent lender and make more money as long as the environment remains salutary. The prudent lender’s reward comes only in bad times in the form of reduced credit losses. The lender who insists on margin for error won’t enjoy the highest highs, but will also avoid the lowest lows. That’s what happens to those who emphasize defense.
 
-You find something you think will be worth $100. If you buy it for $90, you have a good chance of gain, as well as a moderate chance of loss in case your assumptions turn out to be too optimistic. But if you buy it for $70 instead of $90, your chance of loss is less. That $20 reduction provides.
+Here’s another way to illustrate margin for error. You find something you think will be worth $100. If you buy it for $90, you have a good chance of gain, as well as a moderate chance of loss in case your assumptions turn out to be too optimistic. But if you buy it for $70 instead of $90, your chance of loss is less.
 
-Additional room to be wrong and still come out OK. Low price is the ultimate source of margin for error. So the choice is simple. Try to maximize returns through aggressive tactics or build in protection through margin for error.
+That $20 reduction provides. Additional room to be wrong and still come out OK. Low price is the ultimate source of margin for error. So the choice is simple.
 
-You can’t have both in full measure. Will it be a fence, defense, or a mix of the two, and, if so, in what proportions? Of the two ways to perform as an investor, racking up exceptional gains and avoiding losses, I believe the latter is the more dependable. Achieving gains usually has something to do with being right about events that are on the come, whereas losses can be minimized by ascertaining that tangible value is present.
+Try to maximize returns through aggressive tactics or build in protection through margin for error. You can’t have both in full measure. Will it be a fence, defense, or a mix of the two, and, if so, in what proportions? Of the two ways to perform as an investor, racking up exceptional gains and avoiding losses, I believe the latter is the more dependable.
 
-The herd’s expectations are moderate and prices are low. My experience tells me the latter can be done with greater consistency. A conscious balance must be struck between striving for return and limiting risk, between offense and defense. In fixed income, where I got my start as a portfolio manager, returns are limited and the manager’s greatest contribution comes through the avoidance of loss.
+Achieving gains usually has something to do with being right about events that are on the come, whereas losses can be minimized by ascertaining that tangible value is present. The herd’s expectations are moderate and prices are low. My experience tells me the latter can be done with greater consistency. A conscious balance must be struck between striving for return and limiting risk, between offense and defense.
 
-Because the upside is truly fixed, the only variability is on the downside, and avoiding it holds the key. Thus, distinguishing yourself as a bond investor isn’t a matter of which paying bonds you hold, but largely of whether you’re able to exclude bonds that don’t pay, according to Graham and Dodd. This emphasis on exclusion makes fixed income investing a negative art. On the other, hand inequities and other more upside-oriented areas, avoiding losses isn’t enough, potential for return must be present as well.
+In fixed income, where. I got my start as a portfolio manager, returns are limited and the manager’s greatest contribution comes through the avoidance of loss. Because the upside is truly fixed, the only variability is on the downside, and avoiding it holds the key. Thus, distinguishing yourself as a bond investor isn’t a matter of which paying bonds you hold, but largely of whether you’re able to exclude bonds that don’t pay, according to Graham and Dodd.
 
-While the fixed income investor
+This emphasis on exclusion makes fixed income investing a negative art. On the other, hand inequities and other more upside-oriented areas, avoiding losses isn’t enough, potential for return must be present as well. While the fixed income investor
 
 
 <a id="sec-052743"></a>
@@ -1993,17 +2091,19 @@ While the fixed income investor
 
 can pretty much practice defense exclusively, the investor who moves beyond fixed income, typically in search of higher return, has to balance offense and defense. The key is that word balance. The fact that investors need offense in addition to defense doesn’t mean they should be indifferent to the mix between the two. If investors want to strive for more return, they generally have to take on more uncertainty, more risk.
 
-If investors aspire to higher returns than can be achieved in bonds, they can’t expect to get there through loss avoidance alone. Some offense is needed, and with offense comes increased uncertainty. A decision to go that way should be made consciously and intelligently. Perhaps more than any other one thing, Oaktree’s activities are based on defense.
+If investors aspire to higher returns than can be achieved in bonds, they can’t expect to get there through loss avoidance alone. Some offense is needed, and with offense comes increased uncertainty. A decision to go that way should be made consciously and intelligently. Perhaps, more than any other one thing, Oaktree’s activities are based on defense.
 
 But not to the exclusion of offense. Not. Everything we engage in is a negative art. You can’t invest successfully in convertibles.
 
-Distress debt or real estate if you’re not willing to think about both upside and downside. Investing is a testosterone-laden world where too many people think about how good they are and how much they’ll make if they swing for the fences and connect. Ask some investors of the, I know, school to tell you what makes them good, and you’ll hear a lot about home runs they’ve hit in the past and the home runs in making that reside in their current portfolio. How many talk about consistency or the fact that their worst year wasn’t too bad?
+Distress debt or real estate if you’re not willing to think about both upside and downside. Investing is a testosterone-laden world where too many people think about how good they are and how much they’ll make if they swing for the fences and connect. Ask some investors of the, I know, school to tell you what makes them good, and you’ll hear a lot about home runs they’ve hit in the past and the home runs in making that reside in their current portfolio.
 
-One of the most striking things I’ve noted over the last 30, five years is how brief most outstanding investment careers are. Not as short as the careers of professional athletes, but shorter than they should be in a physically non-destructive vocation. Where are the leading competitors from the days when I first managed high-yield bonds 20, five, or 30 years ago? Almost none of them are around anymore.
+How many talk about consistency or the fact that their worst year wasn’t too bad? One of the most striking things. I’ve noted over the last 30, five years is how brief most outstanding investment careers are. Not as short as the careers of professional athletes, but shorter than they should be in a physically non-destructive vocation.
 
-And, astoundingly, not one of our prominent. Distressed debt competitors from the early days 15 or 20 years ago remains a leader today. Where’d they go? Many disappeared because organizational flaws rendered their game plans unsustainable.
+Where are the leading competitors from the days when. I first managed high-yield bonds 20, five, or 30 years ago? Almost none of them are around anymore. And, astoundingly, not one of our prominent.
 
-And the rest are gone because they swung for the fences but struck out instead. That brings up something that I consider a great paradox, I don’t think many investment managers' careers end because they fail to hit home runs. Rather, they end up out of the game because they strike out too often, not because they don’t have enough winners, but because they have too many losers. And yet, lots of managers keep swinging for the fences.
+Distressed debt competitors from the early days 15 or 20 years ago remains a leader today. Where’d they go? Many disappeared because organizational flaws rendered their game plans unsustainable. And the rest are gone because they swung for the fences but struck out instead.
+
+That brings up something that. I consider a great paradox, I don’t think many investment managers' careers end because they fail to hit home runs. Rather, they end up out of the game because they strike out too often, not because they don’t have enough winners, but because they have too many losers. And yet, lots of managers keep swinging for the fences.
 
 They bet too much when they think they have a winning idea or a correct view of the future, concentrating their portfolios rather than diversifying. They incur excessive transaction costs by changing their holdings too often or attempting to time the market. And they position their portfolios for favorable scenarios and hoped-for outcomes. Rather than ensuring that they’ll be able to survive the inevitable miscalculation or stroke of.
 
@@ -2029,9 +2129,9 @@ But those slip-ups will kill you. The bottom line on striving for superior perfo
 
 Venture. How much emphasis should be put on diversifying, avoiding loss and ensuring against below, packed performance, and how much on sacrificing these things in the hope of doing better. I learned a lot from my favorite fortune cookie, the cautious seldom air or write great poetry. It cuts two ways, which makes it thought-provoking.
 
-Caution can help us avoid mistakes, but it can also keep us from great accomplishments. Personally, I like caution in money managers. I believe that in many cases, the avoidance of losses and terrible years is more easily achieved than repeated greatness, and thus risk control is more likely to create a solid foundation for a superior long-term track record. Investing scared, requiring good value and a substantial margin for error, and being conscious of what you don’t know and can’t control are hallmarks of the best investors I know.
+Caution can help us avoid mistakes, but it can also keep us from great accomplishments. Personally, I like caution in money managers. I believe that in many cases, the avoidance of losses and terrible years is more easily achieved than repeated greatness, and thus risk control is more likely to create a solid foundation for a superior long-term track record. Investing scared, requiring good value and a substantial margin for error, and being conscious of what you don’t know and can’t control are hallmarks of the best investors.
 
-Dare to be great, September 7. 2006 the choice between offense and defense, like so many in this book, defies an easy. Answer.
+I know. Dare to be great, September 7. 2006 the choice between offense and defense, like so many in this book, defies an easy. Answer.
 
 For example, consider this conundrum, many people seem unwilling to do enough of anything, example, buy a stock, commit to an asset class or invest with a manager, such that it could significantly harm their results if it doesn’t work. But in order for something to be able to materially help your return if it succeeds, you have to do enough so that it could materially hurt you if it fails. In investing, almost everything is a two-edged sword. That goes for opting to take bigger risks, substituting concentration for diversification and using leverage to magnify gains.
 
@@ -2039,17 +2139,17 @@ The only exception is genuine personal skill. As for all the rest, if it’ll he
 
 For the thoughtful investor, however, the answer is that. Defense can provide good returns achieved consistently, while offense may consist of. Dreams that often go unmet. For me, defense is the way to go.
 
-Investing defensively can cause you to miss out on things that are hot and get hotter, and it can leave you with your bat on your shoulder in trip after trip to the plate. You may hit fewer home runs than another. Investor but you’re also likely to have fewer strikeouts and fewer inning ending double plays. Defensive investing sounds very erudite, but I can simplify it, invest scared.
+Investing defensively can cause you to miss out on things that are hot and get hotter, and it can leave you with your bat on your shoulder in trip after trip to the plate. You may hit fewer home runs than another. Investor but you’re also likely to have fewer strikeouts and fewer inning ending double plays. Defensive investing sounds very erudite, but.
 
-Worry about the possibility of loss. Worry that there’s something you don’t know. Worry that you can make high-quality decisions but still be hit by bad luck or surprise events. Investing scared will prevent hubris, will keep your guard up and your mental adrenaline flowing, will make you insist on adequate margin of safety, and will increase the chances that your portfolio is prepared for things going wrong.
+I can simplify it, invest scared. Worry about the possibility of loss. Worry that there’s something you don’t know. Worry that you can make high-quality decisions but still be hit by bad luck or surprise events.
 
-And if nothing does go wrong, surely the winners will take care of themselves. The most important thing, July 1, 2003.
+Investing scared will prevent hubris, will keep your guard up and your mental adrenaline flowing, will make you insist on adequate margin of safety, and will increase the chances that your portfolio is prepared for things going wrong. And if nothing does go wrong, surely the winners will take care of themselves. The most important thing, July 1, 2003.
 
-#### Chapter 18 the most important thing is avoiding pitfalls. An investor needs do very few things right as long as he avoids big mistakes, Warren Buffett. In my book, trying to avoid losses is more important than striving for great investment successes.
+#### Chapter 18 the most important thing is avoiding pitfalls. An investor needs do very few things right as long as he avoids big mistakes, Warren Buffett.
 
-The latter can be achieved some of the time, but the occasional failures may be crippling. The former can be done more often and more dependably and with consequences when it fails that are more tolerable. With a risky portfolio, a downward fluctuation may make you lose faith or be sold out at the low. A portfolio that contains too little risk can make you underperform in a bull market, but no one ever went bust from that, there are far worse fates.
+In my book, trying to avoid losses is more important than striving for great investment successes. The latter can be achieved some of the time, but the occasional failures may be crippling. The former can be done more often and more dependably and with consequences when it fails that are more tolerable. With a risky portfolio, a downward fluctuation may make you lose faith or be sold out at the low.
 
-To avoid losses, we need to understand and avoid the pitfalls that create them. In this chapter 1 bring together some of the key issues discussed in earlier chapters in the hope that highlighting them under one umbrella will help investors become
+A portfolio that contains too little risk can make you underperform in a bull market, but no one ever went bust from that, there are far worse fates. To avoid losses, we need to understand and avoid the pitfalls that create them. In this chapter 1 bring together some of the key issues discussed in earlier chapters in the hope that highlighting them under one umbrella will help investors become
 
 
 <a id="sec-053749"></a>
@@ -2057,27 +2157,31 @@ To avoid losses, we need to understand and avoid the pitfalls that create them. 
 
 more alert for trouble spots. The starting point consists of realizing that many kinds of pitfalls exist and learning what they look like. I think of the sources of error as being primarily. Analytical intellectual or psychological emotional.
 
-The former are straightforward, we collect too little information or incorrect information. Or perhaps we apply the wrong analytical processes, make errors in our computations or omit ones we should have performed. There are far too many errors of this sort for me to enumerate, and anyway, this book is more about philosophy and mind set than it is about analytical processes. One type of analytical error that I do want to spend some time on, however, is what I call failure of imagination.
+The former are straightforward, we collect too little information or incorrect information. Or perhaps we apply the wrong analytical processes, make errors in our computations or omit ones we should have performed. There are far too many errors of this sort for me to enumerate, and anyway, this book is more about philosophy and mind set than it is about analytical processes. One type of analytical error that.
 
-By that I mean either being unable to conceive of the full range of possible outcomes or not fully understanding the consequences of the more extreme occurrences. I go into this subject at greater length in the next section. Many of the psychological or emotional sources of error were discussed in previous chapters, greed and fear, willingness to suspend disbelief and skepticism, ego nenvi, the drive to pursue high returns through risk bearing, and the tendency to overrate one’s foreknowledge. These things contribute to booms and busts, in which most investors join together to do exactly the wrong thing.
+I do want to spend some time on, however, is what. I call failure of imagination. By that. I mean either being unable to conceive of the full range of possible outcomes or not fully understanding the consequences of the more extreme occurrences.
 
-Another important pitfall, largely psychological, but important enough to constitute its own category, is the failure to recognize market cycles and manias and move in the opposite direction. Extremes in cycles and trends don’t occur often, and thus they’re not a frequent source of error, but they give rise to the largest errors. The power of herd psychology to compel conformity and capitulation is nearly irresistible, making it essential that investors resist them. These, too, were discussed earlier.
+I go into this subject at greater length in the next section. Many of the psychological or emotional sources of error were discussed in previous chapters, greed and fear, willingness to suspend disbelief and skepticism, ego nenvi, the drive to pursue high returns through risk bearing, and the tendency to overrate one’s foreknowledge. These things contribute to booms and busts, in which most investors join together to do exactly the wrong thing. Another important pitfall, largely psychological, but important enough to constitute its own category, is the failure to recognize market cycles and manias and move in the opposite direction.
 
-Failure of imagination, the inability to understand and advance the full breadth of the range of outcomes, is particularly interesting, and it takes effect in many ways. As I’ve said before, investing consists entirely of dealing with the future. In order to invest we must have a view of what the future will look like. In general, we have little choice.
+Extremes in cycles and trends don’t occur often, and thus they’re not a frequent source of error, but they give rise to the largest errors. The power of herd psychology to compel conformity and capitulation is nearly irresistible, making it essential that investors resist them. These, too, were discussed earlier. Failure of imagination, the inability to understand and advance the full breadth of the range of outcomes, is particularly interesting, and it takes effect in many ways.
 
-But to assume it will look pretty much like the past. Thus, it’s relatively uncommon for anyone. To say, the average price slash earnings ratio on U. S. stocks has been 15 over the last 50 years, and I predict that in the coming years it will be 10 or 20. So most investors extrapolate the past into the future, and, in particular, the recent past.
+As. I’ve said before, investing consists entirely of dealing with the future. In order to invest we must have a view of what the future will look like. In general, we have little choice.
 
-Why the recent past? First, many important financial phenomena follow long cycles, meaning those who experience an extreme event often retire or die off before the next recurrence.
+But to assume it will look pretty much like the past. Thus, it’s relatively uncommon for anyone. To say, the average price slash earnings ratio on U. S. stocks has been 15 over the last 50 years, and.
 
-Second, as John Kenneth Galbraith said, the financial memory tends to be extremely short. And third, any chance of remembering tends to be erased by the promise of easy money that’s inevitably a part of the latest investment fad. Most of the time the future is indeed like the past, so extrapolation doesn’t do any harm. But at the important turning points, when the future stops being like the past, extrapolation fails and large amounts of money are either lost or not made.
+I predict that in the coming years it will be 10 or 20. So most investors extrapolate the past into the future, and, in particular, the recent past. Why the recent past?
 
-Thus, it’s. Important to return to Bruce Newberg’s pithy observation about the big difference between. Probability and outcome. Things that aren’t supposed to happen do happen.
+First, many important financial phenomena follow long cycles, meaning those who experience an extreme event often retire or die off before the next recurrence. Second, as John Kenneth Galbraith said, the financial memory tends to be extremely short. And third, any chance of remembering tends to be erased by the promise of easy money that’s inevitably a part of the latest investment fad. Most of the time the future is indeed like the past, so extrapolation doesn’t do any harm.
 
-Short-run outcomes can diverge from the long-run probabilities, and occurrences can cluster. For example, double sixes should come up once in every 36 rolls of the dice. But they can come up five times in a row, and never again in the next 175 rolls, and in the long run have occurred as often as they’re supposed to. Relying to excess on the fact that something should happen can kill you when it doesn’t.
+But at the important turning points, when the future stops being like the past, extrapolation fails and large amounts of money are either lost or not made. Thus, it’s. Important to return to Bruce Newberg’s pithy observation about the big difference between. Probability and outcome.
 
-Even if you properly understand the underlying probability distribution, you can’t count on things happening as they’re supposed to. And the success of your investment actions shouldn’t be highly dependent on normal outcomes prevailing, instead, you must allow for outliers. Investors make investments only because they expect them to work out, and their analysis will center on the likely scenarios. But they.
+Things that aren’t supposed to happen do happen. Short-run outcomes can diverge from the long-run probabilities, and occurrences can cluster.
 
-Mustn’t fixate on that which is supposed to happen to the exclusion of the other possibilities. And load up on risk and leverage to the point where negative outcomes will do them in.
+For example, double sixes should come up once in every 36 rolls of the dice. But they can come up five times in a row, and never again in the next 175 rolls, and in the long run have occurred as often as they’re supposed to. Relying to excess on the fact that something should happen can kill you when it doesn’t. Even if you properly understand the underlying probability distribution, you can’t count on things happening as they’re supposed to.
+
+And the success of your investment actions shouldn’t be highly dependent on normal outcomes prevailing, instead, you must allow for outliers. Investors make investments only because they expect them to work out, and their analysis will center on the likely scenarios. But they. Mustn’t fixate on that which is supposed to happen to the exclusion of the other possibilities.
+
+And load up on risk and leverage to the point where negative outcomes will do them in.
 
 
 <a id="sec-054251"></a>
@@ -2099,15 +2203,15 @@ And the limit is different for each investor. There’s another important aspect
 
 But few people understand asset correlation, how one asset will react to a change in another, or that two assets will react similarly to a change in a third. Understanding and anticipating the power of correlation, and thus the limitations of diversification, is a principal aspect of risk control and portfolio management, but it’s very hard to accomplish. The failure to correctly anticipate co-movement within a portfolio is a critical source of investment error. Automakers often fail to appreciate the common threads that run through portfolios.
 
-Everyone knows that if one automaker’s stock falls, factors they have in common could make all auto stocks decline simultaneously. Fewer people understand the connections that could make all US stocks fall, or all stocks in the developed world, or all. Stocks worldwide, or all stocks and bonds, etc. So failure of imagination consists in the first. Instance of not anticipating the possible extremeness of future events, and in the second instance of failing to understand the knock on consequences of extreme events.
+Everyone knows that if one automaker’s stock falls, factors they have in common could make all auto stocks decline simultaneously. Fewer people understand the connections that could make all US stocks fall, or all stocks in the developed world, or all. Stocks worldwide, or all stocks and bonds, etc. So failure of imagination consists in the first.
 
-In the recent credit crisis, some skeptics may have suspected that subprime mortgages would default in large numbers, but not necessarily that the ramifications would spread far beyond the mortgage market. Few people envisioned the mortgage collapse, but far fewer anticipated that as a result commercial paper and money market funds would be compromised, or that Lehman Brothers, Bear Stearns and Merrill Lynch would cease to exist as independent companies, or that General Motors and Chrysler would fie low for bankruptcy and require bailouts. In many ways, psychological forces are some of the most interesting sources of investment error.
+Instance of not anticipating the possible extremeness of future events, and in the second instance of failing to understand the knock on consequences of extreme events. In the recent credit crisis, some skeptics may have suspected that subprime mortgages would default in large numbers, but not necessarily that the ramifications would spread far beyond the mortgage market. Few people envisioned the mortgage collapse, but far fewer anticipated that as a result commercial paper and money market funds would be compromised, or that Lehman Brothers, Bear Stearns and Merrill Lynch would cease to exist as independent companies, or that General Motors and Chrysler would fie low for bankruptcy and require bailouts.
 
-They can greatly influence security prices. When they cause some investors to take an extreme view that isn’t balanced out by others, these forces can. Make prices go way too high or way too low. This is the origin of bubbles and crashes.
+In many ways, psychological forces are some of the most interesting sources of investment error. They can greatly influence security prices. When they cause some investors to take an extreme view that isn’t balanced out by others, these forces can. Make prices go way too high or way too low.
 
-How? Are investors harmed by these forces? By succumbing to them by participating unknowingly in markets that have been distorted by others succumbing by failing to take advantage when those distortions are present? Are these all the same thing?
+This is the origin of bubbles and crashes. How? Are investors harmed by these forces? By succumbing to them by participating unknowingly in markets that have been distorted by others succumbing by failing to take advantage when those distortions are present?
 
-I don’t think so.
+Are these all the same thing? I don’t think so.
 
 
 <a id="sec-054751"></a>
@@ -2123,17 +2227,21 @@ Nevertheless, participating, even unknowingly, in a market that has become eleva
 
 Them. Most investors would hope to not buy, or perhaps even to sell, when greed has driven. A stock’s price too high. But superior investors might sell it short in order to profit when the price falls.
 
-Committing the third form of error, example, failing to short an overvalued stock, is a different kind of mistake, an error of omission, but probably one most investors would be. Willing to live with. As I mentioned before, among the pitfalls attributable to psychology is investors' occasional willingness to accept the novel rationales that underlie bubbles and crashes, usually out of a belief that, it’s different this time. In bullish markets, inadequate skepticism makes this a frequent occurrence, as investors accept that some new development will change the world, patterns that have been the rule in the past, like the ups and downs of the business cycle, will no longer occur, the rules have been changed, such as the standards that determine whether companies are creditworthy and their debt worth holding, or, traditional valuation norms are no longer relevant, including price slash earnings ratios for.
+Committing the third form of error, example, failing to short an overvalued stock, is a different kind of mistake, an error of omission, but probably one most investors would be. Willing to live with. As. I mentioned before, among the pitfalls attributable to psychology is investors' occasional willingness to accept the novel rationales that underlie bubbles and crashes, usually out of a belief that, it’s different this time.
 
-Stocks yield spreads for bonds or capitalization rates for real estate. Because of the way the pendulum swings, see chapter 9, these errors often occur simultaneously, when investors become too believing in default on the requirement to be. Skeptical. There’s always a rational, perhaps even a sophisticated, explanation of why.
+In bullish markets, inadequate skepticism makes this a frequent occurrence, as investors accept that some new development will change the world, patterns that have been the rule in the past, like the ups and downs of the business cycle, will no longer occur, the rules have been changed, such as the standards that determine whether companies are creditworthy and their debt worth holding, or, traditional valuation norms are no longer relevant, including price slash earnings ratios for. Stocks yield spreads for bonds or capitalization rates for real estate.
 
-Some eighth wonder of the world will work in the investor’s favor. However, the explainer usually forgets to mention that, a, the new phenomenon would represent a departure from history, b, it requires things to go right, c, many other things could happen instead and, d, many of those might be disastrous. The essential first step in avoiding pitfalls consists of being on the lookout for them. The combination of greed and optimism repeatedly leads people to pursue strategies they hope will produce high returns without high risk, pay elevated prices for securities that are in vogue, and hold things after they have become highly priced in the hope there’s still some appreciation left.
+Because of the way the pendulum swings, see chapter 9, these errors often occur simultaneously, when investors become too believing in default on the requirement to be. Skeptical. There’s always a rational, perhaps even a sophisticated, explanation of why. Some eighth wonder of the world will work in the investor’s favor.
+
+However, the explainer usually forgets to mention that, a, the new phenomenon would represent a departure from history, b, it requires things to go right, c, many other things could happen instead and, d, many of those might be disastrous. The essential first step in avoiding pitfalls consists of being on the lookout for them. The combination of greed and optimism repeatedly leads people to pursue strategies they hope will produce high returns without high risk, pay elevated prices for securities that are in vogue, and hold things after they have become highly priced in the hope there’s still some appreciation left.
 
 Afterwards, hindsight shows everyone what went wrong, that expectations were unrealistic and risks were ignored. But learning about pitfalls through painful experience is of only limited help. The key is to try to anticipate them. To illustrate, I turn to the recent credit crisis.
 
-The markets are a classroom where lessons are taught every day. The keys to investment success lie in observing and learning. In December 2007, with the subprime problem well underway and its potential for contagion to other markets in the process of becoming clear, I set out to enumerate the lessons that I thought should be learned from it. By the time I completed that task, I realized that these weren’t just the lessons of the latest crisis, but key lessons for all time.
+The markets are a classroom where lessons are taught every day. The keys to investment success lie in observing and learning. In December 2007, with the subprime problem well underway and its potential for contagion to other markets in the process of becoming clear, I set out to enumerate the lessons that. I thought should be learned from it.
 
-While I’ve touched on many of these elsewhere, you may benefit from seeing them all together in one place. What we learn from a crisis,
+By the time. I completed that task, I realized that these weren’t just the lessons of the latest crisis, but key lessons for all time. While. I’ve touched on many of these elsewhere, you may benefit from seeing them all together in one place.
+
+What we learn from a crisis,
 
 
 <a id="sec-055256"></a>
@@ -2147,23 +2255,23 @@ The inevitable results include delinquencies, bankruptcies and losses. When capi
 
 Thus, the bids for investments can be viewed as a statement of how little return investors demand and how much risk they’re willing to accept. Widespread disregard for risk creates great risk. Nothing can go wrong. No price is too high.
 
-Someone will always pay me more for it. If I. Don’t move quickly, someone else will buy it. Statements like these indicate that risk is being.
+Someone will always pay me more for it. If. I. Don’t move quickly, someone else will buy it.
 
-Given short shrift. This cycles version saw people think that because they were buying better companies or financing with more borrower-friendly debt, buyout transactions could support larger and larger amounts of leverage. This caused them to ignore the risk of. Untoward developments and the danger inherent in highly leveraged capital structures.
+Statements like these indicate that risk is being. Given short shrift. This cycles version saw people think that because they were buying better companies or financing with more borrower-friendly debt, buyout transactions could support larger and larger amounts of leverage. This caused them to ignore the risk of.
 
-Inadequate due diligence leads to investment losses. The best defense against loss is thorough, insightful analysis and insistence on what Warren Buffett calls, margin for error. In hot markets, people worry about missing out, not about losing money, and time-consuming, skeptical analysis becomes the province of old fogies. In heady times, capital is devoted to innovative investments, many of which fail the test of time.
+Untoward developments and the danger inherent in highly leveraged capital structures. Inadequate due diligence leads to investment losses. The best defense against loss is thorough, insightful analysis and insistence on what Warren Buffett calls, margin for error. In hot markets, people worry about missing out, not about losing money, and time-consuming, skeptical analysis becomes the province of old fogies.
 
-Bullish investors focus on what might work, not what might go wrong. Eagerness takes over from prudence, causing people to accept new investment products they don’t understand. Later, they wonder what they could have been thinking. Hidden fault lines running through portfolios can make the prices of seemingly unrelated assets move in tandem.
+In heady times, capital is devoted to innovative investments, many of which fail the test of time. Bullish investors focus on what might work, not what might go wrong. Eagerness takes over from prudence, causing people to accept new investment products they don’t understand. Later, they wonder what they could have been thinking.
 
-It’s easier to assess the return and risk of an investment than to understand how it will move relative to others. Correlation is often underestimated, especially because of the degree to which it increases. In crisis. A portfolio may appear to be diversified as to asset class, industry and geography, but in tough times, non-fundamental factors such as margin calls, frozen markets and a general rise in risk aversion can become dominant, affecting everything similarly.
+Hidden fault lines running through portfolios can make the prices of seemingly unrelated assets move in tandem. It’s easier to assess the return and risk of an investment than to understand how it will move relative to others. Correlation is often underestimated, especially because of the degree to which it increases. In crisis.
 
-Psychological and technical factors can swamp fundamentals. In the long run, value creation and destruction are driven by fundamentals such as economic trends, company’s earnings, demand for products and the skillfulness of managements. But in the short run, markets are highly responsive to investor psychology and the technical factors that influence the supply and demand for assets.
+A portfolio may appear to be diversified as to asset class, industry and geography, but in tough times, non-fundamental factors such as margin calls, frozen markets and a general rise in risk aversion can become dominant, affecting everything similarly. Psychological and technical factors can swamp fundamentals. In the long run, value creation and destruction are driven by fundamentals such as economic trends, company’s earnings, demand for products and the skillfulness of managements. But in the short run, markets are highly responsive to investor psychology and the technical factors that influence the supply and demand for assets.
 
 In fact, I think confidence matters more than anything else in the short run. Anything can happen in this regard, with results that are both unpredictable and irrational. Markets change, invalidating models. Accounts of the difficulties of quant funds.
 
-Center on the failure of computer models and their underlying assumptions. The computers. That run portfolios attempt primarily to profit from patterns that held true in past markets. They can’t predict changes in those patterns, they can’t anticipate aberrant periods, and thus they generally overestimate the reliability of past norms. Leverage magnifies outcomes but doesn’t add value.
+Center on the failure of computer models and their underlying assumptions. The computers. That run portfolios attempt primarily to profit from patterns that held true in past markets. They can’t predict changes in those patterns, they can’t anticipate aberrant periods, and thus they generally overestimate the reliability of past norms.
 
-It can make great sense to use leverage to increase your investment in assets at bargain prices offering high-promised returns or generous risk premiums. But it can be dangerous to use leverage to buy more of assets that offer low returns or narrow risk spreads, in other words, assets that are fully priced or overpriced. It makes little sense to use leverage to try to turn inadequate returns into adequate returns.
+Leverage magnifies outcomes but doesn’t add value. It can make great sense to use leverage to increase your investment in assets at bargain prices offering high-promised returns or generous risk premiums. But it can be dangerous to use leverage to buy more of assets that offer low returns or narrow risk spreads, in other words, assets that are fully priced or overpriced. It makes little sense to use leverage to try to turn inadequate returns into adequate returns.
 
 
 <a id="sec-055759"></a>
@@ -2185,11 +2293,11 @@ The answers lay in taking note of the carefree, in cautious behavior of others, 
 
 Although almost nothing performed well in the meltdown of 2008, it was possible as a result of elevated caution to lose less than others and reduce the pain. While it was nigh unto impossible to avoid declines completely, relative outperformance in the form of smaller losses was enough to let you do better in the decline and take greater advantage of the rebound. The crisis was rife with potential pitfalls, first, opportunities to succumb and lose, and then opportunities to go into a shell and miss out.
 
-In periods that are relatively loss-free, people tend to think of risk as volatility and become convinced they can live with it. If that were true, they would experience markdowns, invest more at the lows and go on to enjoy the recovery, coming out ahead in the long run. But if the ability to live with volatility and maintain one’s composure has been overestimated, and usually it has, that error tends to come to light when the market is at its nadir. Loss of confidence and resolve can cause investors to sell at the bottom, converting downward fluctuations into permanent losses and preventing them from participating fully in the subsequent recovery.
+In periods that are relatively loss-free, people tend to think of risk as volatility and become convinced they can live with it. If that were true, they would experience markdowns, invest more at the lows and go on to enjoy the recovery, coming out ahead in the long run. But if the ability to live with volatility and maintain one’s composure has been overestimated, and usually it has, that error tends to come to light when the market is at its nadir.
 
-This is the greatest error in investing, the most unfortunate aspect of pro-cyclical behavior, because of its permanence and because it tends to affect large portions of portfolios. Since countercyclical behavior was the essential element in avoiding the full effect of the recent crisis, behaving pro-cyclically presented the greatest potential pitfall. Investors who maintained their bullish positions as the market rose, or added to them, were least prepared for the bust and the subsequent recovery. The declines had maximum psychological impact.
+Loss of confidence and resolve can cause investors to sell at the bottom, converting downward fluctuations into permanent losses and preventing them from participating fully in the subsequent recovery. This is the greatest error in investing, the most unfortunate aspect of pro-cyclical behavior, because of its permanence and because it tends to affect large portions of portfolios. Since countercyclical behavior was the essential element in avoiding the full effect of the recent crisis, behaving pro-cyclically presented the greatest potential pitfall.
 
-Margin calls and confi scat ions of collateral decimated levered vehicles. Troubled holdings required remedial action that occupied managers.
+Investors who maintained their bullish positions as the market rose, or added to them, were least prepared for the bust and the subsequent recovery. The declines had maximum psychological impact. Margin calls and confi scat ions of collateral decimated levered vehicles. Troubled holdings required remedial action that occupied managers.
 
 
 <a id="sec-060303"></a>
@@ -2203,21 +2311,23 @@ Second, being in a better frame of mind and better financial condition, they are
 
 Correspondingly, their gains in 2009 were the best in their history. Surviving the declines and buying at the resultant lows was a great formula for success, especially relative success, but first it required the. Avoidance of pitfalls. The formula for error is simple, but the ways it appears are infinite.
 
-Far too many to allow enumeration. Here are the usual ingredients, data or calculation error in the analytical process leads to incorrect appraisal of value, the full range of possibilities. Or their consequences is underestimated, greed, fear, envy, ego, suspension of disbelief, conformity or capitulation, or some combination of these, moves to an extreme, as a result, either risk taking or risk avoidance becomes excessive, prices diverge significantly from value, and investors fail to notice this divergence and perhaps contribute to its furtherance. Ideally, astute and prudent second level thinkers take note of the analytical error as well as the failure of other investors to react appropriately.
+Far too many to allow enumeration. Here are the usual ingredients, data or calculation error in the analytical process leads to incorrect appraisal of value, the full range of possibilities. Or their consequences is underestimated, greed, fear, envy, ego, suspension of disbelief, conformity or capitulation, or some combination of these, moves to an extreme, as a result, either risk taking or risk avoidance becomes excessive, prices diverge significantly from value, and investors fail to notice this divergence and perhaps contribute to its furtherance.
 
-They detect over or underpriced assets in the context of two hot or too cool markets. They set their course to avoid the mistakes others are making and hopefully take advantage instead. The upshot of investment error is simple to define, prices that differ from intrinsic value. Detecting it and acting on it are less simple.
+Ideally, astute and prudent second level thinkers take note of the analytical error as well as the failure of other investors to react appropriately. They detect over or underpriced assets in the context of two hot or too cool markets. They set their course to avoid the mistakes others are making and hopefully take advantage instead. The upshot of investment error is simple to define, prices that differ from intrinsic value.
 
-The fascinating and challenging thing is that the error moves around. Sometimes. Prices are too high and sometimes they’re too low. Sometimes the divergence of price from.
+Detecting it and acting on it are less simple. The fascinating and challenging thing is that the error moves around. Sometimes. Prices are too high and sometimes they’re too low.
 
-Value affects individual securities or assets and sometimes whole markets, sometimes one market and sometimes another. Sometimes the error lies in doing something and sometimes in not doing it, sometimes in being bullish and sometimes in being bearish. And, of course, by definition most people go along with the error since without their concurrence it couldn’t exist. Acting in the opposite direction requires the adoption of a contrarian position with the loneliness and feeling of being wrong that it can bring for long periods.
+Sometimes the divergence of price from. Value affects individual securities or assets and sometimes whole markets, sometimes one market and sometimes another. Sometimes the error lies in doing something and sometimes in not doing it, sometimes in being bullish and sometimes in being bearish. And, of course, by definition most people go along with the error since without their concurrence it couldn’t exist.
 
-As with the rest of the tasks discussed in this book, avoiding pitfalls and identifying and acting on error aren’t susceptible to rules, algorithms or roadmaps. What I would urge is awareness, flexibility, and a mindset that is focused on taking cues from the environment. One way to improve investment results, which we try hard to apply at Oaktree, is to think about what. Today’s mistake might be and try to avoid it.
+Acting in the opposite direction requires the adoption of a contrarian position with the loneliness and feeling of being wrong that it can bring for long periods. As with the rest of the tasks discussed in this book, avoiding pitfalls and identifying and acting on error aren’t susceptible to rules, algorithms or roadmaps. What. I would urge is awareness, flexibility, and a mindset that is focused on taking cues from the environment.
 
-There are times in investing when the likely. Mistake consists of, not buying, not buying enough, not making one more bid in an auction, holding too much cash, not using enough leverage or if not taking enough risk. I don’t think that describes 2004. I’ve always heard that no one awaiting heart surgery ever complained, I wish I’d gone to the office more.
+One way to improve investment results, which we try hard to apply at Oaktree, is to think about what. Today’s mistake might be and try to avoid it. There are times in investing when the likely. Mistake consists of, not buying, not buying enough, not making one more bid in an auction, holding too much cash, not using enough leverage or if not taking enough risk.
 
-Well, likewise, I don’t think anyone in the next few years is going to look back and say, I wish I’d invested more in 2004. Rather, I think this year’s mistake is going to turn out to be, buying too much, buying too aggressively, making one bid too many, using too much leverage and taking too much risk in the pursuit of superior returns. There are times when the investing errors are of omission, the things you should have done but didn’t. Today I think the errors are probably of commission, the things you shouldn’t have done but did.
+I don’t think that describes 2004. I’ve always heard that no one awaiting heart surgery ever complained, I wish. I’d gone to the office more. Well, likewise, I don’t think anyone in the next few years is going to look back and say, I wish.
 
-There are times for aggressiveness. I think this is a time for caution. Risk in return today, October 27, 2004.
+I’d invested more in 2004. Rather, I think this year’s mistake is going to turn out to be, buying too much, buying too aggressively, making one bid too many, using too much leverage and taking too much risk in the pursuit of superior returns. There are times when the investing errors are of omission, the things you should have done but didn’t. Today.
+
+I think the errors are probably of commission, the things you shouldn’t have done but did. There are times for aggressiveness. I think this is a time for caution. Risk in return today, October 27, 2004.
 
 Finally, it’s important to bear
 
@@ -2233,13 +2343,13 @@ The performance of investors who add value is asymmetrical. The percentage of th
 
 It’s not hard to perform in line with the market in terms of risk and return. The trick is to do better than the market, to add value. This calls for superior investment skill, superior insight. So here, near the end of the book, we come around full circle to the first chapter and second level thinkers possessing exceptional skill.
 
-The purpose of this chapter is to explain what it means for skillful investors to add value. To accomplish that, I’m going to introduce two terms from investment theory. One is beta, a measure of a portfolio’s relative sensitivity to market movements. The other is alpha, which I define as personal investment skill or the ability to generate performance that is unrelated to movement of the market.
+The purpose of this chapter is to explain what it means for skillful investors to add value. To accomplish that, I’m going to introduce two terms from investment theory. One is beta, a measure of a portfolio’s relative sensitivity to market movements. The other is alpha, which.
 
-As I mentioned earlier, it’s easy to achieve the market return. A passive index fund will produce just that result by holding every security in a given market index in proportion to its equity. Capitalization. Thus, it mirrors the characteristics, example, upside potential, downside risk, beta.
+I define as personal investment skill or the ability to generate performance that is unrelated to movement of the market. As. I mentioned earlier, it’s easy to achieve the market return. A passive index fund will produce just that result by holding every security in a given market index in proportion to its equity.
 
-Or volatility, growth, richness or cheapness, quality or lack of same of the selected index and delivers its return. It epitomizes investing without value added. Let’s say, then, that all equity investors start not with a blank sheet of paper, but rather with the possibility of simply emulating an index. They can go out and passively buy a market weighted amount of each stock in the index, in which case their performance will be the same as that of the index.
+Capitalization. Thus, it mirrors the characteristics, example, upside potential, downside risk, beta. Or volatility, growth, richness or cheapness, quality or lack of same of the selected index and delivers its return. It epitomizes investing without value added.
 
-Or they can try for outperformance through active rather than passive investing. Active investors have a number of options available to them.
+Let’s say, then, that all equity investors start not with a blank sheet of paper, but rather with the possibility of simply emulating an index. They can go out and passively buy a market weighted amount of each stock in the index, in which case their performance will be the same as that of the index. Or they can try for outperformance through active rather than passive investing. Active investors have a number of options available to them.
 
 First, they can decide to make their portfolio more aggressive or more defensive than the index, either on a permanent basis or in an attempt at market timing. If investors choose aggressiveness, for example, they can increase their portfolio’s market sensitivity by over weighting those stocks in the index that typically fluctuate more than the rest or by utilizing leverage. Doing these things will increase the systematic riskiness of a portfolio, its beta.
 
@@ -2247,9 +2357,11 @@ However, theory says that while this may increase a portfolio’s return, the re
 
 Second, investors can decide to deviate from the index in order to exploit their stock picking ability, buying more of some stocks in the index, underweighting or excluding others, and adding some stocks that aren’t part of the index. In doing so they will alter the exposure of their portfolios to specific events that occur at individual companies and thus to price movements that affect only certain stocks, not the whole index. As the composition of their portfolios diverges from the index for non-systematic, we might say, idiosyncratic, reasons, their return will deviate as well.
 
-In the long run, however, unless the investors have superior insight, these deviations will cancel out and their risk-adjusted performance will converge with that of the index. Active investors who don’t possess the superior insight described in Chapter 1 are no better than passive investors, and their portfolios shouldn’t be expected to perform better than a passive portfolio. They can try hard, put their emphasis on offense or defense, or trade up a storm, but their risk-adjusted performance shouldn’t be expected to be better than a passive portfolio.
+In the long run, however, unless the investors have superior insight, these deviations will cancel out and their risk-adjusted performance will converge with that of the index. Active investors who don’t possess the superior insight described in.
 
-And it could be worse due to non-systematic risks born and transaction costs that are unavailing. That doesn’t mean that if the market index goes up 15%, every non-value,
+#### Chapter 1 are no better than passive investors, and their portfolios shouldn’t be expected to perform better than a passive portfolio.
+
+They can try hard, put their emphasis on offense or defense, or trade up a storm, but their risk-adjusted performance shouldn’t be expected to be better than a passive portfolio. And it could be worse due to non-systematic risks born and transaction costs that are unavailing. That doesn’t mean that if the market index goes up 15%, every non-value,
 
 
 <a id="sec-061308"></a>
@@ -2265,17 +2377,19 @@ It also says returns don’t increase to compensate for risk other than systemat
 
 Since that risk can be eliminated by diversifying, why should investors be compensated with additional return for bearing it? According to theory, then, the formula for explaining portfolio performance, Y, is as follows, Y equals alpha plus beta X here alpha is. The symbol for alpha, beta stands for beta, and X is the return of the market. The market related.
 
-Return of the portfolio is equal to its beta times the market return, and alpha, skill-related return, is added to arrive at the total return, of course, theory says there’s no such thing as alpha. Although I dismiss the identity between risk and volatility, I insist on considering a portfolio’s return in the light of its overall riskiness, as discussed earlier. A manager who earned 18% with a risky portfolio isn’t necessarily superior to one who earned 15% with a lower-risk portfolio. Risk, adjusted return holds the key, even though, since risk other than volatility can’t be quantified, I feel it is best assessed judgmentally, not calculated scientifically.
+Return of the portfolio is equal to its beta times the market return, and alpha, skill-related return, is added to arrive at the total return, of course, theory says there’s no such thing as alpha. Although. I dismiss the identity between risk and volatility, I insist on considering a portfolio’s return in the light of its overall riskiness, as discussed earlier. A manager who earned 18% with a risky portfolio isn’t necessarily superior to one who earned 15% with a lower-risk portfolio.
 
-Of course, I also dismiss the idea that the alpha term in the equation has to be zero. Investment skill exists, even though not everyone has it. Only through thinking about risk, adjusted return might we determine whether an investor possesses. Superior insight, investment skill or alpha, that is, whether the investor adds value.
+Risk, adjusted return holds the key, even though, since risk other than volatility can’t be quantified, I feel it is best assessed judgmentally, not calculated scientifically. Of course, I also dismiss the idea that the alpha term in the equation has to be zero. Investment skill exists, even though not everyone has it. Only through thinking about risk, adjusted return might we determine whether an investor possesses.
 
-It’s. Important to keep these considerations in mind when assessing an investor’s skill and when comparing the record of a defensive investor and an aggressive investor. You might call this process style adjusting. In a bad year, defensive investors lose less than aggressive investors.
+Superior insight, investment skill or alpha, that is, whether the investor adds value. It’s. Important to keep these considerations in mind when assessing an investor’s skill and when comparing the record of a defensive investor and an aggressive investor. You might call this process style adjusting.
 
-Did they add value? Not necessarily. In a good year, aggressive investors make more than defensive investors. Did they do a better job?
+In a bad year, defensive investors lose less than aggressive investors. Did they add value? Not necessarily. In a good year, aggressive investors make more than defensive investors.
 
-Few people would say yes without further investigation. A single year says almost nothing about skill, especially when the results are in line with what would be expected on the basis of the investor’s style. It means relatively little that a risk taker achieves a high return in a rising market or that a conservative investor is able to minimize losses in a decline. The real question is how they do in the long run and in climates for which their style is ill-suited.
+Did they do a better job? Few people would say yes without further investigation. A single year says almost nothing about skill, especially when the results are in line with what would be expected on the basis of the investor’s style. It means relatively little that a risk taker achieves a high return in a rising market or that a conservative investor is able to minimize losses in a decline.
 
-A two-by-two matrix tells. The story. Aggressive investor defensive investor without skill gains a lot when the market. Goes up and loses a lot when the market goes down doesn’t lose much when the market goes down but doesn’t gain much when the market goes up with skill gains a lot when the market goes up but doesn’t lose to the same degree when the market goes down doesn’t lose much when the market goes down but captures a fair bit of the gain when the market goes up the key to this matrix is the symmetry or a symmetry of the performance.
+The real question is how they do in the long run and in climates for which their style is ill-suited. A two-by-two matrix tells. The story. Aggressive investor defensive investor without skill gains a lot when the market.
+
+Goes up and loses a lot when the market goes down doesn’t lose much when the market goes down but doesn’t gain much when the market goes up with skill gains a lot when the market goes up but doesn’t lose to the same degree when the market goes down doesn’t lose much when the market goes down but captures a fair bit of the gain when the market goes up the key to this matrix is the symmetry or a symmetry of the performance.
 
 Investors who lack skill simply earn the return of the market and the dictates of their style.
 
@@ -2289,27 +2403,27 @@ On the other hand, the performance of investors who add value is asymmetrical. T
 
 Skill do well in bull markets but don’t give it all back in corresponding bear markets while defensive investors with skill lose relatively little in bear markets but participate reasonably in bull markets. Everything in investing is a two-edged sword and operates symmetrically with the exception of superior skill. Only skill can be counted on to add more and propitious. Environments than it costs in hostile ones.
 
-This is the investment asymmetry we seek. Superior skill is the prerequisite for it. Here’s how I describe Oaktree’s performance aspirations. In good years in the market, it’s good enough to be average.
+This is the investment asymmetry we seek. Superior skill is the prerequisite for it. Here’s how. I describe Oaktree’s performance aspirations.
 
-Everyone makes money in the good years, and I have yet to hear anyone explain convincingly why it’s important to beat the market when the market does well. No, in the good year’s average is good enough. There is a time, however, when we consider it essential to beat the market, and that’s in the bad years. Our clients don’t expect to bear the full brunt of market losses when they occur, and neither do we.
+In good years in the market, it’s good enough to be average. Everyone makes money in the good years, and. I have yet to hear anyone explain convincingly why it’s important to beat the market when the market does well. No, in the good year’s average is good enough.
 
-Thus, it’s our goal to do as well as the market and it does well and better than the market when it does poorly. At first blush, that may sound like a modest goal, but it’s really quite ambitious. In order to stay up with the market when it does, well, a portfolio has to incorporate good measures of beta and correlation with the market. But if we’re aided by beta and correlation on the way up, shouldn’t they be expected to hurt us on the way down?
+There is a time, however, when we consider it essential to beat the market, and that’s in the bad years. Our clients don’t expect to bear the full brunt of market losses when they occur, and neither do we. Thus, it’s our goal to do as well as the market and it does well and better than the market when it does poorly. At first blush, that may sound like a modest goal, but it’s really quite ambitious.
 
-If we’re consistently able to decline less when the market declines and also participate fully when the market rises, this can be attributable to only one thing, alpha, or skill. That’s an example of value-added investing, and if demonstrated over a period of decades, it has to come from investment skill. Asymmetry, better performance on the upside than on the downside relative to what your style alone would produce, should be every investor’s goal.
+In order to stay up with the market when it does, well, a portfolio has to incorporate good measures of beta and correlation with the market. But if we’re aided by beta and correlation on the way up, shouldn’t they be expected to hurt us on the way down? If we’re consistently able to decline less when the market declines and also participate fully when the market rises, this can be attributable to only one thing, alpha, or skill. That’s an example of value-added investing, and if demonstrated over a period of decades, it has to come from investment skill.
 
-#### Chapter 20 The most important thing is pulling it all together.
+Asymmetry, better performance on the upside than on the downside relative to what your style alone would produce, should be every investor’s goal.
 
-The best foundation for a successful investment, or a successful investment career, is value. You must have a good idea of what the thing you’re considering buying is worth. There are many components to this and many ways to look at it. To oversimplify, there’s cash on the books and the value of the tangible assets, the ability of the company or asset to generate cash, and the potential for these things to increase.
+#### Chapter 20 The most important thing is pulling it all together. The best foundation for a successful investment, or a successful investment career, is value. You must have a good idea of what the thing you’re considering buying is worth. There are many components to this and many ways to look at it.
 
-To achieve superior investment results, your insight into value has to be superior. THS you must learn things others don’t, see things differently or do a better job of analyzing them, ideally, all free. Your view of value has to be based on a solid factual and analytical foundation, and it has to be held firmly. Only then will you know when to buy or sell.
+To oversimplify, there’s cash on the books and the value of the tangible assets, the ability of the company or asset to generate cash, and the potential for these things to increase. To achieve superior investment results, your insight into value has to be superior. THS you must learn things others don’t, see things differently or do a better job of analyzing them, ideally, all free. Your view of value has to be based on a solid factual and analytical foundation, and it has to be held firmly.
 
-Only a strong sense of value will give you the discipline needed to take profits on a highly appreciated asset that everyone thinks will rise non-stop, or the guts to hold an average down in a crisis even as prices go lower every day. Of course, for your efforts in these regards to be profitable, your estimate of value has to be on target. The relationship between price and value holds the ultimate key to investment success. Paying below value is the most dependable route to profit.
+Only then will you know when to buy or sell. Only a strong sense of value will give you the discipline needed to take profits on a highly appreciated asset that everyone thinks will rise non-stop, or the guts to hold an average down in a crisis even as prices go lower every day. Of course, for your efforts in these regards to be profitable, your estimate of value has to be on target. The relationship between price and value holds the ultimate key to investment success.
 
-Paying above value rarely works out as well. What causes an asset to sell below its value? Outstanding buying opportunities exist primarily because perception understates reality. Whereas high quality can be readily apparent, it takes keen insight to detect cheapness. 4.
+Paying below value is the most dependable route to profit. Paying above value rarely works out as well. What causes an asset to sell below its value? Outstanding buying opportunities exist primarily because perception understates reality.
 
-This reason, investors often mistake objective merit for investment opportunity. The superior. Investor never forgets that the goal is to find good buys, not good assets. In addition to giving rise to profit potential, buying when price is below value is a key element in limiting risk.
+Whereas high quality can be readily apparent, it takes keen insight to detect cheapness. 4. This reason, investors often mistake objective merit for investment opportunity. The superior. Investor never forgets that the goal is to find good buys, not good assets.
 
-Neither paying up for high growth nor participating in a hot, momentum market can do the same. The relationship between price and value is influenced by psychology and technicals, forces
+In addition to giving rise to profit potential, buying when price is below value is a key element in limiting risk. Neither paying up for high growth nor participating in a hot, momentum market can do the same. The relationship between price and value is influenced by psychology and technicals, forces
 
 
 <a id="sec-062314"></a>
