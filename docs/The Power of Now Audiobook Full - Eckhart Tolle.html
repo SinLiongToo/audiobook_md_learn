@@ -152,6 +152,76 @@
     }
     .home-link:hover { color: var(--accent-color); }
 
+    /* Top Sticky Header Book Title */
+    .header-book-title {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--text-primary);
+      max-width: 420px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      padding: 4px 10px;
+      border-radius: 8px;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+    }
+    .header-book-title-text {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .header-title-badge {
+      font-size: 11.5px;
+      font-weight: 600;
+      padding: 1px 7px;
+      border-radius: 999px;
+      background-color: var(--accent-light);
+      color: var(--accent-color);
+      flex-shrink: 0;
+    }
+
+    /* Sidebar Book Header Info */
+    .sidebar-book-card {
+      padding: 12px 14px;
+      margin-bottom: 14px;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .sidebar-book-title {
+      font-size: 14px;
+      font-weight: 700;
+      line-height: 1.4;
+      color: var(--text-primary);
+      word-break: break-word;
+    }
+    .sidebar-book-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 6px;
+      font-size: 12px;
+      color: var(--text-secondary);
+    }
+    .sidebar-cat-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 11.5px;
+      font-weight: 600;
+      padding: 2px 8px;
+      border-radius: 6px;
+      background: var(--accent-light);
+      color: var(--accent-color);
+    }
+
     /* In-Page Search Bar Dropdown */
     .inpage-search-bar {
       position: sticky;
@@ -711,6 +781,20 @@
         right: 20px;
         width: auto;
       }
+      .header-book-title {
+        max-width: 260px;
+        font-size: 13px;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .header-book-title {
+        max-width: 170px;
+        font-size: 12.5px;
+      }
+      .header-title-badge {
+        display: none;
+      }
     }
 
     @media (max-width: 640px) {
@@ -720,6 +804,11 @@
       .top-header { padding: 0 10px; }
       .btn-icon { padding: 5px 7px; font-size: 12.5px; }
       [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
+      .header-book-title {
+        max-width: 130px;
+        font-size: 12px;
+        padding: 3px 6px;
+      }
     }
   </style>
 </head>
@@ -735,6 +824,12 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Sticky Book Title in Navigation Bar -->
+      <div class="header-book-title" title="The Power of Now Audiobook Full - Eckhart Tolle">
+        <span>📖</span>
+        <span class="header-book-title-text">The Power of Now Audiobook Full - Eckhart Tolle</span>
+        <span class="header-title-badge">哲學與思辨</span>
+      </div>
       <!-- Search Inside Book Button -->
       <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
         🔍 <span>搜尋內文</span>
@@ -829,6 +924,15 @@
   <div class="layout">
     <!-- Sidebar / TOC -->
     <aside class="sidebar" id="sidebar">
+      <!-- Sidebar Book Header Card -->
+      <div class="sidebar-book-card">
+        <div class="sidebar-book-title">📖 The Power of Now Audiobook Full - Eckhart Tolle</div>
+        <div class="sidebar-book-meta">
+          <span class="sidebar-cat-pill">🧠 哲學與思辨</span>
+          <span>共 73 節</span>
+        </div>
+      </div>
+
       <div class="sidebar-title">
         <span>章節目錄</span>
         <span style="font-size: 12px; font-weight: normal;">共 73 節</span>
